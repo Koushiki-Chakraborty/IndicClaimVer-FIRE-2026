@@ -28,8 +28,6 @@ subtask2_pipeline/       # Subtask 2 -- open-domain (live web) retrieval + verac
   data/                    # dev + official test claims (no fixed evidence pool)
   output/                  # per-claim artifacts + final submission
 
-paper/                   # system description paper (CEUR-WS format) -- gitignored, not
-                          # part of the shipped codebase; see paper/system_description_paper.tex
 ```
 
 **Each pipeline has its own detailed README** — `subtask1_pipeline/README.md`
