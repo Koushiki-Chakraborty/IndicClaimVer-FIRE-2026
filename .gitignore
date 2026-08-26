@@ -5,9 +5,6 @@
 */.env
 **/.env
 
-# --- Paper (draft manuscript, not part of the shipped codebase) --------
-paper/
-
 # --- Python --------------------------------------------------------------
 __pycache__/
 *.pyc

@@ -94,7 +94,7 @@ English 78.05, Hindi 85.88, Bengali 82.46, Code-mixed 79.94.
 **Subtask 2** (official test set, per language, veracity Macro-F1):
 English 76.91, Hindi 68.97, Bengali 62.92, Code-mixed **36.51** — the
 code-mixed collapse here is the single most notable finding across both
-subtasks; see `subtask2_pipeline/README.md` and `paper/` for the analysis.
+subtasks; see `subtask2_pipeline/README.md`
 
 On both subtasks, LLM-based veracity prediction (GPT-4o-mini for Subtask 1,
 Gemini for Subtask 2) meaningfully outperforms the reused, fine-tuned MuRIL
