@@ -5,6 +5,9 @@
 */.env
 **/.env
 
+# --- Paper (must never be pushed to GitHub) -----------------------------
+paper/
+
 # --- Python --------------------------------------------------------------
 __pycache__/
 *.pyc
