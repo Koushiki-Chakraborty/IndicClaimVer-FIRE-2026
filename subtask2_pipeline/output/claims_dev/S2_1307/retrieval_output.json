@@ -1,0 +1,108 @@
+{
+  "claim": {
+    "id": "S2/1307",
+    "text": "Bengal BJP demands civic polls to be postponed due to Covid surge",
+    "lang": "dev"
+  },
+  "generated_queries": {
+    "english_translation": "Bengal BJP demands civic polls to be postponed due to Covid surge",
+    "native_query": "Bengal BJP Covid demands civic polls postponed surge",
+    "english_query": "Bengal BJP Covid demands civic polls postponed surge"
+  },
+  "native_retrieval": [
+    {
+      "title": "Postpone Civic Polls Due To Surge In Covid Cases",
+      "url": "https://www.ndtv.com/india-news/west-bengal-bjp-writes-to-state-election-commission-seeking-postponement-of-civic-polls-amid-surge-in-covid-19-cases-2709158",
+      "snippet": "Jan 15, 2022 — In view of the surge in COVID-19 cases, the West Bengal BJP on Friday wrote to the State Election Commission (SEC) requesting to postpone"
+    },
+    {
+      "title": "Covid Surge in Bengal: BJP Demands 4 Civic Polls to be ...",
+      "url": "https://www.news18.com/news/politics/covid-surge-in-bengal-bjp-demands-4-civic-polls-to-be-postponed-calcutta-hc-seeks-clarity-from-sec-4632107.html",
+      "snippet": "Jan 7, 2022 — Polls at Asansol, Bidhannagar, Siliguri and Chandannagar municipal corporations are scheduled to be held on January 22."
+    },
+    {
+      "title": "BJP Demands 4 Civic Polls to be Postponed, Calcutta HC ...",
+      "url": "https://news18politics.quora.com/https-www-news18-com-news-politics-covid-surge-in-bengal-bjp-demands-4-civic-polls-to-be-postponed-calcutta-hc-seeks-c",
+      "snippet": "On January 6, West Bengal's Covid-19 tally increased to 16,93,744 with 15,421 new positive cases. Total active cases reported as on January 6 were 41,101"
+    },
+    {
+      "title": "Civic Polls Deferred Amidst 3rd Wave Of COVID",
+      "url": "https://www.youtube.com/watch?v=4S-lnykGcko",
+      "snippet": "Amid a massive upswing of Covid-19 cases in the state, the West Bengal government has decided to postpone elections to four municipal"
+    },
+    {
+      "title": "Bengal BJP writes to SEC, seeks deferment of civic polls",
+      "url": "https://www.indiatoday.in/india/story/bengal-bjp-writes-to-sec-seeks-deferment-of-civic-polls-1900255-2022-01-14",
+      "snippet": "Jan 14, 2022 — The West Bengal BJP on Friday wrote to the state election commission (SEC) urging the poll panel to defer civic body polls due on January 22"
+    },
+    {
+      "title": "State Election Commission defers Bengal civic polls in ...",
+      "url": "https://indianexpress.com/article/cities/kolkata/west-bengal-civic-polls-deferred-covid-7724534",
+      "snippet": "Jan 15, 2022 — The municipal elections in Asansol, Bidhannagar, Siliguri and Chandannagar, which were slated to be held on January 22, have been postponed"
+    }
+  ],
+  "english_retrieval": [
+    {
+      "title": "Postpone Civic Polls Due To Surge In Covid Cases",
+      "url": "https://www.ndtv.com/india-news/west-bengal-bjp-writes-to-state-election-commission-seeking-postponement-of-civic-polls-amid-surge-in-covid-19-cases-2709158",
+      "snippet": "Jan 15, 2022 — In view of the surge in COVID-19 cases, the West Bengal BJP on Friday wrote to the State Election Commission (SEC) requesting to postpone"
+    },
+    {
+      "title": "Covid Surge in Bengal: BJP Demands 4 Civic Polls to be ...",
+      "url": "https://www.news18.com/news/politics/covid-surge-in-bengal-bjp-demands-4-civic-polls-to-be-postponed-calcutta-hc-seeks-clarity-from-sec-4632107.html",
+      "snippet": "Jan 7, 2022 — Polls at Asansol, Bidhannagar, Siliguri and Chandannagar municipal corporations are scheduled to be held on January 22."
+    },
+    {
+      "title": "BJP Demands 4 Civic Polls to be Postponed, Calcutta HC ...",
+      "url": "https://news18politics.quora.com/https-www-news18-com-news-politics-covid-surge-in-bengal-bjp-demands-4-civic-polls-to-be-postponed-calcutta-hc-seeks-c",
+      "snippet": "On January 6, West Bengal's Covid-19 tally increased to 16,93,744 with 15,421 new positive cases. Total active cases reported as on January 6 were 41,101"
+    },
+    {
+      "title": "Civic Polls Deferred Amidst 3rd Wave Of COVID",
+      "url": "https://www.youtube.com/watch?v=4S-lnykGcko",
+      "snippet": "Amid a massive upswing of Covid-19 cases in the state, the West Bengal government has decided to postpone elections to four municipal"
+    },
+    {
+      "title": "Bengal BJP writes to SEC, seeks deferment of civic polls",
+      "url": "https://www.indiatoday.in/india/story/bengal-bjp-writes-to-sec-seeks-deferment-of-civic-polls-1900255-2022-01-14",
+      "snippet": "Jan 14, 2022 — The West Bengal BJP on Friday wrote to the state election commission (SEC) urging the poll panel to defer civic body polls due on January 22"
+    },
+    {
+      "title": "State Election Commission defers Bengal civic polls in ...",
+      "url": "https://indianexpress.com/article/cities/kolkata/west-bengal-civic-polls-deferred-covid-7724534",
+      "snippet": "Jan 15, 2022 — The municipal elections in Asansol, Bidhannagar, Siliguri and Chandannagar, which were slated to be held on January 22, have been postponed"
+    }
+  ],
+  "merged_results": [
+    {
+      "title": "Postpone Civic Polls Due To Surge In Covid Cases",
+      "url": "https://www.ndtv.com/india-news/west-bengal-bjp-writes-to-state-election-commission-seeking-postponement-of-civic-polls-amid-surge-in-covid-19-cases-2709158",
+      "snippet": "Jan 15, 2022 — In view of the surge in COVID-19 cases, the West Bengal BJP on Friday wrote to the State Election Commission (SEC) requesting to postpone"
+    },
+    {
+      "title": "Covid Surge in Bengal: BJP Demands 4 Civic Polls to be ...",
+      "url": "https://www.news18.com/news/politics/covid-surge-in-bengal-bjp-demands-4-civic-polls-to-be-postponed-calcutta-hc-seeks-clarity-from-sec-4632107.html",
+      "snippet": "Jan 7, 2022 — Polls at Asansol, Bidhannagar, Siliguri and Chandannagar municipal corporations are scheduled to be held on January 22."
+    },
+    {
+      "title": "BJP Demands 4 Civic Polls to be Postponed, Calcutta HC ...",
+      "url": "https://news18politics.quora.com/https-www-news18-com-news-politics-covid-surge-in-bengal-bjp-demands-4-civic-polls-to-be-postponed-calcutta-hc-seeks-c",
+      "snippet": "On January 6, West Bengal's Covid-19 tally increased to 16,93,744 with 15,421 new positive cases. Total active cases reported as on January 6 were 41,101"
+    },
+    {
+      "title": "Civic Polls Deferred Amidst 3rd Wave Of COVID",
+      "url": "https://www.youtube.com/watch?v=4S-lnykGcko",
+      "snippet": "Amid a massive upswing of Covid-19 cases in the state, the West Bengal government has decided to postpone elections to four municipal"
+    },
+    {
+      "title": "Bengal BJP writes to SEC, seeks deferment of civic polls",
+      "url": "https://www.indiatoday.in/india/story/bengal-bjp-writes-to-sec-seeks-deferment-of-civic-polls-1900255-2022-01-14",
+      "snippet": "Jan 14, 2022 — The West Bengal BJP on Friday wrote to the state election commission (SEC) urging the poll panel to defer civic body polls due on January 22"
+    },
+    {
+      "title": "State Election Commission defers Bengal civic polls in ...",
+      "url": "https://indianexpress.com/article/cities/kolkata/west-bengal-civic-polls-deferred-covid-7724534",
+      "snippet": "Jan 15, 2022 — The municipal elections in Asansol, Bidhannagar, Siliguri and Chandannagar, which were slated to be held on January 22, have been postponed"
+    }
+  ]
+}

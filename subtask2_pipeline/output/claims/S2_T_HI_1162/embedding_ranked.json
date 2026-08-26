@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/HI/1162",
+    "text": "Order II Rule 2 CPC में प्रतिबंध तब लागू नहीं होगा, जब दूसरे मुकदमे में राहत पहले मुकदमे से भिन्न कार्रवाई के कारण पर आधारित हो: सुप्रीम कोर्ट",
+    "lang": "hindi"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "ORDER II RULE 2 CPC BAR WON’T APPLY WHEN RELIEFS IN SECOND SUIT ARE BASED ON A CAUSE OF ACTION DIFFERENT FROM FIRST SUIT – Chandrawat & Partners Law Firm",
+      "url": "https://chandrawatpartners.co/order-ii-rule-2-cpc-bar-wont-apply-when-reliefs-in-second-suit-are-based-on-a-cause-of-action-different-from-first-suit",
+      "snippet": "ORDER II RULE 2 CPC BAR WON’T APPLY WHEN RELIEFS IN SECOND SUIT ARE BASED ON A CAUSE OF ACTION DIFFERENT FROM FIRST SUIT – Chandrawat & Partners Law Firm. **Home** > **Recent Judgements****>**  Order ii Rule 2 Cpc Bar Won’t Apply When Reliefs In Second Suit Are Based On A Cause Of Action Different From First Suit. Order ii Rule 2 Cpc Bar Won’t Apply When Reliefs In Second Suit Are Based On A Cause Of Action Different From First Suit. The Supreme Court held that when the relief prayed for in the subsequent suit is founded on a cause of action different from the first suit, the bar under Order II Rule 2 CPC is not applicable. The Court observed that if the reliefs claimed in the second suit are based on rights or obligations independent of those in the first suit, such reliefs cannot be barred under Order II Rule 2 CPC.",
+      "bm25_score_raw": 15.9198592500147,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9340429306030273,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Second Suit Bar: When Relief Was Unavailable Initially",
+      "url": "https://mahendrabhavsar.com/second-suit-bar-when-relief-was-unavailable-initially-supreme-court-clarifies-order-ii-rule-2-cpc",
+      "snippet": "Supreme Court clarifies Order II Rule 2 CPC: A second suit isn't barred if the relief sought was genuinely unavailable when the first suit",
+      "bm25_score_raw": 6.885371484413344,
+      "bm25_score_norm": 0.3299590895383108,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.932182788848877,
+      "embedding_score_norm": 0.982826571928863,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Supreme Court discusses Order II Rule 2 of CPC | SCC Times",
+      "url": "https://www.scconline.com/blog/post/2025/01/20/supreme-court-discusses-order-ii-rule-2-cpc",
+      "snippet": "“The stage at which the first suit is, would not be a material consideration in deciding the applicability of the bar under Order II Rule 2. What needs to be looked into is whether the cause of action in both suits is one and the same in substance, and whether the plaintiff is agitating the second suit for claiming a relief that was very well available to him at the time of filing the first suit.”. The Court analysed the Order II Rule 2 of the CPC and held that it stipulates the inclusion of the whole claim arising in respect of the same cause of action, in one suit, however, this must not be misunderstood to mean that every suit shall include every claim or every cause of action that the plaintiff may have against the defendant.",
+      "bm25_score_raw": 8.20851294529285,
+      "bm25_score_norm": 0.4280896014299611,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.9260913729667664,
+      "embedding_score_norm": 0.9265886576573305,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Order 2 Rule 2 CPC. Where the right to relief in respect of which a further suit ...",
+      "url": "https://www.facebook.com/groups/1004611326222954/posts/27472619962328730",
+      "snippet": "Bar of second suit applies only when relief claimed in second suit is also available but not claimed in first suit. Relief of specific",
+      "bm25_score_raw": 3.747536991108439,
+      "bm25_score_norm": 0.09724224544923518,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.9126471281051636,
+      "embedding_score_norm": 0.8024670569318291,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Can Suit Relief Become Operative After Adding a Party?",
+      "url": "https://supremetoday.ai/issue/relief-operative-after-adding-party",
+      "snippet": "Amendments to include new relief or parties are allowed under Order 6 Rule 17 CPC, even if such relief becomes barred by limitation after the original period,",
+      "bm25_score_raw": 3.64447434598132,
+      "bm25_score_norm": 0.08959862575908573,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.8698320984840393,
+      "embedding_score_norm": 0.40718490710566546,
+      "embedding_rank": 5
+    },
+    {
+      "title": "वादी की स्वीकारोक्ति के आधार पर Order XII Rule 6 CPC के तहत मुकदमा स्वप्रेरणा से खारिज किया जा सकता है: सुप्रीम कोर्ट | Suits, Suo Motu, CPC, Supreme Court, Order XII Rule 6 CPC, मुकदमा, स्वतः संज्ञान, सुप्रीम कोर्ट, सीपीसी",
+      "url": "https://hindi.livelaw.in/supreme-court/suits-can-be-dismissed-suo-motu-under-order-xii-rule-6-cpc-based-on-plaintiffs-admissions-supreme-court-291461",
+      "snippet": "सुप्रीम कोर्ट ने फैसला सुनाया कि सीपीसी के आदेश XII नियम 6 (Order XII Rule 6 CPC) के तहत कोई अदालत न केवल प्रतिवादी की स्वीकारोक्ति के आधार पर वादी के पक्ष में डिक्री पारित कर सकती है, बल्कि ऐसे मुकदमे को भी खारिज कर सकती है, जहां वादी की स्वीकारोक्ति दावे को कमजोर करती हो।. **राजीव घोष बनाम सत्य नारायण जायसवाल** के हालिया मामले पर भरोसा करते हुए **जस्टिस संजय करोल और जस्टिस मनमोहन की खंडपीठ** ने पुष्टि की कि Order XII Rule 6 CPC के तहत शक्ति का प्रयोग अदालतों द्वारा मुकदमे के किसी भी चरण में स्वप्रेरणा सहित औपचारिक आवेदन की आवश्यकता के बिना किया जा सकता है।. खंडपीठ एक ऐसे मामले की सुनवाई कर रही थी, जिसमें अपीलकर्ता-वादी ने कुछ ऐसी स्वीकारोक्ति की थी, जिससे उसका दावा कमजोर हो गया। इन स्वीकारोक्ति का हवाला देते हुए ट्रायल कोर्ट ने स्वप्रेरणा से कार्य करते हुए और प्रतिवादी-प्रतिवादी से किसी औपचारिक आवेदन की प्रतीक्षा किए बिना कार्रवाई के कारण की कमी और अपर्याप्त दलीलों के आधार पर मुकदमा खारिज कर दिया। हाईकोर्ट ने इस बर्खास्तगी को बरकरार रखा, जिससे अपीलकर्ता को सुप्रीम कोर्ट के समक्ष अपील दायर करने के लिए प्रेरित किया।. सुप्रीम कोर्ट के समक्ष अपीलकर्ता ने तर्क दिया कि निचली अदालतों ने मुकदमा खारिज करने के लिए Order XII Rule 6 CPC को लागू करने में गलती की थी, यह दावा करते हुए कि इस तरह की बर्खास्तगी केवल Order XII Rule 6 CPC के तहत अनुमेय थी। इसने आगे तर्क दिया कि प्रतिवादी द्वारा किसी औपचारिक आवेदन की अनुपस्थिति में ट्रायल कोर्ट के पास मुकदमे को स्वप्रेरणा से खारिज करने का अधिकार नहीं था।. *“Order XII Rule 6 CPC न्यायालय को मुकदमे के किसी भी चरण में निर्णय पारित करने का बहुत व्यापक विवेक देता है, वह भी अपने स्वयं के प्रस्ताव पर यानी किसी भी पक्ष द्वारा कोई आवेदन दायर किए बिना। उक्त निर्णय (राजीव घोष बनाम सत्य नारायण जायसवाल) में यह भी माना गया कि Order XII Rule 6 CPC न्यायालय को न केवल स्वीकृत दावे के संबंध में डिक्री पारित करने के लिए अधिकृत करता है, बल्कि मुकदमे को खारिज करने के लिए भी अधिकृत करता है।”*.",
+      "bm25_score_raw": 4.592530271223893,
+      "bm25_score_norm": 0.15991099673121578,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8556733131408691,
+      "embedding_score_norm": 0.2764664384066704,
+      "embedding_rank": 6
+    },
+    {
+      "title": "Order VII Rule 11 CPC | Plaint Cannot be Rejected Summarily if Supplementary Agreement Extends Performance Timeline: Allahabad HC - Law Trend",
+      "url": "https://lawtrend.in/order-vii-rule-11-cpc-plaint-cannot-be-rejected-summarily-if-supplementary-agreement-extends-performance-timeline-allahabad-hc",
+      "snippet": "Title: Order VII Rule 11 CPC | Plaint Cannot be Rejected Summarily if Supplementary Agreement Extends Performance Timeline: Allahabad HC - Law Trend\nLaw Trend- Legal News WebsiteLaw TrendThe Line of Law. Law Trend- Legal News WebsiteLaw TrendThe Line of Law. Law Trend- Legal News WebsiteLaw TrendThe Line of Law. * Law Trend -हिन्दी. # Order VII Rule 11 CPC | Plaint Cannot be Rejected Summarily if Supplementary Agreement Extends Performance Timeline: Allahabad HC. The Allahabad High Court (Lucknow Bench) has dismissed a civil revision petition challenging the refusal of a trial court to reject a plaint under Order VII Rule 11 of the Code of Civil Procedure (CPC). The Court held that when a plaintiff pleads a supplementary agreement that modifies the original timeline for performance, the issue. ## To Read More Please Subscribe to **VIP Membership** for Unlimited Access to All the Articles, Download Available Copies of Judgments/Order, Acess to Central/State Bare Acts, Advertisement Free Content, Access to More than 4000 Legal Drafts( Readymade Editable Formats of Suits, Petitions, Writs, Legal Notices, Divorce Petitions, 138 Notices, Bail Applications etc.) in Hindi and English. ## **Click to Subscribe**. ## If you are already a VIP Member, **Click to Login Now**. READ ALSO  Cooperative Societies: Upon the Change of Any Member in the Interim Committee, the Term of the Committee of Management will Not Extend From That Date: Allahabad HC. Victim’s Testimony Central in Rape Trial; FIR Allegations Cannot Sustain Conviction Without Cogent Proof When Prosecutrix Turns Hostile: Supreme Court. Placement in Waiting List Creates No Vested Right to Promotion; Extinguishes Once Vacancies Are Filled: Delhi High Court. Legal News Website Providing Latest Judgments of Supreme Court and High Court. ### Appointment of Assistant Law Officers Cannot Be Treated as ‘Provisional’ Solely Due to Pending SLP: Bombay High Court. #### Latest Articles. ### Supreme Court Advocates for Harsher Penalties and Shift in Onus of Proof to Combat “Barbaric” Acid Attacks. ### आंशिक रूप से खारिज नहीं किया जा सकता वाद पत्र; निजी विभाजन एक विचारणीय मुद्दा: जम्मू-कश्मीर हाईकोर्ट ने ट्रायल कोर्ट के आदेश को रद्द... ### ट्रांसजेंडर व्यक्ति संशोधन अधिनियम 2026 की संवैधानिक वैधता की जांच करेगा सुप्रीम कोर्ट; केंद्र और राज्यों को नोटिस जारी. ### ‘एंबेसी जाने के लिए बस पकड़ो’: दुबई में फंसे भारतीय इंजीनियर को सुप्रीम कोर्ट से नहीं मिली राहत, कोर्ट ने कहा— दूतावास से मांगें...",
+      "bm25_score_raw": 4.859330034102156,
+      "bm25_score_norm": 0.17969814578360202,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8510227203369141,
+      "embedding_score_norm": 0.23353066707167958,
+      "embedding_rank": 7
+    },
+    {
+      "title": "[Order VII Rule 11 CPC ] Plaint Cannot Be Rejected If Even One Relief Claimed Is Maintainable: Supreme Court - Law Trend",
+      "url": "https://lawtrend.in/order-vii-rule-11-cpc-plaint-cannot-be-rejected-if-even-one-relief-claimed-is-maintainable-supreme-court",
+      "snippet": "Law TrendThe Line of Law. Law TrendThe Line of Law. Law TrendThe Line of Law. * Law Trend -हिन्दी. * Law Trend -हिन्दी. # [Order VII Rule 11 CPC ] Plaint Cannot Be Rejected If Even One Relief Claimed Is Maintainable: Supreme Court. The Supreme Court of India, in a significant ruling on civil procedure, has held that a plaint cannot be rejected under Order VII Rule 11 of the Code of Civil Procedure, 1908, if the plaintiff is entitled to even one of the many reliefs claimed. The bench, comprising Justice Vikram Nath and Justice Sandeep Mehta,. ## To Read More Please Subscribe to **VIP Membership** for Unlimited Access to All the Articles, Download Available Copies of Judgments/Order, Acess to Central/State Bare Acts, Advertisement Free Content, Access to More than 4000 Legal Drafts( Readymade Editable Formats of Suits, Petitions, Writs, Legal Notices, Divorce Petitions, 138 Notices, Bail Applications etc.) in Hindi and English. ## **Click to Subscribe**. ## If you are already a VIP Member, **Click to Login Now**. READ ALSO  Supreme Court Converts Death Penalty of Convict to Life Imprisonment in Triple Murder Case. No Cheating If Alleged False Representation Was Not a Material Fact for Inducement: Supreme Court Quashes Proceedings. Filing Application Mandatory for Condonation of Delay in Section 138 NI Act Complaints: Supreme Court. Legal News Website Providing Latest Judgments of Supreme Court and High Court. #### Related Articles. ### Juvenile Justice | Courts Can Rely on Ossification Test with Two-Year Margin of Error When School Records Unavailable: SC. #### Latest Articles. ### सरफेसी एक्ट के तहत सुरक्षित लेनदारों से ऊपर है PF बकाया का अधिकार; वैधानिक ‘प्रथम प्रभार’ (First Charge) को मिलेगी प्राथमिकता: सुप्रीम कोर्ट को मिलेगी प्राथमिकता: सुप्रीम कोर्ट\"). ### Sitting Judicial Officers Appointed Pre-May 2025 Exempt from Bar Practice Requirement for Inter-State Exams: Supreme Court Clarifies 3-Year Practice Rule. ### दिल्ली हाईकोर्ट ने गौतम गंभीर, परिवार और फाउंडेशन पर कोविड दवाओं के कथित अवैध वितरण का मामला क्वैश किया. ### POSH कानून बार काउंसिल में लागू नहीं: बॉम्बे हाईकोर्ट के फैसले को चुनौती देने वाली याचिका पर सुप्रीम कोर्ट ने केंद्र और BCI से...",
+      "bm25_score_raw": 5.0789294777239675,
+      "bm25_score_norm": 0.19598469295249346,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8428136706352234,
+      "embedding_score_norm": 0.15774207500883214,
+      "embedding_rank": 8
+    },
+    {
+      "title": "[CPC] Applications under Order VII Rule 10 and Order VII Rule ...",
+      "url": "https://www.latestlaws.com/adr/case-analysis/applications-under-order-vii-rule-10-and-order-vii-rule-11-cannot-be-allowed-together-196454",
+      "snippet": "सुप्रीम कोर्ट ने खारिज कर दिया मध्य प्रदेश हाई कोर्ट आदेश, जानें पूरा मामला * 'उत्तर कुंजी प्रकाशित करने का निर्णय एक सकारात्मक पहल', सुप्रीम कोर्ट ने की यूपीएससी के फैसले की सराहना * 'पति को लट्टू मत समझिये...' महिला की डिमांड सुनकर भड़क गया सुप्रीम कोर्ट, जस्टिस नागरत्ना ने कसके सुना दिया * हाईकोर्ट से राजपाल यादव को राहत, चेक बाउंस केस के बावजूद दुबई जाने की मंजूरी * SC questions Rajasthan over absence of CCTV Cameras in Police Interrogation Rooms * HC considers high-profile IPL Betting defamation case involving MS Dhoni and Retired IPS Officer * HC Rules: Tenant cannot challenge Landlord’s Ownership during Tenancy * मनी लॉन्ड्रिंग केस: केजरीवाल की जमानत चुनौती पर हाईकोर्ट ने ED को लगाई फटकार + हिंदी न्यूज़ + World of Petroleum & Natural Gas Supreme Court High Courts Tribunal Courts * हिंदी न्यूज़ #### Supreme Court Judgments #### High Court Judgments #### Campus Buzz + Fests, MUNs and Other Competitions #### Library + Law Commission of India Reports + Justice Verma Committee Report, 2013 + Justice BN Srikrishna Report on Institutionalisation of Arbitration #### Legal Education + Law Schools and Colleges in India #### More #### Circulars & Notices - Supreme Court Advocate-On-Record - Judicial Services Exam Question Papers 4. [CPC] Applications under Order VII Rule 10 and Order VII Rule 11 cannot be allowed together, rules SC, Read Judgement ##### Recent News Centre transfers 11 High Court judges across India following Supreme Court Collegium recommendations Judge Attacked with Shoes by enraged complainant in Court HCs shall not interfere in Commercial Disputes falling under DRT domain, Read Judgment Supreme Court allows Green Crackers with strict timings, Calls for ‘Balanced Approach’ हाईकोर्ट ने फर्रुखाबाद SP आरती सिंह को किया तलब, प्रयागराज में रुकने का दिया आदेश आप खुलासे का क्या करेंगी, आपका उद्देश्य क्या है? सुप्रीम कोर्ट ने खारिज कर दिया मध्य प्रदेश हाई कोर्ट आदेश, जानें पूरा मामला 'उत्तर कुंजी प्रकाशित करने का निर्णय एक सकारात्मक पहल', सुप्रीम कोर्ट ने की यूपीएससी के फैसले की सराहना 'पति को लट्टू मत समझिये...' महिला की डिमांड सुनकर भड़क गया सुप्रीम कोर्ट, जस्टिस नागरत्ना ने कसके सुना दिया # [CPC] Applications under Order VII Rule 10 and Order VII Rule 11 cannot be allowed together, rules SC, Read Judgement **Categories:** Case Analysis Supreme Court Latest News The Supreme Court opined that allowing both the applications under Order VII Rule 10 and Order VII Rule 11 of the Code of Civil Procedure, 1908 (hereinafter referred to as “CPC”) is erroneous.",
+      "bm25_score_raw": 4.369817091549041,
+      "bm25_score_norm": 0.143393519974057,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.8386929035186768,
+      "embedding_score_norm": 0.1196978251466796,
+      "embedding_rank": 9
+    },
+    {
+      "title": "XII Rule 6 CPC | स्वीकृति पर निर्णय दलीलों के बिना भी पारित किया जा सकता है: सुप्रीम कोर्ट | XII Rule 6 CPC, CPC, Judgment, Supreme Court, सीपीसी, सिविल आचार संहिता, सुप्रीम कोर्ट, निर्णय, जजमेंट",
+      "url": "https://hindi.livelaw.in/supreme-court/xii-rule-6-cpc-judgment-on-admission-can-be-passed-even-dehors-pleadings-supreme-court-289036",
+      "snippet": "सुप्रीम कोर्ट ने हाल ही में सिविल प्रक्रिया संहिता (CPC) के आदेश XII Rule 6 के तहत कानूनी स्थिति को स्पष्ट करते हुए कहा कि 'स्वीकृति पर निर्णय' मुकदमे के किसी भी चरण में दिया जा सकता है, मौखिक या लिखित स्वीकृति पर निर्भर करते हुए, यहां तक ​​कि दलीलों के बाहर भी और प्रावधान को लागू करने के लिए अलग से आवेदन की आवश्यकता के बिना।. *“स्वीकृति पर निर्णय— (1) जहां तथ्यों की स्वीकृति या तो दलील में या अन्यथा, मौखिक रूप से या लिखित रूप में की गई, न्यायालय मुकदमे के किसी भी चरण में किसी भी पक्ष के आवेदन पर या अपनी स्वयं की गति से और पक्षों के बीच किसी अन्य प्रश्न के निर्धारण की प्रतीक्षा किए बिना, ऐसे स्वीकृति को ध्यान में रखते हुए ऐसा आदेश दे सकता है या ऐसा निर्णय दे सकता है, जैसा वह उचित समझे।”*. *“उपर्युक्त संदर्भ में 'अन्यथा' अभिव्यक्ति के उपयोग की व्याख्या (दिल्ली) उच्च न्यायालय द्वारा की गई। अभिव्यक्ति पर विचार करते हुए न्यायालय ने उक्त शब्द की व्याख्या यह कहते हुए की कि यह न्यायालय को न केवल दलीलों पर बल्कि दलीलों के अलावा भी पक्षकारों द्वारा दिए गए बयान के आधार पर निर्णय पारित करने की अनुमति देता है, यानी किसी भी दस्तावेज़ में या यहां तक कि न्यायालय में दर्ज किए गए बयान में भी। यदि किसी पक्षकार का बयान सिविल प्रक्रिया संहिता की धारा 10, धारा 1 और 2 के तहत दर्ज किया गया है तो यह भी एक ऐसा बयान है, जो विवादित मामलों को स्पष्ट करता है। ऐसे बयान में कोई भी स्वीकृति न केवल पक्षों के बीच वास्तविक विवाद का पता लगाने के उद्देश्य से प्रासंगिक है, बल्कि यह पता लगाने के लिए भी प्रासंगिक है कि पक्षों के बीच कोई विवाद या विवाद मौजूद है या नहीं। दर्ज किए गए बयान में यदि किसी पक्षकार द्वारा कोई स्वीकृति दी जाती है तो वह उसके खिलाफ निर्णायक होगी और न्यायालय उसमें दी गई स्वीकृति के आधार पर निर्णय पारित करने के लिए आगे बढ़ सकता है।”*.",
+      "bm25_score_raw": 2.436372459072076,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.8376638889312744,
+      "embedding_score_norm": 0.11019763089456128,
+      "embedding_rank": 10
+    },
+    {
+      "title": "Civil Procedure at the Supreme Court: Selected Cases from the October ...",
+      "url": "https://www.everycrsreport.com/reports/LSB11434.html",
+      "snippet": "Among them, as discussed in order below, are cases about the relationship between federal and state procedural rules, the timing of motions for relief from judgment, federal court diversity jurisdiction, sovereign immunity, removal of cases from state to federal court, and constitutional requirements related to standing to sue. Choy*, the Supreme Court held that a state law—Delaware's law requiring that medical malpractice complaints must be dismissed unless accompanied by expert affidavits—cannot apply in federal court because it conflicts with a valid federal procedural rule. Federal courts hearing cases involving state law claims between parties from different states, known as *diversity* cases, apply federal procedural law%20OR%20(granuleid:USC-prelim-title28-section2072)&f=treesort&edition=prelim&num=0&jumpTo=true) and state substantive law%20OR%20(granuleid:USC-prelim-title28-section1652)&f=treesort&edition=prelim&num=0&jumpTo=true), \"except where the Constitution or treaties of the United States or Acts of Congress otherwise require or provide.\" After suffering complications from an ankle fracture, plaintiff-petitioner Harold R. The Supreme Court granted Berk's petition for a writ of certiorari, held oral argument in the case on October 6, 2025, and issued a decision on January 20, 2026.",
+      "bm25_score_raw": 4.955810456242895,
+      "bm25_score_norm": 0.1868535962717909,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.834735631942749,
+      "embedding_score_norm": 0.08316301879898262,
+      "embedding_rank": 11
+    },
+    {
+      "title": "Order XXII Rule 4 CPC | सुप्रीम कोर्ट ने कानूनी उत्तराधिकारियों को प्रतिस्थापित करने, छूट रद्द करने और देरी को माफ करने के लिए आवेदन दायर करने की सही प्रक्रिया बताई | Order XXII Rule 4 CPC, CPC, Supreme Court, Abatement, Limitation Act, सीपीसी, सुप्रीम कोर्ट, उपशमन, परिसीमा अधिनियम",
+      "url": "https://hindi.livelaw.in/know-the-law/order-xxii-rule-4-cpc-supreme-court-explains-correct-procedure-to-file-applications-to-substitute-legal-heirs-set-aside-abatement-condone-delay-283803",
+      "snippet": "Order XXII Rule 4 CPC मृतक पक्षों को उनके कानूनी प्रतिनिधियों से प्रतिस्थापित करने की प्रक्रिया को नियंत्रित करता है। हालांकि, यदि किसी पक्षकार के पास \"मुकदमा करने का अधिकार\" बचा रहता है तो उसकी मृत्यु पर मुकदमा या अपील स्वतः समाप्त नहीं हो जाती, लेकिन यदि मृत्यु के 90 दिनों के भीतर प्रतिस्थापन आवेदन दायर नहीं किया जाता है तो यह समाप्त हो जाती है, जैसा कि परिसीमा अधिनियम, 1963 के अनुच्छेद 120 के अनुसार है। परिसीमा अधिनियम के अनुच्छेद 121 के अनुसार, छूट रद्द करने की सीमा अवधि छूट की तिथि से 60 दिन है।. न्यायालय ने 90 दिनों से परे उपशमन रद्द करने की मांग करने की सही प्रक्रिया को स्पष्ट किया। सबसे पहले, यदि वकील मृत्यु के 90 दिनों के भीतर प्रतिस्थापन आवेदन दायर करने में विफल रहता है तो सही प्रक्रिया यह है कि परिसीमा अधिनियम के अनुच्छेद 121 के अनुसार, उपशमन के 60 दिनों के भीतर (यानी, मृत्यु के 90+60=150 दिनों के भीतर) उपशमन रद्द करने के लिए पहले आवेदन दायर किया जाए।. *“इसलिए पालन किया जाने वाला उचित क्रम मृत्यु के 90 दिनों के भीतर प्रतिस्थापन के लिए आवेदन करना है। यदि दायर नहीं किया जाता है तो 60 दिनों के भीतर उपशमन रद्द करने के लिए आवेदन दायर करना है और यदि वह भी दायर नहीं किया जाता है तो प्रतिस्थापन और उपशमन रद्द करने के लिए अपेक्षित आवेदनों को बाद के आवेदन को दायर करने में देरी के लिए माफी के लिए आवेदन के साथ दायर करना है, यानी उपशमन रद्द करने के लिए आवेदन। एक बार जब अदालत संतुष्ट हो जाती है कि पर्याप्त कारण ने वादी/अपीलकर्ता को सीमा अवधि के भीतर उपशमन रद्द करने के लिए आवेदन करने से रोका और तदनुसार आदेश दिया तो उपशमन रद्द करने का सवाल आता है। यह स्वाभाविक रूप से होता है और मृतक प्रतिवादी/प्रतिवादी के प्रतिस्थापन के आदेश के बाद मुकदमा/अपील अपनी पिछली स्थिति में वापस आ जाता है और गुण-दोष के आधार पर ट्रायल/सुनवाई के लिए आगे बढ़ता है। जैसा भी हो।”*.",
+      "bm25_score_raw": 3.439900944920306,
+      "bm25_score_norm": 0.07442648191878223,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.8257278203964233,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/1293",
+    "text": "NDPS Act की धारा 50 का उद्देश्य संदिग्ध को तलाशी दल के ही अधिकारी के पास ले जाने के अधिकार के बारे में सूचित करना है: सुप्रीम कोर्ट",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Trump hits Canada with slew of new 50% tariffs set to take effect in 30 days - NPR",
+      "url": "https://www.npr.org/2026/07/21/nx-s1-5901957/trump-hits-canada-with-slew-of-new-50-tariffs-set-to-take-effect-in-30-days",
+      "snippet": "* Keyboard shortcuts for audio player. **Trump hits Canada with slew of new 50% tariffs set to take effect in 30 days** **President Trump takes aim at Canada with his latest round of tariffs hitting a variety of goods at 50%.**. ### Politics. # Trump hits Canada with slew of new 50% tariffs set to take effect in 30 days. Heard on All Things Considered. **Audio will be available later today.**. President Trump takes aim at Canada with his latest round of tariffs hitting a variety of goods at 50%.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.8081215620040894,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Haitians get a brief reprieve on end of TPS: Friday is no longer the last day - Miami Herald",
+      "url": "https://www.miamiherald.com/news/local/immigration/article316620357.html",
+      "snippet": "A federal appeals court in Washington, D.C. gave Haitians a temporary reprieve Wednesday from losing their protection from deportation, which had been scheduled to end Friday. In an order, the U.S. Court of Appeals for the District of Columbia Circuit denied a Trump administration request that would have ended Temporary Protected Status benefits for Haitians on Friday. The Trump administration had asked the appeals court to lift a stay by U.S. District Judge Ana Reyes, who had blocked the government from ending TPS for roughly 350,000 Haitians in the United States. Last month the U.S. Supreme Court ruled 6-3 against five Haitian plaintiffs who argued that Trump’s decision to end the legal protections for roughly 350,000 Haitians in the United States was based on racial discrimination. Lawyers for the Haitian immigrants had said they were “still evaluating the effects of the Supreme Court’s ruling” and would inform Reyes by July 31 about filing an amended lawsuit.",
+      "bm25_score_raw": 3.482097566702989,
+      "bm25_score_norm": 0.571840060544621,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8015470504760742,
+      "embedding_score_norm": 0.8555504045301087,
+      "embedding_rank": 2
+    },
+    {
+      "title": "ICC members vote to dismiss prosecutor behind Netanyahu arrest warrant - The Times of Israel",
+      "url": "https://www.timesofisrael.com/icc-members-vote-to-dismiss-embattled-prosecutor-behind-netanyahu-arrest-warrant/",
+      "snippet": "## 82 of 125 members vote to remove Karim Khan, after sexual assault allegations from ex-aide; move won’t impact case against PM and Gallant, which can only be withdrawn by ICC judges. Karim Khan, the chief prosecutor of the International Criminal Court (center), announces he is seeking arrest warrants from the court’s judges for Prime Minister Benjamin Netanyahu and Defense Minister Yoav Gallant, along with Hamas leaders Yahya Sinwar, Muhammad Deif and Ismail Haniyeh, May 20, 2024. International Criminal Court member states voted Friday to dismiss prosecutor Karim Khan, diplomatic sources said, following allegations that he sexually assaulted a female member of his staff. Khan, 56, was suspended last month by a key governing body of the ICC ahead of Friday’s secret ballot in which 82 of 125 members voted to remove him. Khan’s removal will have no immediate impact on the arrest warrants in 2024 for Netanyahu and Gallant for crimes against humanity, which can only be withdrawn by ICC judges.",
+      "bm25_score_raw": 0.6371716332494447,
+      "bm25_score_norm": 0.10463815512202052,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.7929432988166809,
+      "embedding_score_norm": 0.6665160646514807,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Senators demand ICE answers and body cameras after 2 fatal shootings in Maine and Houston - AP News",
+      "url": "https://apnews.com/article/maine-ice-shooting-immigration-ice-trump-border-5662948e22014709dcef74c3a559419c",
+      "snippet": "Test Your News I.Q. 2026 Elections Election Results Election calendar White House Congress Supreme Court The latest AP-NORC polls. Your guide to the biggest stories in politics, policy and U.S. elections. Your home base for in-depth reporting from the world of sports. Founded in 1846, AP today remains the most trusted source of fast, accurate, unbiased news in all formats and the essential provider of the technology and services vital to the news business. WASHINGTON (AP) — Dozens of Democratic U.S. senators and the Independent senator from Maine pushed for more details Monday from Immigration and Customs Enforcement about the agency’s vetting practices for new agents and how officers conduct vehicle pursuits, even as they demanded that body cameras be swiftly rolled out to all officers. The Associated Press reported last week that the ICE officer in Maine who opened fire and killed a man from Colombia had a history of violent behavior toward family members that was detailed in family court records.",
+      "bm25_score_raw": 2.05159617620573,
+      "bm25_score_norm": 0.3369190148010193,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.7925459146499634,
+      "embedding_score_norm": 0.6577850765189195,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Republicans balk at cost-raising potential of new tariffs on Canada - The Hill",
+      "url": "https://thehill.com/homenews/senate/5982247-trump-canada-tariffs-republican-senators/",
+      "snippet": "Republicans aren’t eager to throw their weight behind President Trump’s new tariffs on Canada, with some saying it’s a classic Trumpian negotiating tactic — but still worrying the proposed import taxes could bring everyday costs up at a politically crucial time. President Trump on Monday announced new 50 percent tariffs on Canadian imports in an effort to squeeze the U.S.’s northern neighbor amid negotiations over a long-term trade framework. “I’m not a huge fan of tariffs as a general rule, unless there’s a specific purpose behind it, in most cases, creating a more level playing field for America’s businesses and our economy,” Thune said. Sen. Mike Rounds (R-S.D.) also said he had yet to get a full picture of where the administration was drawing the authority to do tariffs and how they would measure success. The tariffs, which the administration is justifying as a response to “discrimination” from Canada in trade, come after the Supreme Court in February struck down Trump’s use of emergency authorities to declare sweeping tariffs on countries around the world.",
+      "bm25_score_raw": 5.0240690423957455,
+      "bm25_score_norm": 0.8250670437428882,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.7915652990341187,
+      "embedding_score_norm": 0.6362398212681475,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Hawaii liberal judge blasts SCOTUS conservatives, says state will defy high court - New York Post",
+      "url": "https://nypost.com/2026/07/18/us-news/hawaii-supreme-court-justice-todd-eddins-blasts-scotus-conservatives-says-state-will-defy-high-court/",
+      "snippet": "A Hawaii Supreme Court justice used a ruling overturning a decades-old criminal conviction to deliver a blistering rebuke of Chief Justice John Roberts’ Supreme Court, accusing the nation’s highest court of weakening constitutional rights, damaging democracy and advancing a political agenda. But in roughly eight pages of the opinion, Eddins argued Hawaii’s courts should not look to the Roberts court when interpreting the state constitution, using the case to deliver an unusually sharp critique of the nation’s highest court. Eddins argued that Hawaii’s Constitution provides stronger protections than the federal Constitution as interpreted by the US Supreme Court and said the court has abandoned landmark civil rights principles. Eddins accused the Roberts court of adopting a “colorblind” approach to the equal protection clause that, in his view, ignores the amendment’s original purpose of protecting formerly enslaved Black Americans. Eddins has served on the Hawaii Supreme Court since 2020 after being appointed by former Democratic Gov. David Ige. Hawaii Supreme Court Associate Justice Todd Eddins used a ruling to deliver a blistering rebuke of Chief Justice John Roberts' Supreme Court.",
+      "bm25_score_raw": 3.1896244722141276,
+      "bm25_score_norm": 0.5238092891901753,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.7905921339988708,
+      "embedding_score_norm": 0.6148582638599689,
+      "embedding_rank": 6
+    },
+    {
+      "title": "Passengers in Texas ICE shooting say officers not in danger, driver was parking when shots fired - AP News",
+      "url": "https://apnews.com/article/mexican-ice-shooting-salgado-killed-houston-d608b1f553dd139015843c5e710f9998",
+      "snippet": "Test Your News I.Q. 2026 Elections Election Results Election calendar White House Congress Supreme Court The latest AP-NORC polls. HOUSTON (AP) — The immigration officer who shot and killed 52-year-old Lorenzo Salgado Araujo in Houston was not in danger of being run over, two passengers in his van told a federal court this week. The Department of Homeland Security said shortly after the July 7 shooting that Salgado Araujo had “weaponized his vehicle in an attempt to run over an ICE law enforcement officer,” and that the officer had fired in self-defense. But two men who were riding with Salgado Araujo wrote in statements submitted in court that the officers with Immigrations and Customs Enforcement were to the sides of their van, never in front or behind it; one of them described the government’s account as “a lie.”. Rojas Pliego wrote that’s “a lie” and “impossible:” “there wasn’t a single officer behind or in front of us, they were only on the sides.”.",
+      "bm25_score_raw": 2.821811997296603,
+      "bm25_score_norm": 0.4634060684599031,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.7860037088394165,
+      "embedding_score_norm": 0.5140452748945131,
+      "embedding_rank": 7
+    },
+    {
+      "title": "Top US prosecutor will not dispute DOJ decision to drop Indian tycoon Gautam Adani's criminal case - The Business Times",
+      "url": "https://www.businesstimes.com.sg/international/top-us-prosecutor-will-not-dispute-doj-decision-drop-indian-tycoon-gautam-adanis-criminal-case",
+      "snippet": "# Top US prosecutor will not dispute DOJ decision to drop Indian tycoon Gautam Adani‘s criminal case. US authorities accuse Adani of agreeing to pay US$265 million in bribes to Indian government officials. [NEW YORK] The top federal prosecutor in Brooklyn said he had no basis to dispute the US Department of Justice’s decision to abandon its prosecution of Indian billionaire Gautam Adani, but stopped short of saying whether he agreed with dismissing the fraud and bribery case. In a letter on Friday (Jul 17) to the judge overseeing the case, US Attorney Joseph Nocella Jr. said he was “not the decisionmaker” behind dropping the case, and had no basis to believe the reasons advanced by his supervisor Trent McCotter, a top Justice Department official, were not the “real grounds” for a dismissal. On Wednesday, Adani acknowledged in a sworn affidavit having offered earlier this year to invest US$10 billion in the US to resolve the criminal case and a related Securities and Exchange Commission civil case.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.7858716249465942,
+      "embedding_score_norm": 0.5111432395410175,
+      "embedding_rank": 8
+    },
+    {
+      "title": "TOM 50 RE UGV, US - Army Technology",
+      "url": "https://www.army-technology.com/projects/tom-50-re-ugv-us/",
+      "snippet": "# TOM 50 RE UGV, US. The TOM 50 RE UGV is designed to provide operational support for dismounted forces and EOD teams. The TOM 50 RE can perform various missions such as mobile exploration, reconnaissance, defusing tasks and support roles. The UGV is designed for mobile exploration, mission-accompanying reconnaissance, explosive threat disposal, and general operational support for dismounted troops, explosive ordnance disposal teams and specialist units, including SWAT. The TOM 50 RE UGV uses tracked running gear and is fitted with two removable flippers. The TOM 50 RE is controlled using AV\\_Halo COMMAND through the Tomahawk Grip family of systems or via the Robo Command control system. The TOM 50 RE platform has a top speed of 3.7mph (6km/h), an endurance of up to six hours and supports payloads of up to 11lb. The TOM 50 RE UGV is suitable for four broad mission roles: mobile exploration, reconnaissance, defusing tasks and support roles.",
+      "bm25_score_raw": 6.08928581076785,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.7852329015731812,
+      "embedding_score_norm": 0.49710975089117104,
+      "embedding_rank": 9
+    },
+    {
+      "title": "Wisconsin police officer shoots, kills man on city street near state Capitol in Madison - AP News",
+      "url": "https://apnews.com/article/madison-wisconsin-police-shooting-7755ab2ec68bda1a7d7890394f4b1267",
+      "snippet": "Test Your News I.Q. 2026 Elections Election Results Election calendar White House Congress Supreme Court The latest AP-NORC polls. Your guide to the biggest stories in politics, policy and U.S. elections. Founded in 1846, AP today remains the most trusted source of fast, accurate, unbiased news in all formats and the essential provider of the technology and services vital to the news business. A Madison police officer shot and killed a man who had injured him with a switchblade knife while resisting arrest, the city’s police chief said Wednesday. (AP) — A Madison police officer shot and killed a man who had injured him with a knife while resisting arrest, the city’s police chief said Wednesday. The race of the officer who fired his gun on Wednesday and that of the man killed were not released by police. The same officer who was injured by the knife fired his weapon and the man who was shot died later at the hospital, the chief said.",
+      "bm25_score_raw": 2.786016633403599,
+      "bm25_score_norm": 0.45752765102222825,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.7846251130104065,
+      "embedding_score_norm": 0.48375593568377245,
+      "embedding_rank": 10
+    },
+    {
+      "title": "ICC chief prosecutor removed from post over sexual misconduct allegations, diplomats tell AP - AP News",
+      "url": "https://apnews.com/article/icc-court-prosecutor-karim-khan-united-nations-5a9490e98b74f3bf13f5eae26fb3c3d7",
+      "snippet": "UNITED NATIONS (AP) — Member state representatives of the International Criminal Court voted to remove the global tribunal’s chief prosecutor on Friday, nearly two years after sexual misconduct allegations against him first emerged, two diplomats have confirmed to The Associated Press. The 56-year-old Khan was temporarily removed from his duties at the ICC in June, pending Friday’s vote, after a report by the executive committee of the court’s oversight body found he had committed “serious misconduct.” According to documents seen by the AP, Khan engaged in a sexual relationship with the woman and tried to prevent her from pursuing her allegations. Päivi Kaukoranta, president of the Assembly of State Parties, said at the public opening of the meeting that the vote would be in private to “address a complex and sensitive disciplinary matter as part of this governance and oversight role of the International Criminal Court.”.",
+      "bm25_score_raw": 0.4626420119680751,
+      "bm25_score_norm": 0.0759763995885975,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.7680197954177856,
+      "embedding_score_norm": 0.11891797035628508,
+      "embedding_rank": 11
+    },
+    {
+      "title": "Appeals court upholds White House adviser Peter Navarro's contempt of Congress convictions - AP News",
+      "url": "https://apnews.com/article/peter-navarro-contempt-appeals-court-b16eca9c5f5ff2b19fcc6ac638bbf540",
+      "snippet": "Test Your News I.Q. 2026 Elections Election Results Election calendar White House Congress Supreme Court The latest AP-NORC polls. 2026 Elections Election Results Election calendar White House Congress Supreme Court The latest AP-NORC polls. White House trade counselor Peter Navarro speaks during a video interview with Real America’s Voice News, Friday, July 17, 2026, at the White House in Washington. White House trade counselor Peter Navarro prepares for a video interview with Real America’s Voice News, Friday, July 17, 2026, at the White House in Washington. WASHINGTON (AP) — A federal appeals court on Tuesday upheld White House adviser Peter Navarro’s convictions for defying a subpoena for records from the House committee that investigated the Jan. 6, 2021, attack on the U.S. Capitol by a mob of President Donald Trump’s supporters. Navarro couldn’t prove Trump had shielded him from the subpoena’s requirements by invoking executive privilege, according to the unanimous ruling by a three-judge panel from the U.S. Court of Appeals for the District of Columbia Circuit.",
+      "bm25_score_raw": 1.4875695417436292,
+      "bm25_score_norm": 0.24429294140096358,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.7626073360443115,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

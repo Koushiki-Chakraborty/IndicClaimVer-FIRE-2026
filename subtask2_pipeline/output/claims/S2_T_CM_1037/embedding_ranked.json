@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/CM/1037",
+    "text": "arvind kejriwal ka rona bus yahi hai congress par vaar karne ke liye ye dharna de dete hai aur jab responsibility ki baat aati hai to apna rona rote hai remind you sheila dixitji ne delhi ke liye bahut kiya tha apne kya kiya ab tak",
+    "lang": "codemix"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Refusing to support Kejriwal dharna in Delhi against \"undemocratic\" ways of Modi govt, Congress stands isolated",
+      "url": "https://www.counterview.net/2018/06/refusing-to-support-kejriwal-dharna-in.html",
+      "snippet": "### Refusing to support Kejriwal dharna in Delhi against \"undemocratic\" ways of Modi govt, Congress stands isolated. But it is also a fact that the Modi government did not want it to function independently. AAP has put tremendous pressure on political leaders to make their polity pro-people but it has also helped to create a golden halo around Narenda Modi, who is not bothered about people. For Modi, it is easier to fight against Congress, accuse Rahul Gandhi for 60 years’ misrule and dynasty, but Modi can’t really face Arvind Kejriwal, who is perhaps more vociferous and can trash Modi on any given day. The silence on the part of the Congress on the whole issue of the governance of Delhi is damaging. Rahul Gandhi should have issued a statement related to the issue of democratic right of a government to function. We all agree that Arvind Kejriwal has not done many things to be liked by all, and the biggest damage of the current regime is that it is highly undemocratic, yet in politics one must learn from mistakes, even as speaking on issue and not on individuals. If Congress had supported the Kejriwal dharna against the undemocratic way of handling by the central government, it would have helped them gain some respect. Congress should not have ignored the plight of its chief minister V Narayanswamy in Pondicherry who is being humiliated by the Lt governor Kiran Bedi who could not win a single election, yet has the grudge for not being able to become chief minister of Delhi. It is surprising that Congress remains quiet on the Puducherry issue, which is almost same as that of Delhi as both the state are Union territories. Should a chief minister function as the stooge of the Central government or work independently? Our democracy cannot be an instrument to strengthen the feudal system yet, this is happening by 'reviving' the fortunes of 'dedicated' cadres who can't be taken as ministers but can be placed to disturb the elected governments from working independently. Arvind Kejriwal may have misbehaved with the Chief Secretary or vice versa, and an investigation can be done for that, but people of Delhi cannot be allowed to suffer due to this.",
+      "bm25_score_raw": 7.887138699538436,
+      "bm25_score_norm": 0.7980984386707091,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8782815933227539,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Arvind Kejriwal takes first major step against predecessor Sheila Dikshit",
+      "url": "https://www.ndtv.com/delhi-news/arvind-kejriwal-takes-first-major-step-against-predecessor-sheila-dikshit-549665",
+      "snippet": "Title: Arvind Kejriwal takes first major step against predecessor Sheila Dikshit\nhome     Delhi     Arvind Kejriwal takes first major step against predecessor Sheila Dikshit. This Article is From Feb 03, 2014. # Arvind Kejriwal takes first major step against predecessor Sheila Dikshit. * Feb 03, 2014 18:55 pm IST. + Published On Feb 03, 2014 16:07 pm IST. + Last Updated On Feb 03, 2014 18:55 pm IST. Arvind Kejriwal takes first major step against predecessor Sheila Dikshit. Arvind Kejriwal government in Delhi has written to President Pranab Mukherjee asking for an investigation against former chief minister Sheila Dikshit. **New Delhi:**  Delhi Chief Minister Arvind Kejriwal has written to the President of India asking for an investigation on how and why his predecessor Sheila Dikshit authorised illegal colonies in 2008. Ms Dikshit had been indicted in November by the Delhi ombudsman or Lokayukta who ruled that Ms Dikshit had regularised nearly 1,000 colonies for political gain before the national election of 2009 and without providing basic infrastructure. Ms Dikshit was also faulted for authorising colonies that had mushroomed on land reserved for forests. The President had forwarded the ombudsman's report to Mr Kejriwal, asking him for his comments. In December, Ms Dikshit, who had headed the Congress government in Delhi for more than a decade, was crushed in the state election. The BJP won the maximum seats but it was denied a majority by Mr Kejriwal's political start-up, the Aam Aadmi Party (AAP). (BJP tops Delhi but Aam Aadmi party is show-stopper). The Congress props up his minority government in a relationship that appears deeply dysfunctional. Mr Kejriwal has vowed to punish Congress leaders including Ms Dikshit for the corruption that he alleges was a watermark of their governance. (Watch: Arvind Kejriwal speaks to NDTV). The BJP has repeatedly taunted Mr Kejriwal, asking why little has come of his threat of a crackdown on the Congress. Today's letter from Mr Kejriwal to the President is being seen as an attempt to neutralise the criticism that AAP is softer on its ally than it likes to concede. Track Latest News Live on NDTV.com and get news updates from India  and around the world. AAP, Arvind Kejriwal, Delhi Government, Sheila Dikshit.",
+      "bm25_score_raw": 7.307015912973385,
+      "bm25_score_norm": 0.6934450720928127,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8764430284500122,
+      "embedding_score_norm": 0.9366416760809284,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Congress Slams Arvind Kejriwal For Saying Sheila Dikshit is Not Important",
+      "url": "https://www.india.com/lok-sabha-elections-2019-india/congress-slams-arvind-kejriwal-for-saying-sheila-dikshit-is-not-important-3618465/amp",
+      "snippet": "The whole matter began after Kejriwal was asked whether Aam Aadmi Party was forming an alliance with Congress for the Lok Sabha polls.",
+      "bm25_score_raw": 6.286852189274765,
+      "bm25_score_norm": 0.5094089152339207,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.8752288222312927,
+      "embedding_score_norm": 0.8947992194721167,
+      "embedding_rank": 3
+    },
+    {
+      "title": "No advice for Kejriwal, he is much wiser than me: Sheila Dikshit",
+      "url": "https://www.youtube.com/watch?v=cdG8YUm_kl8",
+      "snippet": "Outgoing Delhi chief minister Sheila Dikshit, who was dealt a stunning defeat in the state election, today blamed her own Congress party for",
+      "bm25_score_raw": 3.8423783301861816,
+      "bm25_score_norm": 0.06842913510836271,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.8726423382759094,
+      "embedding_score_norm": 0.8056670432371367,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Arvind Kejriwal's Strike 2 against Sheila Dikshit based on ...",
+      "url": "https://www.youtube.com/watch?v=Q8bhkvh9MU8",
+      "snippet": "Arvind Kejriwal, the chief minister of Delhi, has made his second move this week to target Sheila Dikshit, his predecessor and senior",
+      "bm25_score_raw": 3.4630565573720027,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.8695366382598877,
+      "embedding_score_norm": 0.6986422922871521,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Assembly election result: Arvind Kejriwal sweeps Sheila Dikshit out in Delhi",
+      "url": "https://www.ndtv.com/delhi-news/assembly-election-result-arvind-kejriwal-sweeps-sheila-dikshit-out-in-delhi-543867",
+      "snippet": "Title: Assembly election result: Arvind Kejriwal sweeps Sheila Dikshit out in Delhi\nNews     india-news     Assembly election result: Arvind Kejriwal sweeps Sheila Dikshit out in Delhi. This Article is From Dec 08, 2013. # Assembly election result: Arvind Kejriwal sweeps Sheila Dikshit out in Delhi. * Dec 09, 2013 01:29 am IST. + Published On Dec 08, 2013 18:26 pm IST. + Last Updated On Dec 09, 2013 01:29 am IST. Assembly election result: Arvind Kejriwal sweeps Sheila Dikshit out in Delhi. Arvind Kejriwal has defeated Sheila Dikshit in the New Delhi constituency. **New Delhi:**  In a mega political bender, rookie politician Arvind Kejriwal has defeated three-time chief minister Sheila Dikshit in her constituency of New Delhi by some 22,000 votes. His one-year-old Aam Aadmi Party made a spectacular electoral debut winning 28 of Delhi's 70 seats, just four behind the BJP, which is on top. It is the common man...the aam aadmi,\" Mr Kejriwal said this evening to  a crowd of jubilant supporters, who logged many hours waving the party symbol, the broom. If the old parties don't recognize this, the public has shown it can make them redundant,\" the former tax inspector said. Voters mercilessly spurned Ms Dikshit and her party, permitting the incumbent Congress less than 10 seats. Mr Kejriwal is emphatic that he will not align with either the Congress or the BJP. Through their campaign in Delhi, the Congress and the BJP made the gross tactical error of underestimating Mr Kejriwal's ability to mobilize public support. An army of meticulously-organized volunteers spread through the city, promising that the  Aam Aadmi Party (AAP) would shake up and cleanse a system manipulated by power brokers. Critics of Mr Kejriwal say the AAP's economic policies are unsound and that its kinetic energy will not sustain till the national election, due by May. Mr Kejriwal formed the AAP after he split with his one-time partner Anna Hazare. After a strong launch, the campaign dissipated; Mr Kejriwal said he had no choice but to enter politics, a move Anna refused to support. Track Latest News Live on NDTV.com and get news updates from India  and around the world. Assembly Election Result, Aam Aadmi Party, Arvind Kejriwal, Delhi, Sheila Dikshit.",
+      "bm25_score_raw": 7.187312191626875,
+      "bm25_score_norm": 0.6718506825585036,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8668466806411743,
+      "embedding_score_norm": 0.605944336037794,
+      "embedding_rank": 6
+    },
+    {
+      "title": "Congress Compares Arvind Kejriwal With Sheila Dikshit Over 45-Crore ...",
+      "url": "https://www.ndtv.com/india-news/congress-compares-arvind-kejriwal-with-sheila-dikshit-over-45-crore-spend-3984472/amp/1",
+      "snippet": "The Congress on Thursday launched a scathing attack on the Aam Aadmi Party over the alleged expenditure of Rs 45 crore on Delhi Chief",
+      "bm25_score_raw": 9.00633534079509,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8666239976882935,
+      "embedding_score_norm": 0.5982705145321968,
+      "embedding_rank": 7
+    },
+    {
+      "title": "Chunav Flashback: When Arvind Kejriwal dethroned veteran Sheila Dikshit in her own bastion | Delhi News – India TV",
+      "url": "https://www.indiatvnews.com/delhi/chunav-flashback-when-arvind-kejriwal-dethroned-veteran-sheila-dikshit-in-her-own-bastion-in-delhi-assembly-elections-2013-2024-12-12-965965",
+      "snippet": "Title: Chunav Flashback: When Arvind Kejriwal dethroned veteran Sheila Dikshit in her own bastion | Delhi News – India TV\n# Chunav Flashback: When Arvind Kejriwal dethroned veteran Sheila Dikshit in her own bastion. ## Chunav Flashback: In 2013 assembly elections, Aam Aadmi Party chief Arvind Kejriwal had given a crushing defeat to the then Delhi Chief Minister and veteran Congress leader Sheila Dikshit. He had defeated Dikshit by a staggering margin of over 25,000 votes in the New Delhi constituency. Chunav Flashback: Arvind Kejriwal Vs Sheila Dikshit. **Chunav Flashback:** The Delhi Assembly Elections of 2013 remain one of the most dramatic and groundbreaking moments in the political history of the national capital. The contest, marked by the entry of a new political force in the form of the Aam Aadmi Party (AAP), saw an unbelievable development: a political novice, Arvind Kejriwal, not only challenged but decisively defeated three-time Chief Minister Sheila Dikshit in her own constituency, New Delhi. Sheila Dikshit, a seasoned politician from the Indian National Congress (INC), had been at the helm of Delhi’s government since 1998. #### **The constituency battle: Kejriwal Vs Sheila**. The New Delhi constituency had long been considered a fortress for Sheila Dikshit. Arvind Kejriwal defeated Sheila Dikshit by a staggering margin of over 25,000 votes in the New Delhi constituency. #### **Sheila Dikshit's son in battleground against Kejriwal**. Twelve years since Kejriwal first defeated Sheila Dikshit from the New Delhi Constituency, the Congress has announced later's son Sandeep Dikshit as its candidate to contest against the Aam Aadmi Party chief in the upcoming elections for the same constituency. Congress's decision to field Sandeep Dikshit is being seen as an attempt to reclaim the legacy of Sheila Dikshit and regain a foothold in the constituency where her defeat symbolised a dramatic political shift. The contest is expected to be closely watched, as it pits the legacy of one of Delhi’s most renowned political figures against the political dominance of Kejriwal, who has led AAP to consecutive electoral victories in the Union Territory. **ALSO READ: Delhi Assembly Election: Congress declares 21 candidates, fields Sandeep Dikshit from Kejriwal's seat | List**. ### Raghav Chadha, Sandeep Pathak, Ashok Mittal join BJP in massive jolt to AAP and Kejriwal.",
+      "bm25_score_raw": 7.389955130400721,
+      "bm25_score_norm": 0.708407194812558,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8643897771835327,
+      "embedding_score_norm": 0.5212776009037692,
+      "embedding_rank": 8
+    },
+    {
+      "title": "Congress Leader Sandeep Dikshit Launches Scathing Attack on ...",
+      "url": "https://www.youtube.com/watch?v=3_4mo_2UHwc",
+      "snippet": "Congress leader Sandeep Dixit, son of former Delhi CM Sheila Dixit, has launched a verbal assault on AAP's Arvind Kejriwal.",
+      "bm25_score_raw": 7.703597233390007,
+      "bm25_score_norm": 0.7649878062599234,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8615453243255615,
+      "embedding_score_norm": 0.4232556228817911,
+      "embedding_rank": 9
+    },
+    {
+      "title": "10 Times Arvind Kejriwal Made Headlines - Rediff.com India News",
+      "url": "http://www.rediff.com/news/special/10-times-arvind-kejriwal-made-headlines/20240918.htm",
+      "snippet": "Title: 10 Times Arvind Kejriwal Made Headlines - Rediff.com India News\nHome  » News » 10 Times Arvind Kejriwal Made Headlines. # 10 Times Arvind Kejriwal Made Headlines. **From the time he first rose to prominence during the movement against the then UPA government, Arvind Kejriwal has regularly grabbed headlines for his surprise moves and decisions. IMAGE: Aam Aadmi Party National Convener Arvind Kejriwal. Arvind Kejriwal's announcement to resign as Delhi chief minister took everyone by surprise. The first sitting CM in the country to be arrested did not quit when he was jailed, but did so soon after getting bail from the Supreme Court. From the time he came to the limelight over a decade ago during the India Against Corruption agitation against the then United Progressive Alliance government, Kejriwal has learnt the art of being in the headlines. IMAGE: Arvind Kejriwal takes oath as the seventh chief minister of Delhi. The first time Kejriwal became chief minister of Delhi in 2013, he did so with support from the Congress. His election campaign was centered on opposing the then Congress CM Sheila Dikshit and he left no chance to call the party corrupt. He even promised not to take support from the Congress or the Bharatiya Janata Party in the event of a hung verdict. Yet, after the elections resulted in the BJP being the single largest party winning 31 of 70 seats, while the AAP won 28 and the Congress got eight, Kejriwal formed a minority government with outside support from the Congress. Soon after forming the government, Kejriwal took an unprecedented step when he ordered Delhi's anti-corruption bureau to file a first information report against Reliance Industries Chairman Mukesh Ambani. He blamed the Congress and the BJP for 'colluding to stall his government's anti-corruption efforts because he had filed an FIR against Ambani'. It was perhaps the first time when a sitting CM was holding a *dharna* during which he slept and ate on the road. In May 2015, the ministry of home affairs issued a notification saying that the LG had the final decision on matters related to police, public order, land and services, and that the Delhi ACB could not investigate central government employees.",
+      "bm25_score_raw": 6.163534591651398,
+      "bm25_score_norm": 0.4871625873039342,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.856348991394043,
+      "embedding_score_norm": 0.24418609427955223,
+      "embedding_rank": 10
+    },
+    {
+      "title": "Delhi elections: Sheila Dikshit son Sandeep Dikshit challenge Arvind Kejriwal New Delhi Assembly seat held since 2013 - India Today",
+      "url": "https://www.indiatoday.in/elections/assembly/story/delhi-elections-sheila-dikshit-son-sandeep-dikshit-challenge-arvind-kejriwal-new-delhi-assembly-seat-held-since-2013-2649170-2024-12-13",
+      "snippet": "Title: Delhi elections: Sheila Dikshit son Sandeep Dikshit challenge Arvind Kejriwal New Delhi Assembly seat held since 2013 - India Today\n### Download App. NewsElectionsAssemblyDelhiSeeking revenge, Sheila Dikshit's son to challenge Arvind Kejriwal from New Delhi. # Seeking revenge, Sheila Dikshit's son to challenge Arvind Kejriwal from New Delhi. ## Former Delhi Chief Minister Sheila Dikshit lost the New Delhi Assembly seat to Arvind Kejriwal in 2013 and 2015. Congress announced its first list of candidates for the Delhi elections, fielding Sandeep Dikshit from the New Delhi Assembly seat. Sandeep Dikshit vs Arvind Kejriwal in New Delhi. Sandeep Dikshit vs Arvind Kejriwal in New Delhi. New Delhi,UPDATED: Dec 13, 2024 08:15 IST. In a high-stakes political battle, Congress has fielded Sandeep Dikshit, son of the late Sheila Dikshit, as its candidate for the New Delhi Assembly constituency in the upcoming Delhi elections. This move is set to reignite a historic rivalry in a constituency that witnessed Sheila Dikshit, the three-time Chief Minister of Delhi, losing to Arvind Kejriwal in 2013 and 2015. For Sandeep, this election is more than just a political contest; it is a chance to reclaim his family's legacy and settle old scores. Sandeep Dikshit, a former MP known for his vocal criticism of Arvind Kejriwal and the Aam Aadmi Party (AAP), is expected to wage a fierce campaign. The New Delhi seat, held by Kejriwal since 2013, is set to be the epicentre of the battle, promising high-voltage drama and intense competition. Speculation is rife that former West Delhi MP Parvesh Sahib Singh Verma, son of former Chief Minister Sahib Singh Verma, could be fielded from the seat. If this materialises, the election will pit two scions of former Chief Ministers against Kejriwal, making it a triangular battle of high-profile leaders. While Sandeep Dikshit stands out as a key contender, other prominent names include Delhi Congress president Devendra Yadav, former Delhi Congress president Chaudhary Anil Kumar, and Congress spokesperson Ragini Nayak. AAP, meanwhile, has announced its decision to go solo in Delhi, much like its strategy during the Lok Sabha polls. Kejriwal's party will rely on its governance track record and grassroots outreach to defend its turf, particularly in a constituency as symbolic as New Delhi.",
+      "bm25_score_raw": 7.587648793968879,
+      "bm25_score_norm": 0.7440708645091555,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8508366346359253,
+      "embedding_score_norm": 0.05422614768409161,
+      "embedding_rank": 11
+    },
+    {
+      "title": "Sheila Dikshit - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sheila_Dikshit",
+      "snippet": "# Sheila Dikshit. Indian politician and former chief minister of Delhi (1938–2019). | **In office** 11 January 2019 – 20 July 2019 |. | 6th Chief Minister of Delhi |. | Member \"Member of the Legislative Assembly (India)\") of Delhi Legislative Assembly |. | Member of the Indian Delegation for United Nations Commission on the Status of Women |. The longest-serving chief minister of Delhi, as well as the longest-serving female chief minister in Indian history, she served for a period of 15 years beginning in 1998. She was appointed president of Delhi Pradesh Congress Committee on 10 January 2019 to lead the general election in Delhi for Congress and remained in office until her death in July later that year. She also served as a Union Minister during 1986–1989, first as the Minister of State for Parliamentary Affairs \"Ministry of Parliamentary Affairs (India)\") and later as a minister of state in the Prime Minister's Office \"Prime Minister's Office (India)\").",
+      "bm25_score_raw": 3.618591033216616,
+      "bm25_score_norm": 0.028058209215407283,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.849263072013855,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "ID": "S2/T/EN/1112",
+  "Evidence": "The retrieved evidence indicates that the government panel recommended granting EUA for Biological E's COVID-19 vaccine, Corbevax, specifically for the age group of 12 to 18 years (Source 1 and Source 2). There is no mention of a recommendation for adults above 18 years. The vaccine has already been approved for restricted use in emergency situations for adults since December 28, but the current recommendation focuses on adolescents (Source 1). The evidence does not support the claim regarding adults, as it explicitly states the recommendation is for those aged 12 to less than 18 years (Source 2).",
+  "Prediction": "REFUTES",
+  "Justification": "The evidence directly contradicts the claim that the government panel recommended EUA for Corbevax for adults above 18 years. It clearly states that the EUA recommendation is specifically for the 12 to 18 years age group (Source 1 and Source 2). Additionally, while Corbevax has been approved for emergency use in adults, the current recommendation does not extend to those above 18 years, thus refuting the claim."
+}

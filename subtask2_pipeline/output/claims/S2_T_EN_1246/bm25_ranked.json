@@ -1,0 +1,57 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1246",
+    "text": "Delhi High Court Refuses To Entertain PIL To Restrict Cash Transactions On E-Commerce Platforms Like Amazon, Flipkart",
+    "lang": "english"
+  },
+  "ranked_evidence": [
+    {
+      "title": "Delhi High Court Refuses To Entertain PIL To Restrict Cash Transactions ...",
+      "url": "https://www.livelaw.in/amp/high-court/delhi-high-court/delhi-high-court-pil-restrict-cash-transactions-e-commerce-platforms-like-amazon-flipkart-234309",
+      "snippet": "The Delhi High Court recently refused to entertain a public interest litigation to restrict cash transaction of goods, products and services",
+      "bm25_score_raw": 4.755207608923199,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Delhi High Court refused to entertain PIL to restrict cash transaction ...",
+      "url": "https://www.thelawadvice.com/news/delhi-high-court-refused-to-entertain-pil-to-restrict-cash-transaction-through-online-shopping-platforms",
+      "snippet": "Delhi High Court refused to entertain a PIL to restrict cash transaction of goods, products and services purchased through online shopping",
+      "bm25_score_raw": 2.344924546813568,
+      "bm25_score_norm": 0.44306956598685054,
+      "bm25_rank": 2
+    },
+    {
+      "title": "Delhi High Court Denies to Entertain PIL Filed to Restrict Cash ...",
+      "url": "https://www.legaleraonline.com/amp/from-the-courts/delhi-high-court-denies-to-entertain-pil-filed-to-restrict-cash-transactions-on-e-commerce-platforms-like-amazon-flipkart-872275",
+      "snippet": "The Delhi High Court has refused to entertain a public interest litigation (PIL) for restricting cash transaction of goods.",
+      "bm25_score_raw": 2.2152626393082673,
+      "bm25_score_norm": 0.41310932457076766,
+      "bm25_rank": 3
+    },
+    {
+      "title": "Delhi High Court Seeks Centres Reply On Flipkart, Amazon FDI Violation",
+      "url": "https://www.ndtv.com/india-news/pil-claims-fdi-violation-by-flipkart-and-amazon-hc-seeks-centres-reply-1892397",
+      "snippet": "The PIL claims that Amazon and Flipkart have created multiple entities to circumvent the FDI norms and route the hot-selling stock at cheaper",
+      "bm25_score_raw": 1.6171285764974326,
+      "bm25_score_norm": 0.27490187979549724,
+      "bm25_rank": 4
+    },
+    {
+      "title": "Delhi HC orders Amazon, Flipkart to remove infringing Reliance, Jio ...",
+      "url": "https://www.linkedin.com/posts/inc42_news-inc42-hc-activity-7351139198487154692-vz5U",
+      "snippet": "The Delhi High Court (HC) has directed seven ecommerce platforms, including Amazon and Flipkart, to delist all products that infringe upon “Reliance” and “Jio”",
+      "bm25_score_raw": 1.3727262175106754,
+      "bm25_score_norm": 0.21842921315973876,
+      "bm25_rank": 5
+    },
+    {
+      "title": "Delhi HC Dismisses Plea To Investigate Amazon and Flipkart",
+      "url": "https://inc42.com/buzz/delhi-hc-dismisses-plea-to-investigate-amazon-and-flipkarts-supply-chains",
+      "snippet": "The petition alleged that in order to circumvent this press note, Amazon and Flipkart created “name lending” companies and “controlled sellers”",
+      "bm25_score_raw": 0.42740845321621773,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6
+    }
+  ]
+}

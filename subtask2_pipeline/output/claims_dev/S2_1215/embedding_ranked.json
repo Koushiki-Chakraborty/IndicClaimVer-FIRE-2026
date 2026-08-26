@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/1215",
+    "text": "লকডাউনের নিয়ম মেনেই রাস্তায় শান্তিপূর্ণভাবে চলাফেরা করছে মানুষজন, পুলিশের কঠোর হস্তক্ষেপের প্রয়োজন হয়নি",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Coronavirus lockdown protest: What's behind the US demonstrations?",
+      "url": "https://www.bbc.com/news/world-us-canada-52359100",
+      "snippet": "# Coronavirus lockdown protest: What's behind the US demonstrations? **Across the country, groups of Americans are taking to the streets in protest of lockdown orders aimed at limiting the spread of Covid-19. The US now has over 761,000 cases and more than 40,000 deaths, with numbers still rising, though signs have emerged that infection rates are slowing in some states. Some states are beginning to ease restrictions, re-opening parks, beaches and some small businesses in the coming days, but most of the US remains under some form of stay-at-home order. In over a dozen states from coast to coast, protesters have taken to the streets, blocking roads and honking car horns. Protesters say the stay-at-home measures imposed by state governments to control the spread of Covid-19 are an overreaction. Protests have varied in size across the country - from a few dozen protesters in Virginia and Oregon to rallies of thousands in Michigan and Washington state.",
+      "bm25_score_raw": 3.125404339517964,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8344978094100952,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Freedom of Peaceful Asseembly (COVID-19) - Civicus Monitor",
+      "url": "https://monitor.civicus.org/covid/freedom-of-peaceful-asseembly",
+      "snippet": "## Freedom of Peaceful Assembly and the COVID-19 pandemic: A snapshot of protests and restrictions. The power of this right was shown during the pandemic as people continued to take to the streets in all regions of the world. While the COVID-19 pandemic has further challenged and threatened the right to peaceful assembly, people continued to take to the streets to voice their concerns related to COVID-19 and demand other important rights. The United Nations (UN) Special Rapporteur on the Rights to Freedom of Peaceful Assembly and of Association, Clement Voule, warned that the pandemic must not be used as a pretext to suppress rights in general or the rights to the freedoms of peaceful assembly and association in particular. We examine the types of protests that were staged during the pandemic and the restrictions on the right to the freedom of peaceful assembly. During this period, people staged protests on a range of issues, including protests against COVID-19 confinement measures and protests to call for an end to COVID-19 measures due to hunger, poverty and unemployment.",
+      "bm25_score_raw": 2.0860938318856492,
+      "bm25_score_norm": 0.6674636639838386,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8278385400772095,
+      "embedding_score_norm": 0.9366409088176683,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Protests against responses to the COVID-19 pandemic - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Protests_against_responses_to_the_COVID-19_pandemic",
+      "snippet": "| Part of the COVID-19 pandemic and COVID-19 misinformation and COVID-19 misinformation by governments |. | An anti-lockdown protest at Queen's Park \"Queen's Park (Toronto)\") in Toronto, Canada, on 25 April 2020 |. | Caused by | Local struggles or opposition to government responses to the COVID-19 pandemic |. Protests, demonstrations and strikes occurred around the world against national responses to the COVID-19 pandemic by governmental bodies. Protests also occurred in opposition to restrictions on people's movements, compulsory wearing of face masks, lockdowns, vaccinations and other measures that have been criticized for violating autonomy and freedom. See also: COVID-19 lockdowns, Social distancing measures related to the COVID-19 pandemic, Face masks during the COVID-19 pandemic, Mask refusal, COVID-19 misinformation, and COVID-19 vaccine misinformation and hesitancy. In order to prevent the spread of the SARS-CoV2 virus which gave rise to the COVID-19 pandemic from 2019, governments brought in health measures at varying levels of strictness to restrict the movement of people and transmission of the virus.",
+      "bm25_score_raw": 0.590615037634791,
+      "bm25_score_norm": 0.18897236116523805,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8193690776824951,
+      "embedding_score_norm": 0.856058878972136,
+      "embedding_rank": 3
+    },
+    {
+      "title": "What led protesters to a breaking point with China's 'zero ...",
+      "url": "https://www.washingtonpost.com/world/interactive/2022/china-lockdown-protests-covid-videos-photos",
+      "snippet": "In extraordinary scenes, Chinese citizens are demonstrating against lockdowns despite the significant risk of arrest.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.8151358366012573,
+      "embedding_score_norm": 0.8157820416412888,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Black Lives Matter and the Anti-Lockdown Protests",
+      "url": "https://sites.uab.edu/humanrights/2020/11/20/the-right-to-protest-black-lives-matter-and-the-anti-lockdown-protests",
+      "snippet": "An argument has been made that the Black Lives Matter protests are so violent that they require a similar level of violence to be contained.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.8074287176132202,
+      "embedding_score_norm": 0.7424532678215165,
+      "embedding_rank": 5
+    },
+    {
+      "title": "These rallies are known as street takeovers and have ...",
+      "url": "https://www.facebook.com/deseretnews/posts/these-rallies-are-known-as-street-takeovers-and-have-become-increasingly-popular/1427097322789257",
+      "snippet": "In 2020, widespread COVID lockdowns sparked protests in countries across the world, with millions marching through the streets demanding jobs,",
+      "bm25_score_raw": 1.3352846956666067,
+      "bm25_score_norm": 0.4272358231487417,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.7971458435058594,
+      "embedding_score_norm": 0.6446176757142388,
+      "embedding_rank": 6
+    },
+    {
+      "title": "lock",
+      "url": "https://www.youtube.com/playlist?list=PLtiVnv4_K29BzEa3Xwuv4TxmFyjSfX0i1",
+      "snippet": "lock ; Ceylin & Skye - Colorful Ball Pool with Colorful Blocks - Learn Colors with Johnny Yes Papa ABC Song. SH kids. 210M views ; [762] “Pick Proof” Yale Dimple",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.75559401512146,
+      "embedding_score_norm": 0.2492760921566159,
+      "embedding_rank": 7
+    },
+    {
+      "title": "Curly Locks - Nursery Rhyme with Karaoke - video Dailymotion",
+      "url": "https://www.dailymotion.com/video/x5tks3u",
+      "snippet": "Curly Locks! What a lucky girl! This man will do anything to keep her comfortable... Just watch the song to know how lucky she is!",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.7543618679046631,
+      "embedding_score_norm": 0.23755292495063363,
+      "embedding_rank": 8
+    },
+    {
+      "title": "How Do Locks Work?",
+      "url": "https://thekidshouldseethis.com/post/how-locks-work-video",
+      "snippet": "How Locks Work by Carlo Clerici. This features a pin tumbler lock, invented by Linus Yale, Sr. in 1848. Here's another example in gif format",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.7499048709869385,
+      "embedding_score_norm": 0.1951471804172295,
+      "embedding_rank": 9
+    },
+    {
+      "title": "মোবাইলের কল ভুলে গেলে আনলক করার উপায়। 🔥🔐Mobile lock ...",
+      "url": "https://www.facebook.com/asadvaiofficial/videos/%E0%A6%AE%E0%A7%8B%E0%A6%AC%E0%A6%BE%E0%A6%87%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A6%B2-%E0%A6%AD%E0%A7%81%E0%A6%B2%E0%A7%87-%E0%A6%97%E0%A7%87%E0%A6%B2%E0%A7%87-%E0%A6%86%E0%A6%A8%E0%A6%B2%E0%A6%95-%E0%A6%95%E0%A6%B0%E0%A6%BE%E0%A6%B0-%E0%A6%89%E0%A6%AA%E0%A6%BE%E0%A7%9F-mobile-lock-unlock-tricks-lock-unlock-andro/1366812891879205",
+      "snippet": "আপনাকে আর দোকানে গিয়ে টাকা খরচ করে বেকারের কাছ থেকে আনলক করতে হবে. এই মোবাইলটা লক করো না. ঠিক আছে. মোবাইলের লট ভুলে গেলে নিজে আনলক করবেন. চলুন তাহলে মোবাইল স্ক্রিনে দেখিয়ে দেওয়া দরকার.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.7482098340988159,
+      "embedding_score_norm": 0.17901988605752928,
+      "embedding_rank": 10
+    },
+    {
+      "title": "lock | definition for kids",
+      "url": "https://kids.wordsmyth.net/we?rid=24220&level=5",
+      "snippet": "A lock is something that keeps doors, windows, and other things closed. A lock also keeps people from getting into something or taking something that is not",
+      "bm25_score_raw": 1.3121461883048748,
+      "bm25_score_norm": 0.4198324587042869,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.7432587146759033,
+      "embedding_score_norm": 0.13191285204378494,
+      "embedding_rank": 11
+    },
+    {
+      "title": "Lock and key Song | Poem | Rhyme | Kids Song | Fun | Easy",
+      "url": "https://www.youtube.com/watch?v=eoxXG9k7r1I",
+      "snippet": "Click, turn, and learn! Sing along with this fun and rhythmic song that teaches kids how a lock and key work together.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.7293941974639893,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

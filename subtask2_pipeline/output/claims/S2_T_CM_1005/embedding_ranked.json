@@ -1,0 +1,131 @@
+{
+  "claim": {
+    "id": "S2/T/CM/1005",
+    "text": "hum sab bhai hai mere yaar apne aadarshon se na bhatko jo apne maa baap ne ksikhaya hai logo ke sath acche karm karo accha bolo duniya me koi b aisa mazhab nahin hai jo galat kaam sikhata ho aaj kal ke bure politician ki baton me mat aao ye sab sirf mahol me zeher ghol rahe hai",
+    "lang": "codemix"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Miss you adarsh bhai☹️….",
+      "url": "https://www.instagram.com/reel/Da7WSsVTck4",
+      "snippet": "मेरा बचपन का दोस्त, मयंक भाई। ❤️ दोस्ती वही जो हर वक्त साथ निभाए। ✨#trendingreels #viral · View all 3 comments.Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.8234974145889282,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Reveal the Mother and Father | SHIVA DARSHAN",
+      "url": "https://shivadarshan.com/2022/11/12/reveal-the-mother-and-father",
+      "snippet": "The Father is here teaching Raja Yoga to souls to change them from degraded humans into elevated deities. The knowledge Baba is giving is for",
+      "bm25_score_raw": 4.002500570470959,
+      "bm25_score_norm": 0.5859972487462047,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8220834732055664,
+      "embedding_score_norm": 0.9828490204811123,
+      "embedding_rank": 2
+    },
+    {
+      "title": "After losing their father, brothers Smiran and Darshan Purewal faced ...",
+      "url": "https://www.instagram.com/p/DSlritpjGzg",
+      "snippet": "After losing their father, brothers Smiran and Darshan Purewal faced a grief that no child should have to navigate alone.",
+      "bm25_score_raw": 4.8392720303101475,
+      "bm25_score_norm": 0.7085071059371589,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8198503255844116,
+      "embedding_score_norm": 0.9557611443047932,
+      "embedding_rank": 3
+    },
+    {
+      "title": "In frame : @adarsh.foryou @atul.singh ...",
+      "url": "https://www.instagram.com/reel/Da5qKvEtrgx",
+      "snippet": "Haan bhai. Are aa jaiyo ek urgent kaam hai tere se fatafat aa jaiyo. Bhai yaar raat ke do baje kya urgent kaam pad gaya tumhe? Are aaja aaja ...Read more",
+      "bm25_score_raw": 1.8452494035991052,
+      "bm25_score_norm": 0.2701588806100825,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8182886838912964,
+      "embedding_score_norm": 0.9368185735521224,
+      "embedding_rank": 4
+    },
+    {
+      "title": "What things or principles did your parents teach you to become the ...",
+      "url": "https://www.quora.com/What-things-or-principles-did-your-parents-teach-you-to-become-the-individual-you-are-today",
+      "snippet": "What things or principles did your parents teach you to become the individual you are today?",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.8160812854766846,
+      "embedding_score_norm": 0.9100430328935573,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Some Trends in one content😂😜 Apna Trend hai ye😂 # ...",
+      "url": "https://www.instagram.com/reel/DSk2qmrE4xM",
+      "snippet": "Bhai yaar Aryan apne video nahi chal rahe yaar, apne video viral nahi ho rahe kya karein hum? ... Bhaiya hum log video banate hain na, toh sab ...Read more",
+      "bm25_score_raw": 6.830237819434611,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8062448501586914,
+      "embedding_score_norm": 0.7907279731160095,
+      "embedding_rank": 6
+    },
+    {
+      "title": "Sai Baba teaches importance of respecting parents",
+      "url": "https://www.facebook.com/groups/223054021158990/posts/3551480284982997",
+      "snippet": "The most important people for you are your father and mother; they are the people who have given you this body. Yes, they are the people who",
+      "bm25_score_raw": 4.143334855562481,
+      "bm25_score_norm": 0.606616484681269,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8004932999610901,
+      "embedding_score_norm": 0.7209621958343696,
+      "embedding_rank": 7
+    },
+    {
+      "title": "Aadarsh Bhai????🥹 . . . #menofculture #moc #popculture # ...",
+      "url": "https://www.instagram.com/p/DIyLywySQ-W",
+      "snippet": "Adarsh hai kya? Aap YouTuber ho? Dikhata hoon... Adarsh Singh Instagram photos and videos... Oh my god bhai, haan yaar same hai. Arey yaar ...Read more",
+      "bm25_score_raw": 1.5874380640375096,
+      "bm25_score_norm": 0.23241329306582087,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.7891979217529297,
+      "embedding_score_norm": 0.5839502923807486,
+      "embedding_rank": 8
+    },
+    {
+      "title": "Father or Mother? | Sadhguru Explains Who Shaped His Life ...",
+      "url": "https://www.youtube.com/watch?v=kdqz9udNTXY",
+      "snippet": "Sadhguru dives deep into his personal life, sharing heartfelt stories about the impact both his mother and father had on shaping his journey.",
+      "bm25_score_raw": 2.613290822431212,
+      "bm25_score_norm": 0.3826061246352815,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.7850534915924072,
+      "embedding_score_norm": 0.5336787340000347,
+      "embedding_rank": 9
+    },
+    {
+      "title": "Hum Sab Bhai Hain - Song",
+      "url": "https://www.jiosaavn.com/song/hum-sab-bhai-hain/Bxs6djFEUms",
+      "snippet": "Hum Sab Bhai Hain is a Hindi language song and is sung by Pastyx. Hum Sab Bhai Hain, from the album Hum Sab Bhai Hain, was released in the year 2025. The ...Read more",
+      "bm25_score_raw": 5.595592284971232,
+      "bm25_score_norm": 0.8192382802615825,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.7449499368667603,
+      "embedding_score_norm": 0.04722628708261274,
+      "embedding_rank": 10
+    },
+    {
+      "title": "Aryan Rao: Mera Bhai Mera Yaar (official video)",
+      "url": "https://www.youtube.com/watch?v=dHQ8mW5xhe0",
+      "snippet": "“ Mera Bhai Mera Yaar ” Song by Aryan Rao … exclusively on Sonotek. A song made with very much love and Smartwork by Aryan Rao and Team :)",
+      "bm25_score_raw": 1.4243768430321395,
+      "bm25_score_norm": 0.20853986064427338,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.7410565614700317,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 11
+    }
+  ]
+}

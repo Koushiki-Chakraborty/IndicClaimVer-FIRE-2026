@@ -1,0 +1,76 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1028",
+    "text": "Over 33,000 riot refugees apply to register in voters list",
+    "lang": "english"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "The 33 - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_33",
+      "snippet": "2015 film by Patricia Riggen. For the group of 33 miners, see 2010 Copiapó mining accident. | Release dates | * August 6, 2015 (2015-08-06) (Chile) * August 20, 2015 (2015-08-20) (Colombia) * November 13, 2015 (2015-11-13) (United States) * January 22, 2016 (2016-01-22) (Spain) |. ***The 33*** (Spanish: ***Los 33***; \"*Los treinta y tres*\") is a 2015 biographical disaster-survival drama film directed by Patricia Riggen and written by Mikko Alanne, Craig Borten, Michael Thomas, and José Rivera. The film is based on the real events of the 2010 Copiapó mining disaster, in which 33 miners were trapped inside the San José Mine in Chile for 69 days. It was released in Chile on August 6, 2015, by 20th Century Fox and in the United States on November 13, 2015, by Warner Bros. In August 2010, a group of 33 miners from Copiapó, Chile, work in the San José Mine when the mine collapses due to the owner's negligence in ignoring warning signs of instability.",
+      "bm25_score_raw": 1.0411728524562338,
+      "bm25_score_norm": 0.8397920866566138,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.7846671938896179,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "The 33 | Rotten Tomatoes",
+      "url": "https://www.rottentomatoes.com/m/the_33",
+      "snippet": "Continue   By joining, you agree to the Terms and Policies and the Privacy Policy and to receive email from Fandango Media Brands. Email change successful You are signed out for your security. Retry   By continuing, you agree to the Terms and Policies and the Privacy Policy and to receive email from Fandango Media Brands. Didn't you get the email? By continuing, you agree to the Terms and Policies and the Privacy Policy and to receive email from Fandango Media Brands. username@email.com     Continue   Send email to verify  Forgot password  By continuing, you agree to the Terms and Policies and the Privacy Policy and to receive email from Fandango Media Brands. By clicking \"Sign Me Up,\" you are agreeing to receive occasional emails and communications from Fandango Media (Fandango, Vudu, and Rotten Tomatoes) and consenting to Fandango's Privacy Policy and Terms and Policies. * What to Watch: In Theaters and On Streaming. Link to What to Watch: In Theaters and On Streaming.",
+      "bm25_score_raw": 0.6078094162462527,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.7758951187133789,
+      "embedding_score_norm": 0.6914867524888215,
+      "embedding_rank": 2
+    },
+    {
+      "title": "The 33 (2015) ⭐ 6.9 | Biography, Drama, History",
+      "url": "https://www.imdb.com/title/tt2006295",
+      "snippet": "Image 3: Antonio Banderas, Juliette Binoche, Lou Diamond Phillips, and Rodrigo Santoro in The 33 (2015). Based on the real-life event, when a gold and copper mine collapses, it traps 33 miners underground for 69 days.Based on the real-life event, when a gold and copper mine collapses, it traps 33 miners underground for 69 days.Based on the real-life event, when a gold and copper mine collapses, it traps 33 miners underground for 69 days. I hate movies that do this (if you want to tell the story in English then just have the actors speak in plain English; you're not more convincing because you do it with an accent), but despite that pet peeve of mine, the film managed to draw me in emotionally and I found it to be a beautiful and honest tribute. Based on the true story of 33 miners who go into a mine in Chile to have a big rock get in-between them and the surface, and they have to survive long enough to be rescued.",
+      "bm25_score_raw": 1.123845996127936,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.7716785669326782,
+      "embedding_score_norm": 0.5431909322835108,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Amazon.com: The 33 (Blu-ray + UV) : Andres Calderon, Carlos Eugenio Lavin, Mike Medavoy, Robert Katz, Leopoldo Enriquez, Edward McGurn, Jose Luis Escolar, Alan Zhang, Mikko Alanne, Craig Borten, Michael Thomas, Antonio Banderas, Rodrigo Santoro, Juliette Binoche, James Brolin, Mario Casas, Lou Diamond Phillips, Bob Gunton, Gabriel Byrne, Patricia Riggen: Movies & TV",
+      "url": "https://www.amazon.com/33-Blu-ray-UV-Antonio-Banderas/dp/B017Y394CA",
+      "snippet": "*   Add to cart shift+alt+K. To move between items, use your keyboard's up or down arrows. Select the department you want to search in. STREAM ANYTIME with Prime Video from $3.99. ##### Buy New. FREE delivery Monday, July 27. To add the following enhancements to your purchase, choose a different seller. *   Image 4: The 33 (Blu-ray + UV). pd_rd_w=wgsFB&content-id=amzn1.sym.b853d215-90db-49b5-bd69-9909dc4557b0&pf_rd_p=b853d215-90db-49b5-bd69-9909dc4557b0&pf_rd_r=CEJDP0JWK9QCY46953S9&pd_rd_wg=BvCNP&pd_rd_r=a23a090c-6f7e-4b65-ab05-235b11445a5c&pd_rd_i=B001FFBI7S&psc=1)Jamie Foxx  _4.6 out of 5 stars_ 3,321  Blu-ray $8.99$8.99  Get it as soon as **Sunday, Jul 26**  FREE Shipping on orders over $35 shipped by Amazon Only 6 left in stock - order soon. pd_rd_w=wgsFB&content-id=amzn1.sym.b853d215-90db-49b5-bd69-9909dc4557b0&pf_rd_p=b853d215-90db-49b5-bd69-9909dc4557b0&pf_rd_r=CEJDP0JWK9QCY46953S9&pd_rd_wg=BvCNP&pd_rd_r=a23a090c-6f7e-4b65-ab05-235b11445a5c&pd_rd_i=B00O1D37NO&psc=1)Roger Donaldson  _4.5 out of 5 stars_ 1,029  Blu-ray $7.71$7.71  Get it as soon as **Sunday, Jul 26**  FREE Shipping on orders over $35 shipped by Amazon. 4.   Image 17: Mile 22 (Blu-ray + DVD) Mile 22 (Blu-ray + DVD)Mark Wahlberg  _4.6 out of 5 stars_ 3,034  Blu-ray $7.00$7.00  Get it as soon as **Sunday, Jul 26**  FREE Shipping on orders over $35 shipped by Amazon Only 4 left in stock - order soon.",
+      "bm25_score_raw": 0.7717955808979263,
+      "bm25_score_norm": 0.31778011684612034,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.7679020166397095,
+      "embedding_score_norm": 0.41036993247846587,
+      "embedding_rank": 4
+    },
+    {
+      "title": "The 33 - Official Trailer [HD]",
+      "url": "https://www.youtube.com/watch?v=hOoIBOYqHyw",
+      "snippet": "The 33 - Official Trailer [HD]\nWarner Bros.\n12800000 subscribers\n26198 likes\n8064517 views\n29 Jul 2015\nThe 33 - in theaters November 13th.\nhttp://the33movie.com\nhttps://www.facebook.com/the33movie\n\n---\nFrom Alcon Entertainment and Phoenix Pictures comes the unforgettable true story of “The 33.”\n\nIn 2010, the eyes of the world turned to Chile, where 33 miners had been buried alive by the catastrophic explosion and collapse of a 100-year-old gold and copper mine.  Over the next 69 days, an international team worked night and day in a desperate attempt to rescue the trapped men as their families and friends, as well as millions of people globally, waited and watched anxiously for any sign of hope.  But 200 stories beneath the surface, in the suffocating heat and with tensions rising, provisions—and time—were quickly running out.\n\nA story of resilience, personal transformation and triumph of the human spirit, the film takes us to the Earth’s darkest depths, revealing the psyches of the men trapped in the mine, and depicting the courage of both the miners and their families who refused to give up.\n\nBased on the gripping true story of survival—and filmed with the cooperation of the miners, their families and their rescuers—“The 33” reveals the never-before-seen actual events that unfolded, above and below ground, which became nothing less than a worldwide phenomenon.\n\nThe international cast is led by Antonio Banderas, Rodrigo Santoro, Academy Award winner Juliette Binoche (“The English Patient”), James Brolin, and Lou Diamond Phillips, with Bob Gunton and Gabriel Byrne.  The main cast also includes Mario Casas, Jacob Vargas, Juan Pablo Raba, Oscar Nuñez, Tenoch Huerta, Marco Treviño, Adriana Barraza, Kate Del Castillo, Cote de Pablo, Elizabeth De Razzo, Naomi Scott, Gustavo Angarita, and Alejandro Goic. \n\nPatricia Riggen directed “The 33” from a screenplay by Mikko Alanne, Oscar nominee Craig Borten (“Dallas Buyers Club”) and Michael Thomas, based on the screen story by Jose Rivera and the book Deep Down Dark by Hector Tobar.  The film was produced by Oscar nominee Mike Medavoy (“Black Swan”), Robert Katz and Edward McGurn. Carlos Eugenio Lavin, Leopoldo Enriquez, Alan Zhang and José Luis Escolar served as executive producers.\n\nThe behind-the-scene creative team included cinematographer Checco Varese, production designer Marco Niro, editor Michael Tronick and Oscar-nominated costume designer Paco Delgado (“Les Misérables”).  The Academy Award-winning team of Alex Henning and Ben Grossman (“Hugo”) supervised the visual effects.  The score was composed by Oscar winner James Horner (“Titanic”).\n\n“The 33” was filmed on location in Chile’s harshly remote yet stunningly beautiful Atacama desert just kilometers away from where the event took place, and deep within two mines located in central Colombia.\n\nA presentation of Alcon Entertainment and Phoenix Pictures, “The 33” is slated to open on November 13, 2015 and will be distributed by Warner Bros. Pictures, a Warner Bros. Entertainment Company.\n1926 comments\n",
+      "bm25_score_raw": 0.7943876456526451,
+      "bm25_score_norm": 0.3615600844598478,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.7673004865646362,
+      "embedding_score_norm": 0.38921416338073045,
+      "embedding_rank": 5
+    },
+    {
+      "title": "'The 33' Brings True Story of Chilean Miners to Light",
+      "url": "https://themontclarion.org/entertainment/the-33-brings-true-story-of-chilean-miners-to-light",
+      "snippet": "Nov 5, 2015 — The story is a miracle and recounts the true events of the fateful 69 days in 2010 in which 33 Chilean miners were trapped 200 stories beneath the Earth's ...Read more",
+      "bm25_score_raw": 0.8505735322025963,
+      "bm25_score_norm": 0.4704397428802519,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.756233811378479,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6
+    }
+  ]
+}

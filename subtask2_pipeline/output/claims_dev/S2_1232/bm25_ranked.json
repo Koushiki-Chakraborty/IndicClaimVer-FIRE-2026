@@ -1,0 +1,57 @@
+{
+  "claim": {
+    "id": "S2/1232",
+    "text": "BJP will regret projecting Modi's 'larger than party' image: Chidambaram",
+    "lang": "dev"
+  },
+  "ranked_evidence": [
+    {
+      "title": "BJP making mistake of projecting Modi larger than party: FM",
+      "url": "https://www.business-standard.com/article/politics/bjp-making-mistake-of-projecting-modi-larger-than-party-fm-113110500782_1.html",
+      "snippet": "Nov 5, 2013 — Finance Minister P Chidambaram today said BJP is making a mistake by projecting Narendra Modi larger than the party and it would realise",
+      "bm25_score_raw": 10.53645736368828,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "P Chidambaram's 'Only Regret': Didn't Serve Under ' ...",
+      "url": "https://www.ndtv.com/india-news/p-chidambarams-only-regret-didnt-serve-under-absolute-majority-1775513",
+      "snippet": "Nov 15, 2017 — Senior Congress leader P Chidambaram said Tuesday his only regret in life was not having served as finance minister in a government which",
+      "bm25_score_raw": 3.0477082776859232,
+      "bm25_score_norm": 0.19203452191211023,
+      "bm25_rank": 2
+    },
+    {
+      "title": "P. Chidambaram on Four years of Modi govt. | Karan Thapar",
+      "url": "https://www.youtube.com/watch?v=U4VUxt0fJ1A",
+      "snippet": "Karan Thapar interviews former finance minister P. Chidambaram about the opposition's assessment of four years of Modi government on a wide",
+      "bm25_score_raw": 2.3948556858749175,
+      "bm25_score_norm": 0.12159787749983528,
+      "bm25_rank": 3
+    },
+    {
+      "title": "Go back to middle school, Chidambaram tells BJP leaders",
+      "url": "https://www.nationalheraldindia.com/national/go-back-to-middle-school-or-consult-eye-doctor-chidambaram-to-bjp-leaders-criticising-manifesto",
+      "snippet": "If the BJP leaders read the words 'generation of wealth' as 'redistribution of wealth', they should consult an eye doctor, says party leader.",
+      "bm25_score_raw": 1.5711562439116438,
+      "bm25_score_norm": 0.03272846743099658,
+      "bm25_rank": 4
+    },
+    {
+      "title": "BJP no longer a political party, but a cult worshipping ...",
+      "url": "https://www.thehindu.com/elections/lok-sabha/bjp-no-longer-a-political-party-but-a-cult-worshipping-narendra-modi-p-chidambaram/article68090331.ece",
+      "snippet": "Apr 21, 2024 — Senior Congress leader P. Chidambaram on Sunday lashed out at the BJP-led NDA government and said the saffron party is no longer a political party but has",
+      "bm25_score_raw": 1.4097452378501882,
+      "bm25_score_norm": 0.015313740460793203,
+      "bm25_rank": 5
+    },
+    {
+      "title": "BJP no longer a political party, but a cult worshipping ...",
+      "url": "https://timesofindia.indiatimes.com/india/bjp-no-longer-a-political-party-but-a-cult-worshipping-narendra-modi-p-chidambaram/articleshow/109472448.cms",
+      "snippet": "Apr 21, 2024 — India News: Senior Congress leader P Chidambaram on Sunday lashed out at the BJP-led NDA government and said the saffron party is no longer",
+      "bm25_score_raw": 1.2678075400286886,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6
+    }
+  ]
+}

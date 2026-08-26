@@ -1,0 +1,108 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1092",
+    "text": "Indore reports more than half of new Covid cases in Madhya Pradesh",
+    "lang": "english"
+  },
+  "generated_queries": {
+    "english_translation": "Indore reports more than half of new Covid cases in Madhya Pradesh",
+    "native_query": "Indore Madhya Pradesh reports Covid",
+    "english_query": "Indore Madhya Pradesh reports Covid"
+  },
+  "native_retrieval": [
+    {
+      "title": "Indore reports four more Covid cases, 32 active: 9 RRTs ...",
+      "url": "https://www.bhaskarenglish.in/local/mp/indore/news/indore-reports-four-more-covid-cases-32-active-9-rrts-deployed-to-trace-contacts-new-local-cases-in-home-isolation-no-travel-history-135204859.html",
+      "snippet": "The total number of COVID-19 cases reported from Indore has reached 57, including nine patients from other districts. According to health officials, 32 cases"
+    },
+    {
+      "title": "COVID-19 Update: 5 New Cases Reported in Indore, Active ...",
+      "url": "https://www.youtube.com/watch?v=d38np77EYJE",
+      "snippet": "Indore reports 5 new COVID-19 positive patients, bringing the total active cases to 20. Since January 2025, the city has recorded 38 confirmed"
+    },
+    {
+      "title": "7 new Covid-19 cases in Indore, active tally rises to 17",
+      "url": "https://www.deccanherald.com/india/madhya-pradesh/7-new-covid-19-cases-in-indore-active-tally-rises-to-17-3572399",
+      "snippet": "7 new Covid-19 cases in Indore, active tally rises to 17. Since January 1, a total of 33 Covid-19 cases have been recorded in Indore, including"
+    },
+    {
+      "title": "Indore Reports 12 COVID Cases in 3 Days | Health Officer Dr ...",
+      "url": "https://www.youtube.com/watch?v=kOmwD1pMZSw",
+      "snippet": "Indore is witnessing a fresh spike in COVID-19 cases with 12 new infections detected in just 3 days. District Health Officer Dr. Nirmala"
+    },
+    {
+      "title": "COVID-19 pandemic in Madhya Pradesh",
+      "url": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Madhya_Pradesh",
+      "snippet": "As of 2025, Madhya Pradesh has reported more than 1.04 conformed COVID-19 cases and approximately 10,777 deaths related to the disease. By mid-2025, the"
+    },
+    {
+      "title": "Coronavirus cases & dashboard Madhya Pradesh",
+      "url": "https://covidtracking.in/coronavirus-cases/madhya-pradesh",
+      "snippet": "At least 0 new cases were reported in Madhya Pradesh on 14th Jan. Over the past week, there have been an average of 3080 cases per day,an increase of 315"
+    }
+  ],
+  "english_retrieval": [
+    {
+      "title": "Indore reports four more Covid cases, 32 active: 9 RRTs ...",
+      "url": "https://www.bhaskarenglish.in/local/mp/indore/news/indore-reports-four-more-covid-cases-32-active-9-rrts-deployed-to-trace-contacts-new-local-cases-in-home-isolation-no-travel-history-135204859.html",
+      "snippet": "The total number of COVID-19 cases reported from Indore has reached 57, including nine patients from other districts. According to health officials, 32 cases"
+    },
+    {
+      "title": "COVID-19 Update: 5 New Cases Reported in Indore, Active ...",
+      "url": "https://www.youtube.com/watch?v=d38np77EYJE",
+      "snippet": "Indore reports 5 new COVID-19 positive patients, bringing the total active cases to 20. Since January 2025, the city has recorded 38 confirmed"
+    },
+    {
+      "title": "7 new Covid-19 cases in Indore, active tally rises to 17",
+      "url": "https://www.deccanherald.com/india/madhya-pradesh/7-new-covid-19-cases-in-indore-active-tally-rises-to-17-3572399",
+      "snippet": "7 new Covid-19 cases in Indore, active tally rises to 17. Since January 1, a total of 33 Covid-19 cases have been recorded in Indore, including"
+    },
+    {
+      "title": "Indore Reports 12 COVID Cases in 3 Days | Health Officer Dr ...",
+      "url": "https://www.youtube.com/watch?v=kOmwD1pMZSw",
+      "snippet": "Indore is witnessing a fresh spike in COVID-19 cases with 12 new infections detected in just 3 days. District Health Officer Dr. Nirmala"
+    },
+    {
+      "title": "COVID-19 pandemic in Madhya Pradesh",
+      "url": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Madhya_Pradesh",
+      "snippet": "As of 2025, Madhya Pradesh has reported more than 1.04 conformed COVID-19 cases and approximately 10,777 deaths related to the disease. By mid-2025, the"
+    },
+    {
+      "title": "Coronavirus cases & dashboard Madhya Pradesh",
+      "url": "https://covidtracking.in/coronavirus-cases/madhya-pradesh",
+      "snippet": "At least 0 new cases were reported in Madhya Pradesh on 14th Jan. Over the past week, there have been an average of 3080 cases per day,an increase of 315"
+    }
+  ],
+  "merged_results": [
+    {
+      "title": "Indore reports four more Covid cases, 32 active: 9 RRTs ...",
+      "url": "https://www.bhaskarenglish.in/local/mp/indore/news/indore-reports-four-more-covid-cases-32-active-9-rrts-deployed-to-trace-contacts-new-local-cases-in-home-isolation-no-travel-history-135204859.html",
+      "snippet": "The total number of COVID-19 cases reported from Indore has reached 57, including nine patients from other districts. According to health officials, 32 cases"
+    },
+    {
+      "title": "COVID-19 Update: 5 New Cases Reported in Indore, Active ...",
+      "url": "https://www.youtube.com/watch?v=d38np77EYJE",
+      "snippet": "Indore reports 5 new COVID-19 positive patients, bringing the total active cases to 20. Since January 2025, the city has recorded 38 confirmed"
+    },
+    {
+      "title": "7 new Covid-19 cases in Indore, active tally rises to 17",
+      "url": "https://www.deccanherald.com/india/madhya-pradesh/7-new-covid-19-cases-in-indore-active-tally-rises-to-17-3572399",
+      "snippet": "7 new Covid-19 cases in Indore, active tally rises to 17. Since January 1, a total of 33 Covid-19 cases have been recorded in Indore, including"
+    },
+    {
+      "title": "Indore Reports 12 COVID Cases in 3 Days | Health Officer Dr ...",
+      "url": "https://www.youtube.com/watch?v=kOmwD1pMZSw",
+      "snippet": "Indore is witnessing a fresh spike in COVID-19 cases with 12 new infections detected in just 3 days. District Health Officer Dr. Nirmala"
+    },
+    {
+      "title": "COVID-19 pandemic in Madhya Pradesh",
+      "url": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Madhya_Pradesh",
+      "snippet": "As of 2025, Madhya Pradesh has reported more than 1.04 conformed COVID-19 cases and approximately 10,777 deaths related to the disease. By mid-2025, the"
+    },
+    {
+      "title": "Coronavirus cases & dashboard Madhya Pradesh",
+      "url": "https://covidtracking.in/coronavirus-cases/madhya-pradesh",
+      "snippet": "At least 0 new cases were reported in Madhya Pradesh on 14th Jan. Over the past week, there have been an average of 3080 cases per day,an increase of 315"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "claim": {
+    "id": "S2/1295",
+    "text": "Karnataka High Court Weekly Round-Up: June 26 to July 02",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Mines and Geology Department recommends referring Ballari mining representations to Justice Dhulia committee - The Hindu",
+      "url": "https://www.thehindu.com/news/national/karnataka/mines-and-geology-department-recommends-referring-ballari-mining-representations-to-justice-dhulia-committee/article71237963.ece",
+      "snippet": "The View From India Looking at World Affairs from the Indian perspective.SEE ALL NEWSLETTERS. First Day First Show News and reviews from the world of cinema and streaming.SEE ALL NEWSLETTERS. Today's Cache Your download of the top 5 technology stories of the day.SEE ALL NEWSLETTERS. In a letter dated July 17, 2026, the director of the Mines and Geology Department informed the State government that a representation submitted by Ballari-based petitioners Tapal Ekambaram and Tapal Ganesh, forwarded by the Union Ministry of Environment, Forest and Climate Change, should be placed before the Justice Dhulia Committee, constituted by the Supreme Court to examine issues relating to OMC and the inter-State forest boundary dispute. The department said it was not the competent authority to decide the issues raised in the representation and recommended that the matter be forwarded to the Central Empowered Committee (CEC) and the Justice Dhulia Committee for an appropriate decision.",
+      "bm25_score_raw": 0.543941296509829,
+      "bm25_score_norm": 0.09833651347582902,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.7979837656021118,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Self-styled Imam jailed 10 years for defiling 7-year-old boy - GhanaWeb",
+      "url": "https://www.ghanaweb.com/GhanaHomePage/crime/Self-styled-Imam-jailed-10-years-for-defiling-7-year-old-boy-2044805",
+      "snippet": "You are here: Home → News → Crime & Punishment → 2026 07 25 → **Article 2044805**. Crime & Punishment of Saturday, 25 July 2026. Konate denied the charge of defiling a child under 16. The Wa High Court has sentenced a 42-year-old self-styled Imam, Ilyasu Konate, to 10 years’ imprisonment with hard labour for defiling a seven-year-old boy in Kabenya, a suburb of Wa. The conviction follows a swift prosecution led by Principal State Attorney Abdul Saeed Shakur, who revealed that the convict exploited his position as a trusted neighbour to commit the crime. On January 17, 2026, Konate lured the victim, the child’s sister, and his own stepdaughter onto his motorbike under the pretext of taking them for a ride. Although Konate denied the charge of defiling a child under 16, claiming no assault occurred, the court rejected his defence. He affirmed that the prosecution will relentlessly pursue offenders to ensure the full rigour of the law is applied, offering the victim’s family long-awaited relief as Konate begins his sentence immediately.",
+      "bm25_score_raw": 0.5181090093812194,
+      "bm25_score_norm": 0.09366641935421435,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.7827408909797668,
+      "embedding_score_norm": 0.6790362540570255,
+      "embedding_rank": 2
+    },
+    {
+      "title": "BioTecNika Times-24-07-2026: ACTREC Govt Jobs, Mondelēz & Flychem Freshers Hiring, CSIR Research Jobs, Novotech Clinical Research & AI Cancer Genomics Career Session + More - BioTecNika",
+      "url": "https://www.biotecnika.org/2026/07/biotecnika-times-24-07-2026-actrec-govt-jobs-more/?amp",
+      "snippet": "Home BioTecNika Times BioTecNika Times-24-07-2026: ACTREC Govt Jobs, Mondelēz & Flychem Freshers Hiring, CSIR Research... # BioTecNika Times-24-07-2026: ACTREC Govt Jobs, Mondelēz & Flychem Freshers Hiring, CSIR Research Jobs, Novotech Clinical Research & AI Cancer Genomics Career Session + More. | | |  |  |  | | --- | --- | --- | | |  |  | | --- | --- | | Story 1 | 24 Jul 2026 | B.Sc Freshers Jobs in Hyderabad at Flychem | Microbio & Biotech Eligible Biotech & Microbiology Freshers Jobs at Flychem | Apply Now The Microbiologist role at Flychem in Hyderabad presents an excellent opportunity for freshers looking to start their careers in the field of microbiology and biotechnology. |  | | --- | | Read the full post | | | | |  |  | | --- | --- | | Story 6 | 24 Jul 2026 | Biomedical Sciences Job Earn ₹54,200/Month at IIT | Research Associate-I Jobs 2026 Life Sciences Jobs at IIT | Apply Now Are you looking for Life Sciences Jobs at a prestigious IIT?",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.780438244342804,
+      "embedding_score_norm": 0.6305502493831313,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Philippine Star - facebook.com",
+      "url": "https://www.facebook.com/PhilippineSTAR/posts/1561452786018595/",
+      "snippet": "## Philippine Star's Post. ### **Philippine Star**. #### **PhilSTAR Life**. YOUR GUIDE TO THE WEEK AHEAD. Mercury retrograde is almost over, but how will its final stretch affect your life and love? See what your zodiac sign can expect this July 20–26. Full story in the comments. FULL STORY: https://philstarlife.com/.../435691-weekly-horoscope-july... Weekly horoscope: What's ahead for your zodiac sign in life and love this July 20-26.",
+      "bm25_score_raw": 4.386803342066349,
+      "bm25_score_norm": 0.7930689372747858,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.7765587568283081,
+      "embedding_score_norm": 0.5488612716908101,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Former Venezuelan president Maduro gets June 2027 court date for drug charges - USA Today",
+      "url": "https://www.usatoday.com/story/news/world/2026/07/22/nicolas-maduro-court-appearance-trial-date/91007020007/",
+      "snippet": "Ousted Venezuelan leader Nicolás Maduro and his wife, Cilia Flores, will go on trial June 1, 2027, as they fight drug trafficking charges, a federal judge announced at a July 22 court hearing in New York City. The ousted former president of Venezuela is facing charges that he helped others transport thousands of tons of cocaine into the United States as part of a narco-terrorism conspiracy, and that he also committed other drug- and gun-related crimes. At the July 22 hearing, U.S. District Judge Alvin Hellerstein set trial for Maduro and Flores on June 1, 2027. Prosecutors said in a July 21 court filing that they had jointly agreed with Maduro to request a June 2027 trial date at the hearing the following day, and on deadlines beginning in September for Maduro to file motions challenging the case and for prosecutors to provide him with relevant case documents.",
+      "bm25_score_raw": 5.531427516428362,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.7682446837425232,
+      "embedding_score_norm": 0.37379481554182786,
+      "embedding_rank": 5
+    },
+    {
+      "title": "FY2027 will be a difficult year for India's oil marketing firms: ICICI Securities - CNBC",
+      "url": "https://www.cnbc.com/video/2026/07/24/fy2027-will-be-difficult-year-for-indias-oil-marketing-firms-analyst.html",
+      "snippet": "Monday - Friday, 11:00 - 12:00 SIN/HK | 0500 - 06:00 CET. # FY2027 will be a difficult year for India's oil marketing firms: ICICI Securities. Probal Sen, Energy Analyst at ICICI Securities, discusses the outlook for India's oil marketing companies as elevated crude prices continue to pressure refining and marketing margins.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.7504928112030029,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6
+    }
+  ]
+}

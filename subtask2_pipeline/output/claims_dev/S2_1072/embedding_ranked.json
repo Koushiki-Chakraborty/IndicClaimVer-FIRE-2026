@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/1072",
+    "text": "सावधान! फिर हो सकता है Corona Back, केंद्र ने राज्यों को कोई नया निर्देश नहीं दिया",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "क्या फिर मौत बनकर , लौट आया है कोरोना? नए वेरिएंट ने बढ़ाई टेंशन",
+      "url": "https://www.youtube.com/watch?v=E2D9nYxKtiY",
+      "snippet": "Covid-19 Cases in India : क्या फिर मौत बनकर , लौट आया है कोरोना? नए वेरिएंट ने बढ़ाई टेंशन | Corona India has recently detected new COVID-19 variants,",
+      "bm25_score_raw": 1.3772202705948315,
+      "bm25_score_norm": 0.6523261430953012,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8592155575752258,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "New Corona Variant Alert : कोरोना की फिर दस्तक, 23 देशों में फैल ...",
+      "url": "https://www.facebook.com/TV9Bharatvarsh/videos/new-corona-variant-alert-%E0%A4%95%E0%A5%8B%E0%A4%B0%E0%A5%8B%E0%A4%A8%E0%A4%BE-%E0%A4%95%E0%A5%80-%E0%A4%AB%E0%A4%BF%E0%A4%B0-%E0%A4%A6%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A4%95-23-%E0%A4%A6%E0%A5%87%E0%A4%B6%E0%A5%8B%E0%A4%82-%E0%A4%AE%E0%A5%87%E0%A4%82-%E0%A4%AB%E0%A5%88%E0%A4%B2-%E0%A4%B0%E0%A4%B9%E0%A4%BE-%E0%A4%A8%E0%A4%AF%E0%A4%BE-%E0%A4%B5%E0%A5%87%E0%A4%B0%E0%A4%BF%E0%A4%8F%E0%A4%82%E0%A4%9Fcov/24799717693060095",
+      "snippet": "... होंगे जैसे कि नॉर्मल फ्लू वायरस के सिम्टम्स होते हैं यानि कि खांसी, जुखाम, बुखार इसी वक्त, इसी टाइप के तो हमें इससे बहुत डरने की जरूरत नहीं है कोई थ्रेट नहीं है भारत के लिए एटलीस्ट इस पॉइंट पे तो बिल्कुल भी",
+      "bm25_score_raw": 1.273329030904437,
+      "bm25_score_norm": 0.6031176227622729,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8471142053604126,
+      "embedding_score_norm": 0.7816479622290455,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Corona",
+      "url": "https://en.wikipedia.org/wiki/Corona",
+      "snippet": "# Corona. From Wikipedia, the free encyclopedia. Look up ***corona*** or ***Corona*** in Wiktionary, the free dictionary. **Corona** (from the Latin for 'crown') most commonly refers to:. + Solar corona, the outer atmosphere of the Sun. * Corona (beer) \"Corona (beer)\"), a Mexican beer. * Corona, informal term for the coronavirus or disease responsible for the COVID-19 pandemic:. * Corona, a part of a cornice. * Corona (beer) \"Corona (beer)\"), a Mexican beer brand. * Corona, a character in the game *Doraemon: Nobita to Mittsu no Seireiseki*. * Corona, a character in the *Spider Riders* novels. * Corona, a fictional kingdom in the animated film *Tangled*. * *Corona* (film) \"Corona (film)\"), a 2020 Canadian thriller drama film. * *La Corona* (film) \"La Corona (film)\"), a 2008 American short film. * Corona, the circle of clergy or singers who surround the altar, and origin of the term choir#History \"Choir (architecture)\"). + Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), a coronavirus responsible for the 2020–2023 pandemic.",
+      "bm25_score_raw": 1.6485000698511023,
+      "bm25_score_norm": 0.7808189549764967,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8338194489479065,
+      "embedding_score_norm": 0.5417626086909761,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Coronavirus disease (COVID-19)",
+      "url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019",
+      "snippet": "Coronavirus disease (COVID-19) pandemic. Advice for health workers and administrators. All technical guidance on COVID-19. COVID-19 vaccine delivery partnership. ## Response. Timeline of WHO's Response to COVID-19. WHO dashboard of COVID-19 related recommendations. ## Research and studies. Global research on coronavirus disease (COVID-19). R&D Blueprint and COVID-19. About Coronavirus disease (COVID-19. Origins of the SARS-CoV-2 virus. Global Clinical Platform for COVID-19: call for action. ## Press conferences on COVID-19 and other global health issues. A year without precedent: WHO’s COVID-19 response. Novel Coronavirus (COVID-19) Situation dashboard. ## WHO response in countries. A global ethics network at the heart of WHO’s response to COVID-19. What's in a vaccine? Donors making a difference to maternal health & newborn health: the urgent drive to save women’s lives across the world. Digital solutions & channels to help keep communities everywhere safe and informed during the COVID-19 pandemic and beyond. WHO’s response in countries. WHO Director General's Special Envoys on COVID-19 →.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.8302952647209167,
+      "embedding_score_norm": 0.4781736151815146,
+      "embedding_rank": 4
+    },
+    {
+      "title": "2 की मौत, 8 नये...देश में कोरोना का ख़ौफ? #Corona #Health #Covid",
+      "url": "https://www.facebook.com/ZeeNews/videos/2-%E0%A4%95%E0%A5%80-%E0%A4%AE%E0%A5%8C%E0%A4%A4-8-%E0%A4%A8%E0%A4%AF%E0%A5%87%E0%A4%A6%E0%A5%87%E0%A4%B6-%E0%A4%AE%E0%A5%87%E0%A4%82-%E0%A4%95%E0%A5%8B%E0%A4%B0%E0%A5%8B%E0%A4%A8%E0%A4%BE-%E0%A4%95%E0%A4%BE-%E0%A4%96%E0%A4%BC%E0%A5%8C%E0%A4%ABcorona-health-covid/1790465525517017",
+      "snippet": "लेकिन बच्चों में ये कभी भी घातक नहीं होता है. ये mild cases ही होते हैं. जैसे पीछे कोविड में भी हमने देखा. तो बच्चों में कोई भी इसमें critical नहीं होते और पांच से सात दिनों में बच्चे recover करने लगते हैं.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.8204969167709351,
+      "embedding_score_norm": 0.3013760801879944,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Corona (@corona) / Posts / X",
+      "url": "https://x.com/corona?lang=en",
+      "snippet": "Paradise, best served with a slice of lime...🌴 #ThisIsLiving Enjoy responsibly. Don’t share with anyone under legal drinking age. Don't miss what's happening. People on X are the first to know. Send us a message when you’re all clear and we can make it happen 🙂... in the meantime we can offer you some digital escapism: instagram.com/p/B9rYX\\_thSbZ/. 🌊 @nolanomura visited the island of Moorea with friends to discover first hand the efforts being made by the @Coralgardeners to revive and preserve coral life in our #ocean. Watch the full story now: youtu.be/ClntFUl8kDY #ThisIsLiving. There are worse places to wait for a sunset. #CoronaSunSets #Ibiza: Experience our final stop of the summer, Set in paradise with @Disclosure (LIVE) and more. amp.twimg.com/v/c8bf2a16-20c…. Replying to @Sihle\\_Yen and @Shimza01. Embracing all the ocean gives us. The kickback session doesn’t start until the cooler is full.⁣ ⁣ #ThisIsLiving ⁣ ⁣ 📸: @shoniimu. Showing off our new look for #CoronaSunSets #Ibiza.",
+      "bm25_score_raw": 0.8571052308462267,
+      "bm25_score_norm": 0.4059714784935908,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.81430983543396,
+      "embedding_score_norm": 0.18973881901238418,
+      "embedding_rank": 6
+    },
+    {
+      "title": "Corona (beer)",
+      "url": "https://en.wikipedia.org/wiki/Corona_(beer)",
+      "snippet": "# Corona (beer). * Edit&action=edit \"Edit this page [e]\"). * What links here \"List of all English Wikipedia pages containing links to this page [j]\"). **Corona** is a Mexican brand of beer produced by Grupo Modelo in Mexico. It is brewed, exported, and distributed globally by Grupo Modelo's parent company AB InBev. In the United States and Guam, Constellation Brands is the exclusive licensee and sole importer distributor of Corona. It is the top-selling brand of imported beer in the United States. [edit&action=edit&section=1 \"Edit section: History\")]. With the reduction of tariffs on the import of Mexican beer to the United States when NAFTA came into effect in 1994, along with an increase in immigration between the two countries, Corona grew in popularity in the United States. [edit&action=edit&section=2 \"Edit section: Ingredients\")]. [edit&action=edit&section=3 \"Edit section: Packaging\")]. AB InBev resolved the branding issues with Torres in 2016, with the beer starting to be sold as Corona in Spain from June of that year.",
+      "bm25_score_raw": 1.6560814245888882,
+      "bm25_score_norm": 0.7844098953664469,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8136965036392212,
+      "embedding_score_norm": 0.17867210143953366,
+      "embedding_rank": 7
+    },
+    {
+      "title": "CORONA Definition & Meaning",
+      "url": "https://www.merriam-webster.com/dictionary/corona",
+      "snippet": "**:**the tenuous outermost part of the atmosphere of a star (such as the sun). Normally invisible to us, the _corona_ suddenly leaps into view the moment the moon blocks the sun’s brilliant face.— Phil Plait, _Scientific American_, 10 July 2026 In those places, day will briefly turn to twilight and, in a clear sky, the sun’s _corona_ will become visible around the moon for up to 2 minutes 18 seconds.— Jamie Carter, _Forbes.com_, 10 July 2026 However, Parker does host a bunch of antennas and magnetometers collectively referred to as the FIELDS experiment, designed to measure the electromagnetic field and radio emissions in the solar _corona_.— Keith Cooper, _Space.com_, 7 July 2026 What scientists can learn from eclipses Solar eclipses present scientists with unique opportunities to study the sun and its _corona_, or outer atmosphere, and invite the public to participate as citizen scientists.— Ashley Strickland, _CNN Money_, 6 June 2026 See All Example Sentences for _corona_.",
+      "bm25_score_raw": 0.8571052308462267,
+      "bm25_score_norm": 0.4059714784935908,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.8117915987968445,
+      "embedding_score_norm": 0.1443007479982577,
+      "embedding_rank": 8
+    },
+    {
+      "title": "Corona® USA: La Playa Awaits",
+      "url": "https://www.coronausa.com",
+      "snippet": "## La Playa Awaits. You must be of legal drinking age to enter this site. Please enter your date of birth below and press “Enter.”. * Corona Extra Bottle  Corona Extra Bottle. ### Corona Extra. * Corona Light Bottle  Corona Light Bottle. ### Corona Light. ### Crisp, clean and balanced. * Corona Familiar Bottle  Corona Familiar Bottle. ### Corona Familiar. Sign up and play every day for the chance to win a beach vacation for two, a Corona cooler, designer apparel, and so much more. ## Win\\* a Beach Trip or La Playa Pack. We’re giving away flyaway beach trips for winners and 3 travel companions and Corona La Playa Packs filled with beach essentials. Win\\* a Grand Prize Trip or Corona-branded baseball merch to enjoy America’s pastime! Win\\* a flyaway trip to a destination on the Corona Premier “Golf Tour” or a Corona Premier golf merch bundle! ### LA PLAYA AWAITS; GET 10% OFF YOUR FIRST MERCH PURCHASE.",
+      "bm25_score_raw": 2.1112449426906186,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8080500960350037,
+      "embedding_score_norm": 0.07679054435559762,
+      "embedding_rank": 9
+    },
+    {
+      "title": "Brands / Corona",
+      "url": "https://europecareers.ab-inbev.com/brands/corona",
+      "snippet": "[CONTINUE](https://europecareers.ab-inbev.com/brands/corona#). [![Image 2: logo.png](https://static.wixstatic.com/media/e345e4_89689bf514244a2daf9f91f48cfd2e31~mv2.png)](https://europecareers.ab-inbev.com/). [Teams](https://europecareers.ab-inbev.com/teams). [Brands](https://europecareers.ab-inbev.com/brands). *   [Stella Artois](https://europecareers.ab-inbev.com/brands/stella-artois). *   [Bud](https://europecareers.ab-inbev.com/brands/bud). *   [Corona Extra](https://europecareers.ab-inbev.com/brands/corona). *   [Leffe](https://europecareers.ab-inbev.com/brands/leffe). *   [Beck's](https://europecareers.ab-inbev.com/brands/becks). *   [Hertog Jan](https://europecareers.ab-inbev.com/brands/hertog-jan). *   [Hoegaarden](https://europecareers.ab-inbev.com/brands/hoegaarden). *   [Kwak](https://europecareers.ab-inbev.com/brands/kwak). *   [Goose Island](https://europecareers.ab-inbev.com/brands/goose-island). *   [Jupiler](https://europecareers.ab-inbev.com/brands/jupiler). *   [Victoria](https://europecareers.ab-inbev.com/brands/victoria). *   [Diekirch](https://europecareers.ab-inbev.com/brands/diekirch). *   [Corona Cero](https://europecareers.ab-inbev.com/brands/corona-cero). *   [Stella Artois](https://europecareers.ab-inbev.com/brands/stella-artois). *   [Bud](https://europecareers.ab-inbev.com/brands/bud). *   [Corona Extra](https://europecareers.ab-inbev.com/brands/corona). *   [Leffe](https://europecareers.ab-inbev.com/brands/leffe). *   [Beck's](https://europecareers.ab-inbev.com/brands/becks). *   [Hertog Jan](https://europecareers.ab-inbev.com/brands/hertog-jan). *   [Hoegaarden](https://europecareers.ab-inbev.com/brands/hoegaarden). *   [Kwak](https://europecareers.ab-inbev.com/brands/kwak). *   [Goose Island](https://europecareers.ab-inbev.com/brands/goose-island). *   [Jupiler](https://europecareers.ab-inbev.com/brands/jupiler). *   [Victoria](https://europecareers.ab-inbev.com/brands/victoria). *   [Diekirch](https://europecareers.ab-inbev.com/brands/diekirch). *   [Corona Cero](https://europecareers.ab-inbev.com/brands/corona-cero). [Locations](https://europecareers.ab-inbev.com/locations). It's the perfect introduction to the crisp, natural taste of Corona Tropical - an alcoholic sparkling water made with real fruit juice. *   [![Image 12: linkedin (1)](https://static.wixstatic.com/media/e345e4_591fc087013e4d65ab4b6e7ddaa786d4~mv2.png/v1/fill/w_23,h_23,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/e345e4_591fc087013e4d65ab4b6e7ddaa786d4~mv2.png)](https://www.linkedin.com/showcase/ab-inbev-europe-1/). *   [Teams](https://europecareers.ab-inbev.com/teams). *   [Programmes](https://europecareers.ab-inbev.com/programmes). *   [Brands](https://europecareers.ab-inbev.com/brands). *   [Locations](https://europecareers.ab-inbev.com/locations). *   [Privacy Policy](https://europecareers.ab-inbev.com/privacy-policy). *   [Cookie Settings](https://europecareers.ab-inbev.com/cookie-settings). *   [Teams](https://europecareers.ab-inbev.com/teams). *   [Brands](https://europecareers.ab-inbev.com/brands). *   [Stella Artois](https://europecareers.ab-inbev.com/brands/stella-artois). *   [Bud](https://europecareers.ab-inbev.com/brands/bud). *   [Corona Extra](https://europecareers.ab-inbev.com/brands/corona). *   [Leffe](https://europecareers.ab-inbev.com/brands/leffe). *   [Beck's](https://europecareers.ab-inbev.com/brands/becks). *   [Hoegaarden](https://europecareers.ab-inbev.com/brands/hoegaarden). *   [Kwak](https://europecareers.ab-inbev.com/brands/kwak). *   [Goose Island](https://europecareers.ab-inbev.com/brands/goose-island). *   [Jupiler](https://europecareers.ab-inbev.com/brands/jupiler). *   [Victoria](https://europecareers.ab-inbev.com/brands/victoria). *   [Diekirch](https://europecareers.ab-inbev.com/brands/diekirch). *   [Corona Cero](https://europecareers.ab-inbev.com/brands/corona-cero). *   [Locations](https://europecareers.ab-inbev.com/locations). For more information check out our Cookie Policy, Privacy Policy and Terms & Conditions.[Privacy Policy](https://europecareers.ab-inbev.com/privacy-policy).",
+      "bm25_score_raw": 1.2615162559058857,
+      "bm25_score_norm": 0.5975224524626597,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8073523640632629,
+      "embedding_score_norm": 0.06420094319837817,
+      "embedding_rank": 10
+    },
+    {
+      "title": "नोवल कोरोना वायरस (कोविड-19) | जिला प्रयागराज, उत्तर प्रदेश सरकार | भारत",
+      "url": "https://prayagraj.nic.in/hi/covid-19h",
+      "snippet": "नोवल कोरोना वायरस वायरस का एक बड़ा परिवार है जो सामान्य सर्दी से लेकर गंभीर बीमारियों जैसे मिडिल ईस्ट रेस्पिरेटरी सिंड्रोम कोरोना वायरस (मर्स कोरोना वायरस) और सिवियर एक्यूट रेस्पिरेटरी सिंड्रोम (सार्स कोरोना वायरस) का कारण बनता है।. नोवल कोरोनावायरस रोग (कोविड -19) एक नया स्ट्रेन है जो 2019 में खोजा गया था और पहले मनुष्यों में इसकी पहचान नहीं की गई थी। विश्व स्वास्थ्य संगठन (WHO) ने इस नवीन कोरोना वायरस से होने वाले रोग का नाम Corona Virus Disease 2019 (COVID-19) रखा है।. संक्रमण के सामान्य लक्षणों में श्वसन संबंधी लक्षण, बुखार, खांसी, सांस लेने में तकलीफ और सांस लेने में कठिनाई शामिल हैं। अधिक गंभीर मामलों में, संक्रमण से निमोनिया, गंभीर तीव्र श्वसन सिंड्रोम, गुर्दे की विफलता और यहां तक कि मृत्यु भी हो सकती है।. रिपोर्ट की गई बीमारियों की पुष्टि हल्के लक्षणों से लेकर गंभीर बीमारी और कोरोनोवायरस बीमारी 2019 (कोविड -19) के मामलों में मृत्यु की पुष्टि हुई है।.",
+      "bm25_score_raw": 0.8410896539960188,
+      "bm25_score_norm": 0.3983856335135207,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.8056473135948181,
+      "embedding_score_norm": 0.03343568344240521,
+      "embedding_rank": 11
+    },
+    {
+      "title": "युद्ध के बीच अमेरिका में कोविड का एक नया वेरिएंट BA.3.2 मिला है ...",
+      "url": "https://www.instagram.com/p/DWWE5cnCMtv",
+      "snippet": "वैज्ञानिकों के मुताबिक इसमें सत्तर से ज़्यादा म्यूटेशन हैं, जिससे ये इम्यून सिस्टम को चकमा देने में सक्षम हो सकता है। हालांकि राहत की बात ये है कि अब तक ये ज़्यादा गंभीर बीमारी नहीं फैला रहा है। लक्षण भी ओमिक्रॉन जैसे",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.803794264793396,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

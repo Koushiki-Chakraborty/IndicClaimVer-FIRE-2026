@@ -1,0 +1,105 @@
+{
+  "claim": {
+    "id": "S2/T/BN/1113",
+    "text": "করোনা আতঙ্ক: ভিসা বাতিলের পরও IPL-এ বিদেশি ক্রিকেটারদের খেলায় কোনো অনিশ্চয়তা নেই",
+    "lang": "bengali"
+  },
+  "ranked_evidence": [
+    {
+      "title": "IPL 2020: Uncertainty grows after govt issues fresh visa ...",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2020-uncertainty-visa-guidelines-india-government-april-15-coronavirus-scare-1654594-2020-03-11",
+      "snippet": "IPL 2020: Uncertainty grows after govt issues fresh visa guidelines amid coronavirus scare. The Indian government on Wednesday said that all",
+      "bm25_score_raw": 4.890490587886759,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Foreign players not available for IPL till April 15 due to ...",
+      "url": "https://www.rediff.com/cricket/report/foreign-players-participation-in-ipl-in-doubt-coronavirus/20200312.htm",
+      "snippet": "No foreign player will be available for this year's Indian Premier League till April 15 due to visa restrictions imposed by the government.",
+      "bm25_score_raw": 2.170085932606321,
+      "bm25_score_norm": 0.44373583664211524,
+      "bm25_rank": 2
+    },
+    {
+      "title": "Coronavirus Scare: Foreign players not available till April ...",
+      "url": "https://english.khabarhub.com/2020/12/81492",
+      "snippet": "“The foreign players who play in the IPL come under the Business Visa category. As per the government's directive, they can't come till April 15,” a BCCI",
+      "bm25_score_raw": 2.1456943993545305,
+      "bm25_score_norm": 0.4387482934062269,
+      "bm25_rank": 3
+    },
+    {
+      "title": "Explained: How can foreign players participate in IPL amidst ...",
+      "url": "https://www.youtube.com/watch?v=tpQcQXa6s9U",
+      "snippet": "Indian government has decided to suspend Indian travel visa in the wake of #Coronavirus pandemic. On #CricbuzzLIVE, Joy Bhattacharjya",
+      "bm25_score_raw": 2.05686108940582,
+      "bm25_score_norm": 0.42058379470158946,
+      "bm25_rank": 4
+    },
+    {
+      "title": "Overseas players' visas and double-headers - things IPL ...",
+      "url": "https://www.cricinfo.com/story/overseas-players-visas-and-double-headers-things-ipl-franchises-would-want-clarity-on-1219310",
+      "snippet": "Overseas players and support staff participate in the IPL by getting a business visa on which they get employment. The franchises would want to",
+      "bm25_score_raw": 1.7078005580886813,
+      "bm25_score_norm": 0.34920843367304033,
+      "bm25_rank": 5
+    },
+    {
+      "title": "IPL suspended due to COVID-19, foreign players fret over ...",
+      "url": "https://www.reuters.com/world/india/ipl-indefinitely-suspended-due-covid-19-crisis-india-2021-05-04",
+      "snippet": "The Indian Premier League (IPL) was suspended indefinitely on Tuesday due to the COVID-19 crisis in the country, leaving many international",
+      "bm25_score_raw": 1.6748857778285449,
+      "bm25_score_norm": 0.3424780699868975,
+      "bm25_rank": 6
+    },
+    {
+      "title": "IPL 2022: ২২ গজে বিধ্বংসী ব্যাটিং, বাছাই করা পোলার্ডের সেরা ৫ ইনিংস",
+      "url": "https://bengali.abplive.com/sports/ipl-2022-five-occasions-when-kieron-pollard-was-at-his-devastating-best-882612/amp",
+      "snippet": "IPL 2022: ব্যক্তিগত পারফরম্যান্স দিয়ে চলতি আইপিএলে এখনও পর্যন্ত মুম্বই ইন্ডিয়ান্সের খারাপ সময় বদলাতে পারেননি কায়রন পোলার্ড। এবার আইপিএলের মাঝেই তিনি খেলা ছাড়ার বড়সড় সিদ্ধান্ত নিয়ে ফেললেন।",
+      "bm25_score_raw": 1.316204751977706,
+      "bm25_score_norm": 0.26913552502029336,
+      "bm25_rank": 7
+    },
+    {
+      "title": "IPL 2026: আঙুলের চোটই কাল হল! সিজনের মাঝপথে দেশে ফিরলেন সল্ট",
+      "url": "https://www.thewall.in/amp/cricket/ipl-2026-rcb-phil-salt-injury-update-return-to-england-news/tid/193708",
+      "snippet": "আঙুলের চোটের স্ক্যান করাতে ইতোমধ্যে ইংল্যান্ডে উড়ে গিয়েছেন রয়্যাল চ্যালেঞ্জার্স বেঙ্গালুরুর বিদেশি তারকা (Phil Salt)। টানা তিন ম্যাচে না খেলার পর এবার পরিষ্কার—কামব্যাকের সময় আরও পিছতে পারে (Royal",
+      "bm25_score_raw": 0.9076113572706821,
+      "bm25_score_norm": 0.18558697557229573,
+      "bm25_rank": 8
+    },
+    {
+      "title": "'ভুল' নিয়মে চলছে IPL? ফাইনালে আগে BCCI-কে কড়া বার্তা সচিন তেন্ডুলকরের",
+      "url": "https://eisamay.com/amp/story/sports/cricket/sachin-tendulkar-proposes-removing-ipl-impact-player-rule/200504800.cms",
+      "snippet": "সচিন বলেন, “ম্যাচের যেকোনও সময়ে অধিনায়ক টানা দুই ওভারের জন্য এই সুবিধা নিতে পারবেন। সেই সময় বৃত্তের বাইরে একজন অতিরিক্ত ফিল্ডার রাখার সুযোগ থাকবে। এতে ফিল্ডিং দল কৌশলগতভাবে ম্যাচের নিয়ন্ত্রণ নেওয়ার সুযোগ",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 9
+    },
+    {
+      "title": "আইপিএল: প্লে-অফের লড়াইয়ে কারা এগিয়ে, কারা বাদ",
+      "url": "https://www.prothomalo.com/sports/cricket/f3lxwjp66e",
+      "snippet": "মুম্বাই ইন্ডিয়ানসের টানা ছয় ম্যাচের জয়রথ কাল থামিয়ে দিয়েছে গুজরাট টাইটানস। ওয়াংখেড়েতে বৃষ্টিবিঘ্নিত এক রোমাঞ্চকর ম্যাচে শেষ বলে ৩ উইকেটের জয় পায় গুজরাট। এই জয়ে প্লে-অফে পৌঁছানোর পথে অনেকটাই এগিয়ে গেছে",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10
+    },
+    {
+      "title": "চূড়ান্ত হলো আইপিএলের শেষ চার, প্লে-অফে কে কার মুখোমুখি?",
+      "url": "https://www.jagonews24.com/amp/1122208",
+      "snippet": "প্লে-অফের ম্যাচগুলো শুরু হবে আগামীকাল তথা ২৬ মে থেকে। সেদিন প্রথম কোয়ালিফায়ারে ধর্মশালায় গুজরাট মুখোমুখি হবে বেঙ্গালুরুর। পরের দিন তথা ২৭ তারিখ রাজস্থান ও হায়দরাবাদ এলিমিনেটরের ম্যাচে একে-অপরের বিপক্ষে লড়বে নিউ",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11
+    },
+    {
+      "title": "আইপিএলে সেঞ্চুরি করাটাই তো অভিশাপ! সুদর্শন-রাহুল-সূর্যবংশীর পর রিকলটনও ...",
+      "url": "https://www.youtube.com/watch?v=3rXW8Q2tC-Q",
+      "snippet": "আইপিএলে সেঞ্চুরি করাটাই তো অভিশাপ! সুদর্শন-রাহুল-সূর্যবংশীর পর রিকলটনও সেঞ্চুরি করে পরাজিত দলে! · Comments.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12
+    }
+  ]
+}

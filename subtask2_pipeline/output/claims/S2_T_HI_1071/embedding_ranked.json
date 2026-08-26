@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/HI/1071",
+    "text": "अयोध्या मामले पर सलमान नदवी का यू-टर्न, कहा मामला पक्षकार ही सुलझायें तो बेहतर",
+    "lang": "hindi"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Ram Mandir issue must be resolved through talk, mosque can be ...",
+      "url": "https://www.business-standard.com/article/news-ani/ram-mandir-issue-must-be-resolved-through-talk-mosque-can-be-shifted-maulana-salam-nadvi-119022700889_1.html",
+      "snippet": "Former All India Muslim Personal Law Board (AIMPLB) member and Islamic scholar Maulana Salman Nadvi on Wednesday reiterated his proposal of shifting the",
+      "bm25_score_raw": 4.405929580075765,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8516643047332764,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "'They don't want peace…', Maulana Shahabuddin Razvi ...",
+      "url": "https://www.facebook.com/ANINEWS.IN/posts/they-dont-want-peace-maulana-shahabuddin-razvi-bareilvi-schools-tmc-madani-on-ra/1306731531654160",
+      "snippet": "Maulana's view on #RamMandir issue, and how can the government resolve the issue with peace and satisfy all parties! #BabriMasjid #Ayodhya #",
+      "bm25_score_raw": 2.313159651248808,
+      "bm25_score_norm": 0.5250105815828837,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.846786379814148,
+      "embedding_score_norm": 0.9056101293970965,
+      "embedding_rank": 2
+    },
+    {
+      "title": "अयोध्या मामले पर सलमान नदवी ने रुख पलटा, कहा अदालत के ...",
+      "url": "https://www.abplive.com/news/india/salman-nadvi-refutes-the-stand-on-the-ayodhya-case-said-the-courts-verdict-awaiting-802534",
+      "snippet": "Mar 2, 2018 — नदवी ने शुक्रवार को कहा कि 'अयोध्या मसले में हम कोई पक्षकार नहीं हैं. राम मंदिर और बाबरी मस्जिद मामले को हमने अपने एजेंडे से निकाल दिया है, अयोध्या मसले के जो पक्षकार हैं वो इसे खुद सुलझाएं. इस मसले को ...Read more",
+      "bm25_score_raw": 0.6619910169439337,
+      "bm25_score_norm": 0.15025002213779143,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.8452045917510986,
+      "embedding_score_norm": 0.8750018742337268,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Ram Mandir issue must be resolved through talk, mosque can be ...",
+      "url": "https://www.aninews.in/news/national/general-news/ram-mandir-issue-must-be-resolved-through-talk-mosque-can-be-shifted-maulana-salam-nadvi20190227175400",
+      "snippet": "... Salman Nadvi. Ram Mandir issue must be resolved through talk, mosque can be shifted: Maulana Salam Nadvi. ANI | Updated: Feb 27, 2019 17:54 IST. ani-trusted",
+      "bm25_score_raw": 2.514304744399436,
+      "bm25_score_norm": 0.5706638516805799,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8439182043075562,
+      "embedding_score_norm": 0.8501097435932924,
+      "embedding_rank": 4
+    },
+    {
+      "title": "How Gurudev helped resolve Ayodhya dispute",
+      "url": "https://tehelka.com/an-inside-story-how-gurudev-helped-resolve-ayodhya-dispute",
+      "snippet": "A consensus was built within the Muslim group to relinquish the claim to the disputed land and shift the mosque to another place, in order to",
+      "bm25_score_raw": 2.7522216006606857,
+      "bm25_score_norm": 0.6246630933700393,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8435435891151428,
+      "embedding_score_norm": 0.8428607842255262,
+      "embedding_rank": 5
+    },
+    {
+      "title": "अयोध्‍या मामले पर मौलाना सलमान नदवी ने कहा, 'समझौता कर लेना ...",
+      "url": "https://ndtv.in/videos/both-parties-should-compromise-says-maulana-salman-nadvi-on-the-ayodhya-issue-508671",
+      "snippet": "Mar 8, 2019 — अयोध्‍या मामले पर मौलाना सलमान नदवी ने कहा, 'समझौता कर लेना चाहिए' ... मौलाना सलमान नदवी जिन्होंने श्री श्री रविशंकर के साथ अयोध्या विवाद में समझौते की कोशिश शुरू की थी, उन्होंने कहा है कि इस्लामी शरीयत मस्जिद ...Read more",
+      "bm25_score_raw": 0.754167196750118,
+      "bm25_score_norm": 0.1711709601897789,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8373447060585022,
+      "embedding_score_norm": 0.722909825713564,
+      "embedding_rank": 6
+    },
+    {
+      "title": "मंदिर की 'पैरवी' करने वाले सलमान नदवी पलटे, बोले सुप्रीम कोर्ट ...",
+      "url": "https://www.india.com/hindi-news/india-hindi/ayodhya-dispute-wait-for-sc-judgment-says-maulana-salman-nadwi-2922649",
+      "snippet": "Mar 2, 2018 — नदवी ने शुक्रवार को कहा कि 'अयोध्या मसले में हम कोई पक्षकार नहीं हैं. राम मंदिर और बाबरी मस्जिद मामले को हमने अपने एजेंडे से निकाल दिया है, अयोध्या मसले के जो पक्षकार हैं वो इसे खुद सुलझाएं. इस मसले को ...Read more",
+      "bm25_score_raw": 0.5318852240918317,
+      "bm25_score_norm": 0.12072031893044585,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.8363628387451172,
+      "embedding_score_norm": 0.7039102859100299,
+      "embedding_rank": 7
+    },
+    {
+      "title": "शरीयत मस्जिद को शिफ्ट करने की इजाजत देती है, राम हमारे लिए भी ...",
+      "url": "https://ndtv.in/india/maulana-salman-nadvi-says-masjid-can-be-shifted-in-ayodhya-2004749",
+      "snippet": "Mar 9, 2019 — अयोध्‍या मामले (Ayodhya Case) में सुप्रीम कोर्ट द्वारा मध्‍यस्‍थता के लिए तीन सदस्‍यों की समिति बनाए जाने के फैसले पर मौलाना नदवी ने कहा कि मुकदमा लड़ने से किसी की हार होती है तो किसी जीत उसमें जो जीतता है ...Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.8301738500595093,
+      "embedding_score_norm": 0.5841507875818464,
+      "embedding_rank": 8
+    },
+    {
+      "title": "Trust to decide whether to accept or reject resignations",
+      "url": "https://www.facebook.com/IndiaToday/posts/ayodhyamandirtrust-controversywhats-next-for-champat-rai-anil-mishra-trust-to-de/1635652005265008",
+      "snippet": "Today Supreme Court dismissed all (32) third party intervention applications in Ayodhya land dispute case……!!! This dismissal gives hopes that",
+      "bm25_score_raw": 1.682591449313028,
+      "bm25_score_norm": 0.381892497084371,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8257133364677429,
+      "embedding_score_norm": 0.497837999310282,
+      "embedding_rank": 9
+    },
+    {
+      "title": "Prominent Islamic scholar Maulana Salman Husaini Nadwi ...",
+      "url": "https://www.facebook.com/dnaindia/posts/prominent-islamic-scholar-maulana-salman-husaini-nadwi-has-passed-away-in-luckno/1498442645659008",
+      "snippet": "He was widely respected for advocating communal harmony and was among the few Muslim clerics who publicly supported dialogue as a way to resolve",
+      "bm25_score_raw": 2.2585121083559128,
+      "bm25_score_norm": 0.5126074003926943,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8198093175888062,
+      "embedding_score_norm": 0.3835927849498455,
+      "embedding_rank": 10
+    },
+    {
+      "title": "मौलाना सलमान नदवी ने राममंदिर मुद्दे से खुद को किया अलग",
+      "url": "https://www.amarujala.com/lucknow/maulana-salman-nadvi-says-i-disassociate-myself-from-the-ram-mandir-issue",
+      "snippet": "Mar 3, 2018 — दरअसल अयोध्या मिशन पर निकले आर्ट ऑफ लिविंग के संस्थापक श्रीश्री रवि ...Read more",
+      "bm25_score_raw": 0.7272937881078806,
+      "bm25_score_norm": 0.16507158702599464,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.8008170127868652,
+      "embedding_score_norm": 0.01608380881201263,
+      "embedding_rank": 11
+    },
+    {
+      "title": "अयोध्या विवाद के हल के लिए फॉर्म्युला देने वाले मौलाना नदवी ...",
+      "url": "https://navbharattimes.indiatimes.com/india/aimplb-expelled-maulana-salman-nadvi-who-gave-the-three-point-formula-in-ayodhya-dispute/articleshow/62871773.cms",
+      "snippet": "Feb 11, 2018 — अयोध्या में राम मंदिर निर्माण के लिए सुलह का फॉर्म्युला देने वाले मौलाना सैयद सलमान हुसैनी नदवी को ऑल इंडिया मुस्लिम पर्सनल लॉ बोर्ड (AIMPLB) ने निकाल दिया है। मौलाना नदवी ने आध्यात्मिक गुरु श्री श्री रवि शंकर के ...Read more",
+      "bm25_score_raw": 0.6721951238823103,
+      "bm25_score_norm": 0.15256601624367114,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.7999858260154724,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

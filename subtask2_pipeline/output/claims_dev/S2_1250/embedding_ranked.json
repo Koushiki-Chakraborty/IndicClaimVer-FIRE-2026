@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/1250",
+    "text": "भारत के इन 2 राज्यों में मिला ओमिक्रॉन का नया वेरिएंट CH.1.1, तमिलनाडु और कर्नाटक में वैज्ञानिकों ने जताई चिंता",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "COVID-19: 2 cases of Omicron detected in Karnataka ...",
+      "url": "https://www.downtoearth.org.in/health/covid-19-2-cases-of-omicron-detected-in-karnataka-testing-of-contacts-underway-80505",
+      "snippet": "At least two cases of the Omicron variant of the novel coronavirus were reported in Karnataka December 2, 2021. We need not panic, but",
+      "bm25_score_raw": 1.2200834767577922,
+      "bm25_score_norm": 0.04901409615895815,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.9007430672645569,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Top News of The Day: Omicron Variant Detected In India, 2 ...",
+      "url": "https://www.youtube.com/watch?v=v0g9ViYHtnk",
+      "snippet": "Two COVID-19 cases of the Omicron variant have been detected in Karnataka - in men aged 46 and 66 - the Health Ministry said Thursday,",
+      "bm25_score_raw": 1.1715268674726427,
+      "bm25_score_norm": 0.026801841918425714,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.8996155261993408,
+      "embedding_score_norm": 0.9912956973588006,
+      "embedding_rank": 2
+    },
+    {
+      "title": "UK scientists warn over Indian COVID 'variant of concern'",
+      "url": "https://www.aljazeera.com/news/2021/5/7/uk-scientists-warn-over-indian-covid-variant-of-concern-report",
+      "snippet": "Scientists have recommended that one version of the variant first found in India, known as B.1.617.2, is designated a “variant of concern”, the BBC said.",
+      "bm25_score_raw": 3.2484576367917986,
+      "bm25_score_norm": 0.9768952476828825,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8945419788360596,
+      "embedding_score_norm": 0.9521293263264549,
+      "embedding_rank": 3
+    },
+    {
+      "title": "WHO experts warn Tamil Nadu of sudden spurt in Omicron ...",
+      "url": "https://www.business-standard.com/article/current-affairs/who-experts-warn-tamil-nadu-of-sudden-spurt-in-omicron-infections-121122500361_1.html",
+      "snippet": "The experts have warned the possibility of a hike in Omicron cases following inadequate vaccines and lack of Covid-appropriate behaviour",
+      "bm25_score_raw": 1.1129372911035518,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.8864631652832031,
+      "embedding_score_norm": 0.8897631382422895,
+      "embedding_rank": 4
+    },
+    {
+      "title": "No Omicron Variant Case Detected in Tamil Nadu So Far ...",
+      "url": "https://www.news18.com/news/india/no-omicron-variant-case-detected-in-tamil-nadu-so-far-says-govt-4500536.html",
+      "snippet": "The Tamil Nadu government on Monday said no case of the latest variant of coronavirus, 'Omicron', has been detected in the state so far",
+      "bm25_score_raw": 1.6380386725250247,
+      "bm25_score_norm": 0.24020798729362197,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.8814569711685181,
+      "embedding_score_norm": 0.8511167155095977,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Sequenced COVID-19 samples in Tamil Nadu in were of ...",
+      "url": "https://www.thehindu.com/sci-tech/health/sequenced-covid-19-samples-were-of-omicron-and-its-sub-lineages-dph/article69625324.ece",
+      "snippet": "WGS of COVID-19 samples in Tamil Nadu confirms Omicron variant and sub-lineages, no virulent infections reported.",
+      "bm25_score_raw": 1.6662489968143472,
+      "bm25_score_norm": 0.2531128194997279,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.8635860681533813,
+      "embedding_score_norm": 0.7131583270180321,
+      "embedding_rank": 6
+    },
+    {
+      "title": "Karnataka vs Tamil Nadu कर्नाटका और तमिलनाडू में एक जंग ...",
+      "url": "https://www.facebook.com/nikita.chandwani.144/videos/karnataka-vs-tamil-nadu-%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%A8%E0%A4%BE%E0%A4%9F%E0%A4%95%E0%A4%BE-%E0%A4%94%E0%A4%B0-%E0%A4%A4%E0%A4%AE%E0%A4%BF%E0%A4%B2%E0%A4%A8%E0%A4%BE%E0%A4%A1%E0%A5%82-%E0%A4%AE%E0%A5%87%E0%A4%82-%E0%A4%8F%E0%A4%95-%E0%A4%9C%E0%A4%82%E0%A4%97-%E0%A4%9B%E0%A4%BF%E0%A4%A1%E0%A5%80-%E0%A4%B9%E0%A5%81%E0%A4%88-%E0%A4%B9%E0%A5%88%E0%A4%95%E0%A4%A8%E0%A5%8D%E0%A4%A8%E0%A4%BE%E0%A4%A1%E0%A4%BF%E0%A4%97%E0%A4%BE%E0%A4%B8-%E0%A4%94%E0%A4%B0/771634511920589",
+      "snippet": "Karnataka vs Tamil Nadu कर्नाटका और तमिलनाडू में एक जंग छिडी हुई है...कन्नाडिगास और तमिलियन वाली नहीं..ब्लकी कौनसा स्टेट पहले 1 ट्रिलियन की इकोनॉमी",
+      "bm25_score_raw": 1.844833125499659,
+      "bm25_score_norm": 0.33480625172410894,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8378098011016846,
+      "embedding_score_norm": 0.5141727323467199,
+      "embedding_rank": 7
+    },
+    {
+      "title": "KARNATAKA vs TAMILNADU State comparison 2022- ...",
+      "url": "https://www.youtube.com/watch?v=5CdHkiRH7C4",
+      "snippet": "In this video i explained detail comparison between indian State Karnataka & Tamilnadu...Both states located in southern india and much",
+      "bm25_score_raw": 2.7462222218417476,
+      "bm25_score_norm": 0.7471473124438849,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8252035975456238,
+      "embedding_score_norm": 0.4168563557697927,
+      "embedding_rank": 8
+    },
+    {
+      "title": "[Solved] कर्नाटक और तमिलनाडु के बीच जल बंटवारे के पुरा",
+      "url": "https://testbook.com/question-answer/hn/name-of-which-river-among-the-following-got-associ--62028d8d87ccdf8d8fe05ce3",
+      "snippet": "\"कर्नाटक और तमिलनाडु के बीच जल बंटवारे के पुराने मुद्दे को",
+      "bm25_score_raw": 3.298965271845121,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8248469829559326,
+      "embedding_score_norm": 0.4141033905690581,
+      "embedding_rank": 9
+    },
+    {
+      "title": "Karnataka vs Tamil Nadu कर्नाटका और तमिलनाडू में एक जंग ...",
+      "url": "https://www.instagram.com/reel/DMy7MWjTfy4",
+      "snippet": "GDP में तमिलनाडु का हिस्सा है 8.8% और कर्नाटका का 8.2% यानी दोनों राज्यों की पकड़ इंडिया की इकॉनमी पर मजबूत है... लेकिन रास्ता अलग है। तमिनाडू मैन्युफैक्चरिंग का बेताज बादशाह — ऑटोमोबाइल, टेक्सटाइल, ...Read more",
+      "bm25_score_raw": 1.754109069090418,
+      "bm25_score_norm": 0.293304469858323,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8019964694976807,
+      "embedding_score_norm": 0.23770379787723053,
+      "embedding_rank": 10
+    },
+    {
+      "title": "तमिलनाडु (Tamil Nadu) | अपना राज्य, अपनी जानकारी ...",
+      "url": "https://www.youtube.com/watch?v=QH5Uq7ZqPwY",
+      "snippet": "... \"अपना राज्य, अपनी जानकारी\" सीरीज का हिस्सा है, जिसमें भारत के विभिन्न राज्यों की विशेषताओं को सरल और रोचक तरीके से प्रस्तुत किया जाता है। पूरा वीडियो देखें और तमिलनाडु के बारे में गहराई से जानें! ==",
+      "bm25_score_raw": 2.978759077138898,
+      "bm25_score_norm": 0.8535214564830964,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.7845813035964966,
+      "embedding_score_norm": 0.10326357283624435,
+      "embedding_rank": 11
+    },
+    {
+      "title": "आरकाट राज्य",
+      "url": "https://hi.wikipedia.org/wiki/%E0%A4%86%E0%A4%B0%E0%A4%95%E0%A4%BE%E0%A4%9F_%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A5%8D%E0%A4%AF",
+      "snippet": "शुरुआत में वे वर्तमान में भारतीय राज्य तमिलनाडु में आर्कोट में अपनी राजधानी थीं। उनका शासन कर्नाटक और कोरोमंडल क्षेत्रों के इतिहास में एक महत्वपूर्ण अवधि है ... उपलब्ध सामग्री CC BY-SA 4.0 के अधीन है जब तक अलग से उल्लेख ना ...Read more",
+      "bm25_score_raw": 2.0836057728123913,
+      "bm25_score_norm": 0.4440329631002978,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.7712047100067139,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

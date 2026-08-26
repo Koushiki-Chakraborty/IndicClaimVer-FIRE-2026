@@ -1,0 +1,108 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1260",
+    "text": "Boris Johnson extends Covid restrictions in England beyond February 24",
+    "lang": "english"
+  },
+  "generated_queries": {
+    "english_translation": "Boris Johnson extends Covid restrictions in England beyond February 24",
+    "native_query": "Boris Johnson Covid England extends restrictions February 24",
+    "english_query": "Boris Johnson Covid England extends restrictions February 24"
+  },
+  "native_retrieval": [
+    {
+      "title": "Boris Johnson plans to end England's Covid rules a month ...",
+      "url": "https://www.theguardian.com/world/2022/feb/09/boris-johnson-says-he-plans-to-lift-all-englands-covid-rules-a-month-early",
+      "snippet": "Boris Johnson has announced. aiming to end all domestic rules in England from Thursday 24 February. least” three weeks."
+    },
+    {
+      "title": "Boris Johnson announces the end of Covid restrictions in ...",
+      "url": "https://www.cnn.com/2022/02/21/uk/boris-johnson-drops-covid-restrictions-intl-gbr",
+      "snippet": "The legal requirement to self-isolate after testing positive for Covid-19 will end on February 24, though government advice that people should"
+    },
+    {
+      "title": "Boris Johnson lifts remaining COVID restrictions in England",
+      "url": "https://www.pbs.org/newshour/world/boris-johnson-lifts-remaining-covid-restrictions-in-england",
+      "snippet": "Johnson confirmed that mandatory self-isolation for people with COVID-19 will end starting Thursday, and the routine tracing of infected"
+    },
+    {
+      "title": "Boris Johnson has announced Covid restrictions could end ...",
+      "url": "https://www.facebook.com/Channel4News/posts/boris-johnson-has-announced-covid-restrictions-could-end-in-england-this-month-m/10159291856091939",
+      "snippet": "Boris Johnson has announced Covid restrictions could end in England this month, meaning people would no longer have to self-isolate."
+    },
+    {
+      "title": "PM statement on living with COVID: 21 February 2022",
+      "url": "https://www.gov.uk/government/speeches/pm-statement-on-living-with-covid-21-february-2022",
+      "snippet": "From this Thursday, 24 February, we will end the legal requirement to self-isolate following a positive test, and so we will also end self-"
+    },
+    {
+      "title": "Boris Johnson announces end to Covid restrictions",
+      "url": "https://www.youtube.com/watch?v=WeqqeB4wxZU",
+      "snippet": "IN FULL: Boris Johnson announces England's third COVID lockdown. Sky News · 287K views ; Boris Johnson announces third national lockdown. The"
+    }
+  ],
+  "english_retrieval": [
+    {
+      "title": "Boris Johnson plans to end England's Covid rules a month ...",
+      "url": "https://www.theguardian.com/world/2022/feb/09/boris-johnson-says-he-plans-to-lift-all-englands-covid-rules-a-month-early",
+      "snippet": "Boris Johnson has announced. aiming to end all domestic rules in England from Thursday 24 February. least” three weeks."
+    },
+    {
+      "title": "Boris Johnson announces the end of Covid restrictions in ...",
+      "url": "https://www.cnn.com/2022/02/21/uk/boris-johnson-drops-covid-restrictions-intl-gbr",
+      "snippet": "The legal requirement to self-isolate after testing positive for Covid-19 will end on February 24, though government advice that people should"
+    },
+    {
+      "title": "Boris Johnson lifts remaining COVID restrictions in England",
+      "url": "https://www.pbs.org/newshour/world/boris-johnson-lifts-remaining-covid-restrictions-in-england",
+      "snippet": "Johnson confirmed that mandatory self-isolation for people with COVID-19 will end starting Thursday, and the routine tracing of infected"
+    },
+    {
+      "title": "Boris Johnson has announced Covid restrictions could end ...",
+      "url": "https://www.facebook.com/Channel4News/posts/boris-johnson-has-announced-covid-restrictions-could-end-in-england-this-month-m/10159291856091939",
+      "snippet": "Boris Johnson has announced Covid restrictions could end in England this month, meaning people would no longer have to self-isolate."
+    },
+    {
+      "title": "PM statement on living with COVID: 21 February 2022",
+      "url": "https://www.gov.uk/government/speeches/pm-statement-on-living-with-covid-21-february-2022",
+      "snippet": "From this Thursday, 24 February, we will end the legal requirement to self-isolate following a positive test, and so we will also end self-"
+    },
+    {
+      "title": "Boris Johnson announces end to Covid restrictions",
+      "url": "https://www.youtube.com/watch?v=WeqqeB4wxZU",
+      "snippet": "IN FULL: Boris Johnson announces England's third COVID lockdown. Sky News · 287K views ; Boris Johnson announces third national lockdown. The"
+    }
+  ],
+  "merged_results": [
+    {
+      "title": "Boris Johnson plans to end England's Covid rules a month ...",
+      "url": "https://www.theguardian.com/world/2022/feb/09/boris-johnson-says-he-plans-to-lift-all-englands-covid-rules-a-month-early",
+      "snippet": "Boris Johnson has announced. aiming to end all domestic rules in England from Thursday 24 February. least” three weeks."
+    },
+    {
+      "title": "Boris Johnson announces the end of Covid restrictions in ...",
+      "url": "https://www.cnn.com/2022/02/21/uk/boris-johnson-drops-covid-restrictions-intl-gbr",
+      "snippet": "The legal requirement to self-isolate after testing positive for Covid-19 will end on February 24, though government advice that people should"
+    },
+    {
+      "title": "Boris Johnson lifts remaining COVID restrictions in England",
+      "url": "https://www.pbs.org/newshour/world/boris-johnson-lifts-remaining-covid-restrictions-in-england",
+      "snippet": "Johnson confirmed that mandatory self-isolation for people with COVID-19 will end starting Thursday, and the routine tracing of infected"
+    },
+    {
+      "title": "Boris Johnson has announced Covid restrictions could end ...",
+      "url": "https://www.facebook.com/Channel4News/posts/boris-johnson-has-announced-covid-restrictions-could-end-in-england-this-month-m/10159291856091939",
+      "snippet": "Boris Johnson has announced Covid restrictions could end in England this month, meaning people would no longer have to self-isolate."
+    },
+    {
+      "title": "PM statement on living with COVID: 21 February 2022",
+      "url": "https://www.gov.uk/government/speeches/pm-statement-on-living-with-covid-21-february-2022",
+      "snippet": "From this Thursday, 24 February, we will end the legal requirement to self-isolate following a positive test, and so we will also end self-"
+    },
+    {
+      "title": "Boris Johnson announces end to Covid restrictions",
+      "url": "https://www.youtube.com/watch?v=WeqqeB4wxZU",
+      "snippet": "IN FULL: Boris Johnson announces England's third COVID lockdown. Sky News · 287K views ; Boris Johnson announces third national lockdown. The"
+    }
+  ]
+}

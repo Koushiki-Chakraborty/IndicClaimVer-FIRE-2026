@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/1404",
+    "text": "दुनिया को कोविड देने वाले चीन में फिर कोरोना विस्फोट, दो नए सब वैरिएंट ने डराया, कई जगह लॉकडाउन",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "'Momentum is still there': BBC at India's 'cockroach' protest - BBC",
+      "url": "https://www.bbc.com/news/videos/c0jlnp8p6l0o",
+      "snippet": "# 'Momentum is still there': BBC at India's 'cockroach' protest. Hundreds of people are continuing to pour in at India's Cockroach Janta Party (CJP) protest site in the capital, Delhi. The youth-led movement, which is seeking education reforms and the resignation of Education Minister Dharmendra Pradhan, is seeing support two days after a police crackdown, as people travel from several states to join the protest. The movement received a boost on Tuesday when leaders of India's main opposition Congress party protested outside the prime minister's residence. ## Watch: At the scene where Bangkok's deadly bar fire unfolded. The BBC’s South East Asia correspondent visits the site where at least 27 people were killed during a bar fire in Thailand. At least 82 people have been killed and two are missing after a gas explosion at a coal mine in northern China on Sunday, officials say. At least 82 people have been killed after a gas explosion at the Liushenyu mine in China.",
+      "bm25_score_raw": 2.4686257235507134,
+      "bm25_score_norm": 0.6031074460172517,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8519842028617859,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Jurgen Klopp takes on Germany job with threat to quit | BBC News - Modern Ghana",
+      "url": "https://www.modernghana.com/videonews/bbc/4/687902",
+      "snippet": "| 24.07.2026 | BBC Jurgen Klopp takes on Germany job with threat to quit | BBC News |. Woman violently attacked by partner saved by calling 999 and hiding phone in plants | BBC News. Lebanese army says troops deploying in 'pilot zone' after Israeli withdrawal | BBC News. US to announce deal allowing Saudi Arabia a nuclear programme, reports say | BBC News. India's Modi government under growing pressure as 'cockroach' protests intensify | BBC News. Is the Iran war back on? PM Andy Burnham has promised to give people “breathing space” against the cost of living. US renews strikes on Iran as Trump threatens to attack nuclear site | BBC News. US and Iran face return to all-out war as conflict escalates | BBC News. Dozens hurt in Bologna protests after man dies while being restrained by police. Zelensky sacks Ukraine's top army commander after days of protests | BBC News. Trump imposes tariff on Canada, in retaliation for \"unequal treatment\" of US products.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.845638632774353,
+      "embedding_score_norm": 0.8939998884848678,
+      "embedding_rank": 2
+    },
+    {
+      "title": "At least eight people have been killed in a landslide in China’s southwestern municipality of Chongqing. - facebook.com",
+      "url": "https://www.facebook.com/SkyNewsAustralia/posts/at-least-eight-people-have-been-killed-in-a-landslide-in-chinas-southwestern-mun/1491474319676828/",
+      "snippet": "# Video. Minimum of eight killed by devastating landslide in China. ## **Sky News Australia**. At least eight people have been killed in a landslide in China’s southwestern municipality of Chongqing. ## Comments. Houses made in China, have made in China tags. Good built China infrastructure temu made dose that. And west Bye their windmills and cars. Image 4: Video thumbnail 0:26. Man airlifted to hospital following shark attack in Tasmania. Nervous Democrats ‘not looking forward’ to Joe Biden’s memoir. Democrats could descend into ‘civil war’ as Biden looks to ‘settle scores’ with new memoir. Donald Trump hilariously boasts over FIFA World Cup red card decision. Taco Bell lettuce linked to parasite in the US. BMW recalls over 10,000 vehicles in Australia over fire risk. Republicans should be ‘concerned’ as new forecast shows grim midterms prediction for the party. ‘Unclear’ whether SAVE America Act is 'advantageous' to Trump administration. Scan the QR code and confirm the codes match to log in.",
+      "bm25_score_raw": 0.6275354291464114,
+      "bm25_score_norm": 0.1533125440390629,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8438448905944824,
+      "embedding_score_norm": 0.8640361707296674,
+      "embedding_rank": 3
+    },
+    {
+      "title": "CJP Jantar Mantar: Why have thousands taken to the streets? India's cockroach protest explained - BBC",
+      "url": "https://www.bbc.com/news/videos/c3307vgneveo",
+      "snippet": "# Why have thousands taken to the streets? In India, tens of thousands of Gen Z protesters have taken to the streets of the capital Delhi and other cities, calling for the resignation of the country's education minister. Starting as a satirical online movement just a couple of months ago, the Cockroach Janta Party (CJP) is now one of India's most visible youth movements. And why is the mascot a cockroach? ## Watch: At the scene where Bangkok's deadly bar fire unfolded. The BBC’s South East Asia correspondent visits the site where at least 27 people were killed during a bar fire in Thailand. ## Watch: Why is China's Xi Jinping visiting North Korea? At least 82 people have been killed and two are missing after a gas explosion at a coal mine in northern China on Sunday, officials say. At least 82 people have been killed after a gas explosion at the Liushenyu mine in China.",
+      "bm25_score_raw": 2.4686257235507134,
+      "bm25_score_norm": 0.6031074460172517,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8429940938949585,
+      "embedding_score_norm": 0.8498239653984475,
+      "embedding_rank": 4
+    },
+    {
+      "title": "China considers tighter export controls on AI models and chips, FT reports - Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/china-considers-tighter-export-controls-ai-models-chips-ft-reports-2026-07-21/",
+      "snippet": "Exclusive news, data and analytics for financial market professionals Learn more about Refinitiv. ## Browse World. ## Browse Business. ## Browse Legal. An AI sign is seen at the World Artificial Intelligence Conference in Shanghai, China July 6, 2023. The Commerce Ministry, which oversees export regulations, has also spoken with AI companies ​including Alibaba (9988.HK), opens new tab, ByteDance and Zhipu on limiting the transfer of key data ​for the training of their models overseas, as well as allowing their model weights ‌to be ⁠downloaded by foreign users, the newspaper said. It has also sought views on possible restrictions that would prevent overseas chipmakers including Qualcomm (QCOM.O), opens new tab and TSMC (2330.TW), opens new tab from producing advanced semiconductors based on designs developed by Chinese companies such as Huawei, ​Alibaba and ByteDance, ​FT reported. *   #### World-Check, opens new tab. *   Media Center, opens new tab. *   Reuters and AI, opens new tab.",
+      "bm25_score_raw": 0.6408005327891568,
+      "bm25_score_norm": 0.15655332805213037,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8384947776794434,
+      "embedding_score_norm": 0.7746647576338082,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Thirteenth consecutive night of US air strikes on Iran | BBC News - Modern Ghana",
+      "url": "https://www.modernghana.com/videonews/bbc/3/687960",
+      "snippet": "| 24.07.2026 | BBC Thirteenth consecutive night of US air strikes on Iran | BBC News |. Everything we know as woman and teenage girl die at Essex beach. Firefighters battle wildfires in Spain as blazes break out across Europe. Police officer was violent rapist who attacked women over 14 years | BBC News. I went to Afghanistan and interviewed the Taliban | BBC News. Thousands of students continue 'cockroach' protest in Delhi | BBC News. What do we know about the US' nuclear deal with Saudi Arabia? OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack | BBC News. US announces nuclear deal with Saudi Arabia. Trump signs controversial deal to develop Saudi Arabia nuclear programme | BBC News. Who was the modelling scout linked to Epstein that was found dead? Why is Ukraine striking 'Russia's version of Amazon'? How worried should we be about the AI that went rogue and launched a cyber-attack? Why OpenAI technology 'went rogue' | Global News Podcast.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.8364292979240417,
+      "embedding_score_norm": 0.7401617765953633,
+      "embedding_rank": 6
+    },
+    {
+      "title": "China’s schemes are poisoning every facet of American life — and could bend us to its will - New York Post",
+      "url": "https://nypost.com/2026/07/23/opinion/chinas-schemes-are-poisoning-every-facet-of-american-life-and-could-bend-us-to-its-will/",
+      "snippet": "# China’s schemes are poisoning every facet of American life — and could bend us to its will. President Donald Trump’s headline-grabbing revelation that China has stolen 220 million Americans’ voter records is only the tip of the iceberg. But what a tip: Chinese Communist Party servers now contain detailed dossiers — names, addresses, phone numbers, party affiliation and more — on you and me and most registered voters in the entire country. If you wonder why your children oppose US actions in Iran, it’s because they’re on TikTok. And who’d have thought agents of a hostile foreign power would have the chutzpah to become top aides to American governors, as Linda Sun allegedly did for New York Gov. Kathy Hochul? These efforts include the constant stream of Americans who, at China’s invitation and often on China’s dime, travel to the People’s Republic to be shown the wonders that “Socialism with Chinese Characteristics” has wrought.",
+      "bm25_score_raw": 0.43875186695357576,
+      "bm25_score_norm": 0.10719102348697376,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.8348068594932556,
+      "embedding_score_norm": 0.7130596167862135,
+      "embedding_rank": 7
+    },
+    {
+      "title": "Trump signs controversial deal to develop Saudi Arabia nuclear programme | BBC News - Modern Ghana",
+      "url": "https://www.modernghana.com/videonews/bbc/2/686677",
+      "snippet": "| 23.07.2026 | BBC Trump signs controversial deal to develop Saudi Arabia nuclear programme | BBC News |. PM Andy Burnham has promised to give people “breathing space” against the cost of living. India's 'cockroach' protests continue despite heavy rain. PM Andy Burnham has capped most bus fares in England at £2 from January 2027. US renews strikes on Iran as Trump threatens to attack nuclear site | BBC News. US and Iran face return to all-out war as conflict escalates | BBC News. Zelensky sacks Ukraine's top army commander after days of protests | BBC News. Trump imposes tariff on Canada, in retaliation for \"unequal treatment\" of US products. Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks | BBC News. India’s ‘cockroach’ protests explained and what happens next | BBC News. India's 'cockroach' protest continues a day after police crackdown. \"We need to be a cost of living government\" says new UK PM Andy Burnham.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.8336819410324097,
+      "embedding_score_norm": 0.6942683213388188,
+      "embedding_rank": 8
+    },
+    {
+      "title": "Minimum of eight killed by devastating landslide in China - Sky News Australia",
+      "url": "https://www.skynews.com.au/world-news/china/minimum-of-eight-killed-by-devastating-landslide-in-china/video/f75f812849ae21f5d81507e05823823b",
+      "snippet": "# Minimum of eight killed by devastating landslide in China. At least eight people have been killed in a landslide in China’s southwestern municipality of Chongqing. Nine people have been rescued from the rubble with non-life-threatening injuries. ​At least 200 fire rescue crews have been deployed to the scene. ​Thousands of locals have been evacuated. Nutricionisra diz: Esse alimento saudável, esta relacionado a essa inflamação intestinal silenciosaNotícias Virais |. Perda de memória não é causado pela idade: basta parar de comer esses 3 alimentosMemória Regenerada |. A perda de memória não é causada pela idade, basta parar de comer essas 3 coisasMemória Regenerada |. MOST POPULARToday Show fans ‘shocked’ by Karl Stefanovic’s new non-centrist positionSky News Australia. O Plano Safra está chegando no Sicredi com soluções completasSicredi |. ‘Clearly the government has been involved’: Growing claims of Victorian union corruptionSky News Australia. Central Command releases brutal footage as Iran’s forces are obliterated in escalating warSky News Australia.",
+      "bm25_score_raw": 0.44579049270026244,
+      "bm25_score_norm": 0.10891062300222538,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8243817687034607,
+      "embedding_score_norm": 0.5389128071146654,
+      "embedding_rank": 9
+    },
+    {
+      "title": "Thieves hit Corona collectible card shop for nearly $20k in stolen goods, owner says - CBS News",
+      "url": "https://www.cbsnews.com/losangeles/video/thieves-hit-corona-collectible-card-shop-for-nearly-20k-in-stolen-goods-owner-says/",
+      "snippet": "# Thieves hit Corona collectible card shop for nearly $20k in stolen goods, owner says. Up to $20,000 in stolen memorabilia was taken from a card shop in Corona over the weekend, the store's owner says.",
+      "bm25_score_raw": 4.093177326615362,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8046534061431885,
+      "embedding_score_norm": 0.20935870833615441,
+      "embedding_rank": 10
+    },
+    {
+      "title": "Farmers taking to the skies with newly-approved drone tech - The Star Phoenix",
+      "url": "https://thestarphoenix.com/business/agriculture/farmers-taking-to-the-skies-with-newly-approved-drone-tech/",
+      "snippet": "Chinese drones may become as recognizable in agricultural machinery as John Deere in the coming years if more farmers make the switch. Drones could soon be seen hovering above rural farmlands as the technology receives government approvals and becomes more widely embraced in agriculture. “Even last year, I told people when this stuff does become legal, there’s going to be a shortage of drones, and it happened Canada-wide,” he said. Canadian imports of large drones are growing, with $3.4 million worth of the flying vehicles imported in 2023, jumping to $19.6 million in 2025, according to data from Statistics Canada. This Chinese-designed equipment may become as recognizable in agricultural machinery as John Deere in the coming years if more farmers make the switch. “There’s farmers going out, getting stuck and making more damage than good,” says Haskey, who farms near Wadena, Sask. “Next year is going to be even worse, so we’re ramping up with carrying more stock, more parts and even bringing on more staff,” Crumly said.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.7946043014526367,
+      "embedding_score_norm": 0.04149259021773329,
+      "embedding_rank": 11
+    },
+    {
+      "title": "Soybean Hit Contract Highs on China Buying on the Way to $13? Will Corn Follow to $5? - AgWeb",
+      "url": "https://www.agweb.com/markets/market-analysis/soybean-hit-contract-highs-china-buying-way-13-will-corn-follow-5",
+      "snippet": "# Soybean Hit Contract Highs on China Buying on the Way to $13? Friday’s closes were higher in soybeans, cattle and hogs, steady in corn and lower in wheat. November soybeans made new contract highs for a second day and were up 50 cents for the week as the market confidence grows in China fulfilling its purchase agreement with the U.S. China accounted for 40 million bu. Grete says China’s buying is coming from state-owned firms, based on the agreement with the U.S. The U.S. and China are still working to the Board of Trade put together which would be the mechanism to gauge whether there’s compliance with the trade deal. “So, I think that’s important, says Grete, “And then we have the meeting between President Trump and Xi Jinping that’s expected to happen in Washington in late September and so there’s legwork being done on both sides ahead of that and so You know, we anticipate that there will be more Chinese purchases as we move forward just out of goodwill.",
+      "bm25_score_raw": 0.8433552540649186,
+      "bm25_score_norm": 0.20603926650846738,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.7921203970909119,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

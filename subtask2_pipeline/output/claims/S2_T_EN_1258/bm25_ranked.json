@@ -1,0 +1,57 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1258",
+    "text": "Calcutta High Court Directs Police To Escort Poll Violence Victims Back To Their Homes",
+    "lang": "english"
+  },
+  "ranked_evidence": [
+    {
+      "title": "Calcutta High Court Directs Police To Escort Poll Violence Victims Back To ...",
+      "url": "https://www.livelaw.in/amp/high-court/calcutta-high-court/calcutta-high-court-west-bengal-poll-violence-panchayat-election-woman-candidate-stripped-police-escort-233475",
+      "snippet": "Calcutta High Court Directs Police To Escort Poll Violence Victims Back To Their Homes · This is a premium content. Available exclusively to. Our",
+      "bm25_score_raw": 10.928003229722856,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Mamata dons lawyer's robe, Calcutta HC directs police to ensure safe ...",
+      "url": "https://www.thehindu.com/news/national/west-bengal/mamata-appears-before-calcutta-high-court-to-argue-post-poll-violence-case/article70977256.ece/amp",
+      "snippet": "Mamata Banerjee argues post-poll violence case at Calcutta High Court, highlighting attacks on TMC leaders and workers.",
+      "bm25_score_raw": 3.448289695317854,
+      "bm25_score_norm": 0.1791551764735253,
+      "bm25_rank": 2
+    },
+    {
+      "title": "Calcutta High Court grants police protection to 303 claimed victims",
+      "url": "https://lawbeat.in/amp/top-stories/post-poll-violence-calcutta-high-court-grants-police-protection-303-claimed-victims",
+      "snippet": "On Monday, the Calcutta High Court granted police protection to 303 claimed victims of post-poll violence that took place in West Bengal",
+      "bm25_score_raw": 3.2012800862559687,
+      "bm25_score_norm": 0.15204764648228805,
+      "bm25_rank": 3
+    },
+    {
+      "title": "India court orders probe on post-poll violence in West Bengal election",
+      "url": "https://www.jurist.org/news/2021/08/india-court-orders-probe-on-post-poll-violence-in-west-bengal-election",
+      "snippet": "The Calcutta High Court on Wednesday ordered an investigation into the violence committed post-election poll in the state of West Bengal.",
+      "bm25_score_raw": 2.3190047994398073,
+      "bm25_score_norm": 0.05522427232802754,
+      "bm25_rank": 4
+    },
+    {
+      "title": "Maintain Law And Order: High Court To Bengal On Post-Poll Violence Claims",
+      "url": "https://www.ndtv.com/india-news/maintain-law-and-order-high-court-to-bengal-on-post-poll-violence-claims-11497108/amp/1",
+      "snippet": "The court also directed the police to ensure the safety of those who fled their homes, apprehending post-poll retribution violence, and arrange",
+      "bm25_score_raw": 2.065834516046063,
+      "bm25_score_norm": 0.0274406525893049,
+      "bm25_rank": 5
+    },
+    {
+      "title": "Calcutta High Court upholds 10-year term in 2008 panchayat poll bomb ...",
+      "url": "https://www.facebook.com/indianexpress/posts/providential-victim-survived-calcutta-high-court-upholds-10-year-term-in-2008-pa/1545945570222573",
+      "snippet": "Order: 1. Police ordered to register all cases of victims of post -poll violence. 2. State directed to ensure medical treatment for all victims.",
+      "bm25_score_raw": 1.8157894226466165,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6
+    }
+  ]
+}

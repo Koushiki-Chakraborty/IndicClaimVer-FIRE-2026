@@ -1,0 +1,76 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1165",
+    "text": "Reassessment Can’t Be Initiated On Grounds Of Subsequent Contradictory Ruling By AAR: Bombay High Court",
+    "lang": "english"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Subsequent AAR Ruling Taking A Contradictory View ...",
+      "url": "https://www.verdictum.in/court-updates/high-courts/bombay-hc-quashes-reassessment-notices-says-subsequent-contradictory-aar-ruling-not-binding-on-taxpayer-1486063",
+      "snippet": "Bombay High Court held that the Revenue Department exceeded his jurisdiction while proposing to re-open the assessment by relying upon",
+      "bm25_score_raw": 7.884447989357061,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9151225090026855,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Bombay HC Quashes Reassessment Due to Approval by ...",
+      "url": "https://taxguru.in/income-tax/bombay-hc-quashes-reassessment-due-approval-wrong-authority.html",
+      "snippet": "The Bombay High Court held that reassessment proceedings issued beyond three years for AY 2018-19 were invalid because approval was granted&",
+      "bm25_score_raw": 1.9720067198104783,
+      "bm25_score_norm": 0.1888845735983373,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8816137313842773,
+      "embedding_score_norm": 0.5544120957335844,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Section 148 Reassessment Invalid Where Full Reasons ...",
+      "url": "https://taxguru.in/income-tax/section-148-reassessment-invalid-full-reasons-supplied-sole-basis-retracted-bombay-hc.html",
+      "snippet": "Bombay HC upheld ITAT's order, holding reassessment under Section 148 unsustainable as full reasons were not supplied and relied on a",
+      "bm25_score_raw": 0.5951756156631671,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8717048168182373,
+      "embedding_score_norm": 0.42264684528734975,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Bombay High Court Rules that Subsequent AAR ...",
+      "url": "https://lawinsider.in/news/bombay-high-court-rules-that-subsequent-aar-ruling-cannot-override-taxpayers-entitlement",
+      "snippet": "The Revenue relied on a subsequent AAR ruling in the case of Cyril E. Pereira, which contradicted the earlier ruling in the taxpayer's case. The",
+      "bm25_score_raw": 5.434692749393128,
+      "bm25_score_norm": 0.6639232128566351,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8716827630996704,
+      "embedding_score_norm": 0.4223535827174819,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Bombay High Court Affirms Reassessment Proceedings for ...",
+      "url": "https://rawlaw.in/bombay-high-court-affirms-reassessment-proceedings-for-undisclosed-income-emphasizes-jurisdictional-limits-and-right-to-appeal",
+      "snippet": "The Bombay High Court dismissed the writ petition challenging reassessment proceedings initiated under Section 148 of the Income Tax Act, 1961.",
+      "bm25_score_raw": 3.8308834984771596,
+      "bm25_score_norm": 0.4438999830067089,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8708469867706299,
+      "embedding_score_norm": 0.41123972392103153,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Direct Tax Alert",
+      "url": "https://www.dhruvaadvisors.com/wp-content/uploads/2024/05/Bombay-High-Court-quashes-reassessment-proceedings-for-AY2015-16-on-various-grounds.pdf",
+      "snippet": "2 [2022] 138 taxmann.com 64 (SC) • The taxpayer filed a writ before the Bombay High Court challenging validity of the notice issued under section 148 and re-assessment proceedings. High Court ruling • Based on the Faceless Assessment Scheme introduced by the CBDT6, FAO is required to issue the notice under section 148 and not the JAO. Issue 4 - Whether re-assessment proceedings can be initiated based on change of opinion High Court ruling • The claim of deduction under Section 80JJAA was disclosed in the Tax audit report of the taxpayer. Tata 2020 (‘TOLA’) are applicable to AYs 2015-16 and onwards High Court ruling • TOLA provisions are applicable only to the AYs for which the time limit for issue of notice under section 148 was expiring on or before March 31, 2021.",
+      "bm25_score_raw": 2.192530508025308,
+      "bm25_score_norm": 0.21913776992705095,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.839921236038208,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6
+    }
+  ]
+}

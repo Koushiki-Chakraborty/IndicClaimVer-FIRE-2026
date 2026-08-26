@@ -1,0 +1,57 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1181",
+    "text": "PG Medical Admissions: Madras High Court Interferes With Grant Of Incentive Marks To In-Service Candidates In Open Category",
+    "lang": "english"
+  },
+  "ranked_evidence": [
+    {
+      "title": "Explained Madras HC verdict on PG medical admissions concerning ...",
+      "url": "https://www.scconline.com/blog/post/2023/08/21/madras-hc-pg-medical-admissions-grant-incentive-marks-service-candidates-open-category",
+      "snippet": "Madras HC held that providing incentive marks to in-service candidates for competing with the open category candidates is not barred by any",
+      "bm25_score_raw": 3.6162817510263823,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Madras High Court refuses to interfere with grant of incentive marks to in- ...",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/madras-high-court-refuses-to-interfere-with-grant-of-incentive-marks-to-in-service-candidates-in-pg-medical-admissions/article67198017.ece/amp",
+      "snippet": "Madras High Court refuses to interfere with grant of incentive marks to in-service candidates in PG medical admissions.",
+      "bm25_score_raw": 2.066870032886261,
+      "bm25_score_norm": 0.16470259411805063,
+      "bm25_rank": 2
+    },
+    {
+      "title": "Madras High Court To Deliver Verdict On Incentive Marks To In-Service PG ...",
+      "url": "https://www.ndtv.com/education/madras-high-court-to-deliver-verdict-on-incentive-marks-to-in-service-pg-candidates-today-1688859",
+      "snippet": "The Madras High Court is to deliver its verdict tomorrow on a plea to fix norms on the incentive marks to the doctors in government services",
+      "bm25_score_raw": 1.9328602777522972,
+      "bm25_score_norm": 0.09245710925709766,
+      "bm25_rank": 3
+    },
+    {
+      "title": "PG Medical Admissions: Madras High Court Refuses To Interfere With ...",
+      "url": "https://www.livelaw.in/amp/high-court/madras-high-court/madras-high-court-medical-pg-in-service-doctors-incentive-marks-open-category-rural-posting-235482",
+      "snippet": "PG Medical Admissions: Madras High Court Refuses To Interfere With Grant Of Incentive Marks To In-Service Candidates In Open Category",
+      "bm25_score_raw": 1.840965193385318,
+      "bm25_score_norm": 0.042915902948692256,
+      "bm25_rank": 4
+    },
+    {
+      "title": "Incentive marks to in-service candidates in PG ...",
+      "url": "https://medicaldialogues.in/amp/news/health/doctors/incentive-marks-to-in-service-candidates-in-pg-medical-admissions-laudable-benevolent-madras-hc-refuses-to-interfere-with-policy-116050",
+      "snippet": "Madras High Court has refused to interfere with the State's provision of incentives. incentive marks was “laudable and benevolent”",
+      "bm25_score_raw": 1.8052346695914285,
+      "bm25_score_norm": 0.023653357373223716,
+      "bm25_rank": 5
+    },
+    {
+      "title": "Madras High Court: 'Only MCI Rules For Selection, Grant Of Incentive ...",
+      "url": "https://www.ndtv.com/jobs/madras-high-court-only-mci-rules-for-selection-grant-of-incentive-marks-to-in-service-government-doc-1690543",
+      "snippet": "The Madras High Court yesterday ruled that MCI regulations alone should be applied in the selection and grant of incentive marks to in-service",
+      "bm25_score_raw": 1.761359531431825,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6
+    }
+  ]
+}

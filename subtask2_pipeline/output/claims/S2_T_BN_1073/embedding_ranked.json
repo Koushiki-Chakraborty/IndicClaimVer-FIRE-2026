@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/BN/1073",
+    "text": "আর্থিক দুর্নীতি মামলায় গ্রেফতার সন্দীপ ঘনিষ্ট তৃণমূল নেতা আশিষ পাণ্ডে",
+    "lang": "bengali"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "CBI arrests Ashish Pandey in connection with financial ...",
+      "url": "https://www.thehindu.com/news/cities/kolkata/cbi-arrests-ashish-pandey-in-connection-with-financial-irregularities-at-rg-kar-medical-college-and-hospital/article68714738.ece",
+      "snippet": "CBI arrests Trinamool Congress leader in financial irregularities case linked to R.G. Kar Medical College and Hospital.",
+      "bm25_score_raw": 1.7096281744326274,
+      "bm25_score_norm": 0.6037223395974285,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.9096254110336304,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "RG Kar corruption case: CBI gets Trinamool leader Ashish ...",
+      "url": "https://www.darpanmagazine.com/news/india/rg-kar-corruption-case-cbi-gets-trinamool-leader-ashish-pandeys-3day-custody",
+      "snippet": "Pandey is the fifth arrest made by CBI in connection with the financial irregularities at R.G Kar. Earlier, in September, Ghosh and three",
+      "bm25_score_raw": 1.3055487879882628,
+      "bm25_score_norm": 0.46102946858865185,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.9090317487716675,
+      "embedding_score_norm": 0.99677399189676,
+      "embedding_rank": 2
+    },
+    {
+      "title": "CBI Arrests Trinamool Youth Leader Ashish Pandey in RG Kar ...",
+      "url": "https://www.youtube.com/watch?v=yfB-x4X3Q4E",
+      "snippet": "The Central Bureau of Investigation (CBI) has arrested Ashish Pandey, a Trinamool Congress youth leader, in connection with the RG Kar Medical",
+      "bm25_score_raw": 1.57832977175712,
+      "bm25_score_norm": 0.5573568315681934,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.9040634036064148,
+      "embedding_score_norm": 0.9697756078158791,
+      "embedding_rank": 3
+    },
+    {
+      "title": "RG Kar financial scam: Arrested Trinamool leader Ashish ...",
+      "url": "https://english.mathrubhumi.com/news/india/trinamool-elader-ashish-pandey-arrested-in-rg-kar-financial-scam-to-be-produced-in-court-today-5ef6e55a",
+      "snippet": "Pandey is the fifth person arrested in connection with the financial irregularities at RG Kar Hospital. Earlier arrests included Ghosh and three",
+      "bm25_score_raw": 2.556877444312831,
+      "bm25_score_norm": 0.9029121395105246,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.9022705554962158,
+      "embedding_score_norm": 0.9600331281233734,
+      "embedding_rank": 4
+    },
+    {
+      "title": "TMC youth leader Ashish Pandey has been accused of ...",
+      "url": "https://www.facebook.com/cnnnews18/posts/tmc-youth-leader-ashish-pandey-has-been-accused-of-assisting-sandip-ghosh-the-fo/1078004341035875",
+      "snippet": "The Central Bureau of Investigation has arrested Ashish Pandey in connection with a graft case against R G Kar college ex-principal Sandip Ghosh",
+      "bm25_score_raw": 0.6527743939941314,
+      "bm25_score_norm": 0.23051473429432592,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.8929232358932495,
+      "embedding_score_norm": 0.9092390475243465,
+      "embedding_rank": 5
+    },
+    {
+      "title": "CBI arrests TMC youth leader Ashish Pandey in RG Kar ...",
+      "url": "https://www.indiatvnews.com/west-bengal/kolkata-cbi-arrests-tmc-youth-leader-ashish-pandey-in-rg-kar-financial-irregularities-case-latest-updates-2024-10-03-955367",
+      "snippet": "The Central Bureau of Investigation (CBI) on Thursday arrested TMC youth leader Dr Ashish Pandey, a doctor in connection with the financial irregularities case.",
+      "bm25_score_raw": 1.2719775334399932,
+      "bm25_score_norm": 0.4491744251106579,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.8829144239425659,
+      "embedding_score_norm": 0.8548503647235366,
+      "embedding_rank": 6
+    },
+    {
+      "title": "পাণ্ডের উত্থানের 'পাণ্ডা' কে? আরজি করে হুমকি সংস্কৃতির ...",
+      "url": "https://www.anandabazar.com/west-bengal/who-is-ashish-pandey-who-is-behind-his-rise-dgtl/cid/1550577",
+      "snippet": "আনন্দবাজার অনলাইন সংবাদদাতা ... আশিস পাণ্ডে। ছবি: সংগৃহীত। আরজি কর হাসপাতালের আর্থিক দুর্নীতি মামলায় তৃণমূল ছাত্র পরিষদের নেতা আশিস পাণ্ডেকে গ্রেফতার করেছে সিবিআই। শাসকদলের ছাত্র সংগঠনের ছত্রছায়ায় থেকে আরজি",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.7998003363609314,
+      "embedding_score_norm": 0.40320178065282614,
+      "embedding_rank": 7
+    },
+    {
+      "title": "Sandip Debnath-সন্দীপ দেবনাথ | Bangaon",
+      "url": "https://www.facebook.com/p/Sandip-Debnath-%E0%A6%B8%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%80%E0%A6%AA-%E0%A6%A6%E0%A7%87%E0%A6%AC%E0%A6%A8%E0%A6%BE%E0%A6%A5-100072173269676",
+      "snippet": "সেদিন (১৪-০৩-২০২৬) সত্যি কথা বলার জন্য পমিতের পরিনতি হয়েছিলো ............. · বনগাঁর চোর, ডাকাত, তোলাবাজ সমাজ বিরোধী যদি ভালো তৃণমূল হয় তাহলে তো বনগাঁ তে ভালো মানুষ কেউ বসবাস করেই না। · কয়েকদিন আগেই ছোট মুখে কথাটা বলে",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.7910799980163574,
+      "embedding_score_norm": 0.3558147662423516,
+      "embedding_rank": 8
+    },
+    {
+      "title": "RG Kar: সন্দীপের দিকে আঙুল উঠতে 'নিল ডাউন' করিয়ে ...",
+      "url": "https://tv9bangla.com/kolkata/who-is-ashish-pandey-rg-kar-doctor-who-was-close-to-sandip-ghosh-tmcp-student-leader-also-1124690.html",
+      "snippet": "চিকিৎসক নীলাঞ্জন ঘোষ জানিয়েছেন, সন্দীপ ঘোষ অধ্যক্ষ থাকাকালীন তাঁর ঘরে প্রবেশ করতে পারতেন না সবাই। তবে আশিস পাণ্ডেদের প্রবেশ ছিল অবাধ। তাঁরা অধ্যক্ষের ঘরেই বসে থাকতেন প্রায়ই। আশিসের একসময়ের অধ্যাপক",
+      "bm25_score_raw": 1.913848790715071,
+      "bm25_score_norm": 0.6758389261744966,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.7631850242614746,
+      "embedding_score_norm": 0.20423125295757896,
+      "embedding_rank": 9
+    },
+    {
+      "title": "পুনম পাণ্ডে নাম শুনলেই সবার সামনে যে ছবিটা ভেসে ওঠে সেটা ...",
+      "url": "https://www.facebook.com/TV9BanglaLive/videos/poonam-pandey-%E0%A6%95%E0%A7%87-%E0%A6%AA%E0%A7%81%E0%A6%A8%E0%A6%AE-%E0%A6%95%E0%A7%80-%E0%A6%95%E0%A6%BE%E0%A6%9C-%E0%A6%95%E0%A6%B0%E0%A7%87-%E0%A6%89%E0%A6%A4%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A6%A8-%E0%A6%A4%E0%A6%BE%E0%A6%81%E0%A6%B0/3300375440264721",
+      "snippet": "পুনম পাণ্ডে নাম শুনলেই সবার সামনে যে ছবিটা ভেসে ওঠে সেটা লাস্যময়ী শুধু নয় তার থেকেও বেশি কিছু। ছোট থেকেই গ্ল্যামার জগতের প্রতি তীব্র টান ছিল। কানপুরের মেয়ে হলেও পাকাপাকি মুম্বই চলে আসেন ।",
+      "bm25_score_raw": 2.6428495812469466,
+      "bm25_score_norm": 0.9332715477293789,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.7544573545455933,
+      "embedding_score_norm": 0.15680439929040776,
+      "embedding_rank": 10
+    },
+    {
+      "title": "\"হাতে শাঁখা, পায়ে মল কটিদেশে তাগা আহা সই গো, রূপের ছটা ...",
+      "url": "https://www.instagram.com/p/DaDcOKZynBn?hl=ar",
+      "snippet": "82 likes, 0 comments - caffe_mocha26 on June 26, 2026: \"\"হাতে শাঁখা, পায়ে মল কটিদেশে তাগা আহা সই গো, রূপের ছটা পায়ে আলতা মাখা।\" #bengalitradition #bengalibride",
+      "bm25_score_raw": 2.831812014066987,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.7510485649108887,
+      "embedding_score_norm": 0.1382807644084502,
+      "embedding_rank": 11
+    },
+    {
+      "title": "YouTube Music",
+      "url": "https://music.youtube.com/search?q=%23pandabgoyendazeebangla",
+      "snippet": "With the YouTube Music app, enjoy over 100 million songs at your fingertips, plus albums, playlists, remixes, music videos, live performances, covers,",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.7256016135215759,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

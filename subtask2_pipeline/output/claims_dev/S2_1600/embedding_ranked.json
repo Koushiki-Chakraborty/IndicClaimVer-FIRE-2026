@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/1600",
+    "text": "दिल्ली में भाजपा हेडक्वार्टर में फूटा कोरोना बम, 24 कर्मचारी पॉजिटिव, यहीं मीटिंग में शामिल हुए थे योगी, शाह",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Opposition seeks Amit Shah's resignation; BJP hits back",
+      "url": "https://timesofindia.indiatimes.com/india/delhi-blast-triggers-political-firestorm-opposition-seeks-amit-shahs-resignation-bjp-hits-back/articleshow/125246350.cms",
+      "snippet": "India News: Opposition parties have fiercely criticized the Centre following a deadly car explosion near Delhi's Red Fort. Leaders demanded",
+      "bm25_score_raw": 1.627857073462515,
+      "bm25_score_norm": 0.22746225865064143,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8476296663284302,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Breaking News: Delhi में Amit Shah और CM Yogi Adityanath की मुलाकात ...",
+      "url": "https://www.youtube.com/watch?v=JQY4_qAc0dc",
+      "snippet": "Breaking News: Delhi में Amit Shah और CM Yogi Adityanath की मुलाकात खत्म | Latest News #yogiadityanath #amitshah #breakingnews #bharat24",
+      "bm25_score_raw": 2.8957192221679886,
+      "bm25_score_norm": 0.4833962206674348,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8453518152236938,
+      "embedding_score_norm": 0.9419305038078857,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Delhi blast culprits will get strictest punishment: Amit Shah",
+      "url": "https://www.thehindu.com/news/national/home-minister-amit-shah-says-culprits-of-delhi-bomb-blast-will-get-strictest-possible-punishment/article70291632.ece",
+      "snippet": "Under the leadership of Prime Minister Narendra Modi, eliminating terrorism from its roots is our collective commitment, says Shah at Northern",
+      "bm25_score_raw": 1.242967939514954,
+      "bm25_score_norm": 0.14976753364525378,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.843954861164093,
+      "embedding_score_norm": 0.9063178080193525,
+      "embedding_rank": 3
+    },
+    {
+      "title": "दिल्ली में अमित शाह से मिले CM योगी, बढ़ा सियासी पारा, देखें - video ...",
+      "url": "https://www.dailymotion.com/video/xap791q",
+      "snippet": "01:50टीम है बीजेपी की उसका भी जल्द एलान होने वाला है तो संभवता उस पर भी चर्चा की गई है. 01:57उत्रपरदेश ते भी कुछ नामों को मांगा गया जिनको राश्ट्री टीम में सम्मिलित किया जाएगा इसके अलावा लबक सभी",
+      "bm25_score_raw": 1.3741519619376703,
+      "bm25_score_norm": 0.17624868275616162,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.8412582278251648,
+      "embedding_score_norm": 0.8375722525786041,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Press Release : BJP President, Shri Amit Shah constituted ...",
+      "url": "https://www.bjp.org/pressreleases/press-release-bjp-president-shri-amit-shah-constituted-committee-attack-crude-bomb",
+      "snippet": "BJP President, Shri Amit Shah constituted a committee on attack by a crude bomb at BJP office & political violence against BJP workers in Kerala.",
+      "bm25_score_raw": 5.4549043046502295,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8325674533843994,
+      "embedding_score_norm": 0.6160174317893112,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Delhi blast: TMC hits out at Centre, demands Amit Shah's ...",
+      "url": "https://www.deccanherald.com/india/delhi-blast-tmc-hits-out-at-centre-demands-amit-shahs-resignation-3794691",
+      "snippet": "The party, led by West Bengal Chief Minister Mamata Banerjee, demanded the constitution of a Special Investigation Team to probe the blast.",
+      "bm25_score_raw": 0.5010398830840094,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.8317897915840149,
+      "embedding_score_norm": 0.596192418265695,
+      "embedding_rank": 6
+    },
+    {
+      "title": "“𝐀𝐥𝐥 𝐭𝐡𝐨𝐬𝐞 𝐫𝐞𝐬𝐩𝐨𝐧𝐬𝐢𝐛𝐥𝐞 𝐟𝐨𝐫 𝐭𝐡𝐞 𝐃𝐞𝐥𝐡𝐢 ...",
+      "url": "https://www.instagram.com/reel/DQ6KCRHj5gT",
+      "snippet": "10K likes, 213 comments - bjp4india on November 11, 2025: \"“All those responsible for the Delhi explosion will be brought to justice.",
+      "bm25_score_raw": 0.5276045896981837,
+      "bm25_score_norm": 0.005362421001779371,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.8293507099151611,
+      "embedding_score_norm": 0.5340126544579309,
+      "embedding_rank": 7
+    },
+    {
+      "title": "शाह ले रहे मोदी के सारे फैसले, योगी दिल्ली दरबार तलब! || Shah || Modi || Yogi # ...",
+      "url": "https://www.facebook.com/4pmnewsnetwork2/videos/%E0%A4%B6%E0%A4%BE%E0%A4%B9-%E0%A4%B2%E0%A5%87-%E0%A4%B0%E0%A4%B9%E0%A5%87-%E0%A4%AE%E0%A5%8B%E0%A4%A6%E0%A5%80-%E0%A4%95%E0%A5%87-%E0%A4%B8%E0%A4%BE%E0%A4%B0%E0%A5%87-%E0%A4%AB%E0%A5%88%E0%A4%B8%E0%A4%B2%E0%A5%87-%E0%A4%AF%E0%A5%8B%E0%A4%97%E0%A5%80-%E0%A4%A6%E0%A4%BF%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80-%E0%A4%A6%E0%A4%B0%E0%A4%AC%E0%A4%BE%E0%A4%B0-%E0%A4%A4%E0%A4%B2%E0%A4%AC-shah-modi-yogigujaratlobby-n/2398058374019096",
+      "snippet": "उधर तेल में मिलावट करके नितिन गडकरी बड़ा खेल कर रहे हैं... दूसरी तरफ मंदिरों में हो रही चंदा चोरी से सरकार की तिजोरी भरी जा रही है... आखिर चंदा चोरों को बचाया क्यों जा रहा है... देखिए ये वीडियो",
+      "bm25_score_raw": 3.2858173991207944,
+      "bm25_score_norm": 0.5621424566876512,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.828372061252594,
+      "embedding_score_norm": 0.5090638618585399,
+      "embedding_rank": 8
+    },
+    {
+      "title": "Congress seeks Shah's resignation afte Delhi car blast",
+      "url": "https://www.newindianexpress.com/states/karnataka/2025/Nov/12/congress-seeks-shahs-resignation-afte-delhi-car-blast-bjp-blames-appeasement-politics",
+      "snippet": "A complete failure of those entrusted with our internal security, says Priyank Kharge. Modi and Shah are striving to remove terrorism from",
+      "bm25_score_raw": 1.0414055709449614,
+      "bm25_score_norm": 0.10907962791805863,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.8257352113723755,
+      "embedding_score_norm": 0.4418423723765704,
+      "embedding_rank": 9
+    },
+    {
+      "title": "Amit Shah Delhi Speech Live: दिल्ली में योगी के बाद शाह की एंट्री, बदल दिया ...",
+      "url": "https://www.youtube.com/watch?v=zdbRIHAAGxg",
+      "snippet": "Amit Shah Delhi Speech Live: दिल्ली में योगी के बाद शाह की एंट्री, बदल दिया चुनाव ? |Delhi Election. @Bharat24Liv28 likes1.5K viewsStreamed 1 year ago",
+      "bm25_score_raw": 4.981855760378083,
+      "bm25_score_norm": 0.9045091863611021,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8217610120773315,
+      "embedding_score_norm": 0.3405276945425371,
+      "embedding_rank": 10
+    },
+    {
+      "title": "केंद्रीय गृह मंत्री अमित शाह, यूपी के सीएम योगी आदित्यनाथ और तमाम भाजपा के ...",
+      "url": "https://www.instagram.com/p/DTr-mWuk8na",
+      "snippet": "भाजपा के राष्ट्रीय कार्यकारी अध्यक्ष नितिन नबीन आज पार्टी अध्यक्ष पद के लिए नामांकन दाखिल करेंगे। #BJP #AmitShah #NitinNabin #CMYogi #YogiAdityanath #BJPPresident #LatestNews",
+      "bm25_score_raw": 3.9083601547697553,
+      "bm25_score_norm": 0.687810561962954,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8146963715553284,
+      "embedding_score_norm": 0.16042807563500217,
+      "embedding_rank": 11
+    },
+    {
+      "title": "Yogi vs Shah: Delhi का 'गुप्त ऑपरेशन' और Shankaracharya की भिड़ंत ...",
+      "url": "https://www.youtube.com/watch?v=lpcuSphIHwg",
+      "snippet": "उत्तर प्रदेश की राजनीति में Yogi Adityanath vs Amit Shah की जंग अब एक नए मोड़ पर है। वरिष्ठ पत्रकार आशुतोष Ashutosh Ki Paini Nazar में विश्लेषण कर रहे हैं कि क्या दिल्ली से",
+      "bm25_score_raw": 2.778173278604313,
+      "bm25_score_norm": 0.459668089745654,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8084033727645874,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

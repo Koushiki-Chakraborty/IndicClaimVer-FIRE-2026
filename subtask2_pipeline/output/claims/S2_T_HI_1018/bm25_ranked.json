@@ -1,0 +1,105 @@
+{
+  "claim": {
+    "id": "S2/T/HI/1018",
+    "text": "महाराष्ट्र में रात 8 बजे से सुबह 7 बजे तक कर्फ्यू के दौरान राज्य सरकार ने IPL टीमों को कोई छूट नहीं दी है।",
+    "lang": "hindi"
+  },
+  "ranked_evidence": [
+    {
+      "title": "IPL 2021: Maharashtra Government Allows IPL Teams To Practice After 8 ...",
+      "url": "https://sports.ndtv.com/ipl-2021/indian-premier-league-2021-maharashtra-government-allows-ipl-teams-to-practice-after-8-pm-in-mumbai-despite-night-curfew-2406828",
+      "snippet": "Maharashtra government allowed IPL teams to practice in Mumbai after 8 PM despite the night curfew that has been imposed in the city.",
+      "bm25_score_raw": 3.7762920556205226,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Maharashtra government allows teams to practice post 8pm",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/maharashtra-government-allows-teams-to-practice-post-8pm/amp_articleshow/81924130.cms",
+      "snippet": "The Maharashtra government has made a special exception to allow the IPL teams based in Mumbai to practice despite a night curfew and a weekend",
+      "bm25_score_raw": 3.2479350962612683,
+      "bm25_score_norm": 0.8600857794955601,
+      "bm25_rank": 2
+    },
+    {
+      "title": "Mahagovt allows IPL teams to practice, travel during night curfew",
+      "url": "https://www.greaterkashmir.com/sports/mahagovt-allows-ipl-teams-to-practice-travel-during-night-curfew/amp",
+      "snippet": "However, the state government has allowed the IPL teams to practice beyond 8pm, provided there is “strict adherence to bio-bubble”. The event",
+      "bm25_score_raw": 3.1965610446332517,
+      "bm25_score_norm": 0.84648141551329,
+      "bm25_rank": 3
+    },
+    {
+      "title": "IPL 2021: Wankhede matches not to be affected by curfew in Maharashtra",
+      "url": "https://www.business-standard.com/amp/article/sports/ipl-2021-wankhede-matches-not-to-be-affected-by-curfew-in-maharashtra-121041301349_1.html",
+      "snippet": "The Maharashtra government on Tuesday announced a statewide curfew starting April 14 till May 1 but it won't affect the Indian Premier League (",
+      "bm25_score_raw": 1.8274271484648532,
+      "bm25_score_norm": 0.4839210319405683,
+      "bm25_rank": 4
+    },
+    {
+      "title": "IPL 2021: Curfew won't hurt travel from hotel to stadium as we are in bubble ...",
+      "url": "https://m.economictimes.com/news/sports/ipl-2021-curfew-wont-hurt-travel-from-hotel-to-stadium-as-we-are-in-bubble-says-bcci-official/amp_articleshow/81899547.cms",
+      "snippet": "With the Maharashtra government implementing curfew on weekends, Indian Premier League 2021 games. The curfew won't hurt travel to and from the",
+      "bm25_score_raw": 1.7312780488037522,
+      "bm25_score_norm": 0.45845978629406287,
+      "bm25_rank": 5
+    },
+    {
+      "title": "Mumbai Indians का पलटवार ? या IPL से बाहर | Cricket House Full ...",
+      "url": "https://www.youtube.com/watch?v=iL--NjfHpi0",
+      "snippet": "Mumbai Indians का पलटवार ? या IPL से बाहर | Cricket House Full | Indian Premier League. @News24thinkfirst18 likes2.2K viewsStreamed 1 year ago",
+      "bm25_score_raw": 1.2954046236264911,
+      "bm25_score_norm": 0.3430361329438089,
+      "bm25_rank": 6
+    },
+    {
+      "title": "अगर आज मुंबई इंडियंस यह मैच हार जाती है, तो वह लगभग IPL से ...",
+      "url": "https://www.instagram.com/reel/DXuRkSPjAw9",
+      "snippet": "cricketnewsworlds on April 29, 2026: \"अगर आज मुंबई इंडियंस यह मैच हार जाती है, तो वह लगभग IPL से बाहर हो जाएगी। PIC CREDIT - JIOHOTSTAR/IPL - Indian Premier",
+      "bm25_score_raw": 1.2230228131710863,
+      "bm25_score_norm": 0.32386870378597304,
+      "bm25_rank": 7
+    },
+    {
+      "title": "4 श‍िकस्त से डूबी मुंबई इंड‍ियंस की नैया, कभी 5 हार के बाद बनी ...",
+      "url": "https://www.aajtak.in/sports/cricket/story/mumbai-indians-4-losses-ipl-2026-comeback-history-mi-poor-start-analysis-tspok-dskc-2526068-2026-04-18",
+      "snippet": "मुंबई इंडियंस IPL 2026 में लगातार 4 हार से जूझ रही है. हालांकि इससे पहले एक सीजन में टीम ने खराब शुरुआत के बाद शानदार वापसी कर खिताब जीता था. तब कप्तान रोहित शर्मा थे,",
+      "bm25_score_raw": 0.7893292626504863,
+      "bm25_score_norm": 0.20902230310170838,
+      "bm25_rank": 8
+    },
+    {
+      "title": "Maharashtra government clears deck for IPL, allows franchises to practice ...",
+      "url": "https://www.wionews.com/sports/maharashtra-government-clears-deck-for-ipl-allows-franchises-to-practice-after-8pm-at-wankhede-stadium-375542/amp",
+      "snippet": "the state government on Sunday announced night curfewfrom 8pm to 7am on weekdays under their 'Break the Chain' initiative.",
+      "bm25_score_raw": 0.34436812515350596,
+      "bm25_score_norm": 0.09119213240961024,
+      "bm25_rank": 9
+    },
+    {
+      "title": "आईपीएल 2026 के 41वें मुकाबले में मुंबई के वानखेड़े स्टेडियम पर ...",
+      "url": "https://www.facebook.com/NavbharatTimes.Sports/videos/%E0%A4%86%E0%A4%88%E0%A4%AA%E0%A5%80%E0%A4%8F%E0%A4%B2-2026-%E0%A4%95%E0%A5%87-41%E0%A4%B5%E0%A5%87%E0%A4%82-%E0%A4%AE%E0%A5%81%E0%A4%95%E0%A4%BE%E0%A4%AC%E0%A4%B2%E0%A5%87-%E0%A4%AE%E0%A5%87%E0%A4%82-%E0%A4%AE%E0%A5%81%E0%A4%82%E0%A4%AC%E0%A4%88-%E0%A4%95%E0%A5%87-%E0%A4%B5%E0%A4%BE%E0%A4%A8%E0%A4%96%E0%A5%87%E0%A4%A1%E0%A4%BC%E0%A5%87-%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%87%E0%A4%A1%E0%A4%BF%E0%A4%AF%E0%A4%AE-%E0%A4%AA%E0%A4%B0-%E0%A4%B0%E0%A4%A8%E0%A5%8B%E0%A4%82-%E0%A4%95%E0%A5%80-%E0%A4%9C%E0%A4%AC%E0%A4%B0%E0%A4%A6%E0%A4%B8%E0%A5%8D%E0%A4%A4-%E0%A4%AC/2017814848769434",
+      "snippet": "आईपीएल 2026 के 41वें मुकाबले में मुंबई के वानखेड़े स्टेडियम पर रनों की जबरदस्त बारिश हुई, जहाँ सनराइजर्स हैदराबाद ने मुंबई इंडियंस को 6 विकेट से हराकर",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10
+    },
+    {
+      "title": "मुंबई इंडियंस के लिए यह आईपीएल सीजन बेहद निराशाजनक रहा ...",
+      "url": "https://www.instagram.com/reel/DYNBRiTjzxq",
+      "snippet": "मुंबई इंडियंस के लिए यह आईपीएल सीजन बेहद निराशाजनक रहा और टीम का सफर लीग स्टेज में ही खत्म हो गया। पांच बार की चैंपियन इस टीम ने सीजन की शुरुआत से ही लगातार संघर्ष किया।",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11
+    },
+    {
+      "title": "मुंबई इंडियंस IPL–2026 से बाहर हुई? अंक तालिका में पिछड़ी ...",
+      "url": "https://www.facebook.com/goldenhindnews/videos/%E0%A4%AE%E0%A5%81%E0%A4%82%E0%A4%AC%E0%A4%88-%E0%A4%87%E0%A4%82%E0%A4%A1%E0%A4%BF%E0%A4%AF%E0%A4%82%E0%A4%B8-ipl2026-%E0%A4%B8%E0%A5%87-%E0%A4%AC%E0%A4%BE%E0%A4%B9%E0%A4%B0-%E0%A4%B9%E0%A5%81%E0%A4%88-%E0%A4%85%E0%A4%82%E0%A4%95-%E0%A4%A4%E0%A4%BE%E0%A4%B2%E0%A4%BF%E0%A4%95%E0%A4%BE-%E0%A4%AE%E0%A5%87%E0%A4%82-%E0%A4%AA%E0%A4%BF%E0%A4%9B%E0%A4%A1%E0%A4%BC%E0%A5%80viralreels%E3%82%B7-iplhighlights/1260890159461580",
+      "snippet": "84 रन ठोकने के बाद भी रोहित शर्मा नहीं बने 'मैन ऑफ द मैच ... यही कारण है आईपीएल दो हजार छब्बीस में मुंबई इंडियंस batter perform नहीं कर पाई।",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12
+    }
+  ]
+}

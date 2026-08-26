@@ -1,0 +1,57 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1016",
+    "text": "India logs 12,249 fresh Covid-19 cases, 9 deaths; active infections rise to 81,687",
+    "lang": "english"
+  },
+  "ranked_evidence": [
+    {
+      "title": "India logs 761 Covid cases, 12 deaths",
+      "url": "https://www.deccanherald.com/india/india-logs-761-covid-cases-12-deaths-2836674",
+      "snippet": "Of the 12 fresh deaths, five were reported from Kerala, four from Karnataka, two from Maharashtra, and one from Uttar Pradesh, the data stated.",
+      "bm25_score_raw": 11.955734016702639,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "249 fresh COVID-19 cases in India",
+      "url": "https://health.economictimes.indiatimes.com/news/industry/249-fresh-covid-19-cases-in-india/96103358",
+      "snippet": "249 fresh COVID-19 cases in India. No deaths were reported in the last 24 hours. The active cases comprise 0.01 per cent of the total",
+      "bm25_score_raw": 7.015359687218842,
+      "bm25_score_norm": 0.5403850025072022,
+      "bm25_rank": 2
+    },
+    {
+      "title": "India Logs Over 300 Fresh COVID-19 Cases, Reports Two ...",
+      "url": "https://swachhindia.ndtv.com/india-logs-over-300-fresh-covid-19-cases-reports-two-deaths-due-to-infection-77490",
+      "snippet": "The death toll has increased to 5,31,866 with two deaths. The Covid-19 case tally was recorded at 4.49 crore.",
+      "bm25_score_raw": 3.1283879973561697,
+      "bm25_score_norm": 0.1787706056326491,
+      "bm25_rank": 3
+    },
+    {
+      "title": "Covid-19 Cases: India records 10112 fresh corona cases in ...",
+      "url": "https://www.youtube.com/watch?v=4rpJ_Bm4vUQ",
+      "snippet": "India on Sunday recorded a single-day rise of 10112 fresh Covid-19 infections and 29 deaths. India's Covid-19 tally stands at 4.48 crore. at 7.",
+      "bm25_score_raw": 1.8747020113999606,
+      "bm25_score_norm": 0.06213715989287552,
+      "bm25_rank": 4
+    },
+    {
+      "title": "COVID-19 pandemic in India - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_India",
+      "snippet": "| Health checks during the COVID-19 pandemic in India, June 2020 |. The **COVID-19 pandemic in India** is a part of the COVID-19 pandemic. As of 14 July 2026, according to Indian government figures, India has the second-highest number of confirmed cases in the world (after the United States) with 45,056,221 reported cases of COVID-19 infection and the third-highest number of COVID-19 deaths (after the United States and Brazil) at 533,849 deaths. The first cases of COVID-19 in India were reported on 30 January 2020 in three towns of Kerala, among three Indian medical students who had returned from Wuhan, the epicenter of the pandemic. Main articles: Timeline of the COVID-19 pandemic in India (January–May 2020) \"Timeline of the COVID-19 pandemic in India (January–May 2020)\"), Timeline of the COVID-19 pandemic in India (June–December 2020) \"Timeline of the COVID-19 pandemic in India (June–December 2020)\"), and Timeline of the COVID-19 pandemic in India (2021) \"Timeline of the COVID-19 pandemic in India (2021)\").",
+      "bm25_score_raw": 1.3798210197388359,
+      "bm25_score_norm": 0.016097181832078027,
+      "bm25_rank": 5
+    },
+    {
+      "title": "Coronavirus: India records highest single-day death toll",
+      "url": "https://www.dw.com/en/coronavirus-digest-india-records-highest-daily-death-toll/a-57838312",
+      "snippet": "3. Skip to more DW sites. India has reported the world's worst single-day COVID-19-related death toll after a state revised its official figures. In Europe, the WHO is warning that the Delta variant could take hold. India has recorded the world's highest single-day death toll from the virusImage: Sri Loganathan Velmurugan/ZUMA Wire/picture alliance. It represents the highest single-day death toll from the virus in the world. Authorities revised the state’s earlier total from about 5,400 to more than 9,400 coronavirus-related deaths to account for patients who succumbed to the virus at home or in private hospitals. With a caseload of more than 29.2 million infections and nearly 360,000 fatalities, India remains the world’s second-worst affected country after the United States. **WHO European** Regional Director Hans Kluge on Thursday warned that the Delta variant of the coronavirus — a mutation first seen in India — was \"poised to take hold\" in Europe as countries scramble to lift restrictions while infections ebb once again.",
+      "bm25_score_raw": 1.206793367608147,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6
+    }
+  ]
+}

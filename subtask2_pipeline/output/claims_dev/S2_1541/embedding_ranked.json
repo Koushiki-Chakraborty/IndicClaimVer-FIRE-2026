@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/1541",
+    "text": "মানবিক উদ্যোগ! লকডাউনে রাজ্যের ২৭ লক্ষ শ্রমিককে অর্থ সাহায্য যোগী সরকারের",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "UP CM Yogi announces financial assistance of Rs 35-40 ...",
+      "url": "https://www.newindianexpress.com/india/2025/Oct/07/up-cm-yogi-announces-financial-assistance-of-rs-35-40-lakh-for-sanitation-workers-in-case-of-any-eventuality",
+      "snippet": "Oct 7, 2025 — UP CM Yogi announces financial assistance of Rs 35-40 lakh for sanitation workers in case of any eventuality. CM urges Valmiki community to ...Read more",
+      "bm25_score_raw": 4.227006715142798,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8671958446502686,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "CM Yogi Distributed ₹1 Lakh Subsidy to Kailash Yatris",
+      "url": "https://www.triptotemples.com/news/kailash-mansarovar/cm-yogi-distributes-one-lakh-subsidy-to-kailash-yatris",
+      "snippet": "Mar 18, 2026 — CM Yogi Adityanath distributes ₹1 lakh financial aid to 555 Kailash Mansarovar pilgrims in Lucknow. Check eligibility, required documents,",
+      "bm25_score_raw": 2.051555171766739,
+      "bm25_score_norm": 0.485344668229947,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8671436309814453,
+      "embedding_score_norm": 0.9994558641200776,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Uttar Pradesh Chief Minister Yogi Adityanath on Saturday ...",
+      "url": "https://www.facebook.com/UNINewsagency/photos/uttar-pradesh-chief-minister-yogi-adityanath-on-saturday-assured-people-seeking-/1323321303141321",
+      "snippet": "Uttar Pradesh Chief Minister Yogi Adityanath on Saturday assured people seeking financial assistance for serious medical conditions that the",
+      "bm25_score_raw": 2.9460861892258117,
+      "bm25_score_norm": 0.6969674731463695,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8596755266189575,
+      "embedding_score_norm": 0.9216282831394901,
+      "embedding_rank": 3
+    },
+    {
+      "title": "UP CM Yogi Adityanath Announces ₹25000 Financial Aid ...",
+      "url": "https://indianmasterminds.com/news/yogi-adityanath-lakshmibai-scooty-scheme-financial-aid-daughters-190032",
+      "snippet": "Each girl will receive a total of ₹25,000, Currently, approximately 27 lakh daughters are benefiting from this scheme. The program aims to ensure that no girl",
+      "bm25_score_raw": 3.4822900671760975,
+      "bm25_score_norm": 0.8238193837500108,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8595991134643555,
+      "embedding_score_norm": 0.9208319564293754,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Yogi Adityanath: UP to support girls financially from birth till ...",
+      "url": "https://www.deccanherald.com/india/uttar-pradesh/up-govt-to-provide-financial-support-to-girls-from-birth-till-graduation-yogi-adityanath-3924044",
+      "snippet": "Mar 8, 2026 — government will provide financial support to girls from birth. Rs 25,000 is being provided around 2.7 million girls are currently benefiting",
+      "bm25_score_raw": 2.0774443195180803,
+      "bm25_score_norm": 0.4914693681644411,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8542114496231079,
+      "embedding_score_norm": 0.8646853329291654,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Yogi's operation 'gau raksha', Uttar Pradesh government ...",
+      "url": "https://www.youtube.com/watch?v=YHoKREYjaZM",
+      "snippet": "Uttar Pradesh government presents 4.79 lakh crore budget. Yogi's operation 'gau raksha', Uttar Pradesh government presents 4.79 lakh crore",
+      "bm25_score_raw": 3.1020128064664756,
+      "bm25_score_norm": 0.7338556608755429,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8459393382072449,
+      "embedding_score_norm": 0.7784789290213256,
+      "embedding_rank": 6
+    },
+    {
+      "title": "দেশে ফের লকডাউনের কোনও সম্ভাবনা নেই ।লকডাউনের গুজব উড়িয়ে দিল ভারত সরকার #breakingnews",
+      "url": "https://www.youtube.com/watch?v=OR8m_qhNsBE",
+      "snippet": "দেশে ফের লকডাউনের কোনও সম্ভাবনা নেই ।লকডাউনের গুজব উড়িয়ে দিল ভারত সরকার #breakingnews\nRepublic Bangla\n9320000 subscribers\n1089 likes\n84367 views\n27 Mar 2026\nJABAB CHAY BANGLA | দেশে ফের লকডাউনের কোনও সম্ভাবনা নেই ।লকডাউনের গুজব উড়িয়ে দিল ভারত সরকার। লকডাউন নিয়ে কোনও আলোচনা বা সিদ্ধান্ত হয়নি।  গুজবে কান না দেওয়ার আর্জি কেন্দ্রের #BreakingNews \n \n#JababChayBangla #pmmodi #lockdown #lockdownews #mamatabanerjeenews #iranisraelwar #israeliranwar #pmmodimeeting #RepublicBangla #BanglaNews #BengaliNews #Rbangla #RepublicBanglaLive #BengaliNewsLive #BanglaNewsLive\n\n\nOfficial page of Bangla News, Bengali News & Bengal’s NO.1 news channel Republic Bangla. Subscribe our channel and Join the Movement. Click the bell icon and stay updated on all the fastest news developments. \n\nRepublic Bangla streams news 24X7 on issues related to West Bengal, Nation and the World. The channel also has THE BIGGEST NEWS STORIES FROM BENGAL ,THE BIGGEST NEWS EVENTS FROM BENGAL & THE BIGGEST NEWSMAKERS FROM BENGAL. WATCH THE LOUDEST VOICE OF THE PEOPLE OF BENGAL ON BENGAL'S NO.1 BANGLA NEWS CHANNEL - Republic Bangla. Republic is independent. Republic is global.\n\nসোশ্যাল মিডিয়ায় Republic Bangla-র সঙ্গে যুক্ত থাকুন\n\n🌐 Visit Our Website: https://republicbangla.co.in/\n👍 Facebook: https://www.facebook.com/RepublicBangla\n🐦 Twitter: https://twitter.com/BanglaRepublic\n📸 Instagram: https://www.instagram.com/republicbangla\n📱 WhatsApp Channel: https://whatsapp.com/channel/0029Va79hGC9xVJgiAfDbS16\n📢 Telegram: https://t.me/RepublicBanglaa\n🔗 LinkedIn: https://www.linkedin.com/company/republic-bangla-co-in/\n\nAlso, Watch ► \nRepublic TV Live News Updates ►http://bit.ly/RepublicTVLiveNews​\nThe Debate With Arnab Goswami ► http://bit.ly/TheDebateWithArnabGoswami​\nBiggest Story Tonight ► http://bit.ly/BiggestStoryTonight​\nBurning Question Debates ► http://bit.ly/BurningQuestionDebate​\nPatriot With Major Gaurav Arya ► http://bit.ly/PatriotFullEpisodes​\nExclusive Sunday Debate With Arnab Goswami ► http://bit.ly/SundayDebate​\n\nরিপাবলিক, শুধুমাত্র একটা শব্দ নয়।\nরিপাবলিক, শুধুমাত্র একজনকে নিয়ে নয়।\nসকল মানুষের ঐক্যবদ্ধ কণ্ঠস্বর নিয়েই এই রিপাবলিক।\nএকে থামানো যায় না।\nএকে চেপে রাখা যায় না।\nরিপাবলিক স্বাধীন।\nরিপাবলিক নির্ভীক।\nআপনিই রিপাবলিক।\nআমরা আপনার কণ্ঠস্বর।\nসঠিক খবর, সবার আগে পেতে, চোখ থাকুক রিপাবলিক বাংলা-র এই অফিশিয়াল ইউটিউব পেজে।\n45 comments\n",
+      "bm25_score_raw": 0.5847917719583592,
+      "bm25_score_norm": 0.1383465443438747,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.8097809553146362,
+      "embedding_score_norm": 0.40166048405731564,
+      "embedding_rank": 7
+    },
+    {
+      "title": "Lockdown in India 2026: আবারও কি লকডাউনের সম্ভাবনা? চার ...",
+      "url": "https://eisamay.com/nation/is-there-a-lockdown-in-india-2026-rumors-vs-facts-covid-memories-and-iran-war-impact/200487853.cms",
+      "snippet": "Mar 24, 2026 — মার্চ মাসের ২৪ তারিখ ঠিক রাত আটটা নাগাদ প্রধানমন্ত্রী নরেন্দ্র মোদীর একটি ঘোষণায় গৃহবন্দি জীবন শুরু হয় দেশবাসীর। শুনশান রাস্তা, গণপরিবহণে তালা। করোনা ভাইরাসের দাপটে এক লহমায় বদলে যায় দেশবাসীর জীবন ...Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.8056142926216125,
+      "embedding_score_norm": 0.35823831660757366,
+      "embedding_rank": 8
+    },
+    {
+      "title": "সত্যিই কি হবে লকডাউন ৩ ? প্রস্তুত থাকুন এই তিনটি জিনিস নিয়ে !",
+      "url": "https://www.instagram.com/reel/DWV6KRhj2mQ",
+      "snippet": "কলকাতা লাগোয়া শহরতলিতে লাল সতর্কতা জারি। হাওড়া, দুই ২৪ পরগনা, হুগলিতে লাল সতর্কতা। লাল সতর্কতা জারি করল হাওয়া অফিস। অত্যন্ত গুরুত্বপূর্ণ প্রয়োজন ছাড়া বাড়ির বাইরে না বেরোনোর পরামর্শ আবহাওয়া দফতরের।Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.8025691509246826,
+      "embedding_score_norm": 0.3265038897019179,
+      "embedding_rank": 9
+    },
+    {
+      "title": "করোনার বিরুদ্ধে ভারতের যুদ্ধে চার সপ্তাহের মধ্যে চতুর্থ বার ...",
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1614349",
+      "snippet": "Apr 14, 2020 — প্রধানমন্ত্রী শ্রী নরেন্দ্র মোদী আজ লকডাউনের মেয়াদ আগামী তেশরা মে পর্যন্ত বাড়ানোর কথা ঘোষণা করেন। এর আগে ২১ দিনের লকডাউন আজ, অর্থাৎ ১৪ এপ্রিল শেষ হবার কথা ছিল। করোনা ভাইরাসের মোকাবিলায় জাতির উদ্দেশে ...Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.7892540693283081,
+      "embedding_score_norm": 0.18774302872490825,
+      "embedding_rank": 10
+    },
+    {
+      "title": "সরকার ঘোষিত লকডাউন সময় বর্র্ধিতকরণ (১৬ জুন ২১ হতে ১৫ জুলাই ...",
+      "url": "http://biwta.gov.bd/pages/notices/6922e671dbfbab28ce095fa9",
+      "snippet": "এই ওয়েবসাইটে প্রকাশিত সকল তথ্য সংশ্লিষ্ট দপ্তর কর্তৃক নিয়মিত হালনাগাদ করা হয়। তথ্যের যথার্থতা, নির্ভুলতা ও নির্ভরযোগ্যতা নিশ্চিত করতে সংশ্লিষ্ট দপ্তর সর্বদা সচেষ্ট। ... পরিকল্পনা এবং বাস্তবায়ন: মন্ত্রিপরিষদ বিভাগ, এটুআই, ...Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.7883009910583496,
+      "embedding_score_norm": 0.17781068543728398,
+      "embedding_rank": 11
+    },
+    {
+      "title": "LOCKDOWN Definition & Meaning - Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/lockdown",
+      "snippet": "**:** the confinement of prisoners to their cells for all or most of the day as a temporary security measure. **:** an emergency measure or condition in which people are temporarily prevented from entering or leaving a restricted area or building (such as a school) during a threat of danger. For those of you unfamiliar with a school lockdown, it basically means that … when there is a threat of danger, the doors to all the classrooms and offices are locked.—Anne Sponholtz. **:** a temporary condition imposed by governmental authorities (as during the outbreak of an epidemic disease) in which most people are required to refrain from or limit activities outside the home involving public contact (such as dining out or attending large gatherings). **:** a temporary condition imposed by government authorities (as during the outbreak of an epidemic disease) in which people are required to stay in their homes and refrain from or limit activities outside the home (as dining out).",
+      "bm25_score_raw": 0.6164476178903874,
+      "bm25_score_norm": 0.14583549528843423,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.7712388038635254,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1146",
+    "text": "Delhi logs drop in Covid-19 cases with 418 new infections; no deaths reported",
+    "lang": "english"
+  },
+  "entity_ranked_evidence": [
+    {
+      "title": "At 24 in a week, Delhi logs India's highest Covid deaths",
+      "url": "https://timesofindia.indiatimes.com/india/at-24-in-a-week-delhi-logs-indias-highest-covid-deaths/articleshow/99541031.cms",
+      "snippet": "Apr 17, 2023 — Delhi reported 24 deaths linked to Covid, the highest in the country and logged the second highest number of cases at 7,664.",
+      "bm25_score_raw": 4.076424502146671,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8399412631988525,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 1
+    },
+    {
+      "title": "Delhi records its highest COVID-19 deaths, hospitals ...",
+      "url": "https://www.reuters.com/world/asia-pacific/delhi-records-its-highest-covid-19-deaths-hospitals-swamped-2020-11-13",
+      "snippet": "Nov 13, 2020 — Delhi's COVID-19 deaths rose by a record high on Thursday … reported 104 new deaths and 7,053 new infections. 44,789 in the past 24 hours,",
+      "bm25_score_raw": 1.1838745323193443,
+      "bm25_score_norm": 0.014961479830690315,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8040909171104431,
+      "embedding_score_norm": 0.3399488173336289,
+      "embedding_rank": 3,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 2
+    },
+    {
+      "title": "New record rise in India's COVID cases, deaths",
+      "url": "https://www.aljazeera.com/news/2021/4/19/india-sees-new-record-rise-in-daily-covid-cases-and-1619-deaths",
+      "snippet": "Apr 19, 2021 — According to India's health ministry, Delhi reported 25,462 cases and 161 deaths in the past 24 hours. Men carry a coffin for the dead body of a ...Read more",
+      "bm25_score_raw": 1.1399403844188165,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8036705851554871,
+      "embedding_score_norm": 0.33220996306156625,
+      "embedding_rank": 4,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 3
+    },
+    {
+      "title": "Epidemiological impact of COVID-19 in India - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9290375",
+      "snippet": "by VU Shankar · 2022 · Cited by 3 — Delhi (2,34,701) have the foremost COVID-19, show the high death rate than other states. have been blamed for a large portion of total infections and mortality",
+      "bm25_score_raw": 1.5783277446779476,
+      "bm25_score_norm": 0.14928987955785006,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.7989301681518555,
+      "embedding_score_norm": 0.24493276239347003,
+      "embedding_rank": 5,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 4
+    },
+    {
+      "title": "India reports 418 deaths and 18522 new COVID-19 cases in last ...",
+      "url": "https://www.facebook.com/ptcnewsonline/posts/3276666012353445",
+      "snippet": "The media describes the corpses of dead people from COVID-19 as seen everywhere in the capital New Delhi, where an average of 1 death has been recorded every 5",
+      "bm25_score_raw": 3.038165766768592,
+      "bm25_score_norm": 0.6464279411184263,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8340082168579102,
+      "embedding_score_norm": 0.8907649526033585,
+      "embedding_rank": 2,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 5
+    },
+    {
+      "title": "India's daily COVID death toll surpasses 4000 for first time",
+      "url": "https://abc7ny.com/post/india-covid-cases-coronavirus-death-toll-hospitals/10603069",
+      "snippet": "May 9, 2021 — The country's health ministry reported a record 4,187 fatalities for the previous 24 hours, as well as more than 400,000 new infections for the ...Read more",
+      "bm25_score_raw": 1.1755733298042381,
+      "bm25_score_norm": 0.012134560909184517,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.7856267690658569,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 6
+    }
+  ]
+}

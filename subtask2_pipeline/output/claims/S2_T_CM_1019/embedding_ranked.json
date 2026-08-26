@@ -1,0 +1,76 @@
+{
+  "claim": {
+    "id": "S2/T/CM/1019",
+    "text": "enticing india unfortunately apne pass bhi iski hi policy hai",
+    "lang": "codemix"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "UPI, Cards, payments, achievements. India is not far ...",
+      "url": "https://www.instagram.com/reel/C40MzGVrF9x?hl=en",
+      "snippet": "India is not far behind first world. Bhai tu apne gyan ko apne pass rakh.. apne is 265 horsepower se bhi. Only 50 people in India will be able",
+      "bm25_score_raw": 6.186320754988089,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8389734625816345,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Indians are leaving Indian citizenship in growing numbers. ...",
+      "url": "https://www.instagram.com/reel/DXHZKtQDb_y?hl=en",
+      "snippet": "Do lakh se zyada NRIs ne 2024 mein India citizenship give up ki. Aur unme se ek main bhi hoon. Saat saal is desh mein bitake, apni 20s ka ...Read more",
+      "bm25_score_raw": 2.8859724852164383,
+      "bm25_score_norm": 0.4665087051765706,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8346555233001709,
+      "embedding_score_norm": 0.8872445636355429,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Just another day in life on German Autobahn. ...",
+      "url": "https://www.instagram.com/reel/Cp1Oc0wLlgd",
+      "snippet": "It will never be possible in India simply because Indians will never ever follow traffic rules even if government improves infrastructure to ...Read more",
+      "bm25_score_raw": 0.5830670416706727,
+      "bm25_score_norm": 0.0942510200753073,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8148977756500244,
+      "embedding_score_norm": 0.3713055212699559,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Google Translate",
+      "url": "https://translate.google.com/translate_t%E2%97%8Fhl=en",
+      "snippet": "No information is available for this page.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8108996152877808,
+      "embedding_score_norm": 0.26690055239159566,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Today is a big day for India International! I got my FIRST ...",
+      "url": "https://www.facebook.com/indianaftali/posts/today-is-a-big-day-for-india-international-i-got-my-first-official-press-pass-fr/166765861800673",
+      "snippet": "Today is a big day for India International! I got my FIRST official PRESS PASS from the Israeli government. It's always been a dream of mine to have one.Read more",
+      "bm25_score_raw": 1.7861724233643126,
+      "bm25_score_norm": 0.2887293585487149,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8035444617271423,
+      "embedding_score_norm": 0.07483357432694299,
+      "embedding_rank": 5
+    },
+    {
+      "title": "American techie praises India's visa policy | Internet Reacts!",
+      "url": "https://www.youtube.com/watch?v=29A-47JvE8I",
+      "snippet": "American tech expert Tony Klor shared his excitement after getting a 5-year India business visa. In his viral tweet, he praised India's open",
+      "bm25_score_raw": 3.207878014163895,
+      "bm25_score_norm": 0.5185437582714011,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8006787300109863,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6
+    }
+  ]
+}

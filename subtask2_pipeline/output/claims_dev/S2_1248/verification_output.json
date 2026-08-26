@@ -1,0 +1,6 @@
+{
+  "ID": "S2/1248",
+  "Evidence": "Indore reported 16 Covid deaths in 6 days, indicating a rise in the fatality rate, which reached 0.10% during this period, compared to 0.019% from January 13 to 20 (Source 1). The increase in fatalities is attributed to patients with comorbidities and late hospital admissions (Source 1). The report highlights that deaths occurred after 12-16 days of illness, with an average of one death every 18 hours (Source 1). Experts noted that the rise in fatalities could be linked to the severity of cases and the presence of other health conditions (Source 3).",
+  "Prediction": "SUPPORTS",
+  "Justification": "The retrieved evidence directly corroborates the claim by stating that Indore experienced 16 Covid deaths in 6 days, which indicates a rise in the fatality rate. Source 1 explicitly mentions the increase in fatalities and provides statistical context, confirming the claim's core assertion. Additionally, the evidence discusses factors contributing to the rise in deaths, aligning with the claim's focus on the fatality rate."
+}

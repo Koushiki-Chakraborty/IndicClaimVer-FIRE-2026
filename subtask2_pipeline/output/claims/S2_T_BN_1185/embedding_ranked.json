@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/BN/1185",
+    "text": "কারা ভারতীয় ? নাগরিকত্ব আইনের 6A ধারার সাংবিধানিক বৈধতা স্পষ্ট করল সুপ্রিম কোর্ট",
+    "lang": "bengali"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Supreme Court of Bangladesh (@supremecourtofbd)",
+      "url": "https://www.facebook.com/supremecourtofbd?locale=bn_IN",
+      "snippet": "সুপ্রিম কোর্ট সচিবালয় অধ্যাদেশ জারি | বাংলাদেশ. বিচার বিভাগের পূর্ণ স্বাধীনতা নিশ্চিত করার লক্ষ্যে সুপ্রিম কো...Read more",
+      "bm25_score_raw": 3.2958047097134484,
+      "bm25_score_norm": 0.9810550958296326,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8165749311447144,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "সুপ্রিম কোর্ট সচিবালয় বিলুপ্ত করায় হাইকোর্টের বিস্ময় প্রকাশ",
+      "url": "https://www.youtube.com/watch?v=yF37wyDiQns",
+      "snippet": "#highcourt #supremecourt #bangladesh #law #judiciary #court আপিল বিভাগে মামলা চূড়ান্ত নিষ্পত্তি হওয়ার আগেই সুপ্রিম কোর্ট সচিবালয় বিলুপ্ত করায় বিস্ময় প্রকাশ করেছেন হাইকোর্ট।Read more",
+      "bm25_score_raw": 0.547806107134054,
+      "bm25_score_norm": 0.16306426510846986,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.812362015247345,
+      "embedding_score_norm": 0.9560207697500848,
+      "embedding_rank": 2
+    },
+    {
+      "title": "সুপ্রিম কোর্ট | Supreme Court News",
+      "url": "https://www.prothomalo.com/topic/%E0%A6%B8%E0%A7%81%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%AE-%E0%A6%95%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%9F",
+      "snippet": "সর্বোচ্চ আদালত সুপ্রিম কোর্ট সম্পর্কিত সর্বশেষ সংবাদ শিরোনাম, ছবি, ভিডিও প্রতিবেদন, বিশ্লেষণ, খবর পড়তে ভিজিট করুন প্রথম আলো.",
+      "bm25_score_raw": 3.359449151962602,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8062394261360168,
+      "embedding_score_norm": 0.89210618830286,
+      "embedding_rank": 3
+    },
+    {
+      "title": "যুক্তরাষ্ট্রে আসল ক্ষমতা কি সুপ্রিম কোর্টের হাতে? ...",
+      "url": "https://www.facebook.com/tbsnews.net/videos/%E0%A6%AF%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%B0%E0%A6%BE%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A7%87-%E0%A6%86%E0%A6%B8%E0%A6%B2-%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%AE%E0%A6%A4%E0%A6%BE-%E0%A6%95%E0%A6%BF-%E0%A6%B8%E0%A7%81%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%AE-%E0%A6%95%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%9F%E0%A7%87%E0%A6%B0-%E0%A6%B9%E0%A6%BE%E0%A6%A4%E0%A7%87-uspolitics-supremecourt-donaldt/1529167968647629",
+      "snippet": "যুক্তরাষ্ট্রের সুপ্রিম কোর্টে একের পর এক ধাক্কা; এখন কী করবেন ট্রাম্প? ... মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প নিজের সাংবিধানিক ক্ষমতা বাড়ানোর চেষ্টা করলেও শেষ পর্যন্ত সেই সিদ্ধান্তও এসেছে সুপ্রিম কোর্ট থেকেই.Read more",
+      "bm25_score_raw": 0.39793462499360527,
+      "bm25_score_norm": 0.11845234352219036,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.801150918006897,
+      "embedding_score_norm": 0.8389865257957434,
+      "embedding_rank": 4
+    },
+    {
+      "title": "বাংলাদেশ সুপ্রীম কোর্ট",
+      "url": "https://bn.wikipedia.org/wiki/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6_%E0%A6%B8%E0%A7%81%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A7%80%E0%A6%AE_%E0%A6%95%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%9F",
+      "snippet": "বাংলাদেশ সুপ্রিম কোর্ট বাংলাদেশের সর্বোচ্চ আদালত। সংবিধানের ৯৪ অনুচ্ছেদের বিধান অনুযায়ী বাংলাদেশ সুপ্রিম কোর্ট গঠিত হয়েছে। সুপ্রিম কোর্টকে বলা হয় সংবিধানের রক্ষক এবং ব্যাখ্যাকারী। বাংলাদেশের সংবিধানের ষষ্ঠ অধ্যায়ে সুপ্রিম কোর্ট প্রতিষ্ঠা ...Read more",
+      "bm25_score_raw": 0.632399853812926,
+      "bm25_score_norm": 0.18824510364845848,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.797299325466156,
+      "embedding_score_norm": 0.7987792016277312,
+      "embedding_rank": 5
+    },
+    {
+      "title": "News – Supreme",
+      "url": "https://supreme.com/news",
+      "snippet": "[skip to content](https://supreme.com/news#MainContent). [](https://supreme.com/?redirect=false)[](https://supreme.com/). [![Image 1: Supreme®/Mitchell & Ness® (1 of 87)](https://cdn.sanity.io/images/ldn4d4qt/ss26-production-2026-02-22/18cdc48c7cd4e6aac19b786bd4ad7c99af663041-1536x2048.jpg?w=325&q=90&auto=format)](https://supreme.com/news/1023/images?=1). [![Image 2: Supreme®/Mitchell & Ness® (2 of 87)](https://cdn.sanity.io/images/ldn4d4qt/ss26-production-2026-02-22/a472164d87eec8168758c666632dd39a374d8ee8-1536x2048.jpg?w=325&q=90&auto=format)](https://supreme.com/news/1023/images?=2). [![Image 3: Supreme®/Mitchell & Ness® (3 of 87)](https://cdn.sanity.io/images/ldn4d4qt/ss26-production-2026-02-22/da5cbacdebfe959832dc614ba7a3628ec1752f14-1536x2048.jpg?w=325&q=90&auto=format)](https://supreme.com/news/1023/images?=3). [](https://supreme.com/news/1023/images?=4). [](https://supreme.com/news/1023/images?=5). [](https://supreme.com/news/1023/images?=6). [](https://supreme.com/news/1023/images?=7). [](https://supreme.com/news/1023/images?=8). [](https://supreme.com/news/1023/images?=9). [](https://supreme.com/news/1023/images?=10). [](https://supreme.com/news/1023/images?=11). [](https://supreme.com/news/1023/images?=12). [](https://supreme.com/news/1023/images?=13). [](https://supreme.com/news/1023/images?=14). [](https://supreme.com/news/1023/images?=15). [](https://supreme.com/news/1023/images?=16). [](https://supreme.com/news/1023/images?=17). [](https://supreme.com/news/1023/images?=18). [](https://supreme.com/news/1023/images?=19). [](https://supreme.com/news/1023/images?=20). [](https://supreme.com/news/1023/images?=21). [](https://supreme.com/news/1023/images?=22). [](https://supreme.com/news/1023/images?=23). [](https://supreme.com/news/1023/images?=24). [](https://supreme.com/news/1023/images?=25). [](https://supreme.com/news/1023/images?=26). [](https://supreme.com/news/1023/images?=27). [](https://supreme.com/news/1023/images?=28). [](https://supreme.com/news/1023/images?=29). [](https://supreme.com/news/1023/images?=30). [](https://supreme.com/news/1023/images?=31). [](https://supreme.com/news/1023/images?=32). [](https://supreme.com/news/1023/images?=33). [](https://supreme.com/news/1023/images?=34). [](https://supreme.com/news/1023/images?=35). [](https://supreme.com/news/1023/images?=36). [](https://supreme.com/news/1023/images?=37). [](https://supreme.com/news/1023/images?=38). [](https://supreme.com/news/1023/images?=39). [](https://supreme.com/news/1023/images?=40). [](https://supreme.com/news/1023/images?=41). [](https://supreme.com/news/1023/images?=42). [](https://supreme.com/news/1023/images?=43). [](https://supreme.com/news/1023/images?=44). [](https://supreme.com/news/1023/images?=45). [](https://supreme.com/news/1023/images?=46). [](https://supreme.com/news/1023/images?=47). [](https://supreme.com/news/1023/images?=48). [](https://supreme.com/news/1023/images?=49). [](https://supreme.com/news/1023/images?=50). [](https://supreme.com/news/1023/images?=51). [](https://supreme.com/news/1023/images?=52). [](https://supreme.com/news/1023/images?=53). [](https://supreme.com/news/1023/images?=54). [](https://supreme.com/news/1023/images?=55). [](https://supreme.com/news/1023/images?=56). [](https://supreme.com/news/1023/images?=57). [](https://supreme.com/news/1023/images?=58). [](https://supreme.com/news/1023/images?=59). [](https://supreme.com/news/1023/images?=60). [](https://supreme.com/news/1023/images?=61). [](https://supreme.com/news/1023/images?=62). [](https://supreme.com/news/1023/images?=63). [](https://supreme.com/news/1023/images?=64). [](https://supreme.com/news/1023/images?=65). [](https://supreme.com/news/1023/images?=66). [](https://supreme.com/news/1023/images?=67). [](https://supreme.com/news/1023/images?=68). [](https://supreme.com/news/1023/images?=69). [](https://supreme.com/news/1023/images?=70). [](https://supreme.com/news/1023/images?=71). [](https://supreme.com/news/1023/images?=72). [](https://supreme.com/news/1023/images?=73). [](https://supreme.com/news/1023/images?=74). [](https://supreme.com/news/1023/images?=75). [](https://supreme.com/news/1023/images?=76). [](https://supreme.com/news/1023/images?=77). [](https://supreme.com/news/1023/images?=78). [](https://supreme.com/news/1023/images?=79). [](https://supreme.com/news/1023/images?=80). [](https://supreme.com/news/1023/images?=81). [](https://supreme.com/news/1023/images?=82). [](https://supreme.com/news/1023/images?=83). [](https://supreme.com/news/1023/images?=84). [](https://supreme.com/news/1023/images?=85). [](https://supreme.com/news/1023/images?=86). [](https://supreme.com/news/1023/images?=87). Select styles available May 21st. Select styles available in Asia May 23rd. *   [shop](https://jp.supreme.com/pages/shop). *   [spring/summer 2026 preview](https://supreme.com/previews/springsummer2026). *   [fall/winter 2025 preview](https://supreme.com/previews/fallwinter2025). *   [lookbook](https://supreme.com/lookbook/45). *   [news](https://supreme.com/news). *   [random](https://supreme.com/random/supreme-everlast-boxing-ring). *   [about](https://supreme.com/about). *   [stores](https://supreme.com/stores). *   [よくあるご質問](https://jp.supreme.com/pages/faq). *   [サイズ/製品寸法](https://jp.supreme.com/pages/sizing). *   [コンタクト](https://supreme.com/contact). *   [利用規約](https://jp.supreme.com/pages/terms). *   [特定商取引法表示](https://jp.supreme.com/pages/policy). *   [個人情報保護方針](https://jp.supreme.com/pages/privacy). *   [メーリングリスト](https://supreme.com/mailinglist). *   [full site](https://supreme.com/?redirect=false).",
+      "bm25_score_raw": 0.3261154829555953,
+      "bm25_score_norm": 0.09707409405648466,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.7935020923614502,
+      "embedding_score_norm": 0.7591393433697644,
+      "embedding_rank": 6
+    },
+    {
+      "title": "SUPREME Definition & Meaning",
+      "url": "https://www.merriam-webster.com/dictionary/supreme",
+      "snippet": "**:** in a position of unquestioned authority, dominance, or influence. the nation's supreme leader. This Constitution … shall be the supreme Law of the Land; and the Judges in every State shall be bound thereby, any Thing in the Constitution or Laws of any State to the Contrary notwithstanding. In that house Lady Fawn reigned supreme, and no one ever doubted, for a moment, as to obedience. ## Synonyms of *supreme*. ## Examples of *supreme* in a Sentence. the *supreme* example of what not to do. Opinions expressed in the examples do not represent those of Merriam-Webster or its editors. The *supreme* leader has not been seen in public since he was wounded in a strike at the start of the war. But this *supreme* and irresistible power to make or to unmake, resides only in the whole body of the people; not in any subdivision of them. ## More from Merriam-Webster on *supreme*.",
+      "bm25_score_raw": 0.6501269950534124,
+      "bm25_score_norm": 0.1935219036351855,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.7787287831306458,
+      "embedding_score_norm": 0.6049186601084532,
+      "embedding_rank": 7
+    },
+    {
+      "title": "Supreme: Shop",
+      "url": "https://us.supreme.com/pages/shop",
+      "snippet": "# Shop. Our webstore is currently closed and will reopen soon with our Fall/Winter 2026 collection. For information regarding future news and releases, please sign up for our mailing list below.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.7690357565879822,
+      "embedding_score_norm": 0.5037317728020807,
+      "embedding_rank": 8
+    },
+    {
+      "title": "Supreme for men | Hoodies, bags & beanies",
+      "url": "https://www.farfetch.com/shopping/men/supreme/items.aspx",
+      "snippet": "*   Image 2: Supreme box logo cotton T-shirt Supreme box logo cotton T-shirt $191 Available in M, XXL. *   Image 6: Supreme Box Logo crewneck sweatshirt Supreme Box Logo crewneck sweatshirt $245 Available in S, M, L, XL. *   Image 11: Supreme x Hanes two-pack Bandana Tagless T-shirt Supreme x Hanes two-pack Bandana Tagless T-shirt $82 Available in L. *   Image 21: Supreme Box Logo cotton hoodie Supreme Box Logo cotton hoodie $375 Available in M, XL, XXL. *   Image 37: Supreme x Hanes tagless boxer briefs (pack of 4) Supreme x Hanes tagless boxer briefs (pack of 4) $46 Available in S, M, L, XL, XXL. *   Image 38: Supreme Hanes Tagless T-shirt (pack of three) Supreme Hanes Tagless T-shirt (pack of three) $58 Available in S, M, L, XL, XXL. *   Image 55: Supreme x Hanes Tagless T-shirt (pack of three) Supreme x Hanes Tagless T-shirt (pack of three) $72 Available in S, M, L, XL, XXL.",
+      "bm25_score_raw": 1.0388627240544221,
+      "bm25_score_norm": 0.30923603158199753,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.7599523067474365,
+      "embedding_score_norm": 0.40890834367776396,
+      "embedding_rank": 9
+    },
+    {
+      "title": "ফোর্ট উইলিয়ামের সুপ্রিম কোর্টের বিচারিক আদালত",
+      "url": "https://bn.wikipedia.org/wiki/%E0%A6%AB%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%9F_%E0%A6%89%E0%A6%87%E0%A6%B2%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%AE%E0%A7%87%E0%A6%B0_%E0%A6%B8%E0%A7%81%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%AE_%E0%A6%95%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%9F%E0%A7%87%E0%A6%B0_%E0%A6%AC%E0%A6%BF%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A6%BF%E0%A6%95_%E0%A6%86%E0%A6%A6%E0%A6%BE%E0%A6%B2%E0%A6%A4",
+      "snippet": "কলকাতার ফোর্ট উইলিয়ামের সুপ্রিম কোর্টের বিচারিক আদালত ১৭৭৩ সালে নিয়ন্ত্রক আইন দ্বারা ১৭৭৪ সালে প্রতিষ্ঠিত হয়েছিল। এটি কলকাতার মেয়র কোর্টকে প্রতিস্থাপন করেছিল এবং ১৮৬২ সাল পর্যন্ত ব্রিটিশ ভারতের সর্বোচ্চ আদালত ছিল, ...Read more",
+      "bm25_score_raw": 2.6133579444103905,
+      "bm25_score_norm": 0.7779126357318602,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.7558763027191162,
+      "embedding_score_norm": 0.36635835596663646,
+      "embedding_rank": 10
+    },
+    {
+      "title": "Supreme",
+      "url": "https://www.streetwearofficial.com/collections/supreme",
+      "snippet": "Supreme®/Hanes® Boxer Briefs (2 Pack)- Fluorescent Yellow Sale price$ 120.00 USD. Supreme®/Nike® Neck Warmer- YellowSupreme®/Nike® Neck Warmer- Yellow. Supreme®/Nike® Neck Warmer- Yellow Sale price$ 120.00 USD. Supreme®/Nike® Neck Warmer- RedSupreme®/Nike® Neck Warmer- Red. Supreme®/Nike® Neck Warmer- Red Sale price$ 120.00 USD. Supreme®/Nike® Neck Warmer- BlueSupreme®/Nike® Neck Warmer- Blue. Supreme®/Nike® Neck Warmer- Blue Sale price$ 120.00 USD. Supreme Box Logo L/S Tee (FW20)- Navy Sale price$ 400.00 USD. Supreme Box Logo L/S Tee (FW20)- Navy. Supreme Camo iPhone 11 Case- Pink Camo Sale price$ 120.00 USD. Supreme Daniel Johnston Frog Tee- White Sale priceFrom $ 120.00 USD. Supreme Everything Is Shit Tee- Navy Sale priceFrom $ 120.00 USD. Supreme The North Face Expedition Waist Bag- Sulphur Sale price$ 400.00 USD. Supreme®/Emilio Pucci® Box Logo Tee- Black/Black Sale priceFrom $ 400.00 USD. Supreme®/Emilio Pucci® Box Logo Tee- White/Blue. Supreme®/Emilio Pucci® Box Logo Tee- White/Blue Sale price$ 540.00 USD. Supreme®/Emilio Pucci® Box Logo Tee- Black/Black. Supreme®/Emilio Pucci® Box Logo Tee- White/Dusty Pink Sale price$ 540.00 USD.",
+      "bm25_score_raw": 0.8832804778774763,
+      "bm25_score_norm": 0.26292419915373944,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.7548221349716187,
+      "embedding_score_norm": 0.35535374841722434,
+      "embedding_rank": 11
+    },
+    {
+      "title": "SUPREME - Updated July 2026 - 185 Photos & 351 Reviews",
+      "url": "https://www.yelp.com/biz/supreme-new-york",
+      "snippet": "More info about Supreme · 190 Bowery. New York, NY 10012. Nolita · (212) 966-7799. Call Now · Hours. What time does Supreme open? · Payment methods. Does ...Read more",
+      "bm25_score_raw": 0.9313279503999902,
+      "bm25_score_norm": 0.2772263869080754,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.7207816243171692,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

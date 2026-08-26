@@ -1,0 +1,76 @@
+{
+  "claim": {
+    "id": "S2/1497",
+    "text": "Court May Sentence Accused To Lesser Offence Than Charged But Can't Sentence For Higher Offence Without Altering Charge: Karnataka High Court",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Court May Sentence Accused To Lesser Offence Than Charged But ...",
+      "url": "https://www.livelaw.in/high-court/karnataka-high-court/karnataka-high-court-pocso-act-lesser-offence-charged-conviction-higher-offence-section-216-crpc-231183",
+      "snippet": "The Karnataka High Court has held that the trial court has the power to find an accused guilty for the lesser offence even though the charges were framed for",
+      "bm25_score_raw": 11.655417861519462,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9452144503593445,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "alter of charges",
+      "url": "https://indiankanoon.org/search?formInput=alter+of+charges",
+      "snippet": "Karnataka High Court Cites … on 05.03.2021, the learned Special Judge has altered the charges and the appellant/accused was thereafter charged with the 2",
+      "bm25_score_raw": 3.4322118276946676,
+      "bm25_score_norm": 0.2087520252881918,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8950227499008179,
+      "embedding_score_norm": 0.3551083081565213,
+      "embedding_rank": 2
+    },
+    {
+      "title": "2025 INSC 1356",
+      "url": "https://api.sci.gov.in/supremecourt/2024/35587/35587_2024_3_39_65577_Judgement_10-Nov-2025.pdf",
+      "snippet": "3. These appeals, by special leave, call into question the order dated 26th July, 2024, passed by the High Court of Karnataka at Bengaluru1, whereby the High Court decided two Criminal Revision Petitions, being Criminal Revision Petition No. 422 of 1 Hereinafter, referred to as the “High Court”. Two primary grounds were raised by the accused-appellant: (a) That the accused-appellant, having been appointed by the State Government, could not have been prosecuted on the strength of sanction issued by the Commissioner of Transport, who was not competent to accord sanction for prosecuting the appellant; (b) That the accused-appellant stood exonerated in the departmental proceedings instituted on the same charges and allegations, as were levelled in the criminal case, and hence, the continued criminal prosecution against the accused-appellant was unjustified.",
+      "bm25_score_raw": 1.2627138083812708,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8840795159339905,
+      "embedding_score_norm": 0.21450337541594391,
+      "embedding_rank": 3
+    },
+    {
+      "title": "When Charge Was Framed For Lesser Offence, Court Can't Convict ...",
+      "url": "https://www.verdictum.in/amp/court-updates/high-courts/charge-framed-lesser-offence-trial-court-not-convict-accused-major-offence-lucknow-bench-1504014",
+      "snippet": "The Court held that the Trial court has power to find the accused guilty for a lesser offence even if charge is made for a major offence, but",
+      "bm25_score_raw": 7.187941945860459,
+      "bm25_score_norm": 0.5701334423825914,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8717690110206604,
+      "embedding_score_norm": 0.056330963075285366,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Karnataka High Court just delivered one of the most significant rulings ...",
+      "url": "https://www.facebook.com/LatestLaws/posts/karnataka-high-court-just-delivered-one-of-the-most-significant-rulings-on-judic/1387031606804223",
+      "snippet": "Two men were convicted of gang rape under Section 376D IPC and sentenced to 25 years in prison. But there was a serious problem with the trial —",
+      "bm25_score_raw": 1.6911045839194547,
+      "bm25_score_norm": 0.04122033816683413,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8686257600784302,
+      "embedding_score_norm": 0.01594467610940713,
+      "embedding_rank": 5
+    },
+    {
+      "title": "\"charge\"+\"reframing\" | Indian Case Law",
+      "url": "https://www.casemine.com/search/in/%22charge%22%2B%22reframing%22",
+      "snippet": "Karnataka High Court Date: Dec 1, 2015 … charge has been reframed, on that ground the proceedings cannot be quashed. Under Section 216 of Cr.P.C., Court may",
+      "bm25_score_raw": 3.4650685864004407,
+      "bm25_score_norm": 0.21191354692277073,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8673847913742065,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6
+    }
+  ]
+}

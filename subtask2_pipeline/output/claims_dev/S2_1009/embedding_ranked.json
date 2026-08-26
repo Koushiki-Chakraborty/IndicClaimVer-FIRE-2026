@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/1009",
+    "text": "LIVE FROM PARLIAMENT: সপ্তদশ লোকসভার প্রথম অধিবেশন শুরু, দেখুন সরাসরি... - Parliament Session 2024",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Lok Sabha LIVE: Budget Session Phase 2 | Budget Session ...",
+      "url": "https://www.youtube.com/watch?v=zTkF_6BaWQY",
+      "snippet": "Lok Sabha LIVE: Budget Session Phase 2 | Budget Session 2024 | Parliament Session ... Watch live updates on disruptions, speeches by PM",
+      "bm25_score_raw": 5.497937798223776,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.902086079120636,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "LIVE: Lok Sabha, parliament winter session 2024",
+      "url": "https://www.youtube.com/watch?v=8fTudSKPlfY",
+      "snippet": "LIVE: Lok Sabha, parliament winter session 2024. viewsStreamed 1 year ago. ThePrint LIVE: BJP introduces Constitutional Amendment Bill in Lok",
+      "bm25_score_raw": 2.7480640515456414,
+      "bm25_score_norm": 0.32367156998906155,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8967927694320679,
+      "embedding_score_norm": 0.9114403471105204,
+      "embedding_rank": 2
+    },
+    {
+      "title": "LIVE: ত্রয়োদশ জাতীয় সংসদের প্রথম অধিবেশন চলছে",
+      "url": "https://www.youtube.com/watch?v=PY9lu-GDYEc",
+      "snippet": "LIVE: ত্রয়োদশ জাতীয় সংসদের প্রথম অধিবেশন চলছে | 13th Parliament First Session Live | EKhon TV. @ekhontv1.1K likes81K viewsStreamed 4 months agoRead more",
+      "bm25_score_raw": 2.1380450046983563,
+      "bm25_score_norm": 0.17363805491245685,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.8953161239624023,
+      "embedding_score_norm": 0.8867353481725541,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Sansad LIVE | Parliament Session LIVE | Parliament Session ...",
+      "url": "https://www.youtube.com/watch?v=lO5d-UzzUUs",
+      "snippet": "Rajya Sabha LIVE | Parliament Session LIVE | Parliament Session 2024 LIVE |Lok Sabha Session LIVE #rajyasabha #live #prernastal #parliament",
+      "bm25_score_raw": 4.8294060062652155,
+      "bm25_score_norm": 0.8355753394809746,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8947557210922241,
+      "embedding_score_norm": 0.8773595348192499,
+      "embedding_rank": 4
+    },
+    {
+      "title": "LIVE: চলছে ত্রয়োদশ জাতীয় সংসদের প্রথম অধিবেশন",
+      "url": "https://www.youtube.com/watch?v=S0z2gWNpR3Y",
+      "snippet": "LIVE: চলছে ত্রয়োদশ জাতীয় সংসদের প্রথম অধিবেশন | Parliament Session | Shomoyer Alo. @ShomoyerAlo6 ...Read more",
+      "bm25_score_raw": 1.4320526089324428,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.8938624262809753,
+      "embedding_score_norm": 0.8624142769245497,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Parliamentary Session | Lok Sabha | Morning Session | 29 ...",
+      "url": "https://www.youtube.com/watch?v=dCB1QR7oWPA",
+      "snippet": "Lok Sabha LIVE: Indian Parliament Discusses Union Budget 2024 | Monsoon Session. Firstpost•68K views · 11:13 · Go to channel Hindustan Times",
+      "bm25_score_raw": 2.570974552583337,
+      "bm25_score_norm": 0.2801166020748863,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8923966884613037,
+      "embedding_score_norm": 0.8378917682911627,
+      "embedding_rank": 6
+    },
+    {
+      "title": "Lok Sabha LIVE: Parliament Budget Session | Opposition Vs ...",
+      "url": "https://www.youtube.com/watch?v=WaSd9fNnizk",
+      "snippet": "Lok Sabha LIVE: Parliament Budget Session | Opposition Vs BJP | India Today Live ・ for NEW VIDEOS EVERY DAY ・ 2024 Sansad TV•28K",
+      "bm25_score_raw": 3.710383122495109,
+      "bm25_score_norm": 0.5603528893445635,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8916137218475342,
+      "embedding_score_norm": 0.8247923549526174,
+      "embedding_rank": 7
+    },
+    {
+      "title": "🔴LIVE : চলছে ত্রয়োদশ জাতীয় সংসদের প্রথম অধিবেশন",
+      "url": "https://www.youtube.com/watch?v=a5lvz-PRV6o",
+      "snippet": "LIVE : চলছে ত্রয়োদশ জাতীয় সংসদের প্রথম অধিবেশন | 13th National Parliament First Session এনটিভির সব নিউজ দেখতে ক্লিক করুন / @ntvlatestnews Subscribe to our ...Read more",
+      "bm25_score_raw": 1.9899315598571619,
+      "bm25_score_norm": 0.13720971570816906,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.8894913196563721,
+      "embedding_score_norm": 0.7892835310976443,
+      "embedding_rank": 8
+    },
+    {
+      "title": "ত্রয়োদশ জাতীয় সংসদের প্রথম বাজেট অধিবেশন | সরাসরি...",
+      "url": "https://www.youtube.com/watch?v=GJ-xsAhDJAo",
+      "snippet": "ত্রয়োদশ জাতীয় সংসদের প্রথম বাজেট অধিবেশন | সরাসরি... | Live from the Parliament session BanglaVision News: / @banglavisionnews BanglaVision Drama: ...Read more",
+      "bm25_score_raw": 2.1380450046983563,
+      "bm25_score_norm": 0.17363805491245685,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.8790607452392578,
+      "embedding_score_norm": 0.6147749336104261,
+      "embedding_rank": 9
+    },
+    {
+      "title": "LIVE🔴ত্রয়োদশ জাতীয় সংসদের প্রথম অধিবেশন । Sangsad ...",
+      "url": "https://www.youtube.com/watch?v=IG6ACjvKNI4",
+      "snippet": "LIVE ত্রয়োদশ জাতীয় সংসদের প্রথম অধিবেশন । Sangsad Odhibeshon | Parliament Assembly | Jatiya Sangsad. @banglarmukhtv748 likes73K viewsStreamed 4 ...Read more",
+      "bm25_score_raw": 1.7362828049908015,
+      "bm25_score_norm": 0.07482508282812203,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.8762995004653931,
+      "embedding_score_norm": 0.5685779617528244,
+      "embedding_rank": 10
+    },
+    {
+      "title": "চলছে ত্রয়োদশ জাতীয় সংসদের অধিবেশন | Parliament Live",
+      "url": "https://www.youtube.com/watch?v=ot9aKfDKK8c",
+      "snippet": "সরাসরি--- চলছে ত্রয়োদশ জাতীয় সংসদের অধিবেশন | Parliament Live ... শেখ হাসিনার বিষয়ে নিজেদের অবস্থান নিশ্চিত করল দিল্লী শেখ হাসিনাকে ফেরত পাঠাবে না ভারত?Read more",
+      "bm25_score_raw": 2.3638847904122793,
+      "bm25_score_norm": 0.22918310234978645,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8646231889724731,
+      "embedding_score_norm": 0.37322757538195817,
+      "embedding_rank": 11
+    },
+    {
+      "title": "Sansad TV",
+      "url": "https://www.youtube.com/channel/UCISgnSNwqQ2i8lhCun3KtQg",
+      "snippet": "Sansad Television is the Parliamentary channel of India. Lok Sabha Television. LIVE | Lok Sabha … 7th Session of 18th Lok Sabha | Budget Session",
+      "bm25_score_raw": 2.588763196485208,
+      "bm25_score_norm": 0.28449169951952696,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8423149585723877,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

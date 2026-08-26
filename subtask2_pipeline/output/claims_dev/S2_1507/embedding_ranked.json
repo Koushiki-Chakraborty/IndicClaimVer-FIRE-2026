@@ -1,0 +1,76 @@
+{
+  "claim": {
+    "id": "S2/1507",
+    "text": "Orissa HC Upholds Case Against Journalist Accused Of Dissuading Public From Availing Covid-19 Treatment",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Orissa HC Quashes Case Against Journalist Accused Of ...",
+      "url": "https://www.livelaw.in/high-court/orissa-high-court/orissa-high-court-quashes-proceedings-against-otv-journalist-press-freedom-231595",
+      "snippet": "Jun 30, 2023 — Orissa HC Quashes Case Against Journalist Accused Of Dissuading Public From Availing Covid-19 … quashed pending criminal proceedings",
+      "bm25_score_raw": 9.724503984223574,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9214490056037903,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Orissa HC Quashes Criminal Case Against OTV Journalist",
+      "url": "https://www.verdictum.in/court-updates/high-courts/quashing-criminal-case-against-journalist-1483053",
+      "snippet": "Jul 2, 2023 — an FIR was lodged stating that the OTV was dissuading the public from availing the requisite treatment thereby causing an increase in the",
+      "bm25_score_raw": 4.978421647643738,
+      "bm25_score_norm": 0.5119460751643906,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.9009977579116821,
+      "embedding_score_norm": 0.8264398765151703,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Orissa HC quashes case against TV journalist over airing ...",
+      "url": "https://www.hindustantimes.com/cities/others/orissa-high-court-quashes-criminal-proceedings-against-tv-journalist-over-false-covid-information-upholds-press-freedom-101688098961142.html",
+      "snippet": "Jun 30, 2023 — The Orissa high court has quashed criminal proceedings against a television journalist three years after the Bhubaneswar Municipal ...Read more",
+      "bm25_score_raw": 1.918081146530257,
+      "bm25_score_norm": 0.1972420546736401,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.872761070728302,
+      "embedding_score_norm": 0.5868083885917661,
+      "embedding_rank": 3
+    },
+    {
+      "title": "'Feeding strays not Covid duty': Orissa HC cancels Rs 50L ...",
+      "url": "https://www.newindianexpress.com/states/odisha/2026/Apr/26/feeding-strays-not-covid-duty-orissa-hc-cancels-rs-50l-aid-for-civic-workers-family",
+      "snippet": "Apr 26, 2026 — CUTTACK: The Orissa High Court has set aside an order of the Odisha Human Rights Commission (OHRC) directing payment of Rs 50 lakh compensation ...Read more",
+      "bm25_score_raw": 3.5179205383309933,
+      "bm25_score_norm": 0.36175835230652864,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8543815612792969,
+      "embedding_score_norm": 0.43083013349533594,
+      "embedding_rank": 4
+    },
+    {
+      "title": "India: Journalist booked for sharing Covid-19 allegation ...",
+      "url": "https://www.ifj.org/es/sala-de-prensa/noticias/detalle/article/india-journalist-booked-for-sharing-covid-19-allegation-against-hospitals",
+      "snippet": "Aug 7, 2020 — Sankalp Neb, a journalist from Saharanpur, Uttar Pradesh, was booked for allegedly sharing an unverified Twitter post that suggested ...Read more",
+      "bm25_score_raw": 0.7167643335739662,
+      "bm25_score_norm": 0.07370703274293473,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8085812330245972,
+      "embedding_score_norm": 0.04214428179549735,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Press freedom cannot shield irresponsible journalism, says ...",
+      "url": "https://scroll.in/latest/1094344/press-freedom-cannot-shield-irresponsible-journalism-delhi-hc-says",
+      "snippet": "5 days ago — The judge made the observation while granting bail to two persons for allegedly assaulting two freelance YouTuber who made news content.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8036152124404907,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6
+    }
+  ]
+}

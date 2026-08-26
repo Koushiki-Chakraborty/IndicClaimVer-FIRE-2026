@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/1004",
+    "text": "‘দেশে ফিরলেই সবাই স্বাগত জানাবে’, নিশ্চিন্তে আছেন কুয়েতে আটকে থাকা দেবজিৎ",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Strangers help tourist stuck in Kuwait during Middle East trip",
+      "url": "https://www.facebook.com/groups/touristhelpline/posts/27213578008232281",
+      "snippet": "I was able to make it back home because of this group. On 1st March - the third day of me being stuck in Kuwait during my Middle East trip",
+      "bm25_score_raw": 2.030864038543959,
+      "bm25_score_norm": 0.7699989903002215,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.863019585609436,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Still stuck in Kuwait.",
+      "url": "https://www.instagram.com/reel/DVk9VddDMfV",
+      "snippet": "A man in Kuwait returned to his apartment after a normal workday to find it virtually empty, with his wife and son nowhere to be found.",
+      "bm25_score_raw": 1.5908605314512692,
+      "bm25_score_norm": 0.6031723343745821,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8555032014846802,
+      "embedding_score_norm": 0.9221238938053097,
+      "embedding_rank": 2
+    },
+    {
+      "title": "'Did not realise the mess': Indian CEO stuck in Kuwait as New York bound ...",
+      "url": "https://www.moneycontrol.com/news/trends/did-not-realise-the-mess-indian-ceo-stuck-in-kuwait-as-new-york-bound-flight-turns-back-during-middle-east-conflict-13850058.html/amp",
+      "snippet": "An Indian CEO was stranded in Kuwait after his Delhi to New York flight returned mid air following sudden airspace closures amid Middle East",
+      "bm25_score_raw": 1.6219936725710824,
+      "bm25_score_norm": 0.6149764171551889,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8377008438110352,
+      "embedding_score_norm": 0.7376763890347003,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Indian Entrepreneur Stranded In Kuwait As Flight Turns Back Mid-Air",
+      "url": "https://www.ndtv.com/feature/indian-entrepreneur-stranded-in-kuwait-as-delhi-new-york-flight-turns-back-mid-air-waiting-for-airspace-to-open-11164728/amp/1",
+      "snippet": "About 45 minutes into the journey, the pilot announced that Iraqi airspace had been abruptly shut, forcing the aircraft to return to Kuwait.",
+      "bm25_score_raw": 2.6030539187110664,
+      "bm25_score_norm": 0.9869439071566734,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8304733037948608,
+      "embedding_score_norm": 0.6627929524668219,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Travel Blogger Trapped in Kuwait Is 'Self Evacuating,' After Claiming U.S. ...",
+      "url": "https://people.com/travel-blogger-stuck-in-kuwait-says-u-s-government-is-no-help-amid-middle-east-conflicts-11918310",
+      "snippet": "A travel blogger on the ground in Kuwait is attempting to self evacuate by land amid the ongoing military conflicts in the Middle East.",
+      "bm25_score_raw": 0.6816560263266954,
+      "bm25_score_norm": 0.25844883854456785,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.8153236508369446,
+      "embedding_score_norm": 0.5058297154925925,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Kuwait - কুয়েতে কুরিয়ারে আসা তরল মা**দকের কাগজসহ বাংলাদেশী প্রবাসী আটক! ...",
+      "url": "https://www.facebook.com/photo.php?fbid=1458624556304574&set=a.603931598440545&id=100064711301553",
+      "snippet": "খাদ্দামা বা গৃহকর্মী (মহিলা) ভিসা দীর্ঘদিন ধরেই বাংলাদেশীদের জন্য ব্যান করা আছে। ▪️শোন ভিসা (১৮ নম্বর): সাধারণ কোম্পানি বা শোন ভিসার ক্ষেত্রে বাংলাদেশী নাগরিকদের জন্য এখনো কড়াকড়ি রয়েছে। বর্তমানে ১৮ নম্বর ভিসার",
+      "bm25_score_raw": 0.43306054103841857,
+      "bm25_score_norm": 0.1641942409781028,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.8075999021530151,
+      "embedding_score_norm": 0.4258051368192232,
+      "embedding_rank": 6
+    },
+    {
+      "title": "কুয়েতে মাদক নির্মূল আইনের মাধ্যমে গ্রেফতার বাংলাদেশী",
+      "url": "https://www.tiktok.com/@md.ansar.mia.07/video/7594117420130798856",
+      "snippet": "Kuwait বাংলাদেশ কুয়েতে মাদক নির্মুল গঠন আইনে এবার ফেঁসে গেলেন এক বাংলাদেশী প্রবাসী তিনি মাদক বেচাকেনার সাথে জড়িত ছিলেন তাই তাকে গ্রেফতার করে আইনের আওতায় এনে যাবজ্জীবন কারাদণ্ড দিয়েছেন",
+      "bm25_score_raw": 0.47658826410230787,
+      "bm25_score_norm": 0.18069771052266778,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.8068431615829468,
+      "embedding_score_norm": 0.4179646635253722,
+      "embedding_rank": 7
+    },
+    {
+      "title": "Indian Passengers Stranded At Kuwait Airport For Over 12 Hours ...",
+      "url": "https://www.youtube.com/watch?v=33Dmh36t6Dc",
+      "snippet": "Indian passengers face a 12-hour delay at Kuwait Airport. Travelers report being stranded as turbulence disrupts plans even before takeoff.",
+      "bm25_score_raw": 0.7137199857532125,
+      "bm25_score_norm": 0.2706058396607757,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.8056585788726807,
+      "embedding_score_norm": 0.4056913832605648,
+      "embedding_rank": 8
+    },
+    {
+      "title": "চাঁদাবাজির অভিযোগে কুয়েতে এক বাংলাদেশি গ্রেপ্তার | Kuwait News ...",
+      "url": "https://www.youtube.com/watch?v=_RQCdgvSjXU",
+      "snippet": "চাঁদাবাজির অভিযোগে কুয়েতে এক বাংলাদেশি গ্রেপ্তার ... আন্তর্জাতিক সব খবর | Banglavision World News | 09 July 2026 | International News Bulletin.",
+      "bm25_score_raw": 2.637489222878238,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.7943664789199829,
+      "embedding_score_norm": 0.2886956629139932,
+      "embedding_rank": 9
+    },
+    {
+      "title": "🇰🇼কুয়েতে র‍্যাফেল ড্র মামলায় 15 জন আটক/অভিযান সহ সর্বশেষ খবরাখবর/Kuwait ...",
+      "url": "https://www.youtube.com/watch?v=3-qwV1nZRq4",
+      "snippet": "🇰🇼কুয়েতে র ্যাফেল ড্র মামলায় 15 জন আটক/অভিযান সহ সর্বশেষ খবরাখবর/Kuwait Ya Hala Case/Bd News 3.6K views · 6 months ago",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.792969822883606,
+      "embedding_score_norm": 0.2742251233565328,
+      "embedding_rank": 10
+    },
+    {
+      "title": "কুয়েতে মাদকবিরোধী অভিযান, বাংলাদেশিসহ আটক ১২ প্রবাসী #reels # ...",
+      "url": "https://www.instagram.com/reel/DXmdEPPDIQF",
+      "snippet": "কুয়েতে বড় মাদকবিরোধী অভিযান | লিরিকা, হাশিশ ও আধা কেজি গাঁজা জব্দ। ... সৌদি আরবে হজ শুরুর আগে অবৈধ বসবাসকারীদের বিরুদ্ধে ফের বড় ধরনের অভিযান চালানো হয়েছে।",
+      "bm25_score_raw": 1.4113423180694624,
+      "bm25_score_norm": 0.535108278671673,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.7772248983383179,
+      "embedding_score_norm": 0.11109436851953634,
+      "embedding_rank": 11
+    },
+    {
+      "title": "কুয়েতে মাদক, অস্ত্র-গুলিসহ বাংলাদেশি গ্রেপ্তার",
+      "url": "https://bangla.thedailystar.net/abroad/news-490716",
+      "snippet": "কুয়েতে মাদক, অস্ত্র ও গুলিসহ ৫ জনকে গ্রেপ্তার করেছে দেশটির মাদকদ্রব্য নিয়ন্ত্রণ অধিদপ্তর। এদের মধ্যে ১ জন বাংলাদেশি ও বাকিরা উপসাগরীয় নাগরিক। ক্রিমিনাল সিকিউরিটি সেক্টরের অধীনে পরিচালিত এক অভিযানে শুক্রবার তাদের আটক করা",
+      "bm25_score_raw": 1.394044886118543,
+      "bm25_score_norm": 0.5285499838354791,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.7665023803710938,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

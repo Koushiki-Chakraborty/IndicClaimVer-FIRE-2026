@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/CM/1094",
+    "text": "bear apne in naksali sanyasi ki baat samjho beta khud ki wo kya bol raha kisi amma kiske pas jati ye inki soch hai musalmano pe nhi to apni bahen beti patni pe to bharosha rakho bhai",
+    "lang": "codemix"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "My encounters as a covered Muslim sister",
+      "url": "https://www.soundvision.com/article/my-encounters-as-a-covered-muslim-sister",
+      "snippet": "While shopping in the Wal-Mart near my mother's home in the community where I was raised, I and my daughter encountered a very evil man.",
+      "bm25_score_raw": 2.566678484189053,
+      "bm25_score_norm": 0.6052262905648872,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8264116048812866,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Shield of Honor | Nouman Ali Khan",
+      "url": "https://www.kalamullah.com/shield-of-honor.html",
+      "snippet": "His daughter comes out – and by the way, this is a Muslim family, it's forbidden to smile here.” like a Big Brother, Big Sister type thing. Our kids will tell",
+      "bm25_score_raw": 2.3793381307587187,
+      "bm25_score_norm": 0.5610511794716176,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8215678334236145,
+      "embedding_score_norm": 0.9156011877005076,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Buzzpedia on Instagram: \"Muslim Boy Shows Respect to ...",
+      "url": "https://www.instagram.com/reel/DVkojXyElBW",
+      "snippet": "THIS IS REAL INDIA! IN UTTAR PRADESH, A MUSLIM MAN PERFORMS THE KANYADAAN OF HIS ADOPTED HINDU SISTER AFTER SHE LOST HER PARENTS. HE PERFORMED",
+      "bm25_score_raw": 1.026193493412809,
+      "bm25_score_norm": 0.2419778266915611,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.7977797389030457,
+      "embedding_score_norm": 0.5011128201240251,
+      "embedding_rank": 3
+    },
+    {
+      "title": "batane ki baat nahi hai, Par.. batane dogi kya? Ishq bepanah hai tumse ...",
+      "url": "https://www.instagram.com/p/CMd0fDHDF8D?hl=en",
+      "snippet": "माँ कामाख्या की शक्तिः मेरी भक्ति ( शक्तियो और साधना का मात्र एक स्थान #चमत्कार_देखें_घर_बैठे_72_घंटो_में_100_%_ #गरंटीड_उपाय # _ _ _",
+      "bm25_score_raw": 1.026193493412809,
+      "bm25_score_norm": 0.2419778266915611,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.796014130115509,
+      "embedding_score_norm": 0.47034851054504817,
+      "embedding_rank": 4
+    },
+    {
+      "title": "batane ki baat nahi hai, Par.. batane dogi kya? Ishq bepanah hai tumse ...",
+      "url": "https://www.facebook.com/kuchhtobhizakir/posts/batane-ki-baat-nahi-hai-par-batane-dogi-kya-ishq-bepanah-hai-tumse-ek-bar-jatane/286918726139262",
+      "snippet": "batane ki baat nahi hai, Par.. batane dogi kya? Ishq bepanah hai tumse, Ek bar... jatane dogi kya? Tum titli ho, pahad ho, asmaan ho mera.",
+      "bm25_score_raw": 1.379473220653284,
+      "bm25_score_norm": 0.32528166866734437,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.7922755479812622,
+      "embedding_score_norm": 0.4052067311337264,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Beta Ghar Se Na Nikale Issi Liye Yadasht Ke Wapis Na Aane Ka ...",
+      "url": "https://www.youtube.com/watch?v=8ooVbMg7MKk",
+      "snippet": "Beta Ghar Se Na Nikale Issi Liye Yadasht Ke Wapis Na Aane Ka Dhong | Best Moment | Mein Kahani Hun (S2) | Ep 15 | Express TV #KamranJillani",
+      "bm25_score_raw": 1.3447991071163048,
+      "bm25_score_norm": 0.31710546535871603,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.791800856590271,
+      "embedding_score_norm": 0.3969356163714898,
+      "embedding_rank": 6
+    },
+    {
+      "title": "Zainab Khan, mentor of Muslim Americans - Salam Plan",
+      "url": "https://salamplan.com/en/like-u/zainab-khan-mentor-of-muslim-americans-muslims-are-not-x-and-z-we-are-not-monolith/20190612",
+      "snippet": "Zainab Khan defines herself as “a human being” who happens to be a mother, a wife, a sister, a daughter, a mentor, a Muslim.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.7903884649276733,
+      "embedding_score_norm": 0.37232583040891337,
+      "embedding_rank": 7
+    },
+    {
+      "title": "Adam's Gummy Bear Situation: Once Upon A Crescent - A ...",
+      "url": "https://www.youtube.com/watch?v=t-_Hw4Abz_s",
+      "snippet": "Adam's 4th grade classroom has a new student, Ruayda. This cool and confident Hijabi makes friends with Nuha and settles right in,",
+      "bm25_score_raw": 4.240857550641838,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.784723162651062,
+      "embedding_score_norm": 0.2736125059587545,
+      "embedding_rank": 8
+    },
+    {
+      "title": "Buddhist monk, apparently mistaken as Muslim, attacked in ...",
+      "url": "https://katu.com/news/local/buddhist-monk-apparently-mistaken-as-muslim-attacked-in-hood-river",
+      "snippet": "Kozen Sampson, a Buddhist monk and co-founder of the Trout Lake Abbey retreat, said he was attacked Monday during a visit to Hood River.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.7821199893951416,
+      "embedding_score_norm": 0.22825431081486683,
+      "embedding_rank": 9
+    },
+    {
+      "title": "Meri Ye Baat Hamesha Yaad Rakhna Beta - Furqan Qureshi - Best Scene ...",
+      "url": "https://www.youtube.com/watch?v=KC7s7WLMkjQ",
+      "snippet": "Bharaas is the story of lovebirds who often fall prey to jealousy and envy. Meri Ye Baat Hamesha Yaad Rakhna Beta",
+      "bm25_score_raw": 2.8828306154547096,
+      "bm25_score_norm": 0.6797753947237403,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.7734249830245972,
+      "embedding_score_norm": 0.07675083526419482,
+      "embedding_rank": 10
+    },
+    {
+      "title": "Aesa Beta Khuda Kisi Ko Na De - Beqadar - HUM TV",
+      "url": "https://www.youtube.com/watch?v=iFKzJ0drVRE",
+      "snippet": "Mein Sab Se Maafi Mangta Hun - Beqadar - HUM TV Drama · Intekhab Episode 17 (Subtitles) 7th July 2026 | Sukaina Khan - Fahad Sheikh | Green",
+      "bm25_score_raw": 0.9530712827539679,
+      "bm25_score_norm": 0.2247355095928002,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.7727378010749817,
+      "embedding_score_norm": 0.0647772438410625,
+      "embedding_rank": 11
+    },
+    {
+      "title": "The Song of Sannyasin by Swami Vivekananda - with a short ...",
+      "url": "https://www.linkedin.com/pulse/song-sannyasin-swami-vivekananda-short-commentary-ravi-trivedi",
+      "snippet": "a sannyasin is someone who renounces, Be bold Sanyasi and say Om Tat Sat, Om He conquers all who conquers self, and the thirst for live drags",
+      "bm25_score_raw": 1.967520045473606,
+      "bm25_score_norm": 0.4639439127531716,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.769020140171051,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

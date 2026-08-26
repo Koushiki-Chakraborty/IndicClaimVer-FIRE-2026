@@ -1,0 +1,105 @@
+{
+  "claim": {
+    "id": "S2/T/HI/1046",
+    "text": "राफेल डील: पूर्व फ्रांसीसी राष्ट्रपति ओलांद के बयान पर कांग्रेस अध्यक्ष राहुल गांधी ने रक्षा मंत्री से मांगा जवाब",
+    "lang": "hindi"
+  },
+  "ranked_evidence": [
+    {
+      "title": "Rahul Gandhi attacks PM Modi over Rafale deal",
+      "url": "https://www.newindianexpress.com/india/2018/Apr/07/rahul-gandhi-attacks-pm-modi-over-rafale-deal-1798341.html",
+      "snippet": "Congress President Rahul Gandhi on Saturday attacked Prime Minister Narendra Modi over an alleged scam in the Rafale fighter aircraft deal",
+      "bm25_score_raw": 3.5517719920987196,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Rafale Row Live Updates: \"Congress Tried To Renegotiate ...",
+      "url": "https://www.ndtv.com/india-news/rafale-deal-row-live-updates-francois-hollandes-comment-creates-controversy-1920356",
+      "snippet": "Congress President Rahul Gandhi, India a thief\" Calling the Rafale deal corrupt, Rahul Gandhi said it was \"obvious that PM Modi is corrupt.\"",
+      "bm25_score_raw": 2.978738069616838,
+      "bm25_score_norm": 0.7938994321791377,
+      "bm25_rank": 2
+    },
+    {
+      "title": "Rafale deal: France refutes Rahul Gandhi's claim on ...",
+      "url": "https://www.thehindu.com/news/national/rafale-deal-france-refutes-rahul-gandhis-claim-on-secrecy-clause/article24475452.ece",
+      "snippet": "France has refuted Congress president Rahul Gandhi's claim about the absence of a secrecy clause in the Rafale deal between France and India.",
+      "bm25_score_raw": 2.490175104495586,
+      "bm25_score_norm": 0.6181801587168972,
+      "bm25_rank": 3
+    },
+    {
+      "title": "Rahul Gandhi's Fresh Attack On Rafale Deal, Alleges Trade ...",
+      "url": "https://www.youtube.com/watch?v=kFWzlCNHofY",
+      "snippet": "Congress President, Rahul Gandhi has fired a fresh salvo at the Modi government over the Rafale deal. French President Francois Hollande's",
+      "bm25_score_raw": 2.3251983955604714,
+      "bm25_score_norm": 0.558843717967494,
+      "bm25_rank": 4
+    },
+    {
+      "title": "Rahul asks Modi to reply to Hollande's claim on Rafale",
+      "url": "https://www.livemint.com/Politics/53iIDLqpMNr1gTV4fyJ5iP/Rahul-asks-Modi-to-reply-to-Hollandes-claim-on-Rafale.html",
+      "snippet": "Rahul Gandhi on Saturday demanded that Prime Minister Narendra Modi come clean on the Rafale deal as he was being called 'a thief' by former",
+      "bm25_score_raw": 2.2425957999719026,
+      "bm25_score_norm": 0.529134408995791,
+      "bm25_rank": 5
+    },
+    {
+      "title": "Rahul Gandhi To Hold A PC Today After Francois Hollande's ...",
+      "url": "https://www.youtube.com/watch?v=iksmMlZyEK4",
+      "snippet": "Congress President Rahul Gandhi will today hold a press conference following the revelation on \"Rafale deal\" by former French President",
+      "bm25_score_raw": 2.185710753203123,
+      "bm25_score_norm": 0.5086748166757002,
+      "bm25_rank": 6
+    },
+    {
+      "title": "पेपर लीक और बेरोजगारी Rahul Gandhi का बड़ा आंदोलन | Rahul Gandhi's ...",
+      "url": "https://www.youtube.com/watch?v=SHPYh0CKHiU",
+      "snippet": "Rahul Gandhi nationwide campaign tackles paper leak scam and unemployment in India. In this Janadesh analysis, political experts discuss the",
+      "bm25_score_raw": 1.463586136942074,
+      "bm25_score_norm": 0.2489514606757241,
+      "bm25_rank": 7
+    },
+    {
+      "title": "राहुल गांधी ने बाप-बेटे की नींद उड़ा दी !",
+      "url": "https://www.youtube.com/watch?v=TkAVmdpacG0",
+      "snippet": "राहुल गांधी ने बाप-बेटे की नींद उड़ा दी ! @qvivetv13 likes447 views8 months ago more. Subscribe. Comments. Comment... 51:43 · Go to channel News 24",
+      "bm25_score_raw": 1.39063290316697,
+      "bm25_score_norm": 0.22271269484438286,
+      "bm25_rank": 8
+    },
+    {
+      "title": "संसद में राहुल को किसने कहा 'अबोध बालक' -BJP की बिगड़ी छवि |Om Birla ...",
+      "url": "https://www.youtube.com/watch?v=n4CJ_hlJlWw",
+      "snippet": "Parliament में Modi पर होने वाला था हमला ! Rahul Gandhi | Om Birla | Mallikarjun Kharge | #dblive Please Subscribe DB LIVE",
+      "bm25_score_raw": 1.2143066703200096,
+      "bm25_score_norm": 0.15929422119787523,
+      "bm25_rank": 9
+    },
+    {
+      "title": "ऑपरेशन सिंदूर के दौरान पुंछ हमले में अनाथ हुए 22 कश्मीरी बच्चों की पढ़ाई का खर्च ...",
+      "url": "https://navbharattimes.indiatimes.com/state/jammu-and-kashmir/jammu/rahul-gandhi-to-adopt-jammu-kashmir-22-orphan-kids-who-lost-parents-in-pakistan-firing-in-poonch-during-operation-sindoor/amp_articleshow/122964911.cms",
+      "snippet": "राहुल गांधी ने पहलगाम हमले में अनाथ हुए 22 बच्चों को गोद लेने का फैसला किया है। इन बच्चों ने पुंछ आतंकी हमले में अपने माता-पिता को खो दिया था। राहुल गांधी इन सभी बच्चों की स्नातक स्तर तक की शिक्षा का पूरा",
+      "bm25_score_raw": 1.1298369910523067,
+      "bm25_score_norm": 0.1289133865252645,
+      "bm25_rank": 10
+    },
+    {
+      "title": "राहुल गांधी की औलाद मिल गई 😂 #shorts #andhbhaktroast #andhbhakt #news ...",
+      "url": "https://www.instagram.com/p/DBxyFh_PgkQ",
+      "snippet": "Aaj woh dost BJP ko support karne ke liye mujhe Pakistani bolte hain kyunki main Muslim hoon. Lal Bahadur Shastri jo Railway Minister thhe,",
+      "bm25_score_raw": 0.9606501571281196,
+      "bm25_score_norm": 0.0680627088052358,
+      "bm25_rank": 11
+    },
+    {
+      "title": "क्या यही सच्चा जननेता होता है? पहलगाम हमले के बाद जब भारत-पाक के बीच तनाव ...",
+      "url": "https://www.facebook.com/OnlineNewsIndia1/videos/rahul-gandhi-to-adopt-22-children-orphaned-%E0%A4%B0%E0%A4%BE%E0%A4%B9%E0%A5%81%E0%A4%B2-%E0%A4%A8%E0%A5%87-22-%E0%A4%85%E0%A4%A8%E0%A4%BE%E0%A4%A5-%E0%A4%AC%E0%A4%9A%E0%A5%8D%E0%A4%9A%E0%A5%8B%E0%A4%82-%E0%A4%95%E0%A5%8B-%E0%A4%97%E0%A5%8B%E0%A4%A6-%E0%A4%B2%E0%A4%BF%E0%A4%AF%E0%A4%BE-d/2902352066623529",
+      "snippet": "पहलगाम हमले के बाद जब भारत-पाक के बीच तनाव चरम पर था, तब नेता प्रतिपक्ष राहुल गांधी ने एक बेहद मानवीय पहल की। उन्होंने जम्मू- कश्मीर के पुंछ इलाके में पाक गोलीबारी में अपने माता-पिता को खो चुके 22 बच्चों",
+      "bm25_score_raw": 0.7714112752861919,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "ID": "S2/1501",
+  "Evidence": "The Bombay High Court ruled that the Assessing Officer (AO) can only make a reference to the Transfer Pricing Officer (TPO) under Section 92CA of the Income Tax Act after selecting the case for scrutiny assessment. The court found that when the AO made a reference to the TPO, no assessment proceedings were pending, rendering the reference invalid. The court emphasized that the AO must have some material on record to believe that income has escaped assessment, and without pending proceedings, the reference to the TPO was not permissible (Source 1, Source 2, Source 3).",
+  "Prediction": "SUPPORTS",
+  "Justification": "The retrieved evidence clearly states that the Bombay High Court held the AO can only refer to the TPO after selecting a case for scrutiny assessment. It specifies that the reference made by the AO was invalid due to the absence of pending assessment proceedings. This directly corroborates the claim that the AO's reference to the TPO is contingent upon the selection of a case for scrutiny assessment, as outlined in the court's ruling (Source 1, Source 2, Source 3)."
+}

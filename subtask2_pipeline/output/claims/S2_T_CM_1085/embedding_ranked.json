@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/CM/1085",
+    "text": "abhi recently woh saket gokhale ka hi band baja tha court ne usse acche se dhoya usne apne tweets delete kiye or else he would have to pay a hefty fine uske dost woh rathee ko bhi log acche se pel rahe hain aajkal",
+    "lang": "codemix"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Delhi High Court directs Saket Gokhale to delete tweets ...",
+      "url": "https://lawstreet.co/judiciary/saket-gokhale-lakshmi-puri-delhi-high-court",
+      "snippet": "Jul 14, 2021 — The Delhi High Court asked Gokhale to delete all the pertaining tweets but preserved his right to seek a modification to the order.",
+      "bm25_score_raw": 1.792676547938941,
+      "bm25_score_norm": 0.5912275654653172,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8517507910728455,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Delhi High Court calls Saket Gokhale's request to respond ...",
+      "url": "https://lawbeat.in/news-updates/destroying-reputation-social-media-become-childs-play-delhi-high-court-calls-saket",
+      "snippet": "Jul 14, 2021 — Saket Gokhale, Delhi High Court on Tuesday passed an order directing him to immediately delete his trail of tweets in connection with Ms.",
+      "bm25_score_raw": 0.9575275105420553,
+      "bm25_score_norm": 0.3157940898901787,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.846561074256897,
+      "embedding_score_norm": 0.9504422794195072,
+      "embedding_rank": 2
+    },
+    {
+      "title": "TMC's Saket Gokhale in trouble: 'Issue Apology or Face ...",
+      "url": "https://www.bharattimes.com/tmcs-saket-gokhale-in-trouble-issue-apology-or-face-detention-delhi-high-court",
+      "snippet": "May 30, 2025 — “The defendant [Gokhale] is directed to immediately delete from his Twitter ... The court had also ordered him to pay Rs. 50 lakh damages ...Read more",
+      "bm25_score_raw": 3.032126126473891,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8461883068084717,
+      "embedding_score_norm": 0.9468826429873626,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Delhi HC directs Gokhale to remove tweets against ex ... - Mint",
+      "url": "https://www.livemint.com/news/india/delhi-hc-directs-gokhale-to-remove-tweets-against-ex-diplomat-lakshmi-puri-11626159130998.html",
+      "snippet": "Jul 13, 2021 — The Delhi High Court Tuesday directed activist Saket Gokhale to forthwith delete alleged defamatory tweets against former diplomat Lakshmi ...Read more",
+      "bm25_score_raw": 1.792676547938941,
+      "bm25_score_norm": 0.5912275654653172,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8375465869903564,
+      "embedding_score_norm": 0.864361004279646,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Attach part of TMC MP Saket Gokhale's salary till he pays ...",
+      "url": "https://www.facebook.com/TheDarjChron/posts/defame-nation-attach-part-of-tmc-mp-saket-gokhales-salary-till-he-pays-rs-50-lak/1068821518614261",
+      "snippet": "Delhi High Court directs Saket Gokhale to delete allegedly defamatory tweets against Lakshmi Puri Basudev Pujari and Pradeep Pandey 2 reactions",
+      "bm25_score_raw": 1.65542073754691,
+      "bm25_score_norm": 0.5459603817576105,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8323984146118164,
+      "embedding_score_norm": 0.815200000455342,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Delhi HC directs Saket Gokhale to remove tweets against ...",
+      "url": "https://timesofindia.indiatimes.com/india/delhi-hc-directs-saket-gokhale-to-remove-tweets-against-lakshmi-puri/articleshow/84372985.cms",
+      "snippet": "Jul 13, 2021 — The Delhi high court on Tuesday directed activist Saket Gokhale to delete all tweets against former United Nations Assistant Secretary-General Lakshmi Puri.Read more",
+      "bm25_score_raw": 1.9842305349558578,
+      "bm25_score_norm": 0.6544023738429878,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8185058832168579,
+      "embedding_score_norm": 0.6825372341727374,
+      "embedding_rank": 6
+    },
+    {
+      "title": "बाघेली बैंड बाजा",
+      "url": "https://www.facebook.com/akhilesh.saket.akhilesh.saket.2025/videos/%E0%A4%AC%E0%A4%BE%E0%A4%98%E0%A5%87%E0%A4%B2%E0%A5%80-%E0%A4%AC%E0%A5%88%E0%A4%82%E0%A4%A1-%E0%A4%AC%E0%A4%BE%E0%A4%9C%E0%A4%BE/1623153112099977",
+      "snippet": "बाघेली बैंड बाजा · #Bagheli #BandBaja #Baghelkhand #VillageVibes #DesiSwag #BagheliSong #Reels #ViralVideo #WeddingBand #BagheliCultur @हाइलाइट.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.7767271995544434,
+      "embedding_score_norm": 0.2835836101907826,
+      "embedding_rank": 7
+    },
+    {
+      "title": "बैंड वाले ने बजाया ऐसा बैंड आप देखते रह जाओगे Part-2||Garhwali Band Baja ...",
+      "url": "https://www.youtube.com/watch?v=vrE6rh9Td0s",
+      "snippet": "नमस्कार दोस्तो आज मैं फिर से आपके लिए लाया हूं (घुत्ती बैंड वाले)की एक बैंड बाजा डांस इस बैंड वाले की में पहले भी वीडियो डाल चुका आप देख सकते हैं मेरी पिछली वीडियो मैं दोस्तों इस बैंड वाले की एक बार आप वीडियो",
+      "bm25_score_raw": 1.0157308018393971,
+      "bm25_score_norm": 0.3349896275655944,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.7644086480140686,
+      "embedding_score_norm": 0.16595111561646766,
+      "embedding_rank": 8
+    },
+    {
+      "title": "बजाया एसा बैंड की झूम उठे सभी लोग | Awesome Garhwali Band Baja ...",
+      "url": "https://www.youtube.com/watch?v=FE3ZTZP_Ni4",
+      "snippet": "नमस्कार दोस्तों अज एक बार फिर से में आपके लिए धमाकेदार गढ़वाली बैंड बाजा डांस लेकर आया हूँ ! दोस्तों आपको बता दूँ इस विडियो में पहले पार्ट में वो ही कलाकार बैंड बाजा रहा हे, जिस गढ़वाली बैंड बाजा डांस विडियो को",
+      "bm25_score_raw": 1.0255498965940208,
+      "bm25_score_norm": 0.33822798057106207,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.7613635659217834,
+      "embedding_score_norm": 0.13687297266069448,
+      "embedding_rank": 9
+    },
+    {
+      "title": "Himachali Band Baja Barat Dance Kangra Love Himachal #kangra ...",
+      "url": "https://www.youtube.com/watch?v=C3BzyBfgq4U",
+      "snippet": "Himachali Band Baja Barat Dance Kangra Love Himachal #kangra #dance Himachali Band Baja Non-Stop ढोली डांस कांगड़ा #himachal #kuldeepsharma",
+      "bm25_score_raw": 2.2256106147529917,
+      "bm25_score_norm": 0.7340099065539832,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.7566249370574951,
+      "embedding_score_norm": 0.09162278782028332,
+      "embedding_rank": 10
+    },
+    {
+      "title": "#बघेली बैंड बाजा लोक नृत्य #डांस #bagheli band Baja #dance Saket ...",
+      "url": "https://www.youtube.com/watch?v=Dyv6Q1SGY_Y",
+      "snippet": "bagheli band Baja Lok nritya #dance #बघेली बैंड बजा लोक नृत्य डांस. Saket Parivar Gaura Rewa @sudhakshitijbaghelilokdars76649 likes976 views1 year ago",
+      "bm25_score_raw": 2.540363737753669,
+      "bm25_score_norm": 0.837815985150954,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.7489604949951172,
+      "embedding_score_norm": 0.01843338431266972,
+      "embedding_rank": 11
+    },
+    {
+      "title": "Band Baj Gaya - Helmet | Aparshakti Khurana & Pranutan Bahl | Tony ...",
+      "url": "https://www.youtube.com/watch?v=YrITbQxCQYQ",
+      "snippet": "Band Baj Gaya - Helmet | Aparshakti Khurana & Pranutan Bahl | Tony Kakkar … 585K views4 years ago. Helmet - Hindi Full Movie - Aparshakti",
+      "bm25_score_raw": 0.87141495567807,
+      "bm25_score_norm": 0.2873940328766775,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.7470301389694214,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

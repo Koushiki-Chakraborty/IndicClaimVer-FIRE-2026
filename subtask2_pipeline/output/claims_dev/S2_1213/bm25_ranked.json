@@ -1,0 +1,57 @@
+{
+  "claim": {
+    "id": "S2/1213",
+    "text": "Japan lifts border controls as it prepares for omicron surge",
+    "lang": "dev"
+  },
+  "ranked_evidence": [
+    {
+      "title": "Japan keeps border controls as it prepares for omicron surge",
+      "url": "https://www.yahoo.com/news/japan-keeps-border-controls-prepares-043409005.html",
+      "snippet": "Japan will keep its borders closed to most foreign citizens through February as it attempts to accelerate coronavirus booster shots for",
+      "bm25_score_raw": 2.7642129267089794,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Japan keeps border controls as it prepares for omicron surge",
+      "url": "https://www.abc4.com/news/japan-keeps-border-controls-as-it-prepares-for-omicron-surge/amp",
+      "snippet": "Japan will keep its borders closed to most foreign citizens through February as it attempts to accelerate coronavirus booster shots for elderly",
+      "bm25_score_raw": 2.728372158131151,
+      "bm25_score_norm": 0.9844687029800557,
+      "bm25_rank": 2
+    },
+    {
+      "title": "Amid omicron worries, Japan reinforces border control at major ...",
+      "url": "https://www.facebook.com/TheJapanNews/posts/amid-omicron-worries-japan-reinforces-border-control-at-major-international-airp/2149140955236170",
+      "snippet": "Japan extend strict border measures as Coronavirus cases soar Japan will extend measures barring almost all new foreign arrivals until the end",
+      "bm25_score_raw": 1.8389689959932616,
+      "bm25_score_norm": 0.5990532883623443,
+      "bm25_rank": 3
+    },
+    {
+      "title": "Japan to Lift all COVID-19 Border Controls on April 29 | Latest News ...",
+      "url": "https://www.youtube.com/watch?v=cIMdRbx5OlE",
+      "snippet": "Japan is making arrangements to bring forward the lifting of its current COVID-19 border control measures to Saturday in anticipation of an",
+      "bm25_score_raw": 1.2340459832439823,
+      "bm25_score_norm": 0.33691496493864975,
+      "bm25_rank": 4
+    },
+    {
+      "title": "Japan's Kishida lays out new contigency plan against Omicron risk",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/japans-kishida-lays-out-new-contigency-plan-against-omicron-risk-2022-01-04",
+      "snippet": "Japan will gear up efforts to deal with a possible surge in Omicron coronavirus cases and aim to deliver oral treatment using Pfizer Inc's",
+      "bm25_score_raw": 1.0670451935989358,
+      "bm25_score_norm": 0.2645465708036264,
+      "bm25_rank": 5
+    },
+    {
+      "title": "Borders Closed for the Time Being as Omicron Fears Persist, Says Japan's ...",
+      "url": "https://japan-forward.com/borders-closed-for-the-time-being-as-omicron-fears-persist-says-japans-prime-minister",
+      "snippet": "The Japanese government has taken pre-emptive measures to prepare for a rising curve of infections should it occur.",
+      "bm25_score_raw": 0.45656479327851773,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6
+    }
+  ]
+}

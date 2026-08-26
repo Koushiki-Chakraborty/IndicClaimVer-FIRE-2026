@@ -1,0 +1,6 @@
+{
+  "ID": "S2/1163",
+  "Evidence": "The retrieved evidence does not confirm the claim of Delhi logging 12,306 new Covid-19 cases and 34 deaths in 24 hours. Source 1 mentions that during the week of April 9-15, Delhi recorded 7,664 new cases and 24 deaths, which is significantly lower than the claim. Source 2 states that Delhi recorded 2 more Covid deaths, with an active case count of 562, and Source 3 discusses a past situation with high case numbers but does not provide current statistics. Therefore, the claim is not substantiated by the evidence provided.",
+  "Prediction": "REFUTES",
+  "Justification": "The evidence from Source 1 indicates that Delhi recorded 7,664 new cases and 24 deaths during a specific week, which contradicts the claim of 12,306 new cases and 34 deaths in 24 hours. Source 2 further supports this by reporting only 2 additional deaths and an active case count of 562. Source 3 discusses a previous peak but does not provide current data. Thus, the claim is directly refuted by the retrieved evidence."
+}

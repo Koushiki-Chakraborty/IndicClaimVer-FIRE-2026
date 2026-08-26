@@ -1,0 +1,120 @@
+{
+  "claim": {
+    "id": "S2/T/HI/1112",
+    "text": "गुजरात चुनाव 2017: राजकोट पश्चिम सीट पर कड़े मुकाबले में फंसे सीएम रुपाणी",
+    "lang": "hindi"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Gujarat CM Vijay Rupani Retains His Rajkot West Seat ...",
+      "url": "https://www.youtube.com/watch?v=r0y8oyCNFEY",
+      "snippet": "Click Here For Latest Political News & Updates ▻http://bit.ly/2CUWFeg Subscribe to Times Now | Click Here ▻ http://goo.gl/U9ibPb 'Download",
+      "bm25_score_raw": 1.6755641016856566,
+      "bm25_score_norm": 0.2581735215436594,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.9087734818458557,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Gujarat election results 2017: Vijay Rupani wins by 25000 ...",
+      "url": "https://www.indiatoday.in/assembly-elections-2017/story/gujarat-election-results-2017-cm-vijay-rupani-trails-by-over-4000-votes-from-rajkot-west-1109627-2017-12-18",
+      "snippet": "Gujarat CM Vijay Rupani survived initial scare to win Rajkot West seat comfortably. The Congress candidate Indranil Rajyaguru fails to upset Rupani's",
+      "bm25_score_raw": 1.9364058334525855,
+      "bm25_score_norm": 0.3116492804368973,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.905886709690094,
+      "embedding_score_norm": 0.9644201525102482,
+      "embedding_rank": 2
+    },
+    {
+      "title": "In Rajkot West, CM Rupani Fights For Survival Against ...",
+      "url": "https://www.newsclick.in/rajkot-west-cm-rupani-fights-survival-against-crorepati-rajguru",
+      "snippet": "In Gujarat's Rajkot (west) assembly constituency, Chief Minister Vijay Rupani, is locked in a grim battle for survival against crorepati Indranil Rajguru.",
+      "bm25_score_raw": 0.4162565228954049,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.9037420749664307,
+      "embedding_score_norm": 0.9379872467345469,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Gujarat verdict: Vijay Rupani of BJP wins Rajkot West seat",
+      "url": "https://timesofindia.indiatimes.com/city/ahmedabad/gujarat-verdict-vijay-rupani-of-bjp-wins-rajkot-west-seat/articleshow/62114783.cms",
+      "snippet": "Dec 18, 2017 — Gujarat chief minister and BJP candidate Vijay Rupani has won from the Rajkot West seat as the party surges ahead in the assembly elections.",
+      "bm25_score_raw": 2.916629659381064,
+      "bm25_score_norm": 0.5126072046987864,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8916819095611572,
+      "embedding_score_norm": 0.7893441177767003,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Assembly Election results 2017: Gujarat CM Vijay Rupani ...",
+      "url": "https://indianexpress.com/elections/gujarat-assembly-elections-2017/assembly-election-results-2017-gujarat-himachal-vijay-rupani-nitin-patel-virbhadra-singh-prem-kumar-dhumal-jignesh-mevani-alpesh-thakor-4987610",
+      "snippet": "Assembly Election Results 2017: In Gujarat, CM Vijay Rupani has a tough fight while in Himachal BJP might have to look for a new CM",
+      "bm25_score_raw": 2.853174706959426,
+      "bm25_score_norm": 0.49959816004440794,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8879658579826355,
+      "embedding_score_norm": 0.7435432920468403,
+      "embedding_rank": 5
+    },
+    {
+      "title": "राजकोट पश्चिम सीट पर कड़े मुकाबले में फंसे सीएम रुपाणी",
+      "url": "https://www.indiatv.in/india/politics-gujarat-election-2017-cm-rupani-stuck-in-tough-fight-in-rajkot-west-558478",
+      "snippet": "Dec 8, 2017 — गुजरात विधानसभा चुनाव 2017 के लिए शनिवार को पहले दौर के लिए जिन सीटों पर वोटिंग होगी उनमें मुख्यमंत्री विजय रुपाणी की सीट राजकोट पश्चिम भी शामिल है।",
+      "bm25_score_raw": 5.294013045952676,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8746737837791443,
+      "embedding_score_norm": 0.5797167247028401,
+      "embedding_rank": 6
+    },
+    {
+      "title": "Rajkot West, Vidhan Sabha 2017",
+      "url": "https://www.indiavotes.com/vidhan-sabha/gujarat/2017/rajkot-west",
+      "snippet": "Candidate, Party, Votes, Share. 1, Vijay Rupani Winner, BJP, 1,31,586, 61.61%. 2, Indranil Rajguru, INC, 77,831, 36.44%. 3, Parmar Vijaybhai Somabhai, BSP ...Read more",
+      "bm25_score_raw": 1.2998323861245424,
+      "bm25_score_norm": 0.18114390479566855,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.852782130241394,
+      "embedding_score_norm": 0.3098992080633549,
+      "embedding_rank": 7
+    },
+    {
+      "title": "गुजरात चुनाव 2017: बीजेपी ने जारी की 70 उम्मीदवारों की पहली ...",
+      "url": "https://www.abplive.com/videos/gujrat-bjp-frist-list-726179",
+      "snippet": "Nov 17, 2017 — गुजरात चुनाव 2017: बीजेपी ने जारी की 70 उम्मीदवारों की पहली लिस्ट, राजकोट पश्चिम से लड़ेंगे सीएम विजय रूपाणी.",
+      "bm25_score_raw": 2.6499912031895656,
+      "bm25_score_norm": 0.45794304609818953,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8435786962509155,
+      "embedding_score_norm": 0.19646567050146194,
+      "embedding_rank": 8
+    },
+    {
+      "title": "बीजेपी के गढ़ राजकोट पश्चिम सीट पर सीएम रूपाणी को कांग्रेस दे ...",
+      "url": "https://www.abplive.com/news/india/gujarat-assembly-polls-cm-vijay-rupani-may-face-tough-battle-on-rajkot-west-seat-740911",
+      "snippet": "Dec 7, 2017 — भारतीय जनता पार्टी का गढ़ माने जाने वाली राजकोट-पश्चिम सीट पर पार्टी के हाई-प्रोफाइल प्रत्याशी और गुजरात के मुख्यमंत्री विजय रूपाणी को कड़े और रोमांचक मुकाबले का सामना करना पड़ सकता है.",
+      "bm25_score_raw": 1.9748140841366553,
+      "bm25_score_norm": 0.3195234435900832,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8411715030670166,
+      "embedding_score_norm": 0.16679669708056008,
+      "embedding_rank": 9
+    },
+    {
+      "title": "राजकोट पश्चिम विधानसभा सीट: सीएम विजय रूपाणी जीते",
+      "url": "https://www.aajtak.in/elections/gujarat-assembly-election-2017/story/rajkot-west-election-result-gujarat-assembly-election-2017-476951-2017-12-18",
+      "snippet": "Dec 18, 2017 — पिछले विधानसभा चुनाव की बात की जाए तो इस सीट पर बीजेपी का परचम लहराया था. 2012 चुनाव में बीजेपी के वजूभाई रुदाभाई वाला ने यहां से जीत दर्ज की थी.",
+      "bm25_score_raw": 1.4067437328169707,
+      "bm25_score_norm": 0.2030620440441234,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.8276384472846985,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 10
+    }
+  ]
+}

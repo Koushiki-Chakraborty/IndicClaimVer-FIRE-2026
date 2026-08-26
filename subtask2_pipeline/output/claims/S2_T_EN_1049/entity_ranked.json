@@ -1,0 +1,99 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1049",
+    "text": "Gujarat High Court Quashes Complaint Filed By One BJP Member Against Another, Expresses Anguish Over Misuse Of SC/ST Act",
+    "lang": "english"
+  },
+  "entity_ranked_evidence": [
+    {
+      "title": "Gujarat High Court Quashes Complaint Filed By One BJP Member Against Another, Expresses Anguish Over Misuse Of SC/ST Act",
+      "url": "https://www.livelaw.in/high-court/gujarat-high-court/gujarat-high-court-quashes-bjp-leader-complaint-misuse-sc-st-act-233382",
+      "snippet": "# Gujarat High Court Quashes Complaint Filed By One BJP Member Against Another, Expresses Anguish Over Misuse Of SC/ST Act. ###### Bhavya Singh. 22 July 2023 2:28 PM IST. Gujarat High Court Quashes Complaint Filed By One BJP Member Against Another, Expresses Anguish Over Misuse Of SC/ST Act. The Gujarat High Court, while expressing distress over the misuse of the Scheduled Caste and Scheduled Tribe (Prevention of Atrocities) Act (SC/ST Act), quashed a complaint filed by a Bharatiya Janata Party (BJP) member against another BJP leader who held the position of President of Chotila Nagarpalika.Justice Sandeep Bhatt expressing concern, said, \"While the Act is essentially meant... # This is a premium content Available exclusively to Our subscribers. ### INR 1099+GST. Your support helps us to bring you more content at. ##### Tags.",
+      "bm25_score_raw": 23.355214527104273,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9454421997070312,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1,
+      "entity_overlap_raw": 2,
+      "entity_overlap_qid": 1,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 1
+    },
+    {
+      "title": "Jayanti Bhanushali, Ex-BJP Lawmaker Moves Gujarat High ...",
+      "url": "https://www.ndtv.com/india-news/jayanti-bhanushali-ex-bjp-lawmaker-moves-gujarat-high-court-for-complaint-against-him-1892422",
+      "snippet": "Jul 31, 2018 — Former BJP lawmaker Jayanti Bhanushali has approached the Gujarat High Court seeking quashing of a complaint lodged against him after a 21-year-old woman ...Read more",
+      "bm25_score_raw": 4.922125032204612,
+      "bm25_score_norm": 0.10464095496963782,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8588939309120178,
+      "embedding_score_norm": 0.2532058057060333,
+      "embedding_rank": 2,
+      "entity_overlap_raw": 2,
+      "entity_overlap_qid": 1,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 2
+    },
+    {
+      "title": "RTI activist murder: Gujarat HC quashes conviction of former BJP MP Dinu Solanki - The Hindu",
+      "url": "https://www.thehindu.com/news/national/gujarat/gujarat-high-court-acquits-ex-bjp-mp-6-others-in-rti-activist-amit-jethwa-murder-case-high-court/article68145077.ece",
+      "snippet": "## Bench cited a “predetermined notion of conviction” in the lower court, which had convicted Solanki and others, and flaws in the CBI investigation. The Gujarat High Court on Monday allowed the appeals of former BJP MP Dinu Solanki and six others against their conviction by a CBI court in the case of RTI activist Amit Jethwa’s murder in 2010. The Gujarat High Court on May 6 overturned life sentence of former BJP MP Dinu Solanki and six others in the 2010 murder of RTI activist Amit Jethwa, who was killed on SG highway in front of the High Court in 2010. The court cited a “predetermined notion of conviction” in the lower court, which had convicted Mr. Solanki and others, and flaws in the CBI investigation. The CBI court had sentenced Mr. Solanki and six others to life imprisonment in 2019 and had ordered them to pay a fine of ₹15 lakh in the case of murder and criminal conspiracy.",
+      "bm25_score_raw": 3.968641365129645,
+      "bm25_score_norm": 0.05832694852809653,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8454365134239197,
+      "embedding_score_norm": 0.13708654196772926,
+      "embedding_rank": 3,
+      "entity_overlap_raw": 2,
+      "entity_overlap_qid": 1,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 3
+    },
+    {
+      "title": "Gujarat HC acquits ex-BJP MP, 6 others in RTI activist Amit Jethwa murder case | Ahmedabad News - Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/ahmedabad/gujarat-hc-acquits-ex-bjp-mp-6-others-in-rti-activist-amit-jethwa-murder-case/articleshow/109877627.cms",
+      "snippet": "Gujarat High Court overturned Dinu Solanki's conviction in the murder of RTI activist Amit Jethwa. The court found the investigation and trial proceedings biased and prejudiced, leading to the decision to quash the CBI court's life imprisonment sentence. AHMEDABAD: The Gujarat High Court has overturned the conviction of former BJP MP Dinu Solanki and six others in the murder case of RTI activist Amit Jethwa. The court quashed the CBI court's order that had sentenced them to life imprisonment. According to the high court, the trial court had conducted the proceedings with a \"predetermined notion of conviction.\". In 2019, the CBI court had sentenced Dinu Solanki and six others to life imprisonment and imposed a fine of Rs 15 lakh for murder and criminal conspiracy. In September 2012, the high court handed over the investigation to the Central Bureau of Investigation (CBI), leading to the conviction of the seven persons by the CBI court on June 7, 2019.",
+      "bm25_score_raw": 2.894760258244279,
+      "bm25_score_norm": 0.006164821142827005,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8295491337776184,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6,
+      "entity_overlap_raw": 2,
+      "entity_overlap_qid": 1,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 4
+    },
+    {
+      "title": "Gujarat High Court Warns Of \"Reverse Bias\" Against ...",
+      "url": "https://www.mondaq.com/india/discrimination-disability-sexual-harassment/1812204/gujarat-high-court-warns-of-reverse-bias-against-accused-in-posh-cases-upholds-icc-reports",
+      "snippet": "Jul 6, 2026 — In a significant ruling with wide implications for workplace harassment law, the Gujarat High Court declined to quash the final inquiry",
+      "bm25_score_raw": 2.7899822561362884,
+      "bm25_score_norm": 0.0010753904245766719,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.842745304107666,
+      "embedding_score_norm": 0.11386505503344797,
+      "embedding_rank": 4,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 5
+    },
+    {
+      "title": "Gujarat High Court Refuses to Interfere with POSH Panel ...",
+      "url": "https://courtbook.in/posts/gujarat-high-court-posh-icc-report-woman-employee-plea-dismissed",
+      "snippet": "Apr 21, 2026 — Gujarat High Court refused to quash an ICC report in a workplace harassment case, holding no illegality in findings and citing alternative",
+      "bm25_score_raw": 2.7678427937069925,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8404438495635986,
+      "embedding_score_norm": 0.09400662324884808,
+      "embedding_rank": 5,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 6
+    }
+  ]
+}

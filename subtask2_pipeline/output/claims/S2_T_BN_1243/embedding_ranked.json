@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/BN/1243",
+    "text": "‘…ভুলে যাবেন না’, শুভেচ্ছা জানিয়ে মহাগুরুকে কী মনে করালেন কুণাল?",
+    "lang": "bengali"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Kunal Gadhvi, Author at Don't Forget the Bubbles",
+      "url": "https://dontforgetthebubbles.com/author/kunal-gadhvi",
+      "snippet": "Title: Kunal Gadhvi, Author at Don't Forget the Bubbles\nDon't Forget the Bubbles logo. Don't Forget the Bubbles logo. ## FEATURED ARTICLES. ## High flow therapy – when and how? ## Chest compressions in traumatic cardiac arrest. ## The missing link? Children and transmission of SARS-CoV-2. ## An evidence summary of Paediatric COVID-19 literature. ## Urticaria. ## The fidget spinner craze. ## Parenteral Nutrition. ## FILTER BY. # Kunal Gadhvi. ## Targeted Temperature Management in Paediatric Traumatic Brain Injury. ## The Bubbles. ## Follow Us. ## Subscribe to DFTB. Enter your e-mail address to keep up to date with everything we are doing. © 2026 Don't Forget the Bubbles | ISSN 2754-5407.",
+      "bm25_score_raw": 4.821558914700353,
+      "bm25_score_norm": 0.8756465658107738,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.800011157989502,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Kunal Vadgama - Empire Greeting Cards Limited",
+      "url": "https://tz.linkedin.com/in/kunal-vadgama-822571390",
+      "snippet": "laam, Dar es Salaam, Tanzania\nN/A connections, N/A followers\n\n\nAbout\nN/A\n\n\nExperience\nEmpire Greeting Cards Limited\n[Empire Greeting Cards Limited](N/A)  \nN/A - Present\nN/A\n\n\n\nEducation\nN/A",
+      "bm25_score_raw": 3.706300878684515,
+      "bm25_score_norm": 0.6558927417739336,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.7966518998146057,
+      "embedding_score_norm": 0.9019739485406277,
+      "embedding_rank": 2
+    },
+    {
+      "title": "ಶ್ರೀರಂಗಮಹಾಗುರು: Sri Ranga Mahaguru (Kannada) | Exotic India Art",
+      "url": "https://www.exoticindiaart.com/book/details/sri-ranga-mahaguru-kannada-hbj389",
+      "snippet": "Title: ಶ್ರೀರಂಗಮಹಾಗುರು: Sri Ranga Mahaguru (Kannada) | Exotic India Art\nGolden Coloured Brass Choker Set with Pearl Drop. 17\" Vajrayogini - Tibetan Buddhist Deity In Brass | Handmade | Made In India. The Siva Purana - Complete Set in 4 Volumes. 59\" Large Tirupati Balaji (Venkateshvara) with Vaishnava Symbol Lamp | Wall Hanging with Vaishnava Symbol Lamp | Wall Hanging\"). ಶ್ರೀರಂಗಮಹಾಗುರು: Sri Ranga Mahaguru (Kannada)\"). # ಶ್ರೀರಂಗಮಹಾಗುರು: Sri Ranga Mahaguru (Kannada) Email Whatsapp Facebook Pinterest Twitter Copy link \"Copy link\"). |  | Publisher: Ashtanga Yoga Vijnana Mandiram Bangalore |. |  | Ships in 1-3 days |. |  | Returns and Exchanges accepted within 7 days |. ರಂಗ ಒಲಿದ ದಾಸರಾಯ ಸಾಹ್ಲಾದಾಂಶ ಶ್ರೀ ಜಗನ್ನಾಥದಾಸರು: Ranga Olida Dasaraya Sahladansha Sri Jagannath Das in Kannada. ಅಮರವಾಣೀ ಗ್ರಂಥಸಾರ: Amaravani Granthasaar (The Discourses of Sriranga Mahaguru in Kannada)\"). ಅಮರವಾಣೀ- ತೀರ್ಥಕ್ಷೇತ್ರಗಳು - ಪೂಜಾಮೂರ್ತಿಗಳು: Amaravani : Thirthakshetragalu- Poojamurthygalu Volume- 10 (The Discourses of Sriranga Mahaguru in Kannada) An Old and Rare Book An Old and Rare Book\"). Sri Vedantha Desikar On Sri Rama. ಶ್ರೀಸತ್ಯೇಷ್ಟತೀರ್ಥವಿಜಯ- Sri Satyeshtatirthavijaya (With Illustrations)\"). ಸಾವಿತ್ರಿ- Savitri : Summary of Sri Aurobindo Epic Savitri (Kannada)\"). ಶ್ರೀಸುಜಯಿಂದ್ರ ವೈಭವ (ದೈತ ವೇದಾಂತ ಲೇಖನ ಸಂಗ್ರಹ)- Sri Sujayeendra Vaibhava in Kannada- An Anthology of Research Articles on Dwaita Vedanta (An Old and Rare Book)- Sri Sujayeendra Vaibhava in Kannada- An Anthology of Research Articles on Dwaita Vedanta (An Old and Rare Book)\"). Bhavya Bharata Bhavishyam - Glorious Future of India (Sri Devi Pradurbhava-Manifestation of Divine Mother)\"). Sri Matra Saktih - The Power of Divine Mother. Shree Gadhya Trayam of Sri Ramanuja. Send as free online greeting card. ಶ್ರೀರಂಗಮಹಾಗುರು: Sri Ranga Mahaguru (Kannada)\"). Get in on Google Play Store. Get in on Apple Play Store. Get in on Google Play Store. Get in on Apple Play Store. Sign up for 10% discount. Sign up for 10% discount.",
+      "bm25_score_raw": 2.7393324712209894,
+      "bm25_score_norm": 0.46535835564922734,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.7836735248565674,
+      "embedding_score_norm": 0.5232537712696478,
+      "embedding_rank": 3
+    },
+    {
+      "title": "I think you've been afraid all your life. - Gladiator | Clip.Cafe",
+      "url": "https://clip.cafe/gladiator-2000/the-general-became-a-slave-s1",
+      "snippet": "Title: I think you've been afraid all your life. - Gladiator | Clip.Cafe\nThe general who became a slaveThe slave who became a gladiatorThe gladiator who defied an emperorA striking storyNow the people want to know how the story endsOnly a famous death will doAnd what could. # I think you've been afraid all your life. The slave who became a gladiator. The gladiator who defied an emperor. And what could be more glorious than to challenge the Emperor himself in the great arena? Maximus:You would fight me? Maximus:I think you've been afraid all your life. The slave who became a gladiator. The gladiator who defied an emperor. than to challenge the Emperor himself in the great arena. I think you have been afraid all your life. য জ ন র ল একজন দ স পর ণত হয় ছ. য গ ল য ড য় টর সম র টক ন চ কর ছ. ব খ য ত ময়দ ন সম র টক চ য ল ঞ জ কর. ত ম আম র স থ লড়ব ক ন নয়. আম মন কর ত ম ত ম র স র জ বন ভ ত থ কব. মহ ন ম য ক স ম স র মত নয় য জ ন ন ভয় ক জ ন স. que de défier l'empereur lui même dans la grande arène. Contrairement à Maximus l'Invincible qui ne connaît pas la peur. Der General der ein Sklave wurde. Der Sklave der ein Gladiator wurde. Anders als Maximus der Unbesiegbare der keine Angst kennt. Budak yang kemudian menjadi Gladiator. daripada menentang raja di arena yang hebat ini. El general que se convirtió en un esclavo. El esclavo que se convirtió en un gladiador. El gladiador que desafió a un emperador. que desafiar al propio emperador en la arena. ### Want This Clip in HD? Maximus is one of the Roman army's most capable and trusted generals and a key advisor to the emperor. Renamed Spaniard and forced to become a gladiator, Maximus must battle to the death with other men for the amusement of paying audiences. I knew a man who once said Death smiles at us allAll a man... I knew a man who once said, \"Death smiles at us all. Death smiles at us all.",
+      "bm25_score_raw": 1.9972182887285834,
+      "bm25_score_norm": 0.31912992760106235,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.7833937406539917,
+      "embedding_score_norm": 0.5150894268783297,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Dont forget to be awesome Greeting Card | CafePress",
+      "url": "https://www.cafepress.com/+dont_forget_to_be_awesome_greeting_card,1251824041",
+      "snippet": "Title: Dont forget to be awesome Greeting Card | CafePress\nShop Badass Dad Men's Value T-Shirt. Shop Kids Baseball T-Shirt. Shop Bride Women's Hooded Sweatshirt. Shop Personalized Four Square Canvas Tote Bag. Shop Blue Birds in Summer Stone Coasters. Shop Orange Dahlia Pattern Everyday Pillow. Shop Blessed Personalized Throw Blanket. PEANUTS®: Snoopy Mom Hug Women's Value T-Shirt. Shop America250: Land of the Free Outdoor Blanket. # Dont forget to be awesome Greeting Card. Don't forget to be awesome. ##### Items in Your Order. CafePress is proud to offer high-quality custom goods at affordable prices. Value) prices are based on the prices at which similar items have been previously offered for sale by CafePress and/or other retailers. ### Dont forget to be awesome Greeting Cards. ### Dont forget to be awesome Greeting Cards. ### Dont forget to be awesome Postcards (Package of 8). ### Dont forget to be awesome Notebook. ### Dont forget to be awesome Mugs. ### Dont forget to be awesome T-Shirt. ### Dont forget to be awesome Mousepad. ### Dont forget to be awesome Tote Bag. ### Dont forget to be awesome Dog T-Shirt. ### Dare to be Different Birds on a wire Greeting Card. ### LifeAPartyWordsBlockBL Greeting Card. ### Keep Calm and DFTBA Greeting Cards. ### Greeting Cards. ### Don't Forget To Be Awesome Greeting Cards. ### Forget Princess I Want To Be An Astrophysicist Pun Greeting Card. ### Don't be afraid to be awesome Greeting Card. ### To Floss Greeting Cards. ### Don't Forget To Be Awesome Greeting Card. ### Princess Vampire Greeting Card. ### Forget Princess I want to be a Vampi Greeting Card. ### Forget Princess I Want To Be A Shield Maiden Greeting Card. ### Forget Princess I want to be a Vampi Greeting Card. ### DFTBA Greeting Card. ### Focus On The Good Quote Greeting Card. ### A Note from the Bride wedding card. ### Yeah Well I Don't Try to Be Awe Greeting Cards. ### Dont Forget To Be Awesome Today Greeting Cards. ### Sty Greeting Cards. ### proud to be awesome Greeting Card. If you don’t love your custom products, we’ll be happy to make changes and rerun your order. After all, we're as excited about your order as you are!",
+      "bm25_score_raw": 5.452656768826666,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.7821965217590332,
+      "embedding_score_norm": 0.4801535467240873,
+      "embedding_rank": 5
+    },
+    {
+      "title": "MAHAGURU MARKETING | GST: 08ACKPM5726F1ZG",
+      "url": "https://gst.iadv.io/MAHAGURU-MARKETING-08ACKPM5726F1ZG",
+      "snippet": "Title: MAHAGURU MARKETING | GST: 08ACKPM5726F1ZG\n## GST Filing Details. | GST Logo | GST Details for MAHAGURU MARKETING🖯™ | New Company Registration |. | Business Name | MAHAGURU MARKETING ℹ︎ | |. | Registered Address | SHOP NO 3, BIHAND BINAY, KOTHI BAPU NAGAR, AJMER, Ajmer, Rajasthan, 305001    Show Additional Addresses | |. ## 📍 Additional Addresses. | Constitution of Business | Proprietorship ℹ︎ | |. | Nature of Business Activities | Wholesale Business , Retail Business | |. | Effective Date of Registration | 01/07/2017 | |. # GST Details for MAHAGURU MARKETING🖯™. ## 📍 Additional Addresses. ## 🌐 Explore Our Services.",
+      "bm25_score_raw": 2.0868578703947605,
+      "bm25_score_norm": 0.3367927824920943,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.7804595232009888,
+      "embedding_score_norm": 0.42946643035174165,
+      "embedding_rank": 6
+    },
+    {
+      "title": "দিবা অবসান হল কি কর বসিয়া মন-  অমৃতলাল গুপ্ত - ব্রহ্মসংগীত",
+      "url": "https://www.youtube.com/watch?v=SjrjuT9HNb8",
+      "snippet": "্ত \n24700 subscribers\n97 likes\n1791 views\n20 Jul 2024\nJoin this channel to get access to perks:\nhttps://www.youtube.com/channel/UC27clyND5Hkqv8VadwN_dXw/join\n\n#ব্রহ্মসঙ্গীত #Brahmasangeet\n\nনববিধান ব্রাহ্মসমাজের গান এটি। নানাবিধ ব্যস্ততায় নতুন গান রেকর্ড করে দিতে পারছি না। কিছুদিন আগে ছাত্রকে গানটা শিখিয়ে এই রেকর্ড দিয়েছিলাম। সেটিই সরাসরি দিয়ে দিলাম এখানে। \n\nগানের রাগ লেখা রয়েছে ‘পূরবী’। কিন্তু শুদ্ধ ধৈবতের প্রয়োগ শুনে হয়ত ভাবছেন এ তো মারবা শোনাচ্ছে! তাই বলে রাখা ভাল- বাংলায় পূরবী এভাবে গাওয়া হত অতীতে, তেমন দৃষ্টান্ত কবিগুরুর গানেও পাবেন। হিন্দুস্তানি মার্গসংগীতের পূরবীর মতন এই পূরবী নয়। এই গান স্বরলিপি অনুকরণ করেই গাওয়া। আমার ডিজিটাল তবলায় আড়াঠেকা তালটি নেই। তাই তালছাড়া গাইতে হল। মনে হচ্ছে গানটি তাল ছাড়া মন্দ লাগছে না।\n20 comments\n",
+      "bm25_score_raw": 0.37762319021247726,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.7797625660896301,
+      "embedding_score_norm": 0.4091286206014899,
+      "embedding_rank": 7
+    },
+    {
+      "title": "ও মন রমজানের ঐ রোজার শেষে এলো খুশির ঈদ - দৈনিক সংগ্রাম",
+      "url": "http://www.dailysangram.com/special-features/eid-number-2026/XrTBuv4wh9cV",
+      "snippet": "Title: ও মন রমজানের ঐ রোজার শেষে এলো খুশির ঈদ - দৈনিক সংগ্রাম\nই-পেপার   আজকের পত্রিকা. ১.ও মন /রমজানের ঐ/ রোজার শেষে / এলো খুশির /ঈদ।. ৭.আজ/ ভুলে যা তোর / দোস্ত ও দুশ/মন হাত মিলাও/ হাতে।. এখানে প্রতি পঙক্তিতে তাল ৪-৪ করে ৮ মাত্রা এবং এর পর্ব বিভাগ ৪/৪ করে, বোল বিন্যাস :ধা(১) গে না তি/না(৫) ক ধিন না এবং এর তালি : ধা(১) খালি:না (৫) তাই এই গীতি কবিতাটি কাহারবা বা কার্ফা তালের।. ‘’ ও মন রমজানের ঐ রোজার শেষে এলো খুশির ঈদ/তুই আপনাকে আজ বিলিয়ে দে শোন আসমানি তাগিদ “. “ তোর সোনা দানা বালাখানা সব রাহে লিল্লাহ/দে জাকাত মুর্দা মুসলিমের আজ ভাঙাইতে নিদ/আজ পড়বি ঈদের নামাজ রে মন সেই সে ঈদগাহে /যে ময়দানে সব গাজী মুসলিম হয়েছে শহীদ”/. “ আজ ভুলে যা তোর দোস্ত ও দুশমন হাত মিলাও হাতে /তোর প্রেম দিয়ে কর বিশ্ব নিখিল ইসলামে মুরিদ “/. ১.ও মন রমজানের ঐ রোজার শেষে এলো খুশির ঈদ (র,বৃত্তানুপ্রাস). ৭. আজ ভুলে যা তোর দোস্ত ও দুশমন হাত মিলাও হাতে ( দ,ত,ম,হ,দ্বি- অনুপ্রাস). ১. ও মন রমজানের ঐ রোজার শেষে এলো খুশির ঈদ / তুই আপনাকে আজ বিলিয়ে দে শোন আসমানি তাগিদ। এখানে আসমানি তাগিদ বলতে আল্লাহর নির্দেশের কথা বলা হয়েছে। এখানে আল্লাহ তথা উপমানকে আড়াল করে বা অপ্রধান করে নিশ্চয় সাদৃশ্য মূলক অর্থালংকার সৃষ্টি করা হয়েছে।. ২. তোর সোনাদানা বালাখানা সব রাহেলিল্লাহ - এখানে সোনাদানা বালাখানা বলতে সব সুখ শান্তি বিসর্জনের কথা বলা হয়েছে। এখানে সোনাদানা বালাখানা হচ্ছে উপমান এবং এটাকে প্রধান করে আড়াল করা হয়েছে সুখশান্তির কথা, তাই এটা অপহ্নতি সাদৃশ্য মূলক অর্থালংকার।. ৫.তোর দাওয়াত কবুল করবে হজরত হয় মনে উম্মীদ -এখানে দাওয়াত কবুল করাকে হজরত মুহাম্মদ সল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর আনন্দ উম্মীদ বা খুশির চাঁদের সাথে তুলনা করা হয়েছে। এটা লুপ্তোপমা অর্থালংকার।. ১.১-ও মন রমজানের ঐ রোজার শেষে এলো খুশির ঈদ।. ১.২-তোর সোনাদানা বালাখানা সব রাহেলিল্লাহ. ২.২- আজ ভুলে যা তোর দোস্ত ও দুশমন হাত মিলাও হাতে।. ৪.১- তোর প্রেম দিয়ে কর বিশ্ব নিখিল ইসলামে মুরিদ. ৪.৩-তোর দাওয়াত কবুল করবে হজরত হয় মনে উম্মীদ।. ও মন রমজানের ঐ রোজার শেষে এলো খুশির ঈদ - এই গীতি কবিতাটির মূল বক্তব্য হলো আত্মত্যাগ, পরোপকার এবং আধ্যাত্ম-আনন্দ রসে অভিষিক্ত করা।. * MacBook Pro 14-inch M3 - Space Gray - Apple. #### Apple Imac 2024, 27”, 256GB. $1,799  #### Apple iPad PRO, 12”, Space Gray. $999  #### Apple MacBook PRO, 1TB.",
+      "bm25_score_raw": 0.9494223179067451,
+      "bm25_score_norm": 0.11266903338409161,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.7750098705291748,
+      "embedding_score_norm": 0.27044086416124147,
+      "embedding_rank": 8
+    },
+    {
+      "title": "Episode 2/পর্ব ২--মন কি কর তত্ত্ব তাঁরে || Sri Debabrata Das || Pranaram Bangla",
+      "url": "https://www.youtube.com/watch?v=w8HisdZRI1s",
+      "snippet": "Episode 2/পর্ব ২--মন কি কর তত্ত্ব তাঁরে || Sri Debabrata Das || Pranaram Bangla\nPRANARAM Bangla\n180000 subscribers\n18 likes\n375 views\n20 Oct 2022\nপর্ব ২--\nমন কি কর তত্ত্ব তাঁরে || \nSri #DebabrataDas || \n#Pranaram Bangla\n20.10.2022\n4 comments\n",
+      "bm25_score_raw": 1.0932890051086508,
+      "bm25_score_norm": 0.14101696152552287,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.7726637125015259,
+      "embedding_score_norm": 0.20197794896502064,
+      "embedding_rank": 9
+    },
+    {
+      "title": "mahaguru commercial - CEO - Mahaguru Commercial Pvt.Ltd.",
+      "url": "https://www.linkedin.com/in/mahaguru-commercial-636250ab",
+      "snippet": "s, 1 followers\n\n\nAbout\nN/A\n\n\nExperience\nCEO\n[Mahaguru Commercial Pvt.Ltd.](N/A)  \nN/A - Present\nN/A\n\n\n\nEducation\nBNV Barrackpore\nBA, Literature\nN/A - Present\nNone",
+      "bm25_score_raw": 1.9599256261194966,
+      "bm25_score_norm": 0.311781668317373,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.7722835540771484,
+      "embedding_score_norm": 0.19088459819215603,
+      "embedding_rank": 10
+    },
+    {
+      "title": "মন কি কর তত্ত্ব তাঁরে - রামপ্রসাদ সেন - Mon Ki Koro Tattwa Tare - Ramprasad Sen",
+      "url": "https://www.youtube.com/watch?v=LiLp_-hQ9bQ",
+      "snippet": "মন কি কর তত্ত্ব তাঁরে - রামপ্রসাদ সেন - Mon Ki Koro Tattwa Tare - Ramprasad Sen\nবিশাখদত্ত \n25700 subscribers\n205 likes\n5578 views\n16 Oct 2022\n#রামপ্রসাদী #কথামৃতের_গান \nকথামৃতে উল্লিখিত রামপ্রসাদের এই গান। গানের বাণীর দু একটি পাঠান্তর আছে। প্রথম কলিতে ‘মন কি তত্ত্ব কর তারে’- এমন পাঠান্তরও আছে। আমি পদাবলী অনুসরণে গাইলাম।\n20 comments\n",
+      "bm25_score_raw": 1.1728961169269145,
+      "bm25_score_norm": 0.15670298814684852,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.7688124179840088,
+      "embedding_score_norm": 0.08959385256522866,
+      "embedding_rank": 11
+    },
+    {
+      "title": "'আমি চুরি করিনি... বিশ্বাস কর', কুণালকে ফোনে বলতে বলতে কেঁদেই ফেললেন পার্থ - Bengali News | Partha Chatterjee calls Kunal Ghosh, breaks down and claims he is innocent | TV9 Bangla News",
+      "url": "https://tv9bangla.com/kolkata/partha-chatterjee-calls-kunal-ghosh-breaks-down-and-claims-he-is-innocent-1262130.html",
+      "snippet": "Title: 'আমি চুরি করিনি... বিশ্বাস কর', কুণালকে ফোনে বলতে বলতে কেঁদেই ফেললেন পার্থ - Bengali News | Partha Chatterjee calls Kunal Ghosh, breaks down and claims he is innocent | TV9 Bangla News\n# ‘আমি চুরি করিনি… বিশ্বাস কর’, কুণালকে ফোনে বলতে বলতে কেঁদেই ফেললেন পার্থ. ## Partha Chatterjee: গত তিন বছরে অনেক জল গড়িয়েছে। জেলে যাওয়ার পরই পার্থ চট্টোপাধ্যায়ের বিরুদ্ধে মুখ খুলেছিলেন কুণাল ঘোষ। এবার পার্থর 'ফেরার পালা'। দল থেকে বিধানসভা, সব ক্ষেত্রেই কামব্যাক করতে চান তিনি। এবার দলের মুখপাত্রকে ফোন করলেন পার্থ।. বিশ্বাস কর', কুণালকে ফোনে বলতে বলতে কেঁদেই ফেললেন পার্থ. **একদিন যিনি বলেছিলেন, ‘ওর নাম আমার সামনে নেবে না’, আর আজ তাঁর কাছেই গেল ফোন।** দু’জনেই জীবনের একটা সময় জেলে কাটিয়েছেন। সময়কালও মোটামুটিভাবে একই। সব বৈরিতা ভুলে সেই কুণাল ঘোষকে ফোন করে আজ কেঁদেই ফেললেন পার্থ চট্টোপাধ্যায়।. বুধবার সন্ধ্যায় কুণাল ঘোষকে করলেন ফোন পার্থ চট্টোপাধ্যায়ের। বেশ কিছুক্ষণ দু’জনের কথা হয়েছে বলে সূত্রের খবর। জানা যাচ্ছে, বুধবার ফোন করে কুণালের শারীরিক অবস্থার খোঁজখবর নেন পার্থ। চিকিৎসার ব্যাপারেও খোঁজ নেন তিনি। **কথা বলতে বলতে আবেগ তাড়িত হয়ে কেঁদেও ফেলেন প্রাক্তন শিক্ষামন্ত্রী।** মুখে একটাই কথা, **‘আমি চুরি করিনি।’ সূত্রের খবর, এদিন পার্থ বারবার বলেছেন, “আমি চুরি করিনি। বিশ্বাস কর, আমি চুরি করিনি।” এ কথা বলতে বলতে কেঁদেই ফেলেছেন পার্থ।**. তিন বছরের বেশি সময় জেলে কাটিয়েছিলেন কুণাল ঘোষ। পার্থ চট্টোপাধ্যায় তখন তৃণমূলের প্রথম সারির দাপুটে নেতা। সময় বদলায়। জেল থেকে মুক্তি পান কুণাল ঘোষ। আজ তিনি তৃণমূলের মুখপাত্র। আর তিন বছর তিন মাস জেল খেটে বাড়ি ফিরেছেন সেই পার্থ চট্টোপাধ্যায়। কিন্তু **কুণাল ঘোষ পার্থ সম্পর্কে ঠিক কী বলেছিলেন, তা সাধারণ মানুষের মন থেকে মোছেনি। আর কুণাল সম্পর্কে পার্থ যা বলেছিলেন, সেটাও খুব একটা সৌজন্যের নজির রাখে না।**. কুণাল ঘোষ বলেছিলেন, **“যখন আমি অন্যায়ভাবে জেলে বন্দি, আমার সম্পর্কে এই পার্থ চট্টোপাধ্যায় বিবৃতি দিয়েছিলেন। আমার নাকি মাথায় গণ্ডগোল, আমি পাগল। ওর নাম আমার সামনে করবেন না। আমি উত্তর দেব না। যত নাটক।“** আর পার্থও কম যাননা। জেলে বন্দি থাকাকালীন একদিন আদালত থেকে ফেরার পথে পার্থ বলেছিলেন, **“কুণাল ঘোষকে অনেক আগেই তাড়িয়ে দেওয়া উচিত ছিল। ও যা ক্ষতি করছে, বিরোধী দলও করেনি। জেলে এসে জানতে পারলাম, কতটা ঘৃণ্য কাজ করেছে।”**. রাজনীতির কারবারিরা এই কথোপকথনে মোটেই লঘু করে দেখছেন না। সৌজন্যের ফোন নাকি কোনও বার্তা দিতে চেয়েছেন পার্থ চট্টোপাধ্যায়? পার্থ চট্টোপাধ্যায় এটা বলতে পারেন যে, আমি একা চোর না। কিন্তু আমি একাই জেল খাটছি, তাহলে লোকে বিশ্বাস করবে।” তৃণমূল এই বিষয়ে কোনও মন্তব্য করতে চায়নি। দলের রাজ্য সাধারণ সম্পাদক তন্ময় ঘোষ এই কথোপকথনটাকে ‘ব্যক্তিগত বিষয়’ বলেই উল্লেখ করেছেন।.",
+      "bm25_score_raw": 4.9215892779170325,
+      "bm25_score_norm": 0.8953568517955207,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.7657421231269836,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

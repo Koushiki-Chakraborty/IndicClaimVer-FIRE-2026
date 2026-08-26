@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/HI/1185",
+    "text": "BREAKING | सुप्रीम कोर्ट ने मनीष सिसोदिया को जमानत दी",
+    "lang": "hindi"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "r/delhi - Supreme court grants bail to Manish Sisodia",
+      "url": "https://www.reddit.com/r/delhi/comments/1enrv5r/supreme_court_grants_bail_to_manish_sisodia",
+      "snippet": "Supreme court grants bail to Manish Sisodia Delhi. Arvind Kejriwal and Manish Sisodia has been acquitted by court. Breaks Down After Court",
+      "bm25_score_raw": 0.9415469479183088,
+      "bm25_score_norm": 0.13243101213885788,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.9362550973892212,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Supreme Court Grants Bail To Manish Sisodia, Says Right To ...",
+      "url": "https://www.facebook.com/livelaw.in/posts/breaking-supreme-court-grants-bail-to-manish-sisodia-says-right-to-speedy-trial-/911311987700500",
+      "snippet": "More than 18 months after the CBI arrest of #ManishSisodia, the Supreme Court granted him bail in the liquor policy case today, “considering the delay in",
+      "bm25_score_raw": 0.6873373678268652,
+      "bm25_score_norm": 0.09667577756310433,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.9081088304519653,
+      "embedding_score_norm": 0.8259375903088637,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Supreme Court Grants Bail to Manish Sisodia in Excise Policy Case ...",
+      "url": "https://www.youtube.com/watch?v=2f-QEtatnoc",
+      "snippet": "The Supreme Court on Thursday granted bail to former Delhi deputy chief minister and Aam Aadmi Party (AAP) leader Manish Sisodia",
+      "bm25_score_raw": 0.864254152672563,
+      "bm25_score_norm": 0.12155958068441305,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.906280517578125,
+      "embedding_score_norm": 0.8146309205753818,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Supreme Court Grants Bail To Manish Sisodia, Says Right To ...",
+      "url": "https://x.com/LiveLawIndia/status/1821778205939757377",
+      "snippet": "BREAKING | Supreme Court Grants Bail To Manish Sisodia, Says Right To Speedy Trial Denied In Liquor Policy Case | @DebbyJain · #SupremeCourt #ManishSisodia",
+      "bm25_score_raw": 7.1097164683078065,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.904832661151886,
+      "embedding_score_norm": 0.8056770731966242,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Supreme Court grants bail to AAP leader Manish Sisodia in ...",
+      "url": "https://www.linkedin.com/pulse/breaking-news-dawn-supreme-court-grants-parzc",
+      "snippet": "Supreme Court grants bail to AAP leader Manish Sisodia in the excise policy irregularities case. Article content. Supreme Court grants bail to former Deputy",
+      "bm25_score_raw": 0.8594752340801027,
+      "bm25_score_norm": 0.12088741343080137,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.9033194780349731,
+      "embedding_score_norm": 0.7963192318807245,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Supreme Court says Sisodia deprived of right to speedy trial; grants bail - Supreme Court Observer",
+      "url": "https://www.scobserver.in/journal/manish-sisodia-deprived-of-his-right-to-speedy-trial-the-supreme-court-holds-grants-bail/amp",
+      "snippet": "Home > Analysis > Supreme Court says Sisodia deprived of right to speedy trial; grants bail. # Supreme Court says Sisodia deprived of right to speedy trial; grants bail. Today, a two-judge Bench of the Supreme Court granted bail to former Deputy Chief Minister of Delhi and Aam Aadmi Party leader Manish Sisodia in the Delhi liquor policy case. Justices B.R. Gavai and K.V. Viswanathan wrote that “on account of a long period of incarceration running for around 17 months and the trial even not having been commenced, the appellant has been deprived of his right to speedy trial.”. On whether Sisodia could approach the top court at this stage, the bench held that the Supreme Court’s Order in the first round of hearings was deeply “concerned about the prolonged period of incarceration suffered by the appellant.” They noted that the three months given by the Court in Round 1 of hearings went in waiting for the Trial Court’s decision alone.",
+      "bm25_score_raw": 0.42452116770188214,
+      "bm25_score_norm": 0.05970999963138094,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8828250169754028,
+      "embedding_score_norm": 0.6695771923306026,
+      "embedding_rank": 6
+    },
+    {
+      "title": "Manish Sisodia News in Hindi: मनीष सिसोदिया के ब्रेकिंग न्यूज़, ताज़ा ख़बर, समाचार, न्यूज़ और अपडेट, Videos, Photos | TV9 Bharatvarsh",
+      "url": "https://www.tv9hindi.com/topic/manish-sisodia",
+      "snippet": "Title: Manish Sisodia News in Hindi: मनीष सिसोदिया के ब्रेकिंग न्यूज़, ताज़ा ख़बर, समाचार, न्यूज़ और अपडेट, Videos, Photos | TV9 Bharatvarsh\nदेश राज्य चुनाव 2026 Sports9 मनोरंजन दुनिया बिजनेस वेब स्टोरी फोटो टेक धर्म ऑटो लाइफस्‍टाइल हेल्थ राशिफल वीडियो एजुकेशन नॉलेज ट्रेंडिंग. * बंगाल चुनाव. * शॉर्ट वीडियो. * टेक्नोलॉजी. मनीष सिसोदिया. # मनीष सिसोदिया. दिल्ली विधानसभा की पटपड़गंज सीट से विधायक सिसोदिया ने शिक्षा मंत्री के रूप में दिल्ली के सरकारी विद्यालयों की शिक्षा व्यवस्था में सुधार में महत्वपूर्ण भूमिका निभाई थी. अरविंद केजरीवाल और मनीष सिसोदिया भ्रष्टाचार विरोधी आंदोलन के प्रमुख सदस्यों में से एक थे. वह ‘अपना पन्ना’ नामक हिंसा मासिक पत्रिका का संपादन करते थे, लेकिन केजरीवाल जब राजनीति में आए तो मनीष सिसोसिया भी उनके साथ राजनीति में कदम रखा और नवंबर 2012 में वह आम आदमी पार्टी के कार्यकारी सदस्य बनाए गए. केजरीवाल की दिल्ली में सरकार बनी तो वह उप मुख्यमंत्री सहित शिक्षा, उच्च शिक्षा, स्थानीय निकाय, भूमि, पीडब्ल्यूडी, शहरी विकास सहित भवन एवं राजस्व विभाग के मंत्री बने, लेकिन लेकिन दिल्ली आबकारी घोटाले के मामले में संलिप्तता के आरोप में सीबीआई ने 27 फरवरी, 2023 को गिरफ्तार कर लिया. पंजाब में AAP नेता एकजुट…जालंधर बैठक में पार्टी पर्यवेक्षकों को मनीष सिसोदिया के सख्त निर्देश भी जारी. जालंधर में आप पर्यवेक्षकों की बैठक के बाद पार्टी के पंजाब प्रभारी मनीष सिसोदिया ने कहा कि इस दौरान पर्यवेक्षकों के काम-काज पर चर्चा हुई. दिल्ली आबकारी नीति मामले में अरविंद केजरीवाल ने अंतरात्मा की आवाज पर सत्याग्रह शुरू किया है. दिल्ली हाई कोर्ट ने आबकारी नीति मामले में ईडी की याचिका पर अरविंद केजरीवाल, मनीष सिसोदिया और अन्य को जवाब दाखिल करने का आखिरी मौका दिया है. दिल्ली आबकारी नीति पर PAC रिपोर्ट ने मनीष सिसोदिया के फैसलों से ₹2000 करोड़ से अधिक के राजस्व नुकसान का खुलासा किया है. आम आदमी पार्टी (AAP) नेता अरविंद केजरीवाल और मनीष सिसोदिया ने दिल्ली उच्च न्यायालय के मुख्य न्यायाधीश को पत्र लिखा है. AAP के वरिष्ठ नेता और पंजाब प्रभारी मनीष सिसोदिया ने अमेरिका-ईरान युद्ध को लेकर गंभीर चिंता व्यक्त की है. दिल्ली शराब नीति घोटाले में राउज़ एवेन्यू कोर्ट ने अरविंद केजरीवाल और मनीष सिसोदिया को बरी कर दिया है. दिल्ली की राउज एवेन्यू कोर्ट ने शराब घोटाला केस में पूर्व मुख्यमंत्री अरविंद केजरीवाल और पूर्व उपमुख्यमंत्री मनीष सिसोदिया को केस में बरी कर दिया है.",
+      "bm25_score_raw": 0.4266087379619951,
+      "bm25_score_norm": 0.06000362178486885,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8312810659408569,
+      "embedding_score_norm": 0.3508186037733623,
+      "embedding_rank": 7
+    },
+    {
+      "title": "क्या है दिल्ली शराब घोटाला? जिसमें मनीष सिसोदिया और संजय सिंह ...",
+      "url": "https://ajhindidaily.com/%E0%A4%95%E0%A5%8D%E0%A4%AF%E0%A4%BE-%E0%A4%B9%E0%A5%88-%E0%A4%A6%E0%A4%BF%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80-%E0%A4%B6%E0%A4%B0%E0%A4%BE%E0%A4%AC-%E0%A4%98%E0%A5%8B%E0%A4%9F%E0%A4%BE%E0%A4%B2",
+      "snippet": "हालांकि, जुलाई 2022 में दिल्ली के तत्कालीन मुख्य सचिव ने आबकारी नीति में अनियमितता होने के संबंध में एक रिपोर्ट उपराज्यपाल वीके सक्सेना को सौंपी थी। इसमें नीति में गड़बड़ी होने के साथ ही तत्कालीन उपमुख्यमंत्री मनीष सिसोदिया पर शराब कारोबारियों को अनुचित लाभ पहुंचाने का आरोप लगाया गया था।. मामले में जांच की सिफारिश करने के बाद 30 जुलाई 2022 को दिल्ली सरकार ने नई आबकारी नीति को वापस लेते हुए पुरानी व्यवस्था बहाल कर दी थी। घोटाले से जुड़े सीबीआइ और ईडी के मामले में मनीष सिसोदिया को निचली अदालत से लेकर हाई कोर्ट तक राहत नहीं मिली।. * सीबीआइ ने मनीष सिसोदिया, विजय नायर, अभिषेक बोइनपल्ली और बुचिबाबू को गिरफ्तार किया था। हालांकि, सीबीआइ ने समीर महेंद्रू, गौतम मुथा, अरुण पिल्लई, कुलदीप सिंह, नरेंद्र सिंह को गिरफ्तार नहीं किया। मनीष सिसोदिया को छोड़कर सीबीआइ मामले में सभी को जमानत मिल चुकी है।.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.8288464546203613,
+      "embedding_score_norm": 0.3357624574626822,
+      "embedding_rank": 8
+    },
+    {
+      "title": "अरविंद केजरीवाल और मनीष सिसोदिया को बड़ी राहत, शराब घोटाले मामले में बरी | Big relief for Arvind Kejriwal and Manish Sisodia, acquitted in liquor scam case | अरविंद केजरीवाल और मनीष सिसोदिया को बड़ी राहत, शराब घोटाले मामले में बरी",
+      "url": "https://jantaserishta.com/national/big-relief-for-arvind-kejriwal-and-manish-sisodia-acquitted-in-liquor-scam-case-4609163",
+      "snippet": "कोर्ट ने दिल्ली के पूर्व मुख्यमंत्री और आम आदमी पार्टी के राष्ट्रीय संयोजक अरविंद केजरीवाल और मनीष सिसोदिया को आरोपों से बरी कर दिया है. > #WATCH दिल्ली: AAP के राष्ट्रीय संयोजक और दिल्ली के पूर्व मुख्यमंत्री अरविंद केजरीवाल ने कहा, \"पिछले कुछ सालों से भाजपा जिस तरह से शराब घोटाले के बारे में कह रही थी और हमारे ऊपर आरोप लगा रही थी तो आज कोर्ट ने सभी आरोप खारिज कर दिए और सभी आरोपियों को बरी कर दिया है। हमें…  pic.twitter.com/uBv5PZiMqW. भारत के भले ही किसी कोने में आप रह रहे हों, जनता से रिश्ता वेबसाइट पर आपके राज्य की हर छोटी-बड़ी खबर मिलेगी। राजनीति, खेल, चुनाव, बिजनेस, सिनेमा, इस प्लैटफॉर्म पर बस एक क्लिक करते ही हमेशा पाएं ताजा खबरें। उत्तर प्रदेश, बिहार, मध्य प्रदेश, राजस्थान, महाराष्ट्र, गुजरात, छत्तीसगढ़, झारखंड, हिमाचल प्रदेश, पंजाब, हरियाणा, जम्मू-कश्मीर, उत्तराखंड, पश्चिम बंगाल समेत देश के बाकी राज्यों और शहरों की कोई जानकारी हो, हम आपको देते हैं। सियासी रण हो या बजट का मौसम, कहां चल रहा क्या सियासी दांव-पेच, आपके गांव में किसकी सरकार, हर अपडेट यहां आपको मिलेंगे। तो फिर अपने राज्य की हर हलचल के लिए जुड़े रहिए जनता से रिश्ता के साथ।.",
+      "bm25_score_raw": 0.36560689392215023,
+      "bm25_score_norm": 0.051423554729907374,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.8278025388717651,
+      "embedding_score_norm": 0.32930666383576024,
+      "embedding_rank": 9
+    },
+    {
+      "title": "जेलवासी मनीष सिसोदिया टीचरों से दिलवाते थे बच्चों के एग्जाम",
+      "url": "https://tfipost.in/2023/04/galaxys-best-education-minister-jailed-dwelling-sisodia-made-teachers-sit-for-students-exams",
+      "snippet": "Title: जेलवासी मनीष सिसोदिया टीचरों से दिलवाते थे बच्चों के एग्जाम\nमनीष सिसोदिया. दिल्ली सरकार एजुकेशनल मॉडल को दिया बूस्टर डॉज , दिल्ली के ऐजुकेशन मॉडल की न्यॉयर्क टाइम्स भी कर रहा है वाह  वाही, दिल्ली के स्कूलों की प्रशंसा पूरे विश्व में हो रही है, विश्वास है कि आपको भलि भांति ज्ञात होगा कि कुछ समय पूर्व समाचारों में और आम आदमी के द्वारा इन चंद लाइनों का प्रयोग करके टीआरपी और वाह वाही लुटने के पूर्ण प्रयास होते थे। जिस प्रकार कहा गया कि आम आदमी पार्टी ने दिल्ली की शराब नीति में घोटाले करके गुजरात, हिमाचल और गोवा जैसे राज्यों में खर्चे की व्यवस्था की ठीक उसी  प्रकार आम आदमी पार्टी ने पंजाब से लेकर यूपी और गुजरात से लेकर हिमाचल हर स्थान पर मनीष सिसोदिया वाले शिक्षा मॉडल का ढिढौंरा पीटकर वोट बटौरने का प्रयास किया। स्व-घोषित जीनिस मनीष सिसोदिया शराब घोटाले के आरोपों में कारगार मंत्री सतेंद्र जैन की भांति कारगार में रात्रियां बिता रहे हैं और बाहर उनका कथित शिक्षा मॉडल के परिणाम  बच्चों के अभिभावकों और देश की जनता को अचंभित कर रहा है। वो कैसे? वहीं, दिल्ली विधानसभा में नेता विपक्ष रामवीर सिंह बिधूड़ी के अनुसार, बच्चों के नतीजे वेबसाइट पर अपलोड कर दिए गए हैं, मगर टीचर्स से कहा गया कि खुद जवाब लिखकर छात्रों को पास करें और रिवाइज्ड रिजल्ट वेबसाइट पर अपलोड करें। रामवीर सिंह के अनुसार, इसके लिए उन्हें 5 अप्रैल तक का समय दिया गया है। उन्होंने LG वीके सक्सेना से जांच की मांग की है। नेता विपक्ष ने दावा किया कि इस सत्र में 9वीं और 11वीं कक्षा में केवल 4% छात्र ही पास हो पाए। नेता विपक्ष रामवीर सिंह ने प्रश्न पूछते हुए कहा कि दिल्ली के वर्ल्ड क्लास एजुकेशन मॉडल का क्या हो गया है।  उन्होंने कहा कि जिस एजुकेशन मॉडल की अरविंद केजरीवाल और उनकी पार्टी ढोल पिटती है, उसकी पोल अब खुल गई है। पोल तो अवश्य ही खुल गई है जेलवासी मनीष सिसोदिया की भी और कट्टर ईमानदार पार्टी से महाभष्ट्राचारी पार्टी बनी आम आदमी पार्टी की भी।.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.8121198415756226,
+      "embedding_score_norm": 0.2323215791739651,
+      "embedding_rank": 10
+    },
+    {
+      "title": "Manish Sisodia Latest News, Updates in Hindi | मनीष सिसोदिया के समाचार और अपडेट - AajTak",
+      "url": "https://www.aajtak.in/topic/manish-sisodia",
+      "snippet": "* इंडिया टुडे हिंदी. * मनीष सिसोदिया. मनीष सिसोदिया 21 मार्च 2025 को पंजाब का प्रभारी नियुक्त किया गया. दिल्ली विधानसभा चुनाव 2025 (Delhi Assembly Election 2025) के लिए आप ने उन्हें दिल्ली के जंगपुरा सीट से उम्मीदवार चुना था, जिसमें उन्हें हार का सामना करना पड़ा. उनके पास शिक्षा, उच्च शिक्षा, तकनीकी शिक्षा, वित्त, योजना, उत्पाद शुल्क, जीएसटी, सतर्कता, सेवाएं, पर्यटन, भूमि और भवन, कला, संस्कृति और भाषा विभाग हैं. वह आम आदमी पार्टी की राष्ट्रीय कार्यकारिणी समिति और आम आदमी पार्टी के संस्थापक सदस्य हैं. 1997 और 2005 के बीच एक रिपोर्टर, समाचार निर्माता और समाचार पाठक के रूप में जी न्यूज के लिए काम किया (Manish Sisodia Education). सिसोदिया ने एक किताब लिखी है शिक्षा: एक शिक्षा मंत्री के रूप में मेरे प्रयोग (Shiksha: My Experiments as an Education Minister), जो दिल्ली में शिक्षा सुधारों की यात्रा का वर्णन करता है (Manish Sisodia Book). आम आदमी पार्टी पर बनी डॉक्यूमेंट्री 'अनब्रेकेबल' को अपने यूट्यूब चैनल पर रिलीज किया है - और लोगों से शेयर करने की अपील कर रहे हैं.",
+      "bm25_score_raw": 0.41104925523238883,
+      "bm25_score_norm": 0.05781514031743424,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.8028023838996887,
+      "embedding_score_norm": 0.17470046945864812,
+      "embedding_rank": 11
+    },
+    {
+      "title": "हल्द्वानी : 3 जनवरी को मनीष सिसोदिया उत्तराखंड में - समित टिक्कू",
+      "url": "https://creativenewsexpress.com/manish-sisodia-in-uttarakhand-on-3-january-samit-tikku",
+      "snippet": "HomeUttarakhandNainitalहल्द्वानी : 3 जनवरी को मनीष सिसोदिया उत्तराखंड में - समित टिक्कू. # हल्द्वानी : 3 जनवरी को मनीष सिसोदिया उत्तराखंड में – समित टिक्कू. **हल्द्वानी।** उत्तराखंड आम आदमी पार्टी के प्रदेश प्रवक्ता समित टिक्कू ने कहा कि दिल्ली के उप मुख्यमंत्री मनीष सिसोदिया ने उत्तराखंड के कैबिनेट मंत्री मदन कौशिक को 3 जनवरी को आमंत्रित किया है कि वह राज्य के विकास के मुद्दों पर उनसे सीधी बात कर सकते हैं, पिछले दौरे में मनीष सिसोदिया ने कहा था कि वर्तमान सरकार इन 5 सालों में अपने 5 कामों को गिनाए इसके जवाब में मंत्री मदन कौशिक ने कहा था कि हम 100 काम गिनाएंगे, लिहाजा अब दिल्ली के उप मुख्यमंत्री मनीष सिसोदिया उत्तराखंड आ रहे हैं कि उत्तराखंड के विकास के प्रति सीधे-सीधे आमने-सामने की बात हो सके लेकिन इस सरकार में जनता त्रस्त है। मुख्यमंत्री, मंत्री और विधायक मस्त हैं उनको जनता के जन सरोकारों से कोई मतलब नहीं है।. Vikram-1 ने रचा इतिहास • पूरी वीडियो देखने के लिए नीचे क्लिक करें.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.7745529413223267,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "claim": {
+    "id": "S2/1592",
+    "text": "केजरीवाल कैबिनेट तीन दिन से CM हाउस में, तो बीजेपी नेता LG ऑफिस के बाहर धरने पर बैठे",
+    "lang": "dev"
+  },
+  "ranked_evidence": [
+    {
+      "title": "Fresh violence at Delhi youth protest demanding minister's resignation - Reuters",
+      "url": "https://www.reuters.com/world/india/fresh-violence-delhi-youth-protest-demanding-ministers-resignation-2026-07-23/",
+      "snippet": "## Browse World. NEW DELHI, July 23 (Reuters) - Youth protesters demanding the education minister's resignation clashed briefly with police on the streets of New Delhi late on Wednesday, ‌with officers firing tear gas and wielding canes to push them back, police and witnesses said. More than 10,000 people were estimated to have gathered at the Jantar Mantar protest site in central New Delhi, local media said, as leaders of the \"cockroach\" movement vowed to continue their month-old protest until the minister resigned over exam paper leaks that ​affected some 2 million students in May. Get the latest news from India and how it matters to the world with the Reuters India File newsletter. Item 1 of 6 Police use teargas to control the crowd during the ongoing protest of Cockroach Janata Party (CJP), two days after thousands of protesters marched towards parliament demanding the resignation of Education Minister Dharmendra Pradhan over examination paper leaks, at Jantar Mantar in New Delhi, India, July 22, 2026.",
+      "bm25_score_raw": 3.2032281381849645,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "LG Electronics to Shut Down Its First China Manufacturing Plant After 34 Years - thelec.net",
+      "url": "https://www.thelec.net/news/articleView.html?idxno=12369",
+      "snippet": "LG Electronics to Shut Down Its First China Manufacturing Plant After 34 Years. ## Huizhou factory to end audio production this year as company streamlines manufacturing footprint. LG Electronics will halt production at its manufacturing plant in Huizhou, China, after October, bringing operations at the group's first manufacturing subsidiary in China to an end after 34 years. According to industry sources on July 21, LG Electronics plans to cease operations on the production lines at LG Electronics Huizhou (LGEHZ) by the end of the year. LGEHZ was established in October 1993 as a joint venture among LG Electronics, LG Electronics China and TCL Group, becoming the LG Group's first manufacturing subsidiary in China. \"We plan to close the Huizhou plant this year and have already informed local employees that production will stop after October,\" a person involved in LG Electronics' China operations said. \"Production at the Huizhou subsidiary is scheduled to stop by October this year,\" an LG Electronics spokesperson said.",
+      "bm25_score_raw": 2.209333225481914,
+      "bm25_score_norm": 0.6897208472743318,
+      "bm25_rank": 2
+    },
+    {
+      "title": "Microsoft pressures LG into killing unwanted McAfee ads - The Verge",
+      "url": "https://www.theverge.com/tech/970489/lg-mcafee-ads-windows-microsoft-crackdown",
+      "snippet": "﻿LG has agreed to disable the pop-up ad notifications. Microsoft has intervened to stop Windows 11 users with LG monitors from being bombarded with annoying McAfee trial pop-ups. In response to complaints about the LG bloatware, Microsoft’s Windows chief, Pavan Davuluri, said that LG has agreed to immediately disable the McAfee pop-up from its LG Monitor App Installer, and pledged that Microsoft will “keep improving here with our ecosystem partners.”. This crackdown follows backlash about large pop-up ads for McAfee antivirus and LG’s own apps appearing on Windows 11 PCs after being connected to LG monitors. Upon connection, a Windows driver update was silently installing LG driver updates and the LG Monitor App Installer without explicit permission from the user — with reports about the auto-installing issue dating back to 2024. > “LG Electronics reiterates that McAfee is not installed automatically and is never installed without the user’s explicit consent. McAfee will be installed only if a user actively chooses to proceed with the installation and provides consent.",
+      "bm25_score_raw": 2.132696979223011,
+      "bm25_score_norm": 0.6657961553845037,
+      "bm25_rank": 3
+    },
+    {
+      "title": "Microsoft Forces LG to Quit Shoving McAfee Ads Into Your PC - Gizmodo",
+      "url": "https://gizmodo.com/microsoft-forces-lg-to-quit-shoving-mcafee-ads-into-your-pc-2000790353",
+      "snippet": "Microsoft said that LG will stop shoving ads at users after they merely connect the company’s popular monitors to their PCs. Still, that doesn’t mean LG will quit auto-installing software just by connecting your screen to your HDMI port. It would also automatically show pop-up ads for services like McAfee scam protection and for LG’s own streaming service on users’ desktops. In a follow-up tweet, Davuluri said that “We’ve connected with the team at LG and as an immediate next step, they have agreed to disable the McAfee pop-up from their app.”. We’ve connected with the team at LG and as an immediate next step, they have agreed to disable the McAfee pop-up from their app. LG originally defended itself in a statement to Windows Latest, saying it doesn’t install McAfee without users’ consent, adding, “The LG Monitor App Installer is distributed through Microsoft’s official Windows distribution process, which included McAfee as an option.” It’s the kind of backwards thinking that misses the reason why customers were so annoyed in the first place.",
+      "bm25_score_raw": 2.072196249440246,
+      "bm25_score_norm": 0.6469087308325183,
+      "bm25_rank": 4
+    },
+    {
+      "title": "Chinar Book Festival Creating Atmosphere Of Peace, Creativity And Self-Confidence, Says LG - Daily Excelsior",
+      "url": "https://www.dailyexcelsior.com/chinar-book-festival-creating-atmosphere-of-peace-creativity-and-self-confidence-says-lg/",
+      "snippet": "Home **/** Videos **/** Chinar Book Festival Creating Atmosphere Of Peace, Creativity And Self-Confidence, Says LG. # Chinar Book Festival Creating Atmosphere Of Peace, Creativity And Self-Confidence, Says LG. ## J&K LG said Chinar Book festival is creating Atmosphere of peace, creativity and self-confidence. LG today inaugurated the festival at Srinagar ... ##### Daily Excelsior. 06:35 PM Jul 18, 2026 IST. ## E-Paper.",
+      "bm25_score_raw": 1.9644877183401361,
+      "bm25_score_norm": 0.6132837355297671,
+      "bm25_rank": 5
+    },
+    {
+      "title": "India protest movement holds capital sit-in as police crack down on demonstrators - AP News",
+      "url": "https://apnews.com/article/india-cockroach-party-youth-movement-protest-modi-d226d142657cd297c3d4232716a8a626",
+      "snippet": "Test Your News I.Q. 2026 Elections Election Results Election calendar White House Congress Supreme Court The latest AP-NORC polls. A protestor sits on the hood of a police car during a demonstration demanding educational reforms as part of the Cockroach Janta Party’s ongoing protest movement in New Delhi, India, Wednesday, July 22, 2026. A protestor holds a piece of paper with “Democracy?” written on it during a demonstration demanding educational reforms as part of the Cockroach Janta Party’s ongoing protest movement in New Delhi, India, Wednesday, July 22, 2026. Protesters shout slogans as they carry posters asking for the resignation of India’s Minister of Education Dharmendra Pradhan at a protest led by Cockroach Janta Party in New Delhi, India, Wednesday, July 22, 2026. NEW DELHI (AP) — Thousands of young protesters were camped on the streets of India’s capital New Delhi on Thursday, defying new restrictions in the latest show of strength for a movement that has become one of the biggest challenges to Prime Minister Narendra Modi’s government.",
+      "bm25_score_raw": 1.8606756077425552,
+      "bm25_score_norm": 0.5808751445336842,
+      "bm25_rank": 6
+    },
+    {
+      "title": "India student protests give opposition a rare opening against Modi - Reuters",
+      "url": "https://www.reuters.com/world/india/india-student-protests-give-opposition-rare-opening-against-modi-2026-07-21/",
+      "snippet": "## Browse World. ## Browse Business. ## Browse Legal. Image 2: Indian opposition leader Rahul Gandhi is detained by police during a sit-in protest outside Prime Minister Narendra Modi's residence in New Delhi. Item 1 of 6 Indian opposition leader Rahul Gandhi is detained by police during a sit-in protest outside Prime Minister Narendra Modi's residence, demanding accountability for police action against students, in New Delhi, India, July 21, 2026. **[1/6]**Indian opposition leader Rahul Gandhi is detained by police during a sit-in protest outside Prime Minister Narendra Modi's residence, demanding accountability for police action against students, in New Delhi, India, July 21, 2026. Yet CJP leaders turned to opposition lawmakers and appealed directly for their support on Monday after police used batons and tear gas, opens new tab to ‌disperse protesters marching on parliament to demonstrate against damaging exam leaks and corruption. Get the latest news from India and how it matters to the world with the Reuters India File newsletter.",
+      "bm25_score_raw": 1.3137606254820315,
+      "bm25_score_norm": 0.41013645260572784,
+      "bm25_rank": 7
+    },
+    {
+      "title": "Dem gov lashes out as Trump HUD scrutinizes nearly $2B in disaster funds over fraud concerns - Fox News",
+      "url": "https://www.foxnews.com/politics/dem-gov-lashes-out-trump-hud-scrutinizes-nearly-2b-disaster-funds-fraud-concerns",
+      "snippet": "* #### GOP blocks Schumer's effort to ground taxpayer funding for Trump's Qatari Air Force One. * #### Mamdani dodges on ‘political theater’ of empty Netanyahu arrest threat, calls for US action and NYC protests. * #### Mamdani doubles down on Netanyahu arrest push despite lack of legal authority. * #### Mamdani faces backlash for calls to arrest Netanyahu. Virgin Islands Gov. Albert Bryan Jr. slammed the Department of Housing and Urban Development (HUD) after the agency suspended procurements involving the territory's housing finance authority over concerns about fraud and abuse tied to nearly $2 billion in disaster-recovery aid. Bryan, a Democrat, said HUD’s suspension came as a \"shock\" and called HUD's letter \"unprofessional.\" He claimed the U.S. Virgin Islands' disaster-recovery issues have been \"sensationalized\" and that the suspension is an \"overreach.\". \"[W]hy does the press have it and why does Fox News in particular have it and why are we only hearing about this now?\" Bryan fumed – as Fox News Digital exclusively broke the news Tuesday.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 8
+    },
+    {
+      "title": "Zohran Mamdani puts his democratic-socialist version of DOGE to the test - NBC News",
+      "url": "https://www.nbcnews.com/politics/politics-news/zohran-mamdani-democratic-socialist-doge-test-rcna369395",
+      "snippet": "IE 11 is not supported. For an optimal experience visit our site on another browser. # Zohran Mamdani puts his democratic-socialist version of DOGE to the test. The New York mayor’s government efficiency effort is a potential path forward for Democrats around the country. But some are concerned he’s moving too fast. New York Mayor Zohran Mamdani has created the Commission on Government Efficiency, or COGE, which seeks to streamline government and cut red tape.Roshni Khatri for NBC News. Add NBC News to Google. For roughly three hours last week, New Yorkers testified before roughly a dozen commissioners chosen by New York City Mayor Zohran Mamdani to lead one of his signature initiatives: how to make government more efficient. We are getting your experience ready.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 9
+    },
+    {
+      "title": "India's Cockroach movement supporters gather to attempt a march to Parliament - Greenwich Time",
+      "url": "https://www.greenwichtime.com/news/world/article/india-s-cockroach-movement-supporters-gather-to-22351768.php",
+      "snippet": "# India's Cockroach movement supporters gather to attempt a march to Parliament. NEW DELHI (AP) — Thousands of supporters of the youth-led Cockroach movement gathered Monday to march to India's Parliament, demanding the resignation of the education minister despite police denying permission for the protest. Scores of police surrounded the barricaded protest site ​of Jantar Mantar in the heart of New Delhi, raising the prospect of a confrontation just a few kilometers from Parliament if demonstrators pressed ahead with the march. Ada's coffee and candy shop on course to reopen in Riverside part of Greenwich. They are demanding the resignation of Education Minister Dharmendra Pradhan, reforms to the examination system and compensation for the families of students who died by suicide following paper leaks. Before the march, Wangchuk said he would end his nearly three-week hunger strike only if the government took responsibility for failures in the education system and exam paper leaks, or if protesters were allowed to reach Parliament and lawmakers pledged to raise the issues in both Houses.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10
+    },
+    {
+      "title": "India's cockroach movement supporters gather to march despite police ban - Reuters",
+      "url": "https://www.reuters.com/world/india/indias-cockroach-movement-supporters-gather-march-despite-police-ban-2026-07-20/",
+      "snippet": "## Browse World. Item 1 of 5 Supporters of the Cockroach Janta Party (CJP) chant slogans and wave their mobile phones with their flashlights on as they gather after the Indian education reformer Sonam Wangchuk, who had been on a hunger strike, was taken to a hospital by authorities on Saturday during a sit-in protest demanding the resignation of Indian Education Minister Dharmendra Pradhan, at Jantar Mantar in New Delhi, India, July 19, 2026. **[1/5]**Supporters of the Cockroach Janta Party (CJP) chant slogans and wave their mobile phones with their flashlights on as they gather after the Indian education reformer Sonam Wangchuk, who had been on a hunger strike, was taken to a hospital by authorities on Saturday during a sit-in protest... NEW DELHI, July 20 (Reuters) - Hundreds of supporters of India's youth-led \"cockroach\" movement gathered in the capital New Delhi on Monday to march ‌on parliament, seeking the resignation of the education minister despite police denying permission for the protest.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1251",
+    "text": "Never said Modi was in hurry to become PM: Ramdev",
+    "lang": "english"
+  },
+  "entity_ranked_evidence": [
+    {
+      "title": "Never said Modi was in hurry to become PM: Ramdev",
+      "url": "https://www.firstpost.com/politics/never-said-modi-was-in-hurry-to-become-pm-ramdev-1437931.html",
+      "snippet": "Yoga guru Baba Ramdev today said he never said that Narendra Modi, BJP's Prime Ministerial candidate, was “in a hurry” to get to the top post.",
+      "bm25_score_raw": 1.9572692030815442,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9153273701667786,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1,
+      "entity_overlap_raw": 2,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 1
+    },
+    {
+      "title": "Ramdev offers conditional support to Modi",
+      "url": "https://www.thehindu.com/news/national/ramdev-offers-conditional-support-to-modi/article5538219.ece",
+      "snippet": "Ramdev offers conditional support to Modi Yoga guru's demands include scrapping all existing taxes, the implementation of a single bank",
+      "bm25_score_raw": 1.1608415562376837,
+      "bm25_score_norm": 0.22260142171428468,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8190512657165527,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6,
+      "entity_overlap_raw": 2,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 2
+    },
+    {
+      "title": "Baba Ramdev hails PM Modi's 'strong' leadership, calls ...",
+      "url": "https://www.indiatvnews.com/news/india/baba-ramdev-hails-pm-modi-s-strong-leadership-calls-him-a-brave-and-humble-leader-2025-09-18-1008823",
+      "snippet": "Yoga guru Swami Ramdev on Thursday hailed Prime Minister Narendra Modi for his strong leadership that forced US President Donald Trump to",
+      "bm25_score_raw": 0.932791323793281,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8304929137229919,
+      "embedding_score_norm": 0.11884203325192154,
+      "embedding_rank": 3,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 3
+    },
+    {
+      "title": "Baba Ramdev calls on PM Modi",
+      "url": "https://www.youtube.com/watch?v=mTxB_N1Yz4I",
+      "snippet": "Baba Ramdev calling on the Prime Minister, Shri Narendra Modi, in New Delhi on November 04, 2014.",
+      "bm25_score_raw": 1.0350947799510282,
+      "bm25_score_norm": 0.09985911675205772,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8275952339172363,
+      "embedding_score_norm": 0.08874443195923838,
+      "embedding_rank": 4,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 4
+    },
+    {
+      "title": "Never said Narendra Modi was in hurry to become PM",
+      "url": "https://indianexpress.com/article/political-pulse/never-said-narendra-modi-was-in-hurry-to-become-pm-baba-ramdev",
+      "snippet": "Baba Ramdev on Monday said he never said that Narendra Modi, BJP's Prime Ministerial candidate, was “in a hurry” to get to the top post.",
+      "bm25_score_raw": 1.8170578348683593,
+      "bm25_score_norm": 0.8631387060200908,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.9118199348449707,
+      "embedding_score_norm": 0.9635689941773539,
+      "embedding_rank": 2,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 5
+    },
+    {
+      "title": "Baba Ramdev joins 'Narendra Modi for PM' chorus",
+      "url": "https://www.youtube.com/watch?v=SAgf_bRnyx0",
+      "snippet": "The BJP's top leadership, including its prime ministerial hopeful Narendra Modi, shared stage with Baba Ramdev in the national capital today.",
+      "bm25_score_raw": 0.9563663223401117,
+      "bm25_score_norm": 0.02301172043188374,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8212814331054688,
+      "embedding_score_norm": 0.023164287770585885,
+      "embedding_rank": 5,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 6
+    }
+  ]
+}

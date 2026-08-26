@@ -1,0 +1,33 @@
+{
+  "claim": {
+    "id": "S2/1077",
+    "text": "Punjab & Haryana High Court Declines To Allow Candidate To Apply Under Transgender Category In Online Form For Police Constable Post",
+    "lang": "dev"
+  },
+  "ranked_evidence": [
+    {
+      "title": "Labour and Service Law Developments in 2025: Key Judgments and Legislative Updates | SCC Times",
+      "url": "https://www.scconline.com/blog/post/2026/01/07/labour-and-service-law-developments-2025-india",
+      "snippet": "While deciding the appeal challenging Punjab & Haryana High Court’s decision to uphold the selections made by the State of Punjab for the posts of Assistant Professors and Librarians in Government Degree colleges of Punjab, the Division Bench of Sudhanshu Dhulia\\ and K. Vinod Chandran, JJ., quashed the entire recruitment and directed the State to initiate the recruitment process as per the 2018 UGC Regulations which are now in force in the State of Punjab. The Court pointed out that the State [...] J., held that the said notifications were not at all arbitrary in nature but were in consonance with the respective Service Rules to choose the best available talent for performance of the duties as a Member of Superior Judicial Service. Accordingly, the Court dismissed the petition. Rushil Jindal v. Punjab & Haryana High Court, [2025 SCC OnLine P&H 9113] Read More HERE [...] In an appeal filed against the order passed by the Punjab and Haryana High Court concerning the reservation of posts in the State of Punjab’s government services, including provisions for women’s reservation, the Division Bench of Sudhanshu Dhulia\\ and K. Vinod Chandran, JJ. emphasized that no alterations could be made to the recruitment process once the advertisement was issued and deemed it unnecessary to examine the legality of the subsequent roster system for the purpose of the case. Since",
+      "bm25_score_raw": 5.982540228806691,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Supreme Court reaffirms 'general' seats open to meritorious SC/ST/OBC candidates",
+      "url": "https://timesofindia.indiatimes.com/india/supreme-court-reaffirms-general-seats-open-to-meritorious-sc/st/obc-candidates/articleshow/112724350.cms",
+      "snippet": "India News: The Supreme Court confirmed that SC/ST/OBC candidates who qualify on their own merit can compete for open seats in the general",
+      "bm25_score_raw": 0.4076723149521259,
+      "bm25_score_norm": 0.06814368133943036,
+      "bm25_rank": 2
+    },
+    {
+      "title": "CBSE Class 12th result 2026: Why students scored lower this year as pass percentage falls by 3.19%",
+      "url": "https://timesofindia.indiatimes.com/education/news/cbse-class-12th-result-2026-why-students-scored-lower-this-year-as-pass-percentage-falls-by-3-19/articleshow/131063533.cms",
+      "snippet": "News News: NEW DELHI: The Central Board of Secondary Education (CBSE) declared the Class XII board examination results on May 13, 2026,",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 3
+    }
+  ]
+}

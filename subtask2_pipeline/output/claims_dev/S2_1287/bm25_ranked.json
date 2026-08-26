@@ -1,0 +1,57 @@
+{
+  "claim": {
+    "id": "S2/1287",
+    "text": "BJP refuses to back no-trust motion against UPA govt on Telangana issue",
+    "lang": "dev"
+  },
+  "ranked_evidence": [
+    {
+      "title": "BJP refuses to back no-trust motion against UPA govt",
+      "url": "https://www.business-standard.com/article/politics/bjp-refuses-to-back-no-trust-motion-against-upa-govt-113121200967_1.html",
+      "snippet": "However, BJP insisted though it will not support the no-confidence motion, it alleged the UPA government has already lost its credibility and",
+      "bm25_score_raw": 4.008077763638028,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "BJP refuses to back no-trust motion against UPA govt on ...",
+      "url": "https://www.indiatvnews.com/politics/national/bjp-refuses-to-back-no-trust-motion-against-upa-govt-on-telangan-13854.html",
+      "snippet": "New Delhi: BJP today refused to back the no-confidence motion, a notice for which is pending with the Lok Sabha Speaker, contending it has.",
+      "bm25_score_raw": 3.61895234328633,
+      "bm25_score_norm": 0.8834449220121405,
+      "bm25_rank": 2
+    },
+    {
+      "title": "UPA stares at no-confidence motion over Telangana",
+      "url": "https://www.indiatoday.in/india/south/story/upa-government-seemandhra-region-telangana-no-confidence-motion-178919-2014-01-30",
+      "snippet": "A no-confidence motion over Telangana seems to be staring at the UPA government on the first day of Parliament session beginning on February 5",
+      "bm25_score_raw": 2.9113707519855345,
+      "bm25_score_norm": 0.6715023882082625,
+      "bm25_rank": 3
+    },
+    {
+      "title": "Lok Sabha Accepts Opposition No-Trust Motion Against BJP ...",
+      "url": "https://www.youtube.com/watch?v=Fa7s54GjKlc",
+      "snippet": "Lok Sabha Accepts Opposition No-Trust Motion Against BJP In Parliament. news across Telangana and other parts of the world",
+      "bm25_score_raw": 2.5016684419185484,
+      "bm25_score_norm": 0.5487838964209514,
+      "bm25_rank": 4
+    },
+    {
+      "title": "Open to no-trust motion against UPA govt: BJP",
+      "url": "https://m.economictimes.com/news/politics-and-nation/open-to-no-trust-motion-against-upa-govt-bjp/articleshow/17349928.cms",
+      "snippet": "Though BJP did not support TMC sponsored no-confidence motion against UPA, the party is open to the idea and will take a decision on the issue.",
+      "bm25_score_raw": 1.6180757316151593,
+      "bm25_score_norm": 0.28412059797636713,
+      "bm25_rank": 5
+    },
+    {
+      "title": "Narendra Modi government defeats no-confidence motion",
+      "url": "https://www.thehindu.com/news/national/no-confidence-motion-live-important-day-in-parliamentary-democracy-says-modi/article24468711.ece",
+      "snippet": "The BJP-led government has survived the no-confidence motion moved by the TDP and supported by other Opposition parties.",
+      "bm25_score_raw": 0.6695237763786364,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6
+    }
+  ]
+}

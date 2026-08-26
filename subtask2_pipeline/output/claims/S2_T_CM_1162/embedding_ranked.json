@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/CM/1162",
+    "text": "lover1285 susuma swaraj jaitley neh 1 min sansad nahi chalne diya tha bhokk bhok kar desh ka nuksaan kiya tha smriti yale aunty gobi neh bhook bhook kar petrol diesel ka propoganda kiya aaj khud apne sandaas par lete hai aur duniya ka ghu nikaal rahe hai bhaiya aap mutra mast raho",
+    "lang": "codemix"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "By only praising the dead politician, you are being the worst ...",
+      "url": "https://qz.com/india/1694783/arun-jaitley-sushma-swaraj-must-be-assessed-not-blindly-praised",
+      "snippet": "Much less was said about Jaitley's role in undermining the Indian parliament, though he was talked about posthumously as an able parliamentarian",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.8706177473068237,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "'Were Arun Jaitley and Sushma Swaraj anti-Indian?' | Uncut",
+      "url": "https://www.youtube.com/shorts/fy8Lc6uq8qU",
+      "snippet": "'Were Arun Jaitley and Sushma Swaraj anti-Indian?': Congress MP Pawan Khera slams BJP's Kiren Rijiju #BJP #KirenRijiju #PawanKhera",
+      "bm25_score_raw": 6.661736023012678,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8361605405807495,
+      "embedding_score_norm": 0.6885047152985602,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Sushma Swaraj vs Arun Jaitley!",
+      "url": "https://www.boloji.com/articles/11050/sushma-swaraj-vs-arun-jaitley",
+      "snippet": "Sushma Swaraj gave an interview to Outlook weekly the BJP went in an overdrive to claim that there were no differences in the highest echelons of its",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.8283864259719849,
+      "embedding_score_norm": 0.6182262373415437,
+      "embedding_rank": 3
+    },
+    {
+      "title": "A few power-greedy people ruined the glory of Bengal. ⚠️ ...",
+      "url": "https://www.facebook.com/BJP4India/posts/a-few-power-greedy-people-ruined-the-glory-of-bengal-%EF%B8%8Fbut-not-anymore-%F0%9D%90%88%F0%9D%90%A7-%F0%9D%9F%90%F0%9D%9F%8E%F0%9D%9F%90%F0%9D%9F%94-%F0%9D%90%AD%F0%9D%90%AB/1323571609817122",
+      "snippet": "A few power-greedy people ruined the glory of Bengal. The land of Vivekananda, Netaji, Bengal awakens, the whole nation feels its thunder.",
+      "bm25_score_raw": 3.1734353002403943,
+      "bm25_score_norm": 0.47636761487964996,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8258093595504761,
+      "embedding_score_norm": 0.5949293971465736,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Parliament Updates | When Priyanka Chaturvedi Read Out ...",
+      "url": "https://www.youtube.com/watch?v=9v4x_qHAP7Y",
+      "snippet": "Shiv Sena MP #PriyankaChaturvedi, read out an old speech of late #SushmaSwaraj when she was the Leader of Opposition.",
+      "bm25_score_raw": 1.1985039228575902,
+      "bm25_score_norm": 0.17990864824385272,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8233750462532043,
+      "embedding_score_norm": 0.5729230540435396,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Historic Speeches of Sushma Swaraj in Parliament | संसद में ...",
+      "url": "https://www.youtube.com/watch?v=cWGwXhSVezo",
+      "snippet": "Sushma Swaraj was a powerful orator who knew how to make bold speeches and win hearts across party lines.",
+      "bm25_score_raw": 1.1700996165884177,
+      "bm25_score_norm": 0.17564484881213535,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8214542865753174,
+      "embedding_score_norm": 0.5555592674933751,
+      "embedding_rank": 6
+    },
+    {
+      "title": "Remembering Late Sushma Swaraj Ji, former Foreign Minister ...",
+      "url": "https://www.facebook.com/KirenRijiju/videos/remembering-late-sushma-swaraj-ji-former-foreign-minister-and-leader-of-oppositi/2661789094180781",
+      "snippet": "Remembering Late Sushma Swaraj Ji, former Foreign Minister and Leader of Opposition. ओजस्वी वाणी की धनी, संवेदनशीलता और सेवा की सजीव प्रतीक आदरणीया श्रीमती सुषमा स्वराज",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.8201686143875122,
+      "embedding_score_norm": 0.5439367112206971,
+      "embedding_rank": 7
+    },
+    {
+      "title": "Greedy breed of Indian political leaders",
+      "url": "https://www.moneylife.in/article/greedy-breed-of-indian-political-leaders/18673.html",
+      "snippet": "The government survived through murky horse-trading in Parliament. Recordings of a 'sting operation' carried out by a leading television channel captured these",
+      "bm25_score_raw": 2.4448077077037427,
+      "bm25_score_norm": 0.36699258260283213,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.818791925907135,
+      "embedding_score_norm": 0.5314913620213442,
+      "embedding_rank": 8
+    },
+    {
+      "title": "On her birthday, we remember not just her words, but her ...",
+      "url": "https://www.instagram.com/reel/DUvi48egQ4Q",
+      "snippet": "On 11 June 1996, Sushma Swaraj delivered a speech in Parliament that became one of the most discussed interventions on the idea of secularism",
+      "bm25_score_raw": 1.092428591025081,
+      "bm25_score_norm": 0.16398557181661563,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8112379312515259,
+      "embedding_score_norm": 0.46320278208542176,
+      "embedding_rank": 9
+    },
+    {
+      "title": "Gone too soon, Sushma Swaraj: Leaders pay tributes to the ...",
+      "url": "https://www.youtube.com/watch?v=QR1lJEnpMR0",
+      "snippet": "Sushma Swaraj, a veteran leader of the Bharatiya Janata Party (BJP) died on August 6, 2019, following a heart attack. She was 67. had been",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.8096007108688354,
+      "embedding_score_norm": 0.4484022083395748,
+      "embedding_rank": 10
+    },
+    {
+      "title": "India's Best-Loved Politician",
+      "url": "https://www.wsj.com/articles/indias-best-loved-politician-1500937541?eafs_enabled=false",
+      "snippet": "Sushma Swaraj wins admirers by helping citizens abroad. she has become India's best-loved official, mostly due to her tireless attention to",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.7919604778289795,
+      "embedding_score_norm": 0.28893340819473734,
+      "embedding_rank": 11
+    },
+    {
+      "title": "सुषमा स्वराज - विकिपीडिया",
+      "url": "https://awa.wikipedia.org/wiki/%E0%A4%B8%E0%A5%81%E0%A4%B7%E0%A4%AE%E0%A4%BE_%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A4%B0%E0%A4%BE%E0%A4%9C",
+      "snippet": "विकिपीडिया. * स्रोत सम्पादित करा जाय. अक्टूबर १९९८ में उ केंद्रीय मंत्रिमंडल से इस्तीफा दे दिहिन, अउर १२ अक्टूबर १९९८ का दिल्ली की पहिला महिला मुख्यमंत्री के रूप मा कार्यभार ग्रहण कई दिहिन। हालाँकी, ३ दिसम्बर १९९८ के उ आपन विधानसभा सीट से इस्तीफा दे दिहिस, अउर फिर से राष्ट्रीय राजनीति मा फिर से लौटि गै। सितम्बर १९९९ मा ऊ कर्नाटक के बेलारी निर्वाचन क्षेत्र से कांग्रेस पार्टी की राष्ट्रीय अध्यक्ष सोनिया गांधी के खिलाफ चुनाव लड़े रहिन। आपन चुनावी अभियान के दौरान उहौ स्थानीय कन्नड़ भासा मा ही सार्वजनिक सभा का संबोधित करिन। फिर भी वो ७ प्रतिशत का अंतर से चुनाव हार गईं। अप्रैल २००० मा ऊ उत्तर प्रदेश से राज्यसभा सदस्य के रूप मा संसद मा वापस आइ गइन। ९ नवम्बर २००० का उत्तर प्रदेश के विभाजन पर उनका उत्तराखण्ड मा स्थानांतरित कर दियल गईल। [ २०] उ केंद्रीय मंत्रिमंडल मा सूचना अउर प्रसारण मंत्री के रूप मा फिर से सम्मिलित हइन, जेकर पद सितम्बर २००० से जनवरी २००३ तक रही। २००३ मा ऊ स्वास्थ्य, परिवार कल्याण अउर संसदीय मामिला मंत्री बनाइन, अउर मई २००४ मा राजग की हार तक ऊ केंद्रीय मंत्री रही।.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.7599990367889404,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

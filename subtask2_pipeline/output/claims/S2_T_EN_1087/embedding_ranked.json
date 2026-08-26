@@ -1,0 +1,76 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1087",
+    "text": "Noida records 45 fresh Covid-19 cases in 24 hours, active cases at 511",
+    "lang": "english"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Noida records 45 fresh Covid-19 cases in 24 hours, active cases at 323",
+      "url": "https://www.indiatoday.in/amp/cities/noida/story/noida-news-city-records-fresh-covid-cases-death-toll-1974181-2022-07-11",
+      "snippet": "Noida logged 45 new Covid-19 cases in the last 24 hours, taking the total active cases to 323. The city has recorded a marginal decline in",
+      "bm25_score_raw": 7.606462436107917,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9294230937957764,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Record 15 COVID-19 deaths in 24 hours in Noida, 655 new cases",
+      "url": "https://www.republicworld.com/amp/india/record-15-covid-19-deaths-in-24-hours-in-noida-655-new-cases-official-data",
+      "snippet": "Record 15 COVID-19 deaths in 24 hours in Noida, 655 new cases: official data showing 15 people succumbed to the viral disease … overall tally",
+      "bm25_score_raw": 0.8824698735295814,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8641418814659119,
+      "embedding_score_norm": 0.39194172342499795,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Noida's Nithari Sector-31, Sector-30, Sector-45 and more report fresh ...",
+      "url": "https://www.indiatvnews.com/amp/news/india/noida-new-coronavirus-cases-sector-31-sector-45-nithari-sector-30-greater-noida-full-list-614070",
+      "snippet": "At least 12 fresh cases of the coronavirus have been detected in Noida and Greater Noida in the last 24 hours. 179 COVID-19 positive patients",
+      "bm25_score_raw": 3.5043243661387002,
+      "bm25_score_norm": 0.3899252517322477,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.85344398021698,
+      "embedding_score_norm": 0.2922967082018472,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Covid-19 News: India Reports 4435 Fresh Covid Cases In Past 24 ...",
+      "url": "https://www.youtube.com/watch?v=bIslHmsYeUk",
+      "snippet": "India reported 4,435 fresh Covid cases in the last 24 hours with 15 deaths, the Union health ministry data stated on Wednesday.",
+      "bm25_score_raw": 1.7976088785746547,
+      "bm25_score_norm": 0.1361005379658184,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8481988906860352,
+      "embedding_score_norm": 0.24344160905705295,
+      "embedding_rank": 4
+    },
+    {
+      "title": "India records nearly 45000 fresh Covid cases, 684 more fatalities",
+      "url": "https://www.business-standard.com/amp/article/current-affairs/india-records-nearly-45-000-fresh-covid-cases-684-more-fatalities-122021300155_1.html",
+      "snippet": "India logged 44,877 infections, while the death toll climbed to 5,08,665 with 684 fresh fatalities, the data updated at 8 am stated. A total of",
+      "bm25_score_raw": 0.8932928063414363,
+      "bm25_score_norm": 0.0016095991646523746,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8313979506492615,
+      "embedding_score_norm": 0.08695017332850694,
+      "embedding_rank": 5
+    },
+    {
+      "title": "India Records 92596 Fresh Covid Cases & 2219 Deaths In Last 24 ...",
+      "url": "https://www.youtube.com/watch?v=dTdcR1iyqjU",
+      "snippet": "India Records 92596 Fresh Covid Cases & 2219 Deaths In Last 24 Hours | Breaking News\nIndia Today\n11300000 subscribers\n72 likes\n9177 views\n9 Jun 2021\nIndia has recorded 92596 fresh covid19 cases and 2219 deaths in the last 24 hours. This is the 2nd consecutive day where India has recorded less than 1 lakh daily cases. India also reported  1.62 lakh recoveries in the last 24 hours. \n\n#CovidCrisis #CovidUpdates #IndiaToday #IndiaTodayLiveTV\n\nSubscribe to India Today for NEW VIDEOS EVERY DAY and make sure to enable Push Notifications so you'll never miss a new video. \nAll you need to do is PRESS THE BELL ICON next to the Subscribe button! \nIndia Today TV is India's leading English News Channel. India Today YouTube channel offers latest news videos on Politics, Business, Cricket, Bollywood, Lifestyle, Auto, Technology, Travel, Entertainment and a lot more. \n\nStay tuned for latest updates and in-depth analysis of news from India and around the world! \n\n\n\nFollow us: Official website: https://www.indiatoday.in/\n\nTwitter: https://twitter.com/IndiaToday \n\nFacebook: https://www.facebook.com/IndiaToday\n\nTelegram: https://t.me/indiatodayofficial\n22 comments\n",
+      "bm25_score_raw": 1.2908228977937382,
+      "bm25_score_norm": 0.06073073705298278,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8220629692077637,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6
+    }
+  ]
+}

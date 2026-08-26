@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/HI/1061",
+    "text": "सुप्रीम कोर्ट ने JEE(Advanced) के लिए प्रयासों की संख्या कम करने के फैसले की समीक्षा करने का आदेश दिया।",
+    "lang": "hindi"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "JEE-Advanced: Supreme Court agrees to hear plea against cut in ...",
+      "url": "https://www.moneycontrol.com/education/jee-advanced-supreme-court-agrees-to-hear-plea-against-cut-in-exam-attempts-article-12907156.html/amp",
+      "snippet": "The Supreme Court has agreed to hear a petition challenging the decision to reduce the number of permissible attempts for the Joint Entrance Examination (JEE)-",
+      "bm25_score_raw": 2.1888938319643505,
+      "bm25_score_norm": 0.3272366204413734,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.9190095067024231,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "IIT-JEE : Supreme Court Refuses To Review Reduction Of ...",
+      "url": "https://www.livelaw.in/amp/top-stories/supreme-court-refuses-to-interfere-with-reduction-of-jeeadvanced-attempts-allows-petitioners-who-dropped-out-between-nov-5-nov-18-2024-to-register-280536",
+      "snippet": "The Supreme Court today refused to interfere with the decision of the authorities to reduce the attempts for Joint Entrance Examination (Advanced) from three",
+      "bm25_score_raw": 3.6184258158370164,
+      "bm25_score_norm": 0.5409496879205467,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.9130150079727173,
+      "embedding_score_norm": 0.9576258760616599,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Supreme Court to Review Plea Against Reduction of JEE ...",
+      "url": "https://timesofindia.indiatimes.com/education/news/supreme-court-to-review-plea-against-reduction-of-jee-advanced-attempts-from-three-to-two/amp_articleshow/117090166.cms",
+      "snippet": "Supreme Court to Review Plea Against Reduction of JEE-Advanced Attempts from Three to Two. PTI / Updated: Jan 9, 2025, 19:44 IST. Supreme",
+      "bm25_score_raw": 3.5127439995564327,
+      "bm25_score_norm": 0.5251504015884503,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.9078465700149536,
+      "embedding_score_norm": 0.9210910396282811,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Supreme Court says no third attempt for JEE (Advanced), but leeway for ...",
+      "url": "https://www.indiatoday.in/amp/india/law-news/story/supreme-court-no-third-attempt-for-jee-advanced-2025-relief-dropout-aspirants-2662783-2025-01-10",
+      "snippet": "The Supreme Court refused to interfere with the decision to reduce the number of attempts for JEE (Advanced) from three to two, but allowed",
+      "bm25_score_raw": 3.7741601306638386,
+      "bm25_score_norm": 0.564231754015524,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8924175500869751,
+      "embedding_score_norm": 0.8120258396582801,
+      "embedding_rank": 4
+    },
+    {
+      "title": "JEE Attempts Won't Change From 2 To 3, Top Court Refuses To Interfere",
+      "url": "https://www.youtube.com/watch?v=IW3t6YdQcVE",
+      "snippet": "The Supreme Court has refused to intervene with the decision of exam authority Joint Admission Board (JAB) to reduce the attempts of the Joint",
+      "bm25_score_raw": 3.537872251118439,
+      "bm25_score_norm": 0.5289070406719331,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8862806558609009,
+      "embedding_score_norm": 0.7686451454154914,
+      "embedding_rank": 5
+    },
+    {
+      "title": "[IIT-JEE Exam] SC Allows Registration for Dropout Students, Refuses to ...",
+      "url": "https://lawbeat.in/amp/top-stories/iit-jee-supreme-court-allows-registration-dropout-students-refuses-review-jee-advanced-attempt-reduction",
+      "snippet": "While refusing to review the reduction of JEE Advanced attempts, the Supreme Court of India on Friday, January 10, granted relief to drop-out",
+      "bm25_score_raw": 6.689024684987862,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.876794159412384,
+      "embedding_score_norm": 0.7015866649026757,
+      "embedding_rank": 6
+    },
+    {
+      "title": "Joint Entrance Examination – Main - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Joint_Entrance_Examination_%E2%80%93_Main",
+      "snippet": "+ 3.2 JEE (Main) 2020 Assam topper scam_2020_Assam_topper_scam). - 3.4.1 JEE(Main) 2024 Session 1 (January)_2024_Session_1_(January)). - 3.4.2 JEE(Main) 2024 Session 2 (April)_2024_Session_2_(April)). + 3.5 JEE(Main) 2025 Session 2 (April) Irregularities in the Final Results_2025_Session_2_(April)_Irregularities_in_the_Final_Results). # Joint Entrance Examination – Main. The **Joint Entrance Examination – Main** (**JEE–Main**), formerly **All India Engineering Entrance Examination** (**AIEEE**), is an Indian standardized computer-based test for admission to various technical undergraduate programs in engineering, architecture, and planning across colleges in India. The exam is conducted by the National Testing Agency for admission to B.Tech, B.Arch, B.Planning etc. The AIEEE was introduced in 2002, since the newly established NITs \"National Institutes of Technology (India)\"), IIITs and GFTIs wanted an entrance examination paper of a higher standard than the Common Engineering Test (CET), which was formerly used for admission to all non-IIT engineering colleges and some state government colleges (by a few states), including RECs and IIITs, owing mostly to the rising competition and the goal of maintaining the exclusiveness of such institutes of national importance.",
+      "bm25_score_raw": 0.646626415718075,
+      "bm25_score_norm": 0.09666976071553374,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.8379110097885132,
+      "embedding_score_norm": 0.4267280861344414,
+      "embedding_rank": 7
+    },
+    {
+      "title": "JEE Full Form: What Is JEE, Mains and Advanced Explained",
+      "url": "https://www.jainuniversity.ac.in/blogs/jee-full-form",
+      "snippet": "We’re testing a beta version of the new JAIN (Deemed-to-be University) website, designed to make exploring programmes,. # JEE Full Form. JEE full form in English is Joint Entrance Examination. If you aim to study engineering in prestigious institutes like the IITs, you must clear the JEE exam. The blog helps you understand the JEE full form and key details you need to know before planning your next step. ## **What is the Full Form of JEE?**. You can quickly understand the JEE meaning with the help of the JEE full form. The JEE exam has two levels: JEE Main, conducted by the National Testing Agency (NTA), and JEE Advanced, conducted by the IITs (on a rotational basis). Once again, know that the JEE Mains full form is the Joint Entrance Examination. ## **What is JEE?**. You have now understood the full form of JEE and the two levels of the JEE exam. ## **What is the Exam Pattern of JEE?**.",
+      "bm25_score_raw": 3.993851022351798,
+      "bm25_score_norm": 0.5970752404779092,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8301345109939575,
+      "embedding_score_norm": 0.3717572973187057,
+      "embedding_rank": 8
+    },
+    {
+      "title": "JEE Full Form",
+      "url": "https://www.vedantu.com/jee-main/jee-full-form",
+      "snippet": "## JEE Full Form - Its Importance For Engineering Aspirants. ## Full Form of JEE and its Importance. This is a selection process for the students who want to get admission in the top engineering institutes across the world. The candidates who can successfully pass the JEE main exam can appear in the JEE advance exam. This is the first milestone that the students need to cross to get admitted to the best colleges across the country. ### What is the Importance of the JEE Exam? The key reason for this examination is to select the best students out of the rest. If you score high on the JEE exam, then you will get the chance to study in the top universities. If you pass the JEE main exam next, you will have to appear in the JEE Advanced. If you give both of these exams, you will get the chance to study in the IITs. The JEE main exam comprises Paper 1 and Paper 2.",
+      "bm25_score_raw": 1.8179362344666028,
+      "bm25_score_norm": 0.27177896929377254,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.8220151662826538,
+      "embedding_score_norm": 0.3143629872006728,
+      "embedding_rank": 9
+    },
+    {
+      "title": "What Is JEE? Eligibility Criteria, Application, and Preparation",
+      "url": "https://www.coursera.org/in/articles/what-is-jee",
+      "snippet": "# What Is JEE? Learn important details about the Joint Entrance Examination, India’s national-level engineering entrance examination, including how to prepare. The Joint Entrance Examination (JEE) is a competitive examination required to enter some of India’s preeminent engineering universities, colleges, and institutions. If you’re considering a career in engineering, understanding the JEE  and what’s involved in preparing for it could significantly affect your performance. ## What is the JEE Exam? JEE stands for Joint Entrance Exam, a national engineering entrance examination administered by NTA. The JEE exam involves candidates who clear two examination levels: JEE (Main) and JEE (Advanced). The mission of JEE (Main) includes two testing sessions, Paper 1 and Paper 2. The objective of Paper 1 is to categorise candidates suitable for sitting in JEE (Advanced) or gaining admission to a Bachelor of Engineering (BE) or Bachelor of Technology (BTech) undergraduate programme at one of the following types of institutions:. As of 2025, the JEE (Main) entrance examination has two sessions.",
+      "bm25_score_raw": 1.7758884050477244,
+      "bm25_score_norm": 0.26549287656739257,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.8137849569320679,
+      "embedding_score_norm": 0.2561849932122865,
+      "embedding_rank": 10
+    },
+    {
+      "title": "Joint Entrance Examination",
+      "url": "https://en.wikipedia.org/wiki/Joint_Entrance_Examination",
+      "snippet": "The Joint Seat Allocation Authority (JoSAA) conducts the joint admission process for a total of 23 Indian Institutes of Technology (IITs), 31 National Institutes of Technology (NITs), 25 Indian Institutes of Information Technology (IIITs) campuses and other Government Funded Technical Institutes (GFTIs) based on the rank obtained by a student in JEE–Main or JEE–Advanced, depending on the engineering college.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.8112104535102844,
+      "embedding_score_norm": 0.23798625266810652,
+      "embedding_rank": 11
+    },
+    {
+      "title": "jee, adv. & int. meanings, etymology and more",
+      "url": "https://www.oed.com/dictionary/jee_adv",
+      "snippet": "# Oxford English Dictionary. ## The historical English dictionary. An unsurpassed guide for researchers in any discipline to the meaning, history, and usage of over 500,000 words and phrases across the English-speaking world. ## Word of the Day. Sign up to receive the Oxford English Dictionary Word of the Day email every day. Read our collection of word stories detailing the etymology and semantic development of a wide range of words, including ‘dungarees’, ‘codswallop’, and ‘witch’. Access our word lists and commentaries on an array of fascinating topics, from film-based coinages to Tex-Mex terms. Explore our World Englishes hub and access our resources on the varieties of English spoken throughout the world by people of diverse cultural backgrounds. ## History of English. Here you can find a series of commentaries on the History of English, charting the history of the English language from Old English to the present day. ## Sign in. ## Word of the day.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.7775434851646423,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

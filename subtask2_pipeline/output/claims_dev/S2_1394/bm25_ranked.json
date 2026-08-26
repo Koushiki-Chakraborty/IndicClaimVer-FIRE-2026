@@ -1,0 +1,57 @@
+{
+  "claim": {
+    "id": "S2/1394",
+    "text": "Ganguly issue: Ambika Soni says people in position must quit",
+    "lang": "dev"
+  },
+  "ranked_evidence": [
+    {
+      "title": "Ganguly issue: Ambika Soni says people in position must quit | National",
+      "url": "https://www.indiatvnews.com/amp/politics/national/ganguly-issue-ambika-soni-says-people-in-position-must-quit-13708.html",
+      "snippet": "Ambika Soni today said those occupying high offices must step down, whether guilty or not, as it only increases their moral stature.",
+      "bm25_score_raw": 11.535130711883777,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Congress leader Ambika Soni resigns from party posts",
+      "url": "https://www.newindianexpress.com/amp/story/india/2017/Jul/21/congress-leader-ambika-soni-resigns-from-party-posts-1631693.html",
+      "snippet": "Congress leader Ambika Soni resigns from party posts. From 2006 to 2009, Soni served as the Minister of Tourism and Minister of Culture. She",
+      "bm25_score_raw": 1.4130571472616966,
+      "bm25_score_norm": 0.036531136527914725,
+      "bm25_rank": 2
+    },
+    {
+      "title": "Ambika Soni Resigns As Congress' Uttarakhand In-charge",
+      "url": "https://www.youtube.com/watch?v=EBgm0deeRro",
+      "snippet": "Ambika Soni has submitted her resignation as Congress' Uttarakhand in-charge, the party is yet to take accept her resignation.",
+      "bm25_score_raw": 1.3877968479826235,
+      "bm25_score_norm": 0.03412673670983437,
+      "bm25_rank": 3
+    },
+    {
+      "title": "Ambika Soni rejects reports of quitting Congress",
+      "url": "https://m.rediff.com/amp/news/report/ambika-soni-rejects-reports-of-quitting-congress/20170721.htm",
+      "snippet": "Congress general secretary Ambika Soni on Friday dismissed reports of her resignation from the party, saying she had asked the leadership to lighten her duties",
+      "bm25_score_raw": 1.305894083183649,
+      "bm25_score_norm": 0.02633082777750922,
+      "bm25_rank": 4
+    },
+    {
+      "title": "Ambika Soni dismisses reports of her resignation from Congress",
+      "url": "https://timesofindia.indiatimes.com/india/ambika-soni-dismisses-reports-of-her-resignation-from-congress/amp_articleshow/59701426.cms",
+      "snippet": "\"There is no question of resigning,\" Soni said. \"I had myself asked the party leadership to lighten my duties in the party due to my health,\"",
+      "bm25_score_raw": 1.074826794762823,
+      "bm25_score_norm": 0.004336704109163626,
+      "bm25_rank": 5
+    },
+    {
+      "title": "Ambika Soni wants to leave charge of hilly states, 'not quitting Congress'",
+      "url": "https://www.hindustantimes.com/india-news/ambika-soni-wants-to-leave-charge-of-hilly-states-quashes-reports-of-quitting-congress/story-DabhKo6vBwPNyY3Zj0s8xN_amp.html",
+      "snippet": "“There is no question of resigning,” Soni told PTI. “I had myself asked the party leadership to lighten my duties in the party due to my health,",
+      "bm25_score_raw": 1.0292659679575207,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6
+    }
+  ]
+}

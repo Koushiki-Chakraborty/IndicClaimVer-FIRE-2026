@@ -1,0 +1,57 @@
+{
+  "claim": {
+    "id": "S2/1151",
+    "text": "Covid-19 survivor story: Malayali frontline worker's recovery after 6 months of treatment",
+    "lang": "dev"
+  },
+  "ranked_evidence": [
+    {
+      "title": "Today we bring to you the story of a Covid Warrior who ...",
+      "url": "https://www.facebook.com/AsterHealthcare/posts/today-we-bring-to-you-the-story-of-a-covid-warrior-who-pushed-through-several-hu/5187496724608812",
+      "snippet": "Mayella's perseverance to push through all odds, she finally recovered and has now been reunited with her children. We applaud Dr. Mayella for ...Read more",
+      "bm25_score_raw": 6.796796349266919,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Covid-19 survivor story: Malayali frontline worker's ...",
+      "url": "https://www.indiatoday.in/coronavirus-outbreak/story/covid-19-survivor-story-malayali-frontline-worker-inspiring-recovery-after-six-months-intense-treatment-1905527-2022-01-28",
+      "snippet": "Jan 28, 2022 — After breathing for 118 days with the help of an artificial lung, he made a miraculous and inspiring recovery in his fight against Covid-19.Read more",
+      "bm25_score_raw": 4.6814000414864685,
+      "bm25_score_norm": 0.6887656773755462,
+      "bm25_rank": 2
+    },
+    {
+      "title": "Abu Dhabi: 'Hero' Covid-19 survivor returns to frontline ...",
+      "url": "https://burjeel.com/news/abu-dhabi-hero-covid-19-survivor-returns-to-frontline-after-450-days-long-recovery",
+      "snippet": "Covid-19 survivor returns to frontline after 450 days-long recovery He suffered damage to his lungs, cardiac arrests, was unable to breathe without oxygen",
+      "bm25_score_raw": 3.687989656570104,
+      "bm25_score_norm": 0.542607055891542,
+      "bm25_rank": 3
+    },
+    {
+      "title": "COVID-19 Survivor: “I pray that no one has to go through ...",
+      "url": "https://www.youtube.com/watch?v=P-g-28T21CY",
+      "snippet": "Malayali nurse escaped from the deadly grip of #COVID19. He along with his family are blessed to have recovered from #coronavirus.",
+      "bm25_score_raw": 1.5963751467228007,
+      "bm25_score_norm": 0.2348717049459604,
+      "bm25_rank": 4
+    },
+    {
+      "title": "The Meaning in Life and Courage of Malaysian Frontliners ...",
+      "url": "http://www.pertanika.upm.edu.my/resources/files/Pertanika%20PAPERS/JSSH%20Vol.%2030%20(2)%20Jun.%202022/11%20JSSH-8291-2021.pdf",
+      "snippet": "& Hum. 30 (2): 623 - 640 (2022) SOCIAL SCIENCES & HUMANITIES Journal homepage: http://www.pertanika.upm.edu.my/ Article history: Received: 31 July 2021 Accepted: 12 February 2022 Published: 15 June 2022 ARTICLE INFO E-mail addresses: ksyasyila@gmail.com (Kalaivanan Syasyila) ginlim17@gmail.com (Lim Lee Gin) zhooriyati@ucsiuniversity.edu.my (Zhooriyati Sehu Mohamad) *Corresponding author ISSN: 0128-7702 e-ISSN: 2231-8534 © Universiti Putra Malaysia Press DOI: https://doi.org/10.47836/pjssh.30.2.11 The Meaning in Life and Courage of Malaysian Frontliners During COVID-19 Kalaivanan Syasyila, Lim Lee Gin and Zhooriyati Sehu Mohamad* Department of Psychology, Faculty of Social Science and Liberal Arts, UCSI University, 56000 Kuala Lumpur, Malaysia In that manner, it would allocate a sense of reassurance to the frontliners. P08: But we give them [patients] reassurance, nothing to worry, we already disinfect the clinic [because Meaning in Life & Courage: Malaysian COVID-19 Frontliners Pertanika J. As for the research limitation, the deficiency lies in Meaning in Life & Courage: Malaysian COVID-19 Frontliners Pertanika J.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 5
+    },
+    {
+      "title": "12 Stories of Frontline Workers Helping Others During ...",
+      "url": "https://time.com/collections/coronavirus-heroes/5816885/frontline-workers-coronavirus",
+      "snippet": "Here, as part of TIME’s new issue, frontline workers of all types share their triumphs and fears in their own voices. There’s a few people that might be going to the grocery store. And some people have essential jobs they have to go to. I feel proud to be able to do my part, especially for the ones that may be going to the hospital because they’re worried that they have it, so they can get checked out. I was in the military, so I still have that sense of honor. I want to do everything I can to make sure that people are taken care of and protected. My employer moved the standing line back so that we’re kind of in an isolated area, and people are now coming in and out the backdoor, so there’s no more up-close personal contact with people coming near the fare box. So we’re doing our best to fight something that we don’t know, and I’m just trying to do my part.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6
+    }
+  ]
+}

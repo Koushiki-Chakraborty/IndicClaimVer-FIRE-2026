@@ -1,0 +1,57 @@
+{
+  "claim": {
+    "id": "S2/1106",
+    "text": "Agra: Fewer curbs expected at Taj Mahal, other tourist places despite Covid cases spike",
+    "lang": "dev"
+  },
+  "ranked_evidence": [
+    {
+      "title": "Taj Mahal reopens for tourists as India eases COVID curbs",
+      "url": "https://www.aljazeera.com/news/2021/6/16/taj-mahal-reopens-for-tourists-as-india-eases-covid-curbs",
+      "snippet": "Only 650 tourists will be allowed inside the premises of the Taj Mahal at any point in time, Prabhu Singh, the district magistrate of Agra said",
+      "bm25_score_raw": 6.065957581283893,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Agra: More curbs likely at Taj Mahal, other tourist places as ...",
+      "url": "https://www.indiatoday.in/coronavirus-outbreak/story/agra-more-curbs-likely-at-taj-mahal-other-tourist-places-as-covid-cases-spike-1900122-2022-01-14",
+      "snippet": "Agra: More curbs likely at Taj Mahal, other tourist places as Covid cases spike. The Taj Mahal, which attracts the maximum number of tourists",
+      "bm25_score_raw": 4.187796955317082,
+      "bm25_score_norm": 0.5993567373947113,
+      "bm25_rank": 2
+    },
+    {
+      "title": "Taj Mahal reopens",
+      "url": "https://www.dw.com/en/taj-mahal-reopens-new-7-world-wonders-and-the-pandemic/a-57906849",
+      "snippet": "India's Taj Mahal is among the so-called New Seven Wonders of the World that has seen tourist numbers plummet due to the COVID-19 pandemic.",
+      "bm25_score_raw": 3.2751871576953784,
+      "bm25_score_norm": 0.40468171239971246,
+      "bm25_rank": 3
+    },
+    {
+      "title": "Agra's Taj Mahal was opened to tourists after 188 days ...",
+      "url": "https://www.facebook.com/TheAssamTribune/posts/agras-taj-mahal-was-opened-to-tourists-after-188-days-of-its-covid-19-led-closur/10161504315215898",
+      "snippet": "Taj Mahal was opened to tourists after 188 days of its COVID-19-led closure. daily numbers capped at 5,000. Taj Mahal increased slowly from a",
+      "bm25_score_raw": 1.898688653939902,
+      "bm25_score_norm": 0.11105142120350163,
+      "bm25_rank": 4
+    },
+    {
+      "title": "Thousands Flock to India's Taj Mahal Despite Coronavirus ...",
+      "url": "https://www.voanews.com/a/covid-19-pandemic_thousands-flock-indias-taj-mahal-despite-coronavirus-fears/6200138.html",
+      "snippet": "India has raised the number of visitors it will allow into the Taj Mahal monument to 15,000 per day despite warnings from health officials",
+      "bm25_score_raw": 1.6945887461044657,
+      "bm25_score_norm": 0.06751347676888494,
+      "bm25_rank": 5
+    },
+    {
+      "title": "Taj Mahal reopens for tourists as India eases COVID-19 curbs",
+      "url": "https://www.reuters.com/world/india/india-reports-62224-new-covid-19-cases-2542-deaths-2021-06-16",
+      "snippet": "Exclusive news, data and analytics for financial market professionals Learn more about Refinitiv. ## Browse World. Item 1 of 6 A man sanitizes railings in the premises of Taj Mahal after authorities reopened the monument to visitors, amidst the coronavirus disease (COVID-19) outbreak, in Agra, India, September 21, 2020. **[1/6]**A man sanitizes railings in the premises of Taj Mahal after authorities reopened the monument to visitors, amidst the coronavirus disease (COVID-19) outbreak, in Agra, India, September 21, 2020. BENGALURU, June 16 (Reuters) - The Taj Mahal reopened to the public on Wednesday as India, still reeling from a disastrous second wave of the pandemic, pushes to lift restrictions in a bid to revitalise its economy. Get the latest news from India and how it matters to the world with the Reuters India File newsletter. *   About Reuters, opens new tab.",
+      "bm25_score_raw": 1.378094833378,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6
+    }
+  ]
+}

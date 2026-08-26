@@ -1,0 +1,57 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1094",
+    "text": "55% citizens in favour of govt expanding Covid booster dose programme: Survey",
+    "lang": "english"
+  },
+  "ranked_evidence": [
+    {
+      "title": "55% citizens favour Govt expanding booster dose program to all adults",
+      "url": "https://www.localcircles.com/a/press/page/covid-booster-dose-survey",
+      "snippet": "In summary, 55% of respondents want the Government to expand the eligibility criteria for precaution dose to include all adults while 31% of",
+      "bm25_score_raw": 14.383217265123456,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Governor Hochul Signs Executive Order Expanding Access to Vaccines Amid Uncertainty in Washington | Governor Kathy Hochul | New York State",
+      "url": "https://www.governor.ny.gov/news/governor-hochul-signs-executive-order-expanding-access-vaccines-amid-uncertainty-washington",
+      "snippet": "A **ny.gov** website belongs to an official New York State government organization. In the face of attacks on science and healthcare from the federal government, Governor Kathy Hochul today is taking steps to protect vaccine access across New York State. With the availability of COVID shots under imminent threat, the Governor today signed an Executive Order that will allow pharmacists to administer COVID vaccines, providing access for all New Yorkers who wish to be vaccinated. The Executive Order will be in place for at least 30 days while a long-term legislative solution is developed to address access to all vaccines in order to combat the Trump Administration’s misguided attack on immunization and healthcare. **New York State Health Commissioner Dr. James McDonald said,** “Governor Hochul’s Executive Order provides access to the COVID vaccine for New Yorkers who choose to get vaccinated, sets us up for a smoother transition to the updated 2025-26 vaccine and restores pharmacies as a vital part of our vaccination network.",
+      "bm25_score_raw": 4.133006593451835,
+      "bm25_score_norm": 0.2873492430287891,
+      "bm25_rank": 2
+    },
+    {
+      "title": "Coronavirus (COVID-19) Update: FDA Expands Eligibility for Pfizer-BioNTech COVID-19 Booster Dose to 16- and 17-Year-Olds | FDA",
+      "url": "https://www.fda.gov/news-events/press-announcements/coronavirus-covid-19-update-fda-expands-eligibility-pfizer-biontech-covid-19-booster-dose-16-and-17",
+      "snippet": "Today, the U.S. Food and Drug Administration amended the emergency use authorization (EUA) for the Pfizer-BioNTech COVID-19 Vaccine, authorizing the use of a single booster dose for administration to individuals 16 and 17 years of age at least six months after completion of primary vaccination with the Pfizer-BioNTech COVID-19 Vaccine. On Nov. 19, the FDA authorized the use of a single booster dose of the Pfizer-BioNTech COVID-19 Vaccine for administration to all individuals 18 years of age and older after completion of primary vaccination with any FDA-authorized or approved COVID-19 vaccine. Today’s action expands the use of a single booster dose of the Pfizer-BioNTech COVID-19 Vaccine for administration to individuals 16 and 17 years of age at least six months after completion of a primary series of the Pfizer-BioNTech COVID-19 Vaccine. The EUA for a single booster dose of the Pfizer-BioNTech COVID-19 Vaccine for individuals 16 and 17 years of age is based on the FDA’s previous analysis of immune response data that supported use of a booster dose in individuals 18 years of age and older.",
+      "bm25_score_raw": 1.9740686941940633,
+      "bm25_score_norm": 0.13724806194652997,
+      "bm25_rank": 3
+    },
+    {
+      "title": "Some states and New York City have decided to expand COVID-19 ...",
+      "url": "https://www.facebook.com/fox5dc/posts/some-states-and-new-york-city-have-decided-to-expand-covid-19-booster-shots-to-a/10160537182767494",
+      "snippet": "Some states and New York City have decided to expand COVID-19 booster shots to all adults, not waiting for approval from U.S. health officials.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 4
+    },
+    {
+      "title": "Attitudes toward annual COVID-19 boosters are highly structured by ...",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10290170",
+      "snippet": "Government in the United States is considering annual COVID-19 boosters. We conducted a panel survey to investigate popular attitudes toward annual booster.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 5
+    },
+    {
+      "title": "Gov. expands COVID-19 vaccine access - YouTube",
+      "url": "https://www.youtube.com/watch?v=oQs-biB295U",
+      "snippet": "The Executive Order will be in effect for thirty days, with an option to renew, while the Governor works with the State Legislature on a",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6
+    }
+  ]
+}

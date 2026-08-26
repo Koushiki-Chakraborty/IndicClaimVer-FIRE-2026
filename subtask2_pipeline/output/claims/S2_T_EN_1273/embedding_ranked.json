@@ -1,0 +1,76 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1273",
+    "text": "Congress releases 5th list: Capt Amrinder to take on Jaitley, Ambika Soni gets Ludhiana ticket",
+    "lang": "english"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "About Congress",
+      "url": "https://www.visitthecapitol.gov/explore/about-congress",
+      "snippet": "# About Congress. Congress is a bicameral legislature divided into two equal institutions: the House of Representatives and the Senate. Each state sends elected representatives and senators to Congress. ## **About the House of Representatives**. To be elected to the House of Representatives, a person must be at least 25 years old, a citizen of the United States for seven years or more, and a resident of the state that they represent. Learn more about the House of Representatives. ## **About the U.S. Senate**. With each state represented by two senators, a total of 100 members serve in the U.S. Senate. The U.S. territories and the District of Columbia are not represented in the Senate. In order to be elected to the U.S. Senate a person must be at least 30 years old, a citizen of the United States for nine years or more, and a resident of the state that they represent. Learn more about the U.S. Senate.",
+      "bm25_score_raw": 0.8040964651878051,
+      "bm25_score_norm": 0.1053759203595372,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.7811686992645264,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Congress.gov | Library of Congress",
+      "url": "https://www.congress.gov",
+      "snippet": "[skip to main content](https://www.congress.gov/#content). *   [Committees](https://www.congress.gov/committees). *   [Glossary](https://www.congress.gov/help/legislative-glossary). *   [Help](https://www.congress.gov/help). *   [Contact](https://www.congress.gov/contact-us). *   [Advanced Searches](https://www.congress.gov/advanced-search/legislation). *   [Browse](https://www.congress.gov/browse). *   [Committees](https://www.congress.gov/committees). *   [Support](https://www.congress.gov/#). *   [Glossary](https://www.congress.gov/help/legislative-glossary). *   [Help](https://www.congress.gov/help). *   [Contact](https://www.congress.gov/contact-us). [Close](https://www.congress.gov/#). *   [Glossary](https://www.congress.gov/help/legislative-glossary). *   [Contact](https://www.congress.gov/contact-us). [Sign In](https://www.congress.gov/#). *   [Legislation](https://www.congress.gov/#legislation). *   [Nominations](https://www.congress.gov/#nominations). *   [House Communications](https://www.congress.gov/#house-communications). *   [Senate Communications](https://www.congress.gov/#senate-communications). *   [H.R.4818](https://www.congress.gov/bill/118th-congress/house-bill/4818) [118th] Treat and Reduce Obesity Act of 2023. *   [H.R.6509](https://www.congress.gov/bill/119th-congress/house-bill/6509) [119th] SAFE Drugs Act of 2025. *   [H.R.6644](https://www.congress.gov/bill/119th-congress/house-bill/6644) [119th] 21st Century ROAD to Housing Act. *   [H.R.5362](https://www.congress.gov/bill/119th-congress/house-bill/5362). *   [H.R.6007](https://www.congress.gov/bill/119th-congress/house-bill/6007). #### Previous Meeting: [July 14, 2026](https://www.congress.gov/on-house-floor/2026/07/14). *   [Communications to the House](https://www.congress.gov/house-communications). #### Previous Meeting: [July 14, 2026](https://www.congress.gov/on-senate-floor/2026/07/14). *   [Communications to the Senate](https://www.congress.gov/senate-communications). *   [Nominations](https://www.congress.gov/nominations). *   [Today at 2:00 PM (EDT)](https://www.congress.gov/event/119th-congress/house-event/119452) House Foreign Affairs Subcommittee on Western Hemisphere. *   [![Image 5](https://www.congress.gov/img/member/67ffcb2af22eaf56065817c4_200.jpg)Speaker of the House Rep. Mike Johnson [R-LA-4]](https://www.congress.gov/member/mike-johnson/J000299). *   [![Image 14](https://www.congress.gov/img/member/67ffcb2af22eaf56065817c4_200.jpg)Speaker of the House Rep. Mike Johnson [R-LA-4]](https://www.congress.gov/member/mike-johnson/J000299). *   [Nominations](https://www.congress.gov/nominations). *   [House Communications](https://www.congress.gov/house-communications). *   [Senate Communications](https://www.congress.gov/senate-communications). *   [Glossary](https://www.congress.gov/help/legislative-glossary). *   [Video](https://www.congress.gov/video). *   [More House Resources](https://www.congress.gov/help/house-of-representatives). *   [More Senate Resources](https://www.congress.gov/help/senate). *   [Help](https://www.congress.gov/help). *   [Contact Us](https://www.congress.gov/contact-us). [Back to top](https://www.congress.gov/#). [Close](https://www.congress.gov/#).",
+      "bm25_score_raw": 0.5595778775600395,
+      "bm25_score_norm": 0.024447984621334816,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.7808845043182373,
+      "embedding_score_norm": 0.9917412918088442,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Definition of CONGRESS",
+      "url": "https://www.merriam-webster.com/dictionary/congress",
+      "snippet": "or Congress**:**a formal meeting of delegates for discussion and usually action on some question. **:**the legislative branch of the U.S. government. specifically**:**a session of the U.S. House of Representatives. or Congress**:**a single meeting or session of a group. Infantino endured another lesson in the limits of his facile brand of diplomacy in Vancouver, when he was outmaneuvered by Jibril Rajoub, the 73-year-old president of the Palestinian Football Association, who had asked to address the _congress_.— Chris Jones, _The Atlantic_, 7 June 2026 The modern history of FIFA begins at dawn eleven years ago, when Swiss police officers entered the Baur au Lac, a luxurious nineteenth-century hotel in Zurich, and started arresting the organization’s delegates, who had gathered for an annual _congress_.— Sam Knight, _New Yorker_, 1 June 2026 Verdicts from June's _congress_ could affect the upcoming ISU Figure Skating season, beginning with the ISU Figure Skating Junior Grand Prix first event on August 19–22, 2026 in Xi'An, China.— Caroline Price, _Forbes.com_, 28 May 2026 The Chinese government, which once promoted Esperanto heartily, still makes an appearance at each year’s _congress_.— Katie Thornton, _Harpers Magazine_, 26 May 2026 See All Example Sentences for _congress_. **:**the chief lawmaking body of a nation and especially of a republic that in the U.S. is made up of the Senate and the House of Representatives.",
+      "bm25_score_raw": 0.48570985392364535,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.7762812376022339,
+      "embedding_score_norm": 0.85797031160688,
+      "embedding_rank": 3
+    },
+    {
+      "title": "United States Congress",
+      "url": "https://en.wikipedia.org/wiki/United_States_Congress",
+      "snippet": "# United States Congress. The **United States Congress** is the legislative branch of the federal government of the United States. They both meet in the United States Capitol in Washington, D.C. Members of Congress are chosen through direct election, though vacancies \"Legislative vacancy (United States)\") in the Senate may be filled by a governor \"Governor (United States)\")'s appointment. The vice president of the United States, as president of the Senate, has a vote in the Senate only when there is a tie. The members of the House of Representatives are elected for the two-year term of a Congress. Article One of the United States Constitution states, \"All legislative Powers herein granted shall be vested in a Congress of the United States, which shall consist of a Senate and House of Representatives.\" The House and Senate are equal partners in the legislative process – legislation cannot be enacted without the consent of both chambers.",
+      "bm25_score_raw": 0.9411864592319156,
+      "bm25_score_norm": 0.15074838196250342,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.7726433873176575,
+      "embedding_score_norm": 0.7522543432698803,
+      "embedding_rank": 4
+    },
+    {
+      "title": "United States House of Representatives - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/United_States_House_of_Representatives",
+      "snippet": "Lower house of the U.S. Congress. For the United States Congress in session, see 119th United States Congress. For state-level houses of representatives in the United States, see List of U.S. state legislatures. | Flag of the United States House of Representatives Flag of the United States House of Representatives |. | Type | Lower house of the United States Congress |. | House of Representatives Chamber United States Capitol Washington, D.C. United States of America |. | Rules of the House of Representatives |. | Politics of the  United States |. The **United States House of Representatives** is a chamber of the bicameral United States Congress; with the United States Senate being the other chamber. Together, the House and Senate have the authority under Article One of the Constitution of the United States in enumerated matters to pass or defeat federal legislation, known as bills \"Bill (United States Congress)\").",
+      "bm25_score_raw": 3.5071459673909446,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.7688302993774414,
+      "embedding_score_norm": 0.6414459667780992,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Congress of the United States | Members, Seats, Term ...",
+      "url": "https://www.britannica.com/topic/Congress-of-the-United-States",
+      "snippet": "The Congress of the United States is the legislative branch of the U.S. federal government, as established in the Constitution of 1789. Image 3: United States Capitol, Washington, D.C.Image 4: Analyze with Hubert Humphrey the U.S. Congress's founding and role in America's system of checks and balancesImage 5: Follow a bill from a congressional committee to being signed into law by the president of the United StatesImage 6: Discover the number of women who have served as senators, representatives, and governors.Image 7: U.S. Capitol building, Washington, D.C.Image 8: U.S. governmentImage 9: “The First Colored Senator and Representatives”Image 10: Watch British Prime Minister Winston Churchill address a joint session of U.S. Congress after Pearl Harbor. Image 13: The United States Supreme Court building, Washington, D.C. U.S. History Highlights: Part Two. Image 14: Britannica AI Icon. Image 15: United States Capitol, Washington, D.C. United States Capitol, Washington, D.C.The meeting place of the U.S. Congress.(more).",
+      "bm25_score_raw": 0.932814155665731,
+      "bm25_score_norm": 0.147977413703778,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.7467571496963501,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6
+    }
+  ]
+}

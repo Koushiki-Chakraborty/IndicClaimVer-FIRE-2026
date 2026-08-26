@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/1330",
+    "text": "‘মাস্ক, স্যানিটাইজার ব্যবহার করুন’, করোনা সতর্কতায় যাদবপুরবাসীকে অনুরোধ সাংসদ মিমির",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Kolkata: Mandatory mask use, sanitizer at entrance & ...",
+      "url": "https://timesofindia.indiatimes.com/city/kolkata/kolkata-mandatory-mask-use-sanitizer-at-entrance-social-distancing-return-to-gated-communities/articleshow/92530678.cms",
+      "snippet": "Residents have been requested to inform us if any of them shows symptoms of the virus so that we can plan for more safety measures.",
+      "bm25_score_raw": 3.8681717386220686,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8360280990600586,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "West Bengal Issues Mask Advisory Amid Rise In Coronavirus ...",
+      "url": "https://www.youtube.com/watch?v=v39J0mm2Agk",
+      "snippet": "West Bengal has issued a mask advisory amid a rise in Coronavirus cases. the people should avoid going to crowded places, should practice",
+      "bm25_score_raw": 1.4932485755888119,
+      "bm25_score_norm": 0.3860347152323545,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.823330283164978,
+      "embedding_score_norm": 0.9064174223827857,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Face masks and hand sanitizer distributed to residents in ...",
+      "url": "https://www.newsflare.com/video/365574/face-masks-and-hand-sanitizer-distributed-to-residents-in-west-bengal-india",
+      "snippet": "Face masks and hand sanitizer distributed to residents in West Bengal, India. Residents Start Removing Masks After Easing Covid-19 Health. Preventing the",
+      "bm25_score_raw": 1.105649405484499,
+      "bm25_score_norm": 0.28583255351489556,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8082846403121948,
+      "embedding_score_norm": 0.7955314202777334,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Minneapolis residents respond to new mask ...",
+      "url": "https://kstp.com/uncategorized/minneapolis-residents-respond-to-new-mask-recommendation-experts-say-covid-metrics-have-changed",
+      "snippet": "As of Thursday, the Minneapolis Health Department is strongly recommending everyone wears a mask inside public spaces, if you're vaccinated or",
+      "bm25_score_raw": 2.285580112782997,
+      "bm25_score_norm": 0.5908683138244459,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.7952271699905396,
+      "embedding_score_norm": 0.6992981987570001,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Text message sent to all Harris County residents discourages ...",
+      "url": "https://www.youtube.com/watch?v=fgKl2CgvxRs",
+      "snippet": "Text message sent to all Harris County residents discourages gatherings, urges COVID-19 testing",
+      "bm25_score_raw": 1.0426045356065519,
+      "bm25_score_norm": 0.26953418980770266,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.7893223762512207,
+      "embedding_score_norm": 0.6557800202773819,
+      "embedding_rank": 5
+    },
+    {
+      "title": "City of Milton votes to terminate emergency order requiring ...",
+      "url": "https://news4sanantonio.com/news/coronavirus/we-do-not-consent-milton-residents-voice-opinions-at-city-meeting-on-face-mask-order",
+      "snippet": "Citizens in Milton are no longer required to wear masks in city businesses after the city council voted to terminate the emergency order Monday",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.7747851014137268,
+      "embedding_score_norm": 0.5486406774121563,
+      "embedding_rank": 6
+    },
+    {
+      "title": "মহিলা ও পুরুষের সতর কতটুকু? একাধিক কাপড় দিয়ে সতর ঢাকলে কি ...",
+      "url": "https://ahlehaqmedia.com/2060",
+      "snippet": "মহিলাদের জন্য অন্য সময় গায়রে মাহরামের সামনে পূর্ণ শরীরই সতর। তবে অতীব প্রয়োজনে চেহারা, পা, হাত খোলা জায়েজ আছে। যেমন রাস্তায় প্রচন্ড ভীর হলে, আদালতে সাক্ষ্য দেয়া ইত্যাদি। عَنْ أُمِّ سَلَمَةَ، قَالَتْ: ...Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.7515796422958374,
+      "embedding_score_norm": 0.3776170386236683,
+      "embedding_rank": 7
+    },
+    {
+      "title": "মাহরামদের সামনে নারী-পুরুষের সতর কতটুকু? প্রশ্ন : মায়ের জন্য ...",
+      "url": "https://www.facebook.com/groups/Monthly.Attahrik.Readers/posts/1739812939920649",
+      "snippet": "তারা যেন যা সাধারণত: প্রকাশমান, তা ছাড়া তাদের সৌন্দর্য প্রদর্শন না করে এবং তারা যেন তাদের মাথার ওড়না বক্ষ দেশে ফেলে রাখে এবং তারা যেন তাদের স্বামী, পিতা, শ্বশুর, পুত্র, স্বামীর পুত্র, ভ্রাতা, ভ্রাতুষ্পুত্র, ভগ্নি ...Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.7503266334533691,
+      "embedding_score_norm": 0.368382395577633,
+      "embedding_rank": 8
+    },
+    {
+      "title": "প্রশ্ন (১১) : ছালাতে মহিলাদের সতর কতটুকু? জনৈক আলেম বলেন, ...",
+      "url": "https://al-itisam.com/article_details/482",
+      "snippet": "প্রশ্ন (১১) : ছালাতে মহিলাদের সতর কতটুকু? জনৈক আলেম বলেন, মহিলাদের সতর হচ্ছে— 'দুই হাত ও মুখমণ্ডল ব্যতীত পুরো শরীর, এমনকি দুই পায়ের পাতাও'। তিনি আরও বলেন, 'কোনো মহিলা যদি অন্ধকার ঘরে একাকী ছালাত আদায়ের সময় ...Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.7454602718353271,
+      "embedding_score_norm": 0.332517435209899,
+      "embedding_rank": 9
+    },
+    {
+      "title": "১৮৭. কোন পুরুষের জন্য অন্য কোন পুরুষের সতর এবং কোন মহিলার ...",
+      "url": "https://www.hadithbd.com/books/link?id=6863",
+      "snippet": "বিশুদ্ধ মতে কোন পুরুষের জন্য অন্য কোন পুরুষের সতর তার নাভি থেকে হাঁটু পর্যন্ত এবং কোন মহিলার জন্য অন্য কোন মহিলার সতর হাত, পা, ঘাড় ও মাথা ছাড়া তার বাকি অংশটুকু তথা গলা বা ঘাড় থেকে হাঁটু পর্যন্ত। অনুরূপভাবে কোন পুরুষের জন্য অন্য ...Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.7438176870346069,
+      "embedding_score_norm": 0.3204116273389714,
+      "embedding_rank": 10
+    },
+    {
+      "title": "পুরুষদের সতর কতটুকু⁉️সতর ঢাকা কি ফরজ ⁉️ 🎼❤️Mufti Arif Bin ...",
+      "url": "https://www.facebook.com/NiceTafsirMedia/videos/%E0%A6%AA%E0%A7%81%E0%A6%B0%E0%A7%81%E0%A6%B7%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%A4%E0%A6%B0-%E0%A6%95%E0%A6%A4%E0%A6%9F%E0%A7%81%E0%A6%95%E0%A7%81%EF%B8%8F%E0%A6%B8%E0%A6%A4%E0%A6%B0-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%95%E0%A6%BF-%E0%A6%AB%E0%A6%B0%E0%A6%9C-%EF%B8%8F/1149795229908231",
+      "snippet": "পুরুষদের সতর কতটুকু!?️সতর ঢাকা কি ফরজ !?️ ❤️Mufti Arif Bin Habib. Nice Tafsir Media Dec 19, 2024· Public Figure No photo description available. Mufti",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.7325668931007385,
+      "embedding_score_norm": 0.2374935644790874,
+      "embedding_rank": 11
+    },
+    {
+      "title": "নারী-পুরুষের সতর কতটুকু",
+      "url": "https://www.kalerkantho.com/print-edition/islamic-life/2020/11/27/979778",
+      "snippet": "Nov 27, 2020 — 'সতর' শব্দটি আরবি 'আস-সাতরু' ধাতুমূল থেকে এসেছে। এর আভিধানিক অর্থ ঢেকে রাখা। অর্থাৎ শরীরের যেসব অঙ্গ লজ্জার কারণে ঢেকে রাখা হয় তাকে সতর বলা হয়। ইসলামের পরিভাষায়, পুরুষের সতর হলো নাভি থেকে হাঁটু ...Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.7003424167633057,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

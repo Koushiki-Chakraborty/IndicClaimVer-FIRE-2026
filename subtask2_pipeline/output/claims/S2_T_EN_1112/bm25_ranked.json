@@ -1,0 +1,57 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1112",
+    "text": "Govt panel recommends EUA for BE's Covid jab Corbevax for adults above 18 yrs",
+    "lang": "english"
+  },
+  "ranked_evidence": [
+    {
+      "title": "Government panel recommends EUA for BE's Covid jab Corbevax for 12-18 ...",
+      "url": "https://www.newindianexpress.com/amp/story/india/2022/Feb/14/government-panel-recommends-eua-for-bes-covid-jab-corbevax-for-12-18-yrs-age-group-2419411.html",
+      "snippet": "Government panel recommends EUA for BE's Covid jab Corbevax for 12-18 yrs age group. NITI Aayog member (Health) V K Paul at a press",
+      "bm25_score_raw": 2.262394520749666,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "corbevax: Subject Expert Committee recommends EUA for BE's Covid jab ...",
+      "url": "https://m.economictimes.com/industry/healthcare/biotech/healthcare/subject-expert-committee-recommends-eua-for-bes-covid-jab-corbevax-for-12-18-years-age-group/amp_articleshow/89573641.cms",
+      "snippet": "Subject Expert Committee recommends EUA for BE's Covid jab Corbevax for 12-18 years age group ... Maharashtra govt to set up expert panel to frame",
+      "bm25_score_raw": 1.9141438357871081,
+      "bm25_score_norm": 0.6595889077406611,
+      "bm25_rank": 2
+    },
+    {
+      "title": "Govt panel recommends EUA for Covovax, Corbevax, Covid pill ...",
+      "url": "https://www.business-standard.com/amp/article/current-affairs/govt-panel-recommends-eua-for-covovax-corbevax-covid-pill-molnupiravir-121122800019_1.html",
+      "snippet": "Govt panel recommends EUA for Covovax, Corbevax, Covid pill molnupiravir ... jabs validated by the global health body against the viral disease.",
+      "bm25_score_raw": 1.763555073141748,
+      "bm25_score_norm": 0.5123901012843269,
+      "bm25_rank": 3
+    },
+    {
+      "title": "Govt panel recommends EUA for BE's Covid-19 jab Corbevax for ...",
+      "url": "https://www.mid-day.com/news/india-news/article/govt-panel-recommends-eua-for-bes-covid19-jab-corbevax-for-1218-years-age-group-23214329",
+      "snippet": "The Drugs Controller General Of India (DCGI) has already approved Corbevax, which is India's first indigenously developed RBD protein sub-unit vaccine",
+      "bm25_score_raw": 1.652486320455402,
+      "bm25_score_norm": 0.4038216560509558,
+      "bm25_rank": 4
+    },
+    {
+      "title": "Government panel recommends Corbevax for emergency use in kids ...",
+      "url": "https://www.expresspharma.in/amp/government-panel-recommends-corbevax-for-emergency-use-in-kids-aged-five-to-11-years",
+      "snippet": "Emergency Use Authorisation (EUA) for Biological E's COVID-19 vaccine Corbevax for children in the five to 11 years' age group",
+      "bm25_score_raw": 1.4493862724468551,
+      "bm25_score_norm": 0.2052936641018607,
+      "bm25_rank": 5
+    },
+    {
+      "title": "Government panel recommends emergency use authorisation for ...",
+      "url": "https://www.thehindu.com/news/national/govt-panel-recommends-emergency-use-authorisation-for-corbevax-for-5-to-11-years-age-group/article65342974.ece/amp",
+      "snippet": "Biological E's Corbevax is being used to inoculate children against COVID-19 in the age group of 12 to 14 years. Covaxin has been granted",
+      "bm25_score_raw": 1.2393647403415513,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6
+    }
+  ]
+}

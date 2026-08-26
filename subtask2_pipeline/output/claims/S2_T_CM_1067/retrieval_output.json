@@ -1,0 +1,138 @@
+{
+  "claim": {
+    "id": "S2/T/CM/1067",
+    "text": "abe chuuuuuu delhi mai kejriwal hai matlab tujeh apne state mai bhi amit shah chahiye to kejriwal ko bol kursi chode or baith jaai amit shah sambhal lega tu ne bola tha na hum school banaenge matlab gyan denge kejriwal ne ye gyaan diya hai",
+    "lang": "codemix"
+  },
+  "generated_queries": {
+    "english_translation": "Abe Chuuuuuu Kejriwal is in Delhi, I mean you want Amit Shah in your state also, you should give Kejriwal a big chair or you will sit, Amit Shah has taken over, you had said that we will build a school, I mean, don't you know that Kejriwal has given this knowledge?",
+    "native_query": "kejriwal amit shah abe chuuuuuu delhi mai hai matlab",
+    "english_query": "Abe Chuuuuuu Kejriwal Delhi Amit Shah chair sit build school"
+  },
+  "native_retrieval": [
+    {
+      "title": "'Kejriwal Jaisa Aadmi...': Amit Shah's Hilarious Dig At Delhi ...",
+      "url": "https://www.youtube.com/watch?v=6uvpTZtqMLE",
+      "snippet": "Watch Amit Shah taking a hilarious dig at Delhi Chief Minister Arvind Kejriwal during a public rally. #amitshah #arvindkejriwal #shahnews"
+    },
+    {
+      "title": "Kejriwal Govt will be back in Delhi with thumping majority!",
+      "url": "https://www.instagram.com/reel/DXa5ZlXDrV1?hl=en",
+      "snippet": "So you are saying that the next government in Delhi will once again be formed by the Aam Aadmi Party. OCR. केजरीवाल की वापसी: 2026 दिल्ली चुनाव पर बड़ी"
+    },
+    {
+      "title": "Arvind Kejriwal Meets Home Minister Amit Shah, Says Had ...",
+      "url": "https://www.ndtv.com/india-news/arvind-kejriwal-to-meet-amit-shah-this-afternoon-first-meeting-since-his-delhi-election-victory-2182407",
+      "snippet": "Delhi Chief Minister Arvind Kejriwal, who took oath for a third consecutive term on Sunday, met Union Home Minister Amit Shah this afternoon."
+    },
+    {
+      "title": "Delhi Politics Heats Up! Home Minister Amit Shah's Exclusive ...",
+      "url": "https://www.youtube.com/watch?v=9JdhytdxC4A",
+      "snippet": "Home Minister Amit Shah speaks exclusively on Arvind Kejriwal's shocking poisoned water claim. In this interview, he responds to Kejriwal's"
+    },
+    {
+      "title": "Video | Amit Shah Assured All Help: Arvind Kejriwal After Meet ...",
+      "url": "https://www.ndtv.com/video/amit-shah-assured-all-help-arvind-kejriwal-after-meet-on-delhi-violence-541570",
+      "snippet": "Delhi Chief Minister Arvind Kejriwal today called for sealing the city's border in areas that saw violence over the amended citizenship law"
+    },
+    {
+      "title": "Delhi Assembly Elections 2025 | Home Minister Amit Shah ...",
+      "url": "https://www.youtube.com/watch?v=jxWmOxw3gvc",
+      "snippet": "Home Minister Amit Shah has launched a sharp attack on AAP's National Convenor Arvind Kejriwal over false promises made by the party for"
+    }
+  ],
+  "english_retrieval": [
+    {
+      "title": "Amit Shah takes on Kejriwal over Delhi schools",
+      "url": "https://www.indiatoday.in/amp/india/video/amit-shah-arvind-kejriwal-delhi-schools-1640883-2020-01-28",
+      "snippet": "Kejriwal threw an invite to Amit Shah to visit Delhi government run schools and witness them first hand, the Union Home Minister has taken him"
+    },
+    {
+      "title": "Classrooms",
+      "url": "https://www.thehindu.com/news/cities/Delhi/man-they-call-terrorist-has-built-12430-new-classrooms-says-kejriwal/article65065924.ece/amp",
+      "snippet": "Kejriwal said they have built over 20,000 new classrooms in Delhi in the last 7 years. “The education sector of Delhi is truly being"
+    },
+    {
+      "title": "Kejriwal built 'sheesh mahal' in Delhi, not infrastructure: Amit Shah",
+      "url": "https://www.siasat.com/kejriwal-built-sheesh-mahal-in-delhi-not-infrastructure-amit-shah-3159559/amp",
+      "snippet": "Amit Shah slammed Arvind Kejriwal for building a \"sheesh mahal\" for himself instead of creating infrastructure in the capital during term."
+    },
+    {
+      "title": "LIVE | Hon'ble CM Arvind Kejriwal inaugurating New Govt School ...",
+      "url": "https://www.youtube.com/watch?v=ZNzYxIMFLso",
+      "snippet": "LIVE | Hon'ble CM Arvind Kejriwal inaugurating New Govt School Building in Paschim Vihar #arvindkejriwal #delhimodel #delhigovernmentschool"
+    },
+    {
+      "title": "Delhi polls: Amit Shah, Arvind Kejriwal school each other on education ...",
+      "url": "https://www.indiatoday.in/amp/elections/delhi-assembly-polls-2020/story/delhi-polls-amit-shah-arvind-kejriwal-school-each-other-on-education-revolution-1640993-2020-01-28",
+      "snippet": "Kejriwal had previously asked Amit Shah not to make education a part of \"dirty politics\" or make fun of the hard work put in by students,"
+    },
+    {
+      "title": "Instead of creating infra in Delhi, Arvind Kejriwal built 'sheesh mahal', says ...",
+      "url": "https://www.telegraphindia.com/amp/india/instead-of-creating-infra-in-delhi-kejriwal-built-sheesh-mahal-says-amit-shah/cid/2075424",
+      "snippet": "Union home minister Amit Shah on Saturday slammed Arvind Kejriwal for building a \"sheesh mahal\" for himself instead of creating"
+    }
+  ],
+  "merged_results": [
+    {
+      "title": "'Kejriwal Jaisa Aadmi...': Amit Shah's Hilarious Dig At Delhi ...",
+      "url": "https://www.youtube.com/watch?v=6uvpTZtqMLE",
+      "snippet": "Watch Amit Shah taking a hilarious dig at Delhi Chief Minister Arvind Kejriwal during a public rally. #amitshah #arvindkejriwal #shahnews"
+    },
+    {
+      "title": "Kejriwal Govt will be back in Delhi with thumping majority!",
+      "url": "https://www.instagram.com/reel/DXa5ZlXDrV1?hl=en",
+      "snippet": "So you are saying that the next government in Delhi will once again be formed by the Aam Aadmi Party. OCR. केजरीवाल की वापसी: 2026 दिल्ली चुनाव पर बड़ी"
+    },
+    {
+      "title": "Arvind Kejriwal Meets Home Minister Amit Shah, Says Had ...",
+      "url": "https://www.ndtv.com/india-news/arvind-kejriwal-to-meet-amit-shah-this-afternoon-first-meeting-since-his-delhi-election-victory-2182407",
+      "snippet": "Delhi Chief Minister Arvind Kejriwal, who took oath for a third consecutive term on Sunday, met Union Home Minister Amit Shah this afternoon."
+    },
+    {
+      "title": "Delhi Politics Heats Up! Home Minister Amit Shah's Exclusive ...",
+      "url": "https://www.youtube.com/watch?v=9JdhytdxC4A",
+      "snippet": "Home Minister Amit Shah speaks exclusively on Arvind Kejriwal's shocking poisoned water claim. In this interview, he responds to Kejriwal's"
+    },
+    {
+      "title": "Video | Amit Shah Assured All Help: Arvind Kejriwal After Meet ...",
+      "url": "https://www.ndtv.com/video/amit-shah-assured-all-help-arvind-kejriwal-after-meet-on-delhi-violence-541570",
+      "snippet": "Delhi Chief Minister Arvind Kejriwal today called for sealing the city's border in areas that saw violence over the amended citizenship law"
+    },
+    {
+      "title": "Delhi Assembly Elections 2025 | Home Minister Amit Shah ...",
+      "url": "https://www.youtube.com/watch?v=jxWmOxw3gvc",
+      "snippet": "Home Minister Amit Shah has launched a sharp attack on AAP's National Convenor Arvind Kejriwal over false promises made by the party for"
+    },
+    {
+      "title": "Amit Shah takes on Kejriwal over Delhi schools",
+      "url": "https://www.indiatoday.in/amp/india/video/amit-shah-arvind-kejriwal-delhi-schools-1640883-2020-01-28",
+      "snippet": "Kejriwal threw an invite to Amit Shah to visit Delhi government run schools and witness them first hand, the Union Home Minister has taken him"
+    },
+    {
+      "title": "Classrooms",
+      "url": "https://www.thehindu.com/news/cities/Delhi/man-they-call-terrorist-has-built-12430-new-classrooms-says-kejriwal/article65065924.ece/amp",
+      "snippet": "Kejriwal said they have built over 20,000 new classrooms in Delhi in the last 7 years. “The education sector of Delhi is truly being"
+    },
+    {
+      "title": "Kejriwal built 'sheesh mahal' in Delhi, not infrastructure: Amit Shah",
+      "url": "https://www.siasat.com/kejriwal-built-sheesh-mahal-in-delhi-not-infrastructure-amit-shah-3159559/amp",
+      "snippet": "Amit Shah slammed Arvind Kejriwal for building a \"sheesh mahal\" for himself instead of creating infrastructure in the capital during term."
+    },
+    {
+      "title": "LIVE | Hon'ble CM Arvind Kejriwal inaugurating New Govt School ...",
+      "url": "https://www.youtube.com/watch?v=ZNzYxIMFLso",
+      "snippet": "LIVE | Hon'ble CM Arvind Kejriwal inaugurating New Govt School Building in Paschim Vihar #arvindkejriwal #delhimodel #delhigovernmentschool"
+    },
+    {
+      "title": "Delhi polls: Amit Shah, Arvind Kejriwal school each other on education ...",
+      "url": "https://www.indiatoday.in/amp/elections/delhi-assembly-polls-2020/story/delhi-polls-amit-shah-arvind-kejriwal-school-each-other-on-education-revolution-1640993-2020-01-28",
+      "snippet": "Kejriwal had previously asked Amit Shah not to make education a part of \"dirty politics\" or make fun of the hard work put in by students,"
+    },
+    {
+      "title": "Instead of creating infra in Delhi, Arvind Kejriwal built 'sheesh mahal', says ...",
+      "url": "https://www.telegraphindia.com/amp/india/instead-of-creating-infra-in-delhi-kejriwal-built-sheesh-mahal-says-amit-shah/cid/2075424",
+      "snippet": "Union home minister Amit Shah on Saturday slammed Arvind Kejriwal for building a \"sheesh mahal\" for himself instead of creating"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "claim": {
+    "id": "S2/1384",
+    "text": "নিউআলিপুরে করোনায় আক্রান্ত ১৫ জন! ভুয়ো খবর ছড়ানোয় গ্রেপ্তার মহিলা",
+    "lang": "dev"
+  },
+  "generated_queries": {
+    "english_translation": "15 people infected with corona in New Alipore! Woman arrested for spreading fake news",
+    "native_query": "১৫ নিউআলিপুরে কর আক জন খবর ছড মহ",
+    "english_query": "15 New Alipore people infected corona Woman arrested spreading"
+  },
+  "native_retrieval": [
+    {
+      "title": "A St. Louis Park fire leaves many without homes, the latest with the wildfires, and more news headli - CBS News",
+      "url": "https://www.cbsnews.com/minnesota/video/a-st-louis-park-fire-leaves-many-without-homes-the-latest-with-the-wildfires-and-more-news-headli/",
+      "snippet": "# A St. Louis Park fire leaves many without homes, the latest with the wildfires, and more news headli. Beret Leone updates on the news of the day.15m ago."
+    },
+    {
+      "title": "Lviv raises water tariff from August 1 to 56.38 UAH per m³ - Межа. Новини України.",
+      "url": "https://mezha.net/eng/bukvy/6733aba7_lviv_raises_water/",
+      "snippet": "### Özgür Özel leaves CHP and launches new party with ninety MPs. 25 jul 2026, 06:24. ### Lviv raises water tariff from August 1 to 56.38 UAH per m³. From August 1, in Lviv, the tariff for water supply and wastewater will more than double – to 56.38 UAH per cubic meter. The decision was approved by the Executive Committee of the Lviv City Council, as announced by the City Council’s press service. > *From August 1, 2026, a new tariff for centralized water supply and wastewater disposal will be in effect in Lviv. According to the city council’s calculations, for a resident using 3 m³ of water per month, the bill for water supply and wastewater will rise by about 92 UAH. The city council also reminded that Lviv has one of the most complex water-supply systems in Ukraine – due to the city’s location on the Main European watershed, water is delivered over long distances through hundreds of kilometers of trunk pipelines."
+    },
+    {
+      "title": "Contractor accused of taking money but not doing jobs - CBS News",
+      "url": "https://www.cbsnews.com/pittsburgh/video/contractor-accused-of-taking-money-but-not-doing-jobs/",
+      "snippet": "* Out For A Walk Forecast. # Contractor accused of taking money but not doing jobs. Charges have been filed against 45-year-old Nolan Nichols for allegedly taking money from people to fix their pools and then failing to do the work."
+    },
+    {
+      "title": "Food, fury and supporters near and far keep India protest alive - Reuters",
+      "url": "https://www.reuters.com/world/india/food-fury-supporters-near-far-keep-india-protest-alive-2026-07-22/",
+      "snippet": "## Browse World. Item 1 of 5 Food delivery bikes arrive at a barricade near the India's Cockroach Janata Party (CJP) protest site to deliver foods, two days after thousands of protesters marched towards parliament demanding the resignation of Education Minister Dharmendra Pradhan over examination paper leaks, at Jantar Mantar in New Delhi, India, July 22, 2026. **[1/5]**Food delivery bikes arrive at a barricade near the India's Cockroach Janata Party (CJP) protest site to deliver foods, two days after thousands of protesters marched towards parliament demanding the resignation of Education Minister Dharmendra Pradhan over examination paper leaks, at Jantar... NEW DELHI, July 22 (Reuters) - A steady stream of food delivery riders carrying meals, snacks and bottled water is helping sustain a youth-led protest movement that has sprung up in the heart of India's capital. Get the latest news from India and how it matters to the world with the Reuters India File newsletter."
+    },
+    {
+      "title": "Fresh violence at Delhi youth protest demanding minister's resignation - Reuters",
+      "url": "https://www.reuters.com/world/india/fresh-violence-delhi-youth-protest-demanding-ministers-resignation-2026-07-23/",
+      "snippet": "## Browse World. NEW DELHI, July 23 (Reuters) - Youth protesters demanding the education minister's resignation clashed briefly with police on the streets of New Delhi late on Wednesday, ‌with officers firing tear gas and wielding canes to push them back, police and witnesses said. More than 10,000 people were estimated to have gathered at the Jantar Mantar protest site in central New Delhi, local media said, as leaders of the \"cockroach\" movement vowed to continue their month-old protest until the minister resigned over exam paper leaks that ​affected some 2 million students in May. Get the latest news from India and how it matters to the world with the Reuters India File newsletter. Item 1 of 6 Police use teargas to control the crowd during the ongoing protest of Cockroach Janata Party (CJP), two days after thousands of protesters marched towards parliament demanding the resignation of Education Minister Dharmendra Pradhan over examination paper leaks, at Jantar Mantar in New Delhi, India, July 22, 2026."
+    },
+    {
+      "title": "Stabbings near New York City’s Central Park - NBC News",
+      "url": "https://www.nbcnews.com/nightly-news/video/stabbings-near-new-york-city-s-central-park-267194437527",
+      "snippet": "For an optimal experience visit our site on another browser. Stabbings near New York City’s Central Park. * ## Deadly flooding in the East. * ## Mounting frustrations over Wisconsin police shooting. * ## Passenger details frightening moments on flight. * ## Trump attends dignified transfer of U.S. troops. * ## Manhunt for suspected murderer in disguise. * ## Nolan Wells preliminary autopsy results released. * ## New video of arson attack outside federal building in New York City. * ## Reported tornadoes hit New York City area. * ## Gunman opens fire in Nevada shooting rampage. * ## New details in Nolan Wells investigation. * ## Secretary Hegseth grilled over growing cost of war with Iran. Terrifying moments in New York City this afternoon when two people were stabbed near Central Park, just feet from a synagogue. NBC News’ Erin McLaughlin has the latest on the investigation.July 23, 2026. ## Best of NBC News."
+    }
+  ],
+  "english_retrieval": [
+    {
+      "title": "Coronavirus | Fear factor combined with fake news creates new ‘infodemic’ on social media",
+      "url": "https://www.thehindu.com/news/national/coronavirus-fear-factor-combined-with-fake-news-creates-new-infodemic-on-social-media/article31207883.ece",
+      "snippet": "As India battles the deadly coronavirus ( COVID-19 ) pandemic, a fake news 'infodemic' is also spreading on WhatsApp, Facebook,"
+    }
+  ],
+  "merged_results": [
+    {
+      "title": "A St. Louis Park fire leaves many without homes, the latest with the wildfires, and more news headli - CBS News",
+      "url": "https://www.cbsnews.com/minnesota/video/a-st-louis-park-fire-leaves-many-without-homes-the-latest-with-the-wildfires-and-more-news-headli/",
+      "snippet": "# A St. Louis Park fire leaves many without homes, the latest with the wildfires, and more news headli. Beret Leone updates on the news of the day.15m ago."
+    },
+    {
+      "title": "Lviv raises water tariff from August 1 to 56.38 UAH per m³ - Межа. Новини України.",
+      "url": "https://mezha.net/eng/bukvy/6733aba7_lviv_raises_water/",
+      "snippet": "### Özgür Özel leaves CHP and launches new party with ninety MPs. 25 jul 2026, 06:24. ### Lviv raises water tariff from August 1 to 56.38 UAH per m³. From August 1, in Lviv, the tariff for water supply and wastewater will more than double – to 56.38 UAH per cubic meter. The decision was approved by the Executive Committee of the Lviv City Council, as announced by the City Council’s press service. > *From August 1, 2026, a new tariff for centralized water supply and wastewater disposal will be in effect in Lviv. According to the city council’s calculations, for a resident using 3 m³ of water per month, the bill for water supply and wastewater will rise by about 92 UAH. The city council also reminded that Lviv has one of the most complex water-supply systems in Ukraine – due to the city’s location on the Main European watershed, water is delivered over long distances through hundreds of kilometers of trunk pipelines."
+    },
+    {
+      "title": "Contractor accused of taking money but not doing jobs - CBS News",
+      "url": "https://www.cbsnews.com/pittsburgh/video/contractor-accused-of-taking-money-but-not-doing-jobs/",
+      "snippet": "* Out For A Walk Forecast. # Contractor accused of taking money but not doing jobs. Charges have been filed against 45-year-old Nolan Nichols for allegedly taking money from people to fix their pools and then failing to do the work."
+    },
+    {
+      "title": "Food, fury and supporters near and far keep India protest alive - Reuters",
+      "url": "https://www.reuters.com/world/india/food-fury-supporters-near-far-keep-india-protest-alive-2026-07-22/",
+      "snippet": "## Browse World. Item 1 of 5 Food delivery bikes arrive at a barricade near the India's Cockroach Janata Party (CJP) protest site to deliver foods, two days after thousands of protesters marched towards parliament demanding the resignation of Education Minister Dharmendra Pradhan over examination paper leaks, at Jantar Mantar in New Delhi, India, July 22, 2026. **[1/5]**Food delivery bikes arrive at a barricade near the India's Cockroach Janata Party (CJP) protest site to deliver foods, two days after thousands of protesters marched towards parliament demanding the resignation of Education Minister Dharmendra Pradhan over examination paper leaks, at Jantar... NEW DELHI, July 22 (Reuters) - A steady stream of food delivery riders carrying meals, snacks and bottled water is helping sustain a youth-led protest movement that has sprung up in the heart of India's capital. Get the latest news from India and how it matters to the world with the Reuters India File newsletter."
+    },
+    {
+      "title": "Fresh violence at Delhi youth protest demanding minister's resignation - Reuters",
+      "url": "https://www.reuters.com/world/india/fresh-violence-delhi-youth-protest-demanding-ministers-resignation-2026-07-23/",
+      "snippet": "## Browse World. NEW DELHI, July 23 (Reuters) - Youth protesters demanding the education minister's resignation clashed briefly with police on the streets of New Delhi late on Wednesday, ‌with officers firing tear gas and wielding canes to push them back, police and witnesses said. More than 10,000 people were estimated to have gathered at the Jantar Mantar protest site in central New Delhi, local media said, as leaders of the \"cockroach\" movement vowed to continue their month-old protest until the minister resigned over exam paper leaks that ​affected some 2 million students in May. Get the latest news from India and how it matters to the world with the Reuters India File newsletter. Item 1 of 6 Police use teargas to control the crowd during the ongoing protest of Cockroach Janata Party (CJP), two days after thousands of protesters marched towards parliament demanding the resignation of Education Minister Dharmendra Pradhan over examination paper leaks, at Jantar Mantar in New Delhi, India, July 22, 2026."
+    },
+    {
+      "title": "Stabbings near New York City’s Central Park - NBC News",
+      "url": "https://www.nbcnews.com/nightly-news/video/stabbings-near-new-york-city-s-central-park-267194437527",
+      "snippet": "For an optimal experience visit our site on another browser. Stabbings near New York City’s Central Park. * ## Deadly flooding in the East. * ## Mounting frustrations over Wisconsin police shooting. * ## Passenger details frightening moments on flight. * ## Trump attends dignified transfer of U.S. troops. * ## Manhunt for suspected murderer in disguise. * ## Nolan Wells preliminary autopsy results released. * ## New video of arson attack outside federal building in New York City. * ## Reported tornadoes hit New York City area. * ## Gunman opens fire in Nevada shooting rampage. * ## New details in Nolan Wells investigation. * ## Secretary Hegseth grilled over growing cost of war with Iran. Terrifying moments in New York City this afternoon when two people were stabbed near Central Park, just feet from a synagogue. NBC News’ Erin McLaughlin has the latest on the investigation.July 23, 2026. ## Best of NBC News."
+    },
+    {
+      "title": "Coronavirus | Fear factor combined with fake news creates new ‘infodemic’ on social media",
+      "url": "https://www.thehindu.com/news/national/coronavirus-fear-factor-combined-with-fake-news-creates-new-infodemic-on-social-media/article31207883.ece",
+      "snippet": "As India battles the deadly coronavirus ( COVID-19 ) pandemic, a fake news 'infodemic' is also spreading on WhatsApp, Facebook,"
+    }
+  ]
+}

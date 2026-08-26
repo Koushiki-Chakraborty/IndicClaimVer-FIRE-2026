@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/1598",
+    "text": "दिल्ली हाईकोर्ट से जमानत आवेदन पर शीघ्र निर्णय के लिए शरजील इमाम के अनुरोध पर विचार किए जाने की उम्मीद : सुप्रीम कोर्ट",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Sharjeel Imam Bail Case: SC Urge Delhi HC to hear the bail ...",
+      "url": "https://www.youtube.com/watch?v=5MDvCybb7bY",
+      "snippet": "Sharjeel Imam Bail: The Supreme Court Of India On Wednesday urged the Delhi High Court to consider the request for expeditious disposal of",
+      "bm25_score_raw": 5.877198907104079,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9261348843574524,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Sharjeel Imam Seeks Bail: High Court Review on Delhi ...",
+      "url": "https://www.devdiscourse.com/article/headlines/3951420-sharjeel-imam-seeks-bail-high-court-review-on-delhi-riots-case",
+      "snippet": "Sharjeel Imam appeals against the trial court's bail denial in the 2020 Delhi riots conspiracy case. The appeal cites prolonged trial delays",
+      "bm25_score_raw": 3.126495671574098,
+      "bm25_score_norm": 0.4575301924875557,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.9153954386711121,
+      "embedding_score_norm": 0.8984208775658625,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Consider Sharjeel Imam's plea to expedite bail hearing, SC ...",
+      "url": "https://indianexpress.com/article/india/sc-delhi-hc-sharjeel-imams-plea-to-expedite-bail-hearing-9638437",
+      "snippet": "The bail plea has been pending since April 2022. they are not seeking bail but only a direction to the High Court to grant a hearing. the Delhi",
+      "bm25_score_raw": 2.4024138712839647,
+      "bm25_score_norm": 0.31473306710046434,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8955791592597961,
+      "embedding_score_norm": 0.7109884596086302,
+      "embedding_rank": 3
+    },
+    {
+      "title": "'Can pray for bail after one year': Umar Khalid, Sharjeel ...",
+      "url": "https://timesofindia.indiatimes.com/india/stand-on-a-different-footing-no-bail-for-umar-khalid-sharjeel-imam-key-takeaways-from-supreme-court-verdict/articleshow/126344022.cms",
+      "snippet": "'Can pray for bail after one year': Umar Khalid, Sharjeel Imam to stay in jail — key takeaways from Supreme Court verdict in Delhi riots case.",
+      "bm25_score_raw": 2.414814436069534,
+      "bm25_score_norm": 0.3171785988122767,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8878577947616577,
+      "embedding_score_norm": 0.6379558792853639,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Delhi court rejects Umar Khalid, Sharjeel Imam bail pleas ...",
+      "url": "https://www.thehindu.com/news/cities/Delhi/2020-delhi-riots-case-court-rejects-fresh-bail-pleas-of-umar-khalid-and-sharjeel-imam/article71182544.ece",
+      "snippet": "The Supreme Court, on January 05, 2026 had rejected the bail pleas of the two and had expressly directed that the applicants could renew their",
+      "bm25_score_raw": 2.0923130013268896,
+      "bm25_score_norm": 0.25357766616073163,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.8810478448867798,
+      "embedding_score_norm": 0.5735439205759484,
+      "embedding_rank": 5
+    },
+    {
+      "title": "उमर खालिद-शरजील इमाम की जमानत पर फैसला सुरक्षित, आज ही आ सकता है ...",
+      "url": "https://www.jagran.com/delhi/new-delhi-city-umar-khalid-sharjeel-imam-bail-verdict-reserved-by-karkardooma-court-40294568.html",
+      "snippet": "कड़कड़डूमा कोर्ट ने 2020 दिल्ली दंगा साजिश मामले में उमर खालिद और शरजील इमाम की जमानत याचिकाओं पर फैसला सुरक्षित रख लिया है, जिसके शनिवार को सुनाए जाने की संभावना है।",
+      "bm25_score_raw": 2.6278924646255457,
+      "bm25_score_norm": 0.35919999742878,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8566134572029114,
+      "embedding_score_norm": 0.3424310930954972,
+      "embedding_rank": 6
+    },
+    {
+      "title": "Supreme Court rejects Umar Khalid and Sharjeel Imam's ...",
+      "url": "https://www.scobserver.in/reports/supreme-court-rejects-umar-khalid-and-sharjeel-imams-bail-pleas-says-continued-detention-not-constitutionally-impermissible",
+      "snippet": "Today, the Supreme Court rejected the bail pleas of Umar Khalid and Sharjeel Imam and granted bail to five other co-accused in a batch of bail",
+      "bm25_score_raw": 2.2663898284065795,
+      "bm25_score_norm": 0.28790758647294673,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.853305995464325,
+      "embedding_score_norm": 0.3111474430168511,
+      "embedding_rank": 7
+    },
+    {
+      "title": "Zee UP-UK Live: क्या शरजील इमाम को जमानत देगा कोर्ट? | Sharjeel Imam ...",
+      "url": "https://www.youtube.com/watch?v=D1j1REPNr7A",
+      "snippet": "Zee UP-UK Live: क्या शरजील इमाम को जमानत देगा कोर्ट? | Sharjeel Imam | CAA-NRC | Delhi | Latest News #Terrorattack #CMYogi #GorakhnathTempleAttack",
+      "bm25_score_raw": 1.7406026382945796,
+      "bm25_score_norm": 0.18421640229559896,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.8500586152076721,
+      "embedding_score_norm": 0.28043207405695214,
+      "embedding_rank": 8
+    },
+    {
+      "title": "JNU के पूर्व स्कॉलर शरजील इमाम दिल्ली कोर्ट से 10 दिन की अंतरिम बेल पर बाहर ...",
+      "url": "https://www.instagram.com/reel/DWG-XeRD3h6",
+      "snippet": "दिल्ली से बड़ी खबर कड़कड़डूमा कोर्ट ने उमर खालिद और शरजील इमाम की जमानत याचिका खारिज की। दोनों पर 2020 दिल्ली दंगा साजिश मामले में यूएपीए समेत गंभीर धाराओं के तहत आरोप हैं। कोर्ट ने दोनों को फिलहाल जमानत",
+      "bm25_score_raw": 2.838203846812726,
+      "bm25_score_norm": 0.4006757820714569,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8499262928962708,
+      "embedding_score_norm": 0.27918050254542587,
+      "embedding_rank": 9
+    },
+    {
+      "title": "Delhi Riot Live: उमर खालिद और शरजील इमाम को नहीं मिली जमानत|SC Verdict ...",
+      "url": "https://www.youtube.com/watch?v=65AYJXTy09E",
+      "snippet": "Delhi Riot Live: उमर खालिद और शरजील इमाम को नहीं मिली जमानत|SC Verdict on Umar Khalid Sharjeel Imam. @News18UPUttarakhand5 likes1.4K viewsStreamed 6",
+      "bm25_score_raw": 1.5713100581135546,
+      "bm25_score_norm": 0.15082998961470084,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.8413746356964111,
+      "embedding_score_norm": 0.19829459287280762,
+      "embedding_rank": 10
+    },
+    {
+      "title": "दिल्ली दंगे के आरोपी शरजील इमाम को 10 दिन की अंतरिम जमानत, 6 साल बाद जेल से ...",
+      "url": "https://navbharattimes.indiatimes.com/metro/delhi/other-news/delhi-riots-case-accused-sharjeel-imam-granted-10-days-interim-bail-he-walks-out-of-jail-after-nearly-six-years/amp_articleshow/129699678.cms",
+      "snippet": "दिल्ली की एक अदालत ने 2020 के दिल्ली दंगों के मामले में आरोपी कार्यकर्ता शरजील इमाम को 10 दिन की अंतरिम जमानत दे दी है। वह लगभग 6 साल बाद जेल से बाहर निकलेगा। भाई की शादी में शामिल होने के लिए और बीमार",
+      "bm25_score_raw": 0.9496834023919997,
+      "bm25_score_norm": 0.02823817821236865,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.8289353251457214,
+      "embedding_score_norm": 0.08063728668316636,
+      "embedding_rank": 11
+    },
+    {
+      "title": "दिल्ली दंगा में आरोपी शरजील इमाम तिहाड़ से बाहर आया: 10 दिन की अंतरिम जमानत ...",
+      "url": "https://www.bhaskar.com/amp/g/national/news/sharjeel-imam-interim-bail-delhi-riots-accused-jail-137487696.html",
+      "snippet": "दिल्ली दंगा में आरोपी शरजील इमाम तिहाड़ से बाहर आया:10 दिन की अंतरिम जमानत मिली; 6 साल से जेल में बंद है · मामले से जुड़े किसी भी गवाह या व्यक्ति से संपर्क नहीं करना · जांच अधिकारी को अपना मोबाइल नंबर देना",
+      "bm25_score_raw": 0.8064959897497711,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.8204099535942078,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

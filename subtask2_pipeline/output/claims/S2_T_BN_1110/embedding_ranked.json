@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/BN/1110",
+    "text": "দিল্লি-গুজরাত-হরিয়ানায় চূড়ান্ত আপ-কংগ্রেস আসন সমঝোতা, পঞ্জাবে মুখোমুখি লড়বে দুই দল",
+    "lang": "bengali"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Bitter rivals Congress, AAP seal alliance deal",
+      "url": "https://www.thehindu.com/news/national/aap-congress-alliance-delhi-goa-gujarat-haryana-seat-sharing/article67881244.ece",
+      "snippet": "The Congress and the Aam Aadmi Party (AAP) have arrived at a seat-sharing understanding in Delhi, Goa, Gujarat, Haryana, and Chandigarh, in a bid to defeat the",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.8778327107429504,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "AAP, Congress seal seat-sharing pact in Delhi, Haryana, ...",
+      "url": "https://www.indiatoday.in/india/story/lok-sabha-polls-aap-congress-seal-seat-sharing-pact-in-delhi-haryana-gujarat-chandigarh-goa-2506519-2024-02-24",
+      "snippet": "The AAP and Congress finalised their seat-sharing formula for Delhi, Chandigarh, Haryana, Gujarat and Goa. While Delhi elects its government",
+      "bm25_score_raw": 1.5550451512423,
+      "bm25_score_norm": 0.5393186075229197,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8681670427322388,
+      "embedding_score_norm": 0.8997460932549336,
+      "embedding_rank": 2
+    },
+    {
+      "title": "LS polls: AAP, Cong to share seats in Delhi, Gujarat, Goa, Haryana",
+      "url": "https://www.deccanchronicle.com/amp/nation/politics/ls-polls-aap-cong-to-share-seats-in-delhi-gujarat-goa-haryana-contest-separately-in-punjab-883222",
+      "snippet": "NEW DELHI: It is official now! The AAP and the Congress on Saturday finally announced their seat-sharing arrangements for Delhi, Goa,",
+      "bm25_score_raw": 1.4729606564553164,
+      "bm25_score_norm": 0.5108501766272817,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8606321811676025,
+      "embedding_score_norm": 0.8215932632797185,
+      "embedding_rank": 3
+    },
+    {
+      "title": "After Delhi, AAP-Congress Seal Seat Deal For Goa ...",
+      "url": "https://www.ndtv.com/india-news/after-delhi-aap-congress-seal-seat-deal-for-goa-haryana-gujarat-sources-5105903",
+      "snippet": "The AAP and the Congress have agreed seat-sharing deals for Delhi, Gujarat, Goa, Chandigarh, and Haryana ahead of the Lok Sabha election,",
+      "bm25_score_raw": 1.5128903128050086,
+      "bm25_score_norm": 0.5246985247888646,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8575628995895386,
+      "embedding_score_norm": 0.78975816727181,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Congress & AAP Seal Seat-Sharing Pact in Three States",
+      "url": "https://www.youtube.com/watch?v=URzDjcUpD1A",
+      "snippet": "The Congress and the Aam Aadmi Party (AAP) are setting a new course with a seat-sharing pact in three Indian states - Delhi, Haryana,",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.8575263023376465,
+      "embedding_score_norm": 0.7893785745241335,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Congress-AAP Clinch Seat-Sharing Deals in Delhi, Gujarat ...",
+      "url": "https://www.newsclick.in/congress-aap-clinch-seat-sharing-deals-delhi-gujarat-haryana-lok-sabha-polls",
+      "snippet": "The Congress and Aam Aadmi Party (AAP), both constituents of the Opposition INDIA bloc, on Saturday sealed a seat-sharing arrangement in four states and one",
+      "bm25_score_raw": 1.4729606564553164,
+      "bm25_score_norm": 0.5108501766272817,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8459999561309814,
+      "embedding_score_norm": 0.6698254058829457,
+      "embedding_rank": 6
+    },
+    {
+      "title": "Congress-AAP Finally Announced Seat-Sharing Deal In Delhi ...",
+      "url": "https://www.youtube.com/watch?v=21Reo3sanDs",
+      "snippet": "Congress-AAP Finally Announced Seat-Sharing Deal In Delhi, Gujrat And Other States | News18. 778 views · 2 years ago.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.8435407876968384,
+      "embedding_score_norm": 0.6443185042809283,
+      "embedding_rank": 7
+    },
+    {
+      "title": "Haryana–Punjab Face-Off: Saini Rejects AAP Charges, War of ...",
+      "url": "https://www.youtube.com/watch?v=CqkbXp9Rb48",
+      "snippet": "Nayab Singh Saini hit back at the Aam Aadmi Party and its convenor Arvind Kejriwal amid allegations of 'Operation Lotus'-style tactics to",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.819338858127594,
+      "embedding_score_norm": 0.39329208920058634,
+      "embedding_rank": 8
+    },
+    {
+      "title": "'पंजाब को लूटकर कंगाल कर दिया' #punjab #anilvij #haryana #delhi #politics # ...",
+      "url": "https://www.instagram.com/reel/DX_v-rUTMJU?hl=bn",
+      "snippet": "पंजाब मिशन पर बीजेपी सिख दलित वोट पर फोकस. पंजाब की राजनीति में बीजेपी ने अब अपनी तैयारी तेज कर दी. पीएम मोदी और गृह मंत्री अमित शाह के बाद पार्टी अध्यक्ष नितिन नवीन भी पंजाब के तीन दिन के दौरे पर पहुंचे",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8073422312736511,
+      "embedding_score_norm": 0.2688610919288319,
+      "embedding_rank": 9
+    },
+    {
+      "title": "Amit Shah kicks off Punjab poll campaign, urges BJP leaders to ...",
+      "url": "https://india.shafaqna.com/EN/amit-shah-kicks-off-punjab-poll-campaign-urges-bjp-leaders-to-prepare-for-all-117-seats",
+      "snippet": "Shafaqna India: The ruling BJP at the Centre has made it clear that recovery of Punjab from its current financial decline was top government",
+      "bm25_score_raw": 2.883351565384687,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8063703179359436,
+      "embedding_score_norm": 0.2587802460923276,
+      "embedding_rank": 10
+    },
+    {
+      "title": "RPLUS - দিল্লি, হরিয়ানা, পঞ্জাব এবং ত্রিপুরা-- চার রাজ্যে নতুন সভাপতিদের ...",
+      "url": "https://www.facebook.com/photo.php?fbid=1449985827158870&set=a.606291438194984&id=100064424000471",
+      "snippet": "দিল্লি, হরিয়ানা, পঞ্জাব এবং ত্রিপুরা-- চার রাজ্যে নতুন সভাপতিদের নাম ঘোষণা করল ভারতীয় জনতা পার্টি। দিল্লির বিজেপি সভাপতি হয়েছেন হর্ষ মালহোত্রা, হরিয়ানার",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.7990292310714722,
+      "embedding_score_norm": 0.18263727934625967,
+      "embedding_rank": 11
+    },
+    {
+      "title": "পাখির চোখ পাঞ্জাব-সহ ৪ রাজ্যে মাথা বদল, নতুন রাজ্য সভাপতিদের নাম ঘোষণা ...",
+      "url": "https://m.sangbadpratidin.in/article/india/bjp-announces-new-chiefs-for-delhi-punjab-haryana-and-tripura-units/1208807",
+      "snippet": "দিল্লির বিজেপি সভাপতি হয়েছেন পূর্ব দিল্লি লোকসভা কেন্দ্রের সাংসদ এবং কর্পোরেট বিষয়ক এবং সড়ক পরিবহণ মন্ত্রকের প্রতিমন্ত্রী হর্ষ মলহোত্র। পাঞ্জাবের বিজেপি সভাপতি করা হয়েছে প্রাক্তন কংগ্রেস নেতা কেওয়াল সিং ধিঁলোকে।",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.7814208269119263,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

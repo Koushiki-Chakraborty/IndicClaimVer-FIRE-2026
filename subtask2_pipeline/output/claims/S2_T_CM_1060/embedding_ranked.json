@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/CM/1060",
+    "text": "ekta ghanta ghar varanasi bhaiya apne mudiji ka elaka ghaziabad mein ye kahan london jaisa big ben",
+    "lang": "codemix"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Kitne log aaye hai yaha? #ghantaghar #ghaziabad ...",
+      "url": "https://www.instagram.com/reel/Da8CjKAPAtM",
+      "snippet": "Milte hain par yeh badhiya lag rahe hain. Bhaiya apne Meerut ki market fail karke Turab Nagar ki market mein aaye hain jo Ghaziabad mein padti",
+      "bm25_score_raw": 3.9908764211595353,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8449081778526306,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "I Didn't Expect Varanasi, India to Be Like This…🇮🇳",
+      "url": "https://www.youtube.com/watch?v=ND1D2xcuYbA",
+      "snippet": "... Ben living in Portsmouth, England. We have been together from the age of 15. We brought our first house together at 23, got married at 25",
+      "bm25_score_raw": 1.9427340465439118,
+      "bm25_score_norm": 0.4867938371239912,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8351768255233765,
+      "embedding_score_norm": 0.8745467384764573,
+      "embedding_rank": 2
+    },
+    {
+      "title": "BIG ACTION; GHAZIABAD - VARANASI UPDATE| Face to Face",
+      "url": "https://www.youtube.com/watch?v=jAxSCzVpPac",
+      "snippet": "GHAZIABAD - VARANASI UPDATE|. Face to Face is an endeavor by Dr. Syed Rizwan Ahmed. Ghaza, Egypt & UK. ID KOLKTA CONTROVERSY|",
+      "bm25_score_raw": 0.8995011863803485,
+      "bm25_score_norm": 0.22538938605345277,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.8348888158798218,
+      "embedding_score_norm": 0.8708338167866784,
+      "embedding_rank": 3
+    },
+    {
+      "title": "घंटा घर गाजियाबाद 📍 Follow Us More - @ghaziabad_se_hai_ ...",
+      "url": "https://www.instagram.com/p/DFw-t5Fy7X4?hl=en",
+      "snippet": "at Ghanta Ghar, Ghaziabad. Location:- Wave City, Ghaziabad. Apartments Gate 1 End Point:- ISKCON Wave City, Sector. Events, Spiritual Festival,",
+      "bm25_score_raw": 0.6587931448095582,
+      "bm25_score_norm": 0.16507480445063447,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.8314156532287598,
+      "embedding_score_norm": 0.8260589933464013,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Varanasi, India to London, United Kingdom",
+      "url": "https://savvytime.com/converter/india-varanasi-to-united-kingdom-london",
+      "snippet": "Convert Varanasi, India time to London, United Kingdom time. Compare current local time, UTC offsets, time difference, table and map.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.824371337890625,
+      "embedding_score_norm": 0.7352460924803347,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Varanasi time to London time conversion",
+      "url": "https://24timezones.com/difference/varanasi/london",
+      "snippet": "Varanasi is 4:30 hours ahead of London. If you are in Varanasi, the most convenient time to accommodate all parties is between 1:30 pm and 6:00 pm for a ...Read more",
+      "bm25_score_raw": 3.550223136430171,
+      "bm25_score_norm": 0.8895848334483547,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8238121271133423,
+      "embedding_score_norm": 0.7280369386530362,
+      "embedding_rank": 6
+    },
+    {
+      "title": "Shooting in GHANTA GHAR GHAZIABAD . . . . . GHAZIABAD ...",
+      "url": "https://www.instagram.com/reel/DQo2bvhElcU?hl=en",
+      "snippet": "Dosto, yeh video hai Ghukna Mor, Ghaziabad ki. Aapne dekha hoga, jo Ghaziabad se unhe pata hai Ghukna Mor kahan pe hai. Yeh jo ghar hai, iske",
+      "bm25_score_raw": 1.9237830872822195,
+      "bm25_score_norm": 0.48204526631853734,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8214393854141235,
+      "embedding_score_norm": 0.6974483652617448,
+      "embedding_rank": 7
+    },
+    {
+      "title": "The World Clock – Time Zone Converter – Results",
+      "url": "https://www.timeanddate.com/worldclock/converted.html?p1=1045&p2=179&p3=136&p4=16&p5=236",
+      "snippet": "Varanasi (India – Uttar Pradesh) Sunday, July 19, 2026 at 1:36:45 pm IST … 4:06:45 am EDT UTC-4 hours London (United Kingdom – England)",
+      "bm25_score_raw": 3.4664801981223996,
+      "bm25_score_norm": 0.8686012374984103,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8109809160232544,
+      "embedding_score_norm": 0.562621359596312,
+      "embedding_rank": 8
+    },
+    {
+      "title": "Varanasi To Ghaziabad Trains",
+      "url": "https://www.makemytrip.com/railways/varanasi-ghaziabad-train-tickets.html",
+      "snippet": "There are around 5 trains runs from Varanasi to Ghaziabad on a daily basis. Travel time by train between Varanasi to Ghaziabad is 11h 05m. Currently 37",
+      "bm25_score_raw": 1.0459180461608073,
+      "bm25_score_norm": 0.2620772822268747,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.8043242692947388,
+      "embedding_score_norm": 0.4768061496802292,
+      "embedding_rank": 9
+    },
+    {
+      "title": "Varanasi to Ghaziabad Trains | 111 Trains with Timings, ...",
+      "url": "https://www.redbus.in/train-tickets/varanasi-to-ghaziabad-trains",
+      "snippet": "There are 38 trains running weekly from Varanasi to Ghaziabad. 13 hrs 49 mins ₹405. To cover this route, you will need about 12h 11m. The average train ticket",
+      "bm25_score_raw": 0.8326306800103072,
+      "bm25_score_norm": 0.20863354114292249,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.8002446889877319,
+      "embedding_score_norm": 0.4242135974999251,
+      "embedding_rank": 10
+    },
+    {
+      "title": "Ghantaghar Bajariya Ghaziabad Vlog",
+      "url": "https://www.youtube.com/watch?v=NDRCAjmHt6w",
+      "snippet": "Ghaziabad Ghanta Ghar bajariya Market vlogs by Namoksha. Ghantaghar is the oldest and famous bazar of ghaziabad and it is situated location",
+      "bm25_score_raw": 1.7961731833309056,
+      "bm25_score_norm": 0.4500698577905436,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.7930722236633301,
+      "embedding_score_norm": 0.331748630898547,
+      "embedding_rank": 11
+    },
+    {
+      "title": "Ghanta Ghar in Ghaziabad, Uttar Pradesh, India",
+      "url": "https://maps.apple.com/place?auid=3086902618267495377",
+      "snippet": "View details about Ghanta Ghar in Ghaziabad, Uttar Pradesh, India on Apple Maps. Address, driving directions, images, nearby attractions and more.",
+      "bm25_score_raw": 2.443787091294377,
+      "bm25_score_norm": 0.6123434637909292,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.7673386335372925,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

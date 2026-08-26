@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/CM/1103",
+    "text": "haan ji takay ye haramkhor cpec ko koi nuqsaan na pohancha sakay apne endian funders k sath pakistan ko jaise naik aur honest aadmi ki zarurat hai",
+    "lang": "codemix"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "As Pakistan Wastes CPEC Opportunity, China Rethinks ...",
+      "url": "https://www.chinausfocus.com/finance-economy/as-pakistan-wastes-cpec-opportunity-china-rethinks-support",
+      "snippet": "**Ten years after its launch, the China-Pakistan Economic Corridor (CPEC) has underperformed, with many key projects stalled due to Pakistan's political mismanagement and inefficiencies. While China continues to support the initiative diplomatically, its future success depends on Pakistan’s ability to implement strategic reforms and restore investor confidence.**. Ten years ago, the China-Pakistan Economic Corridor (CPEC) was launched with fanfare during President Xi Jinping’s landmark visit to Islamabad on April 20, 2015. The $65 billion corridor was billed as the flagship of China’s ambitious Belt and Road Initiative (BRI). For Pakistan, it was a transformative leap for its economic future. For China, CPEC offered a strategic outlet to the Arabian Sea, circumventing the Malacca choke point for its maritime trade, shortening western China’s access to the sea, and serving as a means of stabilizing its restive Xinjiang province by fostering economic integration. The failure was not due to a lack of Chinese commitment, but rather to Pakistan’s politicians’ propensity for politically marketable projects and a chronic disinterest within Pakistan’s bureaucracy in planning, coordinating, and executing.",
+      "bm25_score_raw": 0.568436316182108,
+      "bm25_score_norm": 0.1279991206150959,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.8160601258277893,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Pakistan 'pernicious cradle of terrorism', must remember it is worst ...",
+      "url": "https://m.economictimes.com/news/politics-and-nation/pakistan-pernicious-cradle-of-terrorism-must-remember-it-is-worst-form-of-rights-abuse-india-at-unhrc/amp_articleshow/74342587.cms",
+      "snippet": "Pakistan's \"nefarious designs\" aimed at damaging the syncretic fabric of Indian society.",
+      "bm25_score_raw": 3.440655960243466,
+      "bm25_score_norm": 0.7747586224050511,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8087384700775146,
+      "embedding_score_norm": 0.8022359284464258,
+      "embedding_rank": 2
+    },
+    {
+      "title": "'Nefarious agenda': India slams Pakistan at UNSC; says it shelled ...",
+      "url": "https://timesofindia.indiatimes.com/india/nefarious-agenda-india-slams-pakistan-at-unsc-says-shelled-civilians-supports-terror/amp_articleshow/122082957.cms",
+      "snippet": "India has strongly rebuked Pakistan at the UNSC, accusing them of exploiting the platform to advance a nefarious agenda.",
+      "bm25_score_raw": 4.440939230289274,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8076877593994141,
+      "embedding_score_norm": 0.7738553504988497,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Pakistan warns UN over Indian NGOs behind 'fake news'",
+      "url": "https://www.aa.com.tr/en/asia-pacific/pakistan-warns-un-over-indian-ngos-behind-fake-news/2074092",
+      "snippet": "Pakistan on Friday demanded the UN immediately delist 10 fake NGOs identified by a Europe-based disinformation watchdog as being part of a",
+      "bm25_score_raw": 3.5901871153543645,
+      "bm25_score_norm": 0.8084296877713651,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8070597052574158,
+      "embedding_score_norm": 0.7568910805967842,
+      "embedding_rank": 4
+    },
+    {
+      "title": "CPEC: China's Gift to Pakistan Is Becoming Too Hot to Handle",
+      "url": "https://politicstoday.org/cpec-china-pakistan-economy",
+      "snippet": "The CPEC and the heat of the New Great Game that Pakistan faces may be behind much of what is rattling Pakistan these days.",
+      "bm25_score_raw": 1.7865485747352006,
+      "bm25_score_norm": 0.4022907052071569,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8019914031028748,
+      "embedding_score_norm": 0.6199919823418324,
+      "embedding_rank": 5
+    },
+    {
+      "title": "China Issues Rare Warning to Pakistan Over Delays in CPEC ...",
+      "url": "https://www.youtube.com/watch?v=Ojey0H4GLG4",
+      "snippet": "China has firmly asked Pakistan to fulfill its long pending commitments under the China Pakistan economic corridor or the CPEC.",
+      "bm25_score_raw": 1.814247002250475,
+      "bm25_score_norm": 0.4085277704041671,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.7973370552062988,
+      "embedding_score_norm": 0.494274136290529,
+      "embedding_rank": 6
+    },
+    {
+      "title": "Pakistan | China | Economic Corridor | CPEC | Protecting infrastructure projects | Free analysis",
+      "url": "https://www.iiss.org/online-analysis/online-analysis/2019/09/sasia-pakistan-protects-chinese-investments",
+      "snippet": "* Pakistan refocuses on counter-terrorism to protect China’s investments. China has publicly affirmed its confidence in Pakistan’s capacity to handle security threats to bilateral infrastructure projects. Countering terrorism has become a renewed priority for Pakistan, amid growing Chinese impatience at persistent insecurity along the China–Pakistan Economic Corridor (CPEC). Given Pakistan’s current economic challenges and the importance of Chinese investments, Islamabad is taking significant measures to counter terrorist activity that may target CPEC. This has substantially increased the presence of Chinese nationals in areas of Pakistan with CPEC projects, such as Balochistan and the tribal areas. In Balochistan, the presence of the various energy and infrastructure projects that fall under the umbrella of CPEC has exacerbated pre-existing grievances related to lack of economic opportunities and perceived local threats to traditional livelihoods. Despite the security threats to CPEC, economic cooperation has continued and China has publicly affirmed its confidence in Pakistan’s capacity to counter security threats.",
+      "bm25_score_raw": 1.1820094105571277,
+      "bm25_score_norm": 0.26616203223301793,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.7968671321868896,
+      "embedding_score_norm": 0.4815811208299725,
+      "embedding_rank": 7
+    },
+    {
+      "title": "China–Pakistan Economic Corridor relaunch exposes China–Pakistan interdependence | East Asia Forum",
+      "url": "https://eastasiaforum.org/2025/10/16/cpec-relaunch-exposes-china-pakistan-interdependence",
+      "snippet": "Despite persistent issues plaguing Phase II of the China–Pakistan Economic Corridor, China has signalled its commitments to complete the project. For Islamabad, completion of Phase II means a significant boost to industrialisation and infrastructure modernisation at a time of severe political and economic challenges. The very conceptualisation and Beijing’s re-commitment to the project underscores the mutual interdependence behind the China–Pakistan partnership. Phase II of the China–Pakistan Economic Corridor (CPEC) has been plagued with various problems, including attacks on Chinese personnel leading to several deaths, slow payback of loans and a generally lackadaisical attitude of Pakistani counterparts in executing major projects. Yet public pronouncements during Chinese Foreign Minister Wang Yi’s May 2025 visit to Pakistan suggested China’s renewed interest in its completion. Phase II of CPEC is meant to focus on the development of industrial parks to facilitate industrial development in Pakistan.",
+      "bm25_score_raw": 0.6381883864907746,
+      "bm25_score_norm": 0.14370572381131283,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.7966234087944031,
+      "embedding_score_norm": 0.4749979472863125,
+      "embedding_rank": 8
+    },
+    {
+      "title": "India hits out at Pakistan for raking up Kashmir issue at UNHRC",
+      "url": "https://www.thehindu.com/news/national/india-hits-out-at-pakistan-for-raking-up-kashmir-issue-at-unhrc/article67899032.ece/amp",
+      "snippet": "India has said it cannot pay any attention to a country which is soaked in red due to the bloodshed from terrorism that it sponsors around the world.",
+      "bm25_score_raw": 1.1777135977706465,
+      "bm25_score_norm": 0.26519471145610174,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.7964640259742737,
+      "embedding_score_norm": 0.4706928834428919,
+      "embedding_rank": 9
+    },
+    {
+      "title": "China–Pakistan Economic Corridor - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/China%E2%80%93Pakistan_Economic_Corridor",
+      "snippet": "+ 8.4 Access to western China. # China–Pakistan Economic Corridor. This sea-and-land-based corridor aims to secure and shorten the route for China's energy imports from the Middle East, avoiding the existing path through the Straits of Malacca between Malaysia and Indonesia, which could be blockaded in case of war, thereby threatening China's energy-dependent economy. Developing a deep-water port at Gwadar in the Arabian Sea and establishing a robust road and rail network from this port to the Xinjiang region in western China would serve as a shortcut, enhancing trade between Europe and China. CPEC is seen as the main plank of China's Belt and Road Initiative, and as of early 2024, is the BRI's most developed land corridor. In November 2014, the Chinese government announced its intention to finance Chinese companies as part of its $45.6 billion energy and infrastructure projects in Pakistan as part of CPEC.",
+      "bm25_score_raw": 0.6381883864907746,
+      "bm25_score_norm": 0.14370572381131283,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.7958062291145325,
+      "embedding_score_norm": 0.4529252377525442,
+      "embedding_rank": 10
+    },
+    {
+      "title": "No Criminal Offence In Merely Supporting Pakistan: Allahabad ...",
+      "url": "https://www.ndtv.com/india-news/no-criminal-offence-in-merely-supporting-pakistan-allahabad-high-court-8862645/amp/1",
+      "snippet": "The Allahabad High Court has ruled that merely showing support to Pakistan, without referring to any incident or mentioning the name of India.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.7858189940452576,
+      "embedding_score_norm": 0.1831616298707676,
+      "embedding_rank": 11
+    },
+    {
+      "title": "More Victims Speak Out Against NCCIA | Shocking Revelations",
+      "url": "https://www.youtube.com/watch?v=sqOoaSdCzfw&vl=en-US",
+      "snippet": "More Victims Speak Out Against NCCIA. Shocking Revelations. ARY News is a leading Pakistani news channel. Say NCCIA Afsaran Nay Kitnay. Naik",
+      "bm25_score_raw": 2.773678449239688,
+      "bm25_score_norm": 0.6245702328736924,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.7790379524230957,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

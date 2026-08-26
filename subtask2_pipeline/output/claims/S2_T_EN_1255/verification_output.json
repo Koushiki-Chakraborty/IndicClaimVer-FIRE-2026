@@ -1,0 +1,6 @@
+{
+  "ID": "S2/T/EN/1255",
+  "Evidence": "India reported 43,082 new confirmed COVID-19 cases in the last 24 hours, with Maharashtra leading with 6,406 new cases (Source 1). The evidence does not mention the specific number of 12,847 new cases or that Maharashtra has 4,255 fresh infections. Instead, it highlights Maharashtra's significant contribution to the overall active cases and new infections, but the exact figures in the claim are not corroborated by the sources provided.",
+  "Prediction": "REFUTES",
+  "Justification": "The claim states that India logged 12,847 new COVID-19 cases and that Maharashtra had 4,255 fresh infections. However, the retrieved evidence from Source 1 indicates that India reported 43,082 new cases, with Maharashtra contributing 6,406 of those, which contradicts the claim's specific numbers. Therefore, the evidence directly refutes the claim."
+}

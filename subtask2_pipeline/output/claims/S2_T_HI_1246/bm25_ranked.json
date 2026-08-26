@@ -1,0 +1,105 @@
+{
+  "claim": {
+    "id": "S2/T/HI/1246",
+    "text": "MP: ‘हाल नियंत्रण में है’, रेमडेसिविर की कमी पर हुआ प्रश्न तो जवाब दिया मंत्री और BJP नगर अध्यक्ष ने",
+    "lang": "hindi"
+  },
+  "ranked_evidence": [
+    {
+      "title": "Black Marketing, Hoarding of Remdesivir After Shortage in ...",
+      "url": "https://theleaflet.in/covid-19/black-marketing-hoarding-of-remdesivir-after-shortage-in-gujarat-amid-covid-surge",
+      "snippet": "BJP members/ leaders – Surat BJP stocked with Remdesivir for distribution from their city office. Vijay Rupani, the Chief Minister of Gujarat",
+      "bm25_score_raw": 4.27082498314001,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Remdesivir shortage: Gujarat daily publishes BJP ...",
+      "url": "https://www.newslaundry.com/2021/04/12/remdesivir-shortage-gujarat-daily-publishes-bjp-presidents-phone-number-on-front-page-demands-answers",
+      "snippet": "After reports surfaced in Gujarat on a shortage of Remdesivir injections state BJP president CR Patil announced that 5,000 doses of the same",
+      "bm25_score_raw": 3.8955619525336096,
+      "bm25_score_norm": 0.912133362503069,
+      "bm25_rank": 2
+    },
+    {
+      "title": "Surat: BJP distributes 1000 remdesivir injections obtained ...",
+      "url": "https://timesofindia.indiatimes.com/city/surat/bjp-distributes-1000-remdesivir-injections-got-from-friends/articleshow/82008775.cms",
+      "snippet": "Amid massive shortage of remdesivir injections across the state, the city unit of Surat BJP on Saturday was seen distributing 1000 vials of",
+      "bm25_score_raw": 3.2087972947362076,
+      "bm25_score_norm": 0.7513296160352199,
+      "bm25_rank": 3
+    },
+    {
+      "title": "राज्यसभा चुनाव से पहले MP में सियासी घमासान, BJP के तीसरे ...",
+      "url": "https://www.facebook.com/indiatvnews/posts/%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A4%AD%E0%A4%BE-%E0%A4%9A%E0%A5%81%E0%A4%A8%E0%A4%BE%E0%A4%B5-%E0%A4%B8%E0%A5%87-%E0%A4%AA%E0%A4%B9%E0%A4%B2%E0%A5%87-mp-%E0%A4%AE%E0%A5%87%E0%A4%82-%E0%A4%B8%E0%A4%BF%E0%A4%AF%E0%A4%BE%E0%A4%B8%E0%A5%80-%E0%A4%98%E0%A4%AE%E0%A4%BE%E0%A4%B8%E0%A4%BE%E0%A4%A8-bjp-%E0%A4%95%E0%A5%87-%E0%A4%A4%E0%A5%80%E0%A4%B8%E0%A4%B0%E0%A5%87-%E0%A4%89%E0%A4%AE%E0%A5%8D%E0%A4%AE%E0%A5%80%E0%A4%A6%E0%A4%B5%E0%A4%BE%E0%A4%B0-%E0%A4%A8%E0%A5%87-%E0%A4%AC%E0%A4%A2%E0%A4%BC%E0%A4%BE%E0%A4%88-%E0%A4%95%E0%A4%BE%E0%A4%82%E0%A4%97/1567039128792543",
+      "snippet": "राज्यसभा चुनाव से पहले MP में सियासी घमासान, BJP के तीसरे उम्मीदवार ने बढ़ाई कांग्रेस की टेंशन #MadhyaPradesh #RajyaSabhaElection #BJP #Congress #MPPolitics.",
+      "bm25_score_raw": 2.238586988251262,
+      "bm25_score_norm": 0.5241579781631325,
+      "bm25_rank": 4
+    },
+    {
+      "title": "MP News LIVE : Bhopal में BJP की आक्रोश रैली, 20 हजार ...",
+      "url": "https://www.youtube.com/watch?v=5IyX3HMj39w",
+      "snippet": "MP News LIVE : Bhopal में BJP की आक्रोश रैली, 20 हजार महिलाएं हुई शामिल | #mpnews #madhyapradesh #livenews #breakingnews #heatwave #weatheralert",
+      "bm25_score_raw": 2.2183231885084793,
+      "bm25_score_norm": 0.5194132743125233,
+      "bm25_rank": 5
+    },
+    {
+      "title": "Hon Minister Shri Rajesh Tope ji, Doctors are prescribing ...",
+      "url": "https://www.facebook.com/LavekarBharati/posts/hon-minister-shri-rajesh-tope-ji-doctors-are-prescribing-remdesivir-injection-to/3815963591763643",
+      "snippet": "BJP leaders had contacted Bruck Pharma to supply the stock to Maharashtra as the state is facing a shortage of Remdesivir vials. It was an act",
+      "bm25_score_raw": 2.2081015463913296,
+      "bm25_score_norm": 0.5170199095276159,
+      "bm25_rank": 6
+    },
+    {
+      "title": "Amid Shortage For Common Man, Gujarat BJP Chief ...",
+      "url": "https://www.youtube.com/watch?v=WYjMObbL6qM",
+      "snippet": "Gujarat BJP Chief CR Patil on Friday had announced that the party unit will distribute 5000 Remdesivir injections daily to those in need free",
+      "bm25_score_raw": 1.6489112518396667,
+      "bm25_score_norm": 0.38608729188133317,
+      "bm25_rank": 7
+    },
+    {
+      "title": "Ashta से MP का भविष्य, BJP वरिष्ठ नेता रायसिंह मेवाड़ा, News24 ...",
+      "url": "https://www.youtube.com/watch?v=056Umsazih4",
+      "snippet": "Madhya Pradesh is strategically the most important and a large state in central India which has retained important landmarks from various",
+      "bm25_score_raw": 1.5976586962510362,
+      "bm25_score_norm": 0.37408667003638263,
+      "bm25_rank": 8
+    },
+    {
+      "title": "MP Panchayat Elections: मध्य प्रदेश पंचायत चुनाव में BJP ने ...",
+      "url": "https://www.aajtak.in/madhya-pradesh/video/bjp-got-big-victory-in-madhya-pradesh-panchayat-elections-cm-shivraj-singh-chouhan-speaks-to-aajtak-1508868-2022-07-29",
+      "snippet": "पंचायत चुनावों में भाजपा को बड़ी जीत मिली है. 51 में से 40 जिलों में उसने अपने अध्यक्ष बनने का दावा किया है. वहीं, कांग्रेस को दस जिलों में जीत मिलने की बात कही जा रही है. सिवनी जिले में गोड़वाना गणतंत्र पार्टी",
+      "bm25_score_raw": 1.2542324880151012,
+      "bm25_score_norm": 0.2936745225960911,
+      "bm25_rank": 9
+    },
+    {
+      "title": "BJP's Remdesivir procurement for Surat not part of govt ...",
+      "url": "https://indianexpress.com/article/cities/ahmedabad/bjps-remdesivir-procurement-for-surat-not-part-of-govt-stocks-cm-rupani-7268115",
+      "snippet": "Chief Minister Vijay Rupani said the state government had provided at least 25,000 vials of Remdesivir injections to Ahmedabad,",
+      "bm25_score_raw": 1.0912466389445257,
+      "bm25_score_norm": 0.25551190771161403,
+      "bm25_rank": 10
+    },
+    {
+      "title": "PM Shri Narendra Modi lays the foundation stone of various ...",
+      "url": "https://www.bjp.org/video-gallery/pm-shri-narendra-modi-lays-foundation-stone-various-projects-gwalior-madhya-pradesh",
+      "snippet": "PM Shri Narendra Modi lays the foundation stone of various projects in Gwalior, Madhya Pradesh ... BJP Central Office 6-A, Pandit Deen Dayal Upadhyaya Marg, New",
+      "bm25_score_raw": 0.8923262607676149,
+      "bm25_score_norm": 0.20893533785398902,
+      "bm25_rank": 11
+    },
+    {
+      "title": "जिला अध्यक्ष | भारतीय जनता पार्टी मध्य प्रदेश",
+      "url": "https://mp.bjp.org/hi/district-president",
+      "snippet": "Shri Kamlesh Kushwaha जिला अध्यक्ष - मुरैना · श्री देवेन्द्र नावरिया जिला अध्यक्ष - भिंड · श्री रघुवीर शरण कुशवाह जिला अध्यक्ष - दतिया · श्री जयप्रकाश राजोरिया जिला अध्यक्ष - ग्वालियर (नगर) · श्री प्रेमसिंह राजपूत जिला",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12
+    }
+  ]
+}

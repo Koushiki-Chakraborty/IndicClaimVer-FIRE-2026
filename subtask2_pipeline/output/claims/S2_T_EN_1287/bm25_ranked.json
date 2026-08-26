@@ -1,0 +1,57 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1287",
+    "text": "'Beneath my dignity to clarify on NC claims of BJP alliance'",
+    "lang": "english"
+  },
+  "ranked_evidence": [
+    {
+      "title": "BJP Core Group Meeting: Ravinder Raina Drops Corruption Allegations ...",
+      "url": "https://www.facebook.com/News18JKLH/posts/bjp-core-group-meeting-ravinder-raina-drops-corruption-allegations-against-nc-mi/1464541522361462",
+      "snippet": "BJP Leader Devender Rana Reveals 2014 NC-BJP Alliance Attempt, Claims NC Agreed to BJP Chief Minister in J&K. Danishwar Hameed Jammu",
+      "bm25_score_raw": 3.341909867523814,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "NC has a secret alliance with BJP' claims Inam U Nabi of AIP during a ...",
+      "url": "https://www.youtube.com/watch?v=jGR7REhkyls",
+      "snippet": "NC has a secret alliance with BJP' claims Inam U Nabi of AIP during a heated TV debate. 904 views · 1 year ago.",
+      "bm25_score_raw": 3.101241978691228,
+      "bm25_score_norm": 0.8736350749091236,
+      "bm25_rank": 2
+    },
+    {
+      "title": "The collaboration between the NC and the BJP appears to be predetermined",
+      "url": "https://www.facebook.com/jknewstoday/posts/the-collaboration-between-the-nc-and-the-bjp-appears-to-be-predetermined-altaf-b/1439292938230027",
+      "snippet": "PDP and BJP are in the secret alliance with NC and Congress, adding that some parties are openly forging an alliance while some are behind the",
+      "bm25_score_raw": 2.309316349235239,
+      "bm25_score_norm": 0.457827119268796,
+      "bm25_rank": 3
+    },
+    {
+      "title": "Omar Abdullah Responds to BJP Legal Notice, Says NC Will Take ...",
+      "url": "https://www.facebook.com/thepublishnews/posts/omar-abdullah-responds-to-bjp-legal-notice-says-nc-will-take-legal-recourse/1377430861161197",
+      "snippet": "No possibility about NC forging any alliance with BJP, says CM Omar Abdullah - The Global Kashmir. Reyaz Ahmad and 7 others. 8 reactions ·. 4",
+      "bm25_score_raw": 1.8319716290022563,
+      "bm25_score_norm": 0.20719281110512608,
+      "bm25_rank": 4
+    },
+    {
+      "title": "NC Rules Out BJP Alliance, Reaffirms Fight for Statehood and Article 370: ...",
+      "url": "https://www.youtube.com/watch?v=sL2ZPMw_f84",
+      "snippet": "NC Rules Out BJP Alliance, Reaffirms Fight for Statehood and Article 370:NC leader Majeed Larm.",
+      "bm25_score_raw": 1.6938415390084751,
+      "bm25_score_norm": 0.1346663159439784,
+      "bm25_rank": 5
+    },
+    {
+      "title": "NC challenges Mehbooba Mufti over Rajya Sabha polls Srinagar, May ...",
+      "url": "https://www.instagram.com/p/DX9FfxhNwel",
+      "snippet": "NC chief spokesperson Tanvir Sadiq alleged that Mufti had “joined hands” form a post-poll alliance with the BJP.",
+      "bm25_score_raw": 1.4373632644256233,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6
+    }
+  ]
+}

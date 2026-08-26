@@ -1,0 +1,57 @@
+{
+  "claim": {
+    "id": "S2/1428",
+    "text": "Karnataka govt urges people to visit hospitals even for non-emergency care.",
+    "lang": "dev"
+  },
+  "ranked_evidence": [
+    {
+      "title": "Don't visit hospitals for 2 weeks except in an emergency",
+      "url": "https://www.deccanherald.com/india/karnataka/dont-visit-hospitals-for-2-weeks-except-in-an-emergency-karnataka-govt-1071446.html",
+      "snippet": "Don't visit hospitals for 2 weeks except in an emergency: Karnataka govt Orders are already in place to reserve 75% beds … weeks unless in an",
+      "bm25_score_raw": 4.743665625238354,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Bengaluru hospitals to only admit emergency cases for ...",
+      "url": "https://www.thenewsminute.com/karnataka/bengaluru-hospitals-only-admit-emergency-cases-next-two-weeks-karnataka-govt-159915",
+      "snippet": "The Karnataka government on Saturday, January 15 said only patients requiring emergency care may visit the hospitals for the next two weeks to prevent crowding.",
+      "bm25_score_raw": 3.4537953712414113,
+      "bm25_score_norm": 0.5875212167670713,
+      "bm25_rank": 2
+    },
+    {
+      "title": "Karnataka moves towards faster, reliable emergency care ...",
+      "url": "https://www.thehindu.com/news/national/karnataka/karnataka-moves-towards-faster-reliable-emergency-care-with-launch-of-government-owned-108-command-centre/article71020884.ece",
+      "snippet": "Karnataka unveils a government-owned command center for emergency care, caters to medical, trauma, and obstetric emergencies. hospital pre-",
+      "bm25_score_raw": 2.764278739830694,
+      "bm25_score_norm": 0.3670254108812844,
+      "bm25_rank": 3
+    },
+    {
+      "title": "Only the sick, emergency cases can visit hospitals for next ...",
+      "url": "https://theprint.in/india/only-the-sick-emergency-cases-can-visit-hospitals-for-next-2-weeks-to-halt-spread-of-covid-19-says-karnataka-govt/804527",
+      "snippet": "Only the sick, emergency cases can visit hospitals for next 2 weeks to halt spread of COVID-19, says Karnataka govt. PTI. 15 January, 2022 08",
+      "bm25_score_raw": 2.4448247439999835,
+      "bm25_score_norm": 0.2648694032589387,
+      "bm25_rank": 4
+    },
+    {
+      "title": "Karnataka Issues New Advisory On Hospital Walk-Ins Amid ...",
+      "url": "https://www.ndtv.com/india-news/karnataka-issues-new-advisory-on-hospital-walk-ins-amid-covid-surge-2711588",
+      "snippet": "Amid the rise in cases, the Karnataka government has issued an advisory requesting the public to visit hospitals only in case of an emergency.",
+      "bm25_score_raw": 1.635903223838003,
+      "bm25_score_norm": 0.0061899249676781575,
+      "bm25_rank": 5
+    },
+    {
+      "title": "Karnataka government appeals to all hospitals in the state ...",
+      "url": "https://bangaloremirror.indiatimes.com/bangalore/others/karnataka-government-appeals-to-all-hospitals-in-the-state-to-run-only-emergency-medicine-in-the-wake-of-coronavirus-scare/articleshow/74681917.cms",
+      "snippet": "Sudhakar said, “Request all hospitals to run only emergency medicine because a lot of patients come in there from different parts of the city.",
+      "bm25_score_raw": 1.6165465916551245,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6
+    }
+  ]
+}

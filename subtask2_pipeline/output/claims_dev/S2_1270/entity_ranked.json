@@ -1,0 +1,99 @@
+{
+  "claim": {
+    "id": "S2/1270",
+    "text": "[POCSO Act] When “Ring Of Truth” Found In Victim's Story, Her Non-Examination By Police Is Of No Consequence: Calcutta High Court",
+    "lang": "dev"
+  },
+  "entity_ranked_evidence": [
+    {
+      "title": "False POCSO Case: Professor Acquitted by Calcutta High Court",
+      "url": "https://www.shoneekapoor.com/legal-news/false-pocso-case-calcutta-hc",
+      "snippet": "Shonee Kapoor – Against Misuse Of Law. Home | High Court | False POCSO Case | “Was The IO Influenced By Anybody?”: Calcutta High Court Acquits Professor, Flags Possible Conspiracy Between Estranged Wife And Prosecution. # False POCSO Case | “Was The IO Influenced By Anybody?”: Calcutta High Court Acquits Professor, Flags Possible Conspiracy Between Estranged Wife And Prosecution. ## Can A Husband’s Matrimonial Dispute Become The Basis Of A POCSO Conspiracy Against Him? ## The Calcutta High Court raised serious concerns over the investigation after finding excessive reliance on the estranged wife of the accused professor while independent witnesses, forensic evidence, and crucial records were ignored. *KOLKATA:* In a major judgment raising concerns over misuse of criminal law against men, the **Calcutta High Court** acquitted a college professor who had spent years facing **serious allegations under the POCSO Act**. However, the High Court found **major contradictions, doubtful investigation, absence of independent evidence, and suspicious involvement of the accused’s estranged wife and son in the prosecution case.**.",
+      "bm25_score_raw": 3.9599338141154963,
+      "bm25_score_norm": 0.20047244473940876,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.9064675569534302,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 1
+    },
+    {
+      "title": "Calcutta High Court Ruling on POCSO Case",
+      "url": "https://www.scribd.com/document/937627180/Tutored-Victim-Pocso-Act",
+      "snippet": "The Court noted that the medical examination of the victim, which showed no injuries, did not support the prosecution's case, suggesting that the",
+      "bm25_score_raw": 7.463120570492385,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.891267716884613,
+      "embedding_score_norm": 0.6494125507642476,
+      "embedding_rank": 2,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 2
+    },
+    {
+      "title": "Supreme Court stands firm on POCSO cases, overturns high court decision | CJP",
+      "url": "https://cjp.org.in/supreme-court-stands-firm-on-pocso-cases-overturns-high-court-decision",
+      "snippet": "### **In a landmark judgement on the quashing of POCSO cases by the Calcutta High Court, the Supreme Court ruled that even if the accused and the victim (who has now attained majority) were to come out with a settlement, the High Court could not have quashed the prosecution. On August 20, the Supreme Court slams the Calcutta High Court over the objectionable observations made by the Division bench of the High Court while passing the impugned judgement against the conviction of accused charged under Section 6 of the POCSO, Act 2006 and Sections 363/366 and clause (n) of sub-section (2) and sub-section (3) of Section 376 of the IPC, 1860. The Division Bench of the Calcutta High Court on October 18, 2023, vide its impugned judgment held that the offences punishable under Section 363 and 366 of the IPC were not made out and the High Court acquitted the accused for the two offences and while exercising its jurisdiction under Article 226 of the Constitution of India read with Section 482 of the CrPC, 1973 set aside the conviction of the accused for the offences punishable under Section 6 of the POCSO Act and sub-sections 2(n) and (3) of Section 376 of the IPC.",
+      "bm25_score_raw": 4.035135484494142,
+      "bm25_score_norm": 0.21763561982846272,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8732142448425293,
+      "embedding_score_norm": 0.2330054909249885,
+      "embedding_rank": 4,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 3
+    },
+    {
+      "title": "“Calcutta High Court Takes Action Against False POCSO ...",
+      "url": "https://jgu.edu.in/child-rights-clinic/calcutta-high-court-takes-action-against-false-pocso-case-initiates-inquiry-into-political-coercion",
+      "snippet": "The High Court, responded by granting bail to the accused and issuing a suo motu rule. This rule required the complainant and the alleged victim",
+      "bm25_score_raw": 3.416535155188938,
+      "bm25_score_norm": 0.07645330687512591,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8716541528701782,
+      "embedding_score_norm": 0.1970216474974635,
+      "embedding_rank": 5,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 4
+    },
+    {
+      "title": "Top court overturns Calcutta HC judgement that advised adolescent girls to “control sexual urges” - Supreme Court Observer",
+      "url": "https://www.scobserver.in/journal/top-court-overturns-calcutta-hc-judgement-that-advised-adolescent-girls-to-control-sexual-urges",
+      "snippet": "Home > Analysis > Top court overturns Calcutta HC judgement that advised adolescent girls to “control sexual urges”. # Top court overturns Calcutta HC judgement that advised adolescent girls to “control sexual urges”. Oka and Ujjal Bhuyan held that ‘consensual sex’ is not an exception under the Protection of Children from Sexual Offences Act, 2012 (POCSO). The decision sets aside the Calcutta High Court’s judgement in *Probhat Purkait @ Provat v State of West Bengal* (2023). The top court also formed a three-member committee to assist the victim in developing an “informed decision” during her rehabilitation. During the proceedings, the girl submitted that her affair with the man was consensual and that she had eloped to marry him “out of her own volition.” She also informed the High Court that she was a single mother with a ten month old baby from her marriage with the accused and that she was living in “destitute” conditions with an ailing mother.",
+      "bm25_score_raw": 3.081549562304819,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8851970434188843,
+      "embedding_score_norm": 0.509391213970101,
+      "embedding_rank": 3,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 5
+    },
+    {
+      "title": "SC Quashes Victim-Blaming in POCSO Verdict",
+      "url": "https://childsafetyatwork.org/sc-rules-out-sentencing-in-pocso-case-reversing-hc-remarks",
+      "snippet": "HomeBlogPOCSOCourtsSC Rules Out Sentencing in POCSO Case, Reversing Calcutta HC’s Victim-Blaming Remarks. SC Rules Out Sentencing in POCSO Case, Reversing Calcutta HC’s Victim-Blaming Remarks. On May 23, 2025, the Supreme Court of India exercised its extraordinary powers under Article 142 of the Constitution to refrain from sentencing a man convicted under the Protection of Children from Sexual Offences (POCSO) Act. The decision was based on the unique circumstances of the case, where the victim, now an adult, had married the accused and had a child with him. The Court emphasized that the victim had been abandoned by her family, judged by society, and had become emotionally attached to the accused. The petitioner, the State of West Bengal, contended that the High Court’s acquittal was based on unwarranted remarks about adolescent girls’ sexual behaviour and that such observations were not only objectionable but also violative of Article 21 of the Constitution.",
+      "bm25_score_raw": 3.287580600715269,
+      "bm25_score_norm": 0.04702218405805876,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.863112211227417,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 6
+    }
+  ]
+}

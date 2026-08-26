@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/HI/1096",
+    "text": "प्रियंका गांधी ने कहा, 'मैं नहीं, मां लड़ेगी रायबरेली से चुनाव'",
+    "lang": "hindi"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Not me, my mother will contest from Rae Bareli: Priyanka ...",
+      "url": "https://indianewengland.com/not-mother-will-contest-rae-bareli-priyanka-gandhi-vadra",
+      "snippet": "Priyanka Gandhi Vadra on Saturday scotched speculation about Sonia Gandhi retiring from politics, saying her mother will fight from her Lok Sabha constituency",
+      "bm25_score_raw": 6.1989605882708405,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.923542857170105,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "It has not been revealed yet who Congress will field from Amethi ...",
+      "url": "https://www.facebook.com/capitaltvindia/posts/it-has-not-been-revealed-yet-who-congress-will-field-from-amethi-and-rae-bareli-/969516095178198",
+      "snippet": "The state Congress leaders want Priyanka Gandhi to contest from Rae Bareli. Sonia, who had represented Rae Bareli since 2004, had informed voters that she",
+      "bm25_score_raw": 4.3504873362378005,
+      "bm25_score_norm": 0.6512093883890604,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.881811797618866,
+      "embedding_score_norm": 0.6528472848564123,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Priyanka Gandhi: India Congress leader to contest election",
+      "url": "https://www.bbc.com/news/articles/cjmmg4pm0m4o",
+      "snippet": "If she wins, three members of the Gandhi political dynasty will be in the Indian parliament.",
+      "bm25_score_raw": 2.014038784819574,
+      "bm25_score_norm": 0.2103421384300165,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8706610202789307,
+      "embedding_score_norm": 0.5600860975981031,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Priyanka Gandhi - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Priyanka_Gandhi",
+      "snippet": "# Priyanka Gandhi. | General Secretary of Indian National Congress |. **Priyanka Gandhi Vadra** (*née* Gandhi; born 12 January 1972) is an Indian politician who is serving as the member of the Lok Sabha for Wayanad, Kerala, since November 2024. A member of the Indian National Congress, she is also serving as a general secretary of the All India Congress Committee (AICC). Gandhi Vadra is a member of the politically prominent Nehru–Gandhi family. Priyanka Gandhi was born in Delhi on 12 January 1972 to Rajiv Gandhi and Sonia Gandhi, as the younger of their two children. Her older brother Rahul Gandhi is a member of Parliament from Rae Bareli in Uttar Pradesh and 12th Leader of the Opposition in Lok Sabha. On 23 January 2019, she formally entered politics after being appointed as the AICC General Secretary in charge of the eastern part of Uttar Pradesh and then as the General Secretary in charge of the entire state of Uttar Pradesh on 11 September 2020.",
+      "bm25_score_raw": 2.160213657718117,
+      "bm25_score_norm": 0.237924048671,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8644484877586365,
+      "embedding_score_norm": 0.5084052259516526,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Wayanad and Rae Bareli. In her poll debut, Priyanka ...",
+      "url": "https://www.facebook.com/wethenagas/posts/congress-leadrer-priyanka-gandhi-to-make-parliament-debut-todaycongress-leader-p/1010537031111321",
+      "snippet": "Congress Leadrer Priyanka Gandhi To Make Parliament Debut Today Congress leader Priyanka Gandhi, who won the Lok Sabha by-election from",
+      "bm25_score_raw": 2.1657515908323735,
+      "bm25_score_norm": 0.2389690078424987,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8469400405883789,
+      "embedding_score_norm": 0.3627557974812337,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Priyanka Gandhi Vadra to contest from Wayanad, Rahul ...",
+      "url": "https://www.thehindu.com/elections/rahul-gandhi-to-retain-rae-bareli-lok-sabha-seat-priyanka-gandhi-to-contest-from-wayanad/article68300631.ece",
+      "snippet": "Congress leader Priyanka Gandhi Vadra will make her electoral debut from the Wayanad Lok Sabha seat in Kerala in a bypoll.",
+      "bm25_score_raw": 2.2587497958517604,
+      "bm25_score_norm": 0.25651694951368914,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.842197060585022,
+      "embedding_score_norm": 0.3232998525868699,
+      "embedding_rank": 6
+    },
+    {
+      "title": "Priyanka Gandhi ने चुनाव लड़ने से क्यों मना किया ? रायबरेली पर ...",
+      "url": "https://www.youtube.com/watch?v=cHE7OEzEYuw",
+      "snippet": "Priyanka Gandhi ने चुनाव लड़ने से क्यों मना किया ? रायबरेली पर पत्ते खुलने अभी बाकी | Lok Sabha. @UltaChasmauc475 likes9.2K views2 years agoRead more",
+      "bm25_score_raw": 1.8792057751648166,
+      "bm25_score_norm": 0.18490033782451554,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8416187167167664,
+      "embedding_score_norm": 0.3184887203915547,
+      "embedding_rank": 7
+    },
+    {
+      "title": "हम लड़ना जानते हैं, जिन्हें डर लग रहा अभी चले जाएं, 18 तक यहीं ...",
+      "url": "https://www.livehindustan.com/uttar-pradesh/story-priyanka-gandhi-roared-reached-raebareli-we-know-how-to-fight-those-who-are-afraid-should-leave-now-we-will-stay-here-till-18th-9932954.html",
+      "snippet": "May 6, 2024 — Priyanka Gandhi in Raebareli: प्रियंका गांधी सोमवार की शाम रायबरेली पहुंच गईं। कहा लोग डराएंगे, लेकिन हम लोग लड़ना जानते हैं। जिन कार्यकर्ताओं को भय लग रहा है, वह अभी चले जाएं।",
+      "bm25_score_raw": 1.8312813318389218,
+      "bm25_score_norm": 0.175857417738781,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.833928108215332,
+      "embedding_score_norm": 0.2545120169220158,
+      "embedding_rank": 8
+    },
+    {
+      "title": "प्रियंका गांधी को चुनावी मैदान में न उतारने का फैसला किसका? ...",
+      "url": "https://www.jagran.com/politics/national-priyanka-gandhi-is-not-contesting-election-polls-2024-what-congress-said-about-this-23722794.html",
+      "snippet": "May 22, 2024 — कांग्रेस नेता प्रियंका गांधी वाड्रा Lok Sabha Election 2024 ने कहा कि वह लोकसभा चुनाव नहीं लड़ रही हैं क्योंकि वह देश भर में पार्टी के प्रचार पर ध्यान केंद्रित करना चाहती हैं।",
+      "bm25_score_raw": 0.8992960029897156,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.8152130246162415,
+      "embedding_score_norm": 0.098824810428103,
+      "embedding_rank": 9
+    },
+    {
+      "title": "रायबरेली में प्रियंका गांधी ने पूछा- राहुल गांधी को जानती हैं? मिला ...",
+      "url": "https://www.abplive.com/states/up-uk/priyanka-gandhi-asked-question-a-women-do-you-know-rahul-gandhi-got-this-answer-rae-bareli-watch-video-2685454",
+      "snippet": "May 9, 2024 — Lok Sabha Election 2024: रायबरेली लोकसभा सीट पर पांचवे चरण में 20 मई को मतदान होगा. रायबरेली सीट को कांग्रेस का गढ़ कहा जाता है, साल 2019 के चुनाव में कांग्रेस ने इस सीट पर जीत हासिल की",
+      "bm25_score_raw": 1.2414862117260879,
+      "bm25_score_norm": 0.06456827658239819,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.8064088225364685,
+      "embedding_score_norm": 0.02558433464020139,
+      "embedding_rank": 10
+    },
+    {
+      "title": "नेशनल हाइवे : पति पर हमले से नाराज हुईं प्रियंका",
+      "url": "https://ndtv.in/videos/video-story-318270?t=%7Bseek_to_second_number%7D",
+      "snippet": "Apr 22, 2014 — अपनी मां कांग्रेस पार्टी की प्रमुख सोनिया गांधी के चुनाव क्षेत्र रायबरेली में पहली बार प्रियंका गांधी ने विपक्षी दलों द्वारा अपने पति रॉबर्ट वाड्रा पर हो रहे लगातार हमलों पर नाराजगी जताई",
+      "bm25_score_raw": 1.2332741792584885,
+      "bm25_score_norm": 0.0630187384304165,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.8055739998817444,
+      "embedding_score_norm": 0.018639604399287777,
+      "embedding_rank": 11
+    },
+    {
+      "title": "रायबरेली की जंग में राहुल गांधी से ज्यादा बड़ी चुनौती प्रियंका ...",
+      "url": "https://www.aajtak.in/opinion-analysis-/story/raebareli-more-challenging-for-priyanka-gandhi-vadra-than-rahul-gandhi-wayanad-amethi-lok-sabha-election-2024-opnm1-1944420-2024-05-15",
+      "snippet": "May 15, 2024 — बीते पांच साल के भीतर कांग्रेस महासचिव प्रियंका गांधी वाड्रा के लिए रायबरेली चुनाव के रूप में तीसरी चुनौती मिली है. अमेठी लोकसभा चुनाव 2019 और यूपी विधानसभा चुनाव 2022 में उनकी मेहनत बेकार गई.",
+      "bm25_score_raw": 1.3320155879746578,
+      "bm25_score_norm": 0.08165037202292837,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.8033333420753479,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

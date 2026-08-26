@@ -1,0 +1,57 @@
+{
+  "claim": {
+    "id": "S2/1063",
+    "text": "Kerala High Court Weekly Round-Up: June 12 To June 18",
+    "lang": "dev"
+  },
+  "ranked_evidence": [
+    {
+      "title": "Kerala Politics in Crisis: ED Summons Former Kerala CM, Daughter In Rs ...",
+      "url": "https://www.youtube.com/watch?v=XcoaydszP4I",
+      "snippet": "on June 12. The case involves an alleged money laundering of Rs 2.78 crore linked to transactions between CMRL and a firm owned by the former",
+      "bm25_score_raw": 4.379351390806308,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "HIGH COURT OF KERALA",
+      "url": "https://highcourt.kerala.gov.in",
+      "snippet": "Kerala High Court is the apex court in the Indian state of Kerala and in the Union Territory of Lakshadweep. The special Single Bench sitting arranged for Honourable Mr. Justice Basant Balaji in Court 8C today (10/07/2026) at 03:00 p.m. stands cancelled. Today moved matters pertaining to the Division Bench of Honourable Mr. Justice Amit Rawal in Court 6B will be taken up before 01.00 pm today. Today moved matters pertaining to Honourable Mr. Justice Bechu Kurian Thomas in Court 4D will be taken up before 01.00 p.m. today. The Kerala High Court stands at the head of the judicial administration of the State of Kerala and the Union Territory of Lakshadweep. At present, the sanctioned Judge strength of the High Court of Kerala is 38 Permanent Judges including the Chief Justice and 5 Additional Judges. **Court Sitting Time:** 10:15 AM – 1:00 PM and 1:45 PM to 4:30 PM.",
+      "bm25_score_raw": 2.103769383667225,
+      "bm25_score_norm": 0.4803837819645451,
+      "bm25_rank": 2
+    },
+    {
+      "title": "Rahul Mamkootathil sexual assault case: What we know so far - The Hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/who-is-rahul-mamkoottahil-latest-arrest-what-we-know-so-far/article70497016.ece/amp",
+      "snippet": "**December 6, 2025** – The Kerala High Court granted interim protection from arrest to Mr. Mamkootathil in the first rape and forced abortion case, postponing detailed consideration of his anticipatory bail plea while adjourned bail hearings were scheduled. **December 18, 2025** – The Kerala High Court extended interim protection from arrest until January 7, 2026, allowing Mr. Mamkootathil to avoid custodial arrest temporarily while the court prepared for a detailed hearing in the first case. **January 7, 2026** – The Kerala High Court adjourned hearing on Mr. Mamkootathil’s pre-arrest bail petition in the first sexual assault case to January 21, 2026, and extended the interim protection from arrest until then. **January 13, 2026 -** The Judicial First Class Magistrate Court in Thiruvalla, Pathanamthitta granted the Kerala Police’s Crime Branch three days’ police custody of Palakkad MLA Rahul Mamkootathil, who is currently in judicial remand following his arrest on rape charges. **January 17, 2026-** The Judicial First Class Magistrate Court in Thiruvalla denied bail to Rahul Mamkootathil in connection with the case over alleged rape of an NRI woman.",
+      "bm25_score_raw": 1.7721342146937995,
+      "bm25_score_norm": 0.4046567759815048,
+      "bm25_rank": 3
+    },
+    {
+      "title": "High Court of Kerala & Lakshadweep Live News Judgement",
+      "url": "https://www.verdictum.in/kerala-high-court",
+      "snippet": "The High Court held that SBI could be directed in writ jurisdiction to pay interest due on a fixed deposit where the dispute turned on admitted... Justice M.A.",
+      "bm25_score_raw": 1.7535775093674806,
+      "bm25_score_norm": 0.4004194577874737,
+      "bm25_rank": 4
+    },
+    {
+      "title": "Kerala High Court Passes Fresh Order Granting Police Protection To Viral ...",
+      "url": "https://www.livelaw.in/amp/high-court/kerala-high-court/kerala-high-court-kumb-mela-girl-police-protection-542144",
+      "snippet": "The order was passed in a plea moved by the star alleging that hate campaigns were propagated against her on mainstream media and online",
+      "bm25_score_raw": 1.531475924361583,
+      "bm25_score_norm": 0.3497038231681185,
+      "bm25_rank": 5
+    },
+    {
+      "title": "Wednesday Club| Justice P. B. Suresh Kumar and Justice Shaji P ...",
+      "url": "https://www.youtube.com/watch?v=-b8QaPzSHJs",
+      "snippet": "Wednesday Club A CONVERSATION WITH JUSTICE P. B. SURESH KUMAR AND JUSTICE SHAJI P. CHALY. TWO DISTINGUISHED JOURNEYS. ONE CONVERSATION.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6
+    }
+  ]
+}

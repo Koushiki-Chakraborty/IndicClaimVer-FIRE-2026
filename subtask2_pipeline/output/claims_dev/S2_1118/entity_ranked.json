@@ -1,0 +1,99 @@
+{
+  "claim": {
+    "id": "S2/1118",
+    "text": "Rahul calls BJP a party of thieves and looters, BJP goes to EC",
+    "lang": "dev"
+  },
+  "entity_ranked_evidence": [
+    {
+      "title": "BJP moves EC after Rahul calls it 'party of thieves'",
+      "url": "https://www.hindustantimes.com/india/bjp-moves-ec-after-rahul-calls-it-party-of-thieves/story-47TxG7VReeJOoXVThSGt0M.html",
+      "snippet": "Hours after Congress vice-president Rahul Gandhi today called the BJP a 'party of thieves' and accused it of 'looting natural resources' of",
+      "bm25_score_raw": 4.369114269040493,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9184713363647461,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1,
+      "entity_overlap_raw": 3,
+      "entity_overlap_qid": 2,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 1
+    },
+    {
+      "title": "'BJP, Modi, Shah, EC are vote thieves, will expose them in ...",
+      "url": "https://english.mathrubhumi.com/news/india/bjp-modi-shah-ec-are-vote-thieves-will-expose-them-in-6-months-rahul-gandhi-ye971c86",
+      "snippet": "First they steal your votes, then your rights” — Rahul Gandhi launches explosive 'vote chori' charge against BJP in Bihar rally.",
+      "bm25_score_raw": 1.3901122175136804,
+      "bm25_score_norm": 0.0678101118847552,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8894185423851013,
+      "embedding_score_norm": 0.488869803758722,
+      "embedding_rank": 2,
+      "entity_overlap_raw": 2,
+      "entity_overlap_qid": 1,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 2
+    },
+    {
+      "title": "Rahul Gandhi repeats 'vote theft' charge, says EC and BJP ...",
+      "url": "https://theprint.in/india/rahul-gandhi-repeats-vote-theft-charge-says-ec-and-bjp-in-partnership/2724192",
+      "snippet": "The INDIA bloc on Tuesday stepped up protests over 'vote theft' allegations outside the parliament. LoP accused the ECI and BJP of",
+      "bm25_score_raw": 1.595020763407133,
+      "bm25_score_norm": 0.13193013300806253,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8782340288162231,
+      "embedding_score_norm": 0.292098965837617,
+      "embedding_rank": 3,
+      "entity_overlap_raw": 2,
+      "entity_overlap_qid": 1,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 3
+    },
+    {
+      "title": "SIR exercise institutionalised vote theft: Rahul Gandhi",
+      "url": "https://www.thehindu.com/news/national/sir-institutionalised-chori-eci-colluding-with-bjp-to-carry-out-vote-theft-rahul/article69908581.ece",
+      "snippet": "Rahul Gandhi accuses BJP and EC of election fraud, claiming over 1 lakh votes stolen in Karnataka.",
+      "bm25_score_raw": 1.7984585551739731,
+      "bm25_score_norm": 0.19558992547055737,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8732728362083435,
+      "embedding_score_norm": 0.2048159543299127,
+      "embedding_rank": 4,
+      "entity_overlap_raw": 2,
+      "entity_overlap_qid": 1,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 4
+    },
+    {
+      "title": "Rahul Gandhi accuses EC of helping BJP in 'vote chori' ...",
+      "url": "https://m.economictimes.com/news/politics-and-nation/rahul-gandhi-alleges-vote-chori-blasts-bjp-and-ec-with-data/articleshow/123162424.cms",
+      "snippet": "Congress MP Rahul Gandhi has accused the Election Commission (EC) of manipulating Indian elections in collusion with the BJP, alleging 'vote",
+      "bm25_score_raw": 1.6152666676570193,
+      "bm25_score_norm": 0.13826548521361762,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8616310358047485,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6,
+      "entity_overlap_raw": 2,
+      "entity_overlap_qid": 1,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 5
+    },
+    {
+      "title": "Rahul Gandhi accuses Modi and EC of vote theft",
+      "url": "https://www.bhaskarenglish.in/bihar-election/news/rahul-gandhi-accuses-modi-and-election-commission-of-vote-theft-says-bjp-wins-by-spreading-hatred-and-distraction-136375074.html",
+      "snippet": "Congress leader Rahul Gandhi launched a sharp attack on Prime Minister Narendra Modi and the Election Commission during a rally in",
+      "bm25_score_raw": 1.1734112373867915,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8687711954116821,
+      "embedding_score_norm": 0.12561790730499087,
+      "embedding_rank": 5,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 6
+    }
+  ]
+}

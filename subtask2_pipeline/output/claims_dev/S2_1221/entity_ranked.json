@@ -1,0 +1,99 @@
+{
+  "claim": {
+    "id": "S2/1221",
+    "text": "Live Reporting: Kejriwal stakes claim to form govt, swearing-in at Ramlila Maidan",
+    "lang": "dev"
+  },
+  "entity_ranked_evidence": [
+    {
+      "title": "Live Reporting: Kejriwal stakes claim to form govt, swearing-in at Ramlila ...",
+      "url": "https://www.indiatvnews.com/amp/politics/national/live-kejriwal-stakes-claim-form-govt-swearing-in-ramlila-maidan-14069.html",
+      "snippet": "New Delhi: The Aam Aadmi Party (AAP) has announced that the party is ready to form the government in Delhi.AAP supremo Arvind Kejriwal",
+      "bm25_score_raw": 12.625560264994126,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9007470607757568,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 1
+    },
+    {
+      "title": "Arvind Kejriwal 3.0 Starts Today With Oath At Ramlila Maidan",
+      "url": "https://www.youtube.com/watch?v=gqwhzpshBa4",
+      "snippet": "Aam Aadmi Party (AAP) chief Arvind Kejriwal will take oath as Delhi Chief Minister for the third time today at the capital's Ramlila Maidan",
+      "bm25_score_raw": 3.4579160054067617,
+      "bm25_score_norm": 0.2267757040685795,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8671568036079407,
+      "embedding_score_norm": 0.42349257206457935,
+      "embedding_rank": 2,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 2
+    },
+    {
+      "title": "For Arvind Kejriwal, It Is Back To Ramlila Maidan Where It All Began",
+      "url": "https://www.ndtv.com/india-news/for-arvind-kejriwal-it-is-back-to-ramlila-maidan-where-it-all-began-5343863/amp/1",
+      "snippet": "Key leaders of the INDIA bloc joined forces for a rally in the national capital today as a demonstration of their collective strength and",
+      "bm25_score_raw": 1.9428789857277577,
+      "bm25_score_norm": 0.09899332075606827,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8667709827423096,
+      "embedding_score_norm": 0.4168707533098864,
+      "embedding_rank": 3,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 3
+    },
+    {
+      "title": "Once an Agitator, Now in Charge of Delhi's Government - The New York Times",
+      "url": "https://archive.nytimes.com/india.blogs.nytimes.com/2013/12/30/once-an-agitator-now-in-charge-of-delhis-government",
+      "snippet": "###### India Ink | Once an Agitator, Now in Charge of Delhi’s Government. # Once an Agitator, Now in Charge of Delhi’s Government. Arvind Kejriwal, leader of Aam Aadmi Party, after taking oath as the new chief minister of Delhi at the Ramlila grounds in New Delhi on Saturday. Arvind Kejriwal, leader of Aam Aadmi Party, after taking oath as the new chief minister of Delhi at the Ramlila grounds in New Delhi on Saturday.Credit Anindito Mukherjee/Reuters. NEW DELHI — On Saturday morning, Arvind Kejriwal, the leader of the Aam Aadmi Party, took the subway from his house in Ghaziabad, a suburb bordering Delhi, to Barakhamba Road in central Delhi. This was an unusual way to travel for someone about to be inaugurated as the city’s chief minister. The Ramlila Maidan, a large, sprawling ground in central Delhi was chosen as the site where Mr. Kejriwal would take oath as chief minister of Delhi.",
+      "bm25_score_raw": 0.7691761500277374,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8533143997192383,
+      "embedding_score_norm": 0.18591628253366152,
+      "embedding_rank": 4,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 4
+    },
+    {
+      "title": "Audio Bulletin: Delhi CM Arvind Kejriwal says, \"Instead of Ramlila ...",
+      "url": "https://www.youtube.com/watch?v=6Qnmlcok3B4",
+      "snippet": "Delhi Chief Minister Arvind Kejriwal today joined Atal Bihari Vajpayee's niece in her attack on the ruling BJP for using the former Prime",
+      "bm25_score_raw": 1.3374935388286375,
+      "bm25_score_norm": 0.047933449464032586,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.852336049079895,
+      "embedding_score_norm": 0.16912491330153878,
+      "embedding_rank": 5,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 5
+    },
+    {
+      "title": "Arvind Kejriwal to form Delhi government on Saturday",
+      "url": "https://www.bbc.com/news/world-asia-india-25517447",
+      "snippet": "The leader of a new anti-corruption party in India will be sworn in as the chief minister of Delhi on Saturday.",
+      "bm25_score_raw": 2.102052837772968,
+      "bm25_score_norm": 0.11241848061102641,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8424819707870483,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 6
+    }
+  ]
+}

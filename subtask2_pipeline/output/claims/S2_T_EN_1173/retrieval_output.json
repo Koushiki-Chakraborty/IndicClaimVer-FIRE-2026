@@ -1,0 +1,108 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1173",
+    "text": "Covid resulted in 10 million deaths worldwide, not the 15 million reported, says WHO",
+    "lang": "english"
+  },
+  "generated_queries": {
+    "english_translation": "Covid resulted in 10 million deaths worldwide, not the 15 million reported, says WHO",
+    "native_query": "WHO Covid deaths worldwide 15 reported",
+    "english_query": "WHO Covid deaths worldwide 15 reported"
+  },
+  "native_retrieval": [
+    {
+      "title": "World Health Organization",
+      "url": "https://en.wikipedia.org/wiki/World_Health_Organization",
+      "snippet": "# World Health Organization. The **World Health Organization** (**WHO**) is a specialized agency of the United Nations (UN) which coordinates responses to international public health issues and emergencies. Specialized agency of the United Nations. The WHO's stated purpose is to achieve the highest possible level of health for all the world's people, defining health as \"a state of complete physical, mental and social well-being and not merely the absence of disease or infirmity.\" The main functions of the World Health Organization include promoting the control of epidemic and endemic \"Endemic (epidemiology)\") diseases; providing and improving the teaching and training in public health, the medical treatment of disease, and related matters; and promoting the establishment of international standards for biological products."
+    },
+    {
+      "title": "World Health Organization (WHO)",
+      "url": "https://www.britannica.com/topic/World-Health-Organization",
+      "snippet": "Image 3: Vaccination program led by the World Health OrganizationImage 4: Members of the World Health OrganizationImage 5: Gloved hands draw liquid from a vial into a syringe, overlaid on a digitally colored microscopic image of a virus with round particles in clusters.Image 6: World Health OrganizationImage 7: Margaret Chan, 2016Image 8: last known case of smallpox. # World Health Organization. The World Health Organization (WHO) is a specialized agency of the United Nations (UN) established in 1948 with the broad mandate to promote the attainment of \"the highest possible level of health\" for all people and to further international cooperation for improved public health conditions. The World Health Organization (WHO) was established in 1948 as a specialized agency of the United Nations (UN) to foster international cooperation for improved public health conditions. The World Health Organization (WHO) is a specialized agency of the United Nations (UN) established in 1948 with the broad mandate to promote the attainment of \"the highest possible level of health\" by all peoples."
+    },
+    {
+      "title": "What is the World Health Organization and why does it matter?",
+      "url": "https://news.un.org/en/story/2025/01/1159266",
+      "snippet": "A WHO medical worker in a blue helmet holds a young girl with severe malnutrition inside an ambulance during a patient transfer in Gaza. # What is the World Health Organization and why does it matter? © WHO A young girl suffering from acute malnutrition is transferred from Kamal Adwan Hospital in northern Gaza to a field hospital in the south in April 2024. Doctors, scientists, presidents and prime ministers urgently convened the International Sanitary Conference in Paris in 1851, a precursor to what is now the largest of its kind: the World Health Organization, known as WHO. © WHO/Neil Nuia WHO and partners provide COVID-19 and other vaccines to remote communities, including in Kuvamiti in the Solomon Islands. Amid crises, conflict, the continuing threat of disease outbreaks and climate change, WHO has responded, from wars in Gaza, Sudan and Ukraine to ensuring lifesaving vaccines and medical supplies arrive in remote or dangerous areas."
+    },
+    {
+      "title": "World Health Organization (WHO)",
+      "url": "https://www.youtube.com/channel/UC07-dOwgza1IguKA86jqxNA",
+      "snippet": "The official public health information Youtube channel of the World Health Organization (WHO) ...more. The official public health information Youtube ...Read more"
+    },
+    {
+      "title": "World Health Organization (WHO)",
+      "url": "https://www.who.int",
+      "snippet": "WHO releases new guidelines on dementia. New WHO guidelines: up to 45% of dementia risk could be prevented or delayed. ## Latest on emergencies. ### Read the Disease Outbreak News. WHO Director-General Dr Tedros and WHO Technical Lead, Border Health and Points of Entry, Health Emergencies Programme Sara Barragan Montes. A health worker in a gown and mask crouching among long grasses and taking a water sample. ### Read the latest. health worker with a mask writing on a tablet outbreak in the Democratic Republic of Congo\"). WHO field teams assisted the Bihar state health department in delivering bivalent oral polio (bOPV) vaccines in difficult-to-reach areas during National Immunization Day on 24 November/countries/india/who-field-teams-assisted-the-bihar-state-health-department-in-delivering-bivalent-oral-polio-(bopv)-vaccines-in-difficult-to-reach-areas-during-national-immunization-day-on-24-november.jpg? sfvrsn=7ba755ee_4 \"WHO field teams assisted the Bihar state health department in delivering bivalent oral polio (bOPV) vaccines in difficult-to-reach areas during National Immunization Day on 24 November\"). ### Read WHO Director-General's speeches. ### World Drowning Prevention Day. Banner for the World Hepatitis Day 2026."
+    },
+    {
+      "title": "United States Completes WHO Withdrawal",
+      "url": "https://www.hhs.gov/press-room/united-states-completes-who-withdrawal.html",
+      "snippet": "An official website of the United States government. A **.gov** website belongs to an official government organization in the United States. HHS is a U.S. executive department that touches the lives of nearly all Americans by protecting your rights, research, food safety, health care, aging, and much more. HHS is advancing the Make America Healthy Again agenda by putting nutrition at the center of health. HHS is responsible for public health, health care, and human/social services for the United States of America. *   Insurance Help for Mental Health and Substance Use. **WASHINGTON — January 22, 2026 —**The U.S. Department of Health and Human Services and the U.S. Department of State today announced the United States’ completion of its withdrawal from the World Health Organization (WHO) due to the organization's mishandling of the COVID-19 pandemic that arose out of Wuhan, China, its failure to adopt urgently needed reforms, and its inability to demonstrate independence from the inappropriate political influence of WHO member states."
+    }
+  ],
+  "english_retrieval": [
+    {
+      "title": "World Health Organization",
+      "url": "https://en.wikipedia.org/wiki/World_Health_Organization",
+      "snippet": "# World Health Organization. The **World Health Organization** (**WHO**) is a specialized agency of the United Nations (UN) which coordinates responses to international public health issues and emergencies. Specialized agency of the United Nations. The WHO's stated purpose is to achieve the highest possible level of health for all the world's people, defining health as \"a state of complete physical, mental and social well-being and not merely the absence of disease or infirmity.\" The main functions of the World Health Organization include promoting the control of epidemic and endemic \"Endemic (epidemiology)\") diseases; providing and improving the teaching and training in public health, the medical treatment of disease, and related matters; and promoting the establishment of international standards for biological products."
+    },
+    {
+      "title": "World Health Organization (WHO)",
+      "url": "https://www.britannica.com/topic/World-Health-Organization",
+      "snippet": "Image 3: Vaccination program led by the World Health OrganizationImage 4: Members of the World Health OrganizationImage 5: Gloved hands draw liquid from a vial into a syringe, overlaid on a digitally colored microscopic image of a virus with round particles in clusters.Image 6: World Health OrganizationImage 7: Margaret Chan, 2016Image 8: last known case of smallpox. # World Health Organization. The World Health Organization (WHO) is a specialized agency of the United Nations (UN) established in 1948 with the broad mandate to promote the attainment of \"the highest possible level of health\" for all people and to further international cooperation for improved public health conditions. The World Health Organization (WHO) was established in 1948 as a specialized agency of the United Nations (UN) to foster international cooperation for improved public health conditions. The World Health Organization (WHO) is a specialized agency of the United Nations (UN) established in 1948 with the broad mandate to promote the attainment of \"the highest possible level of health\" by all peoples."
+    },
+    {
+      "title": "What is the World Health Organization and why does it matter?",
+      "url": "https://news.un.org/en/story/2025/01/1159266",
+      "snippet": "A WHO medical worker in a blue helmet holds a young girl with severe malnutrition inside an ambulance during a patient transfer in Gaza. # What is the World Health Organization and why does it matter? © WHO A young girl suffering from acute malnutrition is transferred from Kamal Adwan Hospital in northern Gaza to a field hospital in the south in April 2024. Doctors, scientists, presidents and prime ministers urgently convened the International Sanitary Conference in Paris in 1851, a precursor to what is now the largest of its kind: the World Health Organization, known as WHO. © WHO/Neil Nuia WHO and partners provide COVID-19 and other vaccines to remote communities, including in Kuvamiti in the Solomon Islands. Amid crises, conflict, the continuing threat of disease outbreaks and climate change, WHO has responded, from wars in Gaza, Sudan and Ukraine to ensuring lifesaving vaccines and medical supplies arrive in remote or dangerous areas."
+    },
+    {
+      "title": "World Health Organization (WHO)",
+      "url": "https://www.youtube.com/channel/UC07-dOwgza1IguKA86jqxNA",
+      "snippet": "The official public health information Youtube channel of the World Health Organization (WHO) ...more. The official public health information Youtube ...Read more"
+    },
+    {
+      "title": "World Health Organization (WHO)",
+      "url": "https://www.who.int",
+      "snippet": "WHO releases new guidelines on dementia. New WHO guidelines: up to 45% of dementia risk could be prevented or delayed. ## Latest on emergencies. ### Read the Disease Outbreak News. WHO Director-General Dr Tedros and WHO Technical Lead, Border Health and Points of Entry, Health Emergencies Programme Sara Barragan Montes. A health worker in a gown and mask crouching among long grasses and taking a water sample. ### Read the latest. health worker with a mask writing on a tablet outbreak in the Democratic Republic of Congo\"). WHO field teams assisted the Bihar state health department in delivering bivalent oral polio (bOPV) vaccines in difficult-to-reach areas during National Immunization Day on 24 November/countries/india/who-field-teams-assisted-the-bihar-state-health-department-in-delivering-bivalent-oral-polio-(bopv)-vaccines-in-difficult-to-reach-areas-during-national-immunization-day-on-24-november.jpg? sfvrsn=7ba755ee_4 \"WHO field teams assisted the Bihar state health department in delivering bivalent oral polio (bOPV) vaccines in difficult-to-reach areas during National Immunization Day on 24 November\"). ### Read WHO Director-General's speeches. ### World Drowning Prevention Day. Banner for the World Hepatitis Day 2026."
+    },
+    {
+      "title": "United States Completes WHO Withdrawal",
+      "url": "https://www.hhs.gov/press-room/united-states-completes-who-withdrawal.html",
+      "snippet": "An official website of the United States government. A **.gov** website belongs to an official government organization in the United States. HHS is a U.S. executive department that touches the lives of nearly all Americans by protecting your rights, research, food safety, health care, aging, and much more. HHS is advancing the Make America Healthy Again agenda by putting nutrition at the center of health. HHS is responsible for public health, health care, and human/social services for the United States of America. *   Insurance Help for Mental Health and Substance Use. **WASHINGTON — January 22, 2026 —**The U.S. Department of Health and Human Services and the U.S. Department of State today announced the United States’ completion of its withdrawal from the World Health Organization (WHO) due to the organization's mishandling of the COVID-19 pandemic that arose out of Wuhan, China, its failure to adopt urgently needed reforms, and its inability to demonstrate independence from the inappropriate political influence of WHO member states."
+    }
+  ],
+  "merged_results": [
+    {
+      "title": "World Health Organization",
+      "url": "https://en.wikipedia.org/wiki/World_Health_Organization",
+      "snippet": "# World Health Organization. The **World Health Organization** (**WHO**) is a specialized agency of the United Nations (UN) which coordinates responses to international public health issues and emergencies. Specialized agency of the United Nations. The WHO's stated purpose is to achieve the highest possible level of health for all the world's people, defining health as \"a state of complete physical, mental and social well-being and not merely the absence of disease or infirmity.\" The main functions of the World Health Organization include promoting the control of epidemic and endemic \"Endemic (epidemiology)\") diseases; providing and improving the teaching and training in public health, the medical treatment of disease, and related matters; and promoting the establishment of international standards for biological products."
+    },
+    {
+      "title": "World Health Organization (WHO)",
+      "url": "https://www.britannica.com/topic/World-Health-Organization",
+      "snippet": "Image 3: Vaccination program led by the World Health OrganizationImage 4: Members of the World Health OrganizationImage 5: Gloved hands draw liquid from a vial into a syringe, overlaid on a digitally colored microscopic image of a virus with round particles in clusters.Image 6: World Health OrganizationImage 7: Margaret Chan, 2016Image 8: last known case of smallpox. # World Health Organization. The World Health Organization (WHO) is a specialized agency of the United Nations (UN) established in 1948 with the broad mandate to promote the attainment of \"the highest possible level of health\" for all people and to further international cooperation for improved public health conditions. The World Health Organization (WHO) was established in 1948 as a specialized agency of the United Nations (UN) to foster international cooperation for improved public health conditions. The World Health Organization (WHO) is a specialized agency of the United Nations (UN) established in 1948 with the broad mandate to promote the attainment of \"the highest possible level of health\" by all peoples."
+    },
+    {
+      "title": "What is the World Health Organization and why does it matter?",
+      "url": "https://news.un.org/en/story/2025/01/1159266",
+      "snippet": "A WHO medical worker in a blue helmet holds a young girl with severe malnutrition inside an ambulance during a patient transfer in Gaza. # What is the World Health Organization and why does it matter? © WHO A young girl suffering from acute malnutrition is transferred from Kamal Adwan Hospital in northern Gaza to a field hospital in the south in April 2024. Doctors, scientists, presidents and prime ministers urgently convened the International Sanitary Conference in Paris in 1851, a precursor to what is now the largest of its kind: the World Health Organization, known as WHO. © WHO/Neil Nuia WHO and partners provide COVID-19 and other vaccines to remote communities, including in Kuvamiti in the Solomon Islands. Amid crises, conflict, the continuing threat of disease outbreaks and climate change, WHO has responded, from wars in Gaza, Sudan and Ukraine to ensuring lifesaving vaccines and medical supplies arrive in remote or dangerous areas."
+    },
+    {
+      "title": "World Health Organization (WHO)",
+      "url": "https://www.youtube.com/channel/UC07-dOwgza1IguKA86jqxNA",
+      "snippet": "The official public health information Youtube channel of the World Health Organization (WHO) ...more. The official public health information Youtube ...Read more"
+    },
+    {
+      "title": "World Health Organization (WHO)",
+      "url": "https://www.who.int",
+      "snippet": "WHO releases new guidelines on dementia. New WHO guidelines: up to 45% of dementia risk could be prevented or delayed. ## Latest on emergencies. ### Read the Disease Outbreak News. WHO Director-General Dr Tedros and WHO Technical Lead, Border Health and Points of Entry, Health Emergencies Programme Sara Barragan Montes. A health worker in a gown and mask crouching among long grasses and taking a water sample. ### Read the latest. health worker with a mask writing on a tablet outbreak in the Democratic Republic of Congo\"). WHO field teams assisted the Bihar state health department in delivering bivalent oral polio (bOPV) vaccines in difficult-to-reach areas during National Immunization Day on 24 November/countries/india/who-field-teams-assisted-the-bihar-state-health-department-in-delivering-bivalent-oral-polio-(bopv)-vaccines-in-difficult-to-reach-areas-during-national-immunization-day-on-24-november.jpg? sfvrsn=7ba755ee_4 \"WHO field teams assisted the Bihar state health department in delivering bivalent oral polio (bOPV) vaccines in difficult-to-reach areas during National Immunization Day on 24 November\"). ### Read WHO Director-General's speeches. ### World Drowning Prevention Day. Banner for the World Hepatitis Day 2026."
+    },
+    {
+      "title": "United States Completes WHO Withdrawal",
+      "url": "https://www.hhs.gov/press-room/united-states-completes-who-withdrawal.html",
+      "snippet": "An official website of the United States government. A **.gov** website belongs to an official government organization in the United States. HHS is a U.S. executive department that touches the lives of nearly all Americans by protecting your rights, research, food safety, health care, aging, and much more. HHS is advancing the Make America Healthy Again agenda by putting nutrition at the center of health. HHS is responsible for public health, health care, and human/social services for the United States of America. *   Insurance Help for Mental Health and Substance Use. **WASHINGTON — January 22, 2026 —**The U.S. Department of Health and Human Services and the U.S. Department of State today announced the United States’ completion of its withdrawal from the World Health Organization (WHO) due to the organization's mishandling of the COVID-19 pandemic that arose out of Wuhan, China, its failure to adopt urgently needed reforms, and its inability to demonstrate independence from the inappropriate political influence of WHO member states."
+    }
+  ]
+}

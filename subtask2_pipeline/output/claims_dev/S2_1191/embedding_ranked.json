@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/1191",
+    "text": "'তুম সে না হো পায়েগা...' চেনা অস্ত্রেই মোদিকে বিঁধলেন মহুয়া, উপনির্বাচনের ফল নিয়ে তোপ রাহুলেরও - Political Reaction of Bye Election",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "'তুম সে না হো পায়েগা...' চেনা অস্ত্রেই মোদিকে বিঁধলেন মহুয়া, ...",
+      "url": "https://www.etvbharat.com/bn/!bharat/rahul-gandhi-and-mahua-moitra-slam-bjp-over-results-of-bypolls-wbs24071306665",
+      "snippet": "Rahul Gandhi and Mahua Moitra Slam BJP: লোকসভার ভাষণে একাধিকবার রাহুলকে আমার বিরোধী দলনেতা বলে সম্বোধন করেছেন মহুয়া । এবার রাহুলকে কড়া মোদির কটাক্ষ তাঁকেই ফিরিয়ে দিলেন তৃণমূল সাংসদ।",
+      "bm25_score_raw": 4.1931993445946105,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8866754770278931,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Mahua Moitra's Blistering Attack On Modi Govt; “Tum Abhi Chup ...",
+      "url": "https://www.youtube.com/watch?v=f8A--tep2NU",
+      "snippet": "Mahua Moitra launched a scathing attack on the Modi government over the Manipur violence issue. is a case of tacitly approved hate crime",
+      "bm25_score_raw": 2.1037478270781804,
+      "bm25_score_norm": 0.5017047018740213,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8566113710403442,
+      "embedding_score_norm": 0.6345348324115649,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Mahua Moitra launched a sharp attack on Amit Shah and PM ...",
+      "url": "https://www.facebook.com/IndiaToday/videos/mahua-moitra-launched-a-sharp-attack-on-amit-shah-and-pm-narendra-modi-after-rem/962827059459500",
+      "snippet": "Mahua Moitra launched a sharp attack on Amit Shah and PM Narendra Modi after remarks targeting Mamata Banerjee during an election rally.",
+      "bm25_score_raw": 1.6759290301785459,
+      "bm25_score_norm": 0.3996778813625831,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8481141924858093,
+      "embedding_score_norm": 0.5312414637097621,
+      "embedding_rank": 3
+    },
+    {
+      "title": "'Rain of eggs': Mahua Moitra alleges attack, gets a taunt ...",
+      "url": "https://indianexpress.com/article/cities/kolkata/mahua-moitra-egg-pelting-trinamool-office-nadia-bjp-response-10766660",
+      "snippet": "Trinamool MP Mahua Moitra livestreamed an alleged egg-pelting attack on her party office in Nadia, accusing BJP workers (File photo and",
+      "bm25_score_raw": 0.6962183381244789,
+      "bm25_score_norm": 0.1660351156502882,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8470572829246521,
+      "embedding_score_norm": 0.5183934638372857,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Mahua Moitra: \"এতদিনের পুরনো নেতা, ডবল চুল পেকে গেছে...\", কাকে ...",
+      "url": "https://bengali.abplive.com/videos/news/tmc-news-mahua-moitra-slams-ncpi-listen-what-has-she-said-1186167",
+      "snippet": "হোমভিডিওখবরMahua Moitra: \"এতদিনের পুরনো নেতা, ডবল চুল পেকে গেছে...\", কাকে নিশানা করলেন মহুয়া?",
+      "bm25_score_raw": 0.5506814513578173,
+      "bm25_score_norm": 0.1313272768841034,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8435244560241699,
+      "embedding_score_norm": 0.4754477272908414,
+      "embedding_rank": 5
+    },
+    {
+      "title": "bdtoday.net",
+      "url": "https://www.facebook.com/bdtodaynet/posts/1451831180311190",
+      "snippet": "রাহুল ক্ষমতায় আসার পরে নিজেও মোদি হয়ে যাবে আমাদের মতো. 4m. Recent Posts. bdtoday.net. Just now . . স্থানীয় নির্বাচনে শরিকদের সঙ্গে আলোচনা করেই সিদ্ধান্ত: মির্জা ফখরুল. BDTODAY.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.8425934314727783,
+      "embedding_score_norm": 0.464130010281588,
+      "embedding_rank": 6
+    },
+    {
+      "title": "Mahua Moitra's 'Globe Trotting' Attack On PM Modi: Watch| India ...",
+      "url": "https://www.youtube.com/watch?v=qEPBRe-XJMI",
+      "snippet": "As PM Modi begins a five-nation tour, TMC MP Mahua Moitra slams his 'globe-trotting' diplomacy, calling it a waste of taxpayers' money.",
+      "bm25_score_raw": 1.6959125630027245,
+      "bm25_score_norm": 0.4044435820083058,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8365882635116577,
+      "embedding_score_norm": 0.39113001100615374,
+      "embedding_rank": 7
+    },
+    {
+      "title": "TMC's Mahua Slams MP Sudip: 'ওঁর মুখোশ আর পরচুলা—দুটোই ...",
+      "url": "https://www.hindustantimes.com/bangla/bengal/tmcs-mahua-moitra-slams-mp-sudip-banerjee-for-shifting-allegiance-to-nda-with-rebel-mp-team-271781416490898.html",
+      "snippet": "মহুয়া বলেন, 'ওঁর মুখোশ আর পরচুলা—দুটোই খুলে গিয়েছে।' দলের একাংশের বিদ্রোহ এবং একাধিক সাংসদের অবস্থান বদলের জল্পনার মধ্যেই সুদীপ বন্দ্যোপাধ্যায়ের কেন্দ্রীয় মন্ত্রী ভূপেন্দ্র যাদবের সঙ্গে বৈঠক নতুন করে",
+      "bm25_score_raw": 0.45314948996001725,
+      "bm25_score_norm": 0.10806771935232828,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.8338345289230347,
+      "embedding_score_norm": 0.3576550733731506,
+      "embedding_rank": 8
+    },
+    {
+      "title": "TMC News | মহুয়ার বিস্ফোরক অভিযোগে ফুঁসছে তৃণমূল! পালটা ...",
+      "url": "https://bengali.news18.com/videos/national/tmc-news-bangla-news-2768598.html",
+      "snippet": "TMC News | মহুয়া VS কাকলি-শতাব্দী। সম্পত্তি বাঁচাতে-টাকা খেতে দল ছাড়ার অভিযোগ। কাকলি-শতাব্দীদের তোপ মহুয়া মৈত্রের। মহুয়া মৈত্রের নিশানায় তৃণমূলের বেসুরো ২০ সাংসদ। তৃণমূল সাংসদ মহুয়াকে পালটা তোপ শতাব্দী",
+      "bm25_score_raw": 2.7664113798507004,
+      "bm25_score_norm": 0.6597376257384089,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8269220590591431,
+      "embedding_score_norm": 0.2736257342568165,
+      "embedding_rank": 9
+    },
+    {
+      "title": "The BJP has strongly condemned TMC MP Mahua Moitra's ...",
+      "url": "https://www.facebook.com/TheCSRJournal/posts/the-bjp-has-strongly-condemned-tmc-mp-mahua-moitras-statement-that-home-minister/1099758588912195",
+      "snippet": "BJP's Bengal unit accused Moitra of fueling violence and said her words expose TMC's frustration, damaging Bengal's political image with",
+      "bm25_score_raw": 0.5041753154944176,
+      "bm25_score_norm": 0.12023642905132625,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.8259365558624268,
+      "embedding_score_norm": 0.2616457641523994,
+      "embedding_rank": 10
+    },
+    {
+      "title": "People Celebrate On Social Media [Mahua Moitra, TMC, West ...",
+      "url": "https://www.instagram.com/reel/DaUn3q-kQnl",
+      "snippet": "Mahua Moitra shared a video alleging that she was attacked with eggs by a crowd gathered outside a building. she shows herself covered in eggs",
+      "bm25_score_raw": 0.4710260800911563,
+      "bm25_score_norm": 0.11233095338010793,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.8247501850128174,
+      "embedding_score_norm": 0.24722400747172202,
+      "embedding_rank": 11
+    },
+    {
+      "title": "বাংলায় সবচেয়ে ভাল ফল: মোদি /মোদিকে খোঁচা অধীরের /নজরে ...",
+      "url": "https://www.youtube.com/watch?v=ajcDmDWXDig",
+      "snippet": "বাংলায় সবচেয়ে ভাল ফল: মোদি /মোদিকে খোঁচা অধীরের /নজরে সেপটিক ট্যাঙ্ক | 6pm Aakash Barta | Aakash 8. 7.9K views · 1 year ago ...more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.8044129014015198,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

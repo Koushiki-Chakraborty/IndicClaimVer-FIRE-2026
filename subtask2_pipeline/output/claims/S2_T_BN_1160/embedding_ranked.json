@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/BN/1160",
+    "text": "ঘাটালে হিরণের হয়ে প্রচারে শুভেন্দুর মিছিল, দেখা গেল সন্দেশখালির পোস্টার",
+    "lang": "bengali"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "'What happened in Sandeshkhali has probably ... - Frontline",
+      "url": "https://frontline.thehindu.com/interviews/sandeshkhali-women-trinamool-congress-bjp-lok-sabha-controversy/article68190170.ece",
+      "snippet": "Sandeshkhali in West Bengal embroiled in Lok Sabha election battle, with women protesting alleged atrocities by ruling party.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.8515777587890625,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Sandeshkhali Agitation: Unrest over tearing of poster of ...",
+      "url": "https://www.youtube.com/watch?v=LJ8HaD52o3Q",
+      "snippet": "Sandeshkhali Agitation: Unrest over tearing of poster of Suvendu Adhikari, Protest in Bagdipara. @SangbadPratidin136 likes22K views2 years",
+      "bm25_score_raw": 3.3747156191307166,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.850872278213501,
+      "embedding_score_norm": 0.9836823602398842,
+      "embedding_rank": 2
+    },
+    {
+      "title": "After BJP Picks Sandeshkhali Survivor Rekha Patra As ...",
+      "url": "https://www.ndtv.com/india-news/after-bjp-picks-sandeshkhali-survivor-rekha-patra-as-candidate-posters-against-her-5307967",
+      "snippet": "Handwritten posters appeared in a few places in Bengal's Sandeshkhali denouncing the BJP's Lok Sabha poll nominee Rekha Patra,",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.843491792678833,
+      "embedding_score_norm": 0.8129730474943131,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Suvendu's posters torn at Belda day after speech | Kolkata ...",
+      "url": "https://timesofindia.indiatimes.com/city/kolkata/suvendus-posters-torn-at-belda-day-after-speech/articleshow/78942178.cms",
+      "snippet": "Midnapore: Unidentified miscreants tore off Suvendu Adhikari's posters pasted on a 'sarodatsav' arch built to deck up Durga Puja",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.8377782702445984,
+      "embedding_score_norm": 0.6808202936513408,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Sandeshkhali: সন্দেশখালি যেন জীবন্ত আগ্নেয়গিরি, কী ঘটছে সেখানে, রইল এক নজরে... | What actually happened in Basirhat sandeshkhali village timeline story in detail | TV9 Bangla News",
+      "url": "https://tv9bangla.com/west-bengal/north-24-parganas/what-actually-happened-in-basirhat-sandeshkhali-village-timeline-story-in-detail-1013306.html",
+      "snippet": "সর্বশেষ খবর World Cup 2026 কলকাতা পশ্চিমবঙ্গ খেলা বিনোদন ব্যবসা দেশ বিশ্ব লাইফস্টাইল আধ্যাত্মিক প্রিমিয়াম স্টোরি. + পূর্ব মেদিনীপুর. ## Sandeshkhali: মেয়েদের সম্ভ্রম, জমিজমা দখল, এলাকায় ক্ষমতা কায়েম আরও অনেক অনেক অত্যাচার এত বছর সন্দেশখালি সরবেড়িয়ার মানুষ মুখ বুজে সহ্য করেছেন বলে অভিযোগ করেন। ফেব্রুয়ারির প্রথম সপ্তাহ থেকে 'সুপ্ত আগ্নেয়গিরি' জেগে ওঠে। লাঠি, ঝাঁটা, বাঁশ নিয়ে পথে নামেন মহিলারা। পরিস্থিতি এতটাই ঘোরাল হয়ে ওঠে, পুলিশ তা সামাল দিতে হিমশিম খায়।. **সন্দেশখালি:** এই মুহূর্তে সন্দেশখালি যেন আগ্নেয়গিরি, যা রুদ্ররূপ নিয়েছে। এক শাহজাহানেই জ্বলছে, পুড়ছে বসিরহাটের এই এলাকা। গত ৫ জানুয়ারি ঘটনার সূত্রপাত। তৃণমূল নেতা শেখ শাহজাহানের বাড়িতে ইডি গিয়েছিল রেশন দুর্নীতির তদন্তে। ইডির টিমকে ঘিরে ফেলে কয়েকশো মানুষ। মার খেতে হয় কেন্দ্রীয় তদন্তকারী সংস্থার আধিকারিকদের। একজন রক্তাক্তও হন। প্রথমে বলা হয়েছিল, ‘শাহজাহান ভাই’কে ভালবেসে এমন প্রতিবাদ। কিন্তু সপ্তাহ তিনেকের মধ্যেই ঘুরেছে হাওয়া। শেখ শাহজাহানের সাগরেদ শিবু হাজরা, উত্তম সর্দারদের বিরুদ্ধে সাংঘাতিক সব অভিযোগ সামনে এসেছে।. মেয়েদের সম্ভ্রম, জমিজমা দখল, এলাকায় ক্ষমতা কায়েম আরও অনেক অনেক অত্যাচার এত বছর সন্দেশখালি সরবেড়িয়ার মানুষ মুখ বুজে সহ্য করেছেন বলে অভিযোগ করেন। ফেব্রুয়ারির প্রথম সপ্তাহ থেকে ‘সুপ্ত আগ্নেয়গিরি’ জেগে ওঠে। লাঠি, ঝাঁটা, বাঁশ নিয়ে পথে নামেন মহিলারা। পরিস্থিতি এতটাই ঘোরাল হয়ে ওঠে, পুলিশ তা সামাল দিতে হিমশিম খায়।.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8373394012451172,
+      "embedding_score_norm": 0.6706693320465982,
+      "embedding_rank": 5
+    },
+    {
+      "title": "#TV9BanglaReels: সন্দেশখালিতে সংঘর্ষ থামাতে গিয়ে ...",
+      "url": "https://www.instagram.com/reel/DX_CZlNlPAV?hl=bn",
+      "snippet": "And at this moment we have to look towards a big news. In Sandeshkhali, while stopping post-poll clashes, the OC of Nazat Police Station was",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8366771936416626,
+      "embedding_score_norm": 0.6553525884055973,
+      "embedding_rank": 6
+    },
+    {
+      "title": "সন্দেশখালি ইস্যুতে কী বলছেন তৃণমূলের প্রার্থী রচনা ব্যানার্জি ...",
+      "url": "https://www.youtube.com/watch?v=QW50WNNY36k",
+      "snippet": "সন্দেশখালি ইস্যুতে কী বলছেন তৃণমূলের প্রার্থী রচনা ব্যানার্জি থেকে সুজাতা মণ্ডল খাঁ, শুনুন... @republicbangla53 likes3.5K views2 years ago",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.824886679649353,
+      "embedding_score_norm": 0.3826401047770042,
+      "embedding_rank": 7
+    },
+    {
+      "title": "Sandeshkhali News : রাজনৈতিক স্বার্থেই সন্দেশখালির পট রচনা ...",
+      "url": "https://www.youtube.com/watch?v=o9PwM_FvruA",
+      "snippet": "Sandeshkhali News : ভুল বুঝিয়ে ধর্ষণের অভিযোগ দায়ের। চাঞ্চল্যকর দাবি, সন্দেশখালির অভিযোগকারীর। কে বা কারা ভুয়ো অভিযোগ দায়ের করালেন? কেনই বা করালেন? উঠে আসছে স্থানীয় BJP কর্মীর নাম।",
+      "bm25_score_raw": 2.181088798352039,
+      "bm25_score_norm": 0.6463029909802769,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8224437236785889,
+      "embedding_score_norm": 0.3261349693251534,
+      "embedding_rank": 8
+    },
+    {
+      "title": "#TV9BanglaReels: সন্দেশখালিতে সংঘর্ষ থামাতে গিয়ে ...",
+      "url": "https://www.facebook.com/TV9BanglaLive/videos/tv9banglareels-%E0%A6%B8%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A6%96%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%B8%E0%A6%82%E0%A6%98%E0%A6%B0%E0%A7%8D%E0%A6%B7-%E0%A6%A5%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%A4%E0%A7%87-%E0%A6%97%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A7%87-%E0%A6%B0%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%95%E0%A7%8D%E0%A6%A4-%E0%A6%93%E0%A6%B8%E0%A6%BF-sandeshkhali-violen/2253110835097275",
+      "snippet": "TV9BanglaReels: সন্দেশখালিতে সংঘর্ষ থামাতে গিয়ে 'রক্তাক্ত' ওসি #SandeshKhali | #Violence | #TV9Bangla | #OCInjuredNews | #Crime | #ElectionViolence |",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8215384483337402,
+      "embedding_score_norm": 0.3051961122216861,
+      "embedding_rank": 9
+    },
+    {
+      "title": "সন্দেশখালির ন্যাজাটে পুলিশের গাড়িতে হা মলা ! হা মলার ঘটনায় ...",
+      "url": "https://www.facebook.com/RepublicBangla/videos/%E0%A6%B8%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A6%96%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A6%B0-%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%9C%E0%A6%BE%E0%A6%9F%E0%A7%87-%E0%A6%AA%E0%A7%81%E0%A6%B2%E0%A6%BF%E0%A6%B6%E0%A7%87%E0%A6%B0-%E0%A6%97%E0%A6%BE%E0%A6%A1%E0%A6%BC%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%B9%E0%A6%BE-%E0%A6%AE%E0%A6%B2%E0%A6%BE-%E0%A6%B9%E0%A6%BE-%E0%A6%AE%E0%A6%B2%E0%A6%BE%E0%A6%B0-%E0%A6%98%E0%A6%9F%E0%A6%A8%E0%A6%BE%E0%A7%9F-%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%AB%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A7%AE-%E0%A6%A4%E0%A7%83%E0%A6%A3%E0%A6%AE%E0%A7%82%E0%A6%B2-%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%AE/901842835671100",
+      "snippet": "সন্দেশখালির ন্যাজাটে পুলিশের গাড়িতে হা মলা ! হা মলার ঘটনায় গ্রেফতার ৮ তৃণমূল কর্মী #Sandeshkhali #Attackonpolice #Attackonpolicecar #Nazat #TMC",
+      "bm25_score_raw": 2.302206995175467,
+      "bm25_score_norm": 0.6821928882317159,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8159443140029907,
+      "embedding_score_norm": 0.17580478389742882,
+      "embedding_rank": 10
+    },
+    {
+      "title": "Suvendu Adhikari shares video of Sandeshkhali activist ...",
+      "url": "https://m.economictimes.com/news/politics-and-nation/suvendu-adhikari-shares-video-of-sandeshkhali-activist-alleging-threats-by-tmc-backed-goons/articleshow/121958621.cms",
+      "snippet": "Suvendu Adhikari has released a video. It features a Sandeshkhali woman. She claims TMC goons threatened and abused her.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.8153136372566223,
+      "embedding_score_norm": 0.1612173433514855,
+      "embedding_rank": 11
+    },
+    {
+      "title": "'ওঁকে জেলে পচিয়ে রাখব', সন্দেশখালিতে শাহজাহানের উদ্দেশে ...",
+      "url": "https://bengali.abplive.com/district/bjp-paribartan-yatra-suvendu-adhikari-targets-sk-shahjahan-from-sandeshkhali-rally-before-west-bengal-assembly-election-2026-1168558",
+      "snippet": "সন্দেশখালি : বিধানসভা ভোট-মুখী পশ্চিমবঙ্গে বাড়ছে রাজনৈতিক উত্তাপ। সভামঞ্চ থেকে একে অপরের বিরুদ্ধে তীব্র আক্রমণ শানাচ্ছে শাসক ও বিরোধী-পক্ষ। ম 'ওঁকে জেলের ভিতরে পচিয়ে রাখব' বলে হুঁশিয়ারি দেন বিরোধী দলনেতা।",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.8083435297012329,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

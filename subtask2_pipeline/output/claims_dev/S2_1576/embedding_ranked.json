@@ -1,0 +1,76 @@
+{
+  "claim": {
+    "id": "S2/1576",
+    "text": "Kerala, Mizoram still seeing surge in Covid cases, positivity rate",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Kerala, Mizoram still seeing surge in Covid cases, positivity ...",
+      "url": "https://www.indiatoday.in/coronavirus-outbreak/story/covid-cases-in-india-corona-kerala-mizoram-third-wave-vaccination-1908338-2022-02-03",
+      "snippet": "Kerala, Mizoram still seeing surge in Covid cases, positivity rate; 76% eligible population fully vaccinated · Kerala and Mizoram are the only",
+      "bm25_score_raw": 5.4524318769047735,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9406618475914001,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Kerala and Mizoram still recording increase in COVID-19 ...",
+      "url": "https://x.com/PTI_News/status/1489190537701703684?ref_src=twsrc%5Etfw",
+      "snippet": "Kerala and Mizoram still recording increase in COVID-19 cases, positivity rate: Govt.",
+      "bm25_score_raw": 1.3261031818294398,
+      "bm25_score_norm": 0.034766176524846384,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.931980311870575,
+      "embedding_score_norm": 0.858603195436533,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Overall Covid-19 situation optimistic; Kerala, Mizoram still ...",
+      "url": "https://timesofindia.indiatimes.com/india/overall-covid-19-situation-optimistic-kerala-mizoram-still-reporting-high-positivity-govt/articleshow/89480218.cms",
+      "snippet": "the Covid daily positivity in Kerala is still enormously high at 29.57 per cent, adding that the positivity rate in Mizoram, Himachal Pradesh,",
+      "bm25_score_raw": 2.115393851113707,
+      "bm25_score_norm": 0.21939762662133644,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.9156486392021179,
+      "embedding_score_norm": 0.5926080532456262,
+      "embedding_rank": 3
+    },
+    {
+      "title": "No new Covid wave, only 'expected fluctuations' - Mint",
+      "url": "https://www.livemint.com/news/india/no-new-covid-wave-only-expected-fluctuations-experts-on-current-surge-in-cases-11655033961612.html",
+      "snippet": "Kerala and five from Mizoram, are reporting a weekly Covid-19 positivity rate of more than 10%. In 24 districts,",
+      "bm25_score_raw": 1.9964003417477867,
+      "bm25_score_norm": 0.19156257796147755,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.9014067649841309,
+      "embedding_score_norm": 0.3606496106180601,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Overall Covid situation optimistic except few States ...",
+      "url": "https://www.thehindubusinessline.com/news/overall-covid-situation-optimistic-except-few-states-including-kerala-mizoram-health-ministry/article65000661.ece",
+      "snippet": "Overall Covid situation optimistic except few States including Kerala, Mizoram: Health Ministry ... positivity rate was at 6.58 per cent.",
+      "bm25_score_raw": 1.7054533348901812,
+      "bm25_score_norm": 0.12350404152132828,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8879610896110535,
+      "embedding_score_norm": 0.14165891656489601,
+      "embedding_rank": 5
+    },
+    {
+      "title": "(PDF) Kerala & Mizoram; High COVID-19 case load but low ...",
+      "url": "https://www.researchgate.net/publication/358806309_Kerala_Mizoram_High_COVID-19_case_load_but_low_mortality_Role_of_precautionary_principles",
+      "snippet": "The recent upsurge of 92.8 per cent urban growth rate in Kerala is due to the areal reclassification. The higher order towns (Classes I and II) in Kerala",
+      "bm25_score_raw": 1.177479430440333,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8792634606361389,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6
+    }
+  ]
+}

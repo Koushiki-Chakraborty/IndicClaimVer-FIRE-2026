@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/BN/1255",
+    "text": "মুখ্যমন্ত্রীর বাড়িতে বৈঠকে বসবেন জুনিয়ার ডাক্তাররা? মেল পেয়েই বসলেন আলোচনায়",
+    "lang": "bengali"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Meeting between junior doctors, Bengal govt begins at CM's residence",
+      "url": "https://www.nationalheraldindia.com/amp/story/national/meeting-between-junior-doctors-west-bengal-govt-begin-at-cm-mamata-banerjees-residence-at-7pm",
+      "snippet": "Escorted by a pilot police vehicle, around 30 medics arrived at Banerjee's residence at 6.20 pm. The meeting, which was originally scheduled at 5 pm, began",
+      "bm25_score_raw": 1.1261895300137197,
+      "bm25_score_norm": 0.24330148136135782,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8773573637008667,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Junior doctors agree to conditional talks with West Bengal Chief Minister ...",
+      "url": "https://www.thehindu.com/news/national/junior-doctors-agree-to-conditional-talks-with-west-bengal-chief-minister-mamata-banerjee/article27956338.ece/amp",
+      "snippet": "The junior doctors of Kolkata, who are on a strike for nearly a week , have agreed to a conditional meeting with the West Bengal Chief Minister",
+      "bm25_score_raw": 3.5202822468982964,
+      "bm25_score_norm": 0.7605201990023922,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8714907765388489,
+      "embedding_score_norm": 0.9417232855218556,
+      "embedding_rank": 2
+    },
+    {
+      "title": "CM Mamata Holds Meeting With Junior Doctors | RG Kar Latest ...",
+      "url": "https://www.youtube.com/watch?v=h6gIkIIweDc",
+      "snippet": "RG Kar Doctors Demand Justice, Say Mamata Refused To Meet Us CM Mamata Holds Meeting With Junior Doctors",
+      "bm25_score_raw": 2.2321916774626454,
+      "bm25_score_norm": 0.48224168964041036,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8661670684814453,
+      "embedding_score_norm": 0.8888393504744142,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Meeting between agitating junior doctors, WB govt begins at Mamata's ...",
+      "url": "https://www.business-standard.com/amp/pti-stories/national/meeting-between-agitating-junior-doctors-wb-govt-begins-at-mamata-s-kalighat-home-124091601043_1.html",
+      "snippet": "The first round of talks between the West Bengal government and the agitating junior doctors began at Chief Minister Mamata Banerjee's residence in Kalighat on",
+      "bm25_score_raw": 2.9399655756662026,
+      "bm25_score_norm": 0.6351488454188259,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8633573055267334,
+      "embedding_score_norm": 0.8609281051556463,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Doctors Meet Mamata: CM Mamata Banerjee Meets Junior Doctors at ...",
+      "url": "https://www.youtube.com/watch?v=RdwP7VAWgp0",
+      "snippet": "RG Kar Protesting Doctors: On October 21, 2024, protesting junior doctors arrived at the West Bengal secretariat to meet Chief Minister Mamata",
+      "bm25_score_raw": 2.576127089935151,
+      "bm25_score_norm": 0.5565453420160197,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8479429483413696,
+      "embedding_score_norm": 0.70780703702059,
+      "embedding_rank": 5
+    },
+    {
+      "title": "'Final time...': Bengal govt invites agitating doctors at Mamata ...",
+      "url": "https://www.hindustantimes.com/india-news/bengal-govt-invites-agitating-doctors-for-talks-at-mamata-banerjees-house-at-5-pm-101726470710600-amp.html",
+      "snippet": "The West Bengal government on Monday re-invited agitating junior doctors to chief minister Mamata Banerjee's house in Kolkata for talks.",
+      "bm25_score_raw": 4.628782051437957,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8422843813896179,
+      "embedding_score_norm": 0.6515967257279038,
+      "embedding_rank": 6
+    },
+    {
+      "title": "যদি জুনিয়র বস হয়ে যায় তাহলে কী হবে | Awesh Raja Ansari",
+      "url": "https://www.facebook.com/100090783067333/videos/%E0%A6%AF%E0%A6%A6%E0%A6%BF-%E0%A6%9C%E0%A7%81%E0%A6%A8%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%B0-%E0%A6%AC%E0%A6%B8-%E0%A6%B9%E0%A6%AF%E0%A6%BC%E0%A7%87-%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A6%A4%E0%A6%BE%E0%A6%B9%E0%A6%B2%E0%A7%87-%E0%A6%95%E0%A7%80-%E0%A6%B9%E0%A6%AC%E0%A7%87/3413612098812751",
+      "snippet": "তো কি বলিস তুই? নিজের জুনিয়রের পা চাটি আমি ভালোভাবে কথা বলছি না. আবে তোকে তো ওই. কি করেছি আমি হ্যাঁ? যখন থেকে এসেছিস কি করতাম আমরা হ্যাঁ? নরমালি সিনিয়ররা যেভাবে পেছনে লাগে, সেইভাবে পেছনে লাগতাম. নরমাল পিছনে",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.8246405720710754,
+      "embedding_score_norm": 0.47632902585964443,
+      "embedding_rank": 7
+    },
+    {
+      "title": "#capcut🇧🇷🇧🇩 নেইমার জুনিয়র তোমায় ওনেক মিসকরবো:( i miss you Boos🇧🇷...",
+      "url": "https://www.tiktok.com/@mr_sumon_bd_07/video/7383211218791681288",
+      "snippet": "সামাজিক সম্পর্ক তৈরিতে ভিডিও শেয়ারিং একটি শক্তিশালী হাতিয়ার হতে পারে। এমনকি একটি ভিডিও যেন ভাইরাল হয়ে যায় সেই প্রত্যাশায় লিঙ্কগুলি কপি করে বেশি সংখ্যক মানুষের কাছে পৌঁছানো যেতে পারে। যেন আপনার সাথে যুক্ত থাকা সকলেই",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.7909220457077026,
+      "embedding_score_norm": 0.14138046390455467,
+      "embedding_rank": 8
+    },
+    {
+      "title": "Raq Baby – Junior Lyrics",
+      "url": "https://genius.com/Raq-baby-junior-lyrics",
+      "snippet": "Junior, sometimes I wanna cry Now I know I got a junior, need no one on my side You'll die if you think you know my life",
+      "bm25_score_raw": 0.5024394054029984,
+      "bm25_score_norm": 0.10854678397461223,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.7846924066543579,
+      "embedding_score_norm": 0.0794973133798126,
+      "embedding_rank": 9
+    },
+    {
+      "title": "Junior Emon Khan, Oh God, How Shall I Bear So Much Pain? Sad song ...",
+      "url": "https://www.youtube.com/watch?v=-NCLBxfaR1k&vl=bn",
+      "snippet": "Junior Emon Khan, Oh God, How Shall I Bear So Much Pain? Sad song Sujon Mondol. @sojibsorkar35No likes38 views5 days ago",
+      "bm25_score_raw": 0.6789808903069819,
+      "bm25_score_norm": 0.1466867272560506,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.7801868915557861,
+      "embedding_score_norm": 0.03474103349763903,
+      "embedding_rank": 10
+    },
+    {
+      "title": "moner boyos 16 - Lyrics and Music by wasime pagla arranged by JINNATjs",
+      "url": "https://www.smule.com/song/wasime-pagla-moner-boyos-16-karaoke-lyrics/6936928_6936928/arrangement",
+      "snippet": "moner boyos 16 · চবোখে দেখি ঝাপসা ঝাপসা,,চোখে,,,,দেখি · ঝাপসা ঝাপসা চুল দাড়ি সব পেকে গেলো · মনের বয়স মাত্র ষোল মনে বয়স মাত্র · ষোল।বয়স হইলো....ষাট এর কাছে মন যেতে · চাই রঙ্গ রসে।বয় হইলো ষাট এর কাছে....ও · দয়ালরে.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.7798608541488647,
+      "embedding_score_norm": 0.03150228695768018,
+      "embedding_rank": 11
+    },
+    {
+      "title": "Junior team funny BD",
+      "url": "https://music.youtube.com/@Juniorfunny-o6x",
+      "snippet": "Welcome to Junior Team Funny BD আমাদের চ্যানেলে পাবে মজার মজার Bangla Funny Video, Ramadan Special Funny Video, Comedy Natok, Islamic Funny Content আর বিভিন্ন সামাজিক",
+      "bm25_score_raw": 0.7162388814085929,
+      "bm25_score_norm": 0.15473592695644187,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.7766895890235901,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

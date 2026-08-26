@@ -1,0 +1,108 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1012",
+    "text": "Every vote for CPI-M in Kerala will weaken BJP: Rahul",
+    "lang": "english"
+  },
+  "generated_queries": {
+    "english_translation": "Every vote for CPI-M in Kerala will weaken BJP: Rahul",
+    "native_query": "Kerala BJP Rahul vote CPI weaken",
+    "english_query": "Kerala BJP Rahul vote CPI weaken"
+  },
+  "native_retrieval": [
+    {
+      "title": "In Kerala, it's no longer CPM and BJP - it's CJP. Their deal ...",
+      "url": "https://www.facebook.com/rahulgandhi/posts/in-kerala-its-no-longer-cpm-and-bjp-its-cjp-their-deal-is-obvious/1517985629687507",
+      "snippet": "Rahul ji, you are a national leader and the Leader of the Opposition. First, please decide who your main political opponent is — CPI(M) or BJP."
+    },
+    {
+      "title": "Alleging a 'partnership' between the CPI(M) and the BJP in ...",
+      "url": "https://www.facebook.com/thenewindianxpress/posts/alleging-a-partnership-between-the-cpim-and-the-bjp-in-kerala-congress-leader-ra/1421653576672363",
+      "snippet": "Alleging a 'partnership' between the CPI(M) and the BJP in #Kerala, Congress leader Rahul Gandhi claimed that PM Modi wants the ruling LDF"
+    },
+    {
+      "title": "''4 percent vote was reduced by BJP, this went to CPM. ...",
+      "url": "https://www.facebook.com/IndiaToday/posts/4-percent-vote-was-reduced-by-bjp-this-went-to-cpm-bjp-doesnt-want-to-see-a-cong/1348491223981089",
+      "snippet": "''4 percent vote was reduced by BJP, this went to CPM. BJP doesn't want to see a Congress govt in Kerala. BJP will not make any mark in"
+    },
+    {
+      "title": "2021 Kerala Legislative Assembly election - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2021_Kerala_Legislative_Assembly_election",
+      "snippet": "The **2021 Kerala Legislative Assembly election** was held in Kerala on 6 April 2021 to elect 140 members \"Member of the Legislative Assembly (India)\") to the 15th Kerala Assembly. | |  | Majority party | Minority party | | --- | --- | --- | |  |  |  | | Leader | Pinarayi Vijayan | Ramesh Chennithala | | Party | CPI(M) \"Communist Party of India (Marxist)\") | INC | | Alliance | LDF \"Left Democratic Front (Kerala)\") | UDF \"United Democratic Front (Kerala)\") | | Leader since | 2016 | 2016 | | Leader's seat | Dharmadam | Haripad | | Last election | 43.48%, 58 seats | 38.81%, 22 seats | | Seats won | **62** | 22 | | Seat change | Increase 4 | | Popular vote | **5,288,507** | 5,233,429 | | Percentage | **25.38** | 25.12% | | Alliance seats | **99** | 41 | | Alliance seat change | Increase 8 | Decrease 6 | |."
+    },
+    {
+      "title": "The CPI(M) Disapproves the Statements of Shri Rahul ...",
+      "url": "https://www.facebook.com/m.a.babyofficial/posts/the-cpim-disapproves-the-statements-of-shri-rahul-gandhithe-polit-bureau-of-the-/1505631920921512",
+      "snippet": "14 കോണ്ഗ്രസ്സുകാർ BJP സ്ഥാനാർഥികൾ ആണ്.. ‼️ 2 ദിവസം മുന്നത്തെ BJP - NDA സ്ഥാനാർഥി ലിസ്റ്റ് നോക്കുകയായിരുന്നു.. പ്രത്യക്ഷത്തിൽ ഈ അടുത്തു വരെ, എന്തിന് കഴിഞ്ഞ മാസം വരെ കോണ്ഗ്രസ്സുകാർ ആയിരുന്ന 14 പേരാണ് BJP"
+    },
+    {
+      "title": "BJP pressuring CPM with cases … That is why Vijayan ...",
+      "url": "https://indianexpress.com/article/political-pulse/kerala-v-d-satheesan-bjp-rahul-gandhi-lok-sabha-election-its-tone-9262273",
+      "snippet": "Congress held no talks with SDPI, which unilaterally extended support to UDF … we are opposed to both minority and majority extremism,” says"
+    }
+  ],
+  "english_retrieval": [
+    {
+      "title": "In Kerala, it's no longer CPM and BJP - it's CJP. Their deal ...",
+      "url": "https://www.facebook.com/rahulgandhi/posts/in-kerala-its-no-longer-cpm-and-bjp-its-cjp-their-deal-is-obvious/1517985629687507",
+      "snippet": "Rahul ji, you are a national leader and the Leader of the Opposition. First, please decide who your main political opponent is — CPI(M) or BJP."
+    },
+    {
+      "title": "Alleging a 'partnership' between the CPI(M) and the BJP in ...",
+      "url": "https://www.facebook.com/thenewindianxpress/posts/alleging-a-partnership-between-the-cpim-and-the-bjp-in-kerala-congress-leader-ra/1421653576672363",
+      "snippet": "Alleging a 'partnership' between the CPI(M) and the BJP in #Kerala, Congress leader Rahul Gandhi claimed that PM Modi wants the ruling LDF"
+    },
+    {
+      "title": "''4 percent vote was reduced by BJP, this went to CPM. ...",
+      "url": "https://www.facebook.com/IndiaToday/posts/4-percent-vote-was-reduced-by-bjp-this-went-to-cpm-bjp-doesnt-want-to-see-a-cong/1348491223981089",
+      "snippet": "''4 percent vote was reduced by BJP, this went to CPM. BJP doesn't want to see a Congress govt in Kerala. BJP will not make any mark in"
+    },
+    {
+      "title": "2021 Kerala Legislative Assembly election - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2021_Kerala_Legislative_Assembly_election",
+      "snippet": "The **2021 Kerala Legislative Assembly election** was held in Kerala on 6 April 2021 to elect 140 members \"Member of the Legislative Assembly (India)\") to the 15th Kerala Assembly. | |  | Majority party | Minority party | | --- | --- | --- | |  |  |  | | Leader | Pinarayi Vijayan | Ramesh Chennithala | | Party | CPI(M) \"Communist Party of India (Marxist)\") | INC | | Alliance | LDF \"Left Democratic Front (Kerala)\") | UDF \"United Democratic Front (Kerala)\") | | Leader since | 2016 | 2016 | | Leader's seat | Dharmadam | Haripad | | Last election | 43.48%, 58 seats | 38.81%, 22 seats | | Seats won | **62** | 22 | | Seat change | Increase 4 | | Popular vote | **5,288,507** | 5,233,429 | | Percentage | **25.38** | 25.12% | | Alliance seats | **99** | 41 | | Alliance seat change | Increase 8 | Decrease 6 | |."
+    },
+    {
+      "title": "The CPI(M) Disapproves the Statements of Shri Rahul ...",
+      "url": "https://www.facebook.com/m.a.babyofficial/posts/the-cpim-disapproves-the-statements-of-shri-rahul-gandhithe-polit-bureau-of-the-/1505631920921512",
+      "snippet": "14 കോണ്ഗ്രസ്സുകാർ BJP സ്ഥാനാർഥികൾ ആണ്.. ‼️ 2 ദിവസം മുന്നത്തെ BJP - NDA സ്ഥാനാർഥി ലിസ്റ്റ് നോക്കുകയായിരുന്നു.. പ്രത്യക്ഷത്തിൽ ഈ അടുത്തു വരെ, എന്തിന് കഴിഞ്ഞ മാസം വരെ കോണ്ഗ്രസ്സുകാർ ആയിരുന്ന 14 പേരാണ് BJP"
+    },
+    {
+      "title": "BJP pressuring CPM with cases … That is why Vijayan ...",
+      "url": "https://indianexpress.com/article/political-pulse/kerala-v-d-satheesan-bjp-rahul-gandhi-lok-sabha-election-its-tone-9262273",
+      "snippet": "Congress held no talks with SDPI, which unilaterally extended support to UDF … we are opposed to both minority and majority extremism,” says"
+    }
+  ],
+  "merged_results": [
+    {
+      "title": "In Kerala, it's no longer CPM and BJP - it's CJP. Their deal ...",
+      "url": "https://www.facebook.com/rahulgandhi/posts/in-kerala-its-no-longer-cpm-and-bjp-its-cjp-their-deal-is-obvious/1517985629687507",
+      "snippet": "Rahul ji, you are a national leader and the Leader of the Opposition. First, please decide who your main political opponent is — CPI(M) or BJP."
+    },
+    {
+      "title": "Alleging a 'partnership' between the CPI(M) and the BJP in ...",
+      "url": "https://www.facebook.com/thenewindianxpress/posts/alleging-a-partnership-between-the-cpim-and-the-bjp-in-kerala-congress-leader-ra/1421653576672363",
+      "snippet": "Alleging a 'partnership' between the CPI(M) and the BJP in #Kerala, Congress leader Rahul Gandhi claimed that PM Modi wants the ruling LDF"
+    },
+    {
+      "title": "''4 percent vote was reduced by BJP, this went to CPM. ...",
+      "url": "https://www.facebook.com/IndiaToday/posts/4-percent-vote-was-reduced-by-bjp-this-went-to-cpm-bjp-doesnt-want-to-see-a-cong/1348491223981089",
+      "snippet": "''4 percent vote was reduced by BJP, this went to CPM. BJP doesn't want to see a Congress govt in Kerala. BJP will not make any mark in"
+    },
+    {
+      "title": "2021 Kerala Legislative Assembly election - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2021_Kerala_Legislative_Assembly_election",
+      "snippet": "The **2021 Kerala Legislative Assembly election** was held in Kerala on 6 April 2021 to elect 140 members \"Member of the Legislative Assembly (India)\") to the 15th Kerala Assembly. | |  | Majority party | Minority party | | --- | --- | --- | |  |  |  | | Leader | Pinarayi Vijayan | Ramesh Chennithala | | Party | CPI(M) \"Communist Party of India (Marxist)\") | INC | | Alliance | LDF \"Left Democratic Front (Kerala)\") | UDF \"United Democratic Front (Kerala)\") | | Leader since | 2016 | 2016 | | Leader's seat | Dharmadam | Haripad | | Last election | 43.48%, 58 seats | 38.81%, 22 seats | | Seats won | **62** | 22 | | Seat change | Increase 4 | | Popular vote | **5,288,507** | 5,233,429 | | Percentage | **25.38** | 25.12% | | Alliance seats | **99** | 41 | | Alliance seat change | Increase 8 | Decrease 6 | |."
+    },
+    {
+      "title": "The CPI(M) Disapproves the Statements of Shri Rahul ...",
+      "url": "https://www.facebook.com/m.a.babyofficial/posts/the-cpim-disapproves-the-statements-of-shri-rahul-gandhithe-polit-bureau-of-the-/1505631920921512",
+      "snippet": "14 കോണ്ഗ്രസ്സുകാർ BJP സ്ഥാനാർഥികൾ ആണ്.. ‼️ 2 ദിവസം മുന്നത്തെ BJP - NDA സ്ഥാനാർഥി ലിസ്റ്റ് നോക്കുകയായിരുന്നു.. പ്രത്യക്ഷത്തിൽ ഈ അടുത്തു വരെ, എന്തിന് കഴിഞ്ഞ മാസം വരെ കോണ്ഗ്രസ്സുകാർ ആയിരുന്ന 14 പേരാണ് BJP"
+    },
+    {
+      "title": "BJP pressuring CPM with cases … That is why Vijayan ...",
+      "url": "https://indianexpress.com/article/political-pulse/kerala-v-d-satheesan-bjp-rahul-gandhi-lok-sabha-election-its-tone-9262273",
+      "snippet": "Congress held no talks with SDPI, which unilaterally extended support to UDF … we are opposed to both minority and majority extremism,” says"
+    }
+  ]
+}

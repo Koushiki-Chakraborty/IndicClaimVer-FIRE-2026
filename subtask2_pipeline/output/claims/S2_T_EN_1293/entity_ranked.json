@@ -1,0 +1,99 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1293",
+    "text": "Doctors Must Disclose Minor Girl's Name In Report Under POCSO Act While Terminating Pregnancies From Consensual Relations : Madras High Court",
+    "lang": "english"
+  },
+  "entity_ranked_evidence": [
+    {
+      "title": "POCSO Act| Doctor Need Not Disclose Name Of Minor U/s. 19(1) When ...",
+      "url": "https://www.verdictum.in/amp/court-updates/high-courts/protection-of-children-from-sexual-offences-act-1490375",
+      "snippet": "The Madras High Court has held that a minor girl seeking to terminate her pregnancy arising out of a consensual relationship is not required to disclose her",
+      "bm25_score_raw": 5.368838714832575,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9391164779663086,
+      "embedding_score_norm": 0.8312333998440742,
+      "embedding_rank": 3,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 1
+    },
+    {
+      "title": "Terminating pregnancy arising out of consensual sex: Doctors need not ...",
+      "url": "https://legal.economictimes.indiatimes.com/amp/news/litigation/terminating-pregnancy-arising-out-of-consensual-sex-doctors-need-not-disclose-minors-name-says-madras-hc/102833386",
+      "snippet": "The Madras High Court has said it is not necessary for a doctor to disclose the name of a minor approaching them for termination of pregnancy",
+      "bm25_score_raw": 3.55669708526608,
+      "bm25_score_norm": 0.6093955838242201,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.9147348403930664,
+      "embedding_score_norm": 0.6060130554858147,
+      "embedding_rank": 4,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 2
+    },
+    {
+      "title": "“Minor Girl's Aborted Foetus not to be given to the Police or Court, must be ...",
+      "url": "https://jgu.edu.in/child-rights-clinic/minor-girls-aborted-foetus-not-to-be-given-to-the-police-or-court-must-be-kept-in-forensic-lab-and-destroyed-after-completion-of-case-madras-high-court",
+      "snippet": "... Madras High Court. July 16 (2). “Minor Girl's Aborted Foetus not to be given to the Police or Court, must be kept in Forensic Lab and",
+      "bm25_score_raw": 0.72951167570613,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8491297960281372,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 3
+    },
+    {
+      "title": "Doctors Need Not Disclose Minor Girl's Name In Report Under POCSO Act ...",
+      "url": "https://www.livelaw.in/amp/high-court/madras-high-court/madras-high-court-pregnancy-of-minor-from-consensual-relationship-may-be-terminated-without-insisting-on-minors-name-235479",
+      "snippet": "Doctors Need Not Disclose Minor Girl's Name In Report Under POCSO Act While Terminating Pregnancies From Consensual Relations : Madras High",
+      "bm25_score_raw": 4.929303891184539,
+      "bm25_score_norm": 0.9052589265768172,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.9573866128921509,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 4
+    },
+    {
+      "title": "Doctors Can Omit Minor Girl's Name in Report under POCSO Act for ...",
+      "url": "https://lawbeat.in/amp/news-updates/doctors-can-omit-minor-girls-name-report-under-pocso-act-pregnancy-termination-consensual-relationship-madras-high-court",
+      "snippet": "Madras HC Doctors Can Omit Minor Girls Name in Report under POCSO Act for Pregnancy Termination from Consensual … it is not necessary to insist",
+      "bm25_score_raw": 3.1711495619485874,
+      "bm25_score_norm": 0.5262913921891141,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.9392096996307373,
+      "embedding_score_norm": 0.8320945157269272,
+      "embedding_rank": 2,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 5
+    },
+    {
+      "title": "Mandatory Reporting Duty Under Section 19 of POCSO Act Applies ...",
+      "url": "https://lawtext.in/judgement.php?bid=72446",
+      "snippet": "Whether a doctor who performs a medical termination of pregnancy on a minor victim of sexual assault can be charged under Sections 19 and 21 of",
+      "bm25_score_raw": 0.781838835973738,
+      "bm25_score_norm": 0.011279041082100767,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8805971145629883,
+      "embedding_score_norm": 0.2906728596535275,
+      "embedding_rank": 5,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 6
+    }
+  ]
+}

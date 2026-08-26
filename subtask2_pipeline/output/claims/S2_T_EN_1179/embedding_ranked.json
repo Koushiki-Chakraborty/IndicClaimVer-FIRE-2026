@@ -1,0 +1,76 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1179",
+    "text": "Live: Sonia drinks Kinley as UP children drink impure water, says Modi at Lakhimpur Kheri Rally",
+    "lang": "english"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Conversations with kids about life and grown-up drinks",
+      "url": "https://www.facebook.com/turk.kinney/posts/conversations-with-marley-we-are-sitting-on-the-porch-and-she-asks-have-u-ever-t/10233402890555598",
+      "snippet": "I told her it's like a grown up drink but no alcohol. Her reply \"yessssss that's like a big flex as a kid\" and continues to eat her",
+      "bm25_score_raw": 4.159400884852496,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.801953911781311,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "The Mills Kids Taste Viral Prime Drinks!",
+      "url": "https://www.youtube.com/watch?v=4VXLfMweWfg",
+      "snippet": "The Mills Family Live Dinner With the Mills. Hercules Candy We Made Strawberry Lemonade Hard Candy For The First Time Ever!",
+      "bm25_score_raw": 2.8227234160018444,
+      "bm25_score_norm": 0.6127524417215197,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.7975685596466064,
+      "embedding_score_norm": 0.8644769004345272,
+      "embedding_rank": 2
+    },
+    {
+      "title": "What your kids drink matters just as much as what they eat! On KUSA-TV ...",
+      "url": "https://www.linkedin.com/posts/payal-kohli-md-facc-88286743_what-your-kids-drink-matters-just-as-much-activity-7308624910099038209-zi4S",
+      "snippet": "What your kids drink matters just as much as what they eat! On KUSA-TV, 9NEWS, let's talk what drinks are beneficial to kids, along with the",
+      "bm25_score_raw": 1.739632955620194,
+      "bm25_score_norm": 0.29897133449738633,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.797082781791687,
+      "embedding_score_norm": 0.849464623523409,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Popular YouTube star's energy drink confusing to some parents",
+      "url": "https://www.youtube.com/watch?v=F7yPIv4QEcM",
+      "snippet": "A new beverage named \"Prime\" is swiftly gaining popularity, especially among kids. one version of this drink might not be safe for children.",
+      "bm25_score_raw": 0.7212999891713178,
+      "bm25_score_norm": 0.003951059254107082,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.7933493852615356,
+      "embedding_score_norm": 0.7340892889706736,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Popular YouTube star's energy drink confusing to some parents",
+      "url": "https://www.khon2.com/local-news/popular-youtube-stars-energy-drink-confusing-to-some-parents/amp",
+      "snippet": "A new beverage named “Prime” is swiftly gaining popularity, especially among kids. as one version of this drink might not be safe for children.",
+      "bm25_score_raw": 0.7144158959554727,
+      "bm25_score_norm": 0.0019566751555334092,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.7817769050598145,
+      "embedding_score_norm": 0.376458171007333,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Sometimes toddler negotiations are less about the actual drink and more ...",
+      "url": "https://www.instagram.com/p/Da3PCeViqNg",
+      "snippet": "The American Academy of Pediatrics says water and plain milk are the best everyday drink choices for young children. Sugary drinks, including",
+      "bm25_score_raw": 0.7076619641659777,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.769595205783844,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6
+    }
+  ]
+}

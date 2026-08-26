@@ -1,0 +1,76 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1272",
+    "text": "In terms of development, Gujarat better placed than UP: Akhilesh",
+    "lang": "english"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "UP development model better than Gujarat's: Akhilesh Yadav",
+      "url": "https://www.ndtv.com/elections-news/up-development-model-better-than-gujarats-akhilesh-yadav-557882",
+      "snippet": "Criticising the much-touted Gujarat model of development, Uttar Pradesh Chief Minister Akhilesh Yadav today said the Samajwadi Party (SP)",
+      "bm25_score_raw": 1.9717181100198162,
+      "bm25_score_norm": 0.7750186799425535,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.9091169834136963,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Gujarat model has blown out: Akhilesh on UP power situation",
+      "url": "https://www.siasat.com/gujarat-model-has-blown-out-akhilesh-on-up-power-situation-3478719",
+      "snippet": "Akhilesh slammed BJP govt in Uttar Pradesh over the power situation in the state, alleging that the much-touted Gujarat model had failed.",
+      "bm25_score_raw": 2.3451218880586917,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8717794418334961,
+      "embedding_score_norm": 0.6086948917073951,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Did UP economy do better under Akhilesh than Yogi? A ...",
+      "url": "https://www.reddit.com/r/india/comments/1bx6ozv/did_up_economy_do_better_under_akhilesh_than_yogi",
+      "snippet": "Up is getting lots of funds from the center to develop their infra. Uttra Pradesh improved during Akhilesh Yadav's terms, between FY12 and FY17",
+      "bm25_score_raw": 0.6854117488189941,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8608217239379883,
+      "embedding_score_norm": 0.493855756449082,
+      "embedding_rank": 3
+    },
+    {
+      "title": "akhilesh yadav: Uttar Pradesh government spreading ...",
+      "url": "https://m.economictimes.com/news/politics-and-nation/uttar-pradesh-government-spreading-hatred-in-name-of-developmentakhilesh-yadav/articleshow/61605728.cms",
+      "snippet": "Samajwadi Party president Akhilesh Yadav today accused the government in Uttar Pradesh of spreading hatred in the name of development, saying",
+      "bm25_score_raw": 0.7383511932516831,
+      "bm25_score_norm": 0.031896801243222,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8454865217208862,
+      "embedding_score_norm": 0.3331396859664378,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Uttar Pradesh's Transformation: Yogi Adityanath vs Akhilesh",
+      "url": "https://www.linkedin.com/pulse/yogi-adityanath-vs-akhilesh-yadav-winter-session-debate-shuklla-sackf",
+      "snippet": "While Akhilesh Yadav raised questions about the BJP's development model, Yogi Adityanath defended his government's transformative policies.",
+      "bm25_score_raw": 0.7724435099986613,
+      "bm25_score_norm": 0.052437928239406816,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8437954187393188,
+      "embedding_score_norm": 0.3154165792130171,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Development under the leadership of Shri Akhilesh Yadav",
+      "url": "https://samajwadiparty.in/development",
+      "snippet": "In December 2016, Chief Minister Akhilesh Yadav laid the foundation stones and inaugurated power projects worth Rs. 52,437 crores. The projects cover all three",
+      "bm25_score_raw": 0.7071410449655063,
+      "bm25_score_norm": 0.013092223535168767,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8136990070343018,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6
+    }
+  ]
+}

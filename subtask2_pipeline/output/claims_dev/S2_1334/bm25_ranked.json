@@ -1,0 +1,105 @@
+{
+  "claim": {
+    "id": "S2/1334",
+    "text": "सबसे ज्यादा खतरनाक है ओमिक्रॉन का सब-वैरिएंट BF.7, कोविड वैक्सिन इस पर कितना असरदार, जानें सबकुछ",
+    "lang": "dev"
+  },
+  "ranked_evidence": [
+    {
+      "title": "How effective is the Moderna vaccine against Omicron?",
+      "url": "https://www.youtube.com/watch?v=SPvqfJR6Wlo",
+      "snippet": "Moderna Canada manager Patricia Gauthier shares the effectiveness of the Moderna vaccine against the Omicron variant.",
+      "bm25_score_raw": 2.5318989765874766,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Omicron के लिए आई नई Vaccine, जानिए ! क्या है इस ...",
+      "url": "https://www.youtube.com/watch?v=xtxgr3f4KFk",
+      "snippet": "... मंजूरी दे दी है. ये वैक्सीन इसलिए विशेष है क्योंकि ये न सिर्फ कोरोना के ओरिजिनल स्ट्रेन, बल्कि ओमिक्रॉन (Omicron) पर भी असरदार है. ब्रिटेन दुनिया का पहला देश है जिसने मॉडर्ना (Moderna) की इस वैक्सीन",
+      "bm25_score_raw": 1.8705403940727119,
+      "bm25_score_norm": 0.7387895059675124,
+      "bm25_rank": 2
+    },
+    {
+      "title": "ओमिक्रॉन पर एक्सपर्ट्स की चेतावनी, बोले- नैचुरल वैक्सीन ...",
+      "url": "https://hindi.news18.com/news/nation/omicron-variant-consider-as-a-natural-vaccine-is-dangerous-thought-experts-lak-3932122.html",
+      "snippet": "नई दिल्ली. आमतौर पर कोरोना के सबसे तेजी से फैलने वाले वेरिएंट ओमिक्रॉन (Omicron variant) में अब तक गंभीर लक्षण नहीं दिखाई दे रहे हैं. इस बात का कुल लोग गलत मतलब निकाल रहे हैं.",
+      "bm25_score_raw": 1.6357999278132649,
+      "bm25_score_norm": 0.6460763019929079,
+      "bm25_rank": 3
+    },
+    {
+      "title": "Study shows effectiveness of updated COVID-19 vaccines wanes moderately over time, is lower against currently circulating variants - UNC Gillings School of Global Public Health",
+      "url": "https://sph.unc.edu/sph-news/study-shows-effectiveness-of-updated-covid-19-vaccines-wanes-moderately-over-time-is-lower-against-currently-circulating-variants",
+      "snippet": "Boosters that target the omicron subvariants of SARS-CoV-2 are still providing reasonably durable protection against infection, hospitalization and death from COVID-19, according to new data from a study led by researchers at the UNC Gillings School of Global Public Health. Published today in the *New England Journal of Medicine*, the study found that COVID-19 boosters targeting the XBB.1.5 subvariants were most effective one month after receiving one. After four weeks, the vaccines were 52.2% effective at preventing infection and 66.8% effective at preventing hospitalization. “The relatively low effectiveness of the XBB.1.5 vaccines against the JN.1 subvariant, together with the waning effectiveness over time, underscores the need for new vaccines targeting the JN.1 strain.”. Lin says the Food and Drug Administration’s (FDA) general strategy is to deploy new COVID-19 vaccines annually in the fall that target the circulating strains in the spring, and that the findings in this study may contribute to this decision.",
+      "bm25_score_raw": 1.627438052521286,
+      "bm25_score_norm": 0.6427736918298241,
+      "bm25_rank": 4
+    },
+    {
+      "title": "Vaccine का प्रभाव नये Variant पर है कारगर",
+      "url": "https://www.youtube.com/watch?v=qEu3nbQvQhw",
+      "snippet": "Aaj Ki Taaja Khabar: दुनियाभर में खतरा बन चुका कोविड-19 (Covid-19) का नया वैरिएंट ओमिक्रॉन (Omicron variant) अब भारत में भी दस्तक दे चुका है.",
+      "bm25_score_raw": 1.5899259398074965,
+      "bm25_score_norm": 0.627957890306673,
+      "bm25_rank": 5
+    },
+    {
+      "title": "'ओमिक्रॉन' के खिलाफ वैक्सीन होगी प्रभावी? ऑक्सफोर्ड ...",
+      "url": "https://hindi.news18.com/news/nation/oxford-university-says-no-evidence-to-say-vaccines-wont-protect-against-omicron-3875301.html",
+      "snippet": "... ओमिक्रॉन वेरिएंट पर वैक्सीन के प्रभाव को लेकर यूनिवर्सिटी ऑफ ऑक्सफोर्ड ने कहा है कि इस बात के कोई सबूत नहीं है कि कोविड-19 वैक्सीन की मदद से ओमिक्रॉन वेरिएंट से होने वाली गंभीर बीमारियों को रोकने में मदद मिलेगी.",
+      "bm25_score_raw": 1.5761447454465107,
+      "bm25_score_norm": 0.6225148633579596,
+      "bm25_rank": 6
+    },
+    {
+      "title": "Pfizer and BioNTech Provide Update on Omicron Variant",
+      "url": "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-and-biontech-provide-update-omicron-variant",
+      "snippet": "Dec 8, 2021 — Serum antibodies induced by the Pfizer-BioNTech COVID-19 Vaccine (BNT162b2) neutralize the SARS-CoV-2 Omicron variant after three doses.Read more",
+      "bm25_score_raw": 1.492390059929154,
+      "bm25_score_norm": 0.5894350737250247,
+      "bm25_rank": 7
+    },
+    {
+      "title": "Does the omicron variant reduce vaccine efficacy?",
+      "url": "https://www.youtube.com/watch?v=1F59dQJBmWQ",
+      "snippet": "Omicron numbers are continuing to rise across the globe and so are the claims that it is harmless. But is it actually less deadly?",
+      "bm25_score_raw": 1.2198759716901586,
+      "bm25_score_norm": 0.4818027824057664,
+      "bm25_rank": 8
+    },
+    {
+      "title": "Corona Virus: नए ओमिक्रॉन पर कितनी कारगर है पुरानी वैक्सीन ...",
+      "url": "https://zeenews.india.com/hindi/india/how-effective-is-the-old-vaccine-on-the-new-omicron-who-replied-omicrown-variant/1652343",
+      "snippet": "इसके अलावा जो वैक्सीन कोरोना के पुराने स्ट्रेन और ओमिक्रॉन के स्ट्रेन के खिलाफ यानी दो वायरस के खिलाफ मिलाकर तैयार किया गया है वो Bivalent Vaccine कहलाती है. भारत में फिलहाल Monovalent वैक्सीन ही मौजूद",
+      "bm25_score_raw": 0.8277863666374066,
+      "bm25_score_norm": 0.3269428892273999,
+      "bm25_rank": 9
+    },
+    {
+      "title": "Delta and Omicron Variants Partially Evaded COVID-19 Vaccines, Study Indicates - InventUM",
+      "url": "https://news.med.miami.edu/delta-and-omicron-variants-partially-evaded-covid-19-vaccines",
+      "snippet": "The Miller School of Medicine. Miller School of Medicine Miller School of Medicine    News. * Dr. Alberto Caban-Martinez contributed to a study that showed vaccinated people’s immune responses to newly emerged versions of the SARS-CoV-2 virus showed less specificity to these variants. However, a new study published in *Nature Immunology,* and co-authored by researchers with the University of Miami Miller School of Medicine, uncovers a caveat. Vaccinated people’s immune responses to newly emerged versions of the virus showed less specificity to these variants. “While COVID-19 vaccination is effective, its ability to prime the immune system to mount the most targeted response really depends on the type of variant that’s in circulation at the time,” said study co-author Alberto Caban-Martinez, D.O., Ph.D., M.P.H., a professor and vice chair for research in the Department of Public Health Sciences and associate vice provost for research integrity, regulatory affairs and assessment at the Miller School.",
+      "bm25_score_raw": 0.3662995147917701,
+      "bm25_score_norm": 0.14467382710722246,
+      "bm25_rank": 10
+    },
+    {
+      "title": "वैक्‍सीन के प्रभाव को भी खत्‍म कर देता है ओमीक्रान स्‍ट्रेन ...",
+      "url": "https://www.jagran.com/world/other-be-alert-who-include-omicron-strain-of-corona-virus-in-variant-of-concern-22243688.html",
+      "snippet": "अब तक जो जानकारी सामने आई है उसके मु‍ताबिक ओमीक्रान स्‍ट्रेन का संक्रमण अधिक तेजी से फैलता है। इसके अलावा ये वैक्‍सीन के असर को भी कम या खत्‍म कर सकता है। यहां पर ये भी बता दें कि विश्‍व के कुछ देशों",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11
+    },
+    {
+      "title": "Effectiveness of the pre-Omicron COVID-19 vaccines against ...",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10054360",
+      "snippet": "by P Paul · 2023 · Cited by 77 — the COVID-19 vaccines have successfully reduced the rates of infections, severity, hospitalization, and death caused by the pre-Omicron variants of SARS-CoV-2.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12
+    }
+  ]
+}

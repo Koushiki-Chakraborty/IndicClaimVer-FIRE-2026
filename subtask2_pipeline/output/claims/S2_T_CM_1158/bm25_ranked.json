@@ -1,0 +1,89 @@
+{
+  "claim": {
+    "id": "S2/T/CM/1158",
+    "text": "mujhe kejriwal ki koi ek chij by record data me achiement bata dena or thanks ki tumhare ma bap me tumhe apne jaise tami sikhaya hai i m sure ki ye tarik bhi tumhare bache tum par use kare",
+    "lang": "codemix"
+  },
+  "ranked_evidence": [
+    {
+      "title": "Watch | AAP National Convenor Arvind Kejriwal said, \"Punjab ...",
+      "url": "https://www.facebook.com/UNINewsagency/posts/watch-aap-national-convenor-arvind-kejriwal-said-punjab-has-secured-the-number-o/1483875653752551",
+      "snippet": "Arvind Kejriwal gave a third guarantee to the teachers to change the 'Teacher Transfer' policy. The National Achievement Survey-2021 report",
+      "bm25_score_raw": 2.40233621205588,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Who is behind Arvind Kejriwal's success?",
+      "url": "https://www.newslaundry.com/2018/02/24/arvind-kejriwal-delhi-government-media",
+      "snippet": "He is a diabetic and employed the Gandhian method of fasting as a political tool. His “bijli-paani satyagraha” in April 2013, when he fasted for",
+      "bm25_score_raw": 2.363534706510477,
+      "bm25_score_norm": 0.9838484283129556,
+      "bm25_rank": 2
+    },
+    {
+      "title": "#WATCH | AAP national convener Arvind Kejriwal says, \"...I ...",
+      "url": "https://www.facebook.com/TimesofIndia/posts/watch-aap-national-convener-arvind-kejriwal-says-i-know-you-have-gone-through-a-/1448483243992525",
+      "snippet": "AAP government's achievements in education, health and several other areas are also the achievement of every single volunteer and supporter",
+      "bm25_score_raw": 2.0602095413482044,
+      "bm25_score_norm": 0.8575858495614612,
+      "bm25_rank": 3
+    },
+    {
+      "title": "Delhi CM Arvind Kejriwal Lists Achievements | Announced His ...",
+      "url": "https://www.youtube.com/watch?v=WbfO01HSmSg",
+      "snippet": "Delhi CM Arvind Kejriwal Lists Achievements | Announced His Big Plan To Make India No.1 Country. 295 views · 3 years ago. #arvindkejriwal",
+      "bm25_score_raw": 1.3905504811894103,
+      "bm25_score_norm": 0.5788325856352138,
+      "bm25_rank": 4
+    },
+    {
+      "title": "Oh, what a fantastic achievement by the one and only Aam ...",
+      "url": "https://www.facebook.com/rajeev.s.tanwar/videos/oh-what-a-fantastic-achievement-by-the-one-and-only-aam-admi-kejriwal-as-he-prom/188564433935044",
+      "snippet": "what a fantastic achievement by the one and only Aam Admi Kejriwal! Delhi has magically transformed into the magnificent city of Venice after",
+      "bm25_score_raw": 1.2589432283230562,
+      "bm25_score_norm": 0.5240495572622923,
+      "bm25_rank": 5
+    },
+    {
+      "title": "Arvind Kejriwal - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Arvind_Kejriwal",
+      "snippet": "*   4 Chief Minister of DelhiToggle Chief Minister of Delhi subsection. # Arvind Kejriwal. Chief Minister of Delhi (2013–14; 2015–2024). | Chief Minister of Delhi 2013–2024 * Delhi Council of Ministers * Kejriwal I * Kejriwal II * Kejriwal III * * * **Electoral performance** * Electoral history * Assembly elections * 2013 * 2015 * 2020 * 2025 * * * **Legislative Assembly** * Delhi Legislative Assembly * Fifth * Sixth * Seventh * * * **Media** * Swaraj (book) \"Swaraj (book)\") * An Insignificant Man * * * **Activism** * Parivartan * Jan Lokpal Bill * 2011 Indian anti-corruption movement * India Against Corruption * * * **Controversies** * 2022 Delhi liquor policy case * Arrest * Residence attack * Shunglu Committee * Swati Maliwal assault |. He was the chief minister from 2013 to 2014 and from 2015 to 2024. He was arrested on 21 March 2024 by the Enforcement Directorate on allegations of a liquor scam against the Aam Aadmi Party led Delhi Government.",
+      "bm25_score_raw": 1.0970995221879967,
+      "bm25_score_norm": 0.45668025844272514,
+      "bm25_rank": 6
+    },
+    {
+      "title": "Aam Aadmi Party's achievements over 13 years are rooted ...",
+      "url": "https://www.facebook.com/TimesofIndia/posts/aam-aadmi-partys-achievements-over-13-years-are-rooted-in-public-trust-and-the-h/1263410302499821",
+      "snippet": "Aam Aadmi Party's achievements over 13 years are rooted in public trust and the hard work of its volunteers, national convenor Arvind Kejriwal",
+      "bm25_score_raw": 1.0447208368661443,
+      "bm25_score_norm": 0.4348770299608019,
+      "bm25_rank": 7
+    },
+    {
+      "title": "AAP government lists top 10 achievements of five years  - The Hindu",
+      "url": "https://www.thehindu.com/news/cities/Delhi/aap-government-lists-top-10-achievements-of-five-years/article30392089.ece",
+      "snippet": "News and reviews from the world of cinema and streaming. Your download of the top 5 technology stories of the day. Delhi Chief Minister and AAP national convener Arvind Kejriwal on Tuesday launched ‘AAP ka Report Card’, which describes the top 10 achievements of the government in the last five years, ahead of the Assembly elections due in February 2020. The report card will now be taken to 35 lakh households in the Capital as part of a door-to-door campaign from December 26 to January 7, according to the party. “Our historical win of 67 out of 70 seats in 2015 is equivalent to the history that we have created in the last five years by working towards the welfare of the people,” Mr. Kejriwal said, addressing a gathering at the party headquarters in Delhi. Starting with work done in the field of education, Mr. Kejriwal said, “In the last 70 years, the quality of education and educational infrastructure had hugely declined.",
+      "bm25_score_raw": 0.9425625117897064,
+      "bm25_score_norm": 0.3923524555220673,
+      "bm25_rank": 8
+    },
+    {
+      "title": "\"BJP Can't Defeat Us In This Lifetime\": Arvind Kejriwal's Old ...",
+      "url": "https://www.ndtv.com/india-news/delhi-election-results-bjp-cant-defeat-us-in-this-lifetime-arvind-kejriwals-old-video-goes-viral-as-results-show-huge-upset-in-delhi-7662464",
+      "snippet": "According to the latest Election Commission (EC) data, the BJP has won five seats, and AAP has secured six. AAP's significant decline has",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 9
+    },
+    {
+      "title": "The impact of Delhi's education revolution is that our schools ...",
+      "url": "https://archive.aamaadmiparty.org/the-impact-of-delhis-education-revolution-is-that-our-schools-and-students-are-continuously-achieving-new-records-cm-arvind-kejriwal",
+      "snippet": "The impact of Delhi's education revolution is that our schools and students are continuously achieving new records: CM Arvind Kejriwal. Home",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10
+    }
+  ]
+}

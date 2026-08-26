@@ -1,0 +1,57 @@
+{
+  "claim": {
+    "id": "S2/T/CM/1155",
+    "text": "imrankhan apne ghabrana nahi pm house in pakistan put for rental simple terms it is now a marriage hall social weddings who know might also run kundra shoots in near future all governors will also not say in governors house india 0mar",
+    "lang": "codemix"
+  },
+  "ranked_evidence": [
+    {
+      "title": "PM Imran Khan speech today at Digital Pakistan ceremony",
+      "url": "https://www.youtube.com/watch?v=Z4D2EC1Lt9o",
+      "snippet": "Those who take risks succeed \"Ghabrana Nahi hai Apne \" | PM Imran Khan speech | Digital Vision Pakistan | 5 Dec 2019 Public News Pakistan",
+      "bm25_score_raw": 3.9938897216889147,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "'Aapne Ghabrana Nahi Hai..': Public makes fun of Pakistan PM ...",
+      "url": "https://www.youtube.com/watch?v=aE6p_q4x4I4",
+      "snippet": "Imran Khan's government is facing criticism for rising inflation, rising debt, misgovernance, and mishandling foreign policy,",
+      "bm25_score_raw": 1.2015829899831434,
+      "bm25_score_norm": 0.30085532493747086,
+      "bm25_rank": 2
+    },
+    {
+      "title": "Pakistan Funny Roast - Aapko Ghabrana Nahi Hai",
+      "url": "https://www.youtube.com/watch?v=ZxdXCi9mlYo",
+      "snippet": "This Video Only for those pakistani who spread hate and rumor against India NOT FOR ALL PAKISTANI. just trying to make you laughs. Ghabrana",
+      "bm25_score_raw": 1.1194494691488526,
+      "bm25_score_norm": 0.28029053057465636,
+      "bm25_rank": 3
+    },
+    {
+      "title": "'Aapne Ghabrana Nahi Hai..': Public makes fun of Pakistan PM ...",
+      "url": "https://www.facebook.com/abplive/videos/aapne-ghabrana-nahi-hai-public-makes-fun-of-pakistan-pm-imran-khan-abp-news/4903010806432281",
+      "snippet": "پورا پاکستان عمران خان کے ساتھ ہے کتا اب تمھارے( کانپیں ٹانگ) رہی ہے. اب نواز شریف کا حکومت نہیں کہ آپ جو بولے وہ ہو جائے اب عمران خان ابھی",
+      "bm25_score_raw": 0.9848163481376322,
+      "bm25_score_norm": 0.24658075629618995,
+      "bm25_rank": 4
+    },
+    {
+      "title": "What is Apna Ghar Program? Complete Guide to Home Loans ...",
+      "url": "https://www.youtube.com/watch?v=Cz6JokC8FUk",
+      "snippet": "Complete Guide to Home Loans in Pakistan | Imran Yaqub Khan Analysis PM Shehbaz Sharif Launches “Apna Ghar” Housing Loan Scheme PM Apna Ghar",
+      "bm25_score_raw": 0.5376733223659981,
+      "bm25_score_norm": 0.1346239780848605,
+      "bm25_rank": 5
+    },
+    {
+      "title": "PM Imran launches 'game changer' Roshan Apna Ghar ...",
+      "url": "https://www.dawn.com/news/1642936",
+      "snippet": "Prime Minister Imran Khan on Friday launched the 'Roshan Apna Ghar' scheme for overseas Pakistanis, terming the new initiative a “game changer”.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6
+    }
+  ]
+}

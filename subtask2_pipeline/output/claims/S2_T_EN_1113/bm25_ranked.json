@@ -1,0 +1,57 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1113",
+    "text": "Proceedings Initiated Under Domestic Violence Act Before Magistrate Cannot Be Transferred To Family Court: Kerala High Court",
+    "lang": "english"
+  },
+  "ranked_evidence": [
+    {
+      "title": "Proceedings Initiated Under Domestic Violence Act Before ...",
+      "url": "https://www.livelaw.in/high-court/kerala-high-court/kerala-high-court-domestic-violence-act-magistrate-no-transfer-family-court-235013",
+      "snippet": "Aug 11, 2023 — The Kerala High Court proceedings initiated under the Protection of Women from Domestic Violence Act, cannot be transferred to a Family Court.",
+      "bm25_score_raw": 3.6616868791353854,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Family court can only entertain proceedings under ...",
+      "url": "https://lawbeat.in/news-updates/family-court-can-only-entertain-proceedings-under-domestic-violence-act-case-married",
+      "snippet": "Aug 17, 2023 — The Kerala High Court recently held that a proceeding initiated under the Domestic Violence Act, 2005 cannot be transferred to a Family Court.Read more",
+      "bm25_score_raw": 3.081355958511109,
+      "bm25_score_norm": 0.7120252989551192,
+      "bm25_rank": 2
+    },
+    {
+      "title": "Domestic Violence case pending before Magistrate cannot ...",
+      "url": "https://www.barandbench.com/news/domestic-violence-case-pending-magistrate-cannot-transferred-family-court-kerala-high-court",
+      "snippet": "Aug 14, 2023 — The Kerala High Court recently held that domestic violence cases pending before a Magistrate cannot be transferred to a family court.Read more",
+      "bm25_score_raw": 2.3493019271239195,
+      "bm25_score_norm": 0.34876179989729084,
+      "bm25_rank": 3
+    },
+    {
+      "title": "Non-Transferable DV Proceedings From Magistrate To ...",
+      "url": "https://www.leadindia.law/blog/en/non-transferable-dv-proceedings-from-magistrate-to-family-court",
+      "snippet": "The Kerala High Court declares that cases brought under the Domestic Violence Act before a Magistrate are still not transferable.",
+      "bm25_score_raw": 1.7816231311685047,
+      "bm25_score_norm": 0.06706539919728685,
+      "bm25_rank": 4
+    },
+    {
+      "title": "No Application U/s. 12 Of Domestic Violence Act Pending ...",
+      "url": "https://www.verdictum.in/court-updates/high-courts/dv-act-is-enacted-to-provide-for-more-effective-protection-of-rights-of-women-who-are-victims-of-violence-of-any-kind-occurring-within-the-family-1489678",
+      "snippet": "Aug 15, 2023 — No Application U/s. 12 Of Domestic Violence Act Pending Before Magistrate Can Be Transferred To Family Court: Kerala HC · Pankaj Bajpai ...Read more",
+      "bm25_score_raw": 1.6571282400185823,
+      "bm25_score_norm": 0.005287923990645028,
+      "bm25_rank": 5
+    },
+    {
+      "title": "Non-Transferability of Domestic Violence Act Petitions",
+      "url": "https://www.casemine.com/commentary/in/non-transferability-of-domestic-violence-act-petitions%3A-kerala-high-court-establishes-exclusive-magistrate-jurisdiction/view",
+      "snippet": "Mar 30, 2007 — The Kerala High Court addressed two primary petitions: A transfer petition seeking to shift the DVA petition from the Magistrate Court to the",
+      "bm25_score_raw": 1.6464719365775242,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6
+    }
+  ]
+}

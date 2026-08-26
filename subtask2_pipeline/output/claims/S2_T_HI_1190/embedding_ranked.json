@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/HI/1190",
+    "text": "गुजरात में मिली करारी हार के बाद अब कर्नाटक में चुनाव लड़ने की योजना से पीछे हट गई AAP",
+    "lang": "hindi"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Gujarat में Congress को लूट ले गई 'AAP' ? | DNA LIVE",
+      "url": "https://www.youtube.com/watch?v=VusxXElqYfU",
+      "snippet": "Gujarat में Congress को लूट ले गई 'AAP' ? | DNA LIVE | Gujarat Assembly (Chunav) Election Result. @ZeeBiharJharkhand33 likes4.2K viewsStreamed 3",
+      "bm25_score_raw": 4.524330029392399,
+      "bm25_score_norm": 0.7110238266167807,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8245921730995178,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Gujarat Election : कैसे टूटा 'AAP' और BTP का गठबंधन और क्या है ...",
+      "url": "https://www.youtube.com/watch?v=zlzy-t2V0TQ",
+      "snippet": "हमारी #gujaratelection कवरेज को अपना सहयोग दें: https://www.newslaundry.com/nl-sena/gujarat-and-himachal-elections गुजरात में लगभग 15 प्रतिशत",
+      "bm25_score_raw": 1.1252017721342809,
+      "bm25_score_norm": 0.12324755951404436,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8196654319763184,
+      "embedding_score_norm": 0.9339120436999085,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Amidst the split, good news for AAP came from Gujarat, the ...",
+      "url": "https://www.youtube.com/watch?v=p1CyZr9acE8",
+      "snippet": "... गुजरात में भाजपा के सबसे मजबूत गढ़ में 'आप' ने अपनी उपस्थिति दर्ज कराई है। गुजरात प्रभारी गोपाल इटालिया के मुताबिक, AAP ने अब तक 380 से अधिक सीटों पर जीत दर्ज की है। जूनागढ़ जिला पंचायत में पार्टी ने",
+      "bm25_score_raw": 6.195488141071538,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8179771900177002,
+      "embedding_score_norm": 0.9112657430327685,
+      "embedding_rank": 3
+    },
+    {
+      "title": "गुजरात में AAP का महा-ऐलान: 12000 सीटों पर चुनाव और 'बाप-बेटे' की ...",
+      "url": "https://www.youtube.com/watch?v=3Cs1x8Cz8BY",
+      "snippet": "गुजरात की राजनीति में बड़ा धमाका! आम आदमी प्रदेश अध्यक्ष इसुदान गढ़वी ने प्रेस कॉन्फ्रेंस कर आगामी स्थानीय स्वराज चुनावों के लिए AAP के मास्टरप्लान का खुलासा कर दिया है।",
+      "bm25_score_raw": 3.9153632703232195,
+      "bm25_score_norm": 0.6057214722054587,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8164528608322144,
+      "embedding_score_norm": 0.8908181899589993,
+      "embedding_rank": 4
+    },
+    {
+      "title": "गुजरात में 1 सीट से खुला AAP का खाता, BJP 35 सीट से आगे | Himachal ...",
+      "url": "https://www.youtube.com/watch?v=hrtgIU-94Qw",
+      "snippet": "Gujarat Elections 2022: गुजरात की 182 विधानसभा सीटों पर दो चरणों में हुए चुनाव का आज परिणाम आएगा। सुबह आठ बजे से वोटों की गिनती शुरू (Gujarat Chunav Natija) होगी।",
+      "bm25_score_raw": 6.14854105086753,
+      "bm25_score_norm": 0.9918819228510941,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8052222728729248,
+      "embedding_score_norm": 0.740169599396184,
+      "embedding_rank": 5
+    },
+    {
+      "title": "भारतीय जनता पार्टी पहले अपना हाल देख ले। गुजरात में क्या मुख्यमंत्री ...",
+      "url": "https://www.instagram.com/reel/DY618dmhLt4",
+      "snippet": "The Bharatiya Janata Party should first look at themselves; didn't they change the CM in Gujarat? In Gujarat, they changed the CM and the entire",
+      "bm25_score_raw": 0.4124573392103414,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.8014397025108337,
+      "embedding_score_norm": 0.6894297008424002,
+      "embedding_rank": 6
+    },
+    {
+      "title": "Gujarat",
+      "url": "https://en.wikipedia.org/wiki/Gujarat",
+      "snippet": "# Gujarat. This article is about the state in India. State in West India, India. | The map of India showing Gujarat Location of Gujarat in India |. **Gujarat** (Gujarati: *Gujarāt*, pronounced  ⓘ) is a state along the western coast of India. Its coastline of about 2,340 km (1,450 mi) is the longest in the country, most of which lies on the Kathiawar peninsula. Gujarat is the fifth-largest Indian state by area, covering some 196,024 km2 (75,685 mi2); and the ninth-most populous state, with a population of 60.4 million in 2011. It is bordered by Rajasthan to the northeast, Dadra and Nagar Haveli and Daman and Diu to the south, Maharashtra to the southeast, Madhya Pradesh to the east, and the Arabian Sea and the Pakistani province of Sindh to the west. The Gujaratis are indigenous to the state, and their language, Gujarati, is the state's official language. The Gir National Park in Gujarat is home to the only wild population of the Asiatic lion in the world.",
+      "bm25_score_raw": 0.77122983772863,
+      "bm25_score_norm": 0.06203883583030928,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.8004551529884338,
+      "embedding_score_norm": 0.6762228234797459,
+      "embedding_rank": 7
+    },
+    {
+      "title": "Gujarat – Travel guide at Wikivoyage",
+      "url": "https://en.wikivoyage.org/wiki/Gujarat",
+      "snippet": "Join us at the travel forum, where you can share your upcoming travel plans, travel experiences or discuss anything about travel. # Gujarat. This article is about the Indian state. **Gujarat** (Gujarati: ગુજરાત *Gujarāt*) is a state in the western region of India. Gujarat is known for the Stepped Wells, Jain Temples, Asiatic Lion, and business-oriented people. Gujarat regions - Color-coded map — **switch to interactive map**. Gujarat regions - Color-coded map — **switch to static map**. |  | **Central Gujarat**  Ahmedabad and Vadodara are the main cities in this region. |  | **Kutch**  The largest district in the state and the country, famous for the Rann of Kutch. Below is a selection of nine of Gujarat's most populated cities. * There are **trains** from and to Mumbai (500 km) and New Delhi (1000 km) and other big cities of India several times a day going to the main cities of North-Centre-South Gujarat, including Ahmedabad, Vadodara and Surat.",
+      "bm25_score_raw": 0.7173746230501777,
+      "bm25_score_norm": 0.05272620781160331,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.7989733219146729,
+      "embedding_score_norm": 0.6563453456910944,
+      "embedding_rank": 8
+    },
+    {
+      "title": "Gujarat India",
+      "url": "https://gujaratindia.gov.in",
+      "snippet": "* Welcome to Gujarat State Portal. + All Chief Ministers of Gujarat. ## Latest News. ## Gujarat: Where Growth Begins. ## Gujarat at Glance. ## Why Invest in Gujarat. ## Key E- governance Projects. ## Gujarat Government Achievements. Copyright@2026 All Rights Reserved- State Portal Gujarat. Last Updated : 20/07/2026      Total Visitors :. Designed & Develop by  Gujarat Informatics Limited. ### Accessibility options.",
+      "bm25_score_raw": 0.9440706748796708,
+      "bm25_score_norm": 0.09192642299228913,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.761084794998169,
+      "embedding_score_norm": 0.14810364016656113,
+      "embedding_rank": 9
+    },
+    {
+      "title": "Gujarat - Home",
+      "url": "https://www.facebook.com/pages/Gujarat/110311575656943",
+      "snippet": "Gujarat is a state in Western India, It has an area of 196024km2 with a coastline of 1600km, most of which lies on the Kathiawar peninsula, and a population ...Read more",
+      "bm25_score_raw": 0.8316500025924678,
+      "bm25_score_norm": 0.0724866731208166,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.7523549199104309,
+      "embedding_score_norm": 0.030999942432790282,
+      "embedding_rank": 10
+    },
+    {
+      "title": "Gujarat: All You Must Know Before You Go (2026) - Tripadvisor",
+      "url": "https://www.tripadvisor.com/Tourism-g297607-Gujarat-Vacations.html",
+      "snippet": "Gujarat TourismGujarat HotelsGujarat Bed and BreakfastGujarat RestaurantsThings to Do in GujaratGujarat Travel ForumGujarat PhotosGujarat Map. All Gujarat HotelsGujarat Hotel DealsLast Minute Hotels in GujaratHotels Near MeBy Hotel Type. 4-Star Hotels in Gujarat3-Star Hotels in Gujarat5-Star Hotels in Gujarat. ITC - The Luxury Collection Hotels in GujaratHyatt Hotels in GujaratGrand Mercure Hotels in GujaratRamada Hotels in GujaratRamada Encore Hotels in GujaratRegenta Hotels in GujaratCourtyard (Marriott Bonvoy) Hotels in GujaratFour Points (Marriott Bonvoy) Hotels in GujaratThe Fern Hotels in GujaratTreebo Hotels in GujaratOYO Hotels in GujaratGinger Hotels in GujaratComfort Inns in GujaratAC Hotels (Marriott Bonvoy) in GujaratLemon Tree Hotels in Gujarat. Gujarat Affordable HotelsFamily Resorts in GujaratWedding Hotels in GujaratSpa Hotels in GujaratGujarat Hotels with Hot TubsGujarat Luxury Spa ResortsResorts with Hot Tubs in GujaratGujarat Adults Only and Adult Friendly HotelsHotels on the River in GujaratHotels on the Lake in Gujarat. # Gujarat, India. * Image 6 * Image 7 * Image 8 Adalaj Step-well 4.3 4.3 of 5 bubbles (1,900) Architectural Buildings.",
+      "bm25_score_raw": 0.6229783013681709,
+      "bm25_score_norm": 0.03640322339111111,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.7516255378723145,
+      "embedding_score_norm": 0.021215915414579855,
+      "embedding_rank": 11
+    },
+    {
+      "title": "Gujarat | History, Map, Population, & Facts",
+      "url": "https://www.britannica.com/place/Gujarat",
+      "snippet": "Image 3: Gujarat, IndiaImage 4: India: Royal Palace at JamnagarImage 5: India: Girnar HillsImage 6: Kathiawar Peninsula, Gujarat, India: riverImage 7: ValsadImage 8: PorbandarImage 9: India: Maharaja Sayajirao University of BarodaImage 10: Garba danceImage 11: Somnath Temple, Gujarat, IndiaImage 12: Modhera: Sun Temple. # Gujarat. *   Where is Gujarat located in India? Gujarat, a state in India, is located on the country’s western coast, by the Arabian Sea. It includes the Kathiawar Peninsula and bordering mainland areas. Gujarat is bordered to the northwest by Pakistan, and to the north by the Indian state of Rajasthan. Gujarat shares a small part of its southeastern border with the Indian union territory of Dadra and Nagar Haveli and Daman and Diu. The coastline of Gujarat extends for 992 miles (1,596 km), and no part of the state is more than 100 miles (160 km) from the sea. *   What is the capital city of Gujarat? The capital city of Gujarat, a state in west-central India, is Gandhinagar.",
+      "bm25_score_raw": 0.7685497160195531,
+      "bm25_score_norm": 0.06157538996586493,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.7500439286231995,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

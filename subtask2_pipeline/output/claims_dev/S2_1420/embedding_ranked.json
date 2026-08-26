@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/1420",
+    "text": "মুখ্যমন্ত্রী মমতা বন্দ্যোপাধ্যায় রাজ্যপালের মানহানি মামলায় সিঙ্গল বেঞ্চের নির্দেশ থেকে সম্পূর্ণ মুক্তি পেলেন।",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Mamata Banerjee Can Make Any Comment Against ...",
+      "url": "https://www.ndtv.com/india-news/mamata-banerjee-can-make-any-comment-against-governor-within-laws-calcutta-high-court-6196796",
+      "snippet": "The Calcutta High Court on Friday directed that Bengal Chief Minister Mamata Banerjee is free to make any statement concerning Governor CV Ananda Bose.",
+      "bm25_score_raw": 1.949942337206085,
+      "bm25_score_norm": 0.26876549236777597,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8639366030693054,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Calcutta High Court Restrains Mamata Banerjee from ...",
+      "url": "https://newsonair.gov.in/calcutta-high-court-restrains-mamata-banerjee-from-making-defamatory-statements-against-governor",
+      "snippet": "Chief Minister Mamata Banerjee was restrained by the Calcutta High Court from making any defamatory statements against Governor Dr CV Ananda Bose in a",
+      "bm25_score_raw": 1.949942337206085,
+      "bm25_score_norm": 0.26876549236777597,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.851184606552124,
+      "embedding_score_norm": 0.8643260694619983,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Bengal Polls: Governor Dissolves Assembly After Mamata ...",
+      "url": "https://www.youtube.com/watch?v=7HWooBS-3Lg",
+      "snippet": "Bengal Chief Minister Mamata Banerjee's last gambit -- refusal to resign her post -- ended in an anti-climax of sorts as Governor RN Ravi",
+      "bm25_score_raw": 1.1440174292828116,
+      "bm25_score_norm": 0.13927852189499149,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8450808525085449,
+      "embedding_score_norm": 0.7993856265271347,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Mamata Banerjee removed as West Bengal Chief Minister ...",
+      "url": "https://www.facebook.com/WIONews/posts/mamata-banerjee-removed-as-west-bengal-chief-minister-move-under-clause-2-of-art/1334573638781807",
+      "snippet": "Mamata Banerjee has ceased to be the Chief Minister after Governor R N Ravi dissolved the West Bengal cabinet",
+      "bm25_score_raw": 2.0311552973451383,
+      "bm25_score_norm": 0.2818138794670542,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.839240312576294,
+      "embedding_score_norm": 0.737245630801368,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Mamata Banerjee: রাজ্যপালের করা মামলায় সিঙ্গল বেঞ্চের ...",
+      "url": "https://www.youtube.com/watch?v=G1GjUJZG_HM",
+      "snippet": "CV Ananda Bose: রাজ্যপালের করা মামলায় সিঙ্গল বেঞ্চের নির্দেশ চ্যালেঞ্জ করে ডিভিশন বেঞ্চে মুখ্যমন্ত্রী। কীভাবে মানহানি? অন্তর্বর্তী নির্দেশে ব্যাখ্যা না থাকার দাবি। কাল শুনানি।",
+      "bm25_score_raw": 6.501134639273908,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8226885795593262,
+      "embedding_score_norm": 0.5611446827967184,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Mahesh Jethmalani Says Mamata Banerjee 'Has To Be ...",
+      "url": "https://www.youtube.com/watch?v=VW1F-buz2T0",
+      "snippet": "Mahesh Jethmalani condemned outgoing West Bengal Chief Minister Mamata Banerjee for her refusal to resign following her election defeat.",
+      "bm25_score_raw": 1.6881008888857694,
+      "bm25_score_norm": 0.22669574672041637,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8214356303215027,
+      "embedding_score_norm": 0.5478140213876546,
+      "embedding_rank": 6
+    },
+    {
+      "title": "Governor of West Bengal RN Ravi has dismissed the ...",
+      "url": "https://www.facebook.com/RepublicWorld/posts/governor-of-west-bengal-rn-ravi-has-dismissed-the-cabinet-headed-by-chief-minist/1048891914466801",
+      "snippet": "Governor of West Bengal RN Ravi has dismissed the Cabinet headed by Chief Minister Mamata Banerjee. The move comes amid the ongoing political",
+      "bm25_score_raw": 0.9340966318910268,
+      "bm25_score_norm": 0.10555080380828205,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8197330832481384,
+      "embedding_score_norm": 0.5296998968222915,
+      "embedding_rank": 7
+    },
+    {
+      "title": "Mamata Banerjee: একুশের মঞ্চেও মমতার গলায় 'সিম্বল' ...",
+      "url": "https://bengali.news18.com/news/kolkata/mamata-banerjee-commented-on-symbol-crisis-between-all-india-trinamool-congress-two-faction-sta-2816762.html",
+      "snippet": "22 hours ago — Mamata Banerjee: মমতা বন্দ্যোপাধ্যায় বলেন, ''আমি সবাইকে আরও একটা কথা বলতে চাই, জেলকে ভয় পাবেন না। কেউ সত্যিই অপরাধ করে থাকলে, আইন তার নিজের পথে চলবে। কিন্তু গণতান্ত্রিক কণ্ঠস্বর স্তব্ধ ...Read more",
+      "bm25_score_raw": 0.8973167685301605,
+      "bm25_score_norm": 0.09964142809079282,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.8125205636024475,
+      "embedding_score_norm": 0.4529628236828037,
+      "embedding_rank": 8
+    },
+    {
+      "title": "২১ জুলাইয়ের আগে উত্তেজনা! মঞ্চে হামলার অভিযোগ তুলে সরাসরি ...",
+      "url": "https://banglahunt.com/mamata-banerjee-stays-overnight-at-july-21-rally-venue-after-vandalism-claim-dns",
+      "snippet": "1 day ago — সভাস্থলে দাঁড়িয়ে মমতা বন্দ্যোপাধ্যায় (Mamata Banerjee) বিজেপির বিরুদ্ধে সরাসরি অভিযোগ তোলেন। তাঁর দাবি, বিভিন্ন জায়গায় তাদের মঞ্চ ভাঙার চেষ্টা চলছে। বিদ্যুতের লাইন কেটে দেওয়া হয়েছে এবং পোস্টার-ব্যানার ছিঁড়ে ফেলা ...Read more",
+      "bm25_score_raw": 0.2771500562639729,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.8122955560684204,
+      "embedding_score_norm": 0.4505688725473099,
+      "embedding_rank": 9
+    },
+    {
+      "title": "Mamata Banerjee: 'দিল্লি থেকে কলকাঠি...,' ওয়াই চ্যানেলে ...",
+      "url": "https://www.hindustantimes.com/bangla/bengal/former-chief-minister-mamata-banerjee-speaks-out-against-the-bjp-from-the-protest-stage-at-ychannel-271780394443786.html",
+      "snippet": "Jun 2, 2026 — ভোট-পরবর্তী সন্ত্রাসের অভিযোগে সরব হয়ে মঙ্গলবার দুপুরে ধর্মতলার ওয়াই চ্যানেলে ধর্নামঞ্চে হাজির হন মমতা বন্দ্যোপাধ্যায়। কলকাতা পুলিশের তরফে নিরাপত্তা ব্যবস্থা নজিরবিহীন থাকলেও বিধানসভা ভোটে বিপর্যয়ের পরে ...Read more",
+      "bm25_score_raw": 0.7338991704210296,
+      "bm25_score_norm": 0.07338532222651677,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.7938898801803589,
+      "embedding_score_norm": 0.2547430355046734,
+      "embedding_rank": 10
+    },
+    {
+      "title": "বার্তায় ঠাঁই পেল না 'সিন্ডিকেট-তোলাবাজি', মমতাকে কটাক্ষ ...",
+      "url": "https://bengali.abplive.com/news/calcutta/21-july-rally-no-tough-words-on-syndicate-extortion-from-mamata-oppn-slams-233637",
+      "snippet": "Jul 21, 2016 — বিরোধীদের পাল্টা কটাক্ষ, দু'একজন নয়, গোটা দলটাই খারাপ। রাজনৈতিক পর্যবেক্ষকদের একাংশের বক্তব্য, সিন্ডিকেট এবং তোলাবাজি-- এই ইস্যু নিয়ে যদি মমতা বন্দ্যোপাধ্যায় ২১-এর মঞ্চ থেকে সরাসরি বার্তা দিতেন, তাহলে তো ...Read more",
+      "bm25_score_raw": 0.2835588360683855,
+      "bm25_score_norm": 0.0010296908224848656,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.7762970924377441,
+      "embedding_score_norm": 0.06756586219339193,
+      "embedding_rank": 11
+    },
+    {
+      "title": "জননেত্রী মমতা বন্দ্যোপাধ্যায়ের ঐতিহাসিক সিঙ্গুর আন্দোলন ...",
+      "url": "https://www.facebook.com/AITCofficial/posts/%E0%A6%9C%E0%A6%A8%E0%A6%A8%E0%A7%87%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80-%E0%A6%AE%E0%A6%AE%E0%A6%A4%E0%A6%BE-%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%8B%E0%A6%AA%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%B0-%E0%A6%90%E0%A6%A4%E0%A6%BF%E0%A6%B9%E0%A6%BE%E0%A6%B8%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%BF%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%81%E0%A6%B0-%E0%A6%86%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8B%E0%A6%B2%E0%A6%A8-%E0%A6%B8%E0%A6%BE%E0%A6%B0%E0%A6%BE-%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A6%95%E0%A7%87-%E0%A6%AA%E0%A6%A5-%E0%A6%A6%E0%A7%87%E0%A6%96%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%9B%E0%A6%BF/1143120470518729",
+      "snippet": "এই 26 দিনের অনশন জমি আন্দোলনের ইতিহাসে অবিস্মরনীয় হয়ে আছে। সিঙ্গুরের বার্তা রাজ্যের সীমানা পেরিয়ে ছড়িয়ে পড়েছিল দেশ-বিদেশে। মমতা বন্দ্যোপাধ্যায়ের নেতৃত্বাধীন কৃষি জমি রক্ষার এই আন্দোলন সারা দেশকে পথ দেখিয়েছে।Read more",
+      "bm25_score_raw": 0.4336126852279264,
+      "bm25_score_norm": 0.02513865946761195,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.7699465751647949,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

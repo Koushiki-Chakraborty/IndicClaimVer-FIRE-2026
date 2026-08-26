@@ -1,0 +1,108 @@
+{
+  "claim": {
+    "id": "S2/1091",
+    "text": "Expert committee to review full market approval for Covishield, Sputnik V",
+    "lang": "dev"
+  },
+  "generated_queries": {
+    "english_translation": "Expert committee to review full market approval for Covishield, Sputnik V",
+    "native_query": "Expert committee review market approval Covishield Sputnik",
+    "english_query": "Expert committee review market approval Covishield Sputnik"
+  },
+  "native_retrieval": [
+    {
+      "title": "Expert panel recommends approval of Sputnik V vaccine in ...",
+      "url": "https://thefederal.com/covid-19/emergency-approval-to-sputnik-v-to-be-discussed-by-expert-panel",
+      "snippet": "Apr 12, 2021 — An expert committee has approved the use of Russian vaccine Sputnik V in India. This is India's third vaccine against the COVID-19 infection after Covishield ...Read more"
+    },
+    {
+      "title": "Expert panel approves Russia's Sputnik V COVID-19 ...",
+      "url": "https://www.thehindu.com/sci-tech/health/expert-panel-recommends-granting-approval-to-covid-19-vaccine-sputnik-v-for-emergency-use-in-india/article34301838.ece",
+      "snippet": "Apr 12, 2021 — Russia's COVID vaccine — Sputnik V — has been recommended for emergency use authorisation in India following a meeting of the Subject Expert ...Read more"
+    },
+    {
+      "title": "A comparative assessment of Covaxin, Covishield, and ...",
+      "url": "https://journals.ipinnovative.com/ijpp/archive/volume/10/issue/2/article/23439",
+      "snippet": "The objective of this study is to evaluate and contrast Covaxin, Covishield & Sputnik v immunogenic and therapeutic efficacy. ... Expert Committee (SEC) at each ...Read more"
+    },
+    {
+      "title": "EMA starts rolling review of the Sputnik V COVID-19 vaccine",
+      "url": "https://www.thepharmaletter.com/pharma-news/ema-starts-rolling-review-of-the-sputnik-v-covid-19-vaccine",
+      "snippet": "Mar 4, 2021 — EMA starts rolling review of the Sputnik V COVID-19 vaccine. wins FDA traditional approval 17. IPO market says about the current state of"
+    },
+    {
+      "title": "Union govt expert panel recommends regular market ...",
+      "url": "https://www.thenewsminute.com/news/union-govt-expert-panel-recommends-regular-market-approval-covishield-covaxin-160048",
+      "snippet": "Jan 20, 2022 — An expert panel of India's central drug authority on Wednesday, January 19, recommended granting regular market approval to Covid vaccines ...Read more"
+    },
+    {
+      "title": "The inconsistencies in India's Covid-19 vaccine approval system",
+      "url": "https://qz.com/india/1977748/why-did-india-approve-covaxin-covishield-not-pfizer-sputnik-v",
+      "snippet": "Jul 20, 2022 — India's drug authority refused to authorise Sputnik V, In the case of Covishield, the immunogenicity data was still being generated when the"
+    }
+  ],
+  "english_retrieval": [
+    {
+      "title": "Expert panel recommends approval of Sputnik V vaccine in ...",
+      "url": "https://thefederal.com/covid-19/emergency-approval-to-sputnik-v-to-be-discussed-by-expert-panel",
+      "snippet": "Apr 12, 2021 — An expert committee has approved the use of Russian vaccine Sputnik V in India. This is India's third vaccine against the COVID-19 infection after Covishield ...Read more"
+    },
+    {
+      "title": "Expert panel approves Russia's Sputnik V COVID-19 ...",
+      "url": "https://www.thehindu.com/sci-tech/health/expert-panel-recommends-granting-approval-to-covid-19-vaccine-sputnik-v-for-emergency-use-in-india/article34301838.ece",
+      "snippet": "Apr 12, 2021 — Russia's COVID vaccine — Sputnik V — has been recommended for emergency use authorisation in India following a meeting of the Subject Expert ...Read more"
+    },
+    {
+      "title": "A comparative assessment of Covaxin, Covishield, and ...",
+      "url": "https://journals.ipinnovative.com/ijpp/archive/volume/10/issue/2/article/23439",
+      "snippet": "The objective of this study is to evaluate and contrast Covaxin, Covishield & Sputnik v immunogenic and therapeutic efficacy. ... Expert Committee (SEC) at each ...Read more"
+    },
+    {
+      "title": "EMA starts rolling review of the Sputnik V COVID-19 vaccine",
+      "url": "https://www.thepharmaletter.com/pharma-news/ema-starts-rolling-review-of-the-sputnik-v-covid-19-vaccine",
+      "snippet": "Mar 4, 2021 — EMA starts rolling review of the Sputnik V COVID-19 vaccine. wins FDA traditional approval 17. IPO market says about the current state of"
+    },
+    {
+      "title": "Union govt expert panel recommends regular market ...",
+      "url": "https://www.thenewsminute.com/news/union-govt-expert-panel-recommends-regular-market-approval-covishield-covaxin-160048",
+      "snippet": "Jan 20, 2022 — An expert panel of India's central drug authority on Wednesday, January 19, recommended granting regular market approval to Covid vaccines ...Read more"
+    },
+    {
+      "title": "The inconsistencies in India's Covid-19 vaccine approval system",
+      "url": "https://qz.com/india/1977748/why-did-india-approve-covaxin-covishield-not-pfizer-sputnik-v",
+      "snippet": "Jul 20, 2022 — India's drug authority refused to authorise Sputnik V, In the case of Covishield, the immunogenicity data was still being generated when the"
+    }
+  ],
+  "merged_results": [
+    {
+      "title": "Expert panel recommends approval of Sputnik V vaccine in ...",
+      "url": "https://thefederal.com/covid-19/emergency-approval-to-sputnik-v-to-be-discussed-by-expert-panel",
+      "snippet": "Apr 12, 2021 — An expert committee has approved the use of Russian vaccine Sputnik V in India. This is India's third vaccine against the COVID-19 infection after Covishield ...Read more"
+    },
+    {
+      "title": "Expert panel approves Russia's Sputnik V COVID-19 ...",
+      "url": "https://www.thehindu.com/sci-tech/health/expert-panel-recommends-granting-approval-to-covid-19-vaccine-sputnik-v-for-emergency-use-in-india/article34301838.ece",
+      "snippet": "Apr 12, 2021 — Russia's COVID vaccine — Sputnik V — has been recommended for emergency use authorisation in India following a meeting of the Subject Expert ...Read more"
+    },
+    {
+      "title": "A comparative assessment of Covaxin, Covishield, and ...",
+      "url": "https://journals.ipinnovative.com/ijpp/archive/volume/10/issue/2/article/23439",
+      "snippet": "The objective of this study is to evaluate and contrast Covaxin, Covishield & Sputnik v immunogenic and therapeutic efficacy. ... Expert Committee (SEC) at each ...Read more"
+    },
+    {
+      "title": "EMA starts rolling review of the Sputnik V COVID-19 vaccine",
+      "url": "https://www.thepharmaletter.com/pharma-news/ema-starts-rolling-review-of-the-sputnik-v-covid-19-vaccine",
+      "snippet": "Mar 4, 2021 — EMA starts rolling review of the Sputnik V COVID-19 vaccine. wins FDA traditional approval 17. IPO market says about the current state of"
+    },
+    {
+      "title": "Union govt expert panel recommends regular market ...",
+      "url": "https://www.thenewsminute.com/news/union-govt-expert-panel-recommends-regular-market-approval-covishield-covaxin-160048",
+      "snippet": "Jan 20, 2022 — An expert panel of India's central drug authority on Wednesday, January 19, recommended granting regular market approval to Covid vaccines ...Read more"
+    },
+    {
+      "title": "The inconsistencies in India's Covid-19 vaccine approval system",
+      "url": "https://qz.com/india/1977748/why-did-india-approve-covaxin-covishield-not-pfizer-sputnik-v",
+      "snippet": "Jul 20, 2022 — India's drug authority refused to authorise Sputnik V, In the case of Covishield, the immunogenicity data was still being generated when the"
+    }
+  ]
+}

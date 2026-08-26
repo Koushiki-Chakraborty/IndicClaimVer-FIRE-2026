@@ -1,0 +1,76 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1186",
+    "text": "EC will not take action against Imran Masood, says CEC Sampath",
+    "lang": "english"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "EC will take action against Imran Masood, says CEC Sampath",
+      "url": "https://www.indiatvnews.com/politics/national/ec-will-take-action-against-imran-masood-says-cec-sampath-16130.html",
+      "snippet": "Masood, who is contesting from Saharanpur, was arrested and sent to 14 days judicial custody after a video footage of the election rally in Saharanpur, showing",
+      "bm25_score_raw": 6.183914989567905,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9024800062179565,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "EC examining action to be taken against Masood | India News",
+      "url": "https://www.hindustantimes.com/india/ec-examining-action-to-be-taken-against-masood/story-e8ybXun0m9469m9DVxElqN.html",
+      "snippet": "The Election Commission is examining what more action could be taken against arrested Congress candidate from Saharanpur Imran Masood for his hate speech in",
+      "bm25_score_raw": 3.2218677336570227,
+      "bm25_score_norm": 0.4744385056443972,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8765281438827515,
+      "embedding_score_norm": 0.7636657536804418,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Congress MP Imran Masood on SIR Phase-2",
+      "url": "https://www.bignewsnetwork.com/news/278661727/election-commission-constantly-decreasing-its-credibility-congress-mp-imran-masood-on-sir-phase-2",
+      "snippet": "The Election Commission of India (ECI) will conduct the second phase of Special Intensive Revision (SIR) of electoral rolls across 12 States and",
+      "bm25_score_raw": 0.5479479567420249,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8237696886062622,
+      "embedding_score_norm": 0.2832135378161934,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Election Commission of India - Candidate Affidavit",
+      "url": "https://affidavit.eci.gov.in/show-profile/eyJpdiI6InVpa2xkRG93YUMxTnQ4UUdPQnFBNHc9PSIsInZhbHVlIjoiOVMyM1BlbU14ZWtUTU1GZHF6RHZSQT09IiwibWFjIjoiNDkzOGRlMjBmY2QyYTE0MWQzNWMzMWRlOGZlZDY5NzFkYzg1NzA3NmQ3M2IwMzY4ZjZkNmQ2MTEwMTBjMjkxZiIsInRhZyI6IiJ9/eyJpdiI6InJQb05WUjRCMDI4VE1QelhHc3NpT1E9PSIsInZhbHVlIjoiYWlTeXZBSFhrY09NNUwxTXVTRmMxUT09IiwibWFjIjoiZTQ2NTZkNWYzMWQxNDc1NWY4Y2QwN2NjMzIxMmFjYTFmYTdjNGE1Y2M1Zjc1YzUxNDAyNzY1NTEwYTNjOWY2YiIsInRhZyI6IiJ9/eyJpdiI6ImZCVCsrVFpJdEVFUGU2TVNTRjZORlE9PSIsInZhbHVlIjoiL0FOZ1NuVmFoL0NNMVFFT283aWNQZz09IiwibWFjIjoiODcwYWQxMzAyYjgwNGIzMGFiMDZjMTY2N2YxMmZhZjFjZTVmYTM2MTAzOTE5NmRmZWNjODk2ZDVlYmEyZmUwZiIsInRhZyI6IiJ9/eyJpdiI6IjBTdDBLMDBrS0FPWE9jK3JEdFl2VEE9PSIsInZhbHVlIjoiTlNCMytTRUxjOFBqSCtlRnFGQ052UT09IiwibWFjIjoiOThkZjQyZTdkOTRiODUzOWM3ZDQ2NWRlOWUyOWFlMmQwZGI0ZGJjMzY3MzcyYzYxNTE0MDhkMTZmOWQ3MTdhNCIsInRhZyI6IiJ9/eyJpdiI6InJUOHNiaUZ1aDJTS2lPcXg3VVg3bFE9PSIsInZhbHVlIjoiUkJiVjFxckw1bWpKNm0xNjhFV1J4UT09IiwibWFjIjoiN2NmM2E4ODkyNzcxMGNlZDMxOGE3ZjQ3ZmEyODFlZWQ5ODM2MzViYmFmNDAxMWNlMGQ0MjY4Mjc4ZGMwMDgxYSIsInRhZyI6IiJ9",
+      "snippet": "Indian National Congress. इंडियन नेशनल काँग्रेस. Name: IMRAN MASOOD. इमरान मसूद. Parliament Constituency: Saharanpur. State: Uttar Pradesh.",
+      "bm25_score_raw": 0.6014223958939575,
+      "bm25_score_norm": 0.009488068123975608,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8197250366210938,
+      "embedding_score_norm": 0.24638035158111626,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Chairman Imran Khan's letter to CEC Justice Sardar Muhammad Raza ...",
+      "url": "https://www.facebook.com/ImranKhanOfficial/posts/chairman-imran-khans-letter-to-cec-justice-sardar-muhammad-raza-to-take-action-a/1135451569830595",
+      "snippet": "Khan Sahib, please judges par trust karna bus karian phalay Iftkkhar Ch. phir Inquiry Commission judges aur aab Chief Election Commissioner. 11y.",
+      "bm25_score_raw": 1.6612801387408136,
+      "bm25_score_norm": 0.19754057742253378,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8108885884284973,
+      "embedding_score_norm": 0.16591000626388885,
+      "embedding_rank": 5
+    },
+    {
+      "title": "IMRAN MASOOD (Winner) - SAHARANPUR",
+      "url": "https://myneta.info/LokSabha2024/candidate.php?candidate_id=298",
+      "snippet": "It provides criminal and financial background information on candidates, MPs and MLAs contesting in elections.It also has information on income and",
+      "bm25_score_raw": 0.582474432429387,
+      "bm25_score_norm": 0.00612609610493951,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.7926700115203857,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1131",
+    "text": "BJP to bag half the seats in UP, Bihar: survey",
+    "lang": "english"
+  },
+  "ranked_evidence": [
+    {
+      "title": "SP has slight edge over BJP in UP, shows survey",
+      "url": "https://www.governancenow.com/news/regular-story/sp-has-slight-edge-bjp-in-up-shows-survey",
+      "snippet": "Aug 23, 2016 — While the Samajwadi Party (SP) and the Bharatiya Janata Party (BJP) will fight a fierce battle in the upcoming elections in Uttar Pradesh, ...Read more",
+      "bm25_score_raw": 2.944951448228816,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "How is the exit poll showing all 40/40 seats to the BJP in ...",
+      "url": "https://www.quora.com/How-is-the-exit-poll-showing-all-40-40-seats-to-the-BJP-in-Bihar",
+      "snippet": "How is the exit poll showing all 40/40 seats to the BJP in Bihar?",
+      "bm25_score_raw": 0.7407129320631304,
+      "bm25_score_norm": 0.25151957344105547,
+      "bm25_rank": 2
+    },
+    {
+      "title": "Opinion poll gives BJP victory in UP, Bihar",
+      "url": "https://www.deccanherald.com/india/opinion-poll-gives-bjp-victory-in-up-bihar-377233.html",
+      "snippet": "Feb 21, 2014 — The Bharatiya Janata Party (BJP) is likely to bag 40 Lok Sabha seats in Uttar Pradesh and surprisingly emerge as the highest seat taker in",
+      "bm25_score_raw": 0.47385099810966996,
+      "bm25_score_norm": 0.16090282180871215,
+      "bm25_rank": 3
+    },
+    {
+      "title": "Bihar Axis My India exit poll: NDA likely to bag 29 ...",
+      "url": "https://www.indiatoday.in/elections/story/axis-my-india-exit-poll-bihar-nda-bjp-bihar-seats-india-bloc-congress-rjd-2546789-2024-06-01",
+      "snippet": "Jun 1, 2024 — The BJP is projected to win 13-15 seats in Bihar while its NDA ally Janata Dal (United) is likely to bag 9-11 seats, according to India",
+      "bm25_score_raw": 0.4460380047423633,
+      "bm25_score_norm": 0.1514585257460269,
+      "bm25_rank": 4
+    },
+    {
+      "title": "Bihar Exit Poll Result: NDA to bag landslide Victory, Predict ...",
+      "url": "https://www.youtube.com/watch?v=DjvnfzV3hU4",
+      "snippet": "Bihar exit poll results LIVE updates: The exit poll projections released on Tuesday evening predict a comfortable win for the BJP-JDU-led",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 5
+    },
+    {
+      "title": "Exit polls predict a massive victory for the NDA in Bihar. ...",
+      "url": "https://www.facebook.com/WIONews/posts/exit-polls-predict-a-massive-victory-for-the-nda-in-bihar-bjp-led-alliance-likel/1191646306407875",
+      "snippet": "Exit polls predict a massive victory for the NDA in Bihar. BJP-led alliance likely to secure two-thirds majority. Shivan Chanana and Diksha",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "claim": {
+    "id": "S2/T/CM/1128",
+    "text": "kasmir is in india then what you guys are doing with this league apply common sense naam rakhne se jagah change nahi ho jati kal pak ke log apne mulk ko england bolega to duniya maan legi kya ajeeb baat kartey ho",
+    "lang": "codemix"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "ICC To Use \"Common Sense\" If Players Protest At George Floyd Death",
+      "url": "https://sports.ndtv.com/cricket/icc-to-use-common-sense-if-players-protest-at-george-floyd-death-2244454",
+      "snippet": "The ICC will take a \"common sense approach\" to on-field. Kneeling has become a symbolic way for showing support for campaign",
+      "bm25_score_raw": 1.1920571634762887,
+      "bm25_score_norm": 0.25681253303847507,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.8465943932533264,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Kashmir could charge those who celebrated India's cricket loss under anti-terror law : NPR",
+      "url": "https://www.npr.org/2021/10/26/1049321165/kashmir-students-terror-law-pakistan-win-cricket",
+      "snippet": "**Kashmir could charge those who celebrated India's cricket loss under anti-terror law** **Police in Indian-controlled Kashmir are investigating students and staff at two medical colleges for celebrating India's loss to archrival Pakistan in a T20 World Cup cricket game, officials said.**. # Kashmir could charge those who celebrated India's cricket loss under anti-terror law. Police have registered two separate cases under harsh anti-terror law against students and some staff of two medical colleges for celebrating Pakistan's victory over archrival India in a T20 World Cup cricket game. SRINAGAR, India — Police in Indian-controlled Kashmir are investigating students and staff at two medical colleges under a harsh anti-terror law for celebrating India's loss to archrival Pakistan in a T20 World Cup cricket game, officials said Tuesday. A police spokesman said authorities on Monday registered preliminary investigations at two police stations in the city of Srinagar under the anti-terror law, the Unlawful Activities (Prevention) Act. Police said the suspects were yet to be identified and officers were using videos of the celebrations on social media in an attempt to name them.",
+      "bm25_score_raw": 0.24336203468301723,
+      "bm25_score_norm": 0.052429046598809384,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.832141637802124,
+      "embedding_score_norm": 0.7842771620814913,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Cricket's Relationship with Common Sense - by Neil Manthorp",
+      "url": "https://mannersoncricket.substack.com/p/crickets-relationship-with-common",
+      "snippet": "Cricket's strained relationship with common sense was put to the test. India strongly sensing a victory of their own to level things at 2-2.",
+      "bm25_score_raw": 3.6407871678484227,
+      "bm25_score_norm": 0.7843581696220622,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8321131467819214,
+      "embedding_score_norm": 0.7838519031228064,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Gendered Honor: How Mass Common Sense Shaped India's Foreign ...",
+      "url": "https://www.academia.edu/50990279/Gendered_Honor_How_Mass_Common_Sense_Shaped_Indias_Foreign_Policy_in_Jammu_and_Kashmir_1947_1950",
+      "snippet": "This paper argues that mass common sense sets the limits of legitimacy within societal discourse, thus shaping all political and policy discourses,",
+      "bm25_score_raw": 3.2751941168244283,
+      "bm25_score_norm": 0.7055961099059519,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8244814276695251,
+      "embedding_score_norm": 0.66994033029632,
+      "embedding_rank": 4
+    },
+    {
+      "title": "\"The Indian and Pakistani elites keep nationalism and the Kashmir issue ...",
+      "url": "https://www.facebook.com/DekhloTv/posts/the-indian-and-pakistani-elites-keep-nationalism-and-the-kashmir-issue-alive-so-/1238657244544891",
+      "snippet": "\"The Indian and Pakistani elites keep nationalism and the Kashmir issue alive so they can divert their people’s attention from poverty, inequality, government",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.8224138021469116,
+      "embedding_score_norm": 0.6390788072464838,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Heartbreaking💔 Some people lack basic common sense!🙄 #sarcasm # ...",
+      "url": "https://www.threads.com/@sarcastic_us/post/DZZyLBJE598/heartbreaking-some-people-lack-basic-common-sense-sarcasm-india-cricket-respect?hl=en",
+      "snippet": "Heartbreaking Some people lack basic common sense! ENGLAND & WALES 2026 INDIA sarcasm It feels really bad when people question you based on",
+      "bm25_score_raw": 3.0506119692324347,
+      "bm25_score_norm": 0.6572129350335937,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.818027675151825,
+      "embedding_score_norm": 0.5736111691863408,
+      "embedding_rank": 6
+    },
+    {
+      "title": "The kid is showing an identity card on behalf of his mother (not pictured) ...",
+      "url": "https://www.instagram.com/p/BYnM2QZnNgv",
+      "snippet": "For an average Kashmiri kid in an average village of Kashmir, India refers to a man in uniform with a weapon, who imposes restrictions to free",
+      "bm25_score_raw": 0.3586833741935399,
+      "bm25_score_norm": 0.07727346364565715,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.8166401386260986,
+      "embedding_score_norm": 0.5529007020331471,
+      "embedding_rank": 7
+    },
+    {
+      "title": "Stars Like Chris Gayle Duped in Massive League Fraud?",
+      "url": "https://www.youtube.com/watch?v=LcbjI-gUMdw",
+      "snippet": "This special report focuses on a major cricket scam in Jammu and Kashmir involving the 'Indian Heaven Premier League', where organisers fled",
+      "bm25_score_raw": 4.641740608888809,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8155480623245239,
+      "embedding_score_norm": 0.5366002948343492,
+      "embedding_rank": 8
+    },
+    {
+      "title": "Kashmiri Cricketer Denied NOC For Playing County In England",
+      "url": "https://www.youtube.com/watch?v=MdbRRemgqUc",
+      "snippet": "A young Kashmiri youth, Mehjoor Sofi, who was selected for playing a premier county cricket in England was stopped by the PDP because of an",
+      "bm25_score_raw": 1.4013516394255014,
+      "bm25_score_norm": 0.301902186593958,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8041058778762817,
+      "embedding_score_norm": 0.3658134501045799,
+      "embedding_rank": 9
+    },
+    {
+      "title": "The Kashmir Files - Parents' Guide & Movie Review",
+      "url": "https://www.commonsensemedia.org/movie-reviews/the-kashmir-files",
+      "snippet": "Gory and violent Indian drama adds to communal tensions. Read Common Sense Media's The Kashmir Files review, age rating, and parents guide.",
+      "bm25_score_raw": 2.4370293181796385,
+      "bm25_score_norm": 0.5250248825866729,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.802518904209137,
+      "embedding_score_norm": 0.3421261702405916,
+      "embedding_rank": 10
+    },
+    {
+      "title": "England v India: Shubman Gill says hosts acted against 'spirit of cricket' at ...",
+      "url": "https://www.bbc.com/sport/cricket/articles/c80p8elzx8zo",
+      "snippet": "India captain Shubman Gill accused England of acting contrary to the \"spirit of cricket\" with time-wasting tactics that sparked a number of",
+      "bm25_score_raw": 1.7585964428443945,
+      "bm25_score_norm": 0.378865729695608,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.7795975208282471,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 11
+    }
+  ]
+}

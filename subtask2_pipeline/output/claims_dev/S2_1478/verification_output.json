@@ -1,0 +1,6 @@
+{
+  "ID": "S2/1478",
+  "Evidence": "The retrieved evidence indicates that individuals can be exposed to COVID-19 and remain asymptomatic, meaning they do not show symptoms despite being in close contact with an infected person (Source 1). It is noted that some infected individuals may not exhibit any symptoms but can still spread the virus (Source 1). Additionally, the incubation period for COVID-19 can vary, and symptoms may develop within 10 days after exposure (Source 1). Testing negative while experiencing symptoms can occur, as some individuals may not test positive despite being infected (Source 3).",
+  "Prediction": "SUPPORTS",
+  "Justification": "The evidence supports the claim that a person can test negative for COVID-19 while experiencing symptoms and having been in close contact with an infected individual. Source 1 confirms that asymptomatic individuals can exist after exposure, and Source 3 explains that negative test results can occur even when symptoms are present. This directly corroborates the claim's assertion."
+}

@@ -1,0 +1,105 @@
+{
+  "claim": {
+    "id": "S2/1610",
+    "text": "आदमी ही नहीं, केकड़े और मछलियों का भी कोविड टेस्‍ट करा रहा चीन, नई रिसर्च में डिमेंशिया और ब्रेन फॉग के बारे में बड़ा खुलासा",
+    "lang": "dev"
+  },
+  "ranked_evidence": [
+    {
+      "title": "Neurological health and dementia in China after COVID ...",
+      "url": "https://www.youtube.com/watch?v=CCbnzhx-c-A",
+      "snippet": "China, discusses the challenges facing dementia diagnosis in China after the removal of COVID restrictions.",
+      "bm25_score_raw": 3.4284543861127066,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Chinese People Eat Fish Bones! #shorts #plants #farming ...",
+      "url": "https://www.instagram.com/reel/DPwLkNfjq1v",
+      "snippet": "देखिए ये अफ्रीकन लोग इतनी बड़ी मछली पकड़ते हैं कि इसे फ्राई करने के लिए एक बड़े से स्टील बैरल को बीच में से काट कर उसमें 20 से 30 लीटर तेल डालते हैं और फिर इस मछली को फावड़ा की मदद से फ्राई करते हैं।",
+      "bm25_score_raw": 3.0412269397666756,
+      "bm25_score_norm": 0.8870548058289666,
+      "bm25_rank": 2
+    },
+    {
+      "title": "36 साल का आदमी अमेरिका से चीन चला गया—अब 4 लोगों के ...",
+      "url": "https://www.reddit.com/r/China/comments/1svnggm/36yearold_left_the_us_for_chinanow_pays_1000_rent?tl=hi",
+      "snippet": "36 साल का आदमी अमेरिका से चीन चला गया—अब 4 लोगों के परिवार के लिए $1,000 किराया और $100 राशन खरीदने में खर्च करता है: ये है मेरा 'अमेरिकन ड्रीम का वर्शन'.",
+      "bm25_score_raw": 2.2747846955481625,
+      "bm25_score_norm": 0.663501519740908,
+      "bm25_rank": 3
+    },
+    {
+      "title": "Association between fish consumption and risk of dementia",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29551101",
+      "snippet": "by AT Bakre · 2018 · Cited by 97 — Results: In the new study in China, 326 participants were diagnosed with dementia (4·7 %); those who consumed any amount of fish in the past two years v. those ...Read more",
+      "bm25_score_raw": 1.9431218656648412,
+      "bm25_score_norm": 0.566763225299321,
+      "bm25_rank": 4
+    },
+    {
+      "title": "Hippo, fish and crabs are being tested for Covid in China. ...",
+      "url": "https://www.facebook.com/bbcnews/posts/hippo-fish-and-crabs-are-being-tested-for-covid-in-chinawhile-it-might-look-unus/460404606123537",
+      "snippet": "Fish aren't the only non-humans to have undergone Covid-19 testing during China's drive towards wiping out the virus over the last two years.Read more",
+      "bm25_score_raw": 1.3571364968902795,
+      "bm25_score_norm": 0.3958449913720582,
+      "bm25_rank": 5
+    },
+    {
+      "title": "Covid in China: Fish tested amid Xiamen outbreak",
+      "url": "https://www.bbc.com/news/world-asia-china-62593217",
+      "snippet": "Aug 18, 2022 — Footage has gone viral showing live fish and crabs being tested in China for the coronavirus. after some 40 cases of the virus were detected.",
+      "bm25_score_raw": 1.3417371754294527,
+      "bm25_score_norm": 0.3913533692804232,
+      "bm25_rank": 6
+    },
+    {
+      "title": "bizarre clip of medical workers testing live seafood widely ...",
+      "url": "https://www.scmp.com/news/people-culture/trending-china/article/3189358/coronavirus-bizarre-clip-medical-workers-testing",
+      "snippet": "Aug 18, 2022 — A Chinese port city has ordered PCR tests on live seafood including fish, crabs and shrimp amid fears they are the source of a new Covid outbreak.Read more",
+      "bm25_score_raw": 1.2697011767486113,
+      "bm25_score_norm": 0.3703421523972031,
+      "bm25_rank": 7
+    },
+    {
+      "title": "चीन ने लाखों मछलियाँ रेगिस्तान में छोड़ीं, दुनिया हैरान | China Turns ...",
+      "url": "https://www.youtube.com/watch?v=DYgQsCgcZ9s",
+      "snippet": "चीन ने लाखों मछलियाँ रेगिस्तान में छोड़ीं, दुनिया हैरान | China Turns Desert into Thriving Fish Farm. @Hi-TechDefense716 likes70K views1 year ago",
+      "bm25_score_raw": 0.958901819773054,
+      "bm25_score_norm": 0.279689245292917,
+      "bm25_rank": 8
+    },
+    {
+      "title": "चीन लाखों मछिलयां रेगिस्तान में फेंखकर 1 साल के छोड़ दिया, नतीजा ...",
+      "url": "https://www.youtube.com/watch?v=sLARzHxRl6Q",
+      "snippet": "चीन लाखों मछिलयां रेगिस्तान में फेंखकर 1 साल के छोड़ दिया, नतीजा देख सब हैरान || China Fish In Desert. @Can-B_hindi61 likes3.7K views9 months ago",
+      "bm25_score_raw": 0.9361277258274103,
+      "bm25_score_norm": 0.273046574462034,
+      "bm25_rank": 9
+    },
+    {
+      "title": "Chinese city swabs freshly caught seafood for Covid-19",
+      "url": "https://www.cnn.com/2022/08/19/china/xiamen-china-fish-covid-testing-intl-hnk",
+      "snippet": "Aug 19, 2022 — The Chinese coastal city of Xiamen is testing freshly caught fish, crabs and even shrimp for Covid-19 as it goes all out to contain a spiraling outbreak.Read more",
+      "bm25_score_raw": 0.648783501104325,
+      "bm25_score_norm": 0.18923498114260665,
+      "bm25_rank": 10
+    },
+    {
+      "title": "Boneless Fish Is Now Reality! China Develops Bone-Free ...",
+      "url": "https://www.instagram.com/reel/DTUQD0NFEWx?hl=hi",
+      "snippet": "क्या आप सोच सकते हैं कि बिना काँटों वाली मछली भी अब हकीकत है? जी हाँ, अब मछली खाने में काँटों का डर हमेशा के लिए खत्म होने वाला है। चीन के वैज्ञानिकों ने झोंगके नंबर 6 नाम की एक ऐसी कार्प मछली तैयार की है",
+      "bm25_score_raw": 0.5570866531031902,
+      "bm25_score_norm": 0.16248915410971332,
+      "bm25_rank": 11
+    },
+    {
+      "title": "देखिए चाइना के लोग क्या - क्या खा जाते है ? | Chinese Eating ...",
+      "url": "https://www.youtube.com/watch?v=e7p4hBoL4rg",
+      "snippet": "देखिए चाइना के लोग क्या - क्या खा जाते है ? | Chinese Eating Unusual Food chinese eating seafood china ke log kya kya khate hain china ke log khane mein",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12
+    }
+  ]
+}

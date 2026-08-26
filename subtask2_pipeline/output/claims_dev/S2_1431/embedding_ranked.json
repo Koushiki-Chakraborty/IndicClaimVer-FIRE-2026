@@ -1,0 +1,76 @@
+{
+  "claim": {
+    "id": "S2/1431",
+    "text": "Telangana cabinet meeting to be chaired by CM K Chandrashekar Rao today",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Telangana cabinet meeting to be chaired by CM K ...",
+      "url": "https://www.indiatoday.in/coronavirus-outbreak/story/telangana-cabinet-meeting-to-be-chaired-by-cm-chandrasekhar-rao-today-1900896-2022-01-17",
+      "snippet": "The cabinet meeting will be held on Monday, January 17, at 2 pm at Pragati Bhavan under the chairmanship of Chief Minister K Chandrashekar Rao.",
+      "bm25_score_raw": 7.1678101741668625,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9133298993110657,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Telangana Assembly Elections | KCR convenes Cabinet ...",
+      "url": "https://www.thehindu.com/elections/telangana-assembly/cm-kcr-convenes-cabinet-meeting-on-dec-4-a-day-after-counting/article67594347.ece",
+      "snippet": "Chief Minister K. Chandrashekar Rao has convened a meeting of the Council of Ministers on December 4, a day after the results of the Telangana Assembly",
+      "bm25_score_raw": 2.5435077162955935,
+      "bm25_score_norm": 0.22348571601692388,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.9005723595619202,
+      "embedding_score_norm": 0.7781610362904814,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Meeting of the Council of Ministers will be held on February ...",
+      "url": "https://www.facebook.com/IPRTelangana/posts/meeting-of-the-council-of-ministers-will-be-held-on-february-23-2026-at-300-pm-i/1350088170483517",
+      "snippet": "The Telangana State Cabinet Meeting will be held at Pragathi Bhavan on May 18 under the chairmanship of Chief Minister K Chandrashekhar Rao to",
+      "bm25_score_raw": 3.895753154867524,
+      "bm25_score_norm": 0.4505551839135877,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8992244005203247,
+      "embedding_score_norm": 0.754721576740262,
+      "embedding_rank": 3
+    },
+    {
+      "title": "K. Chandrashekar Rao",
+      "url": "https://en.wikipedia.org/wiki/K._Chandrashekar_Rao",
+      "snippet": "1st chief Minister of Telangana from 2014 to 2023. | 3rd Leader of the Opposition, Telangana state Legislative Assembly |. | **Assumed office**  16 December 2023 |. | **In office** 2 June 2014 – 7 December 2023 |. | Preceded by | *office established* (*Kiran Kumar Reddy as Chief Minister of United Andhra Pradesh*) |. | Member \"Member of Legislative Assembly (India)\") of Telangana Legislative Assembly |. | Member \"Member of Legislative Assembly (India)\") of Andhra Pradesh Legislative Assembly |. He is the founding leader of the Bharat Rashtra Samithi, a state party in India. serving as the third leader of the opposition in the Telangana Legislative Assembly from 2023. In the 1983 Andhra Pradesh Legislative Assembly elections, Rao contested as an independent candidate in the Siddipet Assembly constituency. In the 2004 elections, he won from Siddipet and also the Karimnagar Lok Sabha constituency by election, both as a TRS candidate. Rao was sworn in as the first chief minister of the Telangana state on 2 June 2014.",
+      "bm25_score_raw": 1.2126042581195355,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8778760433197021,
+      "embedding_score_norm": 0.3834981644358672,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Telangana Ministers Press Meet LIVE | Telangana Cabinet ...",
+      "url": "https://www.youtube.com/watch?v=5q7Naqq-Lz4",
+      "snippet": "Telangana Ministers Press Meet LIVE | Telangana Cabinet Meeting | CM Revanth Reddy | BIG TV.",
+      "bm25_score_raw": 2.469547738792099,
+      "bm25_score_norm": 0.21106633395925284,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8689229488372803,
+      "embedding_score_norm": 0.22781413436205078,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Attended the Cabinet Sub committee meeting on 99 days ...",
+      "url": "https://www.facebook.com/uttamkumarreddy/posts/attended-the-cabinet-sub-committee-meeting-on-99-days-action-plan-in-various-dep/1546361653523335",
+      "snippet": "The State #Cabinet meeting under the #Chairmanship of #CM Sri K. #Chandrashekar Rao will be held on #August5 (Wednesday) at #PragathiBhavan at",
+      "bm25_score_raw": 1.9924412073662745,
+      "bm25_score_norm": 0.13095045918485104,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8558217883110046,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6
+    }
+  ]
+}

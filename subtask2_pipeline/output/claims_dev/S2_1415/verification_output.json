@@ -1,0 +1,6 @@
+{
+  "ID": "S2/1415",
+  "Evidence": "According to the retrieved evidence, 46 inmates and 43 staffers from three jails in Delhi have tested positive for COVID-19. Specifically, 29 inmates are from Tihar jail and 17 from Mandoli jail. Among the staff, 25 are from Tihar, 12 from Rohini jail, and 6 from Mandoli jail. All infected individuals have been isolated and are recovering. The jail authorities have implemented measures to contain the spread, including converting prison dispensaries into COVID care centers and setting up isolation cells for those who test positive.",
+  "Prediction": "SUPPORTS",
+  "Justification": "The claim is directly corroborated by the retrieved evidence, which states that 46 inmates and 43 staffers from three jails in Delhi tested positive for COVID-19. This is explicitly mentioned in Sources 1 and 2, confirming the numbers and the jails involved. The evidence also details the isolation and recovery measures taken, supporting the claim's core assertion."
+}

@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/HI/1057",
+    "text": "पदोन्नति उस तिथि से प्रभावी होती है जब रिक्ति सृजित होती है, न कि अनुदान की तिथि से: सुप्रीम कोर्ट",
+    "lang": "hindi"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Promotion Effective From Date Of Grant, Not When Vacancy Is Created",
+      "url": "https://x.com/LiveLawIndia/status/1815970596351561900",
+      "snippet": "Promotion Effective From Date Of Grant, Not When Vacancy Is Created: Supreme Court",
+      "bm25_score_raw": 1.4190507819066012,
+      "bm25_score_norm": 0.3342200566288644,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.9620475769042969,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Supreme Court: Promotion Is Not Created On Vacancy But On The ...",
+      "url": "https://legalvidhiya.com/supreme-court-promotion-is-not-created-on-vacancy-but-on-the-date-of-grant-background?amp=1",
+      "snippet": "Supreme Court recently reaffirmed that a promotion takes effect from the date it is granted, not from the creation of the post or the date",
+      "bm25_score_raw": 3.7129560034256404,
+      "bm25_score_norm": 0.8744890468670176,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.9459618330001831,
+      "embedding_score_norm": 0.9008725088099367,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Promotion Effective From Date Of Grant, Not When Vacancy Is Created",
+      "url": "https://www.linkedin.com/pulse/promotion-effective-from-date-grant-when-vacancy-created-supreme-ddlhc",
+      "snippet": "Vacancy Is Created: Supreme Court Promotion Effective From Date Of Grant, was neither a case of respondent-employee being deprived of promotion",
+      "bm25_score_raw": 1.2955058528893395,
+      "bm25_score_norm": 0.30512230079176855,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.9449179172515869,
+      "embedding_score_norm": 0.8944394367811279,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Supreme Court: Promotion Effective From Grant, Not When Vacancy Is ...",
+      "url": "https://www.linkedin.com/posts/livelaw_supremecourt-sc-government-activity-7222136244405723136-9Wo8",
+      "snippet": "a promotion shall be effective from the date on which it is granted and not from the date when a vacancy occurs on the subject post or when the",
+      "bm25_score_raw": 0.4984586751433673,
+      "bm25_score_norm": 0.11739881951915225,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.9379324913024902,
+      "embedding_score_norm": 0.8513921426456771,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Promotion Effective From Date Of Grant, Not When Vacancy Is Created",
+      "url": "https://www.facebook.com/livelaw.in/posts/promotion-effective-from-date-of-grant-not-when-vacancy-is-created-supreme-court/901425922022440",
+      "snippet": "In a recent landmark judgement, the Supreme Court of India has ruled that promotion is not a guaranteed right for government employees.",
+      "bm25_score_raw": 1.281559019544837,
+      "bm25_score_norm": 0.301837491333484,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.9269576668739319,
+      "embedding_score_norm": 0.7837604049816088,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Supreme Court Judgment Clarifies Promotion Effective Date",
+      "url": "https://www.livelaw.in/amp/top-stories/supreme-court-ruling-bihar-electricity-board-promotion-effective-from-date-of-grant-264341",
+      "snippet": "The Supreme Court recently reiterated that a promotion shall be effective from the date on which it is granted and not from the date when a vacancy occurs.",
+      "bm25_score_raw": 0.7192846692678766,
+      "bm25_score_norm": 0.16940856941848773,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.9267498254776001,
+      "embedding_score_norm": 0.782479594078077,
+      "embedding_rank": 6
+    },
+    {
+      "title": "सुप्रीम कोर्ट ने कहा, पद खाली होने से नहीं मिल जाता प्रमोशन",
+      "url": "https://www.jagran.com/news/national-promotion-does-not-get-due-to-vacancy-says-supreme-court-22528764.html",
+      "snippet": "Mar 8, 2022 — सुप्रीम कोर्ट ने प्रमोशन के एक मामले में सुनवाई के दौरान यह टिप्पणी की। शीर्ष अदालत ने कहा कि जिन पदों पर नियुक्ति के लिए नियम अलग-अलग हैं, पदोन्नति की स्थिति में उन्हें एक नहीं माना जा सकता है। जस्टिस",
+      "bm25_score_raw": 3.1707268477323245,
+      "bm25_score_norm": 0.7467812428671117,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8540247678756714,
+      "embedding_score_norm": 0.33431552098921063,
+      "embedding_rank": 7
+    },
+    {
+      "title": "Retired Judges Not Getting Facilities | Legal System Crisis",
+      "url": "https://www.youtube.com/watch?v=o5KEILSh27M",
+      "snippet": "Supreme Court Issues Contempt Notice | Retired Judges Not Getting Facilities | Legal System Crisis #SupremeCourtIndia #JudicialContempt",
+      "bm25_score_raw": 0.5797080840283146,
+      "bm25_score_norm": 0.13653497897505545,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.833366334438324,
+      "embedding_score_norm": 0.20700908799064388,
+      "embedding_rank": 8
+    },
+    {
+      "title": "सुप्रीम कोर्ट का बड़ा फैसला — लंबे समय तक काम लिया तो पद ...",
+      "url": "https://www.facebook.com/Journalistsunnysharma/posts/%E0%A4%B8%E0%A5%81%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AE-%E0%A4%95%E0%A5%8B%E0%A4%B0%E0%A5%8D%E0%A4%9F-%E0%A4%95%E0%A4%BE-%E0%A4%AC%E0%A4%A1%E0%A4%BC%E0%A4%BE-%E0%A4%AB%E0%A5%88%E0%A4%B8%E0%A4%B2%E0%A4%BE-%E0%A4%B2%E0%A4%82%E0%A4%AC%E0%A5%87-%E0%A4%B8%E0%A4%AE%E0%A4%AF-%E0%A4%A4%E0%A4%95-%E0%A4%95%E0%A4%BE%E0%A4%AE-%E0%A4%B2%E0%A4%BF%E0%A4%AF%E0%A4%BE-%E0%A4%A4%E0%A5%8B-%E0%A4%AA%E0%A4%A6-%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BE%E0%A4%AF%E0%A5%80-%E0%A4%AE%E0%A4%BE%E0%A4%A8%E0%A4%BE-%E0%A4%9C%E0%A4%BE-%E0%A4%B8%E0%A4%95%E0%A4%A4%E0%A4%BE-%E0%A4%B9%E0%A5%88%E0%A4%95%E0%A4%B0%E0%A5%8D/1366225025525084",
+      "snippet": "सुप्रीम कोर्ट का बड़ा फैसला — लंबे समय तक काम लिया तो पद स्थायी माना जा सकता है कर्मचारियों के लिए सुप्रीम कोर्ट से बड़ी राहत की खबर सामने आई है।",
+      "bm25_score_raw": 4.245857643074934,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8312931060791016,
+      "embedding_score_norm": 0.19423293494861696,
+      "embedding_rank": 9
+    },
+    {
+      "title": "10वीं की नौकरी के लिए छिपाई 12वीं की डिग्री; बर्खास्त कर्मी की ...",
+      "url": "https://navbharattimes.indiatimes.com/india/supreme-court-notice-on-plea-challenging-telangana-high-court-verdict-dismissal-over-concealment-of-higher-education/articleshow/131467961.cms",
+      "snippet": "Jun 2, 2026 — हम फैसले पर विचार करेंगे। सुप्रीम कोर्ट का एक फैसला पहले से ही मौजूद है, जिसमें कहा गया है कि उच्च योग्यता अयोग्यता का आधार नहीं हो सकती। आवेदनकर्ता ने छुपाई थी 12 वीं पास होने की बात. हाई कोर्ट",
+      "bm25_score_raw": 1.7934419045783745,
+      "bm25_score_norm": 0.42239803011377663,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8239572048187256,
+      "embedding_score_norm": 0.14902585643898572,
+      "embedding_rank": 10
+    },
+    {
+      "title": "सर्वोच्च अदालत नेपाल",
+      "url": "https://supremecourt.gov.np",
+      "snippet": "﻿ सर्वोच्च अदालत नेपाल. न्यायपालिकाको सूचना तथा सञ्चार प्रविधि नीति, २०८३  :: सर्वोच्च अदालतलगायत जुनसुकै अदालत तथा न्यायिक निकायमा आफ्नो काम कारवाहीसँग सम्बन्धित कुनै गुनासो, पीरमर्का, अनियमितता, ढिलासुस्ती जस्ता विषयमा सम्बन्धित सेवाग्राही एवम् न्यायका उपभोक्ताहरुले सीधै आफ्नो मौखिक गुनासो, उजुरी, शिकायत र सुझाव दिन टोल फ्रि नम्बर १६६०-०१-३३३-५५ र इमेल ठेगाना gunasotocj@supremecourt.gov.np मा सम्पर्क गर्नुहोस् ।. * सर्वोच्च अदालत , उच्च अदालत तथा इजलास, जिल्ला अदालत एवम् विशिष्टिकृत अदालत र न्यायाधिकरणहरु ८२८३ को प्रगति विवरण सम्बन्धी सर्वोच्च अदालतबाट मिति २०८३-०३-३२ मा जारी प्रेश विज्ञप्ती ।. * सर्वोच्च अदालतबाट मिति २०८३।०२।२३ गतेको प्रकाशित आर्थिक प्रस्ताव खोल्ने सम्बन्धी सुचना।. * सर्वोच्च अदालतको मिति २०८३।०१।०२ को निर्णयानुसार रा.प.द्वितीय र रा.प.तृतीय श्रेणीका अधिकृतहरुको काज सरुवा।. * वैतानिक कानून व्यवसायी नियुक्ति सिफारिस सम्बन्धमा सर्वोच्च अदालतबाट मिति २०८२-१२-२४ मा प्रकाशित सूचना ।. * सर्वोच्च अदालतबाट मिति २०८२।१२।०९ मा प्रकाशित वैतनिक कानुन व्यवसायी नियुक्त्ति सम्बन्धी सूचना।. द्वितीय तथा रा.प.तृतीय श्रेणीको काज भएको सूचना ।* सर्वोच्च अदालतबाट मिति २०८२।०९।२७ गतेको बोलपत्र स्वीकृत गर्ने आशयको सूचना!।.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.8143188953399658,
+      "embedding_score_norm": 0.08963031690795278,
+      "embedding_rank": 11
+    },
+    {
+      "title": "भर्ती | भारत का सर्वोच्च न्यायालय",
+      "url": "https://www.sci.gov.in/hi/%E0%A4%AD%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A5%80",
+      "snippet": "12.11.2025 को आयोजित कोर्ट मास्टर (शॉर्टहैंड) पद के लिए वस्तुनिष्ठ प्रकार की लिखित परीक्षा (कंप्यूटर ज्ञान परीक्षा सहित) की उत्तर कुंजी पर ऑनलाइन आपत्ति आमंत्रित की जाती है। सुलभ संस्करण : देखें (35 KB). कोर्ट मास्टर (",
+      "bm25_score_raw": 2.0025383296988215,
+      "bm25_score_norm": 0.47164518880301975,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.7997742891311646,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

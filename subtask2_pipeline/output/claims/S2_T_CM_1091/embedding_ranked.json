@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/CM/1091",
+    "text": "na janab jabab to aaphi denge pagalaiti aap log kar rahe hai na ki not in merit disqualified to waqt abhi hai apne kam se matlab rakhiye jab hamlog ye mang nahi kar rahe hi merit mat kariye hamra kariye to aap log bhi ye mang maat kariye hamar kijiye not in merit ka nahi",
+    "lang": "codemix"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Jhuta Desh jhute log🙏",
+      "url": "https://www.instagram.com/reel/DJZEIy3PMMG",
+      "snippet": "Janab, India walon ne humare terrorists pe hamla kar diya hai. Iske baare aap kya bolna chahenge? Na karein janab, na karein. Terrorists na",
+      "bm25_score_raw": 5.880625093447068,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8399509191513062,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "माना जनाब ने पुकारा नहीं | Mana Janab Ne Pukara Nahin-HD Video ...",
+      "url": "https://www.youtube.com/watch?v=W2bDsQRre0E",
+      "snippet": "Song ▷ Mana Janab Ne Pukara Nahin Movie ▷ Paying Guest (1957) Actor(s) ▷ Dev Anand, Nutan Singer(s) ▷ Kishore Kumar Music ▷ Sachin Dev",
+      "bm25_score_raw": 1.1211469698678442,
+      "bm25_score_norm": 0.19065098557586457,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8274662494659424,
+      "embedding_score_norm": 0.8299678619468078,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Janab part two : r/janabmadamFAKEverse",
+      "url": "https://www.reddit.com/r/janabmadamFAKEverse/comments/1raxeec/janab_part_two",
+      "snippet": "Haider ki progress se iski aisi pungi bajj gayi ke dec se feb ke beech mein hi 1.3cm ka cyst ban gaya... Kis baat ka darr hai tujhe nalli?",
+      "bm25_score_raw": 0.8893605490350053,
+      "bm25_score_norm": 0.15123571642511996,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8220638632774353,
+      "embedding_score_norm": 0.7563912838417597,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Na karein Janab Na karein ! . . . . . . . . . . . [ Kumbh Mela, India, Prayagraj ...",
+      "url": "https://www.instagram.com/reel/DE4sb42Sn0z?hl=en",
+      "snippet": "Yeh dekhein janaab, India mein Kumbh Mela laga hai, tasveerain check out karein. Ye India hai? Jee janaab. Na karein janaab, na karein.",
+      "bm25_score_raw": 0.822348265805391,
+      "bm25_score_norm": 0.1398402810479714,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8211215138435364,
+      "embedding_score_norm": 0.743557168636702,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Aap Aaye Janab - Jagjit Singh - Visions",
+      "url": "https://www.youtube.com/watch?v=f6EhX1ikdfE",
+      "snippet": "Check out this song \"Aap Aaye Janab\" from the album \"Visions\" Singer(s): Jagjit Singh Music Director: Jagjit Singh Lyrics Writer: Rustam",
+      "bm25_score_raw": 3.8114392433738393,
+      "bm25_score_norm": 0.6481350507484356,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8131331205368042,
+      "embedding_score_norm": 0.6347610508550801,
+      "embedding_rank": 5
+    },
+    {
+      "title": "इस Trick से दे किसी भी Question का Answer | 🔴 Live Practice Class | English Speaking Practice",
+      "url": "https://www.youtube.com/watch?v=itE8wP71etM",
+      "snippet": "इस Trick से दे किसी भी Question का Answer | 🔴 Live Practice Class | English Speaking Practice\nPersona Institute For English\n2870000 subscribers\n6565 likes\n154077 views\n25 Jun 2023\nDay 20 | इस Trick से दे किसी भी Question का Answer | Wh family words in English Daily use English sentences | Daily use English | Basic to advance English speaking | English Speaking Practice | English Speaking Course | English Learning English Speaking Practice | Speaking English Practice Speaking English | Speak English | How to speak English | How to speak  Basic to Advance English Practice | Speaking practice spoken English classes | Learn English\n\n\n\n\n📢 New Course Launched 🥳🥳\n-------------------------------------------------------\n🎯 Course Link\nhttps://bspkr.courses.store/344114?utm_source%3Dother%26utm_medium%3Dtutor-course-referral%26utm_campaign%3Dcourse-overview-webapp \n\n📲 Download our Mobile Application Persona English and join the course\nhttp://on-app.in/app/home?orgCode=bspkr \n\n📲 For iPhone Users\nLink :- https://apps.apple.com/app/id1472483563\nCode :- bspkr \n\n✔ Follow Us on instagram \nhttps://instagram.com/personaenglish?igshid=ZGUzMzM3NWJiOQ==\n\n☎️ For more enquiry contact us :- \n8719977802  6264561876\n_______________________________________________________________________________________________\n📌 50 Days Practice Class\nDay 1 | आओ English बोलना सीखे | Practice Session | English Speaking Practice\nhttps://youtube.com/live/yc8csFO2wWM\n\nDay 2 | Total Practice Session | English Speaking Course | English Speaking Practice\nhttps://youtube.com/live/eq2poAxRwVM\n\nDay 3 | आब आप भी साथ में बोलिए | Total Practice Session | English Speaking Practice\nhttps://youtube.com/live/NSahRHAnhks\n\nDay 4 | आब हर Sentence को Translate करना सीखे | Spoken English Course | English Speaking Practice\nhttps://youtube.com/live/abuxN1QaZWI\n\nDay 5 | Total Practice Session | English Speaking Course | English Speaking Practice\nhttps://youtube.com/live/eC3ct2dk8kA\n\nDay 6 | Total Practice Session | Learn English | English Speaking Course | English Speaking Practice\nhttps://youtube.com/live/zagvesilpps\n\nDay 7 | Total Practice Session | English Speaking Course | English Speaking Practice | Ajay Sir\nhttps://youtube.com/live/Ao-AXmWrIb8\n\nDay 8 | Total Practice Session | English Speaking Course | English Speaking Practice | Ajay Sir\nhttps://youtube.com/live/jJVrgl5WYew\n\nDay 9 | Total Practice Session | English Speaking Course | English Speaking Practice | Ajay Sir\nhttps://youtube.com/live/nkbhsCQHCJw\n\nDay 10 | Total Practice Session | English Speaking Course | English Speaking Practice\nhttps://youtube.com/live/AfRVDhwyzyY\n\nDay 11 | Total Practice Session | English Speaking Course | English Speaking Practice\nhttps://youtube.com/live/T6erIVTt5Eo\n\nDay 12 | Daily Use English Sentences | English Speaking Course | English Speaking Practice\nhttps://youtube.com/live/oszLXkkLdvk\n\nDay 13 | All WH Words in English with Practice | English Speaking Course | English Speaking Practice\nhttps://youtube.com/live/pMNOHOGQ0hU\n\nDay 14 | Total Practice Session | English Speaking Course | English Speaking Practice\nhttps://youtube.com/live/9QKlWvVy-Zo\n\nDay 15 | रोजाना बोली जाने वाली Live Spoken English Class | Daily Use English Sentences | Speaking Practice\nhttps://youtube.com/live/VML7PoC-7DM\n\nDay 16 | Live Practice Class | अब आप भी बोलिए Fluent English | English Speaking Practice\nhttps://youtube.com/live/YcyBBNH1nxY\n\nDay 17 | Spoken English Marathon  | 🔴 Live English Speaking Practice | English Speaking Course by Ajay sir\nhttps://youtube.com/live/yeHuDz9zAVY\n\n1000 Daily Use English Sentences की 🔴 Live Practice | Spoken English | English Speaking Practice\nhttps://youtube.com/live/kW5NPggB914\n\n📢 Saturday Sunday Series Live Class by Ajay Sir \n\nDay -1 |  Saturday Sunday Spoken English Course | Basic To Advance Spoken English Course By Ajay Sir\nhttps://youtu.be/G09mP6xnEXU\n\nDay - 2 | Saturday Sunday Spoken English Course | Basic To Advance Spoken English Course By Ajay Sir\nhttps://youtu.be/HDNupPpyjJE\n\nDay - 3 | Saturday Sunday Spoken English Course | Basic To Advance Spoken English Course By Ajay Sir\nhttps://youtu.be/2uC5gKWEl7I\n\nDay - 4 | Saturday Sunday Spoken English Course | How To Ask Question In English By Ajay Sir\nhttps://youtu.be/xGmYhQ1WQIE\n\nSaturday Sunday Series Playlist\nhttps://youtube.com/playlist?list=PLuqAEYkT95tsnXiMh6QZ_4bTnmhVsIQCq\n________________________________________________________________________________________________\n\n💫 Start your English course with day 1st  ( Playlist link )\nhttps://youtube.com/playlist?list=PLu...\n\n\n\n\n#day20 #practice #spokenenglish #practice #special #speakconfidently #englishpractice #livestream #english #englishspeakingcourse #howtospeakenglish #howtolearnenglish #englishspeakingpractice #saturday_sunday_series #englishgrammar #englishconversationpractice  #englishkaisesikhe #ajaysirwalipractice #spokenenglish #persona_institute_for_english #ajaysir #video #youtube\n299 comments\n",
+      "bm25_score_raw": 4.109272636401629,
+      "bm25_score_norm": 0.6987816041836602,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.7966698408126831,
+      "embedding_score_norm": 0.4105431322871757,
+      "embedding_rank": 6
+    },
+    {
+      "title": "Asian American and Pacific Islander Heritage Month",
+      "url": "https://www.inspyrsolutions.com/asian-american-and-pacific-islander-heritage-month",
+      "snippet": "In celebration of Asian American and Pacific Islander Heritage Month, here are a few AAPI people who made important contributions to US history and culture –",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.7949813604354858,
+      "embedding_score_norm": 0.3875472552771268,
+      "embedding_rank": 7
+    },
+    {
+      "title": "AAP: Home",
+      "url": "https://www.aap.org",
+      "snippet": "* + The State of Children in 2020. There’s a place for you in the Academy no matter where you are in your career. Find valuable resources to assist you in your pediatrics career from pre-med and training to finding a job and growing a thriving practice. AAP original research, including a robust practice-based research network, addresses important questions regarding pediatric practice and the health and well being of children. The AAP is dedicated to the health of all children and the pediatric professionals who care for them. Learn more about the American Academy of Pediatrics including our mission, leadership and commitment to the optimal health and well-being of all children. Continuing Medical Education from AAP helps you stay current in practice and provides tools and resources for every stage of your career. The AAP's global mission is to attain optimal physical, mental, and social health and well-being for all children around the world.",
+      "bm25_score_raw": 2.8427139249451447,
+      "bm25_score_norm": 0.4834033592981219,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.7769482135772705,
+      "embedding_score_norm": 0.14194888596470578,
+      "embedding_rank": 8
+    },
+    {
+      "title": "5 Ways to Celebrate Asian Pacific American Heritage Month",
+      "url": "https://www.afge.org/article/5-ways-to-celebrate-asian-pacific-american-heritage-month",
+      "snippet": "Explore places associated with AAPINH heritage. Learn more about historical sites like the Granada Relocation Center in Colorado a condition of",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.7723973393440247,
+      "embedding_score_norm": 0.0799692825477951,
+      "embedding_rank": 9
+    },
+    {
+      "title": "Asian American Pacific Islander (AAPI) Heritage Month ...",
+      "url": "https://www.adl.org/resources/tools-and-strategies/asian-american-pacific-islander-aapi-heritage-month-resources",
+      "snippet": "Asian American Pacific Islander Heritage Month is a commemoration of the culture, traditions and history of Asian American and Pacific Islander people in the",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.7698304653167725,
+      "embedding_score_norm": 0.04501032168088756,
+      "embedding_rank": 10
+    },
+    {
+      "title": "Happy Spring! MADA is proud to celebrate Asian American ...",
+      "url": "https://www.facebook.com/madanyc2002/videos/happy-springmada-is-proud-to-celebrate-asian-american-and-pacific-islander-herit/1860866404623946",
+      "snippet": "MADA is proud to celebrate Asian American and Pacific Islander Heritage Month with our AAPI Heritage Month Banquet on May 2 from 1:00 PM to 5:00",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.7673081159591675,
+      "embedding_score_norm": 0.010657754492549151,
+      "embedding_rank": 11
+    },
+    {
+      "title": "Watch Pagglait | Netflix Official Site",
+      "url": "https://www.netflix.com/kr-en/title/81242571",
+      "snippet": "Widowed soon after marriage, a young woman grapples with an inability to grieve, quirky relatives and a startling discovery about her late husband.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.7665255665779114,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

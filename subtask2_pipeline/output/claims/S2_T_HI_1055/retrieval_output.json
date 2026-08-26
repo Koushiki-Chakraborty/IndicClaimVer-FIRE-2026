@@ -1,0 +1,138 @@
+{
+  "claim": {
+    "id": "S2/T/HI/1055",
+    "text": "'मोदी के नेतृत्व में भी विपक्षी नेता अब भी मदरसों में ही जा रहे हैं, मंदिरों में नहीं।'",
+    "lang": "hindi"
+  },
+  "generated_queries": {
+    "english_translation": "'Even under the leadership of Modi, opposition leaders are still going to madrassas and not temples.'",
+    "native_query": "मोदी पक अब मदरस रह नह",
+    "english_query": "Modi leadership opposition leaders madrassas temples"
+  },
+  "native_retrieval": [
+    {
+      "title": "मोदी सरकार ने मदरसों को लेकर अचानक लिया बड़ा फैसला, देखते रह ...",
+      "url": "https://www.youtube.com/watch?v=dC5_H67TzhU",
+      "snippet": "केंद्र की मोदी सरकार ने मदरसों को लेकर बड़ा फ़ैसला किया है। अब मदरसों के छात्रों को मिलने वाली स्कॉलरशिप को बंद कर दिया गया है। #modi #madarsa #indianarmy Producer Namrata Editor"
+    },
+    {
+      "title": "PM Modi के मुस्लिम दोस्त ने इस्लाम और मदरसों की सच्चाई पर कह ...",
+      "url": "https://www.facebook.com/officialnmfnews/videos/pm-modi-%E0%A4%95%E0%A5%87-%E0%A4%AE%E0%A5%81%E0%A4%B8%E0%A5%8D%E0%A4%B2%E0%A4%BF%E0%A4%AE-%E0%A4%A6%E0%A5%8B%E0%A4%B8%E0%A5%8D%E0%A4%A4-%E0%A4%A8%E0%A5%87-%E0%A4%87%E0%A4%B8%E0%A5%8D%E0%A4%B2%E0%A4%BE%E0%A4%AE-%E0%A4%94%E0%A4%B0-%E0%A4%AE%E0%A4%A6%E0%A4%B0%E0%A4%B8%E0%A5%8B%E0%A4%82-%E0%A4%95%E0%A5%80-%E0%A4%B8%E0%A4%9A%E0%A5%8D%E0%A4%9A%E0%A4%BE%E0%A4%88-%E0%A4%AA%E0%A4%B0-%E0%A4%95%E0%A4%B9-%E0%A4%A6%E0%A5%80-%E0%A4%90%E0%A4%B8%E0%A5%80-%E0%A4%AC%E0%A4%BE%E0%A4%A4-%E0%A4%AE%E0%A4%9A-%E0%A4%97%E0%A4%AF%E0%A4%BE-%E0%A4%B9/869191872904791",
+      "snippet": "अब ये बच्चे तो कभी पढ़े ही नहीं थे। हम्म। तो मैं नरेंद्र मोदी साहब के पास लेकर गया। मदरसे के वो उनको और मैंने कहा कि सर इस तरह से अब ये बात सुनिए ये नवंबर है और मार्च में एग्जाम होती है।"
+    },
+    {
+      "title": "मदरसों में पीएम मोदी की तस्वीर लगाने के विरोध में उतरे मुस्लिम ...",
+      "url": "https://www.amarujala.com/dehradun/muslims-against-for-narendra-modi-photo-display-in-madarsa",
+      "snippet": "मदरसों में प्रधानमंत्री नरेंद्र मोदी की तस्वीर लगाने के सरकार के फैसले का मु"
+    },
+    {
+      "title": "मदरसों पर मोदी के मन की बात से कितने मुतमइन हैं मुस्लिम",
+      "url": "https://www.aajtak.in/india/story/narendra-modi-government-madrasa-modern-education-teachers-muslim-organization-welcome-tpt-662115-2019-06-12",
+      "snippet": "मोदी सरकार अल्पसंख्यकों के लिए बेहतर शिक्षा के साथ-साथ मदरसों के शिक्षकों को खास ट्रेनिंग देकर मॉडर्न एजुकेशन से जोड़ेगी. सरकार के इस कदम को मुस्लिम संगठन और बुद्धिजीवी मुसलमानों के लिए सकारात्मक कदम"
+    },
+    {
+      "title": "'मदरसों के लिए 600 करोड़ का बजट लेकिन विकास के लिए फंड नहीं ...",
+      "url": "https://www.jagran.com/west-bengal/kolkata-pm-modi-slams-tmc-on-bengal-development-madrasa-funds-40203934.html",
+      "snippet": "'मदरसों के लिए 600 करोड़ का बजट लेकिन विकास के लिए फंड नहीं', बंगाल की रैली में पीएम मोदी ने TMC पर लगाया आरोप ... रहा है, इससे साफ है तृणमूल कांग्रेस की निर्मम सरकार नहीं रहेगी।"
+    },
+    {
+      "title": "मदरसा शिक्षकों का मोदी सरकार के ख़िलाफ़ मोर्चा",
+      "url": "https://www.bbc.com/hindi/india-45418451",
+      "snippet": "दरअसल, केंद्र सरकार स्कीम फॉर प्रोवाडिंग क्वॉलिटी एजुकेशन इन मदरसा (एसपीक्यूएम) यानी मदरसा आधुनिकीकरण योजना के तहत पोस्ट ग्रैजुएट शिक्षकों को 12 हज़ार और ग्रैजुएट शिक्षकों को 6 हज़ार प्रतिमाह मानदेय देती"
+    }
+  ],
+  "english_retrieval": [
+    {
+      "title": "Narendra Modi doesn't care about temples, religion, or ...",
+      "url": "https://www.facebook.com/IndianNationalCongress/videos/narendra-modi-doesnt-care-about-temples-religion-or-hinduism/784149724455429",
+      "snippet": "Narendra Modi doesn't care about temples, religion, or Hinduism. opposition leadership must be strong not uncertain … he talks about temples"
+    },
+    {
+      "title": "India's Modi Attends Consecration of Hindu Temple At Site ...",
+      "url": "https://www.voaafrica.com/a/india-s-modi-attends-consecration-of-hindu-temple-at-site-of-destroyed-mosque/7448941.html",
+      "snippet": "Jan 21, 2024 — Some opposition leaders are boycotting the ceremony, while denouncing it as a political gimmick and accusing the government of exploiting ...Read more"
+    },
+    {
+      "title": "India's Opposition Parties Set to Skip Ram Temple ...",
+      "url": "https://thediplomat.com/2024/01/indias-opposition-parties-set-to-skip-ram-temple-inauguration-event",
+      "snippet": "Jan 14, 2024 — Prime Minister Narendra Modi is expected to take the lead role in installing the idol of the Hindu deity Ram, his brother Lakshman, and wife ...Read more"
+    },
+    {
+      "title": "**Temple Autonomy Debate Heats Up 🇮🇳** A major ...",
+      "url": "https://www.instagram.com/reel/DXcWi8giMxO",
+      "snippet": "Opposition leaders argue that if temple properties are illegally occupied or misused, those who claim to be custodians of Hindu interests must"
+    },
+    {
+      "title": "Narendra Modi doesn't care about temples, religion, or ...",
+      "url": "https://www.facebook.com/INCBihar/posts/narendra-modi-doesnt-care-about-temples-religion-or-hinduism/1473355737525933",
+      "snippet": "Modi and other BJP leaders have been accused of making statements that polarize communities, such as referencing Muslim appeasement by"
+    },
+    {
+      "title": "Narendra Modi's BJP insists that the Mughals destroyed ...",
+      "url": "https://www.facebook.com/TheEconomist/posts/narendra-modis-bjp-insists-that-the-mughals-destroyed-temples-which-is-true-and-/1459454459546403",
+      "snippet": "Narendra Modi's BJP insists that the Mughals destroyed temples. The BJP leader claimed over 36,000 temples were destroyed by Mughal rulers and"
+    }
+  ],
+  "merged_results": [
+    {
+      "title": "मोदी सरकार ने मदरसों को लेकर अचानक लिया बड़ा फैसला, देखते रह ...",
+      "url": "https://www.youtube.com/watch?v=dC5_H67TzhU",
+      "snippet": "केंद्र की मोदी सरकार ने मदरसों को लेकर बड़ा फ़ैसला किया है। अब मदरसों के छात्रों को मिलने वाली स्कॉलरशिप को बंद कर दिया गया है। #modi #madarsa #indianarmy Producer Namrata Editor"
+    },
+    {
+      "title": "PM Modi के मुस्लिम दोस्त ने इस्लाम और मदरसों की सच्चाई पर कह ...",
+      "url": "https://www.facebook.com/officialnmfnews/videos/pm-modi-%E0%A4%95%E0%A5%87-%E0%A4%AE%E0%A5%81%E0%A4%B8%E0%A5%8D%E0%A4%B2%E0%A4%BF%E0%A4%AE-%E0%A4%A6%E0%A5%8B%E0%A4%B8%E0%A5%8D%E0%A4%A4-%E0%A4%A8%E0%A5%87-%E0%A4%87%E0%A4%B8%E0%A5%8D%E0%A4%B2%E0%A4%BE%E0%A4%AE-%E0%A4%94%E0%A4%B0-%E0%A4%AE%E0%A4%A6%E0%A4%B0%E0%A4%B8%E0%A5%8B%E0%A4%82-%E0%A4%95%E0%A5%80-%E0%A4%B8%E0%A4%9A%E0%A5%8D%E0%A4%9A%E0%A4%BE%E0%A4%88-%E0%A4%AA%E0%A4%B0-%E0%A4%95%E0%A4%B9-%E0%A4%A6%E0%A5%80-%E0%A4%90%E0%A4%B8%E0%A5%80-%E0%A4%AC%E0%A4%BE%E0%A4%A4-%E0%A4%AE%E0%A4%9A-%E0%A4%97%E0%A4%AF%E0%A4%BE-%E0%A4%B9/869191872904791",
+      "snippet": "अब ये बच्चे तो कभी पढ़े ही नहीं थे। हम्म। तो मैं नरेंद्र मोदी साहब के पास लेकर गया। मदरसे के वो उनको और मैंने कहा कि सर इस तरह से अब ये बात सुनिए ये नवंबर है और मार्च में एग्जाम होती है।"
+    },
+    {
+      "title": "मदरसों में पीएम मोदी की तस्वीर लगाने के विरोध में उतरे मुस्लिम ...",
+      "url": "https://www.amarujala.com/dehradun/muslims-against-for-narendra-modi-photo-display-in-madarsa",
+      "snippet": "मदरसों में प्रधानमंत्री नरेंद्र मोदी की तस्वीर लगाने के सरकार के फैसले का मु"
+    },
+    {
+      "title": "मदरसों पर मोदी के मन की बात से कितने मुतमइन हैं मुस्लिम",
+      "url": "https://www.aajtak.in/india/story/narendra-modi-government-madrasa-modern-education-teachers-muslim-organization-welcome-tpt-662115-2019-06-12",
+      "snippet": "मोदी सरकार अल्पसंख्यकों के लिए बेहतर शिक्षा के साथ-साथ मदरसों के शिक्षकों को खास ट्रेनिंग देकर मॉडर्न एजुकेशन से जोड़ेगी. सरकार के इस कदम को मुस्लिम संगठन और बुद्धिजीवी मुसलमानों के लिए सकारात्मक कदम"
+    },
+    {
+      "title": "'मदरसों के लिए 600 करोड़ का बजट लेकिन विकास के लिए फंड नहीं ...",
+      "url": "https://www.jagran.com/west-bengal/kolkata-pm-modi-slams-tmc-on-bengal-development-madrasa-funds-40203934.html",
+      "snippet": "'मदरसों के लिए 600 करोड़ का बजट लेकिन विकास के लिए फंड नहीं', बंगाल की रैली में पीएम मोदी ने TMC पर लगाया आरोप ... रहा है, इससे साफ है तृणमूल कांग्रेस की निर्मम सरकार नहीं रहेगी।"
+    },
+    {
+      "title": "मदरसा शिक्षकों का मोदी सरकार के ख़िलाफ़ मोर्चा",
+      "url": "https://www.bbc.com/hindi/india-45418451",
+      "snippet": "दरअसल, केंद्र सरकार स्कीम फॉर प्रोवाडिंग क्वॉलिटी एजुकेशन इन मदरसा (एसपीक्यूएम) यानी मदरसा आधुनिकीकरण योजना के तहत पोस्ट ग्रैजुएट शिक्षकों को 12 हज़ार और ग्रैजुएट शिक्षकों को 6 हज़ार प्रतिमाह मानदेय देती"
+    },
+    {
+      "title": "Narendra Modi doesn't care about temples, religion, or ...",
+      "url": "https://www.facebook.com/IndianNationalCongress/videos/narendra-modi-doesnt-care-about-temples-religion-or-hinduism/784149724455429",
+      "snippet": "Narendra Modi doesn't care about temples, religion, or Hinduism. opposition leadership must be strong not uncertain … he talks about temples"
+    },
+    {
+      "title": "India's Modi Attends Consecration of Hindu Temple At Site ...",
+      "url": "https://www.voaafrica.com/a/india-s-modi-attends-consecration-of-hindu-temple-at-site-of-destroyed-mosque/7448941.html",
+      "snippet": "Jan 21, 2024 — Some opposition leaders are boycotting the ceremony, while denouncing it as a political gimmick and accusing the government of exploiting ...Read more"
+    },
+    {
+      "title": "India's Opposition Parties Set to Skip Ram Temple ...",
+      "url": "https://thediplomat.com/2024/01/indias-opposition-parties-set-to-skip-ram-temple-inauguration-event",
+      "snippet": "Jan 14, 2024 — Prime Minister Narendra Modi is expected to take the lead role in installing the idol of the Hindu deity Ram, his brother Lakshman, and wife ...Read more"
+    },
+    {
+      "title": "**Temple Autonomy Debate Heats Up 🇮🇳** A major ...",
+      "url": "https://www.instagram.com/reel/DXcWi8giMxO",
+      "snippet": "Opposition leaders argue that if temple properties are illegally occupied or misused, those who claim to be custodians of Hindu interests must"
+    },
+    {
+      "title": "Narendra Modi doesn't care about temples, religion, or ...",
+      "url": "https://www.facebook.com/INCBihar/posts/narendra-modi-doesnt-care-about-temples-religion-or-hinduism/1473355737525933",
+      "snippet": "Modi and other BJP leaders have been accused of making statements that polarize communities, such as referencing Muslim appeasement by"
+    },
+    {
+      "title": "Narendra Modi's BJP insists that the Mughals destroyed ...",
+      "url": "https://www.facebook.com/TheEconomist/posts/narendra-modis-bjp-insists-that-the-mughals-destroyed-temples-which-is-true-and-/1459454459546403",
+      "snippet": "Narendra Modi's BJP insists that the Mughals destroyed temples. The BJP leader claimed over 36,000 temples were destroyed by Mughal rulers and"
+    }
+  ]
+}

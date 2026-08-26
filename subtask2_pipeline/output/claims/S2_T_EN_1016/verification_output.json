@@ -1,0 +1,6 @@
+{
+  "ID": "S2/T/EN/1016",
+  "Evidence": "India recorded 761 fresh Covid-19 cases and 12 deaths according to Source 1. The number of active Covid-19 cases decreased to 4,334. Source 3 mentions a total death toll of 5,31,866 with two deaths reported, but does not provide current case numbers. Source 2 does not provide relevant data on cases or deaths. Overall, the evidence indicates significantly lower case numbers and deaths than the claim of 12,249 cases and 9 deaths.",
+  "Prediction": "REFUTES",
+  "Justification": "The retrieved evidence directly contradicts the claim. Source 1 states that India logged 761 fresh Covid-19 cases and 12 deaths, which is far less than the 12,249 cases claimed. Additionally, the active cases reported were 4,334, not the 81,687 stated in the claim. Therefore, the evidence refutes the claim's core assertion."
+}

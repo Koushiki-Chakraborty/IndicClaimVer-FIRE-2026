@@ -1,0 +1,11 @@
+
+=== BM25 vs Dense full-pool vs Dense partitioned [dev n=1134] ===
+Language      BM25 S@3    BM25 nDCG   Full S@3    Full nDCG   Part S@3    Part nDCG   n   
+------------------------------------------------------------------------------------------
+Hindi         0.889       0.607       0.875       0.584       0.875       0.575       288 
+Bengali       0.670       0.488       0.682       0.488       0.687       0.490       179 
+English       0.796       0.629       0.869       0.623       0.874       0.626       398 
+Code-mixed    0.662       0.470       0.773       0.512       0.773       0.512       269 
+Overall       0.768       0.563       0.818       0.566       0.821       0.565       1134
+
+Misrouted by language detection: 0 / 1134

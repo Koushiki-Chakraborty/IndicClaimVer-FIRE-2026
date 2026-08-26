@@ -1,0 +1,6 @@
+{
+  "ID": "S2/T/CM/1097",
+  "Evidence": "Source 2 mentions that the reservation system is destroying the nation and future, and implies that discussions about removing reservations are politically sensitive. However, there is no explicit mention of providing knowledge or taking action to remove reservations. Source 1 discusses OBCs but does not provide a clear stance on the reservation issue. Source 3 is unrelated to the topic of reservations.",
+  "Prediction": "REFUTES",
+  "Justification": "The retrieved evidence does not support the claim that action should be taken to either provide knowledge or remove reservations. Source 2 indicates a negative view of the reservation system but does not advocate for specific actions as suggested in the claim. Therefore, the evidence fails to substantiate the core assertion of the claim."
+}

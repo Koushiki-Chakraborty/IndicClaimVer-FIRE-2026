@@ -1,0 +1,138 @@
+{
+  "claim": {
+    "id": "S2/T/BN/1004",
+    "text": "করোনায় আক্রান্ত হয়ে দুর্গাপুরে মৃত সত্তরোর্ধ্ব বৃদ্ধ, শেষকৃত্যের দায়িত্বে পুলিশ",
+    "lang": "bengali"
+  },
+  "generated_queries": {
+    "english_translation": "70-year-old man who died due to corona in Durgapur, police in charge of last rites",
+    "native_query": "দুর্গাপুরে কর আক সত তর ষক",
+    "english_query": "Durgapur 70 died corona police charge rites"
+  },
+  "native_retrieval": [
+    {
+      "title": "দুর্গাপুরে দুইটি সততা স্টোর উদ্বোধন",
+      "url": "https://ajkerarban.com/article/10937",
+      "snippet": "শিক্ষার্থীদের নৈতিকশিক্ষা এবং সততা গড়ার লক্ষ্যে একটি ব্যতিক্রমী উদ্যোগ “সততা স্টোর”। ... দুদকের এমন উদ্যোগ সমাজ গঠনে বড় ভূমিকা রাখবে বলে সকলকে এক হয়ে কাজ করার আহবান জানানো হয়।"
+    },
+    {
+      "title": "ISCON : দুর্গাপুর ইস্কনের রথযাত্রায় ভয়াবহ দুর্ঘটনা, বৈদ্যুতিক খুঁটি ...",
+      "url": "https://www.facebook.com/99NewsWB/videos/iscon-%E0%A6%A6%E0%A7%81%E0%A6%B0%E0%A7%8D%E0%A6%97%E0%A6%BE%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%87%E0%A6%B8%E0%A7%8D%E0%A6%95%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%B0%E0%A6%A5%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A7%9F-%E0%A6%AD%E0%A7%9F%E0%A6%BE%E0%A6%AC%E0%A6%B9-%E0%A6%A6%E0%A7%81%E0%A6%B0%E0%A7%8D%E0%A6%98%E0%A6%9F%E0%A6%A8%E0%A6%BE-%E0%A6%AC%E0%A7%88%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%81%E0%A6%A4%E0%A6%BF%E0%A6%95-%E0%A6%96%E0%A7%81%E0%A6%81%E0%A6%9F%E0%A6%BF-%E0%A6%89%E0%A6%AA%E0%A7%9C%E0%A7%87-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A8-%E0%A6%97%E0%A7%87%E0%A6%B2-/1350027033216737",
+      "snippet": "সবই হল. কিন্তু শেষ রক্ষা হলো কই? রথ দেখতে এসে বেঘোরে প্রাণ দিতে হলো এক অবসরপ্রাপ্ত স্কুল শিক্ষিকা অলোক লতা চৌধুরীকে. এই মর্মান্তিক দুর্ঘটনাটি ঘটেছে বৃহস্পতিবার দুর্গাপুরে ইস্কনের রথযাত্রা চলাকালীন"
+    },
+    {
+      "title": "Durgapur industrial corridor: দুর্গাপুরে শিল্প করিডরের ঘোষণা ...",
+      "url": "https://www.hindustantimes.com/bangla/bengal/durgapur-gets-big-boost-in-union-budget-integrated-east-coast-corridor-5-tourist-spots-in-5-purbottor-states-271769927169289-amp.html",
+      "snippet": "দুর্গাপুরে নয়া শিল্প করিডরের ঘোষণা করলেন কেন্দ্রীয় অর্থমন্ত্রী নির্মলা সীতারামন। বাজেট ভাষণে কেন্দ্রীয় অর্থমন্ত্রী দাবি করেন, পূর্ব ভারত এবং উত্তর-পূর্ব ভারতের উন্নয়নের জন্য বাড়তি জোর দেওয়া হচ্ছে।"
+    },
+    {
+      "title": "দুর্গাপুরকে কেন্দ্র করে তৈরি হবে শিল্প-করিডর, নির্মলার ঘোষণায় আশায় ...",
+      "url": "https://www.etvbharat.com/amp/bn/state/union-budget-2026-fm-nirmala-sitharaman-announces-east-coast-industrial-corridor-with-well-connected-node-at-durgapur-west-bengal-news-wbs26020104282",
+      "snippet": "দুর্গাপুরকে কেন্দ্র করে কেন্দ্রীয় অর্থমন্ত্রী নির্মলা সীতারামন যে ইস্ট-কোস্ট ইন্ডাস্ট্রিয়াল করিডর তৈরির ঘোষণা করেছেন৷ যা পূর্ব ও উত্তর-পূর্বের উন্নতি কাজ করবে৷."
+    },
+    {
+      "title": "Durgapur on the spot : রোড শো করে দুর্গাপুর নিয়ে আসা হল নিতিন নবীনকে। ...",
+      "url": "https://www.youtube.com/watch?v=dHBWekqrDbg",
+      "snippet": "Durgapur on the spot : রোড শো করে দুর্গাপুর নিয়ে আসা হল নিতিন নবীনকে। রিপোর্টারের থেকে"
+    },
+    {
+      "title": "Durgapur : দুর্গাপুরে একের পর এক বেআইনি নির্মাণের অভিযোগ, শুরু রাজনৈতিক ...",
+      "url": "https://www.youtube.com/watch?v=FqPJbrMF94w",
+      "snippet": "Durgapur : দুর্গাপুরে একের পর এক বেআইনি নির্মাণের অভিযোগ। দুর্গাপুরের উনিশ ও কুড়ি নম্বর ওয়ার্ডে পুরসভা থেকে চারতলা অনুমতি পেলেও সেখানেই পাঁচতলা তোলা হচ্ছে। অভিযোগ আসানসোল দুর্গাপুর উন্নয়ন পর্ষদের"
+    }
+  ],
+  "english_retrieval": [
+    {
+      "title": "A 70-year-old man is Singapore's third COVID-19 fatality",
+      "url": "https://sg.news.yahoo.com/a-70-yearold-man-is-singapores-third-covid-19-fatality-045357343.html",
+      "snippet": "A 70-year-old Singaporean man has passed away from COVID-19 infection. In a press statement, the Ministry of Health (MOH) confirmed that he died on Sunday (29"
+    },
+    {
+      "title": "'Death list' deciding factor in Corona conviction - UPI Archives",
+      "url": "https://www.upi.com/Archives/1982/09/24/Death-list-deciding-factor-in-Corona-conviction/4922401688000",
+      "snippet": "The deciding factor in the verdict was a ledger Corona when he was working as a farm labor contractor in Sutter County, where the brutal"
+    },
+    {
+      "title": "COVID-19 and police officer deaths: Remembering fallen officers five years later",
+      "url": "https://www.police1.com/coronavirus-covid-19/articles/covid-19-law-enforcement-deaths-3ftkdPnVffq55iHU",
+      "snippet": "## Officers faced historic challenges during the pandemic, with many falling ill in the line of duty; NLEOMF has formally recognized COVID-19 as a line-of-duty death. Throughout the pandemic, law enforcement officers encountered unprecedented challenges, with many contracting the virus in the line of duty. Baldwin County — Ala. investigator dies of COVID-19 complications in the line of duty. Blount County — Ala. deputy dies from COVID-19 complications in the line of duty. Cherokee County — Ala. police corporal dies from COVID-19 complications in the line of duty. Jefferson County — Ala. deputy dies from COVID-19 complications in the line of duty. Monroe County — Ark. police officer dies of COVID-19 complications in the line of duty. Tucson — Border Patrol agent dies after contracting COVID-19 in the line of duty. Baxter County — Ark. sheriff’s deputy dies of COVID-19 complications in the line of duty. police officer dies from COVID-19 complications. dies after contracting COVID-19 in the line of duty."
+    },
+    {
+      "title": "Juan Corona, convicted in slayings of 25 farmworkers, dies ...",
+      "url": "https://www.sandiegouniontribune.com/2019/03/04/juan-corona-convicted-in-slayings-of-25-farmworkers-dies-at-85",
+      "snippet": "Juan Corona, convicted in the slayings of 25 itinerant farm laborers in one of America's worst serial murder cases, has died, California state"
+    },
+    {
+      "title": "Juan Corona, the 'machete murderer,' dies In Northern ...",
+      "url": "https://www.mercurynews.com/2019/03/04/juan-corona-the-machete-murderer-dies-behind-bars-at-85",
+      "snippet": "Juan Corona, a farm labor contractor who was dubbed the “machete murderer” for hacking and killing 25 migrant workers in California"
+    },
+    {
+      "title": "Elderly man who died in custody had urinary tract infection ...",
+      "url": "https://eastcountymagazine.org/elderly-man-who-died-custody-had-urinary-tract-infection-high-blood-pressure-and-heart-disease",
+      "snippet": "82-year-old Karim Talib died of natural causes. He was facing charges for mayhem, assault with a deadly weapon, and elder abuse."
+    }
+  ],
+  "merged_results": [
+    {
+      "title": "দুর্গাপুরে দুইটি সততা স্টোর উদ্বোধন",
+      "url": "https://ajkerarban.com/article/10937",
+      "snippet": "শিক্ষার্থীদের নৈতিকশিক্ষা এবং সততা গড়ার লক্ষ্যে একটি ব্যতিক্রমী উদ্যোগ “সততা স্টোর”। ... দুদকের এমন উদ্যোগ সমাজ গঠনে বড় ভূমিকা রাখবে বলে সকলকে এক হয়ে কাজ করার আহবান জানানো হয়।"
+    },
+    {
+      "title": "ISCON : দুর্গাপুর ইস্কনের রথযাত্রায় ভয়াবহ দুর্ঘটনা, বৈদ্যুতিক খুঁটি ...",
+      "url": "https://www.facebook.com/99NewsWB/videos/iscon-%E0%A6%A6%E0%A7%81%E0%A6%B0%E0%A7%8D%E0%A6%97%E0%A6%BE%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%87%E0%A6%B8%E0%A7%8D%E0%A6%95%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%B0%E0%A6%A5%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A7%9F-%E0%A6%AD%E0%A7%9F%E0%A6%BE%E0%A6%AC%E0%A6%B9-%E0%A6%A6%E0%A7%81%E0%A6%B0%E0%A7%8D%E0%A6%98%E0%A6%9F%E0%A6%A8%E0%A6%BE-%E0%A6%AC%E0%A7%88%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%81%E0%A6%A4%E0%A6%BF%E0%A6%95-%E0%A6%96%E0%A7%81%E0%A6%81%E0%A6%9F%E0%A6%BF-%E0%A6%89%E0%A6%AA%E0%A7%9C%E0%A7%87-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A8-%E0%A6%97%E0%A7%87%E0%A6%B2-/1350027033216737",
+      "snippet": "সবই হল. কিন্তু শেষ রক্ষা হলো কই? রথ দেখতে এসে বেঘোরে প্রাণ দিতে হলো এক অবসরপ্রাপ্ত স্কুল শিক্ষিকা অলোক লতা চৌধুরীকে. এই মর্মান্তিক দুর্ঘটনাটি ঘটেছে বৃহস্পতিবার দুর্গাপুরে ইস্কনের রথযাত্রা চলাকালীন"
+    },
+    {
+      "title": "Durgapur industrial corridor: দুর্গাপুরে শিল্প করিডরের ঘোষণা ...",
+      "url": "https://www.hindustantimes.com/bangla/bengal/durgapur-gets-big-boost-in-union-budget-integrated-east-coast-corridor-5-tourist-spots-in-5-purbottor-states-271769927169289-amp.html",
+      "snippet": "দুর্গাপুরে নয়া শিল্প করিডরের ঘোষণা করলেন কেন্দ্রীয় অর্থমন্ত্রী নির্মলা সীতারামন। বাজেট ভাষণে কেন্দ্রীয় অর্থমন্ত্রী দাবি করেন, পূর্ব ভারত এবং উত্তর-পূর্ব ভারতের উন্নয়নের জন্য বাড়তি জোর দেওয়া হচ্ছে।"
+    },
+    {
+      "title": "দুর্গাপুরকে কেন্দ্র করে তৈরি হবে শিল্প-করিডর, নির্মলার ঘোষণায় আশায় ...",
+      "url": "https://www.etvbharat.com/amp/bn/state/union-budget-2026-fm-nirmala-sitharaman-announces-east-coast-industrial-corridor-with-well-connected-node-at-durgapur-west-bengal-news-wbs26020104282",
+      "snippet": "দুর্গাপুরকে কেন্দ্র করে কেন্দ্রীয় অর্থমন্ত্রী নির্মলা সীতারামন যে ইস্ট-কোস্ট ইন্ডাস্ট্রিয়াল করিডর তৈরির ঘোষণা করেছেন৷ যা পূর্ব ও উত্তর-পূর্বের উন্নতি কাজ করবে৷."
+    },
+    {
+      "title": "Durgapur on the spot : রোড শো করে দুর্গাপুর নিয়ে আসা হল নিতিন নবীনকে। ...",
+      "url": "https://www.youtube.com/watch?v=dHBWekqrDbg",
+      "snippet": "Durgapur on the spot : রোড শো করে দুর্গাপুর নিয়ে আসা হল নিতিন নবীনকে। রিপোর্টারের থেকে"
+    },
+    {
+      "title": "Durgapur : দুর্গাপুরে একের পর এক বেআইনি নির্মাণের অভিযোগ, শুরু রাজনৈতিক ...",
+      "url": "https://www.youtube.com/watch?v=FqPJbrMF94w",
+      "snippet": "Durgapur : দুর্গাপুরে একের পর এক বেআইনি নির্মাণের অভিযোগ। দুর্গাপুরের উনিশ ও কুড়ি নম্বর ওয়ার্ডে পুরসভা থেকে চারতলা অনুমতি পেলেও সেখানেই পাঁচতলা তোলা হচ্ছে। অভিযোগ আসানসোল দুর্গাপুর উন্নয়ন পর্ষদের"
+    },
+    {
+      "title": "A 70-year-old man is Singapore's third COVID-19 fatality",
+      "url": "https://sg.news.yahoo.com/a-70-yearold-man-is-singapores-third-covid-19-fatality-045357343.html",
+      "snippet": "A 70-year-old Singaporean man has passed away from COVID-19 infection. In a press statement, the Ministry of Health (MOH) confirmed that he died on Sunday (29"
+    },
+    {
+      "title": "'Death list' deciding factor in Corona conviction - UPI Archives",
+      "url": "https://www.upi.com/Archives/1982/09/24/Death-list-deciding-factor-in-Corona-conviction/4922401688000",
+      "snippet": "The deciding factor in the verdict was a ledger Corona when he was working as a farm labor contractor in Sutter County, where the brutal"
+    },
+    {
+      "title": "COVID-19 and police officer deaths: Remembering fallen officers five years later",
+      "url": "https://www.police1.com/coronavirus-covid-19/articles/covid-19-law-enforcement-deaths-3ftkdPnVffq55iHU",
+      "snippet": "## Officers faced historic challenges during the pandemic, with many falling ill in the line of duty; NLEOMF has formally recognized COVID-19 as a line-of-duty death. Throughout the pandemic, law enforcement officers encountered unprecedented challenges, with many contracting the virus in the line of duty. Baldwin County — Ala. investigator dies of COVID-19 complications in the line of duty. Blount County — Ala. deputy dies from COVID-19 complications in the line of duty. Cherokee County — Ala. police corporal dies from COVID-19 complications in the line of duty. Jefferson County — Ala. deputy dies from COVID-19 complications in the line of duty. Monroe County — Ark. police officer dies of COVID-19 complications in the line of duty. Tucson — Border Patrol agent dies after contracting COVID-19 in the line of duty. Baxter County — Ark. sheriff’s deputy dies of COVID-19 complications in the line of duty. police officer dies from COVID-19 complications. dies after contracting COVID-19 in the line of duty."
+    },
+    {
+      "title": "Juan Corona, convicted in slayings of 25 farmworkers, dies ...",
+      "url": "https://www.sandiegouniontribune.com/2019/03/04/juan-corona-convicted-in-slayings-of-25-farmworkers-dies-at-85",
+      "snippet": "Juan Corona, convicted in the slayings of 25 itinerant farm laborers in one of America's worst serial murder cases, has died, California state"
+    },
+    {
+      "title": "Juan Corona, the 'machete murderer,' dies In Northern ...",
+      "url": "https://www.mercurynews.com/2019/03/04/juan-corona-the-machete-murderer-dies-behind-bars-at-85",
+      "snippet": "Juan Corona, a farm labor contractor who was dubbed the “machete murderer” for hacking and killing 25 migrant workers in California"
+    },
+    {
+      "title": "Elderly man who died in custody had urinary tract infection ...",
+      "url": "https://eastcountymagazine.org/elderly-man-who-died-custody-had-urinary-tract-infection-high-blood-pressure-and-heart-disease",
+      "snippet": "82-year-old Karim Talib died of natural causes. He was facing charges for mayhem, assault with a deadly weapon, and elder abuse."
+    }
+  ]
+}

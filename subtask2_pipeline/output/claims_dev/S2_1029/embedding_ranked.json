@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/1029",
+    "text": "ईवीएम बोल नहीं सकती इसलिए हारने वाले दल बना देते हैं बलि का बकरा: मुख्य चुनाव आयुक्त",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "After defeat, parties make EVMs a scapegoat: CEC",
+      "url": "https://timesofindia.indiatimes.com/india/after-defeat-parties-make-evms-a-scapegoat-cec/articleshow/64433248.cms",
+      "snippet": "India News: Chief Election Commissioner Om Prakash Rawat on Saturday hit out at political parties opposed to electronic voting machines",
+      "bm25_score_raw": 6.489315911589819,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9133062362670898,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "EVMs being made a scapegoat as machines cannot speak ...",
+      "url": "https://www.business-standard.com/article/current-affairs/evms-being-made-a-scapegoat-as-machines-cannot-speak-says-cec-op-rawat-118060200415_1.html",
+      "snippet": "Ruling out any possibility of bringing back ballot papers for elections, Chief Election Commissioner O.P. Rawat on Saturday said the EVMs",
+      "bm25_score_raw": 6.4398346731609,
+      "bm25_score_norm": 0.9923749684707834,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.9088807106018066,
+      "embedding_score_norm": 0.9648198109837167,
+      "embedding_rank": 2
+    },
+    {
+      "title": "\"They Blame EVMs When They Lose\": Chief Election ...",
+      "url": "https://www.youtube.com/watch?v=b7-FNJ8Jg5w",
+      "snippet": "... voting machines or EVMs are vulnerable to tampering. In an exclusive interview with NDTV, Mr Rawat said political parties only question EVMs",
+      "bm25_score_raw": 4.236384818630549,
+      "bm25_score_norm": 0.6528245621490596,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8873825669288635,
+      "embedding_score_norm": 0.7939228791578892,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Is Congress Making The EVM A Scapegoat For Its Electoral ...",
+      "url": "https://www.youtube.com/watch?v=4-Ih_n9nLGs",
+      "snippet": "Is Congress Making The EVM A Scapegoat For Its Electoral Losses? | India Today #indiatoday #paperballots #chiefelectioncommissioner",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.8822954893112183,
+      "embedding_score_norm": 0.7534837617140155,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Maharashtra loss: Congress making EVMs scapegoat? Listen in ...",
+      "url": "https://www.facebook.com/IndiaToday/posts/maharashtra-loss-congress-making-evms-scapegoatlisten-in-to-what-g-kumar-naik-co/1100895662073981",
+      "snippet": "Maharashtra loss: Congress making EVMs scapegoat? Listen in to what G Kumar Naik, Congress MP has to say.. He adds, \"Ballot paper is a better option\".",
+      "bm25_score_raw": 0.45491712183215793,
+      "bm25_score_norm": 0.07010247736894468,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.8703452944755554,
+      "embedding_score_norm": 0.6584871116215733,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Maharashtra loss: Congress making EVMs scapegoat? Listen in ...",
+      "url": "https://www.facebook.com/IndiaToday/posts/maharashtra-loss-congress-making-evms-scapegoatlisten-in-to-what-g-kumar-naik-co/1100967372066810",
+      "snippet": "Maharashtra loss: Congress making EVMs scapegoat? Listen in to what G Kumar Naik, Congress MP has to say.. He adds, \"Ballot paper is a better option\".",
+      "bm25_score_raw": 0.45491712183215793,
+      "bm25_score_norm": 0.07010247736894468,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.8703452944755554,
+      "embedding_score_norm": 0.6584871116215733,
+      "embedding_rank": 6
+    },
+    {
+      "title": "EVM (ईवीएम) क्या है? - हिंदी एक भाषा - Quora",
+      "url": "https://hindi-ek-bhasa.quora.com/EVM-%E0%A4%88%E0%A4%B5%E0%A5%80%E0%A4%8F%E0%A4%AE-%E0%A4%95%E0%A5%8D%E0%A4%AF%E0%A4%BE-%E0%A4%B9%E0%A5%88",
+      "snippet": "ईवीएम को इलेक्ट्रॉनिक वोटिंग मशीन कहते है। इलेक्ट्रॉनिक वोटिंग मशीनों का उपयोग चुनाव करने के लिए किया जाता है। भारत में 1990 के दशक तक कागजी मतपत्रों (बैलेट पेप ) का इस्तेमाल किया जाता था।Read more",
+      "bm25_score_raw": 0.5815845250445992,
+      "bm25_score_norm": 0.08962185428604241,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8008146286010742,
+      "embedding_score_norm": 0.10576136717924517,
+      "embedding_rank": 7
+    },
+    {
+      "title": "ईवीएम पर अक्सर पूछे जाने वाले प्रश्न | भारत का चुनाव आयोग",
+      "url": "https://hindi.eci.gov.in/evm-faqs.html",
+      "snippet": "ईवीएम क्या है ? ईवीएम इलेक्ट्रॉनिक वोटिंग मशीन का द्योतक है। यह एक ऐसा साधन है जिसका चुनावों में डाले गए वोटों को इलेक्ट्रॉनिक रूप से अभिलिखित करने ...Read more",
+      "bm25_score_raw": 1.03341108050147,
+      "bm25_score_norm": 0.15924807708248778,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.7975852489471436,
+      "embedding_score_norm": 0.08008979837062771,
+      "embedding_rank": 8
+    },
+    {
+      "title": "इलेक्ट्रॉनिक वोटिंग मशीन",
+      "url": "https://www.drishtiias.com/hindi/daily-updates/prelims-facts/electronic-voting-machine-2",
+      "snippet": "Feb 23, 2024 — EVM एक उपकरण है जिसका उपयोग इलेक्ट्रॉनिक रूप से वोटों को रिकॉर्ड करने के लिये किया जाता है। इनका प्रयोग पहली बार वर्ष 1982 में केरल के परवूर विधानसभा क्षेत्र में किया गया था।",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.7975737452507019,
+      "embedding_score_norm": 0.07999835110632238,
+      "embedding_rank": 9
+    },
+    {
+      "title": "Electronic Voting Machine - भारत निर्वाचन आयोग",
+      "url": "https://hindi.eci.gov.in/evm",
+      "snippet": "इलेक्ट्रॉनिक वोटिंग मशीन (जिसे ईवीएम भी कहा जाता है) इलेक्ट्रॉनिक साधनों का प्रयोग करते हुए वोट डालने या वोटों की गिनती करने के कार्य को करने में सहायता करती है। ईवीएम(इलेक्ट्रॉनिक वोटिंग मशीन) को दो यूनिटों से तैयार किया गया है: ...Read more",
+      "bm25_score_raw": 0.5574889544280013,
+      "bm25_score_norm": 0.08590874015431034,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.7969712018966675,
+      "embedding_score_norm": 0.0752085045008164,
+      "embedding_rank": 10
+    },
+    {
+      "title": "EVM Latest News, Updates in Hindi | इलेक्ट्रॉनिक वोटिंग मशीन",
+      "url": "https://www.aajtak.in/topic/evm",
+      "snippet": "इलेक्ट्रॉनिक वोटिंग मशीन (Electronic Voting Machine or EVM) एक मशीन है जिसका इस्तेमाल बिना कागज के वोट रिकॉर्ड करने के लिए किया जाता है (Record Votes Without Paper). पहली वोटिंग मशीनें मेकैनिकल थीं लेकिन ...Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.7949521541595459,
+      "embedding_score_norm": 0.05915832506517395,
+      "embedding_rank": 11
+    },
+    {
+      "title": "इलेक्‍ट्रानिक मतदान मशीन",
+      "url": "https://hi.wikipedia.org/wiki/%E0%A4%87%E0%A4%B2%E0%A5%87%E0%A4%95%E0%A5%8D%E2%80%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%A8%E0%A4%BF%E0%A4%95_%E0%A4%AE%E0%A4%A4%E0%A4%A6%E0%A4%BE%E0%A4%A8_%E0%A4%AE%E0%A4%B6%E0%A5%80%E0%A4%A8",
+      "snippet": "इलेक्ट्रॉनिक वोटिंग मशीन (\"ईवीएम\") 1999 के चुनावों से भाग में इलेक्ट्रॉनिक वोटिंग के कार्यान्वयन के लिए भारतीय जनरल और राज्य चुनावों में इस्तेमाल हो रही है। ईवीएम ने भारत में स्थानीय, राज्य और सामान्य (संसदीय) चुनावों में पेपर ...Read more",
+      "bm25_score_raw": 0.6010688995781998,
+      "bm25_score_norm": 0.09262438564667501,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.7875102758407593,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

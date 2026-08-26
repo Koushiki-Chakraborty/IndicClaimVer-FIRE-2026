@@ -1,0 +1,131 @@
+{
+  "claim": {
+    "id": "S2/T/BN/1025",
+    "text": "'এরকম দুর্নীতিগ্রস্ত ব্যক্তিকে এভাবে জামিন দেওয়া যায় ?', সুপ্রিম ভর্ৎসনার মুখে পার্থ",
+    "lang": "bengali"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "The Supreme Court took a firm stand against corruption as it refused ...",
+      "url": "https://www.instagram.com/p/DW6NO_1FN5a",
+      "snippet": "The Supreme Court took a firm stand against corruption as it refused to hear the bail plea of a 70-year-old lawyer accused of seeking a Rs.30-",
+      "bm25_score_raw": 1.5058670411242472,
+      "bm25_score_norm": 0.6481266856615888,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8315017223358154,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "The Framers Warned Us About the Dangers of Corruption | Constitutional Accountability Center",
+      "url": "https://www.theusconstitution.org/news/the-framers-warned-us-about-the-dangers-of-corruption",
+      "snippet": "As CAC Senior Appellate Counsel Miriam Becker-Cohen explained in a press release, “the Court’s conservatives asked not a single question about how the Federal Election Campaign Act’s cap on coordinated party expenditures fits into that national tradition.” Director of the Human Rights, Civil Rights, and Citizenship Program David Gans added that “the Roberts Court has repeatedly disregarded the Constitution’s text and history, obliterated the foundational interest in rooting out corruption and ensuring integrity in government, and harmed our democracy by opening the door to unlimited spending by billionaires and corporations.”  Of course, *NRSC v. As CAC Senior Appellate Counsel Miriam Becker-Cohen explained in a press release, “the Court’s conservatives asked not a single question about how the Federal Election Campaign Act’s cap on coordinated party expenditures fits into that national tradition.” Director of the Human Rights, Civil Rights, and Citizenship Program David Gans added that “the Roberts Court has repeatedly disregarded the Constitution’s text and history, obliterated the foundational interest in rooting out corruption and ensuring integrity in government, and harmed our democracy by opening the door to unlimited spending by billionaires and corporations.”.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.8104672431945801,
+      "embedding_score_norm": 0.7982988286585986,
+      "embedding_rank": 2
+    },
+    {
+      "title": "The Nevada Supreme Court has reprimanded the lawyer ...",
+      "url": "https://www.facebook.com/kolotv/posts/the-nevada-supreme-court-has-reprimanded-the-lawyer-representing-the-man-seen-on/1496062509222575",
+      "snippet": "The Nevada Supreme Court has reprimanded the lawyer representing the man seen on video jumping over a courtroom bench and attacking a Clark",
+      "bm25_score_raw": 1.5601543979103423,
+      "bm25_score_norm": 0.6714920185005568,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.808578372001648,
+      "embedding_score_norm": 0.7801863035245408,
+      "embedding_rank": 3
+    },
+    {
+      "title": "The Supreme Court of India Has No Spine",
+      "url": "https://www.fairobserver.com/region/asia_pacific/the-supreme-court-of-india-has-no-spine",
+      "snippet": "#### Sections Search. ## FIFA World Cup: The Greatest Show on Earth. ## FO Podcasts: Why Narcoterrorism Still Matters. # The Supreme Court of India Has No Spine. Reading This Might Make You One, Too. The Supreme Court of India Has No Spine. The central wing of the Supreme Court of India, where the Chief Justice’s courtroom is situated. On February 26, 2026, the Supreme Court of India banned a school book. It was a civics textbook written for 14-year-olds with a chapter titled “The Role of the Judiciary in Our Society.” Among other positive aspects of the judiciary, it discussed judicial backlog and corruption. But first, I will talk about the legality of this Order as measured against the Constitution and contempt laws. ## The Supreme Court cannot ban a book or blacklist a person. It is important to note that the Supreme Court has not invoked contempt proceedings. #### Donation Cycle. #### Donation Amount. #### Sections.",
+      "bm25_score_raw": 1.583489990324289,
+      "bm25_score_norm": 0.6815356808931605,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8077549934387207,
+      "embedding_score_norm": 0.7722908657775583,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Ex parte Garland | 71 U.S. 333 (1866)",
+      "url": "https://supreme.justia.com/cases/federal/us/71/333",
+      "snippet": "This attainder or corruption of blood as a consequence of judicial sentence of death continued to be the law of England in all cases of treason to the time that",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.8035136461257935,
+      "embedding_score_norm": 0.7316202736825982,
+      "embedding_rank": 5
+    },
+    {
+      "title": "গোপন কেচ্ছা ফাঁস! 🤫 | The Toxic Side of (Gourab Tapadar) ...",
+      "url": "https://www.facebook.com/Joymohantaa/videos/%E0%A6%97%E0%A7%8B%E0%A6%AA%E0%A6%A8-%E0%A6%95%E0%A7%87%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A6%BE-%E0%A6%AB%E0%A6%BE%E0%A6%81%E0%A6%B8-the-toxic-side-of-gourab-tapadar-roastroast-gourabtapadar-pretk/1037892955246121",
+      "snippet": "তোমার হাতে এক্স ছিল. ভাই আমি যখন কথা বলবো ওই কন্টিনিউ কথার চলাকালীন এক্স ফিরে আসে. ছবার এক্স ফিরে এসছে ভাই. চার পাঁচ জনের সাথে এরকম নর্মালি আমি রিসেন্ট টাইমে কথা বলি. সবার ফিরে আসছি. আমি ভেবেই না.",
+      "bm25_score_raw": 2.3085911912274337,
+      "bm25_score_norm": 0.9936199654125515,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.7956893444061279,
+      "embedding_score_norm": 0.6565924676129303,
+      "embedding_rank": 6
+    },
+    {
+      "title": "Partha Barua",
+      "url": "https://open.spotify.com/artist/0TIKIZYb0FeM0XaqkqGCP5",
+      "snippet": "Partha Barua ; Mon Shudhu Mon Chhuyechhe. 940,390 ; Dekha Hobe Bondhu. 276,526 ; Ei Buke Amar. 26,592 ; Jodi Lokkho Thake Otut. 35,929 ; Aaj Je Shishu. 1,117",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.7946726083755493,
+      "embedding_score_norm": 0.6468429108525404,
+      "embedding_rank": 7
+    },
+    {
+      "title": "Partha Barua",
+      "url": "https://music.youtube.com/channel/UC-MsvwTm6hCkA9XUOKQZUpw",
+      "snippet": "About 4,699,316 views. Partha Barua is a Bangladeshi singer, musician, composer and actor. He is a member of the rock band Souls. From Wikipedia (https://en.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.7818618416786194,
+      "embedding_score_norm": 0.5239995244676267,
+      "embedding_rank": 8
+    },
+    {
+      "title": "FAQs: Filing a Judicial Conduct or Disability Complaint Against a Federal Judge",
+      "url": "https://www.uscourts.gov/administration-policies/judicial-conduct-disability/faqs-filing-a-judicial-conduct-or-disability-complaint-against-a-federal-judge",
+      "snippet": "An official website of the United States government. A federal judge includes a judge of a United States district court, a judge of a United States court of appeals (including the Court of Appeals for the Federal Circuit), a judge of a United States bankruptcy court, a United States magistrate judge, a judge of the Court of Federal Claims, and a judge of the Court of International Trade. If your complaint is against a federal circuit judge, federal district judge, federal bankruptcy judge, or federal magistrate judge, you must file the complaint at the clerk’s office of the United States court of appeals for the regional circuit in which the judge serves.1 If your complaint is against a judge of the United States Court of Appeals for the Federal Circuit, you must file the complaint at the circuit executive’s office of that court. If your complaint is against a judge of the Court of International Trade or the Court of Federal Claims, you must file the complaint at the clerk’s office of that court.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.7748396992683411,
+      "embedding_score_norm": 0.45666368315826655,
+      "embedding_rank": 9
+    },
+    {
+      "title": "দীর্ঘ বিরতির পর পার্থ বড়ুয়ার নতুন গান প্রকাশ - বিস্তারিত ...",
+      "url": "https://www.instagram.com/p/DWggHsSjX3L",
+      "snippet": "২০২৬ সালের ২৬ জুন রুমন তার নতুন একক গান 'আহা বৃষ্টি' প্রকাশ করেছেন, যা বর্ষার নস্টালজিয়া নিয়ে তৈরি। গানটি দেশের বিভিন্ন অঞ্চলে বর্ষার অনুভূতি তুলে ধরেছে। রুমন জানান, \"এই গানটি আমাকে বর্ষার স্মৃতিতে ফিরিয়ে",
+      "bm25_score_raw": 1.6408376747473854,
+      "bm25_score_norm": 0.7062181818181817,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.7420684099197388,
+      "embedding_score_norm": 0.14241737339236335,
+      "embedding_rank": 10
+    },
+    {
+      "title": "আন্দালিব রহমান পার্থ",
+      "url": "https://bn.wikipedia.org/wiki/%E0%A6%86%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A6%AC_%E0%A6%B0%E0%A6%B9%E0%A6%AE%E0%A6%BE%E0%A6%A8_%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5",
+      "snippet": "আন্দালিব রহমান পার্থ (জন্ম: ২০ এপ্রিল ১৯৭৪) হলেন একজন বাংলাদেশী রাজনীতিবিদ। তিনি বাংলাদেশ জাতীয় পার্টির চেয়ারম্যান , ভোলা-১ আসনের বর্তমান সংসদ সদস্য এবং ঢাকায় অবস্থিত ব্রিটিশ স্কুল অব ল এর অধ্যক্ষ।",
+      "bm25_score_raw": 2.323414657100721,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.727216362953186,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 11
+    }
+  ]
+}

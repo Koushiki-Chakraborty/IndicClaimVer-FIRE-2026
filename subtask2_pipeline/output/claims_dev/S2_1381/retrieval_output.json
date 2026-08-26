@@ -1,0 +1,108 @@
+{
+  "claim": {
+    "id": "S2/1381",
+    "text": "Kejriwal: Delhites will get 500 litres free water within 24 hours of govt formation",
+    "lang": "dev"
+  },
+  "generated_queries": {
+    "english_translation": "Kejriwal: Delhites will get 500 litres free water within 24 hours of govt formation",
+    "native_query": "Kejriwal Delhites 500 litres water 24 hours govt",
+    "english_query": "Kejriwal Delhites 500 litres water 24 hours govt"
+  },
+  "native_retrieval": [
+    {
+      "title": "Arvind Kejriwal: Will order 700 litres of free water within 24 ...",
+      "url": "https://timesofindia.indiatimes.com/city/delhi/arvind-kejriwal-will-order-700-litres-of-free-water-within-24-hours-of-taking-oath/articleshow/27927843.cms",
+      "snippet": "Dec 26, 2013 — Kejriwal will pass orders to fulfill his election promise of providing 700 liters of water every day to each household within 24 hours of"
+    },
+    {
+      "title": "Will ensure 24-hour water supply in Delhi in next five years, ...",
+      "url": "https://www.thehindu.com/news/cities/Delhi/will-ensure-24-hour-water-supply-in-delhi-in-next-five-years-says-kejriwal/article30398786.ece",
+      "snippet": "Dec 26, 2019 — Will ensure 24-hour water supply in Delhi in next five years, says Kejriwal Chief Minister inaugurates 18-lakh-litre underground reservoir in"
+    },
+    {
+      "title": "Delhi CM Arvind Kejriwal promises 20 litres of RO water ...",
+      "url": "https://m.economictimes.com/news/india/20-liters-per-person-per-day-announces-arvind-kejriwal-after-his-visit-to-ro-plant/articleshow/102077019.cms",
+      "snippet": "Jul 24, 2023 — Delhi CM Arvind Kejriwal on Monday announced that Delhiites will get 20 litres of purified water per day in the areas where there are inadequate ...Read more"
+    },
+    {
+      "title": "Arvind Kejriwal drinks water directly from tap, says 'It's very ...",
+      "url": "https://www.facebook.com/Timesnow/posts/arvind-kejriwal-drinks-water-directly-from-tap-says-its-very-sweet-and-cleanarvi/1058538569650738",
+      "snippet": "He promised 24/7 clean water for Delhiites, announcing the installation of 2,500 tube wells and advanced plants to remove ammonia from the"
+    },
+    {
+      "title": "If Centre provides 1300 MGD water to Delhi, we will deliver ...",
+      "url": "https://www.thestatesman.com/india/if-centre-provides-1300-mgd-water-to-delhi-we-will-deliver-water-to-every-house-for-24-hours-kejriwal-1503150902.html",
+      "snippet": "Jan 29, 2023 — If Centre provides 1,300 MGD water to Delhi, we will deliver water to every house for 24 hours: Kejriwal ... government will deliver water ...Read more"
+    },
+    {
+      "title": "AAP To Install 500 ATMs To Supply Drinking Water In Delhi",
+      "url": "https://www.ndtv.com/delhi-news/aap-to-install-500-atms-to-supply-drinking-water-in-delhi-arvind-kejriwal-4235769",
+      "snippet": "Jul 24, 2023 — The Delhi government has planned to install 500 water ATMs to provide drinking water treated using the Reverse Osmosis (RO) process to people in ...Read more"
+    }
+  ],
+  "english_retrieval": [
+    {
+      "title": "Arvind Kejriwal: Will order 700 litres of free water within 24 ...",
+      "url": "https://timesofindia.indiatimes.com/city/delhi/arvind-kejriwal-will-order-700-litres-of-free-water-within-24-hours-of-taking-oath/articleshow/27927843.cms",
+      "snippet": "Dec 26, 2013 — Kejriwal will pass orders to fulfill his election promise of providing 700 liters of water every day to each household within 24 hours of"
+    },
+    {
+      "title": "Will ensure 24-hour water supply in Delhi in next five years, ...",
+      "url": "https://www.thehindu.com/news/cities/Delhi/will-ensure-24-hour-water-supply-in-delhi-in-next-five-years-says-kejriwal/article30398786.ece",
+      "snippet": "Dec 26, 2019 — Will ensure 24-hour water supply in Delhi in next five years, says Kejriwal Chief Minister inaugurates 18-lakh-litre underground reservoir in"
+    },
+    {
+      "title": "Delhi CM Arvind Kejriwal promises 20 litres of RO water ...",
+      "url": "https://m.economictimes.com/news/india/20-liters-per-person-per-day-announces-arvind-kejriwal-after-his-visit-to-ro-plant/articleshow/102077019.cms",
+      "snippet": "Jul 24, 2023 — Delhi CM Arvind Kejriwal on Monday announced that Delhiites will get 20 litres of purified water per day in the areas where there are inadequate ...Read more"
+    },
+    {
+      "title": "Arvind Kejriwal drinks water directly from tap, says 'It's very ...",
+      "url": "https://www.facebook.com/Timesnow/posts/arvind-kejriwal-drinks-water-directly-from-tap-says-its-very-sweet-and-cleanarvi/1058538569650738",
+      "snippet": "He promised 24/7 clean water for Delhiites, announcing the installation of 2,500 tube wells and advanced plants to remove ammonia from the"
+    },
+    {
+      "title": "If Centre provides 1300 MGD water to Delhi, we will deliver ...",
+      "url": "https://www.thestatesman.com/india/if-centre-provides-1300-mgd-water-to-delhi-we-will-deliver-water-to-every-house-for-24-hours-kejriwal-1503150902.html",
+      "snippet": "Jan 29, 2023 — If Centre provides 1,300 MGD water to Delhi, we will deliver water to every house for 24 hours: Kejriwal ... government will deliver water ...Read more"
+    },
+    {
+      "title": "AAP To Install 500 ATMs To Supply Drinking Water In Delhi",
+      "url": "https://www.ndtv.com/delhi-news/aap-to-install-500-atms-to-supply-drinking-water-in-delhi-arvind-kejriwal-4235769",
+      "snippet": "Jul 24, 2023 — The Delhi government has planned to install 500 water ATMs to provide drinking water treated using the Reverse Osmosis (RO) process to people in ...Read more"
+    }
+  ],
+  "merged_results": [
+    {
+      "title": "Arvind Kejriwal: Will order 700 litres of free water within 24 ...",
+      "url": "https://timesofindia.indiatimes.com/city/delhi/arvind-kejriwal-will-order-700-litres-of-free-water-within-24-hours-of-taking-oath/articleshow/27927843.cms",
+      "snippet": "Dec 26, 2013 — Kejriwal will pass orders to fulfill his election promise of providing 700 liters of water every day to each household within 24 hours of"
+    },
+    {
+      "title": "Will ensure 24-hour water supply in Delhi in next five years, ...",
+      "url": "https://www.thehindu.com/news/cities/Delhi/will-ensure-24-hour-water-supply-in-delhi-in-next-five-years-says-kejriwal/article30398786.ece",
+      "snippet": "Dec 26, 2019 — Will ensure 24-hour water supply in Delhi in next five years, says Kejriwal Chief Minister inaugurates 18-lakh-litre underground reservoir in"
+    },
+    {
+      "title": "Delhi CM Arvind Kejriwal promises 20 litres of RO water ...",
+      "url": "https://m.economictimes.com/news/india/20-liters-per-person-per-day-announces-arvind-kejriwal-after-his-visit-to-ro-plant/articleshow/102077019.cms",
+      "snippet": "Jul 24, 2023 — Delhi CM Arvind Kejriwal on Monday announced that Delhiites will get 20 litres of purified water per day in the areas where there are inadequate ...Read more"
+    },
+    {
+      "title": "Arvind Kejriwal drinks water directly from tap, says 'It's very ...",
+      "url": "https://www.facebook.com/Timesnow/posts/arvind-kejriwal-drinks-water-directly-from-tap-says-its-very-sweet-and-cleanarvi/1058538569650738",
+      "snippet": "He promised 24/7 clean water for Delhiites, announcing the installation of 2,500 tube wells and advanced plants to remove ammonia from the"
+    },
+    {
+      "title": "If Centre provides 1300 MGD water to Delhi, we will deliver ...",
+      "url": "https://www.thestatesman.com/india/if-centre-provides-1300-mgd-water-to-delhi-we-will-deliver-water-to-every-house-for-24-hours-kejriwal-1503150902.html",
+      "snippet": "Jan 29, 2023 — If Centre provides 1,300 MGD water to Delhi, we will deliver water to every house for 24 hours: Kejriwal ... government will deliver water ...Read more"
+    },
+    {
+      "title": "AAP To Install 500 ATMs To Supply Drinking Water In Delhi",
+      "url": "https://www.ndtv.com/delhi-news/aap-to-install-500-atms-to-supply-drinking-water-in-delhi-arvind-kejriwal-4235769",
+      "snippet": "Jul 24, 2023 — The Delhi government has planned to install 500 water ATMs to provide drinking water treated using the Reverse Osmosis (RO) process to people in ...Read more"
+    }
+  ]
+}

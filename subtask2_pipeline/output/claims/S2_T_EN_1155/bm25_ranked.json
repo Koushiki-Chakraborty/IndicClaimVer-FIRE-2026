@@ -1,0 +1,57 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1155",
+    "text": "Gujarat High Court Frames Contempt Charges Against Five Policemen Accused Of Assaulting, Parading Man In Public In 2016",
+    "lang": "english"
+  },
+  "ranked_evidence": [
+    {
+      "title": "Gujarat HC charges five cops with contempt for assaulting ...",
+      "url": "https://www.nationalheraldindia.com/national/gujarat-hc-charges-five-cops-with-contempt-for-assaulting-parading-accused-in-rajkot",
+      "snippet": "Gujarat HC charges five cops with contempt for assaulting & parading accused in Rajkot. It was alleged that the officers involved extended his custody beyond",
+      "bm25_score_raw": 5.837206816071529,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Gujarat High Court Frames Contempt...",
+      "url": "https://www.livelaw.in/videos/hc-frames-contempt-charges-against-five-policemen-accused-of-assaulting-parading-man-in-public-232186",
+      "snippet": "Gujarat High Court Frames Contempt Charges Against Five Policemen Accused Of Assaulting, Parading Man In Public [ Video-Hindi]. Brij Dwivedi.",
+      "bm25_score_raw": 4.824927431458419,
+      "bm25_score_norm": 0.7949448810016634,
+      "bm25_rank": 2
+    },
+    {
+      "title": "Gujarat High Court frames contempt of court charges ...",
+      "url": "https://www.barandbench.com/news/gujarat-high-court-frames-contempt-of-court-charges-4-policemen-publicly-flogging-muslim-men",
+      "snippet": "The four policemen are facing charges for allegedly breaching the Supreme Court's guidelines on arrest in the DK Basu judgment.",
+      "bm25_score_raw": 3.9140959802596518,
+      "bm25_score_norm": 0.6104398377774808,
+      "bm25_rank": 3
+    },
+    {
+      "title": "Gujarat High Court Frames Contempt Charges Against ...",
+      "url": "https://www.livelaw.in/high-court/gujarat-high-court/gujarat-high-court-contempt-charges-policemen-custody-abuse-232127",
+      "snippet": "The Gujarat High Court has framed contempt of court charges against five policemen, accused of beating a man in custody and parading him in public in Rajkot in",
+      "bm25_score_raw": 3.5893377322334565,
+      "bm25_score_norm": 0.5446543024727639,
+      "bm25_rank": 4
+    },
+    {
+      "title": "Surat cops 'parade, hit accused in public': Gujarat lawyer ...",
+      "url": "https://www.facebook.com/indianexpress/posts/surat-cops-parade-hit-accused-in-public-gujarat-lawyer-urges-court-to-act-read-h/1614205233396606",
+      "snippet": "'No Positive Material': Gujarat High Court Refuses To Exercise Contempt Jurisdiction In Case Involving False Allegations Of Police Brutality.",
+      "bm25_score_raw": 2.512596678507609,
+      "bm25_score_norm": 0.32654133064084834,
+      "bm25_rank": 5
+    },
+    {
+      "title": "The Court spoke, the police paraded anyway",
+      "url": "https://sabrangindia.in/the-court-spoke-the-police-paraded-anyway",
+      "snippet": "Gujarat judgement, held the officers in contempt. In this case, police officers had arrested the accused, tied them to a public pole and beaten",
+      "bm25_score_raw": 0.9005859233186817,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6
+    }
+  ]
+}

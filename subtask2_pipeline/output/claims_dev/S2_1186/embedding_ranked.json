@@ -1,0 +1,76 @@
+{
+  "claim": {
+    "id": "S2/1186",
+    "text": "Kattakkada Christian College Elections Row: Kerala High Court Dismisses Anticipatory Bail Pleas Of Principal, SFI Leader",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Calcutta High Court Orders Arrest of Cricketer Abishek Porel in Rape and Blackmail Case With Private Photos - Republic World",
+      "url": "http://www.republicworld.com/sports/cricket/calcutta-high-court-orders-arrest-of-cricketer-abishek-porel-in-rape-and-blackmail-case-with-private-photos-2026-07-20-132925",
+      "snippet": "* Calcutta High Court Orders Arrest of Cricketer Abishek Porel in Rape and Blackmail Case With Private Photos. ## The Calcutta High Court has ordered the immediate arrest of Delhi Capitals cricketer Abishek Porel over rape and blackmail allegations. Abishek Porel Arrest Ordered by Calcutta High Court in Rape Case | Image: iplt20.com. In a major legal development, the Calcutta High Court has ordered the immediate arrest of Bengal and Delhi Capitals cricketer Abishek Porel. The orders come in light of serious allegations leveled by a medical student, who has accused the duo of rape, physical assault, and criminal intimidation. To protect the complainant's privacy and secure critical evidence, the Calcutta High Court has ordered the immediate seizure of electronic devices belonging to Porel and the co-accused. While Porel has previously denied the allegations, police confirmed to the court that efforts to locate and arrest the accused are currently underway.",
+      "bm25_score_raw": 0.8795122759688383,
+      "bm25_score_norm": 0.0272285398355409,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8221232891082764,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Appeals court reverses decision that freed pro-Palestinian Columbia activist Mohsen Mahdawi - CNN",
+      "url": "https://www.cnn.com/2026/07/21/us/mohsen-mahdawi-appeals-court-reversal",
+      "snippet": "A federal appeals panel has reversed a lower court decision ordering the release of pro-Palestinian activist Mohsen Mahdawi, opening the door to the re-arrest of a student protest organizer whom the Trump administration has spent more than a year trying to deport. Tuesday’s ruling from the 2nd US Circuit Court of Appeals in New York overturns a previous decision by a federal judge in Vermont, which likened the government’s efforts to expel him and other activists to McCarthyist repression. The ruling mirrors a separate appellate panel’s decision earlier this year against Mahmoud Khalil, a former classmate of Mahdawi’s at Columbia University. As with the ruling against Khalil, the appeals court did not weigh in on the merits of Mahdawi’s claim that he was unconstitutionally targeted for criticizing Israel. At a hearing in front of the 2nd Circuit last September, government attorneys argued against the release of both Mahdawi and another student, Rumeysa Ozturk, a Turkish doctoral student at Tufts University who was detained by masked federal agents after co-signing an op-ed critical of Israel.",
+      "bm25_score_raw": 0.7600779606611893,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.7836513519287109,
+      "embedding_score_norm": 0.4508810377801523,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Appeals court reverses decision that freed pro-Palestinian Columbia activist Mohsen Mahdawi - Greenwich Time",
+      "url": "https://www.greenwichtime.com/news/article/appeals-court-reverses-decision-that-freed-22354152.php",
+      "snippet": "NEW YORK (AP) — A federal appeals panel has reversed a lower court decision ordering the release of pro-Palestinian activist Mohsen Mahdawi, opening the door to the re-arrest of a student protest organizer whom the Trump administration has spent more than a year trying to deport. Tuesday's ruling from the 2nd U.S. Circuit Court of Appeals in New York overturns a previous decision by a federal judge in Vermont, which likened the government’s efforts to expel him and other activists to McCarthyist repression. In their unanimous decision, the panel found that the judge had overstepped his authority by intervening in Mahdawi's case before it had moved fully through the immigration court system. The ruling mirrors a separate appellate panel’s decision earlier this year against Mahmoud Khalil, a former classmate of Mahdawi’s at Columbia University. As with the ruling against Khalil, the appeals court did not weigh in on the merits of Mahdawi's claim that he was unconstitutionally targeted for criticizing Israel.",
+      "bm25_score_raw": 0.8167783147825739,
+      "bm25_score_norm": 0.012926501457362329,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.7767506241798401,
+      "embedding_score_norm": 0.35238533577442166,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Appeals court reverses decision that released pro-Palestinian Columbia activist Mohsen Mahdawi - The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/jul/21/appeals-court-reversed-mohsen-mahdawi-release",
+      "snippet": "The second circuit overturned the previous decision, saying the judge overstepped authority by intervening before it moved through the immigration court system. A federal appeals panel has reversed a lower court decision ordering the release of pro-Palestinian activist Mohsen Mahdawi, opening the door to the re-arrest of a student protest organizer whom the Trump administration has spent more than a year trying to deport. Tuesday’s ruling from the second US circuit court of appeals in New York City overturns a previous decision by a federal judge in Vermont, which likened the government’s efforts to expel him and other activists to McCarthyist repression. In their unanimous decision, the panel found that the judge had overstepped his authority by intervening in Mahdawi’s case before it had moved fully through the immigration court system. As with the ruling against Khalil, the appeals court did not weigh in on the merits of Mahdawi’s claim that he was unconstitutionally targeted for criticizing Israel.",
+      "bm25_score_raw": 0.8526186963001112,
+      "bm25_score_norm": 0.021097363017187,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.7756541967391968,
+      "embedding_score_norm": 0.3367357703380544,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Ex-UK politician Widdecombe was hit 21 times with a hammer, prosecutors say - AP News",
+      "url": "https://apnews.com/article/uk-widdecombe-murder-court-prosecution-62658ff5dd304ffe60fb70fcffc540e2",
+      "snippet": "Test Your News I.Q. 2026 Elections Election Results Election calendar White House Congress Supreme Court The latest AP-NORC polls. 2026 Elections Election Results Election calendar White House Congress Supreme Court The latest AP-NORC polls. ap.org Careers Advertise with us AP News Values and Principles AP’s Role in Elections AP Leads AP Definitive Source Blog AP Images Spotlight Blog. This court artist sketch by Elizabeth Cook shows Joshua Kerry, 28, appearing at Westminster Magistrates’ Court in London on Tuesday, July 21, 2026 charged with the murder of MP Ann Widdecombe. A prison van arriving at Westminster Magistrates’ Court in London, Tuesday, July 21, 2026 where Joshua Kerry is due to appear charged with the murder of MP Ann Widdecombe. LONDON (AP) — Former British politician Ann Widdecombe was struck 21 times on the head with a hammer as she was eating lunch at home, a prosecutor told a court hearing on Tuesday for the man charged in her murder.",
+      "bm25_score_raw": 5.1464430037015685,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.7594515085220337,
+      "embedding_score_norm": 0.10547100980745802,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Cincinnati Reds vs. Seattle Mariners: Game Highlights - ESPN",
+      "url": "https://www.espn.com/video/clip/_/id/49427991/game-highlights",
+      "snippet": "# Cincinnati Reds vs. ### The Latest. ## Yankees' José Caballero argues with umpire after pitch clock violation. ## Alyssa Thomas drops triple-double vs. ## Red Sox celebrate after 15th consecutive victory. ## Ceddanne Rafaela drills HR, Red Sox win 15th in a row. ## How Cooper Kupp adapted to win Super Bowls with the Rams and Seahawks. ## Goodwill dismisses Miami's LeBron news conference link as 'nothing'. ## Louis Riddick: Cowboys have 'no more excuses' left in Super Bowl quest. ## Perk: Miami's LeBron news conference 'wasn't leaked by accident'. * ## Is Arch Manning on track to be the No. 1 pick in the NFL draft? Martin: 'So much is on the line for the Giants'.",
+      "bm25_score_raw": 2.914713699177258,
+      "bm25_score_norm": 0.49121213519032564,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.7520620822906494,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/1044",
+    "text": "অনুকূল পরিস্থিতিতে আত্মতুষ্ট হলে চলবে না, আসন্ন ভোট নিয়ে কংগ্রেস নেতাদের বার্তা সোনিয়ার - Sonia Gandhi",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Mahaul in our favor but don't get complacent & over confident",
+      "url": "https://timesofindia.indiatimes.com/india/mahaul-in-our-favor-but-dont-get-complacent-over-confident-sonias-message-to-party-colleagues-ahead-of-key-state-assembly-polls/articleshow/112157264.cms",
+      "snippet": "India News: NEW DELHI: With key assembly elections around the corner, Congress parliamentary chair person Sonia Gandhi on Wednesday advised",
+      "bm25_score_raw": 4.002744920959781,
+      "bm25_score_norm": 0.8504702228394576,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.9183606505393982,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "'Mahaul' in our favour, don't be complacent: Sonia Gandhi ...",
+      "url": "https://www.facebook.com/IndiaToday/posts/mahaul-in-our-favour-dont-be-complacent-sonia-gandhi-to-congress-leaderscongress/1005799668250248",
+      "snippet": "'Mahaul' in our favour, don't be complacent: Sonia Gandhi to Congress leaders #Congress.",
+      "bm25_score_raw": 3.98247220310954,
+      "bm25_score_norm": 0.8461628429768602,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.9177864193916321,
+      "embedding_score_norm": 0.9966409572400202,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Mood in our favour: Sonia Gandhi warns Congress leader ...",
+      "url": "https://www.indiatoday.in/india/story/sonia-gandhi-congress-parliamentary-party-meeting-wind-in-our-favour-complacement-over-confident-warning-leaders-2574246-2024-07-31",
+      "snippet": "She made the remarks during the Congress Parliamentary Party meeting held today. Congress put up a stellar show in the Lok Sabha elections,",
+      "bm25_score_raw": 2.074485162992721,
+      "bm25_score_norm": 0.4407694953553337,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8870722055435181,
+      "embedding_score_norm": 0.8169740094327945,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Sonia Gandhi's advice to party leaders on upcoming polls",
+      "url": "https://www.deccanherald.com/india/mahaul-in-congress-favour-dont-be-complacent-over-confident-sonia-gandhis-advice-to-party-leaders-on-upcoming-polls-3129990",
+      "snippet": "Gandhi also accused the Modi government of not drawing the right lessons from 'their significant decline' in the Lok Sabha elections and",
+      "bm25_score_raw": 4.7065080157608,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8664534091949463,
+      "embedding_score_norm": 0.6963615716303491,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Put aside Personal Expectations, Make Sacrifices, and Work ...",
+      "url": "https://inc.in/congress-sandesh/message/put-aside-personal-expectations-make-sacrifices-and-work-with-unity-sonia-gandhi",
+      "snippet": "Smt. Sonia Gandhi, CPP Chairperson, addressed the 85th Congress Plenary Session in Nava Raipur, Chhattisgarh on February 25, 2023.",
+      "bm25_score_raw": 1.3430383823301,
+      "bm25_score_norm": 0.28535771698096213,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.8476064205169678,
+      "embedding_score_norm": 0.5861135624227924,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Congress Strategy Meeting: Sonia Gandhi Chairs Key Huddle ...",
+      "url": "https://www.youtube.com/watch?v=DLwD1CaM8Mk",
+      "snippet": "Sonia Gandhi is chairing the Congress Parliamentary Party strategy meeting at 10 Janpath, where senior leaders are finalising the party's",
+      "bm25_score_raw": 3.832181817639041,
+      "bm25_score_norm": 0.8142303815920676,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8250515460968018,
+      "embedding_score_norm": 0.45417577409827276,
+      "embedding_rank": 6
+    },
+    {
+      "title": "না মিটিতে আশা ভাঙলো খেলা | সোনিয়া | Sonia",
+      "url": "https://www.youtube.com/watch?v=kvfxSXaQ-00",
+      "snippet": "deshtv #deshtvmusic না মিটিতে আশা ভাঙলো খেলা | সোনিয়া | Sonia | Priyojoner Gaan | Desh TV Music »» Fair Use Disclaimer ================== This channel",
+      "bm25_score_raw": 1.3354372779446826,
+      "bm25_score_norm": 0.2837426970213735,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.810105562210083,
+      "embedding_score_norm": 0.36674722000335414,
+      "embedding_rank": 7
+    },
+    {
+      "title": "Andrew Kishore | Doly Sayontoni | Gohiner Gaan 143",
+      "url": "https://www.youtube.com/watch?v=vH8quVG4JZ0",
+      "snippet": "Song. Sonia Sonia Singer. Andrew Kishore | Doly Sayontoni Lyric. Moniruzzaman Monir Tune & Composer. Abu Taher Movi. Spordha Lavel.",
+      "bm25_score_raw": 1.4037202180157107,
+      "bm25_score_norm": 0.2982508928732381,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.7850369215011597,
+      "embedding_score_norm": 0.22010481580179625,
+      "embedding_rank": 8
+    },
+    {
+      "title": "CHAND TA AMAY DAK DILO | SONIA BHATTACHARYA",
+      "url": "https://www.youtube.com/watch?v=HS0WWxq0_ZA",
+      "snippet": "Song- CHAND TA AMAY DAK DILO · Singer- SONIA BHATTACHARYA · Album- SONIA BHATTACHARYA SONGS · Lyrics & Music- SONIA BHATTACHARYA · Arranger- ...Read more",
+      "bm25_score_raw": 1.7189041941519994,
+      "bm25_score_norm": 0.36521858422334824,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.7848021388053894,
+      "embedding_score_norm": 0.2187314226700171,
+      "embedding_rank": 9
+    },
+    {
+      "title": "Singer Sonia ( শিল্পী সোনিয়া )",
+      "url": "https://www.youtube.com/playlist?list=PL9brMWW2DSInVETZkj-2KnzqbfJ_031Pa",
+      "snippet": "Singer Sonia ( শিল্পী সোনিয়া ) · ও পরানের তাল্ত ভাই । · সেরা আঞ্চলিক গান | শিল্পী পপি | Singer Popy | New Ancholik Song | H.S. · শিল্পী সোনিয়া ও বুলুর মজার পাল্টা আঞ্চলিক গান | Sonia Vs Bulo | New ...Read more",
+      "bm25_score_raw": 1.3841913372982186,
+      "bm25_score_norm": 0.2941015573888205,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.7736780643463135,
+      "embedding_score_norm": 0.1536596446611129,
+      "embedding_rank": 10
+    },
+    {
+      "title": "মিস সোনিয়া ভিডিও গান ! সোনিয়া অপেরা 2022 ! miss sonia ...",
+      "url": "https://www.youtube.com/watch?v=PV_9dRB6tT8",
+      "snippet": "মিস সোনিয়া ভিডিও গান ! সোনিয়া অপেরা 2022 ! miss sonia geet 2022 ! sonia opera gaan 2022. @MKVideoYoutube48 likes9.6K views4 years agoRead more",
+      "bm25_score_raw": 1.5394277489578314,
+      "bm25_score_norm": 0.32708490961934233,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.7669963836669922,
+      "embedding_score_norm": 0.11457424987247562,
+      "embedding_rank": 11
+    },
+    {
+      "title": "সোনিয়া (বাংলাদেশী অভিনেত্রী)",
+      "url": "https://bn.wikipedia.org/wiki/%E0%A6%B8%E0%A7%8B%E0%A6%A8%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE_(%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%80_%E0%A6%85%E0%A6%AD%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80)",
+      "snippet": "সোনিয়া হলে একজন বাংলাদেশি বিখ্যাত অভিনেত্রী ও মডেল। ১৯৯১ সালে মাস্তান রাজা সিনেমার মাধ্যমে ঢালিউড ইন্ডাস্ট্রিতে অভিষেক ঘটে। পরের বছর বাপ্পারাজের বিপরীতে \"প্রেমশক্তি\" সিনেমায় প্রধান নায়িকার ভূমিকায় অভিনয় করে।Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.7474098205566406,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

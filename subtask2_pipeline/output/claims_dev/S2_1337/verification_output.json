@@ -1,0 +1,6 @@
+{
+  "ID": "S2/1337",
+  "Evidence": "दिल्ली में पिछले 24 घंटों में कोविड-19 के कारण एक मौत की पुष्टि की गई है, जबकि कुल चार मौतें भारत में रिपोर्ट की गई हैं, जिनमें से दो महाराष्ट्र और एक केरल से हैं (Source 2)। स्वास्थ्य मंत्री ने कोविड संक्रमण से हुई मौतों की संख्या की पुष्टि की है, लेकिन दिल्ली में चार मौतों का कोई उल्लेख नहीं है (Source 1 और Source 3)।",
+  "Prediction": "REFUTES",
+  "Justification": "Retrieved evidence indicates that in the last 24 hours, only one death due to COVID-19 was reported in Delhi, while four deaths were reported nationwide, with two in Maharashtra and one in Kerala (Source 2). The claim that all four deaths in Delhi were due to COVID-19 is not supported by the evidence, as it contradicts the specific details provided in the sources."
+}

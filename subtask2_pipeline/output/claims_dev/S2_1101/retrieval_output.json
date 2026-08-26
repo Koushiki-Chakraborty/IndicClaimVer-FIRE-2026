@@ -1,0 +1,108 @@
+{
+  "claim": {
+    "id": "S2/1101",
+    "text": "Arun Jaitley writes on AAP, Congress tie-up: 'Both parties trust each other completely'",
+    "lang": "dev"
+  },
+  "generated_queries": {
+    "english_translation": "Arun Jaitley writes on AAP, Congress tie-up: 'Both parties trust each other completely'",
+    "native_query": "Arun Jaitley AAP Congress writes tie parties trust completely",
+    "english_query": "Arun Jaitley AAP Congress writes tie parties trust completely"
+  },
+  "native_retrieval": [
+    {
+      "title": "Congress-AAP 'tie-up' opportunism: Arun Jaitley | Delhi News",
+      "url": "https://timesofindia.indiatimes.com/city/delhi/congress-aap-tie-up-opportunism-jaitley/articleshow/68455811.cms",
+      "snippet": "Mar 18, 2019 — NEW DELHI: The Congress-AAP alliance has yet to become a reality in Delhi, but BJP has already turned it into a major poll issue in the"
+    },
+    {
+      "title": "Congress and AAP has a self defeating relationship",
+      "url": "https://www.arunjaitley.com/congress-and-aap-has-a-self-defeating-relationship",
+      "snippet": "Mar 9, 2014 — After an electoral contest in Delhi in December, 2013 Assembly elections, the AAP and the Congress have a cozy relationship.Read more"
+    },
+    {
+      "title": "'AAP - a party of pathological liars', writes Arun Jaitley",
+      "url": "https://www.ndtv.com/india-news/aap-a-party-of-pathological-liars-writes-arun-jaitley-549780",
+      "snippet": "Feb 4, 2014 — Senior BJP leader Arun Jaitley has been accused of offering bribes to an Aam Aadmi Party MLA to bring down the Delhi government led by"
+    },
+    {
+      "title": "Article : Shri Arun Jaitley on \"The Congress-AAP Paradox\"",
+      "url": "https://www.bjp.org/pressreleases/article-shri-arun-jaitley-congress-aap-paradox",
+      "snippet": "Dec 24, 2013 — The relationship between the two merits some other comments. The BJP as the largest single party in Delhi got only 32 seats. It was clear that ...Read more"
+    },
+    {
+      "title": "DELHI is paying the price for the Congress Party's ...",
+      "url": "https://mobile.twitter.com/arunjaitley/status/425265073225875456",
+      "snippet": "Jan 20, 2014 — Arun Jaitley (@arunjaitley). 85 likes 153 replies. DELHI is paying the price for the Congress Party's misjudgment in supporting AAP."
+    },
+    {
+      "title": "Jaitley targeted by Congress, AAP on Panama Papers leaks",
+      "url": "https://www.theindianpanorama.news/jaitley-targeted-congress-aap-panama-papers-leaks",
+      "snippet": "India | NEW DELHI (TIP): Congress and AAP on April 7 targeted finance minister Arun Jaitley on the Panama Papers issue, demanding a judicial probe into the."
+    }
+  ],
+  "english_retrieval": [
+    {
+      "title": "Congress-AAP 'tie-up' opportunism: Arun Jaitley | Delhi News",
+      "url": "https://timesofindia.indiatimes.com/city/delhi/congress-aap-tie-up-opportunism-jaitley/articleshow/68455811.cms",
+      "snippet": "Mar 18, 2019 — NEW DELHI: The Congress-AAP alliance has yet to become a reality in Delhi, but BJP has already turned it into a major poll issue in the"
+    },
+    {
+      "title": "Congress and AAP has a self defeating relationship",
+      "url": "https://www.arunjaitley.com/congress-and-aap-has-a-self-defeating-relationship",
+      "snippet": "Mar 9, 2014 — After an electoral contest in Delhi in December, 2013 Assembly elections, the AAP and the Congress have a cozy relationship.Read more"
+    },
+    {
+      "title": "'AAP - a party of pathological liars', writes Arun Jaitley",
+      "url": "https://www.ndtv.com/india-news/aap-a-party-of-pathological-liars-writes-arun-jaitley-549780",
+      "snippet": "Feb 4, 2014 — Senior BJP leader Arun Jaitley has been accused of offering bribes to an Aam Aadmi Party MLA to bring down the Delhi government led by"
+    },
+    {
+      "title": "Article : Shri Arun Jaitley on \"The Congress-AAP Paradox\"",
+      "url": "https://www.bjp.org/pressreleases/article-shri-arun-jaitley-congress-aap-paradox",
+      "snippet": "Dec 24, 2013 — The relationship between the two merits some other comments. The BJP as the largest single party in Delhi got only 32 seats. It was clear that ...Read more"
+    },
+    {
+      "title": "DELHI is paying the price for the Congress Party's ...",
+      "url": "https://mobile.twitter.com/arunjaitley/status/425265073225875456",
+      "snippet": "Jan 20, 2014 — Arun Jaitley (@arunjaitley). 85 likes 153 replies. DELHI is paying the price for the Congress Party's misjudgment in supporting AAP."
+    },
+    {
+      "title": "Jaitley targeted by Congress, AAP on Panama Papers leaks",
+      "url": "https://www.theindianpanorama.news/jaitley-targeted-congress-aap-panama-papers-leaks",
+      "snippet": "India | NEW DELHI (TIP): Congress and AAP on April 7 targeted finance minister Arun Jaitley on the Panama Papers issue, demanding a judicial probe into the."
+    }
+  ],
+  "merged_results": [
+    {
+      "title": "Congress-AAP 'tie-up' opportunism: Arun Jaitley | Delhi News",
+      "url": "https://timesofindia.indiatimes.com/city/delhi/congress-aap-tie-up-opportunism-jaitley/articleshow/68455811.cms",
+      "snippet": "Mar 18, 2019 — NEW DELHI: The Congress-AAP alliance has yet to become a reality in Delhi, but BJP has already turned it into a major poll issue in the"
+    },
+    {
+      "title": "Congress and AAP has a self defeating relationship",
+      "url": "https://www.arunjaitley.com/congress-and-aap-has-a-self-defeating-relationship",
+      "snippet": "Mar 9, 2014 — After an electoral contest in Delhi in December, 2013 Assembly elections, the AAP and the Congress have a cozy relationship.Read more"
+    },
+    {
+      "title": "'AAP - a party of pathological liars', writes Arun Jaitley",
+      "url": "https://www.ndtv.com/india-news/aap-a-party-of-pathological-liars-writes-arun-jaitley-549780",
+      "snippet": "Feb 4, 2014 — Senior BJP leader Arun Jaitley has been accused of offering bribes to an Aam Aadmi Party MLA to bring down the Delhi government led by"
+    },
+    {
+      "title": "Article : Shri Arun Jaitley on \"The Congress-AAP Paradox\"",
+      "url": "https://www.bjp.org/pressreleases/article-shri-arun-jaitley-congress-aap-paradox",
+      "snippet": "Dec 24, 2013 — The relationship between the two merits some other comments. The BJP as the largest single party in Delhi got only 32 seats. It was clear that ...Read more"
+    },
+    {
+      "title": "DELHI is paying the price for the Congress Party's ...",
+      "url": "https://mobile.twitter.com/arunjaitley/status/425265073225875456",
+      "snippet": "Jan 20, 2014 — Arun Jaitley (@arunjaitley). 85 likes 153 replies. DELHI is paying the price for the Congress Party's misjudgment in supporting AAP."
+    },
+    {
+      "title": "Jaitley targeted by Congress, AAP on Panama Papers leaks",
+      "url": "https://www.theindianpanorama.news/jaitley-targeted-congress-aap-panama-papers-leaks",
+      "snippet": "India | NEW DELHI (TIP): Congress and AAP on April 7 targeted finance minister Arun Jaitley on the Panama Papers issue, demanding a judicial probe into the."
+    }
+  ]
+}

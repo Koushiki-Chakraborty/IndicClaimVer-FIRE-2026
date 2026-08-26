@@ -1,0 +1,6 @@
+{
+  "ID": "S2/1318",
+  "Evidence": "Source 1 states that there is a lucky draw scheme where the winner will receive a smartphone worth Rs 60,000, but it specifies that the winner must be fully vaccinated with both doses, not just have received the first dose. The other sources do not provide relevant information regarding the claim about the lucky draw for those who have only received the first dose of the vaccine.",
+  "Prediction": "REFUTES",
+  "Justification": "The retrieved evidence from Source 1 directly contradicts the claim by stating that the smartphone is for a winner who is fully vaccinated with both doses, not just for those who have received the first dose. Therefore, the evidence refutes the claim's core assertion."
+}

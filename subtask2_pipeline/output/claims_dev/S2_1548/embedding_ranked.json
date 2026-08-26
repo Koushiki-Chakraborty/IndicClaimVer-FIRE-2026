@@ -1,0 +1,109 @@
+{
+  "claim": {
+    "id": "S2/1548",
+    "text": "दिल्ली में, नदी किनारे या मैदान में नहीं कर पाएंगे छठ पूजा, घर में ही मनाना होगा त्योहार",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Delhi Government Replaces 'Essentiality Certificate' With Self-Certifications - NDTV",
+      "url": "https://www.ndtv.com/education/delhi-government-replaces-essentiality-certificate-with-self-certification-for-private-school-recognition-11790660",
+      "snippet": "# Delhi Government Replaces 'Essentiality Certificate' With Self-Certifications. ## New rules align Delhi's school recognition with RTE Act, focusing on infrastructure, teacher qualifications, and safety standards. Delhi introduces self-certification in place of Essentiality Certificate for private schools. * Delhi replaces Essentiality Certificate with self-certification for private schools. * New rules align with RTE Act focusing on infrastructure and teacher standards. The Delhi government has approved a major change in the process for opening private schools by replacing the long-standing 'Essentiality Certificate' requirement with a self-certification system. According to ANI, Delhi Education Minister Ashish Sood has approved the reform, under which the Directorate of Education will remove several outdated provisions under the Delhi School Education Act and Rules (DSER), 1973. Under the new system, private schools will no longer have to obtain an Essentiality Certificate, which earlier required government approval on whether a new school was needed in a particular area.",
+      "bm25_score_raw": 2.2863369678245067,
+      "bm25_score_norm": 0.5993756231613813,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.802111029624939,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "India's Modi under pressure as youth protest leaders set for more talks - Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/indias-modi-under-pressure-youth-protest-leaders-set-more-talks-2026-07-25/",
+      "snippet": "## Browse World. Item 1 of 6 A man holds a poster as he participates in a demonstration held in solidarity with Cockroach Janta Party (CJP) protests held at Jantar Mantar in New Delhi, which demand the resignation of India's Education Minister Dharmendra Pradhan over exam paper leaks, in Kolkata, India, July 24, 2026. **[1/6]**A man holds a poster as he participates in a demonstration held in solidarity with Cockroach Janta Party (CJP) protests held at Jantar Mantar in New Delhi, which demand the resignation of India's Education Minister Dharmendra Pradhan over exam paper leaks, in Kolkata, India, July 24, 2026.... NEW DELHI, July 25 (Reuters) - The Indian government was set to begin a fresh round of talks on Saturday with leaders of a Gen-Z protest that led to disruptions ​in the capital this week, as demonstrators press a demand for the education minister ‌to resign.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.7845064997673035,
+      "embedding_score_norm": 0.7524204296838982,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Govt extends exemption for net metering, open access for renewable energy projects till December - The Economic Times",
+      "url": "https://m.economictimes.com/industry/renewables/govt-extends-exemption-for-net-metering-open-access-renewable-energy-projects-till-december/amp_articleshow/132483953.cms",
+      "snippet": "In case you want to opt out, please click \"Do Not Sell or Share My Personal Information\" link in the footer of this page. ## The government has extended the exemption for net-metering and open access RE projects. New Delhi, The government on Saturday said it has extended the exemption timeline for net-metering and open access RE projects till December 31, 2026 under the ALMM-II. In a statement, the Ministry of New and Renewable Energy said there is no change in ALMM Policy and the government has provided extended relief window for select solar projects up to December 2026. The MNRE has decided that there will be no change in the policy of the Government of India with respect of implementation of Approved List of Models & Manufacturers (ALMM) List-II for solar PV cells, and no blanket extension in applicability of ALMM List-II for solar power projects will be provided.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.784034252166748,
+      "embedding_score_norm": 0.7457790221044955,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Self-help groups to make two lakh national flags ahead of I-Day - The Hindu",
+      "url": "https://www.thehindu.com/news/cities/Delhi/self-help-groups-to-make-two-lakh-national-flags-ahead-of-i-day/article71242451.ece",
+      "snippet": "Need help with your subscription? The View From India Looking at World Affairs from the Indian perspective.SEE ALL NEWSLETTERS. First Day First Show News and reviews from the world of cinema and streaming.SEE ALL NEWSLETTERS. Today's Cache Your download of the top 5 technology stories of the day.SEE ALL NEWSLETTERS. Science For All The weekly newsletter from science writers takes the jargon out of science and puts the fun in! The Hindu On Books Books of the week, reviews, excerpts, new titles and features.SEE ALL NEWSLETTERS. The Delhi government is preparing to roll out the Har Ghar Tiranga 2026 campaign ahead of Independence Day to promote public participation, patriotism and national unity. She said the Delhi government is committed to making the campaign a success through the involvement of every section of society while also creating opportunities for the economic empowerment of Self-Help Groups. She said members of the Self-Help Groups producing the national flag will directly contribute to the making of the Tricolour, a symbol of the nation’s pride and national unity.",
+      "bm25_score_raw": 1.5296573516264222,
+      "bm25_score_norm": 0.40100796219328294,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.7836685180664062,
+      "embedding_score_norm": 0.740635556635959,
+      "embedding_rank": 4
+    },
+    {
+      "title": "From Banana Farms to Makhana Markets: The Highway Set to Power Bihar’s Agricultural Heartland - Global Agriculture",
+      "url": "https://www.global-agriculture.com/india-region/from-banana-farms-to-makhana-markets-the-highway-set-to-power-bihars-agricultural-heartland/",
+      "snippet": "Home » India Region » From Banana Farms to Makhana Markets: The Highway Set to Power Bihar’s Agricultural Heartland. # From Banana Farms to Makhana Markets: The Highway Set to Power Bihar’s Agricultural Heartland. ****20** July 2026, **New Delhi**:** Before dawn breaks over the fertile plains of Bihar, trucks loaded with bunches of bananas leave the farms of Khagaria, while sacks of makhana begin their journey from ponds and processing centres of Purnea, one of the country’s biggest makhana hubs. The proposed upgradation of the Khagaria–Purnea section of NH-31 and NH-231 to a four-lane highway by the Ministry of Road Transport and Highways, recently approved by Cabinet Committee on Economic Affairs (CCEA), seeks to address these longstanding challenges. The upgradation of the Khagaria-Purnea Section of NH-31 and NH-231 to 4-lane standard in Bihar at a cost of Rs.3936.05 crore is more of an investment in the people whose livelihoods depend on getting Bihar’s bananas and makhana to market efficiently, helping strengthen the economic backbone of the state’s agricultural heartland.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.7829645872116089,
+      "embedding_score_norm": 0.7307358944483097,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Food, fury and supporters near and far keep India protest alive - Reuters",
+      "url": "https://www.reuters.com/world/india/food-fury-supporters-near-far-keep-india-protest-alive-2026-07-22/",
+      "snippet": "## Browse World. Item 1 of 5 Food delivery bikes arrive at a barricade near the India's Cockroach Janata Party (CJP) protest site to deliver foods, two days after thousands of protesters marched towards parliament demanding the resignation of Education Minister Dharmendra Pradhan over examination paper leaks, at Jantar Mantar in New Delhi, India, July 22, 2026. **[1/5]**Food delivery bikes arrive at a barricade near the India's Cockroach Janata Party (CJP) protest site to deliver foods, two days after thousands of protesters marched towards parliament demanding the resignation of Education Minister Dharmendra Pradhan over examination paper leaks, at Jantar... NEW DELHI, July 22 (Reuters) - A steady stream of food delivery riders carrying meals, snacks and bottled water is helping sustain a youth-led protest movement that has sprung up in the heart of India's capital. Get the latest news from India and how it matters to the world with the Reuters India File newsletter.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.7798620462417603,
+      "embedding_score_norm": 0.687103615346572,
+      "embedding_rank": 6
+    },
+    {
+      "title": "Olivia Rodrigo's Daisy Chain Fields Etsy Merch Proves Festival Fashion Is So Back - Teen Vogue",
+      "url": "https://www.teenvogue.com/story/olivia-rodrigo-daisy-chain-fields-etsy-merch",
+      "snippet": "# Olivia Rodrigo's Daisy Chain Fields Etsy Merch Is the Perfect Blend of Cottagecore and Whimsy. Olivia Rodrigo's Daisy Chain Fields music festival is rapidly approaching, and to celebrate, she's launching a merch collab with Etsy that's full of daisy motifs, vintage vibes, and a whimsical floral spirit. The official Daisy Chain Fields Collection by Olivia Rodrigo is a curated, handmade collection from 10 female-owned Etsy shops, and is available exclusively on the platform starting today, July 23. It's a fun way to do festival merch—highlighting both the women-centric vibe of the festival (which is already being compared to the groundbreaking Lilith Fair) and Rodrigo's personal approach to its curation. The Etsy Creative Village will also be available on-site at the music festival on Aug. 29 at Great Park in Irvine, California; at the pop-up, “many of those same Etsy sellers will bring the collaboration to life through hands-on creative experiences, festival exclusives and opportunities for fans to meet the makers,” according to a press release.",
+      "bm25_score_raw": 1.9764453496901908,
+      "bm25_score_norm": 0.5181358565190736,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.768976092338562,
+      "embedding_score_norm": 0.5340100756934374,
+      "embedding_rank": 7
+    },
+    {
+      "title": "ICAR @98: Science, innovation and sustainability for Viksit Bharat 2047 - The Economic Times",
+      "url": "https://m.economictimes.com/news/economy/agriculture/icar-98-science-innovation-and-sustainability-for-viksit-bharat-2047/amp_articleshow/132506425.cms",
+      "snippet": "In case you want to opt out, please click \"Do Not Sell or Share My Personal Information\" link in the footer of this page. As the Indian Council of Agricultural Research (ICAR) marks its 98th Foundation Day, the occasion celebrates the remarkable journey of the country’s premier agricultural research, education, and extension organisation, while highlighting its enduring commitment to transforming Indian agriculture through farmer-centric technologies, science, innovation, and last-mile delivery. Over the past nine+ decades, ICAR has played a pivotal role in ensuring India’s food, nutrition, and livelihood security by continuously developing and disseminating climate-resilient crop varieties, better livestock breeds, sustainable natural resource management practices, and scale-appropriate farming tools. Today, as India advances towards the vision of Viksit Bharat @2047, agriculture remains central to economic growth, environmental sustainability, and rural prosperity. The next phase of India’s agricultural transformation must, therefore, be driven by scientific excellence, technological innovation, and a calibrated transition towards a sustainable bioeconomy.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.7426162362098694,
+      "embedding_score_norm": 0.1633008374058023,
+      "embedding_rank": 8
+    },
+    {
+      "title": "The 2026 Fields Medals Are Awarded To Four Young Mathematicians - Forbes",
+      "url": "https://www.forbes.com/sites/michaeltnietzel/2026/07/24/the-2026-fields-medals-are-awarded-to-four-young-mathematicians/",
+      "snippet": "# The 2026 Fields Medals Are Awarded To Four Young Mathematicians. The prestigious Fields Medals, often called the Nobel Prize of mathematics, were awarded to four distinguished mathematicians at the International Congress of Mathematicians in Philadelphia on July 23. Yu Deng (University of Chicago), Jacob Tsimerman (University of Toronto), Hong Wang (NYU/IHES), and John Pardon (Stony Brook University) received the honor. Awarded every four years to mathematicians under 40, the medal recognizes outstanding achievement and future promise. The four winners of the 2026 Fields Medal, often considered to be the equivalent of the Nobel Prize in the field of mathematics, have been named by the International Mathematical Union (IMU). The Fields Medal is awarded every four years to two to four mathematicians who are younger than the age of 40. “The four medalists exemplify the depth, originality and vitality of contemporary mathematics, and we are delighted to celebrate their achievements at the International Congress of Mathematicians,” said Hiraku Nakajima, president of the IMU, in a statement.",
+      "bm25_score_raw": 3.814531121177934,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.7310044765472412,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 9
+    }
+  ]
+}

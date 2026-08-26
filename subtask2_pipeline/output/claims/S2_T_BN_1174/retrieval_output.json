@@ -1,0 +1,138 @@
+{
+  "claim": {
+    "id": "S2/T/BN/1174",
+    "text": "চৈত্র সেলের পর কি পুজোর বাজারেও কোপ? দীর্ঘ লকডাউনে চিন্তা বাড়ছে ব্যবসায়ীদের",
+    "lang": "bengali"
+  },
+  "generated_queries": {
+    "english_translation": "After the Chaitra sale, is the Puja market also angry? Traders are worried about the long lockdown",
+    "native_query": "লকড উন যবস",
+    "english_query": "Chaitra Puja sale market angry Traders worried lockdown"
+  },
+  "native_retrieval": [
+    {
+      "title": "LockNet Jobs: Job Listings",
+      "url": "https://locknet.applicantpool.com",
+      "snippet": "Below is a list of the current openings with our company. Click on the job title to learn more about the opening. Search Jobs. Clear Filters. City. State."
+    },
+    {
+      "title": "JOB LOCK | definition in the Cambridge English Dictionary",
+      "url": "https://dictionary.cambridge.org/us/dictionary/english/job-lock",
+      "snippet": "JOB LOCK meaning: a situation in which people stay in their job because they do not want to lose things such as…. Learn more."
+    },
+    {
+      "title": "Lock Job (Short 2015)",
+      "url": "https://www.imdb.com/title/tt5205296",
+      "snippet": "A reluctant professional takes on one last job to pay off her debts. Her woman on the inside has plans of her own, working against her as they race to retrieve"
+    },
+    {
+      "title": "Q: What is a Lock job?",
+      "url": "https://www.ziprecruiter.com/e/What-is-a-Lock-job",
+      "snippet": "A Lock job typically involves installing, repairing, and maintaining locks and security systems for residential, commercial, or automotive purposes."
+    },
+    {
+      "title": "Unlock Jobs & Careers - 2 Open Positions",
+      "url": "https://www.glassdoor.com/Jobs/Unlock-Jobs-E5693722.htm",
+      "snippet": "Unlock Jobs · Home Equity Officer. Phoenix, AZ. $36.00 Per Hour (Employer provided). Easy Apply. 30d+ · Homeowner Equity Coordinator. Phoenix, AZ. $24.00 Per Hour"
+    },
+    {
+      "title": "What is Job Lock—and how do you get out?",
+      "url": "https://shrime.medium.com/what-is-job-lock-and-how-do-you-get-out-811d4218022a",
+      "snippet": "Golden handcuffs aren't just about money. Yes, high salaries and generous benefits are part of what keep people in jobs they hate."
+    }
+  ],
+  "english_retrieval": [
+    {
+      "title": "SALE SALE SALE.... Chaitra Sale in Chandidas Market, ...",
+      "url": "https://www.facebook.com/durgapurcity/posts/sale-sale-sale-chaitra-sale-in-chandidas-market-durgapur/753317754701726",
+      "snippet": "Chaitra Sale in Chandidas Market, Durgapur. Public Sale at our community Durga Puja Both Veg & Non-Veg items. Most of stock is finished.You can"
+    },
+    {
+      "title": "Local garment traders struggle as shopping malls ...",
+      "url": "https://www.millenniumpost.in/bengal/local-garment-traders-struggle-as-shopping-malls-dominate-chaitra-sale-605102",
+      "snippet": "Apr 3, 2025 — Balurghat's garment shops and ready-made garment sellers are facing a severe business downturn this 'Chaitra' sale, as the rise of shopping malls overshadows ...Read more"
+    },
+    {
+      "title": "Pre-Covid crowds back, not business, say Kolkata traders",
+      "url": "https://www.telegraphindia.com/my-kolkata/news/pre-covid-crowds-back-not-business-say-kolkata-traders/cid/1887307",
+      "snippet": "Sep 18, 2022 — The bazaars might be brimming over with people but the pre-Puja business is nowhere near the pre-pandemic levels, say traders across the city.Read more"
+    },
+    {
+      "title": "Despite coronavirus, Indian traders stock up in hopes of ...",
+      "url": "https://financialpost.com/pmn/business-pmn/despite-coronavirus-indian-traders-stock-up-in-hopes-of-festive-cheer",
+      "snippet": "Oct 22, 2020 — Businesses and shopkeepers expect more purchases than usual this year, beginning with Durga Puja on Thursday, because the months of lockdowns ...Read more"
+    },
+    {
+      "title": "Traders Association declares Lockdown, Closes market till ...",
+      "url": "https://www.youtube.com/watch?v=7FOsXtukwNU",
+      "snippet": "Due to Corona infection, the condition of Delhi, is deteriorating. The traders have decided to close the Chandni Chowk market by their own will"
+    },
+    {
+      "title": "Lockdown Dries Up Business In Mumbai, Traders Demand ...",
+      "url": "https://www.youtube.com/watch?v=NMZtiocVIPA",
+      "snippet": "With the lockdown continuing to be extended in Mumbai, traders have now asked the govt to allow relaxations to open up businesses as it is"
+    }
+  ],
+  "merged_results": [
+    {
+      "title": "LockNet Jobs: Job Listings",
+      "url": "https://locknet.applicantpool.com",
+      "snippet": "Below is a list of the current openings with our company. Click on the job title to learn more about the opening. Search Jobs. Clear Filters. City. State."
+    },
+    {
+      "title": "JOB LOCK | definition in the Cambridge English Dictionary",
+      "url": "https://dictionary.cambridge.org/us/dictionary/english/job-lock",
+      "snippet": "JOB LOCK meaning: a situation in which people stay in their job because they do not want to lose things such as…. Learn more."
+    },
+    {
+      "title": "Lock Job (Short 2015)",
+      "url": "https://www.imdb.com/title/tt5205296",
+      "snippet": "A reluctant professional takes on one last job to pay off her debts. Her woman on the inside has plans of her own, working against her as they race to retrieve"
+    },
+    {
+      "title": "Q: What is a Lock job?",
+      "url": "https://www.ziprecruiter.com/e/What-is-a-Lock-job",
+      "snippet": "A Lock job typically involves installing, repairing, and maintaining locks and security systems for residential, commercial, or automotive purposes."
+    },
+    {
+      "title": "Unlock Jobs & Careers - 2 Open Positions",
+      "url": "https://www.glassdoor.com/Jobs/Unlock-Jobs-E5693722.htm",
+      "snippet": "Unlock Jobs · Home Equity Officer. Phoenix, AZ. $36.00 Per Hour (Employer provided). Easy Apply. 30d+ · Homeowner Equity Coordinator. Phoenix, AZ. $24.00 Per Hour"
+    },
+    {
+      "title": "What is Job Lock—and how do you get out?",
+      "url": "https://shrime.medium.com/what-is-job-lock-and-how-do-you-get-out-811d4218022a",
+      "snippet": "Golden handcuffs aren't just about money. Yes, high salaries and generous benefits are part of what keep people in jobs they hate."
+    },
+    {
+      "title": "SALE SALE SALE.... Chaitra Sale in Chandidas Market, ...",
+      "url": "https://www.facebook.com/durgapurcity/posts/sale-sale-sale-chaitra-sale-in-chandidas-market-durgapur/753317754701726",
+      "snippet": "Chaitra Sale in Chandidas Market, Durgapur. Public Sale at our community Durga Puja Both Veg & Non-Veg items. Most of stock is finished.You can"
+    },
+    {
+      "title": "Local garment traders struggle as shopping malls ...",
+      "url": "https://www.millenniumpost.in/bengal/local-garment-traders-struggle-as-shopping-malls-dominate-chaitra-sale-605102",
+      "snippet": "Apr 3, 2025 — Balurghat's garment shops and ready-made garment sellers are facing a severe business downturn this 'Chaitra' sale, as the rise of shopping malls overshadows ...Read more"
+    },
+    {
+      "title": "Pre-Covid crowds back, not business, say Kolkata traders",
+      "url": "https://www.telegraphindia.com/my-kolkata/news/pre-covid-crowds-back-not-business-say-kolkata-traders/cid/1887307",
+      "snippet": "Sep 18, 2022 — The bazaars might be brimming over with people but the pre-Puja business is nowhere near the pre-pandemic levels, say traders across the city.Read more"
+    },
+    {
+      "title": "Despite coronavirus, Indian traders stock up in hopes of ...",
+      "url": "https://financialpost.com/pmn/business-pmn/despite-coronavirus-indian-traders-stock-up-in-hopes-of-festive-cheer",
+      "snippet": "Oct 22, 2020 — Businesses and shopkeepers expect more purchases than usual this year, beginning with Durga Puja on Thursday, because the months of lockdowns ...Read more"
+    },
+    {
+      "title": "Traders Association declares Lockdown, Closes market till ...",
+      "url": "https://www.youtube.com/watch?v=7FOsXtukwNU",
+      "snippet": "Due to Corona infection, the condition of Delhi, is deteriorating. The traders have decided to close the Chandni Chowk market by their own will"
+    },
+    {
+      "title": "Lockdown Dries Up Business In Mumbai, Traders Demand ...",
+      "url": "https://www.youtube.com/watch?v=NMZtiocVIPA",
+      "snippet": "With the lockdown continuing to be extended in Mumbai, traders have now asked the govt to allow relaxations to open up businesses as it is"
+    }
+  ]
+}

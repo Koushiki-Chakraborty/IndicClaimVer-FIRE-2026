@@ -1,0 +1,99 @@
+{
+  "claim": {
+    "id": "S2/1597",
+    "text": "At a glance: Key candidates and constituencies in Rajasthan state elections",
+    "lang": "dev"
+  },
+  "entity_ranked_evidence": [
+    {
+      "title": "Rajasthan Agriculture Supervisor result 2026 expected to be released soon at rssb.rajasthan.gov.in: Check - The Times of India",
+      "url": "https://timesofindia.indiatimes.com/education/news/rajasthan-agriculture-supervisor-result-2026-expected-to-be-released-soon-at-rssb-rajasthan-gov-in-check-steps-to-download-scorecards-here/articleshow/131889356.cms",
+      "snippet": "* Rajasthan Agriculture Supervisor result 2026 expected to be released soon at rssb.rajasthan.gov.in: Check steps to download scorecards here. The Rajasthan Agriculture Supervisor Result 2026 is likely to be released soon by the Rajasthan Staff Selection Board. Rajasthan Agriculture Supervisor result 2026: The Rajasthan Staff Selection Board (RSSB) is expected to announce the Rajasthan Agriculture Supervisor (Krishi Paryavekshak) result on the official website, rssb.rajasthan.gov.in. The recruitment drive is being conducted to fill 1,100 Agriculture Supervisor vacancies across Rajasthan.According to information shared by RSSB Chairman Alok Raj through his social media platform, the Agriculture Supervisor result is expected shortly. ## Rajasthan Agriculture Supervisor result 2026: Steps to download scorecards. Candidates can follow the steps elucidated here to download the Rajasthan Agriculture Supervisor result 2026:. Candidates are advised to stay tuned to the official website to get the complete details of the Rajasthan Agriculture Supervisor result 2026.Until the official notification is issued, candidates are advised to rely only on updates published by RSSB and regularly monitor the board's website for the latest developments.",
+      "bm25_score_raw": 2.517474288790478,
+      "bm25_score_norm": 0.7238629409626474,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8119120597839355,
+      "embedding_score_norm": 0.9447407279549896,
+      "embedding_rank": 2,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 1,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 1
+    },
+    {
+      "title": "Rajasthan Royals Eye Playoff Berth Against Mumbai Indians - Telecom Asia Sport",
+      "url": "https://www.telecomasia.net/blog/rajasthan-royals-eye-playoff-berth-against-mumbai-indians/",
+      "snippet": "# PREVIEW: Rajasthan Royals Eye Playoff Berth Against Mumbai Indians. The final double header of IPL 2026 begins at the Wankhede Stadium where Rajasthan Royals take on Mumbai Indians in a match loaded with playoff implications. A victory will take them to 16 points and secure a place in the playoffs. Sitting ninth on the points table, they now have little left to play for except pride and the chance to spoil Rajasthan’s playoff hopes. ## Yashasvi And Vaibhav Hold The Key For Rajasthan. Rajasthan’s batting unit has revolved around the explosive opening pair of Yashasvi Jaiswal and teenage sensation Vaibhav Suryavanshi. Alongside him, Vaibhav Suryavanshi has emerged as one of the breakout stars of the tournament. One of the biggest talking points heading into the match is the second chapter of the battle between Jasprit Bumrah and Vaibhav Suryavanshi. 1.Yashasvi And Vaibhav Hold The Key For Rajasthan2.Mumbai Look For A Strong Finish3.Bumrah Vs Suryavanshi Takes Centre Stage Again.",
+      "bm25_score_raw": 2.749409438474331,
+      "bm25_score_norm": 0.790552503716207,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8103172183036804,
+      "embedding_score_norm": 0.9131074222467603,
+      "embedding_rank": 3,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 1,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 2
+    },
+    {
+      "title": "5 Regions, 18 Chief Ministers: How BJP's Saffron Sweep Has Reshaped India's Political Map - News18",
+      "url": "https://www.news18.com/india/5-regions-18-chief-ministers-how-bjps-saffron-sweep-has-reshaped-indias-political-map-ws-l-10073533.html",
+      "snippet": "* Assembly Election Results 2026 Live. * West Bengal Assembly Election Results. * Tamil Nadu Assembly Election Results. ## With leads in Bengal, BJP’s footprint now spans North, West, Central, East and the Northeast, making this one of the most geographically expansive phases in the party’s history. BJP's recent gains, especially in West Bengal, have expanded its dominance across North, West, Central, East, and Northeast India, making it a pan-India force. The latest round of assembly election results 2026, especially the party’s surge in West Bengal, has sharpened a trend that has been building for over a decade: the Bharatiya Janata Party (BJP) is now the dominant political force across most regions of India, while the Congress finds itself increasingly confined to the South. With leads in Bengal adding to its tally, the BJP’s footprint now spans North, West, Central, East and the Northeast, making this one of the most geographically expansive phases in the party’s history.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8146980404853821,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 3
+    },
+    {
+      "title": "Democratic candidates sweep key races in 2025 elections - CBS News",
+      "url": "https://www.cbsnews.com/baltimore/video/democratic-candidates-sweep-key-races-in-2025-elections/",
+      "snippet": "* Local * Maryland * Best of * WJZ at 9 * Politics * Consumer * Business * Health * Entertainment * First Alert Weather * Radar & Maps * Closings/Delays * Weather Watchers * All Sports * CBS Sports HQ * Ravens * Orioles * College Sports * Horse Racing * WJZ at 9 * Community MVP * Volunteer with WJZ * WJZ and the Baltimore Banner * WJZ Investigates * Nominate An MVP Democratic candidates sweep key races in 2025 elections Democratic candidates sweep key races in 2025 elections # Democratic candidates sweep key races in 2025 elections Candidates from different wings of the Democratic Party swept key races in the 2025 elections.19m ago * Embed embed code copied",
+      "bm25_score_raw": 3.3724715104833685,
+      "bm25_score_norm": 0.9697048969918624,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8027342557907104,
+      "embedding_score_norm": 0.7627011440576273,
+      "embedding_rank": 4,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 4
+    },
+    {
+      "title": "Trump news at a glance: president returns to old playbook of undermining US election integrity - The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/jun/09/trump-news-at-a-glance-latest-updates-today",
+      "snippet": "# Trump news at a glance: president returns to old playbook of undermining US election integrity. Experts worry Trump’s administration – now stocked with loyalists and election deniers – may not stand up to attempts to sabotage upcoming elections – key US politics stories from Tuesday 9 June at a glance. Donald Trump is “inventing fraud” in California’s primary elections, and likely to ramp up unfounded allegations when more races go against him, pro-democracy experts have warned. While the US president has used this playbook for years – from his loss at the Emmys as a reality TV star to his defeat in the 2020 presidential election – election integrity campaigners fear this time could be different. “California’s election is not the problem here,” said Omar Noureldin, senior vice-president of policy and litigation at Common Cause, a pro-democracy watchdog group. “The problem is that we have a president in the Oval Office who continues to lie and sow doubt over elections instead of facing accountability from voters.”.",
+      "bm25_score_raw": 2.156380688658917,
+      "bm25_score_norm": 0.6200357533254686,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.7670068740844727,
+      "embedding_score_norm": 0.054056929782975445,
+      "embedding_rank": 5,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 5
+    },
+    {
+      "title": "NYC race nears finish line; Hasidic leaders criticize 'scare campaign' against Mamdani - Haaretz",
+      "url": "https://www.haaretz.com/us-news/2025-10-30/ty-article-magazine/.premium/mamdani-and-cuomo-court-final-endorsements-before-tuesday-election/0000019a-3516-d66f-a1df-3556f68a0000",
+      "snippet": "U.S. Senator Bernie Sanders, left, on stage with New York City mayoral candidate Zohran Mamdani on Sunday. NEW YORK – With less than a week until Election Day and hundreds of thousands of ballots already cast through early voting, mayoral candidates Zohran Mamdani and Andrew Cuomo are making a final push to garner support from Jewish communities and other key constituencies across New York City. ### New Study: Half of Gaza War Reservists With PTSD Symptoms Struggle to Reenter Workforce ### The Gaza War Opened a Moral Chasm Between American Jews and Israel ### The Gaza War Opened a Moral Chasm Between American Jews and Israel ### Why Is Trump Threatening to Let Netanyahu Restart the Gaza War?",
+      "bm25_score_raw": 3.477832813823224,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.7642815113067627,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 6
+    }
+  ]
+}

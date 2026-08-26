@@ -1,0 +1,108 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1129",
+    "text": "Live: What Modi achieved in Gujarat in 11 years, we could not do in 49 days, says Kejriwal at Mathura rally",
+    "lang": "english"
+  },
+  "generated_queries": {
+    "english_translation": "Live: What Modi achieved in Gujarat in 11 years, we could not do in 49 days, says Kejriwal at Mathura rally",
+    "native_query": "Modi Gujarat Kejriwal Mathura Live achieved 11 49",
+    "english_query": "Modi Gujarat Kejriwal Mathura Live achieved 11 49"
+  },
+  "native_retrieval": [
+    {
+      "title": "Arvind Kejriwal Speech LIVE | Kejriwal's Massive Claim On ...",
+      "url": "https://www.youtube.com/watch?v=mcQEdXB5RHA",
+      "snippet": "Arvind Kejriwal Speech LIVE | Kejriwal's Massive Claim On Gujarat Elections, Challenge To PM Modi #arvindkejriwal #gujaratelections"
+    },
+    {
+      "title": "Modi vs Kejriwal vs Rahul Gandhi I What a new survey tells us about ...",
+      "url": "https://www.youtube.com/watch?v=WiOPPVEOklI",
+      "snippet": "Arvind Kejriwal has challenged PM Modi on his home turf in Gujarat with a focused campaign ahead of this years assembly polls."
+    },
+    {
+      "title": "AAP Townhall In Gujarat LIVE | Manish Sisodia, Arvind Kejriwal ...",
+      "url": "https://www.youtube.com/watch?v=sk_FySihJJA",
+      "snippet": "AAP Townhall In Gujarat LIVE | Manish Sisodia, Arvind Kejriwal Dare PM Modi In Gujarat | LIVE News #aap #kejriwal #modi #sisodia Subscribe"
+    },
+    {
+      "title": "Arvind Kejriwal After Massive Victory In Gujarat, Punjab LIVE | Gopal ...",
+      "url": "https://www.youtube.com/watch?v=CmD9NssbXeg",
+      "snippet": "Arvind Kejriwal After Massive Victory In Gujarat, Punjab LIVE | Gopal Italia | Sanjeev Arora | AAP #ArvindKejriwal #AAP #BhagwantMann"
+    },
+    {
+      "title": "PM Modi LIVE: PM Modi's Big Message From Janjatiya Gaurav ...",
+      "url": "https://www.youtube.com/watch?v=t_lJBAjCU7k",
+      "snippet": "PM Modi LIVE: PM Modi's Big Message From Janjatiya Gaurav Diwas In Gujarat | WION PM Modi Live: Prime Minister Narendra Modi attends the"
+    },
+    {
+      "title": "PM Modi attends celebrations of 20 years of Gujarat Urban Growth Story ...",
+      "url": "https://www.bjp.org/live-pm-modi-attends-celebrations-20-years-gujarat-urban-growth-story-gandhinagar",
+      "snippet": "LIVE: PM Shri Narendra Modi launches multiple development projects in Chandigarh · प्रधानमंत्री श्री नरेन्द्र मोदी के 17 जुलाई, 2026 को हरियाणा,…"
+    }
+  ],
+  "english_retrieval": [
+    {
+      "title": "Arvind Kejriwal Speech LIVE | Kejriwal's Massive Claim On ...",
+      "url": "https://www.youtube.com/watch?v=mcQEdXB5RHA",
+      "snippet": "Arvind Kejriwal Speech LIVE | Kejriwal's Massive Claim On Gujarat Elections, Challenge To PM Modi #arvindkejriwal #gujaratelections"
+    },
+    {
+      "title": "Modi vs Kejriwal vs Rahul Gandhi I What a new survey tells us about ...",
+      "url": "https://www.youtube.com/watch?v=WiOPPVEOklI",
+      "snippet": "Arvind Kejriwal has challenged PM Modi on his home turf in Gujarat with a focused campaign ahead of this years assembly polls."
+    },
+    {
+      "title": "AAP Townhall In Gujarat LIVE | Manish Sisodia, Arvind Kejriwal ...",
+      "url": "https://www.youtube.com/watch?v=sk_FySihJJA",
+      "snippet": "AAP Townhall In Gujarat LIVE | Manish Sisodia, Arvind Kejriwal Dare PM Modi In Gujarat | LIVE News #aap #kejriwal #modi #sisodia Subscribe"
+    },
+    {
+      "title": "Arvind Kejriwal After Massive Victory In Gujarat, Punjab LIVE | Gopal ...",
+      "url": "https://www.youtube.com/watch?v=CmD9NssbXeg",
+      "snippet": "Arvind Kejriwal After Massive Victory In Gujarat, Punjab LIVE | Gopal Italia | Sanjeev Arora | AAP #ArvindKejriwal #AAP #BhagwantMann"
+    },
+    {
+      "title": "PM Modi LIVE: PM Modi's Big Message From Janjatiya Gaurav ...",
+      "url": "https://www.youtube.com/watch?v=t_lJBAjCU7k",
+      "snippet": "PM Modi LIVE: PM Modi's Big Message From Janjatiya Gaurav Diwas In Gujarat | WION PM Modi Live: Prime Minister Narendra Modi attends the"
+    },
+    {
+      "title": "PM Modi attends celebrations of 20 years of Gujarat Urban Growth Story ...",
+      "url": "https://www.bjp.org/live-pm-modi-attends-celebrations-20-years-gujarat-urban-growth-story-gandhinagar",
+      "snippet": "LIVE: PM Shri Narendra Modi launches multiple development projects in Chandigarh · प्रधानमंत्री श्री नरेन्द्र मोदी के 17 जुलाई, 2026 को हरियाणा,…"
+    }
+  ],
+  "merged_results": [
+    {
+      "title": "Arvind Kejriwal Speech LIVE | Kejriwal's Massive Claim On ...",
+      "url": "https://www.youtube.com/watch?v=mcQEdXB5RHA",
+      "snippet": "Arvind Kejriwal Speech LIVE | Kejriwal's Massive Claim On Gujarat Elections, Challenge To PM Modi #arvindkejriwal #gujaratelections"
+    },
+    {
+      "title": "Modi vs Kejriwal vs Rahul Gandhi I What a new survey tells us about ...",
+      "url": "https://www.youtube.com/watch?v=WiOPPVEOklI",
+      "snippet": "Arvind Kejriwal has challenged PM Modi on his home turf in Gujarat with a focused campaign ahead of this years assembly polls."
+    },
+    {
+      "title": "AAP Townhall In Gujarat LIVE | Manish Sisodia, Arvind Kejriwal ...",
+      "url": "https://www.youtube.com/watch?v=sk_FySihJJA",
+      "snippet": "AAP Townhall In Gujarat LIVE | Manish Sisodia, Arvind Kejriwal Dare PM Modi In Gujarat | LIVE News #aap #kejriwal #modi #sisodia Subscribe"
+    },
+    {
+      "title": "Arvind Kejriwal After Massive Victory In Gujarat, Punjab LIVE | Gopal ...",
+      "url": "https://www.youtube.com/watch?v=CmD9NssbXeg",
+      "snippet": "Arvind Kejriwal After Massive Victory In Gujarat, Punjab LIVE | Gopal Italia | Sanjeev Arora | AAP #ArvindKejriwal #AAP #BhagwantMann"
+    },
+    {
+      "title": "PM Modi LIVE: PM Modi's Big Message From Janjatiya Gaurav ...",
+      "url": "https://www.youtube.com/watch?v=t_lJBAjCU7k",
+      "snippet": "PM Modi LIVE: PM Modi's Big Message From Janjatiya Gaurav Diwas In Gujarat | WION PM Modi Live: Prime Minister Narendra Modi attends the"
+    },
+    {
+      "title": "PM Modi attends celebrations of 20 years of Gujarat Urban Growth Story ...",
+      "url": "https://www.bjp.org/live-pm-modi-attends-celebrations-20-years-gujarat-urban-growth-story-gandhinagar",
+      "snippet": "LIVE: PM Shri Narendra Modi launches multiple development projects in Chandigarh · प्रधानमंत्री श्री नरेन्द्र मोदी के 17 जुलाई, 2026 को हरियाणा,…"
+    }
+  ]
+}

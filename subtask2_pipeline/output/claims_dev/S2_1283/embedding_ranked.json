@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/1283",
+    "text": "मक्का मस्जिद मामला: बीजेपी ने कांग्रेस पर बोला हमला, कहा- राहुल, सोनिया को देश से माफी मांगनी चाहिए",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Mecca Masjid blast case: BJP demands apology from Congress",
+      "url": "https://www.thehindu.com/news/national/telangana/mecca-masjid-blast-case-bjp-demands-apology-from-congress/article23564166.ece",
+      "snippet": "The BJP demanded an apology from the Congress, Rahul Gandhi and Sonia Gandhi, for “defaming Hindus'' while the Opposition party, in turn, questioned the",
+      "bm25_score_raw": 2.098058751199579,
+      "bm25_score_norm": 0.28144590407205256,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.9300553798675537,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Mecca Masjid verdict: BJP says Sonia, Rahul Gandhi should ...",
+      "url": "https://www.financialexpress.com/india-news/mecca-masjid-verdict-bjp-says-sonia-rahul-gandhi-should-apologise-for-hindu-terror-remarks-congress-hits-back/1134782",
+      "snippet": "BJP says Sonia, Rahul Gandhi should apologise for Hindu terror remarks, president Rahul Gandhi and his predecessor Sonia Gandhi apologise for",
+      "bm25_score_raw": 1.4662500497292532,
+      "bm25_score_norm": 0.17870813073912536,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.9299149513244629,
+      "embedding_score_norm": 0.9989305366291205,
+      "embedding_rank": 2
+    },
+    {
+      "title": "BJP cites Wikileaks, demands apology from Rahul, Sonia ...",
+      "url": "https://www.thestatesman.com/india/bjp-cites-wikileaks-demands-apology-from-rahul-sonia-for-saffron-terror-remark-1502623486.html",
+      "snippet": "demands apology from Rahul, Sonia for 'saffron terror' all five accused in the Mecca Masjid blast case. chief Sonia Gandhi for “defaming Hindus",
+      "bm25_score_raw": 1.5209055615625542,
+      "bm25_score_norm": 0.18759560818769058,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.9155399799346924,
+      "embedding_score_norm": 0.8894548914331263,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Amit Shah seeks apology from Rahul Gandhi over 'Congress ...",
+      "url": "https://timesofindia.indiatimes.com/india/amit-shah-seeks-apology-from-rahul-gandhi-over-congress-coined-term-saffron-terror/articleshow/63814920.cms",
+      "snippet": "The Congress had reacted in reply to the BJP attack over it following acquittal of right-wing activist Aseemanand and four others in the 2007 Mecca Masjid blast",
+      "bm25_score_raw": 1.5600714411902818,
+      "bm25_score_norm": 0.1939643322242765,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.904655933380127,
+      "embedding_score_norm": 0.8065651251444638,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Rahul Gandhi should apologise for terming blast in Mecca ...",
+      "url": "https://www.youtube.com/watch?v=A8q94_9iyH8",
+      "snippet": "The Congress termed blast in Mecca Masjid as Saffron or Hindu terror. Terror does not have a religion. Now that all the accused have been",
+      "bm25_score_raw": 1.4155487574356647,
+      "bm25_score_norm": 0.17046364492684848,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.8874168992042542,
+      "embedding_score_norm": 0.6752776020052892,
+      "embedding_rank": 5
+    },
+    {
+      "title": "#MeccaMasjidVerdict! BJP demanded that Congress president ...",
+      "url": "https://www.facebook.com/thefinancialexpress/posts/meccamasjidverdictbjp-demanded-that-congress-president-rahulgandhi-and-his-prede/2069475729761646",
+      "snippet": "#MeccaMasjidVerdict!\n\nBJP demanded that Congress president #RahulGandhi and his predecessor #SoniaGandhi apologise for terms such as \"saffron terror\" and",
+      "bm25_score_raw": 1.4910573990346987,
+      "bm25_score_norm": 0.18274202869590003,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.886022686958313,
+      "embedding_score_norm": 0.664659682774286,
+      "embedding_rank": 6
+    },
+    {
+      "title": "मक्का मस्जिद ब्लास्ट: कांग्रेस- बीजेपी का संग्राम!",
+      "url": "https://www.aajtak.in/india/video/bjp-sambit-patra-rahul-gandhi-sonia-gandhi-apologize-hindu-community-619131-2018-04-17",
+      "snippet": "बीजेपी भगवा आतंकवाद के मुद्दे पर आज कांग्रेस पर काफी आक्रमक दिखाई दी. मक्का मस्जिद ब्लास्ट केस में असीमानंद और बाकी आरोपियों के बरी होने के बाद बीजेपी ने प्रेस कॉन्फ्रेंस कर कांग्रेस पर हमला बोला और कहा कि",
+      "bm25_score_raw": 6.516966379392434,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8682352304458618,
+      "embedding_score_norm": 0.5291955329477334,
+      "embedding_rank": 7
+    },
+    {
+      "title": "Rahul Gandhi, party never used the term 'saffron terror'",
+      "url": "https://indianexpress.com/article/india/mecca-masjid-blast-case-bjp-congress-rahul-gandhi-saffron-terror-hindu-terror-5139831",
+      "snippet": "Rahul Gandhi and Sonia Gandhi apologise for terms such as “saffron terror” and “Hindu terror”.",
+      "bm25_score_raw": 0.3672448020820488,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.8570847511291504,
+      "embedding_score_norm": 0.44427669141805576,
+      "embedding_rank": 8
+    },
+    {
+      "title": "मक्का मस्जिद ब्लास्ट केस: बीजेपी बोली 'भगवा आतंकवाद' पर ...",
+      "url": "https://navbharattimes.indiatimes.com/india/sonia-rahul-should-apologize-over-saffron-terror-remark-says-sambit-patra/articleshow/63783290.cms",
+      "snippet": "2007 के मक्का मस्जिद ब्लास्ट केस में सभी आरोपियों के बरी हो जाने के बाद भारतीय जनता पार्टी ने कांग्रेस पर निशाना साधा है। बीजेपी नेता संबिता पात्रा ने कहा है कि पी चिदंबरम और सुशील शिंदे जैसे नेताओं ने 'भगवा",
+      "bm25_score_raw": 5.45801868105329,
+      "bm25_score_norm": 0.8278055868014954,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.854817271232605,
+      "embedding_score_norm": 0.42700821707382836,
+      "embedding_rank": 9
+    },
+    {
+      "title": "मक्का मस्जिद ब्लास्ट: बीजेपी का हमला- वोटों के लिए कांग्रेस ने ...",
+      "url": "https://www.jansatta.com/national/after-mecca-masjid-blast-verdict-bjp-demands-apology-from-sonia-and-rahul-gandhi/633216",
+      "snippet": "मक्‍का मस्जिद धमाका मामले में विशेष अदालत ने स्‍वामी असीमानंद समेत सभी आरोपियों को बरी कर दिया है। एनआईए पर्याप्‍त सबूत पेश करने में विफल रही। भाजपा प्रवक्‍ता संबित पात्रा ने हिंदुओं को बदनाम करने के",
+      "bm25_score_raw": 3.927361241010796,
+      "bm25_score_norm": 0.5789069300411782,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8536726236343384,
+      "embedding_score_norm": 0.4182909103784248,
+      "embedding_rank": 10
+    },
+    {
+      "title": "Sonia Gandhi का सरकार पर नया हमला, PM Modi ! Rahul Gandhi ...",
+      "url": "https://www.youtube.com/watch?v=uvppoetmlpw",
+      "snippet": "Sonia Gandhi का सरकार पर नया हमला, सितंबर में रिटायर हो जाएंगे Modi ! Rahul Gandhi | BJP| #dblive #biharelection2025 #tejashwiyadav #nitishkumar",
+      "bm25_score_raw": 1.3716745496226945,
+      "bm25_score_norm": 0.16332930441054844,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.8372039794921875,
+      "embedding_score_norm": 0.29287045602898626,
+      "embedding_rank": 11
+    },
+    {
+      "title": "सोनिया-राहुल के किचन में झाँकिए...बीजेपी-कांग्रेस का फर्क बता दिया!",
+      "url": "https://www.satyahindi.com/politics/sonia-rahul-gandhi-kitchen-video-orange-marmalade-recipe-137805.html",
+      "snippet": "सोनिया और राहुल गांधी ने 2024 की पूर्व संध्या पर क्या संदेश देने की कोशिश की? क्या किचेन से भी उन्होंने राजनीतिक संदेश दिया? सोनिया-राहुल के किचेन में देखिए क्या पक रहा है....।",
+      "bm25_score_raw": 4.4204162827357365,
+      "bm25_score_norm": 0.6590821112305323,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.7987478971481323,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

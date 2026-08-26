@@ -1,0 +1,131 @@
+{
+  "claim": {
+    "id": "S2/T/CM/1053",
+    "text": "bhai yeh saale yeha pe ake us ko galiya deta agar isko us ka visa milgaya to us jake apne saare kandan ko us leke jata aur citizenship leke pakistan ke passport ko phad ke phekdeta 100 jitne mere sir me baal hai utne pakistanio ko maine dheka us me",
+    "lang": "codemix"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "US Citizen Harassed by Ex-Husband in Pakistan: Seeking Help",
+      "url": "https://www.facebook.com/groups/vakeelonline/posts/1364212098157755",
+      "snippet": "I am a US Citizen born and am being harassed by my ex husband in Pakistan. he started abusing me verbally and mentally and so did his mother.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.8671334981918335,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "A viral video shows a man tearing his Pakistan passport and shouting “F* ...",
+      "url": "https://www.instagram.com/reel/DTs1jQTkrSM",
+      "snippet": "A viral video shows a man tearing his Pakistan passport and shouting “F*** you, Pakistan,” accusing the army, politicians, judiciary,",
+      "bm25_score_raw": 2.9119360423096463,
+      "bm25_score_norm": 0.9027522935779814,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8605327606201172,
+      "embedding_score_norm": 0.9310298869244394,
+      "embedding_rank": 2
+    },
+    {
+      "title": "International Pakistani Con Man Apprehended | USCIS",
+      "url": "https://www.uscis.gov/newsroom/news-releases/international-pakistani-con-man-apprehended",
+      "snippet": "An official website of the United States government    Here's how you know. A **.gov** website belongs to an official government organization in the United States. U.S. Department of Homeland Security Seal, U.S. Citizenship and Immigration Services. **SEATTLE** – U.S. Citizenship and Immigration Services, in coordination with U.S. Immigration and Customs Enforcement’s Enforcement and Removal Operations Seattle, facilitated the arrest of Muhammad Chaudhry, a 52-year-old Pakistani national criminal alien. Chaudhry first entered the U.S. in 1998 on B-2 visitor visa after he lied to the U.S. government about his criminal history in Australia. Additionally, he lied about his criminal history in Australia in order to obtain a Green Card in the U.S. and has subsequently been denied citizenship twice, dating back to 2008. This fraudster not only concealed his criminal history from the U.S. government, but also falsely claimed that he was deployed to Iraq. After immigration officials determined he misrepresented his criminal history on immigration forms, he was issued a Notice to Appear by USCIS in 2008.",
+      "bm25_score_raw": 2.162442895558793,
+      "bm25_score_norm": 0.6703960029797681,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8529794812202454,
+      "embedding_score_norm": 0.8521068077017934,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Passenger Arrested At Boarding Gate In Islamabad For Using Brother's ...",
+      "url": "https://www.youtube.com/watch?v=nDorTqcbpHA",
+      "snippet": "Man Caught at Airport Trying to Fly to Europe Using His Brother's Passport | How Immigration Detected Him In this video, we reveal the full",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.8490068316459656,
+      "embedding_score_norm": 0.8105971904248243,
+      "embedding_rank": 4
+    },
+    {
+      "title": "ICE Detains Disabled Veteran With Green Card at Citizenship Interview - Newsweek",
+      "url": "https://www.newsweek.com/ice-detains-disabled-veteran-green-card-citizenship-interview-2118029",
+      "snippet": "Muhammad Zahid Chaudhry, a Pakistani native who served in the U.S. military, was detained by Immigration and Customs Enforcement (ICE) on Thursday morning during his citizenship interview in Washington state, according to Fox 13 Seattle. Chaudhry has lived in the U.S. for about 25 years, having served in the U.S. Army in the 1990s until the early 2000s, his wife Melissa Chaudhry told *The Seattle Times.* During his service, he sustained an injury that still affects his back and neck, leaving him wheelchair-bound, his wife said. On Thursday, Chaudhry went to a \"naturalization hearing\" in Tukwila, Washington, as he is reportedly already a green card holder and has been working to obtain citizenship for years, Fox 13 Seattle reported. At the time, *The Olympian* reported that Chaudhry said he didn't understand the ramifications of the Australia fraud charge and did not recall misrepresenting his citizenship on the reserve officer application.",
+      "bm25_score_raw": 1.7618017661525138,
+      "bm25_score_norm": 0.5461900818269396,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8456849455833435,
+      "embedding_score_norm": 0.7758873031017929,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Funny and fake peer baba in Pakistan | Aina Tv",
+      "url": "https://www.youtube.com/watch?v=VuK1Cw8x39I",
+      "snippet": "Most Funny and Viral peer baba in Pakistan. Brahmos Attack in Pakistan | Khan sir | Pakistani",
+      "bm25_score_raw": 3.0504663970374963,
+      "bm25_score_norm": 0.9456991830850552,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8219161033630371,
+      "embedding_score_norm": 0.5275302493940156,
+      "embedding_rank": 6
+    },
+    {
+      "title": "हास्य कवि ने पाकिस्तान को सुनाई जबरदस्त गालियाँ | श्रोताओं ने लिए ...",
+      "url": "https://www.youtube.com/watch?v=02vxNZioCVg",
+      "snippet": "हास्य कवि ने पाकिस्तान को सुनाई जबरदस्त गालियाँ | श्रोताओं ने लिए जमकर मजे | Hasya kavi sammelan. @chambalchannel800413 likes1.2K views4 years ago more. Subscribe",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.8094956278800964,
+      "embedding_score_norm": 0.3977505711075625,
+      "embedding_rank": 7
+    },
+    {
+      "title": "Brothers from India Facing Charges Related to a Marriage Fraud Scheme",
+      "url": "https://www.justice.gov/usao-wdpa/pr/brothers-india-facing-charges-related-marriage-fraud-scheme",
+      "snippet": "Two brothers residing in the Pittsburgh-area have been indicted by a federal grand jury in Pittsburgh on charges of conspiracy and visa fraud,",
+      "bm25_score_raw": 1.6303368470043793,
+      "bm25_score_norm": 0.5054336038131267,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.7980371713638306,
+      "embedding_score_norm": 0.2780228841616988,
+      "embedding_rank": 8
+    },
+    {
+      "title": "Bhai Ka Talkh Lehja || Aas Paas || Har Pal Geo",
+      "url": "https://www.youtube.com/watch?v=ps6M9hABMXE",
+      "snippet": "Top Pakistani Dramas ... Aas Paas is a story of love, sacrifice, and the struggles within the relationships we often take for granted. Bhai Ka",
+      "bm25_score_raw": 3.152127709428454,
+      "bm25_score_norm": 0.9772160095522642,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.7764103412628174,
+      "embedding_score_norm": 0.05204739258569105,
+      "embedding_rank": 9
+    },
+    {
+      "title": "Late King Shah Faisal Of Saudi Arabia Cried When Pakistan Broke ...",
+      "url": "https://www.youtube.com/watch?v=DiZYRdncQJE",
+      "snippet": "Late King Shah Faisal was the biggest ally of Pakistan in times when Pakistan needed its support the most. Shah Faisal was a just ruler and",
+      "bm25_score_raw": 3.2256202094690196,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.7743383646011353,
+      "embedding_score_norm": 0.030397620405916103,
+      "embedding_rank": 10
+    },
+    {
+      "title": "YouTube",
+      "url": "https://www.youtube.com/watch?v=OAR91Nmo5GQ",
+      "snippet": "Share your videos with friends, family, and the world.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.771429181098938,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 11
+    }
+  ]
+}

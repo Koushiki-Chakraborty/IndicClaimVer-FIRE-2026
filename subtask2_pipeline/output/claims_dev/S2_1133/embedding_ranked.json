@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/1133",
+    "text": "दिल्ली में आज ‘जन आक्रोश रैली’ को संबोधित करेंगे कांग्रेस अध्यक्ष राहुल गांधी",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Jan Aakrosh Rally: Congress President Rahul Gandhi addresses ...",
+      "url": "https://www.youtube.com/watch?v=Aqf3yf9qjLw",
+      "snippet": "April 29, 2018 | Addressing the Jan Aakrosh rally in New Delhi, Congress President Rahul Gandhi speaks of the foundation of independent",
+      "bm25_score_raw": 7.939094965018476,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9284379482269287,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Rahul Gandhi To Address <i>Jan Aakrosh</i> Rally In Delhi On April 29",
+      "url": "https://www.ndtv.com/india-news/rahul-gandhi-to-address-jan-aakrosh-rally-in-delhi-on-april-29-1844048",
+      "snippet": "Congress President Rahul Gandhi will address a public rally at the Ramlila Ground in Delhi on April 29, the party's Delhi unit chief Ajay",
+      "bm25_score_raw": 5.635004512824031,
+      "bm25_score_norm": 0.7097792050168426,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.9221608638763428,
+      "embedding_score_norm": 0.9385547124565687,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Modi Didn't Speak A Word About Doklam in China, Says Rahul Gandhi",
+      "url": "https://www.thequint.com/amp/story/news/politics/jan-aakrosh-rally-rahul-gandhi",
+      "snippet": "Congress President Rahul gandhi will address the 'Jan Aakrosh Rallly' at the Ram Lila Maidan in New Delhi on 29 April, Sunday.",
+      "bm25_score_raw": 4.034779043665455,
+      "bm25_score_norm": 0.5082164984099122,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8984889388084412,
+      "embedding_score_norm": 0.7068343529288209,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Shri Rahul Gandhi, former Congress President and MP addressed 'Jan ...",
+      "url": "https://inc.in/media/press-releases/shri-rahul-gandhi-former-congress-president-and-mp-addressed-jan-aakrosh-rally-in-shajapur-madhya-pradesh",
+      "snippet": "Shri Rahul Gandhi, former Congress President and MP addressed 'Jan Aakrosh Rally' in Shajapur | Madhya Pradesh.",
+      "bm25_score_raw": 2.2989343893004532,
+      "bm25_score_norm": 0.28957134275759394,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.890312910079956,
+      "embedding_score_norm": 0.626800628969348,
+      "embedding_rank": 4
+    },
+    {
+      "title": "दिल्ली में आज कांग्रेस की 'जन आक्रोश रैली', मोदी सरकार को घेरेंगे राहुल गांधी",
+      "url": "https://www.india.com/hindi-news/india-hindi/jan-aakrosh-rally-of-congress-today-in-delhi-rahul-gandhi-will-hit-modi-government-3026227",
+      "snippet": "दिल्ली में आज कांग्रेस की 'जन आक्रोश रैली', मोदी सरकार को घेरेंगे राहुल गांधी - पूर्व कांग्रेस अध्यक्ष सोनिया गांधी, पूर्व प्रधानमंत्री मनमोहन सिंह सहित पार्टी के शीर्ष नेता भी रैली को संबोधित करेंगे.",
+      "bm25_score_raw": 3.052549593169982,
+      "bm25_score_norm": 0.3844959163003132,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8765531778335571,
+      "embedding_score_norm": 0.4921090019049953,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Congress President Rahul Gandhi addresses 'Jan...",
+      "url": "https://x.com/INCIndia/status/990528781831102464",
+      "snippet": "Watch Congress President @RahulGandhi's spirited address to the citizens that strengthened their resolve to free the country from the clutches of an unjust",
+      "bm25_score_raw": 2.5795261764816613,
+      "bm25_score_norm": 0.3249143873259687,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8725003004074097,
+      "embedding_score_norm": 0.45243608930431206,
+      "embedding_rank": 6
+    },
+    {
+      "title": "Press conference on the #JanAakroshRally at 3 PM today ...",
+      "url": "https://www.facebook.com/cpimcc/posts/press-conference-on-the-janaakroshrally-at-3-pm-today-march-22-at-akg-bhawan-in-/1492211405603984",
+      "snippet": "Press conference on the #JanAakroshRally at 3 PM today (March 22) at AKG Bhawan in Delhi.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.8720974922180176,
+      "embedding_score_norm": 0.4484930699597121,
+      "embedding_rank": 7
+    },
+    {
+      "title": "Rahul Gandhi Live: दिल्ली से राहुल गांधी का भाषण | Delhi Election ...",
+      "url": "https://www.youtube.com/watch?v=943XjANjnZA",
+      "snippet": "rahulgandhi #congress #delhielection2025 #news24 Rahul Gandhi Live: दिल्ली से राहुल गांधी का भाषण | Delhi Election | Congress | Full Live Speech News24",
+      "bm25_score_raw": 2.1948606311999717,
+      "bm25_score_norm": 0.2764623223265429,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8613453507423401,
+      "embedding_score_norm": 0.34324222613140093,
+      "embedding_rank": 8
+    },
+    {
+      "title": "Taal ThoK Ke LIVE : दिल्ली में राहुल गांधी का मार्च शुरू, देखें LIVE | Rahul ...",
+      "url": "https://www.youtube.com/watch?v=nU0V0k3QSKk",
+      "snippet": "Taal ThoK Ke LIVE : दिल्ली में राहुल गांधी का मार्च शुरू, देखें LIVE | Rahul Gandhi - राहुल गांधी और मल्लिकार्जुन खरगे का प्रतीकात्मक 'हथकड़ी' प्रदर्शन - PM आवास के बाहर सुरक्षा बढ़ाई गई",
+      "bm25_score_raw": 1.3436533151781511,
+      "bm25_score_norm": 0.16924514961700352,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.8454511165618896,
+      "embedding_score_norm": 0.1876563306815099,
+      "embedding_rank": 9
+    },
+    {
+      "title": "राहुल गांधी को धरना स्थल से उठाकर ले गई पुलिस #RahulGandhi #DelhiPolice # ...",
+      "url": "https://www.instagram.com/p/DbDqrJOCOLq",
+      "snippet": "Rahul Gandhi ne Delhi Police ko chetavni de di hai ki is desh mein shaantipoorn protest karna har vyakti ka adhikaar hai.",
+      "bm25_score_raw": 1.2274414937435818,
+      "bm25_score_norm": 0.15460723157387316,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.8420804738998413,
+      "embedding_score_norm": 0.1546616955916717,
+      "embedding_rank": 10
+    },
+    {
+      "title": "Breaking News: दिल्ली में राहुल गांधी के आवास के बाहर प्रदर्शन! | BJP ...",
+      "url": "https://www.youtube.com/watch?v=nDhYHkWRjSs",
+      "snippet": "Breaking News: दिल्ली में राहुल गांधी के आवास के बाहर प्रदर्शन! | BJP Protests Outside Rahul | Delhi दिल्ली Breaking: राहुल गांधी आवास के बाहर BJP का धमाकेदार प्रदर्शन!",
+      "bm25_score_raw": 1.204751892724356,
+      "bm25_score_norm": 0.15174927344146616,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.8273178935050964,
+      "embedding_score_norm": 0.010153362331270803,
+      "embedding_rank": 11
+    },
+    {
+      "title": "छात्र, किसान और विपक्ष अब राहुल गांधी भी मैदान में उतर चुके हैं।",
+      "url": "https://www.facebook.com/newgindia/videos/%E0%A4%9B%E0%A4%BE%E0%A4%A4%E0%A5%8D%E0%A4%B0-%E0%A4%95%E0%A4%BF%E0%A4%B8%E0%A4%BE%E0%A4%A8-%E0%A4%94%E0%A4%B0-%E0%A4%B5%E0%A4%BF%E0%A4%AA%E0%A4%95%E0%A5%8D%E0%A4%B7-%E0%A4%85%E0%A4%AC-%E0%A4%B0%E0%A4%BE%E0%A4%B9%E0%A5%81%E0%A4%B2-%E0%A4%97%E0%A4%BE%E0%A4%82%E0%A4%A7%E0%A5%80-%E0%A4%AD%E0%A5%80-%E0%A4%AE%E0%A5%88%E0%A4%A6%E0%A4%BE%E0%A4%A8-%E0%A4%AE%E0%A5%87%E0%A4%82-%E0%A4%89%E0%A4%A4%E0%A4%B0-%E0%A4%9A%E0%A5%81%E0%A4%95%E0%A5%87-%E0%A4%B9%E0%A5%88%E0%A4%82/4580452635523905",
+      "snippet": "छात्र, किसान और विपक्ष अब राहुल गांधी भी मैदान में हैं। दिल्ली में विरोध प्रदर्शन के बीच राजनीतिक हलचल तेज हो गई है। राहुल गांधी के नेतृत्व में विपक्ष",
+      "bm25_score_raw": 0.2914207380036075,
+      "bm25_score_norm": 0.03670704775389084,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.8262806534767151,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

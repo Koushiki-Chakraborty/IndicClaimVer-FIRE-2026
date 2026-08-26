@@ -1,0 +1,76 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1072",
+    "text": "Hyderabad School Parents Association Moves Contempt Petition In High Court Over Education Dept's Alleged Inaction In Regulating Private School Fees",
+    "lang": "english"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Hyderabad School Parents Association Moves Contempt Petition In High Court Over Education Dept's Alleged Inaction In Regulating Private School Fees",
+      "url": "https://www.livelaw.in/high-court/telangana-high-court/telangana-high-court-contempt-private-schools-fee-regulation-232692",
+      "snippet": "# Hyderabad School Parents Association Moves Contempt Petition In High Court Over Education Dept's Alleged Inaction In Regulating Private School Fees. ###### Fareedunnisa Huma. 14 July 2023 9:30 AM IST. Hyderabad School Parents Association (HSPA) has moved a contempt petition before the Telangana High Court seeking action against the Secretary to State's School Education Department for allegedly wilful non-compliance of its orders for regulation of tuition fee imposed by Private unaided schools. A Division Bench of Justices Abhinand Kumar Shavili and Namavarapu Rajeshwar Rao admitted the... # This is a premium content Available exclusively to Our subscribers. ### INR 1099+GST. Your support helps us to bring you more content at. ##### Tags.",
+      "bm25_score_raw": 10.270140634848026,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9560219645500183,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Tired of government inaction over high fees, Hyderabad School Parents Association files contempt case - The South First | News, Politics, Sports, Entertainment & Live Updates",
+      "url": "https://thesouthfirst.com/telangana/tired-of-government-inaction-over-high-fees-hyderabad-school-parents-association-files-contempt-case",
+      "snippet": "# Tired of government inaction over high fees, Hyderabad School Parents Association files contempt case. ## The HSPA said the government did not comply with Telangana High Court's last-year order for legislation to curb exorbitant fee hikes. Tired of Telangana government's inaction over excess school fees, Hyderabad School Parents Association files a contempt case. In this academic year, the school has increased fees by 25 percent for Class 7 and 10 percent for Class 3. A similar issue is in the spotlight now, as the Hyderabad Schools Parents Association (HSPA) on Saturday, 8 July, saying that it has filed a “contempt case” against the Telangana government for not complying with a high court order from 11 March, 2022. On 11 March, 2022, the Telangana High Court disposed of a writ petition filed by the HSPA, who were anguished by the huge sum of school fees charged by various unaided private schools in the state.",
+      "bm25_score_raw": 5.266894989996855,
+      "bm25_score_norm": 0.24181187332788137,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.9282601475715637,
+      "embedding_score_norm": 0.6697765334214372,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Hyderabad School Parents Association warns of contempt case against state government over school fee",
+      "url": "https://www.newindianexpress.com/cities/hyderabad/2019/Aug/20/hyderabad-school-parents-association-warns-of-contempt-case-against-state-government-over-school-fee-issue-2021862.html",
+      "snippet": "# Hyderabad School Parents Association warns of contempt case against state government over school fee issue. HYDERABAD:  Unhappy that the government has put the school fee regulation issue on the back burner, parents allege that it has also ignored the directives passed by the Telangana High Court on the issue of fee collection, amounting to contempt of court. They have demanded urgent corrective action from the government and said that failure to do so might force the Hyderabad School Parents Association (HSPA) to initiate proceedings for contempt of court against the government. In its 2018 order, the HC allowed schools to increase the fees for the academic year 2018-19 but directed them to adhere to two conditions — deposit the increased fee in a separate bank account, and amount will not be withdrawn until further orders. “The schools have issued fee challans for term 2 also, and yet, we have not seen any action from the government,” said Pavan Reddy, member of the association.",
+      "bm25_score_raw": 4.75974621690006,
+      "bm25_score_norm": 0.1649589251593211,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.9212458729743958,
+      "embedding_score_norm": 0.5863425825813903,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Hyderabad parents’ association moves HC, wants school fees regulated",
+      "url": "https://www.thenewsminute.com/telangana/hyderabad-parents-association-moves-hc-wants-school-fees-regulated-155754",
+      "snippet": "The Hyderabad School Parents’ Association (HSPA) has filed a petition in the Telangana High Court seeking a regulatory mechanism for fee structure in private unaided schools in the state. While the Telangana government has issued orders directing private schools to not hike school fees in the coming academic year 2021-22 and to only collect tuition fees on a monthly basis, the petitioners complained that schools were arbitrarily including various other fees in the name of tuition fees, and thus continuing to charge exorbitant fees. The petition also mentioned steps taken in this direction by the neighbouring state of Andhra Pradesh, where the School Education Regulatory and Monitoring Commission (APSERMC) has fixed the fee structure for private schools and junior colleges for the next three academic years. The Telangana government had issued orders earlier in June, directing all private unaided recognised schools to not increase fees and to collect only tuition fees on a monthly basis for the academic year 2021-22 until further orders.",
+      "bm25_score_raw": 4.8761647325191575,
+      "bm25_score_norm": 0.18260090049547664,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.9142420887947083,
+      "embedding_score_norm": 0.5030334139927697,
+      "embedding_rank": 4
+    },
+    {
+      "title": "HSPA threatens to drag govt to court",
+      "url": "https://www.thehansindia.com/telangana/hspa-threatens-to-drag-govt-to-court-556882",
+      "snippet": "The Hyderabad School Parents Association (HSPA) on Tuesday alleged that the State government has been wilfully ignoring the directions of the State High Court in regard to private schools collecting “excess fees.”. Hyderabad: The Hyderabad School Parents Association (HSPA) on Tuesday alleged that the State government has been wilfully ignoring the directions of the State High Court in regard to private schools collecting \"excess fees.\". In a letter to Education Secretary B Janardhan Reddy, the HSPA said the Telangana High Court had given directions to the State government, but it failed to implement the same. However, the High Court, however, filed by the Schools' Association had allowed the schools to increase the fees strictly subject to two conditions. However, in complete disregard to the above orders and conditions set by the Court, the schools had not only continued to increase the fees but also had not deposited the same in separate bank accounts, he said. * Entertainment19 July 2026 8:30 PM IST.",
+      "bm25_score_raw": 5.721943947600796,
+      "bm25_score_norm": 0.31076965417657587,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.9038769006729126,
+      "embedding_score_norm": 0.37974075069286056,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Telangana HC raps education secretary over court absence",
+      "url": "https://www.siasat.com/telangana-hc-raps-education-secretary-over-court-absence-3496549",
+      "snippet": "# Telangana HC raps education secretary over court absence. ## Secretary Yogita Rana tenders an unconditional apology after appearing virtually, citing a communication lapse; Telangana HC directs implementation of its 2023 order. **Hyderabad:** The Telangana High Court on Thursday, June 25, expressed strong displeasure over the absence of Education Department secretary Yogita Rana, despite being served notices directing her to appear in a contempt of court case. The contempt petition was filed by Hyderabad resident Syed Mehboob, alleging that the state government had failed to implement the High Court’s 2023 order regarding a compassionate appointment. Later, Yogita Rana, who was in Nizamabad, appeared before the court virtually and explained that the absence was due to a communication gap. The High Court directed the authorities to implement its earlier orders and instructed the Education Secretary to file a counter-affidavit in the contempt petition. Contempt of court education Telangana Telangana High Court.",
+      "bm25_score_raw": 3.6711904945817913,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8719521760940552,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6
+    }
+  ]
+}

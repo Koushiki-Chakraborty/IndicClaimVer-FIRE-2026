@@ -1,0 +1,57 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1192",
+    "text": "Second Wife Can't Maintain Complaint Against Husband And In-Laws U/S 498A IPC: Karnataka High Court",
+    "lang": "english"
+  },
+  "ranked_evidence": [
+    {
+      "title": "Second Wife Can't Maintain Complaint Against Husband And In- ...",
+      "url": "https://www.livelaw.in/amp/high-court/karnataka-high-court/karnataka-high-court-section-498a-ipc-complaint-second-wife-not-maintainable-against-husband-233464",
+      "snippet": "The Karnataka High Court has said that a complaint under Section 498-A (cruelty) of the Indian Penal Code, filed by the second wife against the husband and her",
+      "bm25_score_raw": 10.778392563483939,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Wife files 498A case on Husband alleging he takes care of pet cat ...",
+      "url": "https://www.facebook.com/DeepikaNarayanBhardwaj/posts/wife-files-498a-case-on-husband-alleging-he-takes-care-of-pet-cat-more-than-herk/1166579008164143",
+      "snippet": "KARNATAKA HIGH COURT IMPOSES COST OF RS. 25,000/- UPON WIFE FOR FILING FALSE CASE AGAINST HUSBAND UNDER SECTION 498A OF IPC October 24, 2019",
+      "bm25_score_raw": 5.7492834309415235,
+      "bm25_score_norm": 0.4654704581575433,
+      "bm25_rank": 2
+    },
+    {
+      "title": "498A Misuse | Neighbour Can't Be Booked: Karnataka HC",
+      "url": "https://www.shoneekapoor.com/legal-news/498a-misuse-neighbour-karnataka-hc",
+      "snippet": "The Karnataka High Court has ruled that a neighbour or stranger cannot be booked under Section 498A IPC in a marital cruelty case.",
+      "bm25_score_raw": 2.8530638490842835,
+      "bm25_score_norm": 0.15763961071226854,
+      "bm25_rank": 3
+    },
+    {
+      "title": "Stranger can't be booked under Section 498A of IPC that deals with ...",
+      "url": "https://www.thehindu.com/news/national/karnataka/stranger-cant-be-booked-under-section-498a-of-ipc-that-deals-with-offence-of-cruelty-against-woman-only-by-her-relatives-karnataka-hc/article70486886.ece/amp",
+      "snippet": "Karnataka HC rules strangers cannot be charged under IPC Section 498A, limiting cruelty claims to relatives only. High Court of Karnataka.",
+      "bm25_score_raw": 2.588248558521319,
+      "bm25_score_norm": 0.12949315530497885,
+      "bm25_rank": 4
+    },
+    {
+      "title": "“Ordinary Wear and Tear of Marriage Is Not Cruelty”: Karnataka HC on 498A ...",
+      "url": "https://lawbeat.in/amp/news-updates/ordinary-wear-and-tear-of-marriage-is-not-cruelty-karnataka-high-court-on-498a-misuse-1555109",
+      "snippet": "Section 498A IPC is meant to address grave cruelty and not the ordinary wear and tear of married life, while quashing criminal proceedings",
+      "bm25_score_raw": 1.579482493590037,
+      "bm25_score_norm": 0.022274312304580213,
+      "bm25_rank": 5
+    },
+    {
+      "title": "A Karnataka woman allegedly married seven times and, according to court ...",
+      "url": "https://www.facebook.com/Zynoro718/posts/a-karnataka-woman-allegedly-married-seven-times-and-according-to-court-records-f/1442585717927966",
+      "snippet": "A Karnataka woman allegedly married seven times and, according to court records, filed maintenance, dowry harassment (Section 498A), and related cases",
+      "bm25_score_raw": 1.3699151289015532,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6
+    }
+  ]
+}

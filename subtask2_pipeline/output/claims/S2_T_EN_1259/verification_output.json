@@ -1,0 +1,6 @@
+{
+  "ID": "S2/T/EN/1259",
+  "Evidence": "India experienced a sharp decline in Covid-19 cases, with a reported 18% drop in new infections during the first half of October 2020 compared to the previous 15-day period. The total number of cases recorded was 1,055,068, which was 18.4% less than the case count in the second half of September (Source 1). However, the claim states there were 2,568 new patients, which does not align with the reported total cases for that period, indicating a discrepancy in the figures presented (Source 1).",
+  "Prediction": "REFUTES",
+  "Justification": "The retrieved evidence indicates that India's Covid case count saw an 18% decline, but it does not support the specific claim of 2,568 new patients. Instead, it states a total of 1,055,068 cases in the first half of October, which contradicts the claim's assertion. Therefore, the evidence refutes the claim."
+}

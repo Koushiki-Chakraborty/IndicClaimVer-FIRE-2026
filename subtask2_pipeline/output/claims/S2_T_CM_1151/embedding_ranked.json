@@ -1,0 +1,76 @@
+{
+  "claim": {
+    "id": "S2/T/CM/1151",
+    "text": "kashifali a 007 chughtai islam ug seekh lay humanoid 2 life ofislam paindu1 pehlye apne madarass ko cancer se paak kar len",
+    "lang": "codemix"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "kashifali kashifali - --",
+      "url": "https://www.linkedin.com/in/kashifali-kashifali-28b9b340",
+      "snippet": "N/A connections, N/A followers\n\n\nAbout\nN/A\n\n\nExperience\nN/A\n\n\nEducation\nN/A",
+      "bm25_score_raw": 0.12459128610628535,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8554729223251343,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "kashifali Kashifali - --",
+      "url": "https://www.linkedin.com/in/kashifali-kashifali-b37381a9",
+      "snippet": "ab Emirates\nN/A connections, N/A followers\n\n\nAbout\nN/A\n\n\nExperience\nN/A\n\n\nEducation\nN/A",
+      "bm25_score_raw": 0.11991586605782155,
+      "bm25_score_norm": 0.76997915218902,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8523388504981995,
+      "embedding_score_norm": 0.8996538141512531,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Kashifali Kashifali - --",
+      "url": "https://www.linkedin.com/in/kashifali-kashifali-06526394",
+      "snippet": "N/A connections, N/A followers\n\n\nAbout\nN/A\n\n\nExperience\nN/A\n\n\nEducation\nN/A",
+      "bm25_score_raw": 0.12459128610628535,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8473355174064636,
+      "embedding_score_norm": 0.7394579347933954,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Kashifali kashifali",
+      "url": "https://pk.linkedin.com/in/kashifali-kashifali-77735b3a0",
+      "snippet": "Ali\nLahore, Punjab, Pakistan\nN/A connections, N/A followers\n\n\nAbout\nN/A\n\n\nExperience\nN/A\n\n\nEducation\nN/A",
+      "bm25_score_raw": 0.11991586605782155,
+      "bm25_score_norm": 0.76997915218902,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8470404148101807,
+      "embedding_score_norm": 0.7300093893846518,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Kashifali Kashifali",
+      "url": "https://pk.linkedin.com/in/kashifali-kashifali-4558a6298",
+      "snippet": "indi, Punjab, Pakistan\nN/A connections, N/A followers\n\n\nAbout\nN/A\n\n\nExperience\nN/A\n\n\nEducation\nHACK A BOSS\nN/A\n2022-10 - 2026-10\nNone",
+      "bm25_score_raw": 0.10778196830556229,
+      "bm25_score_norm": 0.17301686445971282,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8460947871208191,
+      "embedding_score_norm": 0.6997324407056542,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Kashifali Kashifali - -- - EPAM Anywhere",
+      "url": "https://www.linkedin.com/in/kashifali-kashifali-47a452245",
+      "snippet": "N/A connections, N/A followers\n\n\nAbout\nN/A\n\n\nExperience\nUsa jibs\n[EPAM Anywhere](https://www.linkedin.com/company/epam-systems)  \nN/A - Present\nN/A\n\n\n\nEducation\nN/A",
+      "bm25_score_raw": 0.10426521526115119,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8242403268814087,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6
+    }
+  ]
+}

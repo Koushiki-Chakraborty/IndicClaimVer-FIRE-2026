@@ -1,0 +1,108 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1120",
+    "text": "Supreme Court allows mandatory vaccination during Covid surge",
+    "lang": "english"
+  },
+  "generated_queries": {
+    "english_translation": "Supreme Court allows mandatory vaccination during Covid surge",
+    "native_query": "Supreme Court Covid mandatory vaccination surge",
+    "english_query": "Supreme Court Covid mandatory vaccination surge"
+  },
+  "native_retrieval": [
+    {
+      "title": "Will the Supreme Court reenter the vaccine wars? | SCOTUSblog",
+      "url": "https://www.scotusblog.com/2025/08/supreme-court-covid-vaccine-mandates",
+      "snippet": "Hochul* centers on a New York state mandate issued in 2021 – but since repealed – that required employees at hospitals and nursing homes to be vaccinated against COVID-19 if they could expose patients, residents, or other employees to the virus if infected. The case was brought by a group of unnamed workers who, for religious reasons, refused to comply with the mandate and were then terminated. In their petition to the Supreme Court, the workers argue that the U.S. Court of Appeals for the 2nd Circuit, in holding in December 2024 that employers could refuse to accommodate their faith-based objections to vaccination, wrongly allowed a state policy to preempt Title VII. The case was brought by teachers and school administrators who were denied religious accommodations under a since-repealed New York City mandate requiring public-education employees to be vaccinated against COVID-19."
+    },
+    {
+      "title": "Supreme Court Rules on COVID-19 Vaccine Mandates - APIC",
+      "url": "https://apic.org/public-policy-updates/supreme-court-rules-on-covid-19-vaccine-mandates",
+      "snippet": "The U.S. Supreme Court ruled in two different cases to uphold the CMS COVID-19 vaccination mandate for healthcare personnel and to strike down"
+    },
+    {
+      "title": "How the Supreme Court's COVID-19 Vaccine Mandate Rulings ...",
+      "url": "https://jamanetwork.com/journals/jama/fullarticle/2788486",
+      "snippet": "This Medical News article discusses the Supreme Court's recent decision to allow federally mandated COVID-19 vaccinations for health care"
+    },
+    {
+      "title": "US Supreme Court blocks federal Covid-19 vaccine ... - YouTube",
+      "url": "https://www.youtube.com/watch?v=anCH8P-tSPo",
+      "snippet": "In a blow to the Biden administration, the US Supreme Court has blocked its federal Covid-19 vaccine mandate for large businesses."
+    },
+    {
+      "title": "Supreme Court rejects legal battle over New York's COVID-19 ...",
+      "url": "https://www.cbsnews.com/news/supreme-court-new-york-covid-19-vaccine-mandate-healthcare-workers",
+      "snippet": "The vaccine requirement was repealed as of October 2023 after the Biden administration ended the federal COVID-19 public health emergency. A"
+    },
+    {
+      "title": "Supreme Court hears arguments on COVID-19 vaccine mandates ...",
+      "url": "https://www.youtube.com/watch?v=D5fSVWklG6c",
+      "snippet": "Stream your PBS favorites with the PBS app: https://to.pbs.org/2Jb8twG Find more from PBS NewsHour at https://www.pbs.org/newshour Subscribe"
+    }
+  ],
+  "english_retrieval": [
+    {
+      "title": "Will the Supreme Court reenter the vaccine wars? | SCOTUSblog",
+      "url": "https://www.scotusblog.com/2025/08/supreme-court-covid-vaccine-mandates",
+      "snippet": "Hochul* centers on a New York state mandate issued in 2021 – but since repealed – that required employees at hospitals and nursing homes to be vaccinated against COVID-19 if they could expose patients, residents, or other employees to the virus if infected. The case was brought by a group of unnamed workers who, for religious reasons, refused to comply with the mandate and were then terminated. In their petition to the Supreme Court, the workers argue that the U.S. Court of Appeals for the 2nd Circuit, in holding in December 2024 that employers could refuse to accommodate their faith-based objections to vaccination, wrongly allowed a state policy to preempt Title VII. The case was brought by teachers and school administrators who were denied religious accommodations under a since-repealed New York City mandate requiring public-education employees to be vaccinated against COVID-19."
+    },
+    {
+      "title": "Supreme Court Rules on COVID-19 Vaccine Mandates - APIC",
+      "url": "https://apic.org/public-policy-updates/supreme-court-rules-on-covid-19-vaccine-mandates",
+      "snippet": "The U.S. Supreme Court ruled in two different cases to uphold the CMS COVID-19 vaccination mandate for healthcare personnel and to strike down"
+    },
+    {
+      "title": "How the Supreme Court's COVID-19 Vaccine Mandate Rulings ...",
+      "url": "https://jamanetwork.com/journals/jama/fullarticle/2788486",
+      "snippet": "This Medical News article discusses the Supreme Court's recent decision to allow federally mandated COVID-19 vaccinations for health care"
+    },
+    {
+      "title": "US Supreme Court blocks federal Covid-19 vaccine ... - YouTube",
+      "url": "https://www.youtube.com/watch?v=anCH8P-tSPo",
+      "snippet": "In a blow to the Biden administration, the US Supreme Court has blocked its federal Covid-19 vaccine mandate for large businesses."
+    },
+    {
+      "title": "Supreme Court rejects legal battle over New York's COVID-19 ...",
+      "url": "https://www.cbsnews.com/news/supreme-court-new-york-covid-19-vaccine-mandate-healthcare-workers",
+      "snippet": "The vaccine requirement was repealed as of October 2023 after the Biden administration ended the federal COVID-19 public health emergency. A"
+    },
+    {
+      "title": "Supreme Court hears arguments on COVID-19 vaccine mandates ...",
+      "url": "https://www.youtube.com/watch?v=D5fSVWklG6c",
+      "snippet": "Stream your PBS favorites with the PBS app: https://to.pbs.org/2Jb8twG Find more from PBS NewsHour at https://www.pbs.org/newshour Subscribe"
+    }
+  ],
+  "merged_results": [
+    {
+      "title": "Will the Supreme Court reenter the vaccine wars? | SCOTUSblog",
+      "url": "https://www.scotusblog.com/2025/08/supreme-court-covid-vaccine-mandates",
+      "snippet": "Hochul* centers on a New York state mandate issued in 2021 – but since repealed – that required employees at hospitals and nursing homes to be vaccinated against COVID-19 if they could expose patients, residents, or other employees to the virus if infected. The case was brought by a group of unnamed workers who, for religious reasons, refused to comply with the mandate and were then terminated. In their petition to the Supreme Court, the workers argue that the U.S. Court of Appeals for the 2nd Circuit, in holding in December 2024 that employers could refuse to accommodate their faith-based objections to vaccination, wrongly allowed a state policy to preempt Title VII. The case was brought by teachers and school administrators who were denied religious accommodations under a since-repealed New York City mandate requiring public-education employees to be vaccinated against COVID-19."
+    },
+    {
+      "title": "Supreme Court Rules on COVID-19 Vaccine Mandates - APIC",
+      "url": "https://apic.org/public-policy-updates/supreme-court-rules-on-covid-19-vaccine-mandates",
+      "snippet": "The U.S. Supreme Court ruled in two different cases to uphold the CMS COVID-19 vaccination mandate for healthcare personnel and to strike down"
+    },
+    {
+      "title": "How the Supreme Court's COVID-19 Vaccine Mandate Rulings ...",
+      "url": "https://jamanetwork.com/journals/jama/fullarticle/2788486",
+      "snippet": "This Medical News article discusses the Supreme Court's recent decision to allow federally mandated COVID-19 vaccinations for health care"
+    },
+    {
+      "title": "US Supreme Court blocks federal Covid-19 vaccine ... - YouTube",
+      "url": "https://www.youtube.com/watch?v=anCH8P-tSPo",
+      "snippet": "In a blow to the Biden administration, the US Supreme Court has blocked its federal Covid-19 vaccine mandate for large businesses."
+    },
+    {
+      "title": "Supreme Court rejects legal battle over New York's COVID-19 ...",
+      "url": "https://www.cbsnews.com/news/supreme-court-new-york-covid-19-vaccine-mandate-healthcare-workers",
+      "snippet": "The vaccine requirement was repealed as of October 2023 after the Biden administration ended the federal COVID-19 public health emergency. A"
+    },
+    {
+      "title": "Supreme Court hears arguments on COVID-19 vaccine mandates ...",
+      "url": "https://www.youtube.com/watch?v=D5fSVWklG6c",
+      "snippet": "Stream your PBS favorites with the PBS app: https://to.pbs.org/2Jb8twG Find more from PBS NewsHour at https://www.pbs.org/newshour Subscribe"
+    }
+  ]
+}

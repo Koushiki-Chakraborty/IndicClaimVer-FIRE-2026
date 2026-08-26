@@ -1,0 +1,105 @@
+{
+  "claim": {
+    "id": "S2/1398",
+    "text": "বেতন বৃদ্ধির দাবিতে পুরপ্রধানকে দেখে 'জয় তৃণমূল' স্লোগান দেন দলীয় কর্মীরা।",
+    "lang": "dev"
+  },
+  "ranked_evidence": [
+    {
+      "title": "We dedicate our victory to the people of Bengal: Mamata Banerjee",
+      "url": "https://aitcofficial.org/we-dedicate-our-victory-to-the-people-of-bengal-mamata-banerjee",
+      "snippet": "She dedicated the victory to the people of Bengal and urged party workers ... She said Trinamool workers will dedicate the huge victory in municipal polls",
+      "bm25_score_raw": 7.588047822464518,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "According to reports, BJP workers raised slogans outside Mamata ...",
+      "url": "https://www.instagram.com/reel/DX9UDQChWUw",
+      "snippet": "Trinamool Congress workers were being “terrorised” through false cases and intimidation, further escalating the ongoing political confrontation",
+      "bm25_score_raw": 3.648469637325675,
+      "bm25_score_norm": 0.4808179551167734,
+      "bm25_rank": 2
+    },
+    {
+      "title": "Trinamool Congress MP Mahua Moitra on Wednesday alleged that ...",
+      "url": "https://www.facebook.com/thetelegraphindia/posts/trinamool-congress-mp-mahua-moitra-on-wednesday-alleged-that-bjp-workers-hurled-/1466141945544290",
+      "snippet": "Trinamool Congress MP Mahua Moitra on Wednesday alleged that BJP workers hurled eggs and raised slogans against her during a protest outside",
+      "bm25_score_raw": 3.467449004495113,
+      "bm25_score_norm": 0.4569619335067556,
+      "bm25_rank": 3
+    },
+    {
+      "title": "Former Chief Minister and TMC supremo Mamata Banerjee has ...",
+      "url": "https://www.instagram.com/reel/DZr6MNxpNvV?hl=en",
+      "snippet": "Supporters marched through key city streets, raising slogans and demanding measures to protect small traders. Videos and images from the protest",
+      "bm25_score_raw": 2.4331567740870526,
+      "bm25_score_norm": 0.3206564891280283,
+      "bm25_rank": 4
+    },
+    {
+      "title": "BJP workers raise slogans outside TMC office in Kolkata amid political ...",
+      "url": "https://www.facebook.com/oneindianews/posts/bjp-workers-raise-slogans-outside-tmc-office-in-kolkata-amid-political-tensionwe/1282743690672642",
+      "snippet": "The TMC accused BJP supporters of orchestrating the attacks, calling it post-poll violence linked to the party's landslide victory.",
+      "bm25_score_raw": 0.7597202151372974,
+      "bm25_score_norm": 0.10012064142349437,
+      "bm25_rank": 5
+    },
+    {
+      "title": "The Trinamool Congress (TMC) clarified that Jahangir Khan's ...",
+      "url": "https://www.instagram.com/p/DYi4RvImH70?hl=en",
+      "snippet": "The gathering echoed with slogans such as \"We Are Not Traitors\" and \"Struggle, Struggle, We Want to Struggle and Live Through Struggle,\"",
+      "bm25_score_raw": 0.7597202151372974,
+      "bm25_score_norm": 0.10012064142349437,
+      "bm25_rank": 6
+    },
+    {
+      "title": "বাংলা বর্ণমালা শিক্ষা ব্যঞ্জনবর্ন//ক খ গ ঘ ঙ চ ছ জ ঝ ঞ ট ঠ ড ঢ ণ ত থ দ ধ ন প ফ ব ভ ম ...",
+      "url": "https://www.youtube.com/watch?v=Sm9Xm5AqYXI",
+      "snippet": "বাংলা বর্ণমালা শিক্ষা অ আ ই ঈ উ ঊ ঋ এ ঐ ও ঔ স্বরবর্ণ ১১ টি বর্ণ শুদ্ধ ভাবে উচ্চারণ করে শিখানো হয়েছে ক খ গ ঘ ঙ চ ছ জ ঝ ঞ ট ঠ ড ঢ ণ ত থ দ ধ ন প ফ ব ভ ম য র ল শ ষ স হ ড়",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 7
+    },
+    {
+      "title": "​বাংলা বর্ণমালা: ত থ দ ধ ন | পড়া ও লেখা শেখা | Bangla Bornomala ...",
+      "url": "https://www.youtube.com/watch?v=jiWjBxtkTVc",
+      "snippet": "এই ভিডিওতে আমরা বাংলা বর্ণমালার খুব গুরুত্বপূর্ণ পাঁচটি বর্ণ - ত, থ, দ, ধ, ন - পড়া ও লেখা শিখব। ছোটদের জন্য এই ভিডিওটি বিশেষভাবে তৈরি করা হয়েছে, যেখানে খেলার ছলে বর্ণ পরিচয় করানো হয়েছে।",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 8
+    },
+    {
+      "title": "ব্যঞ্জনবর্ন বর্ণমালা শিক্ষা ক খ গ ঘ ঙ চ ছ জ ঝ ঞ ট ঠ ড ঢ ণ ত থ দ ধ ন প ফ ব ভ ম য র ল শ ষ ...",
+      "url": "https://www.youtube.com/watch?v=LMmCJmMqa_U",
+      "snippet": "বাংলা বর্ণমালা শিক্ষা উচ্চারণ করে শিখানো হয়েছে ক খ গ ঘ ঙ চ ছ জ ঝ ঞ ট ঠ ড ঢ ণ ত থ দ ধ ন প ফ ব ভ ম য র ল শ ষ স হ ড় ঢ় য় ৩৯ টি ব্যঞ্জনবর্ন This video is created only",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 9
+    },
+    {
+      "title": "বর্ণমালা পড়ি ক খ গ ঘ ঙ চ ছ জ ঝ ঞ ট ঠ ড ঢ ণ ত থ দ ধ ন প ফ ব ভ ম য র ল শ ষ স .. Bangla ...",
+      "url": "https://www.youtube.com/watch?v=-G9-RQQEASI",
+      "snippet": "... বর্ণমালা শিক্ষা উচ্চারণ করে শিখানো হয়েছে ক খ গ ঘ ঙ চ ছ জ ঝ ঞ ট ঠ ড ঢ ণ ত থ দ ধ ন প ফ ব ভ ম য র ল শ ষ স হ ড় ঢ় ... বর্ণমালা পড়ি ক খ গ ঘ ঙ চ ছ জ ঝ ঞ ট ঠ ড ঢ ণ",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10
+    },
+    {
+      "title": "ব্যঞ্জনবর্ণ । ক খ গ। বাংলা ব্যঞ্জনবর্ণ । Bangla Alphabet ।Bangla ...",
+      "url": "https://www.youtube.com/watch?v=9WkJ1uNbuIk",
+      "snippet": "#ব্যঞ্জনবর্ণ #BanglaBornomala #বাংলাবর্নমালা #ছোটদেরবর্নমালা #বাংলাব্যঞ্জনবর্ণ #BanglaAlphabets ছোট সোনামনি তুমি কি ক খ গ ঘ ঙ চ শিখতে চাও? আমরা এই ভিডিও থেকে খেলার ছলে বা মজা করে ক",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11
+    },
+    {
+      "title": "বর্ণমালা শিক্ষা-৪ | বাংলা ব্যঞ্জনবর্ণ ট ঠ ড ঢ ণ | ছবি দেখে ব্যঞ্জনবর্ণ শিখি ...",
+      "url": "https://www.youtube.com/watch?v=uKtOK8NUKsA",
+      "snippet": "বর্ণমালা শিক্ষা-৪ | বাংলা ব্যঞ্জনবর্ণ ট ঠ ড ঢ ণ | ছবি দেখে ব্যঞ্জনবর্ণ শিখি | Bangla Banjonborno · Try YouTube Kids.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12
+    }
+  ]
+}

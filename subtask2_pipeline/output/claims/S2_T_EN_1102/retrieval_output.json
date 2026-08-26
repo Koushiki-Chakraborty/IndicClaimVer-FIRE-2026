@@ -1,0 +1,108 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1102",
+    "text": "Covid cases rise globally, India crosses 180 crore jabs landmark | 10 points",
+    "lang": "english"
+  },
+  "generated_queries": {
+    "english_translation": "Covid cases rise globally, India crosses 180 crore jabs landmark | 10 points",
+    "native_query": "India Covid rise globally crosses 180 crore jabs",
+    "english_query": "India Covid rise globally crosses 180 crore jabs"
+  },
+  "native_retrieval": [
+    {
+      "title": "India becomes second country to cross two billion Covid jabs",
+      "url": "https://www.bbc.com/news/world-asia-india-56345591",
+      "snippet": "# Covid vaccine: India becomes second country to cross two billion Covid jabs. Getty Images A medical worker inoculates a colleague with a Covid-19 vaccine at a hospital in Guwahati on January 16, 2021. **India has administered more than two billion Covid vaccination doses, becoming the second country to hit the milestone after China.**. It has also been trying to expand the booster dose programme across the country. Last week, India began a drive to give free booster doses - or precaution doses, as the government calls it - to all adults for 75 days. The move came days after the country cut the gap between the second and third doses of the vaccine to six months from nine. Getty Images A senior citizen being inoculated with a booster dose of Covid-19 vaccine at District Hospital, Sector 30, on June 12, 2022 in Noida, India. Over 55 million booster doses have been administered so far since the programme began in January."
+    },
+    {
+      "title": "India administers over 900 million jabs of COVID vaccines | Latest ...",
+      "url": "https://www.youtube.com/watch?v=JIWXDcrJzi4",
+      "snippet": "The cumulative COVID-19 vaccine doses administered in the country have crossed 900 million, Union health minister Mansukh Mandaviya said."
+    },
+    {
+      "title": "India's COVID crisis 'beyond heartbreaking': WHO",
+      "url": "https://www.aljazeera.com/amp/news/2021/4/26/india-sets-new-covid-world-record-for-5th-straight-day-live-news",
+      "snippet": "With 352991 new COVID cases, India's total crosses 17 million, while deaths rise by record 2812, says government."
+    },
+    {
+      "title": "India's COVID cases cross 25 million, deaths rise by record 4329",
+      "url": "https://www.youtube.com/watch?v=LpuX16OOxhc",
+      "snippet": "India's total coronavirus cases have surged past the 25 million mark, ed by 263,533 new infections deaths from COVID-19 rose by a record 4,329."
+    },
+    {
+      "title": "India starts world's largest coronavirus vaccination drive, more than 300 ...",
+      "url": "https://www.nbcnews.com/news/world/india-starts-world-s-largest-coronavirus-vaccination-drive-more-300-n1254504",
+      "snippet": "India starts world's largest coronavirus vaccination drive, more than 300 million shots planned. The recipients include 30 million doctors,"
+    },
+    {
+      "title": "India Sets World Record With The Administration Of 2.5 Crore COVID ...",
+      "url": "https://www.youtube.com/watch?v=eDPhQryxcDA",
+      "snippet": "India achieved a new record by administering 2.5 crore Covid-19 vaccine doses on September 17 under the 'Vaccine Seva' campaign being run"
+    }
+  ],
+  "english_retrieval": [
+    {
+      "title": "India becomes second country to cross two billion Covid jabs",
+      "url": "https://www.bbc.com/news/world-asia-india-56345591",
+      "snippet": "# Covid vaccine: India becomes second country to cross two billion Covid jabs. Getty Images A medical worker inoculates a colleague with a Covid-19 vaccine at a hospital in Guwahati on January 16, 2021. **India has administered more than two billion Covid vaccination doses, becoming the second country to hit the milestone after China.**. It has also been trying to expand the booster dose programme across the country. Last week, India began a drive to give free booster doses - or precaution doses, as the government calls it - to all adults for 75 days. The move came days after the country cut the gap between the second and third doses of the vaccine to six months from nine. Getty Images A senior citizen being inoculated with a booster dose of Covid-19 vaccine at District Hospital, Sector 30, on June 12, 2022 in Noida, India. Over 55 million booster doses have been administered so far since the programme began in January."
+    },
+    {
+      "title": "India administers over 900 million jabs of COVID vaccines | Latest ...",
+      "url": "https://www.youtube.com/watch?v=JIWXDcrJzi4",
+      "snippet": "The cumulative COVID-19 vaccine doses administered in the country have crossed 900 million, Union health minister Mansukh Mandaviya said."
+    },
+    {
+      "title": "India's COVID crisis 'beyond heartbreaking': WHO",
+      "url": "https://www.aljazeera.com/amp/news/2021/4/26/india-sets-new-covid-world-record-for-5th-straight-day-live-news",
+      "snippet": "With 352991 new COVID cases, India's total crosses 17 million, while deaths rise by record 2812, says government."
+    },
+    {
+      "title": "India's COVID cases cross 25 million, deaths rise by record 4329",
+      "url": "https://www.youtube.com/watch?v=LpuX16OOxhc",
+      "snippet": "India's total coronavirus cases have surged past the 25 million mark, ed by 263,533 new infections deaths from COVID-19 rose by a record 4,329."
+    },
+    {
+      "title": "India starts world's largest coronavirus vaccination drive, more than 300 ...",
+      "url": "https://www.nbcnews.com/news/world/india-starts-world-s-largest-coronavirus-vaccination-drive-more-300-n1254504",
+      "snippet": "India starts world's largest coronavirus vaccination drive, more than 300 million shots planned. The recipients include 30 million doctors,"
+    },
+    {
+      "title": "India Sets World Record With The Administration Of 2.5 Crore COVID ...",
+      "url": "https://www.youtube.com/watch?v=eDPhQryxcDA",
+      "snippet": "India achieved a new record by administering 2.5 crore Covid-19 vaccine doses on September 17 under the 'Vaccine Seva' campaign being run"
+    }
+  ],
+  "merged_results": [
+    {
+      "title": "India becomes second country to cross two billion Covid jabs",
+      "url": "https://www.bbc.com/news/world-asia-india-56345591",
+      "snippet": "# Covid vaccine: India becomes second country to cross two billion Covid jabs. Getty Images A medical worker inoculates a colleague with a Covid-19 vaccine at a hospital in Guwahati on January 16, 2021. **India has administered more than two billion Covid vaccination doses, becoming the second country to hit the milestone after China.**. It has also been trying to expand the booster dose programme across the country. Last week, India began a drive to give free booster doses - or precaution doses, as the government calls it - to all adults for 75 days. The move came days after the country cut the gap between the second and third doses of the vaccine to six months from nine. Getty Images A senior citizen being inoculated with a booster dose of Covid-19 vaccine at District Hospital, Sector 30, on June 12, 2022 in Noida, India. Over 55 million booster doses have been administered so far since the programme began in January."
+    },
+    {
+      "title": "India administers over 900 million jabs of COVID vaccines | Latest ...",
+      "url": "https://www.youtube.com/watch?v=JIWXDcrJzi4",
+      "snippet": "The cumulative COVID-19 vaccine doses administered in the country have crossed 900 million, Union health minister Mansukh Mandaviya said."
+    },
+    {
+      "title": "India's COVID crisis 'beyond heartbreaking': WHO",
+      "url": "https://www.aljazeera.com/amp/news/2021/4/26/india-sets-new-covid-world-record-for-5th-straight-day-live-news",
+      "snippet": "With 352991 new COVID cases, India's total crosses 17 million, while deaths rise by record 2812, says government."
+    },
+    {
+      "title": "India's COVID cases cross 25 million, deaths rise by record 4329",
+      "url": "https://www.youtube.com/watch?v=LpuX16OOxhc",
+      "snippet": "India's total coronavirus cases have surged past the 25 million mark, ed by 263,533 new infections deaths from COVID-19 rose by a record 4,329."
+    },
+    {
+      "title": "India starts world's largest coronavirus vaccination drive, more than 300 ...",
+      "url": "https://www.nbcnews.com/news/world/india-starts-world-s-largest-coronavirus-vaccination-drive-more-300-n1254504",
+      "snippet": "India starts world's largest coronavirus vaccination drive, more than 300 million shots planned. The recipients include 30 million doctors,"
+    },
+    {
+      "title": "India Sets World Record With The Administration Of 2.5 Crore COVID ...",
+      "url": "https://www.youtube.com/watch?v=eDPhQryxcDA",
+      "snippet": "India achieved a new record by administering 2.5 crore Covid-19 vaccine doses on September 17 under the 'Vaccine Seva' campaign being run"
+    }
+  ]
+}

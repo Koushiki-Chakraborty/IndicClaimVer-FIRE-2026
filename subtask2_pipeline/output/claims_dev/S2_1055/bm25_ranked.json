@@ -1,0 +1,105 @@
+{
+  "claim": {
+    "id": "S2/1055",
+    "text": "হাসপাতালে হেল্প ডেস্ক খুলে পুর চিকিৎসকদেরই সমর্থনে, চালু রাখার সিদ্ধান্ত - RG Kar Doctor Rape and Murder",
+    "lang": "dev"
+  },
+  "ranked_evidence": [
+    {
+      "title": "Advocate Ravindranath About RG Kar Hospital Principal Sandeep Ghosh",
+      "url": "https://www.youtube.com/watch?v=aiI4GztLq2w",
+      "snippet": "Advocate Ravindranath About RG Kar Hospital Principal Sandeep Ghosh | Kolkata Doctor Incident 3K views · 1 year ago",
+      "bm25_score_raw": 5.997029217359415,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "RG Kar doctor | Sanjay ray | আরজি কর কাণ্ড কে এই সঞ্জয় রায়?",
+      "url": "https://www.youtube.com/watch?v=dZN79U-gaa0",
+      "snippet": "RG Kar doctor | Sanjay ray | আরজি কর কাণ্ড কে এই সঞ্জয় রায়? s113K viewsStreamed 1 year ago •560K views 40:58",
+      "bm25_score_raw": 5.951075997618961,
+      "bm25_score_norm": 0.9923373360250715,
+      "bm25_rank": 2
+    },
+    {
+      "title": "With fasting juniors clapping, 50 senior doctors of RG Kar ...",
+      "url": "https://www.newindianexpress.com/india/2024/Oct/08/with-fasting-juniors-clapping-50-senior-doctors-of-rg-kar-hospital-resign-in-solidarity",
+      "snippet": "With fasting juniors clapping, 50 senior doctors of RG Kar Hospital resign in solidarity. The decision to resign en masse was taken at a meeting",
+      "bm25_score_raw": 5.534234115448989,
+      "bm25_score_norm": 0.9228292734391241,
+      "bm25_rank": 3
+    },
+    {
+      "title": "RG Kar Hospital: 50 Senior Doctors Resign in Solidarity ...",
+      "url": "https://timesofindia.indiatimes.com/india/50-senior-doctors-of-rg-kar-hospital-resign-in-support-of-junior-doctors-fast-unto-death-protest/articleshow/114042361.cms",
+      "snippet": "Senior faculty at RG Kar Medical College have submitted mass resignations to support junior doctors protesting the rape and murder of a trainee.",
+      "bm25_score_raw": 4.819403173228975,
+      "bm25_score_norm": 0.8036317647541882,
+      "bm25_rank": 4
+    },
+    {
+      "title": "50 Senior Doctors At RG Kar Hospital Resign To Support ...",
+      "url": "https://www.ndtv.com/india-news/50-senior-doctors-at-rg-kar-hospital-resign-to-support-juniors-protest-6742578",
+      "snippet": "The junior doctors have been on hunger strike for the last five days against an alleged corruption-threat syndicate, for campus democracy",
+      "bm25_score_raw": 4.4333316540945,
+      "bm25_score_norm": 0.739254636489259,
+      "bm25_rank": 5
+    },
+    {
+      "title": "R G Kar Case | Doctor | আরজি কর কাণ্ডে দোষী সাব্যস্ত সঞ্জয় রায় ...",
+      "url": "https://www.youtube.com/watch?v=4txDKaN_vrE",
+      "snippet": "R G Kar Case | Doctor | আরজি কর কাণ্ডে দোষী সাব্যস্ত সঞ্জয় রায়, কি বললেন ডাক্তার সুবর্ণ গোস্বামী ... R G Kar Case Update: ৯ অগাস্ট রাতের কোন ভিডিয়ো ডিলিট, CGO কমপ্লেক্স থেকে বেরোনোর সময়",
+      "bm25_score_raw": 4.289053341927914,
+      "bm25_score_norm": 0.7151963391328033,
+      "bm25_rank": 6
+    },
+    {
+      "title": "Dear doctors: next time you face a situation like this ...",
+      "url": "https://www.instagram.com/reel/DahkWuyKYnn",
+      "snippet": "If you find a doctor's decision ... Whether it's the beating of doctors and healthcare workers in Maharashtra or the RG Kar rape case, you must",
+      "bm25_score_raw": 4.150992144964916,
+      "bm25_score_norm": 0.6921747409449277,
+      "bm25_rank": 7
+    },
+    {
+      "title": "RG Kar Case Sparks Hospital Crisis as Doctors Take a Stand!",
+      "url": "https://www.youtube.com/watch?v=57215lK3KLA",
+      "snippet": "RG Kar Case: IMA Writes to Mamata as Doctors&#39; requesting her to consider and fulfil the demands of the doctors.",
+      "bm25_score_raw": 3.8933704472137975,
+      "bm25_score_norm": 0.649216521397591,
+      "bm25_rank": 8
+    },
+    {
+      "title": "Senior doctors of R.G. Kar Medical College tender mass ...",
+      "url": "https://www.thehindu.com/news/national/50-senior-doctors-of-rg-kar-hospital-resign-in-solidarity-with-junior-doctors-on-fast/article68732298.ece",
+      "snippet": "Senior doctors of R.G. Kar Medical College tender mass resignation in support of protesting resident doctors. As seven doctors remain on",
+      "bm25_score_raw": 3.5134929999142797,
+      "bm25_score_norm": 0.5858722498372828,
+      "bm25_rank": 9
+    },
+    {
+      "title": "Best Doctors In RG Kar Medical College, Kolkata",
+      "url": "https://www.practo.com/kolkata/doctors/r-g-kar-medical-college",
+      "snippet": "Best Doctors In R G Kar Medical College, Kolkata ; Dr. Kaushik Das · 37 years experience. Practo 22Patient Stories ; Dr. Chayan Kumar Roy · 31 years experience.",
+      "bm25_score_raw": 3.162362788501728,
+      "bm25_score_norm": 0.5273215577052275,
+      "bm25_rank": 10
+    },
+    {
+      "title": "R. G. Kar Medical College And Hospital",
+      "url": "https://www.rgkarmch.in/page/cms/opd_schedule_d23181",
+      "snippet": "Prof.) [UNIT -I ( GYNAE ) ] | Prof. Ramtanu Bandyopadhyay, Dr. Debjani Banerjee, Dr. Arun Kr. Pal [UNIT-I (ART CLINIC)] | Prof. Ramtanu Bandyopadhyay, Dr. Debjani Banerjee, Dr. Arun Kr. Pal [UNIT-I (ART CLINIC)] |. Das / Dr. Sumanta Das (Asst. Prof.)/ Dr. Tinni Mitra (Asst.Prof.) / Dr. Suman Kumar Chatterjee [UNT- (CARDIO THORASIC SURGE) ] | Dr. Das / Dr. Sumanta Das (Asst. Prof.) [UNIT-IA(CARDIOLOGY) ] | Dr. Lipika Adhikary (9434830964) (Astt.Prof.) [UNIT-IIB(CARDIOLOGY) ] | Dr. Biswajit Majumder (9830295168) (Prof.) [UNIT-IIIA(CARDIOLOGY) ] | Dr. Subrata Basu (Asso.Prof.) (9874858905) [UNIT-IC(CARDIOLOGY) | Dr. Chanchal Kr. Kundu (Asso. (Dr.) Arunabha Datta Chaudhuri (9433162841), Dr. Saradi Banerjee (MO NTEP) [UNIT-IC (CHEST MEDICINE) ] Dr. Debabani Biswas (9038763935) (Assoc.Prof.), Dr. Saradi Banerjee (MO NTEP) [UNIT-IIA ( CHEST MEDICINE ) ] | Dr. Sumit Roy Tapadar (9433563348) (Assot.Prof.), Dr. Saradi Banerjee (MO NTEP) [UNIT-IIB(CHEST MEDICINE) ] | Dr. Palash Nandan Dhara (Asst. Prof.) / Dr. Saradi Banerjee (MO NTEP) [UNIT-IIC (CHEST MEDICINE) ] | |.",
+      "bm25_score_raw": 0.572783054715758,
+      "bm25_score_norm": 0.09551113292190416,
+      "bm25_rank": 11
+    },
+    {
+      "title": "আরজি কর কাণ্ডে কী করছিলেন সেমিনার রুমে? অবস্থান স্পষ্ট করলেন চিকিৎসক ...",
+      "url": "https://bengali.abplive.com/district/rg-kar-news-seminar-room-doctor-sushant-roy-clarified-the-position-1097476/amp",
+      "snippet": "সুশান্ত রায়ের পৈতৃক বাড়ি কলকাতায় ঢাকুরিয়াতে। তিনি থাকেন জলপাইগুড়িতে। জলপাইগুড়ি মেডিক্যাল কলেজে চক্ষুরোগ বিশেষজ্ঞ ছিলেন সুশান্ত রায়। তৃণমূল ক্ষমতায় আসার পর থেকে তাঁর দাপট বাড়তে থাকে। করোনার সময় স্বাস্ত্য দফতরের",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12
+    }
+  ]
+}

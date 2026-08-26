@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/CM/1026",
+    "text": "ek bat samjh me nhi ati ki aap or apki behan har chiz ko state se kyu jod dete hai jis bachhi ke sath hua hai wo kisi state ki nhi bharat ki beti hai aap apne govt wali state se kyu nhi jodte ho khud raajneeti krte ho fir kehte ho hm insaaf dila rhe hai",
+    "lang": "codemix"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "A mother who lost her daughter is now stepping into ...",
+      "url": "https://www.instagram.com/reel/DWk0RcgDMS8",
+      "snippet": "officialindia on March 31, 2026: \"A mother who lost her daughter is now stepping into politics with one hope — justice. \".",
+      "bm25_score_raw": 4.0103819476175335,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.846757173538208,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Meet politician's daughter who was a flop in Bollywood, gave just one superhit film in 16 years, yet her net worth will astonish you, her name is...",
+      "url": "https://www.india.com/entertainment/meet-politicians-daughter-who-was-a-flop-in-bollywood-gave-just-one-superhit-film-in-16-years-yet-her-net-worth-rs-22-crore-will-astonish-you-her-name-is-neha-sharma-7777883",
+      "snippet": "Wed, 06/17/2026 | Updated: 9.47AM IST. * Meet politicians daughter who was a flop in Bollywood, gave just one superhit film in 16 years, yet her net worth will astonish you, her name is... # Meet politician’s daughter who was a flop in Bollywood, gave just one superhit film in 16 years, yet her net worth will astonish you, her name is…. ## Meet MLA's daughter who failed to make a mark in Bollywood, in over 16 years she managed to give just on blockbuster film, never got to play lead role in films. Published: April 25, 2025, 7:41 AM IST. https://www.india.com/entertainment/meet-politicians-daughter-who-was-a-flop-in-bollywood-gave-just-one-superhit-film-in-16-years-yet-her-net-worth-rs-22-crore-will-astonish-you-her-name-is-neha-sharma-7777883/. She was successful in attracting people’s attention with her performance in the film. * Meet actress who beats Janhvi Kapoor, Ananya Panday in beauty, is daughter of an MLA, her name is... * Meet actress, who is more glamorous than many Bollywood beauties, once a top model, daughter of powerful politician, she is from…, name is….",
+      "bm25_score_raw": 1.4232611713671093,
+      "bm25_score_norm": 0.35489416967195175,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8187152147293091,
+      "embedding_score_norm": 0.5734846960144908,
+      "embedding_rank": 2
+    },
+    {
+      "title": "aurlifeofficial",
+      "url": "https://www.instagram.com/p/DXca92niZjS?__d=1",
+      "snippet": "warna bhai ki halat bohot buri ho jayegi tumhari. Ek baat samajh mein nahi aa rahi mujhe. Ek hi nazar mein itna bada faisla kaise kar liya tumne",
+      "bm25_score_raw": 0.5125964772516439,
+      "bm25_score_norm": 0.12781737100032692,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8180348873138428,
+      "embedding_score_norm": 0.5631369861275051,
+      "embedding_rank": 3
+    },
+    {
+      "title": "#are mujhe baat samajh nahin aati mere Dil mein Koi Sau bar ...",
+      "url": "https://www.instagram.com/reel/DanVto6hYVq",
+      "snippet": "Arey yaar mujhe ek baat nahi samajh aati. Agar mujhe 100 baar bhi koi behen bol de, toh mujhe koi farak nahi padta. Lekin in ladko ka samajh",
+      "bm25_score_raw": 0.3379425644143191,
+      "bm25_score_norm": 0.08426692739704811,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.8098444938659668,
+      "embedding_score_norm": 0.4385619457393436,
+      "embedding_rank": 4
+    },
+    {
+      "title": "According to reports, a viral video shows a girl making ...",
+      "url": "https://www.instagram.com/reel/DX9pQDxhJ64?hl=en",
+      "snippet": "According to reports, a viral video shows a girl making a political claim about how discussions happen among groups.Read more",
+      "bm25_score_raw": 2.3371321093579662,
+      "bm25_score_norm": 0.5827704542572054,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8063747882843018,
+      "embedding_score_norm": 0.3857880813674135,
+      "embedding_rank": 5
+    },
+    {
+      "title": "India's Daughter Row: Govt Serves Notice To BBC",
+      "url": "https://www.youtube.com/watch?v=nKkLJpVdpYI",
+      "snippet": "An embarrassed and upset government has served a legal notice to the British Broadcasting Corporation that defied its orders and went ahead",
+      "bm25_score_raw": 3.7057742363375477,
+      "bm25_score_norm": 0.9240452118380033,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8059996962547302,
+      "embedding_score_norm": 0.380082970247841,
+      "embedding_rank": 6
+    },
+    {
+      "title": "According to reports, a viral video shows a girl sharing ...",
+      "url": "https://www.facebook.com/hindutvamedia/posts/according-to-reports-a-viral-video-shows-a-girl-sharing-a-political-opinion-abou/1393406322820948",
+      "snippet": "According to reports, a viral video shows a girl sharing a political opinion about how discussions take place among different groups. Her ...Read more",
+      "bm25_score_raw": 2.2707869213409704,
+      "bm25_score_norm": 0.5662270953244211,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.799981951713562,
+      "embedding_score_norm": 0.2885536958567458,
+      "embedding_rank": 7
+    },
+    {
+      "title": "Daughter's Day 2024: The legacy of daughters in ...",
+      "url": "https://indianexpress.com/article/lifestyle/life-style/daughters-day-2024-the-legacy-of-daughters-in-indian-politics-9581731",
+      "snippet": "Sep 22, 2024 — From Indira Gandhi to Mehbooba Mufti, a look at daughters who have forged their own paths, leaving indelible marks on India's political landscape.Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.7994135022163391,
+      "embedding_score_norm": 0.2799076375781246,
+      "embedding_rank": 8
+    },
+    {
+      "title": "Ek baat ek baar mein samajh nahi aati kya? | Rhyme Attacks",
+      "url": "https://www.facebook.com/rhymeattacks.in/videos/ek-baat-ek-baar-mein-samajh-nahi-aati-kya/24097203556615243",
+      "snippet": "इतना दिया है ईश्वर ने जितनी मेरी औकात नहीं यह करम है मेरे दाता का वरना मुझ में ऐसी कोई बात नहीं. 11mo. 1. Choudhary Ujjwal Rana.. 11mo. Profile photo of Purna.",
+      "bm25_score_raw": 0.46130516822461104,
+      "bm25_score_norm": 0.11502773906576673,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.7922258377075195,
+      "embedding_score_norm": 0.17058400102987545,
+      "embedding_rank": 9
+    },
+    {
+      "title": "bhai mujhe ek baat samajh mein nahin aati #like #food ...",
+      "url": "https://www.youtube.com/shorts/BNJzf-Epwgg",
+      "snippet": "bhai mujhe ek baat samajh mein nahin aati #like #food #viralvideo #. Making A Scrowbar Tool From Rebar | DIY Short Video · @",
+      "bm25_score_raw": 0.49076952776688476,
+      "bm25_score_norm": 0.12237475985509025,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.7894520163536072,
+      "embedding_score_norm": 0.12839446405680272,
+      "embedding_rank": 10
+    },
+    {
+      "title": "ये बात समझ में आई नहीं - अहमद हातिब सिद्दीक़ी",
+      "url": "https://www.rekhta.org/nazms/ye-baat-samajh-men-aaii-nahiin-ye-baat-samajh-men-aaii-nahiin-ahmad-hatib-siddiqi-nazms?lang=hi",
+      "snippet": "नानी के मियाँ तो नाना हैं. दादी के मियाँ भी दादा हैं. जब आपा से मैं ने ये पूछा. बाजी के मियाँ क्या बाजा हैं. वो हँस हँस कर ये कहने लगीं. ऐ भाई नहीं ऐ भाई नहीं. ये बात समझ में आई नहीं. जब नया महीना आता है तो. बिजली का बिल आ जाता है.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.7843990325927734,
+      "embedding_score_norm": 0.05153910172377217,
+      "embedding_rank": 11
+    },
+    {
+      "title": "“Parayi aulaad parayi hee hoti hai, kabhi apni nahi banti. ...",
+      "url": "https://www.facebook.com/teri.maa.5477272/posts/parayi-aulaad-parayi-hee-hoti-hai-kabhi-apni-nahi-banti-ye-woh-jumla-hai-jo-har-/1810170033283742",
+      "snippet": "Magar ek baat samajh nahi aati... Hum apne behan bhai ke bachon se bepanah mohabbat karte hain. Unke liye apni neend qurban kar dete hain",
+      "bm25_score_raw": 2.6887082531875497,
+      "bm25_score_norm": 0.6704369529652514,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.7810105085372925,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

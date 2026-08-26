@@ -1,0 +1,57 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1200",
+    "text": "Shocker! Why the Delhi gangrape victim went for a late night movie show, asks NCP leader",
+    "lang": "english"
+  },
+  "ranked_evidence": [
+    {
+      "title": "Shocker! Why the Delhi gangrape victim went for a late ...",
+      "url": "https://www.indiatvnews.com/politics/national/delhi-gangrape-victim-damini-nirbhaya-late-night-movie-show-ncp-14600.html/page/4",
+      "snippet": "Jan 29, 2014 — Mirge spoke at NCP's youth wing convention in Nagpur yesterday where she shared the dais with party chief Sharad Pawar's MP daughter Supriya",
+      "bm25_score_raw": 7.500265671523706,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Delhi Sleeper Gang Rape: Inside Nirbhaya Like Shocker",
+      "url": "https://www.youtube.com/watch?v=6wgY0vbNBaM",
+      "snippet": "To Subscribe our YouTube channel \"NewsX\" click on the link below:- https://www.youtube.com/user/newsxlive/ Watch More Videos:",
+      "bm25_score_raw": 4.62239934949792,
+      "bm25_score_norm": 0.5977473935734638,
+      "bm25_rank": 2
+    },
+    {
+      "title": "A Female Indian Politician Said Rape Can Happen ...",
+      "url": "https://www.buzzfeednews.com/article/tasneemnashrulla/a-female-indian-politician-said-rape-can-happen-because-of",
+      "snippet": "Jan 30, 2014 — She also asked why the victim of the brutal Delhi gang rape was out for a movie with her friend at night.",
+      "bm25_score_raw": 2.3014232646336406,
+      "bm25_score_norm": 0.27333389582172596,
+      "bm25_rank": 3
+    },
+    {
+      "title": "Banned documentary examines brutal Delhi gang rape | PBS News",
+      "url": "https://www.pbs.org/newshour/world/documentary-india-gang-rape",
+      "snippet": "A documentary produced by the BBC focuses on the rape and murder of a 23-year-old medical student in India. It was a watershed moment in women's rights in the nation of 1.2 billion but the movie could not be viewed there this week. The documentary, called \"India's Daughter,\" depicts how Jyoti Singh was beaten and gang raped on a bus as it was driving around Delhi in 2012. One other accused, a juvenile, was given the maximum sentence of three years in a reform facility. Following the incident, the Indian government passed new sexual assault laws, including one that set a mandatory minimum sentence of 20 years for gang rape. A documentary depicting the attack, made by Leslee Udwin, was meant to be aired in India on March 8, International Women's Day, but the Indian government blocked its release on March 4 for fear of inciting more violence, officials said.",
+      "bm25_score_raw": 1.394968651167852,
+      "bm25_score_norm": 0.14663456719644563,
+      "bm25_rank": 4
+    },
+    {
+      "title": "India's Viacom18 to Air Doc on Delhi Gang Rape Case ...",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/indias-viacom18-air-doc-delhi-848922",
+      "snippet": "Dec 15, 2015 — Three years after the brutal gang rape that drew global headlines, 'Daughters of Mother India' explores reforms in the police and judicial",
+      "bm25_score_raw": 0.7208472787938653,
+      "bm25_score_norm": 0.05240952379888085,
+      "bm25_rank": 5
+    },
+    {
+      "title": "Delhi gang-rapist stirs anger in film interview | Sexual Assault News | Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2015/3/3/delhi-gang-rapist-stirs-anger-in-film-interview",
+      "snippet": "Film-maker Leslee Udwin said she read out the list of injuries the victim suffered, but Singh was unmoved [AP]. A film-maker behind a new documentary about a fatal gang rape in India that caused global outrage has said one of the men sentenced to death for the killing showed no remorse during a “chilling” interview. Mukesh Singh, one of five people convicted over the 2012 attack in New Delhi, told British film-maker Leslee Udwin from his prison cell that the murdered student was at least partly responsible for the incident, in comments that experts say reflect a wider instinct to blame victims of sex crime. In the interview, Singh said the victim, who cannot be named for legal reasons, should not have been roam[ing] around at nine o’clock at night” and that “a girl is far more responsible for rape than a boy”. Udwin said she had read out a list of all the injuries that the victim suffered when she spoke to Singh but he was unmoved.",
+      "bm25_score_raw": 0.3458898488492719,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6
+    }
+  ]
+}

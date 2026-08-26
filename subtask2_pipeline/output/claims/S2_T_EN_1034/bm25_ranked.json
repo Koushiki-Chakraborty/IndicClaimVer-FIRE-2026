@@ -1,0 +1,57 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1034",
+    "text": "Delhi records over 1600 fresh Covid-19 cases; positivity rate breaches 5%",
+    "lang": "english"
+  },
+  "ranked_evidence": [
+    {
+      "title": "Delhi Records 606 Fresh Covid-19 Cases, Positivity Rate At 16.98 Per ...",
+      "url": "https://www.outlookindia.com/amp/story/national/delhi-records-606-fresh-covid-19-cases-positivity-rate-at-16-98-per-cent-news-276550",
+      "snippet": "Delhi logged 606 fresh Covid cases -- the highest since last August -- on Thursday with a positivity rate of 16.98 per cent, according to",
+      "bm25_score_raw": 2.928935492090135,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "218 fresh Covid cases, no new deaths in Delhi; positivity rate 1.93%",
+      "url": "https://www.business-standard.com/amp/article/current-affairs/218-fresh-covid-cases-no-new-deaths-in-delhi-positivity-rate-1-93-122090400816_1.html",
+      "snippet": "Delhi on Sunday reported 218 fresh Covid-19 cases with a positivity rate of 1.93%, according to data shared by the city health department.",
+      "bm25_score_raw": 2.809287917605307,
+      "bm25_score_norm": 0.9012519253031828,
+      "bm25_rank": 2
+    },
+    {
+      "title": "Over 24k fresh Covid cases, 249 deaths in Delhi; positivity rate 31 per ...",
+      "url": "https://timesofindia.indiatimes.com/city/delhi/over-24k-fresh-covid-cases-249-deaths-in-delhi-positivity-rate-31-per-cent/amp_articleshow/82185556.cms",
+      "snippet": "Delhi logged 24638 fresh Covid-19 cases and 249 deaths due to the viral disease on Wednesday as the positivity rate stood at 31.28 per cent,",
+      "bm25_score_raw": 2.730914133526842,
+      "bm25_score_norm": 0.8365681210741726,
+      "bm25_rank": 3
+    },
+    {
+      "title": "Delhi records 331 Covid cases, highest daily count since June 9; positivity rate jumps to 0.68 pc",
+      "url": "https://theprint.in/india/delhi-records-331-covid-cases-highest-daily-count-since-june-9-positivity-rate-jumps-to-0-68-pc/789108?amp=",
+      "snippet": "# Delhi records 331 Covid cases, highest daily count since June 9; positivity rate jumps to 0.68 pc. ## New Delhi, Dec 27 (PTI) Delhi on Monday recorded 331 fresh COVID-19 cases, the highest single-day rise since June 9, and one death while the positivity rate mounted to 0.68 per cent, according to data shared by the city health department. On Sunday, Delhi recorded 290 cases with a positivity rate of 0.55 per cent and one fatality, according to officials figures. On Monday, it jumped to 331 cases with a positivity rate of 0.68 per cent, according to the latest health bulletin. This rise is the highest since June 9 when 337 cases were logged with a positivity rate of 0.46 per cent, while 36 deaths were also recorded on that day. The spike in fresh cases in the last few days is being recorded amid a jump in cases of new Omicron variant of the coronavirus here. ## ThePrint.",
+      "bm25_score_raw": 2.333069269714578,
+      "bm25_score_norm": 0.5082170074085933,
+      "bm25_rank": 4
+    },
+    {
+      "title": "Delhi Records 509 Fresh COVID-19 Cases, Positivity Rate Crosses 25% ...",
+      "url": "https://www.news18.com/amp/india/delhi-records-509-fresh-covid-19-cases-positivity-rate-crosses-25-mark-7475917.html",
+      "snippet": "The positivity rate stood at 15.64 per cent. The city had recorded 573 positive cases on August 27 last year with a positivity rate of 3.62 per",
+      "bm25_score_raw": 2.2992734325423196,
+      "bm25_score_norm": 0.48032447496155384,
+      "bm25_rank": 5
+    },
+    {
+      "title": "COVID-19: Positivity rate falls below 3 per cent in Delhi; 1604 new cases",
+      "url": "https://m.economictimes.com/news/india/covid-19-positivity-rate-falls-below-3-per-cent-in-delhi-1604-new-cases/amp_articleshow/89370639.cms",
+      "snippet": "Delhi on Saturday reported 1,604 COVID-19 cases and 17 fatalities, while the positivity rate declined to 2.87 per cent, according to data",
+      "bm25_score_raw": 1.7172908615271847,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "claim": {
+    "id": "S2/1291",
+    "text": "Anna Hazare says Kejriwal's AAP should contest polls by taking donations.",
+    "lang": "dev"
+  },
+  "generated_queries": {
+    "english_translation": "Anna Hazare says Kejriwal's AAP should contest polls by taking donations.",
+    "native_query": "Anna Hazare Kejriwal AAP contest polls donations",
+    "english_query": "Anna Hazare Kejriwal AAP contest polls donations"
+  },
+  "native_retrieval": [
+    {
+      "title": "Why is AAP using my name, funds? - The New Indian Express",
+      "url": "https://www.newindianexpress.com/india/2013/Nov/19/why-is-aap-using-my-name-funds-538921.html",
+      "snippet": "Anti-corruption crusader Anna Hazare has written to former prodigy Arvind Kejriwal objecting to his name being used in the AAP election"
+    },
+    {
+      "title": "Arvind Kejriwal's Aam Aadmi Party or AAP, an offshoot of the Anna ...",
+      "url": "https://www.facebook.com/ndtv/posts/arvind-kejriwals-aam-aadmi-party-or-aap-an-offshoot-of-the-anna-hazare-led-anti-/631677168997888",
+      "snippet": "Arvind Kejriwal's Aam Aadmi Party or AAP, an offshoot of the Anna Hazare-led anti-corruption movement in 2012, was elevated to national"
+    },
+    {
+      "title": "Aam Aadmi Party",
+      "url": "https://en.wikipedia.org/wiki/Aam_Aadmi_Party",
+      "snippet": "The AAP is currently the governing party in the Indian state of Punjab, has representation in both houses of the Parliament of India, and forms the official opposition in Delhi. On 10 April 2023, the AAP was officially granted national party status by the Election Commission of India. Making its electoral debut in the 2013 Delhi Legislative Assembly election, the AAP emerged as the second-largest party. After the President's rule in Delhi, in the following 2015 elections, the AAP won 67 of the 70 seats in the assembly and Kejriwal was again sworn in as the Chief Minister of Delhi On 3 December 2015, the Jan Lokpal Bill was passed by the AAP government with a majority in the Delhi Legislative Assembly. The party was formally launched in Delhi on 26 November and in March 2013, it was registered as a political party by the Election Commission of India."
+    },
+    {
+      "title": "Anna Hazare Accuses Kejriwal of Betraying Principles After Power",
+      "url": "https://www.youtube.com/watch?v=LOHyUt4EpXM",
+      "snippet": "Delhi Election Results: In Ahmednagar, Maharashtra, social activist Anna Hazare voiced his disappointment with former Delhi CM and AAP"
+    },
+    {
+      "title": "\"He Focused On Liquor\": Anna Hazare On What He Told Arvind ...",
+      "url": "https://www.ndtv.com/india-news/delhi-election-results-live-he-focused-on-liquor-anna-hazare-on-what-he-told-arvind-kejriwal-7662475",
+      "snippet": "Delhi Election Results Live: Anna Hazare has launched a critique of former chief minister and AAP leader Arvind Kejriwal, accusing him of"
+    },
+    {
+      "title": "Anna Hazare First Reaction As AAP Appears Set To Lose Delhi ...",
+      "url": "https://www.youtube.com/watch?v=h535ymThmTk",
+      "snippet": "Anna Hazare On Kejriwal | Anna Hazare News | Anna Hazare On Delhi Election Result | Delhi Election 2025 Result | Anna Hazare On AAP | BJP"
+    }
+  ],
+  "english_retrieval": [
+    {
+      "title": "Why is AAP using my name, funds? - The New Indian Express",
+      "url": "https://www.newindianexpress.com/india/2013/Nov/19/why-is-aap-using-my-name-funds-538921.html",
+      "snippet": "Anti-corruption crusader Anna Hazare has written to former prodigy Arvind Kejriwal objecting to his name being used in the AAP election"
+    },
+    {
+      "title": "Arvind Kejriwal's Aam Aadmi Party or AAP, an offshoot of the Anna ...",
+      "url": "https://www.facebook.com/ndtv/posts/arvind-kejriwals-aam-aadmi-party-or-aap-an-offshoot-of-the-anna-hazare-led-anti-/631677168997888",
+      "snippet": "Arvind Kejriwal's Aam Aadmi Party or AAP, an offshoot of the Anna Hazare-led anti-corruption movement in 2012, was elevated to national"
+    },
+    {
+      "title": "Aam Aadmi Party",
+      "url": "https://en.wikipedia.org/wiki/Aam_Aadmi_Party",
+      "snippet": "The AAP is currently the governing party in the Indian state of Punjab, has representation in both houses of the Parliament of India, and forms the official opposition in Delhi. On 10 April 2023, the AAP was officially granted national party status by the Election Commission of India. Making its electoral debut in the 2013 Delhi Legislative Assembly election, the AAP emerged as the second-largest party. After the President's rule in Delhi, in the following 2015 elections, the AAP won 67 of the 70 seats in the assembly and Kejriwal was again sworn in as the Chief Minister of Delhi On 3 December 2015, the Jan Lokpal Bill was passed by the AAP government with a majority in the Delhi Legislative Assembly. The party was formally launched in Delhi on 26 November and in March 2013, it was registered as a political party by the Election Commission of India."
+    },
+    {
+      "title": "Anna Hazare Accuses Kejriwal of Betraying Principles After Power",
+      "url": "https://www.youtube.com/watch?v=LOHyUt4EpXM",
+      "snippet": "Delhi Election Results: In Ahmednagar, Maharashtra, social activist Anna Hazare voiced his disappointment with former Delhi CM and AAP"
+    },
+    {
+      "title": "\"He Focused On Liquor\": Anna Hazare On What He Told Arvind ...",
+      "url": "https://www.ndtv.com/india-news/delhi-election-results-live-he-focused-on-liquor-anna-hazare-on-what-he-told-arvind-kejriwal-7662475",
+      "snippet": "Delhi Election Results Live: Anna Hazare has launched a critique of former chief minister and AAP leader Arvind Kejriwal, accusing him of"
+    },
+    {
+      "title": "Anna Hazare First Reaction As AAP Appears Set To Lose Delhi ...",
+      "url": "https://www.youtube.com/watch?v=h535ymThmTk",
+      "snippet": "Anna Hazare On Kejriwal | Anna Hazare News | Anna Hazare On Delhi Election Result | Delhi Election 2025 Result | Anna Hazare On AAP | BJP"
+    }
+  ],
+  "merged_results": [
+    {
+      "title": "Why is AAP using my name, funds? - The New Indian Express",
+      "url": "https://www.newindianexpress.com/india/2013/Nov/19/why-is-aap-using-my-name-funds-538921.html",
+      "snippet": "Anti-corruption crusader Anna Hazare has written to former prodigy Arvind Kejriwal objecting to his name being used in the AAP election"
+    },
+    {
+      "title": "Arvind Kejriwal's Aam Aadmi Party or AAP, an offshoot of the Anna ...",
+      "url": "https://www.facebook.com/ndtv/posts/arvind-kejriwals-aam-aadmi-party-or-aap-an-offshoot-of-the-anna-hazare-led-anti-/631677168997888",
+      "snippet": "Arvind Kejriwal's Aam Aadmi Party or AAP, an offshoot of the Anna Hazare-led anti-corruption movement in 2012, was elevated to national"
+    },
+    {
+      "title": "Aam Aadmi Party",
+      "url": "https://en.wikipedia.org/wiki/Aam_Aadmi_Party",
+      "snippet": "The AAP is currently the governing party in the Indian state of Punjab, has representation in both houses of the Parliament of India, and forms the official opposition in Delhi. On 10 April 2023, the AAP was officially granted national party status by the Election Commission of India. Making its electoral debut in the 2013 Delhi Legislative Assembly election, the AAP emerged as the second-largest party. After the President's rule in Delhi, in the following 2015 elections, the AAP won 67 of the 70 seats in the assembly and Kejriwal was again sworn in as the Chief Minister of Delhi On 3 December 2015, the Jan Lokpal Bill was passed by the AAP government with a majority in the Delhi Legislative Assembly. The party was formally launched in Delhi on 26 November and in March 2013, it was registered as a political party by the Election Commission of India."
+    },
+    {
+      "title": "Anna Hazare Accuses Kejriwal of Betraying Principles After Power",
+      "url": "https://www.youtube.com/watch?v=LOHyUt4EpXM",
+      "snippet": "Delhi Election Results: In Ahmednagar, Maharashtra, social activist Anna Hazare voiced his disappointment with former Delhi CM and AAP"
+    },
+    {
+      "title": "\"He Focused On Liquor\": Anna Hazare On What He Told Arvind ...",
+      "url": "https://www.ndtv.com/india-news/delhi-election-results-live-he-focused-on-liquor-anna-hazare-on-what-he-told-arvind-kejriwal-7662475",
+      "snippet": "Delhi Election Results Live: Anna Hazare has launched a critique of former chief minister and AAP leader Arvind Kejriwal, accusing him of"
+    },
+    {
+      "title": "Anna Hazare First Reaction As AAP Appears Set To Lose Delhi ...",
+      "url": "https://www.youtube.com/watch?v=h535ymThmTk",
+      "snippet": "Anna Hazare On Kejriwal | Anna Hazare News | Anna Hazare On Delhi Election Result | Delhi Election 2025 Result | Anna Hazare On AAP | BJP"
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "claim": {
+    "id": "S2/1546",
+    "text": "Chennai Corporation to allow access to beaches from March 1 in the city",
+    "lang": "dev"
+  },
+  "generated_queries": {
+    "english_translation": "Chennai Corporation to allow access to beaches from March 1 in the city",
+    "native_query": "Chennai Corporation access beaches March city",
+    "english_query": "Chennai Corporation access beaches March city"
+  },
+  "native_retrieval": [
+    {
+      "title": "Access granted",
+      "url": "https://www.newindianexpress.com/amp/story/cities/chennai/2018/Jul/08/access-granted-1840322.html",
+      "snippet": "The Chennai Corporation is planning to build a permanent ramp, allowing PwD access to the sea. The proposal to improve accessibility has been in the pipeline"
+    },
+    {
+      "title": "‍🦼 Physically challenged people enjoy at the beach after a 263 meters ...",
+      "url": "https://www.facebook.com/CCTVAPOfficial/posts/-physically-challenged-people-enjoy-at-the-beach-after-a-263-meters-long-permane/1134940540723408",
+      "snippet": "Greater Chennai Corporation has made the beach accessible to differently-abled people. Person with Disability on the sands of Marina and Elliot"
+    },
+    {
+      "title": "Chennai's Marina Beach: Now Accessible for SAPs | VOSAP",
+      "url": "https://www.voiceofsap.org/idea/chennais-marina-beach-accessible-for-saps-vosap",
+      "snippet": "The beach was made temporary Accessible until January 2. Four beach wheelchairs have been provided by the city corporation since 2019 and the"
+    },
+    {
+      "title": "Parks",
+      "url": "https://chennaicorporation.gov.in/gcc/department/park",
+      "snippet": "Greater Chennai Corporation took up beautification of Beaches from Secretariat to war memorial, Napier bridge to light house and in Elliots beach In Marina the"
+    },
+    {
+      "title": "Marina & Elliot beaches in Chennai to be made accessible for disabled ...",
+      "url": "https://newzhook.com/story/19062",
+      "snippet": "Chennai's popular beaches, Marina and Elliot, will now be made accessible for people with disabilities. This is after years of persistent"
+    },
+    {
+      "title": "Enjoying the Marina beach will no longer be a dream for people with ...",
+      "url": "https://www.facebook.com/EverythingWorksHere/posts/enjoying-the-marina-beach-will-no-longer-be-a-dream-for-people-with-disabilities/551343103668883",
+      "snippet": "The Chennai Corporation will construct this ramp. Rs. 1.15 crore. These ramps will make the city's both the beaches disabled friendly and"
+    }
+  ],
+  "english_retrieval": [
+    {
+      "title": "Access granted",
+      "url": "https://www.newindianexpress.com/amp/story/cities/chennai/2018/Jul/08/access-granted-1840322.html",
+      "snippet": "The Chennai Corporation is planning to build a permanent ramp, allowing PwD access to the sea. The proposal to improve accessibility has been in the pipeline"
+    },
+    {
+      "title": "‍🦼 Physically challenged people enjoy at the beach after a 263 meters ...",
+      "url": "https://www.facebook.com/CCTVAPOfficial/posts/-physically-challenged-people-enjoy-at-the-beach-after-a-263-meters-long-permane/1134940540723408",
+      "snippet": "Greater Chennai Corporation has made the beach accessible to differently-abled people. Person with Disability on the sands of Marina and Elliot"
+    },
+    {
+      "title": "Chennai's Marina Beach: Now Accessible for SAPs | VOSAP",
+      "url": "https://www.voiceofsap.org/idea/chennais-marina-beach-accessible-for-saps-vosap",
+      "snippet": "The beach was made temporary Accessible until January 2. Four beach wheelchairs have been provided by the city corporation since 2019 and the"
+    },
+    {
+      "title": "Parks",
+      "url": "https://chennaicorporation.gov.in/gcc/department/park",
+      "snippet": "Greater Chennai Corporation took up beautification of Beaches from Secretariat to war memorial, Napier bridge to light house and in Elliots beach In Marina the"
+    },
+    {
+      "title": "Marina & Elliot beaches in Chennai to be made accessible for disabled ...",
+      "url": "https://newzhook.com/story/19062",
+      "snippet": "Chennai's popular beaches, Marina and Elliot, will now be made accessible for people with disabilities. This is after years of persistent"
+    },
+    {
+      "title": "Enjoying the Marina beach will no longer be a dream for people with ...",
+      "url": "https://www.facebook.com/EverythingWorksHere/posts/enjoying-the-marina-beach-will-no-longer-be-a-dream-for-people-with-disabilities/551343103668883",
+      "snippet": "The Chennai Corporation will construct this ramp. Rs. 1.15 crore. These ramps will make the city's both the beaches disabled friendly and"
+    }
+  ],
+  "merged_results": [
+    {
+      "title": "Access granted",
+      "url": "https://www.newindianexpress.com/amp/story/cities/chennai/2018/Jul/08/access-granted-1840322.html",
+      "snippet": "The Chennai Corporation is planning to build a permanent ramp, allowing PwD access to the sea. The proposal to improve accessibility has been in the pipeline"
+    },
+    {
+      "title": "‍🦼 Physically challenged people enjoy at the beach after a 263 meters ...",
+      "url": "https://www.facebook.com/CCTVAPOfficial/posts/-physically-challenged-people-enjoy-at-the-beach-after-a-263-meters-long-permane/1134940540723408",
+      "snippet": "Greater Chennai Corporation has made the beach accessible to differently-abled people. Person with Disability on the sands of Marina and Elliot"
+    },
+    {
+      "title": "Chennai's Marina Beach: Now Accessible for SAPs | VOSAP",
+      "url": "https://www.voiceofsap.org/idea/chennais-marina-beach-accessible-for-saps-vosap",
+      "snippet": "The beach was made temporary Accessible until January 2. Four beach wheelchairs have been provided by the city corporation since 2019 and the"
+    },
+    {
+      "title": "Parks",
+      "url": "https://chennaicorporation.gov.in/gcc/department/park",
+      "snippet": "Greater Chennai Corporation took up beautification of Beaches from Secretariat to war memorial, Napier bridge to light house and in Elliots beach In Marina the"
+    },
+    {
+      "title": "Marina & Elliot beaches in Chennai to be made accessible for disabled ...",
+      "url": "https://newzhook.com/story/19062",
+      "snippet": "Chennai's popular beaches, Marina and Elliot, will now be made accessible for people with disabilities. This is after years of persistent"
+    },
+    {
+      "title": "Enjoying the Marina beach will no longer be a dream for people with ...",
+      "url": "https://www.facebook.com/EverythingWorksHere/posts/enjoying-the-marina-beach-will-no-longer-be-a-dream-for-people-with-disabilities/551343103668883",
+      "snippet": "The Chennai Corporation will construct this ramp. Rs. 1.15 crore. These ramps will make the city's both the beaches disabled friendly and"
+    }
+  ]
+}

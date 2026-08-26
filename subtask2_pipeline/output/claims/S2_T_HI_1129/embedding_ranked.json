@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/HI/1129",
+    "text": "हार्दिक ने माना कि राहुल गांधी से हाल ही में गुप्त मुलाकात हुई थी।",
+    "lang": "hindi"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Hardik Patel नें Rahul Gandhi से की Secret Meeting, CCTV ...",
+      "url": "https://www.youtube.com/watch?v=z1rBH29VuKk",
+      "snippet": "Patidar leader Hardik Patel reportedly met Congress leaders, including Rahul Gandhi ... Hardik Patel नें Rahul Gandhi से की Secret Meeting, CCTV से खुली",
+      "bm25_score_raw": 4.2088840855441205,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8828057646751404,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Secret Rahul Gandhi-Hardik Patel Meet - Caught On Camera ...",
+      "url": "https://www.youtube.com/watch?v=5c_S47XY8z4",
+      "snippet": "Rahul Gandhi-Hardik Patel Meet - Caught On Camera | Exclusive 24K views8 years ago. Frankly Speaking With Rahul Gandhi - Full Interview",
+      "bm25_score_raw": 2.7401707397425605,
+      "bm25_score_norm": 0.6510444773601585,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8744416236877441,
+      "embedding_score_norm": 0.9289314779053861,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Rahul, Hardik hold 'secret meeting' on day OBC leader ...",
+      "url": "https://timesofindia.indiatimes.com/india/rahul-hardik-hold-secret-meeting-on-day-obc-leader-alpesh-joins-cong/articleshow/61193454.cms",
+      "snippet": "The “secret” meeting reportedly took place after Hardik had claimed that he would not be able to meet the Gandhi scion on Monday morning as he",
+      "bm25_score_raw": 2.54353348015963,
+      "bm25_score_norm": 0.6043249061896663,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8702000379562378,
+      "embedding_score_norm": 0.8928915271525238,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Arnab's Debate REPLAY: Why the secrecy over Rahul ...",
+      "url": "https://www.youtube.com/watch?v=lGBJn1xvq6Q",
+      "snippet": "Arnab's Debate REPLAY: Why the secrecy over Rahul Gandhi's meeting with a White House official?",
+      "bm25_score_raw": 2.204082587433701,
+      "bm25_score_norm": 0.5236738628663752,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8416648507118225,
+      "embedding_score_norm": 0.650433444701552,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Hardik Patel Says Too Busy To Meet Rahul Gandhi today ...",
+      "url": "https://www.youtube.com/watch?v=ImUyXwDg3uA",
+      "snippet": "Hardik Patel, 24, has RSVPed to say he can't meet Congress vice-president Rahul Gandhi today as he is busy, but has kept options open, saying",
+      "bm25_score_raw": 1.8104400803553646,
+      "bm25_score_norm": 0.430147289295403,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8415045738220215,
+      "embedding_score_norm": 0.6490716023197407,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Hardik Pandya and K L Rahul tender unconditional ...",
+      "url": "https://www.reddit.com/r/Cricket/comments/afvhfn/hardik_pandya_and_k_l_rahul_tender_unconditional",
+      "snippet": "Hardik Pandya and K L Rahul tender unconditional apology after Koffee with Karan controversy ... He missed the match because he didn't know about",
+      "bm25_score_raw": 0.9180585877793646,
+      "bm25_score_norm": 0.21812398942810962,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.832940936088562,
+      "embedding_score_norm": 0.5763079941515226,
+      "embedding_rank": 6
+    },
+    {
+      "title": "हार्दिक चुनाव जीतेगा: राहुल गांधी | Hardik Will Win Election ...",
+      "url": "https://www.patrika.com/ahmedabad-news/hardik-will-win-election-says-congress-president-rahul-gandhi-4270485",
+      "snippet": "उन्होंने संवाददाताओं की ओर से पूछे गए हार्दिक पटेल को लोकसभा चुनाव लड़ाने के सवाल के जवाब में कहा कि 'हार्दिक पटेल चुनाव जीतेगा।' हार्दिक की युवा पाटीदारों में लोकप्रियता को कांग्रेस पूरी तरह से इस लोक सभा चुनाव के",
+      "bm25_score_raw": 1.7854221526140897,
+      "bm25_score_norm": 0.42420321309069076,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8035610318183899,
+      "embedding_score_norm": 0.32667251109250756,
+      "embedding_rank": 7
+    },
+    {
+      "title": "गुजरात चुनाव में \\'हाथ मिलाने\\' वाले हार्दिक पटेल ने राहुल गांधी को ...",
+      "url": "https://www.abplive.com/news/india/hardik-patel-said-rahul-gandhi-is-not-my-leader-798138",
+      "snippet": "गुजरात पाटीदार आंदोलन के नेता हार्दिक पटेल ने आज कहा कि वह कांग्रेस अध्यक्ष राहुल गांधी को अपना नेता नहीं मानते. उन्होंने प्रियंका गांधी के सक्रिय राजनीति में प्रवेश की वकालत की.",
+      "bm25_score_raw": 1.3337749716285814,
+      "bm25_score_norm": 0.31689515427844156,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.7984194755554199,
+      "embedding_score_norm": 0.28298568115668987,
+      "embedding_rank": 8
+    },
+    {
+      "title": "कांग्रेस में लगातार इस्तीफों से राहुल गांधी पर उठे सवाल, हार्दिक ...",
+      "url": "https://hindi.news18.com/news/nation/one-more-youth-leader-from-rahul-gandhi-gang-quits-congress-dog-pidi-chicken-sandwiches-theory-to-blame-again-4262467.html",
+      "snippet": "... राहुल गांधी (Rahul Gandhi) की युवा समूह के सदस्य थे. लेकिन अब तक दो युवा नेताओं ने इस ग्रुप को छोड़ दिया है. हार्दिक पटेल ने भी कांग्रेस को अलविदा कह दिया. हार्दिक पटेल ने क्यों छोड़ी कांग्रेस?",
+      "bm25_score_raw": 1.5203936919387535,
+      "bm25_score_norm": 0.36123439397172147,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.7923502922058105,
+      "embedding_score_norm": 0.23141697952577092,
+      "embedding_rank": 9
+    },
+    {
+      "title": "LOP राहुल गांधी protest में घायल हुए छात्रों से हॉस्पिटल में मिले ...",
+      "url": "https://www.instagram.com/reel/DbDFudfyBCx",
+      "snippet": "इस बीच एक और बड़ी खबर मैं आपको बता दूँ, जो घायल छात्र हैं उनसे मुलाक़ात कर सकते हैं नेता विपक्ष राहुल गांधी। एक बहुत ही जेन्युइन प्रॉब्लम है और इसको हल्के में कोई नहीं ले सकता। आज युवा बहुत ही दुखी है।",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.7858574390411377,
+      "embedding_score_norm": 0.17624843570447868,
+      "embedding_rank": 10
+    },
+    {
+      "title": "Every act of arrogance and repression by those in power will ...",
+      "url": "https://www.facebook.com/rahulgandhi/videos/every-act-of-arrogance-and-repression-by-those-in-power-will-fail-indias-youth-a/1049180264228656",
+      "snippet": "हमें ऐतिहासिक तथ्य याद दिलाने के लिए जननेता राहुल गांधी को सलाम कि घमंड और सत्ता हमेशा के लिए नहीं रहती। ... आगे बढ़ो राहुल जी, आपको शुभकामनाएं।",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.7764280438423157,
+      "embedding_score_norm": 0.09612865029720982,
+      "embedding_rank": 11
+    },
+    {
+      "title": "राहुल गांधी - विकिपीडिया",
+      "url": "https://hi.wikipedia.org/wiki/%E0%A4%B0%E0%A4%BE%E0%A4%B9%E0%A5%81%E0%A4%B2_%E0%A4%97%E0%A4%BE%E0%A4%82%E0%A4%A7%E0%A5%80",
+      "snippet": "विकिपीडिया.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.7651145458221436,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

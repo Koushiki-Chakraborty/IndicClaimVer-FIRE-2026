@@ -1,0 +1,57 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1249",
+    "text": "Congress won't support Third Front to form govt: Rahul Gandhi",
+    "lang": "english"
+  },
+  "ranked_evidence": [
+    {
+      "title": "Congress Won't Support Third Front to Form Government: Rahul Gandhi",
+      "url": "https://www.ndtv.com/elections-news/congress-wont-support-third-front-to-form-government-rahul-gandhi-560000",
+      "snippet": "Congress Vice President Rahul Gandhi on Saturday ruled out the possibility of his party supporting the Third Front to form the government.",
+      "bm25_score_raw": 3.052698826699212,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Congress won't support Third Front: Rahul Gandhi",
+      "url": "https://m.rediff.com/amp/news/report/ls-election-congress-wont-support-third-front-rahul-gandhi/20140503.htm",
+      "snippet": "Congress Vice President Rahul Gandhi on Saturday ruled out the possibility of his party supporting the Third Front to form the government.",
+      "bm25_score_raw": 2.9584381553138797,
+      "bm25_score_norm": 0.946512701921274,
+      "bm25_rank": 2
+    },
+    {
+      "title": "Congress won't support Third Front to form govt: Rahul Gandhi",
+      "url": "https://www.thehindubusinessline.com/news/national/Congress-won%E2%80%99t-support-Third-Front-to-form-govt-Rahul-Gandhi/article20764576.ece/amp",
+      "snippet": "“We will not support any front,” Gandhi, who was campaigning in his constituency, said. He was asked whether Congress could support a Third",
+      "bm25_score_raw": 2.7395485573313563,
+      "bm25_score_norm": 0.8223059357105517,
+      "bm25_rank": 3
+    },
+    {
+      "title": "Will Rahul Gandhi refuse to support a Third Front govt?",
+      "url": "https://www.firstpost.com/politics/will-rahul-gandhi-refuse-to-support-a-third-front-govt-1505337.html/amp",
+      "snippet": "Who will have a better shot at forming the next government will be made clear come 16 May, when the results of the Lok Sabha elections will",
+      "bm25_score_raw": 2.1223317889192317,
+      "bm25_score_norm": 0.4720723039523935,
+      "bm25_rank": 4
+    },
+    {
+      "title": "No support to 3rd front: Rahul Gandhi",
+      "url": "https://www.youtube.com/watch?v=36RceCHHcuw",
+      "snippet": "Download Times Now India's Election HQ - Real time election coverage at your fingertips. Android: http://bit.ly/1iwcRBr iOS:",
+      "bm25_score_raw": 1.5365507217156191,
+      "bm25_score_norm": 0.13967655406099969,
+      "bm25_rank": 5
+    },
+    {
+      "title": "Is a non-Congress third front now a distant dream? - Frontline - The Hindu",
+      "url": "https://frontline.thehindu.com/politics/is-a-non-congress-third-front-now-a-distant-dream/article66684699.ece/amp",
+      "snippet": "Opposition parties are now realigning battle lines, possibly seeing the political value in Rahul Gandhi's emergence as a unifying symbol of sacrifice.",
+      "bm25_score_raw": 1.2903987148746499,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/BN/1026",
+    "text": "সামাজিক দূরত্ব বজায় রেখে মদ পৌঁছে দিচ্ছে কুকুর, হতবাক নেটিজেনরা",
+    "lang": "bengali"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Coronavirus: Social distancing hack? A dog delivering wine - YouTube",
+      "url": "https://www.youtube.com/watch?v=67r76mX-Y7U",
+      "snippet": "A dog named Soda is delivering wine to customers at an urban winery in Maryland as a way of maintaining social distancing protocols for",
+      "bm25_score_raw": 8.416204462246576,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9087953567504883,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Dog Delivers Wine Amid Social Distancing | Forecasting Hope",
+      "url": "https://www.youtube.com/watch?v=RYU3T35FusE",
+      "snippet": "Soda Pup has a new job -- delivering wine!",
+      "bm25_score_raw": 5.591895623078583,
+      "bm25_score_norm": 0.6644201252670033,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.9047954678535461,
+      "embedding_score_norm": 0.9737415862496958,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Dog delivers winery's booze during coronavirus outbreak - Fox News",
+      "url": "https://www.foxnews.com/food-drink/coronavirus-outbreak-dog-helps-deliver-wine",
+      "snippet": "It's the social-distancing solution of Stone House Urban Winery in Hagerstown, which has introduced a delivery dog to its intrepid staff.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.8911080360412598,
+      "embedding_score_norm": 0.8838865285302535,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Legend has it the infamous St. Bernard dogs carried small barrels of ...",
+      "url": "https://www.instagram.com/p/C0Moq_bstAX?hl=en",
+      "snippet": "Legend has it the infamous St. Bernard dogs carried small barrels of whiskey on their collar to aid stranded travelers and warm rescue victims",
+      "bm25_score_raw": 1.4243980729679466,
+      "bm25_score_norm": 0.169244708746979,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8408066630363464,
+      "embedding_score_norm": 0.5536687903372857,
+      "embedding_rank": 4
+    },
+    {
+      "title": "The Truth About Saint Bernard Dogs and Barrels",
+      "url": "https://beerconnoisseur.com/articles/truth-about-saint-bernard-dogs-and-barrels",
+      "snippet": "Bernards serving us booze may have been proved false, but it's a testament to how much of an impact the breed has made. People are willing to",
+      "bm25_score_raw": 1.0214064867139974,
+      "bm25_score_norm": 0.12136189077817967,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.836372435092926,
+      "embedding_score_norm": 0.5245590337911707,
+      "embedding_rank": 5
+    },
+    {
+      "title": "The Legend of the Alpine Rescue Dog | by Erin Marques Braga",
+      "url": "https://medium.com/@erinpat82/the-legend-of-the-alpine-rescue-dog-31d2a1f11cc5",
+      "snippet": "Later, Landseer claimed that the barrel contained brandy, a type of alcohol. In reality, the dogs never carried these barrels and it was",
+      "bm25_score_raw": 1.0214064867139974,
+      "bm25_score_norm": 0.12136189077817967,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8201761245727539,
+      "embedding_score_norm": 0.4182337248076606,
+      "embedding_rank": 6
+    },
+    {
+      "title": "মদ খাওয়া বড় দায় জাত থাকার কি উপায়",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/%E0%A6%AE%E0%A6%A6_%E0%A6%96%E0%A6%BE%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A6%BE_%E0%A6%AC%E0%A6%A1%E0%A6%BC_%E0%A6%A6%E0%A6%BE%E0%A6%AF%E0%A6%BC_%E0%A6%9C%E0%A6%BE%E0%A6%A4_%E0%A6%A5%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%B0_%E0%A6%95%E0%A6%BF_%E0%A6%89%E0%A6%AA%E0%A6%BE%E0%A6%AF%E0%A6%BC.pdf",
+      "snippet": "বিধ নরন গোচের মদর নাম ও সহ্য করেন না, জল না মিশা‍ইয়া. কেবল ব্রাণ্ডি বোতল পান করেন, তাঁহারা প্লীহ পক্ষাঘাত ও. অন্যান্য রোগে যে শীঘ্র আক্রান্ত হবেন তাহাতে আশ্চার্য কি ? / মদ্য পানে যে কেবল শরীর নষ্ট হয় এমত নহে; ...Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.7936006784439087,
+      "embedding_score_norm": 0.24377161397662736,
+      "embedding_rank": 7
+    },
+    {
+      "title": "মদ খাওয়া বড় দায় জাত থাকার কি উপায়",
+      "url": "https://ia801408.us.archive.org/4/items/in.ernet.dli.2015.291534/2015.291534.Mod-Khayoa_text.pdf",
+      "snippet": "তাহারা ক্রমেং ছট্ফক পড়িতে লাগিল। তবানীবাবুর. এমন অভ্যাস হইয়াছিল কেহ কাছে থাকুক বা না থাকুক. আপনি গ্রতাহই পুর্ণ মাত্রাটি লইবেন। এই প্রকার তাঁবে. কিছুকাল থাকেন, দৈবাৎ একদিন তাঁহার পক্ষাঘাত হঈ'ল, এক. হাত ও এক পা!Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.7894574403762817,
+      "embedding_score_norm": 0.21657214362910554,
+      "embedding_rank": 8
+    },
+    {
+      "title": "পবিত্র বেদে সুরা বা মদ্যপান নিয়ে কী বলা হয়েছে? মদ ও মাদক ...",
+      "url": "https://www.facebook.com/BangladeshAgniveerOfficial/posts/%E0%A6%AA%E0%A6%AC%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%AC%E0%A7%87%E0%A6%A6%E0%A7%87-%E0%A6%B8%E0%A7%81%E0%A6%B0%E0%A6%BE-%E0%A6%AC%E0%A6%BE-%E0%A6%AE%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%AA%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%95%E0%A7%80-%E0%A6%AC%E0%A6%B2%E0%A6%BE-%E0%A6%B9%E0%A7%9F%E0%A7%87%E0%A6%9B%E0%A7%87%E0%A6%AE%E0%A6%A6-%E0%A6%93-%E0%A6%AE%E0%A6%BE%E0%A6%A6%E0%A6%95-%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%AC%E0%A7%8D%E0%A6%AF-%E0%A6%B8%E0%A6%AE%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%B0-%E0%A6%8F%E0%A6%95-%E0%A6%85%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%AA-%E0%A6%A4/928094096022306",
+      "snippet": "নাতনী যুবক মদ্যপানে রত হয়ে পড়ে,অনেকেই ・ কি সনাতন ধর্মে কোন বিধিনিষেধ ই নেই! , তথা বিধি নিষেধাদিরূপ ・ রত হয়ে পড়ে,অনেকেই",
+      "bm25_score_raw": 2.95714176991092,
+      "bm25_score_norm": 0.35136287184752596,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.7894229888916016,
+      "embedding_score_norm": 0.21634597701239378,
+      "embedding_rank": 9
+    },
+    {
+      "title": "মদ বা মাদকদ্রব্য সকল অকল্যাণ ও অঘটনের মূল",
+      "url": "https://www.hadithbd.com/books/link?id=9586",
+      "snippet": "কাজগুলো হলো: মদ্যপান, মানব হত্যা, ব্যভিচার ও শূকরের মাংস খাওয়া। এমনকি তাকে এর কোনো না কোনো একটি করতে অস্বীকার করলে তাকে হত্যার হুমকিও দেওয়া হয়। পরিশেষে উক্ত ব্যক্তি বাধ্য হয়ে মদ্য পানকেই সহজ মনে করে তা করতে রাজি হলো ...Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.7724959850311279,
+      "embedding_score_norm": 0.10522382277928251,
+      "embedding_rank": 10
+    },
+    {
+      "title": "মদ খাওয়ার বিষয়ে বাইবেল কি বলে? একজন খ্রীষ্টিয়ানের জন্য ...",
+      "url": "https://www.gotquestions.org/Bengali/Bengali-alcohol-sin.html",
+      "snippet": "মদ খাওয়া সম্পর্কে শাস্ত্রে অনেক কিছুই বলা হয়েছে (লেবীয় ১০:৯; গণনা ৬:৩; দ্বিতীয় বিবরণ ২৯:৬; বিচারকর্তৃগণ ১৩:৪, ৭, ১৪; হিতোপদেশ ২০:১; ৩১:৪; যিশাইয় ৫:১১, ২২; ২৪:৯; ২৮:৭; ২৯:৯; ৫৬:১২)।Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.7651415467262268,
+      "embedding_score_norm": 0.05694351077891313,
+      "embedding_rank": 11
+    },
+    {
+      "title": "মদ",
+      "url": "https://bn.wikipedia.org/wiki/%E0%A6%AE%E0%A6%A6",
+      "snippet": "ইসলামে সকল প্রকার মাদকদ্রব্য ও মদ খাওয়া হারাম। তবে বিশ্বের কিছু কিছু অঞ্চলে নির্দিষ্ট মাত্রায় মদ্যপান আইনসিদ্ধ। ২০১৪ সালে বিশ্বে মদ্য উৎপাদন ব্যবসায় অর্থের পরিমাণ ১ ট্রিলিয়ন মার্কিন ডলার ছাড়িয়ে যায়।Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.7564674615859985,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

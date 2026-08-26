@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/1613",
+    "text": "कब्जे से अतिरिक्त राहत के साथ स्वामित्व की घोषणा के लिए वाद में 3 वर्ष की सीमा अवधि लागू होती है; 12 वर्ष नहीं: सुप्रीम कोर्ट",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "In Suit For Declaration Of Title With Further Relief Of Possession, ...",
+      "url": "https://x.com/LiveLawIndia/status/1870392313677336929",
+      "snippet": "In Suit For Declaration Of Title With Further Relief Of Possession, Limitation Period Of 12 Years Applies; Not 3 Years : Supreme Court",
+      "bm25_score_raw": 4.856222803606181,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9553430080413818,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "In Suit For Declaration Of Title With Further Relief Of Possession, ...",
+      "url": "https://www.livelaw.in/amp/supreme-court/in-suit-for-declaration-of-title-with-further-relief-of-possession-limitation-period-of-12-years-applies-not-3-years-supreme-court-279116",
+      "snippet": "In Suit For Declaration Of Title With Further Relief Of Possession, Limitation Period Of 12 Years Applies; Not 3 Years : Supreme Court · This is",
+      "bm25_score_raw": 4.745253428507881,
+      "bm25_score_norm": 0.9682017408289738,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.9517605304718018,
+      "embedding_score_norm": 0.9776985632671175,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Limitation Period of Suit for Title Declaration",
+      "url": "https://drishtijudiciary.com/current-affairs/limitation-period-of-suit-for-title-declaration",
+      "snippet": "# Limitation Period of Suit for Title Declaration. A bench comprising of Justice Pankaj Mithal and Justice Ujjal Bhuyan held that if in a suit for declaration of title, a further relief of recovery of possession is also sought, then the limitation period for filing the suit would be governed by the limitation period prescribed for filing a suit for recovery of possession (i.e., 12 years as per Article 65 of Limitation Act) and not the one prescribed for seeking declaration of title (i.e., 3 years as per Article 58 of the Limitation Act) . * “Even otherwise, though the limitation for filing a suit for declaration of title is three years as per Article 58 of the Schedule to the Limitation Act but for recovery of possession based upon title, the limitation is 12 years from the date the possession of the defendant becomes adverse in terms of Article 65 of the Schedule to the Limitation Act. Therefore, suit for the relief of possession was not actually barred and as such the court of first instance could not have dismissed the entire suit as barred by time.”.",
+      "bm25_score_raw": 3.307885747542845,
+      "bm25_score_norm": 0.556324229552595,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.9341219067573547,
+      "embedding_score_norm": 0.8678956006015421,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Limitation for Declaration and Possession Claims",
+      "url": "https://mahendrabhavsar.com/limitation-for-declaration-and-possession-claims",
+      "snippet": "Supreme Court affirms 12-year limitation for suits seeking title and possession claims under Article 65 of the Limitation Act",
+      "bm25_score_raw": 2.113123601058927,
+      "bm25_score_norm": 0.21396530081236337,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.9338735342025757,
+      "embedding_score_norm": 0.8663494458220612,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Applicability of Limitation in Suits for Possession: A Landmark Supreme ...",
+      "url": "https://www.linkedin.com/pulse/applicability-limitation-suits-possession-landmark-supreme-shukla-vu6xc",
+      "snippet": "This provision applies to suits seeking a declaration, with a three-year limitation period starting from the date when the \"right to sue first",
+      "bm25_score_raw": 3.5171263738781944,
+      "bm25_score_norm": 0.6162821022487815,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.92070072889328,
+      "embedding_score_norm": 0.7843468432951538,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Limitation for Title Declaration Suit in India: A Comprehensive Guide",
+      "url": "https://supremetoday.ai/issue/limitation-period-title-declaration-suit-india",
+      "snippet": "Suits for declaration of title are primarily governed by Article 58 of the Limitation Act, with a general limitation period of three years from when the right",
+      "bm25_score_raw": 2.167452440597641,
+      "bm25_score_norm": 0.22953322230946818,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.91375333070755,
+      "embedding_score_norm": 0.7410982930703547,
+      "embedding_rank": 6
+    },
+    {
+      "title": "Ep.443 Supreme Court furious over Hate Speech: Asks Govt to make ...",
+      "url": "https://www.youtube.com/watch?v=MALAQ15o_64",
+      "snippet": "Supreme Court furious over Hate Speech: Asks Govt to make law quickly, act without complaint | LIVE In this LIVE session, Senior Journalist",
+      "bm25_score_raw": 1.5404549997486088,
+      "bm25_score_norm": 0.04986719187515802,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.8120386600494385,
+      "embedding_score_norm": 0.1079098785079291,
+      "embedding_rank": 7
+    },
+    {
+      "title": "भारत का सर्वोच्च न्यायालय | भारत",
+      "url": "https://www.sci.gov.in/hi",
+      "snippet": "## वाद सूची. ## वाद प्रस्थिति. ## दैनिक आदेश. ## कार्यालय रिपोर्ट. ## महत्वपूर्ण निर्णय सारांश. ## समाधान समारोह, 2026. ## लाइव स्ट्रीमिंग. #### सूचीबद्ध नोटिस. ## अन्वेषण करें और कनेक्ट संयोजित करें. ## न्यायाधीश पुस्तकालय. ## अनुसंधान एवं योजना केंद्र. ## लि.सं.आं.शि.स. ## स.न्या.वि.से.स. #### प्रेस विज्ञप्ति. #### निविदाएँ. ## मुख्य न्यायाधीश एवं न्यायाधीश. ## न्यायमूर्ति सूर्यकान्त. भारत के मुख्य न्यायाधीश. ## न्यायमूर्ति विक्रम नाथ. ## न्यायमूर्ति बी.वी. Honourable Mr Justice M M Sundresh. Honourable Mr Justice Pamidighantam Sri Narasimha. ## न्यायमूर्ति पमिदिघनतम श्री नरसिम्हा. **रजिस्ट्रार, सुप्रीम कोर्ट औफ इंडिया , तिलक मार्ग, नई दिल्ली-110001**. **अधिकारियों की टेलीफोन सूची,. * निर्देशित दौरा. जानकारी सर्वोच्च न्यायालय द्वारा विनियमित हैI ।. एक सेवा के रूप में सुरक्षित, मापनीय और सुगम वेबसाइट. राष्ट्रीय सूचना केंद्र. राष्ट्रीय कानूनी सेवा प्राधिकरण. सुप्रीम कोर्ट कानूनी सेवा समिति. #### Please Select Language. #### The selected language is not available in voice.Kindly click continue to proceed with the text or Select other language to continue with voice services.",
+      "bm25_score_raw": 1.8361454564941653,
+      "bm25_score_norm": 0.13459725158456237,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.802297830581665,
+      "embedding_score_norm": 0.04727181786912636,
+      "embedding_rank": 8
+    },
+    {
+      "title": "सुप्रीम कोर्ट ने ब्राह्मणों के खिलाफ नफरती भाषणों को जाति-आधारित भेदभाव ...",
+      "url": "https://www.instagram.com/p/DWIZ1_Ek9px",
+      "snippet": "हालांकि, सुप्रीम कोर्ट ने यह भी साफ कर दिया है कि अश्लीलता का अपराध न माने जाने पर भी, किसी को गाली देना या भद्दे शब्द बोलना अन्य धाराओं (जैसे धमकी देना, शांति भंग करना या मानहानि) के तहत अपराध हो सकता है।#",
+      "bm25_score_raw": 2.950882228314755,
+      "bm25_score_norm": 0.45402492022218616,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.798793375492096,
+      "embedding_score_norm": 0.025456082265675178,
+      "embedding_rank": 9
+    },
+    {
+      "title": "Chunav Ayog और Supreme Court पर बड़ी बहस-विपक्ष के निशाने पर modi ...",
+      "url": "https://www.youtube.com/watch?v=1_ieAjQxCQ0",
+      "snippet": "Chunav Ayog और Supreme Court पर बड़ी बहस-विपक्ष के निशाने पर modi sarkar | #dblive. @DBLive500 likes18K views1 month ago",
+      "bm25_score_raw": 1.5594166067662576,
+      "bm25_score_norm": 0.05530063775797239,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.7976306080818176,
+      "embedding_score_norm": 0.018217688352040927,
+      "embedding_rank": 10
+    },
+    {
+      "title": "Ep.625 Live: Supreme Court's big decision on Maharashtra-Delhi ...",
+      "url": "https://www.youtube.com/watch?v=wfUAsNRknt0",
+      "snippet": "The Supreme Court has given its verdict in the case of disqualification of the MLAs who broke away from the Shiv Sena in Maharashtra.",
+      "bm25_score_raw": 1.3664287711261454,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.7961658239364624,
+      "embedding_score_norm": 0.009099196941975227,
+      "embedding_rank": 11
+    },
+    {
+      "title": "क्या हेट स्पीच होगी बंद? नफरती भाषण पर सुप्रीम कोर्ट का आया आदेश",
+      "url": "https://ndtv.in/videos/will-hate-speech-stop-supreme-court-s-order-on-hate-speech-696778",
+      "snippet": "संबंधित वीडियो ... 'कोई झटका नहीं, लड़ाई जारी रहेगी' – सुप्रीम कोर्ट के फैसले पर मीनाक्षी. 6:45. 'कोई झटका नहीं, लड़ाई जारी रहेगी' – सुप्रीम कोर्ट के फैसले पर मीनाक्षी. जून 12, 2026 14:22 pm IST.",
+      "bm25_score_raw": 3.504612393713828,
+      "bm25_score_norm": 0.6126962229539299,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.7947041392326355,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

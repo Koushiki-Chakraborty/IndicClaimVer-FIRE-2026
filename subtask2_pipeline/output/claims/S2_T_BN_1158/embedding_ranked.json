@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/BN/1158",
+    "text": "কেরলে আটক ঠিকাকর্মীদের খাবার পাঠাচ্ছেন স্মৃতি ইরানি! দাবি ওড়ালেন বিজয়ন",
+    "lang": "bengali"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Kerala CM: Report on Smriti Irani Helping Wayanad Migrants Untrue",
+      "url": "https://www.thequint.com/amp/story/news/politics/coronavirus-kerala-cm-vijayan-smriti-irani-wayanad-help-false-rahul-gandhi-amethi-covid-19",
+      "snippet": "Kerala CM Pinarayi Vijayan dismissed as “propaganda” a report that BJP MP and Union Minister Smriti Irani helped migrant workers from her Amethi",
+      "bm25_score_raw": 3.505075745074458,
+      "bm25_score_norm": 0.44538401720109044,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.9124327898025513,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Some #RSS channels claimed that Minister Smriti Irani has sent food ...",
+      "url": "https://www.facebook.com/gandhipriyanka/posts/some-rss-channels-claimed-that-minister-smriti-irani-has-sent-food-items-to-some/10157300296963129",
+      "snippet": "The false claims of Smriti Ji have been exposed by the Kerala CM as well as those workers, who are being fed by their sponsors only.",
+      "bm25_score_raw": 2.9102688997901223,
+      "bm25_score_norm": 0.36980292238916723,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.9084525108337402,
+      "embedding_score_norm": 0.9703025688735984,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Reports that Smriti Irani helped migrant workers in Wayanad are ...",
+      "url": "https://www.thenewsminute.com/amp/story/kerala/reports-smriti-irani-helped-migrant-workers-wayanad-are-false-contends-kerala-cm-122170",
+      "snippet": "Reports that Smriti Irani helped migrant workers in Wayanad are false, contends Kerala CM. While several news reports had claimed that Union",
+      "bm25_score_raw": 1.1160408390922998,
+      "bm25_score_norm": 0.14181341244163187,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.9011098146438599,
+      "embedding_score_norm": 0.915517661561888,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Law and order has completely broken down in Kerala, says Smriti Irani",
+      "url": "https://www.hindustantimes.com/india-news/law-and-order-has-completely-broken-down-in-kerala-says-smriti-irani/story-qE3k3plH7B2hbscaeHz6TI_amp.html",
+      "snippet": "Union minister Smriti Irani on Thursday alleged that law and order in Kerala had “broken down” and the CPI(M)-led state government was not",
+      "bm25_score_raw": 1.0911094243624244,
+      "bm25_score_norm": 0.1386454199488869,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.8787336349487305,
+      "embedding_score_norm": 0.7485657819134648,
+      "embedding_rank": 4
+    },
+    {
+      "title": "কেরলে আটক ঠিকাকর্মীদের খাবার পাঠাচ্ছেন স্মৃতি ইরানি! দাবি ...",
+      "url": "https://www.sangbadpratidin.in/app/india/covid-19-kerala-propaganda-kerala-cm-in-row-starring-smriti-irani/pid/393588",
+      "snippet": "Apr 9, 2020 — কেরলে আটক ঠিকাকর্মীদের খাবার পাঠাচ্ছেন স্মৃতি ইরানি! দাবি ওড়ালেন বিজয়ন. 'রাজ্যের প্রচেষ্টাকে খাটো করে দেখানোর চেষ্টা', পালটা অভিযোগ কেরলের মুখ্যমন্ত্রীর। Advertisement ...Read more",
+      "bm25_score_raw": 7.869783399730574,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8699175715446472,
+      "embedding_score_norm": 0.6827878709177039,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Smriti Irani case: 4 Fabindia staffers arrested, senior executives to be ...",
+      "url": "https://www.youtube.com/watch?v=Hg3xDtjKeZc",
+      "snippet": "Union minister Smriti Irani claimed to have discovered a camera trained on the trial room - were arrested on Friday evening.",
+      "bm25_score_raw": 2.571514252641435,
+      "bm25_score_norm": 0.32675794517158785,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.866889238357544,
+      "embedding_score_norm": 0.6601930435308537,
+      "embedding_rank": 6
+    },
+    {
+      "title": "Amid Sabarimala Row, Smriti Irani's Sanitary Pad Comment, And A ...",
+      "url": "https://www.ndtv.com/india-news/smriti-irani-will-you-take-soaked-sanitary-pads-to-friends-smriti-irani-on-sabarimala-1936170",
+      "snippet": "The activist had emphatically denied it. Smriti Irani, responding to the buzz on social media over her remarks, put out a series of tweets to -",
+      "bm25_score_raw": 2.0117352368010266,
+      "bm25_score_norm": 0.255627777108821,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8617343902587891,
+      "embedding_score_norm": 0.6217319839972392,
+      "embedding_rank": 7
+    },
+    {
+      "title": "কেরলের বাম সরকারের প্রাক্তন মুখ্যমন্ত্রী বিজয়নের বাড়িতে ...",
+      "url": "https://www.anandabazar.com/india/ed-raids-ex-kerala-cm-pinarayi-vijayans-home-in-corruption-case-dgtl/cid/1689406",
+      "snippet": "May 27, 2026 — কেরলের প্রাক্তন মুখ্যমন্ত্রী পিনারাই বিজয়নের বাড়িতে তল্লাশি অভিযানে এনফোর্সমেন্ট ডিরেক্টরেট (ইডি)। জানা গিয়েছে, 'কোচিন মিনারেলস অ্যান্ড রুটাইল লিমিটেড' সংক্রান্ত এক দুর্নীতি মামলার সূত্র ধরেই এই তল্লাশি।Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.8067026138305664,
+      "embedding_score_norm": 0.21113202277671736,
+      "embedding_rank": 8
+    },
+    {
+      "title": "বিজয়নের ঘরে তল্লাশি",
+      "url": "https://www.aaroananda.com/story/latest-news/breaking-news/kerala-politics-ed-raids-former-cm-pinarayi-vijayan-house/11002842",
+      "snippet": "May 27, 2026 — 'কোচিন মিনারেলস অ্যান্ড রুটাইল লিমিটেড' (সিএমআরএল) অর্থ পাচার তদন্তের সূত্রে এই অভিযান। মোট ১০ জায়গায় চলেছে তল্লাশি। তার মধ্যে রয়েছে বিজয়নের বাড়ি। এর আগে কেরল হাই কোর্ট সিএমআরএলের আবেদন খারিজ করে ...Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.8040082454681396,
+      "embedding_score_norm": 0.1910289547507529,
+      "embedding_rank": 9
+    },
+    {
+      "title": "কেরলে সিপিএমের সদ্য প্রাক্তন মুখ্যমন্ত্রী বিজয়ন ও তাঁর ...",
+      "url": "https://www.thewall.in/India/ed-raids-former-kerala-cm-pinarayi-vijayans-house-daughter-veenas-firm-in-cmrl-case/tid/195577",
+      "snippet": "May 27, 2026 — সংশ্লিষ্ট মামলাটি বিজয়ন কন্যা ভিনা টি'র কোম্পানি এক্জালজিক সল্যুশননের সঙ্গে কেরলের কোচিনে অবস্থিত সিএমআরএলের লেনদেন সংক্রান্ত। মামলায় বিজয়নের নাম এসেছে মুখ্যমন্ত্রী হিসেবে তাঁর কন্যার কোম্পানিকে বাড়তি সুবিধা দেওয়ার ...Read more",
+      "bm25_score_raw": 1.3196179542890323,
+      "bm25_score_norm": 0.16768161044104596,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.7862781286239624,
+      "embedding_score_norm": 0.05874201507418799,
+      "embedding_rank": 10
+    },
+    {
+      "title": "ইতিহাস গড়ল বামশাসিত কেরল। দেশের প্রথম রাজ্য হিসেবে চরম ...",
+      "url": "https://www.facebook.com/VanguardTripura/videos/%E0%A6%87%E0%A6%A4%E0%A6%BF%E0%A6%B9%E0%A6%BE%E0%A6%B8-%E0%A6%97%E0%A6%A1%E0%A6%BC%E0%A6%B2-%E0%A6%AC%E0%A6%BE%E0%A6%AE%E0%A6%B6%E0%A6%BE%E0%A6%B8%E0%A6%BF%E0%A6%A4-%E0%A6%95%E0%A7%87%E0%A6%B0%E0%A6%B2-%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A5%E0%A6%AE-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A7%8D%E0%A6%AF-%E0%A6%B9%E0%A6%BF%E0%A6%B8%E0%A7%87%E0%A6%AC%E0%A7%87-%E0%A6%9A%E0%A6%B0%E0%A6%AE-%E0%A6%A6%E0%A6%BE%E0%A6%B0%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%B0-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A6%AE%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4-%E0%A6%B9%E0%A6%B2-%E0%A6%95%E0%A6%A8%E0%A6%93/849575327427911",
+      "snippet": "ইতিহাস গড়ল বামশাসিত কেরল। দেশের প্রথম রাজ্য হিসেবে চরম দারিদ্র থেকে মুক্ত হল কনও রাজ্য। শনিবার ঘোষণা করলেন কেরলের মুখ্যমন্ত্রী পিনারাই বিজয়ন।Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.7822965979576111,
+      "embedding_score_norm": 0.029035244853269485,
+      "embedding_rank": 11
+    },
+    {
+      "title": "পিনারাই বিজয়ন",
+      "url": "https://bn.wikipedia.org/wiki/%E0%A6%AA%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A6%87_%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A6%AF%E0%A6%BC%E0%A6%A8",
+      "snippet": "পিনারাই বিজয়ন (মালয়ালম: പിണറായി വിജയൻ , আধ্বব: [piɳɐrɐːji ʋid͡ʒɐjɐn̺] ; জন্ম ২৪শে মে ১৯৪৫), একজন ভারতীয় রাজনৈতিক ব্যক্তিত্ব যিনি ২৫শে মে, ২০১৬ তারিখ থেকে কেরল রাজ্যের মুখ্যমন্ত্রীর পদে আসীন।Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.7784050703048706,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

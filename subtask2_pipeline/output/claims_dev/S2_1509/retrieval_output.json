@@ -1,0 +1,108 @@
+{
+  "claim": {
+    "id": "S2/1509",
+    "text": "Vaccine certificates issued in 5 poll-bound states will feature PM Modi's picture.",
+    "lang": "dev"
+  },
+  "generated_queries": {
+    "english_translation": "Vaccine certificates issued in 5 poll-bound states will feature PM Modi's picture.",
+    "native_query": "Modi Vaccine certificates issued poll bound feature picture",
+    "english_query": "Modi Vaccine certificates issued poll bound feature picture"
+  },
+  "native_retrieval": [
+    {
+      "title": "Covid Vaccination Certificate won't have PM's Photo in 5 Poll- ...",
+      "url": "https://www.facebook.com/valleyexplore/posts/national_update-10-january-2022-covid-vaccination-certificate-wont-have-pms-phot/406426714596788",
+      "snippet": "Covid-19 vaccination certificates issued in the five-poll bound states will not have the name or picture of Prime Minister Narendra Modi. The Union Health"
+    },
+    {
+      "title": "Covid vaccination certificates issued in the five poll",
+      "url": "https://www.facebook.com/EconomicTimes/posts/covid-vaccination-certificates-issued-in-the-five-poll-bound-states-will-not-hav/10158508300797694",
+      "snippet": "Five-poll bound states have removed the name and picture of Prime Minister Narendra Modi in the new Covid-19 vaccination certificates."
+    },
+    {
+      "title": "Health Ministry Removes PM Modi's Picture from Vaccine ...",
+      "url": "https://www.facebook.com/thesentinel.assam/posts/health-ministry-removes-pm-modis-picture-from-vaccine-certificates-in-5-statesmo/1849591685238013",
+      "snippet": "In a bid to comply with the model code of conduct , PM Narendra Modi's photo has been removed from COVID-19 vaccine certificates in poll-bound"
+    },
+    {
+      "title": "Meet the man from Kottayam, #Kerala who feels the Prime ...",
+      "url": "https://www.facebook.com/deccanherald/posts/meet-the-man-from-kottayam-kerala-who-feels-the-prime-ministers-picture-on-vacci/10161426355858128",
+      "snippet": "Five-poll bound states have removed the name and picture of Prime Minister Narendra Modi in the new Covid-19 vaccination certificates."
+    },
+    {
+      "title": "What do you think about the recent statement by the High ...",
+      "url": "https://www.quora.com/What-do-you-think-about-the-recent-statement-by-the-High-Court-of-Kerala-regarding-PM-Modis-photograph-on-the-COVID-vaccination-certificates-issued-to-all-the-vaccinated-Indian-public-Refer-to-the-comments-for-the",
+      "snippet": "Modi's photograph on the COVID vaccination certificates issued to all the vaccinated Indian public? Modi's photo in 5 poll-bound states? Modi's"
+    },
+    {
+      "title": "PM Modi's photo removed from vaccine certificate as per ...",
+      "url": "https://www.altnews.in/covishield-astrazeneca-vaccine-certificate-pm-modi-photo-removed",
+      "snippet": "However, in reality, the image was removed from the vaccine certificate to comply with the Model Code of Conduct in poll-bound states."
+    }
+  ],
+  "english_retrieval": [
+    {
+      "title": "Covid Vaccination Certificate won't have PM's Photo in 5 Poll- ...",
+      "url": "https://www.facebook.com/valleyexplore/posts/national_update-10-january-2022-covid-vaccination-certificate-wont-have-pms-phot/406426714596788",
+      "snippet": "Covid-19 vaccination certificates issued in the five-poll bound states will not have the name or picture of Prime Minister Narendra Modi. The Union Health"
+    },
+    {
+      "title": "Covid vaccination certificates issued in the five poll",
+      "url": "https://www.facebook.com/EconomicTimes/posts/covid-vaccination-certificates-issued-in-the-five-poll-bound-states-will-not-hav/10158508300797694",
+      "snippet": "Five-poll bound states have removed the name and picture of Prime Minister Narendra Modi in the new Covid-19 vaccination certificates."
+    },
+    {
+      "title": "Health Ministry Removes PM Modi's Picture from Vaccine ...",
+      "url": "https://www.facebook.com/thesentinel.assam/posts/health-ministry-removes-pm-modis-picture-from-vaccine-certificates-in-5-statesmo/1849591685238013",
+      "snippet": "In a bid to comply with the model code of conduct , PM Narendra Modi's photo has been removed from COVID-19 vaccine certificates in poll-bound"
+    },
+    {
+      "title": "Meet the man from Kottayam, #Kerala who feels the Prime ...",
+      "url": "https://www.facebook.com/deccanherald/posts/meet-the-man-from-kottayam-kerala-who-feels-the-prime-ministers-picture-on-vacci/10161426355858128",
+      "snippet": "Five-poll bound states have removed the name and picture of Prime Minister Narendra Modi in the new Covid-19 vaccination certificates."
+    },
+    {
+      "title": "What do you think about the recent statement by the High ...",
+      "url": "https://www.quora.com/What-do-you-think-about-the-recent-statement-by-the-High-Court-of-Kerala-regarding-PM-Modis-photograph-on-the-COVID-vaccination-certificates-issued-to-all-the-vaccinated-Indian-public-Refer-to-the-comments-for-the",
+      "snippet": "Modi's photograph on the COVID vaccination certificates issued to all the vaccinated Indian public? Modi's photo in 5 poll-bound states? Modi's"
+    },
+    {
+      "title": "PM Modi's photo removed from vaccine certificate as per ...",
+      "url": "https://www.altnews.in/covishield-astrazeneca-vaccine-certificate-pm-modi-photo-removed",
+      "snippet": "However, in reality, the image was removed from the vaccine certificate to comply with the Model Code of Conduct in poll-bound states."
+    }
+  ],
+  "merged_results": [
+    {
+      "title": "Covid Vaccination Certificate won't have PM's Photo in 5 Poll- ...",
+      "url": "https://www.facebook.com/valleyexplore/posts/national_update-10-january-2022-covid-vaccination-certificate-wont-have-pms-phot/406426714596788",
+      "snippet": "Covid-19 vaccination certificates issued in the five-poll bound states will not have the name or picture of Prime Minister Narendra Modi. The Union Health"
+    },
+    {
+      "title": "Covid vaccination certificates issued in the five poll",
+      "url": "https://www.facebook.com/EconomicTimes/posts/covid-vaccination-certificates-issued-in-the-five-poll-bound-states-will-not-hav/10158508300797694",
+      "snippet": "Five-poll bound states have removed the name and picture of Prime Minister Narendra Modi in the new Covid-19 vaccination certificates."
+    },
+    {
+      "title": "Health Ministry Removes PM Modi's Picture from Vaccine ...",
+      "url": "https://www.facebook.com/thesentinel.assam/posts/health-ministry-removes-pm-modis-picture-from-vaccine-certificates-in-5-statesmo/1849591685238013",
+      "snippet": "In a bid to comply with the model code of conduct , PM Narendra Modi's photo has been removed from COVID-19 vaccine certificates in poll-bound"
+    },
+    {
+      "title": "Meet the man from Kottayam, #Kerala who feels the Prime ...",
+      "url": "https://www.facebook.com/deccanherald/posts/meet-the-man-from-kottayam-kerala-who-feels-the-prime-ministers-picture-on-vacci/10161426355858128",
+      "snippet": "Five-poll bound states have removed the name and picture of Prime Minister Narendra Modi in the new Covid-19 vaccination certificates."
+    },
+    {
+      "title": "What do you think about the recent statement by the High ...",
+      "url": "https://www.quora.com/What-do-you-think-about-the-recent-statement-by-the-High-Court-of-Kerala-regarding-PM-Modis-photograph-on-the-COVID-vaccination-certificates-issued-to-all-the-vaccinated-Indian-public-Refer-to-the-comments-for-the",
+      "snippet": "Modi's photograph on the COVID vaccination certificates issued to all the vaccinated Indian public? Modi's photo in 5 poll-bound states? Modi's"
+    },
+    {
+      "title": "PM Modi's photo removed from vaccine certificate as per ...",
+      "url": "https://www.altnews.in/covishield-astrazeneca-vaccine-certificate-pm-modi-photo-removed",
+      "snippet": "However, in reality, the image was removed from the vaccine certificate to comply with the Model Code of Conduct in poll-bound states."
+    }
+  ]
+}

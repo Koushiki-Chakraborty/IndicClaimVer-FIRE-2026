@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/HI/1058",
+    "text": "कांग्रेस ने मोदी की सीप्लेन यात्रा को 'हवा हवाई' कह ली चुटकी",
+    "lang": "hindi"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Congress mocks Modi's seaplane travel, calls it 'Hawa Hawai'",
+      "url": "https://www.theweek.in/news/india/narendra-modi-gujarat-election-seaplane-congress-hawa-hawai.html",
+      "snippet": "The Congress on Tuesday mocked Prime Minister Narendra Modi for taking a seaplane for campaigning in Gujarat, terming it \"Hawa Hawai\".",
+      "bm25_score_raw": 0.995603381497027,
+      "bm25_score_norm": 0.16921911562426376,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.9418626427650452,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Congress calls Narendra Modi's seaplane flight a 'distraction'",
+      "url": "https://www.youtube.com/watch?v=0BCR6ceRqB4",
+      "snippet": "Between the Gujarat polls, Modi flew on a seaplane. Modi said this was the first time a seaplane has flown in the country He landed on the",
+      "bm25_score_raw": 1.0069784044441297,
+      "bm25_score_norm": 0.17220072774613146,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8905119895935059,
+      "embedding_score_norm": 0.6331024255959226,
+      "embedding_rank": 2
+    },
+    {
+      "title": "PM Modi's seaplane ride - development or distraction from ...",
+      "url": "https://www.thestatesman.com/india/pm-modis-seaplane-ride-development-or-distraction-from-issues-asks-rahul-1502543907.html/amp",
+      "snippet": "In the first media interaction and press conference as Congress president, Rahul Gandhi called Prime Minister Narendra Modi's seaplane ride",
+      "bm25_score_raw": 0.35002265381046727,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.8656924962997437,
+      "embedding_score_norm": 0.4557685198907724,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Modi ends Gujarat campaign with tweets on seaplane ride, appeals for ...",
+      "url": "https://www.indiatoday.in/amp/india/story/modi-ends-gujarat-campaign-tweets-seaplane-ride-appeals-record-vote-1105741-2017-12-12",
+      "snippet": "PM Modi has posted a series of tweets, attacking the Congress for questioning his seaplane ride, and appealing to voters in his home state",
+      "bm25_score_raw": 0.9974987192510347,
+      "bm25_score_norm": 0.16971592007456357,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8552491664886475,
+      "embedding_score_norm": 0.3811515064792149,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Modi's seaplane ride triggers security row",
+      "url": "https://www.gulf-times.com/story/574609/modis-seaplane-ride-triggers-security-row/amp",
+      "snippet": "Prime Minister Narendra Modi yesterday flew in a seaplane from the Sabarmati riverfront to Dharoi Dam on the last day of campaigning for the Gujarat elections.",
+      "bm25_score_raw": 0.5006254743435761,
+      "bm25_score_norm": 0.039475893576404464,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.850735068321228,
+      "embedding_score_norm": 0.3488985249501304,
+      "embedding_rank": 5
+    },
+    {
+      "title": "#InPics Narendra Modi Takes 'First-Ever' Seaplane Flight for ...",
+      "url": "https://www.facebook.com/cnnnews18/posts/inpics-narendra-modi-takes-first-ever-seaplane-flight-for-campaigningsee-more-pi/10156932738449202",
+      "snippet": "InPics Narendra Modi Takes 'First-Ever' Seaplane Flight for Campaigning. See more pics here:",
+      "bm25_score_raw": 4.165080576226368,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8486635088920593,
+      "embedding_score_norm": 0.3340973474995358,
+      "embedding_rank": 6
+    },
+    {
+      "title": "कांग्रेस ने PM मोदी के लिए बुक किया हवाई टिकट, कहा- बस प्लेन में बैठिए, लोग कर रहे ...",
+      "url": "https://www.aajtak.in/amp/india/news/story/congress-books-flight-pm-modi-assam-to-manipur-visit-ntc-ksrj-dskc-2467741-2026-02-14",
+      "snippet": "असम के दौरे पर पहुंचे प्रधानमंत्री नरेंद्र मोदी पर कांग्रेस ने तीखा हमला बोला है. कांग्रेस नेता पवन खेड़ा ने सोशल मीडिया प्लेटफॉर्म 'X' पर एक बेहद व्यंग्यात्मक पोस्ट साझा करते हुए प्रधानमंत्री से हिंसा प्रभावित",
+      "bm25_score_raw": 0.4732341736069977,
+      "bm25_score_norm": 0.03229610724193311,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.8340228199958801,
+      "embedding_score_norm": 0.22949043576915018,
+      "embedding_rank": 7
+    },
+    {
+      "title": "PM Modi Addresses The Nation LIVE: देश के नाम पीएम मोदी का संबोधन | BJP ...",
+      "url": "https://www.youtube.com/watch?v=9MnA3qkFkRs",
+      "snippet": "PM Modi Address To Nation LIVE: देश के नाम पीएम मोदी का संबोधन | BJP | Congress | Aaj Tak News #pmmodi #bjp #congress #aajtakdigital #pmmodi",
+      "bm25_score_raw": 0.9442629496277375,
+      "bm25_score_norm": 0.15576180176078827,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8299509286880493,
+      "embedding_score_norm": 0.20039699777354178,
+      "embedding_rank": 8
+    },
+    {
+      "title": "मोदी ने कुछ नहीं किया सब कांग्रेस ने किया है👇",
+      "url": "https://www.instagram.com/reel/DZpFh8cOpOq?hl=hi",
+      "snippet": "कौन कहता है कांग्रेस ने कुछ नहीं किया गाँधी परिवार ने वोट बैंक के लिए किसानो की मंदिरो की जमीने अपने अब्बा हजूर को वक़्फ़ बोर्ड को दे दी देश को लूटकर सबसे ज्यादा धन एक परिवार ने कमाया हरियाणा की जमीन घोटाला",
+      "bm25_score_raw": 0.4018133999259524,
+      "bm25_score_norm": 0.013575349881631267,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.8204106688499451,
+      "embedding_score_norm": 0.13223236932972876,
+      "embedding_rank": 9
+    },
+    {
+      "title": "PM Modi On Congress: पीएम मोदी ने कांग्रेस को दे दी Warning, \"अराजकता ...",
+      "url": "https://www.youtube.com/watch?v=GO0kMNGSXX0",
+      "snippet": "... ..\" | India TV आज सूरत में नरेंद्र मोदी ने कांग्रेस पर डायरेक्ट अटैक किया...मोदी ने कहा कि कांग्रेस निराशावादी है...कांग्रेस अराजकता में अवसर ढूंढ रही है...कांग्रेस आत्मनिर्भर भारत का मजाक उड़ाती है",
+      "bm25_score_raw": 0.9110205801741409,
+      "bm25_score_norm": 0.14704833786859506,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8124505281448364,
+      "embedding_score_norm": 0.07535760462394661,
+      "embedding_rank": 10
+    },
+    {
+      "title": "'परजीवी, पीठ में छुरा घोंपने वाले', डीएमके का साथ छोड़ने पर पीएम मोदी ने कांग्रेस ...",
+      "url": "https://www.jagran.com/news/national-pm-modi-slams-congress-as-parasitic-over-dmk-alliance-split-40234018.html",
+      "snippet": "पीएम मोदी ने विजय को तमिलनाडु का सीएम बनने पर बधाई दी · कांग्रेस को 'पीठ में छुरा घोंपने वाली' और 'परजीवी' बताया · डीएमके ने भी कांग्रेस पर विश्वासघात का आरोप लगाया.",
+      "bm25_score_raw": 0.4899858257700773,
+      "bm25_score_norm": 0.036687037210427945,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.8075889348983765,
+      "embedding_score_norm": 0.040621789990647854,
+      "embedding_rank": 11
+    },
+    {
+      "title": "'मौका मिलते ही साथी की पीठ में घोंपा छुरा', PM मोदी ने कांग्रेस को लेकर कसा तंज, DMK को ...",
+      "url": "https://www.abplive.com/news/india/pm-modi-attacks-congress-over-dmk-rift-karnataka-kerala-bengaluru-victory-rally-3127846/amp",
+      "snippet": "PM Modi Statement: पीएम मोदी ने DMK-कांग्रेस गठबंधन टूटने का उदाहरण देते हुए कहा कि कांग्रेस ने सत्ता बदलते ही डीएमके की पीठ में छुरा घोंपा. · रिलेटेड स्टोरी >>.",
+      "bm25_score_raw": 0.820443793326419,
+      "bm25_score_norm": 0.12330642131327216,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8019035458564758,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

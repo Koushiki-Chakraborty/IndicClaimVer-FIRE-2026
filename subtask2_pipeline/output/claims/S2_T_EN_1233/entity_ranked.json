@@ -1,0 +1,99 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1233",
+    "text": "Produce Yasin Malik Through VC During Hearing Of NIA’s Appeal Seeking Death Penalty: Delhi High Court Directs Tihar Jail Superintendent",
+    "lang": "english"
+  },
+  "entity_ranked_evidence": [
+    {
+      "title": "Produce Yasin Malik Through VC... - Delhi High Court",
+      "url": "https://www.livelaw.in/amp/high-court/delhi-high-court/delhi-high-court-yasin-malik-vc-nia-death-penalty-tihar-jail-superintendent-234367",
+      "snippet": "Produce Yasin Malik Through VC During Hearing Of NIA's Appeal Seeking Death Penalty: Delhi High Court Directs Tihar Jail Superintendent · This is",
+      "bm25_score_raw": 9.779886977849024,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9777711629867554,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1,
+      "entity_overlap_raw": 5,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 1
+    },
+    {
+      "title": "Delhi High Court allows Tihar Jail authorities' plea to produce Yasin ...",
+      "url": "https://www.barandbench.com/news/litigation/delhi-high-court-allows-tihar-jail-authorities-yasin-malik-court-video-conference",
+      "snippet": "Delhi High Court allows Tihar Jail authorities' plea to produce Yasin Malik in court via video conference. Tihar Jail authorities have said that",
+      "bm25_score_raw": 4.3343504966852855,
+      "bm25_score_norm": 0.1927485300747114,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.9144307374954224,
+      "embedding_score_norm": 0.3666676202327655,
+      "embedding_rank": 3,
+      "entity_overlap_raw": 3,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.3333333333333333,
+      "entity_rank": 2
+    },
+    {
+      "title": "Delhi HC allows Tihar Jail authorities' plea to virtually produce Yasin Malik",
+      "url": "https://www.newindianexpress.com/amp/story/india/2023/Aug/04/delhi-hc-allows-tihar-jail-authorities-plea-to-virtually-produce-yasin-malik-2601982.html",
+      "snippet": "the jail superintendent is directed to produce Yasin Malik in the present appeal through video conferencing alone on August 9 and not in person",
+      "bm25_score_raw": 3.03411235365698,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.9225397109985352,
+      "embedding_score_norm": 0.44774815365764115,
+      "embedding_rank": 2,
+      "entity_overlap_raw": 2,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 3
+    },
+    {
+      "title": "NIA appeal seeking death penalty for separatist Yasin Malik in terror ...",
+      "url": "https://www.jammukashmirnow.com/Encyc/2024/7/11/NIA-appeal-seeking-death-penalty-for-separatist-Yasin-Malik-in-terror-funding-case-Delhi-HC-Judge-recuses.amp.html",
+      "snippet": "In May 2023, the NIA moved Delhi HC challenging a Court order awarding life imprisonment to Yasin Malik, a separatist leader from J&K, in a",
+      "bm25_score_raw": 3.8714349307671907,
+      "bm25_score_norm": 0.1241254894741608,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8838223218917847,
+      "embedding_score_norm": 0.06061819690186374,
+      "embedding_rank": 4,
+      "entity_overlap_raw": 2,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 4
+    },
+    {
+      "title": "[Terror Funding Case] Jailed JKLF Terrorist Yasin Malik produced ...",
+      "url": "https://lawbeat.in/amp/news-updates/terror-funding-case-jailed-jklf-terrorist-yasin-malik-produced-through-vc-delhi-high-court-nia-death-sentence",
+      "snippet": "Yasin Malik on Wednesday was produced through Video conference (VC) before the Delhi High Court from Tihar Central jail … terror funding case.",
+      "bm25_score_raw": 3.384683836703038,
+      "bm25_score_norm": 0.051969047674498385,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8807814717292786,
+      "embedding_score_norm": 0.030213145862238305,
+      "embedding_rank": 5,
+      "entity_overlap_raw": 2,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 5
+    },
+    {
+      "title": "Delhi HC grants NIA 'last opportunity' to respond to Kashmiri separatist ...",
+      "url": "https://indianexpress.com/article/legal-news/delhi-hc-grants-nia-last-opportunity-respond-kashmiri-separatist-leader-yasin-malik-10500677/lite",
+      "snippet": "The NIA has an appeal pending before the Delhi High Court, seeking enhancement of Malik's punishment—from life imprisonment to a death sentence—",
+      "bm25_score_raw": 3.1466839797317205,
+      "bm25_score_norm": 0.016687724145279078,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8777598142623901,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6,
+      "entity_overlap_raw": 2,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 6
+    }
+  ]
+}

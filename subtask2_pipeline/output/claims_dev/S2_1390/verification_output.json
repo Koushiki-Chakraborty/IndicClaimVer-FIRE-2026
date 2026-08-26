@@ -1,0 +1,6 @@
+{
+  "ID": "S2/1390",
+  "Evidence": "The retrieved evidence does not provide specific data on daily COVID-19 cases in the country mentioned in the claim. Source 1 discusses global COVID-19 statistics without country-specific details. Source 2 offers a general overview of the pandemic but lacks current daily case numbers or trends for any specific country. Source 3 mentions a past peak in global cases but does not provide recent statistics or trends relevant to the claim. Therefore, there is no direct evidence to confirm or deny the claim about daily cases being below 30,000 or the increase in active cases.",
+  "Prediction": "REFUTES",
+  "Justification": "The evidence does not substantiate the claim regarding daily COVID-19 cases being below 30,000 or an increase in active cases. Source 1 and Source 2 provide general statistics without specific country data, while Source 3 refers to historical peaks without current context. Thus, the claim is not supported by the retrieved evidence."
+}

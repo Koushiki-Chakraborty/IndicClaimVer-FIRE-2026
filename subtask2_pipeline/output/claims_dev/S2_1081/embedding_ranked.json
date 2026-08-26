@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/1081",
+    "text": "नितिन गडकरी बोले, देश में अभी 50 एम्स पर्याप्त हैं, कोरोना काल में ऑक्सीजन की कोई कमी नहीं थी",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Long-term arrangements needed to fight COVID-19, says Nitin Gadkari",
+      "url": "https://m.economictimes.com/news/india/long-term-arrangements-needed-to-fight-covid-19-says-nitin-gadkari/amp_articleshow/82084996.cms",
+      "snippet": "He said up to 300 beds are being added at the AIIMS Nagpur and oxygen stock for the hospital is being sourced from Visakhapatnam.",
+      "bm25_score_raw": 3.569584746959275,
+      "bm25_score_norm": 0.38912490838039226,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8863815069198608,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "India Needs At Least 600 Medical Colleges, 50 AIIMS-Like Institutions",
+      "url": "https://www.ndtv.com/india-news/country-needs-at-least-600-medical-colleges-50-aiims-like-institutions-says-gadkari-2553328",
+      "snippet": "But he told me that there were only 13,000 ventilators when the coronavirus pandemic broke out in the country,\" Mr Gadkari said. There was lack",
+      "bm25_score_raw": 1.7993466675177485,
+      "bm25_score_norm": 0.13900506691694858,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.8851397037506104,
+      "embedding_score_norm": 0.9879913079064621,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Country needs at least 600 medical colleges, 50 AIIMS-like institutions, ...",
+      "url": "https://timesofindia.indiatimes.com/education/news/country-needs-at-least-600-medical-colleges-50-aiims-like-institutions-says-gadkari/amp_articleshow/86506054.cms",
+      "snippet": "But he told me that there were only 13,000 ventilators when the corona virus pandemic broke out in the country,\" Gadkari said. There was lack of",
+      "bm25_score_raw": 5.307450005592482,
+      "bm25_score_norm": 0.6346707408998775,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8784496784210205,
+      "embedding_score_norm": 0.923296309318639,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Country needs at least 600 medical colleges, 50 AIIMS-like institutions, ...",
+      "url": "https://timesofindia.indiatimes.com/india/country-needs-at-least-600-medical-colleges-50-aiims-like-institutions-says-gadkari/articleshow/86506010.cms",
+      "snippet": "But he told me that there were only 13,000 ventilators when the coronavirus pandemic broke out in the country,\" Gadkari said. There was lack of",
+      "bm25_score_raw": 3.26298766764078,
+      "bm25_score_norm": 0.3458053042193012,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8757011890411377,
+      "embedding_score_norm": 0.8967174089722233,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Union Minister Nitin Gadkari took his second dose of #COVID19 at AIIMS ...",
+      "url": "https://www.facebook.com/dailyexcelsior/posts/union-minister-nitin-gadkari-took-his-second-dose-of-covid19-at-aiims-nagpur-tod/3933734643373229",
+      "snippet": "The city MP expressed concern over shortage of crucial equipment like ventilators and oxygen cylinders at GMCH, IGGMCH and AIIMS. The minister directed",
+      "bm25_score_raw": 4.926609013794453,
+      "bm25_score_norm": 0.580861092583333,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8665790557861328,
+      "embedding_score_norm": 0.8085030347395542,
+      "embedding_rank": 5
+    },
+    {
+      "title": "After experiencing shortage of oxygen during 2nd wave of Covid19, India ...",
+      "url": "https://www.facebook.com/PrakashJavadekarOfficial/posts/after-experiencing-shortage-of-oxygen-during-2nd-wave-of-covid19-india-built-110/2751021531709532",
+      "snippet": "After experiencing shortage of oxygen during 2nd wave of Covid19, India built 1100 PSA medical oxygen plants. Shri Nitin Gadkari Ji.",
+      "bm25_score_raw": 4.842669362401627,
+      "bm25_score_norm": 0.5690011215756514,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.833876371383667,
+      "embedding_score_norm": 0.4922560824480809,
+      "embedding_rank": 6
+    },
+    {
+      "title": "Nitin Gadkari | '50 कोटी रुपयांचा चुना लावला, धावपट्टी दीड वर्ष ...",
+      "url": "https://www.youtube.com/watch?v=9rX22izXwd4",
+      "snippet": "Nitin Gadkari | '50 कोटी रुपयांचा चुना लावला, धावपट्टी दीड वर्ष लटकवली'. @TV9MarathiLive6.7K views9 months ago more. Subscribe. Comments.",
+      "bm25_score_raw": 1.3630649118488587,
+      "bm25_score_norm": 0.0773621021493386,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.8315130472183228,
+      "embedding_score_norm": 0.469401870990426,
+      "embedding_rank": 7
+    },
+    {
+      "title": "Alright, let's give Nitin Gadkari 100 instead of 50, so that a ...",
+      "url": "https://www.instagram.com/reel/DWa0TmyjPdW",
+      "snippet": "एक पत्रकार मुझे बोल दे। मैं तो हजार दो हजार चार सौ पांच सौ करोड़ के काम को जाता ही नहीं। बोलता हूँ जनरल साहब को आप चले जाओ। मैं पांच हजार, ...Read more",
+      "bm25_score_raw": 0.815530024855816,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.8218370676040649,
+      "embedding_score_norm": 0.37583159933368304,
+      "embedding_rank": 8
+    },
+    {
+      "title": "Nitin Gadkari Unfiltered on Delhi Pollution, E20 Petrol & Policy ...",
+      "url": "https://www.youtube.com/watch?v=Eq_zR_MIZBM",
+      "snippet": "Ethanol से Mileage कम? गाड़ियों का Engine खराब? | Nitin Gadkari EXCLUSIVE |ABPLIVE. ABPLIVE. New. 1.6M views &middot; 58:53.",
+      "bm25_score_raw": 1.3752180539672174,
+      "bm25_score_norm": 0.07907923953059161,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.7976121306419373,
+      "embedding_score_norm": 0.14156757411047258,
+      "embedding_rank": 9
+    },
+    {
+      "title": "Nitin Gadkari Podcast: तीखे सवालों से लेकर खुद पर बनने वाले ...",
+      "url": "https://www.youtube.com/watch?v=cUosxCxj4W4",
+      "snippet": "Ethanol से Mileage कम? गाड़ियों का Engine खराब? | Nitin Gadkari EXCLUSIVE |ABPLIVE. ABPLIVE. New. 1.6M views &middot; 21:18.",
+      "bm25_score_raw": 2.942757247288137,
+      "bm25_score_norm": 0.3005594229445952,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.7894957065582275,
+      "embedding_score_norm": 0.06307877642067888,
+      "embedding_rank": 10
+    },
+    {
+      "title": "नए साल 2026 में हट जाएंगे टोल प्लाजा नितिन गडकरी का बड़ा ऐलान ...",
+      "url": "https://www.facebook.com/DLSNewssamachar/videos/%E0%A4%A8%E0%A4%8F-%E0%A4%B8%E0%A4%BE%E0%A4%B2-2026-%E0%A4%AE%E0%A5%87%E0%A4%82-%E0%A4%B9%E0%A4%9F-%E0%A4%9C%E0%A4%BE%E0%A4%8F%E0%A4%82%E0%A4%97%E0%A5%87-%E0%A4%9F%E0%A5%8B%E0%A4%B2-%E0%A4%AA%E0%A5%8D%E0%A4%B2%E0%A4%BE%E0%A4%9C%E0%A4%BE-%E0%A4%A8%E0%A4%BF%E0%A4%A4%E0%A4%BF%E0%A4%A8-%E0%A4%97%E0%A4%A1%E0%A4%95%E0%A4%B0%E0%A5%80-%E0%A4%95%E0%A4%BE-%E0%A4%AC%E0%A4%A1%E0%A4%BC%E0%A4%BE-%E0%A4%90%E0%A4%B2%E0%A4%BE%E0%A4%A8-anpr-toll-system-i/1380735980305550",
+      "snippet": "देश की जनता को लूटने का नया तरीका तैयार हो रहा है नीतीन गडकरी को जनता से रोड़ टैक्स लेना बंद कर देना चाहिए जब टोल टैक्स वसूल रहे हैं एक ही टैक्स लो। नेताओं से टोल टैक्स क्यों नहीं लगता है क्या वह तनख्वाह",
+      "bm25_score_raw": 2.923064217886306,
+      "bm25_score_norm": 0.29777696252352304,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.7847321033477783,
+      "embedding_score_norm": 0.017012986264417173,
+      "embedding_rank": 11
+    },
+    {
+      "title": "नितिन गडकरी ने कैसे कम कर लिया 50 किलो वजन, बताया पूरा ...",
+      "url": "https://www.livehindustan.com/national/story-nitin-gadkari-lost-50-kg-weight-tells-how-reduce-fat-and-diet-plan-8369665.html",
+      "snippet": "Jun 29, 2023 — केंद्रीय मंत्री नितिन गडकरी का कहना है कि उन्होंने बीते कुछ सालों में अपना वजन 50 किलो घटा लिया है। उन्होंने कहा कि मेरा वजन एक समय बढ़कर 135 किलो तक हो गया था, जो अब 85 पर आ गया है।Read more",
+      "bm25_score_raw": 7.893089602232473,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.7829728126525879,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

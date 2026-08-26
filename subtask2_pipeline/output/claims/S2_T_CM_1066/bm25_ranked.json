@@ -1,0 +1,105 @@
+{
+  "claim": {
+    "id": "S2/T/CM/1066",
+    "text": "jo apne sabhi mla ki salary bhadai hai use kam kar lo tum to apne aap ko aam aadmi kehte ho phr kyu 2lakh salary lete ho",
+    "lang": "codemix"
+  },
+  "ranked_evidence": [
+    {
+      "title": "Components of the Revised MLA Salary Package ...",
+      "url": "https://www.instagram.com/reel/DSHac3pD5uP?hl=en",
+      "snippet": "Under the new system, each MLA will now receive a basic salary of ₹90,000, accompanied by enhanced allowances aligned with administrative and ...Read more",
+      "bm25_score_raw": 1.6712711290224305,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "MLA Salary 2026: In-Hand Pay + After 5 Years",
+      "url": "https://salaryinsight.in/salary-of-mla",
+      "snippet": "May 7, 2026 — MLA salary varies by state: Telangana: ~Rs 2,50,000/month (highest, including all allowances). Maharashtra/Karnataka: ~Rs 1,00,000. Delhi: ~Rs ...Read more",
+      "bm25_score_raw": 1.6712711290224305,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 2
+    },
+    {
+      "title": "#Flash MLA Salary Could be Hiked from Rs. 1.5 Lakh Per ...",
+      "url": "https://www.facebook.com/Jkrevolutionnews/posts/flash-mla-salary-could-be-hiked-from-rs-15-lakh-per-month-to-rs-3-lakh-rs-75-lak/1210335007784083",
+      "snippet": "#Flash MLA Salary Could be Hiked from Rs. 1.5 Lakh Per Month to Rs. 3 Lakh. Rs. 75 Lakh as House Loan and Rs. 25 Lakh for Car. Rs. 1.10 Lakh in ...Read more",
+      "bm25_score_raw": 1.5703984314422172,
+      "bm25_score_norm": 0.9396431280188414,
+      "bm25_rank": 3
+    },
+    {
+      "title": "नवनिर्वाचित MLA को कितनी मिलेगी सैलरी और 5 साल में कैसे ...",
+      "url": "https://www.youtube.com/watch?v=AinSdQ0lzok",
+      "snippet": "नवनिर्वाचित MLA को कितनी मिलेगी सैलरी और 5 साल में कैसे कमा लेते हैं अकूत संपत्ति? जानिए सब कुछ Bihar MLA receives more than Rs 1,43000 per month through salary",
+      "bm25_score_raw": 1.4060288521531867,
+      "bm25_score_norm": 0.8412930898744174,
+      "bm25_rank": 4
+    },
+    {
+      "title": "MP-MLA की सैलरी बढ़ती है तो क्या ये बात आपको पता चलती ...",
+      "url": "https://www.youtube.com/watch?v=ifaCMFdZyj8",
+      "snippet": "LIVE: MP-MLA की सैलरी बढ़ती है तो क्या ये बात आपको पता चलती है? । MP-MLA Salary । ABP News. @ABPNews76 likes14K viewsStreamed 3 years agoRead more",
+      "bm25_score_raw": 0.8223082942676572,
+      "bm25_score_norm": 0.492025668359775,
+      "bm25_rank": 5
+    },
+    {
+      "title": "BJP सरकार ने MLA की सैलरी बढ़ाकर सीधा ₹3.45 लाख की, पहले ...",
+      "url": "https://www.facebook.com/JournalistAakarshanUppal/videos/bjp-%E0%A4%B8%E0%A4%B0%E0%A4%95%E0%A4%BE%E0%A4%B0-%E0%A4%A8%E0%A5%87-mla-%E0%A4%95%E0%A5%80-%E0%A4%B8%E0%A5%88%E0%A4%B2%E0%A4%B0%E0%A5%80-%E0%A4%AC%E0%A5%9D%E0%A4%BE%E0%A4%95%E0%A4%B0-%E0%A4%B8%E0%A5%80%E0%A4%A7%E0%A4%BE-345-%E0%A4%B2%E0%A4%BE%E0%A4%96-%E0%A4%95%E0%A5%80-%E0%A4%AA%E0%A4%B9%E0%A4%B2%E0%A5%87-110-%E0%A4%B2%E0%A4%BE%E0%A4%96-%E0%A4%A5%E0%A5%80-%E0%A4%86%E0%A4%AE-%E0%A4%9C%E0%A4%A8%E0%A4%A4%E0%A4%BE-%E0%A4%95%E0%A5%8B-5kg/4342768586045546",
+      "snippet": "BJP सरकार ने MLA की सैलरी बढ़ाकर सीधा ₹3.45 लाख की, पहले ₹1.10 लाख थी, आम जनता को 5Kg राशन और पेंशन के लिए भी हिसाब देना पड़ता है लेकिन विधायकों को नहीं.",
+      "bm25_score_raw": 0.5234661438140724,
+      "bm25_score_norm": 0.3132143760062805,
+      "bm25_rank": 6
+    },
+    {
+      "title": "increased, increase- WordWeb dictionary definition",
+      "url": "https://www.wordwebonline.com/en/INCREASED",
+      "snippet": "Get WordWeb for Mac OS X;. also try the iPhone/iPad app. Get the FREE one-click dictionary software for Windows. or the iPhone/iPad  and Android apps. Adjective: increased  in'kreest or 'in,kreest. 1. Made greater in size, amount or degree. \"The increased rainfall led to a bountiful harvest\". 1. Become bigger or greater in amount. \"The amount of work increased\". 2. Make bigger or more. \"The boss finally increased her salary\"; \"The university increased the number of students it admitted\". 3. Add something extra to make more intense or better. \"This will increase your enjoyment\";. See also: accrued, accumulated, augmented, elevated, enhanced, enlarged, exaggerated, hyperbolic, inflated, magnified, multiplied, raised, redoubled. Type of: alter, change, change magnitude, compound, deepen, heighten, intensify, modify.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 7
+    },
+    {
+      "title": "increased",
+      "url": "https://www.thefreedictionary.com/increased",
+      "snippet": "**Increased - definition of increased by The Free Dictionary**. **2.**The amount or rate by which something is increased:a tax increase of 15 percent. These verbs mean to make or become greater or larger._Increase_ sometimes suggests steady growth:_The president's economic program is designed to increase consumer confidence.The city's population increased during the last decade.Expand_ applies especially to an increase in size,volume, or scope:_Visiting the botanical garden has expanded my interest in tropical plants.These plant fibers expand when water is plentiful.Enlarge_ often implies an increase in size,area, or extent, as by widening or broadening:_The landowner enlarged her property by repeated purchases.The disease causes the kidneys to enlarge.Augment_ usually applies to an increase that is already developed or well under way:_She augmented her collection of books each month. As the pressure augments,the volume of the steam decreases._ To _multiply_ is to increase in number:_The internet has multiplied the ways in which consumers can buy goods.The number of tourists visiting the town has multiplied since the highway opened._.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 8
+    },
+    {
+      "title": "increased - WordReference.com Dictionary of English",
+      "url": "https://www.wordreference.com/definition/increased",
+      "snippet": "- incrassate     - increase     - increased     - increaser     - increasing     - increate     - incredible     - incredulity     - incredulous     - increment     - incremental     - incremental plotter     - incremental repetition   + Recent searches:   + View All | increased   Listen:  US:USA pronunciation: IPAUSA pronunciation: IPA/ˈɪnkrist, ɪnˈkrist/  ⓘ One or more forum threads is an exact match of your searched term  in Spanish | in French | English synonyms | English Collocations | English Usage | Conjugator | in context | images \"images\")   From the verb **<increase>**: (⇒ conjugate)  **increased** is: ⓘClick the infinitive to see all available inflections  v past  v past p  WordReference Random House Learner's Dictionary of American English © 2026  in•creased */ˈɪnkrist, ɪnˈkrist/USA pronunciation*  adj. WordReference Random House Learner's Dictionary of American English © 2026  in•crease */*v.* ɪnˈkris; *n.* ˈɪnkris/USA pronunciation*   v., **-creased, -creas•ing,** n. 1. to make greater, as in number, size, strength, or quality;  augment;  add to:to increase taxes. 1. to become greater, as in number, size, strength, or quality:Sales of automobiles increased last year.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 9
+    },
+    {
+      "title": "INCREASE Definition & Meaning",
+      "url": "https://www.dictionary.com/browse/increase",
+      "snippet": "1. to make greater, as in number, size, strength, or quality; augment; add to. 1. to become greater, as in number, size, strength, or quality. 2. the act or process of increasing. To *increase* is to become greater or more in number, amount, size, or in some other way, as in *Our profits will increase as demand increases*. As a verb, *increase* is also used in an active way in which someone or something is doing the *increasing*, as in *I’m going to increase my hours at work* or *These sunglasses increase visibility*. *Increase* can also be used as a noun referring to a rise or growth in something, as in *We are experiencing an increase in applicants*. It can also refer to the amount by which something has *increased*, as in *The increase was $5,000 per year*. The words *increased* and *increasing* can both be used as adjectives, as in *an increased appetite* or *increasing sales*.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10
+    },
+    {
+      "title": "INCREASED | definition in the Cambridge English Dictionary",
+      "url": "https://dictionary.cambridge.org/us/dictionary/english/increased",
+      "snippet": "to (make something) become larger in amount or size: Incidents of armed robbery have increased over the last few years.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11
+    },
+    {
+      "title": "Increased - Definition, Meaning & Synonyms | Vocabulary.com",
+      "url": "https://www.vocabulary.com/dictionary/increased",
+      "snippet": "# increased. Anything described as *increased* has become bigger or more numerous. After an *increased* amount of rain, there could be flooding. A person riding a motorcycle without a helmet has an *increased* risk of bonking her head. To increase something is to make more of it. Therefore, anything described as increased has expanded in some way. If there's increased paranoia, there's more paranoia. If there's increased unemployment, unemployment has gone up. If there's increased obesity, more people are obese. The opposite of this word is *decreased*. Decreased employment and increased unemployment mean the same thing. ## Sign up now (it’s free!). ### Whether you’re a teacher or a learner, Vocabulary.com can put you or your class on the path to systematic vocabulary improvement. Comprehensive K-12 personalized learning. Immersive learning for 25 languages. 35,000 worksheets, games, and lesson plans. Marketplace for millions of educator-created resources. Fun educational games for kids. Spanish-English dictionary, translator, and learning. French-English dictionary, translator, and learning.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1098",
+    "text": "Karnataka High Court Upholds Order Granting Freedom Fighters' Pension To 89-Yrs Old Widow",
+    "lang": "english"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Karnataka High Court Reverses Order Granting Freedom Fighters' Pension ...",
+      "url": "https://www.livelaw.in/amp/high-court/karnataka-high-court/karnataka-high-court-judgment-freedom-fighters-pension-cancellation-233493",
+      "snippet": "Karnataka High Court Reverses Order Granting Freedom Fighters' Pension To 89-Yrs Old Widow. Mustafa Plumber. 24 July 2023 3:44 AM. (0 mins read ).",
+      "bm25_score_raw": 4.913524467635237,
+      "bm25_score_norm": 0.5642743044848743,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.9437344074249268,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Karnataka High Court Upholds Freedom Fighter's Pension to Widow ...",
+      "url": "https://lawtext.in/judgement.php?bid=73658",
+      "snippet": "Karnataka High Court Upholds Freedom Fighter's Pension to Widow Despite Delay in Application — State's Rejection Based on Non-Production of",
+      "bm25_score_raw": 7.189512460868623,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9338017106056213,
+      "embedding_score_norm": 0.8967922181841604,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Karnataka HC Sets Aside Order Granting Freedom Fighters' Pension ...",
+      "url": "https://updates.manupatra.com/roundup/contentsummary.aspx?iid=43438",
+      "snippet": "VIL Karnataka High Court has reversed Single Bench order which directed State authorities to grant freedom fighters' pension together with all arrears to an 89",
+      "bm25_score_raw": 6.457993228025802,
+      "bm25_score_norm": 0.8599545659024728,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.9181357622146606,
+      "embedding_score_norm": 0.7340118763609879,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Freedom Fighters Pension",
+      "url": "https://www.barandbench.com/topic/freedom-fighters-pension",
+      "snippet": "Karnataka High Court overturns single-judge order allowing freedom fighters' pension to 89- ... freedom fighter's pension in 6 weeks: Karnataka High Court.",
+      "bm25_score_raw": 6.479102497106204,
+      "bm25_score_norm": 0.8639958222620054,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.9093467593193054,
+      "embedding_score_norm": 0.6426878875486487,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Freedom fighter's 92-year-old widow moves Karnataka High Court ...",
+      "url": "https://www.facebook.com/barandbench/posts/a-92-year-old-widow-has-approached-the-karnataka-high-court-after-the-freedom-fi/1348484810660962",
+      "snippet": "The Madras High Court has apologised to an 89-year- old freedom fighter, V Gandhi, who waited “patiently” for freedom fighter pension for 37",
+      "bm25_score_raw": 3.0439967832877834,
+      "bm25_score_norm": 0.20636325531900765,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8917856812477112,
+      "embedding_score_norm": 0.4602158009607119,
+      "embedding_rank": 5
+    },
+    {
+      "title": "No genuine freedom fighter should be deprived of pension, says HC",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/no-genuine-freedom-fighter-should-be-deprived-of-pension-says-hc/article34103966.ece/amp",
+      "snippet": "High Court on Thursday said every effort no genuine freedom fighter is deprived of the meagre pension paid to them. The judges said it was",
+      "bm25_score_raw": 1.9660702432994785,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8474946022033691,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6
+    }
+  ]
+}

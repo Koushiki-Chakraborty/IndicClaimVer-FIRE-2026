@@ -1,0 +1,105 @@
+{
+  "claim": {
+    "id": "S2/1201",
+    "text": "হাতে গোনা ল্যাব-স্বাস্থ্য পরীক্ষায় মোটা খরচ, করোনা মোকাবিলায় কতটা প্রস্তুত ভারত?",
+    "lang": "dev"
+  },
+  "ranked_evidence": [
+    {
+      "title": "Thieves hit Corona collectible card shop for nearly $20k in stolen goods, owner says - CBS News",
+      "url": "https://www.cbsnews.com/losangeles/video/thieves-hit-corona-collectible-card-shop-for-nearly-20k-in-stolen-goods-owner-says/",
+      "snippet": "# Thieves hit Corona collectible card shop for nearly $20k in stolen goods, owner says. Up to $20,000 in stolen memorabilia was taken from a card shop in Corona over the weekend, the store's owner says.",
+      "bm25_score_raw": 3.8290222276031174,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Abdul El-Sayed Is an Epidemiologist Running for Senate. His State Is a Public Health Disaster - WIRED",
+      "url": "https://www.wired.com/story/abdul-el-sayed-michigan-is-public-health-disaster/",
+      "snippet": "These in-your-face (and sometimes in-your-gut) problems, says senatorial candidate Abdul El-Sayed, help make a complex topic—the need to invest in public health infrastructure—extremely easy to talk about with voters. I don’t like the idea because we DOGE’d our whole service that keeps the lettuce safe,” El-Sayed says, referring to how the Department of Government Efficiency downsized the federal lab that tests for cyclosporiasis last year. And if you don’t, then you’re stuck on a toilet for the next five days. WIRED caught up with El-Sayed to chat about how he’d fix the public health problems facing his state and why we shouldn’t accept that “poop lettuce” is our new normal. You think about the great DOGEing of a lot of our public health infrastructure—while it’s impossible to connect one outcome to the next, if you cut the staff of the people who are supposed to be invested in keeping us healthy, don’t be surprised when, down the line, they’re not good at keeping us healthy.",
+      "bm25_score_raw": 3.1575501393327583,
+      "bm25_score_norm": 0.8246361477272788,
+      "bm25_rank": 2
+    },
+    {
+      "title": "বাংলাদেশের অর্থনীতি: ঋণ নির্ভরতা টেকসই উন্নয়নকে বাধাগ্রস্ত করবে",
+      "url": "https://www.dainikbangla.com.bd/opinion/57214/1756141711",
+      "snippet": "বিশ্বের নবম বৃহত্তম অর্থনীতির দেশ বাংলাদেশ যা আবার দক্ষিণ এশিয়ায় ভারতের পর বৃহৎ অর্থনীতি। ২০২৪ সালের হিসাবের ভিত্তিতে দেশের.",
+      "bm25_score_raw": 3.016451098386578,
+      "bm25_score_norm": 0.7877862595419848,
+      "bm25_rank": 3
+    },
+    {
+      "title": "পেডিয়াট্রিক কোলস্টোমি/ইলিওস্টোমি- ভারতে প্রকারভেদ, পদ্ধতি, খরচ, ঝুঁকি, আরোগ্য এবং সুবিধা",
+      "url": "https://www.apollohospitals.com/bn/procedures/pediatric-colostomyileostomy",
+      "snippet": "ভারতে পেডিয়াট্রিক কোলোস্টমি আইলিওস্টমি সম্পর্কে সবকিছু জানুন, কেন এটি করা হয়, পদ্ধতির ধাপ, ঝুঁকি, সুবিধা, খরচ এবং বিশেষজ্ঞদের প্রায়শই জিজ্ঞাসিত প্রশ্নাবলী।",
+      "bm25_score_raw": 2.9357733572707407,
+      "bm25_score_norm": 0.7667161961367013,
+      "bm25_rank": 4
+    },
+    {
+      "title": "নারকেলও কেন আমদানি করতে হচ্ছে",
+      "url": "https://www.prothomalo.com/opinion/column/mug76jttgq",
+      "snippet": "বেশ কয়েক বছর ধরেই দেশে ডাব-নারকেলের উৎপাদন কম হচ্ছে। বিদেশি জাতের চারা আমদানি কিংবা ভারত থেকে নারকেল আমদানি করে এই ঘাটতি পূরণের চেষ্টা করা হয়েছে। কিন্তু উৎপাদন কমে যাওয়ার কারণ অনুসন্ধান করা হয়নি।",
+      "bm25_score_raw": 2.804507408719955,
+      "bm25_score_norm": 0.7324343506032646,
+      "bm25_rank": 5
+    },
+    {
+      "title": "Ethanol Price: দামি ইথানল! আখের রস থেকে পাওয়া রাসায়নিকের মূল্য প্রতি লিটারে 65.60 টাকা",
+      "url": "https://bengali.economictimes.com/markets/commodities/govt-hikes-ethanol-price-to-rupees-65-60-per-litre/articleshow/95263033.cms",
+      "snippet": "Ethanol Price: এবার ইথানলের দাম বৃদ্ধি করল কেন্দ্র। বুধবার থেকে পেট্রলের মিশ্রণের জন্য ব্যবহৃত এই পণ্যের মূল্য বাড়ানো হল। মূলত আমদানি করা তেলের উপর থেকে ভারতে নির্ভরতা কমাতে এমন সিদ্ধান্ত",
+      "bm25_score_raw": 2.700991755903224,
+      "bm25_score_norm": 0.7053998632946001,
+      "bm25_rank": 6
+    },
+    {
+      "title": "‘Substantially better than before’: Why India has golden opportunity to build on innovative R&D wins - Fierce Biotech",
+      "url": "https://www.fiercebiotech.com/biotech/substantially-better-new-report-highlights-indias-opportunity-seize-string-recent",
+      "snippet": "Now, a string of recent wins on the frontiers of novel drug development could mean that a homegrown innovation industry is within reach. These days, however, as the upper echelon of Indian drugmakers raise their market caps into the $40 billion to $50 billion range, it “makes so much more sense to get into the discovery game,” Mahipal explained, citing a confluence of local regulatory developments and government support. The country’s share of global vaccine production is even higher at 60%, according to a new report (PDF) from HealthKois and Boston Consulting Group (BCG), which Mahipal co-authored and highlights India’s opportunity to seize on its recent innovative R&D victories. That sum of novel assets coming out of India is “not a large number,” Priyanka Aggarwal**,** managing director and senior partner at BCG, who also helped author the report, told Fierce, “but it’s substantially better than before.”.",
+      "bm25_score_raw": 2.381169592579944,
+      "bm25_score_norm": 0.6218740584513408,
+      "bm25_rank": 7
+    },
+    {
+      "title": "Want To Live Longer? Here Are 10 Ways To Manage Your Health And Track Aging - Forbes",
+      "url": "https://www.forbes.com/sites/jessepines/2026/07/20/want-to-live-longer-here-are-10-ways-to-manage-your-health-and-track-aging/",
+      "snippet": "Here Are 10 Ways To Manage Your Health And Track Aging. Health tracking tools are increasingly accessible. High-value, cost-effective options include physical performance tests like grip strength and gait speed, and DEXA scans for body composition. Routine bloodwork can be enhanced with biomarkers such as ApoB and hsCRP. More advanced technologies like epigenetic clocks, proteomics, and full-body MRIs are promising but currently expensive and lack robust clinical evidence for routine use in healthy adults. But what health tracking data should be measured over time to see if your choices are actually making you healthier? Tools for tracking health and wellness, as of 2026, have never been more accessible and sophisticated. Tracking data in and of itself can often a first step to improved health. I’m a physician who spends a lot of time at the intersection of cutting-edge innovation in health and wellness. Here’s my take on many ways out there to track your health and aging, and what the evidence actually says.",
+      "bm25_score_raw": 1.8971177485171569,
+      "bm25_score_norm": 0.4954574916909559,
+      "bm25_rank": 8
+    },
+    {
+      "title": "Cardiologists Say This Cheap Cholesterol Test Can Catch Risk LDL Tests Might Miss - Men's Health",
+      "url": "https://www.menshealth.com/health/a71887758/cardiologist-cholesterol-apob-test-study/",
+      "snippet": "Make sure to ask about this cheap add-on at your next doctor’s visit. **WHEN IT COMES** to staying on top of your heart health, keeping track of your cholesterol numbers should be on the top of the list. So what’s the best way to do it? Turns out, the standard LDL cholesterol blood test millions get at the doctor’s office may not be enough. New research published in JAMA found that an alternative and cost-effective way to suss out high cholesterol is to use an ApoB test. The good news is that the test isn’t new. ## Why the ApoB Test Helps With Cholesterol Testing. By looking at the number of ApoB particles, you get a better read on just how much fatty lipid traffic there is in your arteries. They modeled what heart health outcomes would be over their lives if their doctors used one of three common tests to base treatment on: LDL cholesterol, non-HDL (“good”) cholesterol, and ApoB.",
+      "bm25_score_raw": 1.8457299987499303,
+      "bm25_score_norm": 0.4820368984656733,
+      "bm25_rank": 9
+    },
+    {
+      "title": "Even Healthcare Eyes $50M Fundraise at $300M Valuation - Whalesbook",
+      "url": "https://www.whalesbook.com/news/English/startupsvc/Even-Healthcare-Eyes-dollar50M-Fundraise-at-dollar300M-Valuation/6a5f705dfe1c9287f4795fec",
+      "snippet": "Bengaluru-based Even Healthcare is reportedly in advanced talks to raise $50 million, potentially doubling its valuation to $300 million. The startup, which operates a subscription-based model and hospital network, is looking to fund further expansion plans. Even Healthcare, a subscription-focused healthcare and insurance provider based in Bengaluru, is reportedly working toward a new Series B funding round of approximately $50 million. If completed, the deal is expected to value the startup at roughly $300 million. It launched its first hospital in Bengaluru last year and has stated plans to establish four to five additional hospitals by the end of the 2026 calendar year. For investors, the ability of the company to effectively scale this hospital network while maintaining service quality—such as patient readmission rates and stay durations—remains a key operational focus. The transition from a purely subscription-based digital health model to an asset-heavy hospital provider introduces execution risks, including the high capital requirements and the competitive intensity of the healthcare services market in India.",
+      "bm25_score_raw": 0.46859787597295605,
+      "bm25_score_norm": 0.12238055778179378,
+      "bm25_rank": 10
+    },
+    {
+      "title": "২০১৪-য় দেশের দেনার বোঝা ছিল ৫৫ লক্ষ কোটি, এখন তা ২০৫ লক্ষ কোটি হল কী ভাবে? প্রশ্ন কংগ্রেসের",
+      "url": "https://www.anandabazar.com/business/congress-slams-the-centre-regarding-the-debt-burden/cid/1483531",
+      "snippet": "গত ২০১৪ সালে নরেন্দ্র মোদী যখন প্রধানমন্ত্রী হলেন, সেই সময় ভারতের মাথায় দেনার বোঝা ছিল ৫৫ লক্ষ কোটি টাকা। ২০২৩-এ মোদী জমানার ন'বছর পরে সেই বোঝা বেড়ে কেন ২০৫ লক্ষ কোটি টাকায় পৌঁছেছে,",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11
+    },
+    {
+      "title": "Gold Price Hike: ২০২৬-এও কি চড়চড়িয়ে বাড়বে সোনার দাম? বিনিয়োগ করা কি যুক্তিযুক্ত?",
+      "url": "https://tv9bangla.com/business/gold-price-hike-will-gold-prices-continue-to-rise-sharply-in-2026-is-investing-in-gold-a-wise-decision-1271112.html",
+      "snippet": "Gold Price Today: আন্তর্জাতিক বাজারে সোনার দাম আউন্স প্রতি ৪,৫৫০.১০ ডলার বা প্রতি ১০ গ্রামে ১ লক্ষ ৪৪ হাজার ১৭৭ টাকায় পৌঁছে সব রেকর্ড ভেঙে দিয়েছে। ভারতের বাজারেও ছবিটা একই।",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12
+    }
+  ]
+}

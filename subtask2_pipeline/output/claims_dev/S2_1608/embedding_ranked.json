@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/1608",
+    "text": "বুদ্ধদেব ভট্টাচার্যের প্রয়াণে শোকপ্রকাশ করেননি প্রধানমন্ত্রী মোদি।",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "PM Modi on demise of ex-Bengal CM Buddhadeb Bhattacharjee",
+      "url": "https://www.livemint.com/politics/news/buddhadeb-bhattacharjee-marxist-cpim-west-bengal-cm-mamata-banerjee-tmc-bjp-politicians-nandigram-movement-11723096248589.html",
+      "snippet": "Aug 8, 2024 — Prime Minister Narendra Modi expressed condolences following the passing of former West Bengal Chief Minister Buddhadeb Bhattacharjee on Thursday.",
+      "bm25_score_raw": 1.0093190200528186,
+      "bm25_score_norm": 0.21612217199410477,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8648201823234558,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Former Bengal Chief Minister Buddhadeb Bhattacharjee ...",
+      "url": "https://www.news18.com/india/former-west-bengal-cm-buddhadeb-bhattacharjee-passes-away-8993927.html",
+      "snippet": "Aug 8, 2024 — PM Modi called Bhattacharya a political stalwart who served the state with commitment. He condoled his death and wrote, “Saddened by the passing",
+      "bm25_score_raw": 4.670131762697397,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8569155335426331,
+      "embedding_score_norm": 0.9316669054050015,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Buddhadeb Bhattacharjee Death: Former West Bengal ...",
+      "url": "https://www.ndtv.com/india-news/former-west-bengal-chief-minister-buddhadeb-bhattacharya-dies-at-80-6289675",
+      "snippet": "# Former West Bengal Chief Minister Buddhadeb Bhattacharjee Dies At 80. ## During Buddhadeb Bhattacharjee's tenure, the Left Front government adopted a relatively open policy towards business in Bengal. Buddhadeb Bhattacharjee was Bengal Chief Minister from 2000 to 2011. Buddhadeb Bhattacharjee, veteran Left leader and former West Bengal Chief Minister, died at his south Kolkata residence this morning. Mr Bhattacharjee, also a former member of the CPM's top decision-making body, Politburo, served as Bengal Chief Minister from 2000 to 2011, succeeding Jyoti Basu in the top post. After serving as an MLA and a state minister, he was elevated to Deputy Chief Minister before Mr Basu stepped down in 2000. During Mr Bhattacharjee's tenure, the Left Front government adopted a relatively open policy towards business as compared to the Jyoti Basu regime. Leader of the Opposition, BJP's Suvendu Adhikari, said he is \"deeply saddened\" by the news and expressed his condolences to Mr Bhattacharjee's family and admirers.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.847230851650238,
+      "embedding_score_norm": 0.8479460087244263,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Kolkata: Tributes Pour in for 'Spartan' Writer, Poet ...",
+      "url": "https://www.newsclick.in/kolkata-tributes-pour-spartan-writer-poet-buddhadeb-bhattacharya",
+      "snippet": "Aug 9, 2024 — Kolkata: Buddhadeb Bhattacharya, former Chief Minister of West Bengal, who passed ... Prime Minister Narendra Modi too expressed his condolences",
+      "bm25_score_raw": 0.7310819173728987,
+      "bm25_score_norm": 0.15654417359535847,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8420613408088684,
+      "embedding_score_norm": 0.8032572840096498,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Buddhadeb Bhattacharya, former Bengal chief minister ...",
+      "url": "https://www.moneycontrol.com/news/india/bengals-former-cm-buddhadeb-bhattacharya-12790567.html",
+      "snippet": "Aug 8, 2024 — \"I am saddened by the sudden demise of former West Bengal Chief Minister Shri Buddhadev Bhattacharya. I have known him for decades and visited",
+      "bm25_score_raw": 2.290387066689006,
+      "bm25_score_norm": 0.49043307192817037,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8338876962661743,
+      "embedding_score_norm": 0.7325988093311995,
+      "embedding_rank": 5
+    },
+    {
+      "title": "প্রয়াত বুদ্ধদেব ভট্টাচার্য, শ্রদ্ধাজ্ঞাপন করে কী বললেন Modi",
+      "url": "https://www.youtube.com/watch?v=-VCRR9RYZSo",
+      "snippet": "Buddhadeb Bhattacharya Demise : প্রয়াত বুদ্ধদেব ভট্টাচার্য। X হ্যান্ডলে শ্রদ্ধাজ্ঞাপন প্রধানমন্ত্রীর। ভারতের রাজনীতির একজন স্তম্ভ যিনি আজীবন নিজের রাজ্যের উন্নয়নে দায়বদ্ধ ছিলেন।",
+      "bm25_score_raw": 2.4630891932298296,
+      "bm25_score_norm": 0.5274132119576829,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8244787454605103,
+      "embedding_score_norm": 0.6512615174071162,
+      "embedding_rank": 6
+    },
+    {
+      "title": "Tributes pour in for former CM",
+      "url": "https://www.thestatesman.com/bengal/tributes-pour-in-for-former-cm-1503329707.html",
+      "snippet": "Aug 9, 2024 — My deep condolences to his family and colleagues.” CPM general secretary Sitaram Yechury wrote: “When I received the news of Buddhadeb's passing",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.8179597854614258,
+      "embedding_score_norm": 0.5949072475805844,
+      "embedding_rank": 7
+    },
+    {
+      "title": "'রাজ্যের প্রতি ছিলেন প্রতিশ্রুতিবদ্ধ...', বুদ্ধদেবের প্রয়াণে ...",
+      "url": "https://eisamay.com/nation/buddhadeb-bhattacharjee-passes-away-pm-narendra-modi-expresses-his-condolences/articleshow/112370977.cms",
+      "snippet": "Aug 8, 2024 — 'রাজ্যের প্রতি ছিলেন প্রতিশ্রুতিবদ্ধ...', বুদ্ধদেবের প্রয়াণে শোকবার্তা প্রধানমন্ত্রীর. রাজ্যের প্রাক্তন মুখ্যমন্ত্রী বুদ্ধদেব ভট্টাচার্যের প্রয়াণে শোকার্ত প্রধানমন্ত্রী নরেন্দ্র মোদী। এক্স হ্যান্ডলে একটি পোস্ট করে তিনি ...Read more",
+      "bm25_score_raw": 1.579259272125166,
+      "bm25_score_norm": 0.3381616092161412,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8014234304428101,
+      "embedding_score_norm": 0.4519558852778141,
+      "embedding_rank": 8
+    },
+    {
+      "title": "Buddhadeb Bhattacharjee: ব্রিগেডের শেষ লগ্নে বার্তা ...",
+      "url": "https://tv9bangla.com/kolkata/buddhadeb-bhattacharjee-former-cm-buddhadeb-bhattacharjee-give-audio-message-to-dyfi-leader-for-brigade-985910.html",
+      "snippet": "Jan 7, 2024 — কলকাতা: বামপন্থীদের ব্রিগেড হবে। আর প্রাক্তন মুখ্য়মন্ত্রী বুদ্ধদেব ভট্টাচার্য থাকবেন না তেমনটা হয় না। তবে এখন তিনি অসুস্থ। বলা চলে বিছানায় শয্যাশায়ী তিনি। কিন্তু তাতে কী! তাঁর বার্তাই বাম নেতা ...Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.8012605905532837,
+      "embedding_score_norm": 0.45054818787298573,
+      "embedding_rank": 9
+    },
+    {
+      "title": "বুদ্ধদেব ভট্টাচার্যের প্রয়াণে শোকপ্রকাশ প্রধানমন্ত্রী ...",
+      "url": "https://www.etvbharat.com/bn/!state/political-leaders-across-india-condole-death-of-buddhadeb-bhattacharjee-west-bengal-news-wbs24080802997",
+      "snippet": "Aug 8, 2024 — পশ্চিমবঙ্গের প্রাক্তন মুখ্যমন্ত্রী বুদ্ধদেব ভট্টাচার্যের মৃত্যুতে শোকাহত । তিনি একজন দৃঢ় সংকল্প রাজনৈতিক নেতা ছিলেন, যিনি অঙ্গীকারের সঙ্গে রাজ্যের সেবা করেছিলেন । তাঁর পরিবার ও সমর্থকদের প্রতি আমার আন্তরিক ...Read more",
+      "bm25_score_raw": 2.1300168691923327,
+      "bm25_score_norm": 0.45609352742588727,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.7990607023239136,
+      "embedding_score_norm": 0.4315308760803768,
+      "embedding_rank": 10
+    },
+    {
+      "title": "'বিতর্কিত' বুদ্ধ থেকে 'ভদ্রলোক' মুখ্যমন্ত্রী, অমলিনই রয়ে গেল ...",
+      "url": "https://www.sangbadpratidin.in/kolkata/buddhadeb-bhattacharjee-demise-controversy-to-clean-image-a-tale-of-bengals-former-chief-minister/pid/883195",
+      "snippet": "Aug 8, 2024 — রমেন দাস: 'স্বর্গের নিচে মহাবিশৃঙ্খলা' আজ! দীর্ঘ কয়েক দশকের রাজনৈতিক জীবন কাটিয়ে অমৃতলোকে পাড়ি দিয়েছেন রাজ্যের প্রাক্তন মুখ্যমন্ত্রী বুদ্ধদেব ভট্টাচার্য (Buddhadeb Bhattacharjee) । নিজের হাতে থাকা লাল ...Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.782924473285675,
+      "embedding_score_norm": 0.29203847156626433,
+      "embedding_rank": 11
+    },
+    {
+      "title": "বুদ্ধদেব ভট্টাচার্য",
+      "url": "https://bn.wikipedia.org/wiki/%E0%A6%AC%E0%A7%81%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A6%A6%E0%A7%87%E0%A6%AC_%E0%A6%AD%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF",
+      "snippet": "বুদ্ধদেব ভট্টাচার্য (১ মার্চ ১৯৪৪ - ৮ আগস্ট ২০২৪) ছিলেন একজন ভারতীয় কমিউনিস্ট রাজনীতিবিদ এবং ভারতের কমিউনিস্ট পার্টি (মার্কসবাদী) এর পলিটব্যুরোর প্রাক্তন সদস্য। তিনি ২০০০ থেকে ২০১১ সাল পর্যন্ত পশ্চিমবঙ্গের ...Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.7491419911384583,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/HI/1113",
+    "text": "PHOTOS: आज से कांग्रेस में राहुल ‘राज’ की शुरूआत, देशभर में जश्न में डूबे कांग्रेस कार्यकर्ता",
+    "lang": "hindi"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "#WATCH | Congress workers and supporters marked Rahul ...",
+      "url": "https://www.facebook.com/ilovebongaigaon/posts/watch-congress-workers-and-supporters-marked-rahul-gandhis-birthday-with-a-celeb/1030594459475043",
+      "snippet": "The celebrations reportedly took place as party workers gathered to commemorate Rahul Gandhi's birthday with various programs and public events.",
+      "bm25_score_raw": 1.0667690549127893,
+      "bm25_score_norm": 0.07502805733865174,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.8796988725662231,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "We all Congress workers are fighting the battle ...",
+      "url": "https://www.instagram.com/p/DX630DNkWLS",
+      "snippet": "Today, all Congress workers across the country, including Rajasthan, should take a pledge, immerse themselves in hard work, and move forward",
+      "bm25_score_raw": 0.6174481349579929,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.8782657384872437,
+      "embedding_score_norm": 0.9820120956761399,
+      "embedding_rank": 2
+    },
+    {
+      "title": "On the occasion of Rahul Gandhi's 56th birthday, workers ...",
+      "url": "https://www.facebook.com/ZeeNewsEnglish/posts/on-the-occasion-of-rahul-gandhis-56th-birthday-workers-of-the-youth-congress-in-/1466860648814729",
+      "snippet": "workers of the Youth Congress in Varanasi held a symbolic celebration by offering milk over his photograph in the Ganga River.",
+      "bm25_score_raw": 2.9410188098898575,
+      "bm25_score_norm": 0.38799215902686285,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8660579919815063,
+      "embedding_score_norm": 0.8287872304133537,
+      "embedding_rank": 3
+    },
+    {
+      "title": "India Today | Youth Congress workers performed a puja on ...",
+      "url": "https://www.instagram.com/reel/DZxF2KEDwc7?hl=en",
+      "snippet": "Youth Congress workers celebrated the birthday of Rahul Gandhi in a unique way—offering milk and Ganga water to his poster. The image portrayed",
+      "bm25_score_raw": 1.0063291188947143,
+      "bm25_score_norm": 0.0649357362743114,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.8657611012458801,
+      "embedding_score_norm": 0.8250608225179475,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Congress Workers Celebrate Rahul Gandhi's 55th Birthday at ...",
+      "url": "https://www.youtube.com/watch?v=StH2TbQ80yA",
+      "snippet": "Celebrations broke out at the Congress headquarters, 24 Akbar Road, Delhi, as party workers marked the 55th birthday of Rahul Gandhi—Leader",
+      "bm25_score_raw": 1.2348962699159858,
+      "bm25_score_norm": 0.103102108127822,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.8630451560020447,
+      "embedding_score_norm": 0.7909717837381685,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Congress workers in Varanasi marked the birthday ...",
+      "url": "https://www.instagram.com/p/DZwjKEME7QH?hl=en",
+      "snippet": "On June 19, Youth Congress workers in Varanasi marked the 56th birthday of Rahul Gandhi with a symbolic ceremony on the banks of the Ganga.",
+      "bm25_score_raw": 1.0178472844309123,
+      "bm25_score_norm": 0.0668590510943133,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.8577382564544678,
+      "embedding_score_norm": 0.7243625231544518,
+      "embedding_rank": 6
+    },
+    {
+      "title": "National Congress Party Rahul Gandhi Images and Stock Photos",
+      "url": "https://www.gettyimages.com/photos/national-congress-party-rahul-gandhi",
+      "snippet": "Explore Authentic National Congress Party Rahul Gandhi Stock Photos & Images For Your Project Or Campaign. Less Searching, More Finding With Getty Images.",
+      "bm25_score_raw": 2.1009091696746767,
+      "bm25_score_norm": 0.24770980969142584,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8350368738174438,
+      "embedding_score_norm": 0.439427355619462,
+      "embedding_rank": 7
+    },
+    {
+      "title": "Rahul Gandhi Shiva's Picture Live : शिव की तस्वीर पर संसद में राहुल गांधी ...",
+      "url": "https://www.youtube.com/watch?v=pLFGAfTVX9s",
+      "snippet": "Rahul Gandhi Shiva's Picture Live : शिव की तस्वीर पर संसद में राहुल गांधी का बड़ा बयान | PM Modi लोकसभा में आज कांग्रेस सांसद और विपक्ष के नेता राहुल गांधी ने नरेंद्र मोदी पर खूब हमला बोला.",
+      "bm25_score_raw": 6.606153372609435,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8243686556816101,
+      "embedding_score_norm": 0.3055257968273538,
+      "embedding_rank": 8
+    },
+    {
+      "title": "Rahul Gandhi (@rahulgandhi) - Photos",
+      "url": "https://www.facebook.com/rahulgandhi",
+      "snippet": "Rahul Gandhi, Delhi. 13263871 likes · 3173813 talking about this. Leader of Opposition, Lok Sabha | Member of the Indian National Congress | Member",
+      "bm25_score_raw": 1.7186710869176254,
+      "bm25_score_norm": 0.18388331171087877,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8241639137268066,
+      "embedding_score_norm": 0.30295598933473783,
+      "embedding_rank": 9
+    },
+    {
+      "title": "27690 Rahul Gandhi Photos & High Res Pictures",
+      "url": "https://www.gettyimages.com/photos/rahul-gandhi",
+      "snippet": "Browse Getty Images' premium collection of high-quality, authentic Rahul Gandhi photos & royalty-free pictures, taken by professional Getty Images",
+      "bm25_score_raw": 1.5739547162872762,
+      "bm25_score_norm": 0.15971842716780485,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8140408396720886,
+      "embedding_score_norm": 0.175896776780611,
+      "embedding_rank": 10
+    },
+    {
+      "title": "8179 Politician Rahul Gandhi Stock Photos, High-Res Pictures, and ...",
+      "url": "https://www.gettyimages.com/photos/politician-rahul-gandhi",
+      "snippet": "Explore Authentic Politician Rahul Gandhi Stock Photos & Images For Your Project Or Campaign. Less Searching, More Finding With Getty Images.",
+      "bm25_score_raw": 1.244716015855737,
+      "bm25_score_norm": 0.10474181914215175,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8105404376983643,
+      "embedding_score_norm": 0.1319616720880752,
+      "embedding_rank": 11
+    },
+    {
+      "title": "21943 Rahul Gandhi Photos Stock Photos, High-Res Pictures, and ...",
+      "url": "https://www.gettyimages.com/photos/rahul-gandhi-photos",
+      "snippet": "Explore Authentic Rahul Gandhi Photos Stock Photos & Images For Your Project Or Campaign. Less Searching, More Finding With Getty Images.",
+      "bm25_score_raw": 1.6571675941532429,
+      "bm25_score_norm": 0.17361339687558094,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8000267744064331,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

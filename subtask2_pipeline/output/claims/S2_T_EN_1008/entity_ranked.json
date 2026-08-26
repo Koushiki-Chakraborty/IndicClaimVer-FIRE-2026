@@ -1,0 +1,99 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1008",
+    "text": "Poll code no barrier to give aid to affected farmers: Munde",
+    "lang": "english"
+  },
+  "entity_ranked_evidence": [
+    {
+      "title": "Dhananjay Munde - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dhananjay_Munde",
+      "snippet": "# Dhananjay Munde. | Cabinet Minister Government of Maharashtra |. | **In office** 15 December 2024 – 4 March 2025 |. | **In office** 2 July 2023 – 26 November 2024 |. | Guardian Minister | Beed District (04 October 2023- 26 November 2024) |. Dhananjay Munde was born on 15 July 1975 in Nathra, Parli Vaijnath, Beed in a Vanjari family to parents Panditrao (Anna) Munde and Rukmini Munde. He is the Guardian Minister of Beed District and the Minister of Social Justice and Special Assistance of the State of Maharashtra. In early 2025, Dhananjay Munde faced significant political scrutiny following the arrest of his close associate, Walmik Anna Karad (Beed Mafia Crime Boss), in connection with the murder of Santosh Deshmukh, a sarpanch from Beed district. Anti-corruption activist Anjali Damania demanded immediate resignation of Maharashtra Food and Civil Supplies Minister Dhananjay Munde of the Ajit Pawar-led NCP on in Beed district, claiming that Munde holds “a position of financial gain”.",
+      "bm25_score_raw": 1.016686939323228,
+      "bm25_score_norm": 0.9233767468390532,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8058475255966187,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 1
+    },
+    {
+      "title": "माझ्यावर आरोप करणाऱ्यांनी लोकायुक्तांचा निकाल पाहावा- मुंडे",
+      "url": "https://www.youtube.com/watch?v=nxwg2nHRcD0",
+      "snippet": "Dhananjay Munde | माझ्यावर आरोप करणाऱ्यांनी लोकायुक्तांचा निकाल पाहावा- मुंडे @TV9MarathiLive1.5K views4 months ago",
+      "bm25_score_raw": 0.8901722918878838,
+      "bm25_score_norm": 0.808473447644415,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.7948141098022461,
+      "embedding_score_norm": 0.6746319813683702,
+      "embedding_rank": 2,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 2
+    },
+    {
+      "title": "Munde",
+      "url": "https://www.munde.group",
+      "snippet": "We are specialized in software product and service development. We also invest focusing on launching and nurturing innovative tech startups.Read more",
+      "bm25_score_raw": 0.8822413722769376,
+      "bm25_score_norm": 0.8012704174228678,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.7912651300430298,
+      "embedding_score_norm": 0.5699749527617876,
+      "embedding_rank": 3,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 3
+    },
+    {
+      "title": "Late Gopinath Munde - Rambhau Mhalgi Prabodhini",
+      "url": "https://rmponweb.org/gopinath-munde",
+      "snippet": "Facebook page opens in new windowX page opens in new windowInstagram page opens in new windowLinkedin page opens in new windowYouTube page opens in new window. + Indian Journal of Democratic Governance. + Indian Institute of Democratic Leadership. + Institute for Inclusive Policy and Governance. # Late Gopinath Munde. [wd\\_headings headings\\_title=”Late Gopinath Pandurang Munde” headings\\_subtitle=”(1949-2014)” headings\\_subtitle\\_tag=”p” headings\\_separator=”border” headings\\_separator\\_border\\_color=”#063169″ headings\\_separator\\_border\\_width=”4px” wd\\_heading\\_font\\_family=”Ubuntu” wd\\_heading\\_font\\_weight=”600″ wd\\_sub\\_heading\\_font\\_family=”Ubuntu” wd\\_sub\\_heading\\_font\\_weight=”300″ wd\\_sub\\_heading\\_line\\_height=”25″ wd\\_sub\\_heading\\_font\\_size=”18″]. Gopinath Pandurang Munde famously called as ‘Lokneta’ was an Indian politician and the most popular social leader from Maharashtra. He was a senior leader of the Bharatiya Janata Party (BJP) and former Union Minister for Rural Development and Panchayati Raj in Narendra Modi’s Cabinet, which, however, was short-lived due to his death in a road accident. He was also a member of Maharashtra’s Legislative Assembly (MLA) during 1980-1985 and 1990-2009 sessions and the leader of opposition in the Assembly during 1992-1995. He strived to give new dimensions to Rambhau Mhalgi Prabodhini mission and brought issues like natural resource management on the agenda.",
+      "bm25_score_raw": 0.6003778091697657,
+      "bm25_score_norm": 0.5452759220793804,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.7773518562316895,
+      "embedding_score_norm": 0.1596818561321791,
+      "embedding_rank": 4,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 4
+    },
+    {
+      "title": "Mundé (Munde)",
+      "url": "http://www.native-languages.org/definitions/munde.htm",
+      "snippet": "\"Munde\" is an alternate name for the Aikana tribe. It's not clear how the tribe came to be called this (they do not use it as a tribal name themselves,) but it ...Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.7762961387634277,
+      "embedding_score_norm": 0.12854945730983874,
+      "embedding_rank": 5,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 5
+    },
+    {
+      "title": "munde",
+      "url": "https://en.wiktionary.org/wiki/munde",
+      "snippet": "munde (imperative mund, infinitive at munde, present tense munder, past tense mundede, perfect tense har mundet) flow into join, open into, open onto",
+      "bm25_score_raw": 1.101053218855249,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.7719369530677795,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 6
+    }
+  ]
+}

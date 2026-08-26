@@ -1,0 +1,57 @@
+{
+  "claim": {
+    "id": "S2/1363",
+    "text": "Assembly poll results: Fate of 4 state govts to be decided today",
+    "lang": "dev"
+  },
+  "ranked_evidence": [
+    {
+      "title": "Assembly election results: Fate of five states to be sealed today",
+      "url": "https://timesofindia.indiatimes.com/india/assembly-election-results-fate-of-five-states-to-be-sealed-today/amp_articleshow/67030922.cms",
+      "snippet": "India News: While the BJP hopes to retain Madhya Pradesh and Chhattisgarh, the Congress is confident of forming government in Rajasthan.",
+      "bm25_score_raw": 1.7328135726941314,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Assembly Election Results 2026: Seats And Majority Mark Across 4 ...",
+      "url": "https://www.ndtv.com/india-news/assembly-poll-results-2026-seats-and-majority-mark-in-bengal-tamil-nadu-kerala-assam-puducherry-11441980/amp/1",
+      "snippet": "The results of the Assembly elections 2026 in West Bengal, Tamil Nadu, Kerala, Assam and the Union Territory of Puducherry will be out tomorrow,",
+      "bm25_score_raw": 1.6331520795552847,
+      "bm25_score_norm": 0.9424857383914095,
+      "bm25_rank": 2
+    },
+    {
+      "title": "The fate of 1314 candidates, including political veterans and prominent ...",
+      "url": "https://www.facebook.com/cnnnews18/posts/the-fate-of-1314-candidates-including-political-veterans-and-prominent-debutants/1439228261580146",
+      "snippet": "The fate of 1314 candidates, including political veterans and prominent debutants, will be sealed by the voters in this phase.",
+      "bm25_score_raw": 0.7996075698935565,
+      "bm25_score_norm": 0.46145043096029564,
+      "bm25_rank": 3
+    },
+    {
+      "title": "Around 93.3 million voters will decide the fate ...",
+      "url": "https://www.instagram.com/p/DXdLE6hHxIW",
+      "snippet": "3338 likes, 12 comments - hindustantimes on April 22, 2026: \"Around 93.3 million voters will decide the fate of 5501 candidates in the fray",
+      "bm25_score_raw": 0.7837592275282593,
+      "bm25_score_norm": 0.45230441397668175,
+      "bm25_rank": 4
+    },
+    {
+      "title": "Negotiations at 11th hour could decide fate of NC election bill",
+      "url": "https://carolinapublicpress.org/75932/negotiations-at-11th-hour-could-decide-fate-of-nc-election-bill",
+      "snippet": "A wide-ranging North Carolina election bill seemed headed for passage at lightning speed Tuesday morning in Raleigh. But now, it's stopped in",
+      "bm25_score_raw": 0.546825099974582,
+      "bm25_score_norm": 0.31557064683213043,
+      "bm25_rank": 5
+    },
+    {
+      "title": "Explained: How governors decide govt formation in hung assemblies",
+      "url": "https://www.youtube.com/watch?v=o3UuKV0kID0",
+      "snippet": "In a hung Assembly, who gets the first chance to form the government? This explainer breaks down Supreme Court judgments,",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6
+    }
+  ]
+}

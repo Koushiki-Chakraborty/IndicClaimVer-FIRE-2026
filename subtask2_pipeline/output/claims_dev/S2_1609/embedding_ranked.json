@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/1609",
+    "text": "जज लोया पर आए सुप्रीम कोर्ट फैसले से और सवाल नहीं उठेंगे: कांग्रेस",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Even without an investigation, Supreme Court concludes ...",
+      "url": "https://sabrangindia.in/article/even-without-investigation-supreme-court-concludes-judge-loyas-death-was-natural",
+      "snippet": "Apr 20, 2018 — Even without an investigation, Supreme Court concludes that Judge Loya's death was natural · The court based its judgement on statements of four",
+      "bm25_score_raw": 0.8366098831635929,
+      "bm25_score_norm": 0.007807983578964543,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.8596361875534058,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "CJI के सपोर्ट में Supreme Court के जज ने दी कड़ी चेतवनी 'ये कोई ...",
+      "url": "https://www.youtube.com/watch?v=zujovgYoWOA",
+      "snippet": "CJI के सपोर्ट में Supreme Court के जज ने दी कड़ी चेतवनी 'ये कोई मज़ाक नहीं....' @4PMNewsNetwork1.2K likes52K views9 months ago",
+      "bm25_score_raw": 1.2384609272165004,
+      "bm25_score_norm": 0.05242938789227471,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.84390789270401,
+      "embedding_score_norm": 0.8338557145015867,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Congress Questions Judge Loya's Death, Says ...",
+      "url": "https://www.ndtv.com/india-news/congress-questions-judge-loyas-death-says-circumstances-tell-a-story-1806894",
+      "snippet": "Jan 31, 2018 — The controversy over the Judge BH Loya's death reached the Supreme Court after several members of the judge's family raised questions.",
+      "bm25_score_raw": 2.6057128974720025,
+      "bm25_score_norm": 0.2042485852436901,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8429747819900513,
+      "embedding_score_norm": 0.8239988918551352,
+      "embedding_rank": 3
+    },
+    {
+      "title": "जज लोया केस पर सुप्रीम कोर्ट के फैसले के बाद कांग्रेस ने उठाए दस ...",
+      "url": "https://ndtv.in/india/congress-raises-questions-on-judge-loya-verdict-1839865",
+      "snippet": "सुप्रीम कोर्ट द्वारा जज लोया की मौत मामले में एसआईटी जांच की मांग से संबंधित याचिका ठुकराने के बाद कांग्रेस ने इस पर सवाल खड़ा कर दिया है. कांग्रेस का कहना है कि अभी भी इस मामले में कई सवाल अनसुलझे हैं.",
+      "bm25_score_raw": 9.772083874528315,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8426293134689331,
+      "embedding_score_norm": 0.8203495693346093,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Brijgopal Harkishan Loya - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Brijgopal_Harkishan_Loya",
+      "snippet": "**Brijgopal Harkishan Loya** (12 December 1966 – 1 December 2014) was an Indian judge who served in a special court which deals with matters relating to the Central Bureau of Investigation (CBI). He was presiding over the Sohrabuddin Sheikh case, and died on 1 December 2014 in Nagpur. A bench of the Supreme Court of India, headed by the Chief Justice of India Dipak Misra, on April 19, 2018, dismissed the public interest petition (PIL), and stated the death to be natural and such petitions to be an attack on the Judiciary. In June 2014, Loya was appointed to the special CBI court on the Sohrabuddin Sheikh case, after a previous judge, J. The family also raised concerns over the medical reports of Justice Loya, leading to a PIL in the Supreme Court of India During a Press Conference, the Congress claimed that 2 other associates, with whom Justice Loya had shared the details of the case, died under mysterious circumstances as well.",
+      "bm25_score_raw": 1.6459267704107399,
+      "bm25_score_norm": 0.09767425760733313,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.8347036838531494,
+      "embedding_score_norm": 0.7366279655467688,
+      "embedding_rank": 5
+    },
+    {
+      "title": "क्या Judge Loya Case Congress की साज़िश थी ? | ABP News ...",
+      "url": "https://www.youtube.com/watch?v=CPSE7kdiQ7o",
+      "snippet": "क्या Judge Loya Case Congress की साज़िश थी? जज लोया केस के जरिए षडयंत्र का प्रयास था, याचिका के पीछे राहुल गांधी का हाथ: बीजेपी About Channel: ABP News is a news hub which",
+      "bm25_score_raw": 3.8281327471621442,
+      "bm25_score_norm": 0.33998567280606096,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8307852745056152,
+      "embedding_score_norm": 0.6952362363370775,
+      "embedding_rank": 6
+    },
+    {
+      "title": "India top court says Judge Loya death is 'serious matter'",
+      "url": "https://www.bbc.com/news/world-asia-india-42784830",
+      "snippet": "Jan 22, 2018 — Indian magazine The Caravan published a story in which Judge Loya's family raised serious questions over the circumstances around his death.",
+      "bm25_score_raw": 2.5313164418162986,
+      "bm25_score_norm": 0.19598762791529917,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.829860508441925,
+      "embedding_score_norm": 0.6854675615775954,
+      "embedding_rank": 7
+    },
+    {
+      "title": "The Congress raised questions over the Supreme Court ...",
+      "url": "https://www.facebook.com/TimesofIndia/posts/the-congress-raised-questions-over-the-supreme-court-verdict-rejecting-a-batch-o/10156498188092139",
+      "snippet": "Apr 19, 2018 — The Congress raised questions over the Supreme Court verdict rejecting a batch of pleas seeking a probe into the alleged mysterious death of.",
+      "bm25_score_raw": 5.833960925155633,
+      "bm25_score_norm": 0.5627121567554068,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8266346454620361,
+      "embedding_score_norm": 0.6513914773585856,
+      "embedding_rank": 8
+    },
+    {
+      "title": "40744_2017_Judgement_19-Apr-2018.pdf",
+      "url": "https://api.sci.gov.in/supremecourt/2017/40744/40744_2017_Judgement_19-Apr-2018.pdf",
+      "snippet": "2 Since the petitions are founded on the two articles published in Caravan, it would be necessary to extract them in this judgment: (i) Caravan article dated 20 November 2017: “On the morning of 1 December 2014, the family of 48-year-old judge Brijgopal Harkishan Loya, who was presiding over the Central Bureau of Investigation special court in Mumbai, was informed that he had died in Nagpur, where he had travelled for a colleague’s daughter’s wedding. In so far as the circumstances relating to the death of Judge Loya are concerned, all issues raised in that connection in the present case shall stand governed by the judgment delivered by this Court.",
+      "bm25_score_raw": 0.7662928144509229,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.8171916604042053,
+      "embedding_score_norm": 0.5516414395809197,
+      "embedding_rank": 9
+    },
+    {
+      "title": "Supreme Court: सुप्रीम कोर्ट के जस्टिस सूर्यकांत ने किसपर किया ...",
+      "url": "https://www.youtube.com/watch?v=NWn0166b9VM",
+      "snippet": "Supreme Court: सुप्रीम कोर्ट के जस्टिस सूर्यकांत ने किसपर किया कटाक्ष?-TV9 | Fikr Apki #supremecourt #suryakant #delhi",
+      "bm25_score_raw": 2.174752840473945,
+      "bm25_score_norm": 0.15639492595677856,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.8137380480766296,
+      "embedding_score_norm": 0.5151595476754143,
+      "embedding_rank": 10
+    },
+    {
+      "title": "वो जज जिन्होंने सुप्रीम कोर्ट में इंदिरा गांधी को राहत दी, फिर ...",
+      "url": "https://hindi.news18.com/news/knowledge/the-supreme-court-judge-who-gave-relief-to-indira-gandhi-then-prime-minister-against-allahabad-high-court-verdict-before-emergency-6536007.html",
+      "snippet": "23 जून को सुप्रीम कोर्ट में श्रीमती इंदिरा गांधी की याचिका पर सुनवाई शुरू हुई. अगले दिन जस्टिस अय्यर ने इलाहाबाद हाईकोर्ट के फैसले पर सशर्त रोक लगा दी. अदालत ने कहा, श्रीमती इंदिरा गांधी संसद में उपस्थित हो",
+      "bm25_score_raw": 4.310132390629702,
+      "bm25_score_norm": 0.3935067505494987,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8006063103675842,
+      "embedding_score_norm": 0.37644373646300305,
+      "embedding_rank": 11
+    },
+    {
+      "title": "सुप्रीम कोर्ट में भारत के चीफ जस्टिस (CJI) सूर्यकांत की बेंच में ...",
+      "url": "https://www.instagram.com/p/DUh9-Jskn3q?hl=hi",
+      "snippet": "सुप्रीम कोर्ट में भारत के चीफ जस्टिस (CJI) सूर्यकांत की बेंच में सोमवार सुबह एक वकील यह शिकायत लेकर पहुंचा कि उसे दिल्ली की तीस हजारी कोर्ट में कोर्ट रूम के अंदर जज के सामने पीटा गया है।",
+      "bm25_score_raw": 2.4514566914512947,
+      "bm25_score_norm": 0.1871200281861625,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.7649697065353394,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

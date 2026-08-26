@@ -1,0 +1,76 @@
+{
+  "claim": {
+    "id": "S2/1411",
+    "text": "Covid: Omicron is similar to the common cold, no major concerns about drug misuse, says VK Paul",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Omicron is not a common cold: Dr Paul",
+      "url": "https://www.drugtodayonline.com/medical-news/news-topic/omicron-is-not-a-common-cold-dr-paul",
+      "snippet": "“We are concerned about the overuse and misuse of drugs. Don't over use it. It will have an aftermath. Have warm water and do gargles in home",
+      "bm25_score_raw": 1.3508595499024176,
+      "bm25_score_norm": 0.1145527684056376,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.9247211813926697,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Covid caused by Omicron should not be considered ...",
+      "url": "https://www.business-standard.com/article/current-affairs/covid-caused-by-omicron-should-not-be-considered-common-cold-dr-vk-paul-122011201760_1.html",
+      "snippet": "Dr VK Paul said that Covid caused by Omicron should not be considered common cold and added that people should not take it lightly",
+      "bm25_score_raw": 6.804503005025465,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9069808125495911,
+      "embedding_score_norm": 0.7746223121139542,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Omicron is not common cold, it's our responsibility to slow it ...",
+      "url": "https://www.dnaindia.com/india/video-omicron-is-not-common-cold-it-s-our-responsibility-to-slow-it-down-dr-vk-paul-2928244",
+      "snippet": "Omicron is not common cold, it's our responsibility to slow it down: Vaccination critical pillar of our COVID response,\" said Dr VK Paul,",
+      "bm25_score_raw": 3.252668668485332,
+      "bm25_score_norm": 0.42332829304839437,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.9031514525413513,
+      "embedding_score_norm": 0.7259732500581175,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Omicron Isn't Common Cold, Has Led To Collapse Of Heath ...",
+      "url": "https://www.youtube.com/watch?v=MYKzrwLbN5w",
+      "snippet": "Niti Aayog Member (Health) Dr VK Paul during a press briefing on Wednesday said that the new COVID-19 variant Omicron is not a common cold.",
+      "bm25_score_raw": 1.8023925344026719,
+      "bm25_score_norm": 0.1878631405246139,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.887747049331665,
+      "embedding_score_norm": 0.5302722018232607,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Omicron (B.1.1.529) variant of SARS‐CoV‐2 - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9015506",
+      "snippet": "by RK Mohapatra · 2022 · Cited by 98 — The development of powerful oral antiviral drugs such as Molnupiravir and Paxlovid have shown promising clinical results and raised new hopes of COVID‐19",
+      "bm25_score_raw": 0.6453065441555652,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8561689853668213,
+      "embedding_score_norm": 0.1290972822222609,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Omicron Variant Symptoms: Guide & How to Treat Them | Ada Health",
+      "url": "https://ada.com/covid/covid-19-omicron-variant-symptoms",
+      "snippet": "3. COVID-19: Omicron variant symptoms. * Omicron is currently the dominant variant of the coronavirus worldwide and is being watched meticulously by health organizations to monitor its impact on public health. **Omicron symptoms** have been a cause of concern as this variant seems quite different from previous strains we’ve been in contact with. Although Omicron may cause milder symptoms than other variants, it’s still listed as a variant of concern due to its high transmissibility and the fact that it may still cause severe illness in some individuals. The Omicron variant is a mutation of the coronavirus that **is currently the dominant COVID-19 variant worldwide**. Since its first identification in late 2021, many subvariants of Omicron have been detected, with subvariant XBB.1.5 being the global dominant and most contagious one as of April 2023. The variants of Omicron are being monitored closely by health organizations, as they transmit easily and rapidly and can cause severe symptoms. ## What are the symptoms of Omicron?",
+      "bm25_score_raw": 0.9014636316002288,
+      "bm25_score_norm": 0.04158936787810873,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.846007227897644,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1005",
+    "text": "Covid-19: Delhi, Mumbai may see further surge; daily cases continue to rise",
+    "lang": "english"
+  },
+  "ranked_evidence": [
+    {
+      "title": "Alarming Covid surge in India’s major cities: Delhi, Kerala and Mumbai on alert – What to know",
+      "url": "https://gulfnews.com/world/asia/india/covid-19-surge-in-india-kerala-delhi-and-mumbai-on-high-alert-what-to-know-1.500138866",
+      "snippet": "# Alarming Covid surge in India’s major cities: Delhi, Kerala and Mumbai on alert – What to know. Kerala has reported highest number of Covid cases in India this May, with 273 infections. India faces fresh Covid-19 surge: JN.1 Variant sparks new precautions. Dubai: After causing global disruption, Covid-19 is gradually resurging in urban areas across India, prompting states and union territories such as Delhi, Karnataka, and Mumbai to put hospitals on high alert. Fresh cases have been reported this month in Delhi, Maharashtra, Kerala, Tamil Nadu, and Karnataka. The rise in cases across South Asia is likely driven by the JN.1 variant, a sub-variant of Omicron. ### Also Read: Covid-19 cases rise in India: Kerala, Maharashtra report most cases - State-wise updates. “The Union Health Ministry remains vigilant and is closely monitoring developments through various agencies,” officials said, noting that cases have been mainly reported from Kerala, Tamil Nadu, Maharashtra, and Karnataka. Fresh cases this month have been reported in Delhi, Maharashtra, Kerala, Tamil Nadu, and Karnataka.",
+      "bm25_score_raw": 5.9366564040690735,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Delhi, Mumbai show spike in daily COVID cases, highest in months. Key points | Today News",
+      "url": "https://www.livemint.com/news/india/delhi-mumbai-show-spike-in-daily-covid-cases-highest-in-months-key-points-11640707681570.html",
+      "snippet": "# Delhi, Mumbai show spike in daily COVID cases, highest in months. ## * In Delhi, this is the highest single-day spike in number of cases in over 6 months * Mumbai's tally today of 1,377 was a sharp rise from 809 cases reported on Monday indicating an increase of 70%. Delhi and Mumbai saw a massive jump in daily COVID-19 count with the national capital reporting close to new cases while the financial capital logging more than 1,300 cases. This is the highest single-day spike in number of cases in over 6 months. So far, 142 cases are of the Omicron variant of COVID-19 have been reported from the city. The Chief Minister said, \"In the past few days, the number of cases in the capital city and the country are rising. Today's tally of 1,377 was a sharp rise from 809 cases reported on Monday indicates an increase of 70%. HomeNewsIndiaDelhi, Mumbai show spike in daily COVID cases, highest in months.",
+      "bm25_score_raw": 4.565075494351973,
+      "bm25_score_norm": 0.7514724754736827,
+      "bm25_rank": 2
+    },
+    {
+      "title": "Delhi's single-day Covid spike nearly four-fold of Mumbai's daily rise | India News",
+      "url": "https://www.hindustantimes.com/india-news/delhis-single-day-covid-spike-nearly-four-fold-of-mumbai-s-daily-rise-101618986331926.html",
+      "snippet": "HT E-paperAccess digital news experience. # Delhi's single-day Covid spike nearly four-fold of Mumbai's daily rise. ## But the number of tests in the Capital is higher than Mumbai and there is not much difference between the active number of patients in these two worst-hit cities. Delhi's 24-hour infection tally of the coronavirus disease (Covid-19) was almost four-fold of what Mumbai recorded on Tuesday. With this ongoing spike, Delhi has already become the worst pandemic-hit city in the country, but as far as active cases are concerned, Mumbai is not far behind Delhi, as the national capital has just overtaken the financial capital in active cases. **>** Mumbai's single-day peak so far has been 11,163 fresh Covid-19 infections, reported on April 4. **>** The number of total covid deaths in Mumbai is 12,439. On April 4, when Mumbai recorded its highest spike of over 11,000 fresh infections, Delhi's single-day tally was around 4,000. Home/India News/Delhi's Single-day Covid Spike Nearly Four-fold Of Mumbai's Daily Rise.",
+      "bm25_score_raw": 4.311212939876165,
+      "bm25_score_norm": 0.7054731240779176,
+      "bm25_rank": 3
+    },
+    {
+      "title": "Active cases cross 7,000-mark; 3 new deaths recorded on Thursday",
+      "url": "https://indianexpress.com/article/india/covid19-cases-india-live-updates-coronavirus-cases-karnataka-kerala-delhi-10059919",
+      "snippet": "## Three new Covid-related deaths, three in Kerala, two in Karnataka and one in Maharashtra were also reported in the last 24-hours, taking the total number of deaths this year to 74. The fresh spike in Covid-19 infections continues in India as the number of active cases in the country stood at 7,154 on Thursday morning, according to the Ministry of Health and Family Welfare. Three new Covid-related deaths were reported since Thursday morning, two in Maharashtra and one in Madhya Pradesh, taking the total number of deaths this year to 77. **Worst-hit states amid rise in Covid cases**: While a slight uptick in active cases was recorded in almost all states, Kerala continues to report the highest number of Covid-19 cases in 2025, with the active caseload standing at 2,223 on Thursday morning. According to the Ministry of Health and Family Welfare, 33 new Covid-19 cases have been reported in India since Thursday morning, taking the total to 7,154.",
+      "bm25_score_raw": 1.0108378680399206,
+      "bm25_score_norm": 0.10745222658598029,
+      "bm25_rank": 4
+    },
+    {
+      "title": "Why are COVID-19 cases rising again in India",
+      "url": "https://m.economictimes.com/news/new-updates/why-are-covid-19-cases-rising-again-in-india-and-should-you-be-worried/articleshow/121358380.cms",
+      "snippet": "May 23, 2025 — Mumbai, Chennai, and Ahmedabad are experiencing a noticeable jump in infections. The rise is attributed to new subvariants and waning immunity.",
+      "bm25_score_raw": 0.7999745724223287,
+      "bm25_score_norm": 0.06924424884144448,
+      "bm25_rank": 5
+    },
+    {
+      "title": "COVID-19 Cases Skyrocket In Delhi & Mumbai, National Capital Records 15,097 Cases In Last 24 Hours",
+      "url": "https://www.youtube.com/watch?v=o6X2rVmWSIU",
+      "snippet": "COVID-19 Cases Skyrocket In Delhi & Mumbai, National Capital Records 15,097 Cases In Last 24 Hours\nIndia Today\n11300000 subscribers\n52 likes\n7219 views\n7 Jan 2022\nDelhi has reported 15,097 fresh cases of coronavirus, registering a 41% increase from Wednesday when the national capital had breached 10,000 mark with 10,665 positive cases. The positivity rate in the city has gone up to 15.34%.\n\nMeanwhile, Mumbai reported 20,181 new COVID-19 cases on Thursday, a fresh all-time single-day high and up 5,015 infections, or 33.06 per cent, from a day ago, while four more patients succumbed to the disease, said the Brihanmumbai Municipal Corporation (BMC).\n\nWith these additions, the financial capital's coronavirus tally jumped to 8,53,809, while the death toll climbed to 16,388, the BMC said in a bulletin.\n\n#COVID19Cases #COVID19CrisisInIndia #COVID19ThirdWave #MumbaiCOVID19Crisis #DelhiCOVID19Outbreak #IndiaToday\n\nSubscribe to India Today for NEW VIDEOS EVERY DAY and make sure to enable Push Notifications so you'll never miss a new video. \n\nAll you need to do is PRESS THE BELL ICON next to the Subscribe button! \n\nIndia Today TV is India's leading English News Channel. India Today YouTube channel offers latest news videos on Politics, Business, Cricket, Bollywood, Lifestyle, Auto, Technology, Travel, Entertainment and a lot more. \n\nStay tuned for latest updates and in-depth analysis of news from India and around the world! \n\nFollow us: Official website: https://www.indiatoday.in/\n\nTwitter: https://twitter.com/IndiaToday \n\nFacebook: https://www.facebook.com/IndiaToday\n\nTelegram: https://t.me/indiatodayofficial\n6 comments\n",
+      "bm25_score_raw": 0.41782740381538186,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6
+    }
+  ]
+}

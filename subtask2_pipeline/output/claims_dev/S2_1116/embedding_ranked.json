@@ -1,0 +1,76 @@
+{
+  "claim": {
+    "id": "S2/1116",
+    "text": "Senior Citizens Act | Lawyers Allowed To Represent Parties Before Maintenance Tribunal, Karnataka HC Declares Bar U/S 17 Ultra Vires Advocates Act",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Senior Citizens Act | Lawyers Allowed To Represent Parties Before ...",
+      "url": "https://www.livelaw.in/amp/high-court/karnataka-high-court/karnataka-high-court-advocates-representation-senior-citizens-act-231933",
+      "snippet": "Senior Citizens Act | Lawyers Allowed To Represent Parties Before Maintenance Tribunal, Karnataka HC Declares Bar U/S 17 Ultra Vires Advocates",
+      "bm25_score_raw": 8.772002785820181,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9782723784446716,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Senior Citizens Act | Lawyers Allowed To Represent Parties Before ...",
+      "url": "https://www.facebook.com/livelaw.in/posts/senior-citizens-act-lawyers-allowed-to-represent-parties-before-maintenance-trib/658371739661194",
+      "snippet": "Senior Citizens Act | Lawyers Allowed To Represent Parties Before Maintenance Tribunal, Karnataka HC Declares Bar U/S 17 Ultra Vires Advocates",
+      "bm25_score_raw": 8.772002785820181,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.9782723784446716,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Scholarly Research Journal for Interdisciplinary Studies Online ...",
+      "url": "https://www.srjis.com/downloadPdf/19_%20JUDICIAL%20INTERPRETATIONS%20AND%20CONSTITUTIONAL%20IMPLICATIONS.pdf/8287/251",
+      "snippet": "Section 17 of the Senior Citizens Act bars lawyers, advocates and legal practitioners from representing parties before Maintenance and Appellate",
+      "bm25_score_raw": 1.9396687842962452,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8967777490615845,
+      "embedding_score_norm": 0.4007657559144257,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Karnataka HC Strikes Down Advocate Exclusion Under Senior Citizens Act",
+      "url": "https://www.linkedin.com/posts/anb-legal_seniorcitizen-advocates-constitution-activity-7396751583713234944-ed4G",
+      "snippet": "Karnataka High Court has ruled that Section 17 of the Maintenance and Welfare of Parents and Senior Citizens Act, 2007, is unconstitutional.",
+      "bm25_score_raw": 3.1073003177670304,
+      "bm25_score_norm": 0.17089790007490085,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8962310552597046,
+      "embedding_score_norm": 0.3967458879845306,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Maintenance: Wife Can't Use Senior Citizens Against Husband",
+      "url": "https://www.shoneekapoor.com/legal-news/maintenance-senior-citizens-act",
+      "snippet": "Shonee Kapoor – Against Misuse Of Law. Home | Latest News | Wife Cannot Invoke Senior Citizens Act To Seek Maintenance Against Husband Who Is Also A Senior Citizen; Karnataka High Court Quashes Joint Katha Order. # Wife Cannot Invoke Senior Citizens Act To Seek Maintenance Against Husband Who Is Also A Senior Citizen; Karnataka High Court Quashes Joint Katha Order. The Karnataka High Court clarified that the Act is a welfare legislation meant to protect senior citizens and cannot be converted into a forum for deciding husband-wife disputes. *BENGALURU:* The **Karnataka High Court**, in an important judgment delivered by **Justice Lalitha Kanneganti**, held that the **Maintenance and Welfare of Parents and Senior Citizens Act, 2007** cannot be used by a wife to initiate proceedings against her husband when both are senior citizens. The case arose from Hassan district, where a 73-year-old retired KSRTC conductor approached the High Court challenging orders passed by the **Assistant Commissioner and Deputy Commissioner** directing that a joint katha be entered in the names of both him and his wife for certain agricultural lands.",
+      "bm25_score_raw": 2.455900812058161,
+      "bm25_score_norm": 0.07555720016714221,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8829081058502197,
+      "embedding_score_norm": 0.29878154875360863,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Maintenance for Senior Citizens - Pooja Associates & Legal Consultants",
+      "url": "https://www.poojaadvocates.com/service/family-matters/maintenance-for-senior-citizens",
+      "snippet": "Experienced Legal Team: A good family law firm attorneys have extensive experience in handling maintenance cases for senior citizens. They are well-versed in",
+      "bm25_score_raw": 2.2618201265542237,
+      "bm25_score_norm": 0.04715099440193108,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8422744274139404,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6
+    }
+  ]
+}

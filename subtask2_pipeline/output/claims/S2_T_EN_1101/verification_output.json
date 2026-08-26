@@ -1,0 +1,6 @@
+{
+  "ID": "S2/T/EN/1101",
+  "Evidence": "The retrieved evidence does not confirm the claim of India recording 16,906 new Covid-19 cases in 24 hours. Source 1 mentions a record of nearly 315,000 new infections in a single day, while Source 3 states that India recorded 314,835 new cases in the past 24 hours. There is no mention of a recovery rate of 97.49% in any of the sources. Source 2 reports a much lower number of 906 new cases, which is inconsistent with the claim.",
+  "Prediction": "REFUTES",
+  "Justification": "The evidence directly contradicts the claim regarding the number of new Covid-19 cases in India. Source 1 and Source 3 report significantly higher figures, with Source 3 specifically stating 314,835 new cases, while Source 2 reports only 906 new cases. Additionally, there is no evidence provided in the sources to support the recovery rate of 97.49%, leading to the conclusion that the claim is not substantiated."
+}

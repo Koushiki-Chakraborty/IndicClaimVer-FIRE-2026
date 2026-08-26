@@ -1,0 +1,6 @@
+{
+  "ID": "S2/T/EN/1068",
+  "Evidence": "India reported 30,757 new Covid-19 cases and 541 deaths in a 24-hour period, according to Source 1. The recovery rate is stated to be 98.03%, which contradicts the claim of a 97.03% recovery rate. Source 1 provides specific numbers for new cases and deaths, while Source 2 and Source 3 do not provide the same level of detail for the specified time frame. Source 1 is the primary source confirming the new cases and deaths.",
+  "Prediction": "REFUTES",
+  "Justification": "The retrieved evidence from Source 1 confirms that India registered 30,757 new Covid-19 cases and 541 deaths. However, it states that the recovery rate is 98.03%, which directly contradicts the claim that the recovery rate is 97.03%. Therefore, the evidence refutes the claim's core assertion regarding the recovery rate."
+}

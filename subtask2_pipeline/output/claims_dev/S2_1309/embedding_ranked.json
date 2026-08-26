@@ -1,0 +1,98 @@
+{
+  "claim": {
+    "id": "S2/1309",
+    "text": "BJP to raise coal scam, misuse of CBI in Parliament session",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "BJP Vows Action Over Alleged Singareni Irregularities, KTR Seeks Judicial Probe - The Morning Voice",
+      "url": "https://tmv.in/article/bjp-vows-action-over-alleged-singareni-irregularities-ktr-seeks-judicial-probe-date=2026-06-07",
+      "snippet": "# BJP Vows Action Over Alleged Singareni Irregularities, KTR Seeks Judicial Probe. Allegations of large-scale irregularities in the operations of **Singareni Collieries Company Limited (SCCL)** have triggered a fresh political confrontation in Telangana, with the BJP and BRS exchanging sharp accusations over the reported disappearance of coal stocks valued at nearly **₹1,600 crore** . Senior BJP leader and former Bhongir MP **Boora Narsaiah Goud** on Saturday asserted that a BJP government in Telangana would take stringent action against all political parties and individuals found responsible for misappropriating resources belonging to the state-owned coal mining company. Kishan Reddy** , seeking a probe by a sitting judge into the alleged disappearance of nearly **40 lakh metric tonnes of coal** recorded in company accounts. He argued that Singareni's coal resources belong to the people of Telangana and accused both the State and Central governments of failing to protect the interests of the organisation. BJP Vows Action Over Alleged Singareni Irregularities, KTR Seeks Judicial Probe - The Morning Voice.",
+      "bm25_score_raw": 5.1084408745960115,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8565655946731567,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Congress party sold Mining ministry in 1956: BJP MP Nishikant Dubey - The Economic Times",
+      "url": "https://m.economictimes.com/news/politics-and-nation/congress-party-sold-mining-ministry-in-1956-bjp-mp-nishikant-dubey/articleshow/124330143.cms",
+      "snippet": "Bharatiya Janata Party (BJP) MP Nishikant Dubey on Monday launched a scathing attack on the Congress party, alleging that it had effectively \"sold\" the Union Ministry of Mining and Petroleum to Serajuddin and Co. in 1956.According to documents posted by Dubey, Serajuddin and Co., a prominent mining company in the mid-20th century, was particularly known for securing lucrative leases on manganese ore.Sharing documents related to the incident on 'X', the BJP MP alleged that K.D. Malaviya, who was the then Mining minister, was investigated by Supreme Court's judge Justice SK Das. He stated that Malaviya went to jail in 1977 in a case related to the Mumbai High oil scam; however, it was withdrawn by the Congress government itself in 1980.\"Rahul Gandhi's party's exploits are unparalleled, that's why the Congress party is loaded with wealth.",
+      "bm25_score_raw": 2.699339483347366,
+      "bm25_score_norm": 0.5284076980847578,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8346184492111206,
+      "embedding_score_norm": 0.5513341342931855,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Coal block controversy: A news round-up",
+      "url": "https://www.livemint.com/Politics/tJIXT99jAiQNyBfPbjmmkJ/Coal-block-controversy-A-news-roundup.html",
+      "snippet": "“The central government has come out strongly in defence of Prime Minister Manmohan Singh after former coal secretary PC Parakh said that if he and Kumar Mangalam Birla are conspirators, then so is the Prime Minister equally responsible for the alleged conspiracy in allocation of coal blocks,” CNN-IBN news channel said in a report. “Union information and broadcasting minister Manish Tewari speaking to Karan Thapar on Devil’s Advocate said that it was unfair to hold the Prime Minister responsible for the administrative decisions taken by the government at the bureaucratic level,” the report further said. The screening committee, of which Parakh was the chairman when he was the coal secretary, makes recommendations to the coal ministry for allocation captive coal mines but the final approval comes from the minister. Prime Minister Manmohan Singh was the Cabinet minister of coal when Hindalco was admitted as a co-developer of Talabira II coal block in 2005 along with Union government-owned Neyveli Lignite Corporation (NLC).,” the newspaper says in an opinion piece.",
+      "bm25_score_raw": 1.858842136301716,
+      "bm25_score_norm": 0.3638766077426154,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8241664171218872,
+      "embedding_score_norm": 0.3376630655966623,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Obulapuram Mining faces HC notice as CBI challenges Rs 1 L fine in scam case - Siasat.com",
+      "url": "https://www.siasat.com/obulapuram-mining-faces-hc-notice-as-cbi-challenges-rs-1-l-fine-in-scam-case-3261335/",
+      "snippet": "Obulapuram Mining faces HC notice as CBI challenges Rs 1 L fine in scam case Image 1: The Siasat Daily: Latest Hyderabad News, Telangana, Entertainment, India Siasat.com_/_News_/_Telangana_/_ Obulapuram Mining faces HC notice as CBI challenges Rs 1 L fine in scam case High Court admits CBI plea, says penalty too low; OMC issued notices in illegal mining case. Image 3: Telangana High Court **Hyderabad:** The Telangana High Court on Wednesday, August 20, issued notices to Obulapuram Mining Company (OMC) in connection with the illegal mining case in which the company figures as one of the accused. *   Image 17: OUJAC extends support to 'Marwari go back' campaign, bandh on Aug 22Hyderabad: Hindutva group protests outside Balapur Madarsa for 2 hours ",
+      "bm25_score_raw": 3.2289168737861322,
+      "bm25_score_norm": 0.6320748253823106,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8192060589790344,
+      "embedding_score_norm": 0.2362583802252273,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Kirti Azad seeks central probe into corruption in Eastern Coalfields - The Statesman",
+      "url": "https://www.thestatesman.com/bengal/kirti-azad-seeks-central-probe-into-corruption-in-eastern-coalfields-1503466006.html",
+      "snippet": "Kirti Azad seeks central probe into corruption in Eastern Coalfields - The Statesman *   [Epaper+](https://www.thestatesman.com/bengal/kirti-azad-seeks-central-probe-into-corruption-in-eastern-coalfields-1503466006.html#) Trinamul Congress MP Kirti Azad has written to Union coal and mines minister G Kishan Reddy demanding a comprehensive investigation by federal agencies, including CBI and ED into what he described as “pervasive and systemic corruption” within Eastern Coalfields Limited (ECL), a subsidiary of Coal India Limited operating in West Bengal and Jharkhand. Trinamul Congress MP Kirti Azad has written to Union coal and mines minister G Kishan Reddy demanding a comprehensive investigation by federal agencies, including CBI and ED into what he described as “pervasive and systemic corruption” within Eastern Coalfields Limited (ECL), a subsidiary of Coal India Limited operating in West Bengal and Jharkhand.",
+      "bm25_score_raw": 1.669211585583664,
+      "bm25_score_norm": 0.3267555848369625,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8182762265205383,
+      "embedding_score_norm": 0.21724979955695384,
+      "embedding_rank": 5
+    },
+    {
+      "title": "CBI searches six premises in Chandigarh, Panchkula, Delhi in connection with alleged Rs 661 crore scam - Big News Network.com",
+      "url": "https://www.bignewsnetwork.com/news/279106571/cbi-searches-six-premises-in-chandigarh-panchkula-delhi-in-connection-with-alleged-rs-661-crore-scam",
+      "snippet": "# Big News Network.com. # CBI searches six premises in Chandigarh, Panchkula, Delhi in connection with alleged Rs 661 crore scam. Chandigarh (Haryana) [India], June 7 (ANI): The Central Bureau of Investigation (CBI) conducted searches at six premises in connection with the ongoing investigation into an alleged large-scale misappropriation fraud in which multiple departments of the Haryana government, Union Territory of Chandigarh, and CREST Chandigarh were affected. 'The search operations were carried out at premises located in Chandigarh, Panchkula, and Delhi NCR, which include residential premises of senior public servants of Haryana Cadre and M/s. and its Director in connection with irregularities committed and with regard to receipt of proceeds of crime,' the CBI said in a statement. 'The cases pertain to criminal conspiracy, misappropriation of government funds, and related offences allegedly committed in connivance with bank officials and public servants,' according to the CBI. ## Big News Network. * Big News Network News Agency.",
+      "bm25_score_raw": 1.7475052503637993,
+      "bm25_score_norm": 0.342081917607003,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8144817352294922,
+      "embedding_score_norm": 0.1396789499465079,
+      "embedding_rank": 6
+    },
+    {
+      "title": "'BJP misusing probe agencies': Mamata Banerjee in letter to Opposition",
+      "url": "https://www.newsbytesapp.com/news/politics/mamata-banerjee-seeks-to-unite-opposition-against-bjp/story",
+      "snippet": "West Bengal Chief Minister and Trinamool Congress supremo Mamata Banerjee has written a letter to all opposition leaders and chief ministers",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8124818205833435,
+      "embedding_score_norm": 0.09879466102582973,
+      "embedding_rank": 7
+    },
+    {
+      "title": "India News - LatestLY",
+      "url": "https://www.latestly.com/agency-news/india-news-cbi-searches-six-premises-in-chandigarh-panchkula-delhi-in-connection-with-alleged-rs-661-crore-scam-7462435.html",
+      "snippet": "# India News | CBI Searches Six Premises in Chandigarh, Panchkula, Delhi in Connection with Alleged Rs 661 Crore Scam. \"The search operations were carried out at premises located in Chandigarh, Panchkula, and Delhi NCR, which include residential premises of senior public servants of Haryana Cadre and M/s. and its Director in connection with irregularities committed and with regard to receipt of proceeds of crime,\" the CBI said in a statement. Chandigarh (Haryana) [India], June 7 (ANI): The Central Bureau of Investigation (CBI) conducted searches at six premises in connection with the ongoing investigation into an alleged large-scale misappropriation fraud in which multiple departments of the Haryana government, Union Territory of Chandigarh, and CREST Chandigarh were affected. \"The cases pertain to criminal conspiracy, misappropriation of government funds, and related offences allegedly committed in connivance with bank officials and public servants,\" according to the CBI. Eight departments of Government of Haryana and 02 department of UT Chandigarh (Municipal Corporation Chandigarh) and CREST Chandigarh were affected by this fraud leading to misappropriation of Rs 661 Crores.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.8076491355895996,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 8
+    }
+  ]
+}

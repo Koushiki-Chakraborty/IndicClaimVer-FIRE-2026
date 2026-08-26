@@ -1,0 +1,6 @@
+{
+  "ID": "S2/T/CM/1144",
+  "Evidence": "Source 1 mein kaha gaya hai ki government apni galtiyon ko chhupane ke liye dusron par ilzaam lagate hain. Source 2 mein municipal employees ke behavior par sawaal uthaya gaya hai, jo aam aadmi ke liye samasya bana hua hai. Source 3 mein Nilesh Ojha ne kaha hai ki agar koi government officer galti kare, toh us par action lena chahiye, jo aam aadmi ko nyay milne ki baat ko darshata hai.",
+  "Prediction": "SUPPORTS",
+  "Justification": "Retrieved evidence se yeh saaf hai ki government apni galtiyon ko chhupane ke liye dusron par ilzaam lagate hain (Source 1), jo aam aadmi ko nyay nahi milne ki baat ko darshata hai. Source 2 mein bhi government employees ke behavior par prashna uthaya gaya hai, jo aam aadmi ke liye samasya hai. Source 3 mein yeh kaha gaya hai ki agar government officer galti kare, toh us par action lena chahiye, jo aam aadmi ke liye nyay ki zarurat ko darshata hai."
+}

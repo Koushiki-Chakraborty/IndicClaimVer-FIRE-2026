@@ -1,0 +1,6 @@
+{
+  "ID": "S2/1188",
+  "Evidence": "Most people who test positive for COVID-19 experience mild to moderate symptoms, but some may have no symptoms at all (Source 3). If someone has been in close contact with a COVID-19 patient, they may test negative initially, but it is possible for the virus to not be detected in early stages of infection (Source 1). Symptoms can develop within 10 days after exposure, and monitoring for symptoms is advised (Source 3). However, the evidence does not state that most people with symptoms will test positive, only that some may not show symptoms despite being infected (Source 3).",
+  "Prediction": "REFUTES",
+  "Justification": "The retrieved evidence indicates that while some individuals may test positive after exposure to COVID-19, it does not support the claim that most people with symptoms and close contact will test positive. Source 1 mentions that a negative test does not rule out infection, and Source 3 states that some infected individuals may have no symptoms. Therefore, the evidence refutes the claim."
+}

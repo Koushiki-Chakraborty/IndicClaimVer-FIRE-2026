@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/1212",
+    "text": "লকডাউনে খাদ্য সরবরাহ স্বাভাবিক রাখতে কোনও সাপ্লাই চেন ম্যাপ তৈরির কাজ শুরু হয়নি",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Food Supply Chains and Covid‐19: Impacts and Policy Lessons",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8014318",
+      "snippet": "An official website of the United States government. A **.gov** website belongs to an official government organization in the United States. A **lock** ( ) or **https://** means you've safely connected to the .gov website. Image 5: PMC search open icon Search. Image 9: Close icon Search  Image 10: Search. Image 11: PMC search open iconImage 12: Close icon. Inclusion in an NLM database does not imply endorsement of, or agreement with, the contents by NLM or the National Institutes of Health. # Food Supply Chains and Covid‐19: Impacts and Policy Lessons. The focus here is on food availability and consumers’ access to food; other important aspects such as livelihoods of farmers and other supply chain actors, or environmental and health implications, are not addressed. Geographically, the emphasis in this article is on OECD countries, in part because much less is known at time of writing about the impacts of Covid‐19 in the developing world.",
+      "bm25_score_raw": 0.8074303953370785,
+      "bm25_score_norm": 0.22125582423734444,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8382890224456787,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Empty shelves don’t indicate a broken supply chain: NAU’s FEWSION project maps out critical U.S. supply chains amid COVID-19 pandemic - The NAU Review",
+      "url": "https://in.nau.edu/news/fewsion-covid-19",
+      "snippet": "# Empty shelves don’t indicate a broken supply chain: NAU’s FEWSION project maps out critical U.S. supply chains amid COVID-19 pandemic. *Above figure: U.S. sources and distributors of table ready food*. For the millions of Americans concerned about shortages of vital supplies like toilet paper, food basics and other items vital to getting us through an unprecedented global health crisis, there is some encouraging news, according to researchers at Northern Arizona University. In fact, the U.S. supply chains are proving resilient in the midst of the COVID-19 pandemic, though there are points of concern that decision-makers, emergency managers and the public should consider, said **Benjamin Ruddell**, director of the National Science Foundation-funded FEWSION Project led out of Northern Arizona University. See linked FEWSION briefing, containing maps, data, and analysis of U.S. supply chains, for decisionmakers and reporters. ### Subscribe to The NAU Review. ### Contact Us. The NAU Review is published by the NAU Communications.",
+      "bm25_score_raw": 0.18929043046997207,
+      "bm25_score_norm": 0.051870242259570945,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.8344875574111938,
+      "embedding_score_norm": 0.9450871332139413,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Food supply chains in developed economies are showing ...",
+      "url": "https://www.facebook.com/CBSSacramento/posts/food-supply-chains-in-developed-economies-are-showing-increased-signs-of-strain-/10156918502385671",
+      "snippet": "Food supply chains in developed economies are showing increased signs of strain as nationwide lockdowns designed to curb the spread of the",
+      "bm25_score_raw": 0.5448418918571897,
+      "bm25_score_norm": 0.14930010383318643,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8287892937660217,
+      "embedding_score_norm": 0.8627746590439455,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Supply Chain Management Lessons from the Pandemic",
+      "url": "https://www.idb.org/supply-chain-management-lessons-from-the-pandemic",
+      "snippet": "Mapping your entire supply chain. The map should include distribution facilities as well as transportation hubs. Once you have created the map, classify",
+      "bm25_score_raw": 3.6493068515608242,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8273181915283203,
+      "embedding_score_norm": 0.8415243146438903,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Getting Through Coronavirus, Explained: The Food Supply Chain Breakdown",
+      "url": "https://www.youtube.com/watch?v=K2l-Q79cD5Q",
+      "snippet": "Getting Through Coronavirus, Explained: The Food Supply Chain Breakdown\nCalMatters\n13800 subscribers\n5 likes\n668 views\n1 May 2020\nThe coronavirus has forced the entire world into disarray, but the food industry in particular. With restaurants closing or reshaping business models around slimmed-down take-out menus, the dominoes are starting to fall for the farmers who suddenly have nowhere to take their food. And, at the same time, as more people find themselves out of work, food banks are teeming with hungry families. But getting food from fields to the hungry families that need it isn’t as simple as it sounds.\n\nManuela Tobias, Fresno Bee reporter and contributor to CalMatters' statewide \"California Divide\" collaboration, moderates a conversation on the state's food supply chain and where it’s breaking down.\n\nWith national headlines about meat processing plants being shut down, milk being poured down the drain, and hundreds of people lining up daily at food banks, we’ll talk with people familiar with the situation about where the breakdowns are, why they’re happening, and how they can be resolved.\n\nSubscribe to our channel: http://bit.ly/2nS7N9c\nSubscribe to our newsletters: http://bit.ly/33qOYJk\nSupport our newsroom: http://bit.ly/33zhYhU\n\n#coronavirus #food #agriculture\n1 comments\n",
+      "bm25_score_raw": 1.2570904566844772,
+      "bm25_score_norm": 0.3444737611326968,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8210300207138062,
+      "embedding_score_norm": 0.7506905221104835,
+      "embedding_rank": 5
+    },
+    {
+      "title": "দেশে ফের লকডাউনের কোনও সম্ভাবনা নেই ।লকডাউনের গুজব উড়িয়ে ...",
+      "url": "https://www.youtube.com/watch?v=OR8m_qhNsBE",
+      "snippet": "লকডাউনের গুজব উড়িয়ে দিল ভারত সরকার। লকডাউন নিয়ে কোনও আলোচনা বা সিদ্ধান্ত হয়নি। গুজবে কান না দেওয়ার আর্জি কেন্দ্রের #BreakingNews #JababChayBangla #pmmodi #lockdown ...Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.8202694654464722,
+      "embedding_score_norm": 0.7397041603526656,
+      "embedding_rank": 6
+    },
+    {
+      "title": "'লকডাউন দেওয়ার পরিস্থিতি এখনো হয়নি'",
+      "url": "https://www.jagonews24.com/national/news/728661",
+      "snippet": "দেশে করোনাভাইরাসের সংক্রমণ বৃদ্ধির ধারা অব্যাহত থাকলেও লকডাউন দেওয়ার পরিস্থিতি এখনো হয়নি বলে জানিয়েছেন স্বাস্থ্যমন্ত্রী জাহিদ মালেক। সোমবার (৩ জানুয়ারি) সচিবালয়ে করোনাভাইরাসের নতুন ধরন ওমিক্রন নিয়ে আন্তঃমন্ত্রণালয় বৈঠক শেষে ...Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.8130484819412231,
+      "embedding_score_norm": 0.6353957156633145,
+      "embedding_rank": 7
+    },
+    {
+      "title": "Impact of COVID-19 on the food supply chain - Oxford Academic",
+      "url": "https://academic.oup.com/fqs/article/4/4/167/5896496",
+      "snippet": "by S Aday · 2020 · Cited by 1518 — COVID-19 resulted in the movement restrictions of workers, changes in demand of consumers, closure of food production facilities, restricted food trade policies",
+      "bm25_score_raw": 1.3611283729850454,
+      "bm25_score_norm": 0.3729827138002618,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8040027618408203,
+      "embedding_score_norm": 0.504728612756578,
+      "embedding_rank": 8
+    },
+    {
+      "title": "আগামী সোমবার (২৮ জুন) থেকে পরবর্তী নির্দেশ না দেওয়া ...",
+      "url": "https://www.facebook.com/story.php?story_fbid=4393221160715904&id=241494299221965",
+      "snippet": "আগামী সোমবার (২৮ জুন) থেকে পরবর্তী নির্দেশ না দেওয়া পর্যন্ত সারা দেশে কঠোর লকডাউন পালন করা হবে। ... কভিড ১৯ সংক্রমণ রোধকল্পে আগামী সোমবার (২৮ জুন) থে... ... শনিবার আর রবিবার কি সুযোগ দিলেন গ্রামে ভাইরাস নিয়ে যাওয়ার?Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.7953522205352783,
+      "embedding_score_norm": 0.37976994076319054,
+      "embedding_rank": 9
+    },
+    {
+      "title": "দেশে কি আবার লকডাউন? হঠাৎ কেন সতর্ক হওয়ার পরামর্শ? জানুন ...",
+      "url": "https://www.instagram.com/reel/DWbrW0TjlU0?hl=bn",
+      "snippet": "শুনছি নাকি লকডাউন হবে? শুনছি নাকি লকডাউন নিয়ে কিছু? চলুন তো আমাদের এডিটর কী বলছেন শুনি। না, গোটাটাই গুজব। পেট্রোলিয়াম মন্ত্রী জানিয়েছেন এরকম কিছু আদৌ হচ্ছে না। গোটাটাই সম্পূর্ণরূপে গুজব।Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.7900717258453369,
+      "embedding_score_norm": 0.30349221655875463,
+      "embedding_rank": 10
+    },
+    {
+      "title": "কঠোর লকডাউন না হয় ফ্রি করে দিক, ভুক্তভোগীদের ক্ষোভ",
+      "url": "https://www.youtube.com/watch?v=j1x5isC15d8",
+      "snippet": "কঠোর লকডাউন না হয় ফ্রি করে দিক, ভুক্তভোগীদের ক্ষোভ | Lockdown ... কল রেকর্ডের সূত্র ধরে গ্রেপ্তার জিয়া হ/ ত্যা মামলার আসামি মোজাফফর।Read more",
+      "bm25_score_raw": 2.713398066918397,
+      "bm25_score_norm": 0.7435379312534008,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.7859855890274048,
+      "embedding_score_norm": 0.2444672131147541,
+      "embedding_rank": 11
+    },
+    {
+      "title": "করোনাভাইরাস: বাংলাদেশে লকডাউনে কী করতে পারবেন, কী ...",
+      "url": "https://www.bbc.com/bengali/news-56624884",
+      "snippet": "Apr 3, 2021 — বাংলাদেশে করোনাভাইরাসের সংক্রমণ রোধ করতে এক সপ্তাহের জন্য লকডাউন ঘোষণা করেছে সরকার। সোমবার অথবা মঙ্গলবার থেকে এই লকডাউন কার্যকর হবে। পরিস্থিতি বিবেচনায় লকডাউনের মেয়াদ বাড়তে পারে বলেও ইঙ্গিত দিয়েছেন ...Read more",
+      "bm25_score_raw": 2.5100626580735543,
+      "bm25_score_norm": 0.68781901883641,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.769061803817749,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

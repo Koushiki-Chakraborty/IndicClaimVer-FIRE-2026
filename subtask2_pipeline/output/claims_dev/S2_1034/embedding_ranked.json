@@ -1,0 +1,76 @@
+{
+  "claim": {
+    "id": "S2/1034",
+    "text": "Live reporting: 'Congress-free India' is need of the hour, says Narendra Modi at Mumbai rally",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "'Congress-free India' is need of the hour, says Narendra ...",
+      "url": "https://www.indiatvnews.com/politics/national/live-narendra-modi-mumbai-mahagarjana-rally-congress-free-india-14052.html/page/10",
+      "snippet": "Dec 22, 2013 — Mumbai: Gujarat Chief Minister and BJP's prime ministerial candidate Narendra Modi today exhorted the people of India to oust Congress for",
+      "bm25_score_raw": 0.6646870977818176,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.9000849723815918,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Congress Leaders Protest At PM Modi Residence | V6 News",
+      "url": "https://www.facebook.com/V6News.tv/posts/live-congress-leaders-protest-at-pm-modi-residence-v6-news/1139523201973287",
+      "snippet": "#BREAKING: INDIA alliance stages protest in Parliament, condemning the Modi Govt's bias towards NDA-ruled states while neglecting others in ...Read more",
+      "bm25_score_raw": 0.6915884305756855,
+      "bm25_score_norm": 0.006222501869519933,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8508836030960083,
+      "embedding_score_norm": 0.5203440433343056,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Rahul Gandhi takes protest to PM Modi's door, detained",
+      "url": "https://m.economictimes.com/news/politics-and-nation/rahul-gandhi-takes-protest-to-pm-modis-door-detained/articleshow/132546405.cms",
+      "snippet": "12 hours ago — Rahul Gandhi, accompanied by Congress MPs, staged a three-hour surprise protest outside Prime Minister Narendra Modi's residence over the",
+      "bm25_score_raw": 0.6846610005532244,
+      "bm25_score_norm": 0.00462012972699328,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8367626070976257,
+      "embedding_score_norm": 0.3826808046272225,
+      "embedding_rank": 3
+    },
+    {
+      "title": "How Congress Surprised Own MPs Turning Birthday Meet ...",
+      "url": "https://timesofindia.indiatimes.com/videos/news/come-to-wish-kharge-how-congress-surprised-own-mps-turning-birthday-meet-into-pm-house-protest/videoshow/132551064.cms",
+      "snippet": "3 hours ago — Congress leaders Rahul Gandhi, Mallikarjun Kharge and Priyanka Gandhi Vadra staged a surprise protest outside Prime Minister Narendra Modi's",
+      "bm25_score_raw": 0.9164512610757128,
+      "bm25_score_norm": 0.058235143543946814,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.820529580116272,
+      "embedding_score_norm": 0.22442772754055038,
+      "embedding_rank": 4
+    },
+    {
+      "title": "News18: Live News & Headlines - Apps on Google Play",
+      "url": "https://play.google.com/store/apps/details?id=com.divum.ibn&hl=en_US",
+      "snippet": "# News18: Live News & Headlines. Stay ahead with breaking news, cricket news, election news, and business news from India and the world on the News18 news app. Get Live TV updates, tech updates and quick news summaries: watch live channels and explore stories faster. Download News18 for fast, trusted and engaging news on the go. News18 app delivers verified results from the Election Commission of India and full coverage on assembly elections results. News18 is India’s leading news app that combines quick news updates with credible editorial journalism. Get the speed of short news, the depth of full coverage and the power of live television - all in one app. As the flagship digital platform of Network18, India’s largest news network, News18 delivers real-time reporting from across the country through a strong newsroom presence, multilingual coverage and modern news features designed for today’s fast-paced consumption habits. Download the News18 App now for a faster, smarter and more trusted way to stay updated.",
+      "bm25_score_raw": 4.987921282031795,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8126113414764404,
+      "embedding_score_norm": 0.14723413750344289,
+      "embedding_rank": 5
+    },
+    {
+      "title": "The Congress on Tuesday released videos showing senior ...",
+      "url": "https://www.instagram.com/reel/DbDu-hCyucf",
+      "snippet": "Congress leader Priyanka Gandhi Vadra strongly criticised the Modi government over the police action against student protesters, accusing the ...Read more",
+      "bm25_score_raw": 0.9289058648502411,
+      "bm25_score_norm": 0.06111599691522652,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.7975085973739624,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6
+    }
+  ]
+}

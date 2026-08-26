@@ -1,0 +1,57 @@
+{
+  "claim": {
+    "id": "S2/1352",
+    "text": "Mizoram CM to face tough contest in upcoming Assembly polls",
+    "lang": "dev"
+  },
+  "ranked_evidence": [
+    {
+      "title": "Congress faces tough challenge in Mizoram Assembly polls",
+      "url": "https://morungexpress.com/congress-faces-tough-challenge-mizoram-assembly-polls",
+      "snippet": "Mizoram goes to poll on November 28. Chief Minister Lal Thanhawla on Saturday alleged that his former cabinet colleagues R Lalzirliana and Lalrinliana Sailo",
+      "bm25_score_raw": 3.2733269960247586,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Congress faces tough challenge in Mizoram Assembly polls",
+      "url": "https://indianexpress.com/article/north-east-india/mizoram/congress-faces-tough-challenge-in-mizoram-assembly-polls-5390702",
+      "snippet": "Sources in the Mizoram Pradesh Congress Committee (MPCC) said though only a few people have left the party, cracks have began to appear in",
+      "bm25_score_raw": 3.2733269960247586,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 2
+    },
+    {
+      "title": "Mizoram Election Exit Poll 2023 Live",
+      "url": "https://www.youtube.com/watch?v=Xlxhw5gV0W4",
+      "snippet": "Mizoram Election Exit Poll 2023 Live | Mizoram Assembly Polls Live | Assembly Elections | N18L. @cnnnews186 likes832 viewsStreamed 2 years",
+      "bm25_score_raw": 2.0909012498217328,
+      "bm25_score_norm": 0.5395586964470298,
+      "bm25_rank": 3
+    },
+    {
+      "title": "Opposition Front ZPM Wins Mizoram Election ...",
+      "url": "https://www.ndtv.com/india-news/mizoram-assembly-election-results-2023-zoramthangas-big-test-today-as-mizoram-counts-votes-10-points-4630487",
+      "snippet": "Mizoram assembly election results: The MNF, ZPM and the Congress contested 40 seats each, while the BJP fielded candidates in 13 seats",
+      "bm25_score_raw": 1.7419348110405781,
+      "bm25_score_norm": 0.40366977277922306,
+      "bm25_rank": 4
+    },
+    {
+      "title": "2023 Mizoram Legislative Assembly election - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2023_Mizoram_Legislative_Assembly_election",
+      "snippet": "Legislative Assembly election of Mizoram in 2023. | |  | Majority party | Minority party | | --- | --- | --- | |  |  |  | | Leader | Lalduhoma | Zoramthanga | | Party | ZPM | MNF | | Leader since | 2018 | 1998 | | Leader's seat | Serchhip *(won)* | Aizawl East 1 *(lost)* | | Last election | 22.9%, 8 seats | 37.7%, 26 seats | | Seats won | **27** | 10 | | Seat change | Increase 19 | Decrease 16 | | Popular vote | **2,65,755** | 2,46,338 | | Percentage | **37.86%** | 35.10% | | Swing | Increase 14.96 pp | Decrease 2.6 pp | | |  | Third party | Fourth party | |  |  |  | | Leader | Vanlalhmuaka | Lalsawta | | Party | BJP | INC | | Leader since | 2018 | 2018 | | Leader's seat | Dampa *(lost)* | Aizawl West 3 *(lost)* | | Last election | 8.09%, 1 seat | 28.9%, 5 seats | | Seats won | 2 | 1 | | Seat change | Increase 1 | Decrease 4 | | Popular vote | 35,524 | 1,46,113 | | Percentage | 5.06% | 20.82% | | Swing | Decrease 3.03 pp | Decrease 9.16 pp | |. Legislative Assembly elections were held in Mizoram on 7 November 2023 to elect all 40 members of Mizoram Legislative Assembly, which had 174 candidates and saw 80.66% voter turnout. The date of counting of votes was postponed from 3 December 2023 to 4 December 2023.",
+      "bm25_score_raw": 1.1873956709169344,
+      "bm25_score_norm": 0.1877300189557027,
+      "bm25_rank": 5
+    },
+    {
+      "title": "ZPM Leading The election to the lone Rajya Sabha seat in ...",
+      "url": "https://www.facebook.com/northeastlivetv/videos/polling-underway-for-mizorams-lone-rajya-sabha-seat-zpm-leading-the-election-to-/1034511135571603",
+      "snippet": "The BJP has 2 MLAs in the Assembly while the Congress has 1. ZPM's C. Laltluangkima is up against MNF's Zothansangi Hmar for the Rajya Sabha",
+      "bm25_score_raw": 0.7052998944617531,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6
+    }
+  ]
+}

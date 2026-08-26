@@ -1,0 +1,76 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1299",
+    "text": "BJP to connect voters at booth level April 6 onward",
+    "lang": "english"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "2019, a final briefing for the Booth Level Officers (BLOs ...",
+      "url": "https://www.facebook.com/groups/andamanchronicle/posts/2539674459384109",
+      "snippet": "Final Briefing for BLOs Held RO Appeals General Public & New Voters to Attend Chunav Patthshala on March 20 Port Blair, Mar 14: As part of",
+      "bm25_score_raw": 5.862132440833346,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8349844217300415,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Message from the Chief Election Commissioner of India on ...",
+      "url": "https://www.facebook.com/ceokarnataka/posts/message-from-the-chief-election-commissioner-of-india-on-the-event-of-16th-natio/1373183751502129",
+      "snippet": "Message from the Chief Election Commissioner of India on the event of 16th National Voters' Day (25-01-2026) #NVD2026 Election Commission of",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8140119910240173,
+      "embedding_score_norm": 0.6192529606288306,
+      "embedding_rank": 2
+    },
+    {
+      "title": "NATIONAL VOTERS' DAY",
+      "url": "https://ceomeghalaya.nic.in/pdfs/mvm_apr_2020.pdf",
+      "snippet": "Apr 1, 2020 — The first issue of 'My Vote Matters' was presented to the Hon'ble President of. India a year ago on the eve of the Ninth Voters Day.Read more",
+      "bm25_score_raw": 1.1265154010488834,
+      "bm25_score_norm": 0.19216819347205688,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.7989805340766907,
+      "embedding_score_norm": 0.3463621922504242,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Toward “Electoral Authoritarianism”",
+      "url": "https://www.degruyterbrill.com/document/doi/10.1515/9780691223094-018/pdf?licenseType=restricted",
+      "snippet": "While the message had shifted somewhat, the technique remained the same: Modi saturated the public space, with the BJP election campaign unfurling at a mind- ...Read more",
+      "bm25_score_raw": 2.6368427173838356,
+      "bm25_score_norm": 0.44980947530571125,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.7938768863677979,
+      "embedding_score_norm": 0.25370727864538245,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Chief Electoral Officer, Punjab",
+      "url": "https://www.facebook.com/TheCEOPunjab/posts/instant-help-with-registration-corrections-and-voter-services-made-easybook-a-ca/1344443761062130",
+      "snippet": "Instant help with registration, corrections, and voter services made easy. Book a call now on the ECINet App for hassle-free support.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.7885256409645081,
+      "embedding_score_norm": 0.156557316735344,
+      "embedding_rank": 5
+    },
+    {
+      "title": "🗳️ Voters, verify your details during the Special Intensive ...",
+      "url": "https://www.facebook.com/ceoharyana/posts/%EF%B8%8F-voters-verify-your-details-during-the-special-intensive-revision-sir-check-you/1300690732222884",
+      "snippet": "Voters, verify your details during the Special Intensive Revision (SIR). ✓ Check your electoral roll information ✓ Update details,",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.7799021005630493,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6
+    }
+  ]
+}

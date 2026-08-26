@@ -1,0 +1,6 @@
+{
+  "ID": "S2/T/EN/1163",
+  "Evidence": "India reported 349,691 new Covid-19 cases on Saturday, marking the fourth consecutive day of record daily infections (Source 1). However, another source indicates that India recorded 362,727 new infections over a 24-hour period, but does not specify that this was for four consecutive days (Source 2). The claim states that India logged over 2,000 daily cases for four consecutive days, which is corroborated by the first source, as it confirms the ongoing high case counts during that period. The second source does not contradict this but focuses on a different aspect of the situation (Source 2).",
+  "Prediction": "SUPPORTS",
+  "Justification": "The retrieved evidence from Source 1 confirms that India logged over 349,000 daily Covid-19 cases for four consecutive days, supporting the claim that India has been experiencing high daily case counts. Source 2 provides additional context about the situation but does not contradict the core assertion of the claim. Therefore, the evidence directly corroborates the claim's assertion regarding the daily case counts."
+}

@@ -1,0 +1,76 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1184",
+    "text": "15 Cyber Police Stations Established In Each District To Combat Cyber Crimes: Mumbai Police To High Court",
+    "lang": "english"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "15 cyber police stations in each district, Delhi HC told",
+      "url": "https://www.hindustantimes.com/cities/delhi-news/delhi-high-court-informed-15-cyber-police-stations-established-in-each-district-to-combat-cyber-crime-101691775601731.html",
+      "snippet": "The city police have informed the Delhi high court that 15 cyber police stations have been established in each district of the national capital to combat cyber",
+      "bm25_score_raw": 6.8720631862892905,
+      "bm25_score_norm": 0.8180745775969124,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.9286863207817078,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Mumbai gets 5 new cyber police stations",
+      "url": "https://www.youtube.com/watch?v=k8lOVlJga3U",
+      "snippet": "The Mumbai Police will now be able to expand the speed and scope of their cyber investigations, as five dedicated police stations to tackle",
+      "bm25_score_raw": 3.708257021711052,
+      "bm25_score_norm": 0.3984361573765923,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.9128827452659607,
+      "embedding_score_norm": 0.8370278762606768,
+      "embedding_rank": 2
+    },
+    {
+      "title": "15 police stations established in each district to tackle ...",
+      "url": "https://timesofindia.indiatimes.com/city/delhi/15-police-stations-established-in-each-district-to-tackle-cyber-crimes-hc-told/articleshow/102671417.cms",
+      "snippet": "15 cyber police stations have been established in each district in the national capital to combat and mitigate cyber crimes.",
+      "bm25_score_raw": 8.24366489184856,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8924070596694946,
+      "embedding_score_norm": 0.6258752821309678,
+      "embedding_rank": 3
+    },
+    {
+      "title": "The Mumbai Police will now be able to expand the speed and ...",
+      "url": "https://www.facebook.com/middayindia/videos/mumbai-gets-5-new-cyber-police-stations/803300296927441",
+      "snippet": "Chief Minister Uddhav Thackerey inaugurated the stations at DB Marg police station on 26th January. Each of these cyber police stations are",
+      "bm25_score_raw": 2.8759489026923593,
+      "bm25_score_norm": 0.2880411312489058,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8611364364624023,
+      "embedding_score_norm": 0.3034014299553016,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Knocksense Bandra - Andheri on Instagram: \"Mumbai's cyber ...",
+      "url": "https://www.instagram.com/reel/DKMagdEvoQl?hl=en",
+      "snippet": "Mumbai's cyber crime unit is moving to a high-tech Police Station in Bandra West! The unit will tackle high-value frauds over ₹10 lakh with",
+      "bm25_score_raw": 1.0615504500686899,
+      "bm25_score_norm": 0.04738438405823533,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8586621284484863,
+      "embedding_score_norm": 0.2778854806429882,
+      "embedding_rank": 5
+    },
+    {
+      "title": "सायबर Police Station",
+      "url": "https://mumbaipolice.gov.in/policestation?ps=21",
+      "snippet": "Welcome to Police Station! Taking stock of your security round the clock! Dial 100 in case of any emergency.",
+      "bm25_score_raw": 0.7043024023101485,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8317152857780457,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6
+    }
+  ]
+}

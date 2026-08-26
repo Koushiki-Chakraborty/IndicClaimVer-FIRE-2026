@@ -1,0 +1,6 @@
+{
+  "ID": "S2/1343",
+  "Evidence": "The retrieved evidence does not mention any claims made by the Prime Minister regarding the Chief Minister's resignation or any reference to 'country's shame'. Source 1 discusses a resignation demand for Union Minister Dharmendra Pradhan, while Source 2 details protests in Armenia demanding the Prime Minister's resignation over national issues. Source 3 reports on protests in Bangladesh against Prime Minister Sheikh Hasina, who has reportedly resigned amid protests. None of these sources directly support the claim about the Prime Minister demanding the Chief Minister's resignation in relation to 'country's shame'.",
+  "Prediction": "REFUTES",
+  "Justification": "The evidence does not substantiate the claim that the Prime Minister demanded the Chief Minister's resignation over 'country's shame'. Instead, it discusses various political protests and resignations unrelated to the claim. Sources 1, 2, and 3 focus on different political contexts and figures, failing to provide any support for the assertion made in the claim. Therefore, the conclusion is drawn from the retrieved evidence."
+}

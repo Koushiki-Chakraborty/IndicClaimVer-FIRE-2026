@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/BN/1244",
+    "text": "অসমে করোনা রুখতে মহারাষ্ট্র মডেল অনুসরণের পরামর্শ দিয়েছেন তরুণ গগৈ সর্বদল বৈঠকে।",
+    "lang": "bengali"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Tarun Gogoi for all-party meet in Assam",
+      "url": "https://www.telegraphindia.com/north-east/coronavirus-lockdown-tarun-gogoi-for-all-party-meet-in-assam/cid/1763824",
+      "snippet": "Apr 10, 2020 — Gogoi's statement comes days after CM Sonowal called him up to take suggestions to fight the Covid-19.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.8976724147796631,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Covid-19: Former Assam CM Tarun Gogoi's health ...",
+      "url": "https://scroll.in/latest/979126/covid-19-former-assam-cm-tarun-gogois-health-deteriorates-on-ventilator-support",
+      "snippet": "Nov 22, 2020 — State Health Minister Himanta Sarma ruled out any possibility of shifting Gogoi to a hospital outside of Assam, given his sensitive",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.8635730147361755,
+      "embedding_score_norm": 0.8094663193211709,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Tarun Gogoi - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tarun_Gogoi",
+      "snippet": "# Tarun Gogoi. | 13th Chief Minister of Assam |. | Minister of State (Independent Charge) for Food Processing Industries, Government of India |. **Tarun Gogoi** (11 October 1936 – 23 November 2020) was an Indian politician and lawyer who served as the 13th Chief Minister of Assam from 2001 to 2016. Gogoi was a member of the Assam Legislative Assembly from 2001 to until his death in 2020 from Titabar constituency and from Margherita constituency from 1996 to 1998. He was the member of Lok Sabha representing Kaliabor from 1991 to 1996 and again from 1998 to 2001 and Jorhat constituency from 1971 to 1984. During his second term in the Lok Sabha, he was elected as a Joint Secretary of the All India Congress Committee (AICC) in 1976, under Congress leader and Prime Minister, Indira Gandhi. On 18 May 2001, Gogoi was unanimously elected leader of the Congress legislative party and was sworn in as the Chief Minister of Assam.",
+      "bm25_score_raw": 1.0811885111527793,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8574827909469604,
+      "embedding_score_norm": 0.7754366075597602,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Tarun Gogoi Critical; Indira Gandhi Speeches Played Out ...",
+      "url": "https://www.ndtv.com/india-news/extremely-critical-former-assam-chief-minister-tarun-gogois-health-worsens-admitted-for-post-coronavirus-complications-2328896",
+      "snippet": "Nov 23, 2020 — Former Assam Chief Minister Tarun Gogoi's health condition has become \"extremely critical\", said doctors overseeing his treatment for",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.8336631059646606,
+      "embedding_score_norm": 0.6423418244697398,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Former Assam Chief Minister Tarun Gogoi dies aged 84; ...",
+      "url": "https://www.thehindu.com/news/top-news-of-the-day-former-assam-chief-minister-tarun-gogoi-dies-aged-84-imd-warns-of-severe-cyclonic-storm-approaching-tamil-nadu-and-more/article33161755.ece",
+      "snippet": "Nov 23, 2020 — The major news headlines of the day, and more.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.8325001001358032,
+      "embedding_score_norm": 0.6358434174320635,
+      "embedding_rank": 5
+    },
+    {
+      "title": "State Anthem | Assam State Portal",
+      "url": "https://assam.gov.in/about-us/390",
+      "snippet": "* + Click for Accessibility Features Image). * A; \"Switch to Contrast Mode\") A; \"Exit Contrast Mode\"). * + Click for change color scheme). \"O Mur Apunar Dekh\" is the State song of Assam. It was officially adopted as the State song of Assam at the Assam Student Conference held in Tezpur in 1927. **The Lyrics of the State Song in English is given below -**. ### About Assam. Assam is situated in the North-East of India and is the largest northeastern state in terms of population while second in terms of area. The state is bordered by Bhutan and the state of Arunachal Pradesh to the north; Nagaland, Arunachal Pradesh and Manipur to the east; Meghalaya, Tripura, Mizoram, and Bangladesh to the south; and West Bengal to the west. A significant geographical aspect of Assam is that it contains three of six physiographic divisions of India – The Northern Himalayas (Eastern Hills), The Northern Plains (Brahmaputra plain), and Deccan Plateau (Karbi Anglong).",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8246618509292603,
+      "embedding_score_norm": 0.5920464453593607,
+      "embedding_rank": 6
+    },
+    {
+      "title": "Tarun Gogoi dies of post-Covid complications at 86, The ...",
+      "url": "https://www.rightsrisks.org/in-media/tarun-gogoi-dies-of-post-covid-complications-at-86-the-telegraph",
+      "snippet": "Nov 24, 2020 — The Telegraph 24 November 2020 He served as chief minister for 5485 days, from May 18, 2001, to May 24, 2016, covering three straight terms",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.8053194880485535,
+      "embedding_score_norm": 0.4839691305682909,
+      "embedding_rank": 7
+    },
+    {
+      "title": "শ্বহীদ প্ৰণামো তোমাক দৃশ্য-শ্ৰাব্য মাধ্যমেৰে অসম আন্দোলনৰ মহান ...",
+      "url": "https://www.instagram.com/reel/DSOp-jdko3j?hl=bn",
+      "snippet": "শ্বহীদ প্ৰণামো তোমাক দৃশ্য-শ্ৰাব্য মাধ্যমেৰে অসম আন্দোলনৰ মহান শ্বহীদসকললৈ বিনম্ৰ শ্ৰদ্ধাঞ্জলি... শ্বহীদ স্মাৰক ক্ষেত্ৰ, পশ্চিম বৰাগাঁও, গুৱাহাটী #SwahidSmarakKshetra #Guwahati.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.7698771953582764,
+      "embedding_score_norm": 0.28593190793790146,
+      "embedding_rank": 8
+    },
+    {
+      "title": "শ্বহীদ প্ৰণামো তোমাক...🙏 অসম আন্দোলনৰ ৮৫৫ গৰাকী শ্বহীদৰ ...",
+      "url": "https://www.facebook.com/TheAshokSinghal/posts/%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%B9%E0%A7%80%E0%A6%A6-%E0%A6%AA%E0%A7%8D%E0%A7%B0%E0%A6%A3%E0%A6%BE%E0%A6%AE%E0%A7%8B-%E0%A6%A4%E0%A7%8B%E0%A6%AE%E0%A6%BE%E0%A6%95%E0%A6%85%E0%A6%B8%E0%A6%AE-%E0%A6%86%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8B%E0%A6%B2%E0%A6%A8%E0%A7%B0-%E0%A7%AE%E0%A7%AB%E0%A7%AB-%E0%A6%97%E0%A7%B0%E0%A6%BE%E0%A6%95%E0%A7%80-%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%B9%E0%A7%80%E0%A6%A6%E0%A7%B0-%E0%A6%97%E0%A7%8C%E0%A7%B0%E0%A7%B1%E0%A6%AE%E0%A7%9F-%E0%A6%B8%E0%A7%8D%E0%A6%AE%E0%A7%83%E0%A6%A4%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A7%81%E0%A6%97%E0%A6%AE%E0%A7%80%E0%A7%9F%E0%A6%BE-%E0%A6%95%E0%A7%B0%E0%A6%BF-%E0%A7%B0%E0%A6%BE/1383341816505199",
+      "snippet": "শ্বহীদ প্ৰণামো তোমাক... অসম আন্দোলনৰ ৮৫৫ গৰাকী শ্বহীদৰ গৌৰৱময় স্মৃতিক যুগমীয়া কৰি ৰাখিবলৈ ১১৬ বিঘা ভূমি সামৰি গুৱাহাটীৰ বৰাগাঁৱত নিৰ্মিত শ্বহীদ স্মাৰকটি শ্বহীদ দিৱসৰ পৱিত্ৰ দিনটোতে কাইলৈ মাননীয়",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.7565344572067261,
+      "embedding_score_norm": 0.2113780739376976,
+      "embedding_rank": 9
+    },
+    {
+      "title": "অসমৰ ইতিহাসত অসম আন্দোলন এক বিশেষ অধ্যায় হিচাপে পৰিগণিত হৈছে ...",
+      "url": "https://www.facebook.com/cmofficeassam/videos/%E0%A6%85%E0%A6%B8%E0%A6%AE%E0%A7%B0-%E0%A6%87%E0%A6%A4%E0%A6%BF%E0%A6%B9%E0%A6%BE%E0%A6%B8%E0%A6%A4-%E0%A6%85%E0%A6%B8%E0%A6%AE-%E0%A6%86%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8B%E0%A6%B2%E0%A6%A8-%E0%A6%8F%E0%A6%95-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%87%E0%A6%B7-%E0%A6%85%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A6%B9%E0%A6%BF%E0%A6%9A%E0%A6%BE%E0%A6%AA%E0%A7%87-%E0%A6%AA%E0%A7%B0%E0%A6%BF%E0%A6%97%E0%A6%A3%E0%A6%BF%E0%A6%A4-%E0%A6%B9%E0%A7%88%E0%A6%9B%E0%A7%87-%E0%A6%85%E0%A6%B8%E0%A6%AE-%E0%A6%86%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8B%E0%A6%B2%E0%A6%A8%E0%A6%A4-%E0%A6%AE%E0%A6%BE%E0%A6%A4%E0%A7%83%E0%A6%AD/4165895973740121",
+      "snippet": "অসমৰ ইতিহাসত অসম আন্দোলন এক বিশেষ অধ্যায় হিচাপে পৰিগণিত হৈছে। অসম আন্দোলনত মাতৃভূমিৰ স্বাভিমান ৰক্ষাৰ্থে যিসকল বৰেণ্য অসমীয়াই শ্বহীদবৰণ কৰিছিল, সেইসকলৰ ত্যাগক অসম চৰকাৰে সদায়েই শ্রদ্ধাৰে",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.7523043155670166,
+      "embedding_score_norm": 0.18774175026693693,
+      "embedding_rank": 10
+    },
+    {
+      "title": "অসম আন্দোলনৰ ৮৬০ গৰাকী শ্বহীদৰ স্মৃতিত উৎসৰ্গিত 'শ্বহীদ ...",
+      "url": "https://www.etvbharat.com/as/videos/opening-ceremony-of-swahid-smarak-kshetra-at-guwahati-west-boragaon-live-ass25121001581",
+      "snippet": "তেখেতৰেই মৃত্যুদিন ১০ ডিচেম্বৰত প্ৰতি বছৰে শ্বহীদ দিৱস পালন কৰি অহা হৈছে । আজিৰ এই মহান দিনটিত শ্বহীদ খৰ্গেশ্বৰ তালুকদাৰৰ লগতে প্ৰতিগৰাকী মহান শ্বহীদলৈ শ্ৰদ্ধাঞ্জলি জনাই অসম চৰকাৰে মুকলি কৰে শ্বহীদ",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.7467272281646729,
+      "embedding_score_norm": 0.15657923746961783,
+      "embedding_rank": 11
+    },
+    {
+      "title": "কমলা মিৰি - অসমীয়া ৱিকিপিডিয়া",
+      "url": "https://as.wikipedia.org/wiki/%E0%A6%95%E0%A6%AE%E0%A6%B2%E0%A6%BE_%E0%A6%AE%E0%A6%BF%E0%A7%B0%E0%A6%BF",
+      "snippet": "কমলা মিৰি ওৰফে কমলা লুইং (? -২২ এপ্ৰিল ১৯৪৩) অসমৰ মিচিং সম্প্ৰদায়ৰ এগৰাকী স্বাধীনতা যুঁজাৰু আছিল। ... কমলা মিৰিৰ ঘৰ আছিল গোলাঘাট জিলাৰ ৰঙামাটি মৌজাৰ ওপৰটেমেৰা গাঁৱত। গুৱাহাটীৰ ভৰলুমুখত অসমৰ আন শ্বহীদসকলৰ সৈতে কমলা মিৰি (",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.7187045812606812,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

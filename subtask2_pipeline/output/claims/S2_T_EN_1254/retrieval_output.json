@@ -1,0 +1,108 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1254",
+    "text": "Telangana: Naidu meets Jayalalithaa, asks President to call leaders of both regions",
+    "lang": "english"
+  },
+  "generated_queries": {
+    "english_translation": "Telangana: Naidu meets Jayalalithaa, asks President to call leaders of both regions",
+    "native_query": "Telangana Naidu Jayalalithaa meets President leaders regions",
+    "english_query": "Telangana Naidu Jayalalithaa meets President leaders regions"
+  },
+  "native_retrieval": [
+    {
+      "title": "Naidu meets Jayalalithaa, asks President to call leaders of ...",
+      "url": "https://www.indiatvnews.com/politics/national/telangana-naidu-meets-jayalalithaa-asks-president-to-call-lead-14717.html",
+      "snippet": "Chennai: Telugu Desam Party chief N Chandrababu Naidu today called on AIADMK supremo J Jayalalithaa and requested her to exert pressure on"
+    },
+    {
+      "title": "Telangana issue: TDP chief meets Jayalalithaa",
+      "url": "https://www.thehindubusinessline.com/news/national/telangana-issue-tdp-chief-meets-jayalalithaa/article20722945.ece1",
+      "snippet": "TDP leader Chandrababu Naidu today met Tamil Nadu Chief Minister J Jayalalithaa on the issue of bifurcation of Andhra Pradesh,"
+    },
+    {
+      "title": "Chandrababu Naidu meets Telangana leaders to ...",
+      "url": "https://www.ap7am.com/en/85267/chandrababu-naidu-meets-telangana-leaders-to-reactivate-tdp",
+      "snippet": "Hyderabad, Aug 25 : Andhra Pradesh Chief Minister N. Chandrababu Naidu on Sunday held a meeting with the leaders of his Telugu Desam Party"
+    },
+    {
+      "title": "CM Chandrababu Naidu to Hold Meet With Telangana TDP ...",
+      "url": "https://www.youtube.com/watch?v=fRMAOQEcigg",
+      "snippet": "ElectionsOnNTV Chandrababu Naidu is going to arrange an emergency meeting with the Telangana TDP leaders to discuss the political strategies"
+    },
+    {
+      "title": "Naidu calls for strong leadership in Telangana",
+      "url": "https://www.thehindu.com/news/cities/Hyderabad/Naidu-calls-for-strong-leadership-in-Telangana/article16725859.ece",
+      "snippet": "Telugu Desam Party president and Andhra Pradesh Chief Minister N. Chandrababu Naidu underscored the need for building up strong leadership at the grassroots"
+    },
+    {
+      "title": "Chandrababu Naidu holds discussions with leaders to ...",
+      "url": "https://www.newindianexpress.com/states/andhra-pradesh/2025/Oct/08/chandrababu-naidu-holds-discussions-with-leaders-to-rejuvenate-tdp-in-telangana",
+      "snippet": "The leaders urged Naidu appoint a State level committee with important leaders in case of delay in announcement of the TDP State president."
+    }
+  ],
+  "english_retrieval": [
+    {
+      "title": "Naidu meets Jayalalithaa, asks President to call leaders of ...",
+      "url": "https://www.indiatvnews.com/politics/national/telangana-naidu-meets-jayalalithaa-asks-president-to-call-lead-14717.html",
+      "snippet": "Chennai: Telugu Desam Party chief N Chandrababu Naidu today called on AIADMK supremo J Jayalalithaa and requested her to exert pressure on"
+    },
+    {
+      "title": "Telangana issue: TDP chief meets Jayalalithaa",
+      "url": "https://www.thehindubusinessline.com/news/national/telangana-issue-tdp-chief-meets-jayalalithaa/article20722945.ece1",
+      "snippet": "TDP leader Chandrababu Naidu today met Tamil Nadu Chief Minister J Jayalalithaa on the issue of bifurcation of Andhra Pradesh,"
+    },
+    {
+      "title": "Chandrababu Naidu meets Telangana leaders to ...",
+      "url": "https://www.ap7am.com/en/85267/chandrababu-naidu-meets-telangana-leaders-to-reactivate-tdp",
+      "snippet": "Hyderabad, Aug 25 : Andhra Pradesh Chief Minister N. Chandrababu Naidu on Sunday held a meeting with the leaders of his Telugu Desam Party"
+    },
+    {
+      "title": "CM Chandrababu Naidu to Hold Meet With Telangana TDP ...",
+      "url": "https://www.youtube.com/watch?v=fRMAOQEcigg",
+      "snippet": "ElectionsOnNTV Chandrababu Naidu is going to arrange an emergency meeting with the Telangana TDP leaders to discuss the political strategies"
+    },
+    {
+      "title": "Naidu calls for strong leadership in Telangana",
+      "url": "https://www.thehindu.com/news/cities/Hyderabad/Naidu-calls-for-strong-leadership-in-Telangana/article16725859.ece",
+      "snippet": "Telugu Desam Party president and Andhra Pradesh Chief Minister N. Chandrababu Naidu underscored the need for building up strong leadership at the grassroots"
+    },
+    {
+      "title": "Chandrababu Naidu holds discussions with leaders to ...",
+      "url": "https://www.newindianexpress.com/states/andhra-pradesh/2025/Oct/08/chandrababu-naidu-holds-discussions-with-leaders-to-rejuvenate-tdp-in-telangana",
+      "snippet": "The leaders urged Naidu appoint a State level committee with important leaders in case of delay in announcement of the TDP State president."
+    }
+  ],
+  "merged_results": [
+    {
+      "title": "Naidu meets Jayalalithaa, asks President to call leaders of ...",
+      "url": "https://www.indiatvnews.com/politics/national/telangana-naidu-meets-jayalalithaa-asks-president-to-call-lead-14717.html",
+      "snippet": "Chennai: Telugu Desam Party chief N Chandrababu Naidu today called on AIADMK supremo J Jayalalithaa and requested her to exert pressure on"
+    },
+    {
+      "title": "Telangana issue: TDP chief meets Jayalalithaa",
+      "url": "https://www.thehindubusinessline.com/news/national/telangana-issue-tdp-chief-meets-jayalalithaa/article20722945.ece1",
+      "snippet": "TDP leader Chandrababu Naidu today met Tamil Nadu Chief Minister J Jayalalithaa on the issue of bifurcation of Andhra Pradesh,"
+    },
+    {
+      "title": "Chandrababu Naidu meets Telangana leaders to ...",
+      "url": "https://www.ap7am.com/en/85267/chandrababu-naidu-meets-telangana-leaders-to-reactivate-tdp",
+      "snippet": "Hyderabad, Aug 25 : Andhra Pradesh Chief Minister N. Chandrababu Naidu on Sunday held a meeting with the leaders of his Telugu Desam Party"
+    },
+    {
+      "title": "CM Chandrababu Naidu to Hold Meet With Telangana TDP ...",
+      "url": "https://www.youtube.com/watch?v=fRMAOQEcigg",
+      "snippet": "ElectionsOnNTV Chandrababu Naidu is going to arrange an emergency meeting with the Telangana TDP leaders to discuss the political strategies"
+    },
+    {
+      "title": "Naidu calls for strong leadership in Telangana",
+      "url": "https://www.thehindu.com/news/cities/Hyderabad/Naidu-calls-for-strong-leadership-in-Telangana/article16725859.ece",
+      "snippet": "Telugu Desam Party president and Andhra Pradesh Chief Minister N. Chandrababu Naidu underscored the need for building up strong leadership at the grassroots"
+    },
+    {
+      "title": "Chandrababu Naidu holds discussions with leaders to ...",
+      "url": "https://www.newindianexpress.com/states/andhra-pradesh/2025/Oct/08/chandrababu-naidu-holds-discussions-with-leaders-to-rejuvenate-tdp-in-telangana",
+      "snippet": "The leaders urged Naidu appoint a State level committee with important leaders in case of delay in announcement of the TDP State president."
+    }
+  ]
+}

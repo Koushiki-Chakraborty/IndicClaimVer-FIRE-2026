@@ -1,0 +1,105 @@
+{
+  "claim": {
+    "id": "S2/T/HI/1097",
+    "text": "सुप्रीम कोर्ट ने तमिलनाडु के तूतीकोरिन में वेदांता के तांबा संयंत्र को फिर से खोलने की अनुमति दे दी।",
+    "lang": "hindi"
+  },
+  "ranked_evidence": [
+    {
+      "title": "India top court clears Vedanta copper plant for reopening",
+      "url": "https://sg.finance.yahoo.com/news/india-top-court-clears-vedanta-copper-plant-reopening-103058874--finance.html",
+      "snippet": "India's federal environment court in December granted permission for the plant to reopen, prompting an appeal by the Tamil Nadu state government",
+      "bm25_score_raw": 4.282513360023742,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Supreme-Court-permits-Sterlite-Copper-to-open-in-national- ...",
+      "url": "https://www.vedantalimited.com/public/uploads/15727/Supreme-Court-permits-Sterlite-Copper-to-open-in-national-interest.pdf",
+      "snippet": "the Copper Smelter Plant, which were taken up for hearing today before the Supreme Court. The Court considered the report of the High Powered Expert Committee and recommendations of the State Government. The Hon'ble Supreme Court has permitted Vedanta Ltd. to carry out the activities at the Plant. The court considered the aspect of plant being a national asset as its reopening would immensely help in India becoming self-reliant in copper. Today’s development has brought much cheer and hope to [...] Sensitivity: Public (C4) SUPREME COURT PERMITS STERLITE COPPER TO OPEN IN NATIONAL INTEREST - The Supreme Court has considered applications of Vedanta and permitted it to upkeep Sterlite Copper Plant. Delhi/Mumbai, 10 April 2023: The three-member SC bench, headed by Chief Justice of India Justice D Y Chandrachud, today allowed Sterlite Copper to carry out the upkeep of the Plant. Company had filed applications seeking reliefs from the Supreme Court to ensure proper upkeep of the Copper Smelter [...] development at the court and they are waiting for the plant to restart operations.” Sterlite Copper is a major employer in Tuticorin, providing direct and indirect employment to thousands of people. The closure of the plant has had a cascading effect on the local economy, leading to job losses and reduced economic activity. Various people from Tuticorin who benefited from Sterlite Copper have been demonstrating their continuous support. The Supreme Court’s direction would bring a huge cheer for",
+      "bm25_score_raw": 2.3960496715715545,
+      "bm25_score_norm": 0.5594961346619759,
+      "bm25_rank": 2
+    },
+    {
+      "title": "Can't allow reopening of plant straightaway: SC on Vedanta case",
+      "url": "https://www.hindustantimes.com/india-news/cant-allow-reopening-of-plant-straightaway-sc-on-vedanta-case-101708543704108-amp.html",
+      "snippet": "The Supreme Court on Wednesday observed that it could not straightaway allow the reopening of Vedanta's Sterlite copper smelting plant in Tamil",
+      "bm25_score_raw": 2.0526080721268225,
+      "bm25_score_norm": 0.4792998642543506,
+      "bm25_rank": 3
+    },
+    {
+      "title": "Vedanta Can't Reopen Sterlite Copper Plant, Public Health Important",
+      "url": "https://www.ndtv.com/india-news/tamil-nadu-vedanta-cant-reopen-sterlite-copper-plant-public-health-important-supreme-court-5151738/amp/1",
+      "snippet": "The Supreme Court on Thursday dismissed its plea for reopening of its copper smelting plant in Tamil Nadu's Thoothukudi, closed since May 2018 over pollution",
+      "bm25_score_raw": 2.0145053440777168,
+      "bm25_score_norm": 0.4704025824840739,
+      "bm25_rank": 4
+    },
+    {
+      "title": "Vedanta Sterlite copper plant update: Supreme Court denies interim relief",
+      "url": "https://www.youtube.com/watch?v=1K4FfEtDPVw",
+      "snippet": "The Supreme Court has denied interim relief to Vedanta refusing the immediate reopening of the Sterlite plant for now, which remains shut since",
+      "bm25_score_raw": 1.037192462318613,
+      "bm25_score_norm": 0.24219246389294694,
+      "bm25_rank": 5
+    },
+    {
+      "title": "तमिलनाडु के तूतीकोरिन में वेदांता कंपनी से प्रतिदिन 1000 ...",
+      "url": "https://www.facebook.com/IndixOnline/videos/%E0%A4%91%E0%A4%95%E0%A5%8D%E0%A4%B8%E0%A5%80%E0%A4%9C%E0%A4%A8-%E0%A4%B8%E0%A4%82%E0%A4%95%E0%A4%9F-%E0%A4%94%E0%A4%B0-%E0%A4%9A%E0%A4%B0%E0%A5%8D%E0%A4%9A-%E0%A4%95%E0%A5%80-%E0%A4%97%E0%A5%81%E0%A4%82%E0%A4%A1%E0%A4%BE%E0%A4%97%E0%A4%B0%E0%A5%8D%E0%A4%A6%E0%A5%80-%E0%A4%95%E0%A4%BE-%E0%A4%AF%E0%A5%87-%E0%A4%95%E0%A4%A8%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%B6%E0%A4%A8-%E0%A4%86%E0%A4%AA-%E0%A4%A8%E0%A4%B9%E0%A5%80%E0%A4%82-%E0%A4%9C%E0%A4%BE%E0%A4%A8%E0%A4%A4%E0%A5%87-%E0%A4%B9%E0%A5%8B%E0%A4%82%E0%A4%97%E0%A5%87/2550628361728069",
+      "snippet": "तमिलनाडु के तूतीकोरिन में वेदांता कंपनी से प्रतिदिन 1000 मीट्रिक टन ऑक्सीजन उत्पादन की सुप्रीम कोर्ट ने अनुमति दे दी। लेकिन क्या आपको पता है कि ये कारखाना बंद क्यों पड़ा है? ; Vijayendra Chithrapura.Read more",
+      "bm25_score_raw": 0.4797098228839558,
+      "bm25_score_norm": 0.11201595478065159,
+      "bm25_rank": 6
+    },
+    {
+      "title": "उच्चतम न्यायालय ने वेदांता के तूतीकोरिन स्थित ऑक्सीजन ...",
+      "url": "https://navbharattimes.indiatimes.com/india/supreme-court-allows-vedanta-to-operate-oxygen-plant-at-tuticorin/articleshow/82272120.cms",
+      "snippet": "Apr 27, 2021 — उसने तमिलनाडु सरकार से पूछा था कि वह ऑक्सीजन उत्पादन के लिये तूतीकोरिन में वेदांता के स्टरलाइट तांबा इकाई को अपने नियंत्रण में क्यों नहीं ले लेती, जो प्रदूषण चिंताओं को लेकर मई 2018 से बंद है।Read more",
+      "bm25_score_raw": 0.46626280749995785,
+      "bm25_score_norm": 0.10887597265951621,
+      "bm25_rank": 7
+    },
+    {
+      "title": "वेदांता को मिली तूतीकोरिन ऑक्सीजन प्लांट शुरू करने की मंजूरी ...",
+      "url": "https://www.abplive.com/news/india/supreme-court-allows-vedanta-to-operate-its-plant-at-tuticorin-in-tamil-nadu-for-producing-oxygen-1906447",
+      "snippet": "Apr 27, 2021 — कोर्ट ने तमिलनाडु सरकार को ऑक्सीजन प्लांट में गतिविधियों पर नजर रखने के लिये जिला कलेक्टर और तूतीकोरिन के पुलिस अधीक्षक को शामिल कर एक समिति गठित करने का निर्देश दिया. सुप्रीम कोर्ट ने 23 अप्रैल को कहा ...Read more",
+      "bm25_score_raw": 0.456036084670958,
+      "bm25_score_norm": 0.10648795376284122,
+      "bm25_rank": 8
+    },
+    {
+      "title": "वेदांता स्टरलाइट हिंसा: 'पुलिस ने सामने से गोली मारी'",
+      "url": "https://www.bbc.com/hindi/india-44225774",
+      "snippet": "May 23, 2018 — वेदांता स्टरलाइट हिंसा: 'पुलिस ने सामने से गोली मारी' ... तमिलनाडु के तूतीकोरिन ज़िले में थेरसपुरम गांव के प्रवेश द्वार पर एक खोपड़ी मिली थी. ग्रामीणों का कहना है कि ये खोपड़ी जान्सी की थी. मंगलवार को तूतीकोरिन में वेदांता ...Read more",
+      "bm25_score_raw": 0.456036084670958,
+      "bm25_score_norm": 0.10648795376284122,
+      "bm25_rank": 9
+    },
+    {
+      "title": "तूतीकोरिन में फिलहाल बंद रहेगा वेदांता का स्टरलाइट कॉपर प्लांट- ...",
+      "url": "https://www.aajtak.in/india/news/story/vedanta-sterlite-copper-plant-in-tuticorin-will-remain-closed-says-supreme-court-ntc-1889724-2024-02-29",
+      "snippet": "Feb 29, 2024 — सुप्रीम कोर्ट ने तूतीकोरिन में वेदांत समूह के तांबा गलाने वाले संयंत्र को बंद करने के तमिलनाडु सरकार के फैसले को बरकरार रखा है. राज्य सरकार के फैसले को बरकरार रखते हुए सुप्रीम कोर्ट ने कहा कि यह संयंत्र वायु ...Read more",
+      "bm25_score_raw": 0.4510891283486937,
+      "bm25_score_norm": 0.10533280119088592,
+      "bm25_rank": 10
+    },
+    {
+      "title": "Sterlite: India court orders reopening of controversial copper plant",
+      "url": "https://www.bbc.com/news/world-asia-india-46791618",
+      "snippet": "The plant has been closed since May India's Supreme Court has ordered the reopening of a copper smelter that was shut down because of the",
+      "bm25_score_raw": 0.38596110019247115,
+      "bm25_score_norm": 0.09012490277212618,
+      "bm25_rank": 11
+    },
+    {
+      "title": "वेदांता को सुप्रीम कोर्ट से झटका, तमिलनाडु के तुतीकोरीन में नहीं ...",
+      "url": "https://ndtv.in/india/copper-sterlite-plant-will-not-open-in-tuticorin-tamil-nadu-supreme-court-rejected-vedantas-petition-5150476",
+      "snippet": "Feb 29, 2024 — तमिलनाडु के तुतीकोरीन में वेदांता कॉपर स्टरलाइट प्लांट नहीं खुलेगा. कॉपर स्टरलाइट प्लांट खोलने की मांग वाली याचिका सुप्रीम कोर्ट ने खारिज कर दी है. सुप्रीम कोर्ट ने कहा कि हम मामले में दखल देने को इच्छुक नहीं है.Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12
+    }
+  ]
+}

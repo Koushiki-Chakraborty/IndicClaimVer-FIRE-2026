@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/1457",
+    "text": "আরজি করের প্রতিবাদ, গঙ্গাজল-গোবর-ঝাঁটা নিয়ে বিজেপির 'থানা শুদ্ধিকরণে' ধুন্ধুমার - BJP Police Station Purification",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "RG Kar case: BJP workers throng police stations to cleanse ...",
+      "url": "https://www.business-standard.com/politics/rg-kar-case-bjp-workers-throng-police-stations-to-cleanse-them-over-lapses-124092300509_1.html",
+      "snippet": "They held protests in front of the police stations sprinkling holy water of the Ganga river and applying cow dung using broomsticks. Paul said,",
+      "bm25_score_raw": 8.720021930699792,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8944881558418274,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Bahujan Lives Matter (@bahujanlivesmatter)",
+      "url": "https://www.instagram.com/bahujanlivesmatter?hl=en",
+      "snippet": "The protest, demanding the resignation of Union Education Minister Dharmendra Pradhan over NEET paper leak controversies and exam irregularities, involved",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.841677188873291,
+      "embedding_score_norm": 0.5156738124040322,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Murder charges against protesters for piling up dung at ...",
+      "url": "https://www.sikh24.com/2021/01/03/murder-charges-against-protesters-for-piling-up-dung-at-bjp-leaders-house",
+      "snippet": ":Punjab Police have slapped attempt to murder charges against the protesters for piling up cattle-dung at the gate of BJP leader and former",
+      "bm25_score_raw": 6.1250149292600025,
+      "bm25_score_norm": 0.702408202403278,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8395209312438965,
+      "embedding_score_norm": 0.4958989039509913,
+      "embedding_rank": 3
+    },
+    {
+      "title": "পুলিশের সামনেই BJP কর্মীদের 'মার', সিইও দফতরের সামনে ধুন্ধুমার - Bengali News | BJP workers 'beaten' in front of police, riot in front of CEO's office | TV9 Bangla News",
+      "url": "https://tv9bangla.com/videos/bjp-workers-beaten-in-front-of-police-riot-in-front-of-ceos-office-1294285.html",
+      "snippet": "Title: পুলিশের সামনেই BJP কর্মীদের 'মার', সিইও দফতরের সামনে ধুন্ধুমার - Bengali News | BJP workers 'beaten' in front of police, riot in front of CEO's office | TV9 Bangla News\nBangla News, News in Bengali, বাংলা সংবাদ, বাংলা খবর. By signing in or creating an account, you agree with Associated Broadcasting Company's Terms & Conditions and Privacy Policy. পুলিশের সামনেই BJP কর্মীদের 'মার', সিইও দফতরের সামনে ধুন্ধুমার. # পুলিশের সামনেই BJP কর্মীদের ‘মার’, সিইও দফতরের সামনে ধুন্ধুমার. TV9 Bangla Digital | Edited By: শর্মিষ্ঠা চক্রবর্তী. Updated on: Mar 31, 2026 | 5:34 PM. ## ফর্ম ৬ নিয়ে একে অপরের বিরুদ্ধে অভিযোগ তোলা হয় এদিন। ধস্তাধস্তি চরম পর্যায়ে পৌঁছয়। বিজেপি কর্মীদের মারধর করা হয়েছে বলে অভিযোগ। পাল্টা তৃণমূল সমর্থকদের বাইক ফেলে দেওয়া হয়। কেন্দ্রীয় বাহিনী নামিয়ে পরিস্থিতি সামাল দেওয়ার চেষ্টা করা হচ্ছে। পুলিশর উচ্চপদস্থ আধিকারিকরাও রয়েছেন। বিজেপির দাবি, নো এন্ট্রি এলাকার মধ্য়ে ঢুকে পড়েছিল তৃণমূল।. তুমুল উত্তেজনা নির্বাচন কমিশনের দফতরের সমানে। বিজেপি-তৃণমূলের গণ্ডগোলের জেরে তপ্ত এলাকা। মোতায়েন কেন্দ্রীয় বাহিনী। ফর্ম ৬ নিয়ে একে অপরের বিরুদ্ধে অভিযোগ তোলা হয় এদিন। ধস্তাধস্তি চরম পর্যায়ে পৌঁছয়। বিজেপি কর্মীদের মারধর করা হয়েছে বলে অভিযোগ। পাল্টা তৃণমূল সমর্থকদের বাইক ফেলে দেওয়া হয়। কেন্দ্রীয় বাহিনী নামিয়ে পরিস্থিতি সামাল দেওয়ার চেষ্টা করা হচ্ছে। পুলিশর উচ্চপদস্থ আধিকারিকরাও রয়েছেন। বিজেপির দাবি, নো এন্ট্রি এলাকার মধ্য়ে ঢুকে পড়েছিল তৃণমূল।. ভোটের বাংলায় মোদীর প্রথম সভার জন্য প্রস্তুত বিজেপি, নজর শিলিগুড়িতেও. কমিশনের সঙ্গে দ্বন্দ্ব জারি রাজ্যের, এবার কি অভিযোগ করলেন মমতা? কী চলছে CEO দফতরের সামনে? দেখুন ভিডিয়ো. ঠাকুরবাড়িতে মধুপর্ণা বনাম সোমার দ্বৈরথ. আড়াই দশক পর বিধানসভা ভোটে প্রার্থী, প্রচারে চেনা মেজাজে অধীর. ### আড়াই দশক পর বিধানসভা ভোটে প্রার্থী, প্রচারে চেনা মেজাজে অধীর. ভোটের বাংলায় মোদীর প্রথম সভার জন্য প্রস্তুত বিজেপি, নজর শিলিগুড়িতেও. ### ভোটের বাংলায় মোদীর প্রথম সভার জন্য প্রস্তুত বিজেপি, নজর শিলিগুড়িতেও. কমিশনের সঙ্গে দ্বন্দ্ব জারি রাজ্যের, এবার কি অভিযোগ করলেন মমতা? ### কমিশনের সঙ্গে দ্বন্দ্ব জারি রাজ্যের, এবার কি অভিযোগ করলেন মমতা? কী চলছে CEO দফতরের সামনে? দেখুন ভিডিয়ো. ### কী চলছে CEO দফতরের সামনে? দেখুন ভিডিয়ো. ঠাকুরবাড়িতে মধুপর্ণা বনাম সোমার দ্বৈরথ. ### ঠাকুরবাড়িতে মধুপর্ণা বনাম সোমার দ্বৈরথ. সংক্ষিপ্ত খবর.",
+      "bm25_score_raw": 4.111800225012693,
+      "bm25_score_norm": 0.47153553714545715,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8353126049041748,
+      "embedding_score_norm": 0.4573045973273044,
+      "embedding_rank": 4
+    },
+    {
+      "title": "BJP News: বড়ঞায় বিজেপি প্রার্থী বদলের দাবিতে বিক্ষোভ | Zee 24 Ghanta | 24 Ghanta, Zee News",
+      "url": "https://zeenews.india.com/bengali/videos/protest-in-boro%C3%B1ya-demanding-change-of-bjp-candidate_645676.html",
+      "snippet": "Title: BJP News: বড়ঞায় বিজেপি প্রার্থী বদলের দাবিতে বিক্ষোভ | Zee 24 Ghanta | 24 Ghanta, Zee News\nEnroll for our free updates. * আরজি করে ছেলেকে দেখাতে এসে ভয়ংকর মৃত্যু বাবার; মরণের দিকে হিঁচড়ে টেনে নিয়ে গেল দানব লিফ্ট-ই? * চার ঘূর্ণাবর্তের রক্তচক্ষুর সঙ্গে দ্বিতীয় কালবৈশাখী; ৭০ কিমি বেগে ঝড়, তীব্র বৃষ্টি শিলাবৃষ্টির মারণ দুর্যোগ. * বড়সড় ভাঙন, বিজেপির চাপ বাড়িয়ে এবার তৃণমূলে যোগ এই হেভিওয়েট রাজবংশী মুখের. * রাত পোহালেই ছ্যাঁকা: কলকাতায় ফের বাড়ল গ্যাসের দাম. ## Latest Videos. ### Water Crisis | জল সংকটে বিক্ষোভ জেলায় জেলায় | Zee 24 Ghanta, 20 Mar 2026. ### WAR UPDATE | ইরানে আপত্তি,পাকিস্তানে নয় কেন? Lockdown protest at BJP state office demanding candidate change  PT3M21S. ## RECOMMENDED VIDEOS. R G kar case: ভোটের সবচেয়ে বড় ব্রেকিং: পানিহাটিতে বিজেপির চমক, এবার সরাসরি রাজনীতিতে আরজি কর নির্যাতিতার মা. #### R G kar case: ভোটের সবচেয়ে বড় ব্রেকিং: পানিহাটিতে বিজেপির চমক, এবার সরাসরি রাজনীতিতে আরজি কর নির্যাতিতার মা. TMC Leader Murder: ভোটের আগেই বাংলায় ঝরল রক্ত: নৃশংস খুন তৃণমূল নেতা, রাস্তার ধারে মিলল দেহ. #### TMC Leader Murder: ভোটের আগেই বাংলায় ঝরল রক্ত: নৃশংস খুন তৃণমূল নেতা, রাস্তার ধারে মিলল দেহ. Deadly Road Accident: ৩০ ফুট উঁচু ফ্লাইওভার থেকে নীচে ফরচুনার, গাড়ি কেটে বের করা হল লাদাখফেরত তিন IIT ছাত্রের দেহ. Attacks on World's Biggest Gas Hub: ফের বাড়বে গ্যাসের দাম! 'ওয়ার্ল্ডস বিগেস্ট গ্যাস হাবে' মারণ হামলায় দেশ জুড়ে আঁধার? #### Attacks on World's Biggest Gas Hub: ফের বাড়বে গ্যাসের দাম! 'ওয়ার্ল্ডস বিগেস্ট গ্যাস হাবে' মারণ হামলায় দেশ জুড়ে আঁধার? TMC candidate Debangshu Bhattacharya: “লাস্ট রাউন্ডে ছক্কা মেরে জিতব”, রচনাকে সঙ্গে নিয়ে বিজেপিকে কটাক্ষ দেবাংশুর. #### TMC candidate Debangshu Bhattacharya: “লাস্ট রাউন্ডে ছক্কা মেরে জিতব”, রচনাকে সঙ্গে নিয়ে বিজেপিকে কটাক্ষ দেবাংশুর. When Naseeruddin Shah was stabbed: মুম্বইয়ের রেস্তোরাঁয় নাসিরুদ্দিন শাহকে ছুরির কোপ, রক্তাক্ত অভিনেতাকে নিয়ে তড়িঘড়ি হাসপাতালে বন্ধু ওম. #### When Naseeruddin Shah was stabbed: মুম্বইয়ের রেস্তোরাঁয় নাসিরুদ্দিন শাহকে ছুরির কোপ, রক্তাক্ত অভিনেতাকে নিয়ে তড়িঘড়ি হাসপাতালে বন্ধু ওম. Lovely Moitra: মুখ্যমন্ত্রী টিকিট দিতেই 'বড় উপহার' দেওয়ার ঘোষণা প্রার্থী লাভলির, কী দিতে চান নেত্রীকে? #### Lovely Moitra: মুখ্যমন্ত্রী টিকিট দিতেই 'বড় উপহার' দেওয়ার ঘোষণা প্রার্থী লাভলির, কী দিতে চান নেত্রীকে? BJP Candidate List 2026: বিয়ে বিতর্ক সঙ্গী করেই শ্যামপুরে প্রার্থী হিরণ, লাভলীকে টক্কর দেবেন রূপা. #### BJP Candidate List 2026: বিয়ে বিতর্ক সঙ্গী করেই শ্যামপুরে প্রার্থী হিরণ, লাভলীকে টক্কর দেবেন রূপা.",
+      "bm25_score_raw": 5.566341057752675,
+      "bm25_score_norm": 0.6383402590027626,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8315135836601257,
+      "embedding_score_norm": 0.4224640030086548,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Parnasree BJP Office : পর্ণশ্রীতে ধুন্ধুমার, বিজেপির কার্যালয় 'ভাঙচুর', দেখুন ঠিক কী ঘটে? - Bengali News | WB Assembly Election 2026 : Parnasree BJP Office allegedly attacked by tmc | TV9 Bangla News",
+      "url": "https://tv9bangla.com/videos/wb-assembly-election-2026-parnasree-bjp-office-allegedly-attacked-by-tmc-1296312.html",
+      "snippet": "Title: Parnasree BJP Office : পর্ণশ্রীতে ধুন্ধুমার, বিজেপির কার্যালয় 'ভাঙচুর', দেখুন ঠিক কী ঘটে? - Bengali News | WB Assembly Election 2026 : Parnasree BJP Office allegedly attacked by tmc | TV9 Bangla News\nBangla News, News in Bengali, বাংলা সংবাদ, বাংলা খবর. By signing in or creating an account, you agree with Associated Broadcasting Company's Terms & Conditions and Privacy Policy. Parnasree BJP Office : পর্ণশ্রীতে ধুন্ধুমার, বিজেপির কার্যালয় 'ভাঙচুর', দেখুন ঠিক কী ঘটে? # Parnasree BJP Office : পর্ণশ্রীতে ধুন্ধুমার, বিজেপির কার্যালয় ‘ভাঙচুর’, দেখুন ঠিক কী ঘটে? Souvik Sarkar | Edited By: শুভশ্রী রায়চৌধুরী. Updated on: Apr 05, 2026 | 11:16 PM. ## WB Assembly Election 2026 : অভিযোগ বিজেপির নির্বাচনী কার্যালয়ে তৃণমূলের পোস্টার লাগাতে আসেন কয়েকজন। সেইসময় বিজেপি কর্মীরা বাধা দিলে তাঁদের উপর চড়াও হয় তৃণমূলের কর্মীরা। বিজেপির অভিযোগ, বাধা দেওয়ার পরই তৃণমূলের ৩০ থেকে ৪০ জন লোক এসে বিজেপির কার্যালয় ভাঙচুর করে। একইসঙ্গে ইন্দ্রনীল খাঁ-এর পোস্টার ব্যানার সব ছিঁড়ে দেয় বলে অভিযোগ।. বেহালার পর্ণশ্রীতে বিজেপির কার্যালয়ে ভাঙচুরের অভিযোগ। বিজেপি প্রার্থী ইন্দ্রনীল খাঁ-এর পোস্টার ছিঁড়ে দেওয়া হয় বলে অভিযোগ। তৃণমূল কংগ্রেসের বিরুদ্ধে আঙুল তুলেছে বিজেপি। অভিযোগ বিজেপির নির্বাচনী কার্যালয়ে তৃণমূলের পোস্টার লাগাতে আসেন কয়েকজন। সেইসময় বিজেপি কর্মীরা বাধা দিলে তাঁদের উপর চড়াও হয় তৃণমূলের কর্মীরা। বিজেপির অভিযোগ, বাধা দেওয়ার পরই তৃণমূলের ৩০ থেকে ৪০ জন লোক এসে বিজেপির কার্যালয় ভাঙচুর করে। একইসঙ্গে ইন্দ্রনীল খাঁ-এর পোস্টার ব্যানার সব ছিঁড়ে দেয় বলে অভিযোগ। খবর পেয়ে ঘটনাস্থলে পৌঁছয় পুলিশ। তাঁদের হস্তক্ষেপে পরিস্থিতি নিয়ন্ত্রণে আসে। যদিও অভিযোগ অস্বীকার করেছে তৃণমূল।. অমিত শাহকে আবির মাখাবেন কল্যাণ, কেন? নন্দীগ্রামে বাড়ি বাড়ি ঘুরলেন সিইও মনোজ আগারওয়াল, কিন্তু কেন? অমিত শাহকে হুঁশিয়ারি তৃণমূল সাংসদ কল্যাণ বন্দ্যোপাধ্যায়ের, কমিশনে নালি. অনুপ্রবেশকারীদের দেশছাড়া করার জন্য ভরসা বিজেপি: মোদী. ফ্যাশনে 'ফেল', ভোট প্রচারে কেমন পোশাক পছন্দ মধুপর্ণার? ### ফ্যাশনে 'ফেল', ভোট প্রচারে কেমন পোশাক পছন্দ মধুপর্ণার? অমিত শাহকে আবির মাখাবেন কল্যাণ, কেন? ### অমিত শাহকে আবির মাখাবেন কল্যাণ, কেন? নন্দীগ্রামে বাড়ি বাড়ি ঘুরলেন সিইও মনোজ আগারওয়াল, কিন্তু কেন? ### নন্দীগ্রামে বাড়ি বাড়ি ঘুরলেন সিইও মনোজ আগারওয়াল, কিন্তু কেন? পর্ণশ্রীতে ধুন্ধুমার, বিজেপির কার্যালয় 'ভাঙচুর', দেখুন ঠিক কী ঘটে? ### পর্ণশ্রীতে ধুন্ধুমার, বিজেপির কার্যালয় 'ভাঙচুর', দেখুন ঠিক কী ঘটে? অমিত শাহকে হুঁশিয়ারি তৃণমূল সাংসদ কল্যাণ বন্দ্যোপাধ্যায়ের, কমিশনে নালি. ### অমিত শাহকে হুঁশিয়ারি তৃণমূল সাংসদ কল্যাণ বন্দ্যোপাধ্যায়ের, কমিশনে নালি. সংক্ষিপ্ত খবর.",
+      "bm25_score_raw": 2.427899658782666,
+      "bm25_score_norm": 0.27842815970851853,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.8289031982421875,
+      "embedding_score_norm": 0.3985243160421321,
+      "embedding_rank": 6
+    },
+    {
+      "title": "Water Crisis | জল সংকটে বিক্ষোভ জেলায় জেলায় | Zee 24 Ghanta | 24 Ghanta, Zee News",
+      "url": "https://zeenews.india.com/bengali/videos/protests-erupt-across-districts-over-water-shortage_645675.html",
+      "snippet": "Title: Water Crisis | জল সংকটে বিক্ষোভ জেলায় জেলায় | Zee 24 Ghanta | 24 Ghanta, Zee News\nEnroll for our free updates. * আরজি করে ছেলেকে দেখাতে এসে ভয়ংকর মৃত্যু বাবার; মরণের দিকে হিঁচড়ে টেনে নিয়ে গেল দানব লিফ্ট-ই? * ৩০ ফুট উঁচু ফ্লাইওভার থেকে নীচে ফরচুনার, গাড়ি কেটে বের করা হল লাদাখফেরত তিন IIT ছাত্রের দেহ. * বড়সড় ভাঙন, বিজেপির চাপ বাড়িয়ে এবার তৃণমূলে যোগ এই হেভিওয়েট রাজবংশী মুখের. ## Latest Videos. ### WAR UPDATE | ইরানে আপত্তি,পাকিস্তানে নয় কেন? Lockdown protest at BJP state office demanding candidate change  PT3M21S. | Zee 24 Ghanta, 20 Mar 2026. ## RECOMMENDED VIDEOS. ### WAR UPDATE | ইরানে আপত্তি,পাকিস্তানে নয় কেন? TMC Leader Murder: ভোটের আগেই বাংলায় ঝরল রক্ত: নৃশংস খুন তৃণমূল নেতা, রাস্তার ধারে মিলল দেহ. #### TMC Leader Murder: ভোটের আগেই বাংলায় ঝরল রক্ত: নৃশংস খুন তৃণমূল নেতা, রাস্তার ধারে মিলল দেহ. Deadly Road Accident: ৩০ ফুট উঁচু ফ্লাইওভার থেকে নীচে ফরচুনার, গাড়ি কেটে বের করা হল লাদাখফেরত তিন IIT ছাত্রের দেহ. #### Deadly Road Accident: ৩০ ফুট উঁচু ফ্লাইওভার থেকে নীচে ফরচুনার, গাড়ি কেটে বের করা হল লাদাখফেরত তিন IIT ছাত্রের দেহ. R G kar case: ভোটের সবচেয়ে বড় ব্রেকিং: পানিহাটিতে বিজেপির চমক, এবার সরাসরি রাজনীতিতে আরজি কর নির্যাতিতার মা. #### R G kar case: ভোটের সবচেয়ে বড় ব্রেকিং: পানিহাটিতে বিজেপির চমক, এবার সরাসরি রাজনীতিতে আরজি কর নির্যাতিতার মা. Birbhum Accident: মায়ের হাত ধরে রাস্তা পেরচ্ছিল সাতের মেয়ে, ছুটে এল দানব টেম্পো, বাড়ির সামনেই সব শেষ. #### Birbhum Accident: মায়ের হাত ধরে রাস্তা পেরচ্ছিল সাতের মেয়ে, ছুটে এল দানব টেম্পো, বাড়ির সামনেই সব শেষ. Tapasi Mondal TMC candidate 2026: বাম-বিজেপি ছেড়ে এবার তৃণমূল প্রার্থী বিদায়ী বিধায়ক তাপসী: হলদিয়ায় ঘাসফুল ফুটবে? #### Tapasi Mondal TMC candidate 2026: বাম-বিজেপি ছেড়ে এবার তৃণমূল প্রার্থী বিদায়ী বিধায়ক তাপসী: হলদিয়ায় ঘাসফুল ফুটবে? Minakshi Mukherjee on RG Kar Protest: যেদিন গাড়ি আটকে ছিলাম, সেদিন জানা ছিল না মেয়েটা বিজেপি না তৃণমূল না সিপিএম: আরজি কর প্রসঙ্গে মীনাক্ষী. #### Minakshi Mukherjee on RG Kar Protest: যেদিন গাড়ি আটকে ছিলাম, সেদিন জানা ছিল না মেয়েটা বিজেপি না তৃণমূল না সিপিএম: আরজি কর প্রসঙ্গে মীনাক্ষী. West Bengal Assembly Election 2026:  বিধানসভা ভোটের আগে কমিশনের 'মাস্টারস্ট্রোক': প্রার্থীদের সোশ্যাল মিডিয়া থেকে প্রচার-- বেনজির কড়া নির্দেশিকা. #### West Bengal Assembly Election 2026: বিধানসভা ভোটের আগে কমিশনের 'মাস্টারস্ট্রোক': প্রার্থীদের সোশ্যাল মিডিয়া থেকে প্রচার-- বেনজির কড়া নির্দেশিকা.",
+      "bm25_score_raw": 7.017679709490936,
+      "bm25_score_norm": 0.8047777591916857,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8194391131401062,
+      "embedding_score_norm": 0.3117297633253507,
+      "embedding_rank": 7
+    },
+    {
+      "title": "‘অন্নপূর্ণার ভাণ্ডার’ ঘিরে ধুন্ধুমার কুমারগঞ্জ ও মানিকচকে, ফর্ম বিলি নিয়ে BJP-TMC বিবাদ তুঙ্গে - annapurna bhandar form controversy bjp tmc clash kumarganj manikchak election 2026 ssr - Aaj Tak Bangla",
+      "url": "https://bangla.aajtak.in/elections/west-bengal-assembly-elections/story/annapurna-bhandar-form-controversy-bjp-tmc-clash-kumarganj-manikchak-election-2026-ssr-1378204-2026-04-19",
+      "snippet": "Title: ‘অন্নপূর্ণার ভাণ্ডার’ ঘিরে ধুন্ধুমার কুমারগঞ্জ ও মানিকচকে, ফর্ম বিলি নিয়ে BJP-TMC বিবাদ তুঙ্গে - annapurna bhandar form controversy bjp tmc clash kumarganj manikchak election 2026 ssr - Aaj Tak Bangla\n# ‘অন্নপূর্ণার ভাণ্ডার’ ঘিরে ধুন্ধুমার কুমারগঞ্জ ও মানিকচকে, ফর্ম বিলি নিয়ে BJP-TMC বিবাদ তুঙ্গে. ## দক্ষিণ দিনাজপুরের কুমারগঞ্জ থেকে মালদহের মানিকচক, ভোটের বাদ্যি বাজতেই সরগরম বাংলার রাজনীতি। ‘অন্নপূর্ণার ভাণ্ডার’ ঘিরে ধুন্ধুমার, ফর্ম বিলি নিয়ে রণক্ষেত্র। বিজেপির বিরুদ্ধে নিয়মভঙ্গের অভিযোগ। পাল্টা অভিযোগ তৃণমূলের বিরুদ্ধেও।. ‘অন্নপূর্ণার ভাণ্ডার’ ঘিরে ধুন্ধুমার কুমারগঞ্জ ও মানিকচকে, ফর্ম বিলি নিয়ে BJP-TMC বিবাদ তুঙ্গেপ্রতীকী ছবি. বিধানসভা নির্বাচনের নির্ঘণ্ট ঘোষণা হতেই দক্ষিণ দিনাজপুরের কুমারগঞ্জে সরকারি প্রকল্পের নামে ফর্ম পূরণ ঘিরে ছড়াল তীব্র উত্তেজনা। মোহনা পঞ্চায়েতের মুগলিশপুর এলাকায় আচমকাই শুরু হয় ‘অন্নপূর্ণার ভাণ্ডার’ প্রকল্পের তোড়জোড়। অভিযোগ উঠেছে, এই প্রকল্পের মাধ্যমে মাসে ৩০০০ টাকা দেওয়ার প্রতিশ্রুতি দিয়ে গেরুয়া শিবিরের পক্ষ থেকে ফর্ম ফিলাপ করানো হচ্ছে। এই ঘটনাকে কেন্দ্র করে মুহূর্তের মধ্যে রণক্ষেত্রের চেহারা নেয় এলাকা। ভোটারদের মনেও দানা বেঁধেছে তীব্র কৌতূহল ও আতঙ্ক।. যদিও সমস্ত অভিযোগ অস্বীকার করে বিজেপি কর্মী বিশ্বজিৎ সরকার দাবি করেছেন, তাঁরা এলাকায় নিছক নির্বাচনী প্রচার চালাচ্ছিলেন। সেই সময় তৃণমূলের বাপ্পা কুমার দাস ও সুশীল দাস তাঁদের কাজে অন্যায়ভাবে বাধা দেন এবং কর্মীদের হুমকি দেন বলে অভিযোগ। বিজেপির পাল্টা যুক্তি, তৃণমূল হারের ভয়ে ভীত হয়েই তাঁদের স্বাভাবিক গণতান্ত্রিক প্রচারে বারবার বাধা সৃষ্টি করছে। বর্তমানে পরিস্থিতি কিছুটা নিয়ন্ত্রণে এলেও মুগলিশপুর বুথের ভোটারদের মধ্যে যথেষ্ট বিভ্রান্তি ও উদ্বেগের সৃষ্টি হয়েছে।. উত্তেজনার রেশ আছড়ে পড়েছে মালদহেও। খিচুড়ি বিলির আড়ালে অন্নপূর্ণা যোজনায় আবেদনপত্র বিলি এবং ভোটারদের প্রভাবিত করার অভিযোগ উঠল বিজেপির বিরুদ্ধে। শনিবার মানিকচকের মথুরাপুর গ্রাম পঞ্চায়েতের রায়পাড়া এলাকায় এই ঘটনাকে কেন্দ্র করে শোরগোল পড়ে যায়। ইতিমধ্যে বিষয়টি নিয়ে সিপিএমের পক্ষ থেকে নির্বাচন কমিশনের কাছে কড়া নালিশ জানানো হয়েছে।. মানিকচকের সিপিএম প্রার্থী দেবজ্যোতি সিনহার অভিযোগ অত্যন্ত গুরুতর। তাঁর দাবি, মথুরাপুর গ্রাম পঞ্চায়েতের ২১ নম্বর বুথের রায়পাড়া এলাকায় বিজেপির মণ্ডল কমিটির পক্ষ থেকে সাধারণ মানুষদের খিচুড়ি খাওয়ানোর ব্যবস্থা করা হয়। কিন্তু এই পংক্তি ভোজনের অন্তরালেই চলে রাজনৈতিক চাল। অভিযোগ, বিজেপি প্রার্থী গৌড়চন্দ্র মণ্ডলের হয়ে তাঁকে ভোট দেওয়ার আর্জি জানানো হয় এবং অন্নপূর্ণা যোজনার মাধ্যমে তিন হাজার টাকা পাইয়ে দেওয়ার কথা বলে আবেদনপত্র বিলি করা হয়। বিষয়টিকে নির্বাচনী বিধিভঙ্গ হিসেবেই দেখছে বাম শিবির।. বিজেপি অবশ্য এই অভিযোগকেও নস্যাৎ করে দিয়েছে। সংশ্লিষ্ট এলাকার বিজেপির মণ্ডল সভাপতি সুভাষ যাদব বলেন, ‘যে অভিযোগ করা হয়েছে তার কোনও ভিত্তি নেই। এদিন মহিলাদের নিয়ে দলের একটি নিছক আলোচনা সভা ও মতামত বিনিময় কর্মসূচি গ্রহণ করা হয়। হঠাৎ করে সিপিএমের কোথা থেকে এমন ফর্ম ফিলআপের কাল্পনিক বিষয়টি নজরে পড়ল, তা আমাদের জানা নেই।’ সব মিলিয়ে নির্বাচনের আগে ‘অন্নপূর্ণার ভাণ্ডার’ বনাম শাসক-বিরোধী তর্জায় উত্তপ্ত বঙ্গ রাজনীতির অন্দরমহল।.",
+      "bm25_score_raw": 3.5502976957754955,
+      "bm25_score_norm": 0.40714320720642727,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8174012899398804,
+      "embedding_score_norm": 0.2930410098672289,
+      "embedding_rank": 8
+    },
+    {
+      "title": "NEW DELHI | WEDNESDAY, APRIL 16, 2025",
+      "url": "https://chronicleclub.in/storage/uploads/1744777214-toi.pdf",
+      "snippet": "Police received an online complaint at the cyber police station (central dis- trict) from a man who lost Rs 19 lakh after joining a WhatsApp",
+      "bm25_score_raw": 5.234974901720736,
+      "bm25_score_norm": 0.6003396486068955,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8064321279525757,
+      "embedding_score_norm": 0.19244348796237432,
+      "embedding_rank": 9
+    },
+    {
+      "title": "EXCLUSIVE: Panihati এর চোখে 'সহানুভূতি'র জল, ভোটবাক্সে কী প্রভাব? GROUND REPORT - Aaj Tak Bangla",
+      "url": "https://bangla.aajtak.in/assembly/west-bengal/video/panihati-assembly-election-2026-bjp-candidate-rg-kar-victim-mother-exclusive-interview-video-mdv-snd-1371498-2026-04-06",
+      "snippet": "Title: EXCLUSIVE: Panihati এর চোখে 'সহানুভূতি'র জল, ভোটবাক্সে কী প্রভাব? GROUND REPORT - Aaj Tak Bangla\naajtak bangla | bangla newsaajtak bangla | bangla news. #### NOTIFICATIONS. * পশ্চিমবঙ্গ নির্বাচন 2026. # EXCLUSIVE: Panihati এর চোখে 'সহানুভূতি'র জল, ভোটবাক্সে কী প্রভাব? মধুরিমা দেব. #### মধুরিমা দেব. পানিহাটি বিধানসভা কেন্দ্রে এবারের বিজেপি প্রার্থী আরজি করের নির্যাতিতা ডাক্তার তরুণীরর মা রত্না দেবনাথ। মেয়ের ন্যায়বিচার পেতেই বিজেপির হয়ে ভোটে লড়ার পথ বেছে নিয়েছেন। ঝড়, জল, বৃষ্টি উপেক্ষা করে চলছে ভোটের প্রচার। সঙ্গী নির্যাতিতার বাবাও। বিজেপির প্রার্থী হওয়ায় তাঁদের বিরুদ্ধে ক্ষোভও উগরে দেন একাংশ। কেন এমন সিদ্ধান্ত নিলেন তাঁরা? Panihati BJP Candidate Ratna Debnath Exclusive Interview. Add Aajtak Bangla to Home Screen.",
+      "bm25_score_raw": 1.6813461564739347,
+      "bm25_score_norm": 0.19281444127503528,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.8041701316833496,
+      "embedding_score_norm": 0.17169885683143388,
+      "embedding_rank": 10
+    },
+    {
+      "title": "May 2013 bring more cheer",
+      "url": "https://lohiatoday.com/wp-content/uploads/2018/10/2013-q1.pdf",
+      "snippet": "It looks from protest marches and condolence meetings that the gang rape has awakened the nation to brutalities against women as well as non-",
+      "bm25_score_raw": 1.6250219613010808,
+      "bm25_score_norm": 0.18635526082566525,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.8013412952423096,
+      "embedding_score_norm": 0.1457557687293408,
+      "embedding_rank": 11
+    },
+    {
+      "title": "Imperial gazetteer of India ..",
+      "url": "https://library.bjp.org/jspui/bitstream/123456789/1890/1/The%20Imperial%20gazetteer%20%20of%20India%20Vol-20%20%28Pardi%20to%20Pusad%29.pdf",
+      "snippet": "Parenda Village.— Head-quarters of the tdluk of the same name in Osmanabad District, Hyderabad State, situated in 18° 16' N. The largest permanently settled impartible estate in Ganjam District, Madras, lying in the west of the District, with an area of 614 square miles, and a population (1901) of 256,414. Parlakimedi Town.— Chief place in the zamlnddri and tahsil of the same name in Ganjam District, INIadras, situated in 18° 47' N. Parner Village.— Head-quarters of the tdluka of the same name in Ahmadnagar District, Bombay, situated in 19° N. Of the other rivers, the most important are the Saura, which, rising in the north-west of the District, flows past the Purnea town and joins the Ganges near Manihari ; and the Kankai, the principal tributary of the Mahananda. Purnea Town.— Head-quarters of Purnea District, Bengal, situated in 25° 46' N. Purulia Town.—Head-quarters of Manbhum District, Bengal, situated in 23° 20' N. Pusad Town.— Head-quarters of the taluk of the same name in Yeotmal District, Berar, situated in 19° 55' N.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.7854480743408203,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "claim": {
+    "id": "S2/1383",
+    "text": "Kerala records highest ever daily Covid count, imposes lockdown on Sundays",
+    "lang": "dev"
+  },
+  "generated_queries": {
+    "english_translation": "Kerala records highest ever daily Covid count, imposes lockdown on Sundays",
+    "native_query": "Kerala records daily Covid count imposes lockdown Sundays",
+    "english_query": "Kerala records daily Covid count imposes lockdown Sundays"
+  },
+  "native_retrieval": [
+    {
+      "title": "Kerala Records 20728 New Covid Cases, Nearly Half Of ...",
+      "url": "https://www.ndtv.com/india-news/kerala-records-20-728-new-covid-cases-nearly-half-of-indias-one-day-surge-2500255",
+      "snippet": "Aug 2, 2021 — Despite the imposition of a complete weekend lockdown, Kerala recorded 20,728 fresh COVID-19 infections on Sunday. This is almost 50 per cent of"
+    },
+    {
+      "title": "Over 26000 Covid Cases Recorded In Kerala In A Day",
+      "url": "https://www.youtube.com/watch?v=VNIrASe1UW4",
+      "snippet": "Sunday lockdown across the state. The state recorded 29,682 new coronavirus cases on Saturday, the chief minister said. Over 26,000 Covid Cases"
+    },
+    {
+      "title": "Kerala records highest ever daily Covid count, imposes ...",
+      "url": "https://www.indiatoday.in/coronavirus-outbreak/story/kerala-covid-cases-positivity-rate-omicron-sunday-curfew-lockdown-1902436-2022-01-20",
+      "snippet": "Jan 20, 2022 — Kerala on January 20, Thursday recorded its highest ever daily Covid count as close to 50,000 new cases were reported in the last 24 hours."
+    },
+    {
+      "title": "Kerala imposes full Covid 19 lockdown on July 31, Aug 1 ...",
+      "url": "https://www.facebook.com/tv9gujarati/posts/kerala-imposes-full-covid-19-lockdown-on-july-31-aug-1-as-cases-rise-kerala-lock/2964830073769818",
+      "snippet": "The #weekend lockdown order was announced a day after Kerala registered 22,056 fresh #COVID-19 cases and 131 #deaths. The fresh infections"
+    },
+    {
+      "title": "COVID-19 pandemic in Kerala - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Kerala",
+      "snippet": "+ 3.2 COVID-19 testing in Kerala as on 11.11.2020. + 4.1 COVID-19 daily graph by total number of cases, recoveries and deaths. | COVID-19 pandemic in Kerala, India |. The first case of the COVID-19 pandemic in Kerala (which was also the first reported case in all of India) was confirmed in Thrissur on 30 January 2020. Initially, Kerala's success in containing COVID-19 was widely praised both nationally and internationally, Following high number of cases being reported in March, Kerala had, by April 30, reduced the rate of increase of new cases to less than 0.25% per day. There was a third surge in cases post-Onam, with a high number of new cases reported in late-October in Malappuram, Kozhikode, Ernakulam and Thrissur districts. As per the official reports from the Government of Kerala, up until September 9, 2022, there were 9,110 active COVID-19 cases, with a cumulative total of 6,767,856 confirmed cases, 6,686,948 recoveries, and 70,913 confirmed deaths."
+    },
+    {
+      "title": "India's Kerala state orders lockdown as COVID cases rise",
+      "url": "https://www.aljazeera.com/news/2021/7/29/indias-kerala-state-orders-lockdown-as-covid-cases-rise",
+      "snippet": "Jul 29, 2021 — India's southern state of Kerala has announced a two-day lockdown as federal authorities plan to send experts to fight the spread of infections."
+    }
+  ],
+  "english_retrieval": [
+    {
+      "title": "Kerala Records 20728 New Covid Cases, Nearly Half Of ...",
+      "url": "https://www.ndtv.com/india-news/kerala-records-20-728-new-covid-cases-nearly-half-of-indias-one-day-surge-2500255",
+      "snippet": "Aug 2, 2021 — Despite the imposition of a complete weekend lockdown, Kerala recorded 20,728 fresh COVID-19 infections on Sunday. This is almost 50 per cent of"
+    },
+    {
+      "title": "Over 26000 Covid Cases Recorded In Kerala In A Day",
+      "url": "https://www.youtube.com/watch?v=VNIrASe1UW4",
+      "snippet": "Sunday lockdown across the state. The state recorded 29,682 new coronavirus cases on Saturday, the chief minister said. Over 26,000 Covid Cases"
+    },
+    {
+      "title": "Kerala records highest ever daily Covid count, imposes ...",
+      "url": "https://www.indiatoday.in/coronavirus-outbreak/story/kerala-covid-cases-positivity-rate-omicron-sunday-curfew-lockdown-1902436-2022-01-20",
+      "snippet": "Jan 20, 2022 — Kerala on January 20, Thursday recorded its highest ever daily Covid count as close to 50,000 new cases were reported in the last 24 hours."
+    },
+    {
+      "title": "Kerala imposes full Covid 19 lockdown on July 31, Aug 1 ...",
+      "url": "https://www.facebook.com/tv9gujarati/posts/kerala-imposes-full-covid-19-lockdown-on-july-31-aug-1-as-cases-rise-kerala-lock/2964830073769818",
+      "snippet": "The #weekend lockdown order was announced a day after Kerala registered 22,056 fresh #COVID-19 cases and 131 #deaths. The fresh infections"
+    },
+    {
+      "title": "COVID-19 pandemic in Kerala - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Kerala",
+      "snippet": "+ 3.2 COVID-19 testing in Kerala as on 11.11.2020. + 4.1 COVID-19 daily graph by total number of cases, recoveries and deaths. | COVID-19 pandemic in Kerala, India |. The first case of the COVID-19 pandemic in Kerala (which was also the first reported case in all of India) was confirmed in Thrissur on 30 January 2020. Initially, Kerala's success in containing COVID-19 was widely praised both nationally and internationally, Following high number of cases being reported in March, Kerala had, by April 30, reduced the rate of increase of new cases to less than 0.25% per day. There was a third surge in cases post-Onam, with a high number of new cases reported in late-October in Malappuram, Kozhikode, Ernakulam and Thrissur districts. As per the official reports from the Government of Kerala, up until September 9, 2022, there were 9,110 active COVID-19 cases, with a cumulative total of 6,767,856 confirmed cases, 6,686,948 recoveries, and 70,913 confirmed deaths."
+    },
+    {
+      "title": "India's Kerala state orders lockdown as COVID cases rise",
+      "url": "https://www.aljazeera.com/news/2021/7/29/indias-kerala-state-orders-lockdown-as-covid-cases-rise",
+      "snippet": "Jul 29, 2021 — India's southern state of Kerala has announced a two-day lockdown as federal authorities plan to send experts to fight the spread of infections."
+    }
+  ],
+  "merged_results": [
+    {
+      "title": "Kerala Records 20728 New Covid Cases, Nearly Half Of ...",
+      "url": "https://www.ndtv.com/india-news/kerala-records-20-728-new-covid-cases-nearly-half-of-indias-one-day-surge-2500255",
+      "snippet": "Aug 2, 2021 — Despite the imposition of a complete weekend lockdown, Kerala recorded 20,728 fresh COVID-19 infections on Sunday. This is almost 50 per cent of"
+    },
+    {
+      "title": "Over 26000 Covid Cases Recorded In Kerala In A Day",
+      "url": "https://www.youtube.com/watch?v=VNIrASe1UW4",
+      "snippet": "Sunday lockdown across the state. The state recorded 29,682 new coronavirus cases on Saturday, the chief minister said. Over 26,000 Covid Cases"
+    },
+    {
+      "title": "Kerala records highest ever daily Covid count, imposes ...",
+      "url": "https://www.indiatoday.in/coronavirus-outbreak/story/kerala-covid-cases-positivity-rate-omicron-sunday-curfew-lockdown-1902436-2022-01-20",
+      "snippet": "Jan 20, 2022 — Kerala on January 20, Thursday recorded its highest ever daily Covid count as close to 50,000 new cases were reported in the last 24 hours."
+    },
+    {
+      "title": "Kerala imposes full Covid 19 lockdown on July 31, Aug 1 ...",
+      "url": "https://www.facebook.com/tv9gujarati/posts/kerala-imposes-full-covid-19-lockdown-on-july-31-aug-1-as-cases-rise-kerala-lock/2964830073769818",
+      "snippet": "The #weekend lockdown order was announced a day after Kerala registered 22,056 fresh #COVID-19 cases and 131 #deaths. The fresh infections"
+    },
+    {
+      "title": "COVID-19 pandemic in Kerala - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Kerala",
+      "snippet": "+ 3.2 COVID-19 testing in Kerala as on 11.11.2020. + 4.1 COVID-19 daily graph by total number of cases, recoveries and deaths. | COVID-19 pandemic in Kerala, India |. The first case of the COVID-19 pandemic in Kerala (which was also the first reported case in all of India) was confirmed in Thrissur on 30 January 2020. Initially, Kerala's success in containing COVID-19 was widely praised both nationally and internationally, Following high number of cases being reported in March, Kerala had, by April 30, reduced the rate of increase of new cases to less than 0.25% per day. There was a third surge in cases post-Onam, with a high number of new cases reported in late-October in Malappuram, Kozhikode, Ernakulam and Thrissur districts. As per the official reports from the Government of Kerala, up until September 9, 2022, there were 9,110 active COVID-19 cases, with a cumulative total of 6,767,856 confirmed cases, 6,686,948 recoveries, and 70,913 confirmed deaths."
+    },
+    {
+      "title": "India's Kerala state orders lockdown as COVID cases rise",
+      "url": "https://www.aljazeera.com/news/2021/7/29/indias-kerala-state-orders-lockdown-as-covid-cases-rise",
+      "snippet": "Jul 29, 2021 — India's southern state of Kerala has announced a two-day lockdown as federal authorities plan to send experts to fight the spread of infections."
+    }
+  ]
+}

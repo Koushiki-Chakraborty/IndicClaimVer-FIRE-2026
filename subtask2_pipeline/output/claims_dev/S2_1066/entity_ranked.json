@@ -1,0 +1,99 @@
+{
+  "claim": {
+    "id": "S2/1066",
+    "text": "Why are experts recommending wearing N95 masks instead of cloth masks right now?",
+    "lang": "dev"
+  },
+  "entity_ranked_evidence": [
+    {
+      "title": "Health experts say to mask up amid wildfire smoke - Modern Ghana",
+      "url": "https://www.modernghana.com/amp/videonews/684540",
+      "snippet": "Home  › NBC       18.07.2026. # Health experts say to mask up amid wildfire smoke. Health experts recommend wearing N95 or KN95 masks as wildfire smoke from Canada blanketing U.S. cities causes hazardous air quality conditions. For more context and news coverage of the most important stories of our day, click here: https://www.nbcnews.com. » Subscribe to NBC News: http://nbcnews.to/SubscribeToNBC » Subscribe to Here's the Scoop podcast: https://www.nbcnews.com/heres-the-scoop-daily-podcast » NBC News App: https://apps.nbcnews.com/mobile » Breaking News Alerts: https://link.nbcnews.com/join/5cj/breaking-news-signup? cid=sm\\_npd\\_nn\\_yt\\_bn-clip\\_190621 » Visit NBCNews.Com: http://nbcnews.to/ReadNBC » Find NBC News on Facebook: http://nbcnews.to/LikeNBC » Follow NBC News on Twitter: http://nbcnews.to/FollowNBC » Follow NBC News on Instagram: http://nbcnews.to/InstaNBC.",
+      "bm25_score_raw": 9.060039558748402,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.861518383026123,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 1
+    },
+    {
+      "title": "Ryanair window incident: Expert reveals who might be at fault - New York Post",
+      "url": "https://nypost.com/2026/07/18/lifestyle/ryanair-window-incident-expert-reveals-who-might-be-at-fault/",
+      "snippet": "That nightmare became a horrifying reality last week aboard a Ryanair flight over Greece — when a passenger was partially pulled from the aircraft after a window blew out, shortly after takeoff. The extraordinary incident on flight FR1879 was caused by a piece of debris that had become detached from the plane’s engine and shattered the window closest to victim Ljubisa Karovic’s seat. The Post reported that a video posted by the Federal Aviation Administration stated that a piece of the engine broke off and smashed the window, before leading to the emergency landing. On board Boeing’s 737-800 aircraft, one of the most widely used twin-engine passenger jets in the world, the 61-year-old traveled alongside his wife, Svetlana Maksimović, from Thessaloniki, Greece, with the intention of a safe landing in Germany. He was quickly pulled back into the plane with the help of his wife and other passengers wearing emergency oxygen masks.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.796389102935791,
+      "embedding_score_norm": 0.33024081438511665,
+      "embedding_rank": 2,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 2
+    },
+    {
+      "title": "Congo’s Ebola outbreak has killed nearly 1,000 people - New York Post",
+      "url": "https://nypost.com/2026/07/22/world-news/congos-ebola-outbreak-has-killed-nearly-1000-people/",
+      "snippet": "BUNIA, Congo — At least 999 people have died from the Ebola outbreak in Congo, according to official data published overnight into Wednesday, a grim toll in what’s already been declared the fastest Ebola outbreak in historythat is further complicated as some health workers have gone on strike. The latest update from Congo’s Ministry of Health shows that as of Monday, 2,473 cases have been recorded in the latest outbreak, and 999 people have died. It has also killed more people at a quicker rate than any outbreak on record, including the 2013-2016 outbreak that is considered the worst on record with over 11,000 deaths out of at least 28,000 cases. The World Health Organization has said that the scale of the outbreak ⁠is at least ⁠2-4 times the number of cases being documented, partly because the majority of reported cases are outside of contacts being monitored, and there are still localities in the epicenter that are hard to reach mainly due to rebel conflict.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.7960533499717712,
+      "embedding_score_norm": 0.32678808726395436,
+      "embedding_rank": 3,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 3
+    },
+    {
+      "title": "Ebola Deaths Surpass 1,000 in Congo as Virus Outpaces Response - Bloomberg Law News",
+      "url": "https://news.bloomberglaw.com/health-law-and-business/ebola-deaths-surpass-1-000-in-congo-as-virus-outpaces-response",
+      "snippet": "# Ebola Deaths Surpass 1,000 in Congo as Virus Outpaces Response. Confirmed Ebola deaths in Democratic Republic of Congo have surpassed 1,000, prompting Africa’s top public health official to warn the outbreak could become one of the worst on record unless transmission is rapidly brought under control. The number of fatal cases has doubled in just over two weeks, with the National Institute of Public Health reporting 2,536 cases and 1,033 deaths on Thursday. The death toll has climbed from 506 on July 4, with the epidemic spreading into two new provinces beyond its original epicenter in Ituri. A priest conducts a blessing ceremony for an orphan who died from Ebola virus disease in Bunia, Democratic Republic of Congo on June 19. ## Learn more about Bloomberg Law or Log In to keep reading:. Bloomberg Law provides trusted coverage of current events enhanced with legal analysis. Log in to keep reading or access research tools and resources. © 2026 Bloomberg Industry Group, Inc.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.7664626836776733,
+      "embedding_score_norm": 0.022491455527060358,
+      "embedding_rank": 4,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 4
+    },
+    {
+      "title": "At least 930 people have died in Congo's Ebola outbreak - VPM",
+      "url": "https://www.vpm.org/npr-news/2026-07-20/at-least-930-people-have-died-in-congos-ebola-outbreak",
+      "snippet": "*    On Air  Now Playing VPM News. *    On Air  Now Playing VPM Music. # At least 930 people have died in Congo's Ebola outbreak. Image 3: Health workers tend to an Ebola patient at the Rwampara Treatment Center in Ituri, Congo, Thursday, June 18, 2026. Health workers tend to an Ebola patient at the Rwampara Treatment Center in Ituri, Congo, Thursday, June 18, 2026. BUNIA, Congo — At least 930 people have died in Congo's Ebola outbreak, the country's Ministry of Health said Monday, with 37 new deaths recorded in a 24-hour span Friday into Saturday, one of the highest totals. The Ebola outbreak that was declared in eastern Congo on May 15 is the fastest-growing Ebola outbreak on record. Congo's Health Ministry said in its latest update that 724 patients are currently in isolation and in hospitals, and that it is intensifying response efforts in affected health zones.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.7662761211395264,
+      "embedding_score_norm": 0.020572933267298574,
+      "embedding_rank": 5,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 5
+    },
+    {
+      "title": "4 Seattle teens arrested after NE Portland gas station shooting, linked to more crimes - KATU",
+      "url": "https://katu.com/news/local/4-seattle-teens-arrested-for-ne-portland-gas-station-shooting-linked-to-more-crimes-carjacking-menacing-assault-attempted-murder-charges-caught",
+      "snippet": "Images of guns recovered during a SWAT search of a Northeast Portland home linked to a July 17, 2026 gas station shooting - Portland Police photos. (KATU) — Police arrested four teenagers from Seattle following a gas station shooting in Northeast Portland on Friday morning, saying members of the group were linked to a string of other violent crimes. According to police, several suspects with guns robbed the convenience store at the 76 station on Northeast Broadway at about 4:45 a.m. Friday. *On Tuesday, July 14, 2026 at 12:36 a.m., Portland Police Officers from North Precinct responded to a report of a robbery at gunpoint of a car, which was determined to have taken place at Northeast 73rd Avenue and Northeast Halsey Street. *On Friday, July 17, 2026 at 4:24 a.m., North Precinct Officers responded to a suspicious circumstances call at a convenience store in the 5800 block of Northeast Martin Luther King, Jr. Boulevard where a group of suspects wearing masks approached the front door and tried to get in.",
+      "bm25_score_raw": 1.1052446876740147,
+      "bm25_score_norm": 0.12199115473031098,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.7642755508422852,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 6
+    }
+  ]
+}

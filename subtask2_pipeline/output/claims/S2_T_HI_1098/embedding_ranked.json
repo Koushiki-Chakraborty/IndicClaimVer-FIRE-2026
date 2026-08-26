@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/HI/1098",
+    "text": "भाजपा से गठबंधन कर 2014 में कुछ हासिल नहीं हुआ: चंद्रबाबू नायडू",
+    "lang": "hindi"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Why does Chandrababu Naidu never win elections without ...",
+      "url": "https://www.quora.com/Why-does-Chandrababu-Naidu-never-win-elections-without-alliance-with-other-parties",
+      "snippet": "Why does Chandrababu Naidu never win elections without alliance with other parties?",
+      "bm25_score_raw": 1.818864145598904,
+      "bm25_score_norm": 0.29337457709629233,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.876654863357544,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "बीजेपी से गठबंधन कर हमें कुछ भी हासिल नहीं हुआ : चंद्रबाबू नायडू ...",
+      "url": "https://www.abplive.com/news/india/we-did-not-get-anything-in-coalition-with-bjp-chandrababu-naidu-806089",
+      "snippet": "आंध्र प्रदेश को विशेष राज्य का दर्जा नहीं देने के कारण मोदी सरकार से अलग हुए चंद्रबाबू नायडू ने कहा कि बीजेपी से गठबंधन करके हमें कुछ भी हासिल नहीं हुआ.",
+      "bm25_score_raw": 0.414286366326428,
+      "bm25_score_norm": 0.026717222844674933,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.8679800033569336,
+      "embedding_score_norm": 0.885648825452997,
+      "embedding_rank": 2
+    },
+    {
+      "title": "BJP announces alliance with Chandrababu Naidu's TDP",
+      "url": "https://www.ndtv.com/elections-news/bjp-announces-alliance-with-chandrababu-naidus-tdp-556375",
+      "snippet": "The BJP and Chandrababu Naidu's Telugu Desam Party have ignored protests by local leaders of both parties to announce an alliance for the national and state",
+      "bm25_score_raw": 2.341556043380872,
+      "bm25_score_norm": 0.39260698743920003,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8592445850372314,
+      "embedding_score_norm": 0.7704993769377394,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Chandrababu Naidu: Modi's coalition partner complements ...",
+      "url": "https://www.lowyinstitute.org/the-interpreter/chandrababu-naidu-modi-s-coalition-partner-complements-his-global-outlook",
+      "snippet": "India's 2024 general election resulted in a coalition government – the Narendra Modi-led Bharatiya Janata Party leading the National Democratic",
+      "bm25_score_raw": 0.3530994568382172,
+      "bm25_score_norm": 0.015100963752629074,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.8585426211357117,
+      "embedding_score_norm": 0.7612461559494196,
+      "embedding_rank": 4
+    },
+    {
+      "title": "BJP alliance made no difference to TDP in 2014, says ...",
+      "url": "https://www.thenewsminute.com/andhra-pradesh/bjp-alliance-made-no-difference-tdp-2014-says-andhra-cm-naidu-77740",
+      "snippet": "TDP MPs informed Naidu that many parties in Parliament supported the decision to pull out of the Modi government.",
+      "bm25_score_raw": 1.729361922733288,
+      "bm25_score_norm": 0.2763826907791488,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8566122055053711,
+      "embedding_score_norm": 0.7357996018058591,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Is TDP-BJP alliance limited to this Lok Sabha or will it go ...",
+      "url": "https://www.youtube.com/watch?v=BzismWeiLBo",
+      "snippet": "How Chandrababu Naidu turned Hyderabad into Cyberabad and why Kamal Haasan's Kannada-Tamil take was unnecessary, the Andhra CM explains in",
+      "bm25_score_raw": 1.3205411665660223,
+      "bm25_score_norm": 0.19876857583908847,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.8474184274673462,
+      "embedding_score_norm": 0.6146080993379669,
+      "embedding_rank": 6
+    },
+    {
+      "title": "Fact Check Story: बीजेपी का साथ नहीं छोड़ा है चंद्रबाबू नायडू ने ...",
+      "url": "https://www.jagran.com/fact-check/news-chandrababu-naidu-has-not-left-bjp-fake-post-goes-viral-23795045.html",
+      "snippet": "पड़ताल में वायरल पोस्‍ट भ्रामक साबित हुई। कई साल पुरानी खबर को अभी की बताकर झूठ फैलाने की कोशिश की जा रही है। चंद्रबाबू एनडीए गठबंधन में बने हुए हैं। वायरल खबर वर्ष 2018 की",
+      "bm25_score_raw": 0.2735573861082731,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.8303794860839844,
+      "embedding_score_norm": 0.39000240425033744,
+      "embedding_rank": 7
+    },
+    {
+      "title": "Key BJP allies - TDP chief N Chandrababu Naidu and ...",
+      "url": "https://www.facebook.com/ndtv/posts/key-bjp-allies-tdp-chief-n-chandrababu-naidu-and-bihar-chief-minister-and-jdu-su/893821112783491",
+      "snippet": "How can Narendra Modi PM of India. Presently he resigned. Yet not taken oath. 2y · 2 likes.",
+      "bm25_score_raw": 1.3917080557821553,
+      "bm25_score_norm": 0.21227952173951523,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8273570537567139,
+      "embedding_score_norm": 0.3501609904882828,
+      "embedding_rank": 8
+    },
+    {
+      "title": "नीतीश कुमार और चंद्रबाबू नायडू से अब भी कांग्रेस को उम्मीद ...",
+      "url": "https://www.bbc.com/hindi/articles/cekkrl3z82do",
+      "snippet": "2014 के लोकसभा चुनाव के बाद राष्ट्रीय जनतांत्रिक गठबंधन यानी एनडीए की कोई अहमियत नहीं थी. यह गठबंधन एक प्रतीक से ज़्यादा नहीं था. 2014 से 2020 के बीच एनडीए के कई अहम साथी अलग भी हुए.",
+      "bm25_score_raw": 5.540908002461869,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8255190849304199,
+      "embedding_score_norm": 0.3259330612706699,
+      "embedding_rank": 9
+    },
+    {
+      "title": "चंद्रबाबू नायडू ने भाजपा से अपना नाता तोड़ लिया है और गठबंधन से ...",
+      "url": "https://www.facebook.com/tarique.anwar.kishanganj/videos/%E0%A4%9A%E0%A4%82%E0%A4%A6%E0%A5%8D%E0%A4%B0%E0%A4%AC%E0%A4%BE%E0%A4%AC%E0%A5%82-%E0%A4%A8%E0%A4%BE%E0%A4%AF%E0%A4%A1%E0%A5%82-%E0%A4%A8%E0%A5%87-%E0%A4%AD%E0%A4%BE%E0%A4%9C%E0%A4%AA%E0%A4%BE-%E0%A4%B8%E0%A5%87-%E0%A4%85%E0%A4%AA%E0%A4%A8%E0%A4%BE-%E0%A4%A8%E0%A4%BE%E0%A4%A4%E0%A4%BE-%E0%A4%A4%E0%A5%8B%E0%A5%9C-%E0%A4%B2%E0%A4%BF%E0%A4%AF%E0%A4%BE-%E0%A4%B9%E0%A5%88-%E0%A4%94%E0%A4%B0-%E0%A4%97%E0%A4%A0%E0%A4%AC%E0%A4%82%E0%A4%A7%E0%A4%A8-%E0%A4%B8%E0%A5%87-%E0%A4%85%E0%A4%B2%E0%A4%97-%E0%A4%B9%E0%A5%8B%E0%A4%A8%E0%A5%87-%E0%A4%95%E0%A4%BE-%E0%A4%90%E0%A4%B2%E0%A4%BE%E0%A4%A8-/1360427765774788",
+      "snippet": "चंद्रबाबू नायडू ने भाजपा से अपना नाता तोड़ लिया है और गठबंधन से अलग होने का ऐलान कर दिया है अब कुर्सी कुमार पलट जाए तो कुछ बात बने !!!",
+      "bm25_score_raw": 2.350276971171865,
+      "bm25_score_norm": 0.39426264479451584,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8185228109359741,
+      "embedding_score_norm": 0.23370884685553914,
+      "embedding_rank": 10
+    },
+    {
+      "title": "India गठबंधन में शामिल होंगे चंद्रबाबू नायडू? दिल्ली में बड़ी ...",
+      "url": "https://www.youtube.com/watch?v=P6PE3wU_5n8",
+      "snippet": "India गठबंधन में शामिल होंगे चंद्रबाबू नायडू? दिल्ली में बड़ी हलचल! Naidu | Congress| TMC| BJP |. @PublicReactionBank330 likes10K views11 days ago",
+      "bm25_score_raw": 0.9945260430648275,
+      "bm25_score_norm": 0.13687500784894702,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.8030222058296204,
+      "embedding_score_norm": 0.029381353388657282,
+      "embedding_rank": 11
+    },
+    {
+      "title": "भाजपा गठबंधन में फिर शामिल होगी TDP? चंद्रबाबू नायडू ने पढ़े ...",
+      "url": "https://www.livehindustan.com/national/story-chandrababu-naidu-praises-modi-policies-as-tdp-hints-at-alliance-with-bjp-soon-8089859.html",
+      "snippet": "गठबंधन छोड़ने को लेकर नायडू को खेद है। नायडू पहले भी कई बार कह चुके हैं कि उनकी पार्टी ने केवल राज्य के लाभ के लिए एनडीए सरकार से असहमति जताई थी, लेकिन यह पार्टी के लिए नुकसानदेह साबित हुआ।,",
+      "bm25_score_raw": 1.6830265904713533,
+      "bm25_score_norm": 0.2675859852554882,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8007932901382446,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1255",
+    "text": "India logs 12,847 new Covid-19 cases; Maharashtra tops with 4,255 fresh infections",
+    "lang": "english"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Coronavirus | Maharashtra records highest surge",
+      "url": "https://www.thehindu.com/news/cities/mumbai/coronavirus-maharashtra-records-highest-surge/article31909784.ece/amp",
+      "snippet": "Maharashtra recorded its highest single-day surge of 3,890 COVID-19 cases on Wednesday, pushing its tally to 1,42,900.",
+      "bm25_score_raw": 1.017994270372299,
+      "bm25_score_norm": 0.014429132450133568,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8604714870452881,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "70% of India’s Active Caseload from Maharashtra, Kerala, Delhi, Rajasthan, Uttar Pradesh, Karnataka, West Bengal, and Chhattisgarh",
+      "url": "https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=1676360",
+      "snippet": "The Active Caseload of India stands at **4,55,555** today**.**  Present contribution of Active Caseload to India’s total positive cases is **4.89%.**. **About 70%** (69.59%) of the total Active Cases is contributed by eight States/UT i.e. Maharashtra, Kerala, Delhi, Rajasthan, Uttar Pradesh, Karnataka, West Bengal and Chhattisgarh. Maharashtra leads the tally with 87,014 total active COVID cases, as of today. The change in active cases for the States/UTs in the last 24 hours is in the figure given below. **43,082** new confirmed COVID cases have been registered in the last 24 hours in the country. Of these, **76.93%** is contributed by ten States/UTs. Maharashtra leads the tally with 6,406 new COVID cases. Delhi has reported 5,475 new cases, while Kerala registered another 5,378 new cases in the last 24 hours. **78.15%** of the new recovered cases are observed to be concentrated in 10 States/UTs. Kerala has reported the maximum number of single day recoveries with 5,970 newly discharged cases.",
+      "bm25_score_raw": 2.7787679818576487,
+      "bm25_score_norm": 0.5490607132935548,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8507463932037354,
+      "embedding_score_norm": 0.640600907528966,
+      "embedding_rank": 2
+    },
+    {
+      "title": "COVID-19: Maha logs 22444 new cases, 50 deaths; five found infected ...",
+      "url": "https://theprint.in/india/covid-19-maha-logs-22444-new-cases-50-deaths-five-found-infected-with-omicron/816928?amp=",
+      "snippet": "Maharashtra on Sunday reported 22,444 new coronavirus positive cases, which increased its caseload to 77,05,969, while 50 patients succumbed to",
+      "bm25_score_raw": 4.263906664192999,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.849979817867279,
+      "embedding_score_norm": 0.6122714657033349,
+      "embedding_rank": 3
+    },
+    {
+      "title": "India's COVID-19 Surge Continues, Maharashtra Reports Most Cases",
+      "url": "https://science.thewire.in/health/chart-indias-covid-19-surge-continues-maharashtra-reports-most-cases",
+      "snippet": "COVID-19 in Maharashtra made up 57% of all Indian coronavirus deaths, followed by around 20% of deaths in Punjab. Tuesday's 47,000 new",
+      "bm25_score_raw": 0.9806457472042188,
+      "bm25_score_norm": 0.003088833663713381,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8411206007003784,
+      "embedding_score_norm": 0.2848715802458258,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Maharashtra Worst Impacted State With Total COVID-19 Cases ...",
+      "url": "https://www.youtube.com/watch?v=qo7SmQ2HEIc",
+      "snippet": "Maharashtra remains the worst impacted state with a total number of COVID-19 cases crossing the 12,200 mark. 790 new positive cases and 36",
+      "bm25_score_raw": 0.970472878056389,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8377388715744019,
+      "embedding_score_norm": 0.15989691175822723,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Latest Covid-19 Cases Maharashtra, India",
+      "url": "https://www.kaggle.com/datasets/anandhuh/latest-covid19-cases-maharashtra-india",
+      "snippet": "Anandhu H  · Updated 4 years ago. # Latest Covid-19 Cases Maharashtra, India. Data CardCode (6)Discussion (0)Suggestions (0). District-wise Covid-19 data of Maharashtra, a state in India as on **April 29, 2022**. The data include number of **positive cases, active cases, recovered, deceased cases, recovery rate and fatality rate**. 2.   **Positive Cases** - Number of positive cases. 3.   **Active Cases** - Number of active cases. 4.   **Recovered** - Number of recovered cases. 6.   **Recovery Rate (%)** - Ratio of number of recovered cases to positive cases. 7.   **Fatality Rate (%)** - Ratio of number of deaths to positive cases. ### Thank You. ## Maharashtra Latest Covid Cases.csv(1.4 kB). Name of districts in Maharashtra, India grid_3x3 Positive Cases sort. Number of positive cases grid_3x3 Active Cases sort. Number of active cases grid_3x3 Recovered sort. Number of recovered cases grid_3x3 Deceased sort. Ratio of number of recovered cases to positive cases grid_3x3 Fatality Rate(%)sort. Ratio of number of deaths to positive cases.",
+      "bm25_score_raw": 2.6504003581090343,
+      "bm25_score_norm": 0.5100838787541857,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8334121704101562,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6
+    }
+  ]
+}

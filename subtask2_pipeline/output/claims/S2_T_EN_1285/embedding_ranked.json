@@ -1,0 +1,76 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1285",
+    "text": "Hearing Of Interim Application U/S 9(1) Arbitration Act Is Barred By Constitution Of Arbitral Tribunal Even If Court Has Already ‘Entertained’ It: Calcutta HC",
+    "lang": "english"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Hearing Of Interim Application U/S 9(1) Arbitration Act Not Barred By ...",
+      "url": "https://www.livelaw.in/amp/high-court/calcutta-high-court/calcutta-high-court-arbitration-act-section-91-interim-application-entertained-no-bar-section-93-arbitral-tribunal-233386",
+      "snippet": "The Calcutta High Court has recently held that that the power of a Court to continue hearing an application for interim relief under Section 9(1) of the",
+      "bm25_score_raw": 2.92984035718091,
+      "bm25_score_norm": 0.7331406657821744,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.9409158229827881,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Arbitration Cases Monthly Round-Up: July 2023",
+      "url": "https://www.livelawbiz.com/amp/round-ups/monthly/arbitration-cases-monthly-round-up-supreme-court-high-courts-234457",
+      "snippet": "The Calcutta High Court has recently held that that the power of a Court to continue hearing an application for interim relief under Section 9(1)",
+      "bm25_score_raw": 1.4108093499424978,
+      "bm25_score_norm": 0.32658346008491035,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.9079385995864868,
+      "embedding_score_norm": 0.5831558390775673,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Interim Measures U/S 9 Of Arbitration Can't Be Sought By MSME During ...",
+      "url": "https://www.livelawbiz.com/amp/high-court/calcutta-high-court/interim-measures-us-9-of-arbitration-cant-be-sought-by-msme-during-conciliation-arbitration-act-applies-only-after-conciliation-fails-calcutta-hc-293142",
+      "snippet": "The Calcutta High Court bench of Justice Shampa Sarkar has held that interim measures under Section 9 of the Arbitration Act can be sought",
+      "bm25_score_raw": 0.1905864751090049,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8984346985816956,
+      "embedding_score_norm": 0.4630230555432078,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Court Is Not Appropriate Forum To Seek Interim Relief During ...",
+      "url": "https://www.livelaw.in/amp/high-court/calcutta-high-court/appropriate-forum-for-seeking-interim-relief-during-arbitration-proceedings-is-arbitral-tribunal-us-17-of-arbitration-act-not-court-us-9-calcutta-hc-293143",
+      "snippet": "The Calcutta High Court bench of Justice Shampa Sarkar has held that the appropriate forum for seeking interim relief after the constitution of the Arbitral",
+      "bm25_score_raw": 3.9269143176649015,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8800749778747559,
+      "embedding_score_norm": 0.23094947309257402,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Court Is Not Appropriate Forum To Seek Interim Relief During ...",
+      "url": "https://www.livelawbiz.com/amp/high-court/calcutta-high-court/appropriate-forum-for-seeking-interim-relief-during-arbitration-proceedings-is-arbitral-tribunal-us-17-of-arbitration-act-not-court-us-9-calcutta-hc-293143",
+      "snippet": "The Calcutta High Court bench of Justice Shampa Sarkar has held that the appropriate forum for seeking interim relief after the constitution",
+      "bm25_score_raw": 1.4079904452278984,
+      "bm25_score_norm": 0.32582900147383964,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8694824576377869,
+      "embedding_score_norm": 0.09705614444051827,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Calcutta High Court: Referral Court Can Reject Claims Barred By ...",
+      "url": "https://www.verdictum.in/amp/court-updates/high-courts/calcutta-high-court/section-11-limitation-time-barred-sri-swapan-paul-vs-ms-paul-construction-1573317",
+      "snippet": "The Calcutta High Court has held that the referral Court can reject claims barred by limitation in an application filed under Section 11(6) of",
+      "bm25_score_raw": 1.7964235980325756,
+      "bm25_score_norm": 0.4297902086196674,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.861804187297821,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6
+    }
+  ]
+}

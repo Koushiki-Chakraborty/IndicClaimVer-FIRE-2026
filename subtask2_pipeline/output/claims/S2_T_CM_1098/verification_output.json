@@ -1,0 +1,6 @@
+{
+  "ID": "S2/T/CM/1098",
+  "Evidence": "Rajasthan ke discoms ne 25 saalon baad bijli tariff cut kiya hai, jisme 0-50 units tak ke liye charge ₹4.75 per unit hai, aur 51-150 units ke liye ₹6.00 per unit kiya gaya hai. 1.35 crore domestic consumers me se 1.04 crore free electricity scheme ke under hain, jisme 62 lakh consumers 0-100 units tak free electricity payenge. Is mahine bijli bill badhne ki koi baat nahi hai, balki kuch categories me tariff ghataye gaye hain (Source 2).",
+  "Prediction": "REFUTES",
+  "Justification": "Retrieved evidence se pata chalta hai ki Rajasthan me bijli tariff ghataye gaye hain, aur kuch consumers ko free electricity mil rahi hai. Isliye, claim ki core assertion ki bijli bill is mahine badhe hain, yeh sahi nahi hai. Source 2 me yeh clearly mention hai ki 0-100 units tak ke liye consumers ko koi bill nahi dena padega, jo claim ko refute karta hai."
+}

@@ -1,0 +1,57 @@
+{
+  "claim": {
+    "id": "S2/1086",
+    "text": "All BJP leaders praise Modi but he never praises BJP leaders: Kapil Sibal",
+    "lang": "dev"
+  },
+  "ranked_evidence": [
+    {
+      "title": "All BJP leaders praise Modi but he never ...",
+      "url": "https://www.indiatvnews.com/politics/national/all-bjp-leaders-praise-modi-but-he-never-praises-kapil-sibal-13604.html",
+      "snippet": "Narendra Modi for being arrogant. Sibal further said that all big leaders of BJP praise Modi and talk about his achievements but Modi himself",
+      "bm25_score_raw": 3.864793007290224,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Global praise for incredible leadership! World leaders ...",
+      "url": "https://www.instagram.com/reel/DYl7VScArV2?hl=en",
+      "snippet": "Global praise for incredible leadership! World leaders commend PM Modi's vision and India's rising global influence.. View all 1,359 comments.",
+      "bm25_score_raw": 2.533498739830076,
+      "bm25_score_norm": 0.32832361052361825,
+      "bm25_rank": 2
+    },
+    {
+      "title": "Kapil Sibal not joining fellow Congress leaders' Modi ...",
+      "url": "https://www.republicworld.com/india/politics/kapil-sibal-not-joining-fellow-congress-leaders-modi-praise-hits-out",
+      "snippet": "Kapil Sibal doesn't join Congress leaders who have been singing PM Modi's praises. He has hit out at BJP & asked if it would advise PM to not",
+      "bm25_score_raw": 2.3965497045671125,
+      "bm25_score_norm": 0.25922886881546714,
+      "bm25_rank": 3
+    },
+    {
+      "title": "Kapil Sibal pitches for coalition govt, claims violence will ...",
+      "url": "https://indianexpress.com/article/india/no-difference-between-party-and-state-under-pm-narendra-modi-regime-kapil-sibal-5313477",
+      "snippet": "Kapil Sibal pitches for coalition govt, claims violence will continue if BJP comes to power with majority ... Modi regime: Kapil Sibal Senior",
+      "bm25_score_raw": 2.2385770568141172,
+      "bm25_score_norm": 0.17952710770055846,
+      "bm25_rank": 4
+    },
+    {
+      "title": "Kapil Sibal criticizes PM Modi over protest politics. During a ...",
+      "url": "https://www.facebook.com/Zynoro718/posts/kapil-sibal-criticizes-pm-modi-over-protest-politics-during-a-press-conference-t/1463843892468815",
+      "snippet": "Public Kapil Sibal took a dig at PM Modi and claimed the conviction of the corrupt was higher during the United Progressive Alliance (UPA) rule.",
+      "bm25_score_raw": 2.1496500017102766,
+      "bm25_score_norm": 0.13466084127182323,
+      "bm25_rank": 5
+    },
+    {
+      "title": "Kapil Sibal, Narendra Modi",
+      "url": "https://www.india.com/news/india/has-anyone-in-bjp-asked-pm-not-to-demonise-opposition-asks-kapil-sibal-as-cong-leaders-praise-modi-3754667",
+      "snippet": "three senior leaders from his party publicly said that demonising Prime Minister Narendra Modi was wrong and he should be praised for doing the",
+      "bm25_score_raw": 1.8827458662585377,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6
+    }
+  ]
+}

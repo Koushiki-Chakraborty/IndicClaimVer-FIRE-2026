@@ -1,0 +1,6 @@
+{
+  "ID": "S2/T/EN/1197",
+  "Evidence": "A lab study suggests that small coronavirus respiratory particles can remain airborne and moist longer than previously thought, potentially traveling up to 200 feet. The research indicates that mucus surrounding these droplets slows evaporation, allowing the virus to remain infectious for longer periods. Reports of infections occurring downwind from an infected person support this finding (Source 1). Additionally, experts acknowledge that aerosolized particles can linger in the air and contribute to transmission, although there is ongoing debate about the extent of this mode of transmission (Source 2).",
+  "Prediction": "SUPPORTS",
+  "Justification": "The retrieved evidence directly supports the claim that airborne coronavirus particles may travel farther than previously thought. Source 1 states that droplets encased in mucus could remain airborne for up to 30 minutes and travel approximately 200 feet, while Source 2 discusses the increasing evidence for airborne transmission, indicating that smaller aerosolized particles can linger in the air and contribute to infection spread."
+}

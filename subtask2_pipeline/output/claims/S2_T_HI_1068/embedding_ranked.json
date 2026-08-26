@@ -1,0 +1,131 @@
+{
+  "claim": {
+    "id": "S2/T/HI/1068",
+    "text": "दिल्ली के गंगाराम अस्पताल के प्रमुख डॉ डी एस राणा ने कहा कि अस्पताल में ऑक्सीजन की कोई कमी नहीं है और सरकार ने पर्याप्त आपूर्ति सुनिश्चित की है।",
+    "lang": "hindi"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Dr DC Rana over Oxygen supply in Gangaram Hospital",
+      "url": "https://www.youtube.com/watch?v=4YSgE3pJFBc",
+      "snippet": "DC Rana of Sir Gangaram Hospital, Delhi in an exclusive conversation with ABP News made many shocking revelations over the supply of oxygen ...Read more",
+      "bm25_score_raw": 4.647115924776252,
+      "bm25_score_norm": 0.3532290033168763,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.9086238741874695,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Delhi: Dr. DS Rana, Chairman, Sir Ganga Ram Hospital ...",
+      "url": "https://www.facebook.com/ZeeNewsEnglish/posts/delhi-dr-ds-rana-chairman-sir-ganga-ram-hospital-talks-about-the-shortage-of-bed/10158946981921936",
+      "snippet": "Due to a high no. of cases, requirement of medical oxygen in the hospital has gone up three times. There is an acute shortage of oxygen in our",
+      "bm25_score_raw": 2.080945270856192,
+      "bm25_score_norm": 0.12880691202860195,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.908447265625,
+      "embedding_score_norm": 0.9973495917942002,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Dr. DS Rana, Sir Ganga Ram Hospital Speaks On The ...",
+      "url": "https://www.youtube.com/watch?v=84t3P6LRPik",
+      "snippet": "Dr. DS Rana from Sir Ganga Ram Hospital speaks on the oxygen crisis that the institution is facing. #OxygenShortage #COVID19",
+      "bm25_score_raw": 1.8444522002641455,
+      "bm25_score_norm": 0.10812462833231826,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.904569149017334,
+      "embedding_score_norm": 0.9391497404603641,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Delhi: Dr. DS Rana, Chairman, Sir Ganga Ram Hospital ...",
+      "url": "https://www.facebook.com/ZeeNewsEnglish/videos/delhi-dr-ds-rana-chairman-sir-ganga-ram-hospital-talks-about-the-shortage-of-bed/230183755548829",
+      "snippet": "Dr. DS Rana, Chairman, Sir Ganga Ram Hospital talks about the shortage of beds, meds, and oxygen. 34000+ cases in Karnataka,",
+      "bm25_score_raw": 2.1768992928938022,
+      "bm25_score_norm": 0.13719848265945855,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.9023686647415161,
+      "embedding_score_norm": 0.9061265308276555,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Ganga Ram Hospital issues another SOS: Only 1 hour ...",
+      "url": "https://www.nationalheraldindia.com/india/ganga-ram-hospital-issues-another-sos-only-1-hour-oxygen-left",
+      "snippet": "Dr DS Rana saying the hospital had only one hour of oxygen left. , have been battling the shortage of oxygen. Today 21 patients have died. Dr",
+      "bm25_score_raw": 3.1631031111822594,
+      "bm25_score_norm": 0.2234460293682798,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8922173976898193,
+      "embedding_score_norm": 0.7537839653434305,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Sir Ganga Ram Hospital chairman denies reports of ...",
+      "url": "https://m.economictimes.com/news/politics-and-nation/sir-ganga-ram-hospital-chairman-denies-reports-of-patients-dying-due-to-lack-of-oxygen/videoshow/82213329.cms",
+      "snippet": "Sir Ganga Ram Hospital chairman Dr DS Rana on April 23 denied the reports of patients dying due to lack of oxygen in the hospital.",
+      "bm25_score_raw": 2.137504053331518,
+      "bm25_score_norm": 0.1337532082635938,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8845375776290894,
+      "embedding_score_norm": 0.6385310137118149,
+      "embedding_rank": 6
+    },
+    {
+      "title": "\"If we don't get Oxygen, we will face a crisis in the next 1 hour ...",
+      "url": "https://www.facebook.com/IndiaToday/videos/if-we-dont-get-oxygen-we-will-face-a-crisis-in-the-next-1-hour-dr-ds-rana-sir-ga/225817596005375",
+      "snippet": "\"If we don't get Oxygen, we will face a crisis in the next 1 hour\": Dr. DS Rana, Sir Ganga Ram Hospital #OxygenShortage #COVID19 #NewsTrack",
+      "bm25_score_raw": 0.7737209951854068,
+      "bm25_score_norm": 0.014484816855123286,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.8800774812698364,
+      "embedding_score_norm": 0.5715972488709153,
+      "embedding_rank": 7
+    },
+    {
+      "title": "Dr. DS Rana, Chairman, Sir Gangaram Hospital reacts to ...",
+      "url": "https://www.facebook.com/cnnnews18/videos/delhis-gangaram-hospital-chairman-reacts-to-fir-lodged-against-hospital-by-delhi/3275825219103488",
+      "snippet": "Dr. DS Rana, Chairman, Sir Gangaram Hospital reacts to the FIR filed against the hospital by the Delhi government for not using the RT- PCR app for conducting ...Read more",
+      "bm25_score_raw": 3.9261025504783684,
+      "bm25_score_norm": 0.29017344266678274,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8709930181503296,
+      "embedding_score_norm": 0.4352644728120715,
+      "embedding_rank": 8
+    },
+    {
+      "title": "D. S. Rana",
+      "url": "https://en.wikipedia.org/wiki/D._S._Rana",
+      "snippet": "D. S. Rana is an Indian nephrologist and the Chairman of the Department of Nephrology at Sir Ganga Ram Hospital, New Delhi, known for his proficiency in ...Read more",
+      "bm25_score_raw": 0.6080933079659796,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.8463334441184998,
+      "embedding_score_norm": 0.06519217024869828,
+      "embedding_rank": 9
+    },
+    {
+      "title": "Dr. (Prof.) D.S. Rana - Delhi",
+      "url": "https://sgrh.com/doctor-details/nephrology/prof-ds-rana",
+      "snippet": "Sir Ganga Ram Hospital Sir Ganga Ram Hospital Marg, Rajinder Nagar, New Delhi, Delhi - 110060. gangaram@sgrh.com +91 11-42254000. NABH ...Read more",
+      "bm25_score_raw": 2.455591933104327,
+      "bm25_score_norm": 0.1615712908540943,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8430063724517822,
+      "embedding_score_norm": 0.015261986097656317,
+      "embedding_rank": 10
+    },
+    {
+      "title": "Corona Ko Harana Hai I Dr D S Rana I Sir Ganga Ram ...",
+      "url": "https://www.youtube.com/watch?v=cbNHj72OKgU",
+      "snippet": "संक्रमण कम होने के बाद भी कितना ज़रूरी है मास्क लगाना ? किसको है दोबारा संक्रमण का खतरा ? बच्चों की इम्यूनिटी कैसे करें मज़बूत ? जानिए दिल्ली के सर गंगाराम अस्पताल के चेयरमैन डॉ. डी एस राणा से.",
+      "bm25_score_raw": 12.042665720998917,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8419893980026245,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 11
+    }
+  ]
+}

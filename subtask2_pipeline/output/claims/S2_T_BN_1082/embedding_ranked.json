@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/BN/1082",
+    "text": "করোনায় মৃতদের অন্ত্যেষ্টি, কুশপুতুল দাহ করার নিদান দিলেন বৈদিক পণ্ডিতরা",
+    "lang": "bengali"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Indians are forced to change rituals for their dead as COVID-19 rages through cities and villages",
+      "url": "https://theconversation.com/indians-are-forced-to-change-rituals-for-their-dead-as-covid-19-rages-through-cities-and-villages-160076",
+      "snippet": "# **Indians are forced to change rituals for their dead as COVID‑19 rages through cities and villages**. Mass cremations in the city of Bengaluru, India, due to the large number of COVID-19 deaths. The majority of India’s population are Hindu, who favor cremation as a way of disposing of the body. Workers digging as they prepare to bury the body of a person who died of COVID-19 in Guwahati, Assam. As a scholar interested in the ways Asian societies tell stories about the afterlife and prepare the deceased for it, I argue that the coronavirus crisis represents an unprecedented cultural cataclysm that has forced the Indian culture to challenge the way it handles its dead. The workers who run shmashana often belong to the Dom ethnicity and have been doing this work for generations; they are lower caste and subsequently perceived as polluted for their intimate work with dead bodies. Relatives gather around the body of a man who died of COVID-19 in India, to perform religious rituals.",
+      "bm25_score_raw": 1.7932614482833422,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8705393075942993,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Scientific theology behind the importance of collecting cremated ashes of COVID-19 dead patients - MedCrave online",
+      "url": "https://medcraveonline.com/JBMOA/scientific-theology-behind-the-importance-of-collecting-cremated-ashes-of-covid-19-dead-patients.html",
+      "snippet": "# Scientific theology behind the importance of collecting cremated ashes of COVID-19 dead patients. **Correspondence:** Ananda Kumar S, Department of Chemistry, Anna University, India. The purpose of this short review is to understand that the cremated ashes of COVID-19 deceased patients are non-infectious and safer to store. Like any of us, who love to hold our deceased ones dearer this pandemic has raised several doubts and worries whether it is safe to collect their ashes as these viruses could spread from the ashes too. It changes its state from water to vapour and returns back to the earth in form or rain and other water bodies. These last rites performed are to free the soul from its body and to return the body to that 5 elements and its origins. With perspective to the dead, the importance of cremation is to purify the soul and return it to the universe (sukshma sharir).",
+      "bm25_score_raw": 1.630149202394053,
+      "bm25_score_norm": 0.9090415700145488,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8660452365875244,
+      "embedding_score_norm": 0.9686671985904021,
+      "embedding_rank": 2
+    },
+    {
+      "title": "In India, Muslims are performing last rites for Hindus who died of COVID-19",
+      "url": "https://religionunplugged.com/news/2021/4/27/in-india-muslims-are-performing-last-rites-for-hindus-who-died-of-covid-during-ramadan",
+      "snippet": "Muslims are performing last rites for Hindus who died of COVID-19 Volunteers cremate and perform last rites for a COVID victim.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.8560925722122192,
+      "embedding_score_norm": 0.8992769161721438,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Coronavirus cremations would be 'horrific' for Muslims, but burial rituals ...",
+      "url": "https://www.abc.net.au/news/2020-04-01/coronavirus-cremations-and-muslim-jewish-death-rites/12105842",
+      "snippet": "As COVID-19 spreads globally, and the fatalities rise, Muslim and Jewish communities alike are being forced to reconsider ancient death and burial rites.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.848089873790741,
+      "embedding_score_norm": 0.8434818564138367,
+      "embedding_rank": 4
+    },
+    {
+      "title": "HINDU MANAGEMENT OF THE DEAD AND COVID-19",
+      "url": "https://www.icrc.org/en/download/file/122920/002_hinduism_management_of_the_dead_and_covid-19_web.pdf",
+      "snippet": "INTRODUCTION The outbreak of the COVID-19 pandemic has meant that last rites have to be accelerated and adapted to minimize the number of people involved, and close contact with the dead body is not possible without Personal Protective Equipment (PPE). This document will aid in understanding the Hindu perspective on management of the dead, and how last rites might be adapted to minimize the possible risk of further infection. For 10 days after the cre­ mation, mourning immediate family members are considered impure and subject to various taboos.5 IMPACT OF COVID-19 While Hindu last rites are therefore flexible and already well adapted to minimizing contact with the dead body, the Government of India has published the following guidelines related to the final rites of those who are confirmed or believed to have died due to COVID-19.6 • • Crematorium staff should be sensitized to the possible risk of infection and provided with personal protective equipment (PPE) so that COVID-19.",
+      "bm25_score_raw": 1.2590931755726265,
+      "bm25_score_norm": 0.7021247106928743,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8471164107322693,
+      "embedding_score_norm": 0.8366948420020279,
+      "embedding_rank": 5
+    },
+    {
+      "title": "India continues mass cremations of people who died from Covid as ...",
+      "url": "https://www.youtube.com/watch?v=GTqMZELYfQQ",
+      "snippet": "Dozens of bodies of people who died from the coronavirus disease have been cremated at a mass cremation site in New Delhi as cases surged in",
+      "bm25_score_raw": 1.271053870700463,
+      "bm25_score_norm": 0.7087945106483055,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8449975252151489,
+      "embedding_score_norm": 0.8219219069465915,
+      "embedding_rank": 6
+    },
+    {
+      "title": "কর | Tax News",
+      "url": "https://www.prothomalo.com/topic/%E0%A6%95%E0%A6%B0",
+      "snippet": "উৎসে কর আদায় কর কর্মকর্তারা বিনা বাধায় ব্যবসাপ্রতিষ্ঠানে প্রবেশ করতে পারবেন, এনবিআরের ৫ নির্দেশনা · আয়কর নিরীক্ষায় পড়লে কী করবেন? · মুক্তবাণিজ্য এলাকা পণ্য আমদানিতে শুল্কমুক্ত সুবিধা কীভাবে পাবেন ব্যবসায়ীরা, তা জানাল কেন্দ্রীয় ব্যাংক.Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.7580804228782654,
+      "embedding_score_norm": 0.2159331937033528,
+      "embedding_rank": 7
+    },
+    {
+      "title": "কর কমিশনার: হোম",
+      "url": "http://tax.dhakadiv.gov.bd",
+      "snippet": "জরুরি সেবা নম্বরসমূহ · ৩৩৩. সরকারি তথ্য ও সেবা · ৯৯৯. জরুরি সেবা · ১০২. ফায়ার সার্ভিস হটলাইন · ১৬১০৭. বিআরটিএ সার্ভিস পোর্টাল (বিএসপি) · ১০৩. সুপ্রীম কোর্ট হেল্পলাইন · ১০৯. নারী ও শিশু নির্যাতন প্রতিরোধ · ১০৬. দুদক.Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.7548073530197144,
+      "embedding_score_norm": 0.19311324988779735,
+      "embedding_rank": 8
+    },
+    {
+      "title": "কর - উইকিপিডিয়া",
+      "url": "https://bn.wikipedia.org/wiki/%E0%A6%95%E0%A6%B0",
+      "snippet": "কর গঠিত হয় প্রত্যক্ষ এবং পরোক্ষ করের সমন্বয়ে এবং এই কর টাকার মাধ্যমে কিংবা এর সমতুল্য শ্রমের বিনিময়ে পরিশোধ করা হয়। অধিকাংশ দেশে সর্বসাধারণ/সাধারণ/স্বীকৃত জাতীয় প্রয়োজন কিংবা সরকারি সমাবেশের জন্য বিভিন্ন স্থানে কর প্রদানের ...Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.7501331567764282,
+      "embedding_score_norm": 0.1605246097840722,
+      "embedding_rank": 9
+    },
+    {
+      "title": "কর রাজস্ব Flashcards",
+      "url": "https://quizlet.com/710916479/%E0%A6%95%E0%A6%B0-%E0%A6%B0%E0%A6%9C%E0%A6%B8%E0%A6%AC-flash-cards",
+      "snippet": "বাংলাদেশ সকার দেশের জনগণ, বিভিন্ন ব্যবসায় ও শিল্প কারখানার ওপর যে কর ধার্য করে তা থেকে প্রাপ্ত আয়কে কর রাজস্ব বলে। বাংলাদেশ সরকারের আয়ের প্রধান উৎস-. বাণিজ্য শুল্ক. বাণিজ্য শুল্ক বলতে বোঝায়-.Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.74448561668396,
+      "embedding_score_norm": 0.12114978639937499,
+      "embedding_rank": 10
+    },
+    {
+      "title": "কর ক্যালকুলেটর: কর গণনা - Google Play তে অ্যাপ",
+      "url": "https://play.google.com/store/apps/details?id=com.topNewSoft.taxCalculator&hl=bn",
+      "snippet": "আমাদের জিএসটি, মূল্য সংযোজন কর, করের পরে বা কর ছাড়াই বিক্রয়মূল্যের ক্যালকুলেটর, রিয়েল এস্টেট ট্যাক্স, আয়কর ক্যালকুলেটর, গাড়ী কর এবং রিয়েল এস্টেট ট্যাক্স গণনার বৈশিষ্ট্য রয়েছে। আপনাকে কেবল একবার রেট প্রবেশ করতে হবে এবং ...Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.7406094074249268,
+      "embedding_score_norm": 0.09412473611595937,
+      "embedding_rank": 11
+    },
+    {
+      "title": "প্রশ্ন-০১ঃ করের সংজ্ঞা (Definition of Tax)",
+      "url": "https://course.bbalife.net/taxation-theory-section",
+      "snippet": "কর (Tax) হলো সরকারের কাছে নাগরিকদের অর্থ প্রদানের একটি বাধ্যতামূলক ব্যবস্থা, এর মাধ্যমে সরকার দেশের উন্নতির জন্য নাগরিকদের কাছ থেকে অর্থ সংগ্রহ করে। সরকার একটি বিশেষ সেবা বা সুবিধা দানেরমাধ্যমে যে অর্থ আদায় করে তা ফি হিসেবে ...Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.7271090745925903,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

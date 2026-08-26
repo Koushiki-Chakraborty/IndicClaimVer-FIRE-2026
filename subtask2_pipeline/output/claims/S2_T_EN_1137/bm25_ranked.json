@@ -1,0 +1,57 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1137",
+    "text": "Live: Modi claims Congress intends to form a strong coalition govt at Centre",
+    "lang": "english"
+  },
+  "ranked_evidence": [
+    {
+      "title": "PM Modi US Congress Speech LIVE |'No Ifs Or Buts In ...",
+      "url": "https://www.youtube.com/watch?v=ClgbFvby6js",
+      "snippet": "PM Modi US Congress Speech LIVE |'No Ifs Or Buts In Dealing With Terror,' PM Modi Tells US Congress Prime Minister Narendra Modi addressed a",
+      "bm25_score_raw": 6.193580467503142,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "'Risking Indian lives': PM Modi slams Congress for making ' ...",
+      "url": "https://timesofindia.indiatimes.com/india/risking-indian-lives-pm-modi-slams-congress-for-making-dangerous-remarks-amid-middle-east-crisis/articleshow/129879807.cms",
+      "snippet": "Mar 29, 2026 — India News: NEW DELHI: Prime Minister Narendra Modi on Sunday said the Centre is working to ensure the ongoing war in the Middle East has",
+      "bm25_score_raw": 4.466622945519198,
+      "bm25_score_norm": 0.6417821733390069,
+      "bm25_rank": 2
+    },
+    {
+      "title": "Congress today launched a sharp attack on Prime Minister ...",
+      "url": "https://www.facebook.com/UNINewsagency/posts/congress-today-launched-a-sharp-attack-on-prime-minister-narendra-modi-over-the-/1439573938182723",
+      "snippet": "Congress today launched a sharp attack on Prime Minister Narendra Modi over the proposed delimitation exercise, with senior party leader",
+      "bm25_score_raw": 1.5543909012922368,
+      "bm25_score_norm": 0.037706265080979275,
+      "bm25_rank": 3
+    },
+    {
+      "title": "PM Modi Takes Aim at Congress Prime Minister Narendra ...",
+      "url": "https://www.instagram.com/reel/DZ6fo3NRlmN?hl=en",
+      "snippet": "Speaking on issues related to internal security, governance, and development, PM Modi reflected on the long-standing challenge of Maoist ...Read more",
+      "bm25_score_raw": 1.542106740250789,
+      "bm25_score_norm": 0.035158196923769584,
+      "bm25_rank": 4
+    },
+    {
+      "title": "PM Modi Addresses Joint Session Of The U.S. Congress",
+      "url": "https://www.youtube.com/watch?v=XgJiR9BmeKA",
+      "snippet": "PM Modi Speech Today Live: Prime Minister Narendra Modi, who is on his first state visit to the United States, delivers a historic speech",
+      "bm25_score_raw": 1.5181354026052913,
+      "bm25_score_norm": 0.03018589137240763,
+      "bm25_rank": 5
+    },
+    {
+      "title": "Modi says India, U.S. have overcome 'the hesitations of history' | PBS News",
+      "url": "https://www.pbs.org/newshour/politics/watch-live-indian-pm-burnishes-his-standing-with-address-to-congress-at-11-a-m-et",
+      "snippet": "# Modi says India, U.S. have overcome 'the hesitations of history'. WASHINGTON — Indian Prime Minister Narendra Modi told Congress Wednesday that his nation and the U.S. have overcome \"the hesitations of history\" and called for ever-stronger economic and defense ties between the two countries. \"Today, our relationship has overcome the hesitations of history,\" he said. Modi drew laughter from the lawmakers crowding the House chamber for the joint meeting of Congress with a tongue-in-cheek description of the rough and tumble politics of the U.S. Modi did not read a passage from his prepared remarks that said he and Obama \"have agreed\" that making India a permanent member of the U.N. Security Council \"has to be an intrinsic part of this century's new reality.\". Though the two countries' ties are growing stronger, there's also a sense in Congress that the relationship has yet to deliver on its promise and some lawmakers have criticized the Modi government's record on religious tolerance and combating human trafficking and slavery.",
+      "bm25_score_raw": 1.3726101152423493,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6
+    }
+  ]
+}

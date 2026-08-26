@@ -1,0 +1,76 @@
+{
+  "claim": {
+    "id": "S2/1288",
+    "text": "9,672 Omicron samples found in January, huge rise from December",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "9,672 Omicron Samples Found in January in Genome Sequencing, Huge Rise from Dec: Govt | India News - News18",
+      "url": "https://paper.news18.com/news/india/9672-omicron-samples-found-in-january-in-genome-sequencing-huge-rise-from-dec-govt-4705721.html",
+      "snippet": "# 9,672 Omicron Samples Found in January in Genome Sequencing, Huge Rise from Dec: Govt. ## Addressing a press conference, NCDC Director Dr S K Singh said sub-lineages of Omicron - BA.1 and BA.2 were found in sequenced samples while BA.3 has not been found yet. As many as 9,672 Omicron samples were found in January in genome sequencing constituting 75 per cent of the total sequenced samples of COVID-19, a huge rise from the December figure of 1,292, the government said on Thursday. He further said that a huge rise from December has been seen in the number of Omicron samples in January. In January, 9,672 omicron samples were found which was about 75 per cent of total sequenced samples and AY lineage was found in 3,201 samples and Delta was found in 1,578 samples, he said. News india  9,672 Omicron Samples Found in January in Genome Sequencing, Huge Rise from Dec: Govt.",
+      "bm25_score_raw": 21.029748944333825,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9207524657249451,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "SARS-CoV-2 Omicron variant",
+      "url": "https://en.wikipedia.org/wiki/SARS-CoV-2_Omicron_variant",
+      "snippet": "| * Alpha (B.1.1.7) * Beta (B.1.351) * Gamma (P.1) * Delta (B.1.617.2)   Omicron (B.1.1.529)   * BA.1 (B.1.1.529.1) * BA.2 (B.1.1.529.2) * BA.3 (B.1.1.529.3) * BA.4 (B.1.1.529.4) * BA.5 (B.1.1.529.5) * XBB * BA.2.86 (B.1.1.529.2.86) * NB.1.8.1 * XFG * BA.3.2 (B.1.1.529.3.2) |. **Omicron** (B.1.1.529) is a heavily mutated variant of SARS-CoV-2 first reported to the World Health Organization (WHO) by the Network for Genomics Surveillance in South Africa on 24 November 2021. It was first detected in Botswana and has spread to become the predominant variant in circulation around the world. Following the original B.1.1.529 variant, several subvariants of Omicron have emerged, including: BA.1, BA.2, BA.3, BA.4, and BA.5. JN.1 went on to spawn multiple notable sublineages, including KP.3.1.1 and XEC in 2024, and LP.8.1, NB.1.8.1, and XFG in 2025. As of 25 June 2025, the variants of interest as specified by the World Health Organization are JN.1, and the variants under monitoring are KP.3, KP.3.1.1, JN.1.18, LP.8.1, NB.1.8.1, XEC and XFG.",
+      "bm25_score_raw": 0.7669631558791197,
+      "bm25_score_norm": 0.036470390488697074,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8558131456375122,
+      "embedding_score_norm": 0.5133599217088622,
+      "embedding_rank": 2
+    },
+    {
+      "title": "CDC: Most of 43 omicron cases detected in first days ...",
+      "url": "https://thehill.com/policy/healthcare/585334-cdc-most-of-43-omicron-cases-detected-in-first-eight-days-of-december",
+      "snippet": "Dec 10, 2021 — 43 COVID-19 cases attributed to the omicron variant, nearly all of which were considered mild and discovered in the first week of December.",
+      "bm25_score_raw": 1.0005994601421369,
+      "bm25_score_norm": 0.047580190462127914,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8491802215576172,
+      "embedding_score_norm": 0.46365433980265525,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Structural diversity of the SARS-CoV-2 Omicron spike",
+      "url": "https://www.sciencedirect.com/science/article/am/pii/S1097276522002660",
+      "snippet": "by SMC Gobeil · 2022 · Cited by 232 — These results reveal a highly evolved Omicron spike architecture with possible impacts on its high levels of immune evasion and transmissibility.",
+      "bm25_score_raw": 1.0005994601421369,
+      "bm25_score_norm": 0.047580190462127914,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8386477828025818,
+      "embedding_score_norm": 0.3847267068455166,
+      "embedding_rank": 4
+    },
+    {
+      "title": "How are your dives on Omicron going? : r/Helldivers",
+      "url": "https://www.reddit.com/r/Helldivers/comments/1q2lhd2/how_are_your_dives_on_omicron_going",
+      "snippet": "The game gives you the option to leave it alone, but the hive lord doesn't give you that option. Pretty much all you can do is coordinate with",
+      "bm25_score_raw": 0.768842967535686,
+      "bm25_score_norm": 0.03655977870067917,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8308280110359192,
+      "embedding_score_norm": 0.32612716592602453,
+      "embedding_rank": 5
+    },
+    {
+      "title": "X-class flares and severe geomagnetic storm",
+      "url": "https://www.sidc.be/article/x-class-flares-and-severe-geomagnetic-storm",
+      "snippet": "Jan 1, 2025 — Coronal mass ejections, associated with a series of M- and X-class flares on 29 and 30 December, have resulted in a severe geomagnetic storm",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.7873082160949707,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6
+    }
+  ]
+}

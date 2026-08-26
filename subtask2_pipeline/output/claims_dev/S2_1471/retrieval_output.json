@@ -1,0 +1,108 @@
+{
+  "claim": {
+    "id": "S2/1471",
+    "text": "Digvijay Singh hails setting up of inquiry commission in snoopgate",
+    "lang": "dev"
+  },
+  "generated_queries": {
+    "english_translation": "Digvijay Singh hails setting up of inquiry commission in snoopgate",
+    "native_query": "Digvijay Singh hails setting inquiry commission snoopgate",
+    "english_query": "Digvijay Singh hails setting inquiry commission snoopgate"
+  },
+  "native_retrieval": [
+    {
+      "title": "Snoopgate: Digvijaya Singh hails setting up of inquiry ...",
+      "url": "https://indianexpress.com/article/india/india-others/snoopgate-digvijaya-singh-hails-setting-up-of-inquiry-commission",
+      "snippet": "Singh called inquiry commission set up by the state govt akin to 'accused appointing the investigation agency.' Written by: PTI."
+    },
+    {
+      "title": "Snoopgate: Digvijay hails setting up of inquiry commission",
+      "url": "https://www.business-standard.com/article/politics/snoopgate-digvijay-hails-setting-up-of-inquiry-commission-113122600404_1.html",
+      "snippet": "The Union Cabinet's decision came against the backdrop of fresh claims that the alleged snooping was conducted beyond the state of Gujarat."
+    },
+    {
+      "title": "Government turns heat on Modi in Snoopgate",
+      "url": "https://www.millenniumpost.in/government-turns-heat-on-modi-in-snoopgate-192617",
+      "snippet": "Congress leader Digvijaya Singh congratulated the central government for the inquiry commission. He said, 'It should have happened much earlier"
+    },
+    {
+      "title": "Snoopgate: BJP attacks govt for setting up inquiry ...",
+      "url": "https://indianexpress.com/article/india/india-others/snoopgate-bjp-attacks-govt-for-setting-up-inquiry-commission",
+      "snippet": "BJP on Thursday slammed the Government for setting up an inquiry into alleged snooping on a woman in Gujarat,saying it smacks of political"
+    },
+    {
+      "title": "Digvijay Singh slams Narendra Modi over snoopgate",
+      "url": "https://m.economictimes.com/news/politics-and-nation/digvijay-singh-slams-narendra-modi-over-snoopgate/articleshow/26735593.cms",
+      "snippet": "Singh has castigated Modi over snoopgate and Leader of Opposition Arun Jaitley for \"defendning snoopgate accused Modi and Amit Shah\"."
+    },
+    {
+      "title": "The Gujarat High Court Judgment on the Snoopgate Issue",
+      "url": "https://cis-india.org/internet-governance/blog/gujarat-high-court-judgment-on-snoopgate-issue",
+      "snippet": "Gujarat Government passed a Notification under the Commissions of Inquiry Act, 1952 appointing a two member Commission of Inquiry to enquire"
+    }
+  ],
+  "english_retrieval": [
+    {
+      "title": "Snoopgate: Digvijaya Singh hails setting up of inquiry ...",
+      "url": "https://indianexpress.com/article/india/india-others/snoopgate-digvijaya-singh-hails-setting-up-of-inquiry-commission",
+      "snippet": "Singh called inquiry commission set up by the state govt akin to 'accused appointing the investigation agency.' Written by: PTI."
+    },
+    {
+      "title": "Snoopgate: Digvijay hails setting up of inquiry commission",
+      "url": "https://www.business-standard.com/article/politics/snoopgate-digvijay-hails-setting-up-of-inquiry-commission-113122600404_1.html",
+      "snippet": "The Union Cabinet's decision came against the backdrop of fresh claims that the alleged snooping was conducted beyond the state of Gujarat."
+    },
+    {
+      "title": "Government turns heat on Modi in Snoopgate",
+      "url": "https://www.millenniumpost.in/government-turns-heat-on-modi-in-snoopgate-192617",
+      "snippet": "Congress leader Digvijaya Singh congratulated the central government for the inquiry commission. He said, 'It should have happened much earlier"
+    },
+    {
+      "title": "Snoopgate: BJP attacks govt for setting up inquiry ...",
+      "url": "https://indianexpress.com/article/india/india-others/snoopgate-bjp-attacks-govt-for-setting-up-inquiry-commission",
+      "snippet": "BJP on Thursday slammed the Government for setting up an inquiry into alleged snooping on a woman in Gujarat,saying it smacks of political"
+    },
+    {
+      "title": "Digvijay Singh slams Narendra Modi over snoopgate",
+      "url": "https://m.economictimes.com/news/politics-and-nation/digvijay-singh-slams-narendra-modi-over-snoopgate/articleshow/26735593.cms",
+      "snippet": "Singh has castigated Modi over snoopgate and Leader of Opposition Arun Jaitley for \"defendning snoopgate accused Modi and Amit Shah\"."
+    },
+    {
+      "title": "The Gujarat High Court Judgment on the Snoopgate Issue",
+      "url": "https://cis-india.org/internet-governance/blog/gujarat-high-court-judgment-on-snoopgate-issue",
+      "snippet": "Gujarat Government passed a Notification under the Commissions of Inquiry Act, 1952 appointing a two member Commission of Inquiry to enquire"
+    }
+  ],
+  "merged_results": [
+    {
+      "title": "Snoopgate: Digvijaya Singh hails setting up of inquiry ...",
+      "url": "https://indianexpress.com/article/india/india-others/snoopgate-digvijaya-singh-hails-setting-up-of-inquiry-commission",
+      "snippet": "Singh called inquiry commission set up by the state govt akin to 'accused appointing the investigation agency.' Written by: PTI."
+    },
+    {
+      "title": "Snoopgate: Digvijay hails setting up of inquiry commission",
+      "url": "https://www.business-standard.com/article/politics/snoopgate-digvijay-hails-setting-up-of-inquiry-commission-113122600404_1.html",
+      "snippet": "The Union Cabinet's decision came against the backdrop of fresh claims that the alleged snooping was conducted beyond the state of Gujarat."
+    },
+    {
+      "title": "Government turns heat on Modi in Snoopgate",
+      "url": "https://www.millenniumpost.in/government-turns-heat-on-modi-in-snoopgate-192617",
+      "snippet": "Congress leader Digvijaya Singh congratulated the central government for the inquiry commission. He said, 'It should have happened much earlier"
+    },
+    {
+      "title": "Snoopgate: BJP attacks govt for setting up inquiry ...",
+      "url": "https://indianexpress.com/article/india/india-others/snoopgate-bjp-attacks-govt-for-setting-up-inquiry-commission",
+      "snippet": "BJP on Thursday slammed the Government for setting up an inquiry into alleged snooping on a woman in Gujarat,saying it smacks of political"
+    },
+    {
+      "title": "Digvijay Singh slams Narendra Modi over snoopgate",
+      "url": "https://m.economictimes.com/news/politics-and-nation/digvijay-singh-slams-narendra-modi-over-snoopgate/articleshow/26735593.cms",
+      "snippet": "Singh has castigated Modi over snoopgate and Leader of Opposition Arun Jaitley for \"defendning snoopgate accused Modi and Amit Shah\"."
+    },
+    {
+      "title": "The Gujarat High Court Judgment on the Snoopgate Issue",
+      "url": "https://cis-india.org/internet-governance/blog/gujarat-high-court-judgment-on-snoopgate-issue",
+      "snippet": "Gujarat Government passed a Notification under the Commissions of Inquiry Act, 1952 appointing a two member Commission of Inquiry to enquire"
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1211",
+    "text": "Delhi records 531 fresh Covid-19 cases, 3 deaths in last 24 hours",
+    "lang": "english"
+  },
+  "generated_queries": {
+    "english_translation": "Delhi records 531 fresh Covid-19 cases, 3 deaths in last 24 hours",
+    "native_query": "Delhi records 531 fresh Covid 19 deaths 24",
+    "english_query": "Delhi records 531 fresh Covid 19 deaths 24"
+  },
+  "native_retrieval": [
+    {
+      "title": "Delhi records 531 fresh Covid-19 cases, 3 deaths in last 24 hours",
+      "url": "https://www.indiatoday.in/coronavirus-outbreak/story/delhi-records-fresh-covid-19-cases-deaths-health-ministry-1973608-2022-07-09",
+      "snippet": "Delhi on Friday recorded 531 fresh Covid-19 cases, while three more people succumbed to the viral disease, according to health department data."
+    },
+    {
+      "title": "India records 18815 new Covid cases; 38 fatalities",
+      "url": "https://indianexpress.com/article/lifestyle/health/coronavirus-india-news-live-covid-cases-today-delhi-mumbai-8013797",
+      "snippet": "Jul 9, 2022 — Delhi recorded 531 new Covid-19 cases in the last 24 hours. With ... India reported 18,930 fresh Covid-19 cases and 35 deaths in the last 24 ...Read more"
+    },
+    {
+      "title": "Delhi records 531 fresh Covid-19 cases, 3 deaths; positivity rate ...",
+      "url": "https://www.business-standard.com/article/current-affairs/delhi-records-531-fresh-covid-19-cases-3-deaths-positivity-rate-at-3-13-122070801314_1.html",
+      "snippet": "Delhi records 531 fresh Covid-19 cases, 3 deaths; positivity rate at 3.13%. With the fresh infections and fatalities, Delhi's caseload climbed to 19,39,758 and"
+    },
+    {
+      "title": "Delhi Records 948 New Covid Cases, 2 Deaths In 24 Hours",
+      "url": "https://www.ndtv.com/delhi-news/covid-19-delhi-logs-948-new-cases-two-deaths-3973062",
+      "snippet": "Apr 23, 2023 — Delhi on Sunday logged 948 fresh COVID-19 infections and two fatalities with a case positivity rate of 25.69, according to data shared by the Health department.Read more"
+    },
+    {
+      "title": "Delhi records 91 fresh COVID-19 cases, positivity stands at ...",
+      "url": "https://www.thehindu.com/news/cities/Delhi/delhi-records-91-fresh-covid-19-cases-positivity-stands-at-020/article38000884.ece",
+      "snippet": "Dec 21, 2021 — Delhi records 91 fresh COVID-19 cases, positivity stands at 0.20%. No death caused by virus; 531 active cases remain in Capital. Published - ...Read more"
+    },
+    {
+      "title": "Delhi Records 21,259 Fresh COVID-19 Cases, 23 Deaths; Positivity Rate Climbs To 25.6%",
+      "url": "https://www.youtube.com/watch?v=Fwy7fPSK_q8",
+      "snippet": "Delhi Records 21,259 Fresh COVID-19 Cases, 23 Deaths; Positivity Rate Climbs To 25.6%\nIndia Today\n11300000 subscribers\n31 likes\n6903 views\n11 Jan 2022\nDelh today recorded 21,259 fresh covid cases amid rising surge of the infection in the city. Apart from this, 23 people succumbed to the virus in the last 24 hours while the positivity rate climbed to 25.65 per cent. Total 12,161 recovered from the infection in the same time period. \n\nMeanwhile, Delhi CM Arvind Kejriwal today took stock of the persisting Covid situation in the Lok Nayak Hospital in Delhi. After the visit, he told reporters, that his government had to impose restrictions out of compulsion and reiterated that a complete lockdown will not be implemented.\n\n#DelhiCOVID19Crisis #DelhiCOVID19Cases #DelhiCOVID19Outbreak #DelhiOmicronCases #IndiaToday\n\nSubscribe to India Today for NEW VIDEOS EVERY DAY and make sure to enable Push Notifications so you'll never miss a new video. \n\nAll you need to do is PRESS THE BELL ICON next to the Subscribe button! \n\nIndia Today TV is India's leading English News Channel. India Today YouTube channel offers latest news videos on Politics, Business, Cricket, Bollywood, Lifestyle, Auto, Technology, Travel, Entertainment and a lot more. \n\nStay tuned for latest updates and in-depth analysis of news from India and around the world! \n\nFollow us: Official website: https://www.indiatoday.in/\n\nTwitter: https://twitter.com/IndiaToday \n\nFacebook: https://www.facebook.com/IndiaToday\n6 comments\n"
+    }
+  ],
+  "english_retrieval": [
+    {
+      "title": "Delhi records 531 fresh Covid-19 cases, 3 deaths in last 24 hours",
+      "url": "https://www.indiatoday.in/coronavirus-outbreak/story/delhi-records-fresh-covid-19-cases-deaths-health-ministry-1973608-2022-07-09",
+      "snippet": "Delhi on Friday recorded 531 fresh Covid-19 cases, while three more people succumbed to the viral disease, according to health department data."
+    },
+    {
+      "title": "India records 18815 new Covid cases; 38 fatalities",
+      "url": "https://indianexpress.com/article/lifestyle/health/coronavirus-india-news-live-covid-cases-today-delhi-mumbai-8013797",
+      "snippet": "Jul 9, 2022 — Delhi recorded 531 new Covid-19 cases in the last 24 hours. With ... India reported 18,930 fresh Covid-19 cases and 35 deaths in the last 24 ...Read more"
+    },
+    {
+      "title": "Delhi records 531 fresh Covid-19 cases, 3 deaths; positivity rate ...",
+      "url": "https://www.business-standard.com/article/current-affairs/delhi-records-531-fresh-covid-19-cases-3-deaths-positivity-rate-at-3-13-122070801314_1.html",
+      "snippet": "Delhi records 531 fresh Covid-19 cases, 3 deaths; positivity rate at 3.13%. With the fresh infections and fatalities, Delhi's caseload climbed to 19,39,758 and"
+    },
+    {
+      "title": "Delhi Records 948 New Covid Cases, 2 Deaths In 24 Hours",
+      "url": "https://www.ndtv.com/delhi-news/covid-19-delhi-logs-948-new-cases-two-deaths-3973062",
+      "snippet": "Apr 23, 2023 — Delhi on Sunday logged 948 fresh COVID-19 infections and two fatalities with a case positivity rate of 25.69, according to data shared by the Health department.Read more"
+    },
+    {
+      "title": "Delhi records 91 fresh COVID-19 cases, positivity stands at ...",
+      "url": "https://www.thehindu.com/news/cities/Delhi/delhi-records-91-fresh-covid-19-cases-positivity-stands-at-020/article38000884.ece",
+      "snippet": "Dec 21, 2021 — Delhi records 91 fresh COVID-19 cases, positivity stands at 0.20%. No death caused by virus; 531 active cases remain in Capital. Published - ...Read more"
+    },
+    {
+      "title": "Delhi Records 21,259 Fresh COVID-19 Cases, 23 Deaths; Positivity Rate Climbs To 25.6%",
+      "url": "https://www.youtube.com/watch?v=Fwy7fPSK_q8",
+      "snippet": "Delhi Records 21,259 Fresh COVID-19 Cases, 23 Deaths; Positivity Rate Climbs To 25.6%\nIndia Today\n11300000 subscribers\n31 likes\n6903 views\n11 Jan 2022\nDelh today recorded 21,259 fresh covid cases amid rising surge of the infection in the city. Apart from this, 23 people succumbed to the virus in the last 24 hours while the positivity rate climbed to 25.65 per cent. Total 12,161 recovered from the infection in the same time period. \n\nMeanwhile, Delhi CM Arvind Kejriwal today took stock of the persisting Covid situation in the Lok Nayak Hospital in Delhi. After the visit, he told reporters, that his government had to impose restrictions out of compulsion and reiterated that a complete lockdown will not be implemented.\n\n#DelhiCOVID19Crisis #DelhiCOVID19Cases #DelhiCOVID19Outbreak #DelhiOmicronCases #IndiaToday\n\nSubscribe to India Today for NEW VIDEOS EVERY DAY and make sure to enable Push Notifications so you'll never miss a new video. \n\nAll you need to do is PRESS THE BELL ICON next to the Subscribe button! \n\nIndia Today TV is India's leading English News Channel. India Today YouTube channel offers latest news videos on Politics, Business, Cricket, Bollywood, Lifestyle, Auto, Technology, Travel, Entertainment and a lot more. \n\nStay tuned for latest updates and in-depth analysis of news from India and around the world! \n\nFollow us: Official website: https://www.indiatoday.in/\n\nTwitter: https://twitter.com/IndiaToday \n\nFacebook: https://www.facebook.com/IndiaToday\n6 comments\n"
+    }
+  ],
+  "merged_results": [
+    {
+      "title": "Delhi records 531 fresh Covid-19 cases, 3 deaths in last 24 hours",
+      "url": "https://www.indiatoday.in/coronavirus-outbreak/story/delhi-records-fresh-covid-19-cases-deaths-health-ministry-1973608-2022-07-09",
+      "snippet": "Delhi on Friday recorded 531 fresh Covid-19 cases, while three more people succumbed to the viral disease, according to health department data."
+    },
+    {
+      "title": "India records 18815 new Covid cases; 38 fatalities",
+      "url": "https://indianexpress.com/article/lifestyle/health/coronavirus-india-news-live-covid-cases-today-delhi-mumbai-8013797",
+      "snippet": "Jul 9, 2022 — Delhi recorded 531 new Covid-19 cases in the last 24 hours. With ... India reported 18,930 fresh Covid-19 cases and 35 deaths in the last 24 ...Read more"
+    },
+    {
+      "title": "Delhi records 531 fresh Covid-19 cases, 3 deaths; positivity rate ...",
+      "url": "https://www.business-standard.com/article/current-affairs/delhi-records-531-fresh-covid-19-cases-3-deaths-positivity-rate-at-3-13-122070801314_1.html",
+      "snippet": "Delhi records 531 fresh Covid-19 cases, 3 deaths; positivity rate at 3.13%. With the fresh infections and fatalities, Delhi's caseload climbed to 19,39,758 and"
+    },
+    {
+      "title": "Delhi Records 948 New Covid Cases, 2 Deaths In 24 Hours",
+      "url": "https://www.ndtv.com/delhi-news/covid-19-delhi-logs-948-new-cases-two-deaths-3973062",
+      "snippet": "Apr 23, 2023 — Delhi on Sunday logged 948 fresh COVID-19 infections and two fatalities with a case positivity rate of 25.69, according to data shared by the Health department.Read more"
+    },
+    {
+      "title": "Delhi records 91 fresh COVID-19 cases, positivity stands at ...",
+      "url": "https://www.thehindu.com/news/cities/Delhi/delhi-records-91-fresh-covid-19-cases-positivity-stands-at-020/article38000884.ece",
+      "snippet": "Dec 21, 2021 — Delhi records 91 fresh COVID-19 cases, positivity stands at 0.20%. No death caused by virus; 531 active cases remain in Capital. Published - ...Read more"
+    },
+    {
+      "title": "Delhi Records 21,259 Fresh COVID-19 Cases, 23 Deaths; Positivity Rate Climbs To 25.6%",
+      "url": "https://www.youtube.com/watch?v=Fwy7fPSK_q8",
+      "snippet": "Delhi Records 21,259 Fresh COVID-19 Cases, 23 Deaths; Positivity Rate Climbs To 25.6%\nIndia Today\n11300000 subscribers\n31 likes\n6903 views\n11 Jan 2022\nDelh today recorded 21,259 fresh covid cases amid rising surge of the infection in the city. Apart from this, 23 people succumbed to the virus in the last 24 hours while the positivity rate climbed to 25.65 per cent. Total 12,161 recovered from the infection in the same time period. \n\nMeanwhile, Delhi CM Arvind Kejriwal today took stock of the persisting Covid situation in the Lok Nayak Hospital in Delhi. After the visit, he told reporters, that his government had to impose restrictions out of compulsion and reiterated that a complete lockdown will not be implemented.\n\n#DelhiCOVID19Crisis #DelhiCOVID19Cases #DelhiCOVID19Outbreak #DelhiOmicronCases #IndiaToday\n\nSubscribe to India Today for NEW VIDEOS EVERY DAY and make sure to enable Push Notifications so you'll never miss a new video. \n\nAll you need to do is PRESS THE BELL ICON next to the Subscribe button! \n\nIndia Today TV is India's leading English News Channel. India Today YouTube channel offers latest news videos on Politics, Business, Cricket, Bollywood, Lifestyle, Auto, Technology, Travel, Entertainment and a lot more. \n\nStay tuned for latest updates and in-depth analysis of news from India and around the world! \n\nFollow us: Official website: https://www.indiatoday.in/\n\nTwitter: https://twitter.com/IndiaToday \n\nFacebook: https://www.facebook.com/IndiaToday\n6 comments\n"
+    }
+  ]
+}

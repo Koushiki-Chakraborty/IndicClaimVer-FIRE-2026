@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/1531",
+    "text": "12 से 14 साल के बच्चों को वैक्सीन और 65 पार बुजुर्गों को बूस्‍टर डोज बुधवार से, पढ़ें हर डिटेल",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "This food compound may help vaccines work better in older adults - ScienceDaily",
+      "url": "http://www.sciencedaily.com/releases/2026/07/260719035951.htm",
+      "snippet": ":   A naturally occurring compound found in foods such as wheat germ, mushrooms, and aged cheese may help older adults build stronger protection after vaccination. In a small pilot trial, researchers gave spermidine supplements to adults over 65 following their third COVID-19 vaccine dose. A naturally occurring compound called spermidine may help strengthen vaccine responses in some older adults by reducing biological signs of immune system aging, according to research published in *Aging Cell*. The immune system becomes less efficient as people grow older, making it harder for the body to fight infections and respond fully to vaccines. This gradual decline, known as immunosenescence, can increase vulnerability to age-related health problems and leave some older adults with weaker protection after vaccination. Their findings suggest that taking a daily spermidine supplement improved several measures of immune response following COVID-19 vaccination. The project also involved researchers from the Oxford Vaccine Group, including Drs. Paul Klenerman, Teresa Lambe, and Lucy Jones, along with Owen B.",
+      "bm25_score_raw": 3.519526913472988,
+      "bm25_score_norm": 0.6389944527988493,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8538535237312317,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "US sees highest number of measles cases in 35 years - BBC",
+      "url": "https://www.bbc.com/news/articles/c36dw75dkw5o",
+      "snippet": "The US has hit a 35-year high in measles cases, according to new figures from the US Centers for Disease Control and Prevention (CDC). The US has seen 2,318 confirmed cases of measles in 2026, just seven months into the year, up from last year's high of 2,289, when two unvaccinated children died of the disease. The rising number of cases have come as vaccine hesitancy in the US has increased in recent years, leading to lower immunisation rates. The US has recorded more measles cases over the past 18 months than the total number over 25 years before that. Over the past month, Virginia and Pennsylvania have been dealing with new measles outbreaks, while the state of Utah is still responding to a cluster of infections that began last year. Earlier this year, a federal judge blocked the US government from implementing a series of sweeping changes to childhood immunisations under Kennedy's leadership, including slashing the number of recommended shots for children from 17 to 11.",
+      "bm25_score_raw": 1.7259213477250719,
+      "bm25_score_norm": 0.3133529574505125,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.8436702489852905,
+      "embedding_score_norm": 0.8854062632261336,
+      "embedding_rank": 2
+    },
+    {
+      "title": "India approves dengue vaccine: Doctor explains the four virus strains and why immunity remains a major challenge - The Times of India",
+      "url": "https://timesofindia.indiatimes.com/health/there-are-four-strains-of-dengue-and-recovering-from-one-doesnt-protect-you-from-the-others-is-a-single-vaccine-enough/photostory/132520952.cms",
+      "snippet": "* India approves dengue vaccine: Doctor explains the four virus strains and why immunity remains a major challenge. Monsoon often brings relief from the heat, but it also marks the return of one of India's biggest seasonal health concerns: dengue. The virus exists in four different forms, known as serotypes or strains. Given in two doses, three months apart, the vaccine is designed to protect against all four dengue virus serotypes (DENV-1 to DENV-4) and does not require pre-vaccination screening. While it offers broad protection and reduces the risk of severe dengue and hospitalisation, no vaccine provides 100% immunity against every infection or strain. ## Dengue is not one virus, it comes in four different serotypes. What many are not aware of is that there are four virus strains (serotypes) of Dengue. Dr Kumar said, \"As a matter of fact, dengue fever can be more serious upon a second infection with a different strain of the virus.",
+      "bm25_score_raw": 0.44052835564006676,
+      "bm25_score_norm": 0.07998096973687534,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.8436453342437744,
+      "embedding_score_norm": 0.8851258943465427,
+      "embedding_rank": 3
+    },
+    {
+      "title": "GSK's Shingrix (Recombinant Zoster Vaccine) prefilled syringe presentation approved in Canada - BioSpace",
+      "url": "https://www.biospace.com/press-releases/gsks-shingrix-recombinant-zoster-vaccine-prefilled-syringe-presentation-approved-in-canada",
+      "snippet": "# GSK’s Shingrix (Recombinant Zoster Vaccine) prefilled syringe presentation approved in Canada. MISSISSAUGA, ON, July 24, 2026 /CNW/ -- GSK Canada today announced the approval of *Shingrix* (GSK's Recombinant Zoster Vaccine or RZV) in a prefilled syringe. Consistent with the existing indications for *Shingrix*, the prefilled syringe is licensed in Canada for the prevention of shingles in adults 50 years of age or older, as well as those 18 years of age or older who are or will be at increased risk of shingles due to immunodeficiency or immunosuppression caused by known disease or therapy. *Shingrix* combines an antigen, glycoprotein E, with an adjuvant system, AS01B, and may help overcome the natural age-related decline in responses to immunization that contributes to the challenge of protecting adults aged 50 and over from shingles, as well as those 18 years of age or older who are or will be at increased risk of shingles due to immunodeficiency or immunosuppression caused by known disease or therapy.",
+      "bm25_score_raw": 1.308125790068492,
+      "bm25_score_norm": 0.2374992844115081,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.8425023555755615,
+      "embedding_score_norm": 0.8722638043105709,
+      "embedding_rank": 4
+    },
+    {
+      "title": "US measles cases hit 2,318 in 2026, surpassing last year's total: CDC - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://abcnews.com/Health/us-measles-cases-hit-2318-2026-surpassing-years/story?id=134813573",
+      "snippet": "# US measles cases hit 2,318 in 2026, surpassing last year's total: CDC. This marks the highest number of cases recorded since 1991. The number of confirmed measles cases in the U.S. so far this year has hit 2,318, surpassing the total reported for all last year, according to data updated Friday from the Centers for Disease Control and Prevention. Previously, last year's total of 2,289 was the highest number of recorded measles cases in more than 30 years, CDC data shows. Sixteen of this year's total have been among international visitors to the U.S., according to the CDC. The majority of measles cases in 2026 have been confirmed among children and teenagers aged 19 and younger, according to the CDC. Meanwhile, 3% of cases are among those who have received just one dose of the measles, mumps, rubella (MMR) vaccine and 4% of cases are among those who received the recommended two doses, according to the CDC.",
+      "bm25_score_raw": 4.298259989829239,
+      "bm25_score_norm": 0.7803788286641842,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8402800559997559,
+      "embedding_score_norm": 0.8472559734333718,
+      "embedding_rank": 5
+    },
+    {
+      "title": "California Measles Cases More Than Double, Unvaccinated Children Face Rising Risk - Qoo Media",
+      "url": "https://www.qoo10.co.id/en/international/131979/california-measles-cases-double-unvaccinated-children-risk/",
+      "snippet": "# California Measles Cases More Than Double, Unvaccinated Children Face Rising Risk. California has confirmed 52 measles cases in the first 6½ months of the year, more than double the 25 cases recorded during all of 2025. Nearly all of the reported patients—49 of 52—were unvaccinated or had no known vaccination record, and four required hospitalization. Children and young adults account for a substantial share of the cases, with 27 infections among people ages 5 to 19 and 15 among children younger than 5. Los Angeles County has reported seven cases among residents this year, while Orange County has reported four. | California measles cases | 52 | First 6½ months of the year |. The U.S. Centers for Disease Control and Prevention reported 2,260 cases, compared with 2,289 during all of last year, and said 93% of confirmed cases were associated with outbreaks. At least two infants in California have contracted measles this year, with one case reported in San Francisco and another in Orange County.",
+      "bm25_score_raw": 1.8046603409361899,
+      "bm25_score_norm": 0.32764856624050814,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8239425420761108,
+      "embedding_score_norm": 0.6634077697058072,
+      "embedding_rank": 6
+    },
+    {
+      "title": "David Punch, Brock Harding rally TCU to 69-65 victory over Incarnate Word - ABC News",
+      "url": "https://abcnews.go.com/Sports/wireStory/david-punch-brock-harding-rally-tcu-69-65-128440759",
+      "snippet": "# David Punch, Brock Harding rally TCU to 69-65 victory over Incarnate Word. David Punch totaled 17 points and 13 rebounds, and Brock Harding tipped in his own miss with 38 seconds left to give TCU the lead before making two free throws late to seal a 69-65 victory over Incarnate Word. FORT WORTH, Texas -- David Punch totaled 17 points and 13 rebounds, and Brock Harding tipped in his own miss with 38 seconds left to give TCU the lead before making two free throws late to seal a 69-65 victory over Incarnate Word on Monday night. Incarnate Word played with a lead until Punch and Lelevicius both hit a pair of free throws before Punch scored in the paint in 6-0 spurt to tie it at 56-all with 8:28 remaining. * Dec 15, 6:39 PM. * Dec 14, 12:15 PM. * Dec 15, 6:39 PM. * Dec 14, 12:15 PM. * Dec 14, 11:10 PM.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.7973737716674805,
+      "embedding_score_norm": 0.3644258843525323,
+      "embedding_rank": 7
+    },
+    {
+      "title": "Weeks' scores 32 to lead Southern Miss over Troy 69-65 - ABC News",
+      "url": "https://abcnews.go.com/Sports/wireStory/weeks-scores-32-lead-southern-miss-troy-69-130183567",
+      "snippet": "# Weeks' scores 32 to lead Southern Miss over Troy 69-65. The Southern Miss Golden Eagles defeated the Troy Trojans 69-65 led by Tylik Weeks' 32 points. -- Tylik Weeks' 32 points led Southern Miss over Troy 69-65 on Saturday night. Djahi Binet added 14 points and 18 rebounds and made 7 of 13 from the field. Isaac Tavares had 11 points and went 5 of 16 from the field. Thomas Dowd led the Trojans (17-10, 9-5) in scoring, finishing with 13 points, eight rebounds and three blocks. Troy also got 10 points, eight rebounds and six assists from Victor Valdes. Austin Cross finished with nine points and six rebounds. * Feb 14, 4:12 PM. ## Nancy Guthrie live updates: Search enters 3rd week. * Feb 12, 4:06 PM. * Feb 12, 4:06 PM. * Feb 13, 6:05 AM. ## Nancy Guthrie live updates: Search enters 3rd week. * Feb 14, 4:12 PM. ### ABC News Live. 24/7 coverage of breaking news and live events.",
+      "bm25_score_raw": 1.2649632820655068,
+      "bm25_score_norm": 0.22966283256418366,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.7874329090118408,
+      "embedding_score_norm": 0.25256004287363343,
+      "embedding_rank": 8
+    },
+    {
+      "title": "Thompson posts 14 points as Columbia secures 75-65 victory over Princeton - CBS Sports",
+      "url": "https://www.cbssports.com/college-basketball/news/thompson-posts-14-points-as-columbia-secures-75-65-victory-over-princeton/",
+      "snippet": "site: media | arena: collegebasketball | pageType: stories | section: | slug: thompson-posts-14-points-as-columbia-secures-75-65-victory-over-princeton | sport: collegebasketball | route: article\\_single.us | 6-keys: media/spln/collegebasketball/reg/free/stories. # Thompson posts 14 points as Columbia secures 75-65 victory over Princeton. (AP) Blair Thompson scored 14 points as Columbia beat Princeton 75-65 on Saturday. (AP) Blair Thompson scored 14 points as Columbia beat Princeton 75-65 on Saturday. Miles Franklin scored 12 points while shooting 4 for 10, including 2 for 6 from beyond the arc. Mason Ritter shot 4 of 8 from the field and 3 of 7 from the free-throw line to finish with 11 points and five rebounds. Princeton also got 18 points from Jackson Hicke. The Associated Press created this story using technology provided by Data Skrive and data from Sportradar. ##### Kyle Boone • 11 min read. ##### Will Backus • 1 min read. ##### David Cobb • 3 min read. ##### Isaac Trotter • 3 min read. ##### Owen OBrien • 3 min read.",
+      "bm25_score_raw": 5.181183453027937,
+      "bm25_score_norm": 0.94067968985953,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.7848479151725769,
+      "embedding_score_norm": 0.22347076550765213,
+      "embedding_rank": 9
+    },
+    {
+      "title": "Washington 76-62 Northwestern (Jan 31, 2026) Game Recap - ESPN",
+      "url": "http://www.espn.com/ncb/recap?gameId=401825482",
+      "snippet": "# Washington Huskies @ Northwestern Wildcats. # Steinbach, Yates III and Diallo combine for 65 points as Washington beats Northwestern 76-62. -- — Hannes Steinbach, Zoom Diallo and Wesley Yates III combined for 65 points as Washington beat Northwestern 76-62 on Saturday. Steinbach notched 22 points and 14 rebounds for his fourth-straight double-double, and 14th of the season, tying Isaiah Stewart's freshman record for the Huskies (12-10, 4-7 Big Ten). Nick Martinelli, the nation's leading scorer at 24 points per game, had 19 points and nine rebounds for the Wildcats (10-12, 2-9). | Michigan State | 9-2 | 1 | 19-3 |. ## Steinbach, Yates III and Diallo combine for 65 points as Washington beats Northwestern 76-62. — Hannes Steinbach, Zoom Diallo and Wesley Yates III combined for 65 points as Washington beat Northwestern 76-62 on Saturday. Steinbach notched 22 points and 14 rebounds for his fourth-straight double-double, and 14th of the season, tying Isaiah...## Idaho Vandals vs.",
+      "bm25_score_raw": 5.507914658816152,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.7807498574256897,
+      "embedding_score_norm": 0.1773547799875645,
+      "embedding_rank": 10
+    },
+    {
+      "title": "Georgia Southern vs. Miami (Mar 19, 2026) Game Stats - ESPN",
+      "url": "https://www.espn.com/womens-college-basketball/matchup?gameId=401864975",
+      "snippet": "# Georgia Southern Eagles @ Miami Hurricanes. 6/17 FG, 6/8 FT. 7/9 FG, 3/3 FT. | Georgia Southern | 16-2 | - | 23-8 |. | Arkansas State | 14-4 | 2 | 24-9 |. | Texas State | 7-11 | 9 | 11-19 |. | Georgia State | 5-13 | 11 | 10-21 |. | App State | 4-14 | 12 | 11-19 |. | Florida State | 5-13 | 11 | 10-21 |. After getting her first postseason victory with the Tigers by beating Seton Hall in the WNIT, Harper explains why it means so much to her.## Southern closes on a 14-2 run to beat Samford 65-53 in the women's First Four. — Jaylia Reed scored 16 points, DeMya Porter had 15 points and 12 rebounds and Southern closed the game on a 14-2 run to beat fellow No. 16 seed Samford 65-53 on Thursday night in the NCAA Tournament.## Samford Bulldogs vs. 21+ and present in most states.",
+      "bm25_score_raw": 4.121588931650689,
+      "bm25_score_norm": 0.748302976164225,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.7675008773803711,
+      "embedding_score_norm": 0.028262256245082645,
+      "embedding_rank": 11
+    },
+    {
+      "title": "Minnesota 78-73 UCLA (Feb 28, 2026) Game Recap - ESPN",
+      "url": "https://www.espn.com/ncb/recap?gameId=401825545",
+      "snippet": "# UCLA Bruins @ Minnesota Golden Gophers. The Golden Gophers (14-15, 7-11 Big Ten) have won three of their last four, with their lone loss coming to No. 3 Michigan on Feb 24. UNC Asheville Bulldogs: Game Highlights## Durkin, Tyson, Reynolds combine for 65 points as Minnesota beats UCLA 78-73. — Bobby Durkin, Cade Tyson and Langston Reynolds combined to score 65 points to lead Minnesota past UCLA 78-73 on Saturday. Tyson and Reynolds each scored 21. | Michigan State | 13-4 | 3.5 | 23-5 |. | UCLA | 11-7 | 6 | 19-10 |. | Minnesota | 7-11 | 10 | 14-15 |. | Penn State | 3-15 | 14 | 12-17 |. # Durkin, Tyson, Reynolds combine for 65 points as Minnesota beats UCLA 78-73. MINNEAPOLIS -- — Bobby Durkin, Cade Tyson and Langston Reynolds combined to score 65 points to lead Minnesota past UCLA 78-73 on Saturday. * Your US State Privacy Rights. 21+ and present in most states.",
+      "bm25_score_raw": 4.924289547086831,
+      "bm25_score_norm": 0.8940388245131664,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.7649893760681152,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

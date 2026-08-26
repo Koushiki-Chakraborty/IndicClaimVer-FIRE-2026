@@ -1,0 +1,76 @@
+{
+  "claim": {
+    "id": "S2/1556",
+    "text": "AAP gives clean chit to candidates, says sting CD fake, doctored",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "AAP gives 'clean chit' to its leaders, claims sting tapes ...",
+      "url": "https://theshillongtimes.com/2013/11/25/aap-gives-clean-chit-to-its-leaders-claims-sting-tapes-doctored",
+      "snippet": "New Delhi: Defending its leaders targeted by the controversial sting Operation, the Aam Aadmi party on Sunday claimed that the CD containing",
+      "bm25_score_raw": 1.057737205223903,
+      "bm25_score_norm": 0.11491942230114274,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.9086812138557434,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "AAP claims sting footage doctored | Delhi News",
+      "url": "https://indianexpress.com/article/cities/delhi/aap-claims-sting-footage-doctored",
+      "snippet": "The Aam Aadmi Party on Sunday gave a clean chit to all candidates whose names came up in a sting operation by a website called Mediasarkar.",
+      "bm25_score_raw": 4.456136145623304,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9069924354553223,
+      "embedding_score_norm": 0.9715513848279408,
+      "embedding_rank": 2
+    },
+    {
+      "title": "AAP sees raw footage, gives clean chit to its candidates",
+      "url": "https://www.thehindu.com/news/cities/Delhi/aap-sees-raw-footage-gives-clean-chit-to-its-candidates/article5389187.ece",
+      "snippet": "The Aam Aadmi Party has declared that it has “evidence” proving that the compact disc of the sting operation which showed eight of its",
+      "bm25_score_raw": 1.7172682191935462,
+      "bm25_score_norm": 0.2866879818764233,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8940025568008423,
+      "embedding_score_norm": 0.7527280869453459,
+      "embedding_rank": 3
+    },
+    {
+      "title": "AAP gives members caught in sting operation clean chit",
+      "url": "https://timesofindia.indiatimes.com/assembly-elections-2013/delhi-assembly-elections/aap-gives-members-caught-in-sting-operation-clean-chit/articleshow/26331387.cms",
+      "snippet": "Specials News: After examining the 14-hour-long raw footage of the sting operation against its candidates, Aam Aadmi Party on Sunday once",
+      "bm25_score_raw": 2.0030311583251175,
+      "bm25_score_norm": 0.3611122127237203,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8923749923706055,
+      "embedding_score_norm": 0.7253106625325322,
+      "embedding_rank": 4
+    },
+    {
+      "title": "AAP sees CD, gives clean chit to candidates",
+      "url": "https://www.thehindu.com/news/national/aap-sees-cd-gives-clean-chit-to-candidates/article5386512.ece",
+      "snippet": "AAP leaders Manish Sisodia (left), Yogendra Yadav (centre) and Sanjay Singh during a press conference in New Delhi on Sunday. The Aam Aadmi",
+      "bm25_score_raw": 1.5299407114775718,
+      "bm25_score_norm": 0.2379003199050316,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8768112659454346,
+      "embedding_score_norm": 0.46312915689361567,
+      "embedding_rank": 5
+    },
+    {
+      "title": "AAP PC LIVE: Sanjay Singh Alleges 'Fake Cases Were Registered ...",
+      "url": "https://www.youtube.com/watch?v=sf5E7etZXYY",
+      "snippet": "AAP PC LIVE: Sanjay Singh Alleges 'Fake Cases Were Registered Against Our Candidates' Sanjay Singh stated he would submit a formal letter to",
+      "bm25_score_raw": 0.6164869362428631,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.84931880235672,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6
+    }
+  ]
+}

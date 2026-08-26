@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/HI/1228",
+    "text": "कोरोना से मौत, परिजन का आरोप, अस्पताल ने शव सही सौंपा, किडनी भी सलामत मिली",
+    "lang": "hindi"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Grieving Family Says COVID-19 Victim's Body Was ...",
+      "url": "https://www.nbclosangeles.com/news/coronavirus/grieving-family-covid-19-victim-body-misplaced-coronavirus/2507796",
+      "snippet": "Jan 16, 2021 — If losing someone to COVID-19 wasn't bad enough, one family says after their loved one drew his last breath, the hospital misplaced the body.Read more",
+      "bm25_score_raw": 1.6734592594927487,
+      "bm25_score_norm": 0.39855734418632405,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8509130477905273,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Victim's family alleges a hospital in this city refused to hand ...",
+      "url": "https://www.facebook.com/ZeeNewsEnglish/posts/victims-family-alleges-a-hospital-in-this-city-refused-to-hand-over-a-covid19-pa/10158916937486936",
+      "snippet": "Victim's family alleges a hospital in this city refused to hand over a #COVID19 patient's body over pending bills.",
+      "bm25_score_raw": 4.198791676789207,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8444650173187256,
+      "embedding_score_norm": 0.954337147857227,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Coronavirus: Family files wrongful death lawsuit against ...",
+      "url": "https://abc7.com/post/coronavirus-family-sues-glendale-nursing-home/6202884",
+      "snippet": "May 21, 2020 — A family is blaming their loved one's death from coronavirus on his Glendale nursing home. On Thursday, they filed a wrongful death lawsuit",
+      "bm25_score_raw": 3.835517710630434,
+      "bm25_score_norm": 0.9134813074516318,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8434451818466187,
+      "embedding_score_norm": 0.9471150051306338,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Grieving Family Says COVID-19 Victim's Body Misplaced at ...",
+      "url": "https://www.youtube.com/watch?v=6nzcdDwF7po",
+      "snippet": "If losing someone to COVID-19 wasn't bad enough, one family says after their loved one drew his last breath, the hospital misplaced the body.",
+      "bm25_score_raw": 1.7552298676623974,
+      "bm25_score_norm": 0.418032139428411,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8413348197937012,
+      "embedding_score_norm": 0.9321701082646048,
+      "embedding_rank": 4
+    },
+    {
+      "title": "34-year-old Ravi Kumar, a COVID 19 patient, died after ...",
+      "url": "https://www.facebook.com/firstpostin/posts/34-year-old-ravi-kumar-a-covid-19-patient-died-after-recording-a-video-message-f/3239717429421223",
+      "snippet": "34-year-old Ravi Kumar, a COVID 19 patient, died after recording a video. He was admitted in Chest Hospital he died and his body was handed",
+      "bm25_score_raw": 3.3053096055161104,
+      "bm25_score_norm": 0.787204953222081,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8133376240730286,
+      "embedding_score_norm": 0.7339030848384388,
+      "embedding_rank": 5
+    },
+    {
+      "title": "A deeply disturbing video shows parents performing CPR ...",
+      "url": "https://www.instagram.com/reel/DW3yDeTzqB7?hl=en",
+      "snippet": "In the clip, the family alleges staff failed to respond the way they expected during a medical crisis. They also claim they had been trying to ...Read more",
+      "bm25_score_raw": 1.6996056503324457,
+      "bm25_score_norm": 0.40478446685693276,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8101868033409119,
+      "embedding_score_norm": 0.7115899984086804,
+      "embedding_rank": 6
+    },
+    {
+      "title": "Janam Janam ka sath | EP 59 part 1 | Episodic Glimpse | जनम जनम का ...",
+      "url": "https://www.youtube.com/watch?v=ji5a9jglZvg",
+      "snippet": "To watch full episode Download Dangal Play App now: PlayStore URL: Apple AppStore URL: Web: https://www.dangalplay... To subscribe to Dangal",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.7686858177185059,
+      "embedding_score_norm": 0.4176935321089881,
+      "embedding_rank": 7
+    },
+    {
+      "title": "Jana Aastha News | Home",
+      "url": "https://www.janaaastha.com",
+      "snippet": "जन आस्था. असार २९, २०८३. धरानमा समलिंगी विवाह, प्रजित र जोसेफ दम्पत्ति. जन आस्था · धरानमा समलिंगी विवाह, प्रजित र जोसेफ दम्पत्ति. असोज २२, २०८१. पाकिस्तानमा बौद्ध सम्पदा संरक्षणबारे अन्तर्राष्ट्रिय सम्मेलन. जन आस्था",
+      "bm25_score_raw": 3.3214770481509075,
+      "bm25_score_norm": 0.7910554520987387,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.7679149508476257,
+      "embedding_score_norm": 0.41223450394516403,
+      "embedding_rank": 8
+    },
+    {
+      "title": "Janam Janam ka sath | EP 17 Part 1 | Highlight | Dangal TV",
+      "url": "https://www.youtube.com/watch?v=hK3NJGibFkM",
+      "snippet": "तलाक के 8 साल बाद DM बनकर लौटा पति, सड़क किनारे बकरियां चल रही थी पत्नी. shaped by the",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.7543416023254395,
+      "embedding_score_norm": 0.3161124695718168,
+      "embedding_rank": 9
+    },
+    {
+      "title": "Jag ke sahaare dar par tumhare — Fakhta Worship",
+      "url": "https://fakhta.org/worship/song/jag-ke-sahaare-dar-par-tumhare?lang=en",
+      "snippet": "Jag ke sahaare dar par tumhare. Aan gire nashaad. Koi nahi jo tum bin sun le. Dukhiyon ki rudaad. Kaun sunay faryaad hamari. Kaun sunay faryaad",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.744985818862915,
+      "embedding_score_norm": 0.24985785759420337,
+      "embedding_rank": 10
+    },
+    {
+      "title": "Jab Se Huee Hai Shaadi - Lyrical Video | Thanedaar | Amit Kumar ...",
+      "url": "https://www.youtube.com/watch?v=vyKyEcV9lEg",
+      "snippet": "Presenting \"Jab Se Huee Hai Shaadi\" lyrical video song in the voice of Amit Kumar from Hindi movie \"Thanedaar\" starring Sanjay Dutt, Madhuri",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.72258460521698,
+      "embedding_score_norm": 0.09121975701351946,
+      "embedding_rank": 11
+    },
+    {
+      "title": "Vishwa Sakal Na Nath",
+      "url": "https://www.jiosaavn.com/song/vishwa-sakal-na-nath/M14ARyF2UWo",
+      "snippet": "Vishwa Sakal Na Nath is a Gujarati language song and is sung by Gayatri Upadhyay. released in the year 2025. The duration of the song is 2:59.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.7097035050392151,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

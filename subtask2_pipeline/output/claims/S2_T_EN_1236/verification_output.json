@@ -1,0 +1,6 @@
+{
+  "ID": "S2/T/EN/1236",
+  "Evidence": "India reported 36,571 new Covid-19 cases in the last 24 hours, according to Source 1. Source 2 mentions 6,155 fresh cases, while Source 3 states nearly 300 fresh cases were logged. The claim states that India logged 3,207 new cases, which is significantly lower than the figures reported in the sources. Additionally, Source 1 indicates a substantial increase in cases compared to previous counts, contradicting the claim of a 7.1% increase from a lower number.",
+  "Prediction": "REFUTES",
+  "Justification": "The retrieved evidence directly contradicts the claim that India logged 3,207 new Covid cases. Source 1 reports 36,571 cases, Source 2 reports 6,155 cases, and Source 3 mentions nearly 300 cases. None of these figures support the claim of 3,207 cases, nor do they indicate a 7.1% increase from a previous count. Therefore, the evidence refutes the claim."
+}

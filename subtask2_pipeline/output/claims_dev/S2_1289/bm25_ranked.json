@@ -1,0 +1,57 @@
+{
+  "claim": {
+    "id": "S2/1289",
+    "text": "Difficult To Submit Complete Reply To The SCN In Less Than 12 Hours: Gujarat High Court Quashes Assessment Order",
+    "lang": "dev"
+  },
+  "ranked_evidence": [
+    {
+      "title": "Difficult To Submit Complete Reply To The SCN In Less Than 12 Hours",
+      "url": "https://www.livelaw.in/amp/high-court/gujarat-high-court/gujarat-high-court-quashes-tax-assessment-order-natural-justice-violation-231393",
+      "snippet": "Difficult To Submit Complete Reply To The SCN In Less Than 12 Hours: Gujarat High Court Quashes Assessment Order. Bhavya Singh. 27 June 2023 1",
+      "bm25_score_raw": 15.65413326479579,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Less than 12 hours given to reply SCN: HC Quashes assessment order ...",
+      "url": "https://studycafe.in/less-than-12-hours-given-to-reply-scn-hc-quashes-assessment-order-made-without-giving-opportunity-of-being-heard-231808.html",
+      "snippet": "Even otherwise, within less than 12 hours, it is difficult for the petitioner to submit complete reply to the respondents.",
+      "bm25_score_raw": 6.126330835098923,
+      "bm25_score_norm": 0.37339554814331966,
+      "bm25_rank": 2
+    },
+    {
+      "title": "SCN cannot be issued without considering the reply to pre- ...",
+      "url": "https://a2ztaxcorp.net/scn-cannot-be-issued-without-considering-the-reply-to-pre-consultation-notice",
+      "snippet": "The Petitioner contended that when the reply to the pre- consultation notice was already with the Respondent, then the SCN should not have been issued without",
+      "bm25_score_raw": 1.329615345658458,
+      "bm25_score_norm": 0.05793526208563355,
+      "bm25_rank": 3
+    },
+    {
+      "title": "HC holds 30 days to be the reasonable period for filing reply to SCN",
+      "url": "https://www.ey.com/en_in/technical/alerts-hub/2023/12/hc-holds-30-days-to-be-the-reasonable-period-for-filing-reply-to-scn",
+      "snippet": "In the considered opinion of HC, reasonable period for filing reply to SCN should not be less than 15 days, if not more. However, since the time",
+      "bm25_score_raw": 1.2848317943311185,
+      "bm25_score_norm": 0.05499003176219622,
+      "bm25_rank": 4
+    },
+    {
+      "title": "Issuance of SCN in undue haste, without reasonable time to respond ...",
+      "url": "https://www.taxtmi.com/article/detailed?id=14987",
+      "snippet": "The Petitioner challenged the SCN and order under Article 226, contending that the hasty action violated principles of natural justice.",
+      "bm25_score_raw": 0.6950924833006127,
+      "bm25_score_norm": 0.016205298298913928,
+      "bm25_rank": 5
+    },
+    {
+      "title": "Allowing less than 24 Hours to respond to SCN is Violation of Principles ...",
+      "url": "https://taxguru.in/income-tax/allowing-24-hours-respond-scn-violation-principles-natural-justice.html",
+      "snippet": "Where a response was sought by the Assessing Officer to the show cause notice, giving less than 24 hours, it has been held to be arbitrary",
+      "bm25_score_raw": 0.4486836363017569,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6
+    }
+  ]
+}

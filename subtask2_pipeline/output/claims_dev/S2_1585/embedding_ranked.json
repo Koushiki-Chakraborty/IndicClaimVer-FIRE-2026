@@ -1,0 +1,76 @@
+{
+  "claim": {
+    "id": "S2/1585",
+    "text": "No new restrictions announced as Covid cases dip in Kerala",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "No new restrictions announced as Covid cases dip in Kerala",
+      "url": "https://www.indiatoday.in/amp/coronavirus-outbreak/story/kerala-covid-cases-restrictions-omicron-review-meeting-pinarayi-vijayan-1906941-2022-01-31",
+      "snippet": "No new restrictions announced as Covid cases dip in Kerala. Kerala government has decided not to impose new curbs and continue with current",
+      "bm25_score_raw": 6.860319268916149,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9347435235977173,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Weekly Covid-19 cases drop 13% as Kerala sees 17% dip",
+      "url": "https://timesofindia.indiatimes.com/india/weekly-covid-19-cases-drop-13-as-kerala-sees-17-dip/amp_articleshow/86155634.cms",
+      "snippet": "Weekly Covid-19 cases drop 13% as Kerala sees 17% dip ; Kerala registered a 17% dip in case count. ; Maharashtra (46), ; Tamil Nadu (22) and",
+      "bm25_score_raw": 1.6527894343477922,
+      "bm25_score_norm": 0.1797872964423423,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8771436810493469,
+      "embedding_score_norm": 0.3989415165831971,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Unlocking: India states start reopening amid dip in Covid cases",
+      "url": "https://www.bbc.com/news/world-asia-india-57380665",
+      "snippet": "Kerala Tamil Nadu and Telangana in the south have all extended lockdowns until the middle or end of this week.",
+      "bm25_score_raw": 1.0661337989478932,
+      "bm25_score_norm": 0.0873860198189178,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.853704571723938,
+      "embedding_score_norm": 0.15435273160622276,
+      "embedding_rank": 3
+    },
+    {
+      "title": "COVID-19 Cases Witness Dip In South India, Only 1 New Case ...",
+      "url": "https://www.youtube.com/watch?v=OXqLBLWIcg0",
+      "snippet": "Thanks to the lockdown and strict preventive measures, the rate of coronavirus cases has witnessed massive dip in south India. While Kerala",
+      "bm25_score_raw": 1.2274267236773737,
+      "bm25_score_norm": 0.11279048413497385,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8523623943328857,
+      "embedding_score_norm": 0.1403470143776605,
+      "embedding_rank": 4
+    },
+    {
+      "title": "COVID-19 Lockdown Guidelines in Kerala | PDF",
+      "url": "https://www.scribd.com/document/522116833/New-Guidelines-on-Restrictions-2",
+      "snippet": "Movement of people in the state will be restricted from 10 PM to 6 AM daily except for medical emergencies, transportation of goods, employees in essential",
+      "bm25_score_raw": 0.5113200252068151,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8447384238243103,
+      "embedding_score_norm": 0.06079033594315612,
+      "embedding_rank": 5
+    },
+    {
+      "title": "India's Kerala state orders lockdown as COVID cases rise",
+      "url": "https://www.aljazeera.com/amp/news/2021/7/29/indias-kerala-state-orders-lockdown-as-covid-cases-rise",
+      "snippet": "India's southern state of Kerala has announced a two-day lockdown as federal authorities plan to send experts to fight the spread of infections.",
+      "bm25_score_raw": 1.9316208302084223,
+      "bm25_score_norm": 0.2237046738364095,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.838912844657898,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6
+    }
+  ]
+}

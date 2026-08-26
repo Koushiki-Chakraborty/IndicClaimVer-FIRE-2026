@@ -1,0 +1,57 @@
+{
+  "claim": {
+    "id": "S2/1434",
+    "text": "Delhi logs 2,668 new Covid cases, 13 more deaths; positivity rate down to 4.3%",
+    "lang": "dev"
+  },
+  "ranked_evidence": [
+    {
+      "title": "Delhi logs 2668 new Covid cases, 13 more deaths",
+      "url": "https://www.indiatoday.in/coronavirus-outbreak/story/delhi-logs-2-668-new-covid-cases-13-more-deaths-positivity-rate-down-to-4-3-1908457-2022-02-03",
+      "snippet": "Feb 3, 2022 — Delhi on Thursday reported 2,668 fresh Covid-19 cases and 13 more deaths, while the positivity rate dropped to 4.3 per cent, according to data",
+      "bm25_score_raw": 6.292709754740609,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "2668 Covid Cases, 13 Deaths In 24 Hours In Delhi",
+      "url": "https://www.ndtv.com/india-news/2-668-covid-cases-13-deaths-in-24-hours-in-delhi-2747424",
+      "snippet": "Feb 3, 2022 — Delhi today reported 2,668 fresh Covid cases and 13 deaths in 24 hours, while the positivity rate dropped to 4.3 per cent, according to data ...Read more",
+      "bm25_score_raw": 5.01298459875848,
+      "bm25_score_norm": 0.7412914063348328,
+      "bm25_rank": 2
+    },
+    {
+      "title": "Delhi records 920 Covid cases, 13 deaths; positivity rate ...",
+      "url": "https://theprint.in/india/delhi-records-920-covid-cases-13-deaths-positivity-rate-down-to-1-68/829240",
+      "snippet": "Feb 12, 2022 — Delhi on Saturday reported 920 fresh COVID-19 cases and 13 deaths, while the positivity rate dropped to 1.68 per cent, according to data shared",
+      "bm25_score_raw": 4.381521155201355,
+      "bm25_score_norm": 0.6136350742935577,
+      "bm25_rank": 3
+    },
+    {
+      "title": "India's Delhi Logs Highest Deaths In A Week, Cases Spike",
+      "url": "https://www.youtube.com/shorts/J7jL5WrwT_M",
+      "snippet": "India's capital Delhi has logged 24 Covid-related deaths in a week, highest since cases started to surge.",
+      "bm25_score_raw": 3.645873593193085,
+      "bm25_score_norm": 0.46491693328435946,
+      "bm25_rank": 4
+    },
+    {
+      "title": "Delhi Records 21259 Fresh COVID-19 Cases, 23 Deaths ...",
+      "url": "https://www.youtube.com/watch?v=Fwy7fPSK_q8",
+      "snippet": "Delhi Records 21,259 Fresh COVID-19 Cases, 23 Deaths; Positivity Rate Climbs To 25.6%\nIndia Today\n11300000 subscribers\n31 likes\n6903 views\n11 Jan 2022\nDelh today recorded 21,259 fresh covid cases amid rising surge of the infection in the city. Apart from this, 23 people succumbed to the virus in the last 24 hours while the positivity rate climbed to 25.65 per cent. Total 12,161 recovered from the infection in the same time period. \n\nMeanwhile, Delhi CM Arvind Kejriwal today took stock of the persisting Covid situation in the Lok Nayak Hospital in Delhi. After the visit, he told reporters, that his government had to impose restrictions out of compulsion and reiterated that a complete lockdown will not be implemented.\n\n#DelhiCOVID19Crisis #DelhiCOVID19Cases #DelhiCOVID19Outbreak #DelhiOmicronCases #IndiaToday\n\nSubscribe to India Today for NEW VIDEOS EVERY DAY and make sure to enable Push Notifications so you'll never miss a new video. \n\nAll you need to do is PRESS THE BELL ICON next to the Subscribe button! \n\nIndia Today TV is India's leading English News Channel. India Today YouTube channel offers latest news videos on Politics, Business, Cricket, Bollywood, Lifestyle, Auto, Technology, Travel, Entertainment and a lot more. \n\nStay tuned for latest updates and in-depth analysis of news from India and around the world! \n\nFollow us: Official website: https://www.indiatoday.in/\n\nTwitter: https://twitter.com/IndiaToday \n\nFacebook: https://www.facebook.com/IndiaToday\n6 comments\n",
+      "bm25_score_raw": 2.430456862017547,
+      "bm25_score_norm": 0.21920889842259192,
+      "bm25_rank": 5
+    },
+    {
+      "title": "Delhi records its highest COVID-19 deaths, hospitals swamped",
+      "url": "https://www.reuters.com/world/asia-pacific/delhi-records-its-highest-covid-19-deaths-hospitals-swamped-2020-11-13",
+      "snippet": "Exclusive news, data and analytics for financial market professionals Learn more about Refinitiv. ## Browse World. ## Browse Business. ## Browse Markets. NEW DELHI, Nov 13 (Reuters) - Delhi's COVID-19 deaths rose by a record high on Thursday and it also reported the most number of infections in India, an increase attributed to the city's toxic air and a lack of physical distancing in public places around a major festival. Item 1 of 5 Health worker speaks to the relative of a COVID-19 victim, before the cremation in New Delhi, India, November 13, 2020. **[1/5]**Health worker speaks to the relative of a COVID-19 victim, before the cremation in New Delhi, India, November 13, 2020. The Delhi High Court on Thursday ordered, opens new tab 33 of the city's private hospitals to reserve 80% of their critical-care beds for coronavirus patients. *   #### World-Check, opens new tab. *   About Reuters, opens new tab. *   Media Center, opens new tab.",
+      "bm25_score_raw": 1.346120475072498,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/1292",
+    "text": "दिल्ली: राहुल गांधी की इफ्तार पार्टी में सोनिया गांधी और शरद पवार शामिल हुए, प्रणब मुखर्जी और मनमोहन सिंह अनुपस्थित रहे",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Sonia Gandhi and Rahul Gandhi meet Pranab Mukherjee",
+      "url": "https://www.facebook.com/groups/116963391818803/posts/862294650619003",
+      "snippet": "Congress President, Smt. Sonia Gandhi and Congress VP, Shri Rahul Gandhi met Former President of India, Shri Pranab Mukherjee at his 10,",
+      "bm25_score_raw": 7.268129873985666,
+      "bm25_score_norm": 0.5124873589529602,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8643656969070435,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "New Delhi : Sonia Gandhi And Manmohan Singh On ...",
+      "url": "https://www.youtube.com/watch?v=DGqtKlQSS60",
+      "snippet": "New Delhi : Sonia Gandhi And Manmohan Singh On Sharad Pawar Birthday 10th December 2015 ... मुंबई : शरद पवारांबद्दल बोलताना नारायण राणे भावूक.Read more",
+      "bm25_score_raw": 12.708038093450112,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8639575242996216,
+      "embedding_score_norm": 0.994189948305133,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Intrigue grips Delhi again as Sharad Pawar rolls the dice",
+      "url": "https://www.forbesindia.com/blog/economy-policy/intrigue-grips-delhi-again-as-sharad-pawar-rolls-the-dice-257396.html",
+      "snippet": "A slight lull had set in after Pranab Mukherjee was nominated as the UPA's presidential candidate and with the Samajwadi Party and Shiv Sena",
+      "bm25_score_raw": 8.150417481662812,
+      "bm25_score_norm": 0.5915560388697889,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8558759093284607,
+      "embedding_score_norm": 0.8791538094102814,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Happy Birthday Sonia Gandhi Ji✨❤️",
+      "url": "https://www.instagram.com/reel/DSCFRJVEc9N",
+      "snippet": "सोनिया गांधी के प्रमुख साथी पहले साथी अहमद पटेल दूसरे साथी मनमोहन सिंह ... Manmohan Singh was a very great economist but even then, if he had ...Read more",
+      "bm25_score_raw": 8.1150950556141,
+      "bm25_score_norm": 0.5883905205344646,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8270226120948792,
+      "embedding_score_norm": 0.46844729592490375,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Manmohan Singh: Pranab Mukherjee was better qualified ...",
+      "url": "https://scroll.in/latest/854083/pranab-mukherjee-was-right-to-feel-upset-after-i-was-chosen-prime-minister-says-manmohan-singh",
+      "snippet": "Former Prime Minister Manmohan Singh on Friday said former President Pranab Mukherjee was right to feel upset when Congress chief Sonia Gandhi named Singh the",
+      "bm25_score_raw": 6.769265601449388,
+      "bm25_score_norm": 0.4677802372118302,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8262829184532166,
+      "embedding_score_norm": 0.45791827408884933,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Why did Sonia Gandhi appoint Manmohan Singh as ...",
+      "url": "https://www.quora.com/Why-did-Sonia-Gandhi-appoint-Manmohan-Singh-as-the-Prime-Minister-of-India-rather-than-any-other-senior-leaders",
+      "snippet": "Why did Sonia Gandhi appoint Manmohan Singh as the Prime Minister of India rather than any other senior leaders?",
+      "bm25_score_raw": 4.419026020320465,
+      "bm25_score_norm": 0.2571569216952588,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.8223879337310791,
+      "embedding_score_norm": 0.4024758897277981,
+      "embedding_rank": 6
+    },
+    {
+      "title": "From Italy to India's Power Centre: The Sonia Gandhi Story",
+      "url": "https://www.youtube.com/watch?v=UaToeHiN6xk",
+      "snippet": "... Manmohan Singh 00:04:11-About Sonia Gandhi 00:07:33-Sonia ... Rahul Gandhi par bhi kitab aayegi?(end)",
+      "bm25_score_raw": 5.448397562237418,
+      "bm25_score_norm": 0.3494069411391535,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.8208720088005066,
+      "embedding_score_norm": 0.38089775819223226,
+      "embedding_rank": 7
+    },
+    {
+      "title": "Did Sonia Gandhi Work in a Restaurant During Her ...",
+      "url": "https://www.instagram.com/reel/DPObV1Mk1yt",
+      "snippet": "सोनिया गांधी के प्रमुख साथी पहले साथी अहमद पटेल दूसरे साथी मनमोहन सिंह ... MANMOHAN SINGH प्रणब मुखर्जी A. K. Antony गुलाम ...Read more",
+      "bm25_score_raw": 11.991084094412042,
+      "bm25_score_norm": 0.9357481553954055,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8155129551887512,
+      "embedding_score_norm": 0.30461537678371897,
+      "embedding_rank": 8
+    },
+    {
+      "title": "Sonia Gandhi - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sonia_Gandhi",
+      "snippet": "# Sonia Gandhi. | Parliamentary Chairperson of the Indian National Congress |. | Leader of the Opposition in Lok Sabha |. She is the longest-serving president of the Indian National Congress, a big-tent liberal political party, which has governed India for most of its post-independence history. She took over as the party leader in 1998, seven years after the assassination of Rajiv Gandhi, her husband and a former Prime Minister of India, and remained in office until 2017 after serving for twenty-two years. She then moved to India and started living with her mother-in-law, the then-Prime Minister of India, Indira Gandhi, at the latter's New Delhi residence. Currently an elected member of the Rajya Sabha representing Rajasthan since 2024, Gandhi has often been cited among the most powerful women in the world and has had considerable influence in Indian politics, especially during the UPA governments and in leading the Congress party.",
+      "bm25_score_raw": 1.5495413459995109,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.8118308186531067,
+      "embedding_score_norm": 0.25220273754567735,
+      "embedding_rank": 9
+    },
+    {
+      "title": "Bindas Bol : गांधी परिवार ने किया मनमोहन सिंह का अपमान",
+      "url": "https://www.youtube.com/watch?v=XZBUrVQJ4G8",
+      "snippet": "... प्रणव मुखर्जी जैसे नेताओं को सच्चा सम्मान नहीं मिला। ... Bindas Bol : गांधी परिवार ने किया मनमोहन सिंह का अपमान | Manmohan Singh Death | Rahul Gandhi | Modi.Read more",
+      "bm25_score_raw": 8.43523111737313,
+      "bm25_score_norm": 0.6170804121036109,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8118083477020264,
+      "embedding_score_norm": 0.2518828792674991,
+      "embedding_rank": 10
+    },
+    {
+      "title": "पीएम इन वेटिंग सोनिया गांधी की शपथ ग्रहण के कार्ड बन चुके थे ...",
+      "url": "https://www.bhaskar.com/bhaskar-khaas/pminwaiting/news/congress-sonia-gandhi-political-journey-rahul-manmohan-singh-133004415.html",
+      "snippet": "May 13, 2024 — कलाम सोनिया को शपथ दिलाने की तैयारी कर रहे थे, लेकिन शाम तक पता चला कि सोनिया गांधी प्रधानमंत्री नहीं बनेंगी। उनकी जगह मनमोहन सिंह के नाम का ऐलान हो गया।Read more",
+      "bm25_score_raw": 6.169670122128266,
+      "bm25_score_norm": 0.41404580569370364,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.7941374778747559,
+      "embedding_score_norm": 0.00035040177423774886,
+      "embedding_rank": 11
+    },
+    {
+      "title": "3145 Manmohan Singh And Congress President Stock ...",
+      "url": "https://www.gettyimages.in/photos/manmohan-singh-and-congress-president",
+      "snippet": "Explore Authentic, Manmohan Singh And Congress President Stock Photos & Images For Your Project Or Campaign. Less Searching, More Finding With Getty Images.",
+      "bm25_score_raw": 2.1562360722059335,
+      "bm25_score_norm": 0.054370650450297896,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.7941128611564636,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "claim": {
+    "id": "S2/T/CM/1098",
+    "text": "madam rajasthan ke bijli bill kitne badhe hain is mahine uske bare meyy apko kuch pata hain buss modi modi karate raho arey apne state meyy kam karo or example set karo khud tooh poora tax vasulo or dusro ko gyan do",
+    "lang": "codemix"
+  },
+  "ranked_evidence": [
+    {
+      "title": "PM Modi assures mothers and sisters of reducing their ...",
+      "url": "https://www.youtube.com/shorts/D-h6xSUMnbY",
+      "snippet": "Modi assures mothers and sisters of reducing their electricity bill to zero … will ensure that their electricity bill is reduced to zero.",
+      "bm25_score_raw": 3.6794786774677046,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Rajasthan's Electric Bus Service to Cut Jaipur-Delhi Travel ...",
+      "url": "https://www.redbus.in/blog/rsrtc-jaipur-to-delhi-electric-bus",
+      "snippet": "Mar 11, 2024 — By reducing air pollution, electric buses help to protect public health and reduce the incidence of respiratory diseases, asthma, and other ...Read more",
+      "bm25_score_raw": 3.629127409400991,
+      "bm25_score_norm": 0.986315651623407,
+      "bm25_rank": 2
+    },
+    {
+      "title": "Rajasthan will provide 100 units of electricity free every ...",
+      "url": "https://www.instagram.com/p/Cs6pEPkth4F?hl=en",
+      "snippet": "Rajasthan will provide 100 units of electricity free every month to each household from June 1, in line with the Congress government's budget declaration.Read more",
+      "bm25_score_raw": 3.476603002969327,
+      "bm25_score_norm": 0.9448629297023129,
+      "bm25_rank": 3
+    },
+    {
+      "title": "Rajasthan CM flags off electric buses under PM e-Bus ...",
+      "url": "https://m.economictimes.com/news/india/rajasthan-cm-flags-off-electric-buses-under-pm-e-bus-sewa-scheme/articleshow/131875084.cms",
+      "snippet": "Jun 20, 2026 — Rajasthan chief minister Bhajanlal Sharma on Saturday flagged off 29 electric buses for public transport. Prime Minister Narendra Modi launched",
+      "bm25_score_raw": 2.4022476611265384,
+      "bm25_score_norm": 0.6528771795410474,
+      "bm25_rank": 4
+    },
+    {
+      "title": "Rajasthan CM flags off electric buses under PM e-Bus ...",
+      "url": "https://theprint.in/india/rajasthan-cm-flags-off-electric-buses-under-pm-e-bus-sewa-scheme/2965485",
+      "snippet": "Jun 20, 2026 — Rajasthan chief minister Bhajanlal Sharma on Saturday flagged off 29 electric buses for public transport. Prime Minister Narendra Modi launched",
+      "bm25_score_raw": 2.4022476611265384,
+      "bm25_score_norm": 0.6528771795410474,
+      "bm25_rank": 5
+    },
+    {
+      "title": "Electricity rates Rajasthan 2025: राजस्थान में बिजली की दरों में होगा बदलाव",
+      "url": "https://www.youtube.com/watch?v=0JOSnzNjmUU",
+      "snippet": "Electricity rates Rajasthan 2025: राजस्थान में बिजली की दरों में होगा बदलाव | Rajasthan News #electricityrates #rajasthannews #electricitybill About",
+      "bm25_score_raw": 1.5692668348099086,
+      "bm25_score_norm": 0.4264916235062711,
+      "bm25_rank": 6
+    },
+    {
+      "title": "राजस्थान में बिजली के नए दाम पर फैसला जल्द ! | Rajasthan Government",
+      "url": "https://www.youtube.com/watch?v=lQsyUvBQHH8",
+      "snippet": "... Time of Day (TOD) tariff to all consumers above 10 kW, excluding ... है TOD टैरिफ Electricity tariffs in Rajasthan are set to change soon!",
+      "bm25_score_raw": 1.2791165504739108,
+      "bm25_score_norm": 0.34763526645960235,
+      "bm25_rank": 7
+    },
+    {
+      "title": "Rajasthan में महंगी होगी बिजली ! डिस्कॉम ने 33% तक बिजली के रेट बढ़ाने के लिए ...",
+      "url": "https://www.youtube.com/watch?v=84Ik-D2EoOs",
+      "snippet": "Rajasthan में महंगी होगी बिजली ! डिस्कॉम ने 33% तक बिजली के रेट बढ़ाने के लिए लगाई याचिका | Top News #rajasthangovernment #rajasthanelectricitybill #zeerajasthannews",
+      "bm25_score_raw": 1.2586658343449422,
+      "bm25_score_norm": 0.3420772192682423,
+      "bm25_rank": 8
+    },
+    {
+      "title": "Rajasthan discoms cut electricity tariff after 25 years",
+      "url": "https://government.economictimes.indiatimes.com/news/governance/rajasthan-discoms-cut-electricity-tariff-after-25-years-over-1-35-crore-consumers-to-benefit/124333167",
+      "snippet": "Oct 6, 2025 — For those consuming 51–150 units per month, energy charges have been reduced from ₹6.50 to ₹6.00 per unit, while for the 150–300 units ...Read more",
+      "bm25_score_raw": 0.9187689335422613,
+      "bm25_score_norm": 0.24970084462470035,
+      "bm25_rank": 9
+    },
+    {
+      "title": "राजस्थान में बिजली महंगी, बिल में 21 पैसे प्रति यूनिट का इजाफा",
+      "url": "https://www.youtube.com/watch?v=2sNUcEmXy6Q",
+      "snippet": "Rajasthan Electricity Price Hike | बिजली उपभोक्ताओं पर अब फ्यूल सरचार्ज का बोझ पड़ेगा. नवंबर और दिसंबर में जारी होने वाली बिल में 21 पैसे प्रति यूनिट अतिरिक्त राशि देनी होगी.",
+      "bm25_score_raw": 0.8586434771763368,
+      "bm25_score_norm": 0.23336009050262346,
+      "bm25_rank": 10
+    },
+    {
+      "title": "राजस्थान में बिजली का बिल मारेगा 'करंट', नई दरें हुई लागू, जानें अब कितना बढ़कर आएगा ...",
+      "url": "https://www.patrika.com/amp/jodhpur-news/rajasthan-electricity-rate-new-electricity-rates-implemented-in-rajasthan-18884254",
+      "snippet": "राजस्थान में बिजली की नई दरें लागू हो गई हैं। ... वहीं, घरेलू विद्युत कनेक्शन पर 5 किलोवाट तक 300 रुपए प्रति माह से बढ़ाकर 330 रुपए 200 यूनिट तक की खपत पर बढ़ा दिए गए हैं।",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11
+    },
+    {
+      "title": "राजस्थान विद्युत नियामक आयोग ने 2025-26 के लिए बिजली की नई दरों को मंजूरी दे दी है ...",
+      "url": "https://www.facebook.com/sanewsRJ/posts/news-%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BE%E0%A4%A8-%E0%A4%B5%E0%A4%BF%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A5%81%E0%A4%A4-%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%BE%E0%A4%AE%E0%A4%95-%E0%A4%86%E0%A4%AF%E0%A5%8B%E0%A4%97-%E0%A4%A8%E0%A5%87-2025-26-%E0%A4%95%E0%A5%87-%E0%A4%B2%E0%A4%BF%E0%A4%8F-%E0%A4%AC%E0%A4%BF%E0%A4%9C%E0%A4%B2%E0%A5%80-%E0%A4%95%E0%A5%80-%E0%A4%A8%E0%A4%88-%E0%A4%A6%E0%A4%B0%E0%A5%8B%E0%A4%82-%E0%A4%95%E0%A5%8B-%E0%A4%AE%E0%A4%82%E0%A4%9C%E0%A5%82%E0%A4%B0%E0%A5%80-%E0%A4%A6/1368183928641958",
+      "snippet": "आयोग ने घरेलू उपभोक्ताओं के लिए राहत भरा फैसला करते हुए 150 यूनिट तक की बिजली दरों में कटौती की है। अब 50 यूनिट तक की दर 4.75 रुपए प्रति यूनिट और 51 से 150 यूनिट तक 6 रुपए प्रति यूनिट तय की",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12
+    }
+  ]
+}

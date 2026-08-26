@@ -1,0 +1,108 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1256",
+    "text": "I am a woman, an artiste, can easily go in a crowd, says Hema Malini campaigning in Mathura",
+    "lang": "english"
+  },
+  "generated_queries": {
+    "english_translation": "I am a woman, an artiste, can easily go in a crowd, says Hema Malini campaigning in Mathura",
+    "native_query": "Hema Malini Mathura woman artiste easily crowd campaigning",
+    "english_query": "Hema Malini Mathura woman artiste easily crowd campaigning"
+  },
+  "native_retrieval": [
+    {
+      "title": "I am a woman, an artiste, can't go in a crowd, says Hema ...",
+      "url": "https://www.indiatvnews.com/politics/national/i-am-a-woman-an-artiste-cant-go-in-a-crowd-says-hema-malini-16045.html",
+      "snippet": "Mar 28, 2014 — Mathura (UP): Yesteryears' Dream Girl Hema Malini is toiling hard to seek votes from people living in the holy city of Mathura,"
+    },
+    {
+      "title": "Pics: Hema Malini Poses With Women Working In Fields ...",
+      "url": "https://www.ndtv.com/india-news/pics-hema-malini-lends-hand-to-women-working-in-fields-while-campaigning-5424733",
+      "snippet": "Apr 12, 2024 — BJP MP and candidate of Mathura constituency, Hema Malini, who has been busy campaigning for Lok Sabha Polls, recently visited a wheat field in Uttar Pradesh.Read more"
+    },
+    {
+      "title": "Hema Malini Poses With Women Working In Fields While ...",
+      "url": "https://www.ndtv.com/video/hema-malini-poses-with-women-working-in-fields-while-campaigning-775623",
+      "snippet": "Apr 12, 2024 — BJP MP and candidate of Mathura constituency, Hema Malini, who has been busy campaigning for Lok Sabha Polls, recently visited a wheat field in Uttar Pradesh.Read more"
+    },
+    {
+      "title": "NDTV Election Carnival: Hema Malini Counters Congress' ...",
+      "url": "https://www.youtube.com/watch?v=F1n7v5nd5k4",
+      "snippet": "Her 10-year record as Mathura MP has turned her into a \"brijwasi\", actor-politician Hema Malini told NDTV today in a rebuttal to her"
+    },
+    {
+      "title": "#Mathura: Hema Malini brings star quotient—but little else",
+      "url": "https://www.newslaundry.com/2019/04/04/mathura-hema-malini-brings-star-quotient-but-little-else",
+      "snippet": "Apr 4, 2019 — The Bharatiya Janata Party MP from Mathura has again got a ticket to contest from this Uttar Pradesh constituency. Her home is distinctly white, ...Read more"
+    },
+    {
+      "title": "Mathura - No Cakewalk For Dream Girl Hema Malini",
+      "url": "https://www.thecitizen.in/india/mathura-no-cakewalk-for-dream-girl-hema-malini-1025611",
+      "snippet": "Apr 29, 2024 — Around 17 villages spread over Raya, Goverdhan and Mant Assembly constituencies in Mathura had initiated a boycott of the April 26 Lok Sabha ...Read more"
+    }
+  ],
+  "english_retrieval": [
+    {
+      "title": "I am a woman, an artiste, can't go in a crowd, says Hema ...",
+      "url": "https://www.indiatvnews.com/politics/national/i-am-a-woman-an-artiste-cant-go-in-a-crowd-says-hema-malini-16045.html",
+      "snippet": "Mar 28, 2014 — Mathura (UP): Yesteryears' Dream Girl Hema Malini is toiling hard to seek votes from people living in the holy city of Mathura,"
+    },
+    {
+      "title": "Pics: Hema Malini Poses With Women Working In Fields ...",
+      "url": "https://www.ndtv.com/india-news/pics-hema-malini-lends-hand-to-women-working-in-fields-while-campaigning-5424733",
+      "snippet": "Apr 12, 2024 — BJP MP and candidate of Mathura constituency, Hema Malini, who has been busy campaigning for Lok Sabha Polls, recently visited a wheat field in Uttar Pradesh.Read more"
+    },
+    {
+      "title": "Hema Malini Poses With Women Working In Fields While ...",
+      "url": "https://www.ndtv.com/video/hema-malini-poses-with-women-working-in-fields-while-campaigning-775623",
+      "snippet": "Apr 12, 2024 — BJP MP and candidate of Mathura constituency, Hema Malini, who has been busy campaigning for Lok Sabha Polls, recently visited a wheat field in Uttar Pradesh.Read more"
+    },
+    {
+      "title": "NDTV Election Carnival: Hema Malini Counters Congress' ...",
+      "url": "https://www.youtube.com/watch?v=F1n7v5nd5k4",
+      "snippet": "Her 10-year record as Mathura MP has turned her into a \"brijwasi\", actor-politician Hema Malini told NDTV today in a rebuttal to her"
+    },
+    {
+      "title": "#Mathura: Hema Malini brings star quotient—but little else",
+      "url": "https://www.newslaundry.com/2019/04/04/mathura-hema-malini-brings-star-quotient-but-little-else",
+      "snippet": "Apr 4, 2019 — The Bharatiya Janata Party MP from Mathura has again got a ticket to contest from this Uttar Pradesh constituency. Her home is distinctly white, ...Read more"
+    },
+    {
+      "title": "Mathura - No Cakewalk For Dream Girl Hema Malini",
+      "url": "https://www.thecitizen.in/india/mathura-no-cakewalk-for-dream-girl-hema-malini-1025611",
+      "snippet": "Apr 29, 2024 — Around 17 villages spread over Raya, Goverdhan and Mant Assembly constituencies in Mathura had initiated a boycott of the April 26 Lok Sabha ...Read more"
+    }
+  ],
+  "merged_results": [
+    {
+      "title": "I am a woman, an artiste, can't go in a crowd, says Hema ...",
+      "url": "https://www.indiatvnews.com/politics/national/i-am-a-woman-an-artiste-cant-go-in-a-crowd-says-hema-malini-16045.html",
+      "snippet": "Mar 28, 2014 — Mathura (UP): Yesteryears' Dream Girl Hema Malini is toiling hard to seek votes from people living in the holy city of Mathura,"
+    },
+    {
+      "title": "Pics: Hema Malini Poses With Women Working In Fields ...",
+      "url": "https://www.ndtv.com/india-news/pics-hema-malini-lends-hand-to-women-working-in-fields-while-campaigning-5424733",
+      "snippet": "Apr 12, 2024 — BJP MP and candidate of Mathura constituency, Hema Malini, who has been busy campaigning for Lok Sabha Polls, recently visited a wheat field in Uttar Pradesh.Read more"
+    },
+    {
+      "title": "Hema Malini Poses With Women Working In Fields While ...",
+      "url": "https://www.ndtv.com/video/hema-malini-poses-with-women-working-in-fields-while-campaigning-775623",
+      "snippet": "Apr 12, 2024 — BJP MP and candidate of Mathura constituency, Hema Malini, who has been busy campaigning for Lok Sabha Polls, recently visited a wheat field in Uttar Pradesh.Read more"
+    },
+    {
+      "title": "NDTV Election Carnival: Hema Malini Counters Congress' ...",
+      "url": "https://www.youtube.com/watch?v=F1n7v5nd5k4",
+      "snippet": "Her 10-year record as Mathura MP has turned her into a \"brijwasi\", actor-politician Hema Malini told NDTV today in a rebuttal to her"
+    },
+    {
+      "title": "#Mathura: Hema Malini brings star quotient—but little else",
+      "url": "https://www.newslaundry.com/2019/04/04/mathura-hema-malini-brings-star-quotient-but-little-else",
+      "snippet": "Apr 4, 2019 — The Bharatiya Janata Party MP from Mathura has again got a ticket to contest from this Uttar Pradesh constituency. Her home is distinctly white, ...Read more"
+    },
+    {
+      "title": "Mathura - No Cakewalk For Dream Girl Hema Malini",
+      "url": "https://www.thecitizen.in/india/mathura-no-cakewalk-for-dream-girl-hema-malini-1025611",
+      "snippet": "Apr 29, 2024 — Around 17 villages spread over Raya, Goverdhan and Mant Assembly constituencies in Mathura had initiated a boycott of the April 26 Lok Sabha ...Read more"
+    }
+  ]
+}

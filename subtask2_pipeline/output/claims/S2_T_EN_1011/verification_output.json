@@ -1,0 +1,6 @@
+{
+  "ID": "S2/T/EN/1011",
+  "Evidence": "The Chandigarh administration has lifted all remaining COVID-19 restrictions, which includes the mandate for wearing masks in public places (Source 1). This decision comes amid a rise in coronavirus cases, as indicated by the context of the claim. However, there was a previous mandate for wearing face masks in crowded or closed settings due to a specific COVID sub-variant (Source 2), but this has now been rescinded. Source 3 does not provide relevant information regarding the mask mandate in Chandigarh.",
+  "Prediction": "SUPPORTS",
+  "Justification": "The retrieved evidence from Source 1 clearly states that Chandigarh has lifted all COVID-19 restrictions, including the requirement to wear masks in public places. This directly supports the claim that Chandigarh has lifted the face mask mandate amid rising coronavirus cases. Source 2 indicates a previous mask mandate, but it is no longer in effect, confirming the claim's accuracy."
+}

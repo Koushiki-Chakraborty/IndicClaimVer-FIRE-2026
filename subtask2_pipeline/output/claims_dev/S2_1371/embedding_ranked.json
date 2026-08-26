@@ -1,0 +1,76 @@
+{
+  "claim": {
+    "id": "S2/1371",
+    "text": "Govt: 20-23% Covid cases requiring hospitalisation, but situation may change",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "COVID-19 Response: Living with COVID-19 - GOV.UK",
+      "url": "https://www.gov.uk/government/publications/covid-19-response-living-with-covid-19/covid-19-response-living-with-covid-19",
+      "snippet": "We’d like to set additional cookies to understand how you use GOV.UK, remember your settings and improve government services. # COVID-19 Response: Living with COVID-19. This publication is available at https://www.gov.uk/government/publications/covid-19-response-living-with-covid-19/covid-19-response-living-with-covid-19. This document sets out how the Government has and will continue to protect and support citizens by: enabling society and the economy to open up more quickly than many comparable countries; using vaccines; and supporting the National Health Service (NHS) and social care sector. Vaccines have enabled the gradual and safe removal of restrictions on everyday life over the past year, and will remain at the heart of the Government’s approach to living with the virus in the future. As a result of the vaccine rollout, the Government was able to ease restrictions in England through the first half of 2021 - following the plan set out in the Roadmap in the Government’s ‘COVID-19 Response: Spring 2021’ publication.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.5,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.818052351474762,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Coronavirus | Department of Health",
+      "url": "https://www.pa.gov/agencies/health/diseases-conditions/infectious-disease/respiratory-viruses/covid-19",
+      "snippet": "If you are in danger, call 911. of the Commonwealth of Pennsylvania. ## COVID-19 is a respiratory disease caused by the SARS-CoV-2 virus. COVID-19 spreads through tiny droplets when people with COVID-19 cough, sneeze, or talk. You can also get it by touching a surface with the virus on it, then touching your eyes, nose or mouth. Cover your mouth with your elbow when you cough or sneeze and avoid touching your face. ## COVID-19 is still causing serious illness, hospitalizations, and deaths in Pennsylvania. + Deaths caused by COVID-19 are thought to be underestimated due to factors such as under-reporting on death certificates and a lack of viral testing of people who died from COVID-19. Even if you have mild symptoms, you may spread COVID-19 to someone who is at high risk of getting seriously sick. If you test positive, you can take steps to reduce your risk of severe illness and prevent spreading the virus to others.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.5,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8126214742660522,
+      "embedding_score_norm": 0.6923796308488047,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Coronavirus disease 2019 (COVID-19)",
+      "url": "https://www.mayoclinic.org/diseases-conditions/coronavirus/symptoms-causes/syc-20479963",
+      "snippet": "*   Research & Education at Mayo Clinic  ## Research  Research at Mayo Clinic  Research Faculty  Laboratories  Core Facilities  Centers & Programs  Departments & Divisions  Clinical Trials  Institutional Review Board  Postdoctoral Fellowships  Training Grant Programs    ## Education  Mayo Clinic College of Medicine and Science  Mayo Clinic Graduate School of Biomedical Sciences  Mayo Clinic Alix School of Medicine  Mayo Clinic School of Graduate Medical Education  Mayo Clinic School of Health Sciences  Mayo Clinic School of Continuous Professional Development    Mayo Clinic College of Medicine and Science     Image 5. Coronavirus disease 2019 (COVID-19), is an illness caused by a virus. But for older adults and people with certain medical conditions, COVID-19 can lead to the need for care in the hospital or death. Staying up to date on your COVID-19 vaccine helps prevent serious illness, the need for hospital care due to COVID-19 and death from COVID-19. People who are at high risk of serious illness may get medicine to block the spread of the COVID-19 virus in the body.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.5,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.812565267086029,
+      "embedding_score_norm": 0.6891958959192148,
+      "embedding_rank": 3
+    },
+    {
+      "title": "[PDF] COVID-19 Frequently Asked Questions (FAQs) on Medicare Fee-for ...",
+      "url": "https://www.cms.gov/files/document/03092020-covid-19-faqs-508.pdf",
+      "snippet": "Answer: As part of the Public Health Emergency (PHE) for the COVID-19 pandemic and in an effort to be as expansive as possible within the current authorities to have diagnostic testing available to Medicare beneficiaries who need it, in the interim final rule with comment period, we are changing the Medicare payment rules during the PHE for the COVID-19 pandemic to provide payment to independent laboratories for specimen collection from beneficiaries who are homebound or inpatients not in a hospital for COVID­ 19 testing under certain circumstances. Question: During the COVID-19 Public Health Emergency (PHE), does Medicare pay Indian Health Service (IHS) hospitals an all-inclusive outpatient per visit rate (AIR) for COVID-19 specimen collection and laboratory testing provided by the HOPD staff when the beneficiary did not interact with a physician or non-physician practitioner (NPP)?",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.5,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8124141693115234,
+      "embedding_score_norm": 0.6806372871742411,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Infection Control Guidance: SARS-CoV-2",
+      "url": "https://www.cdc.gov/covid/hcp/infection-control/index.html",
+      "snippet": "# Infection Control Guidance: SARS-CoV-2. **Updates:**Recommendations included in this guidance (e.g., duration of isolation, recommended personal protective equipment) are being reviewed as part of updates to the _2007 Guideline for Isolation Precautions_ now titled: **Part One Draft update to the _Guideline for Isolation Precautions: Preventing Transmission of Infectious Agents in Healthcare Settings_**_._ Once the draft is finalized by the Healthcare Infection Control Practices Advisory Committee (HICPAC), it will be posted in the Federal Register for a public comment period before being returned to HICPAC for additional review. This guidance provides a framework for facilities to implement select infection prevention and control practices (e.g., universal source control) based on their individual circumstances (e.g., levels of respiratory virus transmission in the community). *   Close contact with someone with SARS-CoV-2 infection (for patients and visitors) or a higher-risk exposure (for healthcare personnel (HCP). *   The definition of higher-risk exposure and recommendations for evaluation and work restriction of these HCP are in the Interim Guidance for Managing Healthcare Personnel with SARS-CoV-2 Infection or Exposure to SARS-CoV-2.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.5,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8088401556015015,
+      "embedding_score_norm": 0.47819496071818035,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Optimal national prioritization policies for hospital care ...",
+      "url": "https://www.nature.com/articles/s43588-021-00111-1",
+      "snippet": "by JC D’Aeth · 2021 · Cited by 27 — Policies that prioritize patients with COVID-19 over other patients with greater capacity to benefit may result in immediate or delayed deaths ...Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.5,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8003978729248047,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6
+    }
+  ]
+}

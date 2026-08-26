@@ -1,0 +1,8 @@
+=== IndicSBERT (l3cube-pune/indic-sentence-bert-nli) Dense retrieval (data/ train+dev, Colab GPU) ===
+Language     Success@3    nDCG@3       n       
+--------------------------------------------
+Hindi        0.669        0.456        1432    
+Bengali      0.503        0.356        978     
+English      0.653        0.481        1967    
+Code-mixed   0.575        0.379        1293    
+Overall      0.614        0.430        5670    

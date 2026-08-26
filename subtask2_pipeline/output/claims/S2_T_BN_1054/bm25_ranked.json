@@ -1,0 +1,105 @@
+{
+  "claim": {
+    "id": "S2/T/BN/1054",
+    "text": "পানীয় জল নিয়ে কড়া মমতা, অনিয়ম হলে গ্রেফতারির নির্দেশ মুখ্যমন্ত্রী'র",
+    "lang": "bengali"
+  },
+  "ranked_evidence": [
+    {
+      "title": "Punjab chief minister hospitalized after drinking water from 'holy river'",
+      "url": "https://www.dhakatribune.com/amp/world/south-asia/274719/punjab-chief-minister-hospitalized-after-drinking",
+      "snippet": "Punjab chief minister hospitalized after drinking water from 'holy river'. The water is usually polluted with sewage waste from neighbouring",
+      "bm25_score_raw": 2.403660609513633,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Indian chief minister hospitalized after drinking water from 'holy river'",
+      "url": "https://www.arabnews.com/node/2127866/amp",
+      "snippet": "Punjab Chief Minister Bhagwant Mann was seen scooping and drinking a glass of water from Kali Bein, a holy river in Sultanpur Lodhi, during the launch event.",
+      "bm25_score_raw": 2.2039220017740533,
+      "bm25_score_norm": 0.9169023251664488,
+      "bm25_rank": 2
+    },
+    {
+      "title": "Indian minister falls ill after drinking sewage-polluted water from holy river",
+      "url": "https://www.arabnews.com/node/2128176/amp",
+      "snippet": "The 48-year-old chief minister of Punjab, Bhagwant Mann, was said to have filled the glass with water from the 'holy' river Kali Bein in a bid",
+      "bm25_score_raw": 1.9339515187060492,
+      "bm25_score_norm": 0.8045859349075798,
+      "bm25_rank": 3
+    },
+    {
+      "title": "Indian Chief Minister's 'Holy Water' Stunt Backfires Badly",
+      "url": "https://www.thedailybeast.com/indian-chief-minister-bhagwant-mann-hospitalized-after-drinking-holy-water-from-polluted-kali-bein-river",
+      "snippet": "The chief state minister of Punjab, India was airlifted to a hospital Tuesday with a severe stomach ache after drinking water from a polluted holy river in a",
+      "bm25_score_raw": 1.6305170013124892,
+      "bm25_score_norm": 0.6783474317709167,
+      "bm25_rank": 4
+    },
+    {
+      "title": "COD Water Analysis",
+      "url": "https://www.process-insights.com/applications/cod-water-analysis",
+      "snippet": "Chemical Oxygen Demand (COD) is the amount of oxygen needed to chemically break down organic matter in water using strong oxidants like potassium dichromate.",
+      "bm25_score_raw": 0.7517915179760841,
+      "bm25_score_norm": 0.3127694130363125,
+      "bm25_rank": 5
+    },
+    {
+      "title": "Water Served At Madhya Pradesh Chief Minister's Event Fails Safety ...",
+      "url": "https://www.ndtv.com/india-news/water-served-at-madhya-pradesh-chief-ministers-event-fails-safety-checks-11660502/amp/1",
+      "snippet": "The first key lapse during the chief minister's programme was the supply of water that did not meet safety standards.",
+      "bm25_score_raw": 0.7309766787935122,
+      "bm25_score_norm": 0.30410977152944285,
+      "bm25_rank": 6
+    },
+    {
+      "title": "Determination of Chemical Oxygen Demand (COD)",
+      "url": "https://www.youtube.com/watch?v=pIu34-DSAl8",
+      "snippet": "The chemical oxygen demand (COD) is a measure of water and wastewater quality. The COD test is often used to monitor the efficiency of a water",
+      "bm25_score_raw": 0.7259518247861481,
+      "bm25_score_norm": 0.3020192709040734,
+      "bm25_rank": 7
+    },
+    {
+      "title": "Chemical Oxygen Demand (COD) - Water Quality Parameter | Hach",
+      "url": "https://my.hach.com/parameters/chemical-oxygen-demand",
+      "snippet": "- Intellical ProbesWQC Series/Portable Water Quality Meter. # Chemical Oxygen Demand (COD). Chemical oxygen demand (COD) is the amount of dissolved oxygen that must be present in water to oxidize chemical organic materials, like petroleum. Like COD, biochemical oxygen demand (BOD) measurement can be used to estimate the amount of pollution in a water sample. To help determine the impact and ultimately limit the amount of organic pollution in water, oxygen demand is an essential measurement. At Hach ®, find the testing equipment, resources, training and software for COD measurement and management during water treatment. Oxygen demand is useful for measuring waste loadings, evaluating the efficiency of the treatment process, and ensuring compliance with regulations for the oxygen demand of effluent. For compliance, it’s necessary to measure BOD or COD in the influent water as it enters the plant, before mechanical screening processes and at the end of the treatment at the discharge point.",
+      "bm25_score_raw": 0.6761176785354894,
+      "bm25_score_norm": 0.2812866657877703,
+      "bm25_rank": 8
+    },
+    {
+      "title": "Determination of COD in waste water",
+      "url": "https://www.youtube.com/watch?v=o2SkPNNGejU",
+      "snippet": "Determination of Chemical Oxygen Demand (COD)-A Complete Procedure (Dichromate Mercury Free Method). MicroChem's Experiments · 120K views ; Sodium",
+      "bm25_score_raw": 0.5822066931707591,
+      "bm25_score_norm": 0.24221668020285334,
+      "bm25_rank": 9
+    },
+    {
+      "title": "Delhi chief minister Kejriwal arrested in liquor graft case",
+      "url": "https://www.reuters.com/world/india/delhi-chief-minister-kejriwal-arrested-liquor-graft-case-ndtv-reports-2024-03-21",
+      "snippet": "India's financial crime agency arrested Arvind Kejriwal, the chief minister of Delhi on Thursday in connection with graft allegations relating to the city's",
+      "bm25_score_raw": 0.5093244955915637,
+      "bm25_score_norm": 0.21189534561396445,
+      "bm25_rank": 10
+    },
+    {
+      "title": "Chemical oxygen demand - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Chemical_oxygen_demand",
+      "snippet": "Measure of the amount of oxygen that can be consumed by reactions in a solution. In environmental chemistry, the **chemical oxygen demand** (**COD**) is an indicative measure of the amount of oxygen that can be consumed by reactions in a measured solution \"Solution (chemistry)\"). A COD test can be used to quickly quantify the amount of organics in water. The basis for the COD test is that nearly all organic compounds can be fully oxidized to carbon dioxide with a strong oxidizing agent under acidic conditions. The amount of oxygen required to oxidize an organic compound to carbon dioxide, ammonia, and water is given by:. Most commonly, a 0.25 N \"Normality (chemistry)\") solution of potassium dichromate is used for COD determination, although for samples with COD below 50 mg/L, a lower concentration of potassium dichromate is preferred. The amount of Cr3+ is determined after oxidization is complete and is used as an indirect measure of the organic contents of the water sample.",
+      "bm25_score_raw": 0.37652864280529447,
+      "bm25_score_norm": 0.15664800650932284,
+      "bm25_rank": 11
+    },
+    {
+      "title": "How to Reduce COD in Wastewater",
+      "url": "https://www.ssiaeration.com/en/news/how-to-reduce-cod-in-wastewater",
+      "snippet": "COD reduction is essential for wastewater treatment. COD measures the amount of oxygen needed to break down organic matter in wastewater.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "claim": {
+    "id": "S2/T/BN/1051",
+    "text": "আলিপুরদুয়ার লোকসভা আসন থেকে সরে দাঁড়াতে সরাসরি মনোজ টিগ্গাকে বললেন জন বারলা",
+    "lang": "bengali"
+  },
+  "ranked_evidence": [
+    {
+      "title": "আলিপুরদুয়ার লোকসভা আসন থেকে সরে দাঁড়াতে সরাসরি মনোজ ...",
+      "url": "https://www.etvbharat.com/bn/!politics/bjp-mp-john-barla-says-to-party-leader-manoj-tigga-to-withdraw-his-candidature-from-alipurduar-wbs24030605239",
+      "snippet": "Mar 6, 2024 — Lok Sabha Elections 2024: বুধবার রেলের এক অনুষ্ঠানে মাদারিহাট স্টেশনে মুখোমুখি হন আলিপুরদুয়ারের সাংসদ জন বারলা ও মাদারিহাটের বিধায়ক মনোজ টিগ্গা ৷ মনোজকে এবার বিজেপি আলিপুরদুয়ারের প্রার্থী করেছে ৷",
+      "bm25_score_raw": 5.342886344168066,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Alipurduars constituency Lok Sabha Election Results 2024",
+      "url": "https://www.brutimes.com/news/politics/alipurduars-constituency-lok-sabha-election-results-2024",
+      "snippet": "... Manoj Tigga won the seat by 75447 votes by defeating AITC Prakash Chik Baraik ... In the 2019 Lok Sabha elections, BJP candidate John Barla won the election by",
+      "bm25_score_raw": 4.833292669447622,
+      "bm25_score_norm": 0.8954101759317569,
+      "bm25_rank": 2
+    },
+    {
+      "title": "Union minister of state for minority affairs, John Barla ...",
+      "url": "https://www.instagram.com/reel/C4NQh2rJbsN?hl=en",
+      "snippet": "... Lok Sabha polls. Visibly upset, Barla challenged Tigga and started campaigning against him by saying, “No vote for Manoj Tigga.” #JohnBarla",
+      "bm25_score_raw": 2.837159226281556,
+      "bm25_score_norm": 0.4857205428098259,
+      "bm25_rank": 3
+    },
+    {
+      "title": "টিগ্গাকে 'ভাই' ডেকে প্রচারের আশ্বাস বার্লার",
+      "url": "https://www.anandabazar.com/elections/lok-sabha-election-2024/john-barla-scales-down-her-voice-and-has-supported-manoj-tigga-in-alipurduar/cid/1502571",
+      "snippet": "Mar 13, 2024 — সুর নরম করলেন জন বার্লা। জানিয়ে দিলেন, লোকসভা নির্বাচনে দলের প্রার্থী মনোজ টিগ্গার হয়ে প্রচারে নামবেন তিনি। আসন্ন লোকসভা নির্বাচনে টিগ্গা সাড়ে তিন লক্ষ ভোটে জিতবেন বলেও দাবি করলেন আলিপুরদয়ারের বিদায়ী ...Read more",
+      "bm25_score_raw": 2.816492478371475,
+      "bm25_score_norm": 0.48147886628359376,
+      "bm25_rank": 4
+    },
+    {
+      "title": "জন বার্লাকে হটিয়ে আলিপুরদুয়ারে BJP প্রার্থী মনোজ টিগ্গা ...",
+      "url": "https://www.youtube.com/watch?v=vpo-z6V-5U0",
+      "snippet": "alipurduar #manojtigga #bjp #johnbarla #aajtakbangla #aajtak 2024 লোকসভা ভোটের নির্ঘণ্ট ঘোষণার আগেই বিজেপির 195 জনের প্রার্থী তালিকা প্রকাশ্যে। 195 জন প্রার্থীর নাম ঘোষণা",
+      "bm25_score_raw": 1.4873144388926742,
+      "bm25_score_norm": 0.20867623116312498,
+      "bm25_rank": 5
+    },
+    {
+      "title": "The Member of Parliament of Alipurduar Manoj Tigga ...",
+      "url": "https://www.facebook.com/newsaddaslg/posts/the-member-of-parliament-of-alipurduar-manoj-tigga-expressed-strong-dissatisfact/1373975144738410",
+      "snippet": "#WestBengal | A heated exchange broke out between BJP MP #ManojTigga and the Madarihat BDO during an inspection of flood relief operations.Read more",
+      "bm25_score_raw": 1.3881891362164542,
+      "bm25_score_norm": 0.188331594873625,
+      "bm25_rank": 6
+    },
+    {
+      "title": "John Barla Manoj Tigga: টিকিট না-পেয়ে 'নো ভোট টু মনোজ ...",
+      "url": "https://bangla.aajtak.in/west-bengal/story/alipurduar-loksabha-seat-bjp-candidate-manoj-tigga-speaks-about-minister-john-barla-ssr-922074-2024-03-07",
+      "snippet": "Mar 7, 2024 — John Barla Manoj Tigga: তাঁকে প্রার্থী না করায় ক্ষোভ ছিল জনের মধ্যে। তবে তা যে এভাবে প্রকাশ্যে তিনি উগরে দেবেন এবং দলের প্রার্থীকে সরাসরি প্রার্থীপদ প্রত্যাহার করতে বলবেন তা কেউ ভাবতে পারেননি।",
+      "bm25_score_raw": 1.2188285363532838,
+      "bm25_score_norm": 0.15357175341072135,
+      "bm25_rank": 7
+    },
+    {
+      "title": "Former Union minister John Barla quits BJP, joins TMC",
+      "url": "https://timesofindia.indiatimes.com/city/kolkata/former-union-min-barla-joins-tmc-slams-suvendu-for-obstruction-bids/articleshow/121196439.cms",
+      "snippet": "May 16, 2025 — John Barla, former junior Union minister, left BJP and joined Trinamool Congress. He criticized Suvendu Adhikari for hindering his work in",
+      "bm25_score_raw": 0.7743329627006548,
+      "bm25_score_norm": 0.06234276813545298,
+      "bm25_rank": 8
+    },
+    {
+      "title": "Barla, the former Alipurduars MP, distanced himself from ...",
+      "url": "https://www.facebook.com/TheWeekMag/posts/barla-the-former-alipurduars-mp-distanced-himself-from-the-bjp-after-being-denie/1159531716219239",
+      "snippet": "Barla, the former Alipurduars MP, distanced himself from the BJP after being denied a ticket in the last Lok Sabha elections #WestBengal",
+      "bm25_score_raw": 0.6666740031934018,
+      "bm25_score_norm": 0.04024667041522362,
+      "bm25_rank": 9
+    },
+    {
+      "title": "JUST IN: Rebellion in BJP - MoS John Barla Union Minister of ...",
+      "url": "https://www.facebook.com/TheDarjChron/posts/just-in-rebellion-in-bjp-mos-john-barla-union-minister-of-state-for-minority-aff/784651180364631",
+      "snippet": "Under his leadership, BJP has retained all seven MLA constituencies in Alipurduar district. However, that tally has come down to six following BJP's",
+      "bm25_score_raw": 0.6254269864972013,
+      "bm25_score_norm": 0.03178106647702304,
+      "bm25_rank": 10
+    },
+    {
+      "title": "'মনোজ আমার ভাই', মোদির সভার পরই সুর নরম 'বিদ্রোহী' বার্লার",
+      "url": "https://www.sangbadpratidin.in/bengal/alipurduar-lok-sabha-election-news-manoj-tigga-is-my-brother-says-john-barla/pid/937330",
+      "snippet": "Mar 12, 2024 — রাজ কুমার, আলিপুরদুয়ার: সামনেই লোকসভা নির্বাচন (2024 Lok Sabha election)। তার আগে আলিপুরদুয়ার কেন্দ্রের বিজেপি প্রার্থী মনোজ টিগ্গার (Manoj Tigga) সঙ্গে দ্বন্দ্ব মিটিয়ে হাতে হাত রাখার বার্তা দিলেন ...Read more",
+      "bm25_score_raw": 0.5690916115666779,
+      "bm25_score_norm": 0.02021870366701703,
+      "bm25_rank": 11
+    },
+    {
+      "title": "Manoj Tigga: লক্ষ্য ৩৫ আসন, জেলায় অক্সিজেন জোগাচ্ছেন মনোজ ...",
+      "url": "https://tv9bangla.com/west-bengal/alipurduar/manoj-tigga-new-state-bjp-president-of-alipurduar-came-to-office-875534.html",
+      "snippet": "Aug 8, 2023 — Manoj Tigga: দু বারের বিধায়ক মনোজ টিজ্ঞা। ২০২৪-এর লোকসভা নির্বাচনের আগে তাঁকেই চেয়ারে বসাল শীর্ষ নেতৃত্ব।",
+      "bm25_score_raw": 0.47057989121961835,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12
+    }
+  ]
+}

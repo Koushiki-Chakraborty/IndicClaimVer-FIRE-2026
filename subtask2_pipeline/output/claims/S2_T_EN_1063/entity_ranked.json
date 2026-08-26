@@ -1,0 +1,99 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1063",
+    "text": "Pawar praised Modi for being patient about becoming Prime Minister.",
+    "lang": "english"
+  },
+  "entity_ranked_evidence": [
+    {
+      "title": "Narendra Modi’s Sharad Pawar praise lands state BJP in a tight spot | Pune News - The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/pune/modis-pawar-praise-lands-state-bjp-in-a-tight-spot/articleshow/55444573.cms",
+      "snippet": "PUNE: With Prime Minister Narendra Modi publicly admiring Sharad Pawar’s role as his political mentor, BJP leaders in the state, including chief minister Devendra Fadnavis, are in a tight spot.While the state BJP cadre is pressurising the government to launch an offensive against Nationalist Congress Party (NCP) leaders accused of being involved in irrigation and other scams, the chief minister and his colleagues in cabinet are confused with Modi and senior leaders, like Nitin Gadkari, rubbing shoulders with Pawar and showering praises on him. However, a section of BJP leaders look at the bonhomie as an effort by the PM to keep Pawar on his side at a time when the entire opposition is joining hands against him ahead of the winter session in the parliament. Adding to BJP workers’ woes, on Monday Gadkari was in Manjari to attend the sugar conference and shared the dais with Pawar.BJP sources said that the PM’s admiration for Pawar is because he was the only UPA minister who cooperated Modi after the Gujarat riots even as other ministers at the Centre boycotted Modi when he was Gujarat chief minister.",
+      "bm25_score_raw": 1.6144517707524686,
+      "bm25_score_norm": 0.09807070020581558,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8355307579040527,
+      "embedding_score_norm": 0.5292749147749451,
+      "embedding_rank": 3,
+      "entity_overlap_raw": 2,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 1
+    },
+    {
+      "title": "Sharad Pawar praises PM Modi!",
+      "url": "https://www.instagram.com/p/DYr4BAKJF97",
+      "snippet": "Congress leader #PawanKhera took a swipe at #ShashiTharoor over his praise for PM Narendra Modi, claiming Tharoor was crediting the Prime ...Read more",
+      "bm25_score_raw": 1.4529367099442836,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8497751355171204,
+      "embedding_score_norm": 0.9438737715014356,
+      "embedding_rank": 2,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 2
+    },
+    {
+      "title": "Working To Protect India's Global Prestige: Sharad Pawar ...",
+      "url": "https://www.ndtv.com/india-news/working-to-protect-indias-global-prestige-sharad-pawar-praises-pm-narendra-modi-11520700",
+      "snippet": "May 20, 2026 — Working To Protect India's Global Prestige: Sharad Pawar Praises PM Modi ... Quoting a conversation with former diplomat and prime minister I K ...Read more",
+      "bm25_score_raw": 2.2177856396822615,
+      "bm25_score_norm": 0.46441037582342254,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8273721933364868,
+      "embedding_score_norm": 0.2918105878577067,
+      "embedding_rank": 4,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 3
+    },
+    {
+      "title": "Should Narendra Modi supporters feel happy that Sharad ...",
+      "url": "https://www.quora.com/Should-Narendra-Modi-supporters-feel-happy-that-Sharad-Pawar-has-praised-Narendra-Modi-saying-that-he-has-good-hold-on-administration-which-was-lacking-in-earlier-Prime-Ministers-like-Dr-Manmohan-Singh-Will-his",
+      "snippet": "Should Narendra Modi supporters feel happy that Sharad Pawar has praised Narendra Modi, saying that he has good hold on administration, which was lacking",
+      "bm25_score_raw": 3.099861433324684,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8517034649848938,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 4
+    },
+    {
+      "title": "Mumbai, Maharashtra: On NCP (SP) chief Sharad Pawar ...",
+      "url": "https://x.com/ians_india/status/2057424559842934942",
+      "snippet": "Mumbai, Maharashtra: On NCP (SP) chief Sharad Pawar praising Prime Minister Narendra Modi, Shiv Sena spokesperson Krishna Hegde says, \"Sharad ...Read more",
+      "bm25_score_raw": 1.6377686636911317,
+      "bm25_score_norm": 0.11222853790637786,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8245607614517212,
+      "embedding_score_norm": 0.20998065629797977,
+      "embedding_rank": 5,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 5
+    },
+    {
+      "title": "In a heartfelt moment in the Rajya Sabha, Narendra Modi ...",
+      "url": "https://www.instagram.com/reel/DWBn0QTgT_v?hl=en",
+      "snippet": "In a heartfelt moment in the Rajya Sabha, Narendra Modi praised veteran leaders H. D. Deve Gowda, Mallikarjun Kharge, and Sharad Pawar.Read more",
+      "bm25_score_raw": 2.3877134362356838,
+      "bm25_score_norm": 0.567589224340941,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.817346453666687,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 6
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "claim": {
+    "id": "S2/1075",
+    "text": "Covid test, home quarantine must for int'l passengers landing in India | New rules",
+    "lang": "dev"
+  },
+  "ranked_evidence": [
+    {
+      "title": "Seated near a COVID-positive passenger on flight? You ...",
+      "url": "https://www.cntraveller.in/story/seated-near-a-covid-positive-passenger-on-flight-you-will-have-to-quarantine-for-14-days-omicron-new-rules-international-arrivals",
+      "snippet": "You will have to quarantine for 14 days Increased. India has just issued fresh rules for international arrivals, including quarantine …",
+      "bm25_score_raw": 1.8641774307247898,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "India coronavirus: How do quarantine rules differ in major ...",
+      "url": "https://www.bbc.com/news/world-asia-india-53218018",
+      "snippet": "Asymptomatic passengers arriving here will need to stay at home for two weeks. Symptomatic passengers will be moved to institutional quarantine.",
+      "bm25_score_raw": 1.6197318578559448,
+      "bm25_score_norm": 0.8208719490925616,
+      "bm25_rank": 2
+    },
+    {
+      "title": "COVID-19 State-Wise Quarantine Guidelines For USA",
+      "url": "https://www.myticketstoindia.com/travel-news/state-wise-quarantine-guidelines-for-people-itinerating-from-usa-to-india",
+      "snippet": "According to the India travel restrictions, passengers will have to quarantine themselves for 14 days at government-designated hotels. The",
+      "bm25_score_raw": 0.7613014772519907,
+      "bm25_score_norm": 0.19182001285716835,
+      "bm25_rank": 3
+    },
+    {
+      "title": "State Wise Quarantine Regulations",
+      "url": "https://www.airindia.com/content/dam/air-india/pdfs/latest-state-wise-quarantine-regulation.pdf",
+      "snippet": "All international passengers arriving at Chattisgarh will be in home quarantine for 8days.On. 8th day sample will be taken from passenger to check Covid-. 19",
+      "bm25_score_raw": 0.7270143381597409,
+      "bm25_score_norm": 0.16669463085615227,
+      "bm25_rank": 4
+    },
+    {
+      "title": "Covid-19 Guidelines FAQ",
+      "url": "https://www.airindiaexpress.com/support/faqs/covid-19-guidelines",
+      "snippet": "Quarantine - Not Required, COVID-19 Test - No test on arrival. Guest Obligation - Face mask desirable and not mandatory. No restrictions.",
+      "bm25_score_raw": 0.5414224791636828,
+      "bm25_score_norm": 0.030694180628775148,
+      "bm25_rank": 5
+    },
+    {
+      "title": "SOP for passenger movement post disembarkation- Kerala",
+      "url": "https://www.indianembassyqatar.gov.in/pdf/SOP_for_Kerala_bound_passengers.pdf",
+      "snippet": "45 minutes before arrival, announcements will be made inside the flight about quarantine procedures. Travellers will have to fill in self-report forms and",
+      "bm25_score_raw": 0.49953592633440075,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6
+    }
+  ]
+}

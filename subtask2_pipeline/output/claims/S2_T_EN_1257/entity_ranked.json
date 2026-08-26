@@ -1,0 +1,99 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1257",
+    "text": "India logs 12,781 fresh Covid cases in last 24 hours; Delhi, Tamil Nadu worst-hit",
+    "lang": "english"
+  },
+  "entity_ranked_evidence": [
+    {
+      "title": "COVID-19 Cases Rising in India: Kerala, Tamil Nadu, Delhi on ...",
+      "url": "https://www.youtube.com/watch?v=h7yoE26JNHI",
+      "snippet": "India is witnessing a gradual rise in COVID-19 cases, with Kerala (95 cases), Tamil Nadu (66), and Maharashtra (56) reporting the highest",
+      "bm25_score_raw": 1.1566828960822133,
+      "bm25_score_norm": 0.09802010511995302,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8555251955986023,
+      "embedding_score_norm": 0.44637136698079527,
+      "embedding_rank": 5,
+      "entity_overlap_raw": 3,
+      "entity_overlap_qid": 1,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 1
+    },
+    {
+      "title": "Tamil Nadu sees 2458 new cases in a day; 635 in Mumbai",
+      "url": "https://www.business-standard.com/article/current-affairs/coronavirus-live-updates-india-cases-deaths-mumbai-covid-vaccine-corona-latest-news-121071400082_1.html",
+      "snippet": "India has recorded a spike of 38,792 fresh Covid-19 cases in the last 24 hours, taking the total caseload to 30,946,074, according to MoHFW.",
+      "bm25_score_raw": 0.9177764197108444,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8824211955070496,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1,
+      "entity_overlap_raw": 2,
+      "entity_overlap_qid": 1,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 2
+    },
+    {
+      "title": "783 Covid patients recover, active cases in Delhi shrink by 37",
+      "url": "https://indianexpress.com/article/india/covid-19-india-active-cases-deaths-live-updates-tally-10054431",
+      "snippet": "About 25 fresh cases of Covid-19 emerged in Tamil Nadu, taking the active cases tally to 219 over the last 24 hours, according to the data",
+      "bm25_score_raw": 1.5837253673917493,
+      "bm25_score_norm": 0.27322987157005874,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8746141195297241,
+      "embedding_score_norm": 0.8392987501518295,
+      "embedding_rank": 2,
+      "entity_overlap_raw": 2,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 3
+    },
+    {
+      "title": "Omicron tally in country rises to 781, Delhi reports ...",
+      "url": "https://m.economictimes.com/news/india/omicron-tally-in-country-rises-to-781-delhi-reports-maximum-cases/articleshow/88560649.cms",
+      "snippet": "India has recorded 781 cases of the Omicron variant of coronavirus. India's total tally of COVID-19 cases rose to 3,48,08,886, increased to 77,",
+      "bm25_score_raw": 3.1107732174310576,
+      "bm25_score_norm": 0.8997570091239968,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8338398933410645,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6,
+      "entity_overlap_raw": 2,
+      "entity_overlap_qid": 1,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 4
+    },
+    {
+      "title": "India Adds 12781 Covid Cases, Positivity Rate Over 4% ...",
+      "url": "https://www.ndtv.com/india-news/india-adds-12-781-covid-19-cases-positivity-rate-over-4-pc-after-130-days-3082565",
+      "snippet": "India on Monday logged 12,781 fresh COVID-19 cases that pushed its infection tally to 4,33,09,473, while the daily positivity rate went past 4",
+      "bm25_score_raw": 1.8706708152890645,
+      "bm25_score_norm": 0.39095971880478014,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8713486790657043,
+      "embedding_score_norm": 0.7720827571991721,
+      "embedding_rank": 3,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 1,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 5
+    },
+    {
+      "title": "Tamil Nadu Logs 421 New Covid-19 Cases; zero Fatalities",
+      "url": "https://www.outlookindia.com/national/tamil-nadu-logs-421-new-covid-19-cases-zero-fatalities-news-223182",
+      "snippet": "Tamil Nadu on Tuesday logged 421 new Covid-19 infections, pushing the total caseload to 35,74,514 while the death toll remained unchanged at 38",
+      "bm25_score_raw": 3.3550975802932053,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8583974838256836,
+      "embedding_score_norm": 0.505494694249128,
+      "embedding_rank": 4,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 6
+    }
+  ]
+}

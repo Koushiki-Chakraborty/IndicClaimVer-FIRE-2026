@@ -1,0 +1,76 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1134",
+    "text": "State Does Not Need To Have Litigation Policy, Can Be Biggest Litigant: Telangana High Court To Advocate General",
+    "lang": "english"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Telangana State Portal | Govt Services",
+      "url": "https://www.telangana.gov.in",
+      "snippet": "# Telangana State Portal. ### Applications are invited from the eligible persons for filling up the post of CHAIRPERSON in “Real Estate Regulatory Authority” of Telangana State. Revanth Reddy met Hon’ble Union Minister for Road Transport and Highways Shri Nitin Gadkari in New Delhi. The Chief Minister Relief Fund is intended to extend a helping hand to the poorest of the poor who are in distress. Telangana, as a geographical and political entity was born on June 2, 2014 as the 29th and the youngest state in Union of India. According to the household survey of the Centre for Monitoring Indian Economy (CMIE) in April, 2023, Telangana was the only major State in the country to record a Labour Participation Rate of more than 52.43 per cent. Telangana has seen an exponential increase in the number of students from the state receiving admissions in numerous reputed institutions across the globe and various other international opportunities is indicative of the quality of education in Telangana.",
+      "bm25_score_raw": 1.0304297084058165,
+      "bm25_score_norm": 0.8611448125876275,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8302146196365356,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Telangana - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Telangana",
+      "snippet": "# Telangana. Not to be confused with the Malaysian state of Terengganu. State in South India, India. | The map of India showing Telangana Location of Telangana in India |. **Telangana** is a state in southern India on the Deccan Plateau bordering Maharashtra and Chhattisgarh to the north and Andhra Pradesh and Karnataka to the south. Subsequent major dynasties include the Vishnukundinas, Eastern Chalukyas, Kakatiyas, the Vijayanagara Empire, and Qutb Shahis, followed by the British Raj. Following the Independence of India, the Telugu speaking regions of India were gradually regrouped within the state of Andhra Pradesh but after decades of protests and agitations, the Telangana movement obtained its bifurcation with the creation, in 2014, of the state of Telangana corresponding to the Telugu speaking regions of the Princely State of Hyderabad. The state's capital is the city of Hyderabad. In 1956, Hyderabad State was dissolved and its Telugu-speaking region Telangana was merged with the Andhra State to form Andhra Pradesh.",
+      "bm25_score_raw": 1.077601686353724,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8214841485023499,
+      "embedding_score_norm": 0.8028000818564174,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Telangana movement - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Telangana_movement",
+      "snippet": "Movement for the separate state of Telangana, in India. The **Telangana movement** refers to the movement for the separation of Telangana, from the pre-existing state of Andhra Pradesh \"Andhra Pradesh (1956–2014)\") in India. After decades of protests and agitation, the central government, under the United Progressive Alliance, decided to bifurcate the Andhra Pradesh state and on 2 June 2014, the Union Cabinet unilaterally cleared the bill for the creation of Telangana. In paragraph 386 it said \"After taking all these factors into consideration we have come to the conclusions that it will be in the interests of Andhra as well as Telangana, if for the present, the Telangana area is to constitute into a separate State, which may be known as the Hyderabad State with provision for its unification with Andhra after the general elections likely to be held in or about 1961 if by a two-thirds majority the legislature of the residuary Hyderabad State expresses itself in favor of such unification.\" The first movement was in Illandu, Khammam district Starting with Polikeka, 1965, 1966 from there Starting from and reaching 1967 Reaching out to universities and students.",
+      "bm25_score_raw": 0.7378810116927468,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8171654939651489,
+      "embedding_score_norm": 0.7052522739389632,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Telangana – Travel guide at Wikivoyage",
+      "url": "https://en.wikivoyage.org/wiki/Telangana",
+      "snippet": "# Telangana. **Telangana** (Telugu: తెలంగాణ *Telangāṇa*, Urdu: تلنگانہ *Tilangāna*), a state in Southern India, is the youngest of the country; having split from Andhra Pradesh in 2014. However, don't let the newness of the state deceive you, as Telangana is rich in cultural heritage, with its history being marked by a succession of dynasties and cultural influences; from the Kakatiyas and Bahmanis to the Qutb Shahis and Mughals, and finally the Nizams of Hyderabad. The state of Telangana is bordered by the states of Maharashtra to the north and north-west, Karnataka to the west, Chhattisgarh to the north-east, and Andhra Pradesh to the south and east. According to one popular theory, the name \"Telangana\" is derived from the name of a region called *Tṛliṇgadeśa* (त्रिलिङ्गदेश) in Sanskrit, meaning the \"land of three lingams\", and the region is said to be home to 3 prominent Shaivite shrines: Kaleshwaram (in present-day Telangana), Srisailam and Daksharamam (both in present-day Andhra Pradesh). Telangana's history is marked by a succession of dynasties and cultural influences.",
+      "bm25_score_raw": 0.8869372045991613,
+      "bm25_score_norm": 0.438761029352024,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8142027258872986,
+      "embedding_score_norm": 0.6383306137615716,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Telangana — Guide to the State: Hyderabad, Heritage, Food, Festivals & Travel",
+      "url": "https://telangana.com",
+      "snippet": "Capital city of Hyderabad — a global hub for IT and pharmaceuticals. A young, fast-rising state powered by software and life sciences, broad farmlands of rice and cotton, and the coalfields of the Godavari valley — with the craft of the Kakatiya temple-builders never far away. Formed in 2014, Telangana is one of India's youngest and most dynamic states. Its capital, Hyderabad, is a leading centre for software, pharmaceuticals and research, while across the wider state farming and energy power the Deccan. Yet all of it rests on ancient ground — from the Satavahanas and Chalukyas of the early Deccan to the temple cities of the Kakatiya kings, the walled splendour of Golconda, and the courtly culture of the Nizams of Hyderabad. Chosen to reflect Telangana's culture and history — several tied to the festivals of Bathukamma and Dasara. The Telugu language, the flower festival of Bathukamma, Pochampally Ikat weaving, and a global Telugu community that stretches well beyond the state.",
+      "bm25_score_raw": 0.7638274753981671,
+      "bm25_score_norm": 0.0763758747721594,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8059681057929993,
+      "embedding_score_norm": 0.4523307537791277,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Telangana | History, Map, Population, Capital, & Government",
+      "url": "https://www.britannica.com/place/Telengana",
+      "snippet": "Image 3: TelanganaImage 4: Golconda Fort, Telangana, IndiaImage 5: Lambadi (Banjari) women, Hyderabad, Telangana, IndiaImage 6: Hyderabad, Telangana, IndiaImage 7: Nagarjuna Sagar Dam, IndiaImage 8: Charminar, Hyderabad, Telangana, IndiaImage 9: Salar Jung MuseumImage 10: Quṭb Shāhī tombsImage 11: Khush MahalImage 12: Osman Ali. Jaswant Thada an architectural landmark in Jodhpur, India. # Telangana. Telangana is a state in south-central India. It is bordered by Maharashtra to the north, Chhattisgarh and Odisha to the northeast, Andhra Pradesh to the southeast and south, and Karnataka to the west. Telangana was part of Andhra Pradesh for almost 60 years before it was separated to form a new state on June 2, 2014. Hyderabad, situated in west-central Telangana, is its capital. This followed years of discussion, particularly regarding Hyderabad, which was agreed to serve as the capital of both Telangana and Andhra Pradesh for 10 years. Hyderabad is the capital city of Telangana state in south-central India. The capital of Telangana is Hyderabad, in west-central Telangana.",
+      "bm25_score_raw": 1.0710764166266689,
+      "bm25_score_norm": 0.9807922501815143,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.7859424352645874,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6
+    }
+  ]
+}

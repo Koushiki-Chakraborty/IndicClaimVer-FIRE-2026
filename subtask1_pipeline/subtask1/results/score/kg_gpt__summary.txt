@@ -1,0 +1,4 @@
+=== KG-boosted retrieval + GPT-4o-mini veracity -- DEV-ONLY (comparable to kg_classifier) ===
+n=1134  accuracy=0.9198  macro_F1=0.9075
+SUPPORTS -- precision=0.9032  recall=0.9825  f1=0.9412  support=741
+REFUTES  -- precision=0.9604  recall=0.8015  f1=0.8738  support=393

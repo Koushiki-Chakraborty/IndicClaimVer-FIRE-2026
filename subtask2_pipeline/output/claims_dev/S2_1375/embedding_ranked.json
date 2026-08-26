@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/1375",
+    "text": "পরিযায়ী শ্রমিক বা পড়ুয়াদের ঘরছাড়া করলেই কড়া ব্যবস্থা, রাজ্যগুলিকে নির্দেশ কেন্দ্রের",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Chair signals no quick action on agriculture visas important to LI - Newsday",
+      "url": "https://www.newsday.com/long-island/politics/immigration-agriculture-clbtgm0w",
+      "snippet": "WASHINGTON — The chairman of a key U.S. House panel is signaling no quick action on a bill to expand the use of a federal visa program that allows U.S. employers to hire migrant workers to fill temporary agririculture jobs. House Judiciary Chairman Jim Jordan (R-Ohio) has decided for now to set aside the bill to revise the H-2A visa program for agriculture guest workers, and not take it up before Congress’ upcoming monthlong August recess. * **The chairman of a key U.S. House panel** is signaling no quick action on a bill to expand the use of a federal visa program that allows U.S. employers to hire migrant workers to fill temporary agricultural jobs. * **House Judiciary Chairman Jim Jordan** (R-Ohio) has decided to set aside the H-2A visa program for agriculture guest workers matter for now — and not take it up before Congress’ upcoming monthlong August recess.",
+      "bm25_score_raw": 4.018708643400323,
+      "bm25_score_norm": 0.8138823155394708,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8246172070503235,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "How the Trump administration's new rules could affect international students - NPR",
+      "url": "https://www.npr.org/2026/07/17/nx-s1-5896300/nadworny-lee-student-visa-final-rule",
+      "snippet": "**How new Trump administration rules could affect international students** ***International students could once stay as long as they needed to complete their college degrees, but that's changing, and the restrictions could cut into college budgets.***. # How the Trump administration's new rules could affect international students. New visa restrictions could make it harder for international students to study in the U.S, in another example of how the Trump administration's goals for cutting immigration are at odds with the aims of American higher education. The Department of Homeland Security (DHS) says it's cracking down on foreign students who intentionally take a long time to earn their degrees. It's adding strict time limits to student visas and restricting how international students transfer schools or change their study plans. The rule announced last week could have a big impact on college campuses, where international students can make up as much as a fifth of the student body.",
+      "bm25_score_raw": 4.9377023762171035,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.820580244064331,
+      "embedding_score_norm": 0.9502017912326507,
+      "embedding_rank": 2
+    },
+    {
+      "title": "ED Scraps Tool to Investigate Discrimination - Inside Higher Ed",
+      "url": "https://www.insidehighered.com/news/government/politics-elections/2026/07/24/ed-scraps-tool-investigate-discrimination",
+      "snippet": "The U.S. Department of Education is doing away with the concept that school and university policies can be unintentionally discriminatory. The U.S. Department of Education announced Thursday that it’s abandoning provisions of civil rights law that protect students against institutional policies that disparately impact minority groups. ED officials say that the decades-old provisions under Title VI of the Civil Rights Act of 1964 “allow demographic data alone to establish that a school violated federal civil rights laws, even if there is no facially discriminatory policy, practice, or discriminatory intent involved,” forcing educational institutions to consider race in their decision-making. A group of 60 civil rights and education organizations—including EdTrust, the NAACP Legal Defense Fund and the Center for Racial and Economic Justice at University of California College of the Law, San Francisco—argued in a joint statement that the policy shift will leave students of color without federal protection from policies that disproportionately harm or disadvantage them.",
+      "bm25_score_raw": 4.765400760385009,
+      "bm25_score_norm": 0.9651049004771933,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.788269579410553,
+      "embedding_score_norm": 0.551631571633498,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Staying in a job for the health insurance? About 1 in 4 Americans do, a survey says - WUFT",
+      "url": "https://www.wuft.org/2026-07-22/staying-in-a-job-for-the-health-insurance-about-1-in-4-americans-do-a-survey-says?_amp=true",
+      "snippet": "# Staying in a job for the health insurance? A new report finds that nearly a quarter of workers who get health insurance through their jobs report staying in unwanted jobs for health insurance — a figure that's risen dramatically in the last five years. The survey from West Health-Gallup Center on Healthcare in America finds that approximately 23 million adults are in what the report authors call \"job lock.\" In 2021, 16% of those surveyed were in job lock. \"Anybody having to stay in a job just to keep their health insurance, knowing that they want to leave, is crazy,\" says Ellyn Maese, a research director for the center, a partnership between Gallup and West Health. \"So it stands to reason that people would be concerned about leaving an unwanted job for fear of losing their health insurance.\". A May Gallup poll found that just 28% of U.S. workers said it is a good time to find a job, the lowest it's been since 2013.",
+      "bm25_score_raw": 1.4946214123234258,
+      "bm25_score_norm": 0.3026957273736074,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.7877671122550964,
+      "embedding_score_norm": 0.5454333566899915,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Staying in a job for the health insurance? About 1 in 4 Americans do, a survey says - Iowa Public Radio",
+      "url": "https://www.iowapublicradio.org/news-from-npr/2026-07-21/staying-in-a-job-for-the-health-insurance-about-1-in-4-americans-do-a-survey-says",
+      "snippet": "# Staying in a job for the health insurance? A new report finds that nearly a quarter of workers who get health insurance through their jobs report staying in unwanted jobs for health insurance — a figure that's risen dramatically in the last five years. The survey from West Health-Gallup Center on Healthcare in America finds that approximately 23 million adults are in what the report authors call \"job lock.\" In 2021, 16% of those surveyed were in job lock. \"Anybody having to stay in a job just to keep their health insurance, knowing that they want to leave, is crazy,\" says Ellyn Maese, a research director for the center, a partnership between Gallup and West Health. \"So it stands to reason that people would be concerned about leaving an unwanted job for fear of losing their health insurance.\". A May Gallup poll found that just 28% of U.S. workers said it is a good time to find a job, the lowest it's been since 2013.",
+      "bm25_score_raw": 1.4882843603264604,
+      "bm25_score_norm": 0.3014123264081121,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.7850562930107117,
+      "embedding_score_norm": 0.5119938767812515,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Staying in a job for the health insurance? About 1 in 4 Americans do, a survey says - WJCT News 89.9",
+      "url": "https://news.wjct.org/national-news/2026-07-22/staying-in-a-job-for-the-health-insurance-about-1-in-4-americans-do-a-survey-says?_amp=true",
+      "snippet": "# Staying in a job for the health insurance? A new report finds that nearly a quarter of workers who get health insurance through their jobs report staying in unwanted jobs for health insurance — a figure that's risen dramatically in the last five years. The survey from West Health-Gallup Center on Healthcare in America finds that approximately 23 million adults are in what the report authors call \"job lock.\" In 2021, 16% of those surveyed were in job lock. \"Anybody having to stay in a job just to keep their health insurance, knowing that they want to leave, is crazy,\" says Ellyn Maese, a research director for the center, a partnership between Gallup and West Health. \"So it stands to reason that people would be concerned about leaving an unwanted job for fear of losing their health insurance.\". A May Gallup poll found that just 28% of U.S. workers said it is a good time to find a job, the lowest it's been since 2013.",
+      "bm25_score_raw": 1.4882843603264604,
+      "bm25_score_norm": 0.3014123264081121,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.7842789888381958,
+      "embedding_score_norm": 0.5024053926675779,
+      "embedding_rank": 6
+    },
+    {
+      "title": "Parisian café style transforms a dated Israeli country house - Ynetnews",
+      "url": "https://www.ynetnews.com/real-estate/article/h1rbcvkrgx",
+      "snippet": "## A family with two teenagers and two dogs transformed their 20-year-old home by removing dated niches, lowered ceilings and the original kitchen, while preserving selected windows, furniture and carpentry. A couple from Kadima, who share the home with their two teenage children and two dogs, enlisted interior designer Osi Katz Dagan to give their longtime family home a complete makeover. She has a strong aesthetic sense, and together we built the home’s design language.”. The vision was to create a warm, inviting home full of character while making it feel cleaner and more contemporary. “Throughout the process, we had the image of a Parisian café in mind,” Katz Dagan said. “One of the project’s most important principles was combining the existing with the new, both for budgetary reasons and because we wanted to preserve the home’s character,” Katz Dagan said. “It was clear to us that the kitchen was the heart of the house,” Katz Dagan said.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.7669656276702881,
+      "embedding_score_norm": 0.2888353458537765,
+      "embedding_rank": 7
+    },
+    {
+      "title": "Archaeologists uncover intact section of ancient Jerusalem wall from Hanukkah era - NBC New York",
+      "url": "https://www.nbcnewyork.com/news/national-international/archaeologists-jerusalem-wall-hanukkah/6428714/",
+      "snippet": "# Archaeologists uncover intact section of ancient Jerusalem wall from Hanukkah era. Archaeologists have finished uncovering the longest continuous remains of an ancient wall that encircled Jerusalem, including possible evidence of a 2,100-year-old ceasefire between warring kingdoms. Last week, archaeologists finished excavating the most complete part ever discovered of the foundations of the walls, which surrounded Jerusalem during the time of the Hasmonean Kingdom, when the story of Hanukkah took place. In Hebrew, Hanukkah means “dedication,” and the holiday marks the rededication of the Temple in Jerusalem in the second century B.C., after a small group of Jewish fighters liberated it from occupying foreign forces, and the Hasmonean Kingdom that followed. The Hasmonean wall foundation, whose excavation was finished last week in Jerusalem, was likely built a few decades after the story of Hanukkah by the same rulers. Another hypothesis Re’em posits is that King Herod built his palace over the Hasmonean wall foundations, during his reign in the first-century B.C., as a clear message of his sovereignty over Jewish Jerusalem.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.7659190893173218,
+      "embedding_score_norm": 0.27592570671046834,
+      "embedding_rank": 8
+    },
+    {
+      "title": "Israeli military destroys West Bank home of terrorist - The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-870004",
+      "snippet": "# IDF blows up West Bank home of Jerusalem terrorist IDF forces blew up a building in the town of Katana, near Jerusalem, on Thursday night, which was the home of a terrorist who took part in the attack at the Ramot Junction last month. When you visit our website, we store cookies on your browser to collect information. The information collected might relate to you, your preferences or your device, and is mostly used to make the site work as you expect it to and to provide a more personalized web experience. These cookies do not store any personally identifiable information. These cookies collect information for analytics and to personalize your experience with targeted ads.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.7658367156982422,
+      "embedding_score_norm": 0.2749095817932767,
+      "embedding_rank": 9
+    },
+    {
+      "title": "Archaeologists uncover intact section of ancient Jerusalem wall from Hanukkah era - Greenwich Time",
+      "url": "https://www.greenwichtime.com/news/world/article/archaeologists-uncover-intact-section-of-ancient-21232258.php",
+      "snippet": "JERUSALEM (AP) — Archaeologists have finished uncovering the longest continuous remains of an ancient wall that encircled Jerusalem, including possible evidence of a 2,100-year-old ceasefire between warring kingdoms. Last week, archaeologists finished excavating the most complete part ever discovered of the foundations of the walls, which surrounded Jerusalem during the time of the Hasmonean Kingdom, when the story of Hanukkah took place. Much of the current walls surrounding Jerusalem’s Old City date back hundreds of years to the Ottoman Era. The Hasmonean walls encircled an area much larger than the current Old City of Jerusalem, with 60 watchtowers along the wall that were more than 10 meters (33 feet) tall, according to ancient writings. Another hypothesis Re’em posits is that King Herod built his palace over the Hasmonean wall foundations, during his reign in the first-century B.C., as a clear message of his sovereignty over Jewish Jerusalem.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.7581033706665039,
+      "embedding_score_norm": 0.17951442169478166,
+      "embedding_rank": 10
+    },
+    {
+      "title": "Archaeologists Uncover Intact Section of Ancient Jerusalem Wall From Hanukkah Era - VINnews",
+      "url": "https://vinnews.com/2025/12/09/archaeologists-uncover-intact-section-of-ancient-jerusalem-wall-from-hanukkah-era/",
+      "snippet": "# Archaeologists Uncover Intact Section of Ancient Jerusalem Wall From Hanukkah Era. JERUSALEM (AP) — Archaeologists have finished uncovering the longest continuous remains of an ancient wall that encircled Jerusalem, including possible evidence of a 2,100-year-old ceasefire between warring kingdoms. Last week, archaeologists finished excavating the most complete part ever discovered of the foundations of the walls, which surrounded Jerusalem during the time of the Hasmonean Kingdom, when the story of Hanukkah took place. Much of the current walls surrounding Jerusalem’s Old City date back hundreds of years to the Ottoman Era. The Hasmonean walls encircled an area much larger than the current Old City of Jerusalem, with 60 watchtowers along the wall that were more than 10 meters (33 feet) tall, according to ancient writings. Another hypothesis Re’em posits is that King Herod built his palace over the Hasmonean wall foundations, during his reign in the first-century B.C., as a clear message of his sovereignty over Jewish Jerusalem.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.7495407462120056,
+      "embedding_score_norm": 0.07388963354065124,
+      "embedding_rank": 11
+    },
+    {
+      "title": "2,100-year-old mystery unearthed with dismantled Hasmonean-era wall in Jerusalem - The Times of Israel",
+      "url": "https://www.timesofisrael.com/2100-year-old-mystery-unearthed-with-dismantled-hasmonean-era-wall-in-jerusalem/",
+      "snippet": "Archaeologists uncover a section of the Jerusalem wall built in Hasmonean times (2nd century BCE) in the complex of the Tower of David Jerusalem Museum in the Old City, in a discovery announced on December 8, 2025. An impressive section of Jerusalem’s fortification wall from the second century BCE has been uncovered on the grounds of the Tower of David complex in the Old City, the Israel Antiquities Authority (IAA) and the Tower of David Jerusalem Museum announced on Monday. Josephus’s narrative offers a possible explanation for the historical destruction of the remains of the wall revealed in the excavation, Dr. Amit Re’em, IAA excavation co-director and chief archaeologist for the Jerusalem District, told The Times of Israel. “First of all, the wall is made of very typical stones that are well seen in Hasmonean buildings in Jerusalem and all over Israel, and the building technique is also typical [of this period],” he said.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.7435507774353027,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

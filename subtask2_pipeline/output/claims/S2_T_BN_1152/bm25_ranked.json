@@ -1,0 +1,105 @@
+{
+  "claim": {
+    "id": "S2/T/BN/1152",
+    "text": "COVID-19 আক্রান্ত সুহানার বোন ও তাঁর বান্ধবী, তৎপরতায় সিল হল দিল্লির আবাসন",
+    "lang": "bengali"
+  },
+  "ranked_evidence": [
+    {
+      "title": "How a 55-year-old Delhi woman infected 31 people with coronavirus ...",
+      "url": "https://theprint.in/india/no-one-knew-she-had-covid-neighbours-of-delhi-woman-who-died-leaving-31-infected/406612?amp=",
+      "snippet": "The woman was declared Covid positive 4 days after she died. By then, 31 people, including her relatives, in Delhi's Jahangirpuri locality had caught the",
+      "bm25_score_raw": 6.202632047506971,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Sister Beena: Pain, doctors infected with COVID, the discovery of God (II)",
+      "url": "https://www.asianews.it/en/south-asia/india/sister-beena-pain-doctors-infected-with-covid-the-discovery-of-god-ii",
+      "snippet": "Caregivers contracting infection: About a month ago a doctor and three nuns from my team started showing COVID-19 symptoms. They eventually",
+      "bm25_score_raw": 2.5564198667021953,
+      "bm25_score_norm": 0.41215081712443336,
+      "bm25_rank": 2
+    },
+    {
+      "title": "My sister has COVID-19. She is okay, but how long should I stay away from ...",
+      "url": "https://www.quora.com/My-sister-has-COVID-19-She-is-okay-but-how-long-should-I-stay-away-from-her-so-I-dont-get-it-I-live-with-my-dad-she-lives-with-our-mom",
+      "snippet": "First of all, you should all be quarantining away from anyone else. If someone in the home is infected, this virus is so contagious, and spreads",
+      "bm25_score_raw": 1.6287513873302724,
+      "bm25_score_norm": 0.2625903608106042,
+      "bm25_rank": 3
+    },
+    {
+      "title": "Over half in New Delhi may have had COVID, government ...",
+      "url": "https://www.reuters.com/article/world/over-half-in-new-delhi-may-have-had-covid-government-survey-suggests-idUSKBN2A21HA",
+      "snippet": "Feb 2, 2021 — More than half of New Delhi's 20 million inhabitants may have been infected with the coronavirus, according to a government serological survey.Read more",
+      "bm25_score_raw": 1.2923877542503348,
+      "bm25_score_norm": 0.20836118350270114,
+      "bm25_rank": 4
+    },
+    {
+      "title": "COVID-19 pandemic in Delhi - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Delhi",
+      "snippet": "Ongoing COVID-19 viral pandemic in Delhi, India. The first case of the COVID-19 pandemic in the Indian capital of Delhi was reported on 2 March 2020. Delhi has the seventh-highest number of confirmed cases of COVID-19 in India. On 22 March, Delhi observed a 14-hour voluntary public curfew (the Janata curfew) along with 75 districts in India, at the directive of the Prime Minister. More than 3000 people from a religious gathering in the Nizamuddin Markaz Mosque (in the Nizamuddin West area) were quarantined after suspicions that they had come in contact with infected people. See also: Timeline of the 2020 coronavirus pandemic in India. Major events of COVID-19 pandemic in Delhi in March. * The first case of COVID-19 in Delhi was confirmed on 2 March 2020 when a 45-year-old person from East Delhi, with a history of travel from Italy, tested positive for the coronavirus.",
+      "bm25_score_raw": 1.100106418116022,
+      "bm25_score_norm": 0.17736122499128232,
+      "bm25_rank": 5
+    },
+    {
+      "title": "New Delhi Shutdown Brings Cleaner Air, But No One ...",
+      "url": "https://www.voanews.com/a/coronavirus-outbreak_covid-19-diaries_new-delhi-shutdown-brings-cleaner-air-no-one-breathes-easy/6187260.html",
+      "snippet": "Apr 9, 2020 — Coronavirus brings once noisy, bustling Indian capital and its satellite towns, home to over 20 million people, to a tense standstill.",
+      "bm25_score_raw": 0.5593508588294912,
+      "bm25_score_norm": 0.09017959707190942,
+      "bm25_rank": 6
+    },
+    {
+      "title": "India's capital sees surge in COVID-19 infections ahead of ...",
+      "url": "https://www.aljazeera.com/news/2020/11/12/indias-capital-sees-surge-in-covid-19-infections-ahead-of-diwali",
+      "snippet": "Nov 12, 2020 — India's capital sees surge in COVID-19 infections ahead of Diwali. New Delhi reported 8,593 new coronavirus cases on Wednesday amid soaring ...Read more",
+      "bm25_score_raw": 0.5488730350928536,
+      "bm25_score_norm": 0.08849034263018432,
+      "bm25_rank": 7
+    },
+    {
+      "title": "Delhi police comfort brother-sister duo, hand them over to relative after both ...",
+      "url": "https://www.newindianexpress.com/amp/story/states/delhi/2021/May/01/delhi-police-comfort-brother-sister-duo-hand-them-over-to-relative-after-both-parents-die-of-covid-2297014.html",
+      "snippet": "... COVID-19 at Vimhans Hospital in Lajpat Nagar. \"Stranded in their house Sunmita (20) and Arunab (18) were in a state of shock and depression.",
+      "bm25_score_raw": 0.5437799611354664,
+      "bm25_score_norm": 0.08766922767150574,
+      "bm25_rank": 8
+    },
+    {
+      "title": "Household transmission dynamics of COVID-19 among residents of Delhi ...",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9946776",
+      "snippet": "by F Islam · 2023 · Cited by 5 — The aim of this study was to observe the secondary infection rate and transmission dynamics of COVID-19 among household contacts, and their associations with",
+      "bm25_score_raw": 0.5151017309071128,
+      "bm25_score_norm": 0.0830456694773871,
+      "bm25_rank": 9
+    },
+    {
+      "title": "A successful response to the second wave of COVID-19 in ...",
+      "url": "https://jogh.org/wp-content/uploads/2025/08/jogh-15-03032.pdf",
+      "snippet": "However, the Dharavi slum community in Mumbai successfully flattened the curve of the first COVID-19 wave in two months with a proactive screening response strategy and robust surveillance sup­ A successful response to the second wave of COVID-19 in the slums of Delhi John Peteet1 , Kiran Martin2, Jean Peteet3 1Department of Psychiatry, Harvard Medical School, Boston, Massachusetts, USA 2Asha Community Health & Development Society, Delhi, India 3Department of Health and Rehabilitation Sciences, Boston University, Boston, Massachusetts, USA The second wave of COVID-19 presented grave challenges to India slums. Similarly, in the first wave of COVID-19, Asha Society India – a community health and development non-governmental organisation established 36 years ago by Dr Kiran Martin, an Indian paediatri­ cian – effectively mobilised 91 Delhi slum communities of 700 000 people by implementing a range of educational, preventive and quarantine measures [7].",
+      "bm25_score_raw": 0.430094456026346,
+      "bm25_score_norm": 0.06934063680259966,
+      "bm25_rank": 10
+    },
+    {
+      "title": "The Covid-19 hospital in India so bad patients want to get out",
+      "url": "https://www.cnn.com/2021/05/03/india/hospital-coronavirus-deaths-oxygen-delhi-intl-hnk-dst",
+      "snippet": "May 3, 2021 — This Indian woman spent hours searching for a hospital. The Covid-19 hospital in India so bad patients want to get out. India stretched thin to",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11
+    },
+    {
+      "title": "'Everywhere, there is pain': Indian sisters on life in the COVID-19 hotspot",
+      "url": "https://www.globalsistersreport.org/news/coronavirus/news/everywhere-there-pain-indian-sisters-life-covid-19-hotspot",
+      "snippet": "Relatives of a person who died after contracting COVID-19 mourn April 29 over the casket before the burial at a graveyard in New Delhi.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12
+    }
+  ]
+}

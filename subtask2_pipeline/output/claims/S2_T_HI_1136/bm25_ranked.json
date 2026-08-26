@@ -1,0 +1,105 @@
+{
+  "claim": {
+    "id": "S2/T/HI/1136",
+    "text": "गुजरात सरकार ने कांग्रेस की इस योजना को जम कर सराहा, बोली- इसने बचाई लॉकडाउन के बाद लौटे मज़दूरों की जान",
+    "lang": "hindi"
+  },
+  "ranked_evidence": [
+    {
+      "title": "Bhaiyaji Kahin Prateek Trivedi के साथ LIVE | Gujarat Exit Poll",
+      "url": "https://www.youtube.com/watch?v=M_XagG4o9mI",
+      "snippet": "Bhaiyaji Kahin Prateek Trivedi के साथ LIVE | Gujarat Exit Poll | BJP | Congress | AAP | PM Modi Gujarat Election 2022 का Exit Poll सामने आ गया है.",
+      "bm25_score_raw": 3.5449819706657273,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Gujarat India",
+      "url": "https://gujaratindia.gov.in",
+      "snippet": "* Welcome to Gujarat State Portal. + All Chief Ministers of Gujarat. ## Latest News. ## Gujarat: Where Growth Begins. ## Gujarat at Glance. ## Why Invest in Gujarat. ## Key E- governance Projects. ## Gujarat Government Achievements. Copyright@2026 All Rights Reserved- State Portal Gujarat. Last Updated : 20/07/2026      Total Visitors :. Designed & Develop by  Gujarat Informatics Limited. ### Accessibility options.",
+      "bm25_score_raw": 3.2224128921398223,
+      "bm25_score_norm": 0.9090068493450396,
+      "bm25_rank": 2
+    },
+    {
+      "title": "1985 में कांग्रेस को गुजरात में बहुमत मिला था, लेकिन 2 साल में ...",
+      "url": "https://www.facebook.com/AAPkaArvind/videos/1985-%E0%A4%AE%E0%A5%87%E0%A4%82-%E0%A4%95%E0%A4%BE%E0%A4%82%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8-%E0%A4%95%E0%A5%8B-%E0%A4%97%E0%A5%81%E0%A4%9C%E0%A4%B0%E0%A4%BE%E0%A4%A4-%E0%A4%AE%E0%A5%87%E0%A4%82-%E0%A4%AC%E0%A4%B9%E0%A5%81%E0%A4%AE%E0%A4%A4-%E0%A4%AE%E0%A4%BF%E0%A4%B2%E0%A4%BE-%E0%A4%A5%E0%A4%BE-%E0%A4%B2%E0%A5%87%E0%A4%95%E0%A4%BF%E0%A4%A8-2-%E0%A4%B8%E0%A4%BE%E0%A4%B2-%E0%A4%AE%E0%A5%87%E0%A4%82-%E0%A4%85%E0%A4%B9%E0%A4%82%E0%A4%95%E0%A4%BE%E0%A4%B0-%E0%A4%9A%E0%A4%A2%E0%A4%BC%E0%A4%BE-%E0%A4%94%E0%A4%B0-%E0%A4%95%E0%A4%BF%E0%A4%B8/2253234161776754",
+      "snippet": "1985 में कांग्रेस को गुजरात में बहुमत मिला था, लेकिन 2 साल में अहंकार चढ़ा और किसानों पर गोलियाँ चलवा दीं, वहां 10 किसान मारे गए। उसके बाद कांग्रेस गुजरात में कभी लौट नहीं पाई। अब BJP का भी वही अहंकार है।Read more",
+      "bm25_score_raw": 2.950090335851159,
+      "bm25_score_norm": 0.8321876839608155,
+      "bm25_rank": 3
+    },
+    {
+      "title": "गुजरात कांग्रेस अध्यक्ष Amit Chavda जी के नेतृत्व में जारी 'जन ...",
+      "url": "https://www.facebook.com/IndianNationalCongress/videos/%E0%A4%97%E0%A5%81%E0%A4%9C%E0%A4%B0%E0%A4%BE%E0%A4%A4-%E0%A4%95%E0%A4%BE%E0%A4%82%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%95%E0%A5%8D%E0%A4%B7-amit-chavda-%E0%A4%9C%E0%A5%80-%E0%A4%95%E0%A5%87-%E0%A4%A8%E0%A5%87%E0%A4%A4%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%B5-%E0%A4%AE%E0%A5%87%E0%A4%82-%E0%A4%9C%E0%A4%BE%E0%A4%B0%E0%A5%80-%E0%A4%9C%E0%A4%A8-%E0%A4%86%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%B6-%E0%A4%AF%E0%A4%BE%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%BE-%E0%A4%AA%E0%A4%B0%E0%A4%BF%E0%A4%B5/1698350861129192",
+      "snippet": "आज इस यात्रा का तीसरा चरण डेडियापाड़ा में 'जन आक्रोश सभा' के साथ समाप्त हुआ। इस दौरान CLP लीडर Dr Tushar Chaudhary जी, आदिवासी कांग्रेस अध्यक्ष Dr.Vikrant Bhuria जी, राष्ट्रीय सचिव ...Read more",
+      "bm25_score_raw": 2.4676813299410867,
+      "bm25_score_norm": 0.696105466927853,
+      "bm25_rank": 4
+    },
+    {
+      "title": "\"कांग्रेस पार्टी गुजरात में अपनी खोई हुई जमीन वापस पाने के लिए ...",
+      "url": "https://www.instagram.com/p/DIgBmAENy7T",
+      "snippet": "इसी बीच गुजरात के मोडासा में नेता प्रतिपक्ष और कांग्रेस सांसद राहुल गांधी ने जिला कार्यकर्ता सम्मेलन को संबोधित को किया. जिला कार्यकर्ता सम्मेलन को संबोधित करते हुए राहुल गांधी ने कहा, \"ये राजनीतिक लड़ाई के साथ-साथ ...Read more",
+      "bm25_score_raw": 2.2262669809823175,
+      "bm25_score_norm": 0.6280051631868349,
+      "bm25_rank": 5
+    },
+    {
+      "title": "64 साल बाद गुजरात क्यों गई Congress? | Rahul Gandhi | CWC",
+      "url": "https://www.youtube.com/watch?v=V6btmwMdTao",
+      "snippet": "/ @aajtakai. Khabardaar LIVE: 64 साल बाद गुजरात क्यों गई Congress? | Rahul Gandhi | CWC | Mallikarjun Kharge. @aajtak36 ...Read more",
+      "bm25_score_raw": 1.1194946424813292,
+      "bm25_score_norm": 0.3157969918450938,
+      "bm25_rank": 6
+    },
+    {
+      "title": "Gujarat (@gujarat) • Instagram photos and videos",
+      "url": "https://www.instagram.com/gujarat?hl=en",
+      "snippet": "## gujarat. #Gujarat is one of the most popular states in India popularly known for historical sites, hills, wildlife sanctuaries,. en.wikipedia.org/wiki/Gujarat. Video by Nadabet Indo-Pak Border on May 28, 2026. May be an image of military uniform, sculpture, bust, statue and text. Photo by Gujarat on April 30, 2026. May be an illustration of poster and statue. Video by Gujarat on March 25, 2026. Photo by Kruti Patel on March 02, 2026. Photo by Gujarat on January 24, 2026. Video by Gujarat on January 18, 2026. Photo by Statue Of Unity on December 28, 2025. Show more posts from gujarat.",
+      "bm25_score_raw": 0.877813066461173,
+      "bm25_score_norm": 0.24762130632115026,
+      "bm25_rank": 7
+    },
+    {
+      "title": "Why I went to Gujarat",
+      "url": "https://bohemiantraveler.com/2013/07/why-i-went-to-gujarat",
+      "snippet": "Gujarat has a reputation as one of India's most prosperous and business-friendly states. It's a tad more expensive than the rest of the country and not very ...Read more",
+      "bm25_score_raw": 0.8455150618199789,
+      "bm25_score_norm": 0.2385103983085127,
+      "bm25_rank": 8
+    },
+    {
+      "title": "Gujarat - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gujarat",
+      "snippet": "# Gujarat. This article is about the state in India. State in West India, India. | The map of India showing Gujarat Location of Gujarat in India |. **Gujarat** (Gujarati: *Gujarāt*, pronounced  ⓘ) is a state along the western coast of India. Its coastline of about 2,340 km (1,450 mi) is the longest in the country, most of which lies on the Kathiawar peninsula. Gujarat is the fifth-largest Indian state by area, covering some 196,024 km2 (75,685 mi2); and the ninth-most populous state, with a population of 60.4 million in 2011. It is bordered by Rajasthan to the northeast, Dadra and Nagar Haveli and Daman and Diu to the south, Maharashtra to the southeast, Madhya Pradesh to the east, and the Arabian Sea and the Pakistani province of Sindh to the west. The Gujaratis are indigenous to the state, and their language, Gujarati, is the state's official language. The Gir National Park in Gujarat is home to the only wild population of the Asiatic lion in the world.",
+      "bm25_score_raw": 0.7781277919995749,
+      "bm25_score_norm": 0.2195011987193399,
+      "bm25_rank": 9
+    },
+    {
+      "title": "Gujarat | History, Map, Population, & Facts",
+      "url": "https://www.britannica.com/place/Gujarat",
+      "snippet": "Image 3: Gujarat, IndiaImage 4: India: Royal Palace at JamnagarImage 5: India: Girnar HillsImage 6: Kathiawar Peninsula, Gujarat, India: riverImage 7: ValsadImage 8: PorbandarImage 9: India: Maharaja Sayajirao University of BarodaImage 10: Garba danceImage 11: Somnath Temple, Gujarat, IndiaImage 12: Modhera: Sun Temple. # Gujarat. *   Where is Gujarat located in India? Gujarat, a state in India, is located on the country’s western coast, by the Arabian Sea. It includes the Kathiawar Peninsula and bordering mainland areas. Gujarat is bordered to the northwest by Pakistan, and to the north by the Indian state of Rajasthan. Gujarat shares a small part of its southeastern border with the Indian union territory of Dadra and Nagar Haveli and Daman and Diu. The coastline of Gujarat extends for 992 miles (1,596 km), and no part of the state is more than 100 miles (160 km) from the sea. *   What is the capital city of Gujarat? The capital city of Gujarat, a state in west-central India, is Gandhinagar.",
+      "bm25_score_raw": 0.7781277919995749,
+      "bm25_score_norm": 0.2195011987193399,
+      "bm25_rank": 10
+    },
+    {
+      "title": "Gujarat",
+      "url": "https://www.incredibleindia.gov.in/en/gujarat",
+      "snippet": "Welcome to the new Incredible India Digital Portal! While we are continuously updating and improving the site, we would love to hear your suggestions for features or content you'd like to see. Please share your feedback at [info[dot]mot[at]gov[dot]in](mailto:info.mot@gov.in). Check the spelling of the entered words, try different keywords or try mored general keywords. (Click to select and copy). gomtighat-dwarka-gujarat-1-city-hero. bet-dwarka-dwarka-gujarat-1-attr-hero. bhadreshwar-jain-temple-kutch-gujarat-1-city-hero. dwarka-beach-dwarka-gujarat-1-attr-hero. Welcome to the vibrant state of Gujarat, where the past and present dance in harmony, and every corner whispers tales of bygone eras and vibrant traditions. The state is famous for its majestic temples like the regal Sun Temple in Modhera, the Somnath Temple, and the Dwarkadhish Temple. From the sweet notes of Dhokla and Fafda to the spicy delights of Undhiyu and Khandvi, every dish is a reflection of the state's diversity and culinary ingenuity. Gujarat is not just a destination; it's an odyssey through time, a celebration of culture, and a gateway to nature's wonders.",
+      "bm25_score_raw": 0.5260346108496265,
+      "bm25_score_norm": 0.1483885151469022,
+      "bm25_rank": 11
+    },
+    {
+      "title": "GujaratCongress #CongressForPeople #LokoNiCongress ...",
+      "url": "https://www.instagram.com/reel/DaKdKN5lI39",
+      "snippet": "એવીરીતે કોંગ્રેસ નહીં આવે સાહેબ રાહુલ ગાંધી જી એ કહ્યું છે જે રેસ ના ઘોડા છે તેને લગ્ન માં ના દોડાવો તેને મેદાન માં દોડાવો હું પણ એક કોંગ્રેસ સૈનિક છું છેલ્લા 25 વર્ષ થી માટે આવા તૈફા રહેવા દો ગ્રાઉન્ડ લેવલ સુધી આપણે ...Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "claim": {
+    "id": "S2/1285",
+    "text": "Covid-19: फिर बढ़े Corona Cases, चार महीने बाद 700 से ज्यादा New Cases, सतर्कता बरतने के निर्देश!",
+    "lang": "dev"
+  },
+  "ranked_evidence": [
+    {
+      "title": "Seedhe Mudde Ki Baat: Corona के 7 दिन में 700 से ज्यादा केस आए | Covid ...",
+      "url": "https://www.youtube.com/watch?v=XP58u2s_l2g",
+      "snippet": "Seedhe Mudde Ki Baat: Corona के 7 दिन में 700 से ज्यादा केस आए | Covid 19 | Corona New Variant #corona #corona #covid19 #covid19news #coronaalert",
+      "bm25_score_raw": 15.827439420527238,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Covid isn't over but even the most cautious Americans are moving on",
+      "url": "https://www.washingtonpost.com/health/2023/06/25/covid-precautions-summer-vaccines-deaths",
+      "snippet": "The vast majority of the more than 80 people contacted by The Washington Post say they are relaxing precautions, believing they'll be fine",
+      "bm25_score_raw": 3.4057520171043913,
+      "bm25_score_norm": 0.2151802276170671,
+      "bm25_rank": 2
+    },
+    {
+      "title": "Corona का JN.1 Variant का कितना खतरा? एक्टिव केस 1 हजार पार ...",
+      "url": "https://www.youtube.com/watch?v=pUZWih9ItsI",
+      "snippet": "भारत समेत दुनिया के कई देशों में कोरोना वायरस के मामले फिर से बढ़ रहे हैं, भारत में मंगलवार तक सक्रिय मामलों की संख्या 1 हजार पार कर गई है. विशेषज्ञ के अनुसार, JN.1 वेरिएंट ज्यादा इन्फेक्टिव है और",
+      "bm25_score_raw": 3.217599222400584,
+      "bm25_score_norm": 0.20329246803039733,
+      "bm25_rank": 3
+    },
+    {
+      "title": "कोरोना वायरस: कुल मामले 700 के पास, मृतकों की संख्या हुई 16",
+      "url": "https://amp.dw.com/hi/%E0%A4%95%E0%A5%8B%E0%A4%B0%E0%A5%8B%E0%A4%A8%E0%A4%BE-%E0%A4%B5%E0%A4%BE%E0%A4%AF%E0%A4%B0%E0%A4%B8-%E0%A4%95%E0%A5%81%E0%A4%B2-%E0%A4%AE%E0%A4%BE%E0%A4%AE%E0%A4%B2%E0%A5%87-700-%E0%A4%95%E0%A5%87-%E0%A4%AA%E0%A4%BE%E0%A4%B8-%E0%A4%AE%E0%A5%83%E0%A4%A4%E0%A4%95%E0%A5%8B%E0%A4%82-%E0%A4%95%E0%A5%80-%E0%A4%B8%E0%A4%82%E0%A4%96%E0%A5%8D%E0%A4%AF%E0%A4%BE-%E0%A4%B9%E0%A5%81%E0%A4%88-16/a-52934782",
+      "snippet": "पूरे देश में तालाबंदी के बावजूद कोरोना वायरस का संक्रमण रोज नए रिकॉर्ड बना रहा है. तालाबंदी के दूसरे दिन 26 मार्च को एक दिन पहले से भी ज्यादा नए मामले सामने आये. 88 नए मामलों के आने की वजह से संक्रमण के",
+      "bm25_score_raw": 3.147964451973906,
+      "bm25_score_norm": 0.19889284478266175,
+      "bm25_rank": 4
+    },
+    {
+      "title": "A federal plan to tackle the coronavirus pandemic warns it 'will last 18 months ...",
+      "url": "https://www.businessinsider.com/us-coronavirus-warning-pandemic-will-last-18-months-multiple-waves-2020-3",
+      "snippet": "A federal plan to tackle the coronavirus pandemic warns it 'will last 18 months or longer' and could include 'multiple waves'. By Rosie Perper.",
+      "bm25_score_raw": 2.378889294356739,
+      "bm25_score_norm": 0.15030158897790266,
+      "bm25_rank": 5
+    },
+    {
+      "title": "COVID-19 pandemic",
+      "url": "https://en.wikipedia.org/wiki/COVID-19_pandemic",
+      "snippet": "# COVID-19 pandemic. | Medical professionals treating a COVID-19 patient in critical condition in an intensive care unit in São Paulo \"COVID-19 pandemic in São Paulo (state)\") in May 2020 |. | Dates | Described as a pandemic by the WHO: 11 March 2020 (6 years and 4 months ago)   ---   Public health emergency of international concern: 30 January 2020 – 5 May 2023 (3 years, 3 months and 5 days) |. | * COVID-19 (disease) * SARS-CoV-2 (virus)  * Cases * Deaths |. The global **COVID-19 pandemic** (also known as the **coronavirus pandemic**), caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), began with an outbreak in Wuhan, China, in December 2019. The World Health Organization (WHO) declared the outbreak a public health emergency of international concern (PHEIC) on 30 January 2020 and assessed it as having become a pandemic on 11 March. The WHO declared that the public health emergency caused by COVID-19 had ended in May 2023, while noting that COVID-19 continued to be a global health threat.",
+      "bm25_score_raw": 1.3746806233556386,
+      "bm25_score_norm": 0.08685426535720998,
+      "bm25_rank": 6
+    },
+    {
+      "title": "Pandemic precautions should continue because of long COVID ...",
+      "url": "https://www.youtube.com/watch?v=lRh1Te9hMTQ",
+      "snippet": "Dr. Ezekiel Emanuel said he will continue to wear a mask and take other precautions because we don't yet understand long COVID or its long-term",
+      "bm25_score_raw": 1.057079325981847,
+      "bm25_score_norm": 0.0667877663528365,
+      "bm25_rank": 7
+    },
+    {
+      "title": "CDC Issues New Guidance On Covid Exposure: What You Need To Know",
+      "url": "https://www.youtube.com/watch?v=R6mwat4umMw",
+      "snippet": "The CDC has issued new quarantine and masking guidance for Americans exposed to Covid-19. Akshay Syal break down the new recommendations and",
+      "bm25_score_raw": 0.8018175112570327,
+      "bm25_score_norm": 0.05065996400005952,
+      "bm25_rank": 8
+    },
+    {
+      "title": "COVID-19 Safety For Older Adults",
+      "url": "https://www.ncoa.org/article/covid-19-has-not-gone-away-how-older-adults-can-stay-safe",
+      "snippet": "That’s why we’re on a path to improve the lives of 40 million older adults by 2030. # COVID-19 Has Not Gone Away: Here’s How Older Adults Can Stay Safe. Avoiding a COVID infection should be high on your priority list, too, especially if you’re age 65 or older, you have one or more chronic health conditions, or you’re immunocompromised. According to CDC, 81% of COVID deaths happen among people who are older than 65.**2** The risk of becoming seriously ill, getting hospitalized, or dying increases with age. That’s why it’s important to stay mindful of your health—by keeping up with vaccines, practicing good handwashing, and making safe choices in crowded places when needed. ## What is the 2025-2026 COVID vaccine guidance for older adults? “For adults 65 and older—and those with conditions like heart disease, diabetes, or lung disease—the benefits of vaccination are especially strong.”.",
+      "bm25_score_raw": 0.7941900854189541,
+      "bm25_score_norm": 0.050178052451676884,
+      "bm25_rank": 9
+    },
+    {
+      "title": "U.S. COVID-19 death toll hits 700000",
+      "url": "https://www.youtube.com/watch?v=ZKXSAVbEfjE",
+      "snippet": "The U.S. coronavirus-related deaths surpassed 700,000, the most in any country, according to a Reuters tally. Globally, the pandemic is set",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10
+    },
+    {
+      "title": "Examining the Impacts of Coronavirus Disease 2019 Mitigation Policies on ...",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9619694",
+      "snippet": "by PP Zanwar · 2022 · Cited by 1 — Higher COVID-19 death counts were observed consistently among older adults in comparison to younger adults across high-income and middle-income",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11
+    },
+    {
+      "title": "Summary of Guidance for Public Health Strategies to Address High ...",
+      "url": "https://www.cdc.gov/mmwr/volumes/69/wr/mm6949e2.htm",
+      "snippet": "A .gov website belongs to an official government organization in the United States. These strategies include 1) universal face mask use, 2) maintaining physical distance from other persons and limiting in-person contacts, 3) avoiding nonessential indoor spaces and crowded outdoor spaces, 4) increasing testing to rapidly identify and isolate infected persons, 5) promptly identifying, quarantining, and testing close contacts of persons with known COVID-19, 6) safeguarding persons most at risk for severe illness or death from infection with SARS-CoV-2, the virus that causes COVID-19, 7) protecting essential workers with provision of adequate personal protective equipment and safe work practices, 8) postponing travel, 9) increasing room air ventilation and enhancing hand hygiene and environmental disinfection, and 10) achieving widespread availability and high community coverage with effective COVID-19 vaccines.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12
+    }
+  ]
+}

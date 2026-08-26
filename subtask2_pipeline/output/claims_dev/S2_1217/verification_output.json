@@ -1,0 +1,6 @@
+{
+  "ID": "S2/1217",
+  "Evidence": "Patna reported 999 new Covid cases after almost fifteen days, which is less than 1,000 cases. The positivity rate has decreased to 12.36%. The report indicates that the number of active cases in Patna is 9,619, and the positivity rate had previously peaked at 23.02% on January 13 before declining. This information is corroborated by Source 1, which details the drop in cases and positivity rate.",
+  "Prediction": "REFUTES",
+  "Justification": "The retrieved evidence from Source 1 clearly states that Patna reported less than 1,000 Covid cases, specifically 999, after 15 days, contradicting the claim that it reported more than 1,000 cases. Additionally, the positivity rate is reported to have dropped, further refuting the claim's assertion."
+}

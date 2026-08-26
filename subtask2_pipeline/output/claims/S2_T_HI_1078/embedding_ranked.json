@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/HI/1078",
+    "text": "गुजरात-हिमाचल में 'कांग्रेस' की हार पर राहुल गांधी का पहला रिएक्शन, जानें क्या कहा",
+    "lang": "hindi"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Rahul Gandhi's First Response To Himachal Election Results, Tweets ...",
+      "url": "https://www.youtube.com/watch?v=zf83OTmf_hA",
+      "snippet": "Himachal Pradesh has not returned any incumbent government to power in nearly four decades. As counting of votes gets underway, early trends",
+      "bm25_score_raw": 0.490270619408588,
+      "bm25_score_norm": 0.12306037873344923,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.8857148885726929,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "How political leaders reacted to the Gujarat and Himachal election results",
+      "url": "https://www.thehindu.com/news/national/how-political-leaders-reacted-to-the-gujarat-and-himachal-election-results/article61844545.ece/amp",
+      "snippet": "A look at leaders' reactions cutting across party lines on the Assembly polls results in the two States.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.8806431293487549,
+      "embedding_score_norm": 0.9059096980794918,
+      "embedding_rank": 2
+    },
+    {
+      "title": "LIVE: Rahul Gandhi addresses public rally in Surat, Gujarat",
+      "url": "https://www.youtube.com/watch?v=1b5Gr1gREL8",
+      "snippet": "Rahul Gandhi addresses public rally in Surat, Gujarat #rahulgandhi #INC #gujaratelection2022",
+      "bm25_score_raw": 1.293186694569997,
+      "bm25_score_norm": 0.3245963313053744,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8745313286781311,
+      "embedding_score_norm": 0.7925247472200844,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Defeat in Gujarat, victory in Himachal: Bittersweet day for Congress",
+      "url": "https://www.thenewsminute.com/amp/story/news/defeat-gujarat-victory-himachal-bittersweet-day-congress-170736",
+      "snippet": "While Congress seems to wrest Himachal from BJP, it suffered a crushing defeat in Gujarat where it's likely to get just 10 percent of the",
+      "bm25_score_raw": 3.507911142919567,
+      "bm25_score_norm": 0.8805032500860622,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8677434921264648,
+      "embedding_score_norm": 0.666598108684306,
+      "embedding_rank": 4
+    },
+    {
+      "title": "BJP holds Gujarat and wins Himachal Pradesh | Riding the Elephant",
+      "url": "https://ridingtheelephant.wordpress.com/2017/12/18/bjp-holds-gujarat-and-wins-himachal-pradesh",
+      "snippet": "Modi has failed to get the 2019 general election boost he wanted Rahul Gandhi has made a good start as Congress president Narendra Modi has",
+      "bm25_score_raw": 1.7744408468531252,
+      "bm25_score_norm": 0.4453935316728933,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8675439953804016,
+      "embedding_score_norm": 0.6628970834107375,
+      "embedding_rank": 5
+    },
+    {
+      "title": "हिमाचल से राहुल गांधी का संबोधन | Election 2024",
+      "url": "https://www.youtube.com/watch?v=slHo8IOfBoM",
+      "snippet": "Rahul Gandhi Himachal Pradash Full Speech LIVE: हिमाचल से राहुल गांधी का संबोधन | Election 2024 #rahulgandhi #loksabhaelection2024 #rahulgandhilive For",
+      "bm25_score_raw": 2.292057312264995,
+      "bm25_score_norm": 0.5753178545888633,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8651068210601807,
+      "embedding_score_norm": 0.6176830940438595,
+      "embedding_rank": 6
+    },
+    {
+      "title": "गुजरात और हिमाचल में कांग्रेस की हार पर राहुल गांधी ने दिया यह ...",
+      "url": "https://ndtv.in/assembly-polls-2017/gujarat-himachal-election-results-what-rahul-gandhi-said-on-congress-performance-1789274",
+      "snippet": "Dec 18, 2017 — बीजेपी ने एक बार गुजरात जीत लिया है. हिमाचल की सत्ता भी उसने कांग्रेस से छीन ली है. कांग्रेस के लिए सांत्वना की बात बस इतनी है कि उसे गुजरात में कुछ अतिरिक्त सीटें मिल गई हैं और हिमाचल में उसका ऐसा सफाया",
+      "bm25_score_raw": 0.7208713866848274,
+      "bm25_score_norm": 0.1809423252214319,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.8648459911346436,
+      "embedding_score_norm": 0.6128442274178852,
+      "embedding_rank": 7
+    },
+    {
+      "title": "Himachal Pradesh में राहुल ने कर दिया बड़ा वादा",
+      "url": "https://www.youtube.com/watch?v=7MxpsDOuHpw",
+      "snippet": "Rahul Gandhi Nehan Speech: Himachal Pradesh में राहुल ने कर दिया बड़ा वादा | Lok Sabha Election 2024. @Livehindustan1.5K likes70K views2 years agoRead more",
+      "bm25_score_raw": 1.2614156443099636,
+      "bm25_score_norm": 0.3166216387111588,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8601673245429993,
+      "embedding_score_norm": 0.5260465044275188,
+      "embedding_rank": 8
+    },
+    {
+      "title": "Rahul Gandhi! Another election, another defeat! If there were awards ...",
+      "url": "https://www.facebook.com/TJT4002/posts/rahul-gandhianother-election-another-defeatif-there-were-awards-for-electoral-co/1389939089418405",
+      "snippet": "Rahul Gandhi! Another election, another defeat! If there were awards for electoral consistency, he'd sweep them all.",
+      "bm25_score_raw": 0.7165493668279365,
+      "bm25_score_norm": 0.1798574766104258,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.8466777205467224,
+      "embedding_score_norm": 0.27578996488062063,
+      "embedding_rank": 9
+    },
+    {
+      "title": "Rahul Gandhi's score: 99 crossed... A legendary Century of defeats is ...",
+      "url": "https://www.facebook.com/MahilaMorchaBJP/posts/rahul-gandhis-score-99-crossed-a-legendary-century-of-defeats-is-loadingcongress/1393392879492539",
+      "snippet": "Rahul Gandhi leading the Indian National Congress to defeat after defeat is about to make a unique record. He already has 95 defeats to his",
+      "bm25_score_raw": 3.9839843209854093,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8400980234146118,
+      "embedding_score_norm": 0.153724688835222,
+      "embedding_rank": 10
+    },
+    {
+      "title": "क्या है राहुल गांधी का 3 'p' मंत्र?:जिसका गुजरात-हिमाचल में होगा ...",
+      "url": "https://www.amarujala.com/india-news/gujarat-election-if-rahul-gandhi-s-3-p-s-formula-run-he-can-reverse-2024-election-trial-gujarat-himachal",
+      "snippet": "Oct 31, 2022 — ये ट्रायल सफल हुआ तो 2024 में बड़ा उलटफेर हो सकता है। विज्ञापन. Gujarat Election: If Rahul Gandhi's 3 'P's formula run, he can ...Read more",
+      "bm25_score_raw": 3.208169963463287,
+      "bm25_score_norm": 0.8052667141696406,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8329029083251953,
+      "embedding_score_norm": 0.020242297178949605,
+      "embedding_rank": 11
+    },
+    {
+      "title": "राहुल गांधी बोले- हिमाचल सरकार चोरी नहीं कर पाएंगे मोदी",
+      "url": "https://www.bhaskar.com/local/himachal/sirmaur/nahan/news/himachal-news-rahul-gandhi-today-public-meetings-live-update-nahan-una-133077050.html",
+      "snippet": "May 26, 2024 — कांग्रेस नेता राहुल गांधी रविवार को हिमाचल दौरे पर रहे। सबसे पहले उन्होंने सिरमौर के नाहन में शिमला लोकसभा सीट से कांग्रेस उम्मीदवार विनोद सुल्तानपुरी के समर्थन में रैली की। इसके बाद वह ऊना पहुंचे।Read more",
+      "bm25_score_raw": 1.2014523111413788,
+      "bm25_score_norm": 0.30157054203571976,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.831811785697937,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

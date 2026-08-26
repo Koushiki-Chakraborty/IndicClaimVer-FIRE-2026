@@ -1,0 +1,76 @@
+{
+  "claim": {
+    "id": "S2/1505",
+    "text": "Delhi polls: AAP candidates cleared of wrongdoing in sting CD",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Arvind Kejriwal's Aam Aadmi Party rejects sting, complains to Election ...",
+      "url": "https://www.ndtv.com/delhi-news/arvind-kejriwals-aam-aadmi-party-rejects-sting-complains-to-election-commission-542048",
+      "snippet": "... candidate found guilty of wrongdoing from the December 4 Delhi election. The party said it would file a defamation suit against the website",
+      "bm25_score_raw": 3.0005879689524892,
+      "bm25_score_norm": 0.7810632909101133,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8653413653373718,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "'Cash For Ticket' Sting: AAP Workers Rise Up Against Party Leadership",
+      "url": "https://swarajyamag.com/amp/story/commentary%2Fcash-for-ticket-sting-aap-workers-rise-up-against-party-leadership",
+      "snippet": "In an India Today feature on the Municipal Corporation of Delhi (MCD) polls, the reporter speaks to candidates put up by BJP and AAP in",
+      "bm25_score_raw": 3.6957987847767586,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8396990895271301,
+      "embedding_score_norm": 0.5258058542650423,
+      "embedding_rank": 2
+    },
+    {
+      "title": "AAP leader offers to opt out of poll after sting operation",
+      "url": "https://www.thehindu.com/news/cities/Delhi/aap-leader-offers-to-opt-out-of-poll-after-sting-operation/article5379068.ece/amp",
+      "snippet": "Aam Aadmi Party leader Shazia Ilmi on Friday offered to withdraw her candidature from the Delhi assembly elections after a media portal",
+      "bm25_score_raw": 2.2117793691786174,
+      "bm25_score_norm": 0.5326506439757668,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8370538353919983,
+      "embedding_score_norm": 0.4768880423616347,
+      "embedding_rank": 3
+    },
+    {
+      "title": "AAP leaders raising funds through illegal means,shows sting; Kejriwal ...",
+      "url": "https://indianexpress.com/article/political-pulse/aap-leaders-raising-funds-through-illegal-means-shows-sting-kejriwal-cries-foul/lite",
+      "snippet": "The sting showed Shazia Ilmi and Kumar Vishwas allegedly involved in raising money illegally.",
+      "bm25_score_raw": 1.9250852826571623,
+      "bm25_score_norm": 0.44236456327934,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8268576264381409,
+      "embedding_score_norm": 0.28833291447870235,
+      "embedding_rank": 4
+    },
+    {
+      "title": "'Public Lost Their Faith In Aam Aadmi Party', Says, Savio Rodrigues ...",
+      "url": "https://www.youtube.com/watch?v=6GB2sEGEB8g",
+      "snippet": "'Public Lost Their Faith In Aam Aadmi Party', Says, Savio Rodrigues | Delhi Election Results Debate With Arnab LIVE: How Arvind Kejriwal's",
+      "bm25_score_raw": 0.5204024854798555,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8175368905067444,
+      "embedding_score_norm": 0.11596762033252649,
+      "embedding_rank": 5
+    },
+    {
+      "title": "INDIA Bloc Rift Widens: AAP and Congress Trade Accusations After ...",
+      "url": "https://www.youtube.com/watch?v=hO719Y-Zerw",
+      "snippet": "The INDIA bloc alliance faces internal strife following Delhi election results. AAP and Congress trade accusations over vote-splitting.",
+      "bm25_score_raw": 1.347487435326445,
+      "bm25_score_norm": 0.2604666856951754,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8112658858299255,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6
+    }
+  ]
+}

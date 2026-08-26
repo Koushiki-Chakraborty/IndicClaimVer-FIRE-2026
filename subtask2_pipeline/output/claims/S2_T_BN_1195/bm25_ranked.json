@@ -1,0 +1,105 @@
+{
+  "claim": {
+    "id": "S2/T/BN/1195",
+    "text": "এক দেশ, এক ভোট! সংসদীয় যৌথ কমিটিতে কংগ্রেসের প্রতিনিধি রাহুল",
+    "lang": "bengali"
+  },
+  "ranked_evidence": [
+    {
+      "title": "Joint Parliamentary Committee examining the framework related to ...",
+      "url": "https://www.facebook.com/airnewsalerts/posts/joint-parliamentary-committee-examining-the-framework-related-to-the-one-nation-/1408005248189839",
+      "snippet": "Joint Parliamentary Committee examining the framework related to the One Nation, One Election proposal concluded its three-day consultation",
+      "bm25_score_raw": 8.461002519910666,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Hon'ble Congress President Shri Rahul Gandhi has appointed the ...",
+      "url": "https://www.facebook.com/GAMirINC/posts/honble-congress-president-shri-rahul-gandhi-has-appointed-the-following-as-secre/1923585787701882",
+      "snippet": "Hon'ble Congress President Shri Rahul Gandhi has appointed the following as Secretaries of All India Congress Committee with immediate",
+      "bm25_score_raw": 3.7462970821209076,
+      "bm25_score_norm": 0.44277224516894037,
+      "bm25_rank": 2
+    },
+    {
+      "title": "অরুণোদয় থেকে থেকে রাহুল হয়ে ওঠার এক সম্পূর্ণ রূপকথা | Image ...",
+      "url": "https://www.facebook.com/imagebengalnews/videos/%E0%A6%85%E0%A6%B0%E0%A7%81%E0%A6%A3%E0%A7%8B%E0%A6%A6%E0%A6%AF%E0%A6%BC-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A6%B0%E0%A6%BE%E0%A6%B9%E0%A7%81%E0%A6%B2-%E0%A6%B9%E0%A6%AF%E0%A6%BC%E0%A7%87-%E0%A6%93%E0%A6%A0%E0%A6%BE%E0%A6%B0-%E0%A6%8F%E0%A6%95-%E0%A6%B8%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A7%82%E0%A6%B0%E0%A7%8D%E0%A6%A3-%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%95%E0%A6%A5%E0%A6%BE/956058953464970",
+      "snippet": "আকস্মিক মৃত্যুতে না ফেরার দেশে চলে গেলেন অভিনেতা রাহুল অরুণোদয় ব্যানার্জি। 00:15. আকস্মিক মৃত্যুতে না ফেরার দেশে চলে গেলেন অভিনেতা রাহুল অরুণোদয়",
+      "bm25_score_raw": 3.040668771803469,
+      "bm25_score_norm": 0.35937452620396726,
+      "bm25_rank": 3
+    },
+    {
+      "title": "অভিনেতা রাহুলের মৃত্যু: শেষ মুহূর্তে যা ঘটেছিল",
+      "url": "https://samakal.com/entertainment/article/344839/%E0%A6%85%E0%A6%AD%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%A4%E0%A6%BE-%E0%A6%B0%E0%A6%BE%E0%A6%B9%E0%A7%81%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A7%83%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A7%81:-%E0%A6%B6%E0%A7%87%E0%A6%B7-%E0%A6%AE%E0%A7%81%E0%A6%B9%E0%A7%82%E0%A6%B0%E0%A7%8D%E0%A6%A4%E0%A7%87-%E0%A6%AF%E0%A6%BE-%E0%A6%98%E0%A6%9F%E0%A7%87%E0%A6%9B%E0%A6%BF%E0%A6%B2",
+      "snippet": "ইউনিটের এক সদস্যের দাবি, শুটিং শেষ হওয়ার পর রাহুল একাই পানিতে নেমেছিলেন। তখন হঠাৎ ঢেউয়ের ধাক্কা ও বালিতে পা আটকে যাওয়ার কারণে তিনি বিপদে পড়েন। অন্যদিকে প্রত্যক্ষদর্শী অভিনেতা দিগন্ত বাগচী জানান, রাহুল",
+      "bm25_score_raw": 2.568355678173256,
+      "bm25_score_norm": 0.3035521703402558,
+      "bm25_rank": 4
+    },
+    {
+      "title": "'16 sounds like Epstein': Congress on Rahul Gandhi's parliament puzzle",
+      "url": "https://www.facebook.com/thewire.in/posts/live-parliament-special-session-16-sounds-like-epstein-congress-on-rahul-gandhis/995777376453624",
+      "snippet": "— Telangana Congress MP Chamala Kiran Kumar Reddy opposes TDP MP Devarayalu's remarks about Telangana's population. He says it \"should be",
+      "bm25_score_raw": 1.7995445041759008,
+      "bm25_score_norm": 0.2126869126845386,
+      "bm25_rank": 5
+    },
+    {
+      "title": "Opposition Leader Rahul Gandhi Loses Seat in Indian Parliament",
+      "url": "https://thediplomat.com/2023/03/opposition-leader-rahul-gandhi-loses-seat-in-indian-parliament",
+      "snippet": "His disqualification is a setback to his Congress party. But can Gandhi turn things to his party's advantage?",
+      "bm25_score_raw": 1.4505892261949027,
+      "bm25_score_norm": 0.17144413121037794,
+      "bm25_rank": 6
+    },
+    {
+      "title": "💥 একবার একটি ছোট্ট গ্রামে এক ছেলে ছিল, নাম তার রাহুল। সে খুবই ...",
+      "url": "https://www.facebook.com/shohozSkill/posts/-%E0%A6%8F%E0%A6%95%E0%A6%AC%E0%A6%BE%E0%A6%B0-%E0%A6%8F%E0%A6%95%E0%A6%9F%E0%A6%BF-%E0%A6%9B%E0%A7%8B%E0%A6%9F%E0%A7%8D%E0%A6%9F-%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A7%87-%E0%A6%8F%E0%A6%95-%E0%A6%9B%E0%A7%87%E0%A6%B2%E0%A7%87-%E0%A6%9B%E0%A6%BF%E0%A6%B2-%E0%A6%A8%E0%A6%BE%E0%A6%AE-%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A6%B0%E0%A6%BE%E0%A6%B9%E0%A7%81%E0%A6%B2-%E0%A6%B8%E0%A7%87-%E0%A6%96%E0%A7%81%E0%A6%AC%E0%A6%87-%E0%A6%A6%E0%A7%80%E0%A6%A8-%E0%A6%B9%E0%A7%80%E0%A6%A8-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%A6%E0%A6%B8%E0%A7%8D/1434918685310701",
+      "snippet": "একবার একটি ছোট্ট গ্রামে এক ছেলে ছিল, নাম তার রাহুল। সে খুবই দীন-হীন পরিবারের সদস্য ছিল। বাবা মা কেউই লেখাপড়া করাতে পারেননি, তাই রাহুলের জীবনে নানা কষ্ট ছিল। তবে তার একটা বড় স্বপ্ন ছিল। সে একদিন",
+      "bm25_score_raw": 0.7939072800303894,
+      "bm25_score_norm": 0.09383134896392534,
+      "bm25_rank": 7
+    },
+    {
+      "title": "গতকাল রাতেই রাহুলের পরিবারের সাথে দেখা করতে গেছিলেন সৌরভ ...",
+      "url": "https://www.instagram.com/reel/DWfg5-giP8g?hl=bn",
+      "snippet": "গতকাল রাতেই রাহুলের পরিবারের সাথে দেখা করতে গেছিলেন সৌরভ- দর্শনা ... ১৬ মাসের ছেলের পর এবার পরিবারে এল আরও এক নতুন সদস্য।",
+      "bm25_score_raw": 0.6574265903172998,
+      "bm25_score_norm": 0.07770079122068871,
+      "bm25_rank": 8
+    },
+    {
+      "title": "Rahul Gandhi",
+      "url": "https://prsindia.org/mptrack/18-lok-sabha/rahul-gandhi",
+      "snippet": "This MP is a Leader of Opposition. LoP does not sign the attendance register. Data corresponds to the period from 24-06-2024 to 18-04-2026.",
+      "bm25_score_raw": 0.35402299508626833,
+      "bm25_score_norm": 0.04184173143231805,
+      "bm25_rank": 9
+    },
+    {
+      "title": "Statement by Leader of the Opposition Shri Rahul Gandhi Ji \" ...",
+      "url": "https://www.facebook.com/NasirHussainINC/posts/statement-by-leader-of-the-opposition-shri-rahul-gandhi-jicompromising-democrati/1407142271224675",
+      "snippet": "Those responsible for undermining the integrity of the electoral process will be held accountable when the time comes. The people of India are",
+      "bm25_score_raw": 0.3081452851398836,
+      "bm25_score_norm": 0.03641947681905868,
+      "bm25_rank": 10
+    },
+    {
+      "title": "গত ২৪ ঘণ্টায় আমি, অর্থাৎ রাহুল, যে পরিমাণ ভালোবাসা পেয়েছি, ...",
+      "url": "https://www.instagram.com/p/DZsO-L7OnYP?hl=bn",
+      "snippet": "গত ২৪ ঘণ্টায় আমি, অর্থাৎ রাহুল, যে পরিমাণ ভালোবাসা পেয়েছি, সেটাই আমার কাছে সবচেয়ে বড় প্রাপ্তি। আমি জানি, আমার এই সিদ্ধান্তে এই ধারাবাহিকের অসংখ্য অনুরাগী কষ্ট পেয়েছেন।",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11
+    },
+    {
+      "title": "রাহুলের মৃ*ত্যু নিয়ে কথা বলতে গিয়ে গলা কেঁপে উঠছিল সুদীপের ...",
+      "url": "https://www.instagram.com/reel/DW4Kg3jCJwv?hl=bn",
+      "snippet": "কেউ বন্ধুর মতো কেউ বন্ধু ছিলেন ব্যস্ততার জন্য বন্ধুত্ব হয়তো অনেকে রাখতে পারেনি বা অন্য কোনো কারণে বা ভয়তে। জীবিকার জায়গা থেকে তারা আমার সহকর্মী। আমাদের পশ্চিমবঙ্গে বিরাট একটা ভয় কাজ করত। যে ওকে ফোন করতে",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/CM/1052",
+    "text": "sansad me bahas krne ki vajha cycle pe ghumne vale kuch to sharam karo janta ka tax ka paisa haram ka nhi aata hai mahenat pasine se kamya hua hai apne swarth ke liye body guards ko aise dudana kitna nirlajata purn hai shamr kro sharam",
+    "lang": "codemix"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Debates",
+      "url": "https://www.parliament.uk/visiting/visiting-and-tours/watch-committees-and-debates/debates",
+      "snippet": "## Our use of cookies. We use essential cookies to make our site work. We'd like to use additional cookies to understand how you use the site and improve our services. You can find details of these and all other cookies in our cookie policy. Find out what’s on today at the House of Commons and House of Lords. MPs and Members of the Lords sit in the two Chambers of Parliament scrutinising the Government and debating legislation. Find Members of Parliament (MPs) by postcode and constituency, and Members of the House of Lords by name and party. *   Members of the House of Lords. Find your MP Search for Members by name, postcode, or constituencySearch for Members of the House of Lords Learn about their experience, knowledge and interests. Contact an MP or Lord Contact your MP or a Member of the House of Lords about an issue that matters to you.Keep up to date Sign up for the Your Parliament newsletter to find out how you can get involved.",
+      "bm25_score_raw": 1.3193420933439761,
+      "bm25_score_norm": 0.4220611790352383,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8253756761550903,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "“नरेंद्र मोदी जवाब तुमको देना होगा, वरना गद्दी छोड़ना होगा”, ...",
+      "url": "https://www.jansatta.com/national/tmc-leaders-raised-slogans-outside-parliament-reached-on-bicycle-ruckus-in-house-too/1775648",
+      "snippet": "Jul 19, 2021 — देश में पेट्रोल, डीजल और रसोई गैस की बढ़ती कीमतों के खिलाफ अपना गुस्सा जाहिर करते हुए तृणमूल कांग्रेस के सांसद आज साइकिल पर सवार होकर मॉनसून सत्र के पहले दिन संसद पहुंचे।",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.8162556886672974,
+      "embedding_score_norm": 0.7569156271248911,
+      "embedding_rank": 2
+    },
+    {
+      "title": "bicycle में संसद पहुंचे सांसद, VIRAL VIDEO #sansad ...",
+      "url": "https://www.facebook.com/livingindianewsharyana/videos/bicycle-%E0%A4%AE%E0%A5%87%E0%A4%82-%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A4%A6-%E0%A4%AA%E0%A4%B9%E0%A5%81%E0%A4%82%E0%A4%9A%E0%A5%87-%E0%A4%B8%E0%A4%BE%E0%A4%82%E0%A4%B8%E0%A4%A6-viral-videosansad-bicycle-viralvideo%E3%82%B7-viralpost202/1278674306504697",
+      "snippet": "CM नायब सैनी की अहम बैठक, स्वास्थ्य सेवाओं और दवाओं की उपलब्धता पर हुआ मंथन ... bicycle में संसद पहुंचे सांसद, VIRAL VIDEO #sansad #bicycle...Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.813508927822113,
+      "embedding_score_norm": 0.6837033953775078,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Debate: Income Tax (Charge) - 5th Nov 2024",
+      "url": "https://www.parallelparliament.co.uk/debate/2024-11-05/commons/commons-chamber/income-tax-charge",
+      "snippet": "Nov 5, 2024 — This Budget is the moment we turn the page on 14 years of Tory neglect of our NHS, when we begin to fix the foundations of our public finances ...Read more",
+      "bm25_score_raw": 1.6775225970154373,
+      "bm25_score_norm": 0.53664411127827,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.80876624584198,
+      "embedding_score_norm": 0.5572918321566335,
+      "embedding_rank": 4
+    },
+    {
+      "title": "MUST WATCH: Heated Budget Debate in UK Parliament Over Taxes, Welfare, and Economy Risks | AC14",
+      "url": "https://www.youtube.com/watch?v=D3olcOBJeow",
+      "snippet": "MUST WATCH: Heated Budget Debate in UK Parliament Over Taxes, Welfare, and Economy Risks | AC14\nDWS News\n316000 subscribers\n32 likes\n6004 views\n26 Nov 2025\nWatch UK Parliament erupt as MPs debate the financial budget! Oliver Den criticizes the government’s policies on taxes, welfare, and economic growth, raising concerns about intergenerational fairness and the impact on families. Get in-depth coverage of this heated parliamentary session, key insights on the UK economy, and expert analysis. For more updates, watch the full video and subscribe to DWS News.\n\n📌 Subscribe for live UK politics updates, budget insights, and full parliamentary coverage.\n\n#UKParliament #BudgetDebate #OliverDen #UKFinance #TaxHikes #WelfareReform #RachelReeves #UKEconomy #PoliticalDebate #UKPolitics #GovernmentSpending #EconomicPolicy #BritishMPs #ParliamentLive #Budget2025\n\nUK Parliament, UK Budget Debate, Oliver Den, British Finance, Taxes UK, Welfare Reform, Rachel Reeves, UK Economy, Parliamentary Debate, Budget Controversy, UK Politics, Government Spending, Economic Policy UK, Budget 2025, Tax Hikes UK, Public Services, British MPs Debate, Economic Growth UK, Intergenerational Fairness, UK Finance Minister\n-------------------------------------------------------------------\n🌐 DWS News – Decoding Global Politics Daily\nWelcome to DWS News! We deliver reliable, timely updates and in-depth coverage of the biggest political stories shaping our world.\n\nWant us to cover a story, share your perspective, or give feedback? Email us anytime at info@newsdrm.com\n — we’re listening.\n\n🔎 Subscribe for More:\nStay informed on international diplomacy, political power shifts, peace negotiations, and world-changing events.\n\n🕊️ We believe in facts over noise. Thank you for watching and supporting independent global journalism.\n\n#InternationalNews #WorldPolitics #DWSNews#Israel #EvyatarDavid #HostageReturn #Gaza #IsraelNews #BreakingNews #Hamas #MiddleEast #Peace #Freedom #HumanStory #IsraelUpdates #Unity #Hope #DRMNews\nDWS News YouTube Channel is managed by Dot Republic Media. All Copyrights Reserved.\n10 comments\n",
+      "bm25_score_raw": 3.125949883284155,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.80161052942276,
+      "embedding_score_norm": 0.3665631891002218,
+      "embedding_rank": 5
+    },
+    {
+      "title": "MPs debated tax avoidance and evasion",
+      "url": "https://www.bbc.com/news/live/uk-politics-parliaments-51629980",
+      "snippet": "Feb 25, 2020 — The debate on tax avoidance and evasion has begun. Shadow chancellor John McDonnell lists some of the \"scandalous effects\" of austerity and asks ...Read more",
+      "bm25_score_raw": 2.4917841962166882,
+      "bm25_score_norm": 0.7971286454531363,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.7961519956588745,
+      "embedding_score_norm": 0.221071294666404,
+      "embedding_rank": 6
+    },
+    {
+      "title": "'साइकिल के भरोसे मोदी सरकार, जिस दिन हटी...', अखिलेश यादव ने ...",
+      "url": "https://www.dnaindia.com/hindi/india/news-bjp-government-is-running-on-basis-of-bicycles-akhilesh-targets-pm-narendra-modi-and-yogi-adityanath-4128224",
+      "snippet": "Jul 30, 2024 — 'साइकिल के भरोसे मोदी सरकार, जिस दिन हटी...', अखिलेश यादव ने संसद में किया बड़ा दावा ... उन्होंने कहा कि प्रधानमंत्री नरेंद्र मोदी के नेतृत्व वाली सरकार ज्यादा दिन चलने वाली नहीं, बल्कि गिरने वाली सरकार है.Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.7955304384231567,
+      "embedding_score_norm": 0.204504292677347,
+      "embedding_rank": 7
+    },
+    {
+      "title": "साइकिल से संसद चले Rahul Gandhi और विपक्षी सांसद",
+      "url": "https://www.youtube.com/watch?v=MSv48ZaDGhg",
+      "snippet": "Breakfast Meeting के बाद अब विपक्षी एकता को दिखाते हुए मंगलवार को कांग्रेस सांसद राहुल गांधी समेत विपक्ष के कई नेता साइकिल पर सवार होकर संसद तक पहुंचे.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.7943878173828125,
+      "embedding_score_norm": 0.17404884310597923,
+      "embedding_rank": 8
+    },
+    {
+      "title": "King's Speech debate: Tourist tax and business burdens in ...",
+      "url": "https://www.tax.org.uk/king-s-speech-debate-tourist-tax-and-business-burdens-in-the-spotlight",
+      "snippet": "May 21, 2026 — Sir Ashley Fox did not welcome the 'tourist tax' in the King's Speech, arguing that people already pay VAT at 20% on their holidays. He added ...Read more",
+      "bm25_score_raw": 3.029306283677599,
+      "bm25_score_norm": 0.9690834456037339,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.7936509847640991,
+      "embedding_score_norm": 0.15440928819720262,
+      "embedding_rank": 9
+    },
+    {
+      "title": "साइकिल वाले को मोदी ने बनाया मंत्री, संसद पहुंचे 64 वर्षीय ...",
+      "url": "https://www.youtube.com/watch?v=2QYsm3CFvPY",
+      "snippet": "#MarathiNews #LatestMarathiNews #MaharashtraPolitics बीजेपी के टिकट पर बालासोर लोकसभा सीट से जीत दर्ज कर संसद पहुंचे 64 वर्षीय प्रताप चंद्र सारंगी लोगों के बीच 'ओडिशा का मोदी' के ...Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.7893313765525818,
+      "embedding_score_norm": 0.039274343706509236,
+      "embedding_rank": 10
+    },
+    {
+      "title": "Full UK Parliament Session Sees Reeves Announce Post-War High Taxes| Dawn News English",
+      "url": "https://www.youtube.com/watch?v=N1ymLzDukjM",
+      "snippet": "Full UK Parliament Session Sees Reeves Announce Post-War High Taxes| Dawn News English\nDawnNews English\n555000 subscribers\n35 likes\n3144 views\n26 Nov 2025\nUK Chancellor Rachel Reeves delivered a full session in Parliament outlining a tax-heavy budget aimed at post-war recovery. The session included measures to raise revenue, address economic imbalances, and tackle public spending. Reeves emphasized the need for fiscal responsibility while responding to MPs’ questions on growth, inflation, and public services. Opposition leaders challenged aspects of the plan, citing concerns over tax burdens and potential impact on businesses and households.\n\n#UKBudget #RachelReeves #FullParliamentSession #TaxHike #FiscalPolicy #KeirStarmer #UKFinance #EconomicGrowth #Budget2025 #obra \n--------------------------------------------------------------------------------------------------------------------------- \nDawn News English is your window into the latest news, insight, and features from South Asia and beyond. \n\nOfficial Facebook: https://www.facebook.com/dawndotcom/\nOfficial Twitter: https://twitter.com/dawn_com \nWebsite: www.dawn.com\nOfficial Instagram: https://www.instagram.com/dawnnewsenglish\n\n #news #latestnews #dawnnewsenglish #dawnnews\n1 comments\n",
+      "bm25_score_raw": 2.744542440244623,
+      "bm25_score_norm": 0.8779867057117303,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.788809061050415,
+      "embedding_score_norm": 0.02535253334689027,
+      "embedding_rank": 11
+    },
+    {
+      "title": "साइकिल से कार्यालय पहुंचे बड़वानी सांसद, ईंधन बचाने की अपील",
+      "url": "https://www.etvbharat.com/hi/state/barwani-mp-gajendra-patel-on-cycle-gave-save-fuel-msg-of-pm-modi-mps26051404275",
+      "snippet": "May 14, 2026 — सांसद ने साइकिल उपयोग करने का दिया संदेश ... लोगों का कहना है कि यदि जनप्रतिनिधि नियमित रूप से ऐसे प्रयास करें तो उसका असर ज्यादा दिखाई देगा. यह भी पढ़ें- हादसा या साजिश, लोकायुक्त में शिकायत करने वाले की कार ...Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.7878578901290894,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

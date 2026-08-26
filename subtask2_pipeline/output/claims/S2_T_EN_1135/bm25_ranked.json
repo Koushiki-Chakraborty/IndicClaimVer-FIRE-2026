@@ -1,0 +1,57 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1135",
+    "text": "Madras High Court Refuses CBI Probe Against Pondicherry University Professor For Alleged Misappropriation Of Funds",
+    "lang": "english"
+  },
+  "ranked_evidence": [
+    {
+      "title": "Supreme Court stays high court order on CBI probe into ...",
+      "url": "https://www.hindustantimes.com/india-news/supreme-court-stays-high-court-order-on-cbi-probe-into-pondicherry-university-101693844376850.html",
+      "snippet": "The matter relates to allegations of misappropriation levelled against a retired university professor from 2008 to 2016 when he was the head of",
+      "bm25_score_raw": 4.056477955337645,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Madras High Court Directs CBI to Investigate Alleged Fund ...",
+      "url": "https://lawbeat.in/news-updates/madras-high-court-directs-cbi-investigate-alleged-fund-misappropriation-pondicherry-university-professor-others",
+      "snippet": "The Madras High Court recently requested the Central Bureau of Investigation (CBI) to register a complaint given last year alleging misappropriation of fund.",
+      "bm25_score_raw": 3.3801095139489856,
+      "bm25_score_norm": 0.6474735923383249,
+      "bm25_rank": 2
+    },
+    {
+      "title": "Madras High Court instructs CBI to act upon complaint of ...",
+      "url": "https://www.thehindu.com/news/cities/puducherry/madras-high-court-instructs-cbi-to-act-upon-complaint-of-misappropriation-of-funds-at-pondicherry-university/article67149353.ece",
+      "snippet": "The petitioner had approached the CBI after the finance section of the Pondicherry University found misappropriation of funds by the then",
+      "bm25_score_raw": 3.1128050636170013,
+      "bm25_score_norm": 0.5081532576490767,
+      "bm25_rank": 3
+    },
+    {
+      "title": "Madras HC Directs CBI to Probe Alleged Embezzlement by ...",
+      "url": "https://www.news18.com/india/madras-hc-directs-cbi-to-probe-alleged-embezzlement-by-pondicherry-university-professor-and-others-8530969.html",
+      "snippet": "The Madras High Court recently asked the Central Bureau of Investigation (CBI) to register a complaint registered last year alleging",
+      "bm25_score_raw": 2.8306845652982924,
+      "bm25_score_norm": 0.36111072917772435,
+      "bm25_rank": 4
+    },
+    {
+      "title": "Madras HC directs CBI to act on complaint against ...",
+      "url": "https://www.lokmattimes.com/national/madras-hc-directs-cbi-to-act-on-complaint-against-misappropriation-at-pondicherry-university",
+      "snippet": "The petitioner, Anand has approached the CBI after the finance wing of the Pondicherry University found out that there was misappropriation of",
+      "bm25_score_raw": 2.396399233218797,
+      "bm25_score_norm": 0.13475917483285124,
+      "bm25_rank": 5
+    },
+    {
+      "title": "Madras High Court dismisses plea for CBI probe into ...",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/madras-high-court-dismisses-plea-for-cbi-probe-into-the-alleged-bid-to-bribe-tvk-mla/article71234439.ece",
+      "snippet": "Madras High Court dismisses plea for CBI probe into TVK MLA bribery, citing reliance on unverified media reports.",
+      "bm25_score_raw": 2.1378459700771817,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6
+    }
+  ]
+}

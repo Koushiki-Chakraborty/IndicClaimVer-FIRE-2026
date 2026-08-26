@@ -1,0 +1,99 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1225",
+    "text": "Amethi will script history, says Smriti Irani after filing nomination",
+    "lang": "english"
+  },
+  "entity_ranked_evidence": [
+    {
+      "title": "Amethi will script history: Smriti",
+      "url": "https://www.thehindu.com/news/national/amethi-will-script-history-smriti/article5918920.ece",
+      "snippet": "BJP candidate Smriti Irani files her nomination papers for Lok Sabha polls in Amethi on Wednesday. Television actress-turned politician Smriti",
+      "bm25_score_raw": 1.813126191950295,
+      "bm25_score_norm": 0.05975854420951346,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.9247229099273682,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1,
+      "entity_overlap_raw": 2,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 1
+    },
+    {
+      "title": "Smriti files nomination, says Amethi will script history",
+      "url": "https://www.rediff.com/news/report/ls-election-smriti-files-nomination-says-amethi-will-script-history/20140416.htm",
+      "snippet": "Bharatiya Janata Party candidate Smriti Irani on Wednesday filed her nomination from Amethi and attacked her main opponent Rahul Gandhi,",
+      "bm25_score_raw": 2.8500856820964042,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9085513353347778,
+      "embedding_score_norm": 0.5580622199345516,
+      "embedding_rank": 2,
+      "entity_overlap_raw": 2,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 2
+    },
+    {
+      "title": "Smriti Irani Files Nomination From Amethi Lok Sabha Seat",
+      "url": "https://www.youtube.com/watch?v=30hwfUmh7rk",
+      "snippet": "Smriti Irani Files Nomination From Amethi Lok Sabha Seat | Lok Sabha Elections 2024 | News18 Union minister and BJP leader Smriti Irani on",
+      "bm25_score_raw": 2.018207855912463,
+      "bm25_score_norm": 0.2457120786648996,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.9055473208427429,
+      "embedding_score_norm": 0.47596832806933814,
+      "embedding_rank": 3,
+      "entity_overlap_raw": 2,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 3
+    },
+    {
+      "title": "Smriti Irani files nomination, says Amethi will script history",
+      "url": "https://www.livemint.com/Politics/B91HnUHGi9i6b50uaZ5F7J/Smriti-Irani-files-nomination-says-Amethi-will-script-histo.html",
+      "snippet": "Irani said that 'Rahul can never become the prime minister of the country'.",
+      "bm25_score_raw": 2.594098321003443,
+      "bm25_score_norm": 0.7678887831731044,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.9043039679527283,
+      "embedding_score_norm": 0.4419899042056037,
+      "embedding_rank": 4,
+      "entity_overlap_raw": 2,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 4
+    },
+    {
+      "title": "Smriti Irani files nomination papers from Amethi, hopes ...",
+      "url": "https://timesofindia.indiatimes.com/india/smriti-irani-files-nomination-papers-from-amethi-hopes-people-will-bless-bjp-in-lok-sabha-polls/articleshow/109689883.cms",
+      "snippet": "India News: Smriti Irani filed her nomination papers for the Amethi Lok Sabha seat in Uttar Pradesh. She expressed confidence that the",
+      "bm25_score_raw": 1.747220578925316,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8950088024139404,
+      "embedding_score_norm": 0.18797105155566124,
+      "embedding_rank": 5,
+      "entity_overlap_raw": 2,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 5
+    },
+    {
+      "title": "Smriti Irani Files Nomination From Crucial Amethi Seat",
+      "url": "https://www.pgurus.com/smriti-irani-files-nomination-from-crucial-amethi-seat-holds-massive-roadshow-ahead-of-filing-her-nomination-papers",
+      "snippet": "Union Minister Smriti Irani filed her nomination for the Amethi Lok Sabha seat in Uttar Pradesh from where she is seeking a second term.",
+      "bm25_score_raw": 1.8722359697774582,
+      "bm25_score_norm": 0.11335510616183543,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8881304860115051,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6,
+      "entity_overlap_raw": 2,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 6
+    }
+  ]
+}

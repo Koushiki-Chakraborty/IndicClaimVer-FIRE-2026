@@ -1,0 +1,105 @@
+{
+  "claim": {
+    "id": "S2/T/BN/1077",
+    "text": "‘সকলে দ্রুত সুস্থ হয়ে উঠুক’, কাজ শুরুর আগে রোজ করজোড়ে প্রার্থনা দিল্লির নার্সদের",
+    "lang": "bengali"
+  },
+  "ranked_evidence": [
+    {
+      "title": "A Prayer for Doctors and Nurses | Your Daily Prayer",
+      "url": "https://www.youtube.com/watch?v=cc3cndhXuJ4",
+      "snippet": "We pray for those who feel unseen each day in their fields of medicine and caregiving. We ask that they would feel known and loved by You mere",
+      "bm25_score_raw": 4.458703752617701,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Are there any Christian nurses here who pray before shifts?",
+      "url": "https://www.reddit.com/r/Christian/comments/1rnly42/are_there_any_christian_nurses_here_who_pray",
+      "snippet": "Some days in clinicals feel overwhelming, and praying before starting honestly helps me stay calm and compassionate. Lord, be with me today; I",
+      "bm25_score_raw": 3.931122704763114,
+      "bm25_score_norm": 0.8816738951214588,
+      "bm25_rank": 2
+    },
+    {
+      "title": "দিল্লির খবর | Delhi News",
+      "url": "https://www.prothomalo.com/topic/%E0%A6%A6%E0%A6%BF%E0%A6%B2%E0%A7%8D%E0%A6%B2%E0%A6%BF",
+      "snippet": "ভারতের রাজধানী দিল্লির সর্বশেষ সংবাদ শিরোনাম, উচ্চশিক্ষা, কাজের সুযোগ, প্রবাস জীবন, ছবি, ভিডিও প্রতিবেদন, বিশ্লেষণ, খবর পড়তে ভিজিট করুন প্রথম আলো.",
+      "bm25_score_raw": 3.0546342140050475,
+      "bm25_score_norm": 0.6850946785176464,
+      "bm25_rank": 3
+    },
+    {
+      "title": "Prayer for New Nurses Starting Their Journey",
+      "url": "https://www.youtube.com/watch?v=SDXzcRHwNqo",
+      "snippet": "A blessing and prayer for new nurses stepping into their calling for the first time. May God guide every decision, calm every fear, steady your",
+      "bm25_score_raw": 2.307676561722718,
+      "bm25_score_norm": 0.5175666942141834,
+      "bm25_rank": 4
+    },
+    {
+      "title": "দিল্লি ভ্রমণ গাইড : দিল্লির দর্শনীয় স্থান, কিভাবে যাবেন, খরচ, ...",
+      "url": "https://vromonguide.com/abroad/delhi-india",
+      "snippet": "ভারতের দিল্লি ভ্রমণ গাইড: দিল্লির জনপ্রিয় দর্শনীয় স্থান, যাওয়ার উপায়, কোথায় থাকবেন, কোথায় খাবেন, খরচ কেমন হবে ও দিল্লি বেড়ানোর বিভিন্ন টিপস।",
+      "bm25_score_raw": 1.6518101349277603,
+      "bm25_score_norm": 0.3704686892368626,
+      "bm25_rank": 5
+    },
+    {
+      "title": "Delhi | History, Population, Map, & Facts",
+      "url": "https://www.britannica.com/place/Delhi",
+      "snippet": "Delhi is a city and national capital territory in north-central India. It consists of two parts: Old Delhi, the historic city, and New Delhi, which became the capital of British India in the 20th century and has been the capital of India since 1947. As one of India’s largest urban areas, Delhi is a commercial, transport, and cultural hub, as well as the country’s political center. Delhi, a city and union territory, is the national capital of India, located in the north-central part of the country. It consists of two main parts: Old Delhi, the historic city in the north, and New Delhi, the capital of India since 1947, in the south. Delhi is important to India as a commercial, transport, and cultural hub, as well as the political center of the country. The city of Delhi actually consists of two components: Old Delhi, in the north, the historic city; and New Delhi, in the south, since 1947 the capital of India, built in the first part of the 20th century as the capital of British India.",
+      "bm25_score_raw": 1.3890889580970065,
+      "bm25_score_norm": 0.3115454704254512,
+      "bm25_rank": 6
+    },
+    {
+      "title": "দিল্লি",
+      "url": "https://bn.wikipedia.org/wiki/%E0%A6%A6%E0%A6%BF%E0%A6%B2%E0%A7%8D%E0%A6%B2%E0%A6%BF",
+      "snippet": "দিল্লির আয়তন ১,৪৮৪ বর্গকিলোমিটার (৫৭৩ বর্গমাইল) এবং জনসংখ্যা ১ কোটি ৬৩ লক্ষ। এটি ভারতের দ্বিতীয় সর্বাধিক জনবহুল শহর এবং দ্বিতীয় সর্বাধিক জনবহুল মহানগর অঞ্চল।এটি বিশ্বের ভারতের ৩য় বৃহত্তম শহরাঞ্চলও বটে।",
+      "bm25_score_raw": 1.2586805333756972,
+      "bm25_score_norm": 0.28229741270357483,
+      "bm25_rank": 7
+    },
+    {
+      "title": "DELHI - দিল্লি",
+      "url": "https://110cities.com/bn/cities/delhi",
+      "snippet": "দারিদ্র্য এবং সম্পদ কাঁধে কাঁধ মিলিয়ে বাস করে; বস্তির পাশে আকাশচুম্বী ভবন গড়ে ওঠে; ক্ষমতা এবং হতাশা একই বাতাসে শ্বাস নেয়।. তবুও, আমি বিশ্বাস করি দিল্লি পুনরুজ্জীবনের জন্য প্রস্তুত. । এর জনাকীর্ণ রাস্তা এবং অস্থির হৃদয় সুসংবাদের",
+      "bm25_score_raw": 1.1557668827665806,
+      "bm25_score_norm": 0.2592158947739084,
+      "bm25_rank": 8
+    },
+    {
+      "title": "Nurses' Morning Prayer for Guidance | PDF",
+      "url": "https://www.scribd.com/doc/86539829/Nurses-Prayer",
+      "snippet": "NURSES PRAYER First, a beginning of the day prayer: Holy one, as we begin this day, I ask for your. guidance. With your divine hand, Inspire, lead and give thy",
+      "bm25_score_raw": 0.36905325263410843,
+      "bm25_score_norm": 0.08277142261749001,
+      "bm25_rank": 9
+    },
+    {
+      "title": "8 Inspiring Prayers for Nurses - Nurseslabs",
+      "url": "https://nurseslabs.com/8-inspiring-prayers-for-nurses",
+      "snippet": "Home » NurseLife » 8 Inspiring Prayers for Nurses. # 8 Inspiring Prayers for Nurses. What else is a better way to start and end your shift than to be inspired, motivated and directed through praying? In this post, we have collected the best and most beautiful prayers for nurses. Give me strength and wisdom,. A soothing word to speak to them,. For those left in my care;. A blessing to those who need me,. Today I will take my examination. Because I know that as I write my answers. I will do my best in this exam and to you God. I will entrust my fate. I know that whatever will be the result,. it is according to your will. I deserve to pass this exam,God. I am happy that today you are with me. For with you I will win this battle. That I have done the best I can,. As I care for my patients today.",
+      "bm25_score_raw": 0.16738828888691676,
+      "bm25_score_norm": 0.037541917600747356,
+      "bm25_rank": 10
+    },
+    {
+      "title": "দিল্লি-ভারতের ঐতিহাসিক রাজধানী - Itihaas",
+      "url": "https://itihaas.ai/bn/places/delhi",
+      "snippet": "ভারতেরাজধানী দিল্লি 1214 খ্রিষ্টাব্দ থেকে দিল্লি সালতানাত, মুঘল সাম্রাজ্য এবং আধুনিক ভারত সহ প্রধান সাম্রাজ্যগুলির ক্ষমতার কেন্দ্র হিসাবে কাজ করেছে।",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11
+    },
+    {
+      "title": "This old 'Nurse's Morning Prayer' shows the high vocation of ...",
+      "url": "https://aleteia.org/2020/07/16/this-old-nurses-morning-prayer-shows-the-high-vocation-of-our-caregivers",
+      "snippet": "This Nurse's Morning Prayer was used in the 1950s by student nurses. O my God, I offer Thee all my actions of this day for the intentions and for the glory of",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12
+    }
+  ]
+}

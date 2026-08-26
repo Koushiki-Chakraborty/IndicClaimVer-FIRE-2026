@@ -1,0 +1,99 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1162",
+    "text": "US to make Covid antiviral drug Paxlovid more accessible at test sites",
+    "lang": "english"
+  },
+  "entity_ranked_evidence": [
+    {
+      "title": "PAXCESS® | PAXLOVID® (nirmatrelvir tablets; ritonavir tablets)",
+      "url": "https://www.paxlovid.com/paxcess",
+      "snippet": "PAXCESS patient support program logo, white. **Eligible commercially insured patients may access PAXLOVID for as little as $0,\\* and eligible Medicare, Medicaid, and uninsured patients may access PAXLOVID for free.†**. * Enroll in the Co-Pay Savings Program to download an activated card. **†**Eligible government insured and uninsured patients can access PAXLOVID for free through December 31, 2026. The US Government Patient Assistance Program (USG PAP) is operated by Pfizer to help eligible patients access PAXLOVID for free.‡. *To enroll in the USG PAP, visit the PAXCESS Patient Portal or call 1‑877-219-7225.*. > You may be able to get your prescription at your local pharmacy or via overnight mail order.§ To find a pharmacy participating in the USG PAP or to arrange overnight shipping, call 1-877-219-7225. Find a pharmacy participating in the US Government Patient Assistance Program. ## The PAXCESS Patient Support Program offers. You or a caregiver can enroll in the PAXCESS Patient Support Program online in approximately 5 minutes.¶.",
+      "bm25_score_raw": 4.410744305286666,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8677351474761963,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 1
+    },
+    {
+      "title": "Coronavirus (COVID-19) Update: FDA Authorizes First Oral Antiviral for Treatment of COVID-19 | FDA",
+      "url": "https://www.fda.gov/news-events/press-announcements/coronavirus-covid-19-update-fda-authorizes-first-oral-antiviral-treatment-covid-19",
+      "snippet": "Today, the U.S. Food and Drug Administration issued an emergency use authorization (EUA) for Pfizer’s Paxlovid (nirmatrelvir tablets and ritonavir tablets, co-packaged for oral use) for the treatment of mild-to-moderate coronavirus disease (COVID-19) in adults and pediatric patients (12 years of age and older weighing at least 40 kilograms or about 88 pounds) with positive results of direct SARS-CoV-2 testing, and who are at high risk for progression to severe COVID-19, including hospitalization or death. **“Today’s authorization introduces the first treatment for COVID-19 that is in the form of a pill that is taken orally — a major step forward in the fight against this global pandemic,” said Patrizia Cavazzoni, M.D., director of the FDA’s Center for Drug Evaluation and Research. Based on the FDA’s review of the totality of the scientific evidence available, the agency has determined that it is reasonable to believe that Paxlovid may be effective for the treatment of mild-to-moderate COVID-19 in authorized patients.",
+      "bm25_score_raw": 4.167994933524302,
+      "bm25_score_norm": 0.9385295555975629,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8668740391731262,
+      "embedding_score_norm": 0.9620121691480019,
+      "embedding_rank": 2,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 2
+    },
+    {
+      "title": "13 Things To Know About Paxlovid, the COVID-19 Pill | News | Yale Medicine",
+      "url": "https://www.yalemedicine.org/news/13-things-to-know-paxlovid-covid-19",
+      "snippet": "Because information about COVID-19 changes rapidly, we encourage you to visit the websites of the Centers for Disease Control & Prevention (CDC), World Health Organization (WHO), and your state and local government for the latest information.**. Paxlovid, an FDA-approved oral antiviral pill that can be taken at home, is the go-to treatment for COVID-19. If you are at high risk for severe disease from COVID, and you take it as soon as possible within the first five days of experiencing symptoms, it will lower your risk of getting so sick that you need to be hospitalized. Paxlovid is available to anyone ages 12 and older, depending on their risk for severe illness from COVID. “It's really our first efficacious oral antiviral pill for this virus,” says Scott Roberts, MD, a Yale Medicine infectious diseases specialist. “It shows clear benefit, and it really can prevent hospitalization and death in people who are at high risk.”.",
+      "bm25_score_raw": 0.4617022229954836,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8653862476348877,
+      "embedding_score_norm": 0.8963781796763659,
+      "embedding_rank": 3,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 3
+    },
+    {
+      "title": "PAXLOVID® (nirmatrelvir tablets; ritonavir tablets) For Patients",
+      "url": "https://www.paxlovid.com",
+      "snippet": "# If it’s **COVID**, *Paxlovid®.*. ## **Paxlovid**®**.**. PAXLOVID is a prescription treatment for mild-to-moderate COVID-19 in adults **who are at high risk for progression to severe COVID**, including hospitalization or death. COVID still makes some people very sick, especially people who are at high risk for progression to severe COVID. Talk to your healthcare professional to see if PAXLOVID is right for you. 75% of American adults have a high risk factor for severe COVID. If you're one of them and tested positive for COVID, PAXLOVID could be an option for you. PAXLOVID is indicated for adults with a high-risk factor for severe COVID. If you have COVID and are 50 years of age or older, or have certain underlying conditions, you should talk to your doctor about treatment options. Your risk may also be increased by other factors not listed on this site, so be sure to discuss all of your health conditions and lifestyle factors with your healthcare professional.",
+      "bm25_score_raw": 4.4020827332703,
+      "bm25_score_norm": 0.9978066650504415,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8645901679992676,
+      "embedding_score_norm": 0.8612590913632706,
+      "embedding_rank": 4,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 4
+    },
+    {
+      "title": "HHS Treatments Locator",
+      "url": "https://treatments.hhs.gov",
+      "snippet": "This locator displays pharmacies, clinics, and other locations with safe and effective COVID-19 and flu medications. offering free Paxlovid for eligible",
+      "bm25_score_raw": 0.7924434930104888,
+      "bm25_score_norm": 0.08375227792536295,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8522868156433105,
+      "embedding_score_norm": 0.3184961583566917,
+      "embedding_rank": 5,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 5
+    },
+    {
+      "title": "Paxlovid for COVID-19: Uses, Side Effects, Interactions Dose - Drugs.com",
+      "url": "https://www.drugs.com/paxlovid.html",
+      "snippet": "Paxlovid is an antiviral treatment used for COVID-19 to lower the risk of severe COVID-19, including hospitalization or death. Paxlovid should be started as soon as possible after a COVID-19 diagnosis and within the first 5 days that you have had symptoms. The usual Paxlovid dose is two nirmatrelvir tablets and one ritonavir tablet taken together twice daily for 5 days. The dose needs to be changed if you have kidney problems, and if you are taking certain medicines, Paxlovid is not suitable for some patients. Paxlovid is used for mild-to-moderate COVID-19 in patients who are at high risk of severe COVID-19, including hospitalization or death. People who are at high risk of severe COVID-19 are patients with:. Paxlovid is not approved for use as a pre-exposure or post-exposure prophylaxis to prevent COVID-19 or for the prevention of long COVID. Do not take this medicine if you are allergic to nirmatrelvir, ritonavir, or any of the ingredients in this medicine.",
+      "bm25_score_raw": 0.9960764721245634,
+      "bm25_score_norm": 0.1353174359740028,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8450671434402466,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 6
+    }
+  ]
+}

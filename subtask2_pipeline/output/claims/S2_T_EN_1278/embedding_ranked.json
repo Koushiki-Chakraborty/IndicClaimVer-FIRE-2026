@@ -1,0 +1,76 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1278",
+    "text": "Lucknow sees spike in Covid-19 cases with 166 infections in 24 hours",
+    "lang": "english"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Lucknow sees spike in Covid-19 cases with 166 infections in 24 hours",
+      "url": "https://www.indiatoday.in/amp/cities/lucknow/story/lucknow-news-up-covid-news-latest-covid-cases-new-cases-deaths-1966243-2022-06-24",
+      "snippet": "Lucknow on Thursday reported 166 new Covid-19 cases. Among the fresh cases, 29 were reported from Aliganj, followed by Alambagh (27), Chinhat (25), Kaiserbagh",
+      "bm25_score_raw": 6.556957039122529,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9276955127716064,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Covid-19 in Lucknow: 24 fresh cases; highest single-day spike in 6 months",
+      "url": "https://timesofindia.indiatimes.com/city/lucknow/covid-19-in-lucknow-24-fresh-cases-highest-single-day-spike-in-6-months/amp_articleshow/99281592.cms",
+      "snippet": "The city on Wednesday recorded 24 Covid-19 cases, highest in a single day in six months. With this, the number of active cases stood at 86.",
+      "bm25_score_raw": 1.1066219981228098,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.9229620099067688,
+      "embedding_score_norm": 0.9570979952773491,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Lucknow records spurt in Covid-19 cases, 166 infections in last ...",
+      "url": "https://www.business-standard.com/article/current-affairs/lucknow-records-spurt-in-covid-19-cases-166-infections-in-last-24-hours-122062400136_1.html",
+      "snippet": "At least 166 more people have been diagnosed with Covid-19 in the state capital while 102 patients recovered from the infection in the past 24 hours, taking the",
+      "bm25_score_raw": 4.287374339955029,
+      "bm25_score_norm": 0.5835884065667998,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.9144480228424072,
+      "embedding_score_norm": 0.8799316506750927,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Highest 1-Day Spike of 34379 Covid Cases In UP, 195 Deaths",
+      "url": "https://www.ndtv.com/india-news/highest-1-day-spike-of-34-379-covid-cases-in-up-195-deaths-2419843",
+      "snippet": "Lucknow: A record single-day spike of 34,379 COVID-19 cases and 195 fatalities pushed Uttar Pradesh's infection tally to 9,76,765 and the death",
+      "bm25_score_raw": 1.8865168743648386,
+      "bm25_score_norm": 0.1430911807027147,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8747146725654602,
+      "embedding_score_norm": 0.519809257195398,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Biggest Ever Covid Spike In Uttar Pradesh, States Reports Over ...",
+      "url": "https://www.youtube.com/watch?v=lq_mROAhlpM",
+      "snippet": "The state reported its highest single-day spike with 34,379 fresh cases reported in the last 24 hours.",
+      "bm25_score_raw": 2.5225130531329425,
+      "bm25_score_norm": 0.2597805537382937,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8509353399276733,
+      "embedding_score_norm": 0.30428577062351203,
+      "embedding_rank": 5
+    },
+    {
+      "title": "World Corona Watch : data as on 05:30 am on April 26 #CoronaAlert #India ...",
+      "url": "https://www.facebook.com/LucknowPost/posts/world-corona-watch-data-as-on-0530-am-on-april-26coronaalert-india-independenttr/2585656671535712",
+      "snippet": "Covid-19 outbreak surged past 100 with 27 patients succumbing to the infection in the past 24 hours or so,",
+      "bm25_score_raw": 1.6620104645588096,
+      "bm25_score_norm": 0.10189987629350003,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8173626065254211,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6
+    }
+  ]
+}

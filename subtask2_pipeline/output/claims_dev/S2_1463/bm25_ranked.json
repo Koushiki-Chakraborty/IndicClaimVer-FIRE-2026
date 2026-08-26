@@ -1,0 +1,81 @@
+{
+  "claim": {
+    "id": "S2/1463",
+    "text": "अमित शाह ने जम्मू में कहा, 'कांग्रेस की साजिश जम्मू-कश्मीर को भारत से अलग नहीं कर सकती'",
+    "lang": "dev"
+  },
+  "ranked_evidence": [
+    {
+      "title": "अमित शाह का कश्मीर दौरा,हो सकता है कि उनके नाम से ...",
+      "url": "https://navbharattimes.indiatimes.com/state/jammu-and-kashmir/srinagar/home-minister-amit-shah-hails-creation-of-naya-kashmir-mention-maharshi-kashyapa-will-govt-change-kashmir-name-know-all/articleshow/116889652.cms",
+      "snippet": "Jan 2, 2025 — क्या बोले अमित शाह? गृहमंत्री अमित शाह ने कहा कि कश्मीर भारत का हिस्सा था है और रहेगा, अलग करने का प्रयास लोगों ने किया था, लेकिन उस बाधा को भी हटा दिया गया है। इतिहास लुटियंस दिल्ली में बैठकर लिखा नहीं जाता, ...Read more",
+      "bm25_score_raw": 6.026859231878973,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "कश्मीर का नाम बदलने की तैयारी में मोदी सरकार? अमित शाह के ...",
+      "url": "https://www.abplive.com/states/jammu-and-kashmir/amit-shah-statement-on-kashmir-name-after-maharishi-kashyap-ghulam-nabi-azad-dpap-reaction-2855182",
+      "snippet": "Jan 3, 2025 — इस दौरान जम्मू और कश्मीर में गृहमंत्री अमित शाह ने अनुच्छेद 370 और 35-ए का जिक्र करते हुए कहा कि इन्होंने कश्मीर को देश के बाकी हिस्सो से जोड़ने में बाधा डाली. आर्टिकल 370 हटने के बाद देश के बाकी हिस्सों के ...Read more",
+      "bm25_score_raw": 4.708023086318556,
+      "bm25_score_norm": 0.7288243493586426,
+      "bm25_rank": 2
+    },
+    {
+      "title": "'Risking nation's unity': Amit Shah attacks Congress over tie ...",
+      "url": "https://timesofindia.indiatimes.com/india/risking-nations-unity-amit-shah-attacks-congress-over-tie-up-with-nc-for-jk-assembly-polls/articleshow/112741418.cms",
+      "snippet": "India News: Union Home Minister Amit Shah criticized the National Conference and Congress alliance in Jammu & Kashmir elections,",
+      "bm25_score_raw": 4.437581952530342,
+      "bm25_score_norm": 0.6732169483467133,
+      "bm25_rank": 3
+    },
+    {
+      "title": "Amit Shah says India can change name of Kashmir",
+      "url": "https://www.youtube.com/watch?v=7jYJ69TffoE",
+      "snippet": "/ cheemaqamar. Amit Shah says India can change name of Kashmir : CM Abdullah Denies: Pakistan is ... POK वापस लेने से भारत को फायदा या बड़ा खतरा? | ...Read more",
+      "bm25_score_raw": 3.0804912052756253,
+      "bm25_score_norm": 0.39417548621740206,
+      "bm25_rank": 4
+    },
+    {
+      "title": "Amit Shah Fires 10 Questions To Rahul Gandhi Over Article ...",
+      "url": "https://www.youtube.com/watch?v=Wf99AYaJLfo",
+      "snippet": "Home Minister Amit Shah on Friday fired 10 questions at the Congress after the party said it had all but agreed an alliance with the",
+      "bm25_score_raw": 2.5295497098996766,
+      "bm25_score_norm": 0.28089233199325886,
+      "bm25_rank": 5
+    },
+    {
+      "title": "\"PoK Included When I Talk About J&K\": Amit Shah Hits ...",
+      "url": "https://www.ndtv.com/india-news/article-370-jammu-and-kashmir-pok-aksai-chin-included-when-i-talk-about-j-k-amit-shah-hits-back-at-o-2080920",
+      "snippet": "Jammu and Kashmir is an integral part of India and it includes PoK (Pakistan-occupied Kashmir), Home Minister Amit Shah said today as he",
+      "bm25_score_raw": 2.476457103475511,
+      "bm25_score_norm": 0.2699755686487111,
+      "bm25_rank": 6
+    },
+    {
+      "title": "Amit Shah attacks Rahul Gandhi on pre poll alliance in J&K ...",
+      "url": "https://www.businesstoday.in/india/story/does-congress-support-promise-of-a-separate-flag-amit-shah-attacks-rahul-gandhi-on-pre-poll-alliance-in-jk-asks-10-questions-442830-2024-08-23",
+      "snippet": "Shah's main concern was the National Conference's promise to restore Article 370 and 35A, which granted special autonomy to Jammu and",
+      "bm25_score_raw": 1.6872431582668745,
+      "bm25_score_norm": 0.10769945435837792,
+      "bm25_rank": 7
+    },
+    {
+      "title": "Article 370 caused spread of terrorism in Kashmir: Amit Shah - The Hindu",
+      "url": "https://www.thehindu.com/news/national/article-370-caused-spread-of-terrorism-in-kashmir-amit-shah/article69054617.ece",
+      "snippet": "Updated  - January 03, 2025 10:26 am IST\n\nArticle 370 was responsible for sowing the seeds of separatism among the youth in Kashmir by giving credence to the idea that Kashmir’s relationship with India was temporary, Union Home Minister Amit Shah said on Thursday (January 2, 2025). He pointed out that while there are other Muslim majority areas in the country, terrorism has not spread to those regions. [...] is temporary. Gradually, separatism transformed into terrorism. It is unfortunate that 40,000 people lost their lives,” Mr. Shah said. [...] “I am often asked what is Article 370’s relation with terrorism. It sowed the seeds of separatism among youth in Kashmir,” Mr. Shah said, speaking at a book launch. “Why did terrorism not spread in other Muslim areas of the country? There is an argument that Kashmir shares a border with Pakistan. Even Gujarat and Rajasthan share borders with Pakistan, but terrorism did not reach there. Article 370 promoted the misconception that the relationship between India and Kashmir is temporary.",
+      "bm25_score_raw": 1.163905676174843,
+      "bm25_score_norm": 9.216539450781911e-05,
+      "bm25_rank": 8
+    },
+    {
+      "title": "Amit Shah: Two Hurriyat-Linked Groups Reject Separatism in ...",
+      "url": "https://www.youtube.com/watch?v=y7kURS5tAd8",
+      "snippet": "Union Home Minister Amit Shah announced that two Hurriyat-affiliated groups, J&K Tahreeqi Isteqlal and J&K Tahreek-I-Istiqamat,",
+      "bm25_score_raw": 1.1634574388299366,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 9
+    }
+  ]
+}

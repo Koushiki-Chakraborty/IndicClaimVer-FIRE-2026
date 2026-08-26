@@ -1,0 +1,138 @@
+{
+  "claim": {
+    "id": "S2/T/HI/1183",
+    "text": "भूपेश बघेल से बोले प्रभु चावला, जब मौका मिलेगा पूछूंगा पीएम से सवाल, जवाब मिला- जरूर पूछिए, हर सवाल का जवाब मिलेगा",
+    "lang": "hindi"
+  },
+  "generated_queries": {
+    "english_translation": "Prabhu Chawla said to Bhupesh Baghel, whenever I get a chance, I will ask questions to the PM, got the answer - definitely ask, every question will get answered.",
+    "native_query": "भूपेश बघेल प्रभु चावला एम सव जव जर हर",
+    "english_query": "Prabhu Chawla Bhupesh Baghel chance questions answer question answered"
+  },
+  "native_retrieval": [
+    {
+      "title": "पहली Corona की लहर हवाई मार्ग से, सड़क मार्ग से आई दूसरी, ...",
+      "url": "https://www.aajtak.in/india/chhattisgarh/video/seedhi-baat-with-prabhu-chawla-chhattisgarh-cm-bhupesh-baghel-on-coronavirus-cases-surge-1244184-2021-04-24",
+      "snippet": "Apr 24, 2021 — Indian National Congress leader and Chief Minister of Chhattisgarh Bhupesh Baghel joins Senior journalist Prabhu Chawla and discusses many ...Read more"
+    },
+    {
+      "title": "करीब 80 की उम्र में प्रभु चावला का नया अंदाज, तजुर्बा बोलेगा तो ...",
+      "url": "https://www.facebook.com/prabhuchawla/videos/%E0%A4%95%E0%A4%B0%E0%A5%80%E0%A4%AC-80-%E0%A4%95%E0%A5%80-%E0%A4%89%E0%A4%AE%E0%A5%8D%E0%A4%B0-%E0%A4%AE%E0%A5%87%E0%A4%82-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%AD%E0%A5%81-%E0%A4%9A%E0%A4%BE%E0%A4%B5%E0%A4%B2%E0%A4%BE-%E0%A4%95%E0%A4%BE-%E0%A4%A8%E0%A4%AF%E0%A4%BE-%E0%A4%85%E0%A4%82%E0%A4%A6%E0%A4%BE%E0%A4%9C-%E0%A4%A4%E0%A4%9C%E0%A5%81%E0%A4%B0%E0%A5%8D%E0%A4%AC%E0%A4%BE-%E0%A4%AC%E0%A5%8B%E0%A4%B2%E0%A5%87%E0%A4%97%E0%A4%BE-%E0%A4%A4%E0%A5%8B-%E0%A4%9C%E0%A4%AE%E0%A4%BE%E0%A4%A8%E0%A4%BE-%E0%A4%9C%E0%A4%B0%E0%A5%82%E0%A4%B0-%E0%A4%B8%E0%A5%81%E0%A4%A8%E0%A5%87%E0%A4%97%E0%A4%BE/2655768081452415",
+      "snippet": "करीब 80 की उम्र में प्रभु चावला का नया अंदाज, तजुर्बा बोलेगा तो जमाना जरूर सुनेगा #prabhuvaani #MODINAMA #Sarkarnama."
+    },
+    {
+      "title": "Chhattisgarh के CM बोले- भारत सरकार ने नहीं दिए नए स्ट्रेन के ...",
+      "url": "https://www.aajtak.in/india/chhattisgarh/video/seedhi-baat-with-prabhu-chawla-chhattisgarh-cm-bhupesh-baghel-blames-centre-for-new-corona-strain-1244189-2021-04-24",
+      "snippet": "Apr 24, 2021 — Popular Show 'Seedhi Baat' back on Aaj Tak with a new episode. Indian National Congress leader and Chief Minister of Chhattisgarh Bhupesh Baghel ...Read more"
+    },
+    {
+      "title": "Bhupesh Baghel (@bhupeshbaghelinc)",
+      "url": "https://www.instagram.com/bhupeshbaghelinc",
+      "snippet": "Former Chief Minister, Chhattisgarh, India. Follow. Message.Read more"
+    },
+    {
+      "title": "राम मंदिर: जिसने चोरी पकड़ी, उसी को क्यों हटाया? | Prabhu Chawla",
+      "url": "https://www.linkedin.com/posts/prabhuchawla_%E0%A4%B0%E0%A4%AE-%E0%A4%AE%E0%A4%A6%E0%A4%B0-%E0%A4%9C%E0%A4%B8%E0%A4%A8-%E0%A4%9A%E0%A4%B0-%E0%A4%AA%E0%A4%95%E0%A4%A1-%E0%A4%89%E0%A4%B8-%E0%A4%95-%E0%A4%95%E0%A4%AF-activity-7472286401708044288-3Fwt",
+      "snippet": "राम का धन, किसका मन? अयोध्या राम मंदिर की दान-पेटी से ₹5 से ₹7.5 करोड़ गायब होने के आरोपों ने बड़ा विवाद खड़ा कर दिया है। क्या सच सामने आएगा? क्या SIT सभी सवालों के जवाब दे पाएगी?"
+    },
+    {
+      "title": "करीब 80 की उम्र में प्रभु चावला का नया अंदाज, तजुर्बा बोलेगा तो ...",
+      "url": "https://www.instagram.com/reel/DNIcyAyqR2I",
+      "snippet": "Aajkal naye navele Rajya Sabha ke saansad Pawan Khera se ek patrakaar ne Rahul Gandhi aur Priyanka Gandhi Vadra ki Wayanad par gair-maujoodgi ko ...Read more"
+    }
+  ],
+  "english_retrieval": [
+    {
+      "title": "Prabhu Chawla - Verdict 2026 will define Modi’s BJP by...",
+      "url": "https://www.facebook.com/prabhuchawla/posts/verdict-2026-will-define-modis-bjpby-prabhu-chawla-bjpgovernment-modi-narendramo/1584278253059532",
+      "snippet": "Verdict 2026 will define Modi’s BJP. In the high-stakes theatre of Indian democracy, where every ballot carries the echo of ambition and ideology, the elections in Tamil Nadu, Assam, West Bengal, Puducherry and Kerala have emerged as a defining tribulation for the BJP, Prime Minister Narendra Modi and Home Minister Amit Shah. For Modi and Shah, the exercise is as personal as it is strategic. It is a test of whether the momentum of their decade-long dominance can be sustained, or whether the winds of the 2024 Lok Sabha verdict, where the BJP fell short of an outright majority, signal a deeper and more unsettling political tide. Even after Narendra Modi has led the BJP to victory in three successive state elections, governed a state for 13 uninterrupted years with acknowledged administrative success, and secured three consecutive mandates in the Lok Sabha—followed by over a decade in the Prime Minister’s office marked by sweeping reforms and decisive governance—you still insist that the verdict of 2026 will “define” Modi’s BJP."
+    },
+    {
+      "title": "The question is not whether opposition parties can win ...",
+      "url": "https://www.facebook.com/scroll.in/posts/the-question-is-not-whether-opposition-parties-can-win-elections-it-is-whether-t/1558043996369540",
+      "snippet": "The question is not whether opposition parties can win elections. It is whether they can survive losing them. Without ideological clarity"
+    },
+    {
+      "title": "SIR is being weaponized by the BJP to win elections.",
+      "url": "https://www.instagram.com/reel/DYuqEFLDX-N",
+      "snippet": "SIR is being weaponized to ensure BJP wins elections. The Chief Election Commissioner Mr. Ganesh Kumar is nothing but a stooge of the BJP. I"
+    },
+    {
+      "title": "Competition brewing for Gen Z vote? As Pawan Khera ...",
+      "url": "https://www.facebook.com/IndiaToday/posts/competition-brewing-for-gen-z-voteas-pawan-khera-heads-to-jantar-mantar-to-meet-/1646867450810130",
+      "snippet": "Competition brewing for Gen Z vote? As Pawan Khera heads to Jantar Mantar to meet #SonamWangchuk, the bigger question is: why did Congress"
+    },
+    {
+      "title": "CompromisedCongress Rahul Gandhi's Congress ...",
+      "url": "https://www.facebook.com/DrPramodPSawant/posts/compromisedcongressrahul-gandhis-congress-has-long-struggled-with-merit-over-dyn/1463131278508444",
+      "snippet": "CompromisedCongress Rahul Gandhi's Congress has long struggled with merit over dynasty - and the results show. Congress leadership has too"
+    },
+    {
+      "title": "Amid buzz over a possible Cabinet reshuffle in the Modi ...",
+      "url": "https://www.facebook.com/IndiaToday/posts/amid-buzz-over-a-possible-cabinet-reshuffle-in-the-modi-government-which-states-/1631730035657205",
+      "snippet": "Amid buzz over a possible Cabinet reshuffle in the Modi government, which states are set to gain and which could lose out?"
+    }
+  ],
+  "merged_results": [
+    {
+      "title": "पहली Corona की लहर हवाई मार्ग से, सड़क मार्ग से आई दूसरी, ...",
+      "url": "https://www.aajtak.in/india/chhattisgarh/video/seedhi-baat-with-prabhu-chawla-chhattisgarh-cm-bhupesh-baghel-on-coronavirus-cases-surge-1244184-2021-04-24",
+      "snippet": "Apr 24, 2021 — Indian National Congress leader and Chief Minister of Chhattisgarh Bhupesh Baghel joins Senior journalist Prabhu Chawla and discusses many ...Read more"
+    },
+    {
+      "title": "करीब 80 की उम्र में प्रभु चावला का नया अंदाज, तजुर्बा बोलेगा तो ...",
+      "url": "https://www.facebook.com/prabhuchawla/videos/%E0%A4%95%E0%A4%B0%E0%A5%80%E0%A4%AC-80-%E0%A4%95%E0%A5%80-%E0%A4%89%E0%A4%AE%E0%A5%8D%E0%A4%B0-%E0%A4%AE%E0%A5%87%E0%A4%82-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%AD%E0%A5%81-%E0%A4%9A%E0%A4%BE%E0%A4%B5%E0%A4%B2%E0%A4%BE-%E0%A4%95%E0%A4%BE-%E0%A4%A8%E0%A4%AF%E0%A4%BE-%E0%A4%85%E0%A4%82%E0%A4%A6%E0%A4%BE%E0%A4%9C-%E0%A4%A4%E0%A4%9C%E0%A5%81%E0%A4%B0%E0%A5%8D%E0%A4%AC%E0%A4%BE-%E0%A4%AC%E0%A5%8B%E0%A4%B2%E0%A5%87%E0%A4%97%E0%A4%BE-%E0%A4%A4%E0%A5%8B-%E0%A4%9C%E0%A4%AE%E0%A4%BE%E0%A4%A8%E0%A4%BE-%E0%A4%9C%E0%A4%B0%E0%A5%82%E0%A4%B0-%E0%A4%B8%E0%A5%81%E0%A4%A8%E0%A5%87%E0%A4%97%E0%A4%BE/2655768081452415",
+      "snippet": "करीब 80 की उम्र में प्रभु चावला का नया अंदाज, तजुर्बा बोलेगा तो जमाना जरूर सुनेगा #prabhuvaani #MODINAMA #Sarkarnama."
+    },
+    {
+      "title": "Chhattisgarh के CM बोले- भारत सरकार ने नहीं दिए नए स्ट्रेन के ...",
+      "url": "https://www.aajtak.in/india/chhattisgarh/video/seedhi-baat-with-prabhu-chawla-chhattisgarh-cm-bhupesh-baghel-blames-centre-for-new-corona-strain-1244189-2021-04-24",
+      "snippet": "Apr 24, 2021 — Popular Show 'Seedhi Baat' back on Aaj Tak with a new episode. Indian National Congress leader and Chief Minister of Chhattisgarh Bhupesh Baghel ...Read more"
+    },
+    {
+      "title": "Bhupesh Baghel (@bhupeshbaghelinc)",
+      "url": "https://www.instagram.com/bhupeshbaghelinc",
+      "snippet": "Former Chief Minister, Chhattisgarh, India. Follow. Message.Read more"
+    },
+    {
+      "title": "राम मंदिर: जिसने चोरी पकड़ी, उसी को क्यों हटाया? | Prabhu Chawla",
+      "url": "https://www.linkedin.com/posts/prabhuchawla_%E0%A4%B0%E0%A4%AE-%E0%A4%AE%E0%A4%A6%E0%A4%B0-%E0%A4%9C%E0%A4%B8%E0%A4%A8-%E0%A4%9A%E0%A4%B0-%E0%A4%AA%E0%A4%95%E0%A4%A1-%E0%A4%89%E0%A4%B8-%E0%A4%95-%E0%A4%95%E0%A4%AF-activity-7472286401708044288-3Fwt",
+      "snippet": "राम का धन, किसका मन? अयोध्या राम मंदिर की दान-पेटी से ₹5 से ₹7.5 करोड़ गायब होने के आरोपों ने बड़ा विवाद खड़ा कर दिया है। क्या सच सामने आएगा? क्या SIT सभी सवालों के जवाब दे पाएगी?"
+    },
+    {
+      "title": "करीब 80 की उम्र में प्रभु चावला का नया अंदाज, तजुर्बा बोलेगा तो ...",
+      "url": "https://www.instagram.com/reel/DNIcyAyqR2I",
+      "snippet": "Aajkal naye navele Rajya Sabha ke saansad Pawan Khera se ek patrakaar ne Rahul Gandhi aur Priyanka Gandhi Vadra ki Wayanad par gair-maujoodgi ko ...Read more"
+    },
+    {
+      "title": "Prabhu Chawla - Verdict 2026 will define Modi’s BJP by...",
+      "url": "https://www.facebook.com/prabhuchawla/posts/verdict-2026-will-define-modis-bjpby-prabhu-chawla-bjpgovernment-modi-narendramo/1584278253059532",
+      "snippet": "Verdict 2026 will define Modi’s BJP. In the high-stakes theatre of Indian democracy, where every ballot carries the echo of ambition and ideology, the elections in Tamil Nadu, Assam, West Bengal, Puducherry and Kerala have emerged as a defining tribulation for the BJP, Prime Minister Narendra Modi and Home Minister Amit Shah. For Modi and Shah, the exercise is as personal as it is strategic. It is a test of whether the momentum of their decade-long dominance can be sustained, or whether the winds of the 2024 Lok Sabha verdict, where the BJP fell short of an outright majority, signal a deeper and more unsettling political tide. Even after Narendra Modi has led the BJP to victory in three successive state elections, governed a state for 13 uninterrupted years with acknowledged administrative success, and secured three consecutive mandates in the Lok Sabha—followed by over a decade in the Prime Minister’s office marked by sweeping reforms and decisive governance—you still insist that the verdict of 2026 will “define” Modi’s BJP."
+    },
+    {
+      "title": "The question is not whether opposition parties can win ...",
+      "url": "https://www.facebook.com/scroll.in/posts/the-question-is-not-whether-opposition-parties-can-win-elections-it-is-whether-t/1558043996369540",
+      "snippet": "The question is not whether opposition parties can win elections. It is whether they can survive losing them. Without ideological clarity"
+    },
+    {
+      "title": "SIR is being weaponized by the BJP to win elections.",
+      "url": "https://www.instagram.com/reel/DYuqEFLDX-N",
+      "snippet": "SIR is being weaponized to ensure BJP wins elections. The Chief Election Commissioner Mr. Ganesh Kumar is nothing but a stooge of the BJP. I"
+    },
+    {
+      "title": "Competition brewing for Gen Z vote? As Pawan Khera ...",
+      "url": "https://www.facebook.com/IndiaToday/posts/competition-brewing-for-gen-z-voteas-pawan-khera-heads-to-jantar-mantar-to-meet-/1646867450810130",
+      "snippet": "Competition brewing for Gen Z vote? As Pawan Khera heads to Jantar Mantar to meet #SonamWangchuk, the bigger question is: why did Congress"
+    },
+    {
+      "title": "CompromisedCongress Rahul Gandhi's Congress ...",
+      "url": "https://www.facebook.com/DrPramodPSawant/posts/compromisedcongressrahul-gandhis-congress-has-long-struggled-with-merit-over-dyn/1463131278508444",
+      "snippet": "CompromisedCongress Rahul Gandhi's Congress has long struggled with merit over dynasty - and the results show. Congress leadership has too"
+    },
+    {
+      "title": "Amid buzz over a possible Cabinet reshuffle in the Modi ...",
+      "url": "https://www.facebook.com/IndiaToday/posts/amid-buzz-over-a-possible-cabinet-reshuffle-in-the-modi-government-which-states-/1631730035657205",
+      "snippet": "Amid buzz over a possible Cabinet reshuffle in the Modi government, which states are set to gain and which could lose out?"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "ID": "S2/T/EN/1248",
+  "Evidence": "India recorded 92 fresh Covid cases, the lowest in nearly four months, with active cases at 2,350 (Source 1). Another report states that India logged 14,313 fresh Covid cases, the lowest in 224 days, with active cases at 214,900 (Source 2). A separate report mentions 36 fresh cases, the lowest since March 2020, with active cases at 1,844 (Source 3). None of the sources mention 2,503 fresh cases, nor do they indicate that this number is the lowest in nearly two years.",
+  "Prediction": "REFUTES",
+  "Justification": "The retrieved evidence does not support the claim that India sees 2,503 fresh Covid-19 cases, as it states lower numbers: 92, 14,313, and 36 cases in different reports. Additionally, none of the sources confirm that 2,503 is the lowest in nearly two years. Therefore, the claim is directly contradicted by the evidence."
+}

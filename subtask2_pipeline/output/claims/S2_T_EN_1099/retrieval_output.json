@@ -1,0 +1,108 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1099",
+    "text": "Delhi sees 1,076 Covid cases, positivity rate drops to 4.62%",
+    "lang": "english"
+  },
+  "generated_queries": {
+    "english_translation": "Delhi sees 1,076 Covid cases, positivity rate drops to 4.62%",
+    "native_query": "Delhi 076 Covid positivity rate drops 62",
+    "english_query": "Delhi 076 Covid positivity rate drops 62"
+  },
+  "native_retrieval": [
+    {
+      "title": "Delhi sees slight decline in Covid cases; positivity rate dips too",
+      "url": "https://www.livemint.com/news/india/delhi-sees-slight-decline-in-covid-cases-positivity-rate-dips-too-11650560530193.html",
+      "snippet": "The active case tally in state currently is at 2,970, while the positivity rate stood at 4.71%. Earlier during the day, the Delhi government"
+    },
+    {
+      "title": "COVID-19: Positivity rate falls below 3 per cent in Delhi",
+      "url": "https://m.economictimes.com/news/india/covid-19-positivity-rate-falls-below-3-per-cent-in-delhi-1604-new-cases/articleshow/89370639.cms",
+      "snippet": "the positivity rate declined to 2.87 per cent, Delhi had on Thursday reported 2,668 cases with a positivity rate of 4.3 per cent, and 13 deaths."
+    },
+    {
+      "title": "12481 new Covid cases in Delhi; positivity rate further ...",
+      "url": "https://www.business-standard.com/article/current-affairs/12-481-new-covid-cases-in-delhi-positivity-rate-further-drops-to-17-7-121051101269_1.html",
+      "snippet": "12,481 new Covid cases in Delhi; positivity rate further drops to 17.7%. The number of new cases reported on a single day is the lowest since"
+    },
+    {
+      "title": "COVID Curve Flattening? Decline In COVID Cases In Delhi ...",
+      "url": "https://www.youtube.com/watch?v=W95J8tB35dk",
+      "snippet": "Active cases in Delhi have declined to 89,819 and the positivity rate now stands at 27.87 per cent. ... Decline In COVID Cases In Delhi & Mumbai;"
+    },
+    {
+      "title": "Delhi COVID Turnaround: Cases Dip in July But is The Worst ...",
+      "url": "https://www.youtube.com/watch?v=BGO_kcPXkxM",
+      "snippet": "the lowest being 613 new cases on 26th June which was a 62 day low! the case growth rate has slumped to 1.7 percent as per reports, the"
+    },
+    {
+      "title": "Delhi Registers 6456 New Covid Cases, 262 Deaths",
+      "url": "https://paper.news18.com/news/india/delhi-registers-6456-new-covid-cases-262-deaths-positivity-rate-drops-to-months-low-of-10-4-3744047.html",
+      "snippet": "The national capital recorded 6,456 fresh COVID-19 cases and 262 fatalities on Sunday while the positivity rate dropped to 10.40 per cent,"
+    }
+  ],
+  "english_retrieval": [
+    {
+      "title": "Delhi sees slight decline in Covid cases; positivity rate dips too",
+      "url": "https://www.livemint.com/news/india/delhi-sees-slight-decline-in-covid-cases-positivity-rate-dips-too-11650560530193.html",
+      "snippet": "The active case tally in state currently is at 2,970, while the positivity rate stood at 4.71%. Earlier during the day, the Delhi government"
+    },
+    {
+      "title": "COVID-19: Positivity rate falls below 3 per cent in Delhi",
+      "url": "https://m.economictimes.com/news/india/covid-19-positivity-rate-falls-below-3-per-cent-in-delhi-1604-new-cases/articleshow/89370639.cms",
+      "snippet": "the positivity rate declined to 2.87 per cent, Delhi had on Thursday reported 2,668 cases with a positivity rate of 4.3 per cent, and 13 deaths."
+    },
+    {
+      "title": "12481 new Covid cases in Delhi; positivity rate further ...",
+      "url": "https://www.business-standard.com/article/current-affairs/12-481-new-covid-cases-in-delhi-positivity-rate-further-drops-to-17-7-121051101269_1.html",
+      "snippet": "12,481 new Covid cases in Delhi; positivity rate further drops to 17.7%. The number of new cases reported on a single day is the lowest since"
+    },
+    {
+      "title": "COVID Curve Flattening? Decline In COVID Cases In Delhi ...",
+      "url": "https://www.youtube.com/watch?v=W95J8tB35dk",
+      "snippet": "Active cases in Delhi have declined to 89,819 and the positivity rate now stands at 27.87 per cent. ... Decline In COVID Cases In Delhi & Mumbai;"
+    },
+    {
+      "title": "Delhi COVID Turnaround: Cases Dip in July But is The Worst ...",
+      "url": "https://www.youtube.com/watch?v=BGO_kcPXkxM",
+      "snippet": "the lowest being 613 new cases on 26th June which was a 62 day low! the case growth rate has slumped to 1.7 percent as per reports, the"
+    },
+    {
+      "title": "Delhi Registers 6456 New Covid Cases, 262 Deaths",
+      "url": "https://paper.news18.com/news/india/delhi-registers-6456-new-covid-cases-262-deaths-positivity-rate-drops-to-months-low-of-10-4-3744047.html",
+      "snippet": "The national capital recorded 6,456 fresh COVID-19 cases and 262 fatalities on Sunday while the positivity rate dropped to 10.40 per cent,"
+    }
+  ],
+  "merged_results": [
+    {
+      "title": "Delhi sees slight decline in Covid cases; positivity rate dips too",
+      "url": "https://www.livemint.com/news/india/delhi-sees-slight-decline-in-covid-cases-positivity-rate-dips-too-11650560530193.html",
+      "snippet": "The active case tally in state currently is at 2,970, while the positivity rate stood at 4.71%. Earlier during the day, the Delhi government"
+    },
+    {
+      "title": "COVID-19: Positivity rate falls below 3 per cent in Delhi",
+      "url": "https://m.economictimes.com/news/india/covid-19-positivity-rate-falls-below-3-per-cent-in-delhi-1604-new-cases/articleshow/89370639.cms",
+      "snippet": "the positivity rate declined to 2.87 per cent, Delhi had on Thursday reported 2,668 cases with a positivity rate of 4.3 per cent, and 13 deaths."
+    },
+    {
+      "title": "12481 new Covid cases in Delhi; positivity rate further ...",
+      "url": "https://www.business-standard.com/article/current-affairs/12-481-new-covid-cases-in-delhi-positivity-rate-further-drops-to-17-7-121051101269_1.html",
+      "snippet": "12,481 new Covid cases in Delhi; positivity rate further drops to 17.7%. The number of new cases reported on a single day is the lowest since"
+    },
+    {
+      "title": "COVID Curve Flattening? Decline In COVID Cases In Delhi ...",
+      "url": "https://www.youtube.com/watch?v=W95J8tB35dk",
+      "snippet": "Active cases in Delhi have declined to 89,819 and the positivity rate now stands at 27.87 per cent. ... Decline In COVID Cases In Delhi & Mumbai;"
+    },
+    {
+      "title": "Delhi COVID Turnaround: Cases Dip in July But is The Worst ...",
+      "url": "https://www.youtube.com/watch?v=BGO_kcPXkxM",
+      "snippet": "the lowest being 613 new cases on 26th June which was a 62 day low! the case growth rate has slumped to 1.7 percent as per reports, the"
+    },
+    {
+      "title": "Delhi Registers 6456 New Covid Cases, 262 Deaths",
+      "url": "https://paper.news18.com/news/india/delhi-registers-6456-new-covid-cases-262-deaths-positivity-rate-drops-to-months-low-of-10-4-3744047.html",
+      "snippet": "The national capital recorded 6,456 fresh COVID-19 cases and 262 fatalities on Sunday while the positivity rate dropped to 10.40 per cent,"
+    }
+  ]
+}

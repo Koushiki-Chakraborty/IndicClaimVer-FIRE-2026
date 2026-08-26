@@ -1,0 +1,4 @@
+=== Dense retrieval + GPT-4o-mini veracity (data/ train+dev) ===
+Retrieval -- n=5670  Success@3=0.8312  nDCG@3=0.5713
+Veracity  -- n=5670  macro_F1=0.9208
+Confusion matrix ['REFUTES', 'SUPPORTS']: [[1571, 318], [67, 3714]]

@@ -1,0 +1,99 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1125",
+    "text": "Delhi High Court Refuses To Quash POCSO Case Despite Marriage, Victim’s Father Insists On Continuing FIR",
+    "lang": "english"
+  },
+  "entity_ranked_evidence": [
+    {
+      "title": "[POCSO] Delhi High Court| Unfair to quash FIR only because the accused is child victim's real father having matrimonial discord with mother | SCC Times",
+      "url": "https://www.scconline.com/blog/post/2022/09/30/pocso-delhi-high-court-unfair-to-quash-fir-only-because-the-accused-is-child-victims-real-father-having-matrimonial-discord-with-mother",
+      "snippet": "* [[POCSO] Delhi High Court| Unfair to quash FIR only because the accused is child victim’s real father having matrimonial discord with mother](https://www.scconline.com/blog/post/2022/09/30/pocso-delhi-high-court-unfair-to-quash-fir-only-because-the-accused-is-child-victims-real-father-having-matrimonial-discord-with-mother/). # [POCSO] Delhi High Court| Unfair to quash FIR only because the accused is child victim’s real father having matrimonial discord with mother. Delhi High Court: In a case filed under Section 482 of Criminal Procedure Code, by an accused who happens to. **Delhi High Court**: In a case filed under Section 482 of Criminal Procedure Code, by an accused who happens to be the real father of the child victim in the present case seeking quashing of FIR filed under Section 10 and 12 of Protection of Children from Sexual Offences Act, 2012, Swarana Kanta Sharma, J., refused to quash the FIR in view of the contents of the FIR along with supporting statements under Section 164 of Criminal Procedure Code. The present case is a case where the real father has been accused of alleged sexual abuse by the minor son and the respondent 2 is the victim’s real mother.",
+      "bm25_score_raw": 1.174534680269209,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8914790153503418,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6,
+      "entity_overlap_raw": 2,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 1
+    },
+    {
+      "title": "Delhi HC Refuses Quashing of POCSO Proceedings ...",
+      "url": "https://supremetoday.ai/delhi-hc-rejects-pocso-quashing-despite-marriage-child-20260509032",
+      "snippet": "Delhi High Court denies quashing POCSO case despite accused and victim's marriage and child, emphasizing 'careful and sensitive",
+      "bm25_score_raw": 5.1919929997597,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9107764959335327,
+      "embedding_score_norm": 0.8478802861901719,
+      "embedding_rank": 3,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 2
+    },
+    {
+      "title": "'No de facto victim': Delhi High Court lays guardrails as it ...",
+      "url": "https://indianexpress.com/article/legal-news/delhi-high-court-quashes-pocso-fir-consensual-marriage-minor-10641064",
+      "snippet": "Delhi High Court quashes POCSO proceedings against a man who married a minor, The court clarified that POCSO cases cannot be quashed routinely.",
+      "bm25_score_raw": 1.606939728239687,
+      "bm25_score_norm": 0.10763149573268435,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.9009947180747986,
+      "embedding_score_norm": 0.41809482406427756,
+      "embedding_rank": 5,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 3
+    },
+    {
+      "title": "Delhi HC Refuses To Quash POCSO FIR Against Father Of ...",
+      "url": "https://www.bwlegalworld.com/article/delhi-hc-refuses-to-quash-pocso-fir-against-father-of-victim-447812",
+      "snippet": "The Delhi High Court, on September 20, refused to allow quashing and noted that to deny the child victim the right to get such justice",
+      "bm25_score_raw": 2.8276905037531033,
+      "bm25_score_norm": 0.4114929619714272,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.914238691329956,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 4
+    },
+    {
+      "title": "'Ruse To Avoid Conviction': Delhi High Court Refuses To ...",
+      "url": "https://www.livelaw.in/high-court/delhi-high-court/ruse-to-avoid-conviction-delhi-high-court-refuses-to-quash-pocso-case-despite-marriage-between-accused-prosecutrix-533478",
+      "snippet": "The Delhi High Court has refused to quash criminal proceedings under the POCSO Act despite the accused and the prosecutrix having married each",
+      "bm25_score_raw": 1.4244592193300791,
+      "bm25_score_norm": 0.06220961592765612,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.9127639532089233,
+      "embedding_score_norm": 0.9352039052597396,
+      "embedding_rank": 2,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 5
+    },
+    {
+      "title": "Victim's Father Registered FIR Out Of Anger & ...",
+      "url": "https://www.verdictum.in/court-updates/high-courts/pocso-case-quashed-fir-registered-out-of-anger-misunderstanding-by-father-of-victim-delhi-hc-1489232",
+      "snippet": "Victim's Father Registered FIR Out Of Anger & Misunderstanding: Delhi HC Quashes POCSO Case In Which Parties Married Each Other. By Swasti",
+      "bm25_score_raw": 1.2452715396252454,
+      "bm25_score_norm": 0.017607366083391647,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.9052350521087646,
+      "embedding_score_norm": 0.6044038926891611,
+      "embedding_rank": 4,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 6
+    }
+  ]
+}

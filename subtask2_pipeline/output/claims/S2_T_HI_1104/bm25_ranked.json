@@ -1,0 +1,105 @@
+{
+  "claim": {
+    "id": "S2/T/HI/1104",
+    "text": "WhatsApp फॉरवर्ड पढ़ रामदेव ने ऐलोपैथी की तारीफ की, और Fabiflu दवा को उपयोगी बताया।",
+    "lang": "hindi"
+  },
+  "ranked_evidence": [
+    {
+      "title": "'Ramdev was reading WhatsApp forward': Patanjali on ' ...",
+      "url": "https://www.hindustantimes.com/india-news/ramdev-has-no-ill-will-towards-modern-science-patanjali-trust-101621700345697.html",
+      "snippet": "“Allopathy is a stupid science. Even Fabiflu and Ivermectin have also failed.” Ramdev can be heard saying in the video.",
+      "bm25_score_raw": 5.0042589431274305,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "WhatsApp फॉरवर्ड पढ़ रामदेव ने ऐलोपैथी को बता दिया बेकार, जिस ...",
+      "url": "https://www.jansatta.com/national/video-patanjalis-baba-ramdev-calls-allopathy-stupid-amid-coronavirus-crisis-but-not-took-even-name-of-fabiflu-correctly/1725115",
+      "snippet": "योग गुरु बाबा रामदेव फिर से विवादों में हैं। उन्होंने इस बार ऐलोपैथी को बेकार बताया था। 'WhatsApp' पर फॉर्वर्ड एक मैसेज पढ़ते हुए कहा था कि लाखों लोग ऐलोपैथी दवाओं से मरे हैं। याद दिलाने पर बोल पाए Fabiflu",
+      "bm25_score_raw": 4.649925679444631,
+      "bm25_score_norm": 0.9291936592990614,
+      "bm25_rank": 2
+    },
+    {
+      "title": "Ramdev withdraws 'stupid science' remarks on medicine ...",
+      "url": "https://www.thenewsminute.com/news/ramdev-withdraws-stupid-science-remarks-medicine-after-rebuke-health-min-ima-149401",
+      "snippet": "Ramdev had also allegedly said medicines such as remdesivir, fabiflu and other drugs approved have failed to treat COVID-19. Ramdev claimed",
+      "bm25_score_raw": 3.7489513291189267,
+      "bm25_score_norm": 0.7491521465465985,
+      "bm25_rank": 3
+    },
+    {
+      "title": "Baba Ramdev On Allopathy Medicines: बाबा रामदेव का बड़ा बयान ...",
+      "url": "https://www.facebook.com/ZeeUPUK/videos/baba-ramdev-on-allopathy-medicines-%E0%A4%AC%E0%A4%BE%E0%A4%AC%E0%A4%BE-%E0%A4%B0%E0%A4%BE%E0%A4%AE%E0%A4%A6%E0%A5%87%E0%A4%B5-%E0%A4%95%E0%A4%BE-%E0%A4%AC%E0%A4%A1%E0%A4%BC%E0%A4%BE-%E0%A4%AC%E0%A4%AF%E0%A4%BE%E0%A4%A8-%E0%A4%8F%E0%A4%B2%E0%A5%8B%E0%A4%AA%E0%A5%88%E0%A4%A5%E0%A5%80-%E0%A4%A6%E0%A4%B5%E0%A4%BE%E0%A4%93%E0%A4%82-%E0%A4%95%E0%A5%8B-%E0%A4%B2%E0%A5%87%E0%A4%95/1018023326683082",
+      "snippet": "Baba Ramdev On Allopathy Medicines: बाबा रामदेव का बड़ा बयान, एलोपैथी दवाओं को लेकर भड़के बाबा रामदेव, एलोपैथी दवाओं से मर रहे करोड़ों लोग-रामदेव,",
+      "bm25_score_raw": 3.522163590916416,
+      "bm25_score_norm": 0.7038332010683738,
+      "bm25_rank": 4
+    },
+    {
+      "title": "the medicines prescribed by us are ...",
+      "url": "https://www.facebook.com/IndiaToday/posts/all-the-medicines-prescribed-by-us-are-government-approved-we-are-not-against-yo/10161213623052119",
+      "snippet": "Ramdev had come under sharp criticism after a video of him describing modern medicine 'allopathy' as a \"stupid science\" surfaced on media.",
+      "bm25_score_raw": 2.0624805209244754,
+      "bm25_score_norm": 0.4121450437246,
+      "bm25_rank": 5
+    },
+    {
+      "title": "Why India's doctors are furious over yoga guru Ramdev's ...",
+      "url": "https://www.aljazeera.com/news/2021/5/26/why-indias-doctors-are-furious-over-yoga-guru-ramdevs-remarks",
+      "snippet": "Ramdev saying 'allopathy is a stupid and bankrupt science' Now they are prescribing Fabiflu which too has failed,” Ram Kisan Yadav, aka Baba",
+      "bm25_score_raw": 1.7861172817757962,
+      "bm25_score_norm": 0.3569194364389856,
+      "bm25_rank": 6
+    },
+    {
+      "title": "Withdrawing comments on allopathic medicines, regret ...",
+      "url": "https://retail.economictimes.indiatimes.com/news/food-entertainment/personal-care-pet-supplies-liquor/withdrawing-comments-on-allopathic-medicines-regret-controversy-baba-ramdev/82898018",
+      "snippet": "Ramdev claimed that allopathy is a \"stupid science\" and medicines such as remdesivir, fabiflu, and other drugs … failed to treat COVID-19",
+      "bm25_score_raw": 1.5880731758753388,
+      "bm25_score_norm": 0.31734432488876496,
+      "bm25_rank": 7
+    },
+    {
+      "title": "Swami Ramdev | ये उपाय फेफड़ों की सारी समस्याएं खत्म कर देंगे ...",
+      "url": "https://www.instagram.com/reel/DaRvMDhEpNV",
+      "snippet": "सत्संग ये उपाय फेफड़ों की सारी समस्याएं खत्म कर देंगे स्वामी रामदेव जी PATANJALI wellness ... पूरा पैर जब ये उठे तो सिर के ऊपर जाए।",
+      "bm25_score_raw": 1.394602332113876,
+      "bm25_score_norm": 0.2786830873388646,
+      "bm25_rank": 8
+    },
+    {
+      "title": "️Ramdev shares old video of Amir Khan's talk show, throws new ...",
+      "url": "https://www.facebook.com/valleyexplore/posts/-national_update-30-may-2021-%EF%B8%8Framdev-shares-old-video-of-amir-khans-talk-show-th/257530152819779",
+      "snippet": "'Lakho logo ki maut allopathy ki dawa khane se hui hai', Ramdev said, as per the IMA. \"Remdesivir and Favipiravir are approved by CDSCO (Central Drug Standard",
+      "bm25_score_raw": 1.394602332113876,
+      "bm25_score_norm": 0.2786830873388646,
+      "bm25_rank": 9
+    },
+    {
+      "title": "फेफड़ों से जुड़ी समस्या को दूर करने के लिए Swami Ramdev से ...",
+      "url": "https://www.youtube.com/watch?v=_lvNNP5CU7g",
+      "snippet": "फेफड़ों से जुड़ी समस्या को दूर करने के लिए Swami Ramdev से जानिए बेस्ट उपाय ... जब सास और ननंद ने मिलकर बहु को घर से निकाला",
+      "bm25_score_raw": 0.6337453704700778,
+      "bm25_score_norm": 0.12664120255815864,
+      "bm25_rank": 10
+    },
+    {
+      "title": "बुखार (Fever) से तुरंत छुटकारा पाने का उपाय | Swami Ramdev",
+      "url": "https://www.youtube.com/watch?v=OpVJgVrVw1k",
+      "snippet": "बुखार (Fever) से तुरंत छुटकारा पाने का उपाय | Swami Ramdev. @TheBHARATSWABHIMAN49K likes4.2M views6 years ago more.",
+      "bm25_score_raw": 0.5100424347335386,
+      "bm25_score_norm": 0.10192167122646649,
+      "bm25_rank": 11
+    },
+    {
+      "title": "Live - छोटे- छोटे घरेलू उपायों ( Home Remedies ) से बड़े - बड़े रोगों ...",
+      "url": "https://www.youtube.com/watch?v=qIlwhJ6zE6w",
+      "snippet": "Live - छोटे- छोटे घरेलू उपायों ( Home Remedies ) से बड़े - बड़े रोगों का जड़ से इलाज. @SwamiRamdevOfficial1.2K likes45K viewsStreamed 7 months ago",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12
+    }
+  ]
+}

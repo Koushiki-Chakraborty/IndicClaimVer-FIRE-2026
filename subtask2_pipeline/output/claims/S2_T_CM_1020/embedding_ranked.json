@@ -1,0 +1,120 @@
+{
+  "claim": {
+    "id": "S2/T/CM/1020",
+    "text": "2009 mein Congress apne peak par nahi thi aur unhone Andhra Pradesh se sirf 20 seats jeeti thi.",
+    "lang": "codemix"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Andhra Pradesh 27 2009 - Vidhan Sabha",
+      "url": "https://www.indiavotes.com/vidhan-sabha/andhra-pradesh-27/2009",
+      "snippet": "If 0.0% of ?'s voters had instead voted for ? in each constituency, 0 seats would change hands. (0 votes redistributed.) Reset. Seats under this swing. Party",
+      "bm25_score_raw": 3.4363969613408094,
+      "bm25_score_norm": 0.6683014739379616,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8364163637161255,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Andhra Pradesh Assembly Election Result 2009",
+      "url": "https://www.lokniti.org/media/PDF-upload/1586442683_99215700_party_performance.pdf",
+      "snippet": "Party performance. Party. Contested. Seats Won. Vote(%). Vote per Seat Contested. INC. 294. 156. 36.56. 36.55. TDP. 225. 92. 28.12. 36.31. PRAP.Read more2 pages",
+      "bm25_score_raw": 3.542349591186878,
+      "bm25_score_norm": 0.7032590900057598,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8332208395004272,
+      "embedding_score_norm": 0.9426466702397496,
+      "embedding_rank": 2
+    },
+    {
+      "title": "2009 Andhra Pradesh Legislative Assembly election - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2009_Andhra_Pradesh_Legislative_Assembly_election",
+      "snippet": "Chandrababu Naidu | | Party | INC | TDP | | Alliance | UPA | Maha Kutami \"Maha Kutami (2009)\") | | Leader since | 1999 | 1995 | | Leader's seat | Pulivendula (*won*) | Kuppam (*won*) | | Last election | 185 seats, 38.56% | 47 seats, 37.59% | | Seats won | **156** | 92 | | Seat change | Decrease 29 | Increase 45 | | Popular vote | **15,374,448** | 11,826,457 | | Percentage | **36.55%** | 28.12% | | Swing | Decrease 2.00% | Decrease 9.47% | | Alliance seats | **156** | 107 | | |  | Third party | Fourth party | |  |  |  | | Leader | Chiranjeevi | K. Chandrashekar Rao | | Party | PRP | TRS | | Alliance | – | Maha Kutami \"Maha Kutami (2009)\") | | Leader since | 2008 | 2001 | | Leader's seat | Tirupati (*won*), Palakollu (*lost*) | *Did not contest* | | Last election | *Party did not exist* | 26 seats, 6.68% | | Seats won | 18 | 10 | | Seat change | *New party* | Decrease 16 | | Popular vote | 6,863,509 | 1,678,906 | | Percentage | 16.32% | 3.99% | | Swing | *New party* | Decrease 2.69% | |.",
+      "bm25_score_raw": 1.4108498371775817,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.8331334590911865,
+      "embedding_score_norm": 0.9410783649829316,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Indian Elections 2009: A Prognosis of the Verdict",
+      "url": "https://www.files.ethz.ch/isn/101126/72.pdf",
+      "snippet": "Three of the Congress’s major allies, the Dravida Munnetra Kazhagam (DMK), the Trinamool Congress (TC) and the Nationalist Congress Party (NCP), belonging to the key states of Tamil Nadu, West Bengal and Maharashtra respectively, either won more seats than in 2004 or retained those won the last time. Table 1: Party-wise Seats (2004 and 2009) 2004 2009 Gain/Loss Congress 145 206 +61 DMK 16 18 +2 TC 2 19 +17 NCP 9 9 0 BJP 138 116 -22 JD(U) 8 20 +12 CPI 10 4 -6 CPI(M) 43 16 -27 BSP 19 21 +2 AIADMK 0 9 +9 TDP 5 6 +1 TRS 5 2 -3 SP 36 23 -13 RJD 24 4 -20 Source: Election Commission of India Along with Mr Laloo Yadav, Mr Mulayam Singh Yadav, leader of the Samajwadi Party (SP) has also become relatively insignificant, with the SP’s tally reducing by 13 seats.",
+      "bm25_score_raw": 3.5465712590886573,
+      "bm25_score_norm": 0.7046519713895495,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8262695074081421,
+      "embedding_score_norm": 0.8178840288542493,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Andhra Pradesh 27 — Lok Sabha 2009",
+      "url": "https://www.indiavotes.com/lok-sabha/2009/andhra-pradesh-27",
+      "snippet": "The slider redistributes that share of the from-party's voters in each constituency to the to-party, then recomputes who wins. The map above repaints live with ...Read more",
+      "bm25_score_raw": 3.4363969613408094,
+      "bm25_score_norm": 0.6683014739379616,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8214708566665649,
+      "embedding_score_norm": 0.7317577535364428,
+      "embedding_rank": 5
+    },
+    {
+      "title": "India's 2009 Elections: The Resilience of Regionalism and Ethnicity",
+      "url": "https://journals.openedition.org/samaj/2787",
+      "snippet": "by C Jaffrelot · 2009 · Cited by 40 — The 2009 Indian general elections saw the Congress Party-led United Progressive Alliance retain power, with a remarkable increase of seats in the National",
+      "bm25_score_raw": 3.552534660912409,
+      "bm25_score_norm": 0.7066195139764166,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8194302916526794,
+      "embedding_score_norm": 0.6951336536270536,
+      "embedding_rank": 6
+    },
+    {
+      "title": "During 2009 elections, if you all remember, Congress used ...",
+      "url": "https://www.facebook.com/gkishanreddy/posts/during-2009-elections-if-you-all-remember-congress-used-prp-party-to-split-the-v/245257078955659",
+      "snippet": "During 2009 elections, if you all remember, Congress used PRP party to split the votes and come to power. Now, Congress is using the same",
+      "bm25_score_raw": 4.441738146053673,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8081114292144775,
+      "embedding_score_norm": 0.4919824940332725,
+      "embedding_rank": 7
+    },
+    {
+      "title": "India Faces Backlash Over a New State",
+      "url": "https://www.nytimes.com/2009/12/12/world/asia/12india.html",
+      "snippet": "Dec 11, 2009 — Opponents of the partition of Andhra Pradesh staged protests, even as advocates for the creation of other new states began agitating in",
+      "bm25_score_raw": 3.462286441210277,
+      "bm25_score_norm": 0.6768433524999822,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8072134256362915,
+      "embedding_score_norm": 0.4758651086313488,
+      "embedding_rank": 8
+    },
+    {
+      "title": "Speaking in the Rajya Sabha yesterday on the Andhra ...",
+      "url": "https://www.facebook.com/gkishanreddy/posts/speaking-in-the-rajya-sabha-yesterday-on-the-andhra-pradesh-reorganisation-bill-/1566857381466804",
+      "snippet": "Speaking in the Rajya Sabha yesterday on the Andhra Pradesh Reorganisation Bill (Amendment), 2026, I questioned why the villages of",
+      "bm25_score_raw": 2.6954859666623068,
+      "bm25_score_norm": 0.423848059898021,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.8034906387329102,
+      "embedding_score_norm": 0.40904845806495094,
+      "embedding_rank": 9
+    },
+    {
+      "title": "[PDF] Lok Sabha 2009 Elections",
+      "url": "https://adrindia.org/sites/default/files/Andhra_Pradesh_Ls_2009.pdf",
+      "snippet": "TRS follows with 2 MPs. The breakup of MPs as compared to total candidates from the party are- Name of the Party Total candidates MPs 0 10 20 30 40 50 AIMIM TRS TDP BSP PRAP BJP INC 42 33 41 40 40 31 6 0 0 0 2 1 1 9 Counts 238 A Report by ADR Analysis based on pending criminal cases Table: Candidates with pending criminal cases and serious pending criminal cases- party wise break up Party Total candidates analysed Candidates with pending criminal cases Percent of candidates with pending criminal cases Number of candidates with pending serious criminal cases Percent of candidates with pending serious criminal cases INC 42 10 24% 2 5% BJP 38 3 8% 1 3% PRAP 37 5 14% 3 8% BSP 38 3 8% 0 0% TDP 31 9 29% 3 10% TRS 9 3 33% 0 0% AIMIM* 1 1 100% 1 100% IND 203 13 6% 5 2% Others 135 13 10% 7 5% Total 534 60 11% 22 4% Pending criminal cases- analysis for candidates Total 534 affidavits were analyzed by Andhra Pradesh Election Watch for Lok Sabha 2009 elections.",
+      "bm25_score_raw": 2.6100183422915397,
+      "bm25_score_norm": 0.39564919023975237,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.7806999087333679,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 10
+    }
+  ]
+}

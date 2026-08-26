@@ -1,0 +1,131 @@
+{
+  "claim": {
+    "id": "S2/1461",
+    "text": "মানিকতলায় বিজেপি প্রার্থীর মাকে ভোট দিতে সাহায্য তৃণমূল প্রার্থীর এজেন্টের - MANIKTALA ASSEMBLY BYPOLLS 2024",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Who are India’s Cockroach Janta party and why are they staging protests? - The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/20/who-are-indias-cockroach-janta-party-and-why-are-they-staging-protests-",
+      "snippet": "# Who are India’s Cockroach Janta party and why are they staging protests? Explosion of anger over education system and youth unemployment has led to movement’s rapid rise. * **Tens of thousands of Cockroach party protesters defy police with Delhi march**. Explore more on these topics. ## More on this story. * ### Tens of thousands of Cockroach movement protesters defy police with Delhi march. * ### Indian activist linked to Cockroach party moved to hospital after 20-day hunger strike. * ### ‘I’m sorry but I’m unable to speak’: hero of India’s Cockroach party weakens on 19th day of hunger strike. * ### ‘What if all cockroaches came together?’ The youth movement threatening to shake up India’s politics. * ### Tensions high in West Bengal after BJP aide shot dead and hundreds arrested. * ### ‘Defeated by conspiracy’: West Bengal chief minister refuses to resign after election loss. * ### Narendra Modi’s BJP wins election in West Bengal for the first time.",
+      "bm25_score_raw": 2.7715588123658574,
+      "bm25_score_norm": 0.5753392204038067,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8239383697509766,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "India's Modi under pressure as youth protest leaders set for more talks - Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/indias-modi-under-pressure-youth-protest-leaders-set-more-talks-2026-07-25/",
+      "snippet": "## Browse World. Item 1 of 6 A man holds a poster as he participates in a demonstration held in solidarity with Cockroach Janta Party (CJP) protests held at Jantar Mantar in New Delhi, which demand the resignation of India's Education Minister Dharmendra Pradhan over exam paper leaks, in Kolkata, India, July 24, 2026. **[1/6]**A man holds a poster as he participates in a demonstration held in solidarity with Cockroach Janta Party (CJP) protests held at Jantar Mantar in New Delhi, which demand the resignation of India's Education Minister Dharmendra Pradhan over exam paper leaks, in Kolkata, India, July 24, 2026.... NEW DELHI, July 25 (Reuters) - The Indian government was set to begin a fresh round of talks on Saturday with leaders of a Gen-Z protest that led to disruptions ​in the capital this week, as demonstrators press a demand for the education minister ‌to resign.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.8001883029937744,
+      "embedding_score_norm": 0.4624108537799616,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Death toll in India hydropower tunnel disaster rises to 25 as rescue effort ends - AP News",
+      "url": "https://apnews.com/article/india-tunnel-accident-workers-rescue-toxic-gas-8ebecdbfb05aa749ce325190b8ad0346",
+      "snippet": "Test Your News I.Q. 2026 Elections Election Results Election calendar White House Congress Supreme Court The latest AP-NORC polls. In this image provided by the Information and Public Relations Department, Government of Sikkim, rescue workers stand outside an under-construction tunnel at a hydropower project in Samardung village, about 40 kilometers (25 miles) from Gangtok, India, Wednesday, July 22, 2026. Rescue workers carry the body of a victim into an ambulance outside the entrance to an under-construction tunnel at a hydropower project in Samardung village, about 40 kilometers (25 miles) from Gangtok, India, Tuesday, July 21, 2026. Members of the rescue team carry oxygen cylinders outside the entrance to an under-construction tunnel at a hydropower project in Samardung village, about 40 kilometers (25 miles) from Gangtok, India, Tuesday, July 21, 2026. In this image provided by the Information and Public Relations Department, Government of Sikkim, an ambulance moves through an under-construction tunnel at a hydropower project in Samardung village, about 40 kms.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.7999649047851562,
+      "embedding_score_norm": 0.4573541752676073,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Kalshi helped set up 2024 FBI raid of arch-rival Polymarket CEO’s apartment: report - New York Post",
+      "url": "https://nypost.com/2026/07/20/business/kalshi-helped-set-up-2024-fbi-raid-of-arch-rival-polymarket-ceos-apartment-report/",
+      "snippet": "# Kalshi helped set up 2024 FBI raid of arch-rival Polymarket CEO’s apartment: report. Prediction market Kalshi helped tee up a November 2024 FBI raid on the apartment of its arch-rival Polymarket’s CEO – part of a series of blows the companies have traded during their yearslong feud, according to a report that cited Polymarket sources. Before the raid, Kalshi attorneys met with prosecutors in Manhattan to amplify their concerns about Polymarket’s business, the New York Times reported. Not long after, FBI agents used a battering ram to bust into Polymarket founder and CEO Shayne Coplan’s apartment before dawn on Nov. 13, 2024 — part of an investigation into whether Polymarket illegally allowed Americans to place bets on its platform. Polymarket execs speculated that someone working for Kalshi — or acting on its behalf — had tailed Coplan, spotted federal agents outside his apartment on the day of the raid and quickly tipped off journalists to get the news to spread quickly, the Times reported.",
+      "bm25_score_raw": 4.81726034672313,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.79872727394104,
+      "embedding_score_norm": 0.42934006837579164,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Kirandeep Kaur's family 'devastated by her death', sister says - BBC",
+      "url": "https://www.bbc.com/news/articles/cd0xzy2r1m7o",
+      "snippet": "# Kirandeep Kaur: 'The big sister who was my world'. The sister of a 24-year-old mother who was stabbed and killed as she lay in bed with her husband and baby in west London on Sunday has said \"she was my world\". Kirandeep Kaur, who was fatally attacked at her home in Hayes, was originally from India. Speaking through a translator, her sister Gursharan told BBC London: \"She is everything for me, she video calls me and my mum. Gursharan, who is 21, said her sister came to London looking for a better job so she could support her family. \"She was the top of her class here in India when she was studying, she's a very hard worker. \"My sister meant the world to me, she supported me and she loved me. Gusharan added: \"We are grateful to the people in London who are coming to the gatherings and vigils in London for my sister.",
+      "bm25_score_raw": 1.9885890429792856,
+      "bm25_score_norm": 0.4128049762417333,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.7931951284408569,
+      "embedding_score_norm": 0.30411846766990736,
+      "embedding_rank": 5
+    },
+    {
+      "title": "India tunnel disaster at a Himalayan hydropower project leaves 10 dead and 17 missing - AP News",
+      "url": "https://apnews.com/article/india-sikkim-himalayas-tunnel-accident-3c3b93f3499b07775c0fbd68fead6439",
+      "snippet": "Test Your News I.Q. 2026 Elections Election Results Election calendar White House Congress Supreme Court The latest AP-NORC polls. 2026 Elections Election Results Election calendar White House Congress Supreme Court The latest AP-NORC polls. Your guide to the biggest stories in politics, policy and U.S. elections. + The World Cup is over. Your home base for in-depth reporting from the world of sports. Founded in 1846, AP today remains the most trusted source of fast, accurate, unbiased news in all formats and the essential provider of the technology and services vital to the news business. ap.org Careers Advertise with us AP News Values and Principles AP’s Role in Elections AP Leads AP Definitive Source Blog AP Images Spotlight Blog. GUWAHATI, India (AP) — A suspected gas explosion triggered a collapse inside an under-construction tunnel at a hydropower project in India’s northeastern Himalayan state of Sikkim, near the Chinese border, leaving least 10 people dead and 17 others missing, officials said on Tuesday.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.7897723913192749,
+      "embedding_score_norm": 0.22664389272502083,
+      "embedding_rank": 6
+    },
+    {
+      "title": "India protest movement holds capital sit-in as police crack down on demonstrators - AP News",
+      "url": "https://apnews.com/article/india-cockroach-party-youth-movement-protest-modi-d226d142657cd297c3d4232716a8a626",
+      "snippet": "Test Your News I.Q. 2026 Elections Election Results Election calendar White House Congress Supreme Court The latest AP-NORC polls. A protestor sits on the hood of a police car during a demonstration demanding educational reforms as part of the Cockroach Janta Party’s ongoing protest movement in New Delhi, India, Wednesday, July 22, 2026. A protestor holds a piece of paper with “Democracy?” written on it during a demonstration demanding educational reforms as part of the Cockroach Janta Party’s ongoing protest movement in New Delhi, India, Wednesday, July 22, 2026. Protesters shout slogans as they carry posters asking for the resignation of India’s Minister of Education Dharmendra Pradhan at a protest led by Cockroach Janta Party in New Delhi, India, Wednesday, July 22, 2026. NEW DELHI (AP) — Thousands of young protesters were camped on the streets of India’s capital New Delhi on Thursday, defying new restrictions in the latest show of strength for a movement that has become one of the biggest challenges to Prime Minister Narendra Modi’s government.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.7879568338394165,
+      "embedding_score_norm": 0.18554826105844863,
+      "embedding_rank": 7
+    },
+    {
+      "title": "A protest movement is challenging India's establishment. What to know about the 'Cockroaches' - AP News",
+      "url": "https://apnews.com/article/india-cockroach-party-youth-movement-protest-modi-59d045fbd485635def01b01f3898307b",
+      "snippet": "Test Your News I.Q. 2026 Elections Election Results Election calendar White House Congress Supreme Court The latest AP-NORC polls. People from all over India have been ordering food through delivery apps for protesters of the youth-led ‘Cockroach’ movement in New Delhi who have called for the resignation of India’s Education Minister Dharmendra Pradhan over examination paper leaks. A protestor, left, receives a food package from a supporter at the site where thousands have assembled to join a protest led by Cockroach Janta Party in New Delhi, India, Wednesday, July 22, 2026. A protestor receives a food package from a supporter at the site where thousands have assembled to join a protest called by Cockroach Janta Party in New Delhi, India, Wednesday, July 22, 2026. NEW DELHI (AP) — What began as an online joke has evolved into one of the most significant protest movements in India being led by young people hoping to change the established political structure and the damage they believe the government has caused.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.7863365411758423,
+      "embedding_score_norm": 0.14887250100512953,
+      "embedding_rank": 8
+    },
+    {
+      "title": "Calcutta High Court Orders Arrest of Cricketer Abishek Porel in Rape and Blackmail Case With Private Photos - Republic World",
+      "url": "http://www.republicworld.com/sports/cricket/calcutta-high-court-orders-arrest-of-cricketer-abishek-porel-in-rape-and-blackmail-case-with-private-photos-2026-07-20-132925",
+      "snippet": "* Calcutta High Court Orders Arrest of Cricketer Abishek Porel in Rape and Blackmail Case With Private Photos. ## The Calcutta High Court has ordered the immediate arrest of Delhi Capitals cricketer Abishek Porel over rape and blackmail allegations. Abishek Porel Arrest Ordered by Calcutta High Court in Rape Case | Image: iplt20.com. In a major legal development, the Calcutta High Court has ordered the immediate arrest of Bengal and Delhi Capitals cricketer Abishek Porel. The orders come in light of serious allegations leveled by a medical student, who has accused the duo of rape, physical assault, and criminal intimidation. To protect the complainant's privacy and secure critical evidence, the Calcutta High Court has ordered the immediate seizure of electronic devices belonging to Porel and the co-accused. While Porel has previously denied the allegations, police confirmed to the court that efforts to locate and arrest the accused are currently underway.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.7850110530853271,
+      "embedding_score_norm": 0.11886972172078177,
+      "embedding_rank": 9
+    },
+    {
+      "title": "Inside Dani Olmo's Personal Life: Girlfriend, Parents, Siblings, Ethnicity, Family Background & More - Yahoo Sports",
+      "url": "https://sports.yahoo.com/articles/inside-dani-olmos-personal-life-185717881.html",
+      "snippet": "Dani Olmo has become one of Spain's most important attacking players thanks to his versatility, creativity, and eye for goal. Comfortable as an attacking midfielder or winger, he has been a key figure for both club and country, helping Spain win UEFA Euro 2024 and playing an important role during the nation's run to the 2026 FIFA World Cup final. Away from soccer, Olmo has kept much of his personal life out of the spotlight, although his long-term relationship has attracted public attention. He is of Spanish ethnicity and comes from a soccer-loving family that played a major role in his development. His mother, Anna Olmo, has largely stayed away from the public eye and has supported Dani throughout his career. Dani also has an older brother, Carlos Olmo, who has worked as his agent and has helped manage his professional career for several years. The close relationship between the brothers has been an important part of Olmo's rise in professional soccer.",
+      "bm25_score_raw": 4.584894721032448,
+      "bm25_score_norm": 0.9517639469395203,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.7834968566894531,
+      "embedding_score_norm": 0.08459547921068325,
+      "embedding_rank": 10
+    },
+    {
+      "title": "Mamdani says he’s still looking into arresting Netanyahu if Israeli leader visits New York - CNN",
+      "url": "https://www.cnn.com/2026/07/18/politics/mamdani-netanyahu-new-york",
+      "snippet": "# Mamdani says he’s still looking into arresting Netanyahu if Israeli leader visits New York. New York City Mayor Zohran Mamdani said his office is still looking into arresting Benjamin Netanyahu if the Israeli prime minister visits the city for the United Nations General Assembly in September. Speaking on The New York Times’ “The Interview” podcast, Mamdani said his administration’s legal department is actively discussing the potential arrest of Netanyahu, something he vowed on the campaign trail to pursue. The ICC issued an arrest warrant for Netanyahu and other Israeli leaders in 2024, accusing them of war crimes during and after the October 7, 2023, Hamas attacks on Israel. Israel’s ambassador to the United Nations, Danny Danon, said on social media Saturday that Netanyahu “will come to New York, address the United Nations General Assembly with pride, and stand before the world to state Israel’s truth and its unwavering right to defend its citizens.”.",
+      "bm25_score_raw": 2.8074723191620947,
+      "bm25_score_norm": 0.5827943928901074,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.7797595262527466,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 11
+    }
+  ]
+}

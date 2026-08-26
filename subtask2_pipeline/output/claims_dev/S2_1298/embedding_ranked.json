@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/1298",
+    "text": "2019 लोकसभा चुनाव: गुजरात में भाजपा को घेरने के लिए कांग्रेस के पास कोई ठोस योजना नहीं थी",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "भाजपा- 26, कांग्रेस- 0... 2014 की ही तरह 2019 में भी कांग्रेस का ...",
+      "url": "https://www.amarujala.com/india-news/gujarat-lok-sabha-election-results-2019-bjp-strong-presence",
+      "snippet": "Gujarat Lok Sabha Election Results 2019 BJP Strong Presence गुजरात में 2014 की जीत को 2019 में भी दोहराती दिख रही है भाजपा?",
+      "bm25_score_raw": 9.94791138308895,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8648478984832764,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Gujarat Election Result: गुजरात में कहां कांग्रेस ने भाजपा को ...",
+      "url": "https://www.livehindustan.com/gujarat/story-gujarat-lok-sabha-election-result-congress-leading-in-patan-stop-bjp-from-clean-sweep-10149172.html",
+      "snippet": "Gujarat Election Result: साल 2014 और 2019 में बीजेपी ने 26 की 26 सीटों पर जीत दर्ज की थी। बीजेपी को उम्मीद थी कि वह इस बार क्लीव स्वीप की हैट्रिक लगाएगी लेकिन कांग्रेस ने उसका खेल बिगाड़",
+      "bm25_score_raw": 5.418125678448445,
+      "bm25_score_norm": 0.5287390138184118,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8537535667419434,
+      "embedding_score_norm": 0.9055520853366025,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Gujarat Election Results 2019: गुजरात में बीजेपी ने किया क्लीन ...",
+      "url": "https://ndtv.in/lok-sabha-elections-2019/gujarat-election-results-2019-live-updates-bjp-pm-modi-congress-lok-sabha-2041265",
+      "snippet": "Gujarat Election Results 2019 Updates, News: पिछली बार बीजेपी ने गुजरात की सभी 26 सीटों (Gujarat Lok Sabha Seats) पर जीत दर्ज की थी और पार्टी को 60 फीसद वोट मिले थे,",
+      "bm25_score_raw": 6.387626078395917,
+      "bm25_score_norm": 0.629602000364251,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8503663539886475,
+      "embedding_score_norm": 0.8767161726805759,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Lok Sabha Election Results : BJP के गढ़ Gujarat में Congress ने ...",
+      "url": "https://www.youtube.com/watch?v=FqN_VmPamWU",
+      "snippet": "गुजरात में भाजपा को कितना मज़बूत माना जाता है. लेकिन इस बार कांग्रेस वहां भी सेंध लगाने में कामयाब रही. सीट का नाम है बनासकांठा. बीबीसी संवाददाता रॉक्सी गागड़ेकर छारा ने विजेता उम्मीदवार गेनीबेन ठाकोर से बातचीत की.",
+      "bm25_score_raw": 7.342624203824395,
+      "bm25_score_norm": 0.7289562276359604,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8420127034187317,
+      "embedding_score_norm": 0.8056001384253708,
+      "embedding_rank": 4
+    },
+    {
+      "title": "लोकसभा चुनाव: कांग्रेस से मिल रही चुनौती, फिर से गुजरात में ...",
+      "url": "https://navbharattimes.indiatimes.com/elections/lok-sabha-elections/news/will-bjp-be-able-to-make-clean-sweep-again-in-gujarat-congress-giving-tough-competition-on-many-seats/articleshow/68580196.cms",
+      "snippet": "2014 के आम चुनावों में गुजरात की 26 लोकसभा सीटों में से बीजेपी ने सभी सीटें जीती थीं। 2017 के विधानसभा चुनाव में अच्छा प्रदर्शन करने के बाद कांग्रेस भी वापसी की कोशिश कर रही है। ऐसे में बीजेपी के लिए अपना",
+      "bm25_score_raw": 0.513478967084226,
+      "bm25_score_norm": 0.018478971339598405,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.8383330702781677,
+      "embedding_score_norm": 0.7742748017619804,
+      "embedding_rank": 5
+    },
+    {
+      "title": "गुजरात में भाजपा की पकड़ में सेंध? एक दशक बाद कांग्रेस को सीट ...",
+      "url": "https://hindi.sabrangindia.in/article/dent-in-saffron-partys-hold-on-gujarat-congress-secures-one-seat-after-a-decade-india-bloc-lessens-winning-margins-in-at-least-four-districts",
+      "snippet": "4 जून को 18वीं लोकसभा चुनाव के नतीजे घोषित किए गए। नतीजों के अनुसार, भारतीय जनता पार्टी (भाजपा) ने चुनावों में कुल 240 सीटें जीतीं, जबकि विपक्षी भारत गठबंधन 232 सीटें हासिल करने में सफल रहा।",
+      "bm25_score_raw": 1.6587915277721956,
+      "bm25_score_norm": 0.13763275962654517,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8063869476318359,
+      "embedding_score_norm": 0.502312079186619,
+      "embedding_rank": 6
+    },
+    {
+      "title": "Congress.gov | Library of Congress",
+      "url": "https://www.congress.gov",
+      "snippet": "[skip to main content](https://www.congress.gov/#content). *   [Committees](https://www.congress.gov/committees). *   [Glossary](https://www.congress.gov/help/legislative-glossary). *   [Help](https://www.congress.gov/help). *   [Contact](https://www.congress.gov/contact-us). *   [Advanced Searches](https://www.congress.gov/advanced-search/legislation). *   [Browse](https://www.congress.gov/browse). *   [Committees](https://www.congress.gov/committees). *   [Support](https://www.congress.gov/#). *   [Glossary](https://www.congress.gov/help/legislative-glossary). *   [Help](https://www.congress.gov/help). *   [Contact](https://www.congress.gov/contact-us). [Close](https://www.congress.gov/#). *   [Glossary](https://www.congress.gov/help/legislative-glossary). *   [Contact](https://www.congress.gov/contact-us). [Sign In](https://www.congress.gov/#). *   [Legislation](https://www.congress.gov/#legislation). *   [Nominations](https://www.congress.gov/#nominations). *   [House Communications](https://www.congress.gov/#house-communications). *   [Senate Communications](https://www.congress.gov/#senate-communications). *   [H.R.4818](https://www.congress.gov/bill/118th-congress/house-bill/4818) [118th] Treat and Reduce Obesity Act of 2023. *   [H.R.6509](https://www.congress.gov/bill/119th-congress/house-bill/6509) [119th] SAFE Drugs Act of 2025. *   [H.R.6644](https://www.congress.gov/bill/119th-congress/house-bill/6644) [119th] 21st Century ROAD to Housing Act. *   [H.R.5362](https://www.congress.gov/bill/119th-congress/house-bill/5362). *   [H.R.6007](https://www.congress.gov/bill/119th-congress/house-bill/6007). #### Previous Meeting: [July 14, 2026](https://www.congress.gov/on-house-floor/2026/07/14). *   [Communications to the House](https://www.congress.gov/house-communications). #### Previous Meeting: [July 14, 2026](https://www.congress.gov/on-senate-floor/2026/07/14). *   [Communications to the Senate](https://www.congress.gov/senate-communications). *   [Nominations](https://www.congress.gov/nominations). *   [Today at 2:00 PM (EDT)](https://www.congress.gov/event/119th-congress/house-event/119452) House Foreign Affairs Subcommittee on Western Hemisphere. *   [![Image 5](https://www.congress.gov/img/member/67ffcb2af22eaf56065817c4_200.jpg)Speaker of the House Rep. Mike Johnson [R-LA-4]](https://www.congress.gov/member/mike-johnson/J000299). *   [![Image 14](https://www.congress.gov/img/member/67ffcb2af22eaf56065817c4_200.jpg)Speaker of the House Rep. Mike Johnson [R-LA-4]](https://www.congress.gov/member/mike-johnson/J000299). *   [Nominations](https://www.congress.gov/nominations). *   [House Communications](https://www.congress.gov/house-communications). *   [Senate Communications](https://www.congress.gov/senate-communications). *   [Glossary](https://www.congress.gov/help/legislative-glossary). *   [Video](https://www.congress.gov/video). *   [More House Resources](https://www.congress.gov/help/house-of-representatives). *   [More Senate Resources](https://www.congress.gov/help/senate). *   [Help](https://www.congress.gov/help). *   [Contact Us](https://www.congress.gov/contact-us). [Back to top](https://www.congress.gov/#). [Close](https://www.congress.gov/#).",
+      "bm25_score_raw": 0.33585811013868505,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.7963297367095947,
+      "embedding_score_norm": 0.41669334873197184,
+      "embedding_rank": 7
+    },
+    {
+      "title": "United States Congress - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/United_States_Congress",
+      "snippet": "# United States Congress. The **United States Congress** is the legislative branch of the federal government of the United States. They both meet in the United States Capitol in Washington, D.C. Members of Congress are chosen through direct election, though vacancies \"Legislative vacancy (United States)\") in the Senate may be filled by a governor \"Governor (United States)\")'s appointment. The vice president of the United States, as president of the Senate, has a vote in the Senate only when there is a tie. The members of the House of Representatives are elected for the two-year term of a Congress. Article One of the United States Constitution states, \"All legislative Powers herein granted shall be vested in a Congress of the United States, which shall consist of a Senate and House of Representatives.\" The House and Senate are equal partners in the legislative process – legislation cannot be enacted without the consent of both chambers.",
+      "bm25_score_raw": 0.6429550074151974,
+      "bm25_score_norm": 0.03194914640566218,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.7948048114776611,
+      "embedding_score_norm": 0.40371140339883,
+      "embedding_rank": 8
+    },
+    {
+      "title": "About Congress | U.S. Capitol - Visitor Center",
+      "url": "https://www.visitthecapitol.gov/explore/about-congress",
+      "snippet": "# About Congress. Congress is a bicameral legislature divided into two equal institutions: the House of Representatives and the Senate. Each state sends elected representatives and senators to Congress. ## **About the House of Representatives**. To be elected to the House of Representatives, a person must be at least 25 years old, a citizen of the United States for seven years or more, and a resident of the state that they represent. Learn more about the House of Representatives. ## **About the U.S. Senate**. With each state represented by two senators, a total of 100 members serve in the U.S. Senate. The U.S. territories and the District of Columbia are not represented in the Senate. In order to be elected to the U.S. Senate a person must be at least 30 years old, a citizen of the United States for nine years or more, and a resident of the state that they represent. Learn more about the U.S. Senate.",
+      "bm25_score_raw": 0.5161737714570039,
+      "bm25_score_norm": 0.018759328126671308,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.7916855216026306,
+      "embedding_score_norm": 0.3771563633300638,
+      "embedding_rank": 9
+    },
+    {
+      "title": "United States Congress - Ballotpedia",
+      "url": "https://ballotpedia.org/United_States_Congress",
+      "snippet": "The **United States Congress** is the bicameral legislature of the United States of America's federal government. It consists of two houses, the Senate and the House of Representatives, with members chosen through direct election. The Senate is the upper house of the U.S. Congress. Each U.S. state is represented by two senators, regardless of population. According to the U.S. Constitution, senators must meet the following requirements:. #### House of Representatives. The United States House of Representatives, commonly referred to as \"the House,\" is the lower house of the U.S. Congress. According to the U.S. Constitution, representatives must meet the following requirements:. | “ | All legislative Powers herein granted shall be vested in a Congress of the United States, which shall consist of a Senate and House of Representatives. Senate amendments to the U.S. Constitution. All **435 districts** in the U.S. House of Representatives and **33 seats** in the U.S. Senate are up for election.",
+      "bm25_score_raw": 0.5262441552304619,
+      "bm25_score_norm": 0.019807011018920507,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.7845830917358398,
+      "embedding_score_norm": 0.3166921816558983,
+      "embedding_rank": 10
+    },
+    {
+      "title": "Contact Congress",
+      "url": "https://www.congressionalinstitute.org/contact-congress",
+      "snippet": "House of Representatives: * Telephone: 202-225-3121 * Website: http://www.house.gov/ #300 Alexandria, VA 22314 Phone: (703) 837-8812 Email: info@conginst.org",
+      "bm25_score_raw": 0.6988334823571074,
+      "bm25_score_norm": 0.03776252189944562,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.752250075340271,
+      "embedding_score_norm": 0.041435767431169154,
+      "embedding_rank": 11
+    },
+    {
+      "title": "Representatives and Senators in Congress",
+      "url": "https://www.govtrack.us/congress/members",
+      "snippet": "# Representatives and Senators in Congress. List all Current Representatives and Senators in Congress. Search Former Representatives and Senators in Congress. After each two-year session of Congress we compile all of our statistics into a report card for each Member of Congress. The United States Congress has two chambers, one called the Senate and the other called the House of Representatives (or “House” for short) which share the responsibilities of the legislative process to create federal statutory law. The day-to-day activities of the Senate are controlled largely by the political party holding the most seats, called the “majority party.” Here is a count of senators by party:. The District of Columbia, Puerto Rico, and the U.S.’s four other island territories — American Samoa, Guam, the Northern Mariana Islands, and the U.S. Virgin Islands — are not represented in the Senate. ## About the House of Representatives. As in the Senate, the day-to-day activities of the House are controlled by the “majority party.” Here is a count of representatives by party:.",
+      "bm25_score_raw": 0.6190637830959442,
+      "bm25_score_norm": 0.029463597934297942,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.7473828196525574,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1259",
+    "text": "With 2,568 new patients, India's Covid case count dips 18.7%",
+    "lang": "english"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Sharpest 15-day decline of 18% in India's Covid cases",
+      "url": "https://timesofindia.indiatimes.com/india/sharpest-15-day-decline-of-18-in-indias-covid-cases/articleshow/78711458.cms",
+      "snippet": "The number was 18.4% less than the case count in the second half of September. In the sharpest fortnightly dip in Covid-19 cases and deaths",
+      "bm25_score_raw": 3.9049135264243913,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8863879442214966,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "India Sees A Dip In Total Number Of Covid Cases | Covid ...",
+      "url": "https://www.youtube.com/watch?v=A_WMrusE8Mw",
+      "snippet": "India sees a decrease in the number of covid cases than before with 3.68 lakh cases in a day. But 3417 deaths in the last 24 hours.",
+      "bm25_score_raw": 1.8963204643879732,
+      "bm25_score_norm": 0.48562418900076776,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.877171516418457,
+      "embedding_score_norm": 0.8363520907638088,
+      "embedding_rank": 2
+    },
+    {
+      "title": "India's COVID-19 cases top 25 million as deaths soar",
+      "url": "https://www.cidrap.umn.edu/indias-covid-19-cases-top-25-million-deaths-soar",
+      "snippet": "India's COVID-19 total topped 25 million cases, and though cases dropped below 300,000 for 2 days in a row, the country today reported a daily",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8674478530883789,
+      "embedding_score_norm": 0.6636976515287817,
+      "embedding_rank": 3
+    },
+    {
+      "title": "India COVID cases dip from peak as nationwide lockdown ...",
+      "url": "https://www.aljazeera.com/news/2021/5/10/india-to-hire-ex-army-medics-as-covid-surge-sparks-lockdown-calls",
+      "snippet": "Health ministry reports 366,161 new infections and 3,754 deaths, off a little from recent peaks, amid calls to impose a nationwide lockdown.",
+      "bm25_score_raw": 1.403002448610269,
+      "bm25_score_norm": 0.3592915538631543,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8589577674865723,
+      "embedding_score_norm": 0.5129467545799952,
+      "embedding_rank": 4
+    },
+    {
+      "title": "India COVID cases cross 18 million, gravediggers work ...",
+      "url": "https://www.reuters.com/world/india/indias-coronavirus-infections-cross-18-million-2021-04-29",
+      "snippet": "India's total COVID-19 cases passed 18 million on Thursday. India reported 379,257 new infections and 3,645 new deaths on Thursday, the",
+      "bm25_score_raw": 3.656349514286826,
+      "bm25_score_norm": 0.9363458344325571,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8465207815170288,
+      "embedding_score_norm": 0.29211425910442707,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Hospital fire kills 18 virus patients as India steps up jabs | PBS News Weekend",
+      "url": "https://www.pbs.org/newshour/world/hospital-fire-kills-18-virus-patients-as-india-steps-up-jabs",
+      "snippet": "NEW DELHI — A fire in a COVID-19 hospital ward in western India killed 18 patients early Saturday, as the country grappling with the worst outbreak yet stepped up a vaccination drive for all adults even as some states said they don't have enough jabs. The fire broke out in a COVID-19 ward on the ground floor of the Welfare Hospital in Bharuch, a town in Gujarat state, and was extinguished within an hour, police said. Separately, 12 COVID-19 patients, including a doctor, on high-flow oxygen died Saturday at a hospital in New Delhi after it ran out of the supply for 80 minutes, said S.C.L. Gupta, director of Batra Hospital. Faced with an unprecedented COVID-19 surge that has filled hospitals and crematoriums, Prime Minister Narendra Modi's government described the pandemic as a \"once-in-a-century crisis.\" Modi held a Cabinet meeting Friday that discussed steps to save the country's crumbling health system by adding hospital beds, resolving issues in production, storage and transport of oxygen and tackling the shortage of essential medicines.",
+      "bm25_score_raw": 3.6686274050689276,
+      "bm25_score_norm": 0.9394900502260741,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8300693035125732,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6
+    }
+  ]
+}

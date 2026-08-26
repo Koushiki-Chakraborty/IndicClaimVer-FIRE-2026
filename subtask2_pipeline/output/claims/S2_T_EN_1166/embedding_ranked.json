@@ -1,0 +1,76 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1166",
+    "text": "Prosecutrix Did Not Accompany Accused To Jungle And Was Unaware Of His Marital Status: Orissa High Court Upholds Rape Conviction",
+    "lang": "english"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Odisha - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Odisha",
+      "snippet": "# Odisha. This article is about the state of India. State in East India, India. | The map of India showing Odisha Location of Odisha in India |. The state also has the third-largest population of Scheduled Tribes in India. It neighbours the states of Jharkhand and West Bengal to the north, Chhattisgarh to the west, and Andhra Pradesh to the south. The region is also known as **Utkaḷa** and is mentioned by this name in India's national anthem, Jana Gana Mana. The modern boundaries of Odisha were demarcated by the British Indian government, the Orissa Province was established on 1 April 1936, consisting of the Odia-speaking districts of Bihar and Orissa Province, Madras Presidency and Central Provinces. In 2011, the English rendering of ଓଡ଼ିଶା was changed from \"Orissa\" to \"Odisha\", and the name of its language from \"Oriya\" to \"Odia\", by the passage of the *Orissa (Alteration of Name) Bill, 2010* and the *Constitution (113th Amendment) Bill, 2010* in the Parliament.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.5,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8154997825622559,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Odisha, once known as Orissa, is a place with lots of ...",
+      "url": "https://www.facebook.com/indiainnorway/videos/odisha-once-known-as-orissa-is-a-place-with-lots-of-architectural-wonders-and-is/517206239771547",
+      "snippet": "Odisha, once known as Orissa, is a place with lots of architectural wonders and is famous for its heritage sites and enthralling landscapes.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.5,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.7817046642303467,
+      "embedding_score_norm": 0.22473039326280556,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Orissa - Biblical Cyclopedia",
+      "url": "https://www.biblicalcyclopedia.com/O/orissa.html",
+      "snippet": "Orissa an ancient Indian kingdom, now a province of India, is situated near the head of the Bay of Bengal, on its north-western shore, 1872 a population of 4,",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.5,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.7747800350189209,
+      "embedding_score_norm": 0.06587743370757633,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Odisha (formerly Orissa) is a state located in Northeast ...",
+      "url": "https://www.facebook.com/IndiaInRussia/videos/odisha-formerly-orissa-is-a-state-located-in-northeast-india-on-the-coast-of-the/501144760752656",
+      "snippet": "Odisha (formerly Orissa) is a state located in Northeast India, on the coast of the Bay of Bengal. This unique place is rich in history and culture.Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.5,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.7747653722763062,
+      "embedding_score_norm": 0.06554106623020936,
+      "embedding_rank": 4
+    },
+    {
+      "title": "ORISSA definition in American English",
+      "url": "https://www.collinsdictionary.com/us/dictionary/english/orissa",
+      "snippet": "a state of E India, on the Bay of Bengal: part of the province of Bihar and Orissa (1912–36); enlarged by the addition of 25 native states in 1949.Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.5,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.7722429633140564,
+      "embedding_score_norm": 0.007676288690805819,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Odisha | History, Culture, Population, & Facts",
+      "url": "https://www.britannica.com/place/Odisha",
+      "snippet": "Image 3: Puri: Jagannatha templeImage 4: Odisha, IndiaImage 5: Mahanadi River, Odisha, IndiaImage 6: Chilka Lake, Odisha, IndiaImage 7: Ratnagiri, Odisha, IndiaImage 8: Puri, IndiaImage 9: Hirakud Dam, Odisha, IndiaImage 10: A school in Kantabanji, Odisha, IndiaImage 11: Odissi, the classical dance of OdishaImage 12: Chariot Festival, Jagannatha temple, Puri, India. # Odisha. It is surrounded by the states of Jharkhand and West Bengal to the north and northeast, the Bay of Bengal to the east, and the states of Andhra Pradesh and Telangana to the south, and Chhattisgarh to the west. Odisha is known for traditional festivals like Boita-Bandana and the Chariot Festival at the Jagannatha temple in Puri. Odisha is a state in India, located in the eastern part of the country. It is bordered by the states of Jharkhand and West Bengal to the north and northeast, the Bay of Bengal to the east, and Andhra Pradesh and Telangana to the south, and Chhattisgarh to the west. The capital of Odisha, a state in eastern India, is Bhubaneshwar.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.5,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.7719083428382874,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6
+    }
+  ]
+}

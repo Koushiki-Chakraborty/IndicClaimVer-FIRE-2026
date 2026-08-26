@@ -1,0 +1,76 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1189",
+    "text": "Covid does not increase the risk of developing Parkinson's disease, finds study.",
+    "lang": "english"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Can Covid-19 increase the risk of developing Parkinson's?",
+      "url": "https://www.parkinsonsnsw.org.au/can-covid-19-increase-the-risk-of-developing-parkinsons",
+      "snippet": "it is possible that people who survive Coronavirus (COVID-19) may be at increased risk of Parkinson's, researchers from Brazil argued in a recent paper. the",
+      "bm25_score_raw": 0.9180700223035148,
+      "bm25_score_norm": 0.06284874916274524,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.9019446969032288,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Frequency of Parkinson disease following COVID-19 ...",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S1353802023001566",
+      "snippet": "by AS Wang · 2023 · Cited by 15 — Risk of developing Parkinson disease is increased for the first year after COVID-19 infection. • After the first year there is no increased risk of Parkinson",
+      "bm25_score_raw": 3.963238253405498,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8909956812858582,
+      "embedding_score_norm": 0.753821783664329,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Infectious diseases like Covid-19 may increase risk of Parkinson’s",
+      "url": "https://cndlifesciences.com/role-of-immune-system-in-parkinsons-2",
+      "snippet": "In our prior Insights articles exploring systems involved in the pathogenesis of Parkinson’s disease, we reviewed how the gastrointestinal and immune systems have become areas of increasing focus for Parkinson’s-specific research. In this next series of articles, we will explore infectious, toxic, and genetic risk factors that might trigger neuroinflammatory and subsequent neurodegenerative processes that lead to Parkinson’s disease and related conditions. The role of infectious agents as triggers for Parkinson’s disease is supported by decades of epidemiologic as well as basic science research. This research has provided evidence for specific infections preferentially attacking the nervous system, including the substantia nigra; the induction of alpha-synuclein expression by specific viruses or gut microbes; and the association of parkinsonism with pandemics. The pandemic of more recent history, Covid-19, has been associated with various neurological symptoms, and may also be associated with an increased risk of Parkinson’s disease.",
+      "bm25_score_raw": 1.2782490684418508,
+      "bm25_score_norm": 0.17369393668519664,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8732571005821228,
+      "embedding_score_norm": 0.35498664536715524,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Frequency of Parkinson disease following COVID-19 infection",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37141688",
+      "snippet": "by AS Wang · 2023 · Cited by 15 — Conclusions: There may be a transiently increased risk of developing Parkinson disease in the first year following COVID-19 infection. Keywords: ...Read more",
+      "bm25_score_raw": 3.577714765934669,
+      "bm25_score_norm": 0.8813550546008148,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8681334257125854,
+      "embedding_score_norm": 0.2397856826006489,
+      "embedding_rank": 4
+    },
+    {
+      "title": "2023 Update: COVID-19 and Parkinson's Disease",
+      "url": "https://www.apdaparkinson.org/article/covid19-and-parkinsons-disease-2023",
+      "snippet": "Jan 16, 2023 — This paper reviewed the medical literature and found 20 cases of people who developed parkinsonism in the setting of severe COVID-19 infection",
+      "bm25_score_raw": 0.713850037382292,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8660531044006348,
+      "embedding_score_norm": 0.1930116338753362,
+      "embedding_rank": 5
+    },
+    {
+      "title": "COVID-19 and the Risk of New-Onset Parkinson's Disease ...",
+      "url": "https://www.health-providers.ir/article_220174_039a3e413f0e5b65cfa7475a0faa357f.pdf",
+      "snippet": "Health Provid, Vol.5, N.1, Serial No.8, Jun. 2025 61 Systematic Review (Pages: 61-81) http:// health-providers.ir COVID-19 and the Risk of New-Onset Parkinson’s Disease and Multiple Sclerosis: A Systematic Review of the Evidence *Sulemana Saibu1, Moses James Ikpeme2, Onyinyechukwu Francisca Akaeje3 1 1Clinical Trials Associate, Paediatric Research Department, The Great North Children’s Hospital, Royal Victoria Infirmary, Newcastle upon Tyne, United Kingdom. Abstract Background: Emerging evidence suggests COVID-19 may increase the risk of long-term neurological complications, including Parkinson’s disease (PD) and multiple sclerosis (MS). This review examines the potential association between COVID-19 and new-onset neurodegenerative diseases to clarify risks and guide future research and clinical care. Materials and Methods: This systematic review searched multiple databases-including Medline/PubMed, Embase, PsycINFO, SciELO, Web of Science, ProQuest, Scopus, CINAHL, and the WHO COVID-19 database-as well as grey literature from January 2020 to December 2024 for studies reporting confirmed COVID-19 followed by new diagnoses of PD or MS. COVID-19 and the Risk of New-Onset Parkinson’s Disease and Multiple Sclerosis: A Systematic Review of the Evidence.",
+      "bm25_score_raw": 1.517637358841355,
+      "bm25_score_norm": 0.24736574026318883,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8574687242507935,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6
+    }
+  ]
+}

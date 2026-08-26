@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/BN/1156",
+    "text": "জম্মু-কাশ্মীর ও হরিয়ানা বিধানসভা ভোটের গণনা আজ, ক্ষমতায় 'ইন্ডিয়া' জোট নয় বিজেপি ?",
+    "lang": "bengali"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "জম্মু-কাশ্মীর ও হরিয়ানা নির্বাচন: বিজেপির হার-জিতের কারণ | Jammu ...",
+      "url": "https://www.youtube.com/watch?v=2Q2q0YL4-vo",
+      "snippet": "This content isn't available. Jammu Kashmir election: Congress-Nat'l Conference win উত্তর ভারতের হরিয়ানায় টানা তৃতীয়বার ক্ষমতাসীন থাকার রেকর্ড করেছে",
+      "bm25_score_raw": 3.054011422207639,
+      "bm25_score_norm": 0.47127419921310143,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.844409704208374,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "জম্মু ও কাশ্মীরে জোর টক্কর বিজেপি ও কংগ্রেস-এনসি জোটের মধ্যে। তারা ...",
+      "url": "https://www.facebook.com/Zee24Ghanta/posts/%E0%A6%9C%E0%A6%AE%E0%A7%8D%E0%A6%AE%E0%A7%81-%E0%A6%93-%E0%A6%95%E0%A6%BE%E0%A6%B6%E0%A7%8D%E0%A6%AE%E0%A7%80%E0%A6%B0%E0%A7%87-%E0%A6%9C%E0%A7%87%E0%A6%BE%E0%A6%B0-%E0%A6%9F%E0%A6%95%E0%A7%8D%E0%A6%95%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%87%E0%A6%AA%E0%A6%BF-%E0%A6%93-%E0%A6%95%E0%A6%82%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B8-%E0%A6%8F%E0%A6%A8%E0%A6%B8%E0%A6%BF-%E0%A6%9C%E0%A7%87%E0%A6%BE%E0%A6%9F%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A7%87-%E0%A6%A4%E0%A6%BE%E0%A6%B0%E0%A6%BE-%E0%A6%8F%E0%A6%97%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%B0%E0%A7%9F%E0%A7%87%E0%A6%9B%E0%A7%87-/977402361083845",
+      "snippet": "জম্মু ও কাশ্মীরে জোর টক্কর বিজেপি ও কংগ্রেস-এনসি জোটের মধ্যে। তারা এগিয়ে রয়েছে ২৫ আসনে। কংগ্রেস জোট এগিয়ে রয়েছে ৩১ আসনে। Jammu Kashmir Election LIVE-",
+      "bm25_score_raw": 6.480328070806761,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8309458494186401,
+      "embedding_score_norm": 0.7631492304756392,
+      "embedding_rank": 2
+    },
+    {
+      "title": "বিধানসভা নির্বাচন: তৃতীয়বার হরিয়ানার ক্ষমতায় বিজেপি, ...",
+      "url": "https://www.ajkerpatrika.com/amp/international/india/ajpnbnkdjo0mv",
+      "snippet": "ভারতের হরিয়ানা ও জম্মু-কাশ্মীরে বিধানসভা নির্বাচনের ফলাফল ঘোষণা করা হয়েছে। ঘোষিত ফল অনুসারে, হরিয়ানায় তৃতীয়বারের মতো ক্ষমতা ধরে রাখল বিজেপি। অন্যদিকে প্রায় ১০ বছর পর অনুষ্ঠিত নির্বাচনে জম্মু-কাশ্মীরের",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.8285467624664307,
+      "embedding_score_norm": 0.7209454485973665,
+      "embedding_rank": 3
+    },
+    {
+      "title": "জম্মু-কাশ্মীরে এগিয়ে কংগ্রেস-ন্যাশনাল কনফারেন্স জোট - ABP Ananda",
+      "url": "https://bengali.abplive.com/district/jammu-kashmir-election-results-2024-congress-nc-alliance-crosses-magic-figure-1099154/amp",
+      "snippet": "JK Assembly Election : জম্মু-কাশ্মীরে ক্রমেই পিছিয়ে পড়ছে বিজেপি। আসন সংখ্যা ৯০। ম্যাজিক ফিগার ৪৬।",
+      "bm25_score_raw": 5.401688351786365,
+      "bm25_score_norm": 0.8335516802182344,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8229697942733765,
+      "embedding_score_norm": 0.6228376459831436,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Jammu and Kashmir | History, Princely State, Capital, Map, Population, & Government",
+      "url": "https://www.britannica.com/place/Jammu-and-Kashmir",
+      "snippet": "[Jammu and Kashmir](https://www.britannica.com/place/Jammu-and-Kashmir). *   [Introduction](https://www.britannica.com/place/Jammu-and-Kashmir). *   [Land](https://www.britannica.com/place/Jammu-and-Kashmir#ref214218). *   [The plains](https://www.britannica.com/place/Jammu-and-Kashmir#ref46014). *   [The foothills](https://www.britannica.com/place/Jammu-and-Kashmir#ref46015). *   [The Pir Panjal Range](https://www.britannica.com/place/Jammu-and-Kashmir#ref46016). *   [The Vale of Kashmir](https://www.britannica.com/place/Jammu-and-Kashmir#ref46017). *   [The Great Himalayas zone](https://www.britannica.com/place/Jammu-and-Kashmir#ref46018). *   [Animal life](https://www.britannica.com/place/Jammu-and-Kashmir#ref46021). *   [People](https://www.britannica.com/place/Jammu-and-Kashmir/People). *   [The Jammu region](https://www.britannica.com/place/Jammu-and-Kashmir/People#ref46024). *   [Kashmiris of the vale and highlands](https://www.britannica.com/place/Jammu-and-Kashmir/People#ref46025). *   [Settlement patterns](https://www.britannica.com/place/Jammu-and-Kashmir/People#ref46023). *   [Demographic trends](https://www.britannica.com/place/Jammu-and-Kashmir/People#ref326336). *   [Economy](https://www.britannica.com/place/Jammu-and-Kashmir/Economy). *   [Agriculture](https://www.britannica.com/place/Jammu-and-Kashmir/Economy#ref276937). *   [Resources and power](https://www.britannica.com/place/Jammu-and-Kashmir/Economy#ref46028). *   [Manufacturing](https://www.britannica.com/place/Jammu-and-Kashmir/Economy#ref46029). *   [Tourism](https://www.britannica.com/place/Jammu-and-Kashmir/Economy#ref276938). *   [Transportation and communications](https://www.britannica.com/place/Jammu-and-Kashmir/Economy#ref46030). *   [Government and society](https://www.britannica.com/place/Jammu-and-Kashmir/Government-and-society). *   [Constitutional framework](https://www.britannica.com/place/Jammu-and-Kashmir/Government-and-society#ref276939). *   [Health and welfare](https://www.britannica.com/place/Jammu-and-Kashmir/Government-and-society#ref276940). *   [Education](https://www.britannica.com/place/Jammu-and-Kashmir/Government-and-society#ref276941). *    [History](https://www.britannica.com/place/Jammu-and-Kashmir/Government-and-society#ref46032). [Images](https://www.britannica.com/place/Jammu-and-Kashmir/images-videos). Rais Akhtar[All](https://www.britannica.com/place/Jammu-and-Kashmir/additional-info#contributors). July 20, 2026•[History](https://www.britannica.com/place/Jammu-and-Kashmir/additional-info#history). Legislation passed in August 2019 set the stage for downgrading Jammu and Kashmir from statehood to union territory status and splitting off a part of it, known as the [Ladakh](https://www.britannica.com/place/Ladakh) region, into a separate union territory. The [Vale of Kashmir](https://www.britannica.com/place/Vale-of-Kashmir) is a deep [asymmetrical](https://www.britannica.com/dictionary/asymmetrical) basin lying between the Pir Panjal Range and the western end of the Great Himalayas at an average elevation of 5,300 feet (1,620 meters). _Encyclopedia Britannica_, 20 Jul. 2026, https://www.britannica.com/place/Jammu-and-Kashmir.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.8186284303665161,
+      "embedding_score_norm": 0.5464661017126872,
+      "embedding_rank": 5
+    },
+    {
+      "title": "ভারত : জম্মু-কাশ্মীরে জয়ী কংগ্রেসের জোট, হরিয়ানায় ফিরছে বিজেপি",
+      "url": "https://www.bbc.com/bengali/articles/c5y3g9xz1k2o.amp",
+      "snippet": "জম্মু-কাশ্মীরে ১০ বছর পরে বিধানসভা নির্বাচন হল। ৩৭০ ধারা বিলোপের পরে এই প্রথমবার বিধানসভা ভোট হল। নির্বাচন হয়েছে হরিয়ানাতেও। একটি রাজ্য গেল বিজেপির দিকে, অন্য একটি বিরোধীদের দখলে।",
+      "bm25_score_raw": 1.4280695364686777,
+      "bm25_score_norm": 0.22036994437087068,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8185590505599976,
+      "embedding_score_norm": 0.5452455997970024,
+      "embedding_rank": 6
+    },
+    {
+      "title": "District Jammu | India",
+      "url": "https://jammu.nic.in",
+      "snippet": "# District Jammu](https://jammu.nic.in/ \"Go to home\"). [Menu Toggle](javascript:void(0);). * [Ban on transportation of Bovine Animals such as Cow, Buffalo, Oxen, Bulls, Calves in District Jammu](https://jammu.nic.in/?post_type=document&p=26988). * [Imposing of BNSS -163 around the examination centers for the Conduct of Prosecuting Officer (Preliminary) Examination in J&K Home Department](https://jammu.nic.in/?post_type=document&p=26957). [Former Deputy Commissioners](https://jammu.nic.in/about-district/former-deputy-commissioners/). * [Archives](https://jammu.nic.in/other-archives/). * [Telephone Directory](https://jammu.nic.in/telephone/). * [District Plans](https://jammu.nic.in/district-plans/). * [Right to Information](https://jammu.nic.in/rti/). * [Three New Criminal Laws](https://jammu.nic.in/awareness-campaign-regarding-three-criminal-laws/). [View All](https://jammu.nic.in/video-gallery/). [View All](https://jammu.nic.in/photo-gallery/). * + [Share on Facebook](https://www.facebook.com/sharer/sharer.php?u=https://jammu.nic.in/&t=Mubarak+Mandi-Jammu+Festival \"Share on Facebook\"). + [Share on X](https://twitter.com/share?url=https://jammu.nic.in/&via=TWITTER_HANDLE&text=Mubarak+Mandi-Jammu+Festival \"Share on X\"). * + [Share on Facebook](https://www.facebook.com/sharer/sharer.php?u=https://jammu.nic.in/&t=Bagh-e-Bahu \"Share on Facebook\"). + [Share on X](https://twitter.com/share?url=https://jammu.nic.in/&via=TWITTER_HANDLE&text=Bagh-e-Bahu \"Share on X\"). * + [Share on Facebook](https://www.facebook.com/sharer/sharer.php?u=https://jammu.nic.in/&t= \"Share on Facebook\"). + [Share on X](https://twitter.com/share?url=https://jammu.nic.in/&via=TWITTER_HANDLE&text= \"Share on X\"). * + [Share on Facebook](https://www.facebook.com/sharer/sharer.php?u=https://jammu.nic.in/&t=Mubarak+Mandi \"Share on Facebook\"). + [Share on X](https://twitter.com/share?url=https://jammu.nic.in/&via=TWITTER_HANDLE&text=Mubarak+Mandi \"Share on X\"). * + [Share on Facebook](https://www.facebook.com/sharer/sharer.php?u=https://jammu.nic.in/&t=Balidan+Stamb \"Share on Facebook\"). + [Share on X](https://twitter.com/share?url=https://jammu.nic.in/&via=TWITTER_HANDLE&text=Balidan+Stamb \"Share on X\"). * + [Share on Facebook](https://www.facebook.com/sharer/sharer.php?u=https://jammu.nic.in/&t=Suchetgarh+Border \"Share on Facebook\"). + [Share on X](https://twitter.com/share?url=https://jammu.nic.in/&via=TWITTER_HANDLE&text=Suchetgarh+Border \"Share on X\").",
+      "bm25_score_raw": 0.8242841487739585,
+      "bm25_score_norm": 0.12719790414427895,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8159351944923401,
+      "embedding_score_norm": 0.4990877691867305,
+      "embedding_rank": 7
+    },
+    {
+      "title": "The Geography of JAMMU & KASHMIR",
+      "url": "https://www.youtube.com/watch?v=CCO4bg9YIn8&vl=en-US",
+      "snippet": "The Geography of JAMMU & KASHMIR\nHarshit Rautela\n229000 subscribers\n7346 likes\n348994 views\n1 Jun 2025\nThis video describes the physical and political geography of the Himalayan territory of Jammu and Kashmir in India (including Pakistan occupied Kashmir as well). The beautiful state, with high Himalayas in Kishtwar and vast valley of Kashmir, from beautiful grasslands (margs) in Pir Panjal and Shamsbari to undulating Shivalik and plains of Jammu, this union territory and future state of India has a lot to offer. Jammu and Kashmir has countless water springs, called Nags, like Kokernag and Verinag, the largest city of Himalayas, Srinagar, and the fertile plains of Jammu in the south. India's largest freshwater Lake (Wular), longest Road tunnel (Chenani-Nashri on NH-44) and longest railway tunnel (T-50 on USBRL), as well as highest railway and highest arch bridge (Chenab Railway Bridge) are here.\nThis video describes the state in three major ways, political geography, using its mountain ranges, and using its rivers and their basins.\nIt will get complex, serious people might want to keep a notebook, or google earth handy, but, as always, enjoy!\nWatch Geography of Himachal Pradesh here:\nhttps://youtu.be/yvFV_LpWx-0?si=wSPPL0sB7M_VWPqK\nWatch the video about Uttarakhand here:\nhttps://youtu.be/yqL6ss0uR5o?si=2UYvTs_Gxwe2sCWd\nCredits:\nThankyou from the bottom of my heart to:\nAlpha Firdous Lone for kindly helping with research and appearing in the video. We talked a lot more about a lot of topics and issues, but I had to make the hard decision to edit a lot of good conversation for the sake of length.\nhttps://www.instagram.com/historeel/\nDr. Gagandeep Hothi for some music utilized in the video.\nhttps://www.instagram.com/gaganhothi/\nShashank Rawat for some drone shots,\nhttps://www.instagram.com/myflyingguide/\nDeepak Bafila for some shots around Srinagar,\n@deepakbafila08 \nand Mian Imad for a lot of photographs and videos from all around Kashmir, via Pexels,\nhttps://www.instagram.com/imadclicks/\n831 comments\n",
+      "bm25_score_raw": 0.9160720806555553,
+      "bm25_score_norm": 0.14136199134460023,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8094750642776489,
+      "embedding_score_norm": 0.3854437321354799,
+      "embedding_rank": 8
+    },
+    {
+      "title": "Jammu - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jammu",
+      "snippet": "*   [(Top)](https://en.wikipedia.org/wiki/Jammu#). *   [1 Etymology](https://en.wikipedia.org/wiki/Jammu#Etymology). *   [2.2 Battles](https://en.wikipedia.org/wiki/Jammu#Battles). *   [3 Geography](https://en.wikipedia.org/wiki/Jammu#Geography). *   [4 Climate](https://en.wikipedia.org/wiki/Jammu#Climate). *   [5 Transport](https://en.wikipedia.org/wiki/Jammu#Transport). *   [6 Administration](https://en.wikipedia.org/wiki/Jammu#Administration). *   [7 Economy](https://en.wikipedia.org/wiki/Jammu#Economy). *   [8 Tourism](https://en.wikipedia.org/wiki/Jammu#Tourism). *   [10.5 Universities](https://en.wikipedia.org/wiki/Jammu#Universities). *   [10.6 Schools](https://en.wikipedia.org/wiki/Jammu#Schools). *   [11 Cuisine](https://en.wikipedia.org/wiki/Jammu#Cuisine). *   [14 Notes](https://en.wikipedia.org/wiki/Jammu#Notes). *   [15 References](https://en.wikipedia.org/wiki/Jammu#References). *   [Read](https://en.wikipedia.org/wiki/Jammu). *   [Read](https://en.wikipedia.org/wiki/Jammu). | Area [[17]](https://en.wikipedia.org/wiki/Jammu#cite_note-JMC-19) |. 3.   Battle of Rumal[[35]](https://en.wikipedia.org/wiki/Jammu#cite_note-Gupta-37). 4.   Battle of Jammu (1808)[[36]](https://en.wikipedia.org/wiki/Jammu#cite_note-38). Highest recorded temperature: 47.4°C (117.3°F) on 31 May 1988.[[38]](https://en.wikipedia.org/wiki/Jammu#cite_note-NCEI-40). Lowest recorded temperature: 0.5°C (32.9°F) on 24 January 2016.[[38]](https://en.wikipedia.org/wiki/Jammu#cite_note-NCEI-40). As of 2011 census,[[45]](https://en.wikipedia.org/wiki/Jammu#cite_note-47) the population of Jammu city was 502,197. 9.   [↑](https://en.wikipedia.org/wiki/Jammu#cite_ref-10)Pletcher, Kenneth. [↑](https://en.wikipedia.org/wiki/Jammu#cite_ref-11)Bosworth, C. [↑](https://en.wikipedia.org/wiki/Jammu#cite_ref-12)Osmańczyk, Edmund Jan (2003). [↑](https://en.wikipedia.org/wiki/Jammu#cite_ref-13)Talbot, Ian (2016). [↑](https://en.wikipedia.org/wiki/Jammu#cite_ref-14)Bose, Sumantra (2009). [↑](https://en.wikipedia.org/wiki/Jammu#cite_ref-16)Snedden, Christopher (2015). [↑](https://en.wikipedia.org/wiki/Jammu#cite_ref-32)Jeratha, Aśoka (1998). [↑](https://en.wikipedia.org/wiki/Jammu#cite_ref-34)Rai, Mridu (2004). [↑](https://en.wikipedia.org/wiki/Jammu#cite_ref-46)[\"Jammu City Population Census 2011-2019 | Jammu and Kashmir\"](http://www.census2011.co.in/census/city/3-jammu.html). [↑](https://en.wikipedia.org/wiki/Jammu#cite_ref-48)[\"Jammu & Kashmir (India): State, Major Agglomerations & Cities – Population Statistics in Maps and Charts\"](https://www.citypopulation.de/India-JammuKashmir.html). [↑](https://en.wikipedia.org/wiki/Jammu#cite_ref-55)[_Jammu & Kashmir, 1947–50: An Account of Activities of First Three Years of Sheikh Abdullah's Government_](https://books.google.com/books?id=jjHHO3z_1_wC). [↑](https://en.wikipedia.org/wiki/Jammu#cite_ref-61)Sharma, Shivani. [↑](https://en.wikipedia.org/wiki/Jammu#cite_ref-63)Jain, Sandhya (15 May 2018). [↑](https://en.wikipedia.org/wiki/Jammu#cite_ref-66)Yhome, K.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.7977351546287537,
+      "embedding_score_norm": 0.17891991871708893,
+      "embedding_rank": 9
+    },
+    {
+      "title": "Jammu – Travel guide at Wikivoyage",
+      "url": "https://en.wikivoyage.org/wiki/Jammu",
+      "snippet": "Asia > South Asia > India > Himalayan North > Jammu and Kashmir > Jammu Division > Jammu. # Jammu. **Jammu** (Dogri: जम्मु *Jammu*), the largest city in the Jammu region of northern India, is the winter capital of Jammu and Kashmir, sitting at a low elevation in the mainly mountainous state. It was the winter capital of the princely state of Jammu and Kashmir under British rule. It has since been the winter capital of Jammu and Kashmir in India. Jammu Airport on Wikipedia Jammu Airport (Q2247582) on Wikidata on Wikidata\") OSM directions (updated Mar 2026). Jammu is well-connected by train to points south and east, and is the gateway to the Kashmir Railway. It is the second-to-last major rail stop heading north, and most people only see it long enough to get from the train station to the bus stand to continue toward Srinagar. Jammu Tawi railway station on Wikipedia Jammu Tawi railway station (Q6148005) on Wikidata on Wikidata\") (updated Mar 2026).",
+      "bm25_score_raw": 0.8081417410733472,
+      "bm25_score_norm": 0.12470691795897589,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.7912256717681885,
+      "embedding_score_norm": 0.06440768958148528,
+      "embedding_rank": 10
+    },
+    {
+      "title": "জম্মু ও কাশ্মীর বিধানসভা নির্বাচন, ২০২৪",
+      "url": "https://bn.wikipedia.org/wiki/%E0%A6%9C%E0%A6%AE%E0%A7%8D%E0%A6%AE%E0%A7%81_%E0%A6%93_%E0%A6%95%E0%A6%BE%E0%A6%B6%E0%A7%8D%E0%A6%AE%E0%A7%80%E0%A6%B0_%E0%A6%AC%E0%A6%BF%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A6%B8%E0%A6%AD%E0%A6%BE_%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%9A%E0%A6%A8,_%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%AA",
+      "snippet": "বিজেপি ২৫.৬৪% ভোট পেয়েছে যা একটি একক দলের জন্য জনপ্রিয় ভোটের বৃহত্তম ভাগ। জেকেএনসি ২৩.৪৩% ভোট পেয়ে দ্বিতীয় বৃহত্তম অবস্থানে আছে। কংগ্রেস এবং জেকেপিডিপি যথাক্রমে ১১.৯৭",
+      "bm25_score_raw": 3.5838419388300267,
+      "bm25_score_norm": 0.5530340284737868,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.7885209321975708,
+      "embedding_score_norm": 0.016826988610745868,
+      "embedding_rank": 11
+    },
+    {
+      "title": "My Jammu - Jammu City Portal",
+      "url": "https://myjammu.jk.gov.in",
+      "snippet": "Amidst the captivating embrace of the Union Territory of Jammu and Kashmir, there lies a gem of a city known as Jammu. A cherished winter capital, it proudly wears the crown of being the headquarters and the largest city in the Jammu district. Nestled alongside the flowing river Tawi, it spans an enchanting area of 240 kms, caressed by the grandeur of the Himalayas in the north and embraced by the serenity of the northern plains in the south. As the second-most populous city in the union territory, Jammu weaves its spell on all who grace its sacred soil. Dancing to the rhythm of a glorious heritage, Jammu is hailed as the \"City of Temples,\" enchanting seekers of spirituality and history alike with its ancient temples and shrines. With its eyes set on transformation, Jammu aspires to become a city \"of the people, for the people, and by the people,\" where the dreams of its residents intertwine with the tapestry of its eternal spirit.*.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.7875643968582153,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

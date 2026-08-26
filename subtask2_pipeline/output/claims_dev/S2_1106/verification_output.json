@@ -1,0 +1,6 @@
+{
+  "ID": "S2/1106",
+  "Evidence": "The retrieved evidence indicates that due to a spike in Covid-19 cases in Agra, more restrictions are likely to be imposed at the Taj Mahal and other tourist sites. Source 1 states that if active Covid-19 cases exceed 5,000, new restrictions may include a cap on the number of tourists allowed at the Taj Mahal. The evidence highlights a significant decline in tourist footfall due to rising Covid-19 numbers, contradicting the claim that fewer curbs are expected despite the spike in cases.",
+  "Prediction": "REFUTES",
+  "Justification": "The evidence directly contradicts the claim by stating that more curbs are likely at the Taj Mahal and other tourist places due to a spike in Covid-19 cases. Source 1 specifically mentions that if active cases surpass 5,000, restrictions will be enforced, which refutes the assertion that fewer curbs are expected."
+}

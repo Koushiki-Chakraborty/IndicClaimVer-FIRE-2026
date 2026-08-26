@@ -1,0 +1,108 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1257",
+    "text": "India logs 12,781 fresh Covid cases in last 24 hours; Delhi, Tamil Nadu worst-hit",
+    "lang": "english"
+  },
+  "generated_queries": {
+    "english_translation": "India logs 12,781 fresh Covid cases in last 24 hours; Delhi, Tamil Nadu worst-hit",
+    "native_query": "India Delhi Tamil Nadu logs 12 781 fresh Covid",
+    "english_query": "India Delhi Tamil Nadu logs 12 781 fresh Covid"
+  },
+  "native_retrieval": [
+    {
+      "title": "India Adds 12781 Covid Cases, Positivity Rate Over 4% ...",
+      "url": "https://www.ndtv.com/india-news/india-adds-12-781-covid-19-cases-positivity-rate-over-4-pc-after-130-days-3082565",
+      "snippet": "India on Monday logged 12,781 fresh COVID-19 cases that pushed its infection tally to 4,33,09,473, while the daily positivity rate went past 4"
+    },
+    {
+      "title": "Omicron tally in country rises to 781, Delhi reports ...",
+      "url": "https://m.economictimes.com/news/india/omicron-tally-in-country-rises-to-781-delhi-reports-maximum-cases/articleshow/88560649.cms",
+      "snippet": "India has recorded 781 cases of the Omicron variant of coronavirus. India's total tally of COVID-19 cases rose to 3,48,08,886, increased to 77,"
+    },
+    {
+      "title": "783 Covid patients recover, active cases in Delhi shrink by 37",
+      "url": "https://indianexpress.com/article/india/covid-19-india-active-cases-deaths-live-updates-tally-10054431",
+      "snippet": "About 25 fresh cases of Covid-19 emerged in Tamil Nadu, taking the active cases tally to 219 over the last 24 hours, according to the data"
+    },
+    {
+      "title": "COVID-19 Cases Rising in India: Kerala, Tamil Nadu, Delhi on ...",
+      "url": "https://www.youtube.com/watch?v=h7yoE26JNHI",
+      "snippet": "India is witnessing a gradual rise in COVID-19 cases, with Kerala (95 cases), Tamil Nadu (66), and Maharashtra (56) reporting the highest"
+    },
+    {
+      "title": "Tamil Nadu sees 2458 new cases in a day; 635 in Mumbai",
+      "url": "https://www.business-standard.com/article/current-affairs/coronavirus-live-updates-india-cases-deaths-mumbai-covid-vaccine-corona-latest-news-121071400082_1.html",
+      "snippet": "India has recorded a spike of 38,792 fresh Covid-19 cases in the last 24 hours, taking the total caseload to 30,946,074, according to MoHFW."
+    },
+    {
+      "title": "Tamil Nadu Logs 421 New Covid-19 Cases; zero Fatalities",
+      "url": "https://www.outlookindia.com/national/tamil-nadu-logs-421-new-covid-19-cases-zero-fatalities-news-223182",
+      "snippet": "Tamil Nadu on Tuesday logged 421 new Covid-19 infections, pushing the total caseload to 35,74,514 while the death toll remained unchanged at 38"
+    }
+  ],
+  "english_retrieval": [
+    {
+      "title": "India Adds 12781 Covid Cases, Positivity Rate Over 4% ...",
+      "url": "https://www.ndtv.com/india-news/india-adds-12-781-covid-19-cases-positivity-rate-over-4-pc-after-130-days-3082565",
+      "snippet": "India on Monday logged 12,781 fresh COVID-19 cases that pushed its infection tally to 4,33,09,473, while the daily positivity rate went past 4"
+    },
+    {
+      "title": "Omicron tally in country rises to 781, Delhi reports ...",
+      "url": "https://m.economictimes.com/news/india/omicron-tally-in-country-rises-to-781-delhi-reports-maximum-cases/articleshow/88560649.cms",
+      "snippet": "India has recorded 781 cases of the Omicron variant of coronavirus. India's total tally of COVID-19 cases rose to 3,48,08,886, increased to 77,"
+    },
+    {
+      "title": "783 Covid patients recover, active cases in Delhi shrink by 37",
+      "url": "https://indianexpress.com/article/india/covid-19-india-active-cases-deaths-live-updates-tally-10054431",
+      "snippet": "About 25 fresh cases of Covid-19 emerged in Tamil Nadu, taking the active cases tally to 219 over the last 24 hours, according to the data"
+    },
+    {
+      "title": "COVID-19 Cases Rising in India: Kerala, Tamil Nadu, Delhi on ...",
+      "url": "https://www.youtube.com/watch?v=h7yoE26JNHI",
+      "snippet": "India is witnessing a gradual rise in COVID-19 cases, with Kerala (95 cases), Tamil Nadu (66), and Maharashtra (56) reporting the highest"
+    },
+    {
+      "title": "Tamil Nadu sees 2458 new cases in a day; 635 in Mumbai",
+      "url": "https://www.business-standard.com/article/current-affairs/coronavirus-live-updates-india-cases-deaths-mumbai-covid-vaccine-corona-latest-news-121071400082_1.html",
+      "snippet": "India has recorded a spike of 38,792 fresh Covid-19 cases in the last 24 hours, taking the total caseload to 30,946,074, according to MoHFW."
+    },
+    {
+      "title": "Tamil Nadu Logs 421 New Covid-19 Cases; zero Fatalities",
+      "url": "https://www.outlookindia.com/national/tamil-nadu-logs-421-new-covid-19-cases-zero-fatalities-news-223182",
+      "snippet": "Tamil Nadu on Tuesday logged 421 new Covid-19 infections, pushing the total caseload to 35,74,514 while the death toll remained unchanged at 38"
+    }
+  ],
+  "merged_results": [
+    {
+      "title": "India Adds 12781 Covid Cases, Positivity Rate Over 4% ...",
+      "url": "https://www.ndtv.com/india-news/india-adds-12-781-covid-19-cases-positivity-rate-over-4-pc-after-130-days-3082565",
+      "snippet": "India on Monday logged 12,781 fresh COVID-19 cases that pushed its infection tally to 4,33,09,473, while the daily positivity rate went past 4"
+    },
+    {
+      "title": "Omicron tally in country rises to 781, Delhi reports ...",
+      "url": "https://m.economictimes.com/news/india/omicron-tally-in-country-rises-to-781-delhi-reports-maximum-cases/articleshow/88560649.cms",
+      "snippet": "India has recorded 781 cases of the Omicron variant of coronavirus. India's total tally of COVID-19 cases rose to 3,48,08,886, increased to 77,"
+    },
+    {
+      "title": "783 Covid patients recover, active cases in Delhi shrink by 37",
+      "url": "https://indianexpress.com/article/india/covid-19-india-active-cases-deaths-live-updates-tally-10054431",
+      "snippet": "About 25 fresh cases of Covid-19 emerged in Tamil Nadu, taking the active cases tally to 219 over the last 24 hours, according to the data"
+    },
+    {
+      "title": "COVID-19 Cases Rising in India: Kerala, Tamil Nadu, Delhi on ...",
+      "url": "https://www.youtube.com/watch?v=h7yoE26JNHI",
+      "snippet": "India is witnessing a gradual rise in COVID-19 cases, with Kerala (95 cases), Tamil Nadu (66), and Maharashtra (56) reporting the highest"
+    },
+    {
+      "title": "Tamil Nadu sees 2458 new cases in a day; 635 in Mumbai",
+      "url": "https://www.business-standard.com/article/current-affairs/coronavirus-live-updates-india-cases-deaths-mumbai-covid-vaccine-corona-latest-news-121071400082_1.html",
+      "snippet": "India has recorded a spike of 38,792 fresh Covid-19 cases in the last 24 hours, taking the total caseload to 30,946,074, according to MoHFW."
+    },
+    {
+      "title": "Tamil Nadu Logs 421 New Covid-19 Cases; zero Fatalities",
+      "url": "https://www.outlookindia.com/national/tamil-nadu-logs-421-new-covid-19-cases-zero-fatalities-news-223182",
+      "snippet": "Tamil Nadu on Tuesday logged 421 new Covid-19 infections, pushing the total caseload to 35,74,514 while the death toll remained unchanged at 38"
+    }
+  ]
+}

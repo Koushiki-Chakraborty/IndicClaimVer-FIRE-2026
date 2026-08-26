@@ -1,0 +1,108 @@
+{
+  "claim": {
+    "id": "S2/1227",
+    "text": "Omicron worry: India's economic recovery may face disruption again, says UN",
+    "lang": "dev"
+  },
+  "generated_queries": {
+    "english_translation": "Omicron worry: India's economic recovery may face disruption again, says UN",
+    "native_query": "Omicron India UN worry economic recovery disruption",
+    "english_query": "Omicron India UN worry economic recovery disruption"
+  },
+  "native_retrieval": [
+    {
+      "title": "Omicron could knock a fragile economic recovery off track",
+      "url": "https://m.economictimes.com/news/international/world-news/omicron-could-knock-a-fragile-economic-recovery-off-track/articleshow/88043446.cms",
+      "snippet": "Dec 2, 2021 — Omicron's threat to the recovery is just the latest in a series of zigzags that the world economy has endured since the coronavirus began"
+    },
+    {
+      "title": "Omicron worries hit Indian economy just when it seemed ...",
+      "url": "https://theprint.in/ilanomics/omicron-worries-hit-indian-economy-just-when-it-seemed-poised-to-recover-lost-ground/782808",
+      "snippet": "Dec 17, 2021 — Omicron worries hit Indian economy just when it seemed poised to recover lost ground. Uncertainties around the variant could potentially ...Read more"
+    },
+    {
+      "title": "A Disrupted Global Recovery",
+      "url": "https://www.imf.org/en/blogs/articles/2022/01/25/blog-a-disrupted-global-recovery",
+      "snippet": "Jan 25, 2022 — The rapid spread of the Omicron variant has led to renewed mobility restrictions in many countries and increased labor shortages. Omicron will"
+    },
+    {
+      "title": "India's economic recovery gathers pace as Omicron looms",
+      "url": "https://www.aljazeera.com/economy/2021/11/30/indias-economic-recovery-gathers-pace-as-omicron-looms",
+      "snippet": "Nov 30, 2021 — Omicron looms India's GDP is expected to strengthen in the July-September quarter, helped by an uptick in consumer spending."
+    },
+    {
+      "title": "Omicron Variant Poses Risks To Global Recovery: Moody's",
+      "url": "https://www.ndtvprofit.com/economy/omicron-variant-poses-hurdles-to-global-recovery-as-new-restrictions-take-effect-moodys-2631516",
+      "snippet": "Dec 1, 2021 — Business disruption resulting from the spread of the new variant could prevent supply chain stresses from easing, dampening productive capacity ...Read more"
+    },
+    {
+      "title": "India may see rise in deaths, economic disruption in 'near future'",
+      "url": "https://archive.siasat.com/news/india-may-see-rise-in-deaths-economic-disruption-in-near-future-un-report-2258226",
+      "snippet": "Jan 14, 2022 — “In India, a deadly wave of infection with the Delta variant stole 240,000 lives between April and June and disrupted economic recovery. Similar ...Read more"
+    }
+  ],
+  "english_retrieval": [
+    {
+      "title": "Omicron could knock a fragile economic recovery off track",
+      "url": "https://m.economictimes.com/news/international/world-news/omicron-could-knock-a-fragile-economic-recovery-off-track/articleshow/88043446.cms",
+      "snippet": "Dec 2, 2021 — Omicron's threat to the recovery is just the latest in a series of zigzags that the world economy has endured since the coronavirus began"
+    },
+    {
+      "title": "Omicron worries hit Indian economy just when it seemed ...",
+      "url": "https://theprint.in/ilanomics/omicron-worries-hit-indian-economy-just-when-it-seemed-poised-to-recover-lost-ground/782808",
+      "snippet": "Dec 17, 2021 — Omicron worries hit Indian economy just when it seemed poised to recover lost ground. Uncertainties around the variant could potentially ...Read more"
+    },
+    {
+      "title": "A Disrupted Global Recovery",
+      "url": "https://www.imf.org/en/blogs/articles/2022/01/25/blog-a-disrupted-global-recovery",
+      "snippet": "Jan 25, 2022 — The rapid spread of the Omicron variant has led to renewed mobility restrictions in many countries and increased labor shortages. Omicron will"
+    },
+    {
+      "title": "India's economic recovery gathers pace as Omicron looms",
+      "url": "https://www.aljazeera.com/economy/2021/11/30/indias-economic-recovery-gathers-pace-as-omicron-looms",
+      "snippet": "Nov 30, 2021 — Omicron looms India's GDP is expected to strengthen in the July-September quarter, helped by an uptick in consumer spending."
+    },
+    {
+      "title": "Omicron Variant Poses Risks To Global Recovery: Moody's",
+      "url": "https://www.ndtvprofit.com/economy/omicron-variant-poses-hurdles-to-global-recovery-as-new-restrictions-take-effect-moodys-2631516",
+      "snippet": "Dec 1, 2021 — Business disruption resulting from the spread of the new variant could prevent supply chain stresses from easing, dampening productive capacity ...Read more"
+    },
+    {
+      "title": "India may see rise in deaths, economic disruption in 'near future'",
+      "url": "https://archive.siasat.com/news/india-may-see-rise-in-deaths-economic-disruption-in-near-future-un-report-2258226",
+      "snippet": "Jan 14, 2022 — “In India, a deadly wave of infection with the Delta variant stole 240,000 lives between April and June and disrupted economic recovery. Similar ...Read more"
+    }
+  ],
+  "merged_results": [
+    {
+      "title": "Omicron could knock a fragile economic recovery off track",
+      "url": "https://m.economictimes.com/news/international/world-news/omicron-could-knock-a-fragile-economic-recovery-off-track/articleshow/88043446.cms",
+      "snippet": "Dec 2, 2021 — Omicron's threat to the recovery is just the latest in a series of zigzags that the world economy has endured since the coronavirus began"
+    },
+    {
+      "title": "Omicron worries hit Indian economy just when it seemed ...",
+      "url": "https://theprint.in/ilanomics/omicron-worries-hit-indian-economy-just-when-it-seemed-poised-to-recover-lost-ground/782808",
+      "snippet": "Dec 17, 2021 — Omicron worries hit Indian economy just when it seemed poised to recover lost ground. Uncertainties around the variant could potentially ...Read more"
+    },
+    {
+      "title": "A Disrupted Global Recovery",
+      "url": "https://www.imf.org/en/blogs/articles/2022/01/25/blog-a-disrupted-global-recovery",
+      "snippet": "Jan 25, 2022 — The rapid spread of the Omicron variant has led to renewed mobility restrictions in many countries and increased labor shortages. Omicron will"
+    },
+    {
+      "title": "India's economic recovery gathers pace as Omicron looms",
+      "url": "https://www.aljazeera.com/economy/2021/11/30/indias-economic-recovery-gathers-pace-as-omicron-looms",
+      "snippet": "Nov 30, 2021 — Omicron looms India's GDP is expected to strengthen in the July-September quarter, helped by an uptick in consumer spending."
+    },
+    {
+      "title": "Omicron Variant Poses Risks To Global Recovery: Moody's",
+      "url": "https://www.ndtvprofit.com/economy/omicron-variant-poses-hurdles-to-global-recovery-as-new-restrictions-take-effect-moodys-2631516",
+      "snippet": "Dec 1, 2021 — Business disruption resulting from the spread of the new variant could prevent supply chain stresses from easing, dampening productive capacity ...Read more"
+    },
+    {
+      "title": "India may see rise in deaths, economic disruption in 'near future'",
+      "url": "https://archive.siasat.com/news/india-may-see-rise-in-deaths-economic-disruption-in-near-future-un-report-2258226",
+      "snippet": "Jan 14, 2022 — “In India, a deadly wave of infection with the Delta variant stole 240,000 lives between April and June and disrupted economic recovery. Similar ...Read more"
+    }
+  ]
+}

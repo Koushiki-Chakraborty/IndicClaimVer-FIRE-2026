@@ -1,0 +1,57 @@
+{
+  "claim": {
+    "id": "S2/1267",
+    "text": "Full house for Modi at Rahul's low turn-out rally venue",
+    "lang": "dev"
+  },
+  "ranked_evidence": [
+    {
+      "title": "'I am still alive': Indian activist on hunger strike for 26 days loses 11kg - BBC",
+      "url": "https://www.bbc.com/news/articles/ce34n7kqr5ko",
+      "snippet": "Indian activist and educationist Sonam Wangchuk, who has been on a hunger strike for 26 days in support of the Cockroach Janta Party (CJP), says he has lost 11kg (24lb) but is \"still alive\". Popularly known as \"Sonam sir\", Wangchuk has been the main draw at the youth-led movement seeking education reforms and the resignation of Education Minister Dharmendra Pradhan. He was forcibly removed from the CJP's protest venue at Delhi's Jantar Mantar on Saturday and taken to hospital from where he continues his fast. Meanwhile, thousands continue to turn up at the protest venue even after the brutal police crackdown on Monday's march to parliament which left dozens of protesters and policemen injured. Modi has not commented directly on the protests or engaged with the protesters, but on Thursday, he posted a statement on X that is being seen as an attempt to reach out to students who have been frustrated with repeated exam paper leaks.",
+      "bm25_score_raw": 4.1796052866213085,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "India’s Cockroach protests: Rahul Gandhi detained after calling for PM Modi to resign - The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/22/india-cockroach-janta-party-cjp-protests-rahul-gandhi-detained",
+      "snippet": "Opposition leader taken away after accusing Narendra Modi of ‘destroying the future of India’s youth’ during protest in solidarity with cockroach movement. Indian police briefly detained opposition leader Rahul Gandhi on Tuesday during protests calling for prime minister Narendra Modi’s resignation, in solidarity with the new youth-led cockroach party movement. Gandhi, the leader of India’s Congress party, staged a sit-in outside Modi’s house on Tuesday afternoon, stating that Modi must resign “for destroying the future of India’s youth”. His protest took place as thousands of students were gathered at a separate site in central Delhi, the day after a huge protest calling for the resignation of Modi’s education minister was met with brutality by Delhi police, including baton attacks and teargas. Gandhi said his party was taking their protest directly to the prime minister’s house, after the Modi government refused to take up the issues of the students and the alleged “brutality unleashed on students” in parliament.",
+      "bm25_score_raw": 2.0217779055515996,
+      "bm25_score_norm": 0.4190851762558223,
+      "bm25_rank": 2
+    },
+    {
+      "title": "India protest movement holds capital sit-in as police crack down on demonstrators - AP News",
+      "url": "https://apnews.com/article/india-cockroach-party-youth-movement-protest-modi-d226d142657cd297c3d4232716a8a626",
+      "snippet": "Test Your News I.Q. 2026 Elections Election Results Election calendar White House Congress Supreme Court The latest AP-NORC polls. A protestor sits on the hood of a police car during a demonstration demanding educational reforms as part of the Cockroach Janta Party’s ongoing protest movement in New Delhi, India, Wednesday, July 22, 2026. A protestor holds a piece of paper with “Democracy?” written on it during a demonstration demanding educational reforms as part of the Cockroach Janta Party’s ongoing protest movement in New Delhi, India, Wednesday, July 22, 2026. Protesters shout slogans as they carry posters asking for the resignation of India’s Minister of Education Dharmendra Pradhan at a protest led by Cockroach Janta Party in New Delhi, India, Wednesday, July 22, 2026. NEW DELHI (AP) — Thousands of young protesters were camped on the streets of India’s capital New Delhi on Thursday, defying new restrictions in the latest show of strength for a movement that has become one of the biggest challenges to Prime Minister Narendra Modi’s government.",
+      "bm25_score_raw": 1.1438962041508305,
+      "bm25_score_norm": 0.1827481558289822,
+      "bm25_rank": 3
+    },
+    {
+      "title": "India's 'Cockroach' protests take on Modi with unlikely weapons: sharp, irreverent humor and memes - The Sun Chronicle",
+      "url": "https://www.thesunchronicle.com/news/nation_world/indias-cockroach-protests-take-on-modi-with-unlikely-weapons-sharp-irreverent-humor-and-memes/article_ade99a9a-8b48-5106-a252-6a6bc421489e.html",
+      "snippet": "A protestor holds a placard with the message \"Every Joke is a Tiny Revolution\" during a demonstration demanding educational reforms as part of the Cockroach Janta Party's ongoing protest movement in New Delhi, India, Thursday, July 23, 2026. A protestor holds a placard with a portrait of Prime Minister Narendra Modi along with the text \"Can't See Your Democracy, My Lashes are Too Long\" during a demonstration demanding educational reforms as part of the Cockroach Janta Party's ongoing protest movement in New Delhi, India, Thursday, July 23, 2026. A protestor holds a placard with a portrait of Indian Prime Minister Narendra Modi draped in a saree, a traditional garment for women in India, during a demonstration demanding educational reforms as part of the Cockroach Janta Party's ongoing protest movement in New Delhi, India, Thursday, July 23, 2026. 8 E92E D2>6 A=2E7@C> E@ >@4< 9:D 25>:?:DEC2E:@?[ C:5:4F=6 AC@\\8@G6C?>6?",
+      "bm25_score_raw": 0.7838709449871163,
+      "bm25_score_norm": 0.08582473563080995,
+      "bm25_rank": 4
+    },
+    {
+      "title": "India’s youth-led Cockroach movement vows to keep demanding reforms after police crackdown - Greenwich Time",
+      "url": "https://www.greenwichtime.com/news/world/article/india-s-youth-led-cockroach-movement-vows-to-22353524.php",
+      "snippet": "# India’s youth-led Cockroach movement vows to keep demanding reforms after police crackdown. NEW DELHI (AP) — Supporters of India’s youth-led Cockroach movement demanding educational reforms and government accountability refused to leave their New Delhi protest site Tuesday, a day after their thousands-strong march toward Parliament drew police tear gas, beatings and a new wave of sympathy from across the country. The movement, now attracting professionals and families beyond students, represents a rare public challenge to Prime Minister Narendra Modi ’s government, reviving criticism over its handling of dissent and use of force to respond to protests. Opposition leader Rahul Gandhi and dozens of his Congress party lawmakers showed their support Tuesday with a sit-in outside Modi’s residence before police forcibly removed them in a dramatic escalation. Government minister Jitendra Singh said Gandhi was told the location was not “suitable for a sit-in.\". Ada's coffee and candy shop on course to reopen in Riverside part of Greenwich.",
+      "bm25_score_raw": 0.4662837105215721,
+      "bm25_score_norm": 0.00032617631533129505,
+      "bm25_rank": 5
+    },
+    {
+      "title": "India student protests give opposition a rare opening against Modi - Reuters",
+      "url": "https://www.reuters.com/world/india/india-student-protests-give-opposition-rare-opening-against-modi-2026-07-21/",
+      "snippet": "## Browse World. ## Browse Business. ## Browse Legal. Image 2: Indian opposition leader Rahul Gandhi is detained by police during a sit-in protest outside Prime Minister Narendra Modi's residence in New Delhi. Item 1 of 6 Indian opposition leader Rahul Gandhi is detained by police during a sit-in protest outside Prime Minister Narendra Modi's residence, demanding accountability for police action against students, in New Delhi, India, July 21, 2026. **[1/6]**Indian opposition leader Rahul Gandhi is detained by police during a sit-in protest outside Prime Minister Narendra Modi's residence, demanding accountability for police action against students, in New Delhi, India, July 21, 2026. Yet CJP leaders turned to opposition lawmakers and appealed directly for their support on Monday after police used batons and tear gas, opens new tab to ‌disperse protesters marching on parliament to demonstrate against damaging exam leaks and corruption. Get the latest news from India and how it matters to the world with the Reuters India File newsletter.",
+      "bm25_score_raw": 0.46507211777938334,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6
+    }
+  ]
+}

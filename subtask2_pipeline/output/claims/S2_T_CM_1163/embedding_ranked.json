@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/CM/1163",
+    "text": "ind gullu kya ye wahi desh ka mudda hai jo tum kuch dino pehele chila chila kar keh rahe the apne malik k liye kya kya nahi karte gullu itna bhi mat bhadko k acidity k shikar ban jaao",
+    "lang": "codemix"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "ये क्या बोल दिया Gullu ने? | Splitsvilla में मचा हंगामा . . . [ ...",
+      "url": "https://www.instagram.com/reel/DT5Zh5WE0AC?hl=en",
+      "snippet": "Kal ke episode mein Gullu vs All chal raha tha. Sab ke sab Gullu ko expose karne mein lage hain aur Gullu ka mindset tha ki bas mujhe double",
+      "bm25_score_raw": 5.1754321012518485,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8638041615486145,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "GULLU EXPOSED!!!! Disc: it's a long read. Edited because ...",
+      "url": "https://www.reddit.com/r/splitsvillaMTV/comments/1sq8h21/gullu_exposed_disc_its_a_long_read_edited_because",
+      "snippet": "they exposed Gullu's intention, his nature, his gameplay, Deeptanshu, Mohit and Ron. Gullu went back restrategized the entire gameplay. Gullu",
+      "bm25_score_raw": 2.5369549058647554,
+      "bm25_score_norm": 0.4901919020927952,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8484611511230469,
+      "embedding_score_norm": 0.8552575571251126,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Why He Is Doublecrossing Everyone Kyaaa😵Par Kuch Vi ...",
+      "url": "https://www.facebook.com/groups/1805207476240612/posts/9815430305218249",
+      "snippet": "Since the auction, he always prioritized Gullu, putting him in the first preference. He didn't even listen to others when it came to giving",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.8342036008834839,
+      "embedding_score_norm": 0.7207550967965403,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Ruru is seen getting furious at Gullu, directly accusing him",
+      "url": "https://www.instagram.com/p/DXPDPiEk-PJ",
+      "snippet": "Ruru is seen getting furious at Gullu, directly accusing him. Gullu used a clip of Kaira as clickbait, which made Kaira angry. Gullu said that",
+      "bm25_score_raw": 2.2516289319894445,
+      "bm25_score_norm": 0.4350610515100399,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8334445357322693,
+      "embedding_score_norm": 0.7135942501803566,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Investigational New Drug (IND) Application",
+      "url": "https://www.fda.gov/drugs/types-applications/investigational-new-drug-ind-application",
+      "snippet": "U.S. flag An official website of the United States government Here’s how you know. The **https://** ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely. 6. Investigational New Drug (IND) Application. During a new drug's early preclinical development, the sponsor's primary goal is to determine if the product is reasonably safe for initial use in humans, and if the compound exhibits pharmacological activity that justifies commercial development. When a product is identified as a viable candidate for further development, the sponsor then focuses on collecting the data and information necessary to establish that the product will not expose humans to unreasonable risks when used in limited, early-stage clinical studies. At that point, the molecule changes in legal status under the Federal Food, Drug, and Cosmetic Act and becomes a new drug subject to specific requirements of the drug regulatory system. The following resources include the legal requirements of an IND application, assistance from CDER to help you meet those requirements, and internal IND review principles, policies and procedures.",
+      "bm25_score_raw": 0.6710917836627759,
+      "bm25_score_norm": 0.12966874466393835,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8172534108161926,
+      "embedding_score_norm": 0.5608508896374931,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Chandigarh University on Instagram: \"Today, Chandigarh ...",
+      "url": "https://www.instagram.com/reel/DZt-uZEkZBY",
+      "snippet": "Today, Chandigarh University proudly welcomed Kushal Tanwar, popularly known as Gullu, a celebrated content creator and winner of MTV",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.8133590221405029,
+      "embedding_score_norm": 0.524112119683697,
+      "embedding_rank": 6
+    },
+    {
+      "title": "Investigational Drugs and Devices (IND/IDE) - Harvard Catalyst",
+      "url": "https://catalyst.harvard.edu/regulatory/ind-ide",
+      "snippet": "As defined by the Food and Drug Administration (FDA), an IND, or investigational new drug application, is a request for authorization from the FDA to administer an investigational drug or biological product to humans. An IDE, or investigational device exemption, allows an investigational device to be used in a clinical study to collect safety and effectiveness data required to support a premarket approval (PMA) application or a premarket notification [510(k)] submission to the FDA. When a researcher becomes a sponsor-investigator, it is imperative that they become aware of the specific obligations in their roles as both the investigator and sponsor of the study. ### **FDA Investigational New Drug (IND) Application**. A series of case studies examining the regulatory issues specific to sponsor-investigator initiated research studies. Volunteer IND/IDE regulatory experts from Harvard University and partnering institutions offer expertise, resources, and shared experiences to assist sponsor-investigators in meeting regulatory requirements for their ongoing and/or new clinical and translational projects.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.8115558624267578,
+      "embedding_score_norm": 0.5071015243297284,
+      "embedding_rank": 7
+    },
+    {
+      "title": "Was Gullu Leading Minds or Getting Played? | MTV Splitsvilla ...",
+      "url": "https://www.youtube.com/watch?v=p1EIA1DSBY0",
+      "snippet": "“Maine Kiss Nahi Kiya!” Gullu Clears Viral Clip Controversy | PINKVILLA. Pinkvilla Clips•33K · 1:43:45. Go to channel MTV India · From Fun to",
+      "bm25_score_raw": 5.042532922017934,
+      "bm25_score_norm": 0.9743211433105713,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8107205629348755,
+      "embedding_score_norm": 0.499221500420879,
+      "embedding_rank": 8
+    },
+    {
+      "title": "IPUMS USA: descr: IND",
+      "url": "https://usa.ipums.org/usa-action/variables/IND",
+      "snippet": "IND is an un-recoded variable that reports the type of industry in which the person performed an occupation, which is recorded in the variables OCC (Occupation) and OCC1950 (Occupation, 1950 basis). For example, in the 2011-2015 5-year ACS sample, the IND codes for respondents from 2011 and 2012 were crosswalked by the Census Bureau to the set of IND codes used in 2015 to create a single vintage of the industry variable. First, for everyone who is under 16 OCC, IND, and CLASSWKR will all be \"Not in Universe.\" For anyone who last worked 5 or more years ago and is unemployed or not in the labor force (EMPSTAT, WORKEDYR), OCC, IND, and CLASSWKR will all be \"Not in Universe.\". For example, if a person's industry is \"Agricultural production\" and their class of worker is \"Self-employed not incorporated,\" OCC will be replaced with \"Farmers.\" If industry if \"Forestry\" OCC will be replaced with \"Forestry workers except logging.\" There are many similar changes that are not reported here for brevity's sake.",
+      "bm25_score_raw": 0.9621594455587258,
+      "bm25_score_norm": 0.18590900754470258,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.7969125509262085,
+      "embedding_score_norm": 0.3689598807031631,
+      "embedding_rank": 9
+    },
+    {
+      "title": "What is an IND?",
+      "url": "https://www.cc.nih.gov/orcs/ind/what-is-an-ind",
+      "snippet": "An Investigational New Drug Application (IND) is a request for authorization from the Food and Drug Administration (FDA) to administer an investigational drug",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.767774224281311,
+      "embedding_score_norm": 0.0940755872765785,
+      "embedding_rank": 10
+    },
+    {
+      "title": "IND Corporation",
+      "url": "https://www.linkedin.com/company/ind-corporation",
+      "snippet": "Overview:\nIND specializes in fixed-cost IT support and consulting services for small and medium-sized businesses in New Jersey. We can either manage and support your company's entire technology infrastructure, or compliment your existing internal IT personnel. Our unique service model is designed to reduce your costs, increase your profits and mitigate your business risks. We partner with you as your Virtual CIO and IT Department, allowing you to focus on running your business, not your technology.\n\nWebsite: https://www.indcorp.com/\nCrunchbase Url: N/A\nLinkedin Url: N/A\n\nIndustry:\nIT Services and IT Consulting\n\nCompany size:\n11-50 employees\n673 associated members (LinkedIn members who’ve listed IND Corporation as their current workplace on their profile)\n\nFounded:\n1997\n\nFunding:\nLast Round Date: N/A\nLast Round Type: N/A\nTotal Rounds: N/A\nLast Round Raised: N/A\n\nInvestors:\nN/A",
+      "bm25_score_raw": 0.9407138045495973,
+      "bm25_score_norm": 0.18176526831876602,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.7631089091300964,
+      "embedding_score_norm": 0.05006407369233719,
+      "embedding_rank": 11
+    },
+    {
+      "title": "Indianapolis Airport Authority (Home) | Indianapolis Airport Authority",
+      "url": "https://www.ind.com",
+      "snippet": "Thank you for choosing the Indianapolis International Airport (IND), voted Best Airport in North America by Airports Council International and Best Airport in America by readers of Condé Nast Traveler, year after year. IND serves as a gateway to the city offering world-class service and a commitment to the regional community. Our community efforts and support span much further into the community than the terminal at IND. Stay up-to-date with news releases and reports on the latest developments from the Indianapolis Airport Authority (IAA) and the Indianapolis International Airport (IND). Understanding the airport arrival and departure processes, staying up-to-date on the latest airport security procedures and knowing what to pack will help prepare you for your adventure. We want to see how you enjoy your experience at the #1 Airport in North America. Ideal for leisure and corporate travelers, our parkIND Plus Program makes the journey from home to the terminal the simplest part of your trip.",
+      "bm25_score_raw": 0.45500438638760865,
+      "bm25_score_norm": 0.08791621211252117,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.7578020095825195,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

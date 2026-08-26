@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/1311",
+    "text": "S. 353 IPC | किसी पर चिल्लाना और धमकाना हमला नहीं माना जाता : सुप्रीम कोर्ट",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Supreme Court: Shouting and threatening public servant ...",
+      "url": "https://www.lawweb.in/2024/10/supreme-court-shouting-and-threatening.html",
+      "snippet": "Supreme Court: Shouting and threatening public servant does not amount to assault punishable U/S 353 of IPC. It is on the basis of the above",
+      "bm25_score_raw": 0.7761432446686127,
+      "bm25_score_norm": 0.3682471596963854,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.9167986512184143,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "S. 353 IPC | Shouting & Threatening Someone Doesn't ...",
+      "url": "https://www.livelaw.in/supreme-court/supreme-court-section-353-ipc-shouting-threatening-not-assault-273835",
+      "snippet": "The Supreme Court has observed that shouting and threatening someone doesn't amount to committing an offence of assault.",
+      "bm25_score_raw": 2.1076693308606425,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9114704132080078,
+      "embedding_score_norm": 0.9607024870591597,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Shouting And Threatening Someone Does Not Amount To ...",
+      "url": "https://www.freelaw.in/legalnews/Shouting-And-Threatening-Someone-Does-Not-Amount-To-Assault-Not-An-Offence-Under-Section-353-IPC-Supreme-Court",
+      "snippet": "Supreme Court observed that shouting and threatening someone does not amount to assault and said, “no offence under Section 353 IPC",
+      "bm25_score_raw": 2.0732817958907885,
+      "bm25_score_norm": 0.9836845683208703,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.9095812439918518,
+      "embedding_score_norm": 0.9467692409139365,
+      "embedding_rank": 3
+    },
+    {
+      "title": "S. 353 IPC | Shouting & Threatening Someone Doesn't ...",
+      "url": "https://www.youtube.com/watch?v=RLqPgmUCfgY",
+      "snippet": "The Supreme Court recently clarified that shouting and verbal threats alone do not constitute assault under Section 353 of the IPC.",
+      "bm25_score_raw": 2.056505409140492,
+      "bm25_score_norm": 0.9757248819959542,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.9077329635620117,
+      "embedding_score_norm": 0.9331375630556868,
+      "embedding_rank": 4
+    },
+    {
+      "title": "S. 353 IPC | Shouting & Threatening Someone Doesn't ...",
+      "url": "https://www.youtube.com/shorts/Qwckjn9EI1Y",
+      "snippet": "S. 353 IPC | Shouting & Threatening Someone Doesn't Amount To Assault : SC. 105. 3. Share. Video unavailable. This content isn't available.",
+      "bm25_score_raw": 1.0825277843175043,
+      "bm25_score_norm": 0.5136136719679204,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8948885798454285,
+      "embedding_score_norm": 0.8384059961974262,
+      "embedding_rank": 5
+    },
+    {
+      "title": "S. 353 IPC | Shouting & Threatening Someone Doesn't ...",
+      "url": "https://www.instagram.com/reel/DBtECQbvMNo?hl=en",
+      "snippet": "The Supreme Court called on the Union of India to consider including acid-attack survivors in the category of Persons with Disability (PwD)",
+      "bm25_score_raw": 2.0399983423112706,
+      "bm25_score_norm": 0.9678929765886287,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.889907717704773,
+      "embedding_score_norm": 0.8016704948841095,
+      "embedding_rank": 6
+    },
+    {
+      "title": "court | Wex | US Law | LII / Legal Information Institute",
+      "url": "https://www.law.cornell.edu/wex/court",
+      "snippet": "The U.S. system is composed of federal courts and state courts. Article III, Section I of the U.S. Constitution establishes the U.S. Supreme Court as the highest court of the land. The Supreme Court has appellate jurisdiction over almost any case involving a constitutional or federal issue. The Supreme Court also has original jurisdiction over cases between two or more states and involving ambassadors and other public ministers. Article III of the U.S. Constitution gives federal courts original jurisdictionover nine types of cases and controversies: all cases involving federal statutes or the constitutional (also known as federal question jurisdiction), actions between citizens of different states (also known as diversity jurisdiction), and other types of cases such as admiralty cases and cases affecting ambassadors, other public ministers and consuls. There is at least one district court in each state and a U.S. bankruptcy court as a unit of one district court in each district.",
+      "bm25_score_raw": 1.3942479833156873,
+      "bm25_score_norm": 0.6615117290463975,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8132407069206238,
+      "embedding_score_norm": 0.23622600037366334,
+      "embedding_rank": 7
+    },
+    {
+      "title": "Washington State Courts Washington Courts",
+      "url": "https://www.courts.wa.gov",
+      "snippet": "# Washington Courts. ## Events & News. ## Featured. ### Self-Help Washington. A directory of resources to help people without lawyers (self-represented persons) navigate our Washington Courts. ### Protect Yourself From Court-Related Scams. Learn more about court-related scams and how to take precautions to protect yourself. ### Washington Supreme Court's Open Letter on Racial Justice. Learn more about the efforts of the Washington Supreme Court Justices to eradicate racism. Visualize and explore caseload data and key court metrics through interactive dashboards. ## Case Records Search. This site is a search engine for cases filed in the municipal, district, superior, and appellate courts of the state of Washington. The search results can point you to the official or complete court record. Washington State's official online reimbursement. center for court-ordered fines or costs paid in connection. with *Blake*-related drug possession convictions. www.courts.wa.gov/blakerefund. ### External Link Warning. You are about to be redirected to another link that is outside of the Washington Courts website.",
+      "bm25_score_raw": 1.030543813267412,
+      "bm25_score_norm": 0.4889494752227577,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8099745512008667,
+      "embedding_score_norm": 0.21213702454088865,
+      "embedding_rank": 8
+    },
+    {
+      "title": "United States Courts",
+      "url": "https://www.uscourts.gov",
+      "snippet": "An official website of the United States government. organization in the United States. The U.S. Courts were created under Article III of the Constitution to administer justice fairly. Learn about federal court programs and services to help provide fair and impartial justice. Administration and governance of the Judicial occurs at both a national and regional level. This section provides statistical data and news on the business of the federal Judiciary. Link to the national federal rules of practice and procedures, and forms in effect. Learn how to file and access case files and court records information. # The Federal Courts of the United States. Find links to the national federal rules and forms in effect, and information about new and recently amended rules and forms. Review *Judicial Business of the United States* to find federal court data for the 12-month period ending Sept. Read about major activities of the federal Judiciary and the Administrative Office of the U.S. Courts in 2025.",
+      "bm25_score_raw": 0.5740484381494692,
+      "bm25_score_norm": 0.2723617171556333,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.8031433820724487,
+      "embedding_score_norm": 0.16175489883614863,
+      "embedding_rank": 9
+    },
+    {
+      "title": "DC Courts Homepage | District of Columbia Courts",
+      "url": "https://www.dccourts.gov",
+      "snippet": "+ Artificial Intelligence and the DC Courts. + Court of Appeals Case Calendars. + Court of Appeals Case Search and E-Filing. + Court of Appeals Clerk's Office. - Rules of the DC Court of Appeals. + Court of Appeals Orders and Notices. + Clerk of the Superior Court. - Rules of the Superior Court. View Court of Appeals Cases. File in the Court of Appeals. ## Court of Appeals. The Court of Appeals is the highest court of the District of Columbia. The Court of Appeals also licenses and disciplines attorneys and oversees the DC Bar. Explore documents, resources, and process information relating to the Court of Appeals. Find more information about the Superior Court's operations, services, resources, and judges. Judges and Clerkships   Rules of the Superior Court   Superior Court Orders. The Court of Appeals also licenses and disciplines attorneys and oversees the DC Bar. Opinions & Memorandum Opinion and Judgements (MOJs)   Judges and Clerkships   Rules of the Court of Appeals.",
+      "bm25_score_raw": 0.9420127722172297,
+      "bm25_score_norm": 0.44694523871663,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.7970460653305054,
+      "embedding_score_norm": 0.11678517655592312,
+      "embedding_rank": 10
+    },
+    {
+      "title": "United States Courts",
+      "url": "https://www.youtube.com/user/uscourts",
+      "snippet": "The United States Courts provide fair and impartial justice as an independent, co-equal branch of the U.S. government. resolving civil, criminal, and",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.7905642986297607,
+      "embedding_score_norm": 0.0689800090118803,
+      "embedding_rank": 11
+    },
+    {
+      "title": "Unified Court System",
+      "url": "https://www.nycourts.gov",
+      "snippet": "The mission of the Unified Court System is to promote the rule of law and to serve the public by providing just and timely resolution of all matters before the",
+      "bm25_score_raw": 0.7761432446686127,
+      "bm25_score_norm": 0.3682471596963854,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.7812114953994751,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1026",
+    "text": "Plea In Karnataka High Court To Exclude Advocates' Parents From Dependents For Medical Insurance",
+    "lang": "english"
+  },
+  "entity_ranked_evidence": [
+    {
+      "title": "Plea To Include Advocates' Parents As Dependents For Medical Insurance Withdrawn From Karnataka High Court",
+      "url": "https://www.livelaw.in/high-court/karnataka-high-court/karnataka-high-court-insurance-schemes-advocate-dependents-bar-council-235881",
+      "snippet": "# Plea To Include Advocates' Parents As Dependents For Medical Insurance Withdrawn From Karnataka High Court. ###### Mustafa Plumber. 22 Aug 2023 4:45 PM IST. The Karnataka High Court on Tuesday permitted withdrawal of a public interest litigation filed by Advocate Ramesh Naik L, seeking a direction to the Karnataka State Bar Council (KSBC) and the Bar Council of India (BCI) to take appropriate action to include Parents of Advocates as dependents in the model form provided by the State Bar Council to provide Medical insurance, Term insurance... # This is a premium content Available exclusively to Our subscribers. ### INR 1099+GST. Your support helps us to bring you more content at. ##### Tags.",
+      "bm25_score_raw": 5.925549459252975,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9380487203598022,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 1
+    },
+    {
+      "title": "Plea In Karnataka High Court To Include Advocates' Parents As Dependents To Provide Medical Insurance",
+      "url": "https://www.livelaw.in/high-court/karnataka-high-court/karnataka-high-court-petition-include-parents-advocates-insurance-232363",
+      "snippet": "# Plea In Karnataka High Court To Include Advocates' Parents As Dependents To Provide Medical Insurance. ###### Mustafa Plumber. 10 July 2023 6:14 PM IST. A petition has been filed in the Karnataka High Court seeking a direction to the Karnataka State Bar Council (KSBC) and the Bar Council of India (BCI) to take appropriate action to include Parents of Advocate as dependents in the model form provided by the State Bar Council to provide Medical insurance, Term insurance for Advocates. The petition filed by Advocate Ramesh Naik L states that... # This is a premium content Available exclusively to Our subscribers. ### INR 1099+GST. Your support helps us to bring you more content at. ##### Tags.",
+      "bm25_score_raw": 3.8207649788807005,
+      "bm25_score_norm": 0.5491733842657583,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.9354385733604431,
+      "embedding_score_norm": 0.9736854281653832,
+      "embedding_rank": 2,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 2
+    },
+    {
+      "title": "Karnataka HC Strikes Down Advocate Exclusion Under ...",
+      "url": "https://www.linkedin.com/posts/anb-legal_seniorcitizen-advocates-constitution-activity-7396751583713234944-ed4G",
+      "snippet": "Karnataka High Court has ruled that Section 17 of the Maintenance and Welfare of Parents and Senior Citizens Act, 2007, is unconstitutional.",
+      "bm25_score_raw": 1.437634645389573,
+      "bm25_score_norm": 0.03872749628040349,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8879296779632568,
+      "embedding_score_norm": 0.49471767615007195,
+      "embedding_rank": 3,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 3
+    },
+    {
+      "title": "Karnataka HC Dismisses Pleas Of Medical College Against State Govt’s Action Of Re-Locating 150 MBBS Students In Different Colleges To Pursue Next Academic Year",
+      "url": "https://www.verdictum.in/court-updates/high-courts/medical-college-relocation-150-mbbs-students-state-govt-karnataka-hc-1515080",
+      "snippet": "# Karnataka HC Dismisses Pleas Of Medical College Against State Govt’s Action Of Re-Locating 150 MBBS Students In Different Colleges To Pursue Next Academic Year. The Karnataka High Court dismissed the pleas filed by G.R. Medical College Hospital and Research Centre against action taken by the State Government to re-locate 150 students in different colleges to pursue next academic year. The said Medical College had filed two writ petitions challenging the disapproval of renewal of permission for 150 first year MBBS Seats for the academic year 2022-23 and the transfer of 150 students to different medical colleges in the State. The permission for renewal has been disapproved by the NMC for the academic year 2022-23. In this case, in the year 2021, G.R. Medical College, Mangaluru was granted permission by National Medical Commission (NMC) to establish the Medical College for an intake of 150 students from the academic year 2021-22. Based on the Inspection Report, the renewal of permission was disapproved for the academic year 2022-23.",
+      "bm25_score_raw": 1.7000593155745947,
+      "bm25_score_norm": 0.09493658896801331,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8449063301086426,
+      "embedding_score_norm": 0.060971615884528596,
+      "embedding_rank": 5,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 4
+    },
+    {
+      "title": "Karnataka High Court seeks State's response in plea ...",
+      "url": "https://www.barandbench.com/news/litigation/karnataka-high-court-states-response-protection-medical-practitioners-violence-relatives-patients",
+      "snippet": "Jul 29, 2021 — \"Important issue:\" Karnataka High Court seeks Govt response in plea for protection of medical practitioners from violence by patients' relatives.Read more",
+      "bm25_score_raw": 2.1965010541541305,
+      "bm25_score_norm": 0.20127011194868918,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8811670541763306,
+      "embedding_score_norm": 0.4265393132167763,
+      "embedding_rank": 4,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 5
+    },
+    {
+      "title": "A landmark judgment every healthcare professional should ...",
+      "url": "https://www.instagram.com/reel/Dawg_kHCQTS",
+      "snippet": "The Karnataka High Court has reaffirmed that criminal law cannot be used as a tool of retaliation when doctors choose to change jobs.",
+      "bm25_score_raw": 1.2568267021808261,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8388585448265076,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 6
+    }
+  ]
+}

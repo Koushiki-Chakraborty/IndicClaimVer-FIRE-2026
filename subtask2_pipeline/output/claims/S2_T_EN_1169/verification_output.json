@@ -1,0 +1,6 @@
+{
+  "ID": "S2/T/EN/1169",
+  "Evidence": "Source 2 states that unvaccinated travelers are required to quarantine in a designated government facility for seven days and will be tested after that period. Source 3 indicates that travelers can produce a negative COVID-19 test, specifically a nucleic acid test like RT-PCR, as an alternative to self-quarantine, provided it is done within 72 hours prior to arrival or after arrival. This suggests that while testing is an option, quarantine remains a requirement for certain travelers, particularly unvaccinated ones. Source 1 does not provide specific information on quarantine or testing requirements.",
+  "Prediction": "SUPPORTS",
+  "Justification": "The retrieved evidence from Source 2 confirms that quarantine is mandatory for unvaccinated travelers, supporting the claim that quarantine remains in place. Additionally, Source 3 indicates that RT-PCR tests are required for travelers opting out of quarantine, further corroborating the claim that testing remains a requirement. Thus, the evidence directly supports the assertion that RT-PCR tests are still mandatory and that quarantine is retained in the new COVID rules for international arrivals."
+}

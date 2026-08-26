@@ -1,0 +1,99 @@
+{
+  "claim": {
+    "id": "S2/1328",
+    "text": "Congress first offers unconditional support to AAP, then taunts it",
+    "lang": "dev"
+  },
+  "entity_ranked_evidence": [
+    {
+      "title": "Congress offers unconditional support to AAP",
+      "url": "https://www.deccanherald.com/india/congress-offers-unconditional-support-to-aap-364044.html",
+      "snippet": "Dec 13, 2013 — Congress today sought to inject some life into government making in Delhi by offering unconditional support of its eight MLAs to Aam Admi",
+      "bm25_score_raw": 3.6693464157511264,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.88393235206604,
+      "embedding_score_norm": 0.9668832806277974,
+      "embedding_rank": 2,
+      "entity_overlap_raw": 2,
+      "entity_overlap_qid": 1,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 1
+    },
+    {
+      "title": "Congress Dismisses Dikshit's Comment on Supporting AAP",
+      "url": "https://www.newindianexpress.com/india/2015/Jan/08/congress-dismisses-dikshits-comment-on-supporting-aap-703015.html",
+      "snippet": "Jan 8, 2015 — NEW DELHI: Congress on Thursday trashed former Chief Minister Sheila Dikshit's comment that the party may extend support to Aam Aadmi Party",
+      "bm25_score_raw": 0.7569650185821024,
+      "bm25_score_norm": 0.20629423685175535,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8557014465332031,
+      "embedding_score_norm": 0.5448504953785754,
+      "embedding_rank": 3,
+      "entity_overlap_raw": 2,
+      "entity_overlap_qid": 1,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 2
+    },
+    {
+      "title": "How allies banded to back AAP, not Congress",
+      "url": "https://www.hindustantimes.com/cities/delhi-news/how-allies-banded-to-back-aap-not-congress-101736447653412.html",
+      "snippet": "Jan 10, 2025 — The AAP, the Samajwadi Party and the TMC have been in touch with each other over the Delhi elections, two leaders of INDIA bloc members have",
+      "bm25_score_raw": 0.5004389510345708,
+      "bm25_score_norm": 0.13638367554678793,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.824966549873352,
+      "embedding_score_norm": 0.08538475041277835,
+      "embedding_rank": 5,
+      "entity_overlap_raw": 2,
+      "entity_overlap_qid": 1,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 3
+    },
+    {
+      "title": "Congress first offers unconditional support to Aam Aadmi ...",
+      "url": "https://www.ndtv.com/delhi-news/congress-first-offers-unconditional-support-to-aam-aadmi-party-then-taunts-it-544083",
+      "snippet": "Dec 10, 2013 — Congress today first indicated its willingness to back the Aam Aadmi Party to form the Delhi government but later taunted it, saying Arvind",
+      "bm25_score_raw": 3.0524701326831756,
+      "bm25_score_norm": 0.8318838798048795,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8861476182937622,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 1,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 4
+    },
+    {
+      "title": "AAP-Congress Alliance Can Inject Dynamism Into The Poll ...",
+      "url": "https://www.ndtv.com/opinion/aap-congress-alliance-can-inject-dynamism-into-the-poll-landscape-5130327",
+      "snippet": "Feb 26, 2024 — Why should nobody trust the Aam Aadmi Party's (AAP) spokesperson based on what they say in a press conference?Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8303962349891663,
+      "embedding_score_norm": 0.16655484004337626,
+      "embedding_rank": 4,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 5
+    },
+    {
+      "title": "The actions of the AAP aren't a surprise. What will be ...",
+      "url": "https://x.com/Bhayankur/status/2079561662861111715",
+      "snippet": "Ankur Bhardwaj (@Bhayankur). 26 likes. The actions of the AAP aren't a surprise. What will be a surprise is when their friends will again",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8192549347877502,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 6
+    }
+  ]
+}

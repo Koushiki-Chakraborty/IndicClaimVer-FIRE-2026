@@ -1,0 +1,109 @@
+{
+  "claim": {
+    "id": "S2/1032",
+    "text": "'যন্ত্রণা' নিয়ে জেএমএম ছেড়ে বিজেপিতে চম্পাই, পালটা বার্তা হেমন্তের - CHAMPAI SOREN",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "'I am still alive': Indian activist on hunger strike for 26 days loses 11kg - BBC",
+      "url": "https://www.bbc.com/news/articles/ce34n7kqr5ko",
+      "snippet": "Indian activist and educationist Sonam Wangchuk, who has been on a hunger strike for 26 days in support of the Cockroach Janta Party (CJP), says he has lost 11kg (24lb) but is \"still alive\". Popularly known as \"Sonam sir\", Wangchuk has been the main draw at the youth-led movement seeking education reforms and the resignation of Education Minister Dharmendra Pradhan. He was forcibly removed from the CJP's protest venue at Delhi's Jantar Mantar on Saturday and taken to hospital from where he continues his fast. Meanwhile, thousands continue to turn up at the protest venue even after the brutal police crackdown on Monday's march to parliament which left dozens of protesters and policemen injured. Modi has not commented directly on the protests or engaged with the protesters, but on Thursday, he posted a statement on X that is being seen as an attempt to reach out to students who have been frustrated with repeated exam paper leaks.",
+      "bm25_score_raw": 0.6222392962153308,
+      "bm25_score_norm": 0.10667077674860397,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8246216177940369,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "CM Hemant Soren Launches New Agriculture Plan for Jharkhand, Targets Farmer Income Growth and Modern Farming - Indianmasterminds",
+      "url": "https://indianmasterminds.com/news/hemant-soren-jharkhand-agriculture-plan-farmer-income-modern-farming-217897/",
+      "snippet": "Home » News » CM Hemant Soren Launches New Agriculture Plan for Jharkhand, Targets Farmer Income Growth and Modern Farming. Jharkhand government plans model farmer schools in every district, promotes pulses, millets, livestock, fisheries and climate-resilient farming to boost rural incomes. **Ranchi:** Jharkhand Chief Minister Hemant Soren chaired a high-level review meeting of the Agriculture, Animal Husbandry and Cooperation Department at the Jharkhand Ministry on Friday, outlining a comprehensive strategy to strengthen agriculture, improve farmer welfare, and promote climate-resilient farming across the state. To modernize agriculture, CM Soren instructed officials to develop at least one Model Farmer School in every district. He also directed the department to strengthen the functioning of existing Farmer Schools to make them more effective and result-oriented. Considering below-normal rainfall in several parts of the state, the Chief Minister directed officials to prepare a strategy to promote the cultivation of pulses and millets, particularly in districts where these crops have high potential.",
+      "bm25_score_raw": 5.83326863440576,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8209844827651978,
+      "embedding_score_norm": 0.9541514360313316,
+      "embedding_rank": 2
+    },
+    {
+      "title": "India's cockroach movement supporters gather to march despite police ban - Reuters",
+      "url": "https://www.reuters.com/world/india/indias-cockroach-movement-supporters-gather-march-despite-police-ban-2026-07-20/",
+      "snippet": "## Browse World. Item 1 of 5 Supporters of the Cockroach Janta Party (CJP) chant slogans and wave their mobile phones with their flashlights on as they gather after the Indian education reformer Sonam Wangchuk, who had been on a hunger strike, was taken to a hospital by authorities on Saturday during a sit-in protest demanding the resignation of Indian Education Minister Dharmendra Pradhan, at Jantar Mantar in New Delhi, India, July 19, 2026. **[1/5]**Supporters of the Cockroach Janta Party (CJP) chant slogans and wave their mobile phones with their flashlights on as they gather after the Indian education reformer Sonam Wangchuk, who had been on a hunger strike, was taken to a hospital by authorities on Saturday during a sit-in protest... NEW DELHI, July 20 (Reuters) - Hundreds of supporters of India's youth-led \"cockroach\" movement gathered in the capital New Delhi on Monday to march ‌on parliament, seeking the resignation of the education minister despite police denying permission for the protest.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.8159762620925903,
+      "embedding_score_norm": 0.8910194037981103,
+      "embedding_rank": 3
+    },
+    {
+      "title": "India's Modi under pressure as youth protest leaders set for more talks - Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/indias-modi-under-pressure-youth-protest-leaders-set-more-talks-2026-07-25/",
+      "snippet": "## Browse World. Item 1 of 6 A man holds a poster as he participates in a demonstration held in solidarity with Cockroach Janta Party (CJP) protests held at Jantar Mantar in New Delhi, which demand the resignation of India's Education Minister Dharmendra Pradhan over exam paper leaks, in Kolkata, India, July 24, 2026. **[1/6]**A man holds a poster as he participates in a demonstration held in solidarity with Cockroach Janta Party (CJP) protests held at Jantar Mantar in New Delhi, which demand the resignation of India's Education Minister Dharmendra Pradhan over exam paper leaks, in Kolkata, India, July 24, 2026.... NEW DELHI, July 25 (Reuters) - The Indian government was set to begin a fresh round of talks on Saturday with leaders of a Gen-Z protest that led to disruptions ​in the capital this week, as demonstrators press a demand for the education minister ‌to resign.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.8069123029708862,
+      "embedding_score_norm": 0.7767620264102034,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Jharkhand govt to launch model agriculture villages and panchayats - The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/ranchi/jharkhand-govt-to-launch-model-agriculture-villages-and-panchayats/articleshow/132479714.cms",
+      "snippet": "Ranchi: The Jharkhand govt would design model agriculture villages and panchayats across the state to ensure targeted implementation of welfare schemes based on local requirements rather than a one-size-fits-all approach.Reviewing the agriculture department’s plans, chief minister (CM) Hemant Soren on Friday directed the department to identify villages or panchayats in every district for the initiative and conduct detailed surveys to assess the needs of farmers before rolling out govt programmes/ welfare schemes.He stressed the need for direct engagement with farmers and addressing key infrastructure gaps, including soil testing facilities and irrigation systems. “Govt interventions should be guided by ground realities to maximise benefits for the farming community,” he said.Talking to STOI, agriculture minister Shilpi Neha Tirkey said, “The project aims to create clusters of villages, where farming, fisheries or animal husbandry schemes can be implemented in a coordinated manner after assessing local needs instead of randomly applying schemes so that the maximum number of people are benefitted.”The pilot project will initially focus on areas with large tracts of fallow or uncultivated land.",
+      "bm25_score_raw": 3.2051761686621703,
+      "bm25_score_norm": 0.5494648660199556,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.799750566482544,
+      "embedding_score_norm": 0.6864834607509814,
+      "embedding_rank": 5
+    },
+    {
+      "title": "His doctor’s prescription for his unbearable pain seemed absurd. It worked. - The Washington Post",
+      "url": "https://www.washingtonpost.com/lifestyle/2026/07/21/his-doctors-prescription-his-unbearable-pain-seemed-absurd-it-worked/",
+      "snippet": "# His doctor’s prescription for his unbearable pain seemed absurd. Gregory Maassen was nearly bedridden by a burning sensation that was later diagnosed as a rare form of neuropathy. He has found relief riding his e-bike across the country. Gregory Maassen rides his e-bike to improve his chronic pain that stems from neuropathy. The burning sensation started near the top of Gregory Maassen’s left arm. It quickly spread to his upper back and chest, and within a month, his whole body was burning — from his ears to his feet. Maassen, 51 at the time, spent most days in bed but struggled to sleep. One doctor, Maassen said, thought the pain was due to mental illness. What Sanjay Gupta learned after years studying chronic pain and the brain. The most important news stories of the day, curated by Post editors, delivered every morning. # Get unlimited access to The Washington Post. * **Unlimited access** on the web and in our apps.",
+      "bm25_score_raw": 2.728079981000503,
+      "bm25_score_norm": 0.4676760409952241,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.7927467823028564,
+      "embedding_score_norm": 0.5981959915096643,
+      "embedding_rank": 6
+    },
+    {
+      "title": "India tunnel disaster at a Himalayan hydropower project leaves 10 dead and 17 missing - AP News",
+      "url": "https://apnews.com/article/india-sikkim-himalayas-tunnel-accident-3c3b93f3499b07775c0fbd68fead6439",
+      "snippet": "Test Your News I.Q. 2026 Elections Election Results Election calendar White House Congress Supreme Court The latest AP-NORC polls. 2026 Elections Election Results Election calendar White House Congress Supreme Court The latest AP-NORC polls. Your guide to the biggest stories in politics, policy and U.S. elections. + The World Cup is over. Your home base for in-depth reporting from the world of sports. Founded in 1846, AP today remains the most trusted source of fast, accurate, unbiased news in all formats and the essential provider of the technology and services vital to the news business. ap.org Careers Advertise with us AP News Values and Principles AP’s Role in Elections AP Leads AP Definitive Source Blog AP Images Spotlight Blog. GUWAHATI, India (AP) — A suspected gas explosion triggered a collapse inside an under-construction tunnel at a hydropower project in India’s northeastern Himalayan state of Sikkim, near the Chinese border, leaving least 10 people dead and 17 others missing, officials said on Tuesday.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.7823753356933594,
+      "embedding_score_norm": 0.46745684392433834,
+      "embedding_rank": 7
+    },
+    {
+      "title": "Christian Psychiatrist Describes How to Heal Pain the Natural Way: 'The Renewing of Your Mind' - cbn.com",
+      "url": "https://cbn.com/news/health/christian-psychiatrist-describes-how-heal-pain-natural-way-renewing-your-mind",
+      "snippet": "# Christian Psychiatrist Describes How to Heal Pain the Natural Way: 'The Renewing of Your Mind'. When a patient sees a physician for chronic pain, the doctor often orders an MRI for the patient, and if it indicates abnormalities such as spinal stenosis, degenerative or herniated discs, surgery tends to be the recommendation. \"Because whenever it's your neck, it's your knee, it's your back, you go get an MRI, they're always abnormal.\". To understand why people with abnormal MRIs can live pain-free, Dr. Amen examined where it all takes place – the brain. \"Most people don't know that pain is ultimately processed, and lives, in your brain,\" he said, pointing out the hundreds of thousands of SPECT brain scans at Amen Clinics. Because it's decreasing that part – not in your back or your neck – but it's decreasing those pain circuits, in your brain,\" Dr. Amen explained. And that's not good for you, and it's going to accelerate the pain.\".",
+      "bm25_score_raw": 1.9904972229006774,
+      "bm25_score_norm": 0.341231880040692,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.7713130712509155,
+      "embedding_score_norm": 0.32800946709994927,
+      "embedding_rank": 8
+    },
+    {
+      "title": "Atlanta's Angel Reese leaves game against Chicago with left leg injury - Greenwich Time",
+      "url": "https://www.greenwichtime.com/sports/article/atlanta-s-angel-reese-leaves-game-against-chicago-22351595.php",
+      "snippet": "# Atlanta's Angel Reese leaves game against Chicago with left leg injury. ATLANTA (AP) — Atlanta Dream forward Angel Reese left Sunday's victory over Chicago with a left leg injury. Reese's knee buckled when she came to a jump stop under the basket early in the fourth quarter and she fell to the ground as she missed the layup. Reese returned to the bench and the Dream ruled her out for the rest of the game. “And when I was looking at her, it seemed like she was in a lot of pain, and she wanted to go out there and and keep playing because she’s competitive and she wants to win the game. I just didn’t feel comfortable with it because she looked like she was in a lot of pain.”. Reese was named a WNBA All-Star in her first season with the Dream, leading the league with 11.8 rebounds and 14 double-doubles. The best home remodelers in CT.",
+      "bm25_score_raw": 1.1268429225961678,
+      "bm25_score_norm": 0.19317521499864204,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.7452923059463501,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 9
+    }
+  ]
+}

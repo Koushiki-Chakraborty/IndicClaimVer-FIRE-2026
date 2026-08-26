@@ -1,0 +1,76 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1277",
+    "text": "Ahmedabad records a slight rise in Covid-19 cases with 117 new infections in 24 hours",
+    "lang": "english"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Ahmedabad reports highest single-day rise in Covid cases; state's active ...",
+      "url": "https://indianexpress.com/article/cities/ahmedabad/ahmedabad-reports-highest-single-day-rise-in-covid-cases-states-active-case-tally-at-1109-10057231/lite",
+      "snippet": "With 131 new cases of Covid in Ahmedabad — the highest single-day rise in the city — the state recorded 235 new cases on Monday.",
+      "bm25_score_raw": 4.338645812203666,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8836815357208252,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Ahmedabad records 202 new COVID-19 cases; 4 more casualties",
+      "url": "https://www.republicworld.com/amp/india/ahmedabad-records-202-new-covid-19-cases-4-more-casualties",
+      "snippet": "The count of COVID-19 cases in Gujarat's Ahmedabad district rose to 56,207, after 202 persons tested positive for the infection on Wednesday,",
+      "bm25_score_raw": 3.4337466734627187,
+      "bm25_score_norm": 0.7657618369933292,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8773174285888672,
+      "embedding_score_norm": 0.8716843086921827,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Latest News, Photos, Videos on Covid-19 Ahmedabad",
+      "url": "https://www.ndtv.com/topic/covid~19-ahmedabad",
+      "snippet": "In a bid to contain the spread of coronavirus in Ahmedabad, one of the cities in Gujarat where the number of infection cases is rising, the civic body today",
+      "bm25_score_raw": 0.47548736216417736,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8771562576293945,
+      "embedding_score_norm": 0.8684347148914078,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Ahmedabad is in severe grip of Covid wave and on Thursday 951 cases ...",
+      "url": "https://www.facebook.com/photo.php?fbid=2806388476277378&set=a.657637989711891&id=100063970871811",
+      "snippet": "Ahmedabad is in severe grip of Covid wave and on Thursday 951 cases were reported with 8 deaths. The state reported 4,021 new Covid-19 cases",
+      "bm25_score_raw": 0.665050430136607,
+      "bm25_score_norm": 0.049069451958537194,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8669005632400513,
+      "embedding_score_norm": 0.6616552738599982,
+      "embedding_rank": 4
+    },
+    {
+      "title": "As Covid cases surge, workers inAhmedabad ramp up mask ...",
+      "url": "https://www.youtube.com/watch?v=09Ft8J-zoWY",
+      "snippet": "Workers busy in making surgical masks at a production unit in Ahmedabad as the daily cases of Covid-19 infection continues to rise.",
+      "bm25_score_raw": 0.5012022520558805,
+      "bm25_score_norm": 0.006656441930679888,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8590980768203735,
+      "embedding_score_norm": 0.5043384000076914,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Data shows India's Ahmedabad may have massively undercounted ...",
+      "url": "https://www.reuters.com/world/india/data-shows-indias-ahmedabad-may-have-massively-undercounted-covid-deaths-2022-04-14",
+      "snippet": "When COVID-19 infections peaked in India in April and May last year, the western city of Ahmedabad officially recorded at least three times",
+      "bm25_score_raw": 3.39015092165932,
+      "bm25_score_norm": 0.7544768347426571,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8340842723846436,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6
+    }
+  ]
+}

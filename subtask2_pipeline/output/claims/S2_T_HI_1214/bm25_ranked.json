@@ -1,0 +1,105 @@
+{
+  "claim": {
+    "id": "S2/T/HI/1214",
+    "text": "कोरोनाः 12वीं की परीक्षा पर आना है फैसला, पर केंद्रीय शिक्षा मंत्री की बिगड़ी तबीयत! AIIMS में भर्ती",
+    "lang": "hindi"
+  },
+  "ranked_evidence": [
+    {
+      "title": "Decision on CBSE Board Exams",
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1711746",
+      "snippet": "Union Education Minister, ShriRameshPokhriyalNishank, . The Board exam for class X and XIIconducted by CBSE are scheduled to begin from 4th May",
+      "bm25_score_raw": 5.322237928705325,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Education Minister Ramesh Pokhriyal 'Nishank' Admitted To AIIMS",
+      "url": "https://www.ndtv.com/education/education-minister-ramesh-pokhriyal-admitted-aiims-2453580",
+      "snippet": "The Education Minister was supposed to announce a decision on Class 12th board exams soon. Education Minister Ramesh Pokhriyal 'Nishank' had asked states to",
+      "bm25_score_raw": 5.235424695737564,
+      "bm25_score_norm": 0.9836885847399761,
+      "bm25_rank": 2
+    },
+    {
+      "title": "Union Education Minister @drrpnishank_ admitted to AIIMS ...",
+      "url": "https://www.facebook.com/iamannitian/posts/union-education-minister-drrpnishank_-admitted-to-aiims-delhi-today-due-to-post-/3005533216354373",
+      "snippet": "Union Education Minister @drrpnishank_ admitted to AIIMS Delhi today due to post covid compilations. Today He was expected to make final decision on CBSE and",
+      "bm25_score_raw": 4.490598198758871,
+      "bm25_score_norm": 0.843742474296192,
+      "bm25_rank": 3
+    },
+    {
+      "title": "Education Minister Ramesh Pokhriyal Admitted To AIIMS ...",
+      "url": "https://www.youtube.com/watch?v=jBDE8_TTVjM",
+      "snippet": "Education Minister Ramesh Pokhriyal Admitted To AIIMS, Decision Pending On CBSE Class 12 Exams. 59K views · 4 years ago. #IndiaToday #CBSE",
+      "bm25_score_raw": 2.441531378421045,
+      "bm25_score_norm": 0.4587414939217056,
+      "bm25_rank": 4
+    },
+    {
+      "title": "Decision on class 12 board exams to be taken at the earliest",
+      "url": "https://www.thenewsminute.com/news/decision-class-12-board-exams-be-taken-earliest-union-education-minister-149389",
+      "snippet": "An \"informed, collaborative\" decision on the class 12 board exams will be taken at the earliest, the Union Education Minister said on Sunday",
+      "bm25_score_raw": 2.434928369748622,
+      "bm25_score_norm": 0.4575008487718881,
+      "bm25_rank": 5
+    },
+    {
+      "title": "AIIMS Nagpur",
+      "url": "https://aiimsnagpur.edu.in",
+      "snippet": "AIIMS Nagpur serves as a major tertiary healthcare, academic, and research hub for Central India, particularly for the Vidarbha region of Maharashtra",
+      "bm25_score_raw": 1.6360289025510601,
+      "bm25_score_norm": 0.3073949200442898,
+      "bm25_rank": 6
+    },
+    {
+      "title": "AIIMS Jodhpur",
+      "url": "https://www.aiimsjodhpur.edu.in",
+      "snippet": "AIIMS Jodhpur is one of the SIX NEW AIIMS established by the Ministry of Health & Family Welfare, Government of India under the Pradhan Mantri Swasthya Suraksha Yojna (PMSSY) with the aim of correcting regional imbalances in quality tertiary level healthcare in the country and attaining self sufficiency in graduate and postgraduate medical education. These institutions are being established by an Act of Parliament on the lines of the original All India Institute of Medical Sciences in New Delhi which imparts both undergraduate and postgraduate medical education in all its branches and related fields, along with nursing and paramedical training to bring together in one place educational facilities of the highest order for the training of personnel in all branches of health care activity. This success has been achieved under the **guidance and direction of Executive Director Shri Goverdhan Dutt Puri**, whose leadership and vision have played a key role in expanding access to quality medicines at affordable prices.",
+      "bm25_score_raw": 1.4522224362793612,
+      "bm25_score_norm": 0.2728593602414587,
+      "bm25_rank": 7
+    },
+    {
+      "title": "All India Institute of Medical Sciences, New Delhi - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/All_India_Institute_of_Medical_Sciences,_New_Delhi",
+      "snippet": "- 2.2.1 National Cancer Institute (NCI) and upcoming National Heart Institute_and_upcoming_National_Heart_Institute). + 2.3 AIIMS (New Delhi) Campus Redevelopment Master plan 2019_Campus_Redevelopment_Master_plan_2019). Government University and Hospital in New Delhi, India. **All India Institute of Medical Sciences, New Delhi**, also known as **AIIMS, New Delhi** is a public medical university and hospital in New Delhi, India. The institute is governed by the AIIMS Act, 1956 and operates autonomously under the Ministry of Health and Family Welfare \"Ministry of Health and Family Welfare (India)\"). It is regarded as one of the best public medical research university and hospital in India. Originally proposed by the then Prime Minister of India Jawaharlal Nehru for establishment in Calcutta, it was established in New Delhi following the refusal of Chief Minister of West Bengal Bidhan Chandra Roy. The foundation stone of AIIMS Delhi was laid in 1952.",
+      "bm25_score_raw": 1.1917833835576945,
+      "bm25_score_norm": 0.22392523587302396,
+      "bm25_rank": 8
+    },
+    {
+      "title": "All India Institutes of Medical Sciences - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/All_India_Institutes_of_Medical_Sciences",
+      "snippet": "All Indian Institutes of Medical Sciences. All India Institutes of Medical Sciences is located in India. The **All India Institutes of Medical Sciences** (**AIIMS**) is a group of autonomous government public medical universities of higher education under the jurisdiction of Ministry of Health and Family Welfare, Government of India. The foundation stone of the All India Institute of Medical Sciences (AIIMS) in New Delhi was laid in 1952, during the tenure of Rajkumari Amrit Kaur as India’s Health Minister; later, on February 18, 1956, introduced a new bill in the Lok Sabha (House of the People). The first AIIMS was established in 1956 under the *All India Institute of Medical Sciences Act, 1956*. Originally proposed to be established in Calcutta, it was established in New Delhi following the refusal of Chief Minister of West Bengal Bidhan Chandra Roy. The act established AIIMS New Delhi, which was then known simply as All India Institute of Medical Sciences, and gave it the Institutes of National Importance (INI) status.",
+      "bm25_score_raw": 1.1760911455707184,
+      "bm25_score_norm": 0.22097680737411365,
+      "bm25_rank": 9
+    },
+    {
+      "title": "Education Ministry calls meeting on pending Class 12 ...",
+      "url": "https://www.thehindu.com/education/education-ministry-calls-meeting-on-pending-class-12-board-exams-on-sunday/article34621756.ece",
+      "snippet": "The Ministry of Education (MOE) has called a crucial meeting on Sunday to decide on pending Class 12 board exams that were postponed in view",
+      "bm25_score_raw": 0.7753271876797835,
+      "bm25_score_norm": 0.14567691224364102,
+      "bm25_rank": 10
+    },
+    {
+      "title": "AIIMS – Udaipur",
+      "url": "https://aiimsudr.ac.in",
+      "snippet": "American International Institute of Medical Sciences, Udaipur aims to prepare its students to be global leaders in all aspects of health care. 725 bedded not for profit state-of-the-art tertiary care hospital to deliver holistic patient care. Advanced Neuro Care Institute of GBH General Hospital is an integrated institute with a dedicated team of doctors with the latest technology that provides a comprehensive and multi-disciplinary care for disorders of Brain, Spine and Peripheral nervous system. This includes both elective and emergency care provided by specialist doctors, supported by state-of-the-art equipment.We have a dedicated team of Cardiologists, Cardio Thoracic surgeons, Interventional Cardiologists, Cardiology technicians and nurses providing…. The Neurosurgery department is a state-of-the-art center for treatment of diseases of the brain and spine. It is a medical branch that covers the diagnosis, treatment and management of kidney diseases. The Department of Surgical Oncology at GBH Memorial Cancer Centre provides surgical care to patients with solid tumors in combination with adjuvant treatments.",
+      "bm25_score_raw": 0.5866544119706346,
+      "bm25_score_norm": 0.11022701724899073,
+      "bm25_rank": 11
+    },
+    {
+      "title": "All India Institute of Medical Sciences",
+      "url": "https://aiimsexams.ac.in",
+      "snippet": "Assessment & Examination Registration Portal, Upholding Excellence in Medical Education. ###### Quick Links. ###### Contact. 1st Floor, Convergence Block, Sri Aurobindo Marg, Ansari Nagar, AIIMS, New Delhi 110029.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12
+    }
+  ]
+}

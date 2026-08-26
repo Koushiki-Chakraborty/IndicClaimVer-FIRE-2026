@@ -1,0 +1,108 @@
+{
+  "claim": {
+    "id": "S2/1235",
+    "text": "LS polls to see direct contest between SP, BJP in UP: Mulayam",
+    "lang": "dev"
+  },
+  "generated_queries": {
+    "english_translation": "LS polls to see direct contest between SP, BJP in UP: Mulayam",
+    "native_query": "LS SP BJP UP Mulayam polls direct contest",
+    "english_query": "LS SP BJP UP Mulayam polls direct contest"
+  },
+  "native_retrieval": [
+    {
+      "title": "LS polls to see direct contest between SP, BJP in UP: Mulayam ...",
+      "url": "https://indianexpress.com/article/india/india-others/ls-polls-to-see-direct-contest-between-sp-bjp-in-up-mulayam-singh-yadav",
+      "snippet": "Samajwadi Party supremo Mulayam Singh Yadav on Saturday said the next Lok Sabha election would be a direct fight between SP and BJP in Uttar Pradesh, and third"
+    },
+    {
+      "title": "LS polls to see direct contest between BJP, SP in UP: Mulayam ...",
+      "url": "https://www.indiatvnews.com/politics/national/ls-polls-to-see-direct-contest-between-bjp-sp-in-up-mulayam-si-14885.html",
+      "snippet": "Gorakhpur: Samajwadi Party supremo Mulayam Singh Yadav today said the next Lok Sabha election would be a direct fight between SP and BJP in Uttar Pradesh,"
+    },
+    {
+      "title": "LS polls to see direct contest between SP, BJP in UP",
+      "url": "https://www.deccanherald.com/india/ls-polls-see-direct-contest-2177391",
+      "snippet": "Samajwadi Party supremo Mulayam Singh Yadav today said the next Lok Sabha election would be a direct fight between SP and BJP in Uttar"
+    },
+    {
+      "title": "In Mainpuri, a grilling test of Mulayam Singh Yadav's legacy",
+      "url": "https://www.business-standard.com/elections/lok-sabha-election/ls-polls-in-mainpuri-a-grilling-test-of-mulayam-singh-yadav-s-legacy-124050601027_1.html",
+      "snippet": "Mainpuri is a stronghold of other backward classes (OBCs), where of around 1 million voters, the Yadavs number around 425000."
+    },
+    {
+      "title": "The Uttar Pradesh assembly elections are months away ...",
+      "url": "https://www.facebook.com/ZeeNewsEnglish/posts/the-uttar-pradesh-assembly-elections-are-months-away-and-the-political-atmospher/1491339476366846",
+      "snippet": "The Uttar Pradesh assembly elections are months away and the political atmosphere is already electrified with the Samajwadi Party making all"
+    },
+    {
+      "title": "SP Chief Akhilesh Yadav's big claim on BJP MLAs ahead of ...",
+      "url": "https://www.facebook.com/Timesnow/posts/sp-chief-akhilesh-yadavs-big-claim-on-bjp-mlas-ahead-of-up-2027-polls-vsfb-tnind/1510012031170054",
+      "snippet": "And now, Akhilesh Yadav has made a bold move! 🗣️ “INDIA bloc is UNITED and READY!” The Samajwadi Party confirms it will contest the 2027 Uttar"
+    }
+  ],
+  "english_retrieval": [
+    {
+      "title": "LS polls to see direct contest between SP, BJP in UP: Mulayam ...",
+      "url": "https://indianexpress.com/article/india/india-others/ls-polls-to-see-direct-contest-between-sp-bjp-in-up-mulayam-singh-yadav",
+      "snippet": "Samajwadi Party supremo Mulayam Singh Yadav on Saturday said the next Lok Sabha election would be a direct fight between SP and BJP in Uttar Pradesh, and third"
+    },
+    {
+      "title": "LS polls to see direct contest between BJP, SP in UP: Mulayam ...",
+      "url": "https://www.indiatvnews.com/politics/national/ls-polls-to-see-direct-contest-between-bjp-sp-in-up-mulayam-si-14885.html",
+      "snippet": "Gorakhpur: Samajwadi Party supremo Mulayam Singh Yadav today said the next Lok Sabha election would be a direct fight between SP and BJP in Uttar Pradesh,"
+    },
+    {
+      "title": "LS polls to see direct contest between SP, BJP in UP",
+      "url": "https://www.deccanherald.com/india/ls-polls-see-direct-contest-2177391",
+      "snippet": "Samajwadi Party supremo Mulayam Singh Yadav today said the next Lok Sabha election would be a direct fight between SP and BJP in Uttar"
+    },
+    {
+      "title": "In Mainpuri, a grilling test of Mulayam Singh Yadav's legacy",
+      "url": "https://www.business-standard.com/elections/lok-sabha-election/ls-polls-in-mainpuri-a-grilling-test-of-mulayam-singh-yadav-s-legacy-124050601027_1.html",
+      "snippet": "Mainpuri is a stronghold of other backward classes (OBCs), where of around 1 million voters, the Yadavs number around 425000."
+    },
+    {
+      "title": "The Uttar Pradesh assembly elections are months away ...",
+      "url": "https://www.facebook.com/ZeeNewsEnglish/posts/the-uttar-pradesh-assembly-elections-are-months-away-and-the-political-atmospher/1491339476366846",
+      "snippet": "The Uttar Pradesh assembly elections are months away and the political atmosphere is already electrified with the Samajwadi Party making all"
+    },
+    {
+      "title": "SP Chief Akhilesh Yadav's big claim on BJP MLAs ahead of ...",
+      "url": "https://www.facebook.com/Timesnow/posts/sp-chief-akhilesh-yadavs-big-claim-on-bjp-mlas-ahead-of-up-2027-polls-vsfb-tnind/1510012031170054",
+      "snippet": "And now, Akhilesh Yadav has made a bold move! 🗣️ “INDIA bloc is UNITED and READY!” The Samajwadi Party confirms it will contest the 2027 Uttar"
+    }
+  ],
+  "merged_results": [
+    {
+      "title": "LS polls to see direct contest between SP, BJP in UP: Mulayam ...",
+      "url": "https://indianexpress.com/article/india/india-others/ls-polls-to-see-direct-contest-between-sp-bjp-in-up-mulayam-singh-yadav",
+      "snippet": "Samajwadi Party supremo Mulayam Singh Yadav on Saturday said the next Lok Sabha election would be a direct fight between SP and BJP in Uttar Pradesh, and third"
+    },
+    {
+      "title": "LS polls to see direct contest between BJP, SP in UP: Mulayam ...",
+      "url": "https://www.indiatvnews.com/politics/national/ls-polls-to-see-direct-contest-between-bjp-sp-in-up-mulayam-si-14885.html",
+      "snippet": "Gorakhpur: Samajwadi Party supremo Mulayam Singh Yadav today said the next Lok Sabha election would be a direct fight between SP and BJP in Uttar Pradesh,"
+    },
+    {
+      "title": "LS polls to see direct contest between SP, BJP in UP",
+      "url": "https://www.deccanherald.com/india/ls-polls-see-direct-contest-2177391",
+      "snippet": "Samajwadi Party supremo Mulayam Singh Yadav today said the next Lok Sabha election would be a direct fight between SP and BJP in Uttar"
+    },
+    {
+      "title": "In Mainpuri, a grilling test of Mulayam Singh Yadav's legacy",
+      "url": "https://www.business-standard.com/elections/lok-sabha-election/ls-polls-in-mainpuri-a-grilling-test-of-mulayam-singh-yadav-s-legacy-124050601027_1.html",
+      "snippet": "Mainpuri is a stronghold of other backward classes (OBCs), where of around 1 million voters, the Yadavs number around 425000."
+    },
+    {
+      "title": "The Uttar Pradesh assembly elections are months away ...",
+      "url": "https://www.facebook.com/ZeeNewsEnglish/posts/the-uttar-pradesh-assembly-elections-are-months-away-and-the-political-atmospher/1491339476366846",
+      "snippet": "The Uttar Pradesh assembly elections are months away and the political atmosphere is already electrified with the Samajwadi Party making all"
+    },
+    {
+      "title": "SP Chief Akhilesh Yadav's big claim on BJP MLAs ahead of ...",
+      "url": "https://www.facebook.com/Timesnow/posts/sp-chief-akhilesh-yadavs-big-claim-on-bjp-mlas-ahead-of-up-2027-polls-vsfb-tnind/1510012031170054",
+      "snippet": "And now, Akhilesh Yadav has made a bold move! 🗣️ “INDIA bloc is UNITED and READY!” The Samajwadi Party confirms it will contest the 2027 Uttar"
+    }
+  ]
+}

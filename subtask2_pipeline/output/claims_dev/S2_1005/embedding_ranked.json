@@ -1,0 +1,76 @@
+{
+  "claim": {
+    "id": "S2/1005",
+    "text": "Centre's Blocking Power Not 'Tweet Specific', Can Extend To Blocking Accounts; Individual Notices To Users Not Mandatory: Karnataka High Court",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Centre's Blocking Power Not 'Tweet Specific', Can Extend ...",
+      "url": "https://www.livelaw.in/high-court/karnataka-high-court/karnataka-high-court-twitter-account-blocking-central-government-power-section-69a-it-act-website-blocking-rules-231604",
+      "snippet": "Jun 30, 2023 — Centre's Blocking Power Not 'Tweet Specific', Can Extend To Blocking Accounts; government is not required to issue notice to individual account",
+      "bm25_score_raw": 3.1207947541457743,
+      "bm25_score_norm": 0.8807339621723845,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.9205107092857361,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Karnataka HC dismisses Twitter's petition against Centre's ...",
+      "url": "https://indianexpress.com/article/cities/bangalore/hc-dismisses-twitters-petition-against-centres-blocking-orders-8695041",
+      "snippet": "Jul 1, 2023 — Justice Dixit ruled that the blocking powers of the Centre extend to not just single tweets but entire user accounts.",
+      "bm25_score_raw": 3.4038921320446764,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8939911723136902,
+      "embedding_score_norm": 0.4056720592773074,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Centre's Power Not Tweet-Specific, Extends To Blocking ...",
+      "url": "https://www.ndtvprofit.com/india/governments-power-not-tweet-specific-extends-to-blocking-accounts-karnataka-high-court-10019938",
+      "snippet": "Jul 3, 2023 — The Karnataka High Court on Friday had dismissed a petition moved by Twitter against a government order to take down several Twitter accounts ...Read more",
+      "bm25_score_raw": 1.3340439558988846,
+      "bm25_score_norm": 0.12799407502183602,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8938349485397339,
+      "embedding_score_norm": 0.40217093654031366,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Twitter Takes Centre To Court Over Orders To Block Content",
+      "url": "https://www.youtube.com/watch?v=MtSOs6SHET0",
+      "snippet": "Twitter has requested the Karnataka High Court to reverse a few orders from the Centre to block content, arguing that the orders are arbitrary",
+      "bm25_score_raw": 2.1619755426708136,
+      "bm25_score_norm": 0.476793207954397,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8847600221633911,
+      "embedding_score_norm": 0.1987932414038153,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Decoding the Karnataka High Court Ruling: Blocking ...",
+      "url": "https://ccgnludelhi.wordpress.com/2023/07/19/decoding-the-karnataka-high-court-ruling-blocking-accounts-vs-tweets",
+      "snippet": "Jul 19, 2023 — Twitter contended that extending the government's power to block entire accounts limited users' ability to post information in the future, The",
+      "bm25_score_raw": 1.4040861276232797,
+      "bm25_score_norm": 0.1575021275668979,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8837692141532898,
+      "embedding_score_norm": 0.1765882954835383,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Government has power to block tweets as well as accounts ...",
+      "url": "https://theleaflet.in/digital-rights/government-has-power-to-block-tweets-as-well-as-accounts-for-as-long-as-it-wants-says-karnataka-hc-imposes-%E2%82%B950-lakh-exemplary-cost-on-twitter",
+      "snippet": "Jun 30, 2023 — Government has power to block tweets as well as accounts for as long as it wants, says Karnataka HC, imposes ₹50 lakh exemplary cost on Twitter.Read more",
+      "bm25_score_raw": 1.0302291592872113,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8758896589279175,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6
+    }
+  ]
+}

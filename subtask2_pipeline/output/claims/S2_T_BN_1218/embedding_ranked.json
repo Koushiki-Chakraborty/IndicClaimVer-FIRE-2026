@@ -1,0 +1,131 @@
+{
+  "claim": {
+    "id": "S2/T/BN/1218",
+    "text": "‘দিল্লির সৌন্দর্যায়ন প্রকল্প বন্ধ করুন’, করোনা মোকাবিলায় মোদিকে পাঁচ দফা পরামর্শ সোনিয়ার",
+    "lang": "bengali"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "What do you think of the advice that Sonia Gandhi gave to ...",
+      "url": "https://www.quora.com/What-do-you-think-of-the-advice-that-Sonia-Gandhi-gave-to-the-Modi-government-to-fight-Corona",
+      "snippet": "Modi government to fight Corona? “Suspend the ₹20,000 crore 'Central Vista' beautification and construction project forthwith.",
+      "bm25_score_raw": 4.734321683914692,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9038372039794922,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "PM Modi Asked For Suggestions, Sonia Gandhi Sends ...",
+      "url": "https://www.ndtv.com/india-news/coronavirus-cancel-20-000-crore-redesign-of-heart-of-delhi-sonia-gandhi-tells-pm-2207570",
+      "snippet": "Apr 7, 2020 — Cancel the \"self-indulgent\" Rs 20,000 crore \"beautification project\" in the heart of Delhi, suspend official foreign tours and stop government",
+      "bm25_score_raw": 0.6229111662493904,
+      "bm25_score_norm": 0.13157347722394747,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8952175974845886,
+      "embedding_score_norm": 0.9328609259716648,
+      "embedding_rank": 2
+    },
+    {
+      "title": "To fight COVID-19, Sonia offers five suggestions to govt",
+      "url": "https://www.thehindu.com/news/national/to-fight-covid-19-sonia-offers-5-suggestions-to-govt/article31278193.ece",
+      "snippet": "Apr 7, 2020 — Sonia offers five suggestions to govt Scrap ₹20,000-cr. for Central Vista project, ban govt advertisements to media and put on hold all",
+      "bm25_score_raw": 0.6234204149216175,
+      "bm25_score_norm": 0.1316810425112741,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8834193348884583,
+      "embedding_score_norm": 0.8409629459054417,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Ban govt ads on media, cancel Central Vista project: Sonia ...",
+      "url": "https://www.thenewsminute.com/news/ban-govt-ads-media-cancel-central-vista-project-sonia-gandhi-s-5-suggestions-pm-122072",
+      "snippet": "Apr 7, 2020 — Gandhi also called upon the PM to suspend the Rs 20,000 crore Central Vista beautification and construction project forthwith. I am certain that",
+      "bm25_score_raw": 2.1532724905889538,
+      "bm25_score_norm": 0.4548217536431674,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.872630774974823,
+      "embedding_score_norm": 0.7569296523752839,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Scrap plan to redesign Delhi's Central Vista. Save Money",
+      "url": "https://www.youtube.com/watch?v=FXOILfa69Ks",
+      "snippet": "Only advisories on Covid-19 -To suspend the Central Vista beautification and construction project. reduction of 30 per cent in expenditure",
+      "bm25_score_raw": 0.9723870630146878,
+      "bm25_score_norm": 0.205390999584685,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8463642001152039,
+      "embedding_score_norm": 0.5523363783072075,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Delhi: On recent editorial by Sonia Gandhi attacking PM ...",
+      "url": "https://x.com/ANI/status/2070754294434042153",
+      "snippet": "On recent editorial by Sonia Gandhi attacking PM Modi Govt over silence on Israel's action in Gaza, Congress leader Pawan Khera says,",
+      "bm25_score_raw": 0.816584053578036,
+      "bm25_score_norm": 0.1724817424959647,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.840667724609375,
+      "embedding_score_norm": 0.507965896787828,
+      "embedding_rank": 6
+    },
+    {
+      "title": "Modi's Sprawling Delhi Makeover Fuels Anger in Virus-Hit ...",
+      "url": "https://www.bloomberg.com/news/features/2021-04-26/as-covid-ravages-india-modi-s-delhi-makeover-fuels-anger-over-cost",
+      "snippet": "Apr 26, 2021 — The government plans a new parliament and changes in central Delhi, but critics view project as wasteful expenditure amid pandemic.",
+      "bm25_score_raw": 2.9435982795389255,
+      "bm25_score_norm": 0.6217571335594031,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8286499381065369,
+      "embedding_score_norm": 0.4143580205874652,
+      "embedding_rank": 7
+    },
+    {
+      "title": "Sonia Gandhi says India PM Modi using tax office to cripple ...",
+      "url": "https://www.bbc.com/news/world-asia-india-68573283",
+      "snippet": "Mar 22, 2024 — India's main opposition Congress party has accused Prime Minister Narendra Modi's government of using the tax department to starve them of ...Read more",
+      "bm25_score_raw": 0.5778814433879886,
+      "bm25_score_norm": 0.1220621415210115,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.8180208206176758,
+      "embedding_score_norm": 0.3315666418438465,
+      "embedding_rank": 8
+    },
+    {
+      "title": "'দাম কম, দম বেশি', লালকেল্লা থেকে কি শুল্ক ইস্যুতে আমেরিকাকে ...",
+      "url": "https://www.thewall.in/India/pm-narendra-modis-independence-day-message-amid-tariff-war-with-us/tid/169765",
+      "snippet": "Aug 14, 2025 — তিনি আরও বলেন, ''দাম কম, দম বেশি - এই মন্ত্রই আমাদের লক্ষ্য হওয়া উচিত।'' মোদীর মত, যারা অন্যের ওপর বেশি নির্ভর করে তাদের সমস্যা অনেক বেশি। কিছু সময়ে নিজেরাই নিজেদের বিপদ ডেকে আনে। কিন্তু ভারত ...Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.7988054752349854,
+      "embedding_score_norm": 0.18189617870944857,
+      "embedding_rank": 9
+    },
+    {
+      "title": "Amid U.S. tariffs row, PM Modi pushes local production",
+      "url": "https://www.thehindu.com/news/national/pm-narendra-modi-madhya-praadesh-dhar-rally-updates-september-17-2025/article70060230.ece",
+      "snippet": "Sep 17, 2025 — Prime Minister Narendra Modi on Wednesday urged citizens to buy only made-in-India products and traders to sell indigenously manufactured goods ...Read more",
+      "bm25_score_raw": 0.24079868059555468,
+      "bm25_score_norm": 0.05086234030393225,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.7957111597061157,
+      "embedding_score_norm": 0.15779421077359918,
+      "embedding_rank": 10
+    },
+    {
+      "title": "খামেনেই হত্যাকাণ্ডে কেন নীরব প্রধানমন্ত্রী মোদী? কাশ্মীর ...",
+      "url": "https://eisamay.com/nation/sonia-gandhi-criticises-centres-response-to-khameneis-death-invokes-kashmir-issue/200481876.cms",
+      "snippet": "Mar 2, 2026 — ইরানের সুপ্রিম লিডার আয়াতোল্লা আলি খামেনেইয়ের (Ayatollah Ali Khamenei) হত্যার ঘটনায় কোনও প্রতিক্রিয়া দেয়নি নরেন্দ্র মোদী সরকার। প্রধানমন্ত্রীর এই মৌনতাকেই কটাক্ষ করলেন কংগ্রেস নেত্রী সনিয়া গান্ধী ( ...Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.7754528522491455,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 11
+    }
+  ]
+}

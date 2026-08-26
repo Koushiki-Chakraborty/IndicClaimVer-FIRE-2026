@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/1441",
+    "text": "आर्बिट्रल ट्रिब्यूनल किसी अन्य पक्ष को आर्बिट्रेशन में भाग लेने के लिए बाध्य करने के लिए रेफरल न्यायालय के सीमित अधिकार क्षेत्र का दुरुपयोग करने वाले पक्ष पर जुर्माना लगा सकता है: सुप्रीम कोर्ट",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Arbitral Tribunal May Impose Costs On Party Abusing Referral Court's ...",
+      "url": "https://www.livelaw.in/amp/supreme-court/arbitral-tribunal-may-impose-costs-on-party-abusing-referral-courts-limited-jurisdiction-to-compel-anothers-participation-in-arbitration-supreme-court-274586",
+      "snippet": "The Supreme Court held that in the interest of justice, the Arbitral Tribunal may impose costs on the Party who abused the process of law constraining another",
+      "bm25_score_raw": 12.378493356973458,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9248170256614685,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Supreme Court Empowers Arbitral Tribunals to Penalize Legal Process ...",
+      "url": "https://knnindia.co.in/news/newsdetails/sectors/supreme-court-empowers-arbitral-tribunals-to-penalize-legal-process-abuses-in-arbitration",
+      "snippet": "The Supreme Court of India has upheld the authority of arbitral tribunals to impose costs on parties that misuse the legal process.",
+      "bm25_score_raw": 3.4584095451071355,
+      "bm25_score_norm": 0.2793885689778903,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.90544593334198,
+      "embedding_score_norm": 0.8909334186196437,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Supreme Court Establishes Limited Judicial Interference in Arbitration Petitions Under Section 11(6) of the Arbitration Act: Supreme Court Of India | CaseMine",
+      "url": "https://www.casemine.com/commentary/in/supreme-court-establishes-limited-judicial-interference-in-arbitration-petitions-under-section-11%286%29-of-the-arbitration-act/view",
+      "snippet": "# Supreme Court Establishes Limited Judicial Interference in Arbitration Petitions Under Section 11(6) of the Arbitration Act. The Supreme Court of India, in the landmark judgment of **Aslam Ismail Khan Deshmukh v. ASAP Fluids Pvt Ltd.** (2024 INSC 849), addressed critical issues surrounding the appointment of arbitrators under Section 11(6) of the *Arbitration and Conciliation Act, 1996* (hereinafter referred to as the \"Arbitration Act\"). This case revolves around a dispute arising from the Shareholders Agreement between the petitioner, Aslam Ismail Khan Deshmukh, and the respondents, ASAP Fluids Pvt. Ltd. The petitioner then approached the Supreme Court, which scrutinized whether the petitions were filed within the prescribed limitation period and whether the substantive claims were time-barred. The Supreme Court upheld the petitioner’s right to have the arbitration petitions heard, concluding that the applications were filed within the limitation period. Furthermore, the Court emphasized that determining whether claims are time-barred is a matter for the arbitral tribunal, not the referral court at the stage of appointing arbitrators.",
+      "bm25_score_raw": 4.689557463881816,
+      "bm25_score_norm": 0.37884719316345083,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8873659372329712,
+      "embedding_score_norm": 0.7891361975617557,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Supreme Court states that courts cannot interfere with the Arbitral Tribunal's interpretation of a contract",
+      "url": "https://www.argus-p.com/updates/updates/supreme-court-states-that-courts-cannot-interfere-with-the-arbitral-tribunals-interpretation-of-a-contract",
+      "snippet": "The Hon’ble Supreme Court of India (“**Supreme Court**”) vide its judgment dated May 7, 2024 in the case titled *National Highway Authority of India v. Meissners Hindustan Construction Company Limited* (Civil Appeal No. 4702 of 2023) has held that the Court under Section 34 of the Arbitration & Conciliation Act, 1996 (“**Act**”) cannot interfere with the Arbitral Tribunal’s interpretation of a contract. The Hon’ble Supreme Court noted that the Court is dealing with concurrent findings arrived at by the Arbitral Tribunal, the learned Single Judge in a petition under Section 34 of the Act, and the Division Bench in appeal under Section 37 of the Act and is concerned with the construction of the terms of a contract between the parties in terms of the Appeal under Section 37 of the Act. The Hon’ble Supreme Court noted the various precedents on the scope of interference with an Arbitral Award and referred to the case of *Parsa Kente Collieries Ltd. v.",
+      "bm25_score_raw": 1.8202684618418448,
+      "bm25_score_norm": 0.14705088974470318,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.8662140369415283,
+      "embedding_score_norm": 0.6700429932944422,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Fine line? A New Case on Arbitrators' Power to Impose Sanctions",
+      "url": "https://legalblogs.wolterskluwer.com/arbitration-blog/fine-line-a-new-case-on-arbitrators-power-to-impose-sanctions",
+      "snippet": "arbitral tribunals have the power to impose pecuniary sanctions, but they do not include a prohibition to that effect either.",
+      "bm25_score_raw": 2.4782976472568996,
+      "bm25_score_norm": 0.2002099589818614,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8611953258514404,
+      "embedding_score_norm": 0.6417857503623605,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Duane Morris LLP - UK Supreme Court Confirms Limits To Arbitration Act Appeals",
+      "url": "https://www.duanemorris.com/articles/supreme_court_confirms_limits_arbitration_act_appeals_0724.html",
+      "snippet": "Section 69(1) of the act states that a party can \"appeal to the court on a question of law,\" and Section 82(1) then clarifies that in a court in England and Wales, a \"question of law\" means \"a question of the law of England and Wales.\". On whether an English court can hear an appeal on a point of law not put to the tribunal, the Supreme Court noted that the act states that the question must be one \"which the tribunal was asked to determine.\" The Supreme Court then adopted the High Court of Justice's approach in its 2004 decision in Safeway Stores v. Accordingly, the Supreme Court held that the question of law that the Court of Appeal had set for itself was not one for which permission to appeal could be given and that the \"Court of Appeal did err in deciding a question of law which the … Board were not asked to determine.\".",
+      "bm25_score_raw": 4.477859486170343,
+      "bm25_score_norm": 0.3617451136448466,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8304377198219299,
+      "embedding_score_norm": 0.4686087871971198,
+      "embedding_rank": 6
+    },
+    {
+      "title": "Ahara Vidhi Vidhan | PDF",
+      "url": "https://www.scribd.com/presentation/677274962/Ahara-Vidhi-Vidhan",
+      "snippet": "Opens in a new window Opens an external website Opens an external website in a new window. 100%(1)100% found this document useful (1 vote). षवध आहर ववध वश आयतन. Download to read ad-free. आहर ववध वश आयतन. आहर ववध – आहर क वधन अथ पकर. वश  – वश तए अथ त आहर क वहतकर ए अवहतकर पभ. अथ त आहर ववध क    वहत ए अवहत म य. Download to read ad-free. आहर ववध वश आयतन क उदय. शरर वकर भ – आहर स. बल वकर भ – आहर सत. आहर रणमकर भ – समयग. आहर रणम कर भ अथ त आहर क सयक  म रसव धतओ म रवणत करन ल भ. समयग अथ त आहर य क पक    वतकरणव क    अनसर पयग करन ह समयग कहलत ह. आहर क    कय. Download to read ad-free. रणम क प आहर क    ग ण अन ग ण क    अनसर शररथ ग ण म  वमल जत ह अथ त उनक ण करत ह. Download to read ad-free. आहर ववध वश आयतन. चरक न अषवध आहर ववध वश  आयतन क ण न वकय ह. आठ आहर ववध वश  आयतन ह. आहर ववध क    वहत ए अवहत म य आठ करण ह. Download to read ad-free. Download to read ad-free. Download to read ad-free. Download to read ad-free. Download to read ad-free. Download to read ad-free. Download to read ad-free. Download to read ad-free. Download to read ad-free. Download to read ad-free. Download to read ad-free. Download to read ad-free. Download to read ad-free. Download to read ad-free. Download to read ad-free. Download to read ad-free. Download to read ad-free. Download to read ad-free. Download to read ad-free. Download to read ad-free. Download to read ad-free. Download to read ad-free. Download to read ad-free. Download to read ad-free. Download to read ad-free. Download to read ad-free. Download to read ad-free. Download to read ad-free. Download to read ad-free. ## Share this document. * Share on Facebook, opens a new window. * Share on LinkedIn, opens a new window. * Share with Email, opens mail client. Millions of documents at your fingertips, ad-free Subscribe with a free trial.",
+      "bm25_score_raw": 1.576571461441163,
+      "bm25_score_norm": 0.12736376035238547,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.8093650341033936,
+      "embedding_score_norm": 0.34996159095660834,
+      "embedding_rank": 7
+    },
+    {
+      "title": "2019:AHC:219177 - ए. एफ. आर.",
+      "url": "https://elegalix.allahabadhighcourt.in/elegalix/WebDownloadTranslatedHCJudgmentDocument.do?translatedJudgmentID=9292",
+      "snippet": "न\u0017चि/को\u0017रU को\u000f पा:रU र्तारह चिनष्पाक्षा ह\u000fन\u0017 !\u0017दिहए। प्र\u0017को W चिर्ताको न्या\u0017या को * चिनया1h को\u0017 पा\u0017लन कोरन* कोE आवाश्याकोर्ता\u0017 हH र्ता\u0017दिको न को * वाल याह सं%चिनजि„र्ता दिकोया\u0017 J\u0017 संको * दिको न्या\u0017या दिकोया\u0017 J\u0017र्ता\u0017 हH aजिल्को प्रकोर्ट रूपा सं* दिकोया\u0017 J\u0017र्ता\u0017 हH। नHसंचिग\u0011को न्या\u0017या को * चिनया1h को\u0017 उद्दे*श्या याह सं%चिनजि„र्ता कोरन\u0017 हH दिको \"अस्वा4कोरण: अन%वा\u0017दिदर्ता चिनण\u0011या वा\u0017दU को * सं1झन* ह*र्ता% हH और इसंको\u0017 दिकोसं4 अन्या उद्दे*श्या को * चिलया* प्रया\u000fग नहU\u001b दिकोया\u0017 J\u0017 संकोर्ता\u0017 हH। संभा4 को\u0017न:न4 और संरको\u0017रU उद्दे*श्याh को * चिलया* चिनण\u0011या को\u0017 1:ल सं\u001bस्कोरण हU 1\u0017न्या ह\u000fग\u0017।\" संरको\u0017रU को1\u0011!\u0017रU को * सं\u0017था को\u0017या\u0011वा\u0017हU 1K चिनष्पाक्षा व्यावाह\u0017र दिकोया\u0017 J\u0017ए जिJसंको * पारिरण\u00171स्वारूपा aख\u0017\u0011स्र्ताग4/सं*वा\u0017 सं* हर्ट\u0017न* संदिहर्ता संJ\u0017 दU J\u0017 संकोर्ता4 हH । (1हत्वा दिदया\u0017 गया\u0017) 20. को\u000f भा4 इसं4 1%द्दे* सं* चिनपार्टन* को\u0017 अवासंर चि1ल\u0017 था\u0017। याह अवा/\u0017रिरर्ता दिकोया\u0017 गया\u0017 हH: \"इसं स्र्तार पार, ह1K याह द*खन\u0017 हH दिको एको अपार\u0017/4 को * जिखल\u0017फ अन%श\u0017संन\u0017त्1को को\u0017या\u0011वा\u0017हU 1K, विवाभा\u0017ग एको वा\u0017दU कोE र्तारह हH और प्र\u0017र\u001bचिभाको a\u000fझ विवाभा\u0017ग पार आर\u000fपाh को\u000f सं\u0017विaर्ता कोरन* को * चिलए चिनदिहर्ता हH J\u000f चिनजि„र्ता रूपा सं* को * वाल को % छे 1Tजिखको सं\u0017क्ष्या या\u0017 दस्र्ता\u0017वा*J4 सं\u0017क्ष्या एकोत्र कोरको * सं\u0017विaर्ता दिकोया\u0017 J\u0017 संकोर्ता\u0017 हH। याह\u0017\u001b र्ताको दिको यादिद विवाभा\u0017ग को\u000f अपान* स्वाया\u001b को * रिरको{ड\u0011 /दस्र्ता\u0017वा*J पार भार\u000fसं\u0017 कोरन\u0017 हH J\u000f पाहल* सं* हU उपालब्/ ह` , र्ता\u000f भा4 विवावा*! न\u0017चि/को\u0017रU को\u0017 दृविष्टीको\u000fण दिको !:\u001bदिको को\u000fई उत्तर प्रस्र्ता%र्ता नहU\u001b दिकोया\u0017 गया\u0017 हH, इसंचिलए आर\u000fपा को\u000f स्वा!\u0017चिलर्ता रूपा सं* सं\u0017विaर्ता कोरन\u0017 ह\u000fग\u0017 , अन%1\u000fदिदर्ता नहU\u001b दिकोया\u0017 J\u0017 संकोर्ता\u0017 हH। याह गलर्ता ह\u000fग\u0017। याह a\u0017र-a\u0017र कोह\u0017 गया\u0017 हH दिको अन%श\u0017संन\u0017त्1को प्र\u0017चि/को\u0017रU को\u000f द\u000fर्ष4 \"अस्वा4कोरण: अन%वा\u0017दिदर्ता चिनण\u0011या वा\u0017दU को * सं1झन* ह*र्ता% हH और इसंको\u0017 दिकोसं4 अन्या उद्दे*श्या को * चिलया* प्रया\u000fग नहU\u001b दिकोया\u0017 J\u0017 संकोर्ता\u0017 हH। संभा4 को\u0017न:न4 और संरको\u0017रU उद्दे*श्याh को * चिलया* चिनण\u0011या को\u0017 1:ल सं\u001bस्कोरण हU 1\u0017न्या ह\u000fग\u0017।\" को1\u0011!\u0017रU को * जिखल\u0017फ एकोर्तारफ\u0017 र्तारUको * सं* को\u0017र\u0011वा\u0017ई कोरन* को\u0017 अचि/को\u0017र हH , ल*दिकोन को % छे संa:र्ता एकोत्र कोरन* हhग* और आर\u000fपाh को\u000f aन\u0017ए रखन* को * औचि! को\u0017कोर्ता\u0017\u0011 को\u000f प्र\u0017प्ता कोरन* को * चिलए था\u0017 , जिJसं* उसं \"अस्वा4कोरण: अन%वा\u0017दिदर्ता चिनण\u0011या वा\u0017दU को * सं1झन* ह*र्ता% हH और इसंको\u0017 दिकोसं4 अन्या उद्दे*श्या को * चिलया* प्रया\u000fग नहU\u001b दिकोया\u0017 J\u0017 संकोर्ता\u0017 हH। संभा4 को\u0017न:न4 और संरको\u0017रU उद्दे*श्याh को * चिलया* चिनण\u0011या को\u0017 1:ल सं\u001bस्कोरण हU 1\u0017न्या ह\u000fग\u0017।\" व्याविक्ता द्वा\u0017र\u0017 सं\u0017विaर्ता दिकोया\u0017 J\u0017न\u0017 !\u0017दिहए जिJसंन* या\u0017चि!",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.7927842140197754,
+      "embedding_score_norm": 0.2566052983337288,
+      "embedding_rank": 8
+    },
+    {
+      "title": "UGC NET Unit-2 Research Aptitude (Hindi) | PDF",
+      "url": "https://www.scribd.com/document/731435394/UGC-NET-Unit-2-Research-Aptitude-hindi-1",
+      "snippet": "UGC NET Unit-2 Research Aptitude (Hindi). 1.अछ शध सटक ट पर कज करन क लए एक वयत क क अन    सर करत  ह। अन    स  धनकतओ   क  य नकष बनत समय न तकत और आचर स   हत क अयस करन क आयकत हत ह।2.ष तकक तक पर आधरत ह और इसम आगमनमक और आगमनमक दन तरक शमल ह।3.तक समय ट और न क    तक स ट   स म तक टपय स लय गय ह।. 6.यह षमक ह और सभ उपलध आ   कड क उपयग करत ह, तक कई अपत न  ह।7.सटकत अन    स  धन क सबस महप     पहल   ओ   म स एक ह। जनकर सह और सह हन  चहए। उदहर क लए, यगशलए ट एक करन क लए एक नय   त तर दन करत ह। उपयग कए गए उपकर, उपकर य उपकर क अ   श   कन और यग क अ   तम परम म सटकत क मप जत ह।. समन करन क लए जनकर दन करन क लए कय जत ह, हम अन    स  धन क क    छ    छनय शषतओ   क स   प म त    त करत ह:1.अन    स  धन क मकत समयओ   पर यन द न चहए।2.अन    स  धन वयत हन चहए। यह जर द त ह क एक शधकत क एक स   रचत य  क नयजत करन चहए।3.अन    स  धन तकक हन चहए। तकक प स चर म ह रफर कए बन,  नक  शधकत कस भ ज   च म बह    त गत नह कर सकत ह।4.अन    स  धन क कम कय जन चहए। इसक मतलब ह क एक शधकत क नकष क अय शधकतओ   क लए उपलध करय जन चहए तक उह एक ह शध क दहरन स रक  ज सक।5.अन    स  धन तक    त हन चहए। यह द करत ह क नए तर म पछल शध क नकष क प     करन क ग     जइश हन चहए और षय क एक नए सम    ह क स अलग-अलग  स ट   स य समय म एक अलग ब   द    पर हन चहए।. * Share with Email, opens mail client (1) on Scribd&body=I’m reading UGC NET Unit-2 Research Aptitude(hindi) (1) on Scribd: https%3A%2F%2F).",
+      "bm25_score_raw": 3.204518669551387,
+      "bm25_score_norm": 0.25887792456956105,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.7854828834533691,
+      "embedding_score_norm": 0.21549604381819115,
+      "embedding_rank": 9
+    },
+    {
+      "title": "Nouns - Common And Proper | English Grammar & Composition Grade 3 | Periwinkle",
+      "url": "https://www.youtube.com/watch?v=DJy4PV6kETM",
+      "snippet": "Nouns - Common And Proper | English Grammar & Composition Grade 3 | Periwinkle\nPeriwinkle\n2009999 subscribers\n24751 likes\n3028049 views\n19 Dec 2017\nNouns - Common And Proper | English Grammar & Composition Grade 3 | Periwinkle\n\nWatch our other videos:\nEnglish Stories for Kids: https://www.youtube.com/playlist?list=PLC1df0pCmadfRHdJ4Q1IYX58jTNFJL60o\n\nEnglish Poems for Kids: https://www.youtube.com/playlist?list=PLC1df0pCmadfdUZWKOgzL_tvEE9gnrO8_\n\nEnglish Grammar for Kids: https://www.youtube.com/playlist?list=PLC1df0pCmadeOXsk1AGM6TgMrIkxLQIGP\n\nHindi Stories: https://www.youtube.com/playlist?list=PLC1df0pCmade3ewXfVcrIdo0os76Epk1d\n\nScience Videos: https://www.youtube.com/playlist?list=PLC1df0pCmadfv-D3JU1DiacOsAUhgWGwr\n\nFor more such videos on English Stories, English Grammar, English Stories, Poem & Rhymes, Hindi Stories and Poems, Maths, Environmental Studies and Science @ https://www.youtube.com/PeriwinkleKids\n\nDon't forget to subscribe!\n\nLike us on Facebook: https://www.facebook.com/PeriwinkleKids/\nFollow us on Twitter: https://twitter.com/Periwinkle_Kids\nFollow us on Google Plus: https://plus.google.com/+PeriwinkleKids\nWebsite: http://www.e-periwinkle.in/\n\n",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.7620702385902405,
+      "embedding_score_norm": 0.08367399195977404,
+      "embedding_rank": 10
+    },
+    {
+      "title": "Up:'डेढ़ साल से समझा रहा था लेकिन... अब मार डाला', थाने के नल पर धोए खून से सने हाथ, करन का कत्ल कर बोला असद - Aligarh Crime News: Man Kills Karan After 1.5 Years Of Feud Washes Blood-stained Hands At Police Station - Amar Ujala Hindi News Live",
+      "url": "https://www.amarujala.com/photo-gallery/uttar-pradesh/aligarh/aligarh-crime-news-man-kills-karan-after-1-5-years-of-feud-washes-blood-stained-hands-at-police-station-2025-10-13",
+      "snippet": "Title: Up:'डेढ़ साल से समझा रहा था लेकिन... अब मार डाला', थाने के नल पर धोए खून से सने हाथ, करन का कत्ल कर बोला असद - Aligarh Crime News: Man Kills Karan After 1.5 Years Of Feud Washes Blood-stained Hands At Police Station - Amar Ujala Hindi News Live\n# UP: 'डेढ़ साल से समझा रहा था लेकिन... अब मार डाला', थाने के नल पर धोए खून से सने हाथ, करन का कत्ल कर बोला असद. ## उत्तर प्रदेश के अलीगढ़ जिले में मुरादाबाद हाईवे पर स्थित मिश्रित आबादी वाले कस्बा जवां में शनिवार रात करन उर्फ काली (20) की चाकू से गोदकर हत्या कर दी गई। हत्या के मुख्य आरोपी असद ने खुद थाने पहुंचकर समर्पण कर दिया।. Aligarh Crime News: Man Kills Karan After 1.5 Years of Feud Washes Blood-Stained Hands at Police Station. Aligarh Crime News: Man Kills Karan After 1.5 Years of Feud Washes Blood-Stained Hands at Police Station. Aligarh Crime News: Man Kills Karan After 1.5 Years of Feud Washes Blood-Stained Hands at Police Station. Aligarh Crime News: Man Kills Karan After 1.5 Years of Feud Washes Blood-Stained Hands at Police Station. Aligarh Crime News: Man Kills Karan After 1.5 Years of Feud Washes Blood-Stained Hands at Police Station. रहें हर खबर से अपडेट, डाउनलोड करें Android Hindi News App, iOS Hindi News App और Amarujala Hindi News APP अपने मोबाइल पे|. Get all India News in Hindi related to live update of politics, sports, entertainment, technology and education etc. Stay updated with us for all breaking news from India News and more news in Hindi. ### एड फ्री अनुभव के लिए अमर उजाला प्रीमियम सब्सक्राइब करें. ### Disclaimer. ### अपना शहर चुनें. ### होम. ### वीडियो. अमर उजाला प्लस सब्सक्रिप्शन. ### फोटो. ### ई-पेपर. ### Follow Us. ### Today's e-Paper. ### Latest Aligarh News in Hindi. ### News From Indian States. ### Lifestyle. ### Tools. ### Entertainment News. ### Sports News. ### Latest News. ### Trending. ### Other Properties:.",
+      "bm25_score_raw": 5.290632126164883,
+      "bm25_score_norm": 0.42740517554055896,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.7561249732971191,
+      "embedding_score_norm": 0.05019989817995837,
+      "embedding_rank": 11
+    },
+    {
+      "title": "ब्रान्डहरू भान्छा सिंक नल पीडीएफ | ट्वालन्स",
+      "url": "https://www.tallsen.com/ne/kitchen-sink-faucets-pdf.html",
+      "snippet": "Title: ब्रान्डहरू भान्छा सिंक नल पीडीएफ | ट्वालन्स\nभान्सा भण्डारण समाधान. भान्सा भण्डारण. हार्न्स श्रृंखला किचन भण्डारण टोकरी   Janssn श्रृंखला किचन भण्डारण टोकरी   ड्रर भण्डारण श्रृंखला. स्टेनलेस स्टील मुटरी-कार्यात्मक टोकेसन श्रृंगिक   जादुई कोरर श्रृंखला   तारले टोक टोकरीलाई नरम बन्द हुने श्रृंखलाबाट तान्छ   टोकरी श्रृंखला तल तान्नुहोस्   स्वि ing ट्रे श्रृंखला   डुबकीको श्रृंखला   सामान्य तान्न टोकरी श्रृंखला बाहिर   स्टेनलेस स्टील डिश र्याक श्रृंखला   चामल बक्स / स्टेनलेस स्टील मर्मत बिन श्रृंखला   कटौती ट्रे. वार्डरोब भण्डारण. धातुको दराज बक्स. दराज स्लाइडहरू अन्डरमाउन्ट गर्नुहोस्. पूर्ण विस्तार सफ्ट क्लोजिंग अन्डरमाउन्ट दराज स्लाइडहरू. अन्डरमाउन्ट दराज स्लाइडहरू खोल्न पूर्ण विस्तार पुश   पूर्ण एक्शन समलि sy ्गी समिकरण नरम सीमा नजिक स्लाइड   अन्डरमाउन्ट दराज स्लाइडहरू खोल्न पूर्ण विस्तार सिंक्रोनाइज्ड पुश. दराज स्लाइडहरू. view all दराज स्लाइडहरू →. लुकाइएको प्लेट हाइड्रोलिक दिसादै हाई (एक तरीका)   एक तरीका हाइड्रोलिक दिसिंग hinge   एक तरीकाले 3D समायोज्य जलप्रलयिक दिल्डिंग hinge   एक तरीका हाइड्रोलिक हाई   क्लिप-अन RED समायोजन हाइड्रोलिक डेम्फमोग hinge (एक-मार्ग)   एक तरीका क्लिप-अन ब्याडरायिक दिल्डिंग hinge (फलामको बटन)   असुरक्षित एल्युमिनियम फ्रेम फ्रेम हाइड्रोलिकस हाइड्राइंग hinge   एकतर्फी अविभाज्य हिन्ज. दुई तरिका हाइड्रोलिक दिसादै छेड्ने hinge   दुई तरिका 3D समायोज्य जलप्रलयिक दिल्डिंग hinge   दुई तरिका स्लाइड-मा हिलिंग. स्टेनलेस स्टील एक तरीकाले हाइड्रोलिक दिसिंग hinge   स्टेनलेस स्टील क्लिप-अन RED समायोज्य लम्बाई हाईपिंग hinge. 165 डिग्री स्लाइड-अन हीड   1 155 डिग्री क्लिप-अन हाइड्रालराइम्पागिंग HINE   165 डिग्री 3D समायोज्य हाइड्रोलिक हाइड्राइंग HINE   135 डिग्री स्लाइड-अन ही   90 डिग्री hinge   45 डिग्री हाई बन्डी. M0 मिमी कप हाइड्रोलिक दिसादै छेद   2mm मिमी कप हाइड्रोलिक दिसिंग hinge   2mm मिमी कप्लेलोकर हाइड्रोलिक दिसादै हाई   हावा hinge   3D लुकाइएको काज   लुकाइएको hinge. दराज स्लाइडहरू अन्डरमाउन्ट गर्नुहोस्. दराज स्लाइड PDF. दराज स्लाइडहरू अन्डरमाउन्ट गर्नुहोस्. वार्डरोब भण्डारण हार्डवेयर PDF. भान्सा भण्डारण सहायक PDF. हार्न्स श्रृंखला किचन भण्डारण टोकरी. Janssn श्रृंखला किचन भण्डारण टोकरी. ड्रर भण्डारण श्रृंखला. चामल बक्स / स्टेनलेस स्टील मर्मत बिन श्रृंखला. दराज स्लाइडहरू अन्डरमाउन्ट गर्नुहोस्. पूर्ण विस्तार सफ्ट क्लोजिंग अन्डरमाउन्ट दराज स्लाइडहरू. अन्डरमाउन्ट दराज स्लाइडहरू खोल्न पूर्ण विस्तार पुश. अन्डरमाउन्ट दराज स्लाइडहरू खोल्न पूर्ण विस्तार सिंक्रोनाइज्ड पुश. दराज स्लाइडहरू. क्लिप-अन RED समायोजन हाइड्रोलिक डेम्फमोग hinge (एक-मार्ग). स्टेनलेस स्टील एक तरीकाले हाइड्रोलिक दिसिंग hinge. स्टेनलेस स्टील क्लिप-अन RED समायोज्य लम्बाई हाईपिंग hinge. दराज स्लाइडहरू अन्डरमाउन्ट गर्नुहोस्. दराज स्लाइड PDF. डाउनलोड गर्नुहोस्. Tallsen मा थिचिएको किचन सिंकहरूको लागि हाम्रो सावधानीपूर्वक क्राफ्ट गरिएको किचन सिङ्क सूची अन्वेषण गर्नुहोस्। विभिन्न शैली, आकार र सामग्री अन्वेषण गर्नुहोस्। डिजाइन प्रेरणाको लागि अहिले डाउनलोड गर्नुहोस्.",
+      "bm25_score_raw": 1.6567554236523985,
+      "bm25_score_norm": 0.13384144385544794,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.7472090721130371,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

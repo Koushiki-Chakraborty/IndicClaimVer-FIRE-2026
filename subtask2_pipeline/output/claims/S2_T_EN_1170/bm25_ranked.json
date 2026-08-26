@@ -1,0 +1,57 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1170",
+    "text": "Supreme Court Collegium Recommends Elevation Of Supreme Court Advocate & Judicial Officer As Judges Of Orissa High Court",
+    "lang": "english"
+  },
+  "ranked_evidence": [
+    {
+      "title": "Supreme Court Collegium Recommends Elevation Of 4 ...",
+      "url": "https://www.youtube.com/watch?v=b3hMzSAfgq8",
+      "snippet": "Supreme Court Collegium Recommends Elevation Of 4 Advocates As Orissa High Court Judges. @KanakNewsOdisha29 likes3K views4 years ago",
+      "bm25_score_raw": 8.965340185997537,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Justice Sudhanshu Dhulia reflects on his judicial journey, the ...",
+      "url": "https://www.instagram.com/reel/DNN5I81pNKy?hl=en",
+      "snippet": "SUPREME COURT NEWS SUPREME COURT REFUSES TO ENTERTAIN JUDICIAL OFFICER'S PLEA SEEKING CONSIDERATION FOR ELEVATION ... High Court Collegium",
+      "bm25_score_raw": 8.042309158015762,
+      "bm25_score_norm": 0.8247299598185002,
+      "bm25_rank": 2
+    },
+    {
+      "title": "SC Collegium recommends elevation of five judges as ...",
+      "url": "https://www.thehindu.com/news/national/sc-collegium-recommends-elevation-of-five-judges-as-chief-justices-of-high-courts/article70412854.ece",
+      "snippet": "Justice Sangam Kumar Sahoo of the Orissa High Court was recommended as Patna High Court Chief Justice.",
+      "bm25_score_raw": 6.627852905468476,
+      "bm25_score_norm": 0.5561454846454388,
+      "bm25_rank": 3
+    },
+    {
+      "title": "Supreme Court Collegium Recommends Elevation Of ...",
+      "url": "https://www.livelaw.in/high-court/orissa-high-court/supreme-court-collegium-recommends-advocate-judicial-officer-elevation-judges-of-orissa-high-court-235472",
+      "snippet": "The name of Advocate Sibo Sankar Mishra, who is currently an Advocate-on-Record for the State of Odisha in the Supreme Court, has been recommended.",
+      "bm25_score_raw": 5.084632702136651,
+      "bm25_score_norm": 0.2631106257433697,
+      "bm25_rank": 4
+    },
+    {
+      "title": "Collegium Resolutions",
+      "url": "https://www.sci.gov.in/collegium-resolutions",
+      "snippet": "| Statement dated 2nd June 2026 reg. appointment of Advocates as Judges in the High Court of Karnataka | Accessible Version : View (95 KB) |. appointment of an Advocate as Judge in the High Court of Madhya Pradesh | Accessible Version : View (73 KB) |. appointment of Judicial Officers as Judges in the High Court of Himachal Pradesh | Accessible Version : View (90 KB) |. | Statement dated 22nd May 2026 reg. appointment of Chief Justice in the High Court of Judicature at Patna | Accessible Version : View (179 KB) |. appointment of Advocates and Judicial Officers as Judges in the Madras High Court | Accessible Version : View (113 KB) |. appointment of Advocates as Judges in the High Court at Calcutta | Accessible Version : View (251 KB) |. appointment of Judicial Officers as Judges in the High Court of Andhra Pradesh | Accessible Version : View (98 KB) |.",
+      "bm25_score_raw": 4.618854250491546,
+      "bm25_score_norm": 0.17466613638095344,
+      "bm25_rank": 5
+    },
+    {
+      "title": "Collegium Recommends Elevation of 4 Chief Justices and ...",
+      "url": "https://www.scconline.com/blog/post/2026/05/28/collegium-recommends-5-names-for-elevation-to-the-sc",
+      "snippet": "Collegium Recommends Elevation of 4 Chief Justices and Senior Advocate V. Mohana to Supreme Court. The Collegium recommendations were declared",
+      "bm25_score_raw": 3.6990035831991577,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6
+    }
+  ]
+}

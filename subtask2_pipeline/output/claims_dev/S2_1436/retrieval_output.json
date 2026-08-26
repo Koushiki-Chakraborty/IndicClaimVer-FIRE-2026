@@ -1,0 +1,108 @@
+{
+  "claim": {
+    "id": "S2/1436",
+    "text": "No evidence to suggest healthy kids, adolescents need Covid booster doses: WHO chief Scientist",
+    "lang": "dev"
+  },
+  "generated_queries": {
+    "english_translation": "No evidence to suggest healthy kids, adolescents need Covid booster doses: WHO chief Scientist",
+    "native_query": "WHO evidence healthy kids adolescents Covid booster doses",
+    "english_query": "WHO evidence healthy kids adolescents Covid booster doses"
+  },
+  "native_retrieval": [
+    {
+      "title": "WHO says no evidence healthy children, adolescents need ...",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/who-says-no-evidence-healthy-children-adolecents-need-covid-19-boosters-2022-01-18",
+      "snippet": "There is no evidence at present that healthy children and adolescents need booster doses of COVID-19 vaccine, the World Health Organization's chief scientist"
+    },
+    {
+      "title": "Interim statement on COVID-19 vaccination for children and adolescents",
+      "url": "https://www.who.int/news/item/24-11-2021-interim-statement-on-covid-19-vaccination-for-children-and-adolescents",
+      "snippet": "# Interim statement on COVID-19 vaccination for children and adolescents. Although the majority of COVID-19 vaccines are only approved for use in adults aged 18 years and above, an increasing number of vaccines are now also being authorized for use in children. Trials in children as young as age 3 years were completed for two inactivated vaccines (Sinovac-CoronaVac and BBIBP-CorV) and these products were approved by Chinese authorities for the age indication of 3-17 years; although these vaccine products have received EUL for adults, they have not yet received WHO EUL for children. The greatest burden of disease in terms of severe disease and deaths remains among older persons and those with comorbidities, the evidence of which led to the WHO Prioritization Roadmap which identifies high priority-use groups according to vaccine supplies available to countries(1). Overall, there are proportionally fewer symptomatic infections, and cases with severe disease and deaths from COVID-19 in children and adolescents, compared with older age groups."
+    },
+    {
+      "title": "ACIP Evidence to Recommendations for Use of Moderna ...",
+      "url": "https://www.cdc.gov/acip/evidence-to-recommendations/covid-19-moderna-vaccine-6-17-years-etr.html",
+      "snippet": "Adolescents ages 12 – 17 years: Risk of symptomatic COVID-19 was reduced among persons ages 12 – 17 years receiving two doses of the Moderna"
+    },
+    {
+      "title": "COVID-19 vaccine for children and adolescents | Canadian Paediatric Society",
+      "url": "https://cps.ca/en/documents/position/covid-19-vaccine-for-children-and-adolescents",
+      "snippet": "# COVID-19 vaccine for children and adolescents. Based on recommendations from the National Advisory Committee on Immunization (NACI), the recommendations below offer guidance for the vaccination of children aged 6 months and older and youth[1]. * A primary series of an mRNA COVID-19 vaccine *should*be offered to all children and adolescents 5 years of age and older. * Primary vaccination of immunocompetent children 5 years of age and over and adolescents consists of a single dose of a COVID-19 mRNA XBB.1.5 vaccine. Children and adolescents 5 years of age and older who are moderately to severely immunocompromised should be offered a primary series of two doses of an mRNA COVID-19 XBB.1.5 vaccine, with an optimum interval of 4 to 8 weeks between doses. * For the fall of 2023, NACI recommends that those previously vaccinated with non-XBB.1.5 COVID-19 vaccines receive a dose or doses of an XBB.1.5 mRNA vaccine if it has been at least 6 months from the previous COVID-19 vaccine dose or known SARS-CoV-2 infection."
+    },
+    {
+      "title": "Recommendations for COVID-19 Vaccines in Infants ...",
+      "url": "https://publications.aap.org/pediatrics/article/156/5/e2025073924/203222/Recommendations-for-COVID-19-Vaccines-in-Infants",
+      "snippet": "The AAP recommends a single dose of age-appropriate 2025–2026 COVID-19 vaccine for all children and adolescents 2 through 18 years of age"
+    },
+    {
+      "title": "When Should Kids Get the COVID Vaccine? - HealthyChildren.org",
+      "url": "https://www.healthychildren.org/English/health-issues/conditions/COVID-19/Pages/when-can-kids-get-the-COVID-vaccine-or-booster.aspx",
+      "snippet": "# When Should Kids Get the COVID Vaccine? The American Academy of Pediatrics (AAP) recommends the COVID vaccine for all young children age 6 months through 23 months. risk for severe COVID-19. Beyond that age, it recommends the vaccine for children and teens with risk factors for COVID. **All children age 6 months through age 23 months,** since they are at high risk for severe COVID and. Children age 2 through 18 years without risk factors can get a single dose of the updated COVID vaccine. ## Recommended dose & type of COVID-19 vaccine for children & teens. Children are up to date when they get all doses of COVID vaccine as recommended in the. If your child is at least 12 years old and cannot receive the mRNA vaccines, they may be eligible for another type of vaccine called a. ## Do kids need to wait to get the vaccine if they had COVID-19?"
+    }
+  ],
+  "english_retrieval": [
+    {
+      "title": "WHO says no evidence healthy children, adolescents need ...",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/who-says-no-evidence-healthy-children-adolecents-need-covid-19-boosters-2022-01-18",
+      "snippet": "There is no evidence at present that healthy children and adolescents need booster doses of COVID-19 vaccine, the World Health Organization's chief scientist"
+    },
+    {
+      "title": "Interim statement on COVID-19 vaccination for children and adolescents",
+      "url": "https://www.who.int/news/item/24-11-2021-interim-statement-on-covid-19-vaccination-for-children-and-adolescents",
+      "snippet": "# Interim statement on COVID-19 vaccination for children and adolescents. Although the majority of COVID-19 vaccines are only approved for use in adults aged 18 years and above, an increasing number of vaccines are now also being authorized for use in children. Trials in children as young as age 3 years were completed for two inactivated vaccines (Sinovac-CoronaVac and BBIBP-CorV) and these products were approved by Chinese authorities for the age indication of 3-17 years; although these vaccine products have received EUL for adults, they have not yet received WHO EUL for children. The greatest burden of disease in terms of severe disease and deaths remains among older persons and those with comorbidities, the evidence of which led to the WHO Prioritization Roadmap which identifies high priority-use groups according to vaccine supplies available to countries(1). Overall, there are proportionally fewer symptomatic infections, and cases with severe disease and deaths from COVID-19 in children and adolescents, compared with older age groups."
+    },
+    {
+      "title": "ACIP Evidence to Recommendations for Use of Moderna ...",
+      "url": "https://www.cdc.gov/acip/evidence-to-recommendations/covid-19-moderna-vaccine-6-17-years-etr.html",
+      "snippet": "Adolescents ages 12 – 17 years: Risk of symptomatic COVID-19 was reduced among persons ages 12 – 17 years receiving two doses of the Moderna"
+    },
+    {
+      "title": "COVID-19 vaccine for children and adolescents | Canadian Paediatric Society",
+      "url": "https://cps.ca/en/documents/position/covid-19-vaccine-for-children-and-adolescents",
+      "snippet": "# COVID-19 vaccine for children and adolescents. Based on recommendations from the National Advisory Committee on Immunization (NACI), the recommendations below offer guidance for the vaccination of children aged 6 months and older and youth[1]. * A primary series of an mRNA COVID-19 vaccine *should*be offered to all children and adolescents 5 years of age and older. * Primary vaccination of immunocompetent children 5 years of age and over and adolescents consists of a single dose of a COVID-19 mRNA XBB.1.5 vaccine. Children and adolescents 5 years of age and older who are moderately to severely immunocompromised should be offered a primary series of two doses of an mRNA COVID-19 XBB.1.5 vaccine, with an optimum interval of 4 to 8 weeks between doses. * For the fall of 2023, NACI recommends that those previously vaccinated with non-XBB.1.5 COVID-19 vaccines receive a dose or doses of an XBB.1.5 mRNA vaccine if it has been at least 6 months from the previous COVID-19 vaccine dose or known SARS-CoV-2 infection."
+    },
+    {
+      "title": "Recommendations for COVID-19 Vaccines in Infants ...",
+      "url": "https://publications.aap.org/pediatrics/article/156/5/e2025073924/203222/Recommendations-for-COVID-19-Vaccines-in-Infants",
+      "snippet": "The AAP recommends a single dose of age-appropriate 2025–2026 COVID-19 vaccine for all children and adolescents 2 through 18 years of age"
+    },
+    {
+      "title": "When Should Kids Get the COVID Vaccine? - HealthyChildren.org",
+      "url": "https://www.healthychildren.org/English/health-issues/conditions/COVID-19/Pages/when-can-kids-get-the-COVID-vaccine-or-booster.aspx",
+      "snippet": "# When Should Kids Get the COVID Vaccine? The American Academy of Pediatrics (AAP) recommends the COVID vaccine for all young children age 6 months through 23 months. risk for severe COVID-19. Beyond that age, it recommends the vaccine for children and teens with risk factors for COVID. **All children age 6 months through age 23 months,** since they are at high risk for severe COVID and. Children age 2 through 18 years without risk factors can get a single dose of the updated COVID vaccine. ## Recommended dose & type of COVID-19 vaccine for children & teens. Children are up to date when they get all doses of COVID vaccine as recommended in the. If your child is at least 12 years old and cannot receive the mRNA vaccines, they may be eligible for another type of vaccine called a. ## Do kids need to wait to get the vaccine if they had COVID-19?"
+    }
+  ],
+  "merged_results": [
+    {
+      "title": "WHO says no evidence healthy children, adolescents need ...",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/who-says-no-evidence-healthy-children-adolecents-need-covid-19-boosters-2022-01-18",
+      "snippet": "There is no evidence at present that healthy children and adolescents need booster doses of COVID-19 vaccine, the World Health Organization's chief scientist"
+    },
+    {
+      "title": "Interim statement on COVID-19 vaccination for children and adolescents",
+      "url": "https://www.who.int/news/item/24-11-2021-interim-statement-on-covid-19-vaccination-for-children-and-adolescents",
+      "snippet": "# Interim statement on COVID-19 vaccination for children and adolescents. Although the majority of COVID-19 vaccines are only approved for use in adults aged 18 years and above, an increasing number of vaccines are now also being authorized for use in children. Trials in children as young as age 3 years were completed for two inactivated vaccines (Sinovac-CoronaVac and BBIBP-CorV) and these products were approved by Chinese authorities for the age indication of 3-17 years; although these vaccine products have received EUL for adults, they have not yet received WHO EUL for children. The greatest burden of disease in terms of severe disease and deaths remains among older persons and those with comorbidities, the evidence of which led to the WHO Prioritization Roadmap which identifies high priority-use groups according to vaccine supplies available to countries(1). Overall, there are proportionally fewer symptomatic infections, and cases with severe disease and deaths from COVID-19 in children and adolescents, compared with older age groups."
+    },
+    {
+      "title": "ACIP Evidence to Recommendations for Use of Moderna ...",
+      "url": "https://www.cdc.gov/acip/evidence-to-recommendations/covid-19-moderna-vaccine-6-17-years-etr.html",
+      "snippet": "Adolescents ages 12 – 17 years: Risk of symptomatic COVID-19 was reduced among persons ages 12 – 17 years receiving two doses of the Moderna"
+    },
+    {
+      "title": "COVID-19 vaccine for children and adolescents | Canadian Paediatric Society",
+      "url": "https://cps.ca/en/documents/position/covid-19-vaccine-for-children-and-adolescents",
+      "snippet": "# COVID-19 vaccine for children and adolescents. Based on recommendations from the National Advisory Committee on Immunization (NACI), the recommendations below offer guidance for the vaccination of children aged 6 months and older and youth[1]. * A primary series of an mRNA COVID-19 vaccine *should*be offered to all children and adolescents 5 years of age and older. * Primary vaccination of immunocompetent children 5 years of age and over and adolescents consists of a single dose of a COVID-19 mRNA XBB.1.5 vaccine. Children and adolescents 5 years of age and older who are moderately to severely immunocompromised should be offered a primary series of two doses of an mRNA COVID-19 XBB.1.5 vaccine, with an optimum interval of 4 to 8 weeks between doses. * For the fall of 2023, NACI recommends that those previously vaccinated with non-XBB.1.5 COVID-19 vaccines receive a dose or doses of an XBB.1.5 mRNA vaccine if it has been at least 6 months from the previous COVID-19 vaccine dose or known SARS-CoV-2 infection."
+    },
+    {
+      "title": "Recommendations for COVID-19 Vaccines in Infants ...",
+      "url": "https://publications.aap.org/pediatrics/article/156/5/e2025073924/203222/Recommendations-for-COVID-19-Vaccines-in-Infants",
+      "snippet": "The AAP recommends a single dose of age-appropriate 2025–2026 COVID-19 vaccine for all children and adolescents 2 through 18 years of age"
+    },
+    {
+      "title": "When Should Kids Get the COVID Vaccine? - HealthyChildren.org",
+      "url": "https://www.healthychildren.org/English/health-issues/conditions/COVID-19/Pages/when-can-kids-get-the-COVID-vaccine-or-booster.aspx",
+      "snippet": "# When Should Kids Get the COVID Vaccine? The American Academy of Pediatrics (AAP) recommends the COVID vaccine for all young children age 6 months through 23 months. risk for severe COVID-19. Beyond that age, it recommends the vaccine for children and teens with risk factors for COVID. **All children age 6 months through age 23 months,** since they are at high risk for severe COVID and. Children age 2 through 18 years without risk factors can get a single dose of the updated COVID vaccine. ## Recommended dose & type of COVID-19 vaccine for children & teens. Children are up to date when they get all doses of COVID vaccine as recommended in the. If your child is at least 12 years old and cannot receive the mRNA vaccines, they may be eligible for another type of vaccine called a. ## Do kids need to wait to get the vaccine if they had COVID-19?"
+    }
+  ]
+}

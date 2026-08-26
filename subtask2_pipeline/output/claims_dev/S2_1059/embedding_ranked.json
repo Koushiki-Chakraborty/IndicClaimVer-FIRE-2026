@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/1059",
+    "text": "পিকে'র নয়া দলের আত্মপ্রকাশ 2 অক্টোবর, লড়বে বিধানসভা ভোটেও - PRASHANT KISHOR PARTY",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "পিকে'র নয়া দলের আত্মপ্রকাশ 2 অক্টোবর, লড়বে বিধানসভা ভোটেও",
+      "url": "https://www.etvbharat.com/bn/!bharat/prashant-kishors-jan-suraaj-to-become-political-party-on-october-2-wbs24072805657",
+      "snippet": "Prashant Kishor 's Political Party: ভোটকুশলী প্রশান্ত কিশোরের নতুন রাজনৈতিক দলের আত্মপ্রকাশ হবে গান্ধি জয়ন্তীতে ৷ বিহার বিধানসভা ভোটে লড়বে পিকে'র দল ৷.",
+      "bm25_score_raw": 6.361557208696316,
+      "bm25_score_norm": 0.8927530645400849,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8867865800857544,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Kishor to make electoral debut by taking on BJP in Bankipur bypoll",
+      "url": "https://theprint.in/politics/after-skipping-2025-polls-prashant-kishor-to-make-electoral-debut-by-taking-on-bjp-in-bankipur-bypoll/2978083?amp=",
+      "snippet": "New Delhi: Jan Suraaj Party (JSP) founder and political strategist-turned-politician Prashant Kishor will contest the upcoming Bankipur",
+      "bm25_score_raw": 3.9807017861752807,
+      "bm25_score_norm": 0.4534776218161559,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8647738695144653,
+      "embedding_score_norm": 0.7132581757197428,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Bihar polls: Prashant Kishor to make electoral debut; claims this will be ...",
+      "url": "https://timesofindia.indiatimes.com/india/bihar-polls-prashant-kishor-to-make-electoral-debut-claims-this-will-be-nitish-kumars-last-election/amp_articleshow/124351415.cms",
+      "snippet": "India News: Prashant Kishor's Jan Suraaj will contest Bihar's assembly elections, with a \\\"full of surprises\\\" candidate list due October 9.",
+      "bm25_score_raw": 6.9428313319551815,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8610827922821045,
+      "embedding_score_norm": 0.665177489984161,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Prashant Kishor's electoral debut Prashant Kishor to contest upcoming ...",
+      "url": "https://www.facebook.com/WIONews/posts/prashant-kishors-electoral-debutprashant-kishor-to-contest-upcoming-bypolls-in-b/1385789233660247",
+      "snippet": "Prashant Kishor's electoral debut Prashant Kishor to contest upcoming bypolls in Bihar Diksha Bisla has more details.",
+      "bm25_score_raw": 4.276449430599733,
+      "bm25_score_norm": 0.5080440084225072,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8513678908348083,
+      "embedding_score_norm": 0.5386293052579273,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Prashant Kishor: এখনই কোনও রাজনৈতিক দল নয়, ঘোষণা প্রশান্ত ...",
+      "url": "https://www.youtube.com/watch?v=zrQB-aRFSks",
+      "snippet": "Prashant Kishor: এখনই কোনও রাজনৈতিক দল নয়, ঘোষণা প্রশান্ত কিশোরের।Bangla News. @abpanandatv44",
+      "bm25_score_raw": 3.2265541857959623,
+      "bm25_score_norm": 0.3143349767390221,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8468465209007263,
+      "embedding_score_norm": 0.4797330662442933,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Jan Suraaj Party - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jan_Suraaj_Party",
+      "snippet": "# Jan Suraaj Party. Rooted in Gandhian principles and social liberalism, the party positions itself at the centre to centre-left of the political spectrum, and seeks to function in the spirit of Mahatma Gandhi’s leadership acted as a broad-based people’s movement. The party emerged from the *Jan Suraaj Abhiyan*, a grassroots movement initiated by Kishor to engage with the people of Bihar and develop a governance roadmap. This was followed by a statewide *padyatra* that began on 2 October 2022 from the Gandhi Ashram in Champaran, the site of Mahatma Gandhi’s 1917 satyagraha, culminating in a launch event in Patna, that drew a crowd of over 200,000 people, marking the formal transition of Kishor’s Jan Suraaj Abhiyan into a political organisation. About a year later, on 2 May 2022, Prashant Kishor hinted at the formation of a political outfit through a tweet \"Tweet (social media)\") stating, *\"It’s time to go to the Real Masters, The People,\"* and advocating for *\"Jan Suraaj—People’s Good Governance.\"*.",
+      "bm25_score_raw": 2.2965194350801044,
+      "bm25_score_norm": 0.14274058969440603,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.8455873131752014,
+      "embedding_score_norm": 0.4633303829311469,
+      "embedding_rank": 6
+    },
+    {
+      "title": "Prashant Kishor News | 'No Alliance Before Or After Polls, But ...",
+      "url": "https://www.youtube.com/watch?v=oRAmnrxJb3Q",
+      "snippet": "At NDTV's Bihar Power Play conclave in Patna, Prashant Kishor, founder of the Jan Suraaj Party, declared that his party will not ally with",
+      "bm25_score_raw": 3.0127485527894837,
+      "bm25_score_norm": 0.2748871534031803,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8390240669250488,
+      "embedding_score_norm": 0.37783626820708716,
+      "embedding_rank": 7
+    },
+    {
+      "title": "Prashant Kishor's debut in Bihar politics with the Jan ...",
+      "url": "https://www.facebook.com/Timesnow/posts/prashant-kishors-debut-in-bihar-politics-with-the-jan-suraaj-party-jsp-ended-in-/1324343829736876",
+      "snippet": "Prashant Kishor's debut in Bihar politics with the Jan Suraaj Party (JSP) ended in shock horror. His party, which launched with an aim to",
+      "bm25_score_raw": 2.072758146242494,
+      "bm25_score_norm": 0.10145591600576258,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.8365572690963745,
+      "embedding_score_norm": 0.3457032827106432,
+      "embedding_rank": 8
+    },
+    {
+      "title": "Jan Suraaj founder Prashant Kishor is making his electoral debut in the bye- ...",
+      "url": "https://www.facebook.com/scroll.in/posts/jan-suraaj-founder-prashant-kishor-is-making-his-electoral-debut-in-the-bye-elec/1566741778833095",
+      "snippet": "Nobody is talking about the effect of Jan Suraaj in this election. Won't be easy to believe but Jansuraaj actually worked as B team for NDA",
+      "bm25_score_raw": 1.870280806490708,
+      "bm25_score_norm": 0.06409819901896247,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.8356918096542358,
+      "embedding_score_norm": 0.33442964067207054,
+      "embedding_rank": 9
+    },
+    {
+      "title": "Jan Suraaj founder Prashant Kishor announced that he will contest ...",
+      "url": "https://www.facebook.com/PressTrustofIndia/posts/jan-suraaj-founder-prashant-kishor-announced-that-he-will-contest-the-upcoming-b/1300233698974923",
+      "snippet": "A New Commitment of Childoo Philosophy: Where Humanity, Family, and Technology Unite — By Prashant Kumar Pikku (Childoo ), Indian",
+      "bm25_score_raw": 3.1840630390588807,
+      "bm25_score_norm": 0.3064952242205703,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8214828968048096,
+      "embedding_score_norm": 0.14934159445945527,
+      "embedding_rank": 10
+    },
+    {
+      "title": "A video has surfaced featuring Jan Suraaj Party founder ...",
+      "url": "https://www.instagram.com/reel/DU5bXBKEycg?hl=bn",
+      "snippet": "Jan Suraaj founder Prashant Kishor has asserted that his party cannot come to power in Bihar merely with the support of the RJD and Congress.",
+      "bm25_score_raw": 2.9222672494660085,
+      "bm25_score_norm": 0.25819306345563897,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.8111788034439087,
+      "embedding_score_norm": 0.015118481940432933,
+      "embedding_rank": 11
+    },
+    {
+      "title": "এখনই কোনও রাজনৈতিক দল নয়, ঘোষণা প্রশান্ত কিশোরের।Bangla News",
+      "url": "https://bengali.abplive.com/videos/news/india-prashant-kishor-no-political-party-right-now-declares-prashant-kishor-bangla-news-886059",
+      "snippet": "এখনই কোনও রাজনৈতিক দল গড়ছেন না প্রশান্ত কিশোর (Prashant Kishor)। আপাতত গড়তে চান জন সুরজ নামে একটি সংগঠন। বিহারজুড়ে ৩ হাজার কিমি পদযাত্রার ঘোষণা প্রশান্ত কিশোরের।",
+      "bm25_score_raw": 1.52287111802324,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.8100181818008423,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

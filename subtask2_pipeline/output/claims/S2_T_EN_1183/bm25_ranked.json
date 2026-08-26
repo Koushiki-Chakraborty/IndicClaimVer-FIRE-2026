@@ -1,0 +1,57 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1183",
+    "text": "EC notice to Beni Prasad Verma for remarks against Modi",
+    "lang": "english"
+  },
+  "ranked_evidence": [
+    {
+      "title": "EC notice to Beni Prasad Verma for remarks against Modi",
+      "url": "https://www.indiatvnews.com/politics/national/ec-notice-to-beni-prasad-verma-for-remarks-against-modi-16518.html",
+      "snippet": "New Delhi: Election Commission today issued a show cause notice to Union minister Beni Prasad Verma for his “biggest goon” remarks against",
+      "bm25_score_raw": 6.069431784129476,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "EC censures Beni Prasad Verma for 'highly insulting ...",
+      "url": "https://www.deccanchronicle.com/140501/nation-current-affairs/article/ec-censures-beni-highly-insulting-remarks-against-modi",
+      "snippet": "EC has expressed 'displeasure' over Verma dubbing Modi as the 'biggest goon' of RSS.",
+      "bm25_score_raw": 2.486442582224919,
+      "bm25_score_norm": 0.3056559196153832,
+      "bm25_rank": 2
+    },
+    {
+      "title": "EC warns Cong's Beni Prasad Verma over Modi remarks",
+      "url": "https://www.firstpost.com/politics/ec-warns-congs-beni-prasad-verma-over-modi-remarks-1504761.html",
+      "snippet": "The Election Commission Thursday warned Congress leader Beni Prasad Verma that he would be restricted from campaigning if he makes any more insulting remarks.",
+      "bm25_score_raw": 2.388366549947336,
+      "bm25_score_norm": 0.2866498583067551,
+      "bm25_rank": 3
+    },
+    {
+      "title": "Behave or face ban, EC tells Beni over anti-Modi remarks",
+      "url": "https://www.hindustantimes.com/india/behave-or-face-ban-ec-tells-beni-over-anti-modi-remarks/story-qmOOSWQz1txQnULbvNMcbL-amp.html",
+      "snippet": "The EC on Thursday warned Congress leader Beni Prasad Verma that he could be barred from campaigning if he did not refrain from making",
+      "bm25_score_raw": 2.1640200142389348,
+      "bm25_score_norm": 0.24317395585605217,
+      "bm25_rank": 4
+    },
+    {
+      "title": "One-More-And-You're-Out Warning For Beni Prasad ...",
+      "url": "https://www.ndtv.com/elections-news/one-more-and-youre-out-warning-for-beni-prasad-verma-after-modi-remarks-559665",
+      "snippet": "Beni Prasad Verma has been told that he could be banned from campaigning if he does not curb his language about Narendra Modi,",
+      "bm25_score_raw": 1.8240661366042914,
+      "bm25_score_norm": 0.17729461622144205,
+      "bm25_rank": 5
+    },
+    {
+      "title": "Memorandum to ECI on complaint against Shri Beni Prasad ...",
+      "url": "https://www.bjp.org/video-gallery/memorandum-eci-complaint-against-shri-beni-prasad-verma-and-others",
+      "snippet": "English; List additional actions; हिंदी · JOIN BJP · MAKE A DONATION. Main navigation. Bharatiya Janata Party · Upcoming Events; Media Resources.",
+      "bm25_score_raw": 0.909181552112177,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6
+    }
+  ]
+}

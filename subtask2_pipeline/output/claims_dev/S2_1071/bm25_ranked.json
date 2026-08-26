@@ -1,0 +1,105 @@
+{
+  "claim": {
+    "id": "S2/1071",
+    "text": "করোনার বলি আরও দুই, দুই বিদেশি নাগরিক-সহ দেশে মৃত ১৮",
+    "lang": "dev"
+  },
+  "ranked_evidence": [
+    {
+      "title": "Foreigners from across the globe killed, missing or abducted in Hamas ...",
+      "url": "https://www.timesofisrael.com/foreigners-from-across-the-globe-killed-missing-or-abducted-in-hamas-massacre/amp",
+      "snippet": "US: 11 dead, others missing · Thailand: 18 dead, 11 hostages · Nepal: 10 dead · France: Eight dead, 20 missing · Argentina: Seven dead, 15 missing.",
+      "bm25_score_raw": 4.913763222686628,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "What we know: The number of foreigners killed, missing, abducted ...",
+      "url": "https://www.aljazeera.com/amp/news/2023/10/10/what-we-know-the-number-of-foreigners-killed-missing-abducted-in-israel",
+      "snippet": "Thailand: 18 dead, 11 hostages Thailand updated the number of its nationals killed from 12 to 18 on Tuesday, with nine wounded and 11 taken",
+      "bm25_score_raw": 4.688523098108503,
+      "bm25_score_norm": 0.9541613801132701,
+      "bm25_rank": 2
+    },
+    {
+      "title": "People from 35 countries killed, missing in Israel-Gaza war",
+      "url": "https://www.washingtonpost.com/world/2023/10/11/israel-hamas-war-foreign-nationals",
+      "snippet": "Among the thousands of people who have been killed, injured or taken hostage in the Israel-Gaza war in recent days are foreign nationals and dual nationals",
+      "bm25_score_raw": 4.0779784588017645,
+      "bm25_score_norm": 0.829909434783898,
+      "bm25_rank": 3
+    },
+    {
+      "title": "আয়কর আইন, ২০২৩ | ১৮। কর ধার্যকরণ",
+      "url": "http://bdlaws.minlaw.gov.bd/act-1429/section-51810.html",
+      "snippet": "আয়কর ধার্যকরণ. প্রথম অধ্যায়. কর ধার্যকরণের ভিত্তি. কর ধার্যকরণ. ১৮। (১) কোনো আয়বর্ষে কোনো ব্যক্তির মোট আয়ের ভিত্তিতে আয়কর ধার্য, আরোপ, পরিশোধ বা সংগ্রহ করা হইবে।",
+      "bm25_score_raw": 2.9040678349719986,
+      "bm25_score_norm": 0.5910068726071386,
+      "bm25_rank": 4
+    },
+    {
+      "title": "১৮ এবং ৭২ এর গুণোত্তর গড় কোনটি?",
+      "url": "https://sattacademy.com/mcq/%E0%A7%A7%E0%A7%AE-%E0%A6%8F%E0%A6%AC%E0%A6%82-%E0%A7%AD%E0%A7%A8-%E0%A6%8F%E0%A6%B0-%E0%A6%97%E0%A7%81%E0%A6%A3%E0%A7%8B%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%B0-%E0%A6%97%E0%A7%9C-%E0%A6%95%E0%A7%8B%E0%A6%A8%E0%A6%9F%E0%A6%BF",
+      "snippet": "১৮ এবং ৭২ এর গুণোত্তর গড় কোনটি?",
+      "bm25_score_raw": 2.8524604670102174,
+      "bm25_score_norm": 0.5805042566643288,
+      "bm25_rank": 5
+    },
+    {
+      "title": "একটি বস্তুর ভর ১৮ কেজি হলে 3 m/s*2 অভিকর্ষজ ত্বরণের গ্রহে তার ওজন কত kg-wt?",
+      "url": "https://bn.quora.com/%E0%A6%8F%E0%A6%95%E0%A6%9F%E0%A6%BF-%E0%A6%AC%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%81%E0%A6%B0-%E0%A6%AD%E0%A6%B0-%E0%A7%A7%E0%A7%AE-%E0%A6%95%E0%A7%87%E0%A6%9C%E0%A6%BF-%E0%A6%B9%E0%A6%B2%E0%A7%87-3-m-s-2",
+      "snippet": "একটি বস্তুর ভর ১৮ কেজি হলে 3 m/s*2 অভিকর্ষজ ত্বরণের গ্রহে তার ওজন",
+      "bm25_score_raw": 2.7015482508333237,
+      "bm25_score_norm": 0.5497921101204867,
+      "bm25_rank": 6
+    },
+    {
+      "title": "আয়কর নির্দেশিকা ২০২৪-২০২৫",
+      "url": "https://nbr.gov.bd/uploads/publications/%E0%A6%86%E0%A7%9F%E0%A6%95%E0%A6%B0_%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A6%BE_%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%AA-%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%AB.pdf",
+      "snippet": "ব্যবস্থা যেখানে যারা বেশি আয় করেন তাঁরা বেশি কর প্রদান করেন, আর যারা কম আয়. করেন তাঁরা কম হারে কর প্রদান করেন। ঋণের ওপর নির্ভরশীলতা কমিয়ে দেশের. অর্থনৈতিক স্থিতিশীলতা ফিরিয়ে আনতে রাজস্ব আহরণের",
+      "bm25_score_raw": 2.622271761048995,
+      "bm25_score_norm": 0.5336585509334438,
+      "bm25_rank": 7
+    },
+    {
+      "title": "TCD Tracker - USCRI",
+      "url": "https://refugees.org/tcdtracker",
+      "snippet": "This page compiles publicly available information on third country deportations from the United States, and Asylum Cooperative Agreements (ACAs) and their impact on asylum seekers. It covers U.S. law on asylum and safe third countries, ongoing litigation, and country-specific agreements. **This tracker documents U.S. third country deportations to countries in Africa and Asia and asylum cooperative agreements across the world.**. Third country deportations are deportations of an individual to a country that is not their country of nationality or their last country of habitual residence. Since February 2025, third country deportations have been systematically pursued as an immigration enforcement tool in the United States. The United States is also deporting people with humanitarian-based protections in direct contravention to both U.S. and international law. **Taken from U.S. Soil****:**Those subject to third country deportation are individuals who have been arrested by U.S. immigration enforcement from their homes, communities, or jobs.",
+      "bm25_score_raw": 2.0170974105182022,
+      "bm25_score_norm": 0.4104995131237404,
+      "bm25_rank": 8
+    },
+    {
+      "title": "State Dept. Report Details Cuban Infiltration; Trump to Avenge Troops | NTD Evening News (July 20)",
+      "url": "https://www.youtube.com/watch?v=4bqqRLy9vNA",
+      "snippet": "State Dept. Report Details Cuban Infiltration; Trump to Avenge Troops | NTD Evening News (July 20)\nNTD\n1480000 subscribers\n356 likes\n8571 views\n21 Jul 2026\n#NTDNews #StateDepartment #Cuba #Trump #BreakingNews\n0:00 - Welcome to NTD Evening News \n1:30 - President Trump Mourns Fallen U.S. Troops; Vows Retaliation \n4:42 - Trump Imposes 50% Tariff on Canadian Goods \n5:05 - Anti-ICE Suspect Arrested After NYC Federal Building Attack \n7:08 - Darlene Graham Enters South Carolina Senate Race \n8:24 - Trump Calls for Expansion of Russia Sanctions to Include Iran \n9:18 - Senate Appropriations Committee to Review $87.6B Budget Request \n10:08 - New State Dept. Report: Cuba’s Role in 21st-Century Communism \n14:20 - 27th Anniversary of Falun Gong Persecution: Global Rallies \n18:45 - Sinaloa Cartel Co-Founder Sentenced to Life in Prison \n20:51 - DOJ Investigates Harvard Over Financial Aid and Foreign Funding \n22:16 - Tennessee vs. Meta: Trial Begins Over Youth Mental Health \n23:47 - Judge Temporarily Blocks Paramount-Warner Discovery Merger \n25:27 - Cuba’s Decades-Long Espionage Against the U.S. (Interview with Andre Martinez Fernandez) \n35:23 - Prominent Democrats Express Concern Over Rising Socialism \n39:23 - Hidden Foreign Code Found in Military Apps \n40:52 - Ukraine Drone Strikes on Moscow; Russian Cargo Ship Attack \n44:23 - Spain Wins World Cup; Lionel Messi’s Future \n47:12 - Ryan Fox Wins British Open; Shohei Ohtani Injury Update\n\nThe State Department released a new 100-page report titled that reveals the role Cuba has played in fostering 21st-century communism and subversion in the United States. The document breaks down how foreign governments and many extremist movements familiar to Americans, like Antifa, are helping radicalism, and its tangible effects, to grow right here on American soil.\n\nOn July 16th, Secretary of State Marco Rubio said at a conference on political terrorism, “the Cuban regime’s sprawling intelligence and ideological network helped to build the far left in our country and in our hemisphere, and it remains inextricably linked to the far left groups and movements across and beyond the West.”\n\nPresident Donald Trump will attend the dignified transfer of American soldiers who were killed in the war with Iran. In a Truth Social post, Trump vowed to avenge their deaths, saying that the regime will pay ‘many times over.’ The U.S. enters the 9th consecutive day of strikes against Iran.\n\nAn individual is in custody after allegedly setting off an “incendiary device” at a federal building in New York City that houses Immigration and Customs Enforcement (ICE) and an immigration court, FBI Director Kash Patel wrote in an X post. The suspect allegedly poured an unknown liquid on the ground, placed fireworks on top and ignited it causing a fire, the FBI said at a press conference.\n\n--\n📺 Watch NTD News 24/7 on cable, broadcast, and streaming: https://www.ntd.com/watch\n\n--\n🧶More NTD Programs:\nhttps://www.ntd.com/programs?utm_source=YouTube&utm_medium=SocialM\n\n--\n🇺🇸 Stay updated with breaking news, special reports, and LIVE COVERAGE on NTD: https://ept.ms/NTDlive_\n--\n🔵Sign up for our newsletter to stay informed with NTD News. 👉https://www.ntd.com/newsletter.htm?utm_source=YouTube. If the link is blocked, type in NTD.com manually to sign up.\n--\n🔵 Watch more: https://www.ntd.com/?utm_source=YouTube&utm_medium=SocialM\n\n-\n🔵 Watch NTD Original Documentaries:\nhttps://vimeo.com/user109504031/vod_pages\n\n-\n🍀 Support NTD 👉  https://donorbox.org/ntd\n\n--\n© All Rights Reserved.\n31 comments\n",
+      "bm25_score_raw": 1.2113432349261797,
+      "bm25_score_norm": 0.24652047321561232,
+      "bm25_rank": 9
+    },
+    {
+      "title": "[PDF] Country Reports on Terrorism 2018 - State Department",
+      "url": "https://www.state.gov/wp-content/uploads/2019/11/Country-Reports-on-Terrorism-2018-FINAL.pdf",
+      "snippet": "Terrorist Safe Havens (Update to 7120 Report) Terrorist Safe Havens Countering Terrorism on the Economic Front Multilateral Efforts to Counter Terrorism Long-Term Programs and Initiatives Designed to Counter Terrorist Safe Havens Chapter 5 – Foreign Terrorist Organizations Abdallah Azzam Brigades (AAB) Abu Sayyaf Group (ASG) Al-Aqsa Martyrs Brigade (AAMB) Al-Ashtar Brigades (AAB) Ansar al-Dine (AAD) Ansar al-Islam (AAI) - 6 - Ansar al-Shari’a in Benghazi (AAS-B) Ansar al-Shari’a in Darnah (AAS-D) Ansar al-Shari’a in Tunisia (AAS-T) Army of Islam (AOI) Asbat al-Ansar (AAA) Aum Shinrikyo (AUM) Basque Fatherland and Liberty (ETA) Boko Haram (BH) Communist Party of Philippines/New People’s Army (CPP/NPA) Continuity Irish Republican Army (CIRA) Gama’a al-Islamiyya (IG) Hamas Haqqani Network (HQN) Harakat ul-Jihad-i-Islami (HUJI) Harakat ul-Jihad-i-Islami/Bangladesh (HUJI-B) Harakat ul-Mujahideen (HUM) Hizballah Hizbul Mujahedeen (HM) Indian Mujahedeen (IM) Islamic Jihad Union (IJU) Islamic Movement of Uzbekistan (IMU) Islamic State of Iraq and Syria (ISIS) ISIS-Bangladesh ISIS-Greater Sahara Islamic State’s Khorasan Province (ISIS-K) ISIL-Libya ISIS-Philippines ISIS Sinai Province (ISIS-SP) ISIS-West Africa Jama’at Nusrat al-Islam wal-Muslimin (JNIM) Jama’atu Ansarul Muslimina Fi Biladis-Sudan (Ansaru) Jaish-e-Mohammed (JeM) Jaysh Rijal Al-Tariq Al-Naqshabandi (JRTN) Jemaah Ansharut Tauhid (JAT) Jemaah Islamiya (JI) Jundallah Kahane Chai Kata’ib Hizballah (KH) Kurdistan Workers’ Party (PKK) Lashkar e-Tayyiba (LeT) Lashkar i Jhangvi (LJ) Liberation Tigers of Tamil Eelam (LTTE) Mujahidin Shura Council in the Environs of Jerusalem (MSC) Al-Mulathamun Battalion (AMB) National Liberation Army (ELN) Al-Nusrah Front (ANF) - 7 - Palestine Islamic Jihad (PIJ) Palestine Liberation Front–Abu Abbas Faction (PLF) Popular Front for the Liberation of Palestine (PFLP) Popular Front for the Liberation of Palestine-General Command (PFLP-GC) Al-Qa’ida (AQ) Al-Qa’ida in the Arabian Peninsula (AQAP) Al-Qa’ida in the Indian Subcontinent (AQIS) Al-Qa’ida in the Islamic Maghreb (AQIM) Real IRA (RIRA) Revolutionary Armed Forces of Colombia (FARC) Revolutionary People’s Liberation Party/Front (DHKP/C) Revolutionary Struggle (RS) Al-Shabaab (AS) Shining Path (SL) Tehrik-e Taliban Pakistan (TTP) Chapter 6 – Legislative Requirements and Key Terms - 8 - Glossary of Abbreviations AMISOM African",
+      "bm25_score_raw": 1.06743598982611,
+      "bm25_score_norm": 0.21723390840197698,
+      "bm25_rank": 10
+    },
+    {
+      "title": "প্রশ্ন (১৮/২৯৮) : ঘর হতে বের হওয়ার সময় দরজা বা চৌকাঠে আঘাত লাগলে বলা হয় এ ...",
+      "url": "https://at-tahreek.com/article_details/8432",
+      "snippet": "রাসূলুল্লাহ (ছাঃ) বলেন, অশুভ লক্ষণ গ্রহণ করা শিরকী কাজ। তিনি বাক্যটি তিনবার বলেন। আর আমাদের মধ্যে এমন কেউ নেই যার মনে অশুভ লক্ষণের ধারণার উদ্রেক হয় না। কিন্তু আল্লাহর উপর দৃঢ় আস্থা থাকলে আল্লাহ তা দূরীভূত করে",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11
+    },
+    {
+      "title": "বাজনা ১০০% হালাল (বৈধ) এবং নবী (সঃ) ও তাঁর সাহাবিদের সুন্নত‼️ 💓এই মর্মে ...",
+      "url": "https://www.facebook.com/100063496659670/posts/%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%A6%E0%A7%8B%E0%A6%B7-%E0%A6%97%E0%A6%BE%E0%A6%A8-%E0%A6%AC%E0%A6%BE%E0%A6%9C%E0%A6%A8%E0%A6%BE-%E0%A6%B9%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A6%AE-%E0%A6%A4%E0%A7%8B-%E0%A6%AC%E0%A6%B9%E0%A7%81-%E0%A6%A6%E0%A7%82%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A6%A5%E0%A6%BE-%E0%A6%AC%E0%A6%B0%E0%A6%82-%E0%A6%97%E0%A6%BE%E0%A6%A8-%E0%A6%AC%E0%A6%BE%E0%A6%9C%E0%A6%A8%E0%A6%BE-%E0%A7%A7%E0%A7%A6%E0%A7%A6-%E0%A6%B9%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%B2-%E0%A6%AC%E0%A7%88%E0%A6%A7-%E0%A6%8F%E0%A6%AC%E0%A6%82-%E0%A6%A8%E0%A6%AC%E0%A7%80-%E0%A6%B8%E0%A6%83-/1421400579986484",
+      "snippet": "নির্দোষ গান-বাজনা হারাম তো বহু দূরের কথা, বরং গান- বাজনা ১০০% হালাল (বৈধ) এবং নবী (সঃ) ও তাঁর সাহাবিদের সুন্নত‼️ এই মর্মে কোরআন,সহিহ্ হাদিস এবং বাইবেল থেকে দেখে আসি চলুন।",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12
+    }
+  ]
+}

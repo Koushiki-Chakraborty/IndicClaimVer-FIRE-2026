@@ -1,0 +1,99 @@
+{
+  "claim": {
+    "id": "S2/1196",
+    "text": "Japan widens COVID curbs, including in Tokyo, as cases surge",
+    "lang": "dev"
+  },
+  "entity_ranked_evidence": [
+    {
+      "title": "Japan widens COVID curbs, including in Tokyo, as cases ...",
+      "url": "https://m.economictimes.com/news/international/world-news/japan-widens-covid-curbs-including-in-tokyo-as-cases-surge/new-restrictions/slideshow/88994757.cms",
+      "snippet": "Tokyo logged 7,377 new cases on Wednesday, its highest since a previous record of 5,908 on Aug. 13. But the soaring case numbers are not yet",
+      "bm25_score_raw": 2.743561410814807,
+      "bm25_score_norm": 0.7373742289098578,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.9160945415496826,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1,
+      "entity_overlap_raw": 3,
+      "entity_overlap_qid": 1,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 1
+    },
+    {
+      "title": "Japan widens virus curbs, including in Tokyo, as cases surge",
+      "url": "https://www.cbs42.com/news/international/japan-widens-covid-curbs-including-in-tokyo-as-cases-surge",
+      "snippet": "TOKYO (AP) — Tokyo and a dozen other areas in Japan will face new COVID-19 restrictions effective Friday, with local leaders shortening",
+      "bm25_score_raw": 3.5612107459611937,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9076842069625854,
+      "embedding_score_norm": 0.8386033381526692,
+      "embedding_rank": 2,
+      "entity_overlap_raw": 2,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 2
+    },
+    {
+      "title": "Japan to expand COVID curbs amid 'unprecedented' surge ...",
+      "url": "https://www.aljazeera.com/news/2021/8/5/japan-to-expand-covid-curbs-amid-unprecedented-surge-in-cases",
+      "snippet": "Japan is preparing to expand emergency restrictions to eight more prefectures to fight a surge in COVID-19 cases, as worries grow about strains on the medical",
+      "bm25_score_raw": 1.3002683212560926,
+      "bm25_score_norm": 0.2737941289070011,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8960440754890442,
+      "embedding_score_norm": 0.6152259750004575,
+      "embedding_rank": 3,
+      "entity_overlap_raw": 2,
+      "entity_overlap_qid": 1,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 3
+    },
+    {
+      "title": "Japan's COVID-19 surge shows signs of peaking as curbs ...",
+      "url": "https://www.nippon.com/en/news/reu20220210KBN2KF0G8",
+      "snippet": "Virus curbs in Tokyo and 12 prefectures that had been due to expire on Sunday will be extended until March 6, Prime Minister Fumio Kishida said",
+      "bm25_score_raw": 0.44784783510755516,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8842318654060364,
+      "embedding_score_norm": 0.38854637543236764,
+      "embedding_rank": 5,
+      "entity_overlap_raw": 2,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 4
+    },
+    {
+      "title": "Japan to further expand virus emergency areas as Covid ...",
+      "url": "https://www.nbcnews.com/news/world/japan-further-expand-virus-emergency-areas-covid-cases-surge-n1277576",
+      "snippet": "Japan was set to expand its coronavirus state of emergency for a second week in a row Wednesday, adding several more prefectures as a surge in infections.",
+      "bm25_score_raw": 1.0803808104559436,
+      "bm25_score_norm": 0.20316711975442564,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8639848232269287,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6,
+      "entity_overlap_raw": 2,
+      "entity_overlap_qid": 1,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 5
+    },
+    {
+      "title": "As COVID-19 cases surge, Japan sticks to \"lockdown-lite\"",
+      "url": "https://www.reuters.com/world/asia-pacific/covid-19-cases-surge-japan-sticks-lockdown-lite-2021-08-06",
+      "snippet": "Japan decided this week to expand COVID-19 curbs to more than 70% of its population, requests for self-restraint and peer pressure.",
+      "bm25_score_raw": 0.6887064858511716,
+      "bm25_score_norm": 0.07736285734757997,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.894123911857605,
+      "embedding_score_norm": 0.5783775004117787,
+      "embedding_rank": 4,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 6
+    }
+  ]
+}

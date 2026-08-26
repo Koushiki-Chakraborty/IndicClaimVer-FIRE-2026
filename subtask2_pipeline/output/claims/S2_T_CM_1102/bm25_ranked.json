@@ -1,0 +1,105 @@
+{
+  "claim": {
+    "id": "S2/T/CM/1102",
+    "text": "soch raha tha ki nirmala tai ko apne godi media ke channels per bharosa nhi ki ve sachi news dekha ege ya bata yege tabhi to sayad tai ko channel ko follow karna per raha hai sachi news ke liye tabhi to syad kisi godi media ko follow nhi kiya hoga andbhakto samjh jaw",
+    "lang": "codemix"
+  },
+  "ranked_evidence": [
+    {
+      "title": "Avoid godi media news channels in India",
+      "url": "https://www.facebook.com/groups/1168658800427260/posts/1696939000932568",
+      "snippet": "*India's Most Trusted NEWS Anchors* Stop watching Godi Media news channels on Television or YouTube because your every view will increase their TRP",
+      "bm25_score_raw": 6.236236537976402,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "'There is no #disaster awaiting #India,' #FM ...",
+      "url": "https://www.instagram.com/reel/DZkQqjRynfj",
+      "snippet": "Bhai hamari Nirmala Tai hum sabko chhod kar jaane wali hai. Mera matlab, wo Finance Minister ki post se hatne wali hai. Agle kuch dino mein Modi",
+      "bm25_score_raw": 2.8740582121099854,
+      "bm25_score_norm": 0.46086420786126714,
+      "bm25_rank": 2
+    },
+    {
+      "title": "Nirmala Tai Roasted 🤣🤣🤣 #RupeeVsDollar #funny ...",
+      "url": "https://www.instagram.com/reel/DYqr_pvDaDF",
+      "snippet": "हम निर्मला सीतारमण जी की बात करेंगे... मोदी सरकार में JNU एजेंट. क्या आज आप इस बात पे कायम हैं कि प्रधानमंत्री जी की साख रुपये के साथ गिर रही है या नहीं?",
+      "bm25_score_raw": 2.720151881830395,
+      "bm25_score_norm": 0.43618484726576096,
+      "bm25_rank": 3
+    },
+    {
+      "title": "Nirmala Tai Song by @kuna_kamra 😉😂🤣",
+      "url": "https://www.instagram.com/reel/DHmwO8chmPM",
+      "snippet": "हीरे का हार, सोने की चरण पादुका सूरत के श्रद्धालुओं ने टिन्नी यादव के जरिए चढ़ाई थी। कहाँ गयी? अब वो हिसाब मांग रहे हैं। अब तो ऐसा हो रहा है कि जिस जिस ने चढ़ावा चढ़ाया और उसे रसीद नहीं मिली उन सब को ये लग",
+      "bm25_score_raw": 2.38770992134207,
+      "bm25_score_norm": 0.3828767409320972,
+      "bm25_rank": 4
+    },
+    {
+      "title": "People have minimized watching the godi channels. They ...",
+      "url": "https://www.instagram.com/reel/DWp3lJMsInM?hl=en",
+      "snippet": "It is true that people have minimized watching 'Godi' channels. They are not attracting viewers. The audience has understood this game that ' ...Read more",
+      "bm25_score_raw": 2.2622427509215446,
+      "bm25_score_norm": 0.3627576884143686,
+      "bm25_rank": 5
+    },
+    {
+      "title": "Truth-Telling Channels Expose Godi Media's Lies",
+      "url": "https://www.youtube.com/watch?v=Gpc8teSxg1g",
+      "snippet": "independent, truth-telling YouTube channels that are dismantling the propaganda machine of India's infamous \"Godi Media\" to biased reporting,",
+      "bm25_score_raw": 1.6679282976672958,
+      "bm25_score_norm": 0.2674575102323688,
+      "bm25_rank": 6
+    },
+    {
+      "title": "Godi media - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Godi_media",
+      "snippet": "# Godi media. 'media sitting on lap'; idiomatic equivalent: 'lapdog media') is a term coined and popularised by veteran Indian journalist Ravish Kumar to describe biased Indian print and TV news media, which has openly supported the ruling Bharatiya Janata Party government since 2014. The term is sometimes said to be a pun on the name of Indian prime minister Narendra Modi and has become a common way to refer to television and other media that are perceived as \"mouthpieces of the ruling party\" (i.e. the BJP). In the run-up to the 2024 general elections, a 14 journalist boycott was announced on 18 September 2023, by the Indian National Developmental Inclusive Alliance (INDIA), a 28-party opposition bloc based on allegations that these journalists and channels are sycophants of the ruling Bharatiya Janata Party (BJP) and that were considered as the representative faces of \"godi media\", biased against the opposition, promote hate speech and spread misinformation.",
+      "bm25_score_raw": 1.5650456968357127,
+      "bm25_score_norm": 0.2509599639630659,
+      "bm25_rank": 7
+    },
+    {
+      "title": "\"Shocking Statement by Nirmala Tai's Husband Will Leave ...",
+      "url": "https://www.youtube.com/watch?v=wnG9bJGBi_Q",
+      "snippet": "In this video, we dive into the jaw-dropping statement made by Nirmala Tai's husband that has taken the internet by storm!",
+      "bm25_score_raw": 0.9852754315320512,
+      "bm25_score_norm": 0.15799199172964076,
+      "bm25_rank": 8
+    },
+    {
+      "title": "▪️2013 Nirmala Sitharaman: $1=₹62 “Great concern about ...",
+      "url": "https://www.instagram.com/reel/DWhNQczjVmp?hl=en",
+      "snippet": "Hamari Finance Minister Nirmala Sitharaman ji finally replace hone wali hain aur unhe replace karenge purv RBI governor aur secretary to PM rahe",
+      "bm25_score_raw": 0.9772771042165473,
+      "bm25_score_norm": 0.15670943497176332,
+      "bm25_rank": 9
+    },
+    {
+      "title": "BJP नेता तक परेशान? निर्मला ताई की ऐसी बेईज्जती!",
+      "url": "https://www.youtube.com/watch?v=yYVGiSXzBz0",
+      "snippet": "Godi Anchors - BJP नेता तक परेशान? निर्मला ताई की ऐसी बेईज्जती! @KumkumBinwal263.8K likes93K views1 year",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10
+    },
+    {
+      "title": "Is “Godi Media” a reality, or has the term itself become ...",
+      "url": "https://www.instagram.com/reel/DZXrKQ_v3rD",
+      "snippet": "Every time news breaks, one side calls a channel “Godi Media” while the other says it's just reporting facts. 🤔 Has journalism become biased,",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11
+    },
+    {
+      "title": "What do you want to say about Godi Media? ...",
+      "url": "https://www.quora.com/What-do-you-want-to-say-about-Godi-Media-Do-you-think-they-all-are-the-same",
+      "snippet": "What do you want to say about Godi Media? Do you think they all are the same?",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12
+    }
+  ]
+}

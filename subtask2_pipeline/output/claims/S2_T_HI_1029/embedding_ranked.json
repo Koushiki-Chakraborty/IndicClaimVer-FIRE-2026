@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/HI/1029",
+    "text": "कोरोनाः परमवीर चक्र विजेता के बेटे की ऑक्सीजन न मिलने से मौत! परिजन का आरोप- डॉक्टरों-कर्मियों की लापरवाही से गई जान",
+    "lang": "hindi"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Abdul Hamid's son didn't die due to lack of oxygen, says ...",
+      "url": "https://www.opindia.com/2021/04/abdul-hamids-son-didnt-die-due-to-lack-of-oxygen-says-kanpur-hospital",
+      "snippet": "Medical College denies reports that Param Vir Chakra awardee Abdul Hamid's son died due to lack of oxygen, says reports are false and baseless",
+      "bm25_score_raw": 3.901037978740354,
+      "bm25_score_norm": 0.9339527921000393,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.9111388921737671,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Param Vir Chakra recipient's son dies after hospital's ' ...",
+      "url": "https://m.economictimes.com/news/india/param-vir-chakra-recipients-son-dies-after-hospitals-negligence/articleshow/82227342.cms",
+      "snippet": "Hasan was put on oxygen support but the facility was removed just after four hours by the hospital saying his health is stable and there was no",
+      "bm25_score_raw": 4.176911308299294,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8963950276374817,
+      "embedding_score_norm": 0.917404765100716,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Param Vir Chakra recipient's son dies due to lack of ...",
+      "url": "https://www.etvbharat.com/english/bharat/param-vir-chakra-recipients-son-dies-due-to-lack-of-oxygen-in-kanpur/na20210424143217667",
+      "snippet": "The second son of Param Vir Chakra awardee, Abdul Hameed, died of alleged negligence in his treatment at Lala Lajpat Rai hospital here on Friday",
+      "bm25_score_raw": 3.8327643166993797,
+      "bm25_score_norm": 0.9176073020951838,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.89388108253479,
+      "embedding_score_norm": 0.903321626601328,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Son of India's prominent freedom fighter Abdul Hamid dies ...",
+      "url": "https://www.maktoobmedia.com/post?id=30263&slug=denied-oxygen-son-of-indias-prominent-freedom-fighter-abdul-hamid-dies-in-up",
+      "snippet": "The son of a Param Vir Chakra awardee and the country's prominent freedom fighter Abdul Hamid, died of medical negligence in his treatment",
+      "bm25_score_raw": 1.907395851602801,
+      "bm25_score_norm": 0.4566522271643426,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8636735677719116,
+      "embedding_score_norm": 0.7340989122021812,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Mahavir Chakra awardee, Kargil hero, Colonel Sonam Wangchuk dies of heart attack, Rajnath condoles | India News",
+      "url": "https://www.hindustantimes.com/india-news/mahavir-chakra-awardee-kargil-hero-colonel-sonam-wangchuk-dies-of-heart-attack-rajnath-condoles-101775824084571.html",
+      "snippet": "## During the 1999 Kargil War, he led Ladakh Scouts troops to secure Chorbat La in Batalik sector and played crucial role in eliminating enemy intruders. Colonel Sonam Wangchuk, Kargil hero and Mahavir Chakra awardee, died of a heart attack at his home on Friday, at the age of 61. Defence Minister Rajnath Singh expressed grief on the passing of Colonel Wangchuk, who had retired and was living in Ladakh. Colonel Sonam Wangchuk's leadership was instrumental in clearing the enemy along the Chorbat La axis in the Batalik sector (X)\"). During the Kargil War in 1999, he was assigned the critical mission of securing Chorbat La in the Batalik sub-sector, along the Line of Control with Pakistan in Ladakh. His leadership was instrumental in clearing the enemy along the Chorbat La axis in the Batalik sector and securing the Line of Control. Union Defence Minister Rajnath Singh also took to X and said he was “deeply saddened by the passing of Colonel Sonam Wangchuk.”.",
+      "bm25_score_raw": 0.47381011100881376,
+      "bm25_score_norm": 0.11343552113911995,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8348922729492188,
+      "embedding_score_norm": 0.5728658921391264,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Indian superstar sprinter Milkha Singh dies from COVID-19 complications - ESPN",
+      "url": "https://www.espn.com/olympics/trackandfield/story/_/id/31666300/indian-superstar-sprinter-milkha-singh-dies-covid-19-complications",
+      "snippet": "NEW DELHI -- Milkha Singh, one of India's first sports superstars and an ace sprinter who overcame a childhood tragedy to become the country's most celebrated athlete, has died. Singh's family said he died late Friday of complications from COVID-19 in a hospital in the northern city of Chandigarh. \"He fought hard but God has his ways,\" Singh's family said in a statement. Popularly known as \"The Flying Sikh,\" Singh was the first Indian athlete to win a gold medal at the Commonwealth Games in the 400 meters in 1958. Prime Minister Narendra Modi led tributes to the athlete and called him a \"colossal sportsperson, who captured the nation's imagination and had a special place in the hearts of countless Indians.\". He saw his parents and siblings being killed by a mob during the Partition of British India, which left up to 1 million people dead and led to the creation of two new countries -- India and Pakistan.",
+      "bm25_score_raw": 0.18849070267504345,
+      "bm25_score_norm": 0.045126814711273076,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8307044506072998,
+      "embedding_score_norm": 0.549405681337813,
+      "embedding_rank": 6
+    },
+    {
+      "title": "सनातन का सबसे बड़ा पर्व...धरती पर उतरा स्वर्ग",
+      "url": "https://www.youtube.com/watch?v=_PO2rQ_JaSY",
+      "snippet": "Share your videos with friends, family, and the world.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.811116099357605,
+      "embedding_score_norm": 0.43967159711745935,
+      "embedding_rank": 7
+    },
+    {
+      "title": "Chinese Lantern Festival | Koka Booth Amphitheatre Official Site",
+      "url": "https://www.boothamphitheatre.com/events-tickets/events/chinese-lantern-festival",
+      "snippet": "# NC Chinese Lantern Festival ™. Subscribe to our eNewsletter and be the first to know when tickets go on sale! Any Night tickets are the best option for ultimate flexibility; attend on any night of your choice. Our goal is to facilitate accessibility on our website and mobile site to better allow patrons to learn about events and purchase tickets with ease. If you have difficulty using or accessing any element of this website or the Koka Booth Amphitheatre mobile site, please feel free to call us at **919-462-2025** or email us at info@boothamp.com. We will work with you to provide the information, item, or transaction you seek through a communication method that is accessible for and consistent with applicable law. Please contact us at **919-462-2025** or email us at info@boothamp.com if you have any feedback or suggesstions as to how we could improve the accessibility of this website.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.7948119044303894,
+      "embedding_score_norm": 0.3483353801749532,
+      "embedding_rank": 8
+    },
+    {
+      "title": "एक पर्व, अनेक रूप...यही है भारत #OneIndia ...",
+      "url": "https://www.instagram.com/p/DTc3ReIAL_E",
+      "snippet": "January marks the arrival of festivals - Makar Sankranti, Pongal, Lohri, Bihu , and others across the diverse regions of India. These occasions ...Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.7917874455451965,
+      "embedding_score_norm": 0.331392339803757,
+      "embedding_rank": 9
+    },
+    {
+      "title": "त्योहार और पर्व में क्या अंतर है ? अगर आप भी हिंदी सीखना ...",
+      "url": "https://www.instagram.com/reel/DLj03bRTqHQ",
+      "snippet": "त्योहार और पर्व में क्या अंतर है ? अगर आप भी हिंदी सीखना चाहते हैं या हिंदी को पसंद करते हैं तो इस पेज को जरूर फॉलो करें यहां पर आपको हिंदी व्याकरण से संबंधित और हिंदी से संबंधित ऐसी ही पोस्ट मिलते रहेगी।Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.7868773341178894,
+      "embedding_score_norm": 0.30388586036466503,
+      "embedding_rank": 10
+    },
+    {
+      "title": "राजा पर्व: ओडिशा की लोक संस्कृति का रंगारंग उत्सव",
+      "url": "https://www.youtube.com/watch?v=ZSh0Ai4chiE",
+      "snippet": "'एक दिन एक उत्सव' में जानिए ओडिशा के प्रसिद्ध राजा पर्व के बारे में, जो प्रकृति, नारीत्व और लोक परंपराओं का अनूठा उत्सव माना जाता है। इस रंगारंग पर्व के दौरान झूले, लोकगीत, पारंपरिक व्यंजन और ...Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.7761808633804321,
+      "embedding_score_norm": 0.2439641545609174,
+      "embedding_rank": 11
+    },
+    {
+      "title": "Asian Lantern Festival Presented by Meijer",
+      "url": "https://www.clevelandmetroparks.com/zoo/program-events/asian-lantern-festival-presented-by-meijer",
+      "snippet": "Asian Lantern Festival presented by Meijer returns to Cleveland Metroparks Zoo beginning Thursday, July 9. Experience the wonder of the Zoo illuminated ...Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.7326314449310303,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

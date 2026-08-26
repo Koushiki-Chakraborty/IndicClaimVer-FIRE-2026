@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/HI/1053",
+    "text": "सुप्रीम कोर्ट ने ओडिशा प्रशासनिक सेवा के अधिकारी बिजय केतन साहू को मनी लॉन्ड्रिंग मामले में कोई अंतरिम संरक्षण नहीं दिया।",
+    "lang": "hindi"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Supreme Court Grants Interim Protection To Odisha ...",
+      "url": "https://www.livelawbiz.com/top-stories/supreme-court-grants-interim-protection-to-odisha-administrative-service-officer-bijaya-ketan-sahoo-in-money-laundering-case-261327",
+      "snippet": "Jun 24, 2024 — Supreme Court Grants Interim Protection To Odisha Administrative Service Officer Bijaya Ketan Sahoo In Money Laundering Case. Anmol Kaur Bawa.Read more",
+      "bm25_score_raw": 4.743234967205977,
+      "bm25_score_norm": 0.6312208059776856,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.9095228910446167,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Supreme Court Grants Interim Protection To Odisha ...",
+      "url": "https://www.livelaw.in/top-stories/supreme-court-grants-interim-protection-to-odisha-administrative-service-officer-bijaya-ketan-sahoo-in-money-laundering-case-261327",
+      "snippet": "Jun 24, 2024 — Supreme Court Grants Interim Protection To Odisha Administrative Service Officer Bijaya Ketan Sahoo In Money Laundering Case. Anmol Kaur Bawa.Read more",
+      "bm25_score_raw": 4.743234967205977,
+      "bm25_score_norm": 0.6312208059776856,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.9095228910446167,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 2
+    },
+    {
+      "title": "SC shields Odisha official from arrest in DA case",
+      "url": "https://www.thehansindia.com/news/national/sc-shields-odisha-official-from-arrest-in-da-case-886938",
+      "snippet": "Jun 24, 2024 — The Supreme Court on Monday granted interim protection from arrest to Odisha Administrative Service officer, Bijaya Ketan Sahoo, in ...Read more",
+      "bm25_score_raw": 2.544275026297999,
+      "bm25_score_norm": 0.30667558901323977,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.9014514684677124,
+      "embedding_score_norm": 0.9462800344021047,
+      "embedding_rank": 3
+    },
+    {
+      "title": "IANS",
+      "url": "https://x.com/ians_india/status/1805173538476666881?lang=tl",
+      "snippet": "Jun 24, 2024 — Supreme Court granted interim protection from arrest to Odisha Administrative Service officer, Bijaya Ketan Sahoo, in connection with a money ...Read more",
+      "bm25_score_raw": 2.9391587074460173,
+      "bm25_score_norm": 0.3649566006814126,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.9000993967056274,
+      "embedding_score_norm": 0.9372812181645652,
+      "embedding_rank": 4
+    },
+    {
+      "title": "[Money Laundering Case] SC To Hear Odisha Officer's ...",
+      "url": "https://lawchakra.in/supreme-court/money-laundering-case-sc-hear-odisha-officers-anticipatory-bail-plea",
+      "snippet": "The Supreme Court set to hear a plea from Odisha Administrative Service officer Bijaya Ketan Sahoo. Sahoo is seeking anticipatory bail in a money laundering ...Read more",
+      "bm25_score_raw": 3.062360495439914,
+      "bm25_score_norm": 0.38313999287107514,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8865655064582825,
+      "embedding_score_norm": 0.8472053843737007,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Supreme Court grants anticipatory bail to an Odisha Officer ...",
+      "url": "https://www.freelaw.in/legalnews/Supreme-Court-grants-anticipatory-bail-to-an-Odisha-Officer-in-disproportionate-assets-case-says-ED-cannot-arrest-an-accused-after-the-top-Court-takes-cognizance-",
+      "snippet": "Jul 30, 2024 — Bijay Ketan Sahoo sought anticipatory bail in a money laundering case concerning disproportionate assets worth Rs. 5 Crores. An FIR was lodged ...Read more",
+      "bm25_score_raw": 3.9008427895795306,
+      "bm25_score_norm": 0.506891868933003,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8778467178344727,
+      "embedding_score_norm": 0.7891768249142328,
+      "embedding_rank": 6
+    },
+    {
+      "title": "मनी लॉन्ड्रिंग मामले में ओडिशा के अधिकारी को SC से बड़ी राहत ...",
+      "url": "https://www.jagran.com/news/national-supreme-court-grants-protection-from-arrest-to-odisha-official-bijay-ketan-sahoo-in-money-laundering-case-23745865.html",
+      "snippet": "Jun 24, 2024 — संघीय एजेंसी ओडिशा की वित्तीय सेवा अधिकारी नलिनी प्रुस्टी और उनके पति राज्य प्रशासनिक सेवा के अधिकारी बिजय केतन साहू के खिलाफ आय से अधिक 5.05 करोड़ रुपये की संपत्ति अर्जित करने के मामले में जांच कर रही है।",
+      "bm25_score_raw": 7.241902740776148,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8217955827713013,
+      "embedding_score_norm": 0.4161242411067068,
+      "embedding_rank": 7
+    },
+    {
+      "title": "LIVE | ସକାଳର ବଡ଼ ଖବର | 7AM Bulletin | 17th JULY 2026 | Odisha",
+      "url": "https://kanaknews.com/videos/society/live-good-morning-news-7am-bulletin-17th-july-2026-odisha-kanak-news-12172754",
+      "snippet": "4 days ago — LIVE | ସକାଳର ବଡ଼ ଖବର | 7AM Bulletin | 17th JULY 2026 | Odisha | Kanak News ... Odisha News Kanak News Odisha Politics Kanak News Live Kanak News",
+      "bm25_score_raw": 0.741746141683931,
+      "bm25_score_norm": 0.04063976132089947,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.7681101560592651,
+      "embedding_score_norm": 0.05881680879221319,
+      "embedding_rank": 8
+    },
+    {
+      "title": "SATSANG & DISCOURSE ON SRI SRI THAKUR'S ...",
+      "url": "https://www.youtube.com/watch?v=B3biTT3cPrc",
+      "snippet": "4:00:18 · Go to channel Odisha Satsang Bhubaneswar · 2022ND DAY DAILY E-SATSANG || ODISHA SATSANG BHUBANESWAR || 12TH JUNE 2026 (FRIDAY).",
+      "bm25_score_raw": 0.6536385404420356,
+      "bm25_score_norm": 0.027635931633369713,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.7664390802383423,
+      "embedding_score_norm": 0.04769483682802439,
+      "embedding_rank": 9
+    },
+    {
+      "title": "Jugal Kishor Sahu",
+      "url": "https://music.youtube.com/channel/UCLS0BTv_1Zv-MlPPhoJwu7A",
+      "snippet": "Jugal Kishor Sahu. Subscribe 41.6K. Share. Videos. More. Kichhi kichhi hauchi odia video - Laxman rekha odia movie - Sidhhant & Rachana.",
+      "bm25_score_raw": 1.6453698620775101,
+      "bm25_score_norm": 0.1740058817915891,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.7653806805610657,
+      "embedding_score_norm": 0.040650577441232384,
+      "embedding_rank": 10
+    },
+    {
+      "title": "𝐎𝐝𝐢𝐬𝐡𝐚 𝐒𝐚𝐭𝐬𝐚𝐧𝐠 𝐁𝐡𝐮𝐛𝐚𝐧𝐞𝐬𝐰𝐚𝐫 || 𝟒𝐭𝐡 𝐉𝐮𝐧𝐞 ...",
+      "url": "https://www.youtube.com/watch?v=TM-62GAVCls",
+      "snippet": "E-SATSANG ON EVERYDAY AT 6.15 AM (IST) (MORNING) (2) WEEKLY CHILDREN'S E-SATSANG ON EVERY SUNDAY AT 8.30 JOIN. 568th Day E-Satsang || Odisha",
+      "bm25_score_raw": 0.4663909600898994,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.7596957683563232,
+      "embedding_score_norm": 0.0028142127662275427,
+      "embedding_rank": 11
+    },
+    {
+      "title": "Chandan Sahu on Reels",
+      "url": "https://www.facebook.com/chandan.sahu.779/videos/2189563324921833",
+      "snippet": "Reel Sender Au Reciever Dui jono jako ku kichi Kamo d... ... Made in Koraput ❤️ premier in Australia ❤️ Maliput Melodies Goes to Australia ✈️.",
+      "bm25_score_raw": 1.5321707633997352,
+      "bm25_score_norm": 0.15729878979000017,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.7592729330062866,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

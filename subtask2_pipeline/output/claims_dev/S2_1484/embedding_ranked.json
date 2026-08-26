@@ -1,0 +1,131 @@
+{
+  "claim": {
+    "id": "S2/1484",
+    "text": "দূরত্ব বজায় রাখতে কোনও ভিডিও পোস্ট না করে শুধুমাত্র ছবির মাধ্যমে সচেতনার বার্তা দিলেন মিমি",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "🐾 A message from Mimi: Learning, Respecting, and Growing Together. ...",
+      "url": "https://www.instagram.com/reel/DT0ER9KCIZ-",
+      "snippet": "This session will rescue stress and anxiety, promote relaxation and tearfulness, After your shoot, we're just a walk away on Ocean Avenue. (415",
+      "bm25_score_raw": 2.2273239654606267,
+      "bm25_score_norm": 0.3710390330564644,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8613834381103516,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Mimi Mimi Videos",
+      "url": "https://www.snapchat.com/topic/mimi-mimi",
+      "snippet": "A young woman, identified as Mimi Mimi, shares a personal moment in a selfie-style video, stating 'I wish I met you earlier.'",
+      "bm25_score_raw": 0.9650474999393825,
+      "bm25_score_norm": 0.16076255487917554,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.840769350528717,
+      "embedding_score_norm": 0.82671763221632,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Mimi Chakraborty (@itsmimichakraborty)",
+      "url": "https://www.facebook.com/itsmimichakraborty",
+      "snippet": "কত কত ক্ষত তার, ছুঁয়ে দেখা বারন, খুচিয়ে ঘাঁ করো না সে ধংসের কারণ... Presenting the teaser of Mimi Chakraborty's first ever rap song \"Queen For A Reason\"! #QueenForAReason: Song",
+      "bm25_score_raw": 0.808182321011075,
+      "bm25_score_norm": 0.13463115001290962,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.8205094337463379,
+      "embedding_score_norm": 0.6564124301428258,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Just maintain the distance",
+      "url": "https://www.facebook.com/groups/917144849383822/posts/1400256177739351",
+      "snippet": "Here's a link to a short video covering 3 simple keys to keeping a good fence with your hands.",
+      "bm25_score_raw": 6.002937068676746,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.818122386932373,
+      "embedding_score_norm": 0.6363468743768345,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Staying Close from Afar: The Role of Social Media in Maintaining Long-Distance Relationships - Departement of Communications",
+      "url": "https://communication.uii.ac.id/staying-close-from-afar-the-role-of-social-media-in-maintaining-long-distance-relationships",
+      "snippet": "# Staying Close from Afar: The Role of Social Media in Maintaining Long-Distance Relationships. In today’s globalized world, it’s increasingly common for people to be separated by distance, whether for school, work, or other life changes. These platforms allow us to maintain relationships, share everyday moments, and feel close to those far away. One of social media’s most powerful roles in long-distance relationships is offering a way to share daily life. It creates a sense of involvement, like you’re living alongside each other even if you’re in different countries or time zones. Sharing funny memes or meaningful posts through DMs is a way of saying, “This reminded me of you.” Even creating joint content—such as collaborative TikTok’s or shared playlists, makes people feel closer. The Effects of Social Media on Long Distance Relationships. A look into social media and the effects on Long-Distance relationships. Social Media Use in the Maintenance of Long-Distance Romantic. The experiences of individuals in maintaining a long-distance relationship through social media.",
+      "bm25_score_raw": 1.1697709237523242,
+      "bm25_score_norm": 0.19486643127681194,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.7951729893684387,
+      "embedding_score_norm": 0.4434338515064699,
+      "embedding_rank": 5
+    },
+    {
+      "title": "How to Stay Connected to Loved Ones Across the Miles",
+      "url": "https://www.youtube.com/watch?v=NsOswVSAMH4",
+      "snippet": "Staying in touch with people who live far away can prove challenging, particularly in our fast-paced lives where it's easy to let",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.7942309975624084,
+      "embedding_score_norm": 0.4355154525021319,
+      "embedding_rank": 6
+    },
+    {
+      "title": "মিমি চক্রবর্তী নিজে প্রিয় গানটি গাইলেন | বোঝে না সে বোঝে না ...",
+      "url": "https://www.youtube.com/watch?v=IYW9CY3J-eA",
+      "snippet": "মিমি চক্রবর্তী নিজে প্রিয় গানটি গাইলেন | বোঝে না সে বোঝে না #Dj_Alak mimi chakraborty creations youtube mimi chakraborty new song mimi chakraborty all song mimi",
+      "bm25_score_raw": 2.9840692134752445,
+      "bm25_score_norm": 0.49710153202272966,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.7903718948364258,
+      "embedding_score_norm": 0.4030757699195033,
+      "embedding_rank": 7
+    },
+    {
+      "title": "Mimi Chakraborty: বনগাঁ কাণ্ডে গ্রেফতারি নিয়ে ভুয়ো খবর, চটলেন মিমি ...",
+      "url": "https://www.hindustantimes.com/bangla/entertainment/mimi-chakraborty-slams-media-houses-over-false-charge-sheet-reports-in-bongaon-case-issues-defamation-warning-271780922134600-amp.html",
+      "snippet": "একাধিক প্রথম সারির সংবাদমাধ্যমে দাবি করা হয়েছিল যে, বনগাঁ আদালতে মিমির বিরুদ্ধে চার্জশিট গঠন করা হয়েছে এবং আগামী ১০ দিনের মধ্যে তাঁকে সশরীরে আদালতে হাজিরার নির্দেশ দেওয়া হয়েছে। এবার এই সমস্ত প্রতিবেদনকে",
+      "bm25_score_raw": 1.9240851539724004,
+      "bm25_score_norm": 0.3205239588487865,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.7818233966827393,
+      "embedding_score_norm": 0.33121695030407977,
+      "embedding_rank": 8
+    },
+    {
+      "title": "Tumi Chader Jochona Nou | তুমি চাঁদের জোছনা নও | Momin Biswas ...",
+      "url": "https://www.youtube.com/watch?v=--V-38TiVpk",
+      "snippet": "Tumi Chader Jochona Nou | তুমি চাঁদের জোছনা নও | Momin Biswas & Yesmin Labonno | Asian Music. @asianmusicbd4 likes910 views8 months ago",
+      "bm25_score_raw": 2.0654583597168013,
+      "bm25_score_norm": 0.34407463148236855,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.7740882635116577,
+      "embedding_score_norm": 0.26619529044651474,
+      "embedding_rank": 9
+    },
+    {
+      "title": "চাঁদ তারা সূর্য নও তুমি | Shafin Ahmed | Chand Tara | Original ...",
+      "url": "https://www.youtube.com/watch?v=BcvtG36bmi8",
+      "snippet": "Song: চাঁদ তারা সূর্য নও তুমি | Chand Tara (Studio Version) Band: Miles Album : Protisruti 1991 #banglasong #bengalisong #shafin #miles",
+      "bm25_score_raw": 2.0807809807442994,
+      "bm25_score_norm": 0.34662715216552736,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.7594617605209351,
+      "embedding_score_norm": 0.14324465969021843,
+      "embedding_rank": 10
+    },
+    {
+      "title": "Tumi Chader Jochona Nou - song and lyrics by Nayeem Arafat",
+      "url": "https://open.spotify.com/track/2lgdFPURemS7LkryTtMMtG",
+      "snippet": "Listen to Tumi Chader Jochona Nou on Spotify. Song · Nayeem Arafat · 2022. Artist Nayeem Arafat Recommended based on this song. Popular Tracks by Nayeem Arafat",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.74242103099823,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 11
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "ID": "S2/T/EN/1234",
+  "Evidence": "India reported 13,313 new COVID-19 cases and 38 deaths in the last 24 hours, according to the data updated at 8 am. The total death count rose to 524,941 with these new fatalities. This information is corroborated by Source 2, which specifically states the numbers mentioned in the claim.",
+  "Prediction": "SUPPORTS",
+  "Justification": "The retrieved evidence from Source 2 directly confirms the claim that India reported 13,313 COVID-19 cases and 38 deaths in the last 24 hours. The specific figures provided in the evidence align perfectly with the claim, establishing its accuracy based on the data reported."
+}

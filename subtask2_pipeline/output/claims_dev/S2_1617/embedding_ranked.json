@@ -1,0 +1,76 @@
+{
+  "claim": {
+    "id": "S2/1617",
+    "text": "'Sincere Efforts Being Made To Regulate Use Of Loudspeakers': Gujarat Govt To High Court On PIL Seeking Ban On Use Of Loudspeakers In Mosques",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Federal court strikes down New Jersey ban on assault rifles and large-capacity magazines - The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/jul/18/federal-court-strikes-down-new-jersey-gun-law",
+      "snippet": "# Federal court strikes down New Jersey ban on assault rifles and large-capacity magazines. Ruling comes as supreme court is set to consider whether bans on semiautomatic rifles violate US constitution. A federal appeals court on Friday ruled that New Jersey’s bans on assault firearms and magazines that can hold 10 or more rounds is unconstitutional. It marks the first time a federal appeals court has struck down a state ban on such weapons, and comes as the US supreme court is set to consider whether bans on semiautomatic rifles violate the second amendment in the fall. Friday’s appeals court ruling in the New Jersey case goes further than a July 2024 ruling from a federal judge, who said that the state’s ban on AR-15s specifically was unconstitutional but upheld the provision barring larger magazines. The third US circuit court of appeals said on Friday in its opinion that the state’s ban on all semiautomatic rifles it deems to be “assault firearms” and its restriction on “large capacity ammunition magazines” were unconstitutional.",
+      "bm25_score_raw": 1.1574187646262042,
+      "bm25_score_norm": 0.313717259239071,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.818920373916626,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Protesters in India reject Modi’s promise of fast-track courts for exam leaks - NBC News",
+      "url": "https://www.nbcnews.com/world/asia/protesters-india-reject-modis-promise-fast-track-courts-exam-leaks-rcna588841",
+      "snippet": "# Protesters in India reject Modi’s promise of fast-track courts for exam leaks. Opposition groups disrupted parliament for the fourth day this week as protesters from India’s “cockroach” movement continued to demand education reforms. NEW DELHI — Indian Prime Minister Narendra Modi said Thursday that “fast-track” courts would be set up to prosecute those behind exam paper leaks, his first public response after days of youth protests demanding the resignation of the education minister. However, the protesters and opposition parties swiftly rejected Modi’s proposal and insisted that Education Minister Dharmendra Pradhan quit first, with opposition groups disrupting parliament for the fourth day this week. Opposition parties have echoed the demands of the youth movement and have disrupted the monsoon session of parliament that began this week. “We have decided to set up fast-track courts to ensure swift and stringent punishment for those involved in paper leaks,” he said, adding that those who try to harm the future of young people will not be spared.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8064430356025696,
+      "embedding_score_norm": 0.7964740380071985,
+      "embedding_rank": 2
+    },
+    {
+      "title": "The Trump administration is reconsidering its de facto ban on foreign-made open-source AI models, citing concerns over China's rise. - GIGAZINE",
+      "url": "https://gigazine.net/gsc_news/en/20260721-ai-us-china/",
+      "snippet": "# The Trump administration is reconsidering its de facto ban on foreign-made open-source AI models, citing concerns over China's rise. The U.S. government is attempting to effectively ban foreign-made open-source AI models, and sources say that the release of the massive open AI model '. Kimi K3 ' by the Chinese company Moonshot AI in July 2026 has intensified the U.S. government's efforts to regulate competition. The government is also considering adding several other Chinese AI research institutes to the Entity List, and according to sources close to the administration who spoke to Axios, the government was considering issuing an executive order stating that 'U.S. companies can only host Chinese models if they can guarantee security and take responsibility in the event of a breach.'. In fact, it has been reported that the US government is taking more aggressive steps to regulate competition against Moonshot AI, a Chinese company, regarding its AI model 'Kimi K3,' which was announced on July 17, 2026, Japan time.",
+      "bm25_score_raw": 3.689369107181263,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.7976321578025818,
+      "embedding_score_norm": 0.6527540926865407,
+      "embedding_rank": 3
+    },
+    {
+      "title": "WNBA star defends efforts to ban trans athletes from youth sports - The Hill",
+      "url": "https://thehill.com/policy/sports-gaming/5983759-sophie-cunningham-defends-transgender-athlete-stance/",
+      "snippet": "WNBA star Sophie Cunningham is defending her comments supporting efforts in some states to ban transgender athletes from youth sports, a right the Supreme Court upheld with a ruling earlier this summer. Cunningham, in an extensive interview with ESPN published this week, spoke about the importance of efforts to “protect women’s sports,” saying she was qualified to weigh in as a former young female athlete. “I think that I am here to extend love. And I want to protect young girls in a locker room, or young girls in sport who shouldn’t have to go against biological men.”. And that’s all I’ve ever said about my political beliefs. Cunningham is a teammate of WNBA star Caitlin Clark and is one of the league’s most outspoken athletes. The shooting guard recently served as a ring girl for a UFC fight and went viral on social media for pointing at an opponent during a Fever game. **The Hill is provided by Nexstar Media Inc., and uses the My Nexstar sign-in, which works across our media network.**.",
+      "bm25_score_raw": 0.5433490388025108,
+      "bm25_score_norm": 0.14727424202281517,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.7898905873298645,
+      "embedding_score_norm": 0.5264763130722907,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Khalil Sues Feds For Damages Over Legal Process 'Abuse' - Law360",
+      "url": "https://www.law360.com/articles/2504023/khalil-sues-feds-for-damages-over-legal-process-abuse-",
+      "snippet": "# Law360 Authority. ## The Practice of Law. # Law360 Pulse | The Business of Law. ## Business of Law. # Law360 Authority | Deep News & Analysis. ## Employment Authority. ## Insurance Authority. ## Global Coverage. # Law360 | The Practice of Law. # Law360 Pulse. Mealey's Construction Defects Insurance. Mealey's Emerging Insurance Disputes. Mealey's Insurance Bad Faith. By Lauren Berg ( July 21, 2026, 10:06 PM EDT) -- Columbia University graduate Mahmoud Khalil is seeking damages from the federal government over its efforts to \"weaponize immigration laws\" to falsely imprison him in retaliation for his pro-Palestinian activism on campus, according to a new lawsuit filed in New York federal court. A Law360 subscription puts you at the center of fast-moving legal issues, trends and developments so you can act with speed and confidence. * U.S. District Court for the Eastern District of New York. Explore our analysis of these and other findings in the 2026 Law360 Lawyer Satisfaction survey.",
+      "bm25_score_raw": 3.22667157410319,
+      "bm25_score_norm": 0.8745862721684734,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.784081757068634,
+      "embedding_score_norm": 0.4317247132348509,
+      "embedding_rank": 5
+    },
+    {
+      "title": "EPA Seeks Court Delay of Rule Review For Cancer-Causing Chemical - Bloomberg Law News",
+      "url": "https://news.bloomberglaw.com/environment-and-energy/epa-seeks-court-delay-of-rule-review-for-cancer-causing-chemical",
+      "snippet": "# EPA Seeks Court Delay of Rule Review For Cancer-Causing Chemical. July 20, 2026, 11:16 PM UTC. The EPA refuted environmental organizations’ objections to a Biden-era rule reducing a cancer-causing solvent’s unreasonable risks, and asked a federal court to defer review of industries’ concerns until the agency can finalize a new regulation. The Environmental Protection Agency submitted to the US Court of Appeals for the Third Circuit on Monday its response to briefs environmental and industry groups filed opposing a 2024 rule phasing out all uses trichloroethylene, which is used as a degreaser and to make other chemicals. After the Trump administration assumed office, the agency repeatedly deferred the rule’s deadlines to allow litigation to proceed while ... ## Learn more about Bloomberg Law or Log In to keep reading:. Bloomberg Law provides trusted coverage of current events enhanced with legal analysis. ### Already a subscriber? Log in to keep reading or access research tools and resources. © 2026 Bloomberg Industry Group, Inc.",
+      "bm25_score_raw": 1.0089449019561065,
+      "bm25_score_norm": 0.27347355947449686,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.7576144933700562,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1176",
+    "text": "Global Covid-19 cases rise for second week running after consistent decline since Feb",
+    "lang": "english"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Summary",
+      "url": "https://data.who.int/dashboards/covid19/summary",
+      "snippet": "# WHO COVID-19 dashboard. The objective of this report is to provide a comprehensive overview of reported data on SARS-CoV-2 viral activity and the burden of the COVID-19 on the human population over the past seven to 28 days from the last reporting date. This overview and other sections are based on data submitted by Member States' Ministries of Health to the World Health Organization (WHO) through various surveillance systems, as well as updates from the health ministries' websites of the Member States. # Global data for COVID-19 circulation. In the week of 22 to 28 June 2026, a total of 57,509 samples were tested for SARS-CoV-2, the virus that causes COVID-19, across 69 countries (Table 1.1, 1.2). ## Table 1.1 SARS-CoV-2 test positivity as reported from systematically conducted virological surveillance by WHO Region. ## Table 1.2 Number of countries reporting SARS-CoV-2 test positivity from systematically conducted virological surveillance by WHO Region.",
+      "bm25_score_raw": 3.4692267874491156,
+      "bm25_score_norm": 0.3150579090931339,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8344330787658691,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "(PDF) Worldwide physical activity trends since COVID-19 onset",
+      "url": "https://www.researchgate.net/publication/363159631_Worldwide_physical_activity_trends_since_COVID-19_onset",
+      "snippet": "Specifically, there 203 was an average decrease of 1,432 steps/day (27.3%) across 187 countries from the WHO's 204 pandemic declaration on March",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8221709728240967,
+      "embedding_score_norm": 0.7659631591401372,
+      "embedding_rank": 2
+    },
+    {
+      "title": "COVID-19 Pandemic",
+      "url": "https://ourworldindata.org/coronavirus",
+      "snippet": "*   [![Image 40: A thumbnail of the \"Daily confirmed COVID-19 deaths by world region\" chart](https://ourworldindata.org/grapher/daily-covid-deaths-region.png)Daily confirmed COVID-19 deaths by world region](https://ourworldindata.org/grapher/daily-covid-deaths-region). *   [![Image 61: A thumbnail of the \"Cumulative confirmed COVID-19 cases and deaths\" chart](https://ourworldindata.org/grapher/cumulative-deaths-and-cases-covid-19.png)Cumulative confirmed COVID-19 cases and deaths](https://ourworldindata.org/grapher/cumulative-deaths-and-cases-covid-19). *   [![Image 63: A thumbnail of the \"Cumulative confirmed COVID-19 deaths by world region\" chart](https://ourworldindata.org/grapher/cumulative-covid-deaths-region.png)Cumulative confirmed COVID-19 deaths by world region](https://ourworldindata.org/grapher/cumulative-covid-deaths-region). *   [![Image 68: A thumbnail of the \"Daily and total confirmed COVID-19 deaths\" chart](https://ourworldindata.org/grapher/total-daily-covid-deaths.png)Daily and total confirmed COVID-19 deaths](https://ourworldindata.org/grapher/total-daily-covid-deaths). *   [![Image 78: A thumbnail of the \"Estimated daily excess deaths during COVID\" chart](https://ourworldindata.org/grapher/excess-deaths-daily-economist.png)Estimated daily excess deaths during COVID](https://ourworldindata.org/grapher/excess-deaths-daily-economist)Faceted Explorer version. *   [![Image 124: A thumbnail of the \"Total confirmed COVID-19 deaths and cases per million people\" chart](https://ourworldindata.org/grapher/total-covid-cases-deaths-per-million.png)Total confirmed COVID-19 deaths and cases per million people](https://ourworldindata.org/grapher/total-covid-cases-deaths-per-million). *   [![Image 133: A thumbnail of the \"Weekly confirmed COVID-19 deaths\" chart](https://ourworldindata.org/grapher/weekly-covid-deaths.png)Weekly confirmed COVID-19 deaths](https://ourworldindata.org/grapher/weekly-covid-deaths). *   [![Image 134: A thumbnail of the \"Weekly confirmed COVID-19 deaths per million people\" chart](https://ourworldindata.org/grapher/weekly-covid-deaths-per-million-people.png)Weekly confirmed COVID-19 deaths per million people](https://ourworldindata.org/grapher/weekly-covid-deaths-per-million-people).",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8190603256225586,
+      "embedding_score_norm": 0.7065927665228708,
+      "embedding_rank": 3
+    },
+    {
+      "title": "New research reveals running boom during Covid-19 pandemic | PRESS-RELEASES | World Athletics",
+      "url": "https://worldathletics.org/news/press-releases/global-running-day-research-nielsen",
+      "snippet": "More people have taken up running during the Covid-19 pandemic, and all of those intend to maintain their newfound passion for the sport once the pandemic is over. The power of running during this time has been revealed on **Global Running Day**, with **new findings from Nielsen** – the official research and intelligence supplier to World Athletics – highlighting how runners have increased their participation and the health benefits they gain from it. More than a fifth of all runners reveal that they run more often than they did previously as a result of Covid-19 and most in that group say they will continue to run more often once the pandemic is over. “It begins with this peace of mind and then a greater ease of movement, a sense of power and confidence, optimism and hope, and you will often hear runners describe feeling loving and connected to everyone and everything,” explained Kelly McGonigal, a psychologist, educator and author of The Joy of Movement, during a **recent World Athletics 'Run Anywhere' Webinar** in collaboration with Mass Participation World.",
+      "bm25_score_raw": 1.941905290723568,
+      "bm25_score_norm": 0.17635417285651736,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8140767812728882,
+      "embedding_score_norm": 0.6114759096452429,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Global Impact of COVID-19 Pandemic on Physical Activity Habits of ... - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9566411",
+      "snippet": "by JL Romero · 2022 · Cited by 4 — Only Tuesday, Saturday, and Sunday showed a significant decrease in runs logged before working-hours for 2020 compared with 2019 (p < 0.001).",
+      "bm25_score_raw": 1.6599380718691945,
+      "bm25_score_norm": 0.15074731350490225,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8106837272644043,
+      "embedding_score_norm": 0.5467154480423743,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Check off the bucket list: the rise in running after the covid pandemic and ...",
+      "url": "https://medcraveonline.com/MOJSM/MOJSM-08-00172.pdf",
+      "snippet": "Specifically, the present paper displays how training and running a marathon will have public health outcomes enhancing oxygen utilization, bettering body composition and improving resting heart rate. Keywords: marathon, running, oxygen uptake, body composition, resting heart rate, cardiovascular MOJ Sports Medicine Mini review Open Access Check off the bucket list: the rise in running after the covid pandemic and the physiological & public health benefits to training and running a marathon 2 Copyright: ©2025 Carroll. Check off the bucket list: the rise in running after the covid pandemic and the physiological & public health benefits to training and running a marathon. Chronic marathon training has been associated with significant physiological benefits, including an enhanced capacity for oxygen delivery, reduced cardiovascular strain, improved body composition influencing resting metabolic rate and substrate utilization, and a lower resting heart rate—collectively promoting better overall health and cardiovascular function. Check off the bucket list: the rise in running after the covid pandemic and the physiological & public health benefits to training and running a marathon.",
+      "bm25_score_raw": 11.01139405588952,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.7820391654968262,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6
+    }
+  ]
+}

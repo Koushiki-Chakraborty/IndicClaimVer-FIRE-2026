@@ -1,0 +1,57 @@
+{
+  "claim": {
+    "id": "S2/1416",
+    "text": "Dissidence in Congress is higher compared to rivals, says Sidhu",
+    "lang": "dev"
+  },
+  "ranked_evidence": [
+    {
+      "title": "United States Congress",
+      "url": "https://en.wikipedia.org/wiki/United_States_Congress",
+      "snippet": "# United States Congress. The **United States Congress** is the legislative branch of the federal government of the United States. They both meet in the United States Capitol in Washington, D.C. Members of Congress are chosen through direct election, though vacancies \"Legislative vacancy (United States)\") in the Senate may be filled by a governor \"Governor (United States)\")'s appointment. The vice president of the United States, as president of the Senate, has a vote in the Senate only when there is a tie. The members of the House of Representatives are elected for the two-year term of a Congress. Article One of the United States Constitution states, \"All legislative Powers herein granted shall be vested in a Congress of the United States, which shall consist of a Senate and House of Representatives.\" The House and Senate are equal partners in the legislative process – legislation cannot be enacted without the consent of both chambers.",
+      "bm25_score_raw": 0.8763910177814462,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Representatives and Senators in Congress",
+      "url": "https://www.govtrack.us/congress/members",
+      "snippet": "# Representatives and Senators in Congress. List all Current Representatives and Senators in Congress. Search Former Representatives and Senators in Congress. After each two-year session of Congress we compile all of our statistics into a report card for each Member of Congress. The United States Congress has two chambers, one called the Senate and the other called the House of Representatives (or “House” for short) which share the responsibilities of the legislative process to create federal statutory law. The day-to-day activities of the Senate are controlled largely by the political party holding the most seats, called the “majority party.” Here is a count of senators by party:. The District of Columbia, Puerto Rico, and the U.S.’s four other island territories — American Samoa, Guam, the Northern Mariana Islands, and the U.S. Virgin Islands — are not represented in the Senate. ## About the House of Representatives. As in the Senate, the day-to-day activities of the House are controlled by the “majority party.” Here is a count of representatives by party:.",
+      "bm25_score_raw": 0.8511997479813742,
+      "bm25_score_norm": 0.930247100353,
+      "bm25_rank": 2
+    },
+    {
+      "title": "United States Congress",
+      "url": "https://ballotpedia.org/United_States_Congress",
+      "snippet": "The **United States Congress** is the bicameral legislature of the United States of America's federal government. It consists of two houses, the Senate and the House of Representatives, with members chosen through direct election. The Senate is the upper house of the U.S. Congress. Each U.S. state is represented by two senators, regardless of population. According to the U.S. Constitution, senators must meet the following requirements:. #### House of Representatives. The United States House of Representatives, commonly referred to as \"the House,\" is the lower house of the U.S. Congress. According to the U.S. Constitution, representatives must meet the following requirements:. | “ | All legislative Powers herein granted shall be vested in a Congress of the United States, which shall consist of a Senate and House of Representatives. Senate amendments to the U.S. Constitution. All **435 districts** in the U.S. House of Representatives and **33 seats** in the U.S. Senate are up for election.",
+      "bm25_score_raw": 0.7501907112209178,
+      "bm25_score_norm": 0.6505599999999997,
+      "bm25_rank": 3
+    },
+    {
+      "title": "About Congress",
+      "url": "https://www.visitthecapitol.gov/explore/about-congress",
+      "snippet": "# About Congress. Congress is a bicameral legislature divided into two equal institutions: the House of Representatives and the Senate. Each state sends elected representatives and senators to Congress. ## **About the House of Representatives**. To be elected to the House of Representatives, a person must be at least 25 years old, a citizen of the United States for seven years or more, and a resident of the state that they represent. Learn more about the House of Representatives. ## **About the U.S. Senate**. With each state represented by two senators, a total of 100 members serve in the U.S. Senate. The U.S. territories and the District of Columbia are not represented in the Senate. In order to be elected to the U.S. Senate a person must be at least 30 years old, a citizen of the United States for nine years or more, and a resident of the state that they represent. Learn more about the U.S. Senate.",
+      "bm25_score_raw": 0.7457164127444512,
+      "bm25_score_norm": 0.6381709741550695,
+      "bm25_rank": 4
+    },
+    {
+      "title": "Congress: Latest News, Top Stories and Analysis",
+      "url": "https://www.politico.com/congress-news-updates-analysis",
+      "snippet": "# Congress. The latest news, analysis and updates on Congress, including Senate and House politics and policy. Darline Graham’s challenge: Carry her brother’s legacy while charting her own. The sister of late-Sen. Lindsey Graham is running to serve in the Senate in her own right — while working to finish the work her brother started. u-s-congress-67615.jpg. GOP border bill clears hurdle despite Democratic push to add guardrails on ICE and DHS. ### Inside Congress. ## More Congress news. The Senate Commerce chair says he’d put Blackburn’s bill on his markup agenda but doesn’t believe it will have support in the Senate. Most Democrats are expected to oppose the defense policy bill over its record price tag and President Donald Trump’s pursuit of the Iran war, meaning Republicans will need to stay almost entirely united. House Democrats believe the message from their leadership is to vote “no” on the bill.",
+      "bm25_score_raw": 0.5297957000147726,
+      "bm25_score_norm": 0.04030131826742024,
+      "bm25_rank": 5
+    },
+    {
+      "title": "Congress.gov | Library of Congress",
+      "url": "https://www.congress.gov",
+      "snippet": "[skip to main content](https://www.congress.gov/#content). *   [Committees](https://www.congress.gov/committees). *   [Glossary](https://www.congress.gov/help/legislative-glossary). *   [Help](https://www.congress.gov/help). *   [Contact](https://www.congress.gov/contact-us). *   [Advanced Searches](https://www.congress.gov/advanced-search/legislation). *   [Browse](https://www.congress.gov/browse). *   [Committees](https://www.congress.gov/committees). *   [Support](https://www.congress.gov/#). *   [Glossary](https://www.congress.gov/help/legislative-glossary). *   [Help](https://www.congress.gov/help). *   [Contact](https://www.congress.gov/contact-us). [Close](https://www.congress.gov/#). *   [Glossary](https://www.congress.gov/help/legislative-glossary). *   [Contact](https://www.congress.gov/contact-us). [Sign In](https://www.congress.gov/#). *   [Legislation](https://www.congress.gov/#legislation). *   [Nominations](https://www.congress.gov/#nominations). *   [House Communications](https://www.congress.gov/#house-communications). *   [Senate Communications](https://www.congress.gov/#senate-communications). *   [H.R.4818](https://www.congress.gov/bill/118th-congress/house-bill/4818) [118th] Treat and Reduce Obesity Act of 2023. *   [H.R.6509](https://www.congress.gov/bill/119th-congress/house-bill/6509) [119th] SAFE Drugs Act of 2025. *   [H.R.6644](https://www.congress.gov/bill/119th-congress/house-bill/6644) [119th] 21st Century ROAD to Housing Act. *   [H.R.5362](https://www.congress.gov/bill/119th-congress/house-bill/5362). *   [H.R.6007](https://www.congress.gov/bill/119th-congress/house-bill/6007). #### Previous Meeting: [July 14, 2026](https://www.congress.gov/on-house-floor/2026/07/14). *   [Communications to the House](https://www.congress.gov/house-communications). #### Previous Meeting: [July 14, 2026](https://www.congress.gov/on-senate-floor/2026/07/14). *   [Communications to the Senate](https://www.congress.gov/senate-communications). *   [Nominations](https://www.congress.gov/nominations). *   [Today at 2:00 PM (EDT)](https://www.congress.gov/event/119th-congress/house-event/119452) House Foreign Affairs Subcommittee on Western Hemisphere. *   [![Image 5](https://www.congress.gov/img/member/67ffcb2af22eaf56065817c4_200.jpg)Speaker of the House Rep. Mike Johnson [R-LA-4]](https://www.congress.gov/member/mike-johnson/J000299). *   [![Image 14](https://www.congress.gov/img/member/67ffcb2af22eaf56065817c4_200.jpg)Speaker of the House Rep. Mike Johnson [R-LA-4]](https://www.congress.gov/member/mike-johnson/J000299). *   [Nominations](https://www.congress.gov/nominations). *   [House Communications](https://www.congress.gov/house-communications). *   [Senate Communications](https://www.congress.gov/senate-communications). *   [Glossary](https://www.congress.gov/help/legislative-glossary). *   [Video](https://www.congress.gov/video). *   [More House Resources](https://www.congress.gov/help/house-of-representatives). *   [More Senate Resources](https://www.congress.gov/help/senate). *   [Help](https://www.congress.gov/help). *   [Contact Us](https://www.congress.gov/contact-us). [Back to top](https://www.congress.gov/#). [Close](https://www.congress.gov/#).",
+      "bm25_score_raw": 0.5152408730912897,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6
+    }
+  ]
+}

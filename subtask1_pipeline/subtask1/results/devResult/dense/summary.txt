@@ -1,0 +1,8 @@
+=== Dense-only top-3 retrieval (data/ train+dev) ===
+Language     Success@3    nDCG@3       n       
+--------------------------------------------
+Hindi        0.882        0.567        1432    
+Bengali      0.739        0.539        978     
+English      0.882        0.634        1967    
+Code-mixed   0.767        0.505        1293    
+Overall      0.831        0.571        5670    

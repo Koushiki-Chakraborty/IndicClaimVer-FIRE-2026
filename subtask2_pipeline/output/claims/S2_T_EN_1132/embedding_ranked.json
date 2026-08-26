@@ -1,0 +1,76 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1132",
+    "text": "Burial At Non-Designated Places Does Not Contravene Rules, No Need To Exhume Such Bodies Or Bury In Designated Places: Madras High Court Full Bench",
+    "lang": "english"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Can't bury body anywhere, rules Madras HC - Legal Times",
+      "url": "https://legaltimes.in/cant-bury-body-anywhere-rules-madras-hc-authorises-exhumation-too",
+      "snippet": "Jan 30, 2026 — The Madras High Court has clarified that no person has the right to bury a deceased body anywhere other than designated burial grounds, ...Read more",
+      "bm25_score_raw": 5.6532639178087525,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9110092520713806,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Exhumed Body Must Be Buried In Designated Place ...",
+      "url": "https://www.verdictum.in/court-updates/high-courts/exhumed-body-be-buried-in-designated-place-considering-public-health-rules-1999-madras-hc-1486051",
+      "snippet": "Jul 22, 2023 — The Full Bench of the Madras High Court has held that an exhumed body must be buried in a designated place taking into consideration the public health.Read more",
+      "bm25_score_raw": 1.5969705920013024,
+      "bm25_score_norm": 0.14995358061098588,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.9050908088684082,
+      "embedding_score_norm": 0.854321357153651,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Madras High Court orders exhumation of bodies in church ...",
+      "url": "https://www.newindianexpress.com/cities/chennai/2025/Nov/04/madras-high-court-orders-exhumation-of-bodies-in-unauthorized-church-cemetery",
+      "snippet": "Nov 4, 2025 — The Madras High Court has reiterated that burials must take place only in officially designated areas and ordered the exhumation of bodies",
+      "bm25_score_raw": 3.7046099760955284,
+      "bm25_score_norm": 0.5916354728976903,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8977570533752441,
+      "embedding_score_norm": 0.6738057197518204,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Burial At Non-Designated Places Contravenes Rules, Take ...",
+      "url": "https://www.livelaw.in/high-court/madras-high-court/madras-high-court-burial-only-in-designated-places-exhume-body-and-bury-in-designated-place-233279",
+      "snippet": "Jul 21, 2023 — Any burials made at places that are not registered or licensed as Burial Grounds contravenes the rules and such bodies are to be exhumed and buried in proper ...Read more",
+      "bm25_score_raw": 1.4655935475527382,
+      "bm25_score_norm": 0.12242189657006831,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8766565322875977,
+      "embedding_score_norm": 0.15443007146388735,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Jagadheeswari vs B.Babu Naidu",
+      "url": "https://indiankanoon.org/doc/26815709",
+      "snippet": "Any body buried in contravention to the Rules 5 and 7, is to be exhumed and buried in the designated place.",
+      "bm25_score_raw": 0.8814147184168152,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8742899894714355,
+      "embedding_score_norm": 0.09617915414104691,
+      "embedding_rank": 5
+    },
+    {
+      "title": "JAGADHEESWARI v. B.BABU NAIDU | Madras High Court",
+      "url": "https://www.casemine.com/judgement/in/64b9458a89d2571cfa28b0de",
+      "snippet": "Jul 20, 2023 — The Court held that when burial in a place other than an already registered or licensed burial ground occurs in contravention of Rules 5 and 7, ...Read more",
+      "bm25_score_raw": 1.6139684842466115,
+      "bm25_score_norm": 0.15351569909693366,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.87038254737854,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6
+    }
+  ]
+}

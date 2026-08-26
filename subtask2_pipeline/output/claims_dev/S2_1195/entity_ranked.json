@@ -1,0 +1,99 @@
+{
+  "claim": {
+    "id": "S2/1195",
+    "text": "Delhi assembly gets only 3 women members, all belong to AAP",
+    "lang": "dev"
+  },
+  "entity_ranked_evidence": [
+    {
+      "title": "Delhi assembly gets only three women members, all belong to Aam Aadmi ...",
+      "url": "https://www.ndtv.com/delhi-news/delhi-assembly-gets-only-three-women-members-all-belong-to-aam-aadmi-party-543887",
+      "snippet": "The Delhi assembly got only three women legislators, all belonging to the Aam Aadmi Party (AAP), with the other 67 women candidates failing",
+      "bm25_score_raw": 3.8752479509808007,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9365432262420654,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1,
+      "entity_overlap_raw": 2,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 1
+    },
+    {
+      "title": "Only 3 women win, all from AAP",
+      "url": "https://timesofindia.indiatimes.com/assembly-elections-2013/delhi-assembly-elections/only-3-women-win-all-from-aap/articleshow/27100185.cms",
+      "snippet": "Specials News: The Delhi assembly got only three women legislators, all belonging to the Aam Aadmi Party, with the other 67 women candidates",
+      "bm25_score_raw": 2.7962613497533266,
+      "bm25_score_norm": 0.4743374891542013,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.9306743741035461,
+      "embedding_score_norm": 0.9396731568431752,
+      "embedding_rank": 2,
+      "entity_overlap_raw": 2,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 2
+    },
+    {
+      "title": "Delhi: AAP National Convenor Arvind Kejriwal says \"Those women belong ...",
+      "url": "https://x.com/ANI/status/1875434670709731786",
+      "snippet": "ANI (@ANI). 148 likes 22 replies. #WATCH | Delhi: AAP National Convenor Arvind Kejriwal says \"Those women belong to their (Congress and BJP)",
+      "bm25_score_raw": 3.5161841912454084,
+      "bm25_score_norm": 0.8250707123874219,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8474097847938538,
+      "embedding_score_norm": 0.0837835039355847,
+      "embedding_rank": 4,
+      "entity_overlap_raw": 2,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 3
+    },
+    {
+      "title": "Aam Aadmi Party - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Aam_Aadmi_Party",
+      "snippet": "The AAP is currently the governing party in the Indian state of Punjab, has representation in both houses of the Parliament of India, and forms the official opposition in Delhi. On 10 April 2023, the AAP was officially granted national party status by the Election Commission of India. Making its electoral debut in the 2013 Delhi Legislative Assembly election, the AAP emerged as the second-largest party. After the President's rule in Delhi, in the following 2015 elections, the AAP won 67 of the 70 seats in the assembly and Kejriwal was again sworn in as the Chief Minister of Delhi On 3 December 2015, the Jan Lokpal Bill was passed by the AAP government with a majority in the Delhi Legislative Assembly. The party was formally launched in Delhi on 26 November and in March 2013, it was registered as a political party by the Election Commission of India.",
+      "bm25_score_raw": 1.8226256334954454,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8455716371536255,
+      "embedding_score_norm": 0.06488889869185539,
+      "embedding_rank": 5,
+      "entity_overlap_raw": 2,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 4
+    },
+    {
+      "title": "AAP forms 5,000 8-member women groups under its ... - Aam Aadmi Party",
+      "url": "https://aamaadmiparty.org/press-release/aap-forms-5000-8-member-women-groups-under-its-womens-wing-tasked-with-organising-meetings-with-10-women",
+      "snippet": "In view of the Delhi Assembly elections, the Aam Aadmi Party (AAP) has devised an effective micro-campaign strategy to engage women voters.",
+      "bm25_score_raw": 2.5717879628960088,
+      "bm25_score_norm": 0.3649781662309673,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8672535419464111,
+      "embedding_score_norm": 0.28776056744471584,
+      "embedding_rank": 3,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 5
+    },
+    {
+      "title": "AAP Manifesto | From Rs 2100 for women to employment for youth ...",
+      "url": "https://www.youtube.com/watch?v=KBqkMwpX-cw",
+      "snippet": "Aam Aadmi Party (AAP) chief Arvind Kejriwal released party's manifesto comprising of 15 guarantees for the upcoming Delhi Assembly Elections",
+      "bm25_score_raw": 2.4091556290922966,
+      "bm25_score_norm": 0.2857466717576191,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8392589688301086,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 6
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "ID": "S2/T/EN/1146",
+  "Evidence": "Source 1 states that Delhi logged 24 Covid deaths in a week, indicating a significant number of fatalities. Source 2 mentions that there were 418 deaths reported in India, but does not specify the number of deaths in Delhi. Source 3 discusses high death rates in Delhi but does not provide current data on infections or deaths. Overall, the evidence indicates that Delhi has experienced a rise in Covid deaths, contradicting the claim of no deaths reported.",
+  "Prediction": "REFUTES",
+  "Justification": "The retrieved evidence directly contradicts the claim that Delhi reported no deaths, as Source 1 indicates that Delhi logged 24 Covid deaths in a week. Additionally, Source 2 mentions 418 deaths in India, which implies that deaths are occurring, although it does not specify the location. Therefore, the evidence refutes the claim that there were no deaths reported."
+}

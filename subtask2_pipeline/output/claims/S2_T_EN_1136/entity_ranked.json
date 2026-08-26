@@ -1,0 +1,99 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1136",
+    "text": "Section 5 Of Limitation Act Applicable To Proceedings Under Railway Claim Tribunal Act, 1987: Allahabad High Court",
+    "lang": "english"
+  },
+  "entity_ranked_evidence": [
+    {
+      "title": "Section 5 Of Limitation Act Applicable To Proceedings ...",
+      "url": "https://www.livelaw.in/high-court/allahabad-high-court/allahabad-high-court-ruling-section-5-limitation-act-applicable-proceedings-railway-claims-tribunal-235466",
+      "snippet": "The Allahabad High Court has held that Section 5 of the Limitation Act, 1963 is applicable to proceedings under the Railway Claim Tribunal Act, 1987.",
+      "bm25_score_raw": 6.519790791417527,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.961611270904541,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 1
+    },
+    {
+      "title": "HC: Railway Claim Tribunal has Power ...",
+      "url": "https://updates.manupatra.com/roundup/contentsummary.aspx?iid=43670",
+      "snippet": "Allahabad High Court has held that if sufficient cause is made out, Railway Claim Tribunal has power to condone the delay under section 5 of the Limitation Act",
+      "bm25_score_raw": 4.963969209267332,
+      "bm25_score_norm": 0.7095639011316367,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.9236873388290405,
+      "embedding_score_norm": 0.509201819845199,
+      "embedding_rank": 3,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 2
+    },
+    {
+      "title": "Section 5 Of Limitation Act Applicable To Proceedings ...",
+      "url": "https://blog.primelegal.in/section-5-of-limitation-act-applicable-to-proceedings-under-railway-claim-tribunal-act-1987-allahabad-high-court",
+      "snippet": "Section 5 of the Limitation Act is applicable to proceedings governed by the Railway Claim Tribunal Act, 1987, in conjunction with the Railway",
+      "bm25_score_raw": 3.270916561658375,
+      "bm25_score_norm": 0.39350991924078155,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.9389334917068481,
+      "embedding_score_norm": 0.7065121639280023,
+      "embedding_rank": 2,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 3
+    },
+    {
+      "title": "Sri Md. Kalim vs Union Of India on 14 August, 2018",
+      "url": "https://indiankanoon.org/doc/171049043",
+      "snippet": "the provisions of Limitation Act are not applicable to an appeal preferred under Sub-section (1) of Section 23 of the Railway Claims Tribunal Act 1987.",
+      "bm25_score_raw": 1.1629443518316813,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8959147930145264,
+      "embedding_score_norm": 0.1497793075146524,
+      "embedding_rank": 4,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 4
+    },
+    {
+      "title": "Limitation | Railway Claims Tribunal Act, 1987 | Bare Acts",
+      "url": "https://www.advocatekhoj.com/library/bareacts/railwayclaim/17.php?Title=Railway+Claims+Tribunal+Act%2C+1987&STitle=Limitation",
+      "snippet": "The application is made within three years from the date on which the goods in question were entrusted to the railway administration for carriage by railway.",
+      "bm25_score_raw": 2.4670538217574522,
+      "bm25_score_norm": 0.24344723796611123,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8852506875991821,
+      "embedding_score_norm": 0.011768208865651424,
+      "embedding_rank": 5,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 5
+    },
+    {
+      "title": "1 THE RAILWAY CLAIMS TRIBUNAL ACT, 1987",
+      "url": "https://upload.indiacode.nic.in/view-casepdf?type=act&id=AC_CEN_1_1_00006_198754_1517807325410",
+      "snippet": "Distribution of business amongst Benches. 15. Bar of jurisdiction. CHAPTER IV. PROCEDURE. 16. Application to Claims Tribunal. 17. Limitation.",
+      "bm25_score_raw": 2.1940109073293703,
+      "bm25_score_norm": 0.19247640699168597,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8843413591384888,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 6
+    }
+  ]
+}

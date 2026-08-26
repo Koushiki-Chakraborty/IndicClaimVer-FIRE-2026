@@ -1,0 +1,108 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1169",
+    "text": "RT-PCR test still mandatory: Govt retains quarantine in new Covid rules for international arrivals",
+    "lang": "english"
+  },
+  "generated_queries": {
+    "english_translation": "RT-PCR test still mandatory: Govt retains quarantine in new Covid rules for international arrivals",
+    "native_query": "Govt Covid RT PCR mandatory retains quarantine rules",
+    "english_query": "Govt Covid RT PCR mandatory retains quarantine rules"
+  },
+  "native_retrieval": [
+    {
+      "title": "Quarantine and testing strategies to ameliorate transmission ...",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8743228",
+      "snippet": "by CR Wells · 2022 · Cited by 37 — a zero-day travel quarantine with RT-PCR test is equivalent to or better destinations around the world enforce mandatory quarantines."
+    },
+    {
+      "title": "COVID-19 Isolation, Quarantine & Entry Requirements",
+      "url": "https://www.facebook.com/MHHSPalau/posts/directive-32-21-covid-19-isolation-quarantine-entry-requirements/4470889532965238",
+      "snippet": "Unvaccinated travelers are required to quarantine in a designated government facility for seven (7) days and will be tested after the 7day ...Read more"
+    },
+    {
+      "title": "Quarantine and Isolation Guidance Center - Coronavirus",
+      "url": "https://www.coronavirus.in.gov/quarantine-and-isolation-guidance-center",
+      "snippet": "Your Covid-19 test records may be released only under certain circumstances including if you have given written consent, as necessary to enforce public health ...Read more"
+    },
+    {
+      "title": "Governor Lamont Issues New Executive Order Allowing ...",
+      "url": "https://www.ctschoollaw.com/2020/09/governor-lamont-issues-new-executive-order-allowing-testing-alternative-to-self-quarantine-following-travel",
+      "snippet": "Sep 21, 2020 — On Friday, Governor Ned Lamont's new Executive Order 9C went into effect, which makes adjustments to the mandatory 14-day self-quarantine"
+    },
+    {
+      "title": "COVID-19 Isolation Guidance - CDPH - CA.gov",
+      "url": "https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/COVID-19-Isolation-Guidance.aspx",
+      "snippet": "As noted above, those who test positive should mask indoors when around others during the full 10 days following symptom onset date (or positive test date if no"
+    },
+    {
+      "title": "Coronavirus State Actions",
+      "url": "https://www.nga.org/coronavirus-state-actions-all",
+      "snippet": "## Coronavirus State Actions. It is not intended to be exhaustive but is meant to highlight key actions and resources that may inform other states and territories as they prepare for and respond to the novel coronavirus. Additional state-by-state resources include: Summary Of Public Health Criteria In Reopening Plans; Summary Of State Actions Addressing Business Reopenings; and the COVID-19 State and Territory Actions Tracker. **Alaska Department of Health and Social Services coronavirus resource page.**. **Hawaii Department of Health coronavirus resource page.**. Indiana State Department of Health coronavirus resource page. Iowa Department of Public Health coronavirus resource page. Louisiana Department of Health coronavirus resource page. **Maine Department of Health and Human Services coronavirus resource page.**. **Massachusetts Department of Public Health coronavirus resource page.**. **Mississippi State Department of Health coronavirus resource page.**. Nebraska Department of Health and Human Services coronavirus resource page. New Hampshire Department of Health and Human Services coronavirus resource page. **Oklahoma State Department of Health coronavirus resource page.**."
+    }
+  ],
+  "english_retrieval": [
+    {
+      "title": "Quarantine and testing strategies to ameliorate transmission ...",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8743228",
+      "snippet": "by CR Wells · 2022 · Cited by 37 — a zero-day travel quarantine with RT-PCR test is equivalent to or better destinations around the world enforce mandatory quarantines."
+    },
+    {
+      "title": "COVID-19 Isolation, Quarantine & Entry Requirements",
+      "url": "https://www.facebook.com/MHHSPalau/posts/directive-32-21-covid-19-isolation-quarantine-entry-requirements/4470889532965238",
+      "snippet": "Unvaccinated travelers are required to quarantine in a designated government facility for seven (7) days and will be tested after the 7day ...Read more"
+    },
+    {
+      "title": "Quarantine and Isolation Guidance Center - Coronavirus",
+      "url": "https://www.coronavirus.in.gov/quarantine-and-isolation-guidance-center",
+      "snippet": "Your Covid-19 test records may be released only under certain circumstances including if you have given written consent, as necessary to enforce public health ...Read more"
+    },
+    {
+      "title": "Governor Lamont Issues New Executive Order Allowing ...",
+      "url": "https://www.ctschoollaw.com/2020/09/governor-lamont-issues-new-executive-order-allowing-testing-alternative-to-self-quarantine-following-travel",
+      "snippet": "Sep 21, 2020 — On Friday, Governor Ned Lamont's new Executive Order 9C went into effect, which makes adjustments to the mandatory 14-day self-quarantine"
+    },
+    {
+      "title": "COVID-19 Isolation Guidance - CDPH - CA.gov",
+      "url": "https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/COVID-19-Isolation-Guidance.aspx",
+      "snippet": "As noted above, those who test positive should mask indoors when around others during the full 10 days following symptom onset date (or positive test date if no"
+    },
+    {
+      "title": "Coronavirus State Actions",
+      "url": "https://www.nga.org/coronavirus-state-actions-all",
+      "snippet": "## Coronavirus State Actions. It is not intended to be exhaustive but is meant to highlight key actions and resources that may inform other states and territories as they prepare for and respond to the novel coronavirus. Additional state-by-state resources include: Summary Of Public Health Criteria In Reopening Plans; Summary Of State Actions Addressing Business Reopenings; and the COVID-19 State and Territory Actions Tracker. **Alaska Department of Health and Social Services coronavirus resource page.**. **Hawaii Department of Health coronavirus resource page.**. Indiana State Department of Health coronavirus resource page. Iowa Department of Public Health coronavirus resource page. Louisiana Department of Health coronavirus resource page. **Maine Department of Health and Human Services coronavirus resource page.**. **Massachusetts Department of Public Health coronavirus resource page.**. **Mississippi State Department of Health coronavirus resource page.**. Nebraska Department of Health and Human Services coronavirus resource page. New Hampshire Department of Health and Human Services coronavirus resource page. **Oklahoma State Department of Health coronavirus resource page.**."
+    }
+  ],
+  "merged_results": [
+    {
+      "title": "Quarantine and testing strategies to ameliorate transmission ...",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8743228",
+      "snippet": "by CR Wells · 2022 · Cited by 37 — a zero-day travel quarantine with RT-PCR test is equivalent to or better destinations around the world enforce mandatory quarantines."
+    },
+    {
+      "title": "COVID-19 Isolation, Quarantine & Entry Requirements",
+      "url": "https://www.facebook.com/MHHSPalau/posts/directive-32-21-covid-19-isolation-quarantine-entry-requirements/4470889532965238",
+      "snippet": "Unvaccinated travelers are required to quarantine in a designated government facility for seven (7) days and will be tested after the 7day ...Read more"
+    },
+    {
+      "title": "Quarantine and Isolation Guidance Center - Coronavirus",
+      "url": "https://www.coronavirus.in.gov/quarantine-and-isolation-guidance-center",
+      "snippet": "Your Covid-19 test records may be released only under certain circumstances including if you have given written consent, as necessary to enforce public health ...Read more"
+    },
+    {
+      "title": "Governor Lamont Issues New Executive Order Allowing ...",
+      "url": "https://www.ctschoollaw.com/2020/09/governor-lamont-issues-new-executive-order-allowing-testing-alternative-to-self-quarantine-following-travel",
+      "snippet": "Sep 21, 2020 — On Friday, Governor Ned Lamont's new Executive Order 9C went into effect, which makes adjustments to the mandatory 14-day self-quarantine"
+    },
+    {
+      "title": "COVID-19 Isolation Guidance - CDPH - CA.gov",
+      "url": "https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/COVID-19-Isolation-Guidance.aspx",
+      "snippet": "As noted above, those who test positive should mask indoors when around others during the full 10 days following symptom onset date (or positive test date if no"
+    },
+    {
+      "title": "Coronavirus State Actions",
+      "url": "https://www.nga.org/coronavirus-state-actions-all",
+      "snippet": "## Coronavirus State Actions. It is not intended to be exhaustive but is meant to highlight key actions and resources that may inform other states and territories as they prepare for and respond to the novel coronavirus. Additional state-by-state resources include: Summary Of Public Health Criteria In Reopening Plans; Summary Of State Actions Addressing Business Reopenings; and the COVID-19 State and Territory Actions Tracker. **Alaska Department of Health and Social Services coronavirus resource page.**. **Hawaii Department of Health coronavirus resource page.**. Indiana State Department of Health coronavirus resource page. Iowa Department of Public Health coronavirus resource page. Louisiana Department of Health coronavirus resource page. **Maine Department of Health and Human Services coronavirus resource page.**. **Massachusetts Department of Public Health coronavirus resource page.**. **Mississippi State Department of Health coronavirus resource page.**. Nebraska Department of Health and Human Services coronavirus resource page. New Hampshire Department of Health and Human Services coronavirus resource page. **Oklahoma State Department of Health coronavirus resource page.**."
+    }
+  ]
+}

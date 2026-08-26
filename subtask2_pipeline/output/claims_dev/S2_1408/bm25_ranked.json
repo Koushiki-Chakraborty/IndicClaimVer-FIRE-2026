@@ -1,0 +1,57 @@
+{
+  "claim": {
+    "id": "S2/1408",
+    "text": "Delhi records 11,684 fresh Covid-19 cases, 38 deaths in 24 hours; positivity rate falls to 22.47%",
+    "lang": "dev"
+  },
+  "ranked_evidence": [
+    {
+      "title": "Delhi records 11684 fresh COVID cases, 38 fatalities",
+      "url": "https://www.firstpost.com/india/delhi-records-11684-fresh-covid-cases-38-fatalities-over-15000-people-take-precautionary-dose-10297351.html/amp",
+      "snippet": "Delhi logged 11,684 fresh COVID-19 cases and 38 more deaths on Tuesday, while the positivity rate declined to 22.47 per cent, according to a",
+      "bm25_score_raw": 5.809172852657822,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Delhi records 11684 fresh coronavirus cases, 38 more fatalities",
+      "url": "https://www.business-standard.com/amp/article/current-affairs/delhi-records-11-684-fresh-coronavirus-cases-38-more-fatalities-122011801339_1.html",
+      "snippet": "Delhi logged 11,684 fresh COVID-19 cases and 38 more deaths due to the viral disease, while the positivity rate declined to 22.47 per cent,",
+      "bm25_score_raw": 4.14070735402251,
+      "bm25_score_norm": 0.6418668598122462,
+      "bm25_rank": 2
+    },
+    {
+      "title": "Delhi Records 21,259 Fresh COVID-19 Cases, 23 Deaths; Positivity Rate Climbs To 25.6%",
+      "url": "https://www.youtube.com/watch?v=Fwy7fPSK_q8",
+      "snippet": "Delhi Records 21,259 Fresh COVID-19 Cases, 23 Deaths; Positivity Rate Climbs To 25.6%\nIndia Today\n11300000 subscribers\n31 likes\n6903 views\n11 Jan 2022\nDelh today recorded 21,259 fresh covid cases amid rising surge of the infection in the city. Apart from this, 23 people succumbed to the virus in the last 24 hours while the positivity rate climbed to 25.65 per cent. Total 12,161 recovered from the infection in the same time period. \n\nMeanwhile, Delhi CM Arvind Kejriwal today took stock of the persisting Covid situation in the Lok Nayak Hospital in Delhi. After the visit, he told reporters, that his government had to impose restrictions out of compulsion and reiterated that a complete lockdown will not be implemented.\n\n#DelhiCOVID19Crisis #DelhiCOVID19Cases #DelhiCOVID19Outbreak #DelhiOmicronCases #IndiaToday\n\nSubscribe to India Today for NEW VIDEOS EVERY DAY and make sure to enable Push Notifications so you'll never miss a new video. \n\nAll you need to do is PRESS THE BELL ICON next to the Subscribe button! \n\nIndia Today TV is India's leading English News Channel. India Today YouTube channel offers latest news videos on Politics, Business, Cricket, Bollywood, Lifestyle, Auto, Technology, Travel, Entertainment and a lot more. \n\nStay tuned for latest updates and in-depth analysis of news from India and around the world! \n\nFollow us: Official website: https://www.indiatoday.in/\n\nTwitter: https://twitter.com/IndiaToday \n\nFacebook: https://www.facebook.com/IndiaToday\n6 comments\n",
+      "bm25_score_raw": 3.936422447876806,
+      "bm25_score_norm": 0.598017469464791,
+      "bm25_rank": 3
+    },
+    {
+      "title": "The capital saw the number of fresh Covid-19 cases dip below ...",
+      "url": "https://www.facebook.com/TimesofIndia/posts/the-capital-saw-the-number-of-fresh-covid-19-cases-dip-below-the-10000-mark-afte/10159734373427139",
+      "snippet": "COVID-19: Delhi records 24,383 cases, 34 deaths New Delhi, January 14: Delhi on Friday reported 24,383 COVID-19 cases and 34 fatalities while the positivity",
+      "bm25_score_raw": 1.8421779174293125,
+      "bm25_score_norm": 0.14849162033956087,
+      "bm25_rank": 4
+    },
+    {
+      "title": "COVID-19 Crisis: Delhi Records Biggest Single Day Spike In India; 141 Fresh Cases In 24 Hours",
+      "url": "https://www.youtube.com/watch?v=9VqTAmaudd8",
+      "snippet": "COVID-19 Crisis: Delhi Records Biggest Single Day Spike In India; 141 Fresh Cases In 24 Hours\nIndia Today\n11300000 subscribers\n115 likes\n16269 views\n2 Apr 2020\nDelhi records 141 fresh coronavirus cases in the last 24 hours. It is the biggest single day spike recorded in India \n#CoronavirusCrisis #Delhi\n\nSubscribe to India Today for NEW VIDEOS EVERY DAY and make sure to enable Push Notifications so you'll never miss a new video. \nAll you need to do is PRESS THE BELL ICON next to the Subscribe button! \n\nIndia Today TV is India's leading English News Channel. India Today YouTube channel offers latest news videos on Politics, Business, Cricket, Bollywood, Lifestyle, Auto, Technology, Travel, Entertainment and a lot more. \n\nStay tuned for latest updates and in-depth analysis of news from India and around the world! \n\n\n\nFollow us: Official website: https://www.indiatoday.in/\n\nTwitter: https://twitter.com/IndiaToday \n\nFacebook: https://www.facebook.com/IndiaToday\n23 comments\n",
+      "bm25_score_raw": 1.6963604865074913,
+      "bm25_score_norm": 0.11719216915351195,
+      "bm25_rank": 5
+    },
+    {
+      "title": "Delhi records its highest COVID-19 deaths, hospitals swamped",
+      "url": "https://www.reuters.com/world/asia-pacific/delhi-records-its-highest-covid-19-deaths-hospitals-swamped-2020-11-13",
+      "snippet": "Delhi's COVID-19 deaths rose by a record high on Thursday … reported 104 new deaths and 7,053 new infections. India's deaths increased by 547",
+      "bm25_score_raw": 1.1503873022320579,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6
+    }
+  ]
+}

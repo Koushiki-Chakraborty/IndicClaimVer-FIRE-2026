@@ -1,0 +1,57 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1097",
+    "text": "Bombay High Court Half-Yearly Digest: January To June 2023 [Citations 1 - 213]",
+    "lang": "english"
+  },
+  "ranked_evidence": [
+    {
+      "title": "Bombay High Court Half-Yearly Digest: January To June 2023 ...",
+      "url": "https://www.livelaw.in/amp/top-stories/bombay-high-court-half-yearly-digest-january-to-june-2023-citations-1-313-233856",
+      "snippet": "Bombay High Court Half-Yearly Digest: January To June 2023 [Citations 1 - 313] Amisha Shrivastava 28 July 2023 9:30 PM",
+      "bm25_score_raw": 6.640375166363533,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Bombay High Court Annual Digest 2023: Part I [Citations 1-300]",
+      "url": "https://www.livelaw.in/amp/round-ups/yearly/bombay-high-court-annual-digest-0art-1-citation-1-to-300-245552",
+      "snippet": "Bombay High Court Annual Digest 2023: Part I [Citations 1-300] Nominal Index [Citation 1 – 300]World Phone Internet Services Pvt. Ltd. v. One OTT Intertainment",
+      "bm25_score_raw": 5.733696529551612,
+      "bm25_score_norm": 0.8531587376952109,
+      "bm25_rank": 2
+    },
+    {
+      "title": "Bombay High Court Judgment Tracker: June 2023",
+      "url": "https://www.barandbench.com/amp/story/columns/bombay-high-court-judgment-tracker-june-2023",
+      "snippet": "Here is a summary of all decisions of the Bombay Bench of the Bombay High Court for the month of June, 2023. Arbitration and Conciliation Act,",
+      "bm25_score_raw": 4.592847456016316,
+      "bm25_score_norm": 0.6683923703677291,
+      "bm25_rank": 3
+    },
+    {
+      "title": "Bombay High Court Half Yearly Digest: January To June, 2024 [Citations 1- ...",
+      "url": "https://www.facebook.com/photo.php?fbid=916895067142192&set=a.454362093395494&id=100064651214364",
+      "snippet": "Bombay High Court Half Yearly Digest: January To June, 2024 [Citations 1-319] Link in comment box #BombayHighCourt #LiveLaw #Digest.",
+      "bm25_score_raw": 4.532644460335635,
+      "bm25_score_norm": 0.6586421859899816,
+      "bm25_rank": 4
+    },
+    {
+      "title": "Bombay High Court Half Yearly Digest: January To June, 2024 [Citations 1- ...",
+      "url": "https://www.livelaw.in/amp/high-court/bombay-high-court/bombay-high-court-latest-judgments-2024-266117",
+      "snippet": "Bombay High Court Half Yearly Digest: January To June, 2024 [Citations 1-319] Nominal Index [Citation 1 – 319]Rohit Dembiwal v. Tata Consultancy Services Ltd.",
+      "bm25_score_raw": 4.324300230800288,
+      "bm25_score_norm": 0.6248997678753754,
+      "bm25_rank": 5
+    },
+    {
+      "title": "Ajay Ramesh Sugandhi And Anr vs State Of Maharashtra on 17 January ...",
+      "url": "https://indiankanoon.org/doc/25197275?type=print",
+      "snippet": "Ajay Ramesh Sugandhi And Anr vs State Of Maharashtra on 17 January, 2023. Author: Prithviraj K. Chavan. Bench: Revati Mohite Dere, Prithviraj K. Chavan.",
+      "bm25_score_raw": 0.4658257067573761,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6
+    }
+  ]
+}

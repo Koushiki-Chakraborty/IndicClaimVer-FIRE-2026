@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/HI/1181",
+    "text": "भारत को कनाडा से दो हजार वेंटिलेटर मिल सकते हैं, अमेरिका में भारतीय मूल के डॉक्टरों का समूह कर रहा बातचीत",
+    "lang": "hindi"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Indian-American doctors' group in talks with Canada to ...",
+      "url": "https://www.millenniumpost.in/big-stories/indian-american-doctors-group-in-talks-with-canada-to-send-5000-unused-ventilators-to-india-439348",
+      "snippet": "A powerful Indian-American doctors' group has initiated talks with the Canadian government to urgently donate to India as many as 5,000",
+      "bm25_score_raw": 4.983264243212384,
+      "bm25_score_norm": 0.7936006174811854,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.9032451510429382,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "US cheers Indian engineers for building low-cost ventilator",
+      "url": "https://health.economictimes.indiatimes.com/news/medical-devices/us-cheers-indian-engineers-for-building-low-cost-ventilator/74946698",
+      "snippet": "\"Young engineers, with help from doctors and entrepreneurs in India and the US, are developing a low cost ventilator that could save thousands",
+      "bm25_score_raw": 2.511868810571115,
+      "bm25_score_norm": 0.22538330237743975,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.9021482467651367,
+      "embedding_score_norm": 0.9923506266891344,
+      "embedding_rank": 2
+    },
+    {
+      "title": "'Living in two realities': Indian diaspora reckons with crisis ...",
+      "url": "https://www.washingtonpost.com/health/2021/05/01/india-diaspora-covid-response",
+      "snippet": "The American Association of Physicians of Indian Origin said it raised more than $500,000 to send 1,000 oxygen concentrators to India and is",
+      "bm25_score_raw": 3.8428725799599857,
+      "bm25_score_norm": 0.5314044992471066,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8834623694419861,
+      "embedding_score_norm": 0.8620427646646588,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Canada sends meds and ventilators to India as pandemic ...",
+      "url": "https://www.youtube.com/watch?v=sdXTXMGoyxI",
+      "snippet": "International Development Minister Karina Gould joined Power & Politics to discuss the new aid Canada is sending to India as it grapples",
+      "bm25_score_raw": 4.710642483245964,
+      "bm25_score_norm": 0.7309200757754736,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8737615346908569,
+      "embedding_score_norm": 0.7943930089474764,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Indian doctors in the US have deep ties to India. Here's ...",
+      "url": "https://www.pbs.org/newshour/show/indian-doctors-in-the-us-have-deep-ties-to-india-heres-how-theyre-helping-the-country",
+      "snippet": "Special correspondent Fred de Sam Lazaro reports on the efforts of Indian American doctors to help mitigate the crisis in India. About 80,000",
+      "bm25_score_raw": 2.4222662279349,
+      "bm25_score_norm": 0.2047820913128477,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.8724884390830994,
+      "embedding_score_norm": 0.785514947514733,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Indian doctors in the US have deep ties to India. Here's how ...",
+      "url": "https://www.youtube.com/watch?v=rhmAVaCjRuA",
+      "snippet": "Special correspondent Fred de Sam Lazaro reports on the efforts of Indian American doctors to help mitigate the crisis in India.",
+      "bm25_score_raw": 2.4429317427952335,
+      "bm25_score_norm": 0.20953345696404407,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8526923060417175,
+      "embedding_score_norm": 0.6474646045544592,
+      "embedding_rank": 6
+    },
+    {
+      "title": "ईरान-अमेरिका युद्ध की आंच अब भारत के हज यात्रियों तक पहुंच गई है ...",
+      "url": "https://www.instagram.com/reel/DX6VHANE4-4?hl=hi",
+      "snippet": "64 likes, 0 comments - sbtnews.in on May 4, 2026: \"ईरान-अमेरिका युद्ध की आंच अब भारत के हज यात्रियों तक पहुंच गई है। खाड़ी संकट के कारण दुनियाभर में जेट ईंधन की कीमतें आसमान छू रही",
+      "bm25_score_raw": 1.672747267163736,
+      "bm25_score_norm": 0.03245448809575473,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.8048469424247742,
+      "embedding_score_norm": 0.31381010533631387,
+      "embedding_rank": 7
+    },
+    {
+      "title": "रियाद में इस वर्ष हज यात्रा पश्चिम एशिया में जारी तनावपूर्ण ...",
+      "url": "https://www.instagram.com/p/DYwPYW-jL0F?hl=hi",
+      "snippet": "भारत का हज कोटा दुनिया में होगा नंबर-1? ... मौलाना मुफ्ती मुहम्मद सईद-उर-रहमान कासमी ने सक्षम लोगों से अपील करते हुए कहा है कि हज की फर्ज अदायगी में अनावश्यक देरी न करें और समय रहते आवेदन प्रक्रिया",
+      "bm25_score_raw": 1.5607352645798713,
+      "bm25_score_norm": 0.006700956901608511,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.7830025553703308,
+      "embedding_score_norm": 0.16147605512968977,
+      "embedding_rank": 8
+    },
+    {
+      "title": "मिडिल ईस्ट में तनाव के बावजूद भारत से जारी रहेगी हज यात्रा ...",
+      "url": "https://www.abplive.com/states/jammu-and-kashmir/indias-hajj-pilgrimage-to-proceed-as-scheduled-saudi-arabia-assures-safety-amid-regional-tensions-ann-3115007",
+      "snippet": "Haj Yatra 2026: पश्चिम एशिया में जारी तनाव के बावजूद भारत से हज यात्रा की उड़ानें निर्धारित समय पर चलेंगी. श्रीनगर से हज की उड़ानें 18 अप्रैल से शुरू होंंगी और 20 मई तक जारी रहेंगी ... अमेरिका की नौसेना",
+      "bm25_score_raw": 3.036275792293549,
+      "bm25_score_norm": 0.34595369885888083,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.7810483574867249,
+      "embedding_score_norm": 0.14784825784826616,
+      "embedding_rank": 9
+    },
+    {
+      "title": "कनाडा को अमेरिका वाक़ई अपने में मिला लेगा, क्या यह संभव है?",
+      "url": "https://www.bbc.com/hindi/articles/cjwlw44glj2o",
+      "snippet": "कनाडा अमेरिका से क्षेत्रफल में एक लाख 51 हज़ार 150 वर्ग किलोमीटर बड़ा है. दूसरी तरफ़ अमेरिका के नवनिर्वाचित राष्ट्रपति डोनाल्ड ट्रंप कनाडा को अमेरिका का 51वाँ राज्य बनाना चाहते हैं.",
+      "bm25_score_raw": 5.880974463753345,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.779296875,
+      "embedding_score_norm": 0.1356341169614659,
+      "embedding_rank": 10
+    },
+    {
+      "title": "USA - Canada Dharmayatra | 20 June - 12 July 2026 | Highlights",
+      "url": "https://www.youtube.com/watch?v=y2m5MqoADk8",
+      "snippet": "Experience the soul-stirring highlights of the sacred Dharmayatra across Canada and the USA, graced by Pujya Gurudevshri Rakeshji.",
+      "bm25_score_raw": 1.5315902282693576,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.7791571617126465,
+      "embedding_score_norm": 0.13465981217199305,
+      "embedding_rank": 11
+    },
+    {
+      "title": "हज यात्रा 2026 : भारतीय हजयात्रियों का पहला जत्था 18 अप्रैल ...",
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2252967",
+      "snippet": "भारत से वर्ष 2026 की हज यात्रा 18 अप्रैल, 2026 से शुरू होने वाली है। हजयात्रियों का पहला जत्था देश भर के विभिन्न प्रस्थान बिंदुओं से सऊदी अरब के लिए रवाना होगा। इस पाक हज यात्रा में कुल 1",
+      "bm25_score_raw": 1.5491449539912807,
+      "bm25_score_norm": 0.004036140467587277,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.7598472237586975,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

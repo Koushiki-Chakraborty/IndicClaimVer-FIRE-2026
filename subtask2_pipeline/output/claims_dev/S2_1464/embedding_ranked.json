@@ -1,0 +1,76 @@
+{
+  "claim": {
+    "id": "S2/1464",
+    "text": "Zydus Cadila supplies first consignment of its Covid vaccine ZyCoV-D to govt",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Zydus Cadila starts supply of COVID-19 vaccine to govt",
+      "url": "https://health.economictimes.indiatimes.com/news/pharma/zydus-cadila-starts-supply-of-covid-19-vaccine-to-govt/89290514",
+      "snippet": "Zydus Cadila on Wednesday said it has commenced supplies of its COVID-19 vaccine ZyCoV-D to the central government.",
+      "bm25_score_raw": 5.401731767931574,
+      "bm25_score_norm": 0.5269211122401479,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.9310296773910522,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Zydus Cadila supplies first consignment of its Covid ...",
+      "url": "https://www.indiatoday.in/coronavirus-outbreak/vaccine-updates/story/zydus-cadila-first-consignment-covid-vaccine-zycov-d-government-1907593-2022-02-02",
+      "snippet": "The vaccine will be priced at Rs 265 per dose and the applicator is being offered at Rs 93 per dose excluding GST.",
+      "bm25_score_raw": 9.339247897623661,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9190248847007751,
+      "embedding_score_norm": 0.8184593557784524,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Zydus Cadila starts supply of COVID-19 vaccine to govt",
+      "url": "https://medicaldialogues.in/news/industry/pharma/zydus-cadila-starts-supply-of-covid-19-vaccine-to-govt-87995",
+      "snippet": "\"The vaccine will be priced at Rs 265 per dose and the applicator being offered at Rs 93 per dose, excluding GST,\" Zydus Cadila said. The",
+      "bm25_score_raw": 3.65720157971217,
+      "bm25_score_norm": 0.31732186898044856,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.908125638961792,
+      "embedding_score_norm": 0.6536371765011285,
+      "embedding_rank": 3
+    },
+    {
+      "title": "ZyCoV-D",
+      "url": "https://en.wikipedia.org/wiki/ZyCoV-D",
+      "snippet": "ZyCoV-D is a DNA plasmid-based COVID-19 vaccine developed by Indian pharmaceutical company Cadila Healthcare, It is approved for emergency use in India.",
+      "bm25_score_raw": 1.280127231953629,
+      "bm25_score_norm": 0.031724641814797366,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8963358402252197,
+      "embedding_score_norm": 0.4753477455130193,
+      "embedding_rank": 4
+    },
+    {
+      "title": "DBT-BIRAC supported ZyCoV-D developed by Zydus ...",
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1747669",
+      "snippet": "Zydus Cadila has received approval for Emergency Use Authorization (EUA) ZyCoV-D. DNA based vaccine for COVID-19",
+      "bm25_score_raw": 2.117686708694249,
+      "bm25_score_norm": 0.13235450405238053,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.867805004119873,
+      "embedding_score_norm": 0.04389453341890265,
+      "embedding_rank": 5
+    },
+    {
+      "title": "fact sheet for vaccine recipient",
+      "url": "https://zyduslife.com/public/pdf/ZyCov-D%20FactSheet.pdf",
+      "snippet": "FACT SHEET FOR VACCINE RECIPIENT APPROVED FOR RESTRICTED USE IN EMERGENCY SITUATION OF Novel Corona Virus 2019 - nCoV Vaccine (Recombinant) IN PREVENTION OF COVID-19 DISEASE IN INDIVIDUALS 12 YEARS OF AGE AND OLDER You are being offered ZyCoV-D® Vaccine of Cadila Healthcare Ltd to prevent Coronavirus Disease 2019 (COVID-19) caused by SARS-CoV-2. Tell the healthcare provider about all of your medical conditions, including:  If you have ever had a severe allergic reaction (anaphylaxis) after any drug, food, any vaccine or any ingredients of ZyCoV-D® vaccine  If you have fever  If you have a bleeding disorder or are on a blood thinner  If you are immunocompromised or are on a medicine that affects your immune system  If you are pregnant or plan to become pregnant  If you are breastfeeding  If you have received another COVID-19 vaccine You should consult your healthcare provider before deciding to take the vaccine.",
+      "bm25_score_raw": 1.0160776366610156,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8649023771286011,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "ID": "S2/1178",
+  "Evidence": "भारत में मंकीपॉक्स का एक भी मामला नहीं पाया गया है, और स्वास्थ्य विभाग विदेश से आने वालों पर निगरानी रख रहा है (Source 1)। हालांकि, WHO ने मंकीपॉक्स को ग्लोबल हेल्थ इमरजेंसी घोषित किया है, यह कहते हुए कि यह वायरस 70 से ज्यादा देशों में फैल रहा है (Source 3)। WHO की घोषणा का मतलब है कि यह वायरस एक बड़ा खतरा है और इसके फैलने से रोकने के लिए अंतरराष्ट्रीय कार्रवाई की जरूरत है (Source 3)।",
+  "Prediction": "REFUTES",
+  "Justification": "Retrieved evidence directly contradicts the claim that WHO has not declared monkeypox a global health emergency, as Source 3 explicitly states that WHO has indeed declared monkeypox a global health emergency. Additionally, the claim that only one case has been found in India is incorrect, as Source 1 confirms that there are no cases in India."
+}

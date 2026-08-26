@@ -1,0 +1,138 @@
+{
+  "claim": {
+    "id": "S2/T/HI/1210",
+    "text": "इंडिया टीवी कॉन्क्लेव: जेटली से लेकर गडकरी तक, ‘टीम मोदी’ ने आम बजट पर जनता के सवालों के दिए ये जवाब",
+    "lang": "hindi"
+  },
+  "generated_queries": {
+    "english_translation": "India TV Conclave: From Jaitley to Gadkari, 'Team Modi' gave these answers to the public's questions on the general budget",
+    "native_query": "इंडिया टीवी जेटली गडकरी टीम टीम मोदी आम बजट जनत",
+    "english_query": "Jaitley Gadkari Team Modi India Conclave answers public questions"
+  },
+  "native_retrieval": [
+    {
+      "title": "Nitin Gadkari on India TV Budget Samvaad: Modi Govt ...",
+      "url": "https://www.indiatvnews.com/business/budget-nitin-gadkari-on-india-tv-budget-samvaad-modi-govt-presented-first-agriculture-budget-80-per-cent-ganga-to-be-clean-by-2019-425595",
+      "snippet": "Feb 2, 2018 — BudgetWithIndiaTV: Gadkari hailed the government's decision to give 1.5 times the MSP on crops despite volatile prices of crops in the"
+    },
+    {
+      "title": "Budget 2022: अमित शाह ने बजट को बताया दूरदर्शी तो गडकरी बोले",
+      "url": "https://hindi.news18.com/news/nation/budget-2022-amit-shah-nitin-gadkari-praises-describes-as-booster-for-new-india-fm-nirmala-sitharaman-3985371.html",
+      "snippet": "Feb 1, 2022 — नई दिल्ली. केंद्रीय मंत्री नितिन गडकरी (Nitin Gadkari) ने मंगलवार को वित्त मंत्री निर्मला सीतारमण (FM Nirmala Sitharaman) द्वारा पेश किए गए वर्ष 2022-23 के आम बजट (Budget"
+    },
+    {
+      "title": "Addressing India TV Conclave on the completion of 8 years ...",
+      "url": "https://www.youtube.com/watch?v=L-uXOVOjUiI",
+      "snippet": "Addressing India TV Conclave on the completion of 8 years of Modi Government | Nitin Gadkari. 1.2M views · Streamed 4 years ago."
+    },
+    {
+      "title": "Nitin Gadkari Exclusive on India TV: नितिन गडकरी का इंटरव्यू ...",
+      "url": "https://www.youtube.com/watch?v=ioVS1wamaZg",
+      "snippet": "Nitin Gadkari Exclusive on India TV: नितिन गडकरी का इंटरव्यू मोदी-योगी भी हैरान #maharashtraelection2024 #nitingadkari #indiatv"
+    },
+    {
+      "title": "बजट सुनकर क्यों Nitin Gadkari का वीडियो देख रहे लोग!",
+      "url": "https://www.youtube.com/watch?v=TG0f0Z6Ca68",
+      "snippet": "Budget 2024: बजट सुनकर क्यों Nitin Gadkari का वीडियो देख रहे लोग! | Interim Budget 2024 | Breaking. 18K views · Streamed 2 years ago."
+    },
+    {
+      "title": "Nitin Gadkari LIVE:G20 के बाद नितिन गडकरी का बहुत बड़ा ऐलान!",
+      "url": "https://www.youtube.com/watch?v=SopkSelynLY",
+      "snippet": "Nitin Gadkari LIVE:G20 के बाद नितिन गडकरी का बहुत बड़ा ऐलान! | G20 Summit India | PM Modi | Breaking #nitingadkari #pmmodi #g20summit2023"
+    }
+  ],
+  "english_retrieval": [
+    {
+      "title": "Tell us what you want to ask Nitin Gadkari using # ...",
+      "url": "https://www.facebook.com/indiatvnews/posts/tell-us-what-you-want-to-ask-nitin-gadkari-using-indiatvsamvaad-and-we-will-put-/1909198205803130",
+      "snippet": "Will PM Narendra Modi Answer These Questions? ... India Today Conclave 2019 stage and asked the previous dispensations seven pointed questions."
+    },
+    {
+      "title": "The Tough Questions Nitin Gadkari Had to Answer A ...",
+      "url": "https://www.instagram.com/reel/Da5OHKjlDAl",
+      "snippet": "A journalist asks Nitin Gadkari tough questions about public concerns, highway quality, and allegations discussed during the interview. Watch"
+    },
+    {
+      "title": "India must learn art of living with coronavirus: Nitin Gadkari ...",
+      "url": "https://www.indiatoday.in/e-conclave-2020/e-conclave-jumpstart-india-series/story/india-must-learn-art-of-living-with-coronavirus-nitin-gadkari-at-e-conclave-jumpstart-series-1679017-2020-05-17",
+      "snippet": "India must learn art of living with coronavirus: Nitin Gadkari answers top honchos' queries at e-Conclave. Union Minister Nitin Gadkari heard"
+    },
+    {
+      "title": "Are 'Acche DIN' here?, Union Minister Nitin Gadkari speaks at ...",
+      "url": "https://www.youtube.com/watch?v=dwSP_xU533s",
+      "snippet": "Nitin Gadkari takes some straight questions from Navika Kumar on NDA government's promise of 'Acche Din' at the India Economic Conclave."
+    },
+    {
+      "title": "Salient Points of speech by Shri Nitin Gadkari in BJP's CMs ...",
+      "url": "https://www.bjp.org/pressreleases/salient-points-speech-shri-nitin-gadkari-bjps-cms-conclave",
+      "snippet": "Salient Points of speech by Shri Nitin Gadkari in BJP's CMs Conclave · When the NDA left office the debt to GDP ratio was 17.8% today it is 68.05%. · Many"
+    },
+    {
+      "title": "India Today Conclave 2024| Nitin Gadkari : No Ambition To ...",
+      "url": "https://www.youtube.com/watch?v=G-i0xf7FnVc",
+      "snippet": "Nitin Gadkari addressed recent reports suggesting that he had been offered the prime minister's position by an opposition party, clarifying"
+    }
+  ],
+  "merged_results": [
+    {
+      "title": "Nitin Gadkari on India TV Budget Samvaad: Modi Govt ...",
+      "url": "https://www.indiatvnews.com/business/budget-nitin-gadkari-on-india-tv-budget-samvaad-modi-govt-presented-first-agriculture-budget-80-per-cent-ganga-to-be-clean-by-2019-425595",
+      "snippet": "Feb 2, 2018 — BudgetWithIndiaTV: Gadkari hailed the government's decision to give 1.5 times the MSP on crops despite volatile prices of crops in the"
+    },
+    {
+      "title": "Budget 2022: अमित शाह ने बजट को बताया दूरदर्शी तो गडकरी बोले",
+      "url": "https://hindi.news18.com/news/nation/budget-2022-amit-shah-nitin-gadkari-praises-describes-as-booster-for-new-india-fm-nirmala-sitharaman-3985371.html",
+      "snippet": "Feb 1, 2022 — नई दिल्ली. केंद्रीय मंत्री नितिन गडकरी (Nitin Gadkari) ने मंगलवार को वित्त मंत्री निर्मला सीतारमण (FM Nirmala Sitharaman) द्वारा पेश किए गए वर्ष 2022-23 के आम बजट (Budget"
+    },
+    {
+      "title": "Addressing India TV Conclave on the completion of 8 years ...",
+      "url": "https://www.youtube.com/watch?v=L-uXOVOjUiI",
+      "snippet": "Addressing India TV Conclave on the completion of 8 years of Modi Government | Nitin Gadkari. 1.2M views · Streamed 4 years ago."
+    },
+    {
+      "title": "Nitin Gadkari Exclusive on India TV: नितिन गडकरी का इंटरव्यू ...",
+      "url": "https://www.youtube.com/watch?v=ioVS1wamaZg",
+      "snippet": "Nitin Gadkari Exclusive on India TV: नितिन गडकरी का इंटरव्यू मोदी-योगी भी हैरान #maharashtraelection2024 #nitingadkari #indiatv"
+    },
+    {
+      "title": "बजट सुनकर क्यों Nitin Gadkari का वीडियो देख रहे लोग!",
+      "url": "https://www.youtube.com/watch?v=TG0f0Z6Ca68",
+      "snippet": "Budget 2024: बजट सुनकर क्यों Nitin Gadkari का वीडियो देख रहे लोग! | Interim Budget 2024 | Breaking. 18K views · Streamed 2 years ago."
+    },
+    {
+      "title": "Nitin Gadkari LIVE:G20 के बाद नितिन गडकरी का बहुत बड़ा ऐलान!",
+      "url": "https://www.youtube.com/watch?v=SopkSelynLY",
+      "snippet": "Nitin Gadkari LIVE:G20 के बाद नितिन गडकरी का बहुत बड़ा ऐलान! | G20 Summit India | PM Modi | Breaking #nitingadkari #pmmodi #g20summit2023"
+    },
+    {
+      "title": "Tell us what you want to ask Nitin Gadkari using # ...",
+      "url": "https://www.facebook.com/indiatvnews/posts/tell-us-what-you-want-to-ask-nitin-gadkari-using-indiatvsamvaad-and-we-will-put-/1909198205803130",
+      "snippet": "Will PM Narendra Modi Answer These Questions? ... India Today Conclave 2019 stage and asked the previous dispensations seven pointed questions."
+    },
+    {
+      "title": "The Tough Questions Nitin Gadkari Had to Answer A ...",
+      "url": "https://www.instagram.com/reel/Da5OHKjlDAl",
+      "snippet": "A journalist asks Nitin Gadkari tough questions about public concerns, highway quality, and allegations discussed during the interview. Watch"
+    },
+    {
+      "title": "India must learn art of living with coronavirus: Nitin Gadkari ...",
+      "url": "https://www.indiatoday.in/e-conclave-2020/e-conclave-jumpstart-india-series/story/india-must-learn-art-of-living-with-coronavirus-nitin-gadkari-at-e-conclave-jumpstart-series-1679017-2020-05-17",
+      "snippet": "India must learn art of living with coronavirus: Nitin Gadkari answers top honchos' queries at e-Conclave. Union Minister Nitin Gadkari heard"
+    },
+    {
+      "title": "Are 'Acche DIN' here?, Union Minister Nitin Gadkari speaks at ...",
+      "url": "https://www.youtube.com/watch?v=dwSP_xU533s",
+      "snippet": "Nitin Gadkari takes some straight questions from Navika Kumar on NDA government's promise of 'Acche Din' at the India Economic Conclave."
+    },
+    {
+      "title": "Salient Points of speech by Shri Nitin Gadkari in BJP's CMs ...",
+      "url": "https://www.bjp.org/pressreleases/salient-points-speech-shri-nitin-gadkari-bjps-cms-conclave",
+      "snippet": "Salient Points of speech by Shri Nitin Gadkari in BJP's CMs Conclave · When the NDA left office the debt to GDP ratio was 17.8% today it is 68.05%. · Many"
+    },
+    {
+      "title": "India Today Conclave 2024| Nitin Gadkari : No Ambition To ...",
+      "url": "https://www.youtube.com/watch?v=G-i0xf7FnVc",
+      "snippet": "Nitin Gadkari addressed recent reports suggesting that he had been offered the prime minister's position by an opposition party, clarifying"
+    }
+  ]
+}

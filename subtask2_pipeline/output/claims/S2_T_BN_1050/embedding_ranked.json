@@ -1,0 +1,131 @@
+{
+  "claim": {
+    "id": "S2/T/BN/1050",
+    "text": "শাহরুখের ‘ম্যায় হুঁ না’র দৃশ্যই হাতিয়ার, ফিল্মি কায়দায় সচেতনতা প্রচার অভিযানে মুম্বই পুলিশ",
+    "lang": "bengali"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Mumbai Police tweets scene from Shah Rukh's Main Hoon Na to raise ...",
+      "url": "https://www.indiatoday.in/amp/trending-news/story/mumbai-police-tweets-scene-from-shah-rukh-s-main-hoon-na-to-raise-awareness-about-coronavirus-1666201-2020-04-12",
+      "snippet": "Mumbai Police took to Twitter to share a scene from Shah Rukh Khan's Main Hoon Na to raise awareness about the novel coronavirus.",
+      "bm25_score_raw": 3.6971750483582033,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9057216048240662,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Mumbai Police Uses 'Main Hoon Na' Clip, Asks People to Wear Masks",
+      "url": "https://www.thequint.com/amp/story/entertainment/celebrities/mumbai-police-uses-main-hoon-na-clip-asks-people-to-use-masks",
+      "snippet": "The Mumbai police has used two clips from the Shah Rukh Khan-starrer, Main Hoon Na (2004), to demonstrate the importance of using masks to stay",
+      "bm25_score_raw": 2.746195738841511,
+      "bm25_score_norm": 0.7427821790750774,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8958706259727478,
+      "embedding_score_norm": 0.9313622275463923,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Mumbai Police uses Shah Rukh Khan's 'Main Hoon Na' scene to ...",
+      "url": "https://www.indiatvnews.com/amp/trending/news-mumbai-police-uses-shah-rukh-khan-s-main-hoon-na-scene-to-create-covid-19-awareness-606953",
+      "snippet": "The Mumbai Police account used a scene from the popular Hindi film \"Main Hoon Na\", where Shah Rukh as Ram Prasad Sharma makes a \"Matrix\" likes back dive.",
+      "bm25_score_raw": 3.6396803973526977,
+      "bm25_score_norm": 0.9844490319626502,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8848020434379578,
+      "embedding_score_norm": 0.8542406682705626,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Mumbai Police's witty take on SRK's Main Hoon Na | Hindi Movie News",
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/mumbai-polices-witty-take-on-srks-main-hoon-na/amp_articleshow/75105343.cms",
+      "snippet": "The clip shows Shah Rukh's character Ram Prasad Sharma expertly ducking from a spit attack from college professor Professor Rasai, played by",
+      "bm25_score_raw": 1.0827577201853928,
+      "bm25_score_norm": 0.2928608210385415,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.8787760734558105,
+      "embedding_score_norm": 0.8122540634174278,
+      "embedding_rank": 4
+    },
+    {
+      "title": "This scene from Main hoon na always hits hard. ...",
+      "url": "https://www.facebook.com/thetwistedthought/videos/this-scene-from-main-hoon-na-always-hits-hardmain-hoon-na-is-a-high-energy-bolly/868033419514943",
+      "snippet": "The story follows Major Ram Prasad, secretly neutralizing national security threats. Shah Rukh Khan anchors the film with charisma,",
+      "bm25_score_raw": 1.7332546361416639,
+      "bm25_score_norm": 0.4688051318834218,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8622654676437378,
+      "embedding_score_norm": 0.6972146118152555,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Major Ram Saves Lucky | Shahrukh Khan, Zayed Khan | Main Hoon Na ...",
+      "url": "https://www.youtube.com/watch?v=uldZBxLGaC0",
+      "snippet": "Major Ram | Main Hoon Na | Action Scene | Shah Rukh Khan, Sushmita Sen, Suniel Shetty · झप्पी मार रहा है सबके सामने पप्पी ले रहा है...तुझे तो में दिखाती हु | Aamir",
+      "bm25_score_raw": 1.566024907768007,
+      "bm25_score_norm": 0.42357337353107705,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8223870992660522,
+      "embedding_score_norm": 0.41935771902917374,
+      "embedding_rank": 6
+    },
+    {
+      "title": "Who did I meet when I went to see Shahrukh's house in Mumbai!😍Mumbai ...",
+      "url": "https://www.youtube.com/watch?v=plPeAsFsLOk",
+      "snippet": "মুম্বাইতে শাহরুখের বাড়ি দেখতে গিয়ে এ কার সাথে দেখা হলো!  Mumbai Tour Guide | Mumbai Tourist places. #mumbaidarshan #mumbaitour #indiatrip #banglavlog #srkhouse",
+      "bm25_score_raw": 1.1307323595291123,
+      "bm25_score_norm": 0.3058368469816527,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.8063608407974243,
+      "embedding_score_norm": 0.3076930105108753,
+      "embedding_rank": 7
+    },
+    {
+      "title": "“উনহে মত ভুলো জো তুমহে তব জানতে থে, জব তুম কুছ ভী নহী থে। কিঁউকি বস য়ে হি হ্যাঁয় ...",
+      "url": "https://www.instagram.com/p/DU1BSkIkldb",
+      "snippet": "শাহরুখ খান (SRK) এর সেই বিখ্যাত উক্তি জীবনের শেষ প্রান্তে সব কিছুই মিলে যায়, সঠিক হয়ে যায়। যদি না হয় তাহলে ধরে নিবেন জীবন এখানেই শেষ না। এখনো অনেকটা পথ বাকি আছে #SRK #inspiration ... SRK",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.8011043667793274,
+      "embedding_score_norm": 0.2710679529396521,
+      "embedding_rank": 8
+    },
+    {
+      "title": "মুম্বাইয়ে শাহরুখের বাড়ি 'মান্নাত' দেখতে ভক্তদের ভিড় | Shahrukh Khan ...",
+      "url": "https://www.youtube.com/watch?v=mD6EaAOs-h8",
+      "snippet": "মুম্বাইয়ে শাহরুখের বাড়ি 'মান্নাত' দেখতে ভক্তদের ভিড় | Shahrukh Khan | Mannat | ATN News #srk #shahrukh #shahrukh_khan #mannat #atnnews #atnnewstv #updatenews",
+      "bm25_score_raw": 1.306418617835138,
+      "bm25_score_norm": 0.35335590031510045,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.7999929189682007,
+      "embedding_score_norm": 0.2633238187672428,
+      "embedding_rank": 9
+    },
+    {
+      "title": "YouTube",
+      "url": "https://www.youtube.com/watch?v=VmvvM3unIoM",
+      "snippet": "Share your videos with friends, family, and the world.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.7666531801223755,
+      "embedding_score_norm": 0.031025542311578575,
+      "embedding_rank": 10
+    },
+    {
+      "title": "মুম্বইয়ের বুকে কীভাবে 'ল্যান্ডমার্ক' হয়ে উঠল শাহরুখের 'মন্নত'?",
+      "url": "https://www.thewall.in/amp/entertainment/mannat-how-shah-rukh-khans-mumbai-home-became-indias-most-iconic-tourist-landmark-after-the-taj-mahal/tid/200091",
+      "snippet": "মন্নত আসলে এক রূপকথার মতো লড়াই ও আশার প্রতীক। কারণ এটি এমন একজন বহিরাগতের গল্প বলে, যিনি শূন্য হাতে মুম্বই এসে কেবল নিজের কঠোর পরিশ্রম ও নিষ্ঠার জোরে স্বপ্নকে বাস্তবে রূপদান করেছেন।",
+      "bm25_score_raw": 2.7112089416805896,
+      "bm25_score_norm": 0.7333190628570726,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.7622003555297852,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 11
+    }
+  ]
+}

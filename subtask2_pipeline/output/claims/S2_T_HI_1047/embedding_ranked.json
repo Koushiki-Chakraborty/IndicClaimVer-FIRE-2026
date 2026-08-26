@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/HI/1047",
+    "text": "कोरोना गाइडलाइंस की धज्जियाँ उड़ाते हरिद्वार कुंभ की शाही पेशवाई जुलूस में शामिल हुए बाबा रामदेव, आचार्य बालकृष्ण",
+    "lang": "hindi"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "हरिद्वार में बाबा रामदेव और आचार्य बालकृष्ण ने कनखल के दिव्य योग मंदिर में किया कन्या पूजन",
+      "url": "https://www.youtube.com/watch?v=zmZUrB7a46A",
+      "snippet": "rat\n1360000 subscribers\n3 likes\n96 views\n12 Oct 2024\nआज नवरात्रि का दसवां दिन है,यानी की आज दशहरा है। पूरे देश में दशहरे का त्योभार धूम-धाम से मनाया जा रहा है। इसी कड़ी में उत्तराखंड के हरिद्वार में योग गुरु बाबा रामदेव और आचार्य बालकृष्ण ने कनखल के दिव्य योग मंदिर में कन्या पूजन किया। बाबा रामदेव ने सबसे पहले पूरी श्रद्धा के साथ एक-एक कर कन्याओं के पैर धुलाए, उन्हें चुनरी उढ़ाई, उन्हें भेंट दी।\n\n#Navratri2024 #SwamiRamdev #AcharyaBalkrishna #KanyaPujan  \n\nSubscribe Now ► https://bit.ly/3Hr3wxH Stay Updated! 🔔\n--------------------------------------\nANI is South Asia's leading Multimedia News Agency providing content for every information platform, including TV, Internet, broadband, newspapers, and mobiles. \nSubscribe now! Enjoy and stay connected with us!!\n☛ Visit our Official website: https://www.aninews.in/\n☛ Follow ANI: https://twitter.com/ANI \n☛ Like us: https://www.facebook.com/ANINEWS.IN\n☛ Email to: anicontent@aniin.com, internetani@aniin.com\n☛ Copyrights © All Rights Reserved ANI Media Pvt Ltd.\n\n",
+      "bm25_score_raw": 1.5130903159570184,
+      "bm25_score_norm": 0.41736871498471256,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8188954591751099,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Patanjali Coronil controversy in Hindi: पतंजलि कोरोना दवा मामले में बाबा रामदेव सहित 4 अन्य के खिलाफ एफआईआर दर्ज | TheHealthSite.com Hindi",
+      "url": "https://www.thehealthsite.com/hindi/news/patanjali-coronil-controversy-fir-file-against-baba-ramdev-including-four-in-patanjali-coronavirus-drug-coronil-case-in-hindi-754412",
+      "snippet": "Title: Patanjali Coronil controversy in Hindi: पतंजलि कोरोना दवा मामले में बाबा रामदेव सहित 4 अन्य के खिलाफ एफआईआर दर्ज | TheHealthSite.com Hindi\n## योग गुरु बाबा रामदेव, पतंजलि आयुर्वेद के सीईओ आचार्य बालकृष्ण और तीन अन्य के खिलाफ कोरोना ठीक करने की दवाई का दावा करने के मामले में एफआईआर दर्ज कराई गई है। पतंजलि ने दावा किया था कि हर्बल मेडिसिन कंपनी ने कोरोनिल नामक दवाई बनाकर कोविड-19 का तोड़ ढूंढ़ लिया है।. Patanjali Coronil controversy: योग गुरु बाबा रामदेव और पतंजलि आयुर्वेद के सीईओ आचार्य बालकृष्ण की मुश्किलें बढ़ती ही जा रही हैं। बाबा रामदेव और आचार्य बालकृष्ण सहित तीन अन्य लोगों के खिलाफ कोरोना को ठीक करने की दवाई का दावा करने के मामले में एफआईआर दर्ज कराई गई है। जब से कोरोनिल नाम की दवा को लॉन्च किया गया है, उसके बाद से ही बाबा रामदेव और बालकृष्ण पर दवाई के दावों को लेकर सवाल उठने शुरू हो गए थे। पतंजलि ने दावा किया था कि हर्बल मेडिसिन कंपनी ने कोरोनिल नामक दवाई बनाकर कोविड-19 का तोड़ ढूंढ़ लिया है। यह शिकायत शुक्रवार को ज्योति नगर पुलिस स्टेशन में दर्ज (Patanjali Coronil controversy in hindi) कराई गई।. अतिरिक्त पुलिस आयुक्त (डीसीपी) साउथ, जयपुर अवनीश पराशर का कहना है कि रामदेव, आचार्य बालकृष्ण, बलबीर सिंह तोमर, अनुराग तोमर और अनुराग वाष्र्णेय के खिलाफ भारतीय दंड संहिता की धारा 420 और ड्रग्स एंड मैजिक रेमिडीज (आपत्तिजनक विज्ञापन) अधिनियम, 1954 की संबंधित धाराओं में मामला दर्ज किया गया है। यह एफआईआर एडवोकेट बलबीर जाखड़ ने दर्ज कराई है। इनमें से दो जयपुर के निम्स यूनिवर्सिटी के चेयरमैन और निदेशक हैं। वहीं पांचवें आरोपी वाष्र्णेय पतंजलि आयुर्वेद में वैज्ञानिक हैं।. जाखड़ ने कहा कि कोविड-19 वैक्सिन बनाने का झूठा दावा करके आरोपी ने आम लोगों की जिंदगी को खतरे में डाला है। उन्होंने न तो राजस्थान सरकार और न ही केंद्र सरकार को कोरोनिल के क्लिनिक ट्रायल के बारे में बताया।. पतंजलि आयुर्वेद ने मंगलवार को कोरोनिल टैबलेट और श्वासारि वटी दवाई लॉन्च किया था और दावा किया था कि ये दवाइयां सात दिनों में कोरोना को दूर भगा सकती हैं। हालांकि, आयुष मंत्रालय ने इस बारे में अनभिज्ञता जताई थी और पतंजलि को इसके लॉन्च के कुछ ही देर बाद दवाई के विज्ञापनों पर रोक लगानी पड़ी थी।. By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.",
+      "bm25_score_raw": 1.0234504005258616,
+      "bm25_score_norm": 0.28230712602763247,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.812775731086731,
+      "embedding_score_norm": 0.9292132042690494,
+      "embedding_rank": 2
+    },
+    {
+      "title": "‘पतंजली’चे बालकृष्ण यांना कोरोना झाल्यामुळे एम्समध्ये भरती करण्यात आले का? वाचा सत्य - Fact Crescendo Marathi | The leading fact-checking website in India",
+      "url": "https://marathi.factcrescendo.com/old-video-falsely-shared-as-patanjali-md-balkrishna-infected-with-covid-19",
+      "snippet": "Title: ‘पतंजली’चे बालकृष्ण यांना कोरोना झाल्यामुळे एम्समध्ये भरती करण्यात आले का? वाचा सत्य - Fact Crescendo Marathi | The leading fact-checking website in India\n# ‘पतंजली’चे बालकृष्ण यांना कोरोना झाल्यामुळे एम्समध्ये भरती करण्यात आले का? अ‍ॅलोपथी’ असे रामदेव बाबा आणि डॉक्टर्स यांच्यामध्ये वाकयुद्ध सुरू आहे. या पार्श्वभूमीवर रामदेव बाबा यांचे सहकारी व ‘पतंजली’ ग्रुपचे चेअरमन बालकृष्ण दवाखान्यात उपचार घेतानाचा व्हिडिओ व्हायरल होत आहे. सोबत दावा केला जात आहे की, बालकृष्ण यांना कोरोना झाल्यामुळे एम्स हॉस्पिटलमध्ये भरती करण्यात आले. फॅक्ट क्रेसेंडोच्या वाचकांनी हा व्हिडिओ आमच्या व्हॉटसअॅप फॅक्टलाईन क्रमांकवर (9049053770) पाठवून फॅक्ट चेक करण्याची विनंती केली. पडताळणीअंती कळाले की, हा दावा खोटा आहे. **काय आहे दावा?**. व्हायरल व्हिडिओमध्ये हॉस्पिटल बेडवर उपचार घेणाऱ्या व्यक्तीला भेटायला रामदेव बाबा आल्याचे दिसते. प्रकृती चिंताजनक असल्याने एम्स मध्ये भरती करण्यात आले. बालकृष्ण यांना एम्समध्ये भरती करण्यात आले का, याविषयी शोध घेतला. युट्यूबवर की-वर्ड्सने सर्च केल्यावर व्हायरल व्हिडिओशी मिळतेजुळता व्हिडिओ आढळला. हा व्हिडिओ 2019 पासून इंटरनेटवर उपलब्ध आहे. खाली दिलेला व्हिडिओ 27 ऑगस्ट 2019 रोजी अपलोड करण्यात आला होता. म्हणजेच हा व्हिडिओ अलिकडचा नाही. तो दीड-दोन वर्षांपूर्वीचा आहे. मूळ व्हिडिओ येथे पाहा – युट्यूब । युट्यूब. ‘अमर उजाल’ने 24 ऑगस्ट 2019 रोजी प्रकाशित केलेल्या बातमीनुसार, अचानक तब्येत बिघाडल्यामुळे बालकृष्ण यांना ऋषीकेश येथील एम्स रुग्णालयात भरती करण्यात आले होते. यानंतर आम्हाला रामदेव बाबा त्यांना भेटायला गेल्याचाही व्हिडिओ आढळला. रामदेव यांनी पत्रकारांशी संवाद साधून बालकृष्ण यांच्या तब्येतीची माहिती दिली. भारतामध्ये 30 जानेवारी 2020 रोजी पहिली कोरोना केस सापडल्याची नोंद आहे. म्हणजेच हा व्हिडिओ कोरोना पसरण्याआधीचा आहे. ‘पंतजली’च्या बालकृष्ण यांना एम्स दवाखान्यात भरती केल्याचा दोन वर्षांपूर्वीचा व्हिडिओ आताचा म्हणून पसरविला जात आहे. जुना व्हिडिओ चुकीच्या माहितीसह पसरविला जात आहे. *(तुमच्याकडेदेखील काही संशयास्पद मेसेज, पोस्ट, फोटो, व्हिडिओ किंवा बातम्या असतील तर फॅक्ट चेक करून घेण्यासाठी त्या आमच्या* *व्हॉटसअॅप फॅक्टलाईन क्रमांकवर (9049053770)**पाठवा. Title:‘पतंजली’चे बालकृष्ण यांना कोरोना झाल्यामुळे एम्समध्ये भरती करण्यात आले का? ## Post navigation. ## Related Posts. ### देवेंद्र फडणवीस आणि एकनाथ शिंदे यांनी एकत्र कारसेवक म्हणून काम केलंय का? ### Fact Check : जावेद अख्तर म्हणाले का, मोदी पुन्हा पंतप्रधान झाल्यास देश सोडेल? ### Fact : अम्रृता फडणवीस यांनी कॅलिफोर्नियात पुरग्रस्तांच्या मदतीसाठी कार्यक्रम घेतलेला नाही. ### अजित पवार यांच्या विमान अपघाताचे लाइव्ह फुटेज म्हणून एआय व्हिडिओ व्हायरल. ### अजित पवार यांच्या विमान अपघातापूर्वीचे दृष्य म्हणून जुना व्हिडिओ व्हायरल. #### Latest Fact Checks Marathi. ### अजित पवार यांच्या विमान अपघाताचे लाइव्ह फुटेज म्हणून एआय व्हिडिओ व्हायरल. ### अजित पवार यांच्या विमान अपघातापूर्वीचे दृष्य म्हणून जुना व्हिडिओ व्हायरल.",
+      "bm25_score_raw": 0.5871189318317386,
+      "bm25_score_norm": 0.16195006440631443,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8103765249252319,
+      "embedding_score_norm": 0.9014616254377982,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Baba - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Baba",
+      "snippet": "# Baba. * Baba, Masovian Voivodeship (east-central Poland). * Baba, Mogilno County in Kuyavian-Pomeranian Voivodeship (north-central Poland). * Baba, Rypin County in Kuyavian-Pomeranian Voivodeship (north-central Poland). * Baba, a village in Horea Commune, Alba County, Romania. * Baba, a village in Coroieni Commune, Maramureș County, Romania. * Baba, a tributary of the river Ghelința in Covasna County, Romania. * Baba, a tributary of the river Putna \"Putna (Siret)\") in Vrancea County, Romania. * Baba (Serbia) \"Baba (Serbia)\") (Баба), a mountain in central Serbia, east of the city of Paraćin. ## People and characters. * Ali Baba, a character in *Ali Baba and the Forty Thieves*. * Baba (name) \"Baba (name)\"), people with the name. * Babá (disambiguation) \"Babá (disambiguation)\"), people with the name. * Gül Baba (disambiguation) \"Gül Baba (disambiguation)\"), people with the name. * Yutaka Baba (disambiguation) \"Yutaka Baba (disambiguation)\"), Japanese people with the name. * Baba Yaga (disambiguation) \"Baba Yaga (disambiguation)\"), people with the name.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8009955286979675,
+      "embedding_score_norm": 0.7929517939383911,
+      "embedding_rank": 4
+    },
+    {
+      "title": "COVID-19 Patanjali Drug in Hindi: पतंजलि की आयुर्वेदिक दवा 'कोरोनिल' से होगा कोरोना का अंत, बाबा रामदेव ने किया लॉन्च | TheHealthSite.com Hindi",
+      "url": "https://www.thehealthsite.com/hindi/news/patanjalis-ayurvedic-medicine-coronil-will-fight-coronavirus-baba-ramdev-will-launch-it-today-in-hindi-753378",
+      "snippet": "Title: COVID-19 Patanjali Drug in Hindi: पतंजलि की आयुर्वेदिक दवा 'कोरोनिल' से होगा कोरोना का अंत, बाबा रामदेव ने किया लॉन्च | TheHealthSite.com Hindi\n* COVID-19 Patanjali Drug: पतंजलि ने तैयार की कोरोना की पहली आयुर्वेदिक दवा 'कोरोनिल', होगा कोरोना का अंत, बाबा रामदेव ने किया लॉन्च. ## योग गुरु बाबा रामदेव ने कोरोना के इलाज के लिए तैयार की गई अपनी पहली आयुर्वेदिक दवा 'कोरोनिल' को आज हरिद्वार में आयोजित एक प्रेस कॉन्फ्रेंस में लॉन्च कर दिया। उनका दावा है कि यह कोरोना की ऐसी पहली आयुर्वेदिक दवा है, जो कोरोना का इलाज सौ प्रतिशत करने में सफल होगी।. COVID-19 Patanjali Drug: पतंजलि ने तैयार की कोरोना की पहली आयुर्वेदिक दवा 'कोरोनिल', बाबा रामदेव ने किया लॉन्च। © Shutterstock. COVID-19 Patanjali Drug: योग गुरु बाबा रामदेव और पतंजलि के मुख्य कार्यकारी अधिकारी (सीईओ) आचार्य बालकृष्ण ने आज हरिद्वार (उत्तराखंड) में आयोजित हुए एक प्रेस कॉन्फ्रेंस में कोरोना की पहली आयुर्वेदिक दवा 'कोरोनिल' (CORONIL Drug by patanjali) का ऐलान कर दिया। बाबा रामदेव ने दावा करते हुए कहा कि सात दिनों के अंदर इस दवा का कोरोना मरीजों पर 100 प्रतिशत रिजल्ट देखने को मिला है। इसे हमने काफी शोध करने के बाद तैयार किया है।. इस महीने की शुरुआत में पतंजलि के मुख्य कार्यकारी अधिकारी (सीईओ), आचार्य बालकृष्ण ने दावा किया था कि कंपनी ने सार्स-सीओवी-2 (SARS-CoV-2) वायरस के कारण फैली बीमारी कोविड-19 (COVID-19 treatment) का इलाज ढूंढ लिया है।. बाबा रामदेव ने इससे पहले खुलासा किया था कि कोविड-19 (COVID-19) रोगियों को जो कोरोनिल (COVID-19 Patanjali Drug) दवा दी गई थी, उसे अश्वगंधा, गिलोय और तुलसी के मिश्रण से बनाया गया है और इसकी 100 प्रतिशत रिकवरी दर है। बालकृष्ण ने सोमवार को ट्वीट कर कहा था, \"#corona contagion, #SWASARI\\_VATI, #CORONIL को सबसे पहले और सबसे महत्वपूर्ण प्रमाण-आधारित आयुर्वेदिक दवा को लॉन्च करने में बेहद गर्व महसूस हो रहा है। इसे मंगलवार को दोपहर 12 बजे लॉन्च किया जाएगा।\". बालकृष्ण ने कहा कि कंपनी द्वारा विकसित यह आयुर्वेदिक दवा कोरोनिल कोरोनोवायरस रोगियों को 5-14 दिनों के भीतर ठीक करने में सक्षम है। हमने COVID-19 के प्रकोप के बाद वैज्ञानिकों की एक टीम नियुक्त की। सबसे पहले, सिमुलेशन किया गया था और यौगिकों की पहचान की गई थी, जो वायरस से लड़ सकते हैं और शरीर में इसके प्रसार को रोक सकते हैं। फिर, हमने सैकड़ों सकारात्मक रोगियों पर एक नैदानिक ​​मामले (Clinical cases) का अध्ययन किया और हमें 100 प्रतिशत अनुकूल परिणाम मिले।.",
+      "bm25_score_raw": 1.7334931276097922,
+      "bm25_score_norm": 0.47816431806829546,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.7943481206893921,
+      "embedding_score_norm": 0.7160613331127106,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Baba Ramdev News in Hindi, Latest Baba Ramdev Updates in Hindi | TheHealthSite.com",
+      "url": "https://www.thehealthsite.com/hindi/topics/baba-ramdev",
+      "snippet": "coronil patanjali tablet: योग गुरु बाबा रामदेव की कंपनी पतंजलि (Patanjali) ने अपनी कोरोना की पहली आयुर्वेदिक दवा कोरोनिल को लॉन्च कर दिया है। कोरोनिल (coronil patanjali tablet) एक ऐसी दवा है, जो कोरोना के मरीजों का सौ प्रतिशत इलाज करेगी। जानें, इसकी कीमत, खुराक और कहां होगी उपलब्ध... बाबा रामदेव (Baba Ramdev) के कहा था कि WHO के अनुसार कोरोनिल (Coronil) को गुड मैनुफैक्चरिंग प्रैक्टिस का सर्टिफिकेट मिला है। ऐसे में WHO South-East Asia ने ट्वीट कर कहा है कि फिलहाल किसी भी पारंपरिक दवा को मंजूरी नहीं दी जा सकती है।. योग गुरु बाबा रामदेव, पतंजलि आयुर्वेद के सीईओ आचार्य बालकृष्ण और तीन अन्य के खिलाफ कोरोना ठीक करने की दवाई का दावा करने के मामले में एफआईआर दर्ज कराई गई है। पतंजलि ने दावा किया था कि हर्बल मेडिसिन कंपनी ने कोरोनिल नामक दवाई बनाकर कोविड-19 का तोड़ ढूंढ़ लिया है।. योग गुरु बाबा रामदेव ने कोरोना के इलाज के लिए तैयार की गई अपनी पहली आयुर्वेदिक दवा 'कोरोनिल' को आज हरिद्वार में आयोजित एक प्रेस कॉन्फ्रेंस में लॉन्च कर दिया। उनका दावा है कि यह कोरोना की ऐसी पहली आयुर्वेदिक दवा है, जो कोरोना का इलाज सौ प्रतिशत करने में सफल होगी।. coronil patanjali tablet: योग गुरु बाबा रामदेव की कंपनी पतंजलि (Patanjali) ने अपनी कोरोना की पहली आयुर्वेदिक दवा कोरोनिल को लॉन्च कर दिया है। कोरोनिल (coronil patanjali tablet) एक ऐसी दवा है, जो कोरोना के मरीजों का सौ प्रतिशत इलाज करेगी। जानें, इसकी कीमत, खुराक और कहां होगी उपलब्ध... योग गुरु बाबा रामदेव, पतंजलि आयुर्वेद के सीईओ आचार्य बालकृष्ण और तीन अन्य के खिलाफ कोरोना ठीक करने की दवाई का दावा करने के मामले में एफआईआर दर्ज कराई गई है। पतंजलि ने दावा किया था कि हर्बल मेडिसिन कंपनी ने कोरोनिल नामक दवाई बनाकर कोविड-19 का तोड़ ढूंढ़ लिया है।. योग गुरु बाबा रामदेव ने कोरोना के इलाज के लिए तैयार की गई अपनी पहली आयुर्वेदिक दवा 'कोरोनिल' को आज हरिद्वार में आयोजित एक प्रेस कॉन्फ्रेंस में लॉन्च कर दिया। उनका दावा है कि यह कोरोना की ऐसी पहली आयुर्वेदिक दवा है, जो कोरोना का इलाज सौ प्रतिशत करने में सफल होगी।.",
+      "bm25_score_raw": 3.61813832519998,
+      "bm25_score_norm": 0.9980222115627845,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.7926048040390015,
+      "embedding_score_norm": 0.6958964176387855,
+      "embedding_rank": 6
+    },
+    {
+      "title": "ramdev News in Hindi, Latest ramdev Updates in Hindi | TheHealthSite.com",
+      "url": "https://www.thehealthsite.com/hindi/topics/ramdev",
+      "snippet": "coronil patanjali tablet: योग गुरु बाबा रामदेव की कंपनी पतंजलि (Patanjali) ने अपनी कोरोना की पहली आयुर्वेदिक दवा कोरोनिल को लॉन्च कर दिया है। कोरोनिल (coronil patanjali tablet) एक ऐसी दवा है, जो कोरोना के मरीजों का सौ प्रतिशत इलाज करेगी। जानें, इसकी कीमत, खुराक और कहां होगी उपलब्ध... बाबा रामदेव (Baba Ramdev) के कहा था कि WHO के अनुसार कोरोनिल (Coronil) को गुड मैनुफैक्चरिंग प्रैक्टिस का सर्टिफिकेट मिला है। ऐसे में WHO South-East Asia ने ट्वीट कर कहा है कि फिलहाल किसी भी पारंपरिक दवा को मंजूरी नहीं दी जा सकती है।. योग गुरु बाबा रामदेव, पतंजलि आयुर्वेद के सीईओ आचार्य बालकृष्ण और तीन अन्य के खिलाफ कोरोना ठीक करने की दवाई का दावा करने के मामले में एफआईआर दर्ज कराई गई है। पतंजलि ने दावा किया था कि हर्बल मेडिसिन कंपनी ने कोरोनिल नामक दवाई बनाकर कोविड-19 का तोड़ ढूंढ़ लिया है।. योग गुरु बाबा रामदेव ने कोरोना के इलाज के लिए तैयार की गई अपनी पहली आयुर्वेदिक दवा 'कोरोनिल' को आज हरिद्वार में आयोजित एक प्रेस कॉन्फ्रेंस में लॉन्च कर दिया। उनका दावा है कि यह कोरोना की ऐसी पहली आयुर्वेदिक दवा है, जो कोरोना का इलाज सौ प्रतिशत करने में सफल होगी।. coronil patanjali tablet: योग गुरु बाबा रामदेव की कंपनी पतंजलि (Patanjali) ने अपनी कोरोना की पहली आयुर्वेदिक दवा कोरोनिल को लॉन्च कर दिया है। कोरोनिल (coronil patanjali tablet) एक ऐसी दवा है, जो कोरोना के मरीजों का सौ प्रतिशत इलाज करेगी। जानें, इसकी कीमत, खुराक और कहां होगी उपलब्ध... योग गुरु बाबा रामदेव, पतंजलि आयुर्वेद के सीईओ आचार्य बालकृष्ण और तीन अन्य के खिलाफ कोरोना ठीक करने की दवाई का दावा करने के मामले में एफआईआर दर्ज कराई गई है। पतंजलि ने दावा किया था कि हर्बल मेडिसिन कंपनी ने कोरोनिल नामक दवाई बनाकर कोविड-19 का तोड़ ढूंढ़ लिया है।. योग गुरु बाबा रामदेव ने कोरोना के इलाज के लिए तैयार की गई अपनी पहली आयुर्वेदिक दवा 'कोरोनिल' को आज हरिद्वार में आयोजित एक प्रेस कॉन्फ्रेंस में लॉन्च कर दिया। उनका दावा है कि यह कोरोना की ऐसी पहली आयुर्वेदिक दवा है, जो कोरोना का इलाज सौ प्रतिशत करने में सफल होगी।.",
+      "bm25_score_raw": 3.6253084182709765,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.7912282943725586,
+      "embedding_score_norm": 0.6799743526102424,
+      "embedding_rank": 7
+    },
+    {
+      "title": "BABA: Alibaba Group Holding Ltd - Stock Price, Quote and ...",
+      "url": "https://www.cnbc.com/quotes/BABA",
+      "snippet": "# Alibaba Group Holding Ltd BABA:NYSE. * 52 Week Low Date06/26/26. ## Latest On Alibaba Group Holding Ltd. * Final Trade: BABA, C, MCD, NEMCNBC VideoCNBC.com. * Alphabet stock pops on report it's developing a more efficient AI chipCNBC.com. * Stocks making the biggest moves premarket: AMD, SpaceX, Domino's & moreCNBC.com. * The AI rotation stole the spotlight from a strong start to earnings season CNBC.com. * U.S.-China AI feud sees ASML walk tightrope between sales and geopoliticsCNBC.com. * Chinese AI has leveled up and brought a new focus on the open weight model shiftCNBC.com. * Apple's China breakthrough on AI provides another tailwind for its stockCNBC.com. * P/E (TTM)18.83. Alibaba Group Holding Ltd is an investment holding company mainly engaged in the provision of technology infrastructure and marketing platforms. The Alibaba China E-commerce Group segment is mainly engaged in E-commerce business, including operating Tmall Supermarket and Tmall Global, providing customer management services, product sales, as well as logistics services.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.7754834890365601,
+      "embedding_score_norm": 0.49785444416866603,
+      "embedding_rank": 8
+    },
+    {
+      "title": "Baba",
+      "url": "https://www.youtube.com/channel/UCJu5naYPOQE1gp2iye7iJCg",
+      "snippet": "Baba The very best of contemporary West African music and Culture - Senegal / Gambia / Mali / Guinee / Ghana and more, in Music, Song, Travel and Art",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.7685331106185913,
+      "embedding_score_norm": 0.41745952952207604,
+      "embedding_rank": 9
+    },
+    {
+      "title": "BABA Definition & Meaning - Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/baba",
+      "snippet": "**:** a rich cake soaked in a rum and sugar syrup. ## Word History. 1813, in the meaning defined above. The first known use of *baba* was. See more words from the same year. ## Phrases Containing *baba*. ## Rhymes for *baba*. ## Browse Nearby Words. ## Articles Related to *baba*. “Baba.” *Merriam-Webster.com Dictionary*, Merriam-Webster, https://www.merriam-webster.com/dictionary/baba. Subscribe to America's largest dictionary and get thousands more definitions and advanced search—ad free! ## More from Merriam-Webster. Get Word of the Day daily email! ## Popular in Grammar & Usage. ### Merriam-Webster’s Great Big List of Words You Love to Hate. ### Why is '-ed' sometimes pronounced at the end of a word? ### Commonly Misspelled Words. ## Popular in Wordplay. ### 14 Phobias You Probably Haven't Heard Of. ### It's a Scorcher! Words for the Summer Heat. ### The Longest Long Words List. ### Ten Words Ending with a Silent ‘T’. ### Why do we say 'fly off the handle'? ## Popular.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.7614880800247192,
+      "embedding_score_norm": 0.33596977468905986,
+      "embedding_rank": 10
+    },
+    {
+      "title": "baba - Wiktionary, the free dictionary",
+      "url": "https://en.wiktionary.org/wiki/baba",
+      "snippet": "Afrikaans • Albanian • Atong (India)) • Azerbaijani • Basque • Betawi • Cebuano • Central Bikol • Crimean Tatar • Czech • Dagbani • Ewe • Fanagalo • Finnish • French • Fuyug • Galician • Garo • German • Ghomara • Hausa • Higaonon • Hiligaynon • Hungarian • Ilocano • Indonesian • Istriot • Japanese • Kabyle • Kankanaey • Kashubian • Kavalan • Kikuyu • Latgalian • Lower Sorbian • Lower Tanana • Luo • Malay • Mansaka • Marshallese • Matal • Mwani • Naga Pidgin • Napu • Nefamese • Ngarluma • Nkonya • Old Czech • Old Polish • Peranakan Indonesian • Phuthi • Polish • Portuguese • Ratagnon • Romanian • Salar • Senhaja de Srair • Serbo-Croatian • Shona • Silesian • Slovak • Slovene • Slovincian • Southern Kiwai • Southern Ndebele • Spanish • Swahili • Swazi • Tagalog • Taíno • Tarifit • Ternate • Tswana • Tumbuka • Turkish • Turkmen • Upper Sorbian • Venda • Wajarri • West Makian • Woiwurrung • Yoruba • Zulu.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.7609745860099792,
+      "embedding_score_norm": 0.33003019773310166,
+      "embedding_rank": 11
+    },
+    {
+      "title": "BABA Stock Price and Chart — TradingView",
+      "url": "https://www.tradingview.com/symbols/NYSE-BABA",
+      "snippet": "Alibaba Group Holdings Ltd. Alibaba Group Holdings Ltd. Alibaba Group Holdings Ltd. # Alibaba Group Holdings Ltd. ## Compare with Alibaba Group Hldg Ltd. ## Key stats﻿. ## Upcoming earnings﻿. ## Profile. ## Financials﻿. ## News﻿. ## Technicals﻿. ## Analyst rating﻿. ## Seasonals﻿. ## ETFs holding the stock﻿. Select market data provided by ICE Data Services. Select reference data provided by FactSet. Copyright © 2026 FactSet Research Systems Inc.Copyright © 2026, American Bankers Association. CUSIP Database provided by FactSet Research Systems Inc. All rights reserved. SEC filings and other documents provided by Quartr.© 2026 TradingView, Inc.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.7324424982070923,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

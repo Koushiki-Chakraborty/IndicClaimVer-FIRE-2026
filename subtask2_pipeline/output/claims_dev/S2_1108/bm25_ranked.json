@@ -1,0 +1,57 @@
+{
+  "claim": {
+    "id": "S2/1108",
+    "text": "Is NeoCoV a new Covid variant and should you be worried about it?",
+    "lang": "dev"
+  },
+  "ranked_evidence": [
+    {
+      "title": "Substack uses AI. It also thinks its readers may want less of it. - Business Insider",
+      "url": "https://www.businessinsider.com/substack-anti-ai-slop-plan-label-2026-7",
+      "snippet": "But I think it's just as telling when people you wouldn't think would be worried about AI say they're worried about AI. Or, at least, that they understand why *you're* worried about AI. That's the gist of Tuesday's announcement from Substack, the newsletter tool/aspiring social network: It says that AI slop is overwhelming the internet, and it wants to fight back. Substack CEO Chris Best takes pains to say Substack isn't opposed to the use of AI in general or in the creation of Substack content:. But common sense tells you that Substack wouldn't be putting together an anti-AI plan if it wasn't worried about AI. How gross — at least in Best's mind, or at least in the minds of the people Best imagines use Substack. I think there's a pretty good debate to be had about much of this. In that world, the average person will spend a lot of time encountering AI, and probably won't know or think much about it.",
+      "bm25_score_raw": 4.700945772231865,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "TrickBot variant uses DNS tunneling for command and control - SC Media",
+      "url": "https://www.scworld.com/brief/trickbot-variant-uses-dns-tunneling-for-command-and-control",
+      "snippet": "# TrickBot variant uses DNS tunneling for command and control. Per Infosecurity Magazine, a new variant of the TrickBot malware has been observed abandoning its traditional HTTP command-and-control (C2) channel for a custom DNS tunneling scheme, embedding malicious communications within seemingly normal DNS queries.This TrickBot variant, detailed in research by Fortinet's FortiGuard Labs, utilizes a modular architecture but features a redesigned transport layer. Inbound traffic exploits the DNS specification's allowance for multiple IPv4 addresses per reply, with TrickBot extracting payload data from these addresses.The malware achieves persistence through the Windows Task Scheduler, creating tasks that run every five minutes. This shift to DNS tunneling, which FortiGuard measured at approximately 30.7 KB per second throughput, allows TrickBot to evade detection and maintain its status as a persistent threat despite previous disruption efforts.Source: Infosecurity Magazine. ##### New macOS stealer uses social engineering and coercion. The attack chain begins when a victim pastes a command into their Terminal, often lured by a ClickFix page.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 2
+    },
+    {
+      "title": "The resistance gene that’s causing ‘nightmares’ in US hospitals - CIDRAP",
+      "url": "https://www.cidrap.umn.edu/antimicrobial-stewardship/resistance-gene-s-causing-nightmares-us-hospitals",
+      "snippet": "In a well-publicized case in 2016 that alerted many Americans to the rising threat of drug-resistant bacterial infections, the Centers for Disease Control and Prevention (CDC) and health officials in Nevada reported a bacterial infection in a 70-year-old woman that was resistant to all 26 of the antibiotics available to her doctors. What made the infection unique was that it carried an enzyme-encoded gene—New Delhi metallo-beta-lactamase, or NDM—that makes bacteria resistant to carbapenems, a class of last-resort antibiotics that physicians reach for when infections don’t respond to first- and second-line treatment options. In a report published last September, the CDC said surveillance data from labs across the country showed that the incidence of carbapenem-resistant Enterobacterales (CRE, the family of pathogens that includes *K pneumoniae*) infections carrying NDM genes rose 461% from 2019 through 2023. “The rapid increase is a major concern for CDC due to the implications for treating serious CRE infections and potential for NDM to spread outside of healthcare,” Richard Stanton, PhD, a bioinformatician with the CDC’s Division of Healthcare Quality Promotion, told CIDRAP News.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 3
+    },
+    {
+      "title": "Woman loses vision in one eye after UTI bacteria evolves to invade her brain - Ars Technica",
+      "url": "https://arstechnica.com/health/2026/07/woman-loses-vision-in-one-eye-after-uti-bacteria-evolves-to-invade-her-brain/",
+      "snippet": "Two years later, the bacteria had evolved, invaded her brain. The case provides a novel report of the emergence of heterovirulence. As doctors got to work, the series of findings that followed revealed not just bad news for her, but an alarming revelation of how infections can evolve within a patient. In all, the two urine samples and the brain sample all grew the same bacteria: *Klebsiella pneumoniae*. This is a bacterium well known to doctors. Doctors and researchers brought in to help with the case noticed that although the three samples all grew *K. But the bacteria from the second urine sample and the brain were gloopy and sticky. With the genome sequencing, the researchers estimated that the bacteria in the two urine samples diverged from a common ancestor one to two years before the woman’s current state. The woman’s doctors noted that two years before her brain abscess, she was hospitalized with a urinary tract infection.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 4
+    },
+    {
+      "title": "Cadillac's Next Blackwing Sedan Should Have Over 700 HP. Here's What We Know - Motor1.com",
+      "url": "https://www.motor1.com/features/802455/next-cadillac-ct5v-blackwing-horsepower-price-details/",
+      "snippet": "## A new CT5 and a Blackwing variant are on the way soon. Don’t worry, a new Cadillac CT5 is on the way. Even in the era of SUVs, the automaker confirmed that it’s developing a next-generation luxury sedan, and a new report alleges that there also will be a hotter Blackwing variant. For now, the car is pure speculation, but we doubt Cadillac will offer the sedan without a Blackwing trim. We won’t know for sure what Cadillac plans to offer for a while, but this is everything that we know about the upcoming performance sedan. We expect Cadillac to continue using the Blackwing name for the hottest CT5-V variant. The next-generation Cadillac CT5 is expected to ride on an evolution of General Motors’ Alpha 2 platform, which underpins the current sedan and CT4. There are rumors that the next-generation Camaro, which will share a platform with the CT5, will have a \"spicy\" variant, and it will likely share its powertrain with the Cadillac.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 5
+    },
+    {
+      "title": "TrickBot Ditches HTTP for DNS Tunneling in Latest Variant - Infosecurity Magazine",
+      "url": "https://www.infosecurity-magazine.com/news/trickbot-dns-tunneling-c2/",
+      "snippet": "Infosecurity Magazine Home » News » TrickBot Ditches HTTP for DNS Tunneling in Latest Variant. # TrickBot Ditches HTTP for DNS Tunneling in Latest Variant. A TrickBot variant has been observed swapping the HTTP command-and-control (C2) channel the malware has used for the better part of a decade for a bespoke DNS tunneling scheme that hides beacons and payloads inside malformed DNS queries. According to new research from Fortinet's FortiGuard Labs published on July 22, the samples reveal a modular architecture consistent with earlier TrickBot campaigns but with the transport layer redesigned around encrypted data smuggled through DNS packets to a public resolver. \"TrickBot has been a long-running malware family that has survived because the adversary adapts,\" he said, adding that passive DNS analysis of the C2 identified in the report showed extensive exploitation activity and reinforced the case for enterprises controlling their own DNS resolution.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6
+    }
+  ]
+}

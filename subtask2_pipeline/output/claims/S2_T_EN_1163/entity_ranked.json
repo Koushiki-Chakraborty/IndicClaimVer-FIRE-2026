@@ -1,0 +1,99 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1163",
+    "text": "India logs over 2,000 daily Covid-19 cases for fourth consecutive day",
+    "lang": "english"
+  },
+  "entity_ranked_evidence": [
+    {
+      "title": "India sets Covid-19 infection record for fourth straight day",
+      "url": "https://www.cnn.com/2021/04/25/asia/india-covid-fourth-day-record-infections-intl-hnk",
+      "snippet": "Apr 25, 2021 — India reported 349691 new cases of Covid-19 on Saturday, the fourth day in a row the country has set a world record for daily infections",
+      "bm25_score_raw": 3.674113654442042,
+      "bm25_score_norm": 0.680726244625144,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.891301155090332,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 1,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 1
+    },
+    {
+      "title": "India has seen more than 4000 people die of COVID-19 for ...",
+      "url": "https://www.sbs.com.au/news/article/india-has-seen-more-than-4-000-people-die-of-covid-19-for-the-second-straight-day/lkji1unjn",
+      "snippet": "India recorded more than 4,000 COVID-19 deaths for a second straight day on Thursday, while infections stayed below 400,000 for a fourth day, ...Read more",
+      "bm25_score_raw": 0.8660964124002928,
+      "bm25_score_norm": 0.007665781857335532,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8704420924186707,
+      "embedding_score_norm": 0.568047644027525,
+      "embedding_rank": 2,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 1,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 2
+    },
+    {
+      "title": "India sees fourth straight day of COVID-19 deaths above ...",
+      "url": "https://thehill.com/policy/international/india/551357-india-sees-fourth-straight-day-of-covid-19-deaths-above-3000",
+      "snippet": "May 2, 2021 — COVID-19 deaths in India topped 3000 for the fourth consecutive day on Sunday as health officials reported 3689 deaths over a 24-hour period",
+      "bm25_score_raw": 2.235309281716595,
+      "bm25_score_norm": 0.3358557351282732,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8620880842208862,
+      "embedding_score_norm": 0.39505168636405713,
+      "embedding_rank": 3,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 1,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 3
+    },
+    {
+      "title": "Over 4000 Indians die of COVID as pandemic ravages ...",
+      "url": "https://www.aljazeera.com/news/2021/5/13/india-sees-362727-new-covid-cases-as-virus-ravages-rural-areas",
+      "snippet": "May 13, 2021 — India has recorded more than 4,000 COVID-19 deaths for a second straight day, while infections stayed below 400,000 for a fourth day, as the ...Read more",
+      "bm25_score_raw": 3.30201400112087,
+      "bm25_score_norm": 0.5915367763019412,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8495137691497803,
+      "embedding_score_norm": 0.13466103002437746,
+      "embedding_rank": 4,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 1,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 4
+    },
+    {
+      "title": "India grapples with second wave of COVID-19 - PMC - NIH",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8172167",
+      "snippet": "by U Samarasekera · 2021 · Cited by 95 — After 10 consecutive days of recording more than 300 000 new infections, on May 1, India reported just over 400 000 new COVID-19 cases in a ...Read more",
+      "bm25_score_raw": 5.006128027024937,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8461472988128662,
+      "embedding_score_norm": 0.06494769648532725,
+      "embedding_rank": 5,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 1,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 5
+    },
+    {
+      "title": "India Is the First Country to Count 400000 COVID-19 ...",
+      "url": "https://www.businessinsider.com/india-first-country-to-record-400000-single-day-coronavirus-cases-2021-5",
+      "snippet": "May 1, 2021 — India is the first country to record 400,000 coronavirus cases in a single day ... fourth day in a row that death counts have surpassed 3,000.Read more",
+      "bm25_score_raw": 0.8341146680847678,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8430109620094299,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 1,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 6
+    }
+  ]
+}

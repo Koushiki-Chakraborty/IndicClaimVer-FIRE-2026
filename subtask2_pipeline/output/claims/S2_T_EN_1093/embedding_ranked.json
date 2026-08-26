@@ -1,0 +1,76 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1093",
+    "text": "Preventive Detention Orders Under KAAPA Issued For Maintenance Of Public Order, Not As Punishment: Kerala High Court",
+    "lang": "english"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Preventive Detention Orders Under... - Kerala High Court",
+      "url": "https://www.livelaw.in/high-court/kerala-high-court/kerala-high-court-preventive-detention-kaapa-public-order-not-punishment-234622",
+      "snippet": "Aug 7, 2023 — Preventive Detention Orders Under KAAPA Issued For Maintenance Of Public Order, Not As Punishment: are issued for maintenance of public order",
+      "bm25_score_raw": 10.693290202668585,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9508495926856995,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Preventive Detention Orders Not to be Issued as Punishment",
+      "url": "https://updates.manupatra.com/roundup/contentsummary.aspx?iid=43589",
+      "snippet": "Kerala High Court has observed that preventive detention law cannot be used as a punitive measure or as a substitute of criminal trial, and can be invoked only ...Read more",
+      "bm25_score_raw": 4.9204036111875205,
+      "bm25_score_norm": 0.3749981027507581,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.9011012315750122,
+      "embedding_score_norm": 0.49913586070074495,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Kerala Anti-Social Activities (Prevention) Act, 2007",
+      "url": "https://en.wikipedia.org/wiki/Kerala_Anti-Social_Activities_(Prevention)_Act,_2007",
+      "snippet": "Under KAAPA, detention orders may be issued based on prior involvement ... \"Invoke pre-trial detention only to maintain public order: Kerala HC\". The ...Read more",
+      "bm25_score_raw": 2.5481553702627595,
+      "bm25_score_norm": 0.11816651116673435,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8915873765945435,
+      "embedding_score_norm": 0.4033508201522085,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Failure to Provide Legible Documents and Consider Bail ...",
+      "url": "https://www.instagram.com/p/DZT0OgZEY20",
+      "snippet": "Kerala High Court quashed a preventive detention order under KAAPA, citing the failure to provide legible documents and assess the sufficiency",
+      "bm25_score_raw": 2.3934135618628,
+      "bm25_score_norm": 0.10141338042336029,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8915215134620667,
+      "embedding_score_norm": 0.4026877132593774,
+      "embedding_rank": 4
+    },
+    {
+      "title": "KUMARI A.V v. STATE OF KERALA | Kerala High Court",
+      "url": "https://www.casemine.com/judgement/in/669c0dccca96403857bfac6a",
+      "snippet": "Jul 19, 2024 — Kerala Anti Social Activities (Prevention) Act, 2007 (KAAPA), The detenu has been in custody since 28.02.2024 in one of the cases, and bail",
+      "bm25_score_raw": 1.6130198536332312,
+      "bm25_score_norm": 0.016924010934513706,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8659586906433105,
+      "embedding_score_norm": 0.14532242597506717,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Preventive detention -Central and State laws",
+      "url": "https://kaapa.kerala.gov.in/index.php/about-us/about-act-new/kaapa-act",
+      "snippet": "The Kerala Anti-Social Activities Prevention Act, 2007, follows a structured process aimed at detaining known goondas or known rowdies for anti-social ...Read more",
+      "bm25_score_raw": 1.4566996948818225,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8515245318412781,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6
+    }
+  ]
+}

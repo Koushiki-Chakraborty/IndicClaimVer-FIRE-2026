@@ -1,0 +1,73 @@
+{
+  "claim": {
+    "id": "S2/T/CM/1050",
+    "text": "congress kyu nahi apne shashit rajyo me petrol aur diesel rs 40 karke desh ko sandesh deti hai ki wo sach me mehngai ka solution hai naa ki sirf politics karne wale log",
+    "lang": "codemix"
+  },
+  "ranked_evidence": [
+    {
+      "title": "Rubbing salt into wound: Cong slams govt over excise duty ...",
+      "url": "https://www.moneycontrol.com/news/india/rubbing-salt-into-wound-cong-slams-govt-over-excise-duty-hike-on-petrol-diesel-12987615.html",
+      "snippet": "The government hiked excise duty on petrol and diesel by Rs 2 per litre each. The excise duty on petrol was hiked to Rs 13 per litre and",
+      "bm25_score_raw": 4.146984829898187,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Congress alleges fuel excise cuts timed for elections, says ...",
+      "url": "https://thefederal.com/category/news/congress-alleges-fuel-excise-cuts-timed-for-elections-says-no-relief-for-consumers-236370",
+      "snippet": "Congress claims petrol and diesel duty cuts benefit oil companies, not consumers, despite rising crude prices and upcoming assembly polls.",
+      "bm25_score_raw": 2.6225686690709193,
+      "bm25_score_norm": 0.6324037286471834,
+      "bm25_rank": 2
+    },
+    {
+      "title": "Rahul Gandhi calls for reducing prices of petrol, diesel",
+      "url": "https://timesofindia.indiatimes.com/india/rahul-gandhi-calls-for-reducing-prices-of-petrol-diesel/articleshow/88709441.cms",
+      "snippet": "India News: NEW DELHI: Congress leader Rahul Gandhi on Wednesday called for reducing prices of petrol and diesel after reports that global",
+      "bm25_score_raw": 2.448977116681563,
+      "bm25_score_norm": 0.5905440258728142,
+      "bm25_rank": 3
+    },
+    {
+      "title": "Cong sees no real relief from excise cut on petrol, diesel",
+      "url": "https://www.thenewsminute.com/news/cong-sees-no-real-relief-from-excise-cut-on-petrol-diesel-accuses-govt-of-fooling-people",
+      "snippet": "The Congress party on Friday said that the excise duty cut on petrol and diesel offers no real relief to the common people and accused the",
+      "bm25_score_raw": 2.3224792704860615,
+      "bm25_score_norm": 0.5600404548726263,
+      "bm25_rank": 4
+    },
+    {
+      "title": "Congress Demands Modi Govt To Reduce Taxes From ...",
+      "url": "https://www.youtube.com/watch?v=dXNcrwBJkdk",
+      "snippet": "The Indian National Congress has accused the Modi government of profiteering through high taxes on petrol and diesel.",
+      "bm25_score_raw": 2.212270299807861,
+      "bm25_score_norm": 0.533464767909984,
+      "bm25_rank": 5
+    },
+    {
+      "title": "H.R.2140 - 119th Congress (2025-2026): Diesel Emissions Reduction Act of 2025",
+      "url": "https://www.congress.gov/bill/119th-congress/house-bill/2140",
+      "snippet": "- [x] Agriculture (93rd-119th) - [x] Agriculture (93rd-119th) - [x] Appropriations (93rd-119th) - [x] Appropriations (93rd-119th) - [x] Armed Services (106th-119th) - [x] Armed Services (106th-119th) - [x] Budget (94th-119th) - [x] Budget (94th-119th) - [x] Education and Workforce (119th) - [x] Education and Workforce (119th) - [x] Energy and Commerce (107th-119th) - [x] Energy and Commerce (107th-119th) - [x] Ethics (112th-119th) - [x] Ethics (112th-119th) - [x] Financial Services (107th-119th) - [x] Financial Services (107th-119th) - [x] Foreign Affairs (110th-119th) - [x] Foreign Affairs (110th-119th) - [x] Homeland Security (109th-119th) - [x] Homeland Security (109th-119th) - [x] House Administration (106th-119th) - [x] House Administration (106th-119th) - [x] Intelligence (Permanent Select) (95th-119th) - [x] Intelligence (Permanent Select) (95th-119th) - [x] Judiciary (93rd-119th) - [x] Judiciary (93rd-119th) - [x] Natural Resources (110th-119th) - [x] Natural Resources (110th-119th) - [x] Oversight and Government Reform (119th) - [x] Oversight and Government Reform (119th) - [x] Rules (93rd-119th) - [x] Rules (93rd-119th) - [x] Science, Space, and Technology (112th-119th) - [x] Science, Space, and Technology (112th-119th) - [x] Small Business (94th-119th) - [x] Small Business (94th-119th) - [x] Transportation and Infrastructure (104th-119th) - [x] Transportation and Infrastructure (104th-119th) - [x] Veterans' Affairs (93rd-119th) - [x] Veterans' Affairs (93rd-119th) - [x] Ways and Means (93rd-119th) - [x] Ways and Means (93rd-119th).",
+      "bm25_score_raw": 0.4681908119791331,
+      "bm25_score_norm": 0.11289908962378038,
+      "bm25_rank": 6
+    },
+    {
+      "title": "कांग्रेस और विपक्षी दलों की जहां-जहां सरकार है वहीं पर सिलेंडर ...",
+      "url": "https://www.instagram.com/reel/DV2spl0E5JW",
+      "snippet": "... अपनी ही सरकार वाले राज्य में कुछ हो जाए तो भी कांग्रेस? ... हम लोग ना पेट्रोल पंप ढूंढ पाएंगे और ना ही साबित कर पाएंगे।Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 7
+    },
+    {
+      "title": "कांग्रेस शासित राज्य पेट्रोल, डीजल पर वैट कम कर के और उसे ...",
+      "url": "https://hi.quora.com/%E0%A4%95%E0%A4%BE%E0%A4%82%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8-%E0%A4%B6%E0%A4%BE%E0%A4%B8%E0%A4%BF%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A5%8D%E0%A4%AF",
+      "snippet": "कांग्रेस शासित राज्य पेट्रोल, डीजल पर वैट कम कर के और उसे सबसे",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 8
+    }
+  ]
+}

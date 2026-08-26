@@ -1,0 +1,76 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1115",
+    "text": "Madras High Court Transfers Murder Trial Against DMK MP TRVS Ramesh From Cuddalore To Chengalpattu",
+    "lang": "english"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Madras High Court Transfers Murder Trial Against DMK MP ...",
+      "url": "https://www.livelaw.in/high-court/madras-high-court/madras-high-court-transfers-murder-trial-against-dmk-mp-trvs-ramesh-from-cuddalore-to-chengalpattu-233309",
+      "snippet": "Jul 21, 2023 — The Madras High Court on Thursday transferred the trial in a murder case against DMK MP TRVS Ramesh from Principal District and Sessions Court",
+      "bm25_score_raw": 2.886546690624688,
+      "bm25_score_norm": 0.36801120569045276,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.9331719875335693,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Madras High Court transfers murder case trial against DMK ...",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/madras-high-court-transfers-murder-case-trial-against-dmk-mp-from-cuddalore-to-chengalpattu-district/article67101425.ece",
+      "snippet": "Jul 20, 2023 — Madras High Court orders transfer of murder trial against DMK MP from Cuddalore to Chengalpattu court, citing fairness concerns.",
+      "bm25_score_raw": 5.411374774710973,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9273204207420349,
+      "embedding_score_norm": 0.9107557936055576,
+      "embedding_rank": 2
+    },
+    {
+      "title": "DMK MP TRVS Ramesh accused in murder case surrenders",
+      "url": "https://www.thenewsminute.com/tamil-nadu/dmk-mp-trvs-ramesh-accused-murder-case-surrenders-156363",
+      "snippet": "Oct 11, 2021 — The case later moved to the Madras High Court, which on September 22, ordered for an autopsy and also transferred the case to the CB-CID.",
+      "bm25_score_raw": 1.4163227946443335,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8917575478553772,
+      "embedding_score_norm": 0.3683744996813778,
+      "embedding_rank": 3
+    },
+    {
+      "title": "DMK MP TRVS Ramesh surrenders before Tamil Nadu ...",
+      "url": "https://www.hindustantimes.com/cities/others/dmk-mp-trvs-ramesh-surrenders-before-tamil-nadu-court-in-murder-case-101633958649424.html",
+      "snippet": "Oct 11, 2021 — DMK Lok Sabha MP TRVS Ramesh, representing Cuddalore constituency in Tamil Nadu, on Monday surrendered before a court in a murder case probed by the CB-CID.Read more",
+      "bm25_score_raw": 2.0347987924016624,
+      "bm25_score_norm": 0.15481050080029557,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8785325884819031,
+      "embedding_score_norm": 0.16667621169602445,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Cuddalore MP TRVS Ramesh granted conditional bail by ...",
+      "url": "https://www.newindianexpress.com/states/tamil-nadu/2021/Nov/19/cuddalore-mp-trvs-ramesh-granted-conditional-bail-by-hc-in-murder-case-2385680.html",
+      "snippet": "Nov 19, 2021 — Ramesh and five of his staff were booked over the murder of the labourer Govindarasu of Melmampattu village for allegedly stealing cashew from ...Read more",
+      "bm25_score_raw": 1.569519420667041,
+      "bm25_score_norm": 0.038346591430370364,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8724679350852966,
+      "embedding_score_norm": 0.07418215006786061,
+      "embedding_rank": 5
+    },
+    {
+      "title": "DMK MP TRVS Ramesh, Wanted For Murder, Surrenders",
+      "url": "https://www.ndtv.com/tamil-nadu-news/dmk-mp-trvs-ramesh-wanted-for-murder-surrenders-says-will-prove-allegations-wrong-2571346",
+      "snippet": "Oct 11, 2021 — Ramesh is accused in the murder case of a labourer He allegedly attacked a worker for stealing around eight kgs of cashews. Cuddalore district.",
+      "bm25_score_raw": 1.813888500646101,
+      "bm25_score_norm": 0.09951452646559453,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8676039576530457,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6
+    }
+  ]
+}

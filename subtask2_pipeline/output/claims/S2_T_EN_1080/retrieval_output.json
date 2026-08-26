@@ -1,0 +1,108 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1080",
+    "text": "LIVE: Let's have a face-off, Modi dares Rahul at Nagaoan (Assam) rally",
+    "lang": "english"
+  },
+  "generated_queries": {
+    "english_translation": "LIVE: Let's have a face-off, Modi dares Rahul at Nagaoan (Assam) rally",
+    "native_query": "Modi Rahul Nagaoan Assam LIVE dares rally",
+    "english_query": "Modi Rahul Nagaoan Assam LIVE dares rally"
+  },
+  "native_retrieval": [
+    {
+      "title": "LIVE: Rahul's Brutal Swipe At Modi During Assam Rally",
+      "url": "https://www.youtube.com/watch?v=fTUlyLKt_6Q",
+      "snippet": "During a high-voltage rally in Assam, Congress leader Rahul Gandhi launched a sharp attack on Prime Minister Narendra Modi, accusing him of"
+    },
+    {
+      "title": "LIVE: Congress Leader Rahul Gandhi holds election rally in ...",
+      "url": "https://www.youtube.com/watch?v=eF7UHP_Rp20",
+      "snippet": "LIVE: Congress Leader Rahul Gandhi holds election rally in Biswanath,Assam | Assembly Polls | BJP | PM Modi #rahulgandhi #congress #assam"
+    },
+    {
+      "title": "LIVE: PM Modi Addresses Mega Rally in Dibrugarh, Assam",
+      "url": "https://www.youtube.com/watch?v=jogRaxjjTO0",
+      "snippet": "Watch LIVE as Prime Minister Shri Narendra Modi Ji addresses a massive Public Meeting in Dibrugarh. During his address, PM Modi Ji"
+    },
+    {
+      "title": "India news: PM Modi addresses election rallies in Assam",
+      "url": "https://www.dw.com/en/india-news-pm-modi-addresses-election-rallies-in-assam/live-76676770",
+      "snippet": "An election race is in full swing in Assam as it goes to polls this week. Prime Minister Narendra Modi is attending three campaign rallies"
+    },
+    {
+      "title": "Congress leader Rahul Gandhi is set to visit Assam ...",
+      "url": "https://www.instagram.com/p/DWmLVmgjb4q",
+      "snippet": "... rally earlier, sharply criticised Prime Minister Narendra Modi and Chief Minister Himanta Biswa Sarma, accusing the BJP of failing to"
+    },
+    {
+      "title": "At a rally in Silchar, Assam, Narendra Modi launched a sharp ...",
+      "url": "https://www.instagram.com/reel/DV3ZoomEtX7?hl=en",
+      "snippet": "Politics Ahead of Elections Framing the debate around governance vs opposition politics, Modi said Congress once neglected Northeast India,"
+    }
+  ],
+  "english_retrieval": [
+    {
+      "title": "LIVE: Rahul's Brutal Swipe At Modi During Assam Rally",
+      "url": "https://www.youtube.com/watch?v=fTUlyLKt_6Q",
+      "snippet": "During a high-voltage rally in Assam, Congress leader Rahul Gandhi launched a sharp attack on Prime Minister Narendra Modi, accusing him of"
+    },
+    {
+      "title": "LIVE: Congress Leader Rahul Gandhi holds election rally in ...",
+      "url": "https://www.youtube.com/watch?v=eF7UHP_Rp20",
+      "snippet": "LIVE: Congress Leader Rahul Gandhi holds election rally in Biswanath,Assam | Assembly Polls | BJP | PM Modi #rahulgandhi #congress #assam"
+    },
+    {
+      "title": "LIVE: PM Modi Addresses Mega Rally in Dibrugarh, Assam",
+      "url": "https://www.youtube.com/watch?v=jogRaxjjTO0",
+      "snippet": "Watch LIVE as Prime Minister Shri Narendra Modi Ji addresses a massive Public Meeting in Dibrugarh. During his address, PM Modi Ji"
+    },
+    {
+      "title": "India news: PM Modi addresses election rallies in Assam",
+      "url": "https://www.dw.com/en/india-news-pm-modi-addresses-election-rallies-in-assam/live-76676770",
+      "snippet": "An election race is in full swing in Assam as it goes to polls this week. Prime Minister Narendra Modi is attending three campaign rallies"
+    },
+    {
+      "title": "Congress leader Rahul Gandhi is set to visit Assam ...",
+      "url": "https://www.instagram.com/p/DWmLVmgjb4q",
+      "snippet": "... rally earlier, sharply criticised Prime Minister Narendra Modi and Chief Minister Himanta Biswa Sarma, accusing the BJP of failing to"
+    },
+    {
+      "title": "At a rally in Silchar, Assam, Narendra Modi launched a sharp ...",
+      "url": "https://www.instagram.com/reel/DV3ZoomEtX7?hl=en",
+      "snippet": "Politics Ahead of Elections Framing the debate around governance vs opposition politics, Modi said Congress once neglected Northeast India,"
+    }
+  ],
+  "merged_results": [
+    {
+      "title": "LIVE: Rahul's Brutal Swipe At Modi During Assam Rally",
+      "url": "https://www.youtube.com/watch?v=fTUlyLKt_6Q",
+      "snippet": "During a high-voltage rally in Assam, Congress leader Rahul Gandhi launched a sharp attack on Prime Minister Narendra Modi, accusing him of"
+    },
+    {
+      "title": "LIVE: Congress Leader Rahul Gandhi holds election rally in ...",
+      "url": "https://www.youtube.com/watch?v=eF7UHP_Rp20",
+      "snippet": "LIVE: Congress Leader Rahul Gandhi holds election rally in Biswanath,Assam | Assembly Polls | BJP | PM Modi #rahulgandhi #congress #assam"
+    },
+    {
+      "title": "LIVE: PM Modi Addresses Mega Rally in Dibrugarh, Assam",
+      "url": "https://www.youtube.com/watch?v=jogRaxjjTO0",
+      "snippet": "Watch LIVE as Prime Minister Shri Narendra Modi Ji addresses a massive Public Meeting in Dibrugarh. During his address, PM Modi Ji"
+    },
+    {
+      "title": "India news: PM Modi addresses election rallies in Assam",
+      "url": "https://www.dw.com/en/india-news-pm-modi-addresses-election-rallies-in-assam/live-76676770",
+      "snippet": "An election race is in full swing in Assam as it goes to polls this week. Prime Minister Narendra Modi is attending three campaign rallies"
+    },
+    {
+      "title": "Congress leader Rahul Gandhi is set to visit Assam ...",
+      "url": "https://www.instagram.com/p/DWmLVmgjb4q",
+      "snippet": "... rally earlier, sharply criticised Prime Minister Narendra Modi and Chief Minister Himanta Biswa Sarma, accusing the BJP of failing to"
+    },
+    {
+      "title": "At a rally in Silchar, Assam, Narendra Modi launched a sharp ...",
+      "url": "https://www.instagram.com/reel/DV3ZoomEtX7?hl=en",
+      "snippet": "Politics Ahead of Elections Framing the debate around governance vs opposition politics, Modi said Congress once neglected Northeast India,"
+    }
+  ]
+}

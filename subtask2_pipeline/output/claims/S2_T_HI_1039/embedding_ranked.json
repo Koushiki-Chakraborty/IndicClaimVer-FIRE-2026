@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/HI/1039",
+    "text": "बंगालः चुनाव में BJP का वादा- देंगे मुफ्त वैक्सीन; पर PM मोदी ने साध ली चुप्पी",
+    "lang": "hindi"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "PM Modi LIVE: बंगाल दिवस पर पीएम मोदी LIVE | PM Modi Bengal ...",
+      "url": "https://www.youtube.com/watch?v=2aRjo3AOo3c",
+      "snippet": "PM Modi LIVE: बंगाल दिवस पर पीएम मोदी LIVE | PM Modi Bengal Visit | TMC Vs BJP #pmmodi #pmmodibengalvisit #tmcvsbjp",
+      "bm25_score_raw": 3.838577953025553,
+      "bm25_score_norm": 0.6253659748547449,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8511398434638977,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "प. बंगाल के बनगांव से पीएम मोदी ने ममता को धो डाला! | BJP vs ...",
+      "url": "https://www.youtube.com/watch?v=3Iz_E2XTZks",
+      "snippet": "PM Modi Bengal Election Speech: प. बंगाल के बनगांव से पीएम मोदी ने ममता को धो डाला! | BJP vs TMC #westbengal #pmmodi #tmc #bjp #modispeech",
+      "bm25_score_raw": 6.138130482582056,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.850419282913208,
+      "embedding_score_norm": 0.9894381117381204,
+      "embedding_rank": 2
+    },
+    {
+      "title": "PM Modi On Massive Bengal Victory : बंगाल में ऐतिहासिक जीत के ...",
+      "url": "https://www.youtube.com/watch?v=Yuqj4XvMQqI",
+      "snippet": "PM Modi On Massive Bengal Victory : बंगाल में ऐतिहासिक जीत के बाद PM मोदी की सभी दलों से आग्रह! @ZeeNews108 likes8K views2 months ago",
+      "bm25_score_raw": 1.9132237330629438,
+      "bm25_score_norm": 0.31169486189516943,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8480310440063477,
+      "embedding_score_norm": 0.9544315984717632,
+      "embedding_rank": 3
+    },
+    {
+      "title": "'दीदी' पर प्रहार और मिशन 2026 का रोडमैप तैयार... बंगाल में PM मोदी ...",
+      "url": "https://ndtv.in/india/pm-modi-bengal-address-decoded-energising-cadres-countering-didi-setting-bjp-roadmap-9854941",
+      "snippet": "मतुआ समुदाय के गढ़ ताहेरपुर की रैली से पीएम मोदी ने बांग्ला में बड़ा नारा दिया- \"बाचते चाई, ताई बीजेपी चाई\" (जीना चाहते हैं, इसलिए बीजेपी चाहते हैं).",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.8370755314826965,
+      "embedding_score_norm": 0.7938470382766885,
+      "embedding_rank": 4
+    },
+    {
+      "title": "PM Modi On BJP's Bengal Victory : बंगाल में BJP की रिकॉर्डतोड़ ...",
+      "url": "https://www.youtube.com/watch?v=TWEnEBSMI4c",
+      "snippet": "PM Modi On BJP's Bengal Victory : बंगाल में BJP की रिकॉर्डतोड़ जीत पर पीएम मोदी क्या बोले ? | TMC बंगाल और असम की जीत का जश्न दिल्ली में बीजेपी के हैडक्वार्टर में हुआ.",
+      "bm25_score_raw": 3.905213744689373,
+      "bm25_score_norm": 0.6362220151186183,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8337509632110596,
+      "embedding_score_norm": 0.7451159239096722,
+      "embedding_rank": 5
+    },
+    {
+      "title": "पश्चिम बंगाल से BJP सांसदों से मिले PM मोदी, ममता सरकार को मात ...",
+      "url": "https://ndtv.in/india/pm-modi-meets-bjp-mps-from-west-bengal-gives-tips-to-defeat-mamata-banerjee-govt-in-election-9742875",
+      "snippet": "प्रधानमंत्री नरेंद्र मोदी ने आज पश्चिम बंगाल के बीजेपी सांसदों से संसद भवन के अपने कार्यालय में मुलाकात की. अगले साल की शुरुआत में होने वाले विधानसभा चुनाव से पहले ये महत्वपूर्ण मुलाकात रही.",
+      "bm25_score_raw": 1.5463734538848621,
+      "bm25_score_norm": 0.25192906183290636,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8321422338485718,
+      "embedding_score_norm": 0.7215353660315904,
+      "embedding_rank": 6
+    },
+    {
+      "title": "Bengal - The Cat Fanciers' Association",
+      "url": "https://cfa.org/breed/bengal",
+      "snippet": "Bengals are often considered to be quite talkative, but this is not necessarily true of every Bengal. There is a great deal of variation from one cat to the next, with some choosing to engage in frequent conversation and others preferring to keep their thoughts to themselves. Genetic testing has enabled Bengal breeders to screen cats for a number of heritable diseases that may occur in the breed and remove carrier cats from the breeding program. :   **GENERAL**: The Bengal is a medium to large cat with a sleek, muscular build. The tail is thick, with rounded tip, and carried lower than the back. Slightly small in proportion to body, not to be taken to extreme. Eye color independent of coat color, except in the Lynx Points, where Blue is the only acceptable color. A much lighter to white ground color on the whisker pads, chin, chest, belly, and inner legs, in contrast to the ground color of the flanks and back is desirable.",
+      "bm25_score_raw": 0.6209175402675925,
+      "bm25_score_norm": 0.10115743580713167,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.8143619894981384,
+      "embedding_score_norm": 0.46091472295247105,
+      "embedding_rank": 7
+    },
+    {
+      "title": "Bengal - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bengal",
+      "snippet": "+ 2.5 Partition of Bengal (1947)). - 3.1.1 North Bengal. - 3.1.2 Northeast Bengal. - 3.1.3 Central Bengal. + 3.2 Places of interest. - 3.3.3 Andaman and Nicobar Islands. - 3.3.5 Chittagong Hill Tracts. - 3.3.8 North India. - 6.3.1 Other major cities in West Bengal. - 6.3.2 Other major cities in Bangladesh. # Bengal. | Bengal region in Asia Bengal region in Asia |. | Countries | Bangladesh  India (West Bengal, Karimganj district of Assam) |. | Bengali history  * Vanga kingdom * Gangaridai * Gauda Kingdom * Pala Empire * Sena dynasty * Bengal Sultanate * Bengal Subah * Bengal Presidency * Partition of Bengal (1905) \"Partition of Bengal (1905)\") * Eastern Bengal and Assam * Partition of Bengal (1947) \"Partition of Bengal (1947)\") * East Bengal * West Bengal * East Pakistan * Names of Bengal |. The company's Bengal Presidency grew into the largest administrative unit of British India, with Calcutta as the capital of both Bengal and India until 1911.",
+      "bm25_score_raw": 1.030682722695588,
+      "bm25_score_norm": 0.16791476258452273,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.797722339630127,
+      "embedding_score_norm": 0.21701277403989386,
+      "embedding_rank": 8
+    },
+    {
+      "title": "Bengal cat - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bengal_cat",
+      "snippet": "# Bengal cat. | A female black spotted tabby Bengal cat with tricoloured rosettes \"Rosette (zoology)\") and a clear coat |. The **Bengal cat** is a breed of hybrid \"Hybrid (biology)\") cat created from crossbreeding an Asian leopard cat to domestic cats (*Prionailurus bengalensis* × *Felis catus*), especially the spotted tabby Egyptian Mau. Bengals have varying appearances. The breed is selectively bred and pedigree registered with most of the major cat registries. The breed's name derives from that of the Asian leopard cat (*Prionailurus bengalensis*), from which the Bengal cat was originally hybridised. The earliest mention of an Asian leopard cat × domestic cat hybrid was in 1889, when Harrison Weir wrote of them in *Our Cats and All About Them*. The Cat Fanciers' Association (CFA) accepted the Bengal in CFA's \"Miscellaneous\" in 2016, under the restrictions that \"it must be F6 or later (6 generations removed from the Asian leopard cat or non-Bengal domestic cat ancestors)\".",
+      "bm25_score_raw": 0.7819399610154244,
+      "bm25_score_norm": 0.12739057327541442,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.796077311038971,
+      "embedding_score_norm": 0.19290014651573012,
+      "embedding_rank": 9
+    },
+    {
+      "title": "r/bengalcats",
+      "url": "https://www.reddit.com/r/bengalcats",
+      "snippet": "Welcome to the purrfectly pawsome subreddit dedicated to the majestic Bengal cats! they have high energy. Bengal is easy to use.",
+      "bm25_score_raw": 0.8916066102800675,
+      "bm25_score_norm": 0.14525703107976382,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.7913594245910645,
+      "embedding_score_norm": 0.12374594504393288,
+      "embedding_rank": 10
+    },
+    {
+      "title": "Bengal (@bengalgram) • Instagram photos and videos",
+      "url": "https://www.instagram.com/bengalgram?hl=en",
+      "snippet": "## bengalgram. http://www.patreon.com/bengal\\_art. Photo by Bengal on July 12, 2026. Photo by @kymskollectables on July 12, 2026. Photo by Davis Rider Comics on July 06, 2026. May be an image of ‎Superman, poster and ‎text that says '‎ABSOLUTE Cлυ CAZN HOOMLIAN الار ALLIN $4.9 99 $4 $4.99 ABES15 AGES15+ 2 2‎'‎‎. May be an image of Superman, book, magazine and text that says 'Deatle G AИO ٢ RENEE READS DRAGO boT DRA R BAT RAMGLUY D MONUGA रा SUPER SUPET A'. Photo by Collector's Paradise Comics & Graphic Novels on June 10, 2026. Photo by AstroVaultComics on June 10, 2026. May be an image of ‎poster, card and ‎text that says '‎ل REVENGE OF PИK OF ABSOLUTE THE WEEK CATHMN MAN ALLIN IN ALL 요관 1 1 SNYDER ENEDER PAYSON GRAYSON RENBAL NEW RELEASE NEW COMICS 6/10/26 ص_خسعمشت SUPER HERO LIMITED SERIES Ce revengeof.com‎'‎‎. Photo by Patrick // The Derby Nerd on June 07, 2026. Show more posts from bengalgram.",
+      "bm25_score_raw": 0.5048856708814841,
+      "bm25_score_norm": 0.08225398145480603,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.7903385758399963,
+      "embedding_score_norm": 0.1087824691351553,
+      "embedding_rank": 11
+    },
+    {
+      "title": "Bengal",
+      "url": "https://www.youtube.com/bengal",
+      "snippet": "Share your videos with friends, family, and the world.",
+      "bm25_score_raw": 0.7897451324484872,
+      "bm25_score_norm": 0.12866216100969463,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.7829171419143677,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

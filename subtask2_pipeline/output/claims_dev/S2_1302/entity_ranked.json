@@ -1,0 +1,99 @@
+{
+  "claim": {
+    "id": "S2/1302",
+    "text": "Omicron drives US deaths lower than in Delta wave",
+    "lang": "dev"
+  },
+  "entity_ranked_evidence": [
+    {
+      "title": "Omicron drives US deaths higher than in fall's delta wave",
+      "url": "https://theindependentbd.com/post/272664",
+      "snippet": "Omicron, the highly the country, is driving the daily American death toll higher than during last fall's delta wave, with deaths likely to keep",
+      "bm25_score_raw": 4.374001314205086,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9192354083061218,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 1
+    },
+    {
+      "title": "An Analysis of COVID-19 Mortality During the Dominancy of Alpha, Delta, and Omicron in the USA",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10125879",
+      "snippet": "An official website of the United States government. A **.gov** website belongs to an official government organization in the United States. Image 5: PMC search open iconSearch. Image 9: Close Search  Image 10: Search. Image 11: PMC search open iconImage 12: PMC search close ison. Inclusion in an NLM database does not imply endorsement of, or agreement with, the contents by NLM or the National Institutes of Health. # An Analysis of COVID-19 Mortality During the Dominancy of Alpha, Delta, and Omicron in the USA. The objective of the study was to measure the risk of death due to COVID-19 in relation to individuals’ characteristics, and severity of their disease during the dominant periods of Alpha, Delta, and Omicron variants have influenced mortality rates. The death rate during dominant period of Alpha, Delta, and Omicron were 5.3%, 7.5%, and 9.0% respectively and the overall death rate for all periods combined was 5.8%.",
+      "bm25_score_raw": 0.6780428139951109,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8618239164352417,
+      "embedding_score_norm": 0.269316694797929,
+      "embedding_rank": 5,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 2
+    },
+    {
+      "title": "Omicron Drives US Deaths Higher Than in Fall's Delta Wave",
+      "url": "https://www.voanews.com/a/omicron-drives-us-deaths-higher-than-in-fall-s-delta-wave/6417795.html",
+      "snippet": "Omicron, the highly contagious coronavirus variant sweeping across the country, is driving the daily American death toll higher than was the case during last",
+      "bm25_score_raw": 4.156520086407813,
+      "bm25_score_norm": 0.9411570157552047,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.892525851726532,
+      "embedding_score_norm": 0.6600641013484041,
+      "embedding_rank": 2,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 3
+    },
+    {
+      "title": "Omicron drives U.S. virus cases past delta's peak",
+      "url": "https://www.seattletimes.com/nation-world/omicron-drives-u-s-virus-cases-past-deltas-peak",
+      "snippet": "The omicron variant, which is now dominant in the United States and spreading faster than any variant yet, has already pushed daily coronavirus case counts",
+      "bm25_score_raw": 0.8594006035210888,
+      "bm25_score_norm": 0.04906921696108726,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.87748122215271,
+      "embedding_score_norm": 0.4685892013882304,
+      "embedding_rank": 3,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 4
+    },
+    {
+      "title": "Omicron variant caused more excess deaths in Massachusetts ...",
+      "url": "https://news.yale.edu/2022/05/20/omicron-variant-caused-more-excess-deaths-massachusetts-delta",
+      "snippet": "The Omicron variant caused more excess deaths in just eight weeks than Delta caused in its entire 23-week outbreak, a new study shows.",
+      "bm25_score_raw": 1.5138115931515843,
+      "bm25_score_norm": 0.22613045549861874,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8657029867172241,
+      "embedding_score_norm": 0.3186861120066756,
+      "embedding_rank": 4,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 5
+    },
+    {
+      "title": "Comparison of the causes of death associated with delta and ...",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9710103",
+      "snippet": "by AR Kim · 2022 · Cited by 7 — The primary cause of death was COVID-19–associated pneumonia in both the Omicron (64%, 27/42) and Delta (88%, 37/42) eras (P = 0.01). Univariable analysis",
+      "bm25_score_raw": 1.3733331154931885,
+      "bm25_score_norm": 0.18812178260621074,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8406630754470825,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 6
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1074",
+    "text": "Passport | Police Verification May Delay Applicant Indefinitely Due To Its Inaction: Calcutta High Court",
+    "lang": "english"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Hc Rap For Police Delay In Passport Docu Verification | Kolkata News",
+      "url": "https://timesofindia.indiatimes.com/city/kolkata/hc-rap-for-police-delay-in-passport-docu-verification/amp_articleshow/102707381.cms",
+      "snippet": "The Calcutta High Court recently stated that no one should suffer indefinitely due to the inaction of the police while conducting verifications",
+      "bm25_score_raw": 5.5655800598121195,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9317264556884766,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "No one should suffer indefinitely due to inaction in police verification for ...",
+      "url": "https://www.scconline.com/blog/post/2023/08/01/no-one-suffer-inaction-police-verification-document-passport-issuance-calcutta-hc-scc-blog-news",
+      "snippet": "Calcutta High Court held that no one should suffer indefinitely due to inaction in police verification on document genuineness for passport",
+      "bm25_score_raw": 3.443734298361205,
+      "bm25_score_norm": 0.5867511719526602,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.9247567057609558,
+      "embedding_score_norm": 0.8995676357215003,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Police Verification Only To Ascertain Genuineness Of Documents, ...",
+      "url": "https://x.com/LiveLawIndia/status/1684869986077310976",
+      "snippet": "Police Verification Only To Ascertain Genuineness Of Documents, Applicant Cannot Suffer Indefinitely For Its Inaction: Calcutta High Court",
+      "bm25_score_raw": 4.363260582071056,
+      "bm25_score_norm": 0.7658373081862302,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.9134292006492615,
+      "embedding_score_norm": 0.7363411022626548,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Police Verification Only... - Calcutta High Court",
+      "url": "https://www.livelaw.in/amp/high-court/calcutta-high-court/calcutta-high-court-police-verification-passport-passport-citizenship-document-233845",
+      "snippet": "Applicant Cannot Suffer Indefinitely For Its Inaction: the applicant should not be made to suffer indefinitely for inaction by the police",
+      "bm25_score_raw": 4.806997377144399,
+      "bm25_score_norm": 0.8522590989954505,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.9116894006729126,
+      "embedding_score_norm": 0.7112710169922425,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Passport Police Verification Delayed for Months in Kolkata Despite ...",
+      "url": "https://www.reddit.com/r/kolkata/comments/1trq5pu/passport_police_verification_delayed_for_months",
+      "snippet": "Hi everyone, I applied for my passport on 2 February, and my POPSK verification was successfully completed on 12 February without any",
+      "bm25_score_raw": 1.6437483434484443,
+      "bm25_score_norm": 0.23618747883071897,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8794336318969727,
+      "embedding_score_norm": 0.2464734053883205,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Why Are So Many Kolkata Passport Applications Getting Stuck ???",
+      "url": "https://technofino.in/community/threads/why-are-so-many-kolkata-passport-applications-getting-stuck.48350",
+      "snippet": "Many people appear to be facing the same cycle of completed verification, prolonged delays, lack of communication, & endless follow-ups between",
+      "bm25_score_raw": 0.43103250047131936,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8623290061950684,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1151",
+    "text": "'Insubordination': Bombay High Court Criticises Additional Sessions Judge For Following HC Order While Granting Bail To Murder Accused",
+    "lang": "english"
+  },
+  "ranked_evidence": [
+    {
+      "title": "Bombay High Court Criticises Additional Sessions Judge ...",
+      "url": "https://www.livelaw.in/high-court/bombay-high-court/bombay-high-court-trial-court-insubordination-judicial-impropriety-bail-murder-accused-233885",
+      "snippet": "Jul 28, 2023 — The Bombay High Court recently criticized an Additional Sessions Judge, Osmanabad citing insubordination and judicial impropriety while dealing with a bail ...Read more",
+      "bm25_score_raw": 9.43059794563867,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Bombay High Court Cancels Bail Granted by Sessions ...",
+      "url": "https://lawtext.in/judgement.php?bid=80993",
+      "snippet": "6 days ago — The High Court set aside the bail order passed by the Additional Sessions Judge, Nagpur, as it was passed in disregard of an earlier order of a ...Read more",
+      "bm25_score_raw": 3.2881785126603282,
+      "bm25_score_norm": 0.1513676051996062,
+      "bm25_rank": 2
+    },
+    {
+      "title": "Bombay High Court sacks 2 lower court judges",
+      "url": "https://www.bhaskarenglish.in/national/news/bombay-hc-sacks-2-lower-court-judges-one-for-bribery-another-for-using-seized-drugs-136086436.html",
+      "snippet": "The decision to dismiss Satara Additional Sessions Judge Dhananjay Nikam and Palghar Civil Judge (Senior Division) Irfan Shaikh was taken after an inquiry",
+      "bm25_score_raw": 3.276047670002462,
+      "bm25_score_norm": 0.14969161641896053,
+      "bm25_rank": 3
+    },
+    {
+      "title": "Bombay High Court Reprimands Sessions Judge For ...",
+      "url": "https://lawbeat.in/news-updates/bombay-high-court-reprimands-sessions-judge-granting-bail-violation-high-court-order",
+      "snippet": "Jul 29, 2023 — A single-judge bench of the Bombay High Court at Aurangabad comprising Justice RM Joshi recently reprimanded a sessions judge of Osmanabad for ...Read more",
+      "bm25_score_raw": 3.224377275285734,
+      "bm25_score_norm": 0.14255287063854138,
+      "bm25_rank": 4
+    },
+    {
+      "title": "The Bombay High Court has cancelled the bail granted ...",
+      "url": "https://www.facebook.com/theedulaw/posts/the-bombay-high-court-has-cancelled-the-bail-granted-to-shiv-sena-corporator-ram/1585259010277034",
+      "snippet": "The Bombay High Court has cancelled the bail granted to Shiv Sena corporator Ramesh Mhatre and directed him to surrender before the Trial Court ...Read more",
+      "bm25_score_raw": 2.686981062738112,
+      "bm25_score_norm": 0.06830658384763445,
+      "bm25_rank": 5
+    },
+    {
+      "title": "The Session Judge should not allow successive bail ...",
+      "url": "https://www.lawweb.in/2025/08/bombay-hc-session-judge-should-not.html",
+      "snippet": "Aug 13, 2025 — The learned Additional Sessions Judge has passed orders in two bail applications within two weeks. First was rejected, expressing an opinion ...Read more",
+      "bm25_score_raw": 2.192576547194299,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6
+    }
+  ]
+}

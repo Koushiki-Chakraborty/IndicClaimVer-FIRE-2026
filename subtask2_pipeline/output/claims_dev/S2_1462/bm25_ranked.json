@@ -1,0 +1,57 @@
+{
+  "claim": {
+    "id": "S2/1462",
+    "text": "Covid cases in India: PM Modi to chair virtual meet with chief ministers on Thursday",
+    "lang": "dev"
+  },
+  "ranked_evidence": [
+    {
+      "title": "PM Modi To Chair Virtual meet With CMs, Ahead Of Covid-19 Vaccination Drive",
+      "url": "https://www.youtube.com/watch?v=J_5C7JWFimU",
+      "snippet": "PM Modi To Chair Virtual meet With CMs, Ahead Of Covid-19 Vaccination Drive\nIndia Today\n11300000 subscribers\n8 likes\n487 views\n11 Jan 2021\nPrime Minister Narendra Modi will on Monday meet chief ministers of all states and Union territories ahead of the rollout of the January 16 nationwide vaccination drive against the coronavirus disease.\n\n#Modi #Coronavirus #IndiaToday\n\nSubscribe to India Today for NEW VIDEOS EVERY DAY and make sure to enable Push Notifications so you'll never miss a new video. \nAll you need to do is PRESS THE BELL ICON next to the Subscribe button! \nIndia Today TV is India's leading English News Channel. India Today YouTube channel offers latest news videos on Politics, Business, Cricket, Bollywood, Lifestyle, Auto, Technology, Travel, Entertainment and a lot more. \n\nStay tuned for latest updates and in-depth analysis of news from India and around the world! \n\n\n\nFollow us: Official website: https://www.indiatoday.in/\n\nTwitter: https://twitter.com/IndiaToday \n\nFacebook: https://www.facebook.com/IndiaToday\n\nTelegram: https://t.me/indiatodayofficial\n\n",
+      "bm25_score_raw": 6.464453550631172,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "PM Modi's Virtual Meet With Chief Ministers As Covid ...",
+      "url": "https://www.ndtv.com/india-news/pm-modis-virtual-meet-with-chief-ministers-as-covid-cases-surge-2706194",
+      "snippet": "Jan 13, 2022 — Prime Minister Narendra Modi held an online meeting with a number of chief ministers today amid a massive spike in Covid cases nationwide over the past week.Read more",
+      "bm25_score_raw": 4.818163898032771,
+      "bm25_score_norm": 0.6214799476904667,
+      "bm25_rank": 2
+    },
+    {
+      "title": "PM Modi's Virtual Meet With Chief Ministers As Covid Cases Surge",
+      "url": "https://www.youtube.com/watch?v=x-C6hHc5fnY",
+      "snippet": "PM Modi's Virtual Meet With Chief Ministers As Covid Cases Surge\nNDTV\n15900000 subscribers\n51 likes\n7476 views\n13 Jan 2022\nPrime Minister Narendra Modi is holding an online meeting with a number of chief ministers today amid a massive spike in Covid cases nationwide over the past week. The Prime Minister has urged all state leaders to ensure adequate health infrastructure at the district level, and to accelerate the vaccination drive for children between 15 and 18.\n\nAbout NDTV: NDTV brings you unbiased and comprehensive coverage of news and entertainment programmes in India and abroad. NDTV delivers reliable information across all platforms: TV, Internet and Mobile.\n \nFollow us on Social Media:\nLike us on Facebook: https://www.facebook.com/ndtv/\nFollow us on Twitter: https://twitter.com/ndtv/  \nFollow us on Koo: https://www.kooapp.com/profile/ndtv \nFollow us on Instagram: https://www.instagram.com/ndtv/\nJoin NDTV on Telegram Messenger: https://t.me/NDTVbot/?start=hi\n \nFollow us on Google News for Breaking and Latest News Updates:\nNDTV: https://bit.ly/3e5ngbP\nNDTV India (Hindi News): https://bit.ly/3mNVwMY\n \nDownload NDTV Mobile Apps: http://www.ndtv.com/page/apps\n\n#Covid-19 #OmicronCases #CoronavirusCases\n25 comments\n",
+      "bm25_score_raw": 4.762382534459419,
+      "bm25_score_norm": 0.6086545225750523,
+      "bm25_rank": 3
+    },
+    {
+      "title": "PM Modi chaired a virtual meeting with Chief Ministers and ...",
+      "url": "https://www.facebook.com/Timesnow/videos/pm-modi-chaired-a-virtual-meeting-with-chief-ministers-and-lieutenant-governors-/3193249987511604",
+      "snippet": "PM Modi chaired a virtual meeting with Chief Ministers and Lieutenant Governors to review India's preparedness amid the Middle East crisis.Read more",
+      "bm25_score_raw": 3.3667614483315704,
+      "bm25_score_norm": 0.28776896899606247,
+      "bm25_rank": 4
+    },
+    {
+      "title": "PM Narendra Modi is chairing a virtual meeting with Chief ...",
+      "url": "https://www.facebook.com/cnnnews18/posts/pm-narendra-modi-is-chairing-a-virtual-meeting-with-chief-ministers-to-review-st/1563605605809077",
+      "snippet": "Narendra Modi is chairing a virtual meeting with Chief Ministers to review states' preparedness and response plans amid the West Asia conflict.",
+      "bm25_score_raw": 3.175586084538685,
+      "bm25_score_norm": 0.24381333300639157,
+      "bm25_rank": 5
+    },
+    {
+      "title": "Coronavirus: PM Modi chairs India's first virtual meeting of ...",
+      "url": "https://www.indiatoday.in/india/story/coronavirus-pm-modi-chairs-india-s-first-virtual-meeting-of-council-of-ministers-1663886-2020-04-06",
+      "snippet": "Apr 6, 2020 — Modi chaired a meeting of the council of ministers on Monday via video-conferencing amidst a nationwide lockdown to combat the coronavirus",
+      "bm25_score_raw": 2.1151736576543154,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "claim": {
+    "id": "S2/1435",
+    "text": "Omicron surge: Japan to declare Covid curbs in 3 regions hosting US bases from Jan 9",
+    "lang": "dev"
+  },
+  "generated_queries": {
+    "english_translation": "Omicron surge: Japan to declare Covid curbs in 3 regions hosting US bases from Jan 9",
+    "native_query": "Omicron Japan Covid US surge declare curbs regions",
+    "english_query": "Omicron Japan Covid US surge declare curbs regions"
+  },
+  "native_retrieval": [
+    {
+      "title": "Japan to declare COVID-19 curbs in 3 regions hosting U.S. bases",
+      "url": "https://www.reuters.com/world/asia-pacific/japan-requests-3-prefectures-enact-measures-curb-covid-19-surge-2022-01-07",
+      "snippet": "Japan is to step up coronavirus restrictions in three regions that host U.S. military bases to stem a COVID-19 surge that some officials"
+    },
+    {
+      "title": "Japan to declare Covid-19 curbs in 3 regions hosting U.S. bases",
+      "url": "https://www.nbcnews.com/news/world/japan-declare-covid-curbs-regions-hosting-us-bases-okinawa-rcna11318",
+      "snippet": "Japan to declare Covid-19 curbs in 3 regions hosting U.S. bases. The governor of Okinawa, host to 70 percent of U.S. military facilities in"
+    },
+    {
+      "title": "#Japan decided to declare quasi-emergency measures in three ...",
+      "url": "https://www.facebook.com/IndiaToday/posts/japan-decided-to-declare-quasi-emergency-measures-in-three-regions-in-order-to-s/10161795060362119",
+      "snippet": "Japan decided to declare quasi-emergency measures in three regions in order to stem a #COVID19 surge that some officials have linked to U.S. military"
+    },
+    {
+      "title": "Japan widens virus curbs, including in Tokyo, as cases surge",
+      "url": "https://www.cbs42.com/news/international/japan-widens-covid-curbs-including-in-tokyo-as-cases-surge/amp",
+      "snippet": "Restrictions will be in place in 16 areas around the country, including three other prefectures — Okinawa, Hiroshima and Yamaguchi — which were"
+    },
+    {
+      "title": "Japan to expand COVID curbs amid 'unprecedented' surge in cases ...",
+      "url": "https://www.youtube.com/watch?v=1k6ewLj5SLQ",
+      "snippet": "Japan is preparing to expand emergency restrictions to eight more prefectures to fight a surge in COVID-19 cases, as worries grow about"
+    },
+    {
+      "title": "Asia Has Kept COVID-19 at Bay for 2 Years. Omicron Could Change That",
+      "url": "https://time.com/6139851/asia-omicron-covid-surge",
+      "snippet": "Japan banned entry for nearly all foreigners—including students who had already been admitted to universities. The Philippines barred foreign"
+    }
+  ],
+  "english_retrieval": [
+    {
+      "title": "Japan to declare COVID-19 curbs in 3 regions hosting U.S. bases",
+      "url": "https://www.reuters.com/world/asia-pacific/japan-requests-3-prefectures-enact-measures-curb-covid-19-surge-2022-01-07",
+      "snippet": "Japan is to step up coronavirus restrictions in three regions that host U.S. military bases to stem a COVID-19 surge that some officials"
+    },
+    {
+      "title": "Japan to declare Covid-19 curbs in 3 regions hosting U.S. bases",
+      "url": "https://www.nbcnews.com/news/world/japan-declare-covid-curbs-regions-hosting-us-bases-okinawa-rcna11318",
+      "snippet": "Japan to declare Covid-19 curbs in 3 regions hosting U.S. bases. The governor of Okinawa, host to 70 percent of U.S. military facilities in"
+    },
+    {
+      "title": "#Japan decided to declare quasi-emergency measures in three ...",
+      "url": "https://www.facebook.com/IndiaToday/posts/japan-decided-to-declare-quasi-emergency-measures-in-three-regions-in-order-to-s/10161795060362119",
+      "snippet": "Japan decided to declare quasi-emergency measures in three regions in order to stem a #COVID19 surge that some officials have linked to U.S. military"
+    },
+    {
+      "title": "Japan widens virus curbs, including in Tokyo, as cases surge",
+      "url": "https://www.cbs42.com/news/international/japan-widens-covid-curbs-including-in-tokyo-as-cases-surge/amp",
+      "snippet": "Restrictions will be in place in 16 areas around the country, including three other prefectures — Okinawa, Hiroshima and Yamaguchi — which were"
+    },
+    {
+      "title": "Japan to expand COVID curbs amid 'unprecedented' surge in cases ...",
+      "url": "https://www.youtube.com/watch?v=1k6ewLj5SLQ",
+      "snippet": "Japan is preparing to expand emergency restrictions to eight more prefectures to fight a surge in COVID-19 cases, as worries grow about"
+    },
+    {
+      "title": "Asia Has Kept COVID-19 at Bay for 2 Years. Omicron Could Change That",
+      "url": "https://time.com/6139851/asia-omicron-covid-surge",
+      "snippet": "Japan banned entry for nearly all foreigners—including students who had already been admitted to universities. The Philippines barred foreign"
+    }
+  ],
+  "merged_results": [
+    {
+      "title": "Japan to declare COVID-19 curbs in 3 regions hosting U.S. bases",
+      "url": "https://www.reuters.com/world/asia-pacific/japan-requests-3-prefectures-enact-measures-curb-covid-19-surge-2022-01-07",
+      "snippet": "Japan is to step up coronavirus restrictions in three regions that host U.S. military bases to stem a COVID-19 surge that some officials"
+    },
+    {
+      "title": "Japan to declare Covid-19 curbs in 3 regions hosting U.S. bases",
+      "url": "https://www.nbcnews.com/news/world/japan-declare-covid-curbs-regions-hosting-us-bases-okinawa-rcna11318",
+      "snippet": "Japan to declare Covid-19 curbs in 3 regions hosting U.S. bases. The governor of Okinawa, host to 70 percent of U.S. military facilities in"
+    },
+    {
+      "title": "#Japan decided to declare quasi-emergency measures in three ...",
+      "url": "https://www.facebook.com/IndiaToday/posts/japan-decided-to-declare-quasi-emergency-measures-in-three-regions-in-order-to-s/10161795060362119",
+      "snippet": "Japan decided to declare quasi-emergency measures in three regions in order to stem a #COVID19 surge that some officials have linked to U.S. military"
+    },
+    {
+      "title": "Japan widens virus curbs, including in Tokyo, as cases surge",
+      "url": "https://www.cbs42.com/news/international/japan-widens-covid-curbs-including-in-tokyo-as-cases-surge/amp",
+      "snippet": "Restrictions will be in place in 16 areas around the country, including three other prefectures — Okinawa, Hiroshima and Yamaguchi — which were"
+    },
+    {
+      "title": "Japan to expand COVID curbs amid 'unprecedented' surge in cases ...",
+      "url": "https://www.youtube.com/watch?v=1k6ewLj5SLQ",
+      "snippet": "Japan is preparing to expand emergency restrictions to eight more prefectures to fight a surge in COVID-19 cases, as worries grow about"
+    },
+    {
+      "title": "Asia Has Kept COVID-19 at Bay for 2 Years. Omicron Could Change That",
+      "url": "https://time.com/6139851/asia-omicron-covid-surge",
+      "snippet": "Japan banned entry for nearly all foreigners—including students who had already been admitted to universities. The Philippines barred foreign"
+    }
+  ]
+}

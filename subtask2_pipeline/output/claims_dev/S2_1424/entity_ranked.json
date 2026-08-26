@@ -1,0 +1,99 @@
+{
+  "claim": {
+    "id": "S2/1424",
+    "text": "Delhi High Court Issues Notice To NCERT On Plea Challenging Tender Inviting Bids From All Eligible Firms",
+    "lang": "dev"
+  },
+  "entity_ranked_evidence": [
+    {
+      "title": "Delhi High Court Issues Notice To NCERT On Plea Challenging Tender Inviting Bids From Only Empanelled Firms",
+      "url": "https://www.livelaw.in/high-court/delhi-high-court/delhi-high-court-notice-ncert-government-jaadui-pitara-tender-challenge-231219",
+      "snippet": "# Delhi High Court Issues Notice To NCERT On Plea Challenging Tender Inviting Bids From Only Empanelled Firms. ###### Aiman J. 24 Jun 2023 11:30 AM IST. The Delhi High Court has issued notice to NCERT and the Central Government in a plea challenging the tender issued by NCERT for the supply of items of the New Kit, Jaadui Pitara. The plea alleges that tender is “biased and one-sided” because it specifically invites online bids only from firms currently empaneled with NCERT.Samit Khanna, proprietor of M/s Universal Sales, who deals in... # This is a premium content Available exclusively to Our subscribers. ### INR 1099+GST. Your support helps us to bring you more content at. ##### Tags. Chishti is a Principal Correspondent with LiveLaw, covering Punjab And Haryana High Court.",
+      "bm25_score_raw": 10.311612503470366,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9151492714881897,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1,
+      "entity_overlap_raw": 2,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 1
+    },
+    {
+      "title": "Delhi HC asks NCERT to respond to plea challenging online bids from empanelled firms, ETLegalWorld",
+      "url": "https://legal.economictimes.indiatimes.com/news/litigation/delhi-hc-asks-ncert-to-respond-to-plea-challenging-online-bids-from-empanelled-firms/101219426",
+      "snippet": "The Delhi High Court has sought response of the Centre and the NCERT on a plea challenging online bids from firms currently empanelled for supply of items of the new kit 'Jaadui Pitara' developed by the organisation. The petition claimed that the National Council of Educational Research and Training (NCERT) while issuing corrigendum has set the one-sided and biased criteria of eligibility conditions and other requirements for bidders. The plea was listed before a vacation bench of Justice Amit Mahajan which asked the Ministry of Education and NCERT to file reply to the petition. Petitioner Samit Khanna, proprietor of Universal Sales, who has been dealing in manufacturing and distribution of toys since 2013 and registered under the Ministry of Micro, Small and Medium Enterprises, said he meets all the criteria set out by NCERT except the criteria of empanelled firm. The plea, filed through advocate Juhi Arora, said, \"Due to the one-sided criteria set by the respondent no.",
+      "bm25_score_raw": 3.897032529938275,
+      "bm25_score_norm": 0.30365694204283245,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8705287575721741,
+      "embedding_score_norm": 0.5542054956120736,
+      "embedding_rank": 2,
+      "entity_overlap_raw": 2,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 2
+    },
+    {
+      "title": "Non Participants in Tender Process Cannot Challenge Award Delhi HC | LawStreet",
+      "url": "https://lawstreet.co/judiciary/non-participants-in-tender-process-cannot-challenge-award-delhi-hc",
+      "snippet": "Home Judiciary [Non Participants in Tender Process Cannot Challenge Award: Delhi HC [Read Judgement]](/judiciary/non-participants-in-tender-process-cannot-challenge-award-delhi-hc). # Non Participants in Tender Process Cannot Challenge Award: Delhi HC [Read Judgement]. Non Participants in Tender Process Cannot Challenge Award Delhi HC. **New Delhi:** The Delhi High Court has recently dismissed a petition challenging the award of a tender by Indian Oil Corporation Limited (IOCL) for an oil pipeline project. The court noted that the petitioner, Primatel Fibcom Ltd, had not participated in the bidding process and only intended to supply equipment to one of the bidders. *Only the entities who participate in the tender process pursuant to a tender notice can be allowed to make grievances about the non-fulfilment or breach of any of the terms and conditions of the tender documents concerned. The respondent who chose to stay away from the tender process cannot be heard to whittle down, in any manner, the rights of the eligible bidders who had participated in the tender process on the basis of the written and express terms and conditions.*.",
+      "bm25_score_raw": 1.4674488308164872,
+      "bm25_score_norm": 0.039910328922382755,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8564860820770264,
+      "embedding_score_norm": 0.41390797294295667,
+      "embedding_rank": 3,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 3
+    },
+    {
+      "title": "Locus to Challenge Tender Conditions after Participation in ...",
+      "url": "https://disputeresolution.cyrilamarchandblogs.com/2026/05/locus-to-challenge-tender-conditions-after-participation-in-tender-process",
+      "snippet": "Following the NHAI Case, several High Courts have denied locus to non-participating entities to raise challenges in respect of tenders.",
+      "bm25_score_raw": 1.5822391170023333,
+      "bm25_score_norm": 0.052371537487285305,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8199780583381653,
+      "embedding_score_norm": 0.04916371250075181,
+      "embedding_rank": 4,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 4
+    },
+    {
+      "title": "\"challenge to tender",
+      "url": "https://indiankanoon.org/search?formInput=%22challenge+to+tender",
+      "snippet": "Transparency in Tenders Rules 2000, the petitioner did not participate in the tender process as it had decided to challenge the very tender notification",
+      "bm25_score_raw": 1.0998024620946751,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8181430101394653,
+      "embedding_score_norm": 0.030830118140831683,
+      "embedding_rank": 5,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 5
+    },
+    {
+      "title": "04-11-2025 (txt)",
+      "url": "https://delhihighcourt.nic.in/app/showFileJudgment/59404112025CW17992025_171909.txt",
+      "snippet": "According to him, on that basis itself not only the annulment of the original tender ought to be set aside but the notice inviting fresh tender",
+      "bm25_score_raw": 2.7350370430921567,
+      "bm25_score_norm": 0.17751501318988075,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8150571584701538,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 6
+    }
+  ]
+}

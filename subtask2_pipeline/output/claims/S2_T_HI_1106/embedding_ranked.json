@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/HI/1106",
+    "text": "एमपीः दुकानें बंद कराने गई पुलिस पर भड़का लोगों को गुस्सा, महिलाओं ने भी बरसाए पत्थर, देखें",
+    "lang": "hindi"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Police officers were pelted with rocks, glass bottles and fruit at protests ...",
+      "url": "https://www.facebook.com/DavidDavisMLC/posts/police-officers-were-pelted-with-rocks-glass-bottles-and-fruit-at-protests-in-th/1286127069984619",
+      "snippet": "I was detained by an aggressive little female cop who clearly had plenty to prove. She was rude and loving it, and when she went through my",
+      "bm25_score_raw": 0.9865376873837104,
+      "bm25_score_norm": 0.12768539785477812,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.8603893518447876,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Why are the Police pelting stones at protesters? Was the brutal lathi ...",
+      "url": "https://www.instagram.com/reel/DbA_qeBPWMV",
+      "snippet": "Stones, stones have been pelted from the side of protesters and police are now putting on helmets and will appeal to everyone here to keep their",
+      "bm25_score_raw": 3.0438585116874743,
+      "bm25_score_norm": 0.3939598963615684,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8583164811134338,
+      "embedding_score_norm": 0.9809032372848409,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Angry North West residents pelt police with stones, torch two cement trucks",
+      "url": "https://www.youtube.com/watch?v=7bFwMT-sz2I",
+      "snippet": "WATCH | Angry North West residents pelt police with stones, torch two cement trucks. @News24Video16 likes4.9K views3 years ago more.",
+      "bm25_score_raw": 3.445618016166217,
+      "bm25_score_norm": 0.4459587432655836,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8534650802612305,
+      "embedding_score_norm": 0.9362086745659477,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Police Officer couldn't walk after he's badly hit by stones pelted by the angry ...",
+      "url": "https://www.facebook.com/7NewsGlobal/posts/police-officer-couldnt-walk-after-hes-badly-hit-by-stones-pelted-by-the-angry-pr/1527041182383340",
+      "snippet": "Police Officer couldn't walk after he's badly hit by stones pelted by the angry protesters in today's demos in Moyale.",
+      "bm25_score_raw": 5.994385946044088,
+      "bm25_score_norm": 0.7758401571515756,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8473157286643982,
+      "embedding_score_norm": 0.879556464410953,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Women protesting 'rape law' in Afghanistan pelted with stones by ...",
+      "url": "https://www.nydailynews.com/2009/04/15/women-protesting-rape-law-in-afghanistan-pelted-with-stones-by-angry-mob",
+      "snippet": "A group of some 1000 Afghans swarmed a demonstration of 300 women protesting against a new conservative marriage law on Wednesday.",
+      "bm25_score_raw": 6.156221573011514,
+      "bm25_score_norm": 0.7967861855503631,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8297654986381531,
+      "embedding_score_norm": 0.7178712356418724,
+      "embedding_rank": 5
+    },
+    {
+      "title": "CJP Protest Turns Violent: 118 Cops Injured After Stone-Pelting Near Jantar Mantar",
+      "url": "https://www.youtube.com/watch?v=J82pnCJTglo",
+      "snippet": "CJP Protest Turns Violent: 118 Cops Injured After Stone-Pelting Near Jantar Mantar\nRepublic World\n7790000 subscribers\n\n9878 views\n21 Jul 2026\nCJP Protest Turns Violent: 118 Cops Injured After Stone-Pelting Near Jantar Mantar\n\nCJP's Parliament march turned chaotic near Jantar Mantar as protesters allegedly pelted stones, lynched and targeted police personnel. Over 118 cops were injured, 15-20 government vehicles damaged in stone-pelting and vandalism. Delhi Police registered FIRs for rioting and assault. Injured officers described pre-planned attacks while police appealed for peace.\n\n#CJPProtest #DelhiViolence #CopsAttacked #JantarMantar #PoliceInjured #ChaloSansad #ProtestChaos #DelhiPolice #StonePelting #118CopsHurt #RepublicWorld #RepublicTV #RepublicNew #IndiaNews #LiveNews #RepublicExclusive #RepublicWorldLive  #ArnabGoswami #RepublicDigital #NationFirst \n\nWatch More ➡️ Videos On: https://www.youtube.com/@RepublicDefence\n\nVisit Now ➡️ Full Story On: https://www.republicworld.com\n\n-------------------------------------------------------------------------------------------------------\n\nRepublic TV is India's no.1 English news channel since its launch.  Watch Republic YouTube Channel to get all the breaking news updates, LIVE news, videos and perspectives from Republic Media Network's battery of reporters, anchors, and producers spread across India and the world. Watch Republic for Arnab Goswami's most watched debates. Republic TV makes news accessible at all times and across devices. At Republic, we keep you updated with up-to-the-minute news on the world of politics, sports, entertainment, business, defense, science, health, lifestyle, gadgets, and much more. \n\nWe believe in Breaking the story and Breaking the Silence. But most importantly, for us ‘You Are Republic, We Are Your Voice.’\n\n🌟 Don’t just watch the news—LIVE IT with Republic!\nFrom the big headlines to behind-the-scenes moments, follow us everywhere:\n\n🌐 Website: www.republicworld.com\n👍 Facebook: https://www.facebook.com/RepublicWorld\n🐦 Twitter: https://twitter.com/republic\n📸 Instagram: https://www.instagram.com/republicworld\n📢 Telegram: https://t.me/RepublicLive\n\n📱 WhatsApp Channels:\n💬 Digital: https://whatsapp.com/channel/0029VaALjvmCRs1xIH3e003K\n💬 World: https://whatsapp.com/channel/0029Va1whYb7dmeZr7v3ar0y\n\nDisclaimer: Republic Media Network may provide content through third-party websites, operating systems, platforms, and portals (‘Third-Party Platforms’). Republic does not control and has no liability for Third-Party Platforms, including content hosted, advertisements, security, functionality, operation, or availability.\n85 comments\n",
+      "bm25_score_raw": 0.7335913126550104,
+      "bm25_score_norm": 0.09494710624545227,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.8202284574508667,
+      "embedding_score_norm": 0.6300092142415493,
+      "embedding_rank": 6
+    },
+    {
+      "title": "प्रतिकूल मौसमका कारण मह उत्पादनमा कमी – Online Khabar",
+      "url": "https://www.onlinekhabar.com/2022/02/1074838/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A4%BF%E0%A4%95%E0%A5%82%E0%A4%B2-%E0%A4%AE%E0%A5%8C%E0%A4%B8%E0%A4%AE%E0%A4%95%E0%A4%BE-%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%A3-%E0%A4%AE%E0%A4%B9-%E0%A4%89",
+      "snippet": "लमजुङमा यस वर्ष घर पालुवा मौरीको मह उत्पादनमा कमी आएको छ । गत वर्षको तुलनामा यस वर्ष मह उत्पादनमा कमी आएको मौरीपालक कृषक बताउँछन् ।. २२ माघ, लमजुङ । लमजुङमा यस वर्ष घर पालुवा मौरीको मह उत्पादनमा कमी आएको छ । गत वर्षको तुलनामा यस वर्ष मह उत्पादनमा कमी आएको मौरीपालक कृषक बताउँछन् ।. प्रतिकूल मौसम, शीतलहरका साथै विभिन्न रोगका कारण मह उत्पादनमा कमी आएको बताइएको छ । गत वर्षको तुलनामा यो वर्ष आठ टन मह उत्पादनमा कमी आएको कृषि ज्ञान केन्द्र लमजुङले जनाएको छ ।. कार्यालयका सूचना अधिकारी मदन रेग्मीका अनुसार यस वर्ष ११ हजार ५०० मौरी घारबाट ३० टन मह उत्पादन भएको छ । गत वर्ष जिल्लाका किसानले ११ हजार एक सय मौरीका घारबाट ३८ टन मह उत्पादन गरेको थियो ।. त्यस्तै विसं २०७६ मा नौ हजार ५०० मौरी घारबाट ३४ टन मह उत्पादन भएको थियो भने विसं २०७५ मा पाँच हजार ९०० मौरी घारबाट ३२ टन मह उत्पादन भएको कार्यालयले जनाएको छ ।. उनका अनुसार जिल्लामा उत्पादन गरिएको मह काठमाडौं, पोखरा, चितवनलगायत र जिल्लाभित्रकै सहरबजारमा समेत राम्रो खपत हुँदै आएको छ । बेँसीसहर नगरपालिका–४ पुरानोकोटका मौरीपालक किसान बेनबहादुर गुरुङले गत वर्ष ९६ क्विन्टल मह उत्पादन गरेका थिउ । तर यसवर्ष असोज महिनामा बढी वर्षा भएका कारण जम्मा पौने ६ क्विन्टल मह उत्पादन भएको कृषक गुरुङको भनाइ छ ।. उनले भने, ‘मैले गत जेठमा २१५ वटा मौरीसहितको घार बिक्री गरे । यतिका मह १४१ वटा मौरीको घारबाट उत्पादन गरेका हुँ । यसवर्ष वर्षाले मेरो मात्र होइन, तुलानात्मक रुपमा अधिकांश कृषकको मह उत्पादन घटेको छ ।’. उनले भने, ‘गत वर्ष ४५ वटा मौरीका घारबाट डेढ क्विन्टल मह उत्पादन गरेका थिए, यस वर्ष त झन मौरी घार थपेर ९० वटाबाट गत वर्षभन्दा दोब्बर उत्पादन होला भनेको थिए तर डेढ क्विन्टल मात्र उत्पादन भयो।’ जिल्लाका कृषकहरुले आधुनिक मौरी घार र आधुनिक प्रविधिको प्रयोगले मह उत्पादन गर्न थालेका छन् ।. नेपाल मौरीपालक महासङ्घ जिल्ला शाखा लमजुङका अनुसार जिल्लाको सबैभन्दा बढी उत्पादन हुने सुन्दरबजार र बेँसीसहर नगरपालिका तथा मस्र्याङ्दी गाउँपालिका रहेका छन् । शाखामा दर्ता भएका ३८२ जनाभन्दा बढी मौरीपालक किसान छन् ।. मौरीपालक किसानलाई मौरी व्यवसायमा आकर्षित गर्दै मह उत्पादनमा वृद्धि गर्नका लागि यस वर्ष कृषि ज्ञान केन्द्र, बेँसीसहर र सुन्दरबजार नगरपालिकालगायत विभिन्न स्थानीय तहहरुले ५० प्रतिशत अनुदानमा आधुनिक मौरी घार, मौरीसहितको मौरी घारलगायत विभिन्न उपकरणहरु वितरण गरेको थियो ।.",
+      "bm25_score_raw": 3.2106875544214035,
+      "bm25_score_norm": 0.41555221155401206,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.7802978754043579,
+      "embedding_score_norm": 0.26214022999361924,
+      "embedding_rank": 7
+    },
+    {
+      "title": "Project Work | PDF",
+      "url": "https://www.scribd.com/document/796612216/project-work",
+      "snippet": "म  ुगलकल म वत  ु वयस को लेकर श  ु ह  ुई परपर अकबर के कल म तो फलभ  ूत तो ह  ुई परत  ु जहगीर शपकल क अपे िकर और बगबनी म अक अभि रखत थ, अत  ु उसके शसन कल म म  ुगल थपय कल म कोई वशेष उलेखनीय गत नह ह. ुई। फर भी भवन नमाण क कया प  ूवावत िलत रह और सट ने भी क  ुछ महवप  ूणा इमरत क नमाण करवय। जनक शप शैल क ईरनी-भरतीय परय क रह। नकशी और रग-वन म  ूलतः ईरनी ह देख गय पर भरतीय शप वन क अनदेखी नह ह  ुई। जहगीर क कल यत उसके वत  ुवयस म अतनाहत िकल क ददशान करती है। सकदर म अकबर को मकबरे क नमाण कया ययप. एक ब स  ुदर मकबर बनवय। ये दोन मकबरे इस कल के ह नह अपत  ु म  ुगल वत  ुकल क भी ेठ क  ृतय ह।. सममत और रगीन मण है। अकबर महन (1556-1605) के शसनकल के दौरन भवन नमाण समी के प म लल बल  ुआ पथर के यपक उपयोग के लए म  ुगल वत  ुकल (Mughal Architecture) उलेखनीय थी। औरगजेब को छोकर, सभी रभक म  ुगल शसक उक  ृट नमात थे। म  ुगल के आगमन के सथ, फरसी शैलय ने भरतीय वत  ुकल को बह  ुत भवत कय। म  ुगल ने उक  ृट मकबर, मजद, कल, बगीि और शहर क नमाण कय। म  ुगल वत  ुकल सरिन और िर के सदभा म एक स. म  ुगल भरत के भीतर एक हमलवर तकत थे, और उनके प  ूवाज क पत मधय एशय के तैम  ूर सय म लगय ज सकत है।. तैम  ूर के वशज बबर ने म  ुगल वश क थपन क। 1526 म, उसने भरत पर आमण कय और अपने रजवश क थपन क।. म  ुगल म बबर और ह  ुमय  ू  के पस वत  ुकल के लए बह  ुत कम थ। बबर क केवल दो मजद बिी ह।. ह  ुमय  ू  क मकबर, अकबर के पत क बल  ुआ पथर क मकबर, म  ुगल वत  ुकल क इस अव के दौरन बनय गय थ।. 1707 म सट औरगजेब क म  ृय  ु के बद, म  ुगल वत  ुकल क पतन श  ु हो गय।.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.7706241607666016,
+      "embedding_score_norm": 0.1730190753470167,
+      "embedding_rank": 8
+    },
+    {
+      "title": "सामुदायिक विकास एवं जनभागीदारी  | PDF",
+      "url": "https://www.scribd.com/document/849467658/%E0%A4%B8%E0%A4%BE%E0%A4%AE%E0%A5%81%E0%A4%A6%E0%A4%BE%E0%A4%AF%E0%A4%BF%E0%A4%95-%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A4%BE%E0%A4%B8-%E0%A4%8F%E0%A4%B5%E0%A4%82-%E0%A4%9C%E0%A4%A8%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A5%80%E0%A4%A6%E0%A4%BE%E0%A4%B0%E0%A5%80",
+      "snippet": "एक पयोजन क नम है जसके तहत वत   त के बद पकतन से आये लगभग 7,000  वथपत लोग को नीलोखेी म प   ु नव सत कय गय थ। इसक स   त थ ‘जो कम नह केग, वह खएग भी नह।’. भतीय योजन आयोग के अन   ु स - \"सम   ु दयक वकस लोग के वय   के यस के मयम से म जीवन म  समजक औ आथ क पवत न लने क एक यस है।’’. सम   ु दयक वकस क अवधण भत म वत   त से बह    त पहले ही अतव म आ गई थी। महम ग  धी के  ने त   ृ व म वत   त स   म के दौन भी मीण वकस य मीण े  य ग   व के उथन प कफ यन दय  गय थ।. जसम मीण वकस को एक महवप   ू ण कय म  के प म शमल कते ह    ए    त क वयत क प   ु  क गई।. सम   ु दयक वकस कय म को उच थमकत दी गई औ 1948 म फोड फउ   डेशन क  वीय सहयत से सम   ु दयक वकस के लए 15 अय पयलर पयोजनओ   के सथ इरव पयोजन के  मयम से एक पयलर सम   ु दयक वकस पयोजन श   ु  क गई।. After one year of the Pre-Extension stage, the block stepped into Stage I, with a budget provision of Rs.12 lakhs for five years for intensive development. षीय वत से व क उरन 2 अर   ू ब 1953 को ह   आ थ। इसे लोग को आवयक ब   ु नयदी कम ची औ  एक छोर स कोि दन कने के लए डइन कय गय थ तक वे वय   सहयत के आध प वकस कय  श   ु  क सक। इस से व क पचलन इकई एक एन.ई.एस. ख   ड वकस अधकी (बीडीओ) -  बीडीओ ख   ड वकस कय लय क म   ु ख होत है। वह लॉक म सीडीपी क  सम योजन औ कय वयन के लए जमे द होत है।. वकस म   डल आद जै सी जन स   थओ   के मयम से सम   ु दयक सोच औ  सम   ू हक कवई को ोसहत कय जत है।.",
+      "bm25_score_raw": 1.7037958772675725,
+      "bm25_score_norm": 0.22051854402965695,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.7704467177391052,
+      "embedding_score_norm": 0.171384343696701,
+      "embedding_rank": 9
+    },
+    {
+      "title": "फूलन देवी: कभी विरोधी उनके नाम से थर-थर कांपते थे - profile fulan devi",
+      "url": "https://www.jagran.com/news/national-profile-fulan-devi-11540927.html",
+      "snippet": "Title: फूलन देवी: कभी विरोधी उनके नाम से थर-थर कांपते थे - profile fulan devi\nदस्यु सुंदरी से राजनेता बनी फूलन देवी का जन्म उत्तर प्रदेश के एक छोटे से गांव गोरहा का पूर्वा में 10 अगस्त 1...और पढ़ें. दस्यु सुंदरी से राजनेता बनी फूलन देवी का जन्म उत्तर प्रदेश के एक छोटे से गांव गोरहा का पूर्वा में 10 अगस्त 1963 को हुआ था।. गिरोह बनाने से पहले गांव के कुछ लोगों ने कथित तौर पर फूलन के साथ दुष्कर्म किया था। इसी का बदला लेने की मंशा से फूलन ने बीहड़ का रास्ता अपनाया। डकैत गिरोह में उसकी सर्वाधिक नजदीकी विक्रम मल्लाह से रही। माना जाता है कि पुलिस मुठभेड़ में विक्रम की मौत के बाद फूलन टूट गई।. आमतौर पर फूलनदेवी को डकैत के रूप में [रॉबिनहुड] की तरह गरीबों का पैरोकार समझा जाता था। 1981 में वह राष्ट्रीय और अंतरराष्ट्रीय स्तर पर तब सुर्खियों में आई जब उन्होने ऊंची जाति के 22 लोगों को एक नरसंहार में मौत के घाट उतार दिया। मारे गए सभी लोग ठाकुर जाति के जमींदार थे, लेकिन बाद में उन्होने इस नरसंहार में शामिल होने की बात से इन्कार किया था।. उत्तर प्रदेश और मध्य प्रदेश की पुलिस व प्रतिद्वंदी गिरोहों ने फूलन को पकड़ने की काफी कोशिशें की। इंदिरा गांधी के नेतृत्व वाली कांग्रेस सरकार ने [1983] में उनसे समझौता किया की उन्हें मृत्यु दंड नहीं दिया जायेगा और उनके परिवार के सदस्यों को कोई नुकसान नहीं पहुंचाया जायेगा तब फूलनदेवी ने इस शर्त के तहत आत्मसमर्पण कर दिया।. बिना मुकदमा चलाये ग्यारह साल तक जेल में रहने के बाद फूलन को 1994 में मुलायम सिंह यादव की सरकार ने रिहा कर दिया। ऐसा उस समय हुआ जब दलित लोग फूलन के समर्थन में गोलबंद हो रहे थे और फूलन इस समुदाय के प्रतीक के रुप में देखी जा रही थी। फूलन ने अपनी रिहाई के बाद बौद्ध धर्म अपना लिया। 1996 में फूलन ने उत्तर प्रदेश के भदोही सीट से [लोकसभा] का चुनाव जीता और वह संसद पहुंच गईं। 25 जुलाई 2001 को दिल्ली में उनके आवास पर ही फूलन की हत्या कर दी गई।.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.7653220295906067,
+      "embedding_score_norm": 0.12417206360572271,
+      "embedding_rank": 10
+    },
+    {
+      "title": "Taras Gai Re Baras Gai Re | तरस गई रे बरस गई रे Song|Kishore Kumar|Joroo Ka Ghulam| Listen to new songs and mp3 song download Taras Gai Re Baras Gai Re | तरस गई रे बरस गई रेonline on Gaana.com",
+      "url": "https://gaana.com/song/taras-gai-re-baras-gai-re",
+      "snippet": "Recap 2025Dil Se PanchamPartyRomance90s & 2000sBhaktiIndieEDMGhazalsWorkoutStarsRetroWeddingKidsDanceFriendship. Top Hindi SongsTop Haryanvi SongsTop Punjabi SongsTop Tamil SongsTop Bhakti Songs90's Hindi SongsTop English SongsTop Bhojpuri Songs. Arijit SinghSonu NigamSidhu Moose WalaA. R. RahmanYo Yo Honey SinghBadshahMC StanLata MangeshkarDiljit DosanjhShreya GhoshalGuru RandhawaArmaan MalikNeha KakkarB PraakKishore KumarAP DhillonAlan WalkerJustin BieberTaylor SwiftXxxtentacion. * Taras Gai Re Baras Gai Re Song. # Taras Gai Re Baras Gai Re | तरस गई रे बरस गई रे. Joroo Ka Ghulam19723 min 17 sec. **Taras Gai Re Baras Gai Re | तरस गई रे बरस गई रे**. ## More from Joroo Ka Ghulam. - Jaam Par Jaam Peene Se. ## Song Artists. ## About Taras Gai Re Baras Gai Re | तरस गई रे बरस गई रे Song. Listen to Kishore Kumar Taras Gai Re Baras Gai Re MP3 song. Taras Gai Re Baras Gai Re (तरस गई रे बरस गई रे) song from the album Joroo Ka Ghulam is released on Dec 1972. The duration of song is 3 min 17 sec. This song is sung by Kishore Kumar. ## FAQs for Taras Gai Re Baras Gai Re | तरस गई रे बरस गई रे. ### When was Taras Gai Re Baras Gai Re | तरस गई रे बरस गई रे song released? Taras Gai Re Baras Gai Re | तरस गई रे बरस गई रे is a **Hindi** song which is released in 1972. ### Which album features the Taras Gai Re Baras Gai Re | तरस गई रे बरस गई रे song? Taras Gai Re Baras Gai Re | तरस गई रे बरस गई रे is from the movie/album **Joroo Ka Ghulam**. ### Who composed the music of Taras Gai Re Baras Gai Re | तरस गई रे बरस गई रे? Kalyanji-Anandji have composed the Taras Gai Re Baras Gai Re | तरस गई रे बरस गई रे song. ### Who is the vocalist for the Taras Gai Re Baras Gai Re | तरस गई रे बरस गई रे? The song is sung by Kishore Kumar. ### Where can I download this Taras Gai Re Baras Gai Re | तरस गई रे बरस गई रे song? You can download this song on Gaana App. HomeRadioPodcastReadsMy Music. **Go Premium**Get Gaana Plus.",
+      "bm25_score_raw": 7.726315647351787,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.7639875411987305,
+      "embedding_score_norm": 0.1118778053192202,
+      "embedding_rank": 11
+    },
+    {
+      "title": "मह - विकिपिडिया",
+      "url": "https://ne.wikipedia.org/wiki/%E0%A4%AE%E0%A4%B9",
+      "snippet": "बिश्व वजारमा ल्याइने कुल महको परिमाण बनस्पति श्रोतको क्यारीङ क्यापासिटि (कति गोलालाइ खाना पुग्छ), मौसमको अनुकुलता, एकल वनस्पति श्रोतमा आधारीत महका लागि उक्त वनस्पति प्रकृतिमा उगेको क्षेत्रफल, मौरीखर्क वरपर फुल फुल्ने वनस्पतिहरुमा पुस्परसको परिमाण, गोलाको स्वास्थ्य, व्यवस्थापन गरीएका मौरी गोलाको सँख्या, अफ सिजनमा मौरीलाइ वैकल्पिक खाद्यको व्यवस्था, मह काढीएको गोलाको सँख्या, रजिष्टर्ड बार्षिक मह उत्पादन लक्ष र त्यसमा शँसोधन, मह आयात निर्यात वा खरीद सम्झौता, गोला व्यवस्थापन तथा गोला शुरक्षा खर्च आदिमा भर पर्न सक्छ। पर्याप्त मौरी चरनको व्यवस्था गरेमा तथा बाह्रै महिना फुल फुल्ने वनस्पतिहरुको खेती गरेमा मात्र मौरीपालनलाइ व्यवसायीक र दिगो वनाउन सकिन्छ। धेरै तातो वा धेरै चिसो तथा हावा लाग्ने ठाउँमा मौरीपालन फस्टाउन सक्दैन। व्यवसायीक कृषि खेती गरीएको स्थानहरुमा बिषादीको प्रयोग भएको हुनसक्ने हुनाले त्यस्ता स्थानमा उत्पादित मह खानका लागी अयोग्य हुन सक्छ किनकि प्रयोगशालामा बिषादीको अवशेष परिक्षण पश्चात मात्र खान हुने नहुने प्रमाणिकरण गर्न सकिन्छ। महमा बिषादि अवशेष परिमाणका आधारमा प्रत्येक देशले आ-आफ्नै मापदण्ड वनाएका हुन्छन। जापान तथा चिनको तथ्याङ्क केलाउँदा दोश्रो वा तेश्रो पुस्ताले व्यवसायीक पालेका मौरीपालन मात्र सफल भएको पाइन्छ।. चाकामा सिल भएकाे र पर्याप्त समय दिए पछि चाका मै छिप्पिएकाे सेल भएका फ्रेमवाट सिललाई हटाई (डि-क्यापिङ गरि) महदानिमा घुमाएर फ्रेमवाट बाहिर झारिएकाे महलाई पाकेको तथा अप्रशाेधित मह (र हनि) भनिन्छ । चाकामा छिप्पिएको मह लामो समय सम्म विग्रदैन र गोलाले अफ सिजनमा खानका लागी भण्डारण गरेर राख्न योग्य वन्छ। कोषमा शिल गरीएको हुनाले यस्तो महमा वाहिरवाट प्रदुषण, ओश तथा विषादी मिसिने सम्भावना रहँदैन। राम्रो सिजनमा छाउरा कक्षवाट पनि २-४ फ्रेम यस्ताे मह प्राप्त हुन सक्तछ।. : फुराएको एक चिम्टी मरिचको धूलो, एक चम्चा मह, एक ग्लास पानीमा फिटेर खाने गरेमा अमलपित्तको रोग ठीक हुँदै जानेछ ।. : बेलपत्रको धूलो एक चम्चामा एक चम्चा मह मिसाएर बिहान/बेलुका खाने गरेमा दमको रोग समन हुँदै जान्छ ।. : बेलपत्रको धूलो एक चम्चामा एक चम्चा मह मिसाएर खाएमा रुघा, खोकी र ज्वरो पनि ठीक हुन्छ ।. : जीराको धूलो, ५० ग्राम, सिदेनूनको धूलो ५० ग्राम र घ्यूमा फुराएको हिङ १० ग्रामको धूलो सबै मिसाएर मनतातो पानीसँग १\\१ चम्चा मह अथवा घ्यूमा मिसाएर दिनको ३\\४ पटक रोग अनुसार मात्रा मिलाई खाएमा दीसा धेरै लागेको ठीक हुन्छ ।. : बकाइनोको फूलको रस आधा चम्चामा मह आधा चम्चा मिसाएर बिहान/बेलुका खाने गरेका धर्म रोकिएको खुल्छ र नियमित हुन्छ ।.",
+      "bm25_score_raw": 3.0410183877921306,
+      "bm25_score_norm": 0.39359230538742573,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.7518436908721924,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

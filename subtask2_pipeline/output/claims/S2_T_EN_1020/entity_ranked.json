@@ -1,0 +1,99 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1020",
+    "text": "Eggs thrown at Chiranjeevi after his comments on Narendra Modi",
+    "lang": "english"
+  },
+  "entity_ranked_evidence": [
+    {
+      "title": "Eggs thrown at Chiranjeevi after comments on Modi",
+      "url": "https://inshorts.com/en/amp_news/eggs-thrown-at-chiranjeevi-after-comments-on-modi",
+      "snippet": "# Eggs thrown at Chiranjeevi after comments on Modi. ## Some BJP supporters saturday allegedly hurled eggs at Andhra Pradesh Congress election campaign committee chief K Chiranjeevi, during a public meeting after his remarks against Narendra Modi calling him a \"Hitler\" and \"tyrant\", police said. However, police managed to bring the situation under control and Chiranjeevi continued his speech. Police later said they nabbed two suspects in this connection. more at India Today / 12 years ago. Swipe left to view full story.",
+      "bm25_score_raw": 1.58889035821355,
+      "bm25_score_norm": 0.7353420802661428,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.9298503398895264,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1,
+      "entity_overlap_raw": 2,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 1
+    },
+    {
+      "title": "Eggs thrown at Chiranjeevi after his comments on Narendra Modi",
+      "url": "https://www.ndtv.com/elections-news/eggs-thrown-at-chiranjeevi-after-his-comments-on-narendra-modi-558892",
+      "snippet": "Some BJP supporters allegedly hurled eggs at union minister and Andhra Pradesh Congress election campaign committee chief K Chiranjeevi",
+      "bm25_score_raw": 1.85351112953745,
+      "bm25_score_norm": 0.9468863417152378,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.9296144247055054,
+      "embedding_score_norm": 0.9975465674879901,
+      "embedding_rank": 2,
+      "entity_overlap_raw": 2,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 2
+    },
+    {
+      "title": "Chiru thanks PM for calling brothers 'role model'",
+      "url": "https://www.deccanchronicle.com/amp/southern-states/andhra-pradesh/chiru-thanks-pm-for-calling-brothers-role-model-898861",
+      "snippet": "Mega star Chiranjeevi has thanked Prime Minister Narendra Modi for praising him and his youngest brother and Jana Sena chief Pawan Kalyan for being 'role model",
+      "bm25_score_raw": 0.6690507599469132,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8336931467056274,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6,
+      "entity_overlap_raw": 2,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 3
+    },
+    {
+      "title": "Chiranjeevi recalls when eggs were thrown at him during a political rally",
+      "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/chiranjeevi-recalls-when-eggs-were-thrown-at-him-during-a-political-rally/amp_articleshow/97806617.cms",
+      "snippet": "Chiranjeevi recalled the incident when some people threw eggs at him during the road show in Jagtial, Telangana. Chiranjeevi revealed that",
+      "bm25_score_raw": 1.9199510184139914,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8905329704284668,
+      "embedding_score_norm": 0.5911135905780257,
+      "embedding_rank": 3,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 4
+    },
+    {
+      "title": "Chiru's equivocation 'egg'cites crowd",
+      "url": "https://www.newindianexpress.com/amp/story/states/andhra-pradesh/2008/Nov/05/chirus-equivocation-eggcites-crowd-4493.html",
+      "snippet": "Praja Rajyam Party president Chiranjeevi interacting with women near Rudragudem in Warangal district during his Praja Ankita Yatra on Tuesday.",
+      "bm25_score_raw": 0.7395596222364005,
+      "bm25_score_norm": 0.056366494300586927,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8587133884429932,
+      "embedding_score_norm": 0.2602014566868123,
+      "embedding_rank": 4,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 5
+    },
+    {
+      "title": "RARE VIDEO : Megastar Chiranjeevi Hitted By Eggs In PRP Party Rally | Political Qube",
+      "url": "https://www.youtube.com/watch?v=10wtYQ08KvM",
+      "snippet": "RARE VIDEO : Megastar Chiranjeevi Hitted By Eggs In PRP Party Rally | Political Qube\nQubeTV News\n1440000 subscribers\n29 likes\n5046 views\n24 Oct 2022\nRARE VIDEO : Megastar Chiranjeevi Hitted By Eggs In PRP Party Rally \n#chiranjeevi #prajarajyam \n\n\n\n\n\n\n\nPolitical Qube - Telugu News channel is here to update you with all latest Telugu news, National News in Telugu, Andhra News, Telangana News. Parliament News, Assembly Sessions, Telugu Assembly Videos, Breaking News, Local Issues, Press Meets, Exclusive Political Leaders Interviews are available in this channel. \n\nFor More ap news, telugu news live, telangana news ⬇\n👍 Like Our Facebook Page - https://www.facebook.com/PoliticalQube/\n📸 Follow us on Instagram - https://www.instagram.com/thenewsqube/\n🐦 Follow Us On Twitter - https://twitter.com/TheNewsQube\n🖥 Website: https://thenewsqube.com/\n5 comments\n",
+      "bm25_score_raw": 1.3538776364199059,
+      "bm25_score_norm": 0.547467211584253,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.855307936668396,
+      "embedding_score_norm": 0.22478599101193245,
+      "embedding_rank": 5,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 6
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "claim": {
+    "id": "S2/1002",
+    "text": "Ensure adequate buffer stock of medical oxygen: Centre to states",
+    "lang": "dev"
+  },
+  "ranked_evidence": [
+    {
+      "title": "Ensure Adequate Buffer Stock Of Medical Oxygen",
+      "url": "https://www.youtube.com/watch?v=12B9pc7E9fw",
+      "snippet": "Ensure Adequate Buffer Stock Of Medical Oxygen: Centre To States Amid Rise In COVID Cases. @KanakNewsOdisha100 likes4.9K views4 years agoRead more",
+      "bm25_score_raw": 1.5552220567720598,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Ensure Adequate Buffer Stock Of Medical Oxygen: Centre To ...",
+      "url": "https://swachhindia.ndtv.com/ensure-adequate-buffer-stock-of-medical-oxygen-centre-to-states-66081",
+      "snippet": "Jan 12, 2022 — All health facilities providing in-patient care and oxygen therapy should have buffer stock of medical oxygen sufficient for at least 48 hrs,",
+      "bm25_score_raw": 1.361943175733497,
+      "bm25_score_norm": 0.8241657777028716,
+      "bm25_rank": 2
+    },
+    {
+      "title": "Ensure adequate buffer stock of medical oxygen: Centre to ...",
+      "url": "https://health.economictimes.indiatimes.com/news/policy/ensure-adequate-buffer-stock-of-medical-oxygen-centre-to-states/88854811",
+      "snippet": "Jan 12, 2022 — \"All health facilities providing in-patient care and oxygen therapy should have buffer stock of medical oxygen sufficient for at least 48 hrs,\"",
+      "bm25_score_raw": 1.361943175733497,
+      "bm25_score_norm": 0.8241657777028716,
+      "bm25_rank": 3
+    },
+    {
+      "title": "Ensure adequate stock of oxygen: Centre to states",
+      "url": "https://www.rediff.com/news/commentary/2022/jan/12/ensure-adequate-stock-of-oxygen-centre-to-states/ea0ce3a671facfd2d53a4c0cf84fba66",
+      "snippet": "Jan 12, 2022 — \"All health facilities providing in-patient care and oxygen therapy should have buffer stock of medical oxygen sufficient for at least 48 hrs,\" ...Read more",
+      "bm25_score_raw": 1.2255596586738002,
+      "bm25_score_norm": 0.7000917478477718,
+      "bm25_rank": 4
+    },
+    {
+      "title": "States directed to ensure buffer stock of oxygen",
+      "url": "https://www.thehindu.com/news/national/health-facilities-must-have-48-hour-buffer-stock-of-oxygen-centre-tells-states/article38247240.ece",
+      "snippet": "Jan 12, 2022 — Health facilities providing in-patient care and oxygen therapy should have buffer stock of medical oxygen sufficient for at least 48 hours, ...Read more",
+      "bm25_score_raw": 1.030981760921605,
+      "bm25_score_norm": 0.523075753427558,
+      "bm25_rank": 5
+    },
+    {
+      "title": "Medical Oxygen Storage Standards in Hospitals",
+      "url": "https://eureka.patsnap.com/article/medical-oxygen-storage-standards-in-hospitals",
+      "snippet": "Jul 21, 2025 — Medical oxygen must be stored in a well-ventilated, clean, and dry area away from direct sunlight or heat sources. The storage area should be",
+      "bm25_score_raw": 0.4560112290188818,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6
+    }
+  ]
+}

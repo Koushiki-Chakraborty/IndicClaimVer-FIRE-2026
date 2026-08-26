@@ -1,0 +1,105 @@
+{
+  "claim": {
+    "id": "S2/T/BN/1216",
+    "text": "হাড়োয়ার উপনির্বাচনে ব্যাপক অশান্তির কথা জানিয়েছে কমিশন।",
+    "lang": "bengali"
+  },
+  "ranked_evidence": [
+    {
+      "title": "Tanzania's opposition criticizes 'whitewashing' of violence",
+      "url": "https://www.dw.com/en/tanzanias-opposition-criticizes-whitewashing-of-post-election-violence/a-76919885",
+      "snippet": "# Tanzania's opposition criticizes 'whitewashing' of violence. A commission appointed by the Tanzanian government reported that the 2025 post-election violence left at least 518 people dead, but named no perpetrators. As post-election unrest spread in Tanzania, the government imposed a 6 p.m. curfew and shut down the internet [FILE: Oct. 30, 2025]Image: AP Photo/picture alliance. Tanzania's government on Thursday released a long-awaited report into deadly violence following the October 2025 elections — a move officials described as a step toward truth, reconciliation and national healing. While presenting the report, retired Chief Justice Mohamed Chande Othman, who chaired the government-appointed commission formed to probe the post-election violence, said the figure of 518 might not be final and conclusive. After Tanzania's October 29, 2025, election, unrest followed after President Samia Suluhu Hassan was declared the winner with 98% of the vote. The scale of the crackdown marked a break from Tanzania's history of political stability and led to sustained domestic and international pressure for an independent investigation.",
+      "bm25_score_raw": 4.1877413483529145,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Tanzania election violence: Mohamed Chande Othman says 518 people killed",
+      "url": "https://www.bbc.com/news/articles/cgld775knzyo",
+      "snippet": "Reuters Protest a day after Tanzania's general election at the Namanga One-Post Border crossing point between Kenya and Tanzania. A total of 518 people died in Tanzania from \"unnatural causes\", including 197 who were shot dead, in the widespread protests that followed last year's general election, the commission of inquiry set up to investigate the violence has announced. President Samia Suluhu Hassan was declared the winner of the 29 October poll with 98% of the vote - which the opposition described as a \"mockery\" of democracy after her main challengers were excluded. At the time, the president said the election was fair and transparent and blamed foreigners for the violence, saying it was part of a plot to overthrow her. International observers, however, last year raised concerns over the lack of transparency in the vote, with the African Union and the southern Africa bloc Sadc saying the election had fallen short of democratic standards. Reuters A protest scene in Tanzania with tear gas in the foreground and a crowd of people looking on.",
+      "bm25_score_raw": 3.4084110459813513,
+      "bm25_score_norm": 0.8139019969134239,
+      "bm25_rank": 2
+    },
+    {
+      "title": "Tanzania opposition rejects commission report into election ...",
+      "url": "https://www.youtube.com/watch?v=7DIhqVxFnes&vl=en-US",
+      "snippet": "... protests is at odds with a tally by opposition and religious groups. READ MORE : http://www.africanews.com/2026/04/25/tanzania-opposition",
+      "bm25_score_raw": 3.010736881545955,
+      "bm25_score_norm": 0.7189405054182995,
+      "bm25_rank": 3
+    },
+    {
+      "title": "Guterres voices alarm over post-election violence in Tanzania | UN News",
+      "url": "https://news.un.org/en/story/2025/10/1166243",
+      "snippet": "The UN is calling for restraint in Tanzania, amid deadly protests following the 29 October general election, as the country remains under curfew and faces widespread internet restrictions. In a statement issued by his Spokesperson, Secretary-General António Guterres deplored the loss of life and extended his condolences to the families of the victims. The Secretary-General called for “a **thorough and impartial investigation into all allegations of excessive use of force**,” urging Tanzanian authorities to uphold accountability and transparency in handling the post-election unrest. According to the UN human rights office (OHCHR), credible reports indicate at least ten demonstrators were killed, as security forces used firearms and tear-gas against demonstrators in urban areas including the cities of Dar es Salaam, Shinyanga and Morogoro. The UN human rights office urged authorities to promptly reinstate internet service and facilitate citizens’ full enjoyment of their rights to freedom of expression, association and peaceful assembly.",
+      "bm25_score_raw": 0.9979385234636123,
+      "bm25_score_norm": 0.2382999427259548,
+      "bm25_rank": 4
+    },
+    {
+      "title": "Waki_Report.pdf",
+      "url": "https://www.knchr.org/Portals/0/Reports/Waki_Report.pdf",
+      "snippet": "1 Setting up the Commission ............................................................................................................ 3 Publication of Rules and Procedure............................................................................................. 4 Consultations with Government Departments and Others ................................................. 5 Standing Before the Commission ................................................................................................. 8 Given the time constraints adverted to above the Commission was not able to visit each province and therefore the methodology which the Commission adopted for gathering evidence varied to some extent between the various provinces.................... 20 Post-Election Violence, 2007 – How Deep Are the Roots?...................................................... 21 The Use of Political Violence......................................................................................................... 37 Violence in Rift Valley Province ....................................................................................................... 49 Response by Police and Provincial Administration............................................................... 53 Intelligence Concerning Post-Election Violence and Its Use.............................................. 249 Who Were the Victims of Sexual Violence?............................................................................ 345 Findings in Relation to the Extent of Violence ..................................................................... 345 Findings In Relation to the Causes and Patterns of the Post-Election Violence....... Part IV deals with acts and omissions of state security agencies and impunity; and Part V contains recommendations made with a view to the prevention of future reoccurrence of large scale violence; the investigation of alleged perpetrators; and how to tackle the culture of impunity that has become the hallmark of violence and other crimes in the country.",
+      "bm25_score_raw": 0.90920215769846,
+      "bm25_score_norm": 0.21711039008081515,
+      "bm25_rank": 5
+    },
+    {
+      "title": "Haroa Incident | হাড়োয়ার ঘটনা প্রসঙ্গে কী বলছেন শমীক ভট্টাচার্য ...",
+      "url": "https://www.youtube.com/watch?v=7kE2IsS-Grg",
+      "snippet": "Haroa Incident | হাড়োয়ার ঘটনা প্রসঙ্গে কী বলছেন শমীক ভট্টাচার্য এবং সৌম্য আইচ রায়? @KOLKATATV3 likes527 views1 year ago more.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6
+    },
+    {
+      "title": "নির্ভয়ে পড়ুন অভয়ার কথা! সত্যের সন্ধানে অকুতোভয় এক উপন্যাস! অভয়া ...",
+      "url": "https://www.instagram.com/p/DaZu5okP2aX",
+      "snippet": "নির্ভয়ে পড়ুন অভয়ার কথা! সত্যের সন্ধানে অকুতোভয় এক উপন্যাস! অভয়া কেবল একটি রহস্য বা প্রতিবাদের কাহিনি নয়; এটি আমাদের সময়ের বিবেক, নীরবতা ও প্রতিরোধের এক গভীর সাহিত্যিক দলিল।",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 7
+    },
+    {
+      "title": "নির্ভয়ে পড়ুন অভয়ার কথা! সত্যের সন্ধানে অকুতোভয় এক উপন্যাস! অভয়া ...",
+      "url": "https://www.facebook.com/parulprakashaniwb/posts/%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%AD%E0%A6%AF%E0%A6%BC%E0%A7%87-%E0%A6%AA%E0%A6%A1%E0%A6%BC%E0%A7%81%E0%A6%A8-%E0%A6%85%E0%A6%AD%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A6%A5%E0%A6%BE-%E0%A6%B8%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%A8%E0%A7%8D%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A7%87-%E0%A6%85%E0%A6%95%E0%A7%81%E0%A6%A4%E0%A7%8B%E0%A6%AD%E0%A6%AF%E0%A6%BC-%E0%A6%8F%E0%A6%95-%E0%A6%89%E0%A6%AA%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8%E0%A6%85%E0%A6%AD%E0%A7%9F%E0%A6%BE-%E0%A6%95%E0%A7%87%E0%A6%AC%E0%A6%B2-%E0%A6%8F%E0%A6%95%E0%A6%9F%E0%A6%BF-%E0%A6%B0%E0%A6%B9%E0%A6%B8%E0%A7%8D%E0%A6%AF/1735022255299622",
+      "snippet": "নির্ভয়ে পড়ুন অভয়ার কথা! সত্যের সন্ধানে অকুতোভয় এক উপন্যাস! অভয়া কেবল একটি রহস্য বা প্রতিবাদের কাহিনি নয়; এটি আমাদের সময়ের বিবেক, নীরবতা ও প্রতিরোধের",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 8
+    },
+    {
+      "title": "হাড়োয়া বিধানসভায় পদ মিছিল অনুষ্ঠিত হলো তৃণমূল কংগ্রেসের পক্ষ ...",
+      "url": "https://www.facebook.com/aisjmatin/videos/%E0%A6%B9%E0%A6%BE%E0%A7%9C%E0%A7%8B%E0%A7%9F%E0%A6%BE-%E0%A6%AC%E0%A6%BF%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A6%B8%E0%A6%AD%E0%A6%BE%E0%A7%9F-%E0%A6%AA%E0%A6%A6-%E0%A6%AE%E0%A6%BF%E0%A6%9B%E0%A6%BF%E0%A6%B2-%E0%A6%85%E0%A6%A8%E0%A7%81%E0%A6%B7%E0%A7%8D%E0%A6%A0%E0%A6%BF%E0%A6%A4-%E0%A6%B9%E0%A6%B2%E0%A7%8B-%E0%A6%A4%E0%A7%83%E0%A6%A3%E0%A6%AE%E0%A7%82%E0%A6%B2-%E0%A6%95%E0%A6%82%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B8%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%95%E0%A7%8D%E0%A6%B7-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A6%B8%E0%A6%BE%E0%A6%A7%E0%A6%BE%E0%A6%B0%E0%A6%A3-%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A7%81%E0%A6%B7-%E0%A6%AF/1266572358914107",
+      "snippet": "হাড়োয়া বিধানসভায় পদ মিছিল অনুষ্ঠিত হলো তৃণমূল কংগ্রেসের পক্ষ থেকে সাধারণ মানুষ, যুব সমাজ ও দলীয় কর্মীরা এই পদ মিছিলে স্বতঃস্ফূর্তভাবে অংশগ্রহণ করে",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 9
+    },
+    {
+      "title": "উন্মোচন হল বিশিষ্ট সাহিত্যিক উপন্যাসিক নিলয় পালের দুটি বই \"হক কথা\" ও ...",
+      "url": "https://www.youtube.com/watch?v=1qh_V8oMopo",
+      "snippet": "উন্মোচন হল বিশিষ্ট সাহিত্যিক উপন্যাসিক নিলয় পালের দুটি বই \"হক কথা\" ও \"নাইট ইজ স্টিল ইয়ং\"। মঙ্গলবার কাছাড় ক্লাবে অনুষ্ঠিত সাহিত্য সন্ধ্যায় উন্মোচিত হল নিলয় পালের 'হক কথা' ও 'নাইট ইজ স্টিল ইয়ং'।",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10
+    },
+    {
+      "title": "রোবের্তো বোলানিওর সাক্ষাৎকার : পড়া সবসময় লেখার চেয়ে বেশি জরুরি",
+      "url": "https://www.galpopath.com/2026/06/blog-post_521.html",
+      "snippet": "সাক্ষাৎকার গ্রহণকারী : কার্মেন বুয়োসা. ইংরেজি অনুবাদ : মার্গারেট কারসন. বাংলা অনুবাদ : শুভশ্রী বিন্তু. রোবের্তো বোলানিও লাতিন আমেরিকার সেরা ঔপন্যাসিকদের একজন। অভ্যুত্থানের চিলি, সত্তরের দশকের মেক্সিকো সিটি,",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11
+    },
+    {
+      "title": "Ballots to Bullets: Organized Political Violence and Kenya's ...",
+      "url": "https://www.hrw.org/report/2008/03/17/ballots-bullets/organized-political-violence-and-kenyas-crisis-governance",
+      "snippet": "In the 2002 general elections, Kenyans voted overwhelmingly for an end to dictatorial government, corruption, inequality, political violence,",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12
+    }
+  ]
+}

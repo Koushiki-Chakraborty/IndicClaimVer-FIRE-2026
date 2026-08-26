@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/BN/1252",
+    "text": "ইংল্যান্ডে মৃত ছেলে, লকডাউনের মধ্যেও ছেলের শেষ দেখা দেখতে যেতে পেরেছিলেন বাবা-মা",
+    "lang": "bengali"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Son dies in England, parents caught in Pune lockdown appeal to UK govt for last glimpse - India Today",
+      "url": "https://www.indiatoday.in/india/story/son-dies-in-england-parents-caught-in-pune-lockdown-appeal-to-uk-govt-for-last-glimpse-1664124-2020-04-07",
+      "snippet": "Title: Son dies in England, parents caught in Pune lockdown appeal to UK govt for last glimpse - India Today\n### Download App. NewsIndiaSon dies in England, parents caught in Pune lockdown appeal to UK for last glimpse. # Son dies in England, parents caught in Pune lockdown appeal to UK govt for last glimpse. ## Siddharth's father Shankar Murkumbi has appealed to the UK government to immediately release the body for final rites as he \"this is the least he deserves as his last wish and his mother deserves a last hug\". Son dies in England, parents caught in Pune lockdown appeal to UK govt for last glimpse London,UPDATED: Apr 7, 2020 08:30 IST. Siddharth Murkumbi, 23, a marketing student at the University of Central Lancashire (UClan) in UK went missing on March 15. His parents in Pune are now caught in the coronavirus lockdown desperate to get back the body for a last glimpse of their son. Siddharth’s father Shankar Murkumbi has appealed to the UK government to immediately release the body for final rites as he this is the least he deserves as his last wish and his mother deserves a last hug. However, Siddharth’s parents have been unable to either get his mortal remains back for the last rites or travel to the UK to collect it themselves due to the ongoing travel ban due to coronavirus. Police suspect Siddharth had committed suicide. Shivam, Siddharth’s senior at same university had met him just two days before the incident and said he could never imagine that he is capable of contemplating suicide. We received information from the police that Siddharth’s body was found on the banks of River Ribbie and it was taken to the mortuary at Royal Preston Hospital where the coroner process is being completed, said Shankar. In the UK a coroner is a government official who conducts an inquest into the manner and cause of death. The coroner from Royal Preston Hospital has since written to Shankar asking him to confirm if he would like to attend the inquest. However, the family has since decided not to attend the coroner’s inquest and delay the process. Also Read | Premature to forecast coronavirus lockdown end, says ICMR chief scientist. Also Watch | Premature to forecast coronavirus lockdown end, says ICMR chief scientist. Apr 7, 2020 08:15 IST.",
+      "bm25_score_raw": 6.673934105665322,
+      "bm25_score_norm": 0.9258508359057458,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.87119460105896,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Captain MV Pranjal's Parents Pay Last Respects To Martyred Soldier Son | Times Now",
+      "url": "https://www.timesnownews.com/india/travel-well-son-captain-mv-pranjals-parents-walk-barefoot-to-lay-wreath-on-sons-coffin-article-105500254",
+      "snippet": "Title: Captain MV Pranjal's Parents Pay Last Respects To Martyred Soldier Son | Times Now\nCaptain MV Pranjal's Parents Walk Barefoot To Lay Wreath On Son's Coffin. ## The grieving parents of the martyred Army Officer were a picture of grace and self-control as they went through the steps of the military funeral protocol without betraying the hollow left inside their hearts due to the loss of their only son. Parents of Captain MV Pranjal Pay Last Respects to Martyred Son. Parents of Captain MV Pranjal Pay Last Respects to Martyred Son. **Bengaluru:** Just like one does inside a temple or bowing down before the idol inside the sanctum sanctorum, the grieving parents, wife, and relatives paid their last respects to martyred Captain MV Pranjal by walking up to his coffin barefoot. One can clearly see in the video where the grieving family arrives silently at the military funeral where the hero son of India lies in state at HAL Airport, Bengaluru. The parents walk behind the army personnel leading them and another one hands them the floral wreath. The parents (even the wife and relatives - later - when it is their turn) step out of their shoes, just as one dooes when paying respect to someone in an exalted position - and then walk silently to his coffin. The son of former Managing Director of Mangalore Refinery and Petrochemicals Ltd., (MRPL) MV Venkatesh and Anuradha Venkatesh, Captain Pranjal had his early education at the Delhi Public School on the MRPL campus in Mangaluru. In his final message to his wife, Aditi, Captain Pranjal conveyed his participation in an upcoming operation and assured a call or message on Thursday. As per the Army protocol, the Next Of Kin was contacted to convey that their bravehearted son had laid down his life for the safety of the nation. The family’s world was shattered when news of his death reached them on Wednesday, as four soldiers, including Captain Pranjal, were killed in the encounter. Captain Pranjal was due for promotion to the rank of Major on December 9. For the Latest news, India News and breaking stories from around the world, visit Times Now for live coverage and in-depth reporting.",
+      "bm25_score_raw": 7.208433418042242,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8661727905273438,
+      "embedding_score_norm": 0.9581102581440675,
+      "embedding_rank": 2
+    },
+    {
+      "title": "England heads back into lockdown for a month | Thaiger",
+      "url": "https://thethaiger.com/coronavirus/england-heads-back-into-lockdown-for-a-month",
+      "snippet": "Title: England heads back into lockdown for a month | Thaiger\n# England heads back into lockdown for a month. England heads back into lockdown for a month | Thaiger. England is being sent back inside, a return to a national lockdown after a troublesome surge of **Covid-19** cases. Since the start of the pandemic in the UK there have been 1,011,660 cases and 46,555 deaths, a statistical death rate of 4.5%. The BritishPM Boris Johnson says the second wave of infections threatened to overwhelm the country’s health service. The UK which has ended up with the highest official death toll in Europe from Covid-19, is tying to cope with more than 20,000+ new cases a day. Health officials are warning of a “worst case scenario” of 80,000+ dead. The news of the new lockdown measures was leaked to the media so Mr. Johnson had to hastily convene a public press announcement. He says that the 1-month lockdown across England will start after midnight on Thursday and last until December 2. People will only be allowed to leave home for specific reasons such as education, hopping for essentials, work, exercise or caring for the vulnerable. The government is reviving its emergency coronavirus wage subsidy scheme to ensure workers who are temporarily laid off during a new England-wide lockdown receive 80% of their pay. • Pubs and restaurants will be shut apart from for takeaways. • Places of worship will remain open for private prayer, tfunerals will be limited to close family members only. The measures bring England into line with measures in France and Germany. Johnson was earlier criticised by political opponents for moving too slowly to initiate the first national lockdown, which ended up running from March 23 to July 4. The British PM eventually succumbed to a bout with Covid-19 in late March and was hospitalised in early April. Schoolgirl jumps from moving motorcycle in Bangkok after Bolt rider refuses to stop | Thaiger. ### 30,000 baht reward offered in search for missing Ayutthaya abbot, last seen in Tak. Redmi K90 Max has been launched in China and it wants to be the gaming phone nobody else will build | Thaiger. Thai woman forced to pay 100,000 baht to retrieve her dog from caretaker | Thaiger.",
+      "bm25_score_raw": 4.2077428998120725,
+      "bm25_score_norm": 0.5837250142701415,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8443542718887329,
+      "embedding_score_norm": 0.7761097410604192,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Rugby stars to pay respects to war dead | Lancashire Telegraph",
+      "url": "https://www.lancashiretelegraph.co.uk/news/1658691.rugby-stars-pay-respects-war-dead",
+      "snippet": "Morning Briefing Breaking News Alerts Crime and Court Entertainment Sports AM. ### News. News Blackburn Burnley Darwen Ribble Valley Hyndburn Rossendale Pendle Business Crime. # Rugby stars to pay respects to war dead. This article is brought to you by our exclusive subscriber partnership with our sister title USA Today, and has been written by our American colleagues. AN East Lancashire teacher is bidding to inspire England's rugby stars by taking them to the Somme battlefield in Northern France. Paul Garlington, head of history at Stonyhurst St Mary's Hall, Hurst Green, came up with the idea to help the squad's World Cup preparations He said he discussed the idea with former England star and Stonyhurst pupil Will Greenwood. This led to England head coach Brian Ashton, head of rugby at Stonyhurst College between 1980 and 1987, asking him to arrange the visit. Mr Garlington, an expert on the First World War battlefields, said: \"As the World Cup is in France this year, and considering that a number of England rugby internationals died on The Somme, I felt it appropriate that they should visit war graves to pay their respects. \"For today's rugby stars to pay their respects in this way is a modern example of patriotism and the England squad should be complimented for it.\". Mr Garlington, who also coaches rugby at the Catholic boarding and day school, added: \"The intention is to add an extra dimension to their preparations and to boost their national pride.\". Among them are four England rugby internationals. A total of 27 rugby players lost their lives during the Great War. Brian Ashton said: \"On behalf of the whole squad we feel it is important to visit the grave sites to pay our respects to all the brave soldiers who lost their lives fighting for their country.\". ## Get *involved* with the news. As a subscriber, you are shown **80% less** display advertising when reading our articles. Those ads you do see are predominantly from **local businesses** promoting **local services**. It is important that we continue to promote these adverts as our local businesses need as much support as possible during these challenging times.",
+      "bm25_score_raw": 4.504938821928933,
+      "bm25_score_norm": 0.6249539339093239,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8423119783401489,
+      "embedding_score_norm": 0.7590738236347003,
+      "embedding_rank": 4
+    },
+    {
+      "title": "How to Lock your house door in UK",
+      "url": "https://www.youtube.com/shorts/vINzihhZSDk",
+      "snippet": "This is how you lock most uk doors.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.8306082487106323,
+      "embedding_score_norm": 0.6614464420667435,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Pay respects - Idioms by The Free Dictionary",
+      "url": "https://idioms.thefreedictionary.com/pay+respects",
+      "snippet": "Title: Pay respects - Idioms by The Free Dictionary\n**Pay respects - Idioms by The Free Dictionary**. # pay (one's) respects. ## pay (one's) respects. I'm heading to Janet's house after her father's funeral on Sunday to pay my respects to her and her family. ## pay your respects. 1. If you **pay** your **respects** to someone, you go to see them or you send them a message in order to be polite. Carl had asked him to visit the hospital and to pay his respects to Francis. 2. If you **pay** your **respects**, you go to someone's funeral. People came from miles around to pay their respects. ## pay your respects. A similar expression is *pay your last respects* , meaning ‘show respect towards a dead person by attending their funeral’. (*formal*) show respect for somebody by visiting them, attending their funeral, etc: At the funeral the whole neighbourhood came out to pay their respects (to him). The latest conciliatory gestures from Pyongyang came on the same day as South Korea gave permission for a North Korean delegation to visit Seoul to pay respects to Kim, whose state funeral is Sunday. Chief Cabinet Secretary Yasuo Fukuda said Wednesday he thinks Prime Minister Junichiro Koizumi will listen to advice from various sectors before making a final decision on whether to visit Tokyo's Yasukuni Shrine to pay respects to the nation's war dead. Locals pay respects to a number of animals during the five-day Tihar. More travelers are expected to flock to the bus terminals in the coming days, as it has been a tradition for Filipinos to pay respects to their dead relatives during the first two days of November. President pays respects at Imam Bukhari's mausoleum. * pay in someone's own coin, to. * pay somebody/something a visit. * pay someone back in their own coin. * pay something back/return something with interest. * pay the penalty for (something)). * pay through the nose (for something)). * pay through the nose, to. * pay somebody back in spades. * pay somebody under the table. * pay somebody's debt down. * pay somebody/something a visit. * pay someone back in spades. * pay someone back in their own coin. * pay someone back with interest.",
+      "bm25_score_raw": 3.884728443229047,
+      "bm25_score_norm": 0.5389143823546769,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8258262872695923,
+      "embedding_score_norm": 0.6215574161727855,
+      "embedding_rank": 6
+    },
+    {
+      "title": "Italy eases coronavirus lockdown, pays respects to more than 29,000 dead - ABC News",
+      "url": "https://www.abc.net.au/news/2020-05-05/italy-europe-epicentre-eases-coronavirus-lockdown/12215196",
+      "snippet": "Title: Italy eases coronavirus lockdown, pays respects to more than 29,000 dead - ABC News\n### ABC News. # Italy eases coronavirus lockdown, pays respects to more than 29,000 dead. Three woman wearing white masks and plastic gloves wait with bags and suitcases at a train platform in Italy. Italy is among some countries in Europe starting to ease lockdown restrictions. Italians strolled in the park, grabbed takeaway coffees and paid their respects to the astonishing number of dead as the first and longest lockdown in Europe was eased. Greece, Portugal and Belgium also wound back some virus restrictions on Monday, with Britain poised to soon overtake Italy as the country with the most confirmed COVID-19 dead in Europe. Traffic increased in city centres, commuter and long-distance trains sold out and more people ventured out after restrictions on movement eased for the first time since Italy locked down on March 11. Man with light brown hair and dark eyebrows and eyes wearing a black mask and blue gloves, holds a pole on a train. The Italian National Institute of Statistics (ISTAT), Italy's national statistics agency, reported on Monday that 49 per cent more people died in March than the average over the past five years, with 25,354 excess deaths registered from February 20 to March 31 at the height of Italy's outbreak. Since only 13,700 of those deaths were confirmed positive for the virus, Italy's official COVID-19 toll of 29,000 is likely off by more than 10,000. Breaking down the latest news and research to understand how the world is living through an epidemic, this is the ABC's Coronacast podcast. The other deaths likely involved infected people who were never tested or people who died as an indirect result of the pandemic because the hospital system collapsed in the north, ISTAT said. In Milan, passengers on sold-out south-bound trains had their temperatures taken before they boarded, and commuter Gabriella Fusca said she felt safe making the trip to Rome. Everybody was wearing face masks,\" she said. Italy is also planning to test 150,000 with a pilot antibody and roll out a mobile contact-tracing application, but both initiatives are behind schedule and missed the start of the country's economic reboot. ### ABC News. ### Follow ABC News.",
+      "bm25_score_raw": 3.632427878957484,
+      "bm25_score_norm": 0.5039136339756919,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8257933855056763,
+      "embedding_score_norm": 0.6212829640825743,
+      "embedding_rank": 7
+    },
+    {
+      "title": "Why are there no locks in the UK?",
+      "url": "https://www.quora.com/Why-are-there-no-locks-in-the-UK",
+      "snippet": "Why are there no locks in the UK?",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.8251283764839172,
+      "embedding_score_norm": 0.6157357503679249,
+      "embedding_rank": 8
+    },
+    {
+      "title": "আবারও লকডাউনের পথে যাচ্ছে ব্রিটেন | Lock-down News in UK ...",
+      "url": "https://www.youtube.com/watch?v=mriSmTGG-28",
+      "snippet": "করোনার দ্বিতীয় ধাক্কা সামাল দিতে আবারো ধীরে ধীরে লকডাউনের পথে যাচ্ছে ব্রিটেন,এতে আতঙ্কগ্রস্থ হয়ে পড়েছেন, প্রবাসীরা। করোনাভাইরাসের প্রথম ধাক্কার ধকল কাটিয়ে ওঠার আগেই, এবার দ্বিতীয় ধাক্কা সামলানোর প্রস্তুতি",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.8218318223953247,
+      "embedding_score_norm": 0.5882373413945349,
+      "embedding_rank": 9
+    },
+    {
+      "title": "England's interior door locking mechanism confusion",
+      "url": "https://www.facebook.com/groups/thedullclub/posts/3036725236532575",
+      "snippet": "Front door, deadbolt, requires key to get in but is locked/unlocked from the inside with a turn lock. Back door, requires key both sides. Now I'",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.7898206114768982,
+      "embedding_score_norm": 0.32121385386420587,
+      "embedding_rank": 10
+    },
+    {
+      "title": "Travel to United Kingdom by Clock Work | History and ...",
+      "url": "https://www.youtube.com/watch?v=DRmvHE4eUVQ",
+      "snippet": "Travel to United Kingdom by Clock Work | History and Documentary about England | UK @ClockWork-44574.5K likes340K views2 years ago",
+      "bm25_score_raw": 1.617973009305541,
+      "bm25_score_norm": 0.22445556689971768,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.7605445981025696,
+      "embedding_score_norm": 0.07700618511594606,
+      "embedding_rank": 11
+    },
+    {
+      "title": "LOCKED | Значення в англійській мові - Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/uk/dictionary/english/locked",
+      "snippet": "Визначення LOCKED: 1. past simple and past participle of lock 2. to put an object in a safe place and fasten a lock…. Дізнайтеся більше.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.7513129711151123,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

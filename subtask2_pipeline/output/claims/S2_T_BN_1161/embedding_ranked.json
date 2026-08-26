@@ -1,0 +1,98 @@
+{
+  "claim": {
+    "id": "S2/T/BN/1161",
+    "text": "স্কুল-কলেজ ও ধর্মস্থানে লকডাউন বাড়ানোর পরামর্শ মন্ত্রী গোষ্ঠীর! তুঙ্গে জল্পনা",
+    "lang": "bengali"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "On Monday, Minister of State for Education, Emeka ...",
+      "url": "https://www.facebook.com/channelsforum/posts/on-monday-minister-of-state-for-education-emeka-nwajiuba-apologised-for-the-cont/3401223759889725",
+      "snippet": "Ministry of General Education has lifted the ban that prohibited churches from holding worship services in schools following the Covid-19",
+      "bm25_score_raw": 0.8518770365470194,
+      "bm25_score_norm": 0.4221907394572918,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8385014533996582,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "State of emergency: As coronavirus spreads, governor ...",
+      "url": "https://mississippitoday.org/2020/03/14/state-of-emergency-governor-urges-mississippi-churches-to-cancel-services-and-schools-to-extend-spring-break",
+      "snippet": "Mar 14, 2020 — State of emergency: As coronavirus spreads, governor urges Mississippi churches to cancel services and schools to extend spring break.Read more",
+      "bm25_score_raw": 2.0177539603120405,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8382300138473511,
+      "embedding_score_norm": 0.9968753880892868,
+      "embedding_rank": 2
+    },
+    {
+      "title": "CHURCHES TO RESUME WORSHIPPING FROM ...",
+      "url": "https://www.facebook.com/fyambemedia/posts/churches-to-resume-worshipping-from-schoolsministry-of-general-education-has-lif/346726640094418",
+      "snippet": "Ministry of General Education has lifted the ban that prohibited churches from holding worship services in schools following the Covid-19",
+      "bm25_score_raw": 0.8892006551868075,
+      "bm25_score_norm": 0.4406883458919317,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8379003405570984,
+      "embedding_score_norm": 0.9930804323408997,
+      "embedding_rank": 3
+    },
+    {
+      "title": "a study on the essence of worship in online worship groups",
+      "url": "https://digitalcommons.liberty.edu/cgi/viewcontent.cgi?article=4222&context=doctoral",
+      "snippet": "by N Kim · 2021 · Cited by 3 — ministers who conducted online worship under the COVID-19 pandemic. The researcher reached out to CKCGW. This is an assembly of Korean ...Read more",
+      "bm25_score_raw": 0.7063061517738611,
+      "bm25_score_norm": 0.35004572691540287,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8291025161743164,
+      "embedding_score_norm": 0.8918063673744958,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Adventist Schools, COVID-19, and the Big Government ...",
+      "url": "https://spectrummagazine.org/news/adventist-schools-covid-19-and-big-government-bailout-funding-jeopardy",
+      "snippet": "Dec 10, 2020 — The Chesapeake Conference recommended that schools under its auspices not accept federal funds made available through the Coronavirus Aid, Relief and Economic ...Read more",
+      "bm25_score_raw": 0.3311012286831085,
+      "bm25_score_norm": 0.1640939555543752,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8138779401779175,
+      "embedding_score_norm": 0.7165522782427798,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Schools to reopen or vacations extended? Govt to decide ...",
+      "url": "https://www.facebook.com/100063736372615/posts/schools-to-reopen-or-vacations-extended-govt-to-decide-soon/1622986499835880",
+      "snippet": "The Government has clarified that all private and government schools will reopen after a short summer break of ten days from tomorrow (Monday).",
+      "bm25_score_raw": 0.48856671247311645,
+      "bm25_score_norm": 0.24213393807318354,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8058532476425171,
+      "embedding_score_norm": 0.6241779368367318,
+      "embedding_rank": 6
+    },
+    {
+      "title": "Amar Jomunar Jol Dekhte Kalo Remix | VDJ NIROB",
+      "url": "https://music.youtube.com/podcast/4mN00JvMLGg",
+      "snippet": "May 28, 2023 — Amar Jomunar Jol Dekhte Kalo Remix | VDJ NIROB | যমুনার জল দেখতে কালো | Bengali Folk Song | Dj Remix Hi Guys, Presenting you \"Amar Jomunar Jol Remix\" ...Read more",
+      "bm25_score_raw": 1.43727510329804,
+      "bm25_score_norm": 0.7123143512877899,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.7571756839752197,
+      "embedding_score_norm": 0.0638377287625535,
+      "embedding_rank": 7
+    },
+    {
+      "title": "Koli Yuge Mon Kalo - Song",
+      "url": "https://www.jiosaavn.com/song/koli-yuge-mon-kalo/QzdGBg0FdQE",
+      "snippet": "Koli Yuge Mon Kalo is a Bengali language song and is sung by Pramathes Das. was released in the year 2018. The duration of the song is 4:28.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.7516300082206726,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 8
+    }
+  ]
+}

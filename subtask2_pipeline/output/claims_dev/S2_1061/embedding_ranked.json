@@ -1,0 +1,76 @@
+{
+  "claim": {
+    "id": "S2/1061",
+    "text": "Illegal Coal Mining: Meghalaya High Court Mulls CBI Probe, Asks State To Show Cause Why Police Administration Should Be Trusted",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Illegal Coal Mining: Meghalaya High Court Mulls CBI ...",
+      "url": "https://www.livelaw.in/high-court/meghalaya-high-court/meghalaya-high-court-illegal-coal-mining-cbi-probe-police-trust-231879",
+      "snippet": "Jul 4, 2023 — Contemplating demands for CBI probe into the issue of illegal coal mining in Meghalaya, the High Court on Tuesday directed the State government",
+      "bm25_score_raw": 4.708324064929721,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9185283780097961,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "HC wants CBI to probe illegal mining, transportation of coal ...",
+      "url": "https://theshillongtimes.com/2023/07/05/hc-wants-cbi-to-probe-illegal-mining-transportation-of-coal-in-meghalaya",
+      "snippet": "Jul 5, 2023 — The High Court of Meghalaya on Tuesday ordered a probe by the Central Bureau of Investigation into the illegal mining and transportation of",
+      "bm25_score_raw": 2.0862770650674185,
+      "bm25_score_norm": 0.3414099370367145,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.9078543782234192,
+      "embedding_score_norm": 0.8940097266258243,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Meghalaya HC full bench to hear illegal coal mining case",
+      "url": "https://legal.economictimes.indiatimes.com/news/industry/meghalaya-hc-full-bench-to-hear-illegal-coal-mining-case/89960817",
+      "snippet": "Mar 3, 2022 — Meghalaya High Court on Wednesday ordered an enquiry into the alleged illegal mining and transportation of coal in the state and directed that",
+      "bm25_score_raw": 2.0635509026995797,
+      "bm25_score_norm": 0.33570171567167617,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8855361938476562,
+      "embedding_score_norm": 0.6723954760595624,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Meghalaya Lokayukta directs govt to recommend CBI ...",
+      "url": "https://ukhrultimes.com/meghalaya-lokayukta-directs-govt-to-recommend-cbi-probe-in-illegal-coal-mining-and-transportation-case",
+      "snippet": "Mar 20, 2021 — The Meghalaya state government will examine the advice of the Meghalaya Lokayukta for instituting a CBI probe into the alleged illegal mining",
+      "bm25_score_raw": 1.7356015642949307,
+      "bm25_score_norm": 0.2533293648175427,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.884450376033783,
+      "embedding_score_norm": 0.6616135640087619,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Meghalaya orders judicial inquiry into illegal coal mine ...",
+      "url": "https://www.thehindu.com/news/national/meghalaya/meghalaya-government-orders-judicial-inquiry-into-illegal-coal-mine-blast-that-claimed-27-lives/article70609804.ece",
+      "snippet": "Feb 9, 2026 — Meghalaya government initiates judicial inquiry into illegal coal mine blast that killed 27, aiming to prevent future tragedies.",
+      "bm25_score_raw": 1.6356047535515175,
+      "bm25_score_norm": 0.2282127647386384,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8712623715400696,
+      "embedding_score_norm": 0.5306598231877694,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Judicial probe panel on coal to look into nexus",
+      "url": "https://meghalayamonitor.com/judicial-probe-panel-on-coal-to-look-into-nexus",
+      "snippet": "Mar 4, 2026 — According to the notification issued on March 3, the commission should examine the nexus between the demand for and supply of illegally mined",
+      "bm25_score_raw": 0.7270204478290265,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8178210258483887,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6
+    }
+  ]
+}

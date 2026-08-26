@@ -1,0 +1,99 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1262",
+    "text": "Right Of Lateral Support Available To Neighbouring Owner Only So Long As He Keeps His Land In Its Natural State: Kerala High Court",
+    "lang": "english"
+  },
+  "entity_ranked_evidence": [
+    {
+      "title": "Right Of Lateral Support Available... - Kerala High Court",
+      "url": "https://www.livelaw.in/high-court/kerala-high-court/kerala-high-court-easementary-rights-lateral-support-neighbours-land-removal-of-soil-excavation-232997",
+      "snippet": "Right Of Lateral Support Available To Neighbouring Owner Only So Long As He Keeps His Land In Its Natural State: Kerala High Court. Navya",
+      "bm25_score_raw": 6.463272577298439,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9664773941040039,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1,
+      "entity_overlap_raw": 2,
+      "entity_overlap_qid": 1,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 1
+    },
+    {
+      "title": "Right Of Lateral Support Available To Neighbouring Owner ...",
+      "url": "https://www.facebook.com/livelaw.in/posts/right-of-lateral-support-available-to-neighbouring-owner-only-so-long-as-he-keep/666392435525791",
+      "snippet": "Right Of Lateral Support Available To Neighbouring Owner Only So Long As He Keeps His Land In Its Natural State: Kerala High Court.",
+      "bm25_score_raw": 6.030357924098663,
+      "bm25_score_norm": 0.9160081270418629,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.9601253271102905,
+      "embedding_score_norm": 0.9424125867701875,
+      "embedding_rank": 2,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 2
+    },
+    {
+      "title": "lateral+support+for+land | Indian Case Law",
+      "url": "https://www.casemine.com/search/in/lateral%2Bsupport%2Bfor%2Bland",
+      "snippet": "there is a natural right of lateral support to one's land in unburdened and natural state from his neighbour's land,",
+      "bm25_score_raw": 1.9440653308821254,
+      "bm25_score_norm": 0.12320666878113616,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8992059826850891,
+      "embedding_score_norm": 0.3901218970505431,
+      "embedding_rank": 3,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 3
+    },
+    {
+      "title": "Civil Practice and Procedure Related to Lateral Support",
+      "url": "https://adjoininglandowners.uslegal.com/civil-practice-and-procedure-related-to-lateral-support",
+      "snippet": "The court further stated that a landowner is absolutely entitled to the lateral support of his/her soil in its natural state by the soil of adjoining lands.",
+      "bm25_score_raw": 1.4932195138832742,
+      "bm25_score_norm": 0.0357358837079398,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8833211064338684,
+      "embedding_score_norm": 0.24611067461085132,
+      "embedding_rank": 4,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 4
+    },
+    {
+      "title": "Neighbour Law: Do I owe my neighbour a duty of lateral ...",
+      "url": "https://www.wylie.co.za/Articles/Read/47/Neighbour-Law-Do-I-owe-my-neighbour-a-duty-of-lateral-support",
+      "snippet": "The SCA held that the right to lateral support is a natural right incidental to the ownership of property. The court therefore dismissed the",
+      "bm25_score_raw": 1.309028030143876,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.864863932132721,
+      "embedding_score_norm": 0.07877917061588326,
+      "embedding_rank": 5,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 5
+    },
+    {
+      "title": "Jessy Raju W/O. M.Y.Raju vs Zacharia on 16 June, 2011",
+      "url": "https://indiankanoon.org/doc/170562019",
+      "snippet": "Every owner of land has a natural right that in its natural condition such land have the support naturally rendered by its subjacent and adjacent soil. In the",
+      "bm25_score_raw": 1.4477330313051782,
+      "bm25_score_norm": 0.026910830460668635,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8561743497848511,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 6
+    }
+  ]
+}

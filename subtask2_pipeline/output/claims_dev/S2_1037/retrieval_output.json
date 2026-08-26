@@ -1,0 +1,108 @@
+{
+  "claim": {
+    "id": "S2/1037",
+    "text": "DMK urges Centre not to pursue an international probe into war crimes in Sri Lanka.",
+    "lang": "dev"
+  },
+  "generated_queries": {
+    "english_translation": "DMK urges Centre not to pursue an international probe into war crimes in Sri Lanka.",
+    "native_query": "DMK Centre Sri Lanka urges pursue international probe war",
+    "english_query": "DMK Centre Sri Lanka urges pursue international probe war"
+  },
+  "native_retrieval": [
+    {
+      "title": "Take steps for credible probe in warcrimes in SL: DMK to Centre",
+      "url": "https://www.indiatvnews.com/amp/politics/national/take-steps-for-credible-probe-in-warcrimes-in-sl-dmk-to-centre-13910.html",
+      "snippet": "DMK today asked the Centre to take steps for a credible and independent international probe into alleged human rights violations and war-crimes"
+    },
+    {
+      "title": "UNHRC: Move UN for probe into war crimes in Sri Lanka: DMK to Centre",
+      "url": "https://timesofindia.indiatimes.com/india/move-un-for-probe-into-war-crimes-in-sri-lanka-dmk-to-centre/articleshow/27441396.cms",
+      "snippet": "The DMK general council on Sunday adopted a resolution urging the Centre to move a resolution in the United Nations (UN) for a credible and"
+    },
+    {
+      "title": "AIADMK wants international probe against DMK,Cong for 'war crimes ...",
+      "url": "https://www.lankaweb.com/news/items/2018/09/26/aiadmk-wants-international-probe-against-dmkcong-for-war-crimes-against-sri-lankan-tamils",
+      "snippet": "Chief Minister K Palaniswami Tuesday demanded an international probe against DMK and ally Congress for “war crimes” against Tamils in the 2009"
+    },
+    {
+      "title": "Sri Lanka urged to probe alleged war crimes",
+      "url": "https://www.abc.net.au/news/2012-03-22/sri-lanka-pressured-to-investigate-alleged-war-crimes/3906948",
+      "snippet": "The international community is debating a UN resolution calling on Sri Lanka to investigate alleged war crimes in the final months of the civil war."
+    },
+    {
+      "title": "Sri Lankan PM Amarasuriya rules out international probe into war crimes",
+      "url": "https://www.tamilguardian.com/index.php/content/sri-lankan-government-reiterates-opposition-international-war-crimes-investigation",
+      "snippet": "The National People's Power (NPP) government has reiterated its opposition to an international investigation into war crimes in Sri Lanka,"
+    },
+    {
+      "title": "DMK threatens to withdraw from government over US resolution on ...",
+      "url": "https://www.ndtv.com/india-news/dmk-threatens-to-withdraw-from-government-over-us-resolution-on-lankan-war-crimes-472291",
+      "snippet": "... DMK President M Karunanidhi had asked the Centre to support the US resolution on war crimes charges against Sri Lanka."
+    }
+  ],
+  "english_retrieval": [
+    {
+      "title": "Take steps for credible probe in warcrimes in SL: DMK to Centre",
+      "url": "https://www.indiatvnews.com/amp/politics/national/take-steps-for-credible-probe-in-warcrimes-in-sl-dmk-to-centre-13910.html",
+      "snippet": "DMK today asked the Centre to take steps for a credible and independent international probe into alleged human rights violations and war-crimes"
+    },
+    {
+      "title": "UNHRC: Move UN for probe into war crimes in Sri Lanka: DMK to Centre",
+      "url": "https://timesofindia.indiatimes.com/india/move-un-for-probe-into-war-crimes-in-sri-lanka-dmk-to-centre/articleshow/27441396.cms",
+      "snippet": "The DMK general council on Sunday adopted a resolution urging the Centre to move a resolution in the United Nations (UN) for a credible and"
+    },
+    {
+      "title": "AIADMK wants international probe against DMK,Cong for 'war crimes ...",
+      "url": "https://www.lankaweb.com/news/items/2018/09/26/aiadmk-wants-international-probe-against-dmkcong-for-war-crimes-against-sri-lankan-tamils",
+      "snippet": "Chief Minister K Palaniswami Tuesday demanded an international probe against DMK and ally Congress for “war crimes” against Tamils in the 2009"
+    },
+    {
+      "title": "Sri Lanka urged to probe alleged war crimes",
+      "url": "https://www.abc.net.au/news/2012-03-22/sri-lanka-pressured-to-investigate-alleged-war-crimes/3906948",
+      "snippet": "The international community is debating a UN resolution calling on Sri Lanka to investigate alleged war crimes in the final months of the civil war."
+    },
+    {
+      "title": "Sri Lankan PM Amarasuriya rules out international probe into war crimes",
+      "url": "https://www.tamilguardian.com/index.php/content/sri-lankan-government-reiterates-opposition-international-war-crimes-investigation",
+      "snippet": "The National People's Power (NPP) government has reiterated its opposition to an international investigation into war crimes in Sri Lanka,"
+    },
+    {
+      "title": "DMK threatens to withdraw from government over US resolution on ...",
+      "url": "https://www.ndtv.com/india-news/dmk-threatens-to-withdraw-from-government-over-us-resolution-on-lankan-war-crimes-472291",
+      "snippet": "... DMK President M Karunanidhi had asked the Centre to support the US resolution on war crimes charges against Sri Lanka."
+    }
+  ],
+  "merged_results": [
+    {
+      "title": "Take steps for credible probe in warcrimes in SL: DMK to Centre",
+      "url": "https://www.indiatvnews.com/amp/politics/national/take-steps-for-credible-probe-in-warcrimes-in-sl-dmk-to-centre-13910.html",
+      "snippet": "DMK today asked the Centre to take steps for a credible and independent international probe into alleged human rights violations and war-crimes"
+    },
+    {
+      "title": "UNHRC: Move UN for probe into war crimes in Sri Lanka: DMK to Centre",
+      "url": "https://timesofindia.indiatimes.com/india/move-un-for-probe-into-war-crimes-in-sri-lanka-dmk-to-centre/articleshow/27441396.cms",
+      "snippet": "The DMK general council on Sunday adopted a resolution urging the Centre to move a resolution in the United Nations (UN) for a credible and"
+    },
+    {
+      "title": "AIADMK wants international probe against DMK,Cong for 'war crimes ...",
+      "url": "https://www.lankaweb.com/news/items/2018/09/26/aiadmk-wants-international-probe-against-dmkcong-for-war-crimes-against-sri-lankan-tamils",
+      "snippet": "Chief Minister K Palaniswami Tuesday demanded an international probe against DMK and ally Congress for “war crimes” against Tamils in the 2009"
+    },
+    {
+      "title": "Sri Lanka urged to probe alleged war crimes",
+      "url": "https://www.abc.net.au/news/2012-03-22/sri-lanka-pressured-to-investigate-alleged-war-crimes/3906948",
+      "snippet": "The international community is debating a UN resolution calling on Sri Lanka to investigate alleged war crimes in the final months of the civil war."
+    },
+    {
+      "title": "Sri Lankan PM Amarasuriya rules out international probe into war crimes",
+      "url": "https://www.tamilguardian.com/index.php/content/sri-lankan-government-reiterates-opposition-international-war-crimes-investigation",
+      "snippet": "The National People's Power (NPP) government has reiterated its opposition to an international investigation into war crimes in Sri Lanka,"
+    },
+    {
+      "title": "DMK threatens to withdraw from government over US resolution on ...",
+      "url": "https://www.ndtv.com/india-news/dmk-threatens-to-withdraw-from-government-over-us-resolution-on-lankan-war-crimes-472291",
+      "snippet": "... DMK President M Karunanidhi had asked the Centre to support the US resolution on war crimes charges against Sri Lanka."
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1167",
+    "text": "Unprecedented: PM says his heart bleeds, as three of his ministers jump into well to protest Telangana",
+    "lang": "english"
+  },
+  "entity_ranked_evidence": [
+    {
+      "title": "PM says his heart bleeds, as four of his ministers jump into well to protest ...",
+      "url": "https://www.indiatvnews.com/amp/politics/national/unprecedented-pm-heart-bleeds-ministers-jump-into-well-telangana-14837.html",
+      "snippet": "Four Congress ministers, including Chiranjeevi, today jumped into the well to protest the creation of new Telangana state.",
+      "bm25_score_raw": 5.456851664438604,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9334073066711426,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 1
+    },
+    {
+      "title": "Telangana aftermath: Protests rock Andhra Pradesh, 6 ministers quit",
+      "url": "https://www.ndtv.com/cheat-sheet/telangana-aftermath-protests-rock-andhra-pradesh-6-ministers-quit-530080",
+      "snippet": "At least six state ministers and as many Congress MLAs resigned in protest against the decision. reportedly demolished.",
+      "bm25_score_raw": 0.570993710388121,
+      "bm25_score_norm": 0.10463793877872696,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8605372905731201,
+      "embedding_score_norm": 0.43737422035604184,
+      "embedding_rank": 2,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 2
+    },
+    {
+      "title": "Congress in crisis mode: 11 of 15 ministers resign over Telangana",
+      "url": "https://www.ndtv.com/india-news/congress-in-crisis-mode-11-of-15-ministers-resign-over-telangana-460337",
+      "snippet": "15 ministers resign over Telangana … including 11 ministers, and 34 TDP MLAs from the region today resigned from Parliament and Andhra Pradesh",
+      "bm25_score_raw": 0.7460640575031688,
+      "bm25_score_norm": 0.13672060436700972,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8463281393051147,
+      "embedding_score_norm": 0.3276660682474078,
+      "embedding_rank": 3,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 3
+    },
+    {
+      "title": "Mid 2011 Telangana protests",
+      "url": "https://en.wikipedia.org/wiki/Mid_2011_Telangana_protests",
+      "snippet": "The Mid 2011 Telangana protests refers to a chain of protests and mass resignations following the Million March incident in the Indian state of Andhra Pradesh.",
+      "bm25_score_raw": 0.7776806626475056,
+      "bm25_score_norm": 0.1425145322742638,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8121997117996216,
+      "embedding_score_norm": 0.06416217238616496,
+      "embedding_rank": 5,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 4
+    },
+    {
+      "title": "Telangana Christian JAC protests against MLA Elvis, demands apology",
+      "url": "https://timesofindia.indiatimes.com/city/hyderabad/t-christian-jac-protests-against-mla-elvis-demands-apology/amp_articleshow/71249725.cms",
+      "snippet": "Nearly 200 members of Telangana Christian JAC organized a protest near St Mary's Church, Secunderabad on Sunday, against the speech Elvis",
+      "bm25_score_raw": 0.7776806626475056,
+      "bm25_score_norm": 0.1425145322742638,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8305108547210693,
+      "embedding_score_norm": 0.20554159857557502,
+      "embedding_rank": 4,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 5
+    },
+    {
+      "title": "డిప్యూటీ సీఎం సీపీఆర్‌వో గుండెపోటుతో మృతి | deputy-chief-minister-pro- ...",
+      "url": "https://www.eenadu.net/telugu-news/telangana/deputy-chief-minister-pro-dies-of-heart-attack/1801/126073722",
+      "snippet": "ఉప ముఖ్యమంత్రి భట్టి విక్రమార్క చీఫ్‌ పబ్లిక్ రిలేషన్ ఆఫీసర్ మారబోయిన మధుసూదన్ గుండెపోటుతో మృతి చెందారు. TG News: డిప్యూటీ సీఎం సీపీఆర్‌వో గుండెపోటుతో మృతి",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8038895726203918,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 6
+    }
+  ]
+}

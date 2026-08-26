@@ -1,0 +1,99 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1133",
+    "text": "AAP asks LG to invite BJP to form govt in Delhi",
+    "lang": "english"
+  },
+  "entity_ranked_evidence": [
+    {
+      "title": "AAP asks LG to invite BJP to form govt in Delhi | National",
+      "url": "https://www.indiatvnews.com/politics/national/aap-asks-lg-to-invite-bjp-to-form-govt-in-delhi-16762.html",
+      "snippet": "Apr 19, 2014 — New Delhi: The Aam Aadmi Party Friday asked Lt Governor Najeeb Jung to invite the BJP to form the government in Delhi if it.",
+      "bm25_score_raw": 3.800470936159841,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9343210458755493,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1,
+      "entity_overlap_raw": 4,
+      "entity_overlap_qid": 1,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 1
+    },
+    {
+      "title": "AAP slams Delhi LG for seeking to invite BJP to form govt - Mint",
+      "url": "https://www.livemint.com/Politics/xj8RSPjYYRSywhR8xvrTFJ/AAP-slams-Delhi-LG-for-seeking-to-invite-BJP-to-form-govt.html",
+      "snippet": "Sep 14, 2014 — The party questioned why the lieutenant governor did not ask the BJP for letters from MLAs supporting it.",
+      "bm25_score_raw": 3.6233815328702152,
+      "bm25_score_norm": 0.9388141080477901,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.9104107022285461,
+      "embedding_score_norm": 0.725497803771669,
+      "embedding_rank": 2,
+      "entity_overlap_raw": 4,
+      "entity_overlap_qid": 1,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 2
+    },
+    {
+      "title": "After BJP declines to form govt, Delhi LG invites AAP for ...",
+      "url": "https://timesofindia.indiatimes.com/assembly-elections-2013/delhi-assembly-elections/after-bjp-declines-to-form-govt-delhi-lg-invites-aap-for-discussions/articleshow/27249226.cms",
+      "snippet": "Dec 13, 2013 — Specials News: AAP leader Manish Sisodia said Kejriwal received a call from the LG office for discussion on government formation.",
+      "bm25_score_raw": 2.6147388370568265,
+      "bm25_score_norm": 0.5903194953944821,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.9020512700080872,
+      "embedding_score_norm": 0.6295275183748936,
+      "embedding_rank": 3,
+      "entity_overlap_raw": 4,
+      "entity_overlap_qid": 1,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 3
+    },
+    {
+      "title": "BJP trying to buy AAP MLAs, topple Delhi govt., says Kejriwal",
+      "url": "https://www.thehindu.com/news/cities/Delhi/bjp-trying-to-buy-aap-mlas-topple-delhi-govt-says-kejriwal/article67783663.ece",
+      "snippet": "Jan 28, 2024 — Aam Aadmi Party (AAP) national convener and Delhi Chief Minister Arvind Kejriwal on Saturday alleged that the Bharatiya Janata Party (BJP)",
+      "bm25_score_raw": 1.5311475379743222,
+      "bm25_score_norm": 0.2159295041560807,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8577326536178589,
+      "embedding_score_norm": 0.12072857710817733,
+      "embedding_rank": 5,
+      "entity_overlap_raw": 3,
+      "entity_overlap_qid": 1,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 4
+    },
+    {
+      "title": "After BJP declines to form govt, Delhi LG invites AAP for ...",
+      "url": "https://tennews.in/after-bjp-declines-to-form-govt-delhi-lg-invites-aap-for-discussions",
+      "snippet": "Dec 12, 2013 — Meanwhile, lieuenant governor Najeeb Jung has invited Aam Aadmi Party chief Arvind Kejriwal, whose party with 28 MLAs is the second largest, for ...Read more",
+      "bm25_score_raw": 2.1089262312464725,
+      "bm25_score_norm": 0.41555694680447836,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8757173418998718,
+      "embedding_score_norm": 0.3272014118268555,
+      "embedding_rank": 4,
+      "entity_overlap_raw": 2,
+      "entity_overlap_qid": 1,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 5
+    },
+    {
+      "title": "BJP shares invite for oath taking ceremony on Feb 20, ...",
+      "url": "https://www.businesstoday.in/india/story/bjp-shares-invite-for-oath-taking-ceremony-on-feb-20-suspense-lingers-over-delhi-cm-arvind-kejriwal-atishi-among-invitees-465159-2025-02-19",
+      "snippet": "Feb 19, 2025 — This development follows the BJP's decisive victory in the recent Delhi Assembly elections, ending the Aam Aadmi Party's (AAP) decade-long",
+      "bm25_score_raw": 0.9061860342098245,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8472166657447815,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6,
+      "entity_overlap_raw": 2,
+      "entity_overlap_qid": 1,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 6
+    }
+  ]
+}

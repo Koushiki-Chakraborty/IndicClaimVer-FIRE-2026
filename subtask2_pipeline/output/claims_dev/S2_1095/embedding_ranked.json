@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/1095",
+    "text": "कर्नाटक के CM कुमारस्वामी ने विधानसभा में विश्वास मत हासिल किया, BJP का वॉकआउट",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "As BJP MLAs walked out of the House, the confidence motion ...",
+      "url": "https://www.facebook.com/thehindu/posts/as-bjp-mlas-walked-out-of-the-house-the-confidence-motion-was-put-to-vote-and-it/1825907770836551",
+      "snippet": "Kumaraswamy is now the Chief Minister of Karnataka. #KarnatakaFloorTest. Live: Karnataka Assembly floor test | Kumaraswamy wins trust vote; BJP walks out.",
+      "bm25_score_raw": 3.116229327207912,
+      "bm25_score_norm": 0.722125847663336,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.9127271771430969,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "HD Kumaraswamy Wins Trust Vote After BJP Walks Out Of ...",
+      "url": "https://www.ndtv.com/india-news/hd-kumaraswamy-wins-trust-vote-moments-after-bjp-walks-out-of-karnataka-assembly-1857545",
+      "snippet": "The Janata Dal Secular (JDS)-Congress combine won a trust vote in the Karnataka assembly moments after the opposition BJP staged a dramatic walkout,",
+      "bm25_score_raw": 4.315354916724622,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.912696361541748,
+      "embedding_score_norm": 0.999746365720027,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Karnataka: HD Kumaraswamy wins trust vote as BJP walks ...",
+      "url": "https://indianexpress.com/article/india/karnataka-hd-kumaraswamy-wins-trust-vote-as-bjp-walks-out-congress-jds-alliance-5191593",
+      "snippet": "Seeking the trust vote in the Assembly, Kumaraswamy said he was now a much more mature politician than what he was 10 years ago when he was",
+      "bm25_score_raw": 3.0658857283293024,
+      "bm25_score_norm": 0.7104596927699116,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.9093602299690247,
+      "embedding_score_norm": 0.9722876340287917,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Karnataka Assembly floor test | Kumaraswamy wins trust vote with 116 votes; BJP walks out - The Hindu",
+      "url": "https://www.thehindu.com/elections/karnataka-2018/karnataka-assembly-floor-test-live-updates/article23985735.ece",
+      "snippet": "You don’t have any Active Subscription. Karnataka Chief Minister H.D. Kumaraswamy in the Assembly after the trust vote on Friday, May 25, 2018. Karnataka Chief Minister H.D. Kumaraswamy has won the trust vote in the Assembly on Friday with 116 votes. Earlier, K.R. Ramesh Kumar was unanimously elected the Speaker at the Vidhana Soudha in Bengaluru. Mr. Kumaraswamy was sworn in as the State's 30th Chief Minister on Wednesday, as the head of coalition government of the Congress and JD (S). As BJP MLAs walk out of the House, the confidence motion was put to vote, and it passes the House. Replying to the speech of the leader of the Opposition in the House, B.S. Yeddyurappa, Mr. Kumaraswamy says, “I have listened to Mr. Yeddyurappa's speech carefully. Listening to him, I feel the people will not give the BJP power and his speech was perhaps a rehearsal for some drama company.”. \"And it is the same people who now slander my family's name and tell the Congress not to support us?",
+      "bm25_score_raw": 2.9553610673609243,
+      "bm25_score_norm": 0.6848477412384101,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.903529167175293,
+      "embedding_score_norm": 0.9242938468421796,
+      "embedding_rank": 4
+    },
+    {
+      "title": "HD Kumaraswamy Wins Floor Test As BJP Walks Out Of ...",
+      "url": "https://www.youtube.com/watch?v=p79uYeFa2jw",
+      "snippet": "Karnataka Chief Minister HD Kumaraswamy won the floor test moments after the BJP staged a walk out of the assembly.",
+      "bm25_score_raw": 1.9539241942392018,
+      "bm25_score_norm": 0.452784123657259,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.9011726379394531,
+      "embedding_score_norm": 0.9048979379582097,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Karnataka Floor Test: CM Kumaraswamy sails through as BJP walks out",
+      "url": "https://www.indiatoday.in/india/story/karnataka-kumaraswamy-floor-test-live-updates-1241166-2018-05-25",
+      "snippet": "# Karnataka Floor Test: CM Kumaraswamy sails through as BJP walks out. A 'confident' Karnatka Chief Minister HD Kumaraswamy will today attempt to prove that he enjoys majority support in the state assembly. The crucial floor test comes around five days after the BJP's attempt to form a government in the southern state failed because of insufficient numbers in the assembly. The Congress-JDS combine that has now formed the government is confident of winning today's floor test. Karnataka CM HD Kumaraswamy has won the floor test after 117 MLAs voted in his favour. Before walking out of the assembly, leader of opposition Yeddyurappa 'warned' the Kumaraswamy government that there will be a \"state-wide protest\" on Monday in Karnataka if \"farm loan wavier isn't done\" soon. Bharatiya Janata Party MLAs have walked out of the Karnataka assembly ahead of the floor taste that chief minister Kumaraswamy must face. BJP MLAs seen walking out of the Karnataka assembly ahead of the trust vote (Twitter/ANI). the BJP is walking out of the assembly.",
+      "bm25_score_raw": 2.2927220288092576,
+      "bm25_score_norm": 0.5312939660938587,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.9004268646240234,
+      "embedding_score_norm": 0.8987596940297335,
+      "embedding_rank": 6
+    },
+    {
+      "title": "कर्नाटक का नाटक: कुमारस्वामी की गिरी सरकार, विश्वासमत में नहीं जुटा पाए जरूरी ...",
+      "url": "https://www.livehindustan.com/national/story-karnataka-floor-test-live-updates-trust-votes-in-vidhan-soudha-2647044.amp.html",
+      "snippet": "कर्नाटक की 14 महीने पुरानी एचडी कुमारस्वामी के नेृतत्व वाली कांग्रेस-जेडीएस सरकार मंगलवार को विश्वासमत के बाद गिर गई। वोटिंग में कुमारस्वामी सरकार के पक्ष में 99 जबकि विरोध में 105 वोट पड़े।...,",
+      "bm25_score_raw": 0.48492664075490016,
+      "bm25_score_norm": 0.11237236568318283,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.8320361375808716,
+      "embedding_score_norm": 0.3358554490651345,
+      "embedding_rank": 7
+    },
+    {
+      "title": "कुमारस्वामी \\'ट्रस्ट वोट\\' के लिए तैयार, BJP विधायकों को 3 होटलों में करेगी शिफ्ट",
+      "url": "https://www.abplive.com/news/india/karnataka-political-crisis-cm-hd-kumaraswamy-says-ready-for-trust-vote-bjp-has-decided-to-shift-their-mlas-in-resorts-1164749/amp",
+      "snippet": "Karnataka Political Crisis: कर्नाटक के मुख्यमत्री एचडी कुमारस्वामी के 'ट्रस्ट वोट' वाले बयान के बाद बीजेपी ने अपने विधायकों को तीन अलग-अलग होटलों में शिफ्ट करने का फैसला किया है.",
+      "bm25_score_raw": 1.4151581465755294,
+      "bm25_score_norm": 0.327935517213412,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8194472193717957,
+      "embedding_score_norm": 0.23223971333929888,
+      "embedding_rank": 8
+    },
+    {
+      "title": "कर्नाटक में एमएलसी चुनाव में जद(एस) विधायकों की क्रॉस-वोटिंग पर कुमारस्वामी",
+      "url": "https://hindi.theprint.in/india/kumaraswamy-on-jds-mlas-cross-voting-in-karnataka-mlc-elections-no-surprise/988231?amp=",
+      "snippet": "मैसुरु (कर्नाटक), 19 जून (भाषा) जनता दल (सेक्युलर) के नेता और केंद्रीय मंत्री एच. डी. कुमारस्वामी ने शुक्रवार को कहा कि कर्नाटक विधान परिषद चुनाव में पार्टी उम्मीदवार की हार का कारण बनी 'क्रॉस-वोटिंग' से",
+      "bm25_score_raw": 0.4875963699286541,
+      "bm25_score_norm": 0.11299102376004393,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.8145451545715332,
+      "embedding_score_norm": 0.19189223928162139,
+      "embedding_rank": 9
+    },
+    {
+      "title": "कुमारस्वामी: बीजेपी से दुश्मनी से कांग्रेस की दोस्ती तक",
+      "url": "https://www.bbc.com/hindi/india-44169240.amp",
+      "snippet": "येदियुरप्पा के इस्तीफ़े के बाद जेडीएस नेता कुमारस्वामी होंगे राज्य के नए मुख्यमंत्री, जानिए कुमारस्वामी के राजनीतिक करियर के बारे में.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.8056004047393799,
+      "embedding_score_norm": 0.11827059686965259,
+      "embedding_rank": 10
+    },
+    {
+      "title": "'भाजपा जॉइन करेंगे कांग्रेस के बड़े मंत्री, 50-60 MLA साथ', कर्नाटक को लेकर ...",
+      "url": "https://www.aajtak.in/amp/india/politics/story/hd-kumaraswamy-claims-a-karnataka-congress-minister-may-join-bjp-with-50-to-60-mlas-ntc-1835907-2023-12-11",
+      "snippet": "पत्रकारों ने एचडी कुमारस्वामी से उस कांग्रेस मंत्री का नाम पूछा जिसके बगावत करने की संभावना उन्होंने जताई. इसके जवाब में जेडीएस नेता ने मंत्री की पहचान उजागर किए बिना इस बात पर जोर दिया कि ऐसा साहसिक",
+      "bm25_score_raw": 0.3392628924200329,
+      "bm25_score_norm": 0.07861761059448044,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.7941391468048096,
+      "embedding_score_norm": 0.023936305907471075,
+      "embedding_rank": 11
+    },
+    {
+      "title": "कर्नाटक के पूर्व सीएम कुमारस्वामी का बयान, कांग्रेस ने बर्बाद किया !",
+      "url": "https://www.youtube.com/watch?v=Tp-8wDlDEu8",
+      "snippet": "जनता दल सेक्यूलर नेता और कर्नाटक के पूर्व सीएम एचडी कुमारस्वामी का गुस्सा कांग्रेस पर फूटा है। कुमारस्वामी ने कहा की अगर मैं अब भी मुख्यमंत्री होता तो बीजेपी के साथ अच्छे संबध रखता।",
+      "bm25_score_raw": 0.4875963699286541,
+      "bm25_score_norm": 0.11299102376004393,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.7912309765815735,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

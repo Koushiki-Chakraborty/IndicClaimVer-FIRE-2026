@@ -1,0 +1,128 @@
+{
+  "claim": {
+    "id": "S2/T/CM/1005",
+    "text": "hum sab bhai hai mere yaar apne aadarshon se na bhatko jo apne maa baap ne ksikhaya hai logo ke sath acche karm karo accha bolo duniya me koi b aisa mazhab nahin hai jo galat kaam sikhata ho aaj kal ke bure politician ki baton me mat aao ye sab sirf mahol me zeher ghol rahe hai",
+    "lang": "codemix"
+  },
+  "generated_queries": {
+    "english_translation": "We are all brothers, my dear, do not follow your darshan which your mother and father have taught you, do good deeds with the people, there is no such religion in the world which teaches wrong deeds, do not follow the baton of today's bad politicians, all of them are just spreading poison in the world.",
+    "native_query": "hum sab bhai hai mere yaar apne aadarshon",
+    "english_query": "brothers follow darshan mother father taught deeds people"
+  },
+  "native_retrieval": [
+    {
+      "title": "Hum Sab Bhai Hain - Song",
+      "url": "https://www.jiosaavn.com/song/hum-sab-bhai-hain/Bxs6djFEUms",
+      "snippet": "Hum Sab Bhai Hain is a Hindi language song and is sung by Pastyx. Hum Sab Bhai Hain, from the album Hum Sab Bhai Hain, was released in the year 2025. The ...Read more"
+    },
+    {
+      "title": "Aadarsh Bhai????🥹 . . . #menofculture #moc #popculture # ...",
+      "url": "https://www.instagram.com/p/DIyLywySQ-W",
+      "snippet": "Adarsh hai kya? Aap YouTuber ho? Dikhata hoon... Adarsh Singh Instagram photos and videos... Oh my god bhai, haan yaar same hai. Arey yaar ...Read more"
+    },
+    {
+      "title": "Aryan Rao: Mera Bhai Mera Yaar (official video)",
+      "url": "https://www.youtube.com/watch?v=dHQ8mW5xhe0",
+      "snippet": "“ Mera Bhai Mera Yaar ” Song by Aryan Rao … exclusively on Sonotek. A song made with very much love and Smartwork by Aryan Rao and Team :)"
+    },
+    {
+      "title": "Miss you adarsh bhai☹️….",
+      "url": "https://www.instagram.com/reel/Da7WSsVTck4",
+      "snippet": "मेरा बचपन का दोस्त, मयंक भाई। ❤️ दोस्ती वही जो हर वक्त साथ निभाए। ✨#trendingreels #viral · View all 3 comments.Read more"
+    },
+    {
+      "title": "In frame : @adarsh.foryou @atul.singh ...",
+      "url": "https://www.instagram.com/reel/Da5qKvEtrgx",
+      "snippet": "Haan bhai. Are aa jaiyo ek urgent kaam hai tere se fatafat aa jaiyo. Bhai yaar raat ke do baje kya urgent kaam pad gaya tumhe? Are aaja aaja ...Read more"
+    },
+    {
+      "title": "Some Trends in one content😂😜 Apna Trend hai ye😂 # ...",
+      "url": "https://www.instagram.com/reel/DSk2qmrE4xM",
+      "snippet": "Bhai yaar Aryan apne video nahi chal rahe yaar, apne video viral nahi ho rahe kya karein hum? ... Bhaiya hum log video banate hain na, toh sab ...Read more"
+    }
+  ],
+  "english_retrieval": [
+    {
+      "title": "Reveal the Mother and Father | SHIVA DARSHAN",
+      "url": "https://shivadarshan.com/2022/11/12/reveal-the-mother-and-father",
+      "snippet": "The Father is here teaching Raja Yoga to souls to change them from degraded humans into elevated deities. The knowledge Baba is giving is for"
+    },
+    {
+      "title": "After losing their father, brothers Smiran and Darshan Purewal faced ...",
+      "url": "https://www.instagram.com/p/DSlritpjGzg",
+      "snippet": "After losing their father, brothers Smiran and Darshan Purewal faced a grief that no child should have to navigate alone."
+    },
+    {
+      "title": "Sai Baba teaches importance of respecting parents",
+      "url": "https://www.facebook.com/groups/223054021158990/posts/3551480284982997",
+      "snippet": "The most important people for you are your father and mother; they are the people who have given you this body. Yes, they are the people who"
+    },
+    {
+      "title": "Father or Mother? | Sadhguru Explains Who Shaped His Life ...",
+      "url": "https://www.youtube.com/watch?v=kdqz9udNTXY",
+      "snippet": "Sadhguru dives deep into his personal life, sharing heartfelt stories about the impact both his mother and father had on shaping his journey."
+    },
+    {
+      "title": "What things or principles did your parents teach you to become the ...",
+      "url": "https://www.quora.com/What-things-or-principles-did-your-parents-teach-you-to-become-the-individual-you-are-today",
+      "snippet": "What things or principles did your parents teach you to become the individual you are today?"
+    }
+  ],
+  "merged_results": [
+    {
+      "title": "Hum Sab Bhai Hain - Song",
+      "url": "https://www.jiosaavn.com/song/hum-sab-bhai-hain/Bxs6djFEUms",
+      "snippet": "Hum Sab Bhai Hain is a Hindi language song and is sung by Pastyx. Hum Sab Bhai Hain, from the album Hum Sab Bhai Hain, was released in the year 2025. The ...Read more"
+    },
+    {
+      "title": "Aadarsh Bhai????🥹 . . . #menofculture #moc #popculture # ...",
+      "url": "https://www.instagram.com/p/DIyLywySQ-W",
+      "snippet": "Adarsh hai kya? Aap YouTuber ho? Dikhata hoon... Adarsh Singh Instagram photos and videos... Oh my god bhai, haan yaar same hai. Arey yaar ...Read more"
+    },
+    {
+      "title": "Aryan Rao: Mera Bhai Mera Yaar (official video)",
+      "url": "https://www.youtube.com/watch?v=dHQ8mW5xhe0",
+      "snippet": "“ Mera Bhai Mera Yaar ” Song by Aryan Rao … exclusively on Sonotek. A song made with very much love and Smartwork by Aryan Rao and Team :)"
+    },
+    {
+      "title": "Miss you adarsh bhai☹️….",
+      "url": "https://www.instagram.com/reel/Da7WSsVTck4",
+      "snippet": "मेरा बचपन का दोस्त, मयंक भाई। ❤️ दोस्ती वही जो हर वक्त साथ निभाए। ✨#trendingreels #viral · View all 3 comments.Read more"
+    },
+    {
+      "title": "In frame : @adarsh.foryou @atul.singh ...",
+      "url": "https://www.instagram.com/reel/Da5qKvEtrgx",
+      "snippet": "Haan bhai. Are aa jaiyo ek urgent kaam hai tere se fatafat aa jaiyo. Bhai yaar raat ke do baje kya urgent kaam pad gaya tumhe? Are aaja aaja ...Read more"
+    },
+    {
+      "title": "Some Trends in one content😂😜 Apna Trend hai ye😂 # ...",
+      "url": "https://www.instagram.com/reel/DSk2qmrE4xM",
+      "snippet": "Bhai yaar Aryan apne video nahi chal rahe yaar, apne video viral nahi ho rahe kya karein hum? ... Bhaiya hum log video banate hain na, toh sab ...Read more"
+    },
+    {
+      "title": "Reveal the Mother and Father | SHIVA DARSHAN",
+      "url": "https://shivadarshan.com/2022/11/12/reveal-the-mother-and-father",
+      "snippet": "The Father is here teaching Raja Yoga to souls to change them from degraded humans into elevated deities. The knowledge Baba is giving is for"
+    },
+    {
+      "title": "After losing their father, brothers Smiran and Darshan Purewal faced ...",
+      "url": "https://www.instagram.com/p/DSlritpjGzg",
+      "snippet": "After losing their father, brothers Smiran and Darshan Purewal faced a grief that no child should have to navigate alone."
+    },
+    {
+      "title": "Sai Baba teaches importance of respecting parents",
+      "url": "https://www.facebook.com/groups/223054021158990/posts/3551480284982997",
+      "snippet": "The most important people for you are your father and mother; they are the people who have given you this body. Yes, they are the people who"
+    },
+    {
+      "title": "Father or Mother? | Sadhguru Explains Who Shaped His Life ...",
+      "url": "https://www.youtube.com/watch?v=kdqz9udNTXY",
+      "snippet": "Sadhguru dives deep into his personal life, sharing heartfelt stories about the impact both his mother and father had on shaping his journey."
+    },
+    {
+      "title": "What things or principles did your parents teach you to become the ...",
+      "url": "https://www.quora.com/What-things-or-principles-did-your-parents-teach-you-to-become-the-individual-you-are-today",
+      "snippet": "What things or principles did your parents teach you to become the individual you are today?"
+    }
+  ]
+}

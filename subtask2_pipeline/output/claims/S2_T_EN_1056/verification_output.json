@@ -1,0 +1,6 @@
+{
+  "ID": "S2/T/EN/1056",
+  "Evidence": "Delhi logs 648 fresh COVID cases according to Source 1, but reports 5 fatalities, which contradicts the claim of 3 deaths. Source 2 states that Delhi reports 699 fresh COVID cases and 4 deaths, which also does not support the claim. Source 3 does not provide relevant information about the current cases or deaths in Delhi. Therefore, the claim of 648 new cases and 3 deaths is not corroborated by the evidence.",
+  "Prediction": "REFUTES",
+  "Justification": "The retrieved evidence from Source 1 confirms that Delhi logged 648 new COVID cases but states there were 5 fatalities, contradicting the claim of 3 deaths. Source 2 also reports a different number of cases and deaths, further refuting the claim. Since the evidence does not support the claim's assertion regarding the number of deaths, it is deemed to be refuted."
+}

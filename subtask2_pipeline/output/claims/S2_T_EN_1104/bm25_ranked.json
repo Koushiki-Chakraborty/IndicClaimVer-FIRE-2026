@@ -1,0 +1,57 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1104",
+    "text": "Digvijay arrives in AP to select LS, Assembly poll candidates",
+    "lang": "english"
+  },
+  "ranked_evidence": [
+    {
+      "title": "Digvijay Singh",
+      "url": "https://www.indiatvnews.com/topic/digvijay-singh/news/11",
+      "snippet": "Digvijay Singh Latest News and Updates, Special Reports, Digvijay ... candidates: Azad from Udhampur, Laxman from ... arrives in ap to select ls assembly poll",
+      "bm25_score_raw": 6.553334530105974,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Digvijay arrives in AP to select LS, Assembly poll candidates",
+      "url": "https://www.indiatvnews.com/politics/national/digvijay-arrives-in-ap-to-select-ls-assembly-poll-candidates-15531.html",
+      "snippet": "After receiving Digvijay at the airport, the newly appointed PCC presidents of the two regions, Ponnala Lakshmaiah (Telangana) and N Raghuveera Reddy (AP),",
+      "bm25_score_raw": 6.056746408138188,
+      "bm25_score_norm": 0.9242235964475087,
+      "bm25_rank": 2
+    },
+    {
+      "title": "Digvijay arrives in Andhra Pradesh to select LS, Assembly ...",
+      "url": "https://indianexpress.com/article/political-pulse/digvijay-arrives-in-andhra-pradesh-to-select-ls-assembly-poll-candidates",
+      "snippet": "Singh to also hold a meeting with the party's election committee of Telangana this evening.",
+      "bm25_score_raw": 2.952815564948449,
+      "bm25_score_norm": 0.4505821504126235,
+      "bm25_rank": 3
+    },
+    {
+      "title": "Digvijay Singh arrives in AP to select LS, Assembly poll ...",
+      "url": "https://m.economictimes.com/news/politics-and-nation/digvijay-singh-arrives-in-ap-to-select-ls-assembly-poll-candidates/articleshow/31942893.cms",
+      "snippet": "The AICC general secretary will focus specially on party affairs in Telangana as the Congress pinned all its hopes on the region after",
+      "bm25_score_raw": 2.6804031950614053,
+      "bm25_score_norm": 0.40901363767524024,
+      "bm25_rank": 4
+    },
+    {
+      "title": "10th social em.pdf",
+      "url": "https://scert.telangana.gov.in/pdf/publication/ebooks2019/10th%20social%20em.pdf",
+      "snippet": "The eligible loan amount is arrived at by including all education related expenses such as Tuition fee, cost of books, boarding and lodging charges. The parents",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 5
+    },
+    {
+      "title": "| GovernanceNow.com",
+      "url": "http://www.governancenow.com/users/t",
+      "snippet": "* The health sector research we are not doing. * India is crossing a climate threshold. * The Geography of India’s inflation. * How to listen to the great storytellers that the trees are. * This tree in Bihar turns out to be the oldest accurately dated banyan. * Corporate Governance 3.0: What the boardroom of 2030 will look like. * India, Japan open \"a new chapter in special strategic and global partnership\". * The women India doesn`t count enough. * Why Swami Vivekananda is the pathfinder for our times. * Five ways to realise the potential of India’s handicraft and handloom sector. * Beyond toilets: Why open defecation persists in rural India. * What the US–Iran peace deal means for India. * What ails India`s skill development ecosystem. * EU–India FTA 2026: A high‑stakes prescription for Indian pharma and healthcare. * Labour law in India: A decade of transition. * How India uses AI in the field of culture and languages.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6
+    }
+  ]
+}

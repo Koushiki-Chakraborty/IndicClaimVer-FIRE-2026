@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/BN/1253",
+    "text": "১৪ তারিখ রাতের ঘটনায় কলতানকে ক্লিনচিট দিলেন দেবাংশু!",
+    "lang": "bengali"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Debangshu Bhattacharya: গতকালকের ঘটনায় একজনের সঙ্গেও কোনও ক্ষতিকর ...",
+      "url": "https://www.youtube.com/watch?v=19xswHE1nWA",
+      "snippet": "Debangshu Bhattacharya: গতকালকের ঘটনায় একজনের সঙ্গেও কোনও ক্ষতিকর পরিস্থিতি ঘটেনি: দেবাংশু. @abpanandatv20 likes4.3K views7 months ago",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.831946611404419,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Iran on Saturday (June 14) night launched a fresh attack ...",
+      "url": "https://www.instagram.com/p/DK6aZqSCWnj",
+      "snippet": "A series of shocking revelations in the Ketan Agarwal murder case has sent shockwaves across Maharashtra and the entire nation. Seeking justice,",
+      "bm25_score_raw": 2.4363587226334413,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8212040066719055,
+      "embedding_score_norm": 0.8076649720191064,
+      "embedding_rank": 2
+    },
+    {
+      "title": "দেবাংশু দলের কিছু নেতার বিরুদ্ধেই রেগে অ্যাটম ফাটালেন!Debangshu ...",
+      "url": "https://www.youtube.com/watch?v=c4wbbbBaAAI",
+      "snippet": "দেবাংশু দলের কিছু নেতার বিরুদ্ধেই রেগে অ্যাটম ফাটালেন!Debangshu Bhattacharya|TMC Party| PN.",
+      "bm25_score_raw": 1.7777622666549469,
+      "bm25_score_norm": 0.7296800139239665,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.818546712398529,
+      "embedding_score_norm": 0.7600889156389932,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Debangshu Bhattacharya | 'চোর-ডাকাতদের গ্রেফতার দেখে আনন্দ হচ্ছে ...",
+      "url": "https://www.youtube.com/watch?v=killQxEsOcQ",
+      "snippet": "Debangshu Bhattacharya | 'চোর-ডাকাতদের গ্রেফতার দেখে আনন্দ হচ্ছে!' বিস্ফোরক দেবাংশু ভট্টাচার্য. @KOLKATATV335 likes74K views1 month ago",
+      "bm25_score_raw": 1.3023834631199251,
+      "bm25_score_norm": 0.534561454773043,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8171665668487549,
+      "embedding_score_norm": 0.7353788625798768,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Khan Yunis incident: The vigilance that one the battle",
+      "url": "https://www.israelnationalnews.com/flashes/664710",
+      "snippet": "Lieutenant A. recounted the battle between IDF troops and Hamas terrorists who attempted to infiltrate an outpost and abduct soldiers.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.8114503026008606,
+      "embedding_score_norm": 0.6330351692726676,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Debangshu Bhattacharya: নন্দীগ্রামে দেবাংশুকে দেখে 'চোর' স্লোগান ...",
+      "url": "https://bengali.abplive.com/elections/debangshu-bhattacharya-tmc-tamluk-candidate-was-allegedly-pushed-and-chor-slogan-was-raised-in-nandigram-1062588/amp",
+      "snippet": "Debangshu Bhattacharya in Nandigram: দুই পক্ষের কর্মী-সমর্থকদের মধ্যে বচসা বেধে যায়। দেবাংশুকে ধাক্কাও দেওয়া হয় বলে অভিযোগ। · এই সংক্রান্ত খবর >>.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8067268133163452,
+      "embedding_score_norm": 0.5484660664967751,
+      "embedding_rank": 6
+    },
+    {
+      "title": "Debangshu Bhattacharya: 'আনন্দ পাচ্ছি', তৃণমূল নেতাদের গ্রেফতারিতে ...",
+      "url": "https://tv9bangla.com/kolkata/i-am-enjoying-it-debangshu-bhattacharyas-explosive-remark-on-arrest-of-tmc-leaders-1319243.html/amp",
+      "snippet": "ছাব্বিশের নির্বাচনে দেবাংশু চুঁচুড়া বিধানসভা আসনে প্রার্থী হয়েছিলেন। হেরে যান। তবে তৃণমূলের ভরাডুবির পর অনেকের মতো 'বিক্ষুব্ধ' হয়ে ওঠেননি তিনি। কিন্তু, একাধিক তৃণমূল নেতার গ্রেফতারিতে 'আনন্দ' পাওয়ার কথা জানিয়ে সোশ্যাল",
+      "bm25_score_raw": 1.1354996096727796,
+      "bm25_score_norm": 0.4660642125989669,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.7969662547111511,
+      "embedding_score_norm": 0.37371354053281086,
+      "embedding_rank": 7
+    },
+    {
+      "title": "Instagram",
+      "url": "https://www.instagram.com/reel/Da9qDXpBecd",
+      "snippet": "Never miss a post from rilwan\\_squad. Sign up for Instagram to stay in the loop. By continuing, you agree to Instagram's Terms of Use and Privacy Policy. May be an image of text that says 'ಮುಸಗಾ IRAN SHOCKS EVERYONE BY UNLEASHING REGION WIDE MISSILE ASSAULT ON ALL US BASES'. After U.S. strikes on Iran’s essential infrastructure, Iran reportedly answered with a relentless missile barrage aimed at American military bases across the region. 📸 Instagram: https://www.instagram.com/rilwan\\_squad? May be a meme of text that says '梨 BREAKING NEWS. May be an image of standing and text that says 'SOSIIN IRAN IS ON THE RIGHT SIDE OF HISTORY. May be an image of text that says 'BREAKING NEWS IRAN HAS SEEMINGLY CRACKED THE CODE ON BEATING U.S. MISSILE DEFENSES. May be an image of standing, the Oval Office and text that says 'BREA BREAKING KING NEWS ..... May be an image of standing, military uniform, the Oval Office and text that says 'BREAKING NEWS 3로 PRESIDENT TRUMP TRUMP ORDERS MILITARY tO.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.7925068736076355,
+      "embedding_score_norm": 0.29387301668608895,
+      "embedding_rank": 8
+    },
+    {
+      "title": "তৃণমূল-বিজেপির হাড্ডাহাড্ডি লড়াই চুঁচুড়ায়! পাঁচ রাউন্ড দেবাংশুর ...",
+      "url": "https://www.facebook.com/News18Bangla/posts/debangshu-bhattacharya-%E0%A6%A4%E0%A7%83%E0%A6%A3%E0%A6%AE%E0%A7%82%E0%A6%B2-%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%87%E0%A6%AA%E0%A6%BF%E0%A6%B0-%E0%A6%B9%E0%A6%BE%E0%A6%A1%E0%A7%8D%E0%A6%A1%E0%A6%BE%E0%A6%B9%E0%A6%BE%E0%A6%A1%E0%A7%8D%E0%A6%A1%E0%A6%BF-%E0%A6%B2%E0%A7%9C%E0%A6%BE%E0%A6%87-%E0%A6%9A%E0%A7%81%E0%A6%81%E0%A6%9A%E0%A7%81%E0%A7%9C%E0%A6%BE%E0%A7%9F-%E0%A6%AA%E0%A6%BE%E0%A6%81%E0%A6%9A-%E0%A6%B0%E0%A6%BE%E0%A6%89%E0%A6%A8%E0%A7%8D%E0%A6%A1-%E0%A6%A6%E0%A7%87%E0%A6%AC/1121596716887244",
+      "snippet": "Debangshu Bhattacharya | তৃণমূল-বিজেপির হাড্ডাহাড্ডি লড়াই চুঁচুড়ায়! পাঁচ রাউন্ড দেবাংশুর থেকে পাঁচ হাজার ভোটে এগিয়ে সুবীর #TMC #BJP",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.7906525135040283,
+      "embedding_score_norm": 0.2606726512910483,
+      "embedding_rank": 9
+    },
+    {
+      "title": "High Alert In Washington After Attack At The Venue Of ...",
+      "url": "https://www.youtube.com/watch?v=at509XUjl4U",
+      "snippet": "High Alert In Washington After Attack At The Venue Of White House Corrrespondant's Dinner #publictv #washington Aachi Masala Watch Live",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.7869258522987366,
+      "embedding_score_norm": 0.19395070581857454,
+      "embedding_rank": 10
+    },
+    {
+      "title": "Instagram",
+      "url": "https://www.instagram.com/reel/DVUO5RSDYru?hl=en",
+      "snippet": "By continuing, you agree to Instagram's Terms of Use and Privacy Policy. Video by Israel Defense Forces on February 28, 2026. Und dann dem Regime Milliarden in den Rachen werfen und sie damit stärken und dem Volk jede Chance auf Freiheit nehmen.... Photo by Israel Defense Forces on July 20, 2026. Video by Israel Defense Forces on July 19, 2026. May be an image of helicopter, propeller, airplane and text that says 'COMBATING DRONE DRONETHREATS'. May be an image of military uniform, crossword puzzle and text that says 'CAN YOU FIND THE 7 UNITS? May be an image of poster and text that says 'FLIPTHE FLIP THE ៧ SWITCH'. May be a selfie of one or more people, poster, military uniform and text that says 'HAMAS: EXPOSED'. May be an image of poster, airplane and text that says '30 SECONDS WITH AN ANIDFPILOT IDF PILOT 476'. May be an image of ‎military uniform, poster and ‎text that says '‎HAMAS CEASEFIRE VIOLATIONS هه‎'‎‎.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.7789362072944641,
+      "embedding_score_norm": 0.05090452347108214,
+      "embedding_rank": 11
+    },
+    {
+      "title": "Watch how U.S. special forces pulled off a high‑stakes ...",
+      "url": "https://www.instagram.com/p/DWyDbShD8_U",
+      "snippet": "49 likes, 2 comments - timesnow on April 6, 2026: \"Watch how U.S. special forces pulled off a high‑stakes, daring rescue mission deep inside",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.7760930061340332,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

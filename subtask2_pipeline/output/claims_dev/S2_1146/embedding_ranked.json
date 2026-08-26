@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/1146",
+    "text": "COVID Booster Dose: किसे कब मिलेगी कौन सी ऐहतियाती खुराक और कैसे बुक होगा स्लॉट? जानें",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "covid-19 vaccine boosters",
+      "url": "https://dhss.alaska.gov/dph/epi/id/siteassets/pages/HumanCoV/flyer_boosterFAQ.pdf",
+      "snippet": "ANSWERS TO COMMON QUESTIONS ABOUT COVID-19 VACCINE BOOSTERS Who can get a COVID-19 vaccine booster? Everyone 5 or older should get a COVID-19 vaccine booster if it’s been six months since receiving the Pfizer-BioNTech or Moderna vaccines, or two months since receiving the Johnson & Johnson vaccine. All COVID-19 vaccinations, including booster shots, are free for everyone. Which booster should I get? People ages 5 to 17 can only receive the Pfizer vaccine for their booster. Are boosters made with the same formula as the vaccines? Yes. The booster doses have the same ingredients as the initial vaccine doses. However, in the case of the Moderna booster, it is half the dose of the vaccine people get for their primary series. What are the side effects from boosters? Can I get a flu shot at the same time I get a COVID-19 vaccine booster? How do I get a booster? COVID-19 vaccine boosters are available at most pharmacies and provider offices in Alaska.",
+      "bm25_score_raw": 1.1347262500714754,
+      "bm25_score_norm": 0.5237655548610718,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8565123081207275,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "COVID-19 Booster Shots: What you need to Know",
+      "url": "https://healthcareready.org/covid-19-boosters",
+      "snippet": "The second booster, only eligible to adults 50 and older, can be given four months after the first booster dose, but must be an mRNA vaccine. How many boosters ...Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8546919822692871,
+      "embedding_score_norm": 0.9711815018079974,
+      "embedding_rank": 2
+    },
+    {
+      "title": "COVID-19 Boosters: The Latest Advice | News | Yale Medicine",
+      "url": "https://www.yalemedicine.org/news/covid-19-booster",
+      "snippet": "Recently, the Food and Drug Administration (FDA) and the Centers for Disease Control and Prevention (CDC) authorized a second booster shot of the Pfizer-BioNTech and Moderna vaccines for everyone 50 and older and for people with certain conditions that make them immunocompromised. Additionally, the CDC says all adults who completed a primary vaccine and booster dose of Johnson & Johnson’s vaccine should now receive a second booster from either Pfizer of Moderna. In November 2021, the FDA and CDC said all adults 18 or older are eligible for a booster shot six months after completing their primary vaccination series if they started with Pfizer or Moderna—or two months after getting the Johnson & Johnson single-shot vaccine. > People get confused—or they think something is wrong—when guidance changes with COVID-19, but we have to remember that we are learning about this as we go. Furthermore, the FDA and CDC in late May authorized and recommended a booster dose of the Pfizer vaccine for children ages 5 to 11 at least five months after their second dose.",
+      "bm25_score_raw": 1.6036978337689536,
+      "bm25_score_norm": 0.740232884962859,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.851341187953949,
+      "embedding_score_norm": 0.918133384163603,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Why and When to Get a COVID-19 Booster",
+      "url": "https://www.premiermedicalhv.com/news/why-and-when-to-get-a-covid-19-booster",
+      "snippet": "Jan 14, 2026 — Booster shots are recommended for healthy individuals who finished their Pfizer-BioNTech or Moderna primary series 6 months earlier or who ...Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.847981870174408,
+      "embedding_score_norm": 0.8649503272513154,
+      "embedding_rank": 4
+    },
+    {
+      "title": "When should I get the 2024-2025 COVID-19 vaccine?",
+      "url": "https://oregonhealthnews.oregon.gov/when-should-i-get-the-2024-2025-covid-19-vaccine",
+      "snippet": "Oct 10, 2024 — In March, the Centers for Disease Control and Prevention (CDC) recommended a booster dose of the previous version (2023-2024) of the vaccine for ...Read more",
+      "bm25_score_raw": 1.8781197474849896,
+      "bm25_score_norm": 0.8669002163077213,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8459005355834961,
+      "embedding_score_norm": 0.8319996678418021,
+      "embedding_rank": 5
+    },
+    {
+      "title": "FDA Authorizes Booster Dose of Pfizer-BioNTech COVID-19 Vaccine for Certain Populations | FDA",
+      "url": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-booster-dose-pfizer-biontech-covid-19-vaccine-certain-populations",
+      "snippet": "Today, the U.S. Food and Drug Administration amended the emergency use authorization (EUA) for the Pfizer-BioNTech COVID-19 Vaccine to allow for use of a single booster dose, to be administered at least six months after completion of the primary series in:. On Aug. 25, 2021, the FDA received a supplement from Pfizer Inc. to their biologics license application for Comirnaty seeking approval of a single booster dose to be administered approximately six months after completion of the primary vaccination series for individuals 16 years of age and older. The FDA considered the data that the vaccine manufacturer submitted, information presented at the VRBPAC meeting, and the committee’s discussion, and has determined that based on the totality of the available scientific evidence, a booster dose of Pfizer-BioNTech COVID-19 Vaccine may be effective in preventing COVID-19 and that the known and potential benefits of a booster dose outweigh the known and potential risks in the populations that the FDA is authorizing for use.",
+      "bm25_score_raw": 2.1664774239926112,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8419890403747559,
+      "embedding_score_norm": 0.770074811085025,
+      "embedding_rank": 6
+    },
+    {
+      "title": "2025-2026 COVID-19 vaccines",
+      "url": "https://cdphe.colorado.gov/covid-19",
+      "snippet": "Colorado Department of Public Health and Environment. ## 2025-2026 COVID-19 vaccines. This allows Coloradans to receive the vaccine at participating providers and pharmacies without having to first obtain an individual prescription. The updated COVID-19 vaccines protect against the latest variants of the COVID-19 virus. It’s safe to get your COVID-19 vaccine and flu vaccine at the same appointment. ## COVID-19. COVID-19 is a disease caused by a virus. From January 2020 until May 2023, COVID-19 was a federal public health emergency in the United States. The best way to protect yourself from COVID-19 is to stay up to date with COVID-19 vaccines. Depending on your personal risk factors, you may choose to take additional precautions, like wearing a mask and improving ventilation in your home and workplace. The Centers for Disease Control and Prevention’s respiratory virus guidance for people with COVID-19 is simple and aligns with guidance for other respiratory viruses, including flu and RSV. Some people are sick from COVID-19 for a long time.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8310155868530273,
+      "embedding_score_norm": 0.5963485245381869,
+      "embedding_rank": 7
+    },
+    {
+      "title": "Coronavirus Disease 2019 (COVID-19)",
+      "url": "https://www.cdc.gov/coronavirus/2019-ncov/about/index.html",
+      "snippet": "Image 1An official website of the United States government. Here's how you know. A **.gov** website belongs to an official government organization in the United States. A **lock** (  ) or **https://** means you've safely connected to the .gov website. *   People with Certain Medical Conditions and COVID-19. *   How to Protect Yourself and Others. *   Containing COVID-19 in Non-U.S. Healthcare Settings. About COVID-19SymptomsPeople with Certain Medical Conditions and COVID-19COVID-19 VaccinesTestingTreatmentHow to Protect Yourself and OthersTools and ResourcesView Menu. # Coronavirus Disease 2019 (COVID-19). Learn how to protect yourself from COVID-19. Learn what you need to know about COVID-19 testing. Learn about the types of COVID-19 treatments, symptom management, and recovery. Information for healthcare workers about COVID-19. Guidance, tools, and resources for health departments to address COVID-19. Get information about the risk factors of COVID-19 for the general public. ## Covid. COVID-19 (coronavirus disease 2019) is a disease caused by a virus named SARS-CoV-2.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.8294985294342041,
+      "embedding_score_norm": 0.5723312221156968,
+      "embedding_rank": 8
+    },
+    {
+      "title": "Covid-19",
+      "url": "https://en.wikipedia.org/wiki/COVID-19",
+      "snippet": "+ 13.1 Transmission and prevention research. - 13.2.1 Cytokine storm. # COVID-19. Contagious disease caused by SARS-CoV-2. For the virus that causes the disease, see SARS-CoV-2. For the global pandemic caused by the disease, see COVID-19 pandemic. | Coronavirus disease 2019 (COVID-19) |. | Transmission and life-cycle of SARS-CoV-2, which causes COVID-19 |. **Coronavirus disease 2019** (**COVID-19**) is a contagious disease caused by the coronavirus SARS-CoV-2. Starting in January 2020, the disease spread worldwide, resulting in the COVID-19 pandemic. In March 2020, the World Health Organization declared COVID-19 a global health emergency; they declared the end of the emergency in May 2023. The official names COVID‑19 and SARS-CoV-2 were issued by the WHO on 11 February 2020 with COVID-19 being shorthand for \"coronavirus disease 2019\". COVID‑19 is caused by infection with a coronavirus known as \"severe acute respiratory syndrome coronavirus 2\" (SARS-CoV-2).",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.8042536973953247,
+      "embedding_score_norm": 0.17266753229106116,
+      "embedding_rank": 9
+    },
+    {
+      "title": "COVID-19 Pandemic",
+      "url": "https://ourworldindata.org/coronavirus",
+      "snippet": "*   [![Image 40: A thumbnail of the \"Daily confirmed COVID-19 deaths by world region\" chart](https://ourworldindata.org/grapher/daily-covid-deaths-region.png)Daily confirmed COVID-19 deaths by world region](https://ourworldindata.org/grapher/daily-covid-deaths-region). *   [![Image 61: A thumbnail of the \"Cumulative confirmed COVID-19 cases and deaths\" chart](https://ourworldindata.org/grapher/cumulative-deaths-and-cases-covid-19.png)Cumulative confirmed COVID-19 cases and deaths](https://ourworldindata.org/grapher/cumulative-deaths-and-cases-covid-19). *   [![Image 63: A thumbnail of the \"Cumulative confirmed COVID-19 deaths by world region\" chart](https://ourworldindata.org/grapher/cumulative-covid-deaths-region.png)Cumulative confirmed COVID-19 deaths by world region](https://ourworldindata.org/grapher/cumulative-covid-deaths-region). *   [![Image 68: A thumbnail of the \"Daily and total confirmed COVID-19 deaths\" chart](https://ourworldindata.org/grapher/total-daily-covid-deaths.png)Daily and total confirmed COVID-19 deaths](https://ourworldindata.org/grapher/total-daily-covid-deaths). *   [![Image 78: A thumbnail of the \"Estimated daily excess deaths during COVID\" chart](https://ourworldindata.org/grapher/excess-deaths-daily-economist.png)Estimated daily excess deaths during COVID](https://ourworldindata.org/grapher/excess-deaths-daily-economist)Faceted Explorer version. *   [![Image 124: A thumbnail of the \"Total confirmed COVID-19 deaths and cases per million people\" chart](https://ourworldindata.org/grapher/total-covid-cases-deaths-per-million.png)Total confirmed COVID-19 deaths and cases per million people](https://ourworldindata.org/grapher/total-covid-cases-deaths-per-million). *   [![Image 133: A thumbnail of the \"Weekly confirmed COVID-19 deaths\" chart](https://ourworldindata.org/grapher/weekly-covid-deaths.png)Weekly confirmed COVID-19 deaths](https://ourworldindata.org/grapher/weekly-covid-deaths). *   [![Image 134: A thumbnail of the \"Weekly confirmed COVID-19 deaths per million people\" chart](https://ourworldindata.org/grapher/weekly-covid-deaths-per-million-people.png)Weekly confirmed COVID-19 deaths per million people](https://ourworldindata.org/grapher/weekly-covid-deaths-per-million-people).",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.8025326728820801,
+      "embedding_score_norm": 0.14542112375157587,
+      "embedding_rank": 10
+    },
+    {
+      "title": "COVID-19",
+      "url": "https://www.hopkinsmedicine.org/health/conditions-and-diseases/coronavirus",
+      "snippet": "Image 1: Johns Hopkins MedicineJohns Hopkins Medicine  Menu. # COVID-19. *   COVID-19 can be severe, and has caused millions of deaths around the world as well as lasting health problems in some who have survived the illness. *   However, some with COVID-19 develop only mild symptoms—or experience no symptoms at all. ## What are symptoms of COVID-19? Some people infected with COVID-19 have mild illness, and others have no symptoms at all. If you have a fever or any of the symptoms listed above, call your doctor or a health care provider and explain your symptoms over the phone before going to the doctor’s office, urgent care facility or emergency room. These tests are recommended if you do not have symptoms or if you are taking the test as a risk-prevention measure, such as before going on a work trip or seeing a friend, and you want to be sure you don’t have the coronavirus that causes COVID-19.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.7973842620849609,
+      "embedding_score_norm": 0.0639140314191459,
+      "embedding_rank": 11
+    },
+    {
+      "title": "COVID-19 - Florida Department of Health",
+      "url": "https://www.floridahealth.gov/diseases-and-conditions/disease/covid-19",
+      "snippet": "# COVID-19. | Feb. 19, 2021 | Florida Department of Health – Renewal of Declaration of Public Health Emergency |. | Oct. 01, 2020 | Florida Department of Health Declaration of Public Health Emergency – DOH No. 20-014 re: Suspension of Statutes, Rules and Orders Made Necessary by COVID-19. 11, 2020 | Florida Department of Health Declaration of Public Health Emergency – DOH No. 20-013 re: Suspension of Statutes, Rules And Orders, Made Necessary by COVID-19. | June 30, 2020 | Florida Department of Health Declaration of Public Health Emergency – DOH No. 20-011 re: Suspension of Statutes, Rules And Orders, Made Necessary by COVID-19. | April 24, 2020 | Florida Department of Health Declaration of Public Health Emergency – DOH No. 20-006 re: Extension of Suspension of Statutes, Rules, and Orders, Made Necessary by COVID-19 |.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.7933471202850342,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

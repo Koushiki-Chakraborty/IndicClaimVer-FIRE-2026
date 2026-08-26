@@ -1,0 +1,76 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1117",
+    "text": "Court acquits BJP MLA, 50 others in post-Godhra riot case",
+    "lang": "english"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Bharatiya Janata Party",
+      "url": "https://en.wikipedia.org/wiki/Bharatiya_Janata_Party",
+      "snippet": "# Bharatiya Janata Party. | Lok Sabha Leader | Narendra Modi (Leader of the House in Lok Sabha) |. The **Bharatiya Janata Party** (**BJP**) is a right-wing to far-right political party in India and one of the two major Indian political parties alongside the Indian National Congress. The party's origins lie in the Bharatiya Jana Sangh, which was founded in 1951 by Indian politician Shyama Prasad Mukherjee, after he left the Hindu Mahasabha to form a party as the political wing of the RSS. Following victories in several state elections and better performances in national elections, the BJP became the largest political party in the Parliament in 1996; however, it lacked a majority in the lower house of Parliament, and its government, under its then-leader Atal Bihari Vajpayee, lasted for only 13 days. Modi has since led the NDA government as India's prime minister, including being re-elected with a sole majority in the 2019 general election and with a coalition in the 2024 general election.",
+      "bm25_score_raw": 0.3976351826136083,
+      "bm25_score_norm": 0.4158676741380406,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.7932519912719727,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Bharatiya Janata Party (BJP) (political party)",
+      "url": "https://www.ebsco.com/research-starters/political-science/bharatiya-janata-party-bjp-political-party",
+      "snippet": "# Bharatiya Janata Party (BJP) (political party). The Bharatiya Janata Party (BJP) is one of the principal political parties in India, alongside the Indian National Congress. Founded in 1980, the BJP emerged from the Bharatiya Jana Sangh, which was established in 1951 to promote Hindu nationalism and oppose the Indian National Congress's policies, particularly its approach to minority groups. Under the leadership of figures like L.K. Advani and later Narendra Modi, the BJP gained significant electoral success, particularly with Modi's 2014 campaign, which led to a majority government. The BJP has since positioned itself as a major force in Indian politics, claiming to be the largest political organization in the world by membership. Gods, Guns and Missionaries: The Making of the Modern Hindu Identity.;MEET INDIA'S GENERATION Z.;Narendra Modi's India.;The BJP's Drive for Hegemony.;The Kerala Consensus. The BJP was founded in 1980 as a successor to the Bharatiya Jana Sangh, a party formed in 1951 to oppose the policies of the Indian National Congress, particularly its appeasement of Muslims and other minority groups in India.",
+      "bm25_score_raw": 0.8089593400267033,
+      "bm25_score_norm": 0.8460519941869854,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.7793487310409546,
+      "embedding_score_norm": 0.6750584387180537,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Bharatiya Janata Party (BJP) | History, Ideology, Election ...",
+      "url": "https://www.britannica.com/topic/Bharatiya-Janata-Party",
+      "snippet": "Image 3: Rally for the Bharatiya Janata Party and Prime Minister Narendra ModiImage 4: Narendra ModiImage 5: Two pie charts showing 2024 Indian Lok Sabha election results. Right: NDA 293, UPA/INDIA 234, Others 16.Image 6: Annamalai Kuppusamy, a former IPS officer, addresses the media after joining the Bharatiya Janata Party at the partys headquarters on August 25, 2020, in New Delhi, India. Image 9: Rally for the Bharatiya Janata Party and Prime Minister Narendra Modi. Rally for the Bharatiya Janata Party and Prime Minister Narendra ModiBJP party workers and supporters waving the party flag with its lotus symbol in Varanasi, Uttar Pradesh, India.(more). # Bharatiya Janata Party. Also known as: BJP, Indian People’s Party. *   What is the Bharatiya Janata Party (BJP)? The Bharatiya Janata Party (BJP) is an Indian, pro-Hindu political party that has broad support among upper-caste members and in northern India. The Bharatiya Janata Party (BJP) is a pro-Hindu political party that has gained widespread support from upper-caste members and in northern India.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.7773408889770508,
+      "embedding_score_norm": 0.6281319391624387,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Bharatiya Janata Party",
+      "url": "https://www.youtube.com/@bjp",
+      "snippet": "Bharatiya Janata Party BJP, world's largest political party, representing aspirations of 1.4Bn Indians. Join us, to build #ViksitBharat by 2047.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.7628492116928101,
+      "embedding_score_norm": 0.2894381246116855,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Bharatiya Janata Party",
+      "url": "https://www.bjp.org/home",
+      "snippet": "Spreading its wings in Uttar Pradesh, Delhi, Rajasthan, Himachal Pradesh and Madhya Pradesh, BJP emerges as the national party of the country. BJP is 31% and",
+      "bm25_score_raw": 0.9561579496116828,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.7516379952430725,
+      "embedding_score_norm": 0.027413957868400743,
+      "embedding_rank": 5
+    },
+    {
+      "title": "BJP - Bharatiya Janata Party (@bjp4india)",
+      "url": "https://www.instagram.com/bjp4india?hl=en",
+      "snippet": "Bharatiya Janata Party, the world's largest political party, on a mission to empower 1.4 Billion Indians for building. From 'Make in India' to 'Made for the",
+      "bm25_score_raw": 0.745075132775933,
+      "bm25_score_norm": 0.7792385484830459,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.7504650354385376,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "claim": {
+    "id": "S2/1430",
+    "text": "Karnataka records 107 new Omicron cases in last 24 hours",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Karnataka records 107 new Omicron cases in last 24 hours",
+      "url": "https://www.indiatoday.in/amp/coronavirus-outbreak/story/karnataka-covid-omicron-cases-bengaluru-weekend-curfew-lockdown-1897171-2022-01-07",
+      "snippet": "Karnataka has reported 107 new Omicron cases in last 24 hours as Covid cases continue to surge. The total Omicron cases in the state have now",
+      "bm25_score_raw": 4.126986864079123,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9475352764129639,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Karnataka reports 107 new Omicron cases, state tally rises to 333",
+      "url": "https://www.deccanchronicle.com/amp/nation/current-affairs/070122/karnataka-reports-107-new-omicron-cases-state-tally-rises-to-333.html",
+      "snippet": "Karnataka reported 107 Omicron variant of COVID-19 cases on Thursday taking the tally in the state to 333,",
+      "bm25_score_raw": 0.874112032881578,
+      "bm25_score_norm": 0.0786379339405097,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.9293025135993958,
+      "embedding_score_norm": 0.552669331098837,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Karnataka reports 107 new Omicron cases, tally rises to 333",
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/karnataka-reports-107-new-omicron-cases-tally-rises-to-333/amp_articleshow/88752701.cms",
+      "snippet": "Karnataka reported 107 Omicron variant of Covid-19 cases on Thursday taking the tally in the state to 333, informed state Health Minister Dr",
+      "bm25_score_raw": 0.8400557199121658,
+      "bm25_score_norm": 0.06899163750791244,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.9288374185562134,
+      "embedding_score_norm": 0.541258483554955,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Karnataka reports 107 new Omicron cases, state tally rises to 333",
+      "url": "https://www.hindustantimes.com/cities/bengaluru-news/karnataka-reports-107-new-omicron-cases-state-tally-rises-to-333-101641545239023-amp.html",
+      "snippet": "Karnataka reported 107 Omicron variant of Covid-19 cases on Thursday taking the tally in the state to 333, informed state Health Minister Dr",
+      "bm25_score_raw": 0.8319522885303765,
+      "bm25_score_norm": 0.06669637726350028,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.9279622435569763,
+      "embedding_score_norm": 0.5197865529530302,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Karnataka Records 107 New Omicron Cases In Last 24 Hours",
+      "url": "https://www.youtube.com/watch?v=KG4_VdllR0g",
+      "snippet": "Karnataka Records 107 New Omicron Cases In Last 24 Hours. 1.3K views · 4 years ago. #OmicronInKarnataka #KarnatakaCovid19 #OmicronVirus ...more. Asianet",
+      "bm25_score_raw": 3.7780347431053314,
+      "bm25_score_norm": 0.9011608918816314,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.9187983274459839,
+      "embedding_score_norm": 0.29495498104041545,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Karnataka records 12 new cases of Omicron variant, total tally at 31",
+      "url": "https://www.thenewsminute.com/amp/story/karnataka/karnataka-records-12-new-cases-omicron-variant-total-tally-31-159083",
+      "snippet": "Karnataka recorded 12 new cases of the Omicron variant of the coronavirus on Thursday, December 23, taking the total Omicron case tally of",
+      "bm25_score_raw": 0.5964802901439268,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.9067762494087219,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/HI/1010",
+    "text": "कुमार विश्वास ने केजरीवाल की सराहना की, कहा-एक बड़े आंदोलन का इस मुकाम पर पहुंचना गर्व की बात है।",
+    "lang": "hindi"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Kumar Vishwas Slams Kejriwal, Congratulates BJP: 'Delhi is Free ...",
+      "url": "https://www.youtube.com/watch?v=onnAHyw5wcY",
+      "snippet": "Delhi Election Results, former AAP leader & poet Kumar Vishwas says, \"I congratulate the BJP for the victory and I hope that they'll work",
+      "bm25_score_raw": 1.3429638235256578,
+      "bm25_score_norm": 0.12548864932416415,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.8666135668754578,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Will Praise PM if He Does Good Work: AAP's Kumar Vishwas to NDTV",
+      "url": "https://www.ndtv.com/delhi-news/will-praise-pm-if-he-does-good-work-aaps-kumar-vishwas-to-ndtv-731470",
+      "snippet": "Kumar Vishwas, the Aam Aadmi Party leader who took on Rahul Gandhi in the national elections, today put up a spirited defence of his party",
+      "bm25_score_raw": 1.104728577565267,
+      "bm25_score_norm": 0.0755044428748471,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.8555996417999268,
+      "embedding_score_norm": 0.8675114306998808,
+      "embedding_rank": 2
+    },
+    {
+      "title": "AAP's Kumar Vishwas praises Narendra Modi, slams Kejriwal's ...",
+      "url": "https://timesofindia.indiatimes.com/india/aaps-kumar-vishwas-praises-narendra-modi-slams-kejriwals-agitational-politics/articleshow/42114550.cms",
+      "snippet": "India News: Senior Aam Aadmi Party leader Kumar Vishwas today praised Prime Minister Narendra Modi while criticizing his own party over some",
+      "bm25_score_raw": 3.6188571784993444,
+      "bm25_score_norm": 0.6029944980202349,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8524078130722046,
+      "embedding_score_norm": 0.8291163246239897,
+      "embedding_rank": 3
+    },
+    {
+      "title": "'Kejriwal wants to become PM of independent Khalistan': What did ...",
+      "url": "https://www.deccanherald.com/amp/story/india%2Fkejriwal-wants-to-become-pm-of-independent-khalistan-what-did-kumar-vishwas-say-1083328.html",
+      "snippet": "Former Aam Aadmi Party (AAP) leader and poet Kumar Vishwas stoked controversy earlier this week after he accused party supremo Arvind Kejriwal of wanting to",
+      "bm25_score_raw": 1.2537859283928308,
+      "bm25_score_norm": 0.10677820913272462,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.8439927697181702,
+      "embedding_score_norm": 0.7278901907136184,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Kejriwal की हार पर कुमार विश्वास ने पढ़ी कविता | Delhi Result",
+      "url": "https://www.youtube.com/watch?v=lu0IGlaiN4o",
+      "snippet": "... Kejriwal पर Kumar Vishwas ने कह दी बड़ी बात | Delhi Election Result | Manish Sisodia | PM Modi LIVE: Arvind Kejriwal पर Kumar Vishwas ने कह दी बड़ी",
+      "bm25_score_raw": 5.511068941582563,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8400037288665771,
+      "embedding_score_norm": 0.6799052705618162,
+      "embedding_rank": 5
+    },
+    {
+      "title": "केजरीवाल के पुराने साथी ने किया बड़ा खुलासा !",
+      "url": "https://www.youtube.com/watch?v=Kz994l-Rah8",
+      "snippet": "Kumar Vishwas On Arvind Kejriwal Live: केजरीवाल के पुराने साथी ने किया बड़ा खुलासा ! @indiatv92 likes11K viewsStreamed 1 year agoRead more",
+      "bm25_score_raw": 1.8074809832498486,
+      "bm25_score_norm": 0.222949130107787,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8306310176849365,
+      "embedding_score_norm": 0.5671591708377877,
+      "embedding_rank": 6
+    },
+    {
+      "title": "Kumar Vishwas Vs Arvind Kejriwal Controversy Spirals Out Of Control ...",
+      "url": "https://www.youtube.com/watch?v=d2d5zy8Tnfo",
+      "snippet": "Two days after Kumar Vishwas, a former leader of the Aam Aadmi Party, alleged the party's chief Arvind Kejriwal was ready to take support",
+      "bm25_score_raw": 1.5955481842362114,
+      "bm25_score_norm": 0.17848344772491864,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8282573223114014,
+      "embedding_score_norm": 0.5386055442389774,
+      "embedding_rank": 7
+    },
+    {
+      "title": "As AAP rift widens, Kumar Vishwas arrives at Kejriwal's residence to ...",
+      "url": "https://www.thenewsminute.com/amp/story/news/aap-rift-widens-kumar-vishwas-arrives-kejriwal-s-residence-attend-pac-meeting-61405",
+      "snippet": "Aam Aadmi Party (AAP) leader Kumar Vishwas on Wednesday arrived at Delhi Chief Minister Arvind Kejriwal's residence to attend the party's",
+      "bm25_score_raw": 1.3546436506267026,
+      "bm25_score_norm": 0.1279391972552961,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8237776756286621,
+      "embedding_score_norm": 0.48471903457997334,
+      "embedding_rank": 8
+    },
+    {
+      "title": "Kejriwal vs Kumar Vishwas: 'शुक्रिया उस कवि का जिसने इतना ...",
+      "url": "https://www.aajtak.in/elections/punjab-assembly-elections/video/arvind-kejriwal-hits-out-at-kumar-vishwas-said-poet-who-caught-such-a-big-terrorist-must-be-thanked-1414144-2022-02-18",
+      "snippet": "Feb 18, 2022 — पंजाब चुनाव से पहले केजरीवाल को लेकर कुमार विश्वास के विवादित बयान पर सियासत में भूचाल आ गया है. पंजाब में ऐन वोटिंग से पहले इस बयान के बाद आरोप-प्रत्यारोप लग रहे हैं. कुमार विश्वास के आरोपों पर दिल्ली",
+      "bm25_score_raw": 2.1122484242937705,
+      "bm25_score_norm": 0.2868924758153411,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8205326795578003,
+      "embedding_score_norm": 0.4456843685672065,
+      "embedding_rank": 9
+    },
+    {
+      "title": "\"कुमार विश्वास का बड़ा बयान! अन्ना हज़ारे का जिक्र करते हुए ...",
+      "url": "https://www.instagram.com/reel/DY_jF1eRhDA",
+      "snippet": "425 likes, 2 comments - kumarvishwasarmy on May 30, 2026: \"\"कुमार विश्वास का बड़ा बयान! अन्ना हज़ारे का जिक्र करते हुए अरविंद केजरीवाल पर फिर साधा निशाना\" #kejriwal",
+      "bm25_score_raw": 0.7448585146558808,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.8025315403938293,
+      "embedding_score_norm": 0.22914529123996474,
+      "embedding_rank": 10
+    },
+    {
+      "title": "कुमार विश्वास ने अरविंद केजरीवाल को बताया ऐतिहासिक भूल, खोल ...",
+      "url": "https://www.abplive.com/states/delhi-ncr/kumar-vishwas-told-arvind-kejriwal-a-historical-mistake-revealed-all-secrets-of-leaving-aap-2453766",
+      "snippet": "Jul 16, 2023 — Kumar Vishwas Interview: कुमार विश्वास ने दोस्ती के दिनों में सीएम अरविंद केजरीवाल का आंख मूंदकर साथ दिया, अब उनका विरोध भी उसी स्तर पर जाकर कर रहे हैं.",
+      "bm25_score_raw": 2.5725951769100472,
+      "bm25_score_norm": 0.3834779622671247,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8001609444618225,
+      "embedding_score_norm": 0.2006289484042908,
+      "embedding_rank": 11
+    },
+    {
+      "title": "“पहले ही कर दी थी भविष्यवाणी?” कुमार विश्वास का डेढ़ साल पुराना ...",
+      "url": "https://www.facebook.com/NewsTrendIn/posts/%E0%A4%AA%E0%A4%B9%E0%A4%B2%E0%A5%87-%E0%A4%B9%E0%A5%80-%E0%A4%95%E0%A4%B0-%E0%A4%A6%E0%A5%80-%E0%A4%A5%E0%A5%80-%E0%A4%AD%E0%A4%B5%E0%A4%BF%E0%A4%B7%E0%A5%8D%E0%A4%AF%E0%A4%B5%E0%A4%BE%E0%A4%A3%E0%A5%80%E0%A4%95%E0%A5%81%E0%A4%AE%E0%A4%BE%E0%A4%B0-%E0%A4%B5%E0%A4%BF%E0%A4%B6%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%B8-%E0%A4%95%E0%A4%BE%E0%A4%A1%E0%A5%87%E0%A4%A2%E0%A4%BC-%E0%A4%B8%E0%A4%BE%E0%A4%B2-%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A8%E0%A4%BE-%E0%A4%AC%E0%A4%AF%E0%A4%BE%E0%A4%A8%E0%A4%AB%E0%A4%BF%E0%A4%B0-%E0%A4%B8%E0%A5%87-%E0%A4%9A%E0%A4%B0%E0%A5%8D%E0%A4%9A%E0%A4%BE-%E0%A4%AE%E0%A5%87%E0%A4%82-/961426773207026",
+      "snippet": "भाई राघव चड्ढा तो केजरीवाल को खाने के चक्कर में था AAP ने Raghav Chadha को Rajya Sabha में side कर दिया… बोलने तक से रोक दिया… Internet फट पड़ा केजरीवाल पगला गया क्या.Read more",
+      "bm25_score_raw": 1.267123180902538,
+      "bm25_score_norm": 0.10957650197232705,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.7834824323654175,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "claim": {
+    "id": "S2/1425",
+    "text": "Odisha detectes 14 new Omicron cases, state's tally climbs to 75",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Wildfire tally grows to 191 in northern Ontario - CBC",
+      "url": "https://www.cbc.ca/news/canada/thunder-bay/northwestern-ontario-new-fires-9.7275405",
+      "snippet": "Wildfire tally grows to 191 in northern Ontario | CBC News Loaded. # Wildfire tally grows to 191 in northern Ontario. A total of 191 active fires were burning across northern Ontario as of Saturday morning, with seven new fires confirmed in the northwestern region Saturday afternoon, provincial authorities said. ## 7 new active wildfires confirmed in northwestern Ontario. A new evacuation centre has opened in Thunder Bay for people displaced by northern Ontario wildfires. * **North Bay 34** measures 0.1 hectares and is on a small island on the northern bay of Sand Lake, approximately nine kilometres northeast of Restoule Provincial Park. This fire is being observed to allow for the natural benefits of fire on the landscape, as it is safely away from communities and infrastructure. On Friday morning, the province issued an evacuation order for an area near the Fort Frances 14 fire, which is slightly more than 55,000 hectares in size and was not under control as of Saturday morning.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.7960712909698486,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "U.S. measles cases soar to 35-year high in 2026, already surpassing all of 2025 - NBC New York",
+      "url": "https://www.nbcnewyork.com/news/health/us-measles-cases-35-year-high-2026-already/6529928/?amp=1",
+      "snippet": "# U.S. measles cases soar to 35-year high in 2026, already surpassing all of 2025. ## Experts say the spread might be greater than what’s known because the virus is one of the most contagious known to medicine and vaccination rates nationwide have declined. The number of measles cases in the U.S. has surpassed the record-breaking tally for all of 2025, with five more months of 2026 still to come. The nation had 2,289 cases in 2025, the worst year for measles in more than three decades. Furthermore, experts say the spread might be greater than what’s known because the virus is one of the most contagious known to medicine and vaccination rates nationwide have declined. In Utah, where public health officials have fought measles for more than a year, the virus has sickened more than 700 people during that time, according to the state health department.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.7830661535263062,
+      "embedding_score_norm": 0.8475251399380849,
+      "embedding_rank": 2
+    },
+    {
+      "title": "India's HCLTech to set up $1.48 billion AI data center along with domestic startup - Reuters",
+      "url": "https://www.reuters.com/world/india/indias-hcltech-sarvam-set-up-148-billion-ai-data-center-odisha-state-2026-07-24/",
+      "snippet": "Exclusive news, data and analytics for financial market professionals Learn more about Refinitiv. ## Browse World. ## Browse Business. # India's HCLTech, Sarvam to set up $1.48 billion AI data center in Odisha state. Image 3: Employees of HCLTech walk inside the office premises on outskirts of Lucknow. REUTERS/Pawan Kumar Purchase Licensing Rights, opens new tab. July 24 (Reuters) - India's HCLTech (HCLT.NS), opens new tab on ​Friday said ‌it would set up ​its first ​AI data center ⁠for 142.57 ​billion rupees ($1.48 ​billion) in the eastern state ​of Odisha ​in partnership with ‌startup ⁠Sarvam AI. Get the latest news from India and how it matters to the world with the Reuters India File newsletter. Our Standards: The Thomson Reuters Trust Principles., opens new tab. *   #### World-Check, opens new tab. ### Browse. *   Media Center, opens new tab. *   Reuters News Agency, opens new tab. *   Reuters and AI, opens new tab. *   Reuters Leadership, opens new tab. *   Data Disclosure and Sources, opens new tab.",
+      "bm25_score_raw": 3.503089367606993,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.7689878940582275,
+      "embedding_score_norm": 0.6824687803548593,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Drake Replaces Himself At No. 1 With A Milestone New Champion - Forbes",
+      "url": "https://www.forbes.com/sites/hughmcintyre/2026/07/19/drake-replaces-himself-at-no-1-with-a-milestone-new-champion/",
+      "snippet": "# Drake Replaces Himself At No. 1 With A Milestone New Champion. Drake replaces himself at No. 1 on Billboard’s Rhythmic Airplay chart as “2 Hard 4 the Radio” rises to the summit and “Janice STFU” slips to No. 2. The new champion gives the rapper a milestone forty-fifth leader on the radio ranking, far ahead of any other artist. As Drake occupies the top two spots on the chart, “Shabang” climbs to a new No. 14 peak. ## Drake Reaches No. 1 With “2 Hard 4 the Radio”. “2 Hard 4 the Radio” surges from No. 2 to No. 1 on the Rhythmic Airplay chart, reaching the summit eight weeks into its run. ## Drake Replaces Himself at No. 1. “2 Hard 4 the Radio” gives Drake his forty-fifth No. 1 on the Rhythmic Airplay chart. “2 Hard 4 the Radio” rises to a new high on five *Billboard* charts this week, with all of those improvements taking place on radio-focused rankings.",
+      "bm25_score_raw": 1.1057195565248599,
+      "bm25_score_norm": 0.3156412641793925,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.7534378170967102,
+      "embedding_score_norm": 0.5001565349862682,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Pentagon lowers official Iran war death toll, omitting four killed this month - CNBC",
+      "url": "https://www.cnbc.com/2026/07/24/pentagon-removed-four-official-iran-war-death-toll.html",
+      "snippet": "* The Pentagon tally system showed 14 deaths on Thursday, compared to 18 previously. * The New York Times reported that one reason was that their deaths came after President Donald Trump declared a ceasefire in April. * The revision comes amid scrutiny of the administration's handling of casualty data as the Middle East conflict drags on. The Pentagon lowered its official death toll for the Iran war to 14 from 18 in the space of a day, after the Trump administration removed four service members killed this month from the count, according to the defense casualty analysis system. The Pentagon's casualty database showed seven of the 14 total deaths were classified as \"hostile.\" The New York Times reported the change in count earlier. Three military officials told the Times that the four service members killed this past weekend — three in Jordan and one in northern Iraq — were struck from the list because their deaths came after President Donald Trump declared a ceasefire in April.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.7496491074562073,
+      "embedding_score_norm": 0.455736937365041,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Copper price climbs to month high on strong China demand - Mining.com.au",
+      "url": "https://mining.com.au/copper-price-climbs-to-month-high-on-strong-china-demand/",
+      "snippet": "* Copper price climbs to month high on strong China demand. Copper price climbed to its highest level in a month as strong demand from top consumer China and depleting inventories globally fuelled the rally.",
+      "bm25_score_raw": 2.1628867542195995,
+      "bm25_score_norm": 0.6174226596157597,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.7107776403427124,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6
+    }
+  ]
+}

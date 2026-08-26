@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/HI/1048",
+    "text": "लॉकडाउन में मदद करने वाला कोरोना से हार गया, पर ब्लैक फंगस की जंग जीत गया, चार दिन बाद थी शादी",
+    "lang": "hindi"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Mucormycosis: The 'black fungus' maiming Covid patients in India",
+      "url": "https://www.bbc.com/news/world-asia-india-57027829",
+      "snippet": "# Mucormycosis: The 'black fungus' maiming Covid patients in India. **On Saturday morning, Dr Akshay Nair, a Mumbai-based eye surgeon, was waiting to operate on a 25-year-old woman who had recovered from a bout of Covid-19 three weeks ago.**. He had inserted a tube in her nose and was removing tissues infected with mucormycosis, a rare but dangerous fungal infection. Even as a deadly second wave of Covid-19 ravages India, doctors are now reporting a rash of cases involving a rare infection - also called the \"black fungus\" - among recovering and recovered Covid-19 patients. \"It is ubiquitous and found in soil and air and even in the nose and mucus of healthy people,\" says Dr Nair. Dr Nair - who works in three hospitals in Mumbai, one of the worst-hit cities in the second wave - says he has already seen some 40 patients suffering from the fungal infection in April.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.8596692085266113,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "After 48 years of marriage, the couple lost their month",
+      "url": "https://www.facebook.com/WCBSFM/posts/after-48-years-of-marriage-the-couple-lost-their-month-long-battle-with-the-nove/10157483820077918",
+      "snippet": "Sep 11, 2020 — After 48 years of marriage, the couple lost their month- long battle with the novel virus. Married Couple Dies of COVID Minutes Apart While ...Read more",
+      "bm25_score_raw": 4.865560892883286,
+      "bm25_score_norm": 0.8526532967797481,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.846508264541626,
+      "embedding_score_norm": 0.8488381008713559,
+      "embedding_rank": 2
+    },
+    {
+      "title": "COVID-19 and Fungi: A Nightmare in the Making",
+      "url": "https://publichealth.jhu.edu/2021/covid-19-and-fungi-a-nightmare-in-the-making",
+      "snippet": "Jul 1, 2021 — Preying on recovering coronavirus patients, India has seen some 30,000 cases of mucormycosis, better known as “black fungus,” in recent months.Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.8409600257873535,
+      "embedding_score_norm": 0.7851130133797765,
+      "embedding_rank": 3
+    },
+    {
+      "title": "India battles spike in 'black fungus' infections hitting COVID ...",
+      "url": "https://www.youtube.com/watch?v=1MlNIayNBhE",
+      "snippet": "Thousands of people, including many coronavirus patients, have been infected with mucormycosis or 'black fungus' in India.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.840369462966919,
+      "embedding_score_norm": 0.7783300198807157,
+      "embedding_rank": 4
+    },
+    {
+      "title": "The Truth About COVID-19 and Black Fungus | Pfizer",
+      "url": "https://www.pfizer.com/news/articles/the_truth_about_covid_19_and_black_fungus",
+      "snippet": "The novel coronavirus has recently been linked to two serious fungal infections: COVID-19 associated pulmonary aspergillosis (CAPA) and COVID-19 associated mucormycosis (CAM).1 The resurgence of these rare fungal infections has medical personnel concerned. Aspergillosis and mucormycosis, which is often, mistakenly, referred to as “black fungus”, existed before COVID-19, though it is rare and primarily affects people with severe illnesses—such as bone marrow transplants or acute myeloid leukemia—and people in the ICU with damage to the lungs.3 However, it has been exacerbated with COVID-19.1,4. The term “black fungus” has been used by the public to describe mucormycosis; however, according to Jay Aram, MD, Global Medical Affairs Lead, Anti Infectives at Pfizer, black fungus is actually a different category of fungus that is not associated with CAPA or CAM.",
+      "bm25_score_raw": 3.183319790185808,
+      "bm25_score_norm": 0.5578530766671168,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.838162899017334,
+      "embedding_score_norm": 0.7529862149417544,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Black fungus complicating Covid battle in Punjab",
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/black-fungus-complicating-covid-battle/articleshow/82670161.cms",
+      "snippet": "May 16, 2021 — The lifesaving drugs used in Covid treatment are inducing the growth of this black fungus, which spreads to sinuses present in the facial bones, ...Read more",
+      "bm25_score_raw": 5.706376684707907,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8366482853889465,
+      "embedding_score_norm": 0.7355899041015614,
+      "embedding_rank": 6
+    },
+    {
+      "title": "लॉकडाउन के दौरान मोदी सरकार ने रखा गरीबों का ख्याल, फ्री में दिए 1.5 करोड़ रसोई गैस ...",
+      "url": "https://www.performindia.com/modi-govt-presents-1-5-crore-lpg-cylinders-to-poor-for-free-during-lockdown?amp=",
+      "snippet": "पेट्रोलियम मंत्री धर्मेंद्र प्रधान ने बताया कि लॉकडाउन के दौरान गरीबों को राहत के उपाय के तहत पिछले दो सप्ताह में डेढ़ करोड़ एलपीजी सिलेंडर उपलब्ध कराए गए हैं। इस योजना के सुचारु क्रियान्वयन के लिए पेट्रोलियम",
+      "bm25_score_raw": 1.4394163274676621,
+      "bm25_score_norm": 0.252246987361533,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.8129874467849731,
+      "embedding_score_norm": 0.46382996785129443,
+      "embedding_rank": 7
+    },
+    {
+      "title": "LOCKDOWN आने वाला है? Petrol Diesel और Gas Crisis पर मोदी का बड़ा ...",
+      "url": "https://www.youtube.com/watch?v=tpFm5GZBqXE",
+      "snippet": "LOCKDOWN आने वाला है? Petrol Diesel और Gas Crisis पर मोदी का बड़ा फैसला! | By Pawan Moral Sir Is India really heading toward another lockdown?",
+      "bm25_score_raw": 1.5748239373914534,
+      "bm25_score_norm": 0.2759761621786565,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8110852837562561,
+      "embedding_score_norm": 0.44198240310204884,
+      "embedding_rank": 8
+    },
+    {
+      "title": "Iran War से LPG 600 रूपए किलो, PM Modi Corona Speech से Delhi में ...",
+      "url": "https://www.youtube.com/watch?v=gwRwYSbA3pI",
+      "snippet": "Iran War से LPG 600 रूपए किलो, PM Modi Corona Speech से Delhi में Lockdown का असर, 150 रूपए पेट्रोल? · Comments.",
+      "bm25_score_raw": 4.456787268183708,
+      "bm25_score_norm": 0.7810187645212977,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8031506538391113,
+      "embedding_score_norm": 0.3508480795666771,
+      "embedding_rank": 9
+    },
+    {
+      "title": "Lockdown Breaking LIVE : इंडिया में लॉकडाउन को लेकर बड़ी खबर! | LPG ...",
+      "url": "https://www.youtube.com/watch?v=_r6T6HRz1QI",
+      "snippet": "Lockdown Breaking LIVE : इंडिया में लॉकडाउन को लेकर बड़ी खबर! | LPG Crisis | Petrol Diesel | PM Modi #lockdownnews #petroldieselprice #lpgshortage",
+      "bm25_score_raw": 3.210042377441938,
+      "bm25_score_norm": 0.5625360109935068,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8019515872001648,
+      "embedding_score_norm": 0.3370760286764263,
+      "embedding_rank": 10
+    },
+    {
+      "title": "अच्छी खबर: covid लॉकडाउन से हुआ फायदा, ग्रीन हाउस गैसों के उत्सर्जन में रेकॉर्ड ...",
+      "url": "https://navbharattimes.indiatimes.com/world/science-news/record-decrease-in-greenhouse-gas-emissions-in-2020-due-to-covid-lockdown/amp_articleshow/79698778.cms",
+      "snippet": "Greenhouse gas emissions: ग्रीनहाउस गैसों के उत्सर्जन में साल 2020 में कोविड लॉकडाउन की वजह से कमी दर्ज की गई है।",
+      "bm25_score_raw": 1.6153459423323733,
+      "bm25_score_norm": 0.28307734164504395,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.7995986938476562,
+      "embedding_score_norm": 0.3100515365109618,
+      "embedding_rank": 11
+    },
+    {
+      "title": "Feel The Thrill: क्या देश में लगेगा LOCKDOWN? पेट्रोल-गैस संकट पर ...",
+      "url": "https://www.youtube.com/watch?v=K6slfgycD6w",
+      "snippet": "पेट्रोल और LPG गैस की बढ़ती कीमतों और संभावित संकट को लेकर बड़ा खुलासा सामने आया है। ... कर देंगे, चौंक गया पूरा देश! | Ram Mandir.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.7726039886474609,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

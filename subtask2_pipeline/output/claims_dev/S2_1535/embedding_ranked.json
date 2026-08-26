@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/1535",
+    "text": "আমার নাতনি ভাবছে দাদু আমার সঙ্গেও কি এমন হবে? দেশ জুড়ে ধর্ষণের ঘটনায় উদ্বিগ্ন ফিরহাদ - RG Kar Doctor Rape and Murder",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Girl'S Rape: Grandfather Arrested for Rape of 7-Year-Old ...",
+      "url": "https://timesofindia.indiatimes.com/city/kolkata/grandfather-arrested-for-rape-of-7-year-old-granddaughter-in-murshidabad/articleshow/114888675.cms",
+      "snippet": "A 45-year-old grandfather has been arrested for raping his 7-year-old granddaughter in Murshidabad's Domkal. The child was lured with a",
+      "bm25_score_raw": 3.6956802645110285,
+      "bm25_score_norm": 0.3561180240340705,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8699968457221985,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "UP: 90-yr-old Grandfather to Great Grandpa, Multiple ...",
+      "url": "https://www.news18.com/india/up-from-90-yr-old-grandfather-to-great-grandpa-multiple-generations-of-family-named-in-rape-case-fir-8082853.html",
+      "snippet": "In a shocking case, an FIR was lodged against multiple generations of a family in relation to a distressing rape and assault case.",
+      "bm25_score_raw": 1.8113862580599542,
+      "bm25_score_norm": 0.174546294271517,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8658719062805176,
+      "embedding_score_norm": 0.9379784033460564,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Grandfather Rapes 13 years Old Granddaughter",
+      "url": "https://www.youtube.com/watch?v=rUGeGx3ubBI",
+      "snippet": "Kothamangalam Vadattupara Grandfather raped her 13 years Grand Daughter after 2 years പേരക്കുട്ടിയെ പീഡി പ്പിച്ച മുത്തച്ഛന്‍ അറസ്റ്റില്‍ Click Here To Free",
+      "bm25_score_raw": 1.885791398640148,
+      "bm25_score_norm": 0.18171601939515447,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8553413152694702,
+      "embedding_score_norm": 0.7796429714084965,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Hooghly Horror: 4-Yr-Old Raped, Grandpa Arrested",
+      "url": "https://www.youtube.com/watch?v=1tvWZqQFa2g",
+      "snippet": "This special report focuses on a disturbing case from West Bengal's Hooghly district, where a four-year-old girl was sexually assaulted,",
+      "bm25_score_raw": 2.7043624012630962,
+      "bm25_score_norm": 0.2605940248289501,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8480470776557922,
+      "embedding_score_norm": 0.669968570227662,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Grandfather Rapes Granddaughter, Sexual Violence in ...",
+      "url": "https://www.kompas.id/artikel/en-kakek-di-buton-tengah-perkosa-cucu-korban-kekerasan-seksual-terus-melonjak",
+      "snippet": "IS (49) was arrested by the Central Buton Police after raping his 10-year-old granddaughter.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.8476889133453369,
+      "embedding_score_norm": 0.6645832978587067,
+      "embedding_rank": 5
+    },
+    {
+      "title": "\"বড় গাফিলতি হয়েছে..\" , RG Kar-এ লিফট-বিপর্যয়ে ... - ABP Ananda",
+      "url": "https://bengali.abplive.com/district/rg-kar-lift-accident-update-firhad-hakim-agreed-that-there-was-a-big-carelessness-1170531",
+      "snippet": "Firhad Hakim On RG Kar Lift Accident : RG Kar-এ লিফট-বিপর্যয়ে যুবকের মৃত্যুতে গাফিলতির কথা মেনে নিলেন রাজ্যের মন্ত্রীও, কী প্রতিক্রিয়া ফিরহাদ হাকিমের ?",
+      "bm25_score_raw": 10.377683843818744,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8398183584213257,
+      "embedding_score_norm": 0.5462435283078558,
+      "embedding_rank": 6
+    },
+    {
+      "title": "#NSTnation \"Yes, I did it,\" confessed a 67-year-old retiree ...",
+      "url": "https://www.instagram.com/p/DZbOtldllG5?hl=en",
+      "snippet": "In the video, the grandfather also asked family members to lodge a police report against him. The suspect is the girl's paternal grandfather,",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.8356665968894958,
+      "embedding_score_norm": 0.4838186411619785,
+      "embedding_rank": 7
+    },
+    {
+      "title": "বিরোধীদের দায়িত্ব নিয়ে কী বলছেন ফিরহাদ হাকিম? Firhad ...",
+      "url": "https://www.instagram.com/reel/DYR4lqPEvue?hl=bn",
+      "snippet": "আমরা আমাদের নিজেদের গণতান্ত্রিক অধিকার মান্যতা দিয়ে চলব। পরবর্তীতেও যদি আবার আম জনতা কর্মীদের গ্রেপ্তার করা হয়, সেই নিয়ে কি কিছু ভাবছেন? করুক, পুলিশ গ্রেপ্তার করবে। আমরা জুডিসিয়ালের কাছে গিয়ে তাদের জামিনের",
+      "bm25_score_raw": 2.6964876002915146,
+      "bm25_score_norm": 0.259835204162403,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8280937671661377,
+      "embedding_score_norm": 0.3699553960715921,
+      "embedding_rank": 8
+    },
+    {
+      "title": "Firhad Hakim | গোটা কলকাতা বিক্রি করে দিয়েছে ফিরহাদ হাকিম! এবার হবে সব হিসেব! কোনও ছাড় নেই অন্যায়ে",
+      "url": "https://www.youtube.com/watch?v=8cIzqC-qLeQ",
+      "snippet": "Firhad Hakim | গোটা কলকাতা বিক্রি করে দিয়েছে ফিরহাদ হাকিম! এবার হবে সব হিসেব! কোনও ছাড় নেই অন্যায়ে\nRepublic Bangla\n9320000 subscribers\n654 likes\n78239 views\n26 Jun 2026\nFirhad Hakim | গোটা কলকাতা বিক্রি করে দিয়েছে ফিরহাদ হাকিম! এবার হবে সব হিসেব! কোনও ছাড় নেই অন্যায়ে\n\n#SuvenduAdhikari #Mamatabanerjee #Firhadhakim #Promoting #bulldozerdadaSuvendu #BengalGovtaction #Suvenduonactionmode #BJP #WBGovernment #বুলডোজারদাদাশুভেন্দু  #Khudiramtudu #WBMinister #WBCM #CMWestbengal #tiljala  #westbengal #রিপাবলিকবাংলা #breakingnews #NewsUpdate #LiveNewsUpdate #RepublicBangla #RBangla #RBanglanews #BengaliNews #RBanglaDigital #News #NewsAlert #Viral  #youtube #youtubenews #youtubenewsstreaming #Streaminglive #ytlivestreaming #streaming\n\n\nOfficial page of Bangla News, Bengali News & Bengal’s NO.1 news channel Republic Bangla. Subscribe our channel and Join the Movement. Click the bell icon and stay updated on all the fastest news developments. \n\nRepublic Bangla streams news 24X7 on issues related to West Bengal, Nation and the World. The channel also has THE BIGGEST NEWS STORIES FROM BENGAL ,THE BIGGEST NEWS EVENTS FROM BENGAL & THE BIGGEST NEWSMAKERS FROM BENGAL. WATCH THE LOUDEST VOICE OF THE PEOPLE OF BENGAL ON BENGAL'S NO.1 BANGLA NEWS CHANNEL - Republic Bangla. Republic is independent. Republic is global.\n\nসোশ্যাল মিডিয়ায় Republic Bangla-র সঙ্গে যুক্ত থাকুন\n\n🌐 Visit Our Website: https://republicbangla.co.in/\n👍 Facebook: https://www.facebook.com/RepublicBangla\n🐦 Twitter: https://twitter.com/BanglaRepublic\n📸 Instagram: https://www.instagram.com/republicbangla\n📱 WhatsApp Channel: https://whatsapp.com/channel/0029Va79hGC9xVJgiAfDbS16\n📢 Telegram: https://t.me/RepublicBanglaa\n🔗 LinkedIn: https://www.linkedin.com/company/republic-bangla-co-in/\n\nAlso, Watch ► \nRepublic TV Live News Updates ►http://bit.ly/RepublicTVLiveNews​\nThe Debate With Arnab Goswami ► http://bit.ly/TheDebateWithArnabGoswami​\nBiggest Story Tonight ► http://bit.ly/BiggestStoryTonight​\nBurning Question Debates ► http://bit.ly/BurningQuestionDebate​\nPatriot With Major Gaurav Arya ► http://bit.ly/PatriotFullEpisodes​\nExclusive Sunday Debate With Arnab Goswami ► http://bit.ly/SundayDebate​\n\nরিপাবলিক, শুধুমাত্র একটা শব্দ নয়।\nরিপাবলিক, শুধুমাত্র একজনকে নিয়ে নয়।\nসকল মানুষের ঐক্যবদ্ধ কণ্ঠস্বর নিয়েই এই রিপাবলিক।\nএকে থামানো যায় না।\nএকে চেপে রাখা যায় না।\nরিপাবলিক স্বাধীন।\nরিপাবলিক নির্ভীক।\nআপনিই রিপাবলিক।\nআমরা আপনার কণ্ঠস্বর।\nসঠিক খবর, সবার আগে পেতে, চোখ থাকুক রিপাবলিক বাংলা-র এই অফিশিয়াল ইউটিউব পেজে।\n45 comments\n",
+      "bm25_score_raw": 0.24361131623524074,
+      "bm25_score_norm": 0.02347453631287321,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.8279823064804077,
+      "embedding_score_norm": 0.3682795000273341,
+      "embedding_rank": 9
+    },
+    {
+      "title": "ববি হলেন ব্রুটাস? মমতার হাত ছাড়ছেন 'ছায়াসঙ্গী' ফিরহাদ? Ja ...",
+      "url": "https://www.facebook.com/Zee24Ghanta/posts/firhad-hakim-%E0%A6%AC%E0%A6%AC%E0%A6%BF-%E0%A6%B9%E0%A6%B2%E0%A7%87%E0%A6%A8-%E0%A6%AC%E0%A7%8D%E0%A6%B0%E0%A7%81%E0%A6%9F%E0%A6%BE%E0%A6%B8-%E0%A6%AE%E0%A6%AE%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A6%B9%E0%A6%BE%E0%A6%A4-%E0%A6%9B%E0%A6%BE%E0%A6%A1%E0%A6%BC%E0%A6%9B%E0%A7%87%E0%A6%A8-%E0%A6%9B%E0%A6%BE%E0%A7%9F%E0%A6%BE%E0%A6%B8%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%80-%E0%A6%AB%E0%A6%BF%E0%A6%B0%E0%A6%B9%E0%A6%BE%E0%A6%A6ja-bolbo-satyi-b/1500087132148696",
+      "snippet": "আমরা যা করে রাখি আর যা করছি সেটা তো আগামীকালের জন্য অতীত আর আজ যা করছি সেটা আমার আগামী পরশুটা তৈরি করে দিচ্ছে। ফিরহাদ হাকিমের ক্ষেত্রেও তাই পনেরো বছর যা যা করেছেন পালাতে হবে তো সেটা থেকে.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.8176068663597107,
+      "embedding_score_norm": 0.21227687953533766,
+      "embedding_rank": 10
+    },
+    {
+      "title": "কলকাতা পোর্ট থেকে তৃণমূল প্রার্থী ফিরহাদ হাকিম Firhad Hakim",
+      "url": "https://www.instagram.com/p/DV-7WHek1K8?hl=bn",
+      "snippet": "বছরের অর্ধেক সময় আমরা অতিবাহিত হয়ে এসেছি। বাকি আবার ফেব্রুয়ারিতে নেক্সট বাজেট হবে। তাহলে নিশ্চয়ই এই ছয় মাস আট মাসের জন্য যে বাজেট রেখেছে সেটা যথেষ্টই উন্নতি হবে বা বাংলার মানুষের জন্য",
+      "bm25_score_raw": 0.35633395204581103,
+      "bm25_score_norm": 0.034336558851525825,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8106179237365723,
+      "embedding_score_norm": 0.10719282035380227,
+      "embedding_rank": 11
+    },
+    {
+      "title": "Firhad Hakim | মেয়র পদে ফিরহাদের ইস্তফা! এবার কোন তৃণমূলে ববি ...",
+      "url": "https://www.facebook.com/Zee24Ghanta/videos/firhad-hakim-%E0%A6%AE%E0%A7%87%E0%A7%9F%E0%A6%B0-%E0%A6%AA%E0%A6%A6%E0%A7%87-%E0%A6%AB%E0%A6%BF%E0%A6%B0%E0%A6%B9%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%87%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%AB%E0%A6%BE-%E0%A6%8F%E0%A6%AC%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A7%8B%E0%A6%A8-%E0%A6%A4%E0%A7%83%E0%A6%A3%E0%A6%AE%E0%A7%82%E0%A6%B2%E0%A7%87-%E0%A6%AC%E0%A6%AC%E0%A6%BF-zee-24-ghantafirhadha/1627845381643123",
+      "snippet": "তৃণমূলের হাত থেকে বেড়িয়ে যাওয়া শুধু সময়ের অপেক্ষা. ফিরহাদ হাকিম ছাড়লেন. খোঁড়াতে খোঁড়াতে আর কটা দিন চলার পর বাকি অন্যান্য পুরসভাগুলোর মতোই চেহারা হবে কলকাতা পুরসভার. যেমন হয়েছে চন্দননগর. যেমন হল কাটোয়া.",
+      "bm25_score_raw": 0.34698786603732373,
+      "bm25_score_norm": 0.033435964253622934,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.8034887313842773,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

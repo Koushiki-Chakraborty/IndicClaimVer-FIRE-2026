@@ -1,0 +1,99 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1174",
+    "text": "‘Only To Gain Sympathy And Votes’: PIL Before Delhi High Court Against Opposition Parties New Alliance ‘INDIA’",
+    "lang": "english"
+  },
+  "entity_ranked_evidence": [
+    {
+      "title": "PIL - Public Image",
+      "url": "https://www.youtube.com/watch?v=ylOCIP54PIQ",
+      "snippet": "PiL Official | Public Image Ltd The Order of Death PiL Official | Public Image Ltd•790K views 3:52",
+      "bm25_score_raw": 1.0691657050718024,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.7956126928329468,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 1
+    },
+    {
+      "title": "Public Image Ltd - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Public_Image_Ltd",
+      "snippet": "| Also known as | * PiL * Public Image Limited * Public Image |. **Public Image Ltd** (abbreviated and stylised as **PiL**) are an English post-punk band formed by lead vocalist John Lydon (previously, as Johnny Rotten, lead vocalist of the Sex Pistols), guitarist Keith Levene (a founding member of the Clash), bassist Jah Wobble, and drummer Jim Walker \"Jim Walker (drummer)\") in June 1978. Following Lydon's departure from the Sex Pistols in January 1978, he sought a more experimental \"anti-rock\" project and formed PiL in June of that year. PiL's second studio album *Metal Box* (1979) pushed their sound further into the avant-garde, and is often regarded as one of the most important albums of the post-punk era. By 1984, Levene, Wobble and Walker had departed and the group was effectively a solo vehicle for Lydon, who moved toward a more accessible sound with the commercially successful studio albums *This Is What You Want...",
+      "bm25_score_raw": 0.5261150549206606,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.7874705195426941,
+      "embedding_score_norm": 0.8069793927473322,
+      "embedding_rank": 2,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 2
+    },
+    {
+      "title": "PiL Official | Public Image Ltd",
+      "url": "https://www.youtube.com/pilofficial",
+      "snippet": "YouTube Channel for official Public Image Limited (PiL) website. This is Not The Last Tour 2025-26 John Lydon Talk Tour 2025-2026",
+      "bm25_score_raw": 0.730139811832263,
+      "bm25_score_norm": 0.3757011557850418,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.7747442722320557,
+      "embedding_score_norm": 0.5052874615662869,
+      "embedding_rank": 3,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 3
+    },
+    {
+      "title": "Home - PiL Official",
+      "url": "https://www.pilofficial.com",
+      "snippet": "# PiL Official. PiL - This is Not the Last Tour. ## Latest news. PiL Riot Fest Chicago September 2026. New 2027 Talk Tour Dates Added. ## PiL Australasia 2027. Just announced - San Luis Obispo September 4th 2026. 3 summer European PiL shows added. Just announced - Belgrade May 18th 2026. ## MUSIC. PiL - Alive - live album 2025. ## Public Image Ltd. PiL: That What Is Not. ## Public Image Ltd. PiL - The Public Image is Rotten. ## Public Image Ltd. ## Public Image Ltd. PrivacySafe SurfTermsCookiesDo Not Sell My Personal InformationCookie Choices. - The Public Image is Rotten (Songs from the Heart) (super-deluxe box set). PiL: What The World Needs Now... - What The World Needs Now... - That What Is Not (2011 Remaster).",
+      "bm25_score_raw": 1.0066415777442264,
+      "bm25_score_norm": 0.8848650170841811,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.7731419801712036,
+      "embedding_score_norm": 0.4673030837402785,
+      "embedding_rank": 4,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 4
+    },
+    {
+      "title": "PiL Official | Public Image Ltd",
+      "url": "https://www.youtube.com/c/pilofficial/videos",
+      "snippet": "YouTube Channel for official Public Image Limited (PiL) website. This is ... PiL live in South America April 2026. Tickets on sale now... 2K views. 9 ...Read more",
+      "bm25_score_raw": 0.9061948028028782,
+      "bm25_score_norm": 0.6998974179967078,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.757270336151123,
+      "embedding_score_norm": 0.09104551003798156,
+      "embedding_rank": 5,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 5
+    },
+    {
+      "title": "This Is PiL",
+      "url": "https://en.wikipedia.org/wiki/This_Is_PiL",
+      "snippet": "This is PiL is the ninth studio album by British rock band Public Image Ltd. Their first studio album in 20 years.Read more",
+      "bm25_score_raw": 0.9493993227025408,
+      "bm25_score_norm": 0.7794563318616261,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.7534297704696655,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 6
+    }
+  ]
+}

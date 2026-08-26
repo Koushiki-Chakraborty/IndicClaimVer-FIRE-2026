@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/HI/1023",
+    "text": "दिल्ली के उपराज्यपाल ने सभी थानों में महिला कर्मियों की संख्या घटाने को कहा",
+    "lang": "hindi"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "VIDEO | Delhi: On inauguration of city's first all-women police station ...",
+      "url": "https://x.com/PTI_News/status/2067895086541894004",
+      "snippet": "... Delhi Lieutenant Governor Taranjit Singh Sandhu and the Delhi Police Commissioner Satish Golchha inaugurated the women's police station here",
+      "bm25_score_raw": 1.1171751481109202,
+      "bm25_score_norm": 0.47549249328053367,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8707478046417236,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Lieutenant governor (LG) Taranjit Singh Sandhu on Friday ...",
+      "url": "https://www.instagram.com/p/DZzUhNhDAb_?hl=en",
+      "snippet": "Delhi Lieutenant Governor V.K. Saxena on Friday inaugurated the capital's first dedicated Women Police Station staffed entirely by female",
+      "bm25_score_raw": 2.349511640874219,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8688207268714905,
+      "embedding_score_norm": 0.9875590809935342,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Delhi Lieutenant Governor Taranjit Singh Sandhu inaugurated the city's ...",
+      "url": "https://www.facebook.com/PressTrustofIndia/posts/delhi-lieutenant-governor-taranjit-singh-sandhu-inaugurated-the-citys-first-all-/1286481507016809",
+      "snippet": "Delhi Lieutenant Governor Taranjit Singh Sandhu inaugurated the city's first all-women police station in Subzi Mandi. He said that women's",
+      "bm25_score_raw": 1.5405109260144705,
+      "bm25_score_norm": 0.6556728212000978,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8659335970878601,
+      "embedding_score_norm": 0.9689202131937387,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Hon'ble Lt. Governor inaugurated a dedicated Women Police Station ...",
+      "url": "https://lg.delhi.gov.in/image-gallery/11531",
+      "snippet": "Hon'ble Lt. Governor inaugurated a dedicated Women Police Station alongside Commissioner of Police and senior officers of Delhi Police.",
+      "bm25_score_raw": 1.5522357449016844,
+      "bm25_score_norm": 0.6606631428836505,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8597157001495361,
+      "embedding_score_norm": 0.9287784226572412,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Delhi Opens First Women's Police Station, Marking New Step Towards Gender-Sensitive Policing",
+      "url": "https://www.etvbharat.com/amp/en/bharat/delhi-opens-first-womens-police-station-marking-new-step-to-gender-sensitive-policing-enn26062605783",
+      "snippet": "## The new police station will exclusively handle cases involving women and children while providing specialised investigation, counselling and victim support. **New Delhi:**Delhi has inaugurated its first full-fledged women's police station, a pilot initiative aimed at providing a safer, more accessible and women-friendly environment for survivors of gender-based violence to report crimes and seek justice. Located in North Delhi, the new police station will exclusively handle cases involving women and children. The all-women police station is expected to improve access to justice through specialised investigation, counselling and victim support while encouraging more women to report offences without fear or hesitation. Delhi opened its first women's police station (ETV Bharat). Although Delhi already has Crime Against Women (CAW) Cells and Pink Booths, this is the first dedicated women's police station in the national capital. Delhi's first women's police station has been launched nearly five decades after the concept was introduced in the country. The team Delhi's first women's police station (ETV Bharat).",
+      "bm25_score_raw": 0.7582228959513247,
+      "bm25_score_norm": 0.3227151050288906,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.8479874134063721,
+      "embedding_score_norm": 0.853062399303053,
+      "embedding_rank": 5
+    },
+    {
+      "title": "The police station would serve as a direct platform to address issues ...",
+      "url": "https://www.facebook.com/theprintindia/posts/the-police-station-would-serve-as-a-direct-platform-to-address-issues-faced-by-w/1065017789461768",
+      "snippet": "The police station would serve as a direct platform to address issues faced by women in the capital, Taranjit SIngh Sandhu, Lieutenant Governor",
+      "bm25_score_raw": 1.7897008605148892,
+      "bm25_score_norm": 0.7617331318473347,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8390688896179199,
+      "embedding_score_norm": 0.7954857753477328,
+      "embedding_rank": 6
+    },
+    {
+      "title": "Delhi complete travel guide | Discussion on Delhi | Live ...",
+      "url": "https://www.youtube.com/watch?v=NywjbVcmxgQ",
+      "snippet": "Delhi is a famous tourist destination; Delhi is known for its historical monument, forts, food, markets, etc. In this live stream we discussed",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.761588454246521,
+      "embedding_score_norm": 0.2952839485555243,
+      "embedding_rank": 7
+    },
+    {
+      "title": "एप बताएगा दिल्ली में कहां घूमे, क्या खाएं, कैसे जाएं? ये सुविधाएं भी",
+      "url": "https://www.livehindustan.com/ncr/story-the-app-will-tell-where-to-travel-in-delhi-what-to-eat-how-to-go-these-facilities-also-4683383.html",
+      "snippet": "दिल्ली टूरिज्म एप पर सभी तरह की जानकारी और टिकट बुकिंग की सुविधा मिलेगी। ... इससे कम समय में भी आप आसपास के स्थानों पर घूम सकते हैं।",
+      "bm25_score_raw": 0.9560776500866279,
+      "bm25_score_norm": 0.40692611751899443,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.7468307614326477,
+      "embedding_score_norm": 0.20001054347780078,
+      "embedding_rank": 8
+    },
+    {
+      "title": "दिल्ली से मात्र 4 घंटे की दूरी पर,‌ पहाड़ों पर यहां घूमने आएं | MS Vlogger",
+      "url": "https://www.youtube.com/watch?v=g7hF2u9nwbg",
+      "snippet": "दिल्ली से मात्र 4 घंटे की दूरी पर,‌ पहाड़ों पर यहां घूमने आएं | MS Vlogger #MSVlogger #DelightINN. ❤️Book Delight Inn Resort: 80777 62595",
+      "bm25_score_raw": 0.9627922024477513,
+      "bm25_score_norm": 0.4097839677395726,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.7428560256958008,
+      "embedding_score_norm": 0.17435025818052666,
+      "embedding_rank": 9
+    },
+    {
+      "title": "Pitampura Dilli Haat/NSP Dilli Haat After Lockdown Complete ...",
+      "url": "https://www.youtube.com/watch?v=JBXC-LxI_t4",
+      "snippet": "Pitampura Dilli Haat/NSP Dilli Haat After Lockdown Complete Information,New Updates/Delhi. Timing:- 10:30AM To 10PM Opening hours Saturday 10:",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.7291387319564819,
+      "embedding_score_norm": 0.0857935102200547,
+      "embedding_rank": 10
+    },
+    {
+      "title": "दिल्ली से हिमाचल और फिर वापस दिल्ली के लिए 7-दिन की रोड ...",
+      "url": "https://www.reddit.com/r/desitravellers/comments/1piw3qr/need_suggestions_for_a_7day_road_trip_from_delhi?tl=hi",
+      "snippet": "दिन 5: जिभी से तिर्थन घाटी / बंजार: कम भीड़भाड़, सुंदर नदी किनारे रहने की जगहें और अगर आप एक टूरिस्ट स्पॉट की तुलना में शांत दृश्य चाहते हैं, तो यह बहुत अच्छा है। दिन 6: तिर्थन से कंदाघाट / चैल: ऑट से",
+      "bm25_score_raw": 0.8655336425372105,
+      "bm25_score_norm": 0.3683887440605138,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.7249395847320557,
+      "embedding_score_norm": 0.05868445872132241,
+      "embedding_rank": 11
+    },
+    {
+      "title": "दिल्ली हाट, पीतमपुरा | जिला उत्तर पश्चिम, दिल्ली सरकार | India",
+      "url": "https://dmnorthwest.delhi.gov.in/hi/tourist-place/%E0%A4%A6%E0%A4%BF%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80-%E0%A4%B9%E0%A4%BE%E0%A4%9F-%E0%A4%AA%E0%A5%80%E0%A4%A4%E0%A4%AE%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE",
+      "snippet": "दिली हाट हमेशा की तरह सभी मौसमों का गंतव्य माना जाता है। यह परिसर 7.2 एकड़ के क्षेत्र में स्थापित है। एक बेजोड़ संस्कृति है और विविधता का एक मोज़ेक जुड़ा हुआ है। जैसे-जैसे समय बदला है, दिल्ली पर्यटन इस हाट के साथ आया है,",
+      "bm25_score_raw": 1.0205278804274553,
+      "bm25_score_norm": 0.4343574480217224,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.7158494591712952,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

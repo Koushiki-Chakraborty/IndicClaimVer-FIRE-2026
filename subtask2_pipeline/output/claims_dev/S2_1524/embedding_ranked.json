@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/1524",
+    "text": "ক্রমেই ভয়ংকর রূপ নিচ্ছে করোনা, সংক্রমণ রুখতে দিঘায় জমায়েতে ‘না’ প্রশাসনের",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Ebola death toll in DRC surges to at least 930 as outbreak gathers pace - Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/20/ebola-death-toll-in-drc-surges-to-at-least-930-as-outbreak-gathers-pace",
+      "snippet": "# Ebola death toll in DRC surges to at least 930 as outbreak continues spread. *Ebola is spreading faster than any previous outbreak in DRC, with 37 new deaths recorded over just 24 hours at the weekend.*. The death toll from the latest Ebola outbreak in the Democratic Republic of Congo (DRC) has risen to at least 930 and the virus appears to be spreading faster. The health ministry said on Monday that the number of confirmed cases had reached at least 2,344. That is total confirmed total as of Saturday with 37 deaths recorded in just 24 hours from Friday – one of the highest daily increases recorded since the Ebola outbreak was first declared in the DRC on May 15. The World Health Organization (WHO) warned last week that Ebola is spreading in the DRC faster than in any previous outbreak. This time, it took only two months to reach 2,000 confirmed cases, and the ⁠⁠WHO said the ⁠⁠true tally could be at least double that.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.8520287275314331,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Measles, Salmonella, Explosive Diarrhea: Public Health Crises Erupt Under RFK Jr.'s Leadership - Common Dreams",
+      "url": "https://www.commondreams.org/news/rfk-jr-health-crises",
+      "snippet": "To donate by check, phone, or other method, see our More Ways to Give page. ## 'Another Shitty Situation': Trump Attack on CDC Monitoring Blamed in 'Explosive Diarrhea' Outbreak. US Secretary of Health and Human Services Robert F. # Measles, Salmonella, Explosive Diarrhea: Public Health Crises Erupt Under RFK Jr.'s Leadership. \"When the Trump administration declares a crisis ‘under control’, it’s time to brace for the worst yet to come,\" said one critic. Dr. Jonathan Temte, a former chairman of the CDC’s vaccine advisory committee, placed blame for the outbreaks on the US Department of Health and Human Services (HHS) under the leadership of Kennedy, who prior to becoming America's top public health official was best known as an anti-vaccine conspiracy theorist. \"If history is any judge, when the Trump administration declares a crisis ‘under control’, it’s time to brace for the worst yet to come,\" said Woodhouse. And it's never been this hard to keep us going.",
+      "bm25_score_raw": 1.3945511279900298,
+      "bm25_score_norm": 0.37908749439522593,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8377498388290405,
+      "embedding_score_norm": 0.8277258168209675,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Trump cuts to advisory groups leaves hospitals without key expertise on disease : Trump's Terms - NPR",
+      "url": "https://www.npr.org/2026/07/21/nx-s1-5901979/trump-cuts-to-advisory-groups-leaves-hospitals-without-key-expertise-on-disease",
+      "snippet": "* Keyboard shortcuts for audio player. **Trump cuts to advisory groups leaves hospitals without key expertise on disease : Trump's Terms**  **Under the Trump administration, dozens of advisory committees have been ended or frozen, including one on controlling infection in healthcare settings. NPR's Katia Riddle reports. Support NPR and hear every episode of *Trump's Terms*sponsor-free with NPR+. Sign up at plus.npr.org.**. ### Trump's Terms. # Trump cuts to advisory groups leaves hospitals without key expertise on disease. * **`<iframe src=\"https://www.npr.org/player/embed/nx-s1-5901979/nx-s1-mx-5901979-1\" width=\"100%\" height=\"290\" frameborder=\"0\" scrolling=\"no\" title=\"NPR embedded audio player\">`**. Under the Trump administration, dozens of advisory committees have been ended or frozen, including one on controlling infection in healthcare settings.",
+      "bm25_score_raw": 1.534918796553928,
+      "bm25_score_norm": 0.4172443082272736,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8353290557861328,
+      "embedding_score_norm": 0.7985191726581973,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Hamas attacking humanitarian aid points, threatens local Gazans as war continues - The Jerusalem Post",
+      "url": "https://www.jpost.com/middle-east/article-903025",
+      "snippet": "# Hamas attacks Gaza aid sites, holds Palestinians ransom for expended ammunition expenses - report. Humanitarian aid enters Gaza through the Rafah border crossing, in Khan Yunis in the southern Gaza Strip, on June 10, 2026. Hamas has repeatedly attacked food distribution points in the Gaza Strip, hijacking aid and threatening locals, Palestinians told *The**Telegraph* in a report published on Saturday. In one instance, according to one anonymous Gazan civilian, armed Hamas terrorists had been waiting near a shelter containing displaced women, children, and elderly people, when a group of men asked them to move away so that the shelter would not become a target. The source also told the *Telegraph*that the Hamas terrorists had refused to release the civilians they'd arrested until they were compensated for the ammunition they had expended - around NIS 24,500. Last week, Hamas terrorists invaded the warehouse at the Abu Rashid food distribution point in Jabalia, operated by the World Food Programme (WFP), and assaulted two drivers who were delivering humanitarian supplies, according to the UN.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.8130810260772705,
+      "embedding_score_norm": 0.5300976431315414,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Ramat Gan opens all bomb shelters as the US, Iran intensify strikes - The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-903421",
+      "snippet": "# Ramat Gan opens all bomb shelters as as Iran missile threat 'no longer negligible'. ## “A situation assessment found that the risk of missile fire from Iran over the weekend has increased and is no longer negligible,” Ramat Gan Mayor Carmel Shama-Hacohen. People take shelter in an underground train station in Ramat Gan, during ongoing missile attacks from Iran, February 28, 2026. Ramat Gan opened all its public bomb shelters after a municipal assessment found that the risk of Iranian missile fire over the weekend had increased and was no longer negligible, Mayor Carmel Shama-Hacohen announced on Facebook on Thursday. “We decided to open all the shelters in the city,” Shama-Hacohen wrote in a social media post. “A situation assessment found that the risk of missile fire from Iran over the weekend has increased and is no longer negligible,” he said. Shama-Hacohen also sought to reassure residents that Israel was prepared to respond should Iran launch another round of missile attacks.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.8122656345367432,
+      "embedding_score_norm": 0.520259978972712,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Trump cuts to advisory groups leaves hospitals without key expertise on disease - WFSU News",
+      "url": "https://news.wfsu.org/npr-news/2026-07-21/trump-cuts-to-advisory-groups-leaves-hospitals-without-key-expertise-on-disease",
+      "snippet": "WFSU News · Tallahassee · Panama City · Thomasville. # Trump cuts to advisory groups leaves hospitals without key expertise on disease. Published July 21, 2026 at 4:44 AM EDT. Under the Trump administration, dozens of advisory committees have been ended or frozen, including one on controlling infection in healthcare settings. NPR News NPR Health News.",
+      "bm25_score_raw": 1.3352300232908054,
+      "bm25_score_norm": 0.36296195514906165,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8071532845497131,
+      "embedding_score_norm": 0.45857969442834395,
+      "embedding_rank": 6
+    },
+    {
+      "title": "'Let's brew it in the United States': Teamsters target Modelo and Corona in push for Mexican beer tariffs - Fox News",
+      "url": "https://www.foxnews.com/politics/lets-brew-united-states-teamsters-target-modelo-corona-push-mexican-beer-tariffs",
+      "snippet": "* #### Johnson warns America is in 'battle' against Marxism, calls for renewed focus on nation's founding principles. # 'Let's brew it in the United States': Teamsters target Modelo and Corona in push for Mexican beer tariffs. ## Union president Sean O'Brien says US workers can brew the same recipes, wants production shifted to American breweries. Teamsters president Sean O'Brien says imported brands like Modelo could instead be brewed in the U.S., arguing tariffs would bolster American manufacturing and protect union jobs. The International Brotherhood of Teamsters are urging the administration to impose significant tariffs on Mexican beer, arguing more of it should be brewed by U.S. workers instead of across the border. The tariff push could have implications for some of America's best-known imported beer brands, including Modelo, Corona, Pacifico and Tecate, much of which is brewed in Mexico before being shipped to retailers across the U.S. Let's brew it in the United States,\" Sean O'Brien, general president of the International Brotherhood of Teamsters, told Fox News Digital.",
+      "bm25_score_raw": 3.6787051765313845,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8070272207260132,
+      "embedding_score_norm": 0.4570587397722092,
+      "embedding_rank": 7
+    },
+    {
+      "title": "Israel Police arrest two in Shuafat suspected of planning terrorism - The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/crime-in-israel/article-903380",
+      "snippet": "# Police arrest two suspected of plotting Jerusalem terror attack, seize illegal weapons in A-Ram. ## Israel Police arrested an illegal resident who is suspected of committing \"indecent acts\" against two minors and a young woman, the police also announced on Wednesday. Two suspects were arrested on Tuesday after allegedly planning a terror attack in Jerusalem, the police announced on Wednesday. Later, the police also announced that they had located several illegal weapons and other illicit items in the town of A-Ram. The items were distributed across two locations, the police stated, and consisted of a Glock pistol and ammunition, a hunting rifle, two Palestinian flags, a police vest, an M5 scope, and an FN pistol. He was arrested and taken for questioning, and the owner of the business he had been employed at was detained. The police also announced on Wednesday that they had conducted a major generalized crackdown in Beit Hanina.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.806128978729248,
+      "embedding_score_norm": 0.4462214883925631,
+      "embedding_rank": 8
+    },
+    {
+      "title": "Israeli hiker killed, two wounded in suspected terror shooting in West Bank - Ynetnews",
+      "url": "https://www.ynetnews.com/article/rk5pbklsfe",
+      "snippet": "# Israeli hiker killed, two wounded in suspected terror shooting in West Bank. ## Israeli accounts say a Palestinian snatched a security guard’s rifle and opened fire after a clash near Nablus; four Palestinians also reported killed; Israeli forces seal off the area. One Israeli hiker was killed and two others were wounded Friday in a shooting near the Palestinian West Bank village of Tell, southwest of Nablus, after a confrontation between a group of Israelis and Palestinians. According to Israeli accounts, the group was hiking in the area and clashed with Palestinians near a mosque on the outskirts of the village. The Israelis alleged that one of the Palestinians snatched the security coordinator's weapon and opened fire on the Israeli civilians, killing one man and wounding two others. The military said additional forces were being deployed and imposed a security cordon around the village of Tell and at several entrances to the nearby city of Nablus as troops searched for those involved.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.794590950012207,
+      "embedding_score_norm": 0.30701566403513947,
+      "embedding_rank": 9
+    },
+    {
+      "title": "Thousands sickened by lettuce in US: what may be lurking in your salad bowl? - Ynetnews",
+      "url": "https://www.ynetnews.com/food/article/sy00weboefl",
+      "snippet": "## A Cyclospora outbreak linked to iceberg lettuce highlights the importance of handling leafy greens safely at home; how can you reduce infection risk, and which common mistakes allow bacteria to thrive in your refrigerator? Thousands of people in the United States have fallen ill in recent months with a parasitic infection of the digestive system. Now, after weeks of epidemiological investigation, health authorities have identified the source of the outbreak: chopped iceberg lettuce grown in Mexico and supplied to Taco Bell locations in five U.S. states. How did the parasite spread, and what does it mean for the vegetable drawer in your refrigerator and the way you handle leafy greens? An investigation by the U.S. Centers for Disease Control and Prevention and the Food and Drug Administration led to a single supplier of iceberg lettuce from Mexico. The Cyclospora outbreak in the United States illustrates that even vegetables considered healthy and safe can become contaminated at various stages along the way from the field to the plate.",
+      "bm25_score_raw": 2.304949589155197,
+      "bm25_score_norm": 0.6265654567427205,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.7944523096084595,
+      "embedding_score_norm": 0.3053429734771397,
+      "embedding_rank": 10
+    },
+    {
+      "title": "Stun grenade thrown at residential building in Ramat Gan, two suspects arrested - Ynetnews",
+      "url": "https://www.ynetnews.com/article/7wlu9f1e8",
+      "snippet": "# Stun grenade thrown at residential building in Ramat Gan, two suspects arrested. A stun grenade was thrown overnight at a residential building in Ramat Gan, apparently as part of a conflict between crime families. Police said officers managed to arrest two suspects within minutes of the incident. The suspects, residents of Modiin in their 20s, will be brought later today to a hearing at the Rishon Lezion Magistrate's Court for a discussion on extending their detention. The commenter agrees to the privacy policy of Ynet News and agrees not to submit comments that violate the terms of use, including incitement, libel and expressions that exceed the accepted norms of freedom of speech.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.7854505181312561,
+      "embedding_score_norm": 0.19673674324415674,
+      "embedding_rank": 11
+    },
+    {
+      "title": "Flood-hit Agriculture Needs Urgent Climate Action - daily-sun.com",
+      "url": "https://www.daily-sun.com/opinion/887386",
+      "snippet": "Bangladesh’s agriculture is currently facing one of the most severe consequences of climate change. According to the latest data from the Ministry of Agriculture, floods have affected 43 districts across the country, damaging crops on 114,723 hectares of land. Of this, 107,845 hectares-- nearly 90 per cent of the total affected area-- are located in 16 districts. The worst-affected crops are Aus rice, Aman seedbeds and seasonal vegetables. Approximately 79,500 hectares of Aus rice, 10,504 hectares of Aman seedbeds, and 17,800 hectares of seasonal vegetables have been damaged. According to preliminary information from the Department of Agricultural Extension (DAE), Cumilla, crops on 19,899 hectares have been affected in Cumilla district alone. Of these, 19,477 hectares were standing crops, while crops on 2,671 hectares have already been damaged. A crop-wise assessment shows that transplanted Aman rice has suffered the largest overall impact, with 66 hectares damaged out of 16,200 hectares cultivated. A comprehensive recovery of agriculture, fisheries, and livestock is essential for restoring the rural economy.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.7691440582275391,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

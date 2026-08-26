@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/HI/1184",
+    "text": "मोदी सरकार की आलोचना के बाद अनुपम खेर की सफाई, काम करने वालों से ही होती है ग़लती",
+    "lang": "hindi"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "'Only those who work make mistakes': Anupam Kher after ...",
+      "url": "https://indianexpress.com/article/entertainment/bollywood/only-those-who-work-make-mistakes-anupam-kher-after-his-image-building-comment-7314955",
+      "snippet": "The actor said a lot of criticism levelled against the government was valid. The remarks were surprising for many and were much discussed on social media sites.",
+      "bm25_score_raw": 2.632318705516795,
+      "bm25_score_norm": 0.2990749508033585,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.9183348417282104,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Anupam Kher In Damage Control Mode After 'Image-Building ...",
+      "url": "https://news.abplive.com/news/india/anupam-kher-in-damage-control-mode-says-only-those-who-work-make-mistakes-1458387",
+      "snippet": "After Criticising Govt For Image-Building, Anupam Kher Says 'Only Those Who Work Make Mistakes'. “Only those who work make mistakes. Ne'er-do-",
+      "bm25_score_raw": 1.5077669310839432,
+      "bm25_score_norm": 0.11891360817814782,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.9168621897697449,
+      "embedding_score_norm": 0.9835904213808699,
+      "embedding_rank": 2
+    },
+    {
+      "title": "“Those Who Work, Commit Mistakes…” Anupam Kher's ...",
+      "url": "https://hwnews.in/news/national-news/those-who-work-commit-mistakes-anupam-khers-cryptic-tweet-two-days-after-modis-govts-criticism/156875",
+      "snippet": "“I think the criticism is valid in lots of cases and I think it is important for the government to rise to the occasion and do things that they",
+      "bm25_score_raw": 2.1151297868186023,
+      "bm25_score_norm": 0.21621753854189127,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8943840265274048,
+      "embedding_score_norm": 0.7331190287219099,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Anupam Kher: “They Told Me to Sign a Letter Against Modi ...",
+      "url": "https://www.youtube.com/shorts/6xzIlH1KCiY",
+      "snippet": "He further criticized what he called “left-wing hypocrisy,” pointing out that many of those claiming to represent the poor live in “massive",
+      "bm25_score_raw": 0.8905263697883479,
+      "bm25_score_norm": 0.020027197810927176,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.8671852350234985,
+      "embedding_score_norm": 0.430046259244377,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Anupam Kher shares a strong perspective on the potential ...",
+      "url": "https://www.facebook.com/100081395611924/videos/anupam-kher-shares-a-strong-perspective-on-the-potential-long-term-impact-of-gov/2537035003413734",
+      "snippet": "तू साला हरामी चोरों का साथी अपनी बकवास बंद कर और जा सिनेमा मे नौटंकी कर l ... Actor Anupam Kher Praises PM Modi On Becoming Longest-Serving Prime Minister #anupamkher #.",
+      "bm25_score_raw": 1.7224161324967684,
+      "bm25_score_norm": 0.1533019655656653,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.8627750873565674,
+      "embedding_score_norm": 0.3809045292881124,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Anupam Kher's Reel and Real Politics in A Messy Clash",
+      "url": "https://www.thequint.com/entertainment/bollywood/anupam-kher-reel-and-real-politics-in-a-messy-clash",
+      "snippet": "Whether it be criticising the UPA government, calling out “anti-national” elements in his own industry or praising PM Modi, Kher has shown a",
+      "bm25_score_raw": 1.079614851544516,
+      "bm25_score_norm": 0.05032054269968051,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.8543959856033325,
+      "embedding_score_norm": 0.28753723487276217,
+      "embedding_rank": 6
+    },
+    {
+      "title": "अनुपम खेर ने भी सरकार का साथ छोड़ दिया ! । Anupam Kher । Modi ...",
+      "url": "https://www.youtube.com/watch?v=nY8t0QZo7DY",
+      "snippet": "अनुपम खेर ने भी सरकार का साथ छोड़ दिया ! । Anupam Kher । Modi । Ashutosh #ModiGovernment #CoronaCrisis #TheDailyShow कोरोना पर सरकार पूरी तरह फेल ।",
+      "bm25_score_raw": 6.252649130483863,
+      "bm25_score_norm": 0.8790781173431244,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8522008061408997,
+      "embedding_score_norm": 0.263076621647201,
+      "embedding_rank": 7
+    },
+    {
+      "title": "Instagram",
+      "url": "https://www.instagram.com/reel/DQM4bJ5DJu9?hl=en",
+      "snippet": "thebrief.in's profile picture. Never miss a post from thebrief.in. Sign up for Instagram to stay in the loop. By continuing, you agree to Instagram's Terms of Use and Privacy Policy. Video by The Brief India on October 24, 2025. Anupam Kher: “They Told Me to Sign a Letter Against Modi, I Refused.”. In a candid interview with TV9 Bharatvarsh, veteran actor Anupam Kher revealed that back in 2014, nearly 70 people from the film industry had signed a letter opposing Narendra Modi’s bid for Prime Minister. Kher said he was asked to sign it too, but he refused. Photo by The Brief India on July 19, 2026. Video by The Brief India on July 07, 2026. May be an image of magazine, poster and text that says 'brief india DEVI: Indian Heritagea at Display! May be an image of train, poster, steam engine, railroad and text that says 'brief india Tona We Are Our Own Enemies!",
+      "bm25_score_raw": 0.7655183047560642,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.8519841432571411,
+      "embedding_score_norm": 0.26066237393276637,
+      "embedding_rank": 8
+    },
+    {
+      "title": "Anupam Kher Had Nothing—Then Saaransh Changed ...",
+      "url": "https://www.youtube.com/watch?v=p-BJvN1NlJY",
+      "snippet": "/ livehindustan. Anupam Kher Had Nothing—Then Saaransh Changed Everything! | ... Modi के खिलाफ दिल्ली में घुसेंगे हजारों किसान, सैकड़ों बसें, सड़कें जाम!",
+      "bm25_score_raw": 1.8804462880996515,
+      "bm25_score_norm": 0.1786195415599277,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8469828367233276,
+      "embedding_score_norm": 0.2049334338439672,
+      "embedding_rank": 9
+    },
+    {
+      "title": "Anupam Kher Calls His Support a 'Small Effort for the ...",
+      "url": "https://www.instagram.com/reel/DYeA-1DvJKt",
+      "snippet": "नमस्कार दोस्तों प्रधानमंत्री नरेंद्र मोदी जी ने देशवासियों से अपील की है कि हम सब मिलकर पेट्रोल डीजल की बचत करने की कोशिश करें जहाँ संभव हो सार्वजनिक परिवहन का इस्तेमाल करें।",
+      "bm25_score_raw": 2.019305208362153,
+      "bm25_score_norm": 0.20086574674029503,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8456038236618042,
+      "embedding_score_norm": 0.18956726187115822,
+      "embedding_rank": 10
+    },
+    {
+      "title": "सरकार की आलोचना पर अनुपम खेर ने दी सफाई, कही थी चौंकाने ...",
+      "url": "https://www.youtube.com/watch?v=ezsOESCDTAM",
+      "snippet": "#spn9news #anupmkher #pmmodi #bjp बॉलीवुड एक्टर अनुपम खेर ने कुछ दिनों पहले मोदी सरकार की जमकर आलोचना की थी। ... सरकार की आलोचना पर अनुपम खेर ने दी सफाई, कही थी चौंकाने वाली बात ||",
+      "bm25_score_raw": 5.98526458597963,
+      "bm25_score_norm": 0.8362411758786837,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8377805948257446,
+      "embedding_score_norm": 0.10239399061531769,
+      "embedding_rank": 11
+    },
+    {
+      "title": "पहली बार अनुपम खेर ने मोदी को औकात याद दिलाई/ANUPAM KHER ...",
+      "url": "https://www.youtube.com/watch?v=rLRPe_2pbJ0",
+      "snippet": "पहली बार अनुपम खेर ने मोदी को औकात याद दिलाई/ANUPAM KHER ON CORONA AND MODI ... Ram Mandir 200 Cr Scam: SIT की रिपोर्ट में खुलासा, 25 पर FIR!",
+      "bm25_score_raw": 7.007433235265073,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8285914063453674,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

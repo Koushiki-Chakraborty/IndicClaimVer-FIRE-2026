@@ -1,0 +1,108 @@
+{
+  "claim": {
+    "id": "S2/1053",
+    "text": "Centre confident of passing Lokpal Bill in Rajya Sabha tomorrow",
+    "lang": "dev"
+  },
+  "generated_queries": {
+    "english_translation": "Centre confident of passing Lokpal Bill in Rajya Sabha tomorrow",
+    "native_query": "Lokpal Bill Rajya Sabha Centre confident passing tomorrow",
+    "english_query": "Lokpal Bill Rajya Sabha Centre confident passing tomorrow"
+  },
+  "native_retrieval": [
+    {
+      "title": "Centre confident of passing Lokpal Bill in Rajya Sabha tomorrow",
+      "url": "https://m.economictimes.com/news/politics-and-nation/centre-confident-of-passing-lokpal-bill-in-rajya-sabha-tomorrow/articleshow/27432739.cms",
+      "snippet": "CHENNAI/NEW DELHI: With BJP promising support, the Centre was today optimistic that the amended Lokpal Bill will be passed in Rajya Sabha tomorrow even as"
+    },
+    {
+      "title": "Centre confident of passing Lokpal Bill in RS on Monday",
+      "url": "https://www.deccanchronicle.com/131215/news-current-affairs/article/centre-confident-passing-lokpal-bill-rs-monday",
+      "snippet": "Centre today expressed confidence that the legislation will be passed in the Rajya Sabha tomorrow. With BJP promising support \"even without"
+    },
+    {
+      "title": "Centre confident of passing Lokpal today",
+      "url": "https://www.dailyexcelsior.com/news/archive/centre-confident-of-passing-lokpal-today",
+      "snippet": "CHENNAI/NEW DELHI, Dec 15: With BJP promising support, the Centre was today optimistic that the amended Lokpal bill will be passed in Rajya Sabha tomorrow"
+    },
+    {
+      "title": "Hazare's fast enters 6th day; Centre confident of passing Lokpal ...",
+      "url": "https://www.hindustantimes.com/india/hazare-s-fast-enters-6th-day-centre-confident-of-passing-lokpal-bill-in-rs-on-monday/story-uSvIIKBRI8m6GFM0aRZn4I.html",
+      "snippet": "“Chances are high that the bill will be passed in the Rajya Sabha tomorrow (Monday),” Narayansamy told reporters at Chennai airport on Sunday. Seeking to give a"
+    },
+    {
+      "title": "Centre confident of passing Lokpal Bill in RS tomorrow",
+      "url": "https://www.thehindubusinessline.com/news/national/centre-confident-of-passing-lokpal-bill-in-rs-tomorrow/article20699673.ece1",
+      "snippet": "BJP promising support “even without discussion” on the Lokpal Bill, Centre today expressed confidence that the legislation will be passed in"
+    },
+    {
+      "title": "Lokpal Bill Set to Get Rajya Sabha Stamp",
+      "url": "https://www.newindianexpress.com/india/2013/Dec/16/lokpal-bill-set-to-get-rajya-sabha-stamp-551529.html",
+      "snippet": "After the BJP extended its support, the Centre is now confident of getting the Lokpal Bill passed by the Rajya Sabha on Monday,"
+    }
+  ],
+  "english_retrieval": [
+    {
+      "title": "Centre confident of passing Lokpal Bill in Rajya Sabha tomorrow",
+      "url": "https://m.economictimes.com/news/politics-and-nation/centre-confident-of-passing-lokpal-bill-in-rajya-sabha-tomorrow/articleshow/27432739.cms",
+      "snippet": "CHENNAI/NEW DELHI: With BJP promising support, the Centre was today optimistic that the amended Lokpal Bill will be passed in Rajya Sabha tomorrow even as"
+    },
+    {
+      "title": "Centre confident of passing Lokpal Bill in RS on Monday",
+      "url": "https://www.deccanchronicle.com/131215/news-current-affairs/article/centre-confident-passing-lokpal-bill-rs-monday",
+      "snippet": "Centre today expressed confidence that the legislation will be passed in the Rajya Sabha tomorrow. With BJP promising support \"even without"
+    },
+    {
+      "title": "Centre confident of passing Lokpal today",
+      "url": "https://www.dailyexcelsior.com/news/archive/centre-confident-of-passing-lokpal-today",
+      "snippet": "CHENNAI/NEW DELHI, Dec 15: With BJP promising support, the Centre was today optimistic that the amended Lokpal bill will be passed in Rajya Sabha tomorrow"
+    },
+    {
+      "title": "Hazare's fast enters 6th day; Centre confident of passing Lokpal ...",
+      "url": "https://www.hindustantimes.com/india/hazare-s-fast-enters-6th-day-centre-confident-of-passing-lokpal-bill-in-rs-on-monday/story-uSvIIKBRI8m6GFM0aRZn4I.html",
+      "snippet": "“Chances are high that the bill will be passed in the Rajya Sabha tomorrow (Monday),” Narayansamy told reporters at Chennai airport on Sunday. Seeking to give a"
+    },
+    {
+      "title": "Centre confident of passing Lokpal Bill in RS tomorrow",
+      "url": "https://www.thehindubusinessline.com/news/national/centre-confident-of-passing-lokpal-bill-in-rs-tomorrow/article20699673.ece1",
+      "snippet": "BJP promising support “even without discussion” on the Lokpal Bill, Centre today expressed confidence that the legislation will be passed in"
+    },
+    {
+      "title": "Lokpal Bill Set to Get Rajya Sabha Stamp",
+      "url": "https://www.newindianexpress.com/india/2013/Dec/16/lokpal-bill-set-to-get-rajya-sabha-stamp-551529.html",
+      "snippet": "After the BJP extended its support, the Centre is now confident of getting the Lokpal Bill passed by the Rajya Sabha on Monday,"
+    }
+  ],
+  "merged_results": [
+    {
+      "title": "Centre confident of passing Lokpal Bill in Rajya Sabha tomorrow",
+      "url": "https://m.economictimes.com/news/politics-and-nation/centre-confident-of-passing-lokpal-bill-in-rajya-sabha-tomorrow/articleshow/27432739.cms",
+      "snippet": "CHENNAI/NEW DELHI: With BJP promising support, the Centre was today optimistic that the amended Lokpal Bill will be passed in Rajya Sabha tomorrow even as"
+    },
+    {
+      "title": "Centre confident of passing Lokpal Bill in RS on Monday",
+      "url": "https://www.deccanchronicle.com/131215/news-current-affairs/article/centre-confident-passing-lokpal-bill-rs-monday",
+      "snippet": "Centre today expressed confidence that the legislation will be passed in the Rajya Sabha tomorrow. With BJP promising support \"even without"
+    },
+    {
+      "title": "Centre confident of passing Lokpal today",
+      "url": "https://www.dailyexcelsior.com/news/archive/centre-confident-of-passing-lokpal-today",
+      "snippet": "CHENNAI/NEW DELHI, Dec 15: With BJP promising support, the Centre was today optimistic that the amended Lokpal bill will be passed in Rajya Sabha tomorrow"
+    },
+    {
+      "title": "Hazare's fast enters 6th day; Centre confident of passing Lokpal ...",
+      "url": "https://www.hindustantimes.com/india/hazare-s-fast-enters-6th-day-centre-confident-of-passing-lokpal-bill-in-rs-on-monday/story-uSvIIKBRI8m6GFM0aRZn4I.html",
+      "snippet": "“Chances are high that the bill will be passed in the Rajya Sabha tomorrow (Monday),” Narayansamy told reporters at Chennai airport on Sunday. Seeking to give a"
+    },
+    {
+      "title": "Centre confident of passing Lokpal Bill in RS tomorrow",
+      "url": "https://www.thehindubusinessline.com/news/national/centre-confident-of-passing-lokpal-bill-in-rs-tomorrow/article20699673.ece1",
+      "snippet": "BJP promising support “even without discussion” on the Lokpal Bill, Centre today expressed confidence that the legislation will be passed in"
+    },
+    {
+      "title": "Lokpal Bill Set to Get Rajya Sabha Stamp",
+      "url": "https://www.newindianexpress.com/india/2013/Dec/16/lokpal-bill-set-to-get-rajya-sabha-stamp-551529.html",
+      "snippet": "After the BJP extended its support, the Centre is now confident of getting the Lokpal Bill passed by the Rajya Sabha on Monday,"
+    }
+  ]
+}

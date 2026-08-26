@@ -1,0 +1,105 @@
+{
+  "claim": {
+    "id": "S2/1234",
+    "text": "Corona Latest Update: कोरोना ने पकड़ी रफ्तार, SC में सीजेआई बोले- कोर्ट में मास्क लगाकर आएं, दिल्ली में 1000 रुपये जुर्माना",
+    "lang": "dev"
+  },
+  "ranked_evidence": [
+    {
+      "title": "CJI agrees to proposal of setting up Covid centre in SC ...",
+      "url": "https://theprint.in/judiciary/cji-agrees-to-proposal-of-setting-up-covid-centre-in-sc-complex-delhi-govt-to-inspect-building/646400",
+      "snippet": "CJI agrees to proposal of setting up Covid centre in SC complex, Delhi govt to inspect building Supreme Court Bar Association to submit",
+      "bm25_score_raw": 7.128249913807318,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Covid-19 Big Alert: Delhi-NCR में फैला कोरोना, अब मिले इतने ...",
+      "url": "https://www.youtube.com/watch?v=ZFrbSJ3FQrw",
+      "snippet": "Covid-19 Big Alert: Delhi-NCR में फैला कोरोना, अब मिले इतने | Covid 19 | Corona ... Covid 19 Latest Updates: Delhi में आई कोरोना की लहर? |",
+      "bm25_score_raw": 6.402310819834524,
+      "bm25_score_norm": 0.898160263353469,
+      "bm25_rank": 2
+    },
+    {
+      "title": "Corona Virus Update: Delhi में कोरोना का कहर, अब तक 2500 से ...",
+      "url": "https://www.youtube.com/watch?v=ae_IxemcJzw",
+      "snippet": "Corona Virus Update: Delhi में कोरोना का कहर, अब तक 2500 से ज्यादा मामले आए सामने | Covid-19 #coronavirus #coronavirusupdates #covid19 #covid19india",
+      "bm25_score_raw": 5.984005985711459,
+      "bm25_score_norm": 0.8394775797802101,
+      "bm25_rank": 3
+    },
+    {
+      "title": "कोरोना पर सुप्रीम कोर्ट की दिल्ली सहित 4 राज्यों को फटकार, 48 ...",
+      "url": "https://www.abplive.com/news/india/supreme-court-rebuked-delhi-government-on-corona-virus-sought-information-about-steps-taken-1649501",
+      "snippet": "नई दिल्ली: देश की राजधानी दिल्ली में कोरोना वायरस का कहर लगातार बढ़ता ही जा रहा है. दिल्ली, असम, महाराष्ट्र और गुजरात में कोरोना वायरस के संक्रमित मरीजों का ग्राफ ऊपर की ओर ही जा रहा है. दिल्ली में बढ़ते कोरोना",
+      "bm25_score_raw": 5.004098077223221,
+      "bm25_score_norm": 0.7020093483998582,
+      "bm25_rank": 4
+    },
+    {
+      "title": "Gurugram's Tower of Justice: CJI Surya Kant opens North ...",
+      "url": "http://brightwoodcc.org/28509845/in_group/in_inside_textlink_1",
+      "snippet": "Long-pending project gains momentum after fire at old court complex; CJI also lays foundation stones for Tawadu and Punhana courts",
+      "bm25_score_raw": 3.279450475903729,
+      "bm25_score_norm": 0.4600639028594495,
+      "bm25_rank": 5
+    },
+    {
+      "title": "Rise in pendency in Supreme court due to Covid-19 ...",
+      "url": "https://www.hindustantimes.com/india-news/rise-in-pendency-in-top-court-due-to-covid-19-restrictions-cji-ramana-101660585339010.html",
+      "snippet": "The Supreme Court currently has at least 71,400 cases pending. When Justice Ramana took over as CJI in April 2021, a little over 67,000 cases",
+      "bm25_score_raw": 0.8270529628867886,
+      "bm25_score_norm": 0.11602468668849543,
+      "bm25_rank": 6
+    },
+    {
+      "title": "CJI rules out total shutdown of Supreme Court amid ...",
+      "url": "https://www.livemint.com/news/india/cji-rules-out-total-shutdown-of-supreme-court-amid-coronavirus-threat-11584300621602.html",
+      "snippet": "Chief Justice of India SA Bobde on Sunday made it clear that there cannot be a \"complete shutdown\" of courts due the novel coronavirus pandemic.",
+      "bm25_score_raw": 0.6946260156301819,
+      "bm25_score_norm": 0.09744692232026002,
+      "bm25_rank": 7
+    },
+    {
+      "title": "Delhi Covid Situation Remains Grim; Supreme Court Raps ...",
+      "url": "https://www.youtube.com/watch?v=ixOnrObt6W8",
+      "snippet": "Delhi Covid Situation Remains Grim; Supreme Court Raps Delhi Govt Over Its Response To Pandemic. 1.2K views · 5 years ago. #SupremeCourt",
+      "bm25_score_raw": 0.49473942388482456,
+      "bm25_score_norm": 0.06940545433550546,
+      "bm25_rank": 8
+    },
+    {
+      "title": "Pendency Across Three Waves of COVID 19 and Two CJIs",
+      "url": "https://www.scobserver.in/journal/pendency-across-three-waves-of-covid-19-and-two-cjis-ramana-bobde-chief-justice",
+      "snippet": "the pendency of cases has risen 14.7% from March (61,142) to February 2022 (70,154). Justice Bobde assumed the office of the CJI in November",
+      "bm25_score_raw": 0.3511668868702672,
+      "bm25_score_norm": 0.0492641098609719,
+      "bm25_rank": 9
+    },
+    {
+      "title": "Coronavirus cases & dashboard Delhi - Covid Tracking India",
+      "url": "https://covidtracking.in/coronavirus-cases/delhi",
+      "snippet": "At least 20718 new cases were reported in Delhi on 14th Jan. Over the past week, there have been an average of 23529 cases per day,an increase of 117 percent",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10
+    },
+    {
+      "title": "COVID-19 pandemic in Delhi - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Delhi",
+      "snippet": "Ongoing COVID-19 viral pandemic in Delhi, India. The first case of the COVID-19 pandemic in the Indian capital of Delhi was reported on 2 March 2020. Delhi has the seventh-highest number of confirmed cases of COVID-19 in India. On 22 March, Delhi observed a 14-hour voluntary public curfew (the Janata curfew) along with 75 districts in India, at the directive of the Prime Minister. More than 3000 people from a religious gathering in the Nizamuddin Markaz Mosque (in the Nizamuddin West area) were quarantined after suspicions that they had come in contact with infected people. See also: Timeline of the 2020 coronavirus pandemic in India. Major events of COVID-19 pandemic in Delhi in March. * The first case of COVID-19 in Delhi was confirmed on 2 March 2020 when a 45-year-old person from East Delhi, with a history of travel from Italy, tested positive for the coronavirus.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11
+    },
+    {
+      "title": "Chief Justice Rules Out Complete Shutdown Of Supreme ...",
+      "url": "https://www.ndtv.com/india-news/coronavirus-cji-sa-bobde-rules-out-complete-shutdown-of-supreme-court-2195312",
+      "snippet": "Chief Justice of India SA Bobde on Sunday clarified that there cannot be a \"complete shutdown\" of courts due the novel coronavirus pandemic.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12
+    }
+  ]
+}

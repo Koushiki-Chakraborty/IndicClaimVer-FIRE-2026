@@ -1,0 +1,57 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1116",
+    "text": "Has Mulayam lost it? ask UP women on rape remarks",
+    "lang": "english"
+  },
+  "ranked_evidence": [
+    {
+      "title": "Has Mulayam Lost It? Ask UP Women on Rape Remarks",
+      "url": "https://www.newindianexpress.com/elections/2014/Apr/14/has-mulayam-lost-it-ask-up-women-on-rape-remarks-599831.html",
+      "snippet": "In a dingy bylane in the old city area, a family is trying to come to terms with life after their six-year-old daughter was kidnapped,",
+      "bm25_score_raw": 7.466470344341411,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "UP court summons Mulayam over rape remark",
+      "url": "https://www.thehindu.com/news/national/other-states/UP-Court-summons-Mulayam-Singh-over-rape-remark/article60364319.ece",
+      "snippet": "A local court in Mahoba district in Uttar Pradesh, issued summons to Samajwadi Party chief, Mulayam Singh Yadav, over his remark on rape.",
+      "bm25_score_raw": 2.410526914895783,
+      "bm25_score_norm": 0.1974206861104745,
+      "bm25_rank": 2
+    },
+    {
+      "title": "Here are some remarks passed by Mulayam Singh Yadav ...",
+      "url": "https://www.facebook.com/Timesnow/posts/here-are-some-remarks-passed-by-mulayam-singh-yadav-that-got-him-in-trouble/10167456480555311",
+      "snippet": "Mulayam Singh Yadav's rape comments to sexist remarks on women; quotes that got him in trouble. Mulayam Singh Yadav News: His oratorical prowess",
+      "bm25_score_raw": 1.9723123293728453,
+      "bm25_score_norm": 0.12785860214072853,
+      "bm25_rank": 3
+    },
+    {
+      "title": "Mulayam, Azmi invite outrage after remarks on rape",
+      "url": "https://www.hindustantimes.com/india/mulayam-azmi-invite-outrage-after-remarks-on-rape/story-yag1tRYcapFABsd6Ws4v5O.html",
+      "snippet": "After his remarks on rape unleashed outrage across the country, Samajwadi Party chief Mulayam Singh Yadav on Friday attempted damage control",
+      "bm25_score_raw": 1.9409455993299167,
+      "bm25_score_norm": 0.12287945452404488,
+      "bm25_rank": 4
+    },
+    {
+      "title": "Women's groups slam Mulayam Singh Yadav for rape ...",
+      "url": "https://www.ndtv.com/elections-news/womens-groups-slam-mulayam-singh-yadav-for-rape-remarks-557013",
+      "snippet": "The All India Women's Conference (AIWC), which has a pan-India presence, today condemned Samajwadi Party chief Mulayam Singh Yadav's remarks",
+      "bm25_score_raw": 1.7311854046006918,
+      "bm25_score_norm": 0.08958216876197421,
+      "bm25_rank": 5
+    },
+    {
+      "title": "Mulayam Singh Yadav : 'Rape by four persons practically ...",
+      "url": "https://www.youtube.com/watch?v=RijBZ3msSB0",
+      "snippet": "Samajwadi Party chief Mulayam Singh on Tuesday made yet another controversial remark on the issue of gang rape incidents taking place in the",
+      "bm25_score_raw": 1.1668519241467745,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6
+    }
+  ]
+}

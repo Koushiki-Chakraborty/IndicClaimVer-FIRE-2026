@@ -1,0 +1,99 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1185",
+    "text": "Telangana High Court Orders Lake Protection Committee Not To Notify Buffer Zone For Water Bodies In Greater Hyderabad",
+    "lang": "english"
+  },
+  "entity_ranked_evidence": [
+    {
+      "title": "Telangana | History, Map, Population, Capital, & Government",
+      "url": "https://www.britannica.com/place/Telengana",
+      "snippet": "Image 3: TelanganaImage 4: Golconda Fort, Telangana, IndiaImage 5: Lambadi (Banjari) women, Hyderabad, Telangana, IndiaImage 6: Hyderabad, Telangana, IndiaImage 7: Nagarjuna Sagar Dam, IndiaImage 8: Charminar, Hyderabad, Telangana, IndiaImage 9: Salar Jung MuseumImage 10: Quṭb Shāhī tombsImage 11: Khush MahalImage 12: Osman Ali. Jaswant Thada an architectural landmark in Jodhpur, India. # Telangana. Telangana is a state in south-central India. It is bordered by Maharashtra to the north, Chhattisgarh and Odisha to the northeast, Andhra Pradesh to the southeast and south, and Karnataka to the west. Telangana was part of Andhra Pradesh for almost 60 years before it was separated to form a new state on June 2, 2014. Hyderabad, situated in west-central Telangana, is its capital. This followed years of discussion, particularly regarding Hyderabad, which was agreed to serve as the capital of both Telangana and Andhra Pradesh for 10 years. Hyderabad is the capital city of Telangana state in south-central India. The capital of Telangana is Hyderabad, in west-central Telangana.",
+      "bm25_score_raw": 1.702033089104074,
+      "bm25_score_norm": 0.687510674844296,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8051067590713501,
+      "embedding_score_norm": 0.19886202754121213,
+      "embedding_rank": 4,
+      "entity_overlap_raw": 2,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 1
+    },
+    {
+      "title": "Telangana",
+      "url": "https://www.incredibleindia.gov.in/en/telangana",
+      "snippet": "Welcome to the new Incredible India Digital Portal! While we are continuously updating and improving the site, we would love to hear your suggestions for features or content you'd like to see. Please share your feedback at [info[dot]mot[at]gov[dot]in](mailto:info.mot@gov.in). charminar-hyderabad-telangana-state-hero. In the heart of India's Deccan Plateau, Telangana welcomes travellers with a blend of history, culture, and natural beauty. #### Explore the rich heritage of the state. In Hyderabad, the iconic Charminar, now under the care of the Archaeological Survey of India (ASI), holds historical significance, believed to have been built in the 1500s to mark the end of a devastating plague. At the base of Hanamkonda hill in Warangal lies the Thousand Pillar Temple, dedicated to Shiva, Vishnu, and Surya, renowned for its exquisite temple architecture featuring beautifully carved pillars, rock-cut elephants, and a carved Nandi. The serene Ramappa Temple, unique in that it derives its name from its craftsman, Ramappa, showcases stunning Kakatiya architecture, while the iconic Charminar in Hyderabad encapsulates the essence of historical grandeur.",
+      "bm25_score_raw": 1.381933124304748,
+      "bm25_score_norm": 0.39819024786761026,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.7980322241783142,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6,
+      "entity_overlap_raw": 2,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 2
+    },
+    {
+      "title": "Telangana - Latest news, Live Updates, Politics, Events - The Hindu",
+      "url": "https://www.thehindu.com/news/national/telangana",
+      "snippet": "News and reviews from the world of cinema and streaming. Your download of the top 5 technology stories of the day. The weekly newsletter from science writers takes the jargon out of science and puts the fun in! # Telangana News. Sridhar Babu, Ponnam Prabhakar, Mohammed Azharuddin, and other leaders display the newly launched online application form for the Indiramma Indlu (CURE Area) housing scheme during its launch at the Dr. B.R. Ambedkar Telangana State Secretariat in Hyderabad on Monday (July 20, 2026) housing scheme during its launch at the Dr. B.R. Ambedkar Telangana State Secretariat in Hyderabad on Monday (July 20, 2026)\"). ### Thunderstorm forecast in 17 Telangana districts on July 21. Deputy Chief Minister Mallu Bhatti Vikramarka, Agriculture Minister Tummala Nageswara Rao and others at the inauguration of the integrated oil palm complex in Khammam on Monday. Srinivas Rao from Banswada into the party in Hyderabad on Monday as other leaders look on.",
+      "bm25_score_raw": 2.0477667900659027,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8336073160171509,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 3
+    },
+    {
+      "title": "Telangana",
+      "url": "https://en.wikipedia.org/wiki/Telangana",
+      "snippet": "# Telangana. Not to be confused with the Malaysian state of Terengganu. State in South India, India. | The map of India showing Telangana Location of Telangana in India |. **Telangana** is a state in southern India on the Deccan Plateau bordering Maharashtra and Chhattisgarh to the north and Andhra Pradesh and Karnataka to the south. Subsequent major dynasties include the Vishnukundinas, Eastern Chalukyas, Kakatiyas, the Vijayanagara Empire, and Qutb Shahis, followed by the British Raj. Following the Independence of India, the Telugu speaking regions of India were gradually regrouped within the state of Andhra Pradesh but after decades of protests and agitations, the Telangana movement obtained its bifurcation with the creation, in 2014, of the state of Telangana corresponding to the Telugu speaking regions of the Princely State of Hyderabad. The state's capital is the city of Hyderabad. In 1956, Hyderabad State was dissolved and its Telugu-speaking region Telangana was merged with the Andhra State to form Andhra Pradesh.",
+      "bm25_score_raw": 1.7251246949760541,
+      "bm25_score_norm": 0.7083818838575394,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8237605690956116,
+      "embedding_score_norm": 0.7232123260244182,
+      "embedding_rank": 2,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 4
+    },
+    {
+      "title": "Government of Telangana - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Government_of_Telangana",
+      "snippet": "# Government of Telangana. | Leader of the House | Anumula Revanth Reddy (INC) |. | Deputy Leader of the House | TBD (INC) |. | Deputy Leader of the Opposition | TBD (BRS) |. | Leader of the House | Anumula Revanth Reddy (INC)  (Chief Minister) |. | Chief Minister \"Chief minister (India)\") (Head of Government) | Anumula Revanth Reddy, (INC) (Chief Minister of Telangana) |. The **Government of Telangana** is the governing authority of the state of Telangana in India. The state government is headed by the Governor of Telangana as the nominal head of state, with a democratically elected Chief Minister as the real head of the executive. Even though the governor remains the ceremonial head of the state, the day-to-day running of the government is taken care of by the chief minister and his council of ministers in whom a great deal of legislative powers are vested. | Leader of the House Telaṅgāṇa Śāsana Sabha | **Anumula Revanth Reddy** | 7 December 2023 |.",
+      "bm25_score_raw": 0.9413811534059625,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8156298398971558,
+      "embedding_score_norm": 0.49466114658432336,
+      "embedding_rank": 3,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 5
+    },
+    {
+      "title": "Telangana State Portal | Govt Services",
+      "url": "https://www.telangana.gov.in",
+      "snippet": "# Telangana State Portal. ### Applications are invited from the eligible persons for filling up the post of CHAIRPERSON in “Real Estate Regulatory Authority” of Telangana State. Revanth Reddy met Hon’ble Union Minister for Road Transport and Highways Shri Nitin Gadkari in New Delhi. The Chief Minister Relief Fund is intended to extend a helping hand to the poorest of the poor who are in distress. Telangana, as a geographical and political entity was born on June 2, 2014 as the 29th and the youngest state in Union of India. According to the household survey of the Centre for Monitoring Indian Economy (CMIE) in April, 2023, Telangana was the only major State in the country to record a Labour Participation Rate of more than 52.43 per cent. Telangana has seen an exponential increase in the number of students from the state receiving admissions in numerous reputed institutions across the globe and various other international opportunities is indicative of the quality of education in Telangana.",
+      "bm25_score_raw": 1.0920408513636677,
+      "bm25_score_norm": 0.13617286140168147,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8004584312438965,
+      "embedding_score_norm": 0.0681996009054186,
+      "embedding_rank": 5,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 6
+    }
+  ]
+}

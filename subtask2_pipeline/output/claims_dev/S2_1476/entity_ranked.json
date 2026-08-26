@@ -1,0 +1,99 @@
+{
+  "claim": {
+    "id": "S2/1476",
+    "text": "Non-Consummation Of Marriage Constitutes Cruelty Under Section 498A IPC: Karnataka High Court",
+    "lang": "dev"
+  },
+  "entity_ranked_evidence": [
+    {
+      "title": "Non-consummation of marriage is not cruelty under S. 498- ...",
+      "url": "https://www.scconline.com/blog/post/2023/06/20/non-consummation-marriage-cruelty-hindu-marriage-act-498-a-penal-code-karnataka-high-court",
+      "snippet": "Jun 20, 2023 — Karnataka High Court held that Non-consummation of marriage is cruelty under Hindu Marriage Act and not S. 498-A, IPC.",
+      "bm25_score_raw": 2.0099396074298665,
+      "bm25_score_norm": 0.19993660345526323,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.9406460523605347,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 1
+    },
+    {
+      "title": "Kar. HC: Non-Consummation of Marriage Does Not ...",
+      "url": "https://updates.manupatra.com/roundup/contentsummary.aspx?iid=43125",
+      "snippet": "Karnataka High Court has held that non-consummation of marriage will amount to cruelty ... is defined under Section 498A of the Indian Penal Code (IPC). Tags ...Read more",
+      "bm25_score_raw": 2.8770233963293466,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.929047167301178,
+      "embedding_score_norm": 0.7524255293162717,
+      "embedding_rank": 2,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 2
+    },
+    {
+      "title": "non-consummation of marriage not cruelty under section ...",
+      "url": "https://www.facebook.com/groups/683882332144274/posts/1545517335980765",
+      "snippet": "The Karnataka High Court has quashed a criminal complaint filed by a wife against her husband under section 498-A. The Supreme Court observed,",
+      "bm25_score_raw": 1.8387398443285923,
+      "bm25_score_norm": 0.04196955839228763,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.9243121147155762,
+      "embedding_score_norm": 0.6513573549580541,
+      "embedding_rank": 3,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 3
+    },
+    {
+      "title": "Non-consummation of marriage cruelty under Hindu ...",
+      "url": "https://indianexpress.com/article/cities/bangalore/karnataka-high-court-hindu-marriage-act-8676564",
+      "snippet": "Jun 21, 2023 — Non-consummation of marriage would amount to cruelty under Hindu Marriage Act but not under Indian Penal Code (IPC), observed Karnataka High Court recently.Read more",
+      "bm25_score_raw": 1.9673446808684112,
+      "bm25_score_norm": 0.16063401003048605,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.9105544686317444,
+      "embedding_score_norm": 0.35770482459599956,
+      "embedding_rank": 4,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 4
+    },
+    {
+      "title": "Is non-consummation of marriage cruelty under Section ...",
+      "url": "https://www.youtube.com/watch?v=FK9xXVIPqHg",
+      "snippet": "The Karnataka High court found no evidence of cruelty against the husband or the in-laws as the allegations did not pass the muster of Section",
+      "bm25_score_raw": 1.793254544205644,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.907141923904419,
+      "embedding_score_norm": 0.28486515507357374,
+      "embedding_rank": 5,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 5
+    },
+    {
+      "title": "Inside India's Courtrooms ⚖️ \"Is This Mental Cruelty Under ...",
+      "url": "https://www.instagram.com/reel/DaK0bzqT9eJ",
+      "snippet": "Seven Marriages, Seven FIR Law In A Minute Karnataka High Court Section 498A of the Indian Penal Code (IPC) is a criminal law enacted in 1983...Read more",
+      "bm25_score_raw": 2.3889867757509666,
+      "bm25_score_norm": 0.549685692090111,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8937959671020508,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 6
+    }
+  ]
+}

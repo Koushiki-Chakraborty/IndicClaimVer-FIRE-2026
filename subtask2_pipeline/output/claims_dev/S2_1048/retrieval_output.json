@@ -1,0 +1,108 @@
+{
+  "claim": {
+    "id": "S2/1048",
+    "text": "LIVE: Anna Hazare to break his fast once parliament passes Lokpal Bill",
+    "lang": "dev"
+  },
+  "generated_queries": {
+    "english_translation": "LIVE: Anna Hazare to break his fast once parliament passes Lokpal Bill",
+    "native_query": "Anna Hazare Lokpal Bill LIVE break fast parliament passes",
+    "english_query": "Anna Hazare Lokpal Bill LIVE break fast parliament passes"
+  },
+  "native_retrieval": [
+    {
+      "title": "Lok Sabha passes Lokpal Bill, Anna Hazare ends 9-day fast",
+      "url": "https://www.indiatoday.in/india/north/story/lok-sabha-passes-lokpal-bill-anna-hazare-ends-fast-221182-2013-12-17",
+      "snippet": "Anti-corruption crusader Anna Hazare broke his nine-day fast shortly after Lok Sabha passed the Lokpal Bill. Live TV."
+    },
+    {
+      "title": "Lokpal Bill passed by Parliament; Anna Hazare breaks fast ...",
+      "url": "https://timesofindia.indiatimes.com/india/lokpal-bill-passed-by-parliament-anna-hazare-breaks-fast-cold-shoulders-aap/articleshow/27589124.cms",
+      "snippet": "Anna Hazare on Wednesday broke his nine-day fast shortly after Lok Sabha passed the Lokpal Bill, and announced he would form watchdog bodies."
+    },
+    {
+      "title": "Anna Hazare breaks his fast after Parliament passes ...",
+      "url": "https://m.facebook.com/cnnnews18/photos/a.10150159865694202/10152464376134202?type=3",
+      "snippet": "Anna Hazare breaks his fast after Parliament passes Lokpal Bill. Public know IAC movement, youth and aam aadmi protests on road, shows that"
+    },
+    {
+      "title": "Lokpal bill: Indian lower house passes anti-corruption bill",
+      "url": "https://www.bbc.com/news/world-asia-india-25426284",
+      "snippet": "The bill was first introduced in parliament in 2011 after a 12-day fast by Mr Hazare. The lower house passed it but the upper house did not."
+    },
+    {
+      "title": "Lokpal Bill passed in Lok Sabha, Anna ends fast",
+      "url": "https://www.youtube.com/watch?v=sTZPhx04-8Q",
+      "snippet": "The historic Lokpal Bill today took a giant step towards enactment after a 46-year wait, with the Lok Sabha passing it a day after the"
+    },
+    {
+      "title": "India passes 'lokpal' anti-corruption bill",
+      "url": "https://www.theguardian.com/world/2013/dec/18/india-parliament-anit-corruption-bill",
+      "snippet": "Bill spurred by Anna Hazare empowers watchdog to look into and prosecute corruption cases involving politicians and bureaucrats."
+    }
+  ],
+  "english_retrieval": [
+    {
+      "title": "Lok Sabha passes Lokpal Bill, Anna Hazare ends 9-day fast",
+      "url": "https://www.indiatoday.in/india/north/story/lok-sabha-passes-lokpal-bill-anna-hazare-ends-fast-221182-2013-12-17",
+      "snippet": "Anti-corruption crusader Anna Hazare broke his nine-day fast shortly after Lok Sabha passed the Lokpal Bill. Live TV."
+    },
+    {
+      "title": "Lokpal Bill passed by Parliament; Anna Hazare breaks fast ...",
+      "url": "https://timesofindia.indiatimes.com/india/lokpal-bill-passed-by-parliament-anna-hazare-breaks-fast-cold-shoulders-aap/articleshow/27589124.cms",
+      "snippet": "Anna Hazare on Wednesday broke his nine-day fast shortly after Lok Sabha passed the Lokpal Bill, and announced he would form watchdog bodies."
+    },
+    {
+      "title": "Anna Hazare breaks his fast after Parliament passes ...",
+      "url": "https://m.facebook.com/cnnnews18/photos/a.10150159865694202/10152464376134202?type=3",
+      "snippet": "Anna Hazare breaks his fast after Parliament passes Lokpal Bill. Public know IAC movement, youth and aam aadmi protests on road, shows that"
+    },
+    {
+      "title": "Lokpal bill: Indian lower house passes anti-corruption bill",
+      "url": "https://www.bbc.com/news/world-asia-india-25426284",
+      "snippet": "The bill was first introduced in parliament in 2011 after a 12-day fast by Mr Hazare. The lower house passed it but the upper house did not."
+    },
+    {
+      "title": "Lokpal Bill passed in Lok Sabha, Anna ends fast",
+      "url": "https://www.youtube.com/watch?v=sTZPhx04-8Q",
+      "snippet": "The historic Lokpal Bill today took a giant step towards enactment after a 46-year wait, with the Lok Sabha passing it a day after the"
+    },
+    {
+      "title": "India passes 'lokpal' anti-corruption bill",
+      "url": "https://www.theguardian.com/world/2013/dec/18/india-parliament-anit-corruption-bill",
+      "snippet": "Bill spurred by Anna Hazare empowers watchdog to look into and prosecute corruption cases involving politicians and bureaucrats."
+    }
+  ],
+  "merged_results": [
+    {
+      "title": "Lok Sabha passes Lokpal Bill, Anna Hazare ends 9-day fast",
+      "url": "https://www.indiatoday.in/india/north/story/lok-sabha-passes-lokpal-bill-anna-hazare-ends-fast-221182-2013-12-17",
+      "snippet": "Anti-corruption crusader Anna Hazare broke his nine-day fast shortly after Lok Sabha passed the Lokpal Bill. Live TV."
+    },
+    {
+      "title": "Lokpal Bill passed by Parliament; Anna Hazare breaks fast ...",
+      "url": "https://timesofindia.indiatimes.com/india/lokpal-bill-passed-by-parliament-anna-hazare-breaks-fast-cold-shoulders-aap/articleshow/27589124.cms",
+      "snippet": "Anna Hazare on Wednesday broke his nine-day fast shortly after Lok Sabha passed the Lokpal Bill, and announced he would form watchdog bodies."
+    },
+    {
+      "title": "Anna Hazare breaks his fast after Parliament passes ...",
+      "url": "https://m.facebook.com/cnnnews18/photos/a.10150159865694202/10152464376134202?type=3",
+      "snippet": "Anna Hazare breaks his fast after Parliament passes Lokpal Bill. Public know IAC movement, youth and aam aadmi protests on road, shows that"
+    },
+    {
+      "title": "Lokpal bill: Indian lower house passes anti-corruption bill",
+      "url": "https://www.bbc.com/news/world-asia-india-25426284",
+      "snippet": "The bill was first introduced in parliament in 2011 after a 12-day fast by Mr Hazare. The lower house passed it but the upper house did not."
+    },
+    {
+      "title": "Lokpal Bill passed in Lok Sabha, Anna ends fast",
+      "url": "https://www.youtube.com/watch?v=sTZPhx04-8Q",
+      "snippet": "The historic Lokpal Bill today took a giant step towards enactment after a 46-year wait, with the Lok Sabha passing it a day after the"
+    },
+    {
+      "title": "India passes 'lokpal' anti-corruption bill",
+      "url": "https://www.theguardian.com/world/2013/dec/18/india-parliament-anit-corruption-bill",
+      "snippet": "Bill spurred by Anna Hazare empowers watchdog to look into and prosecute corruption cases involving politicians and bureaucrats."
+    }
+  ]
+}

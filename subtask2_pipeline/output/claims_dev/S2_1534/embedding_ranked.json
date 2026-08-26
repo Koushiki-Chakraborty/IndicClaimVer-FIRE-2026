@@ -1,0 +1,98 @@
+{
+  "claim": {
+    "id": "S2/1534",
+    "text": "राजनीति की टेढ़ी चाल, कम सीटें जीतने पर भी किस्मत ने दिया साथ, कोई बना CM तो कोई बना PM",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "12 Political Putdowns (When 'Lowdown Crook' Isn't Specific Enough) | Merriam-Webster",
+      "url": "https://www.merriam-webster.com/wordplay/political-putdowns",
+      "snippet": "*Kakistocracy* is one of those inexplicably uncommon words; a small bit of language that is so obviously useful that it boggles the mind that children are not taught this word in some early developmental stage, along with *cat*, *more*, and *mine*. It seems that a large number of people in every generation believe themselves saddled with a *kakistocracy*, and if we are being cynical (by which I mean realistic), they are probably all correct. In most cases, when one is confronted with the word *pornocracy*, one is also confronted by reference to the somewhat turbulent state of affairs in the Catholic Church in the early 10th century. Much of the use of *pornocracy* is directed at her, and the influence she was purported to have. However, it seems easy enough to use the word with a slightly relaxed meaning and to find it useful in describing all types of political states subsequent to the 10th century Vatican.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.8231226801872253,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Luck and fate in politics",
+      "url": "https://crookedtimber.org/2021/01/16/luck-and-fate-in-politics",
+      "snippet": "Jan 16, 2021 — From the polling evidence, it looks as if the Republican base split down the middle on this. Now that the insurrection has failed, and Biden's ...Read more",
+      "bm25_score_raw": 4.304100572192857,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8205739259719849,
+      "embedding_score_norm": 0.966714175957704,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Sabato's Crystal Ball",
+      "url": "https://centerforpolitics.org/crystalball",
+      "snippet": "* [Senate](https://centerforpolitics.org/crystalball/2026-senate/). * [House](https://centerforpolitics.org/crystalball/2026-house/). * [Rating Changes](https://centerforpolitics.org/crystalball/2026-rating-changes/). * [About](https://centerforpolitics.org/crystalball/about/). * [2026 House](https://centerforpolitics.org/crystalball/category/2026-house/). * [2026 Senate](https://centerforpolitics.org/crystalball/category/2026-senate/). * [2026 House](https://centerforpolitics.org/crystalball/category/2026-house/). * [2026 Senate](https://centerforpolitics.org/crystalball/category/2026-senate/). ## [If Democrats Get a 2006-Style Senate Result, It May be Because Trump Has a 2006-Style Approval Rating](https://centerforpolitics.org/crystalball/if-democrats-get-a-2006-style-senate-result-it-may-be-because-trump-has-a-2006-style-approval-ratingrating/). * [2026 House](https://centerforpolitics.org/crystalball/category/2026-house/). * [2026 Senate](https://centerforpolitics.org/crystalball/category/2026-senate/). * [2026 House](https://centerforpolitics.org/crystalball/category/2026-house/). * [2026 Senate](https://centerforpolitics.org/crystalball/category/2026-senate/). * [2026 House](https://centerforpolitics.org/crystalball/category/2026-house/). * [2026 Senate](https://centerforpolitics.org/crystalball/category/2026-senate/). * [2026 House](https://centerforpolitics.org/crystalball/category/2026-house/). * [2026 Senate](https://centerforpolitics.org/crystalball/category/2026-senate/). ## [Texas Senate to Leans Republican Following Paxton Win; TX-35 Makes Same Move; Redistricting Updates](https://centerforpolitics.org/crystalball/texas-senate-to-leans-republican-following-paxton-win-tx-35-makes-same-move-redistricting-updates/). * [2026 House](https://centerforpolitics.org/crystalball/category/2026-house/). ## [Louisiana, Alabama, and South Carolina: How We Would Rate Looming New Republican Maps](https://centerforpolitics.org/crystalball/louisiana-alabama-and-south-carolina-how-we-would-rate-looming-new-republican-maps/). * [2026 House](https://centerforpolitics.org/crystalball/category/2026-house/). * [2026 House](https://centerforpolitics.org/crystalball/category/2026-house/). * [2026 House](https://centerforpolitics.org/crystalball/category/2026-house/). ## [Redistricting Makes the House Map a Bit Redder, but Not By Enough to Protect Republicans from a Wave](https://centerforpolitics.org/crystalball/redistricting-makes-the-house-map-a-bit-redder-but-not-by-enough-to-protect-republicans-from-a-wave/). * [2026 House](https://centerforpolitics.org/crystalball/category/2026-house/). * [2026 House](https://centerforpolitics.org/crystalball/category/2026-house/). * [2026 House](https://centerforpolitics.org/crystalball/category/2026-house/). * [2026 House](https://centerforpolitics.org/crystalball/category/2026-house/). * [2026 House](https://centerforpolitics.org/crystalball/category/2026-house/). * [2026 House](https://centerforpolitics.org/crystalball/category/2026-house/). ## [Voters Approving Virginia Democratic Gerrymander Puts Democrats on Cusp of 218 House Seats in Ratings, but Questions Remain](https://centerforpolitics.org/crystalball/newvaratings/).",
+      "bm25_score_raw": 1.1131216225588256,
+      "bm25_score_norm": 0.25861886911989873,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.7915158271789551,
+      "embedding_score_norm": 0.5872257350382708,
+      "embedding_rank": 3
+    },
+    {
+      "title": "‘Corrupt bargain’ | Miller Center",
+      "url": "https://millercenter.org/contested-presidential-elections/corrupt-bargain",
+      "snippet": "Andrew Jackson received the most popular votes and the most electoral votes in the election of 1824. For the first time, the popular vote mattered—eighteen states were to choose their presidential electors by popular vote while only six states still left the choice up to their state legislatures. John Quincy Adams, 1824, by Thomas Sully, Metropolitan Museum of Art. Although John Quincy Adams should have been the heir apparent to the presidency as James Monroe's secretary of state, four other men also wanted to be President, each with substantial regional backing. Calhoun of South Carolina had served as secretary of war in the Monroe administration and had support from slave owners in the South. Although Adams was a centrist politician of sorts—a Jeffersonian-Federalist, to coin a new term—many Americans still identified him as a New Englander and as the son of the old Federalist leader John Adams.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.7842956781387329,
+      "embedding_score_norm": 0.4929331551280844,
+      "embedding_rank": 4
+    },
+    {
+      "title": "7 days ago",
+      "url": "https://www.youtube.com/post/UgkxCN8xqcicd3mTj7ekp6FtLZ1WlPEFWAHc",
+      "snippet": "#झांकी मस्त डीजे धमाल भजन ~ तू बनके माखन चोर | Tu Banke Makhan Chor | Dj Dance Bhajan | Jhanki. Hansa Bhakti Darshan. 1.5K views. 9 days ago.Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.7782520055770874,
+      "embedding_score_norm": 0.41400493982459186,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Republicans are so desperate to hold onto power that they' ...",
+      "url": "https://www.facebook.com/KenJenkinsNY/posts/republicans-are-so-desperate-to-hold-onto-power-that-theyre-now-trying-to-rig-th/1734193344906491",
+      "snippet": "Ronald DeLucia Jr. Democrats can teach a masterclass on cheating in elections. 5w · 11 likes.Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.7731031179428101,
+      "embedding_score_norm": 0.3467622976022468,
+      "embedding_rank": 6
+    },
+    {
+      "title": "Trump Has No Free-and-Fair Path to Re-election",
+      "url": "https://crooked.com/articles/trump-reelection-illegitimate",
+      "snippet": "Nov 2, 2020 — President Donald Trump jokes about the cold as he arrives for a campaign rally at Michigan Sports Stars Park, Sunday, Nov. 1, 2020, in Washington, Mich.Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.7557854652404785,
+      "embedding_score_norm": 0.12059990923675584,
+      "embedding_rank": 7
+    },
+    {
+      "title": "बल भजन माला",
+      "url": "https://www.hariomgroup.org/hariombooks_satsang_hindi/BalBhajanMala.htm",
+      "snippet": "बाल भजनमाला. हे प्रभु! आनन्ददाता!! हे प्रभु! आनन्ददाता !! ज्ञान हमको दीजिये। शीघ्र सारे दुर्गुणों को दूर हमसे कीजिये।। हे प्रभु...... लीजिये हमको शरण में हम सदाचारी बनें। ब्रह्मचारी धर्मरक्षक वीर व्रतधारी बनें।Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.7465509176254272,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 8
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1194",
+    "text": "France becomes sixth country with over 10 million Covid infections",
+    "lang": "english"
+  },
+  "ranked_evidence": [
+    {
+      "title": "France sixth country with +10 million COVID infections",
+      "url": "https://www.reuters.com/video/watch/idOVFSERV57",
+      "snippet": "France became the sixth country in the world to report more than 10 million COVID-19 infections since the outbreak of the pandemic, according",
+      "bm25_score_raw": 2.9279921740334736,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "France sixth country with over 10 million COVID infections",
+      "url": "https://www.youtube.com/watch?v=TsYYtSBDvdY",
+      "snippet": "France is the sixth country to report more than 10 million COVID-19 cases since the pandemic began.",
+      "bm25_score_raw": 2.850686078462479,
+      "bm25_score_norm": 0.9673886249658703,
+      "bm25_rank": 2
+    },
+    {
+      "title": "France sixth country with more than 10m COVID-19 infections",
+      "url": "https://www.chinadailyhk.com/hk/article/254229",
+      "snippet": "France became the sixth country in the world to report. French health authorities reported 219,126 new confirmed cases in a 24-hour period, the",
+      "bm25_score_raw": 2.7242495061774696,
+      "bm25_score_norm": 0.9140516863148989,
+      "bm25_rank": 3
+    },
+    {
+      "title": "France Sixth Country With More Than 10 Million Covid ...",
+      "url": "https://www.ndtv.com/world-news/france-sixth-country-with-more-than-10-million-covid-infections-2683995",
+      "snippet": "France became the sixth country in the world to report more than 10 million COVID-19 infections … 219,126 new confirmed cases in a 24-hour",
+      "bm25_score_raw": 2.6846373727513906,
+      "bm25_score_norm": 0.8973414110187742,
+      "bm25_rank": 4
+    },
+    {
+      "title": "France became the sixth country in the world to report more ...",
+      "url": "https://www.facebook.com/ariananews/posts/france-became-the-sixth-country-in-the-world-to-report-more-than-10-million-covi/4710838692340924",
+      "snippet": "France became the sixth country in the world to report more than 10 million COVID-19 infections since the outbreak of the pandemic, according to",
+      "bm25_score_raw": 2.646194864623485,
+      "bm25_score_norm": 0.8811245391078084,
+      "bm25_rank": 5
+    },
+    {
+      "title": "COVID-19 pandemic in France - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_France",
+      "snippet": "The **COVID-19 pandemic in France** has resulted in 39,060,813 confirmed cases of COVID-19 and 168,207 deaths. The virus was confirmed to have reached France on 24 January 2020, when the first COVID-19 case in both Europe and France was identified in Bordeaux. A Chinese tourist who was admitted to hospital in Paris on 28 January 2020, died on 14 February 2020, becoming the first known COVID-19 fatality outside Asia as well as the first in France. A key event in the spread of the disease across metropolitan France as well as its overseas territories was the annual assembly of the Christian Open Door Church between 17 and 24 February 2020 in Mulhouse which was attended by about 2,500 people, at least half of whom are believed to have contracted the virus. On 4 May 2020, retroactive testing of samples in one French hospital showed that a patient was probably already infected with the virus on 27 December 2019, almost a month before the first officially confirmed case.",
+      "bm25_score_raw": 0.557466690514626,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "claim": {
+    "id": "S2/1143",
+    "text": "Delhi polls: BJP promises lower power tariff, statehood for Delhi",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Who are India’s Cockroach Janta party and why are they staging protests? - The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/20/who-are-indias-cockroach-janta-party-and-why-are-they-staging-protests-",
+      "snippet": "# Who are India’s Cockroach Janta party and why are they staging protests? Explosion of anger over education system and youth unemployment has led to movement’s rapid rise. * **Tens of thousands of Cockroach party protesters defy police with Delhi march**. Explore more on these topics. ## More on this story. * ### Tens of thousands of Cockroach movement protesters defy police with Delhi march. * ### Indian activist linked to Cockroach party moved to hospital after 20-day hunger strike. * ### ‘I’m sorry but I’m unable to speak’: hero of India’s Cockroach party weakens on 19th day of hunger strike. * ### ‘What if all cockroaches came together?’ The youth movement threatening to shake up India’s politics. * ### Tensions high in West Bengal after BJP aide shot dead and hundreds arrested. * ### ‘Defeated by conspiracy’: West Bengal chief minister refuses to resign after election loss. * ### Narendra Modi’s BJP wins election in West Bengal for the first time.",
+      "bm25_score_raw": 4.398213802742851,
+      "bm25_score_norm": 0.5308234616159184,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8117043972015381,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "India protest movement holds capital sit-in as police crack down on demonstrators - AP News",
+      "url": "https://apnews.com/article/india-cockroach-party-youth-movement-protest-modi-d226d142657cd297c3d4232716a8a626",
+      "snippet": "Test Your News I.Q. 2026 Elections Election Results Election calendar White House Congress Supreme Court The latest AP-NORC polls. A protestor sits on the hood of a police car during a demonstration demanding educational reforms as part of the Cockroach Janta Party’s ongoing protest movement in New Delhi, India, Wednesday, July 22, 2026. A protestor holds a piece of paper with “Democracy?” written on it during a demonstration demanding educational reforms as part of the Cockroach Janta Party’s ongoing protest movement in New Delhi, India, Wednesday, July 22, 2026. Protesters shout slogans as they carry posters asking for the resignation of India’s Minister of Education Dharmendra Pradhan at a protest led by Cockroach Janta Party in New Delhi, India, Wednesday, July 22, 2026. NEW DELHI (AP) — Thousands of young protesters were camped on the streets of India’s capital New Delhi on Thursday, defying new restrictions in the latest show of strength for a movement that has become one of the biggest challenges to Prime Minister Narendra Modi’s government.",
+      "bm25_score_raw": 0.6620451361408213,
+      "bm25_score_norm": 0.02757039494139204,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.7968982458114624,
+      "embedding_score_norm": 0.6106440206146786,
+      "embedding_rank": 2
+    },
+    {
+      "title": "A protest movement is challenging India's establishment. What to know about the 'Cockroaches' - AP News",
+      "url": "https://apnews.com/article/india-cockroach-party-youth-movement-protest-modi-59d045fbd485635def01b01f3898307b",
+      "snippet": "Test Your News I.Q. 2026 Elections Election Results Election calendar White House Congress Supreme Court The latest AP-NORC polls. People from all over India have been ordering food through delivery apps for protesters of the youth-led ‘Cockroach’ movement in New Delhi who have called for the resignation of India’s Education Minister Dharmendra Pradhan over examination paper leaks. A protestor, left, receives a food package from a supporter at the site where thousands have assembled to join a protest led by Cockroach Janta Party in New Delhi, India, Wednesday, July 22, 2026. A protestor receives a food package from a supporter at the site where thousands have assembled to join a protest called by Cockroach Janta Party in New Delhi, India, Wednesday, July 22, 2026. NEW DELHI (AP) — What began as an online joke has evolved into one of the most significant protest movements in India being led by young people hoping to change the established political structure and the damage they believe the government has caused.",
+      "bm25_score_raw": 0.6632240069893212,
+      "bm25_score_norm": 0.02772918605139306,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.7938030362129211,
+      "embedding_score_norm": 0.5292495830668723,
+      "embedding_rank": 3
+    },
+    {
+      "title": "India’s youth-led Cockroach movement vows to continue protest after police crackdown - AP News",
+      "url": "https://apnews.com/article/india-cockroach-party-protest-dc9d61bf27f26510c0bd427f4d889699",
+      "snippet": "+ Photos of police cracking down on India’s youth-led 'cockroach' movement in New Delhi. Test Your News I.Q. 2026 Elections Election Results Election calendar White House Congress Supreme Court The latest AP-NORC polls. Supporters gather at the camping site of the Cockroach Janta Party at Jantar Mantar in New Delhi, Tuesday, July 21, 2026. Security officers stand guard at the camping site of the Cockroach Janta Party at Jantar Mantar in New Delhi, Tuesday, July 21, 2026. Supporters of the Cockroach Janta Party scuffle with police as they attempt to march toward India’s Parliament, demanding the resignation of the education minister, in New Delhi, Monday, July 20, 2026. NEW DELHI (AP) — Supporters of India’s youth-led Cockroach movement said Tuesday they will continue their protest in New Delhi, refusing to leave their sit-in site a day after police used tear gas and batons to disperse thousands of them as they tried to march toward Parliament.",
+      "bm25_score_raw": 0.47974742953816796,
+      "bm25_score_norm": 0.003015325809848864,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.7845908403396606,
+      "embedding_score_norm": 0.2869973291201144,
+      "embedding_rank": 4
+    },
+    {
+      "title": "With 18 months until the primaries, Democrats are about to make a huge decision about 2028 - CNN",
+      "url": "https://www.cnn.com/2026/07/23/politics/video/inside-politics-democratic-primaries-2028-first-state-nevada-south-carolina",
+      "snippet": "Your effort and contribution in providing this feedback is much appreciated. Elections 2026   Trump   Facts First   CNN Polls   Redistricting Tracker   Epstein Files. Your CNN account Sign in to your CNN account. + All There Is with Anderson Cooper. + The Assignment with Audie Cornish. + Terms of Service with Clare Duffy. # With 18 months until the primaries, Democrats are about to make a huge decision about 2028. A DNC panel will make a recommendation this week about which state will hold the first primary in the next presidential election. The Inside Politics panel breaks down the infighting and how the decision could impact who actually wins the nomination. The Odds: Trump's Tariff Backlash. Trump vows to bomb a bridge, power plant for every ship Iran hits. Could CNN's '18 Days in Minnesota' investigation impact the nomination of Todd Blanche to be Attorney General? Trump attends dignified transfer for US service members killed in war with Iran.",
+      "bm25_score_raw": 7.8813971112890755,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.7823061943054199,
+      "embedding_score_norm": 0.22691820587092001,
+      "embedding_rank": 5
+    },
+    {
+      "title": "India’s Cockroach movement supporters gather to attempt a march to Parliament - AP News",
+      "url": "https://apnews.com/article/india-cockroach-janta-party-sonam-wangchuk-hunger-strike-cbeb4773e89d67250f0bcad1670fcd38",
+      "snippet": "+ Trump celebrates the World Cup as a US victory as he presents trophy to the winner, Spain. Test Your News I.Q. 2026 Elections Election Results Election calendar White House Congress Supreme Court The latest AP-NORC polls. Your guide to the biggest stories in politics, policy and U.S. elections. Your home base for in-depth reporting from the world of sports. + Performers take to the stage at the World Cup final, in photos. Founded in 1846, AP today remains the most trusted source of fast, accurate, unbiased news in all formats and the essential provider of the technology and services vital to the news business. NEW DELHI (AP) — Thousands of supporters of the youth-led Cockroach movement gathered Monday to march to India’s Parliament, demanding the resignation of the education minister despite police denying permission for the protest. Scores of police surrounded the barricaded protest site of Jantar Mantar in the heart of New Delhi, raising the prospect of a confrontation just a few kilometers from Parliament if demonstrators pressed ahead with the march.",
+      "bm25_score_raw": 0.4573615434773092,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.7736771106719971,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6
+    }
+  ]
+}

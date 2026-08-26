@@ -1,0 +1,99 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1078",
+    "text": "UK study finds AstraZeneca Covid booster shot offers limited protection against severe diseases.",
+    "lang": "english"
+  },
+  "entity_ranked_evidence": [
+    {
+      "title": "AstraZeneca shot reported effective against UK ...",
+      "url": "https://www.houstonchronicle.com/business/medical/article/Restrictions-Ease-in-U-S-J-amp-J-Seeks-15927614.php",
+      "snippet": "AstraZeneca Plc's Covid vaccine is equally effective against the new strain of the virus that emerged in the U.K., according to a study by",
+      "bm25_score_raw": 4.3199504433373335,
+      "bm25_score_norm": 0.4776416262153105,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8713319301605225,
+      "embedding_score_norm": 0.4887774282781785,
+      "embedding_rank": 3,
+      "entity_overlap_raw": 2,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 1
+    },
+    {
+      "title": "UK regulator to study AstraZeneca COVID vaccine",
+      "url": "https://www.dw.com/en/uk-asks-regulator-to-study-astrazeneca-covid-vaccine/a-55743276",
+      "snippet": "3. Skip to more DW sites. # UK regulator to study AstraZeneca COVID vaccine. The vaccine is said to be on average about 70% effective, but there have been some concerns after controversy emerged surrounding the study. If it is approved, the first doses could be given out by the end of the year. The British government formally asked the country's medicine regulator on Friday to assess Oxford University and AstraZeneca's COVID-19 vaccine. AstraZeneca expects 4 million doses of its vaccine to be available in the country by the end of next month. The British government ordered 100 million doses of the vaccine and plans to begin distribution in December should it be approved. Oxford and AstraZeneca said Monday that their vaccine could be up to 90% effective when given as a half dose followed by a full dose. Skip next section More on Health from Europe. Skip next section More on Health from around the world.",
+      "bm25_score_raw": 2.2162105193860184,
+      "bm25_score_norm": 0.13833951059272107,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8604470491409302,
+      "embedding_score_norm": 0.27234025405750073,
+      "embedding_rank": 5,
+      "entity_overlap_raw": 2,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 2
+    },
+    {
+      "title": "UK halts Oxford-AstraZeneca jab for under-30s",
+      "url": "https://www.youtube.com/watch?v=Rp217CRtH9c",
+      "snippet": "UK halts Oxford-AstraZeneca jab for under-30s\nSky News\n9300000 subscribers\n597 likes\n156874 views\n7 Apr 2021\nThe UK's vaccine advisory body has decided to stop offering the Oxford-AstraZeneca coronavirus vaccine to Britons aged 18-29.\n\nIt comes after 30 people who had the vaccine in the UK developed a blood clot.\n\nPeople in the 18-29 age group will be offered an alternative COVID vaccine.\n\nSUBSCRIBE to our YouTube channel for more videos: http://www.youtube.com/skynews\n \nFollow us on Twitter: https://twitter.com/skynews \n \nLike us on Facebook: https://www.facebook.com/skynews\n \nFollow us on Instagram: https://www.instagram.com/skynews\n \nFor more content go to http://news.sky.com and download our apps: \n \nApple: https://itunes.apple.com/gb/app/sky-news/id316391924?mt=8\n \nAndroid https://play.google.com/store/apps/details?id=com.bskyb.skynews.android&hl=en_GB\n\nSky News videos are now available in Spanish here/Los video de Sky News están disponibles en español aquí https://www.youtube.com/channel/UCzG5BnqHO8oNlrPDW9CYJog\n1334 comments\n",
+      "bm25_score_raw": 1.3584783152711748,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8467507362365723,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6,
+      "entity_overlap_raw": 2,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 3
+    },
+    {
+      "title": "AstraZeneca Covid booster shot effective against severe disease, UK study finds, ETHealthworld",
+      "url": "https://health.economictimes.indiatimes.com/news/diagnostics/astrazeneca-covid-booster-shot-effective-against-severe-disease-uk-study-finds/91346553",
+      "snippet": "The third dose of AstraZeneca COVID-19 vaccine is effective against symptomatic disease and hospitalisation, offering protection comparable to a booster shot of the Pfizer preventive, according to a study conducted in the UK. The yet-to-be peer-reviewed study, posted on the preprint repository medRxiv on May 1, assessed the effectiveness of the AstraZeneca (ChAdOx1-S) COVID-19 booster, and compared it with the protection offered by Pfizer (BNT162b2) booster shot. The results show that after 25 or more weeks since primary vaccination with AstraZeneca, vaccine effectiveness against symptomatic disease post Omicron infection was 8.0 per cent and 19.5 per cent among individuals aged 40 to 64 years and 65 years and above, respectively. \"Protection against symptomatic disease in those aged 65 years and older peaked at 66.1 per cent and 68.5 per cent amongst those who received the ChAdOx1-S and BNT162b2 booster vaccines, respectively,\" the authors of the study noted.",
+      "bm25_score_raw": 7.558675210864172,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.897041916847229,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 4
+    },
+    {
+      "title": "Under-30s offered alternative to Oxford-AstraZeneca jab",
+      "url": "https://www.bbc.com/news/health-56665517",
+      "snippet": "Under-30s in the UK are to be offered an alternative Covid vaccine to the AstraZeneca jab due to the evidence linking it to rare blood clots.",
+      "bm25_score_raw": 2.358271312638578,
+      "bm25_score_norm": 0.16125181412836104,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8869479894638062,
+      "embedding_score_norm": 0.7992903077466441,
+      "embedding_rank": 2,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 5
+    },
+    {
+      "title": "Latest clinical trial supports UK’s decision to delay second COVID vaccine dose",
+      "url": "https://www.news-medical.net/news/20210203/Latest-clinical-trial-supports-UKe28099s-decision-to-delay-second-COVID-vaccine-dose.aspx",
+      "snippet": "Researchers in the UK, South Africa and Brazil have reported the latest efficacy results from phase III trials of the Oxford–AstraZeneca vaccine currently being rolled out in the UK to protect against coronavirus disease 2019 (COVID-19). Researchers from the Oxford Vaccine Group and collaborators say the findings support the current regimen of administering two standard doses 12 weeks apart – a policy that has recently been a topic of substantial debate. Merryn Voysey and colleagues say: “ChAdOx1 nCoV-19 vaccination programs aimed at vaccinating a large proportion of the population with a single dose, with a second dose given after a 3 month period is an effective strategy for reducing disease, and may be the optimal for rollout of a pandemic vaccine when supplies are limited in the short term.”. Furthermore, the trial findings suggest that a single vaccine dose is highly effective for the first 90 days, thereby further supporting the current policy.",
+      "bm25_score_raw": 3.0394837502253678,
+      "bm25_score_norm": 0.2711212987685964,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8621150255203247,
+      "embedding_score_norm": 0.3055066335129292,
+      "embedding_rank": 4,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 6
+    }
+  ]
+}

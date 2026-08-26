@@ -1,0 +1,76 @@
+{
+  "claim": {
+    "id": "S2/1410",
+    "text": "UK Covid monitor: Fall in cases faster than surge, R-value lowest in a year",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "UK Covid monitor: Fall in cases faster than surge, R-value ...",
+      "url": "https://www.indiatoday.in/diu/story/uk-covid-monitor-fall-in-cases-faster-than-surge-r-value-lowest-in-a-year-1901138-2022-01-17",
+      "snippet": "Jan 17, 2022 — At 0.67, the reproduction rate that indicates the pace of the spread of infection is at the lowest level in over a year.Read more",
+      "bm25_score_raw": 6.866554589718912,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9313337206840515,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Covid cases falling in UK as R number drops to lowest ...",
+      "url": "https://www.youtube.com/watch?v=vBNwr_IouI8",
+      "snippet": "The latest 24-hour government figures show a further 758 people have died within 28 days of testing positive. Covid cases falling in UK as R",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8906731605529785,
+      "embedding_score_norm": 0.6428474571301872,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Charts of the U.K.'s COVID surge hold insights into how ...",
+      "url": "https://www.sfchronicle.com/health/article/Charts-of-the-U-K-s-COVID-surge-hold-lessons-16553577.php",
+      "snippet": "Oct 23, 2021 — Experts say the United Kingdom's current struggles are an instructive contrast with California, which has one of the lowest case rates among US states.Read more",
+      "bm25_score_raw": 3.409382853059945,
+      "bm25_score_norm": 0.4965201701250162,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8643484115600586,
+      "embedding_score_norm": 0.4116172179764998,
+      "embedding_rank": 3
+    },
+    {
+      "title": "COVID-19 | UKHSA data dashboard",
+      "url": "https://ukhsa-dashboard.data.gov.uk/respiratory-viruses/covid-19",
+      "snippet": "We update COVID-19 healthcare data on the second Thursday of every month at 4pm. The COVID-19 healthcare data shown on this dashboard comes from the NHS **England** hospitalisations report. This dataset is updated on the second Thursday of the month. It fell from 1488.0 on 20 April 2023 to 343.0 on 15 May 2024. It fell from 222.0 on 12 June 2025 to 2.0 on 08 July 2026. This plot shows data from 24 April 2023 to 01 April 2024. It fell from 20.35 on 04 December 2023 to 10.79 on 08 January 2024. It fell from 9.03 on 15 January 2024 to 3.64 on 19 February 2024. This plot shows data from 13 December 2021 to 22 January 2024. It rose from 0.0 on 13 December 2021 to 0.02 on 21 March 2022. It fell from 0.55 on 09 January 2023 to 0.08 on 22 January 2024. This plot shows data from 04 January 2021 to 26 February 2024.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.860472559928894,
+      "embedding_score_norm": 0.3775726730564542,
+      "embedding_rank": 4
+    },
+    {
+      "title": "New autumn COVID-19 spike as UK government continues to limit access to free vaccines - World Socialist Web Site",
+      "url": "https://www.wsws.org/en/articles/2025/10/06/khse-o06.html",
+      "snippet": "## New autumn COVID-19 spike as UK government continues to limit access to free vaccines. The UK is experiencing a new spike in COVID-19 infections driven by two recently emergent Omicron subvariants dubbed “Stratus” and “Nimbus”. Together these now account for the majority of cases in the UK, with genomic surveillance indicating that roughly 63 percent of analysed cases were Stratus and 25 percent were Nimbus by late September. Stratus infections in particular have been associated with a persistent dry cough, fatigue and fever, while Nimbus is noted to be highly transmissible due to an enhanced ability to bind to human cells. Due to far fewer people now testing for COVID-19, it has become difficult to gauge the true spread of infection in Britain. With the government having shut down free mass testing and scaled back surveillance, official case numbers are far lower than they were a few years ago, capturing only a fraction of infections (primarily those tested in hospitals).",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8430123925209045,
+      "embedding_score_norm": 0.22420677822878943,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Rapid rise in COVID-19 among young people in England - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9816071",
+      "snippet": "by KA Twohig · 2023 · Cited by 2 — In the summer of 2020, COVID-19 cases increased sharply in England, with the highest incidence rates among 18- to 21-year-olds at the beginning of the autumn.Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8174872398376465,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6
+    }
+  ]
+}

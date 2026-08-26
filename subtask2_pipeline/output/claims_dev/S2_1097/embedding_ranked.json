@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/1097",
+    "text": "করোনা সংক্রমণে মৃতদের সৎকারে বিশেষ কোনও নির্দেশিকা নেই বলে জানিয়েছে স্বাস্থ্যমন্ত্রক।",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "memorandum on the disposal of bodies of covid-19 victims ...",
+      "url": "https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID3739723_code2745305.pdf?abstractid=3739723&mirid=1",
+      "snippet": "Ministry of Health5 permitted cremation or burial of victims of categories I, making cremation the only option for COVID-19 victims.",
+      "bm25_score_raw": 3.4435094915737636,
+      "bm25_score_norm": 0.43805098743794,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8512868881225586,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "The Ministry of Health is currently revising its procedure for the ...",
+      "url": "https://www.facebook.com/lovefmbelize/posts/the-ministry-of-health-is-currently-revising-its-procedure-for-the-disposing-of-/1520986351440563",
+      "snippet": "The Ministry of Health revised these guidelines on 31 March 2020 to make cremation the mandatory policy regarding the disposal of bodies.",
+      "bm25_score_raw": 7.860978722394995,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8422607183456421,
+      "embedding_score_norm": 0.9325107495062002,
+      "embedding_rank": 2
+    },
+    {
+      "title": "covid-19: general guidance for the management of the dead",
+      "url": "https://shop.icrc.org/download/ebook?sku=4468%2F002-ebook",
+      "snippet": "This document provides guidance on the management, or handling, of the remains of people believed or confirmed to have died from coronavirus disease (COVID-19).",
+      "bm25_score_raw": 1.6134904717355052,
+      "bm25_score_norm": 0.2052531279774187,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8407584428787231,
+      "embedding_score_norm": 0.9212781394619186,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Funerals And Last Rites In The Times Of Coronavirus",
+      "url": "https://swachhindia.ndtv.com/funerals-and-last-rites-in-the-time-of-coronavirus-do-covid-19-infected-corpses-pose-risk-all-you-need-to-know-44429",
+      "snippet": "– At the crematorium/ burial ground, the present staff should practice the standard precautions of hand hygiene and use of masks and gloves.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.8384531736373901,
+      "embedding_score_norm": 0.9040414934504667,
+      "embedding_rank": 4
+    },
+    {
+      "title": "FEQUENTLY ASKED QUESTIONS ON SAFE BURIALS ...",
+      "url": "https://www.facebook.com/MINISTRYOFHEALTHBOTSWANA/posts/fequently-asked-questions-on-safe-burials-for-covid-19-related-deaths-staysafeto/1864277790385941",
+      "snippet": "It is SAFE to bury or cremate the body of a COVID-19 victim, as long as some precautions are followed. Guidelines given by the Ministry of",
+      "bm25_score_raw": 2.736153788596715,
+      "bm25_score_norm": 0.3480678278395205,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8351460099220276,
+      "embedding_score_norm": 0.879313618180392,
+      "embedding_rank": 5
+    },
+    {
+      "title": "[PDF] Safe body handling and mourning ceremonies for COVID-19 ...",
+      "url": "https://preparecenter.org/wp-content/uploads/2020/07/COVID_MotD_IFRC-ICRC_July2020_web-1.pdf",
+      "snippet": "Includes transferring the body for viewing, opening the body bag and preparing body for viewing • Mask • Gloves • Gown or apron • Rubber boots or shoe protection Medium risk Responder supervising Mortuary – viewing room Viewing body - family member • Mask • Gloves Low risk Family member 57 Community-led handling of the dead In places where mortuary services are not standard or universally available, National Societies may be called upon to support families and community leaders to safely prepare bodies of suspected COVID-19 cases for burial or cremation.",
+      "bm25_score_raw": 0.90321809719702,
+      "bm25_score_norm": 0.11489893677282943,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8205184936523438,
+      "embedding_score_norm": 0.7699427406071064,
+      "embedding_rank": 6
+    },
+    {
+      "title": "ধর্ম বিষয়ক মন্ত্রণালয়",
+      "url": "https://templeedu.gov.bd/wp-content/uploads/2019/02/Gita-Rule-19-1.pdf",
+      "snippet": "প্রপ্রদাতারং তারিষ উর্জং নো ধেহী দ্বিপদে চতুষ্পদে ৷৷. অর্থ: হে অন্নপতি পরমাত্নন! তুমি আমাদিগকে রোগ নাশক ও. শক্তিদায়ক অন্নদান কর। তুমি অন্ন দাতাকে আরও সমৃদ্ধি কর! আমাদের দ্বিপদ ও চতুষ্পদ. প্রাণীদের জন্য তেজস্কর অন্ন বিধান",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.7477002143859863,
+      "embedding_score_norm": 0.2254757948930041,
+      "embedding_rank": 7
+    },
+    {
+      "title": "যত জন হও এক বল সব রব এক যত জন তত মন রব তব এক এক জন কর পণ নর গণ বল রব এক মন ধন জন ন | M Lutfur Rahman",
+      "url": "https://www.facebook.com/mlutfur.rahman.3/videos/%E0%A6%AF%E0%A6%A4-%E0%A6%9C%E0%A6%A8-%E0%A6%B9%E0%A6%93-%E0%A6%8F%E0%A6%95-%E0%A6%AC%E0%A6%B2-%E0%A6%B8%E0%A6%AC-%E0%A6%B0%E0%A6%AC-%E0%A6%8F%E0%A6%95-%E0%A6%AF%E0%A6%A4-%E0%A6%9C%E0%A6%A8-%E0%A6%A4%E0%A6%A4-%E0%A6%AE%E0%A6%A8-%E0%A6%B0%E0%A6%AC-%E0%A6%A4%E0%A6%AC-%E0%A6%8F%E0%A6%95-%E0%A6%8F%E0%A6%95-%E0%A6%9C%E0%A6%A8-%E0%A6%95%E0%A6%B0-%E0%A6%AA%E0%A6%A3-%E0%A6%A8%E0%A6%B0-%E0%A6%97%E0%A6%A3-%E0%A6%AC%E0%A6%B2-%E0%A6%B0%E0%A6%AC-%E0%A6%8F%E0%A6%95-%E0%A6%AE%E0%A6%A8%E0%A6%A7%E0%A6%A8-%E0%A6%9C%E0%A6%A8-/2313166272440963",
+      "snippet": "যত জন হও এক বল সব রব এক যত জন তত মন রব তব এক এক জন কর পণ নর গণ বল রব এক মন ধন জন নয় রয় রব কয় সব হয় অহ রহ ডর রব হর দম বল রব।",
+      "bm25_score_raw": 4.868676618569049,
+      "bm25_score_norm": 0.6193473854214575,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.73307865858078,
+      "embedding_score_norm": 0.11614948409500923,
+      "embedding_rank": 8
+    },
+    {
+      "title": "সৎকাজে বিলম্ব নয়",
+      "url": "https://bn.hawzahnews.com/news/413097/%E0%A6%B8%E0%A7%8E%E0%A6%95-%E0%A6%9C-%E0%A6%AC-%E0%A6%B2%E0%A6%AE%E0%A6%AC-%E0%A6%A8%E0%A6%AF",
+      "snippet": "সৎকাজে বিলম্ব নয় ... ইসলাম মানুষকে সৎকাজে অগ্রণী হতে এবং কল্যাণকর কাজে বিলম্ব না করতে উৎসাহিত করে। কারণ, ভালো কাজ যত বিলম্বিত হয়, ততই অলসতা, দ্বিধা কিংবা শয়তানের কুমন্ত্রণার কারণে তা বাস্তবায়নের",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.7304599285125732,
+      "embedding_score_norm": 0.09656907137101663,
+      "embedding_rank": 9
+    },
+    {
+      "title": "Krodh | Tahsan ft Minar | New Bangla Song 2019 | Official Lyrical Video ...",
+      "url": "https://www.youtube.com/watch?v=qYNDgE5aaFY",
+      "snippet": "... Singer : Minar Album : Danpite Lyric : Minar Tune : Minar Music : Tahsan Label : G Series. Official Lyrical Video",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.7264920473098755,
+      "embedding_score_norm": 0.06690096905996193,
+      "embedding_rank": 10
+    },
+    {
+      "title": "Harmonium tutorial //ও মোর ময়না একবার কৃষ্ণ কথা বল //বাংলা ভক্তি গীতি",
+      "url": "https://www.youtube.com/watch?v=d_bbx8_fNz4",
+      "snippet": "Harmonium tutorial //ও মোর ময়না একবার কৃষ্ণ কথা বল //বাংলা ভক্তি গীতি ... ও মন ময়না দুটো কৃষ্ণ কথা বল || Krishna Katha Bhebe Bhebe || শিশু শিল্পীর কণ্ঠে.",
+      "bm25_score_raw": 2.429993148772438,
+      "bm25_score_norm": 0.3091209421353191,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.7262377142906189,
+      "embedding_score_norm": 0.06499930475830547,
+      "embedding_rank": 11
+    },
+    {
+      "title": "বোকার স্বর্গ (র্পব- ৪)",
+      "url": "https://blog.muktomona.com/2009/03/09/1190",
+      "snippet": "জগতের কিছু মানুষ পরকালে বিশ্বাস না করুক, মুহাম্মদ (দঃ) ও আল্লাহকে অমান্য করুক, সেটা তো আল্লাহরই কাম্য। মানুষ সৃষ্টির আগেই আল্লাহ নরক সৃষ্টি করেছেন। আল্লাহর নরক সৃষ্টির কারণই কি প্রমাণ করেনা যে, তিনি",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.7175445556640625,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

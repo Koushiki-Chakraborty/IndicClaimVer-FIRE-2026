@@ -1,0 +1,6 @@
+{
+  "ID": "S2/T/EN/1007",
+  "Evidence": "India has administered over 2 billion COVID vaccine doses, with 98% of adults having received at least one dose and 90% fully vaccinated (Source 1). As of March 4, 2023, 95% of the eligible population (12+) has received at least one shot, and 88% are fully vaccinated (Source 2). The claim that India has not reached 180 crore doses is incorrect, as it has surpassed 2 billion doses (200 crore), and the vaccination rates indicate that a significant majority of adults are fully vaccinated (90%) (Source 1).",
+  "Prediction": "REFUTES",
+  "Justification": "The retrieved evidence directly contradicts the claim. India has surpassed 180 crore COVID vaccine doses, having administered over 2 billion doses (Source 1). Additionally, 90% of adults are reported as fully vaccinated (Source 1), which refutes the assertion that less than 90% of adults are fully vaccinated. Therefore, the evidence clearly establishes that the claim is false."
+}

@@ -1,0 +1,76 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1164",
+    "text": "Modi criticises Shinde on Dawood issue, Cong brushes it aside",
+    "lang": "english"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Modi criticises Shinde on Dawood issue, Cong brushes it aside",
+      "url": "https://m.rediff.com/news/commentary/2014/apr/26/modi-criticises-shinde-on-dawood-issue-cong-brushes-it-aside/469082f98b2df38802c35d192783ca06",
+      "snippet": "Narendra Modi today accused Home Minister Sushilkumar Shinde of giving media statements instead of acting against Dawood Ibrahim, but the Congress brushed",
+      "bm25_score_raw": 1.3036098198990056,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9214268922805786,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Modi criticises Shinde on Dawood issue, Cong brushes it aside",
+      "url": "https://m.rediff.com/news/report/ls-election-modi-criticises-shinde-on-dawood-issue-cong-brushes-it-aside/20140426.htm",
+      "snippet": "Narendra Modi on Saturday accused Home Minister Sushilkumar Shinde of giving media statements instead of acting against Dawood Ibrahim, but the Congress",
+      "bm25_score_raw": 1.3036098198990056,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.9190692901611328,
+      "embedding_score_norm": 0.9756007138305596,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Modi criticises Shinde on Dawood issue, Cong brushes it ...",
+      "url": "https://www.indiatvnews.com/politics/national/modi-criticises-shinde-on-dawood-issue-cong-brushes-it-aside-16993.html",
+      "snippet": "Apr 26, 2014 — Narendra Modi today accused Home Minister Sushilkumar Shinde of giving media statements instead of acting against Dawood Ibrahim, but the",
+      "bm25_score_raw": 1.2764021726432846,
+      "bm25_score_norm": 0.9718020189858918,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.9132297039031982,
+      "embedding_score_norm": 0.9151656917192077,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Narendra Modi criticises Sushilkumar Shinde on Dawood ...",
+      "url": "https://m.economictimes.com/news/politics-and-nation/narendra-modi-criticises-sushilkumar-shinde-on-dawood-issue-congress-brushes-it-aside/articleshow/34251081.cms",
+      "snippet": "Apr 27, 2014 — Narendra Modi today accused Home Minister Sushilkumar Shinde of giving media statements instead of acting against Dawood Ibrahim, but the",
+      "bm25_score_raw": 1.3036098198990056,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.887244462966919,
+      "embedding_score_norm": 0.6462393429699225,
+      "embedding_rank": 4
+    },
+    {
+      "title": "PM Modi Criticizes Cong, I.N.D.I Over Remarks on Shaina ...",
+      "url": "https://www.pgurus.com/pm-modi-criticizes-congress-i-n-d-i-alliance-over-derogatory-remarks-towards-shaina-nc",
+      "snippet": "Nov 4, 2024 — PM Modi launched a strong attack on the Congress-led I.N.D.I.A bloc, condemning its silence regarding sexist remarks made by SS (UBT) leader",
+      "bm25_score_raw": 0.33873055275898295,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8355501890182495,
+      "embedding_score_norm": 0.11124517538259208,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Congress criticises Modi govt. over Israel-Gaza conflict ...",
+      "url": "https://www.thehindu.com/news/national/congress-criticises-modi-govt-over-israel-gaza-conflict-stance/article70897453.ece",
+      "snippet": "Apr 23, 2026 — Congress criticizes Modi government for its silence on the Israel-Gaza conflict and alleged moral cowardice in foreign policy.",
+      "bm25_score_raw": 0.613494687162444,
+      "bm25_score_norm": 0.28476530044829695,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8248010277748108,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6
+    }
+  ]
+}

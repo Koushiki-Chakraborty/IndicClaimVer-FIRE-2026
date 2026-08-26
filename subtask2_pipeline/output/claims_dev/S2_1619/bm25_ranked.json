@@ -1,0 +1,57 @@
+{
+  "claim": {
+    "id": "S2/1619",
+    "text": "Tripura CPI(M) comrade is a billionaire, sleeps on bed of currency notes",
+    "lang": "dev"
+  },
+  "ranked_evidence": [
+    {
+      "title": "Tripura CPM leader's dream of sleeping on bed of money ...",
+      "url": "https://www.dailymotion.com/video/x739s2f",
+      "snippet": "Jogendranagar committee member of the CPI (M) here, Samar Acharjee, a contractor by profession, was shown lying on bundles of currency notes",
+      "bm25_score_raw": 3.2136838632136255,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Tripura CPI(M) comrade is a billionaire, sleeps on bed of ...",
+      "url": "https://www.indiatvnews.com/amp/video/tripura-cpi-40-m-41-comrade-is-a-billionaire-sleeps-on-bed-of-currency-notes-29190.22.html",
+      "snippet": "Tripura CPI(M) comrade is a billionaire, sleeps on bed of currency notes. Loading video. Published on: October 19, 2013 19:54 IST. Tripura CPI(M) comrade is",
+      "bm25_score_raw": 2.962054605310933,
+      "bm25_score_norm": 0.8878605191369293,
+      "bm25_rank": 2
+    },
+    {
+      "title": "CPI (M) member Samar Acharjee expelled over 'bed-of- ...",
+      "url": "https://www.thehindu.com/news/national/other-states/cpi-m-member-samar-acharjee-expelled-over-bedofcash-video/article5253930.ece",
+      "snippet": "The Tripura CPI (M) leader, who was caught on camera lying on bundles of currency notes, has been expelled from the party for “immoral work”",
+      "bm25_score_raw": 2.477952513678917,
+      "bm25_score_norm": 0.6721186865185053,
+      "bm25_rank": 3
+    },
+    {
+      "title": "Tripura CPM leader sleeps on bundles of cash, party in a ...",
+      "url": "https://timesofindia.indiatimes.com/india/tripura-cpm-leader-sleeps-on-bundles-of-cash-party-in-a-spot/articleshow/24354274.cms",
+      "snippet": "A video footage telecast in a local channel showing a CPM leader in Agartala lying on bundles of currency notes has left the party thoroughly embarrassed.",
+      "bm25_score_raw": 1.8767926167895683,
+      "bm25_score_norm": 0.40420962334057303,
+      "bm25_rank": 4
+    },
+    {
+      "title": "Tripura CPI(M) comrade is a billionaire, sleeps on bed of ...",
+      "url": "https://www.indiatvnews.com/politics/national/tripura-cpi-m-comrade-billionaire-sleeps-on-bed-currency-notes-13100.html",
+      "snippet": "A CPI(M) leader in Marxist-ruled Tripura who lay on a bed of cash withdrawn from his own bank account to fulfil a long cherished dream, is in deep trouble with",
+      "bm25_score_raw": 1.6165348242719895,
+      "bm25_score_norm": 0.2882248050934984,
+      "bm25_rank": 5
+    },
+    {
+      "title": "Tripura CPI(M) leader expelled over 'bed-of-cash' video",
+      "url": "https://www.indiatoday.in/india/east/story/tripura-cpim-member-expelled-over-bed-of-cash-video-214890-2013-10-19",
+      "snippet": "The Tripura CPI(M) leader, who was caught on camera lying on bundles of currency notes, has been expelled from the party for \"immoral work\"",
+      "bm25_score_raw": 0.9697885288848749,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6
+    }
+  ]
+}

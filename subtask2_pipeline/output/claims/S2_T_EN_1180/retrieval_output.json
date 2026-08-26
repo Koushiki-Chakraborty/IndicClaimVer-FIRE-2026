@@ -1,0 +1,108 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1180",
+    "text": "India's drugs regulator approves phase-3 trial of covid vaccine covovax",
+    "lang": "english"
+  },
+  "generated_queries": {
+    "english_translation": "India's drugs regulator approves phase-3 trial of covid vaccine covovax",
+    "native_query": "India drugs regulator approves phase trial covid vaccine",
+    "english_query": "India drugs regulator approves phase trial covid vaccine"
+  },
+  "native_retrieval": [
+    {
+      "title": "COVID-19 Vaccines under trials in India",
+      "url": "https://www.indiascienceandtechnology.gov.in/covid-19-vaccine/covid-19-vaccines-under-trails-india",
+      "snippet": "The vaccine received approval from Drug Controller General of India (DCGI) for Phase I, II, III Human Clinical Trials and they are in process of Phase II"
+    },
+    {
+      "title": "Covid-19: India coronavirus vaccine candidate from Cadila ...",
+      "url": "https://www.cnbc.com/2021/01/05/covid-19-india-coronavirus-vaccine-candidate-from-cadila-healthcare.html",
+      "snippet": "Zydus Cadila said on Jan. 3 that it received approval from India's drug regulator to begin the phase three clinical trial of its DNA vaccine"
+    },
+    {
+      "title": "First Covid-19 vaccine by Bharat Biotech to enter trials in India",
+      "url": "https://www.clinicaltrialsarena.com/news/india-bharat-biotech-vaccine-trials",
+      "snippet": "# India’s first Covid-19 vaccine by Bharat Biotech to enter trials. India-based biotechnology company Bharat Biotech has secured regulatory approval from the Drug Controller General of India (DCGI) to advance its Covid-19 vaccine candidate, Covaxin, into human clinical trials. Bharat Biotech’s Covid-19 vaccine is the first domestic vaccine to secure India’s regulatory approval for trials. This marks the first regulatory approval for India’s domestic vaccine to enter trials. In April this year, Bharat Biotech partnered with FluGen and University of Wisconsin–Madison (UWMadison) to develop and evaluate a Covid-19 vaccine candidate, CoroFlu. CoroFlu will be administered intranasally with an aim to induce multiple immune responses. Apart from Bharat Biotech, multiple companies in India are working to develop a Covid-19 vaccine, including Zydus Cadila, Serum Institute of India (SII) and Panacea Biotec. In addition, SII entered a licensing agreement with AstraZeneca for one billion doses of a Covid-19 vaccine developed by the University of Oxford."
+    },
+    {
+      "title": "DCGI approves Phase II/III clinical trial of COVAXIN ...",
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1718192&reg=48&lang=2",
+      "snippet": "The National Regulator of the country, the Drugs Controller General of India (DCGI), after careful examination, has accepted the recommendation of Subject"
+    },
+    {
+      "title": "What was the rush to approve India's homegrown vaccine?",
+      "url": "https://www.bbc.com/news/world-asia-india-55534902",
+      "snippet": "On Sunday, India's drug regulator gave emergency approval of a locally produced coronavirus vaccine, called Covaxin, before the completion of"
+    },
+    {
+      "title": "India's speedy approvals of COVID-19 vaccines come ...",
+      "url": "https://www.science.org/content/article/india-s-speedy-approvals-covid-19-vaccines-come-under-fire",
+      "snippet": "But the celebration was quickly drowned out by questions over whether India's drug regulator, the Central Drugs Standard Control Organization ("
+    }
+  ],
+  "english_retrieval": [
+    {
+      "title": "COVID-19 Vaccines under trials in India",
+      "url": "https://www.indiascienceandtechnology.gov.in/covid-19-vaccine/covid-19-vaccines-under-trails-india",
+      "snippet": "The vaccine received approval from Drug Controller General of India (DCGI) for Phase I, II, III Human Clinical Trials and they are in process of Phase II"
+    },
+    {
+      "title": "Covid-19: India coronavirus vaccine candidate from Cadila ...",
+      "url": "https://www.cnbc.com/2021/01/05/covid-19-india-coronavirus-vaccine-candidate-from-cadila-healthcare.html",
+      "snippet": "Zydus Cadila said on Jan. 3 that it received approval from India's drug regulator to begin the phase three clinical trial of its DNA vaccine"
+    },
+    {
+      "title": "First Covid-19 vaccine by Bharat Biotech to enter trials in India",
+      "url": "https://www.clinicaltrialsarena.com/news/india-bharat-biotech-vaccine-trials",
+      "snippet": "# India’s first Covid-19 vaccine by Bharat Biotech to enter trials. India-based biotechnology company Bharat Biotech has secured regulatory approval from the Drug Controller General of India (DCGI) to advance its Covid-19 vaccine candidate, Covaxin, into human clinical trials. Bharat Biotech’s Covid-19 vaccine is the first domestic vaccine to secure India’s regulatory approval for trials. This marks the first regulatory approval for India’s domestic vaccine to enter trials. In April this year, Bharat Biotech partnered with FluGen and University of Wisconsin–Madison (UWMadison) to develop and evaluate a Covid-19 vaccine candidate, CoroFlu. CoroFlu will be administered intranasally with an aim to induce multiple immune responses. Apart from Bharat Biotech, multiple companies in India are working to develop a Covid-19 vaccine, including Zydus Cadila, Serum Institute of India (SII) and Panacea Biotec. In addition, SII entered a licensing agreement with AstraZeneca for one billion doses of a Covid-19 vaccine developed by the University of Oxford."
+    },
+    {
+      "title": "DCGI approves Phase II/III clinical trial of COVAXIN ...",
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1718192&reg=48&lang=2",
+      "snippet": "The National Regulator of the country, the Drugs Controller General of India (DCGI), after careful examination, has accepted the recommendation of Subject"
+    },
+    {
+      "title": "What was the rush to approve India's homegrown vaccine?",
+      "url": "https://www.bbc.com/news/world-asia-india-55534902",
+      "snippet": "On Sunday, India's drug regulator gave emergency approval of a locally produced coronavirus vaccine, called Covaxin, before the completion of"
+    },
+    {
+      "title": "India's speedy approvals of COVID-19 vaccines come ...",
+      "url": "https://www.science.org/content/article/india-s-speedy-approvals-covid-19-vaccines-come-under-fire",
+      "snippet": "But the celebration was quickly drowned out by questions over whether India's drug regulator, the Central Drugs Standard Control Organization ("
+    }
+  ],
+  "merged_results": [
+    {
+      "title": "COVID-19 Vaccines under trials in India",
+      "url": "https://www.indiascienceandtechnology.gov.in/covid-19-vaccine/covid-19-vaccines-under-trails-india",
+      "snippet": "The vaccine received approval from Drug Controller General of India (DCGI) for Phase I, II, III Human Clinical Trials and they are in process of Phase II"
+    },
+    {
+      "title": "Covid-19: India coronavirus vaccine candidate from Cadila ...",
+      "url": "https://www.cnbc.com/2021/01/05/covid-19-india-coronavirus-vaccine-candidate-from-cadila-healthcare.html",
+      "snippet": "Zydus Cadila said on Jan. 3 that it received approval from India's drug regulator to begin the phase three clinical trial of its DNA vaccine"
+    },
+    {
+      "title": "First Covid-19 vaccine by Bharat Biotech to enter trials in India",
+      "url": "https://www.clinicaltrialsarena.com/news/india-bharat-biotech-vaccine-trials",
+      "snippet": "# India’s first Covid-19 vaccine by Bharat Biotech to enter trials. India-based biotechnology company Bharat Biotech has secured regulatory approval from the Drug Controller General of India (DCGI) to advance its Covid-19 vaccine candidate, Covaxin, into human clinical trials. Bharat Biotech’s Covid-19 vaccine is the first domestic vaccine to secure India’s regulatory approval for trials. This marks the first regulatory approval for India’s domestic vaccine to enter trials. In April this year, Bharat Biotech partnered with FluGen and University of Wisconsin–Madison (UWMadison) to develop and evaluate a Covid-19 vaccine candidate, CoroFlu. CoroFlu will be administered intranasally with an aim to induce multiple immune responses. Apart from Bharat Biotech, multiple companies in India are working to develop a Covid-19 vaccine, including Zydus Cadila, Serum Institute of India (SII) and Panacea Biotec. In addition, SII entered a licensing agreement with AstraZeneca for one billion doses of a Covid-19 vaccine developed by the University of Oxford."
+    },
+    {
+      "title": "DCGI approves Phase II/III clinical trial of COVAXIN ...",
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1718192&reg=48&lang=2",
+      "snippet": "The National Regulator of the country, the Drugs Controller General of India (DCGI), after careful examination, has accepted the recommendation of Subject"
+    },
+    {
+      "title": "What was the rush to approve India's homegrown vaccine?",
+      "url": "https://www.bbc.com/news/world-asia-india-55534902",
+      "snippet": "On Sunday, India's drug regulator gave emergency approval of a locally produced coronavirus vaccine, called Covaxin, before the completion of"
+    },
+    {
+      "title": "India's speedy approvals of COVID-19 vaccines come ...",
+      "url": "https://www.science.org/content/article/india-s-speedy-approvals-covid-19-vaccines-come-under-fire",
+      "snippet": "But the celebration was quickly drowned out by questions over whether India's drug regulator, the Central Drugs Standard Control Organization ("
+    }
+  ]
+}

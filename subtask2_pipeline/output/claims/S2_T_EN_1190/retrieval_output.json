@@ -1,0 +1,108 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1190",
+    "text": "LIVE: Modi praises 'mother-son' govt for developing India at Daman rally",
+    "lang": "english"
+  },
+  "generated_queries": {
+    "english_translation": "LIVE: Modi praises 'mother-son' govt for developing India at Daman rally",
+    "native_query": "Modi India Daman LIVE praises mother son govt",
+    "english_query": "Modi India Daman LIVE praises mother son govt"
+  },
+  "native_retrieval": [
+    {
+      "title": "LIVE: PM Shri Narendra Modi lays foundation stone ...",
+      "url": "https://www.youtube.com/watch?v=vCy5dhGXgg4",
+      "snippet": "PM Modi also praised Daman as a true \"Mini India,\" where people from different regions of the country live together, reflecting India's Unity"
+    },
+    {
+      "title": "LIVE: PM Modi lays foundation stone, inaugurates various ...",
+      "url": "https://www.youtube.com/watch?v=D2-vKxLjrqo",
+      "snippet": "PM Modi Live: Prime Minister Narendra Modi lays foundation stone and inaugurates various development works in Daman."
+    },
+    {
+      "title": "LIVE: PM Modi inaugurates NAMO Hospital in Daman",
+      "url": "https://www.youtube.com/watch?v=HE5KFAr6mn4",
+      "snippet": "PM Modi Live: Prime Minister Narendra Modi inaugurates Namo Hospital in Daman ... | Modi Government. Times Now Navbharat•235K views · 40:14."
+    },
+    {
+      "title": "Great energy in #Daman during my recent visit. Narendra ...",
+      "url": "https://www.facebook.com/youth4Modi2019/posts/great-energy-in-daman-during-my-recent-visitnarendra-modi-modihaitomumkinhai/1445436314291137",
+      "snippet": "Prime Minister Narendra Modi with his mother as she visited 7 Race Course for the first time. Absolutely stunning and refreshing, Just so"
+    },
+    {
+      "title": "I am honoured by the special welcome in Daman. The NDA ...",
+      "url": "https://www.facebook.com/narendramodi/posts/i-am-honoured-by-the-special-welcome-in-daman-the-nda-government-has-devoted-sig/1798679514959606",
+      "snippet": "I am honoured by the special welcome in Daman. The NDA Government has devoted significant resources for the development of Daman and Diu. Various projects"
+    },
+    {
+      "title": "PM Visits Daman, Says It Has Become Mini-India",
+      "url": "https://www.ndtv.com/india-news/pm-narendra-modi-daman-visit-live-updates-pm-to-visit-daman-will-launch-number-of-development-projec-1816605",
+      "snippet": "Prime Minister Narendra Modi arrived at Daman today where he launched a number of development projects and handed over certificates to beneficiaries."
+    }
+  ],
+  "english_retrieval": [
+    {
+      "title": "LIVE: PM Shri Narendra Modi lays foundation stone ...",
+      "url": "https://www.youtube.com/watch?v=vCy5dhGXgg4",
+      "snippet": "PM Modi also praised Daman as a true \"Mini India,\" where people from different regions of the country live together, reflecting India's Unity"
+    },
+    {
+      "title": "LIVE: PM Modi lays foundation stone, inaugurates various ...",
+      "url": "https://www.youtube.com/watch?v=D2-vKxLjrqo",
+      "snippet": "PM Modi Live: Prime Minister Narendra Modi lays foundation stone and inaugurates various development works in Daman."
+    },
+    {
+      "title": "LIVE: PM Modi inaugurates NAMO Hospital in Daman",
+      "url": "https://www.youtube.com/watch?v=HE5KFAr6mn4",
+      "snippet": "PM Modi Live: Prime Minister Narendra Modi inaugurates Namo Hospital in Daman ... | Modi Government. Times Now Navbharat•235K views · 40:14."
+    },
+    {
+      "title": "Great energy in #Daman during my recent visit. Narendra ...",
+      "url": "https://www.facebook.com/youth4Modi2019/posts/great-energy-in-daman-during-my-recent-visitnarendra-modi-modihaitomumkinhai/1445436314291137",
+      "snippet": "Prime Minister Narendra Modi with his mother as she visited 7 Race Course for the first time. Absolutely stunning and refreshing, Just so"
+    },
+    {
+      "title": "I am honoured by the special welcome in Daman. The NDA ...",
+      "url": "https://www.facebook.com/narendramodi/posts/i-am-honoured-by-the-special-welcome-in-daman-the-nda-government-has-devoted-sig/1798679514959606",
+      "snippet": "I am honoured by the special welcome in Daman. The NDA Government has devoted significant resources for the development of Daman and Diu. Various projects"
+    },
+    {
+      "title": "PM Visits Daman, Says It Has Become Mini-India",
+      "url": "https://www.ndtv.com/india-news/pm-narendra-modi-daman-visit-live-updates-pm-to-visit-daman-will-launch-number-of-development-projec-1816605",
+      "snippet": "Prime Minister Narendra Modi arrived at Daman today where he launched a number of development projects and handed over certificates to beneficiaries."
+    }
+  ],
+  "merged_results": [
+    {
+      "title": "LIVE: PM Shri Narendra Modi lays foundation stone ...",
+      "url": "https://www.youtube.com/watch?v=vCy5dhGXgg4",
+      "snippet": "PM Modi also praised Daman as a true \"Mini India,\" where people from different regions of the country live together, reflecting India's Unity"
+    },
+    {
+      "title": "LIVE: PM Modi lays foundation stone, inaugurates various ...",
+      "url": "https://www.youtube.com/watch?v=D2-vKxLjrqo",
+      "snippet": "PM Modi Live: Prime Minister Narendra Modi lays foundation stone and inaugurates various development works in Daman."
+    },
+    {
+      "title": "LIVE: PM Modi inaugurates NAMO Hospital in Daman",
+      "url": "https://www.youtube.com/watch?v=HE5KFAr6mn4",
+      "snippet": "PM Modi Live: Prime Minister Narendra Modi inaugurates Namo Hospital in Daman ... | Modi Government. Times Now Navbharat•235K views · 40:14."
+    },
+    {
+      "title": "Great energy in #Daman during my recent visit. Narendra ...",
+      "url": "https://www.facebook.com/youth4Modi2019/posts/great-energy-in-daman-during-my-recent-visitnarendra-modi-modihaitomumkinhai/1445436314291137",
+      "snippet": "Prime Minister Narendra Modi with his mother as she visited 7 Race Course for the first time. Absolutely stunning and refreshing, Just so"
+    },
+    {
+      "title": "I am honoured by the special welcome in Daman. The NDA ...",
+      "url": "https://www.facebook.com/narendramodi/posts/i-am-honoured-by-the-special-welcome-in-daman-the-nda-government-has-devoted-sig/1798679514959606",
+      "snippet": "I am honoured by the special welcome in Daman. The NDA Government has devoted significant resources for the development of Daman and Diu. Various projects"
+    },
+    {
+      "title": "PM Visits Daman, Says It Has Become Mini-India",
+      "url": "https://www.ndtv.com/india-news/pm-narendra-modi-daman-visit-live-updates-pm-to-visit-daman-will-launch-number-of-development-projec-1816605",
+      "snippet": "Prime Minister Narendra Modi arrived at Daman today where he launched a number of development projects and handed over certificates to beneficiaries."
+    }
+  ]
+}

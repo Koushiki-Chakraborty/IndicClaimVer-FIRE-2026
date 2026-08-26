@@ -1,0 +1,108 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1142",
+    "text": "Arvind Kejriwal threatens to jail media if AAP comes to power, later retracts",
+    "lang": "english"
+  },
+  "generated_queries": {
+    "english_translation": "Arvind Kejriwal threatens to jail media if AAP comes to power, later retracts",
+    "native_query": "Arvind Arvind Kejriwal AAP threatens jail media power retracts",
+    "english_query": "Arvind Arvind Kejriwal AAP threatens jail media power retracts"
+  },
+  "native_retrieval": [
+    {
+      "title": "Arvind Kejriwal threatens to jail media if AAP comes ...",
+      "url": "https://www.indiatvnews.com/politics/national/arvind-threatens-to-jail-media-if-aap-comes-to-power-retracts-15555.html",
+      "snippet": "Arvind Kejriwal threatens to jail media if AAP comes to power, later retracts India TV News. He also threatened to jail corrupt businessmen"
+    },
+    {
+      "title": "Arvind Kejriwal threatens to jail media for 'promoting' ...",
+      "url": "https://www.deccanchronicle.com/140314/nation-current-affairs/article/arvind-kejriwal-threatens-jail-media-promoting-narendra-modi",
+      "snippet": "Arvind Kejriwal rustled more feathers on Thursday night when he threatened to jail many for corruption, including those in the media, if he"
+    },
+    {
+      "title": "Kejriwal attacks media, says will 'send all to jail'",
+      "url": "https://timesofindia.indiatimes.com/news/kejriwal-attacks-media-says-will-send-all-to-jail/articleshow/32030084.cms",
+      "snippet": "\"If our government comes to power then we will set an inquiry into this. And along with media people, all will be sent to jail,\" he said."
+    },
+    {
+      "title": "Arvind Kejriwal Leaves Jail After 50 Days, Says \"Need To ...",
+      "url": "https://www.ndtv.com/india-news/arvind-kejiwal-leaves-jail-after-50-days-election-gamechanger-says-aap-5633876",
+      "snippet": "The AAP and Mr Kejriwal have firmly denied the charges and have accused the BJP of making false accusations to discredit the party and its"
+    },
+    {
+      "title": "India opposition leader to remain in jail in corruption case",
+      "url": "https://www.bbc.com/news/world-asia-india-68681612",
+      "snippet": "Mr Kejriwal is the third AAP leader to be arrested over the alleged corruption case. An alliance of more than 20 opposition parties have planned"
+    },
+    {
+      "title": "Arvind Kejriwal Sent To Judicial Custody Over Defamation ...",
+      "url": "https://time.com/107295/arvind-kejriwal-judicial-custody",
+      "snippet": "The Aam Aadmi Party leader was jailed Wednesday after refusing to pay bail over a defamation complaint, just hours after issuing an apology"
+    }
+  ],
+  "english_retrieval": [
+    {
+      "title": "Arvind Kejriwal threatens to jail media if AAP comes ...",
+      "url": "https://www.indiatvnews.com/politics/national/arvind-threatens-to-jail-media-if-aap-comes-to-power-retracts-15555.html",
+      "snippet": "Arvind Kejriwal threatens to jail media if AAP comes to power, later retracts India TV News. He also threatened to jail corrupt businessmen"
+    },
+    {
+      "title": "Arvind Kejriwal threatens to jail media for 'promoting' ...",
+      "url": "https://www.deccanchronicle.com/140314/nation-current-affairs/article/arvind-kejriwal-threatens-jail-media-promoting-narendra-modi",
+      "snippet": "Arvind Kejriwal rustled more feathers on Thursday night when he threatened to jail many for corruption, including those in the media, if he"
+    },
+    {
+      "title": "Kejriwal attacks media, says will 'send all to jail'",
+      "url": "https://timesofindia.indiatimes.com/news/kejriwal-attacks-media-says-will-send-all-to-jail/articleshow/32030084.cms",
+      "snippet": "\"If our government comes to power then we will set an inquiry into this. And along with media people, all will be sent to jail,\" he said."
+    },
+    {
+      "title": "Arvind Kejriwal Leaves Jail After 50 Days, Says \"Need To ...",
+      "url": "https://www.ndtv.com/india-news/arvind-kejiwal-leaves-jail-after-50-days-election-gamechanger-says-aap-5633876",
+      "snippet": "The AAP and Mr Kejriwal have firmly denied the charges and have accused the BJP of making false accusations to discredit the party and its"
+    },
+    {
+      "title": "India opposition leader to remain in jail in corruption case",
+      "url": "https://www.bbc.com/news/world-asia-india-68681612",
+      "snippet": "Mr Kejriwal is the third AAP leader to be arrested over the alleged corruption case. An alliance of more than 20 opposition parties have planned"
+    },
+    {
+      "title": "Arvind Kejriwal Sent To Judicial Custody Over Defamation ...",
+      "url": "https://time.com/107295/arvind-kejriwal-judicial-custody",
+      "snippet": "The Aam Aadmi Party leader was jailed Wednesday after refusing to pay bail over a defamation complaint, just hours after issuing an apology"
+    }
+  ],
+  "merged_results": [
+    {
+      "title": "Arvind Kejriwal threatens to jail media if AAP comes ...",
+      "url": "https://www.indiatvnews.com/politics/national/arvind-threatens-to-jail-media-if-aap-comes-to-power-retracts-15555.html",
+      "snippet": "Arvind Kejriwal threatens to jail media if AAP comes to power, later retracts India TV News. He also threatened to jail corrupt businessmen"
+    },
+    {
+      "title": "Arvind Kejriwal threatens to jail media for 'promoting' ...",
+      "url": "https://www.deccanchronicle.com/140314/nation-current-affairs/article/arvind-kejriwal-threatens-jail-media-promoting-narendra-modi",
+      "snippet": "Arvind Kejriwal rustled more feathers on Thursday night when he threatened to jail many for corruption, including those in the media, if he"
+    },
+    {
+      "title": "Kejriwal attacks media, says will 'send all to jail'",
+      "url": "https://timesofindia.indiatimes.com/news/kejriwal-attacks-media-says-will-send-all-to-jail/articleshow/32030084.cms",
+      "snippet": "\"If our government comes to power then we will set an inquiry into this. And along with media people, all will be sent to jail,\" he said."
+    },
+    {
+      "title": "Arvind Kejriwal Leaves Jail After 50 Days, Says \"Need To ...",
+      "url": "https://www.ndtv.com/india-news/arvind-kejiwal-leaves-jail-after-50-days-election-gamechanger-says-aap-5633876",
+      "snippet": "The AAP and Mr Kejriwal have firmly denied the charges and have accused the BJP of making false accusations to discredit the party and its"
+    },
+    {
+      "title": "India opposition leader to remain in jail in corruption case",
+      "url": "https://www.bbc.com/news/world-asia-india-68681612",
+      "snippet": "Mr Kejriwal is the third AAP leader to be arrested over the alleged corruption case. An alliance of more than 20 opposition parties have planned"
+    },
+    {
+      "title": "Arvind Kejriwal Sent To Judicial Custody Over Defamation ...",
+      "url": "https://time.com/107295/arvind-kejriwal-judicial-custody",
+      "snippet": "The Aam Aadmi Party leader was jailed Wednesday after refusing to pay bail over a defamation complaint, just hours after issuing an apology"
+    }
+  ]
+}

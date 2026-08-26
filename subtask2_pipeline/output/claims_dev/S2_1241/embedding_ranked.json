@@ -1,0 +1,76 @@
+{
+  "claim": {
+    "id": "S2/1241",
+    "text": "Live reporting: 'Congress is essential for India's progress,' says Narendra Modi at Mumbai rally",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "India news - breaking news, video and headlines ...",
+      "url": "https://www.cnn.com/world/india",
+      "snippet": "# India. Trinamool Chhatra Parishad (TMCP), Trinamool Youth Congress supporters took out a protest rally against recent rape and murder of a 11 year old girl in Baruipur from Ballygung to Hazra on July 8, 2026 in Kolkata, India. Ramadan is the ninth month of the Islamic calendar, observed by Muslims worldwide as a period of fasting, prayer, reflection, and community. A cameraman records seized evidence at a news conference at the Federal Building in Los Angeles, Tuesday, July 7, 2026. Maoist rebels exercise at a temporary base in the Abujh Marh forests, in the central Indian state of Chattisgarh, India, on April 13, 2007 file photo,. A man visits the web page of the newly formed Cockroach Janta Party on a laptop in Dharamshala, India, Thursday, May 21, 2026. India's players celebrate their win over South Africa in the ICC Women's Cricket World Cup final match in Navi Mumbai, India on November 3, 2025.",
+      "bm25_score_raw": 3.376526108557906,
+      "bm25_score_norm": 0.6651146006287499,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8447972536087036,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "India: Introduction",
+      "url": "https://globaledge.msu.edu/countries/india",
+      "snippet": "The largest employer in India is the Indian Railways, employing around 1.5 million people. India is located in Southern Asia bordering the Arabian Sea and the Bay of Bengal. India has a diverse geology: upland plain (Deccan Plateau) in south, flat to rolling plain along the Ganges river, deserts in west, and the Himalayas in the north. The government is a federal republic; the chief of state is the president, and the head of government is the prime minister. India has a market economy in which the prices of goods and services are determined in a free price system. India is a member of the Asia-Pacific Trade Agreement (APTA) and the South Asian Association for Regional Cooperation (SAARC). India: U.S. Commercial Service - Country Commercial Guide open\\_in\\_new. India: World Bank - Doing Business Indicators open\\_in\\_new. India: BBC - Country Profile open\\_in\\_new. India: U.S. Department of State - Country Travel Information open\\_in\\_new.",
+      "bm25_score_raw": 1.1088240864568586,
+      "bm25_score_norm": 0.07842075611509997,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8271749019622803,
+      "embedding_score_norm": 0.4212372611277939,
+      "embedding_rank": 2
+    },
+    {
+      "title": "India | Latest News & Updates",
+      "url": "https://www.bbc.com/news/world/asia/india",
+      "snippet": "Abhijeet Dipke addresses protesters as demonstrators take part in a protest organised by the Cockroach Janta Party (CJP) at Jantar Mantar during the opening day of Parliament's Monsoon Session on July 20, 2026 in New Delhi, India. Sonam Wangchuk, an Indian education reformer, who has been on hunger strike, gestures as he sits on stage during a sit-in protest called by Cockroach Janta Party (CJP) demanding the resignation of Indian Education Minister Dharmendra Pradhan, at Jantar Mantar in New Delhi, India, July 17, 2026. India batter Yastika Bhatia celebrates her century during day three of the 1st Women's Rothesay Test Match between England and India at Lord's Cricket Ground on July 12, 2026 in London, England. BBC's Azadeh Moshiri reports as thousands attempt to march to India's parliament in support of the Cockroach Janta Party's demand for education reforms.",
+      "bm25_score_raw": 0.9763935593708055,
+      "bm25_score_norm": 0.044158681861138104,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.819960355758667,
+      "embedding_score_norm": 0.18429325931117105,
+      "embedding_rank": 3
+    },
+    {
+      "title": "India | History, Maps, Population, Economy, & Facts",
+      "url": "https://www.britannica.com/place/India",
+      "snippet": "*   Drainage into the Bay of Bengal. *   India from the Paleolithic Period to the decline of the Indus civilization. *   Earliest settlements in eastern India. *   The rise of urbanism in the Indus valley. *   The end of the Indus civilization. *   Peninsular India in the aftermath of the Indus civilization (c. *   The development of Indian civilization from c. *   The Muslim states of southern India, c. Image 3: Flag of IndiaImage 4: Political map of India showing state and union territory boundaries, major cities, neighboring countries, disputed borders, and lines of control, with an inset locator map highlighting India's position in the world.Image 5: Split image with the Indian flag on the left and people waiting at a polling station on the right, overlaid with large text reading \"1 BILLION VOTERS?\".Image 6: Agra, India: Taj MahalImage 7: Jaisalmer, Rajasthan, India: fortImage 8: Indian Independence MovementImage 9: Mumbai, India: Gateway of India monumentImage 10: Himachal Pradesh, IndiaImage 11: Himalayas.",
+      "bm25_score_raw": 1.0897691704774102,
+      "bm25_score_norm": 0.0734909188596261,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8161599040031433,
+      "embedding_score_norm": 0.05947678128878431,
+      "embedding_rank": 4
+    },
+    {
+      "title": "India Country Profile",
+      "url": "https://kids.nationalgeographic.com/geography/countries/article/india",
+      "snippet": "[![Image 1: National Geographic Kids Logo - Home](https://i.natgeofe.com/n/9809eae8-2750-4ecf-9d48-1de552cf0f78/kids.png?wp=1&w=177&h=75)](https://kids.nationalgeographic.com/). ![Image 2: The Taj Mahal, an Indian landmark, was completed in 1653.](https://i.natgeofe.com/k/42e832f5-fd48-43ff-b338-091bdf4048ca/india-tajmahal.jpg?wp=1&w=718&h=404). ![Image 3: Diwali is the Indian festival of lights.](https://i.natgeofe.com/k/10e123e7-4fe8-431b-9432-f405b6be7592/india-diwali.jpg?wp=1&w=718&h=404). ![Image 4: men bathing in the Ganges River.](https://i.natgeofe.com/k/4d1caf0b-e775-4b30-9ad6-4ff1de3ac94e/india-ganges-river.jpg?wp=1&w=718&h=404). ![Image 5: During the festival of Holi, celebrants throw colored powder.](https://i.natgeofe.com/k/67a71ca6-f71e-4939-a6f9-2e6d917f87a8/india-holi.jpg?wp=1&w=718&h=404). ![Image 6: Map of India](https://i.natgeofe.com/k/f4ff7959-fa59-4e96-a9e5-d18883528585/India-map.jpg?wp=1&w=718&h=404). ![Image 7](https://i.natgeofe.com/k/f4ff7959-fa59-4e96-a9e5-d18883528585/India-map.jpg?wp=1&w=718&h=404). ![Image 8: men bathing in the Ganges River.](https://i.natgeofe.com/k/4d1caf0b-e775-4b30-9ad6-4ff1de3ac94e/india-ganges-river.jpg?wp=1&w=718&h=404). India's varied climate zones support about 65,000 animal species, including [elephants](https://kids.nationalgeographic.com/animals/mammals/facts/asian-elephant), pythons, river dolphins, and rhinos, and 12,000 types of flowering plants. ![Image 9: India flag](https://i.natgeofe.com/k/6a6e810e-f236-4fb6-a298-a3d79a004b5d/india-flag.gif?wp=1&w=718&h=678). ![Image 10](https://i.natgeofe.com/k/7332752f-136b-46d4-be4c-fe16b47c5d3a/money-india.jpg?wp=1&w=718&h=678). [![Image 19](https://i.natgeofe.com/k/396dbb62-cdc3-4115-8ecd-7be6225cad71/countireshub_3x2.jpg?wp=1&w=730&h=487) ## Countries](https://kids.nationalgeographic.com/geography/countries). [![Image 20](https://i.natgeofe.com/k/da2dc20e-eaf3-419e-b8e7-bfba66745fe6/unitedstates_ngkhub_square.jpg?wp=1&w=110&h=110) ## U.S. states and territories facts and photos Get facts and photos of the U.S. states and territories, and the District of Columbia.](https://kids.nationalgeographic.com/geography/states). [![Image 21](https://i.natgeofe.com/k/b09b27d7-b000-478c-becd-347bd268da65/habitats_ngkhub_square.jpg?wp=1&w=110&h=110) ## Habitats Learn about the different natural environments of plants and animals.](https://kids.nationalgeographic.com/nature/habitats). From the deserts of Africa to mega cities of Asia, watch as we explore the coolest places and most interesting facts about each of our continents.](https://kids.nationalgeographic.com/videos/topic/destination-world). *   [Your Privacy Choices](https://kids.nationalgeographic.com/geography/countries/article/india#).",
+      "bm25_score_raw": 0.8057104457055659,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8151921033859253,
+      "embedding_score_norm": 0.027691753550049134,
+      "embedding_rank": 5
+    },
+    {
+      "title": "India's global rise: World reacts to its transformation and ...",
+      "url": "https://www.youtube.com/watch?v=L0ooM-kYSg0",
+      "snippet": "India’s global rise: World reacts to its transformation and innovation\nDD India\n1080000 subscribers\n268 likes\n12141 views\n9 Jun 2026\nFrom transforming its villages to building smart cities, India’s journey of innovation and progress is gaining global attention. In a powerful narrative highlighting the country’s rising global stature, voices from around the world reflect on how India is emerging as a leader in technology, development, and diplomacy.\n\nThe segment captures international perspectives on India’s rapid transformation. From empowering its citizens to contributing to global peace and prosperity, India is being seen not just as a rising power but as a nation actively shaping the future. The story showcases India’s evolving identity as a voice of progress and a partner in global development.\n\n#India #IndiasGrowthStory #GlobalIndia #Innovation #SmartCities #DigitalIndia #IndiaTransformation #GlobalLeadership #Progress #Development #IndiaRising #NationBuilding #WorldOpinion #GlobalVoice #PeaceAndProsperity #IndiaAbroad #InternationalPerspective #NewIndia #Technology #Economy #Diplomacy #FutureIndia #SoftPower #GrowthStory\n39 comments\n",
+      "bm25_score_raw": 4.670932559942845,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8143489360809326,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6
+    }
+  ]
+}

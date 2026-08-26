@@ -1,0 +1,8 @@
+=== BGE-M3 Dense retrieval (data/ train+dev, Colab GPU) ===
+Language     Success@3    nDCG@3       n       
+--------------------------------------------
+Hindi        0.893        0.564        1432    
+Bengali      0.766        0.473        978     
+English      0.873        0.558        1967    
+Code-mixed   0.751        0.413        1293    
+Overall      0.832        0.512        5670    

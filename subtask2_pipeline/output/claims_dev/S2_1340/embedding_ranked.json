@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/1340",
+    "text": "मध्यस्थता एवं सुलह अधिनियम के तहत कार्यवाही के लिए परिसीमा अधिनियम की धारा 14 लागू : सुप्रीम कोर्ट",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "S. 14 Limitation Act Applicable To Arbitration & Conciliation Act",
+      "url": "https://www.livelaw.in/amp/supreme-court/s-14-limitation-act-applicable-to-arbitration-conciliation-act-supreme-court-277960",
+      "snippet": "The Supreme Court has held that Section 14 of the Limitation Act, 1963 is applicable to the Arbitration and Conciliation Act, 1996.",
+      "bm25_score_raw": 10.232947871424436,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9335357546806335,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Applicability of the Limitation Act, 1963 to Arbitration Proceedings",
+      "url": "https://www.casemine.com/commentary/in/applicability-of-the-limitation-act%2C-1963-to-arbitration-proceedings%3A-insights-from-ms-consolidated-engineering-v.-ms-consolidated-engineering/view",
+      "snippet": "Section 14 of the Limitation Act remains effective, allowing for the exclusion of time spent in prosecuting cases before an incompetent forum.",
+      "bm25_score_raw": 2.0635511836302474,
+      "bm25_score_norm": 0.20165754869061003,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.9101613759994507,
+      "embedding_score_norm": 0.8144692040461692,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Section 34 Arbitration and Section 14 Limitation Act: Navigating Legal ...",
+      "url": "https://bhattandjoshiassociates.com/arbitration-and-conciliation-act-1996-arbitration-section-34-and-section-14-of-the-limitation-act-1963-a-critical-analysis",
+      "snippet": "Analyzing Section 34 & Section 14: Arbitration and Conciliation Act- Time Limits, Jurisdiction, & Limitation Act Interplay.",
+      "bm25_score_raw": 3.395334592199963,
+      "bm25_score_norm": 0.33180415212330494,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.9042638540267944,
+      "embedding_score_norm": 0.7676584647890455,
+      "embedding_rank": 3
+    },
+    {
+      "title": "order",
+      "url": "https://api.sci.gov.in/supremecourt/2020/3887/3887_2020_13_20_57345_Order_21-Nov-2024.pdf",
+      "snippet": "If the period between the commencement of the arbitration proceedings till the award is set aside by the court, has to be excluded in computing the period of limitation provided for any proceedings with respect o the dispute, there is no good reason as to why it should not be held that the to provisions of Section 14 of the Limitation Act would be applicable to an application submitted under Section 34 of the Act of 1996, more particularly d where no provision is to be found in the Act of 1996, which excludes the applicability of Section 14 of the Limitation Act, to an application made under Section 34 of the Act. It is to be noticed that the powers under Section 34 of the Act can be exercised by the court only if the aggrieved party makes an application.",
+      "bm25_score_raw": 4.453081247032552,
+      "bm25_score_norm": 0.43517091096181637,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8832005858421326,
+      "embedding_score_norm": 0.6004717786746766,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Applicability of the Statute of Limitation to Arbitration Proceedings",
+      "url": "https://articles.manupatra.com/article-details/Applicability-of-the-Statute-of-Limitation-to-Arbitration-Proceedings-A-Comprehensive-Analysis",
+      "snippet": "The court held that in family matters the process of arbitration begins only after the dispute has not been settled by the conciliation, and if",
+      "bm25_score_raw": 2.0422605240277827,
+      "bm25_score_norm": 0.1995769498377693,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8750758171081543,
+      "embedding_score_norm": 0.5359825860113744,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Supreme Court of India: When Does an Arbitration Claim Is Barred by ...",
+      "url": "https://www.linkedin.com/pulse/supreme-court-india-when-does-arbitration-claim-mciarb-msiarb",
+      "snippet": "the Limitation Act, 1963 of India applies to arbitrations as it applies to proceedings in Court. condone the delay caused in triggering",
+      "bm25_score_raw": 4.33150547431475,
+      "bm25_score_norm": 0.42329009477420515,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8674039244651794,
+      "embedding_score_norm": 0.47508803270847416,
+      "embedding_rank": 6
+    },
+    {
+      "title": "श्रेष्ठ सुप्रीम कोर्ट वकील भारत में | LawRato.com",
+      "url": "https://hindi.lawrato.com/%E0%A4%B8%E0%A5%81%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AE-%E0%A4%95%E0%A5%8B%E0%A4%B0%E0%A5%8D%E0%A4%9F-%E0%A4%B5%E0%A4%95%E0%A5%80%E0%A4%B2",
+      "snippet": "* भारतीय दंड संहिता. * भारतीय न्याय संहिता. * सुप्रीम कोर्ट फैसले. * कानूनी दस्तावेज. * कानून की जानकारी. * वकील से बात करें. ## अनुभवी वकीलों से सलाह प्राप्त करें. ##### **✅ सत्यापित वकील**. ##### **✅ तुरंत संपर्क करें**. ### **अनुभवी वकीलों से संपर्क करने के लिए अपनी कानूनी समस्या बताये|**. कानूनी परेशानी? मदद के लिए यहां दबाएं. # भारत के अनुभवी सुप्रीम कोर्ट वकीलो से परामर्श करे. सुप्रीम कोर्ट के वकील देश के सबसे विद्वान वकीलों में से हैं, जो लोकतंत्र, कानून के शासन और न्यायपालिका की स्वतंत्रता के संवैधानिक मूल्यों को बनाए रखने, बनाए रखने और मजबूत करने के लिए जिम्मेदार हैं। एक विशेष अनुमति याचिका (एसएलपी) दायर करने, समीक्षा याचिका, अंतर शहर स्थानांतरण मामलों, या उच्च न्यायालय द्वारा खारिज किए गए मामले को दर्ज करने और सर्वोच्च न्यायालय में अपील करने की आवश्यकता के लिए सुप्रीम कोर्ट के शीर्ष रेटेड वकील से परामर्श करने के लिए LawRato का उपयोग करें . राजाजी नगर, बैंगलोर. सुप्रीम कोर्ट +3 और. द्वारका, दिल्ली. सुप्रीम कोर्ट +3 और. उच्च न्यायालय, जयपुर. सुप्रीम कोर्ट +3 और. सुप्रीम कोर्ट +3 और. सुप्रीम कोर्ट +3 और. जिला एवं सत्र न्यायालय, अंबाला. सुप्रीम कोर्ट +3 और. ## एडवोकेट रवि जाधव. पंचशील एन्क्लेव, दिल्ली. ## एडवोकेट भावना पांडे. हरि नगर आश्रम, दिल्ली. शहर के सिविल कोर्ट, जमशेदपुर. सेक्टर -19, द्वारका, दिल्ली. सिविल लाइन्स, गुडगाँव. लॉरेंस रोड, केशव पुरम, दिल्ली. जिला अदालत, पटियाला. राजाजीनगर, बैंगलोर. अपने आस-पास एक सुप्रीम कोर्ट के वकील को नियुक्त करना महत्वपूर्ण है ताकि जब भी दस्तावेज़ों का आदान-प्रदान करने की आवश्यकता हो और/या जब भी आपको अपने मामले के संबंध में सुप्रीम कोर्ट के वकील से मिलने की आवश्यकता हो, तो पहुंच में आसानी हो।. अपने मामले के लिए भारत में सही सुप्रीम कोर्ट के वकील का चयन करने के लिए, आपको एक ऐसे वकील की तलाश करनी चाहिए, जिसे आपके जैसे मामलों को संभालने का अच्छा अनुभव हो और जो आपके केस बजट के तहत शुल्क लेता हो।. We are delighted to have helped over 30,000 clients get a consult with a verified lawyer for their legal issues. You can book a phone or meeting consult with any lawyer and get upto 30% off on the first consult fee.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.8219870328903198,
+      "embedding_score_norm": 0.11459793547153976,
+      "embedding_rank": 7
+    },
+    {
+      "title": "श्रेष्ठ सुप्रीम कोर्ट वकील दिल्ली में | LawRato.com",
+      "url": "https://hindi.lawrato.com/%E0%A4%B8%E0%A5%81%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AE-%E0%A4%95%E0%A5%8B%E0%A4%B0%E0%A5%8D%E0%A4%9F-%E0%A4%B5%E0%A4%95%E0%A5%80%E0%A4%B2/%E0%A4%A6%E0%A4%BF%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80",
+      "snippet": "Title: श्रेष्ठ सुप्रीम कोर्ट वकील दिल्ली में | LawRato.com\n* भारतीय दंड संहिता. * भारतीय न्याय संहिता. * वकील से बात करें. ##### **✅ सत्यापित वकील**. ### **अनुभवी वकीलों से संपर्क करने के लिए अपनी कानूनी समस्या बताये|**. * सुप्रीम कोर्ट वकील. # दिल्ली के अनुभवी सुप्रीम कोर्ट वकीलो से परामर्श करे. LawRatoLawRatoLawRatoLawRatoLawRato   4.6| 100+ रेटिंग. LawRatoLawRatoLawRatoLawRatoLawRato  4.6 | 100+ रेटिंग. सुप्रीम कोर्ट +3 और. LawRatoLawRatoLawRatoLawRatoLawRato   4.8| 25+ रेटिंग. LawRatoLawRatoLawRatoLawRatoLawRato  4.8 | 25+ रेटिंग. सुप्रीम कोर्ट +3 और. LawRatoLawRatoLawRatoLawRatoLawRato   4.8| 25+ रेटिंग. LawRatoLawRatoLawRatoLawRatoLawRato  4.8 | 25+ रेटिंग. सुप्रीम कोर्ट +3 और. LawRatoLawRatoLawRatoLawRatoLawRato   4.8| 100+ रेटिंग. LawRatoLawRatoLawRatoLawRatoLawRato  4.8 | 100+ रेटिंग. सुप्रीम कोर्ट +3 और. LawRatoLawRatoLawRatoLawRatoLawRato   4.7| 100+ रेटिंग. LawRatoLawRatoLawRatoLawRatoLawRato  4.7 | 100+ रेटिंग. सुप्रीम कोर्ट +3 और. LawRatoLawRatoLawRatoLawRatoLawRato   4.7| 50+ रेटिंग. LawRatoLawRatoLawRatoLawRatoLawRato  4.7 | 50+ रेटिंग. सुप्रीम कोर्ट +3 और. LawRatoLawRatoLawRatoLawRatoLawRato   4.9| 5+ रेटिंग. LawRatoLawRatoLawRatoLawRatoLawRato  4.9 | 5+ रेटिंग. सुप्रीम कोर्ट +3 और. LawRatoLawRatoLawRatoLawRatoLawRato   4.9| 25+ रेटिंग. LawRatoLawRatoLawRatoLawRatoLawRato  4.9 | 25+ रेटिंग. सुप्रीम कोर्ट +3 और. LawRatoLawRatoLawRatoLawRatoLawRato   4.8| 10+ रेटिंग. LawRatoLawRatoLawRatoLawRatoLawRato  4.8 | 10+ रेटिंग. सुप्रीम कोर्ट +3 और. LawRatoLawRatoLawRatoLawRatoLawRato   4.9| 10+ रेटिंग. LawRatoLawRatoLawRatoLawRatoLawRato  4.9 | 10+ रेटिंग. सुप्रीम कोर्ट +3 और. दिल्ली में सबसे अच्छे वकीलों में से एक - एडवोकेट कंवलजीत सिंह भाटिया. LawRatoLawRatoLawRatoLawRatoLawRato   4.5| 10+ रेटिंग. LawRatoLawRatoLawRatoLawRatoLawRato  4.5 | 10+ रेटिंग. सुप्रीम कोर्ट +3 और. LawRatoLawRatoLawRatoLawRatoLawRato   4.9| 100+ रेटिंग. LawRatoLawRatoLawRatoLawRatoLawRato  4.9 | 100+ रेटिंग. सुप्रीम कोर्ट +3 और. LawRatoLawRatoLawRatoLawRatoLawRato   4.9| 25+ रेटिंग. LawRatoLawRatoLawRatoLawRatoLawRato  4.9 | 25+ रेटिंग. सुप्रीम कोर्ट +3 और. LawRatoLawRatoLawRatoLawRatoLawRato   4.9| 1+रेटिंग. LawRatoLawRatoLawRatoLawRatoLawRato  4.9 | 1+रेटिंग. सुप्रीम कोर्ट +3 और. LawRatoLawRatoLawRato   3.0| 0+रेटिंग. LawRatoLawRatoLawRato  3.0 | 0+रेटिंग. सुप्रीम कोर्ट +3 और. LawRatoLawRatoLawRatoLawRatoLawRato   4.9| 1+रेटिंग. LawRatoLawRatoLawRatoLawRatoLawRato  4.9 | 1+रेटिंग. सुप्रीम कोर्ट +3 और. LawRatoLawRatoLawRato   3.0| 0+रेटिंग. LawRatoLawRatoLawRato  3.0 | 0+रेटिंग. सुप्रीम कोर्ट +3 और. LawRatoLawRatoLawRato   3.0| 0+रेटिंग. LawRatoLawRatoLawRato  3.0 | 0+रेटिंग. सुप्रीम कोर्ट +3 और. LawRatoLawRatoLawRatoLawRatoLawRato   4.9| 5+ रेटिंग. LawRatoLawRatoLawRatoLawRatoLawRato  4.9 | 5+ रेटिंग. सुप्रीम कोर्ट +3 और. LawRatoLawRatoLawRatoLawRatoLawRato   4.5| 10+ रेटिंग. LawRatoLawRatoLawRatoLawRatoLawRato  4.5 | 10+ रेटिंग. सुप्रीम कोर्ट +3 और. अपने आस-पास एक सुप्रीम कोर्ट के वकील को क्यों नियुक्त करना चाहिए? We are delighted to have helped over 30,000 clients get a consult with a verified lawyer for their legal issues. You can book a phone or meeting consult with any lawyer and get upto 30% off on the first consult fee.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.8203978538513184,
+      "embedding_score_norm": 0.10198405357800978,
+      "embedding_rank": 8
+    },
+    {
+      "title": "सुप्रीम कोर्ट - भारत की बात, सच के साथ",
+      "url": "https://thebharatpost.com/tag/%E0%A4%B8%E0%A5%81%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AE-%E0%A4%95%E0%A5%8B%E0%A4%B0%E0%A5%8D%E0%A4%9F",
+      "snippet": "Title: सुप्रीम कोर्ट - भारत की बात, सच के साथ\n# सुप्रीम कोर्ट. * ## VIDEO: पाकिस्तान की सुप्रीम कोर्ट में हुआ जोरदार धमाका, ब्लास्ट में घायल हुए 12 लोग. * ## सरकारी परिसरों में कुत्तों को खाना खिलाने के नियम बनाएगा सुप्रीम कोर्ट, मुख्य सचिवों को पेशी से राहत. हाल ही में सुप्रीम कोर्ट ने आवारा कुत्तों को सरकारी परिसरों में खाना खिलाने से जुड़े एक अहम मसले पर. * ## आवारा कुत्ता केस- सुप्रीम कोर्ट में सुनवाई आज:राज्यों के मुख्य सचिव पेश होंगे; कोर्ट बोला था- आदेश का सम्मान नहीं, आने दीजिए, हम निपटेंगे. आज एक महत्वपूर्ण खबर सुप्रीम कोर्ट से आ रही है, जहां आवारा कुत्तों से जुड़े एक बड़े और संवेदनशील मामले. * ## आवारा कुत्तों पर सुप्रीम कोर्ट की सख्त टिप्पणी: सरकारों के मुख्य सचिवों पर नाराजगी, कहा- ‘हमारे आदेश का सम्मान नहीं, अब हम निपटेंगे’. हाल ही में एक बेहद अहम सुनवाई में, देश की सर्वोच्च अदालत, सुप्रीम कोर्ट ने आवारा कुत्तों के बढ़ते खतरे. * ## यूपी में बड़े ठगी का खुलासा: शिक्षिका की मौत, पूर्व अधिकारी और डॉक्टर भी हुए शिकार; अब सुप्रीम कोर्ट हुआ सख्त. 1. भीषण ठगी का शिकार बनी शिक्षिका की दुखद मौत और मामले का खुलासा उत्तर प्रदेश से एक दिल दहला. हाल ही में देश भर में छात्रों की आत्महत्या के बढ़ते मामले एक गंभीर चिंता का विषय बन गए हैं।. * ## तेजस्वी यादव पर मौलाना शहाबुद्दीन का बड़ा हमला: “सुप्रीम कोर्ट की तौहीन करने वाले सत्ता के हकदार नहीं”. तेजस्वी यादव पर मौलाना शहाबुद्दीन का बड़ा हमला: “सुप्रीम कोर्ट की तौहीन करने वाले सत्ता के हकदार नहीं” बिहार की. * ## मेरठ के सेंट्रल मार्केट में चला बुलडोजर: सुप्रीम कोर्ट के आदेश पर 22 दुकानों पर ध्वस्तीकरण, भारी पुलिस बल तैनात. 1. परिचय: मेरठ के सेंट्रल मार्केट में ध्वस्तीकरण की शुरुआत, प्रशासन का सख्त रुख शनिवार, 25 अक्टूबर को मेरठ शहर. * ## सुप्रीम कोर्ट से झटका: 69000 शिक्षक भर्ती के अभ्यर्थी नाराज, सरकार पर लगाया कमज़ोर पैरवी का आरोप, नहीं मनाएंगे दिवाली. * ## सोनम वांगचुक अरेस्ट केस- सुप्रीम कोर्ट में आज सुनवाई:पत्नी ने गिरफ्तारी के खिलाफ याचिका दायर की है; 20 दिन से जोधपुर जेल में बंद. आज एक महत्वपूर्ण खबर सुप्रीम कोर्ट से आ रही है, जहां लद्दाख के जाने-माने पर्यावरणविद् और शिक्षाविद् सोनम वांगचुक की.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.8160883188247681,
+      "embedding_score_norm": 0.0677777341471342,
+      "embedding_rank": 9
+    },
+    {
+      "title": "सुप्रीम कोर्ट Archives - Up18 News",
+      "url": "https://up18news.com/tag/%E0%A4%B8%E0%A5%81%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AE-%E0%A4%95%E0%A5%8B%E0%A4%B0%E0%A5%8D%E0%A4%9F",
+      "snippet": "Title: सुप्रीम कोर्ट Archives - Up18 News\nआगरा। फर्जी दस्तावेजों के आधार पर शस्त्र लाइसेंस हासिल करने के बहुचर्चित मामले में सुप्रीम कोर्ट ने कड़ा रुख अपनाते हुए इलाहाबाद हाईकोर्ट द्वारा दी गई गिरफ्तारी से राहत (अरेस्टिंग स्टे) को निरस्त कर दिया है। शीर्ष अदालत ने साफ कहा कि जब तक एफआईआर प्रभावी है, तब तक आरोपियों को गिरफ्तारी से संरक्षण नहीं […]. शेल्टर होम बनाने की चुनौती भी सामने आगरा। शहर में बढ़ते आवारा कुत्तों के खतरे पर रोक लगाने के लिए सुप्रीम कोर्ट के निर्देशों के बाद आगरा नगर निगम ने सार्वजनिक व सरकारी संस्थानों से उनके परिसरों में मौजूद आवारा कुत्तों की संख्या बताने को कहा है। नगर निगम का कहना है कि कुत्तों को […]. नई दिल्ली। सोमवार सुबह सुप्रीम कोर्ट के मुख्य न्यायाधीश बीआर गवई पर हमले की कोशिश के बाद, बार काउंसिल ऑफ इंडिया ने अधिवक्ता राकेश किशोर का लाइसेंस तत्काल प्रभाव से निलंबित कर दिया है। अदालती कार्यवाही के दौरान मुख्य न्यायाधीश पर जूता फेंकने का प्रयास करने वाले किशोर को आगे की अनुशासनात्मक कार्रवाई तक देश […]. नई दिल्ली। देशभर में बढ़ते प्रदूषण को लेकर सुप्रीम कोर्ट ने बड़ा बयान दिया है। कोर्ट ने साफ कहा कि स्वच्छ हवा का अधिकार सिर्फ दिल्ली-एनसीआर के नागरिकों का ही नहीं, बल्कि पूरे देश के हर नागरिक का है। सुप्रीम कोर्ट के चीफ जस्टिस बीआर गवई ने सुनवाई के दौरान कहा कि प्रदूषण नियंत्रण की […]. नई दिल्ली। इस साल के अंत तक बिहार में विधानसभा चुनाव होने है, लेकिन इसकी चर्चा पूरे देश भर में हो रही है। एसआईआर को लेकर विपक्षी पार्टीयां लगातार सरकार और चुनाव आयोग पर सवाल खड़ा कर रहे है। इस बीच सुप्रीम कोर्ट ने सोमवार को बिहार में एसआईआर से जुड़े एक मामले की सुनवाई […]. यूपी में दिवाली और दशहरा में पटाखे जलाने  से होने वाले प्रदूषण को लेकर सुप्रीम कोर्ट ने बड़ा आदेश दिया है। कोर्ट के आदेश के बाद इन 8 शहरों में पटाखा बनाने जाने पर और बिक्री पर रोक लग गया है। ये रोक एनसीआर क्षेत्र के प्रदूषण को ध्यान में रखते हुए लगाया गया है। […].",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.8099815845489502,
+      "embedding_score_norm": 0.019306402082033283,
+      "embedding_rank": 10
+    },
+    {
+      "title": "सुप्रीम कोर्ट Archives - Page 2 of 26 - tfipost.in",
+      "url": "https://tfipost.in/tag/%E0%A4%B8%E0%A5%81%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AE-%E0%A4%95%E0%A5%8B%E0%A4%B0%E0%A5%8D%E0%A4%9F/page/2",
+      "snippet": "Title: सुप्रीम कोर्ट Archives - Page 2 of 26 - tfipost.in\nमध्य पूर्व तनाव के बीच रूस का भारत को बड़ा ऊर्जा प्रस्ताव: तेल और गैस आपूर्ति बढ़ाने की पेशकश से बदलती वैश्विक रणनीति. ### मध्य पूर्व तनाव के बीच रूस का भारत को बड़ा ऊर्जा प्रस्ताव: तेल और गैस आपूर्ति बढ़ाने की पेशकश से बदलती वैश्विक रणनीति. मध्य पूर्व तनाव के बीच रूस का भारत को बड़ा ऊर्जा प्रस्ताव: तेल और गैस आपूर्ति बढ़ाने की पेशकश से बदलती वैश्विक रणनीति. ### मध्य पूर्व तनाव के बीच रूस का भारत को बड़ा ऊर्जा प्रस्ताव: तेल और गैस आपूर्ति बढ़ाने की पेशकश से बदलती वैश्विक रणनीति. उज्जैन की 200 साल पुरानी तकिया मस्जिद का विध्वंस: सुप्रीम कोर्ट ने याचिका खारिज कर महाकाल मंदिर के विकास और पार्किंग विस्तार को दिया संरक्षण. ### उज्जैन की 200 साल पुरानी तकिया मस्जिद का विध्वंस: सुप्रीम कोर्ट ने याचिका खारिज कर महाकाल मंदिर के विकास और पार्किंग विस्तार को दिया संरक्षण. बरी मस्जिद विवाद और सोशल मीडिया की जिम्मेदारी: जब सुप्रीम कोर्ट ने तन्हा अब्दुल रहमान को दी स्पष्ट चेतावनी. ### बाबरी मस्जिद विवाद और सोशल मीडिया की जिम्मेदारी: जब सुप्रीम कोर्ट ने तन्हा अब्दुल रहमान को दी स्पष्ट चेतावनी. सुप्रीम कोर्ट का बड़ा फैसला: आधार बनेगा वोटर लिस्ट का 12वां दस्तावेज़, NDA के ‘सशक्त लोकतंत्र’ विज़न को मिली मजबूती. सुप्रीम कोर्ट के कुत्तों पर फैसले: राहुल और चिदंबरम में मतभेद. ### सुप्रीम कोर्ट के कुत्तों पर फैसले ने खोली कांग्रेस की कलह: राहुल-चिदंबरम आमने-सामने. सुप्रीम कोर्ट ने सोमवार को दिल्ली-एनसीआर के इलाकों से आवारा कुत्तों को हटाने का निर्देश दिया। इस पर राजनीतिक दलों में तीखी प्रतिक्रिया ... ### ‘आप सच्चे भारतीय होते तो ऐसा नहीं कहते’: चीनी कब्जे के दावे पर सुप्रीम कोर्ट ने राहुल गांधी को लगाई फटकार. राहुल गांधी अपने ही बयानों से अपनी भद पिटवाने में कोई कसर नहीं छोड़ते। अब सुप्रीम कोर्ट ने सोमवार को कांग्रेस नेता और ... \"हिंदू अत्याचार के बीच फैसला: बांग्लादेश सुप्रीम कोर्ट ने रजाकार मुबारक हुसैन को किया बरी\". ### “हिंदू अत्याचार के बीच फैसला: बांग्लादेश सुप्रीम कोर्ट ने रजाकार मुबारक हुसैन को किया बरी”. सुप्रीम कोर्ट ने शुक्रवार को फिल्म \"उदयपुर फाइल्स: कन्हैया लाल टेलर मर्डर\" की रिलीज़ पर लगी रोक को बढ़ाने से इनकार कर दिया। ...",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8089534044265747,
+      "embedding_score_norm": 0.011145369051375713,
+      "embedding_rank": 11
+    },
+    {
+      "title": "सुप्रीम कोर्ट Archives - tfipost.in",
+      "url": "https://tfipost.in/tag/%E0%A4%B8%E0%A5%81%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AE-%E0%A4%95%E0%A5%8B%E0%A4%B0%E0%A5%8D%E0%A4%9F",
+      "snippet": "### भोजशाला विवाद पर सुप्रीम कोर्ट का निर्देश, बसंत पंचमी पूजा और जुमे की नमाज के लिए अलग-अलग समय. भारत की जल-नीति और अफगानिस्तान के फैसले ने पाकिस्तान को रेगिस्तान में धकेला, अब न पानी होगा, न रोटी, न सेना की अकड़. भारत की जल-नीति और अफगानिस्तान के फैसले ने पाकिस्तान को रेगिस्तान में धकेला, अब न पानी होगा, न रोटी, न सेना की अकड़. ### आया ऊंट पहाड़ के नीचे: ट्रम्प की दादागीरी से त्रस्त कनाडा अब Order Based World को लेकर भारत के सुर में सुर क्यों मिला रहा है? ### भोजशाला विवाद पर सुप्रीम कोर्ट का निर्देश, बसंत पंचमी पूजा और जुमे की नमाज के लिए अलग-अलग समय. भारत की जल-नीति और अफगानिस्तान के फैसले ने पाकिस्तान को रेगिस्तान में धकेला, अब न पानी होगा, न रोटी, न सेना की अकड़. भारत की जल-नीति और अफगानिस्तान के फैसले ने पाकिस्तान को रेगिस्तान में धकेला, अब न पानी होगा, न रोटी, न सेना की अकड़. ### आया ऊंट पहाड़ के नीचे: ट्रम्प की दादागीरी से त्रस्त कनाडा अब Order Based World को लेकर भारत के सुर में सुर क्यों मिला रहा है? ### भोजशाला विवाद पर सुप्रीम कोर्ट का निर्देश, बसंत पंचमी पूजा और जुमे की नमाज के लिए अलग-अलग समय. सुप्रीम कोर्ट ने साफ़ किया है कि राष्ट्रपति या गवर्नर को किसी भी तय न्यायिक समयसीमा के भीतर बिलों पर मंजूरी देने के लिए बाध्य नहीं किया जा सकता।. ### विधेयकों को मंजूरी देने के लिए समयसीमा से बाध्य नहीं हैं राष्ट्रपति और राज्यपाल , प्रेसिडेंट मुर्मू के सवालों पर सुप्रीम कोर्ट ने क्या जवाब दिया, और ये क्यों महत्वपूर्ण हैं? उज्जैन की 200 साल पुरानी तकिया मस्जिद का विध्वंस: सुप्रीम कोर्ट ने याचिका खारिज कर महाकाल मंदिर के विकास और पार्किंग विस्तार को दिया संरक्षण. ### उज्जैन की 200 साल पुरानी तकिया मस्जिद का विध्वंस: सुप्रीम कोर्ट ने याचिका खारिज कर महाकाल मंदिर के विकास और पार्किंग विस्तार को दिया संरक्षण. सुप्रीम कोर्ट के कुत्तों पर फैसले: राहुल और चिदंबरम में मतभेद. ### सुप्रीम कोर्ट के कुत्तों पर फैसले ने खोली कांग्रेस की कलह: राहुल-चिदंबरम आमने-सामने. सुप्रीम कोर्ट ने सोमवार को दिल्ली-एनसीआर के इलाकों से आवारा कुत्तों को हटाने का निर्देश दिया। इस पर राजनीतिक दलों में तीखी प्रतिक्रिया ...",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.807549238204956,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

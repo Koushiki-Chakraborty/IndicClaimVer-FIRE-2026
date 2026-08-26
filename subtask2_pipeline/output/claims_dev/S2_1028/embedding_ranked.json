@@ -1,0 +1,76 @@
+{
+  "claim": {
+    "id": "S2/1028",
+    "text": "Farooq Abdullah says, We're not afraid of speaking to women now, keeping women secretaries",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Farooq Abdullah says, We're scared of speaking to women now, keeping ...",
+      "url": "https://www.indiatvnews.com/amp/politics/national/farooq-abdullah-scared-of-speaking-to-women-13709.html",
+      "snippet": "Dr Abdullah told mediapersons today:\" Nowadays we are scared of speaking to women, and even keeping woman secretaries.",
+      "bm25_score_raw": 6.838901522029408,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9377026557922363,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "We feel scared to talk to ladies nowadays, says Farooq Abdullah",
+      "url": "https://www.indiatoday.in/india/video/farooq-abdullah-sexual-assault-cases-sexual-harassment-jammu-and-kashmir-426168-2013-12-05",
+      "snippet": "Union Minister Farooq Abdullah kicked up a controversy by suggesting that ladies should not be hired as personal secretaries as one can land",
+      "bm25_score_raw": 4.029067548047497,
+      "bm25_score_norm": 0.534488183619757,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.9219565391540527,
+      "embedding_score_norm": 0.8417023398064303,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Men scared to talk to women nowadays: Farooq Abdullah",
+      "url": "https://www.business-standard.com/amp/article/news-ani/men-scared-to-talk-to-women-nowadays-farooq-abdullah-113120600277_1.html",
+      "snippet": "\"I'm scared to talk to a woman these days. I don't even want to keep a female secretary, who knows, I might end up in jail because of a",
+      "bm25_score_raw": 0.9855854139705952,
+      "bm25_score_norm": 0.030267325920042547,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.9178290367126465,
+      "embedding_score_norm": 0.8002080467098419,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Minister apologises for remark on women",
+      "url": "https://www.gulf-times.com/story/373895/minister-apologises-for-remark-on-women/amp",
+      "snippet": "“Now we are even afraid of talking to girls. We are scared now of appointing women secretaries,” Abdullah said speaking to reporters in the",
+      "bm25_score_raw": 4.441781256263315,
+      "bm25_score_norm": 0.602863436298586,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.9024382829666138,
+      "embedding_score_norm": 0.645482893670874,
+      "embedding_rank": 4
+    },
+    {
+      "title": "J&K: After release, Farooq Abdullah says he won't speak on politics until ...",
+      "url": "https://amp.scroll.in/latest/956093/j-k-after-release-farooq-abdullah-says-he-wont-speak-on-politics-until-all-others-are-freed-too",
+      "snippet": "J&K: After release, Farooq Abdullah says he won't speak on politics until National Conference chief Farooq Abdullah with his wife Mollie",
+      "bm25_score_raw": 1.751732270467107,
+      "bm25_score_norm": 0.1571966812072815,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8645229339599609,
+      "embedding_score_norm": 0.26431519555911354,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Farooq Abdullah's sister, daughter detained after women's protest",
+      "url": "https://www.youtube.com/watch?v=aKoLOFrQpvk",
+      "snippet": "Farooq Abdullah's sister Suraiya and daughter Safiya staged a protest here on Tuesday against the scrapping of Article 370.",
+      "bm25_score_raw": 0.8028915323565337,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.838231086730957,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6
+    }
+  ]
+}

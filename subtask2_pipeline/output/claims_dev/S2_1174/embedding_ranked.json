@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/1174",
+    "text": "डॉक्टरी जांच के लिए प्रियंका गांधी के साथ विदेश रवाना हुईं सोनिया गांधी, कर्नाटक मंत्रिमंडल पर फैसला कुछ समय के लिए लटका।",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Sonia Gandhi Leaves India for Health Care",
+      "url": "https://www.nytimes.com/2012/02/29/world/asia/sonia-gandhi-leaves-india-for-health-care.html",
+      "snippet": "Sonia Gandhi, the leader of India's governing Indian National Congress Party, has left the country for a medical checkup, party officials said Tuesday.",
+      "bm25_score_raw": 3.7783185980619587,
+      "bm25_score_norm": 0.28505615986267574,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8979970216751099,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "In a role reversal, it is Sonia Gandhi, and not Rahul, who is now ...",
+      "url": "https://www.facebook.com/cnnnews18/posts/in-a-role-reversal-it-is-sonia-gandhi-and-not-rahul-who-is-now-on-a-vacation-so-/10156987347379202",
+      "snippet": "Sonia Gandhi will be travelling abroad for her medical check-up along with Rahul Gandhi and Priyanka Gandhi Vadra.",
+      "bm25_score_raw": 2.6148880177903755,
+      "bm25_score_norm": 0.10402069766618274,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.8963665962219238,
+      "embedding_score_norm": 0.9824871858238013,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Sonia Gandhi To Go Abroad For Check-Up, Rahul And Priyanka To ...",
+      "url": "https://www.ndtv.com/india-news/sonia-gandhi-to-head-abroad-for-check-up-rahul-gandhi-and-priyanka-gandhi-vadra-to-accompany-3280779/amp/1",
+      "snippet": "Congress president Sonia Gandhi will travel abroad for medical check-ups and Rahul Gandhi and Priyanka Gandhi Vadra will accompany her, the party said on",
+      "bm25_score_raw": 2.8765503246047697,
+      "bm25_score_norm": 0.14473662645196955,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.894821047782898,
+      "embedding_score_norm": 0.9658860572287575,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Sonia Gandhi goes abroad for medical check-up",
+      "url": "https://www.thehindu.com/news/national/sonia-gandhi-goes-abroad-for-medical-checkup/article2943342.ece/amp",
+      "snippet": "Sonia Gandhi has gone abroad for a routine medical check-up, six months after she underwent surgery in the United States, She would return in",
+      "bm25_score_raw": 1.9840136889514557,
+      "bm25_score_norm": 0.00585358082574726,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.8945350646972656,
+      "embedding_score_norm": 0.9628142402214679,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Sonia Gandhi goes abroad for medical check-up",
+      "url": "https://www.ndtv.com/video/sonia-gandhi-goes-abroad-for-medical-check-up-245147",
+      "snippet": "Congress President Sonia Gandhi today travelled abroad for a routine medical check-up a year after undergoing surgery for an undisclosed",
+      "bm25_score_raw": 2.0637878804655125,
+      "bm25_score_norm": 0.018266833388463636,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.8932821750640869,
+      "embedding_score_norm": 0.9493566342412202,
+      "embedding_rank": 5
+    },
+    {
+      "title": "సోనియా గాంధీకి అస్వస్థత | Sonia Gandhi Health Condition Latest Updates",
+      "url": "https://www.facebook.com/hmtvnewslive/posts/%E0%B0%B8%E0%B1%8B%E0%B0%A8%E0%B0%BF%E0%B0%AF%E0%B0%BE-%E0%B0%97%E0%B0%BE%E0%B0%82%E0%B0%A7%E0%B1%80%E0%B0%95%E0%B0%BF-%E0%B0%85%E0%B0%B8%E0%B1%8D%E0%B0%B5%E0%B0%B8%E0%B1%8D%E0%B0%A5%E0%B0%A4-sonia-gandhi-health-condition-latest-updates-hmtvsoniaga/1370746835088000",
+      "snippet": "Sonia Gandhi admitted to Sir Gangaram Hospital under the Gastro department for a stomach related problem. a medical check-up, on June 8, 2025.",
+      "bm25_score_raw": 1.9463954518716176,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.8448325991630554,
+      "embedding_score_norm": 0.42894742570466765,
+      "embedding_rank": 6
+    },
+    {
+      "title": "Priyanka Gandhi Vadra को Sonia Gandhi तक क्यों जाना पड़ा?",
+      "url": "https://www.youtube.com/watch?v=1npyT0xZBQw",
+      "snippet": "Share your videos with friends, family, and the world.",
+      "bm25_score_raw": 2.6187635121508954,
+      "bm25_score_norm": 0.1046237434556727,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.8360738754272461,
+      "embedding_score_norm": 0.3348677479701551,
+      "embedding_rank": 7
+    },
+    {
+      "title": "Karnataka में मां Sonia और बहन Priyanka के साथ दिखेंगे Rahul ...",
+      "url": "https://www.youtube.com/watch?v=qkopj4_QhfU",
+      "snippet": "Comments · din bhar ki khabar |news of the day, hindi news india | top | NEET | rahul gandhi | protest #dblive · \"माद*&च*$*..... CJI\" सुप्रीम कोर्ट में",
+      "bm25_score_raw": 3.5230057744544583,
+      "bm25_score_norm": 0.24532824157494595,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8214981555938721,
+      "embedding_score_norm": 0.1783062367232586,
+      "embedding_rank": 8
+    },
+    {
+      "title": "Sonia Gandhi Expresses Pride as Priyanka Gandhi Vadra Begins Her ...",
+      "url": "https://www.youtube.com/watch?v=xHIa7BD0DiA&vl=hi",
+      "snippet": "As Priyanka Gandhi Vadra embarks on her maiden tenure as a Member of Parliament, her mother and Congress leader Sonia Gandhi expressed her",
+      "bm25_score_raw": 2.9195280915239996,
+      "bm25_score_norm": 0.15142417621242,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8082159757614136,
+      "embedding_score_norm": 0.03563896738803361,
+      "embedding_rank": 9
+    },
+    {
+      "title": "Priyanka Gandhi Nomination : Wayanad में नामांकन से पहले कर्नाटक ...",
+      "url": "https://www.livehindustan.com/videos/priyanka-gandhi-stayed-in-karnataka-before-filing-nomination-in-wayanad-201729625993062.amp.html",
+      "snippet": "प्रियंका गांधी वायनाड से चुनाव लड़ रही हैं जिसके लिए वे 23 अक्तूबर को नामांकन भरेंगी । इससे वे कर्नाटक के मैसूर पहुंची जहां कर्नाटक के डिप्टी सीएम डी के शिवकुमार ने उनका स्वागत किया । प्रियंका गांधी के साथ",
+      "bm25_score_raw": 8.372929602450437,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8062988519668579,
+      "embedding_score_norm": 0.015046653460883951,
+      "embedding_rank": 10
+    },
+    {
+      "title": "Sonia Gandhi और Priyanka Gandhi किनके साथ खूब नाचीं ? | Rahul Gandhi ...",
+      "url": "https://www.youtube.com/watch?v=KMxRuOG_ovg",
+      "snippet": "Sonia Gandhi Lunch With Haryana Ladies: ये नज़ारा है, दिल्ली (Delhi) में 10 जनपथ (10 Janpath) यानि कांग्रेस (Congress) की पूर्व अध्यक्षा सोनिया गांधी (Sonia Gandhi) के",
+      "bm25_score_raw": 8.167071065719341,
+      "bm25_score_norm": 0.9679674095075719,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8056405782699585,
+      "embedding_score_norm": 0.007975968377827089,
+      "embedding_rank": 11
+    },
+    {
+      "title": "Congress Adivation में पहुंची Priyanka Gandhi का 6000 KG गुलाब से हुआ ...",
+      "url": "https://www.youtube.com/watch?v=Tr7JhBQbbo8",
+      "snippet": "congressadivation #priyankagandhi #soniagandhi #congress Congress Conclave: प्रियंका गांधी के स्वागत में रायपुर विमानतल के सामने लगभग दो किलोमीटर तक सड़क पर कालीन की",
+      "bm25_score_raw": 6.668815579941461,
+      "bm25_score_norm": 0.7348315619927902,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8048980236053467,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

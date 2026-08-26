@@ -1,0 +1,108 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1085",
+    "text": "Noida records three new Covid cases for the first time this year; active tally above 100",
+    "lang": "english"
+  },
+  "generated_queries": {
+    "english_translation": "Noida records three new Covid cases for the first time this year; active tally above 100",
+    "native_query": "Noida records Covid time active tally 100",
+    "english_query": "Noida records Covid time active tally 100"
+  },
+  "native_retrieval": [
+    {
+      "title": "Noida's active COVID-19 cases cross 100-mark after 6 ...",
+      "url": "https://theprint.in/india/noidas-active-covid-19-cases-cross-100-mark-after-6-months/791997?amp=",
+      "snippet": "Dec 30, 2021 — Noida's active COVID-19 cases cross 100-mark after 6 months. Noida, Dec 30 (PTI) Gautam Buddh Nagar on Thursday logged 38 new COVID-19 ...Read more"
+    },
+    {
+      "title": "Noida reported its first case of COVID-19 on Saturday after ...",
+      "url": "https://www.facebook.com/Timesnow/posts/noida-reported-its-first-case-of-covid-19-on-saturday-after-a-55-year-old-woman-/1174184408086153",
+      "snippet": "#Noida has been reporting over 100 cases for the last five days. #Coronavirus With 98 fresh Covid-19 cases, Noida's active tally reaches 621 65"
+    },
+    {
+      "title": "Noida: Record 236 COVID cases in 24-hr, tally 9126",
+      "url": "https://www.livemint.com/news/india/noida-record-236-covid-cases-in-24-hr-tally-9-126-11599571288713.html",
+      "snippet": "Sep 8, 2020 — Record 236 COVID cases in 24-hr, tally 9,126. The number of active cases jumped to 1,599 from 1,520 on Monday and 1,429 on Sunday,"
+    },
+    {
+      "title": "Noida's active Covid-19 cases nearing 200, Ghaziabad ...",
+      "url": "https://www.business-standard.com/article/current-affairs/noida-s-active-covid-19-cases-nearing-200-ghaziabad-crosses-100-mark-121123101335_1.html",
+      "snippet": "Jan 1, 2022 — Noida's active Covid-19 cases nearing 200, Ghaziabad crosses 100-mark · Gautam Buddh Nagar currently has the highest number of active cases in UP ...Read more"
+    },
+    {
+      "title": "102 new Covid-19 cases push tally to 6408 in Noida",
+      "url": "https://timesofindia.indiatimes.com/city/noida/102-new-covid-19-cases-push-tally-to-6408-in-noida/articleshow/77565545.cms",
+      "snippet": "Aug 15, 2020 — NOIDA: Uttar Pradesh's Gautam Buddh Nagar on Saturday recorded 102 new Covid-19 cases, pushing the district's tally to 6,408, official data ...Read more"
+    },
+    {
+      "title": "India records 18327 new COVID-19 infections, active ...",
+      "url": "https://www.youtube.com/watch?v=HhCO6ITt0mA",
+      "snippet": "India's #COVID19 tally rose to 1,11,92,088 with over 18,000 fresh cases being reported in a span of 24 hours in the country after 36 days,"
+    }
+  ],
+  "english_retrieval": [
+    {
+      "title": "Noida's active COVID-19 cases cross 100-mark after 6 ...",
+      "url": "https://theprint.in/india/noidas-active-covid-19-cases-cross-100-mark-after-6-months/791997?amp=",
+      "snippet": "Dec 30, 2021 — Noida's active COVID-19 cases cross 100-mark after 6 months. Noida, Dec 30 (PTI) Gautam Buddh Nagar on Thursday logged 38 new COVID-19 ...Read more"
+    },
+    {
+      "title": "Noida reported its first case of COVID-19 on Saturday after ...",
+      "url": "https://www.facebook.com/Timesnow/posts/noida-reported-its-first-case-of-covid-19-on-saturday-after-a-55-year-old-woman-/1174184408086153",
+      "snippet": "#Noida has been reporting over 100 cases for the last five days. #Coronavirus With 98 fresh Covid-19 cases, Noida's active tally reaches 621 65"
+    },
+    {
+      "title": "Noida: Record 236 COVID cases in 24-hr, tally 9126",
+      "url": "https://www.livemint.com/news/india/noida-record-236-covid-cases-in-24-hr-tally-9-126-11599571288713.html",
+      "snippet": "Sep 8, 2020 — Record 236 COVID cases in 24-hr, tally 9,126. The number of active cases jumped to 1,599 from 1,520 on Monday and 1,429 on Sunday,"
+    },
+    {
+      "title": "Noida's active Covid-19 cases nearing 200, Ghaziabad ...",
+      "url": "https://www.business-standard.com/article/current-affairs/noida-s-active-covid-19-cases-nearing-200-ghaziabad-crosses-100-mark-121123101335_1.html",
+      "snippet": "Jan 1, 2022 — Noida's active Covid-19 cases nearing 200, Ghaziabad crosses 100-mark · Gautam Buddh Nagar currently has the highest number of active cases in UP ...Read more"
+    },
+    {
+      "title": "102 new Covid-19 cases push tally to 6408 in Noida",
+      "url": "https://timesofindia.indiatimes.com/city/noida/102-new-covid-19-cases-push-tally-to-6408-in-noida/articleshow/77565545.cms",
+      "snippet": "Aug 15, 2020 — NOIDA: Uttar Pradesh's Gautam Buddh Nagar on Saturday recorded 102 new Covid-19 cases, pushing the district's tally to 6,408, official data ...Read more"
+    },
+    {
+      "title": "India records 18327 new COVID-19 infections, active ...",
+      "url": "https://www.youtube.com/watch?v=HhCO6ITt0mA",
+      "snippet": "India's #COVID19 tally rose to 1,11,92,088 with over 18,000 fresh cases being reported in a span of 24 hours in the country after 36 days,"
+    }
+  ],
+  "merged_results": [
+    {
+      "title": "Noida's active COVID-19 cases cross 100-mark after 6 ...",
+      "url": "https://theprint.in/india/noidas-active-covid-19-cases-cross-100-mark-after-6-months/791997?amp=",
+      "snippet": "Dec 30, 2021 — Noida's active COVID-19 cases cross 100-mark after 6 months. Noida, Dec 30 (PTI) Gautam Buddh Nagar on Thursday logged 38 new COVID-19 ...Read more"
+    },
+    {
+      "title": "Noida reported its first case of COVID-19 on Saturday after ...",
+      "url": "https://www.facebook.com/Timesnow/posts/noida-reported-its-first-case-of-covid-19-on-saturday-after-a-55-year-old-woman-/1174184408086153",
+      "snippet": "#Noida has been reporting over 100 cases for the last five days. #Coronavirus With 98 fresh Covid-19 cases, Noida's active tally reaches 621 65"
+    },
+    {
+      "title": "Noida: Record 236 COVID cases in 24-hr, tally 9126",
+      "url": "https://www.livemint.com/news/india/noida-record-236-covid-cases-in-24-hr-tally-9-126-11599571288713.html",
+      "snippet": "Sep 8, 2020 — Record 236 COVID cases in 24-hr, tally 9,126. The number of active cases jumped to 1,599 from 1,520 on Monday and 1,429 on Sunday,"
+    },
+    {
+      "title": "Noida's active Covid-19 cases nearing 200, Ghaziabad ...",
+      "url": "https://www.business-standard.com/article/current-affairs/noida-s-active-covid-19-cases-nearing-200-ghaziabad-crosses-100-mark-121123101335_1.html",
+      "snippet": "Jan 1, 2022 — Noida's active Covid-19 cases nearing 200, Ghaziabad crosses 100-mark · Gautam Buddh Nagar currently has the highest number of active cases in UP ...Read more"
+    },
+    {
+      "title": "102 new Covid-19 cases push tally to 6408 in Noida",
+      "url": "https://timesofindia.indiatimes.com/city/noida/102-new-covid-19-cases-push-tally-to-6408-in-noida/articleshow/77565545.cms",
+      "snippet": "Aug 15, 2020 — NOIDA: Uttar Pradesh's Gautam Buddh Nagar on Saturday recorded 102 new Covid-19 cases, pushing the district's tally to 6,408, official data ...Read more"
+    },
+    {
+      "title": "India records 18327 new COVID-19 infections, active ...",
+      "url": "https://www.youtube.com/watch?v=HhCO6ITt0mA",
+      "snippet": "India's #COVID19 tally rose to 1,11,92,088 with over 18,000 fresh cases being reported in a span of 24 hours in the country after 36 days,"
+    }
+  ]
+}

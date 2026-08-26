@@ -1,0 +1,108 @@
+{
+  "claim": {
+    "id": "S2/1051",
+    "text": "EC should issue notice to Rahul for ISI remarks, say former CECs",
+    "lang": "dev"
+  },
+  "generated_queries": {
+    "english_translation": "EC should issue notice to Rahul for ISI remarks, say former CECs",
+    "native_query": "EC Rahul ISI issue notice remarks CECs",
+    "english_query": "EC Rahul ISI issue notice remarks CECs"
+  },
+  "native_retrieval": [
+    {
+      "title": "EC serves notice on Rahul Gandhi for ISI remark (Roundup)",
+      "url": "https://www.business-standard.com/amp/article/news-ians/ec-serves-notice-on-rahul-gandhi-for-isi-remark-roundup-113110100002_1.html",
+      "snippet": "The Election Commission (EC) Thursday issued a notice to Congress vice president Rahul Gandhi for his speeches last week in which he accused"
+    },
+    {
+      "title": "Rahul replies to EC notice over ISI remark, denies model code violation",
+      "url": "https://timesofindia.indiatimes.com/assembly-elections-2013/rajasthan-assembly-elections/rahul-replies-to-ec-notice-over-isi-remark-denies-model-code-violation/articleshow/25427550.cms",
+      "snippet": "Specials News: The EC had issued a notice to Gandhi on October 31 for his speeches in which he had said Pakistan's ISI was in touch with"
+    },
+    {
+      "title": "Rahul Gandhi replies to EC's notice over ISI remark",
+      "url": "https://inshorts.com/en/amp_news/rahul-gandhi-replies-to-ec's-notice-over-isi-remark",
+      "snippet": "Congress vice president Rahul Gandhi on Friday replied to the Election Commission's notice, a little before end of extended deadline he had sought,"
+    },
+    {
+      "title": "Rahul Gandhi seeks 7 days' time to respond to EC notice over his ISI ...",
+      "url": "https://www.news18.com/news/politics/rahul-gandhi-seeks-7-days-time-to-respond-to-ec-notice-over-his-isi-remarks-648769.html",
+      "snippet": "The EC had served notice to Rahul on BJP complaints that his election speeches last week had violated the model code of conduct."
+    },
+    {
+      "title": "Rahul replies to EC notice, denies model code violation",
+      "url": "https://www.deccanherald.com/amp/story/india%2Frahul-replies-ec-notice-denies-2292748",
+      "snippet": "Congress Vice President Rahul Gandhi today replied to the Election Commission notice over alleged Model Code violation with controversial"
+    },
+    {
+      "title": "Rahul Gandhi Seeks More Time To Respond To EC Notice",
+      "url": "https://www.businessworld.in/article/rahul-gandhi-seeks-more-time-to-respond-to-ec-notice-51811",
+      "snippet": "<div>Congress Vice President Rahul Gandhi on Monday, 4 November, sought a week's more time to reply to the model code violation notice by the Election"
+    }
+  ],
+  "english_retrieval": [
+    {
+      "title": "EC serves notice on Rahul Gandhi for ISI remark (Roundup)",
+      "url": "https://www.business-standard.com/amp/article/news-ians/ec-serves-notice-on-rahul-gandhi-for-isi-remark-roundup-113110100002_1.html",
+      "snippet": "The Election Commission (EC) Thursday issued a notice to Congress vice president Rahul Gandhi for his speeches last week in which he accused"
+    },
+    {
+      "title": "Rahul replies to EC notice over ISI remark, denies model code violation",
+      "url": "https://timesofindia.indiatimes.com/assembly-elections-2013/rajasthan-assembly-elections/rahul-replies-to-ec-notice-over-isi-remark-denies-model-code-violation/articleshow/25427550.cms",
+      "snippet": "Specials News: The EC had issued a notice to Gandhi on October 31 for his speeches in which he had said Pakistan's ISI was in touch with"
+    },
+    {
+      "title": "Rahul Gandhi replies to EC's notice over ISI remark",
+      "url": "https://inshorts.com/en/amp_news/rahul-gandhi-replies-to-ec's-notice-over-isi-remark",
+      "snippet": "Congress vice president Rahul Gandhi on Friday replied to the Election Commission's notice, a little before end of extended deadline he had sought,"
+    },
+    {
+      "title": "Rahul Gandhi seeks 7 days' time to respond to EC notice over his ISI ...",
+      "url": "https://www.news18.com/news/politics/rahul-gandhi-seeks-7-days-time-to-respond-to-ec-notice-over-his-isi-remarks-648769.html",
+      "snippet": "The EC had served notice to Rahul on BJP complaints that his election speeches last week had violated the model code of conduct."
+    },
+    {
+      "title": "Rahul replies to EC notice, denies model code violation",
+      "url": "https://www.deccanherald.com/amp/story/india%2Frahul-replies-ec-notice-denies-2292748",
+      "snippet": "Congress Vice President Rahul Gandhi today replied to the Election Commission notice over alleged Model Code violation with controversial"
+    },
+    {
+      "title": "Rahul Gandhi Seeks More Time To Respond To EC Notice",
+      "url": "https://www.businessworld.in/article/rahul-gandhi-seeks-more-time-to-respond-to-ec-notice-51811",
+      "snippet": "<div>Congress Vice President Rahul Gandhi on Monday, 4 November, sought a week's more time to reply to the model code violation notice by the Election"
+    }
+  ],
+  "merged_results": [
+    {
+      "title": "EC serves notice on Rahul Gandhi for ISI remark (Roundup)",
+      "url": "https://www.business-standard.com/amp/article/news-ians/ec-serves-notice-on-rahul-gandhi-for-isi-remark-roundup-113110100002_1.html",
+      "snippet": "The Election Commission (EC) Thursday issued a notice to Congress vice president Rahul Gandhi for his speeches last week in which he accused"
+    },
+    {
+      "title": "Rahul replies to EC notice over ISI remark, denies model code violation",
+      "url": "https://timesofindia.indiatimes.com/assembly-elections-2013/rajasthan-assembly-elections/rahul-replies-to-ec-notice-over-isi-remark-denies-model-code-violation/articleshow/25427550.cms",
+      "snippet": "Specials News: The EC had issued a notice to Gandhi on October 31 for his speeches in which he had said Pakistan's ISI was in touch with"
+    },
+    {
+      "title": "Rahul Gandhi replies to EC's notice over ISI remark",
+      "url": "https://inshorts.com/en/amp_news/rahul-gandhi-replies-to-ec's-notice-over-isi-remark",
+      "snippet": "Congress vice president Rahul Gandhi on Friday replied to the Election Commission's notice, a little before end of extended deadline he had sought,"
+    },
+    {
+      "title": "Rahul Gandhi seeks 7 days' time to respond to EC notice over his ISI ...",
+      "url": "https://www.news18.com/news/politics/rahul-gandhi-seeks-7-days-time-to-respond-to-ec-notice-over-his-isi-remarks-648769.html",
+      "snippet": "The EC had served notice to Rahul on BJP complaints that his election speeches last week had violated the model code of conduct."
+    },
+    {
+      "title": "Rahul replies to EC notice, denies model code violation",
+      "url": "https://www.deccanherald.com/amp/story/india%2Frahul-replies-ec-notice-denies-2292748",
+      "snippet": "Congress Vice President Rahul Gandhi today replied to the Election Commission notice over alleged Model Code violation with controversial"
+    },
+    {
+      "title": "Rahul Gandhi Seeks More Time To Respond To EC Notice",
+      "url": "https://www.businessworld.in/article/rahul-gandhi-seeks-more-time-to-respond-to-ec-notice-51811",
+      "snippet": "<div>Congress Vice President Rahul Gandhi on Monday, 4 November, sought a week's more time to reply to the model code violation notice by the Election"
+    }
+  ]
+}

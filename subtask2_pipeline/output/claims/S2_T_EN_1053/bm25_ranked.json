@@ -1,0 +1,57 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1053",
+    "text": "R-value, which indicates spread of Covid-19, rises marginally in many states",
+    "lang": "english"
+  },
+  "ranked_evidence": [
+    {
+      "title": "Evidence That Higher Temperatures Are Associated With a Marginally ...",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7365860",
+      "snippet": "by A Meyer · 2020 · Cited by 64 — This study provides evidence of a modest association between warmer temperatures and lower COVID-19 incidence, for cases reported globally until March 17th 2020",
+      "bm25_score_raw": 2.3894859478257673,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "COVID Rates Are Rising Again. Why Does It Spread So Well in the Summer?",
+      "url": "https://www.unmc.edu/healthsecurity/transmission/2024/07/16/covid-rates-are-rising-again-why-does-it-spread-so-well-in-the-summer",
+      "snippet": "A combination of human behavior and immunity, the environment, and SARS-CoV-2 itself explains why the virus surges during both hotter and colder months.",
+      "bm25_score_raw": 1.1610600788190006,
+      "bm25_score_norm": 0.48590370655892257,
+      "bm25_rank": 2
+    },
+    {
+      "title": "Early pandemic COVID-19 case growth rates increase with city size",
+      "url": "https://www.nature.com/articles/s42949-021-00030-0",
+      "snippet": "by AJ Stier · 2021 · Cited by 44 — We demonstrate that early in the US outbreak, COVID-19 spread faster on average in larger cities and discuss the implications of these observations.",
+      "bm25_score_raw": 1.0809869699349315,
+      "bm25_score_norm": 0.45239310610658306,
+      "bm25_rank": 3
+    },
+    {
+      "title": "In-person school reopenings tied to modest rise in community COVID ...",
+      "url": "https://www.cidrap.umn.edu/covid-19/person-school-reopenings-tied-modest-rise-community-covid-spread",
+      "snippet": "The median weekly COVID-19 incidence in the week before school reopening was 122.3 cases per 100,000 county residents in in-person learning",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 4
+    },
+    {
+      "title": "New variant of COVID-19 may be driving up cases, increasing risk of ...",
+      "url": "https://www.youtube.com/watch?v=XW9-gfyQ9xo",
+      "snippet": "Wednesday the rise in cases is primarily in the eastern Mediterranean, Southeast Asia and western Pacific regions.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 5
+    },
+    {
+      "title": "Why COVID Cases Rise Every Summer | Johns Hopkins",
+      "url": "https://publichealth.jhu.edu/2024/why-covid-cases-rise-every-summer",
+      "snippet": "Every summer since 2020, COVID rates have risen in July and August, due to a confluence of virological, behavioral, and environmental factors.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6
+    }
+  ]
+}

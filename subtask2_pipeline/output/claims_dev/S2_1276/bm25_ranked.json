@@ -1,0 +1,57 @@
+{
+  "claim": {
+    "id": "S2/1276",
+    "text": "Only Congress can take care of Sri Lankan Tamils: Chidambaram",
+    "lang": "dev"
+  },
+  "ranked_evidence": [
+    {
+      "title": "Will Chidambaram's bold Sri Lanka move work for the ...",
+      "url": "https://www.firstpost.com/politics/will-chidambarams-bold-sri-lanka-move-work-for-the-congress-1264007.html",
+      "snippet": "“Only Congress can take care of Sri Lankan Tamils” “We won't rest until Tamils secure their rights” “Sri Lanka must punish human rights",
+      "bm25_score_raw": 6.730193895337321,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Chidambaram seeks Karunanidhi's views on rehabilitation ...",
+      "url": "https://www.thehindu.com/news/national/Chidambaram-seeks-Karunanidhis-views-on-rehabilitation-of-Sri-Lankan-Tamils/article16241454.ece",
+      "snippet": "Union Home Minister P. Chidambaram called on Chief Minister M. Karunanidhi at his CIT Colony residence on Sunday and sought his views on the Sri Lankan Tamils'",
+      "bm25_score_raw": 6.028947403749122,
+      "bm25_score_norm": 0.8269199457286674,
+      "bm25_rank": 2
+    },
+    {
+      "title": "Resolution On the Issue of Sri Lankan Tamils",
+      "url": "https://cpim.org/wp-content/uploads/old/documents/Srilankan_Tamils.pdf",
+      "snippet": "The 21st Congress of the CPI(M) urges the new Sri Lankan government to take the following measures to move towards finding a permanent political solution to the issue of Sri Lankan Tamils:  Implementation of the 13th Amendment with more powers for the Northern and Eastern Provinces.  Equal status for Tamil language  Tamils should have the same rights as the Sinhalese citizens  Tamils who were displaced from their habitations should be resettled in the same areas.  In sum, the basic rights of Tamils and Muslims in Sri Lanka must be ensured. We urge both the Indian and the Sri Lankan governments to ensure that those refugees who choose to return to their homeland are enabled to live a life of dignity. The government of India must utilize the new political situation in Sri Lanka and undertake diplomatic measures to help achieve the above and to resolve the issue of fishermen of Tamilnadu through speedy mutual talks.",
+      "bm25_score_raw": 2.934672928650609,
+      "bm25_score_norm": 0.06319820094316762,
+      "bm25_rank": 3
+    },
+    {
+      "title": "Sri Lanka: Chidambaram’s Brave Bid to Clear Congress of anti-Tamil Image - The Hindu Centre",
+      "url": "https://www.thehinducentre.com/the-arena/sri-lanka-chidambarams-brave-bid-to-clear-congress-of-antitamil-image/article64931455.ece",
+      "snippet": "##### Seeking to deconstruct a much-laboured criticism against the Congress in Tamil Nadu and at the national level for being 'anti-Tamil' in its approach to the Sri Lankan Tamils issue, Union Finance Minister and Senior Congress leader, P. Chidambaram, Union Finance Minister and senior Congress leader from Tamil Nadu, sprung a surprise in Chennai on November 30 with a pro-active leap to pull his party out of the deep woods of ‘misperceptions’ over the Sri Lankan Tamils issue, it was this predicament that came to the fore, even as its ringing political overtones were unmistakable. Barring the May 1991 elections in the immediate aftermath of India’s former Prime Minister Rajiv Gandhi’s assassination on Tamil Nadu soil, Sri Lanka’s protracted ethnic crisis has hardly had any direct impact on electoral outcomes in Tamil Nadu in recent years for all the ‘umbilical cord’ metaphor passionately invoked by the pro-Tamil political parties and a fringe group of Tamil nationalists.",
+      "bm25_score_raw": 2.762729625744222,
+      "bm25_score_norm": 0.02075954840712629,
+      "bm25_rank": 4
+    },
+    {
+      "title": "Why is it that even after the massacre of the Tamils in Sri ...",
+      "url": "https://www.quora.com/Why-is-it-that-even-after-the-massacre-of-the-Tamils-in-Sri-Lanka-many-Tamils-support-the-Congress",
+      "snippet": "The tamils of SRI LANKA supported LTTE so the great Congress didn't mind the tamils being butchered. The worst part the Indian government itself",
+      "bm25_score_raw": 2.7140755157871066,
+      "bm25_score_norm": 0.008750852331045092,
+      "bm25_rank": 5
+    },
+    {
+      "title": "AIADMK says Congress responsible for genocide of Sri ...",
+      "url": "https://www.tamilguardian.com/content/aiadmk-says-congress-responsible-genocide-sri-lankan-tamils",
+      "snippet": "\"DMK and Congress are responsible for the genocide of Sri Lankan Tamils,” Paneerselvam, who is deputy chief minister of Tamil Nadu, said at a",
+      "bm25_score_raw": 2.678620797903024,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6
+    }
+  ]
+}

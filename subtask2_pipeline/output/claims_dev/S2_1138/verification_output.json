@@ -1,0 +1,6 @@
+{
+  "ID": "S2/1138",
+  "Evidence": "Retrieved evidence does not mention any statements from a health minister regarding the complete eradication of COVID-19 or the lack of need for alertness. Source 1 discusses health news but does not provide specific information about COVID-19. Sources 2 and 3 contain unrelated content, focusing on poetry and personal reflections, with no reference to health or COVID-19. Therefore, there is no corroboration for the claim that the health minister stated COVID-19 is completely over and that there is no need for alertness.",
+  "Prediction": "REFUTES",
+  "Justification": "The retrieved evidence does not support the claim made about the health minister's statement on COVID-19. Source 1 does not provide relevant information regarding the status of COVID-19, while Sources 2 and 3 are unrelated to health matters. Thus, the evidence directly contradicts the assertion that the health minister declared COVID-19 eradicated and that alertness is no longer necessary."
+}

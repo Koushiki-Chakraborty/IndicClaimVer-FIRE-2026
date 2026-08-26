@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/HI/1044",
+    "text": "Corona के मरीज डाइट में इन 5 फूड्स को करें शामिल, जल्दी उबरने में मिलेगी मदद",
+    "lang": "hindi"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Coronavirus (COVID-19) recovery - Diet and eating habits",
+      "url": "https://www.guysandstthomas.nhs.uk/health-information/coronavirus-covid-19-recovery/diet-and-eating-habits",
+      "snippet": "Your body needs a variety of vitamins, minerals, protein, energy, fibre, and fluid to help your recovery. Base your meals around these food groups.",
+      "bm25_score_raw": 1.7857283253225664,
+      "bm25_score_norm": 0.6399771515339074,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.899122953414917,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "How your diet can improve Covid-19 recovery - BBC Food",
+      "url": "https://www.bbc.co.uk/food/articles/diet_for_covid19_recovery",
+      "snippet": "# How your diet can improve Covid-19 recovery. Food and drink play a crucial part in Covid-19 recovery, nutrition scientists say. As with any infection, your body needs more energy and fluids than usual, and extra protein to repair cells and tissues. Your immune system is a network of organs, cells and chemicals that fight infection in a myriad of ways. “During recovery, you have to add the protein back,” Prof Calder says. “The immune system needs a lot of energy when it’s active and dealing with pathogens,” Prof Calder says. Omega-3 fats, essential fatty acids that your body can’t make enough of and must come from your diet, are especially beneficial for the immune system. According to the NHS, if you’re not underweight and haven’t lost significant amounts of weight during your illness, try to include the following in your daily diet to optimise your recovery from Covid-19.",
+      "bm25_score_raw": 2.3446691064065384,
+      "bm25_score_norm": 0.8402928008304725,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8876446485519409,
+      "embedding_score_norm": 0.8941017837954953,
+      "embedding_rank": 2
+    },
+    {
+      "title": "11 Immune-Boosting Foods to Help Fight COVID-19",
+      "url": "https://www.goodrx.com/conditions/covid-19/best-foods-to-eat-with-covid-19",
+      "snippet": "Certain nutrients may help you feel better and recover faster from COVID-19. These include vitamin C, zinc, omega-3 fatty acids, and fiber.",
+      "bm25_score_raw": 2.79030012406303,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8718016147613525,
+      "embedding_score_norm": 0.7479348159618847,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Tips for COVID-19 recovery and nutrition",
+      "url": "https://blogs.bcm.edu/2021/06/16/tips-for-covid-19-recovery-and-nutrition",
+      "snippet": "# Tips for COVID-19 recovery and nutrition. Some long-term symptoms include loss of taste or smell, decreased appetite, fatigue and weight loss, which can diminish overall nutrition. This is multifactorial, resulting from the significant inflammatory reaction during acute illness, poor intake due to loss of appetite and taste, in addition to physical inactivity. If you’re malnourished or not consuming the appropriate types of foods, it’s going to be a lot harder for your body to fully recover and replenish everything it lost during the infection, especially when we’re seeing long-term issues. Stray away from eating bigger meals and focus on smaller, more frequent meals or snacks throughout the day. Make sure to eat the protein first at meals, especially if you are struggling to finish what is on your plate.”. Put more focus on protein sources to make sure you not only get enough, but also space it out as best as you can throughout the day,” Monfiletto said.",
+      "bm25_score_raw": 0.9965818543191026,
+      "bm25_score_norm": 0.35715937713107127,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8545056581497192,
+      "embedding_score_norm": 0.5883632612255717,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Influence of foods and nutrients on COVID-19 recovery - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7982641",
+      "snippet": "by AF Cobre · 2021 · Cited by 57 — The results showed that certain foods had a positive effect on recovery from COVID-19: eggs, fish and seafood, fruits, meat, milk, starchy roots, stimulants,",
+      "bm25_score_raw": 2.1785460901081493,
+      "bm25_score_norm": 0.7807569054385127,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8500626087188721,
+      "embedding_score_norm": 0.5473719288945396,
+      "embedding_rank": 5
+    },
+    {
+      "title": "What To Eat And Drink When You Have COVID | Henry Ford Health - Detroit, MI",
+      "url": "https://www.henryford.com/blog/2022/07/what-to-eat-when-you-have-covid",
+      "snippet": "# What To Eat And Drink When You Have COVID. Eating a healthy diet filled with plenty of vitamins and minerals is always important, but it can be especially so when you are at home recovering from COVID-19. While over-the-counter pain relievers like Tylenol might alleviate some of your symptoms in the moment, it’s also important to fill your body with the nourishing foods it needs to help you make a full recovery. “Some people rely on supplements to help them recuperate, but nothing is better than fresh fruits and vegetables,” says Eunice Yu, M.D., medical director of COVID-19 Recovery Care at Henry Ford Health. Here’s what to eat and drink when you have COVID-19—and how to navigate eating when you have nausea or an altered sense of taste. If you have diarrhea or if you’re sweating from a fever or chills, make sure you have salt or a little sugar in your fluids—think broths, fresh juices or electrolyte solutions like Gatorade—because salt and sugar can help you retain water.",
+      "bm25_score_raw": 1.4305126766769405,
+      "bm25_score_norm": 0.5126734089786489,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8434324860572815,
+      "embedding_score_norm": 0.4862027779213652,
+      "embedding_rank": 6
+    },
+    {
+      "title": "Why Is Water Vital For Containing The Coronavirus ...",
+      "url": "https://www.ri.org/why-is-water-vital-for-containing-the-coronavirus-pandemic",
+      "snippet": "It is clear that the access to clean water, healthcare, and pandemic preparedness are all on display when we talk about the fragile settings",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.8336168527603149,
+      "embedding_score_norm": 0.3956442791295157,
+      "embedding_rank": 7
+    },
+    {
+      "title": "Coronavirus (COVID-19) and Recycled Water",
+      "url": "https://watereuse.org/educate/covid-19-and-water-reuse",
+      "snippet": "Do wastewater and recycled water treatment plants treat COVID-19? Yes, wastewater treatment plants treat viruses and other pathogens. Coronavirus, which causes",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.8198949098587036,
+      "embedding_score_norm": 0.26904638044258894,
+      "embedding_rank": 8
+    },
+    {
+      "title": "Gargling Water With Salt Won't 'Eliminate' Coronavirus - FactCheck.org",
+      "url": "https://www.factcheck.org/2020/03/gargling-water-with-salt-wont-eliminate-coronavirus",
+      "snippet": "A viral image circulating online is falsely advising social media users that gargling water with salt or vinegar “eliminates” the coronavirus. One of the latest falsehoods concerning the coronavirus to spread widely on Facebook and Instagram tells users, wrongly, that simply gargling water with salt or vinegar “eliminates” the virus. The viral image spreading the claim erroneously purports that, “before it reaches the lungs,” the coronavirus “remains in the throat for four days” and that drinking a lot of water “and gargling with warm water & salt or vinegar eliminates the virus.”. The World Health Organization, however, notes that “to date, there is no specific medicine recommended to prevent or treat the new coronavirus,” which causes the COVID-19 disease. While saline water or water with vinegar is sometimes used to help soothe a sore throat, “it doesn’t kill the virus,” Charles Dela Cruz, an associate professor of medicine in pulmonary and critical care at Yale University, told us.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.81443852186203,
+      "embedding_score_norm": 0.21870604163252647,
+      "embedding_rank": 9
+    },
+    {
+      "title": "SARS-CoV-2 coronavirus in water and wastewater - PMC - NIH",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7528884",
+      "snippet": "by HN Tran · 2020 · Cited by 244 — The presence of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) in water and wastewater has recently been reported.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.8092368841171265,
+      "embedding_score_norm": 0.17071601478595883,
+      "embedding_rank": 10
+    },
+    {
+      "title": "Can Covid-19 be transmitted through water? I Coronavirus ...",
+      "url": "https://www.youtube.com/watch?v=GeVApj5MXUE",
+      "snippet": "As of today March 20th 2020 it is known that the Coronavirus is mostly spread from person-to-person during close contact — less than 2 m (6 ft).",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.7909654378890991,
+      "embedding_score_norm": 0.00214464591895878,
+      "embedding_rank": 11
+    },
+    {
+      "title": "Is the Virus that Causes COVID-19 in Our Water?",
+      "url": "https://www.mmsd.com/about-us/news/covid-19-coronavirus-in-our-water",
+      "snippet": "The COVID-19 virus has not been detected in drinking-water supplies. Based on current evidence, the risk to water supplies is low.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.7907329797744751,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

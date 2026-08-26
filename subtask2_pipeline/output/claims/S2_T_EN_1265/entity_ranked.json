@@ -1,0 +1,99 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1265",
+    "text": "JD(U) gives Sheohar ticket to Sabir Ali replacing Shahid Ali Khan",
+    "lang": "english"
+  },
+  "entity_ranked_evidence": [
+    {
+      "title": "JD Definition & Meaning",
+      "url": "https://www.dictionary.com/browse/jd",
+      "snippet": "Doctor of Jurisprudence; Doctor of Law. # JD. ### Origin of J.D.3. From New Latin *Jūris Doctor*. Examples are provided to illustrate real-world usage of words in context. > An estimated 4,300 people including the president, Vice President **JD** Vance, senior cabinet officials, and lawmakers were present for the invite-only event on the South Lawn of the presidential compound. > From BBC ● Jul. 10, 2026. > The show has continued its tradition of hosting politicians, though, including a highly rated interview last month with a Carr ally — Vice President **JD** Vance. > From Los Angeles Times ● Jul. 7, 2026. > Logo link to Los Angeles Times. > Vice President **JD** Vance’s assets include cryptocurrency and real estate, according to his latest financial disclosure report. > From The Wall Street Journal ● Jul. 2, 2026. > Logo link to The Wall Street Journal. > From Barron's ● Jul. 1, 2026. > Logo link to Barron's. > Logo link to Washington Times. > From Los Angeles Times ● May 26, 2026.",
+      "bm25_score_raw": 0.5548538639789216,
+      "bm25_score_norm": 0.4843773248028567,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8171924948692322,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 1
+    },
+    {
+      "title": "JD JD.com, Inc.",
+      "url": "https://finance.yahoo.com/quote/JD",
+      "snippet": "2. Best 0% APR cards. 3. Best balance transfer cards. 2. Best high-yield savings accounts. 3. Best money market accounts. 4. Best free checking accounts. # JD.com, Inc. Is JD a long-term buy? Is JD a long-term buy? ## News headlines JD.com has gained **7.4%** in the past month, outperforming major indexes and peers. JD.com has gained **7.4%** in the past month, outperforming major indexes and peers. JD.com, Inc. operates as a supply chain-based technology and service provider in the People's Republic of China and Europe. Additionally, the company develops, owns, and manages its logistics facilities and other real estate properties to support third parties; and offers asset management services and integrated service platform; leasing of storage facilities and related management services, as well as engages in online retail business; technology-driven supply chain solutions; and logistics services. JD.com, Inc. was incorporated in 2006 and is headquartered in Beijing, the People's Republic of China. ### 1-Year Return.",
+      "bm25_score_raw": 0.9658567261855301,
+      "bm25_score_norm": 0.8431753431753432,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8086884021759033,
+      "embedding_score_norm": 0.8775858829303198,
+      "embedding_rank": 2,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 2
+    },
+    {
+      "title": "Our brands - JD",
+      "url": "https://www.jdplc.com/our-brands/jd/default.aspx",
+      "snippet": "# From the North West of England to the West Coast of America, JD stores strive to provide our customers with the latest exclusive products from the best global brands. JD is a sports fashion, multibrand, multichannel retailer of sports and casual wear, combining globally recognised and emerging brands with strong private labels to provide an elevated consumer experience. JD acquired Finish Line in 2018 recognising it as a leader in premium, multi-branded, athletic footwear, apparel and accessories in the United States. Since acquisition, Finish Line has been a platform for the rollout of JD through store conversions and still has over 200 retail stores. specialises in supplying the finest products from the best brands in footwear, apparel and accessories. To opt-in for investor email alerts, please enter your email address in the field below and select at least one alert option. **By providing your email address below, you are providing consent to JD Sports Fashion PLC to send you the requested investor email alert updates.**.",
+      "bm25_score_raw": 1.1454992535101618,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8019021153450012,
+      "embedding_score_norm": 0.7798991172112489,
+      "embedding_rank": 3,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 3
+    },
+    {
+      "title": "JD Sports",
+      "url": "https://en.wikipedia.org/wiki/JD_Sports",
+      "snippet": "# JD Sports. British sports-fashion retail company. **JD Sports Fashion plc**, commonly known as **JD Sports**, **JD** or **JD Group** is a British multinational sports-fashion retail company based in Bury, Greater Manchester, England. The company was established by John Wardle and David Makin (hence the name *JD*), trading from a single shop in Bury, Greater Manchester, in 1981. The company opened a store in the Arndale Centre in Manchester in 1983. Early acquisitions of stores included 209 stores with the acquisition of First Sport from Blacks Leisure Group in December 2001 and 70 stores from the administrators of Allsports in October 2005. The company also acquired 80% of Cosmos Sport, based in Crete, in December 2021 and has launched a joint venture with Erajaya Swasembada in Indonesia with a store opened in 2022.",
+      "bm25_score_raw": 0.8705901295207966,
+      "bm25_score_norm": 0.7600093381580485,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.7980061173439026,
+      "embedding_score_norm": 0.7238172784298046,
+      "embedding_rank": 4,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 4
+    },
+    {
+      "title": "JD.com: JD Stock Price Quote & News",
+      "url": "https://robinhood.com/us/en/stocks/JD",
+      "snippet": "# JD.com. ### JD.com, Inc. is a technology-driven E-commerce company, which engages in the sale of electronics products and general merchandise products, including audio, video products, and books. JD.com stock sits in an unusual spot today, with a share price around US$30.60 and a five year return that has fallen 47.3%, yet the valuation checks still sugg... Barclays lowered the firm’s price target on JD.com (JD) to $41 from $43 and keeps an Overweight rating on the shares. JD.com (JD) has drawn fresh attention after being added to the Zacks Rank #1 (Strong Buy) List, following a 10.5% uplift in next year earnings estimates over th... JD.com Could Be 8% Overvalued After Fresh Earnings Upgrades. This list is generated by looking at the six larger and six smaller companies by market cap in relation to this company. This list is generated by looking at the top 100 stocks and ETFs most commonly held by Robinhood customers and showing a random subset.",
+      "bm25_score_raw": 0.5670021012319191,
+      "bm25_score_norm": 0.49498251482438804,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.7685835361480713,
+      "embedding_score_norm": 0.300287170176858,
+      "embedding_rank": 5,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 5
+    },
+    {
+      "title": "What Is a J.D. Degree? | Education",
+      "url": "https://www.usnews.com/education/articles/what-is-a-j-d-degree",
+      "snippet": "Image 1: U.S. News and World Report LogoSkip to content. *   Studying at a U.S. Grad School. *   Studying at a U.S. College. 1.   What Is a J.D. Degree? The J.D. degree is a rigorous course of study aimed at preparing students for a career as an attorney. “For most people in the United States, the Juris Doctor is going to be the degree that they're going to want to be able to practice in the United States,” says Rebecca Ray, assistant dean of admissions and financial aid for the University of Illinois School of Law’s J.D. program. An LL.M. gives students an opportunity to study certain areas of the law more closely, Ray says, and can also be a pathway for lawyers from another country to become a practicing lawyer in the U.S. Students entering an LL.M. program have already completed legal studies, either earning a J.D. or studying law in another country.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.7477226257324219,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 6
+    }
+  ]
+}

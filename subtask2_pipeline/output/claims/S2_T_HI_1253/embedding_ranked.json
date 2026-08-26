@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/HI/1253",
+    "text": "West Bengal VC Appointments | सभी राज्य यूनिवर्सिटी में प्रोटेम कुलपतियों की नहीं बल्कि नियमित कुलपतियों की नियुक्ति की जाए: सुप्रीम कोर्ट ने स्पष्ट किया",
+    "lang": "hindi"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "SC orders regular appointment of VCs in 36 state-aided ...",
+      "url": "https://legal.economictimes.indiatimes.com/news/litigation/sc-orders-regular-appointment-of-vcs-in-36-state-aided-universities-in-west-bengal/112230818",
+      "snippet": "Aug 2, 2024 — The Supreme Court has said only regular vice-chancellors shall be appointed to head all the 36 state-aided universities in West Bengal.Read more",
+      "bm25_score_raw": 4.340929739892483,
+      "bm25_score_norm": 0.5615273945890346,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.9315837025642395,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "The Supreme Court was today informed on behalf of ...",
+      "url": "https://www.facebook.com/livelaw.in/posts/the-supreme-court-was-today-informed-on-behalf-of-the-west-bengal-government-and/1362003242631370",
+      "snippet": "appointments of Vice-Chancellors to only 3 West Bengal Universities remain to be settled. Appointments of VCs to the remaining universities",
+      "bm25_score_raw": 6.689992618787217,
+      "bm25_score_norm": 0.8653939018005168,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.9258973598480225,
+      "embedding_score_norm": 0.9325019032282713,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Appoint VCs To 3 State-Aided Universities: SC Asks West ...",
+      "url": "https://www.etvbharat.com/en/bharat/appoint-vcs-to-3-state-aided-universities-sc-asks-west-bengal-governor-enn26050806678",
+      "snippet": "May 8, 2026 — The Supreme Court on Friday asked West Bengal Governor R.N. Ravi to appoint vice-chancellors to three state universities. The matter was heard",
+      "bm25_score_raw": 2.6163483860564387,
+      "bm25_score_norm": 0.33844161978900994,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.9193081855773926,
+      "embedding_score_norm": 0.8542870039932418,
+      "embedding_rank": 3
+    },
+    {
+      "title": "The #SupremeCourt has directed the Governor of # ...",
+      "url": "https://www.facebook.com/eteducation/posts/the-supremecourt-has-directed-the-governor-of-westbengal-to-appoint-12-universit/724546033973490",
+      "snippet": "The #SupremeCourt has directed the Governor of #WestBengal to appoint 12 university vice-chancellors from a panel recommended by a committee",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.9138195514678955,
+      "embedding_score_norm": 0.789135750409654,
+      "embedding_rank": 4
+    },
+    {
+      "title": "SC Grants West Bengal Governor More Time To Appoint ...",
+      "url": "https://lawbeat.in/top-stories/sc-grants-west-bengal-governor-more-time-appoint-vice-chancellors-state-universities",
+      "snippet": "Jan 8, 2025 — On 9 December, the Supreme Court was told that the West Bengal Governor had appointed full-term vice-chancellors for six universities and five ...Read more",
+      "bm25_score_raw": 2.8944533772916836,
+      "bm25_score_norm": 0.3744163027504534,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.9122134447097778,
+      "embedding_score_norm": 0.7700709217851007,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Supreme Court Seeks Governor, State's Stand on ...",
+      "url": "https://lawbeat.in/top-stories/supreme-court-seeks-governor-states-stand-on-unanimous-picks-for-12-west-bengal-vice-chancellors-1519231",
+      "snippet": "Sep 22, 2025 — On 9 December, 2024 the Supreme Court was told that the West Bengal Governor had appointed full-term vice-chancellors for six universities and ...Read more",
+      "bm25_score_raw": 2.6163483860564387,
+      "bm25_score_norm": 0.33844161978900994,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.9110815525054932,
+      "embedding_score_norm": 0.7566351207170289,
+      "embedding_rank": 6
+    },
+    {
+      "title": "Supreme Court Ends West Bengal Governor–State ...",
+      "url": "https://lawbeat.in/top-stories/supreme-court-resolves-west-bengal-vc-deadlock-orders-governor-to-clear-appointments-in-4-weeks-1589510",
+      "snippet": "May 9, 2026 — The Supreme Court directed the West Bengal Governor to appoint vice chancellors to three state universities within four weeks,",
+      "bm25_score_raw": 7.730575180698855,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9081260561943054,
+      "embedding_score_norm": 0.7215527512615079,
+      "embedding_rank": 7
+    },
+    {
+      "title": "Supreme Court asks West Bengal Governor to appoint VCs ...",
+      "url": "https://www.thehindu.com/news/national/west-bengal/supreme-court-asks-west-bengal-governor-to-appoint-vcs-to-three-state-aided-universities/article70958102.ece",
+      "snippet": "May 9, 2026 — West Bengal Governor Ananda Bose appoints permanent Vice-Chancellors for six State universities after long impasse",
+      "bm25_score_raw": 3.1880130967819618,
+      "bm25_score_norm": 0.4123901549708182,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.9069311618804932,
+      "embedding_score_norm": 0.7073691017611583,
+      "embedding_rank": 8
+    },
+    {
+      "title": "04.04.2025 The Hon'ble Supreme Court empowers Bengal ...",
+      "url": "https://x.com/lokbhavan_wb/status/1908179791754195025",
+      "snippet": "Supreme Court gave Bengal governor C V Ananda Bose two weeks to appoint full-time vice-chancellors in 17 state-run universities, saying it would ...Read more",
+      "bm25_score_raw": 2.282191711771672,
+      "bm25_score_norm": 0.2952162883648922,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.888684868812561,
+      "embedding_score_norm": 0.4907817244804682,
+      "embedding_rank": 9
+    },
+    {
+      "title": "West Bengal fills vacant VC posts across multiple state ...",
+      "url": "https://indianexpress.com/article/education/west-bengal-fills-vacant-vc-posts-across-multiple-state-universities-10335688",
+      "snippet": "Oct 30, 2025 — Prof Uday Bandyopadhyay has been appointed VC of Kazi Nazrul University, while Prof Chiranjib Bhattacharjee will be the VC of Jadavpur ...Read more",
+      "bm25_score_raw": 4.7893160336552105,
+      "bm25_score_norm": 0.6195290675929045,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8569657206535339,
+      "embedding_score_norm": 0.11426869338072773,
+      "embedding_rank": 10
+    },
+    {
+      "title": "West Bengal academics object to certain members of panel ...",
+      "url": "https://www.thehindu.com/news/national/west-bengal/west-bengal-academics-object-to-certain-members-of-panel-selecting-v-cs-for-15-state-universities/article69947146.ece",
+      "snippet": "Aug 18, 2025 — Academicians object to panel members facing graft charges in V-C selection process for West Bengal universities.",
+      "bm25_score_raw": 2.3281504484622073,
+      "bm25_score_norm": 0.30116134880558,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.8517969250679016,
+      "embedding_score_norm": 0.05291399106260984,
+      "embedding_rank": 11
+    },
+    {
+      "title": "SC clears final three full-term vice-chancellor appointments ...",
+      "url": "https://www.telegraphindia.com/west-bengal/kolkata/supreme-court-clears-final-three-full-term-vice-chancellors-appointments-closes-prolonged-case-prnt/cid/2159687",
+      "snippet": "May 9, 2026 — Dwaipayan Bharadwaj, Tapas Chakrabarti, and Ranjan Chakrabarti were appointed vice-chancellors of North Bengal University, Maulana Abul Kalam ...Read more",
+      "bm25_score_raw": 3.7568169156614335,
+      "bm25_score_norm": 0.4859686152514478,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8473392128944397,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

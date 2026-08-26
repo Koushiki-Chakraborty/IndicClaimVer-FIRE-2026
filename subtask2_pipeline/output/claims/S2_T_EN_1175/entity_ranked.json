@@ -1,0 +1,99 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1175",
+    "text": "Vidisha: Securing big win will not be a cakewalk for Sushma Swaraj",
+    "lang": "english"
+  },
+  "entity_ranked_evidence": [
+    {
+      "title": "Vidisha: Securing big win challenge before Sushma Swaraj",
+      "url": "https://www.business-standard.com/article/elections-2014/vidisha-securing-big-win-challenge-before-sushma-swaraj-114042300284_1.html",
+      "snippet": "Apr 23, 2014 — The 2009 Lok Sabha poll was a cakewalk for BJP leader Sushma Swaraj as the nomination of her Congress rival Rajkumar Patel was cancelled at",
+      "bm25_score_raw": 4.441652715684667,
+      "bm25_score_norm": 0.9896877296058489,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8532204627990723,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1,
+      "entity_overlap_raw": 3,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 1
+    },
+    {
+      "title": "Sushma Swaraj wins Vidisha seat by over four lakh votes",
+      "url": "https://www.deccanchronicle.com/140516/nation-politics/article/sushma-swaraj-wins-vidisha-seat-over-four-lakh-votes",
+      "snippet": "May 17, 2014 — Swaraj secured 7,14,248 votes while Lakshman Singh, brother of Congress General Secretary Digvijay Singh got 3,03,650 votes. This victory is the ...Read more",
+      "bm25_score_raw": 1.6437135089122255,
+      "bm25_score_norm": 0.3662517524193792,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8320802450180054,
+      "embedding_score_norm": 0.7306012203208564,
+      "embedding_rank": 3,
+      "entity_overlap_raw": 3,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 2
+    },
+    {
+      "title": "Sushma Swaraj Becomes Vidisha's 'Daughter'",
+      "url": "https://www.boloji.com/articles/2103/sushma-swaraj-becomes-vidishas-daughter",
+      "snippet": "Apr 19, 2009 — One of the most prominent leaders of the Bharatiya Janata Party (BJP), Sushma Swaraj is the face of the party in Madhya Pradesh for the Lok Sabha polls.Read more",
+      "bm25_score_raw": 2.0313744359193033,
+      "bm25_score_norm": 0.45263024422530446,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8207290172576904,
+      "embedding_score_norm": 0.5859477007517437,
+      "embedding_rank": 4,
+      "entity_overlap_raw": 3,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 3
+    },
+    {
+      "title": "Vidisha: Securing big win challenge before Sushma Swaraj",
+      "url": "https://www.indiatvnews.com/news/india/vidisha-securing-big-win-challenge-before-sushma-swaraj-35767.html",
+      "snippet": "Apr 23, 2014 — Vidisha (MP): The 2009 Lok Sabha poll was a cakewalk for BJP leader Sushma Swaraj as the nomination of her Congress rival Rajkumar Patel.",
+      "bm25_score_raw": 4.48793349944188,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8505711555480957,
+      "embedding_score_norm": 0.9662387517574489,
+      "embedding_rank": 2,
+      "entity_overlap_raw": 2,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.6666666666666666,
+      "entity_rank": 4
+    },
+    {
+      "title": "It's a cakewalk for Sushma at Vidisha",
+      "url": "https://m.economictimes.com/its-a-cakewalk-for-sushma-at-vidisha/articleshow/4379212.cms",
+      "snippet": "Apr 9, 2009 — The nomination of Congress candidate Rajkumar Patel from Vidisha was rejected by the Election Commission late on Monday , making the",
+      "bm25_score_raw": 1.021635257418305,
+      "bm25_score_norm": 0.22764046248576447,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8158363103866577,
+      "embedding_score_norm": 0.5235978577163305,
+      "embedding_rank": 5,
+      "entity_overlap_raw": 2,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.6666666666666666,
+      "entity_rank": 5
+    },
+    {
+      "title": "व‍िद‍िशा से 10 साल सांसद रही थीं सुषमा, इलाके में आंख-कान था ...",
+      "url": "https://www.aajtak.in/india/story/sushma-swaraj-was-mp-for-10-years-from-vidisha-tsts-953281-2019-08-07",
+      "snippet": "Aug 7, 2019 — पूर्व विदेश मंत्री और बीजेपी की वरिष्ठ नेता सुषमा स्वराज अब इस दुनिया में नहीं रहीं. सुषमा स्वराज, मध्य प्रदेश के व‍िद‍िशा लोकसभा क्षेत्र से 2009 और 2014 में दो बार सांसद भी रहीं.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.7747486233711243,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 6
+    }
+  ]
+}

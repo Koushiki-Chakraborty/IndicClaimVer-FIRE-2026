@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/HI/1265",
+    "text": "राफेल का दाम बताने में पैंतरा क्यों बदल रहीं वित्तमंत्री: राहुल गांधी",
+    "lang": "hindi"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Rafale deal tweaked to aid one man: Rahul Gandhi",
+      "url": "https://www.thehindu.com/news/national/rafale-deal-tweaked-to-aid-one-man-rahul-gandhi/article61855171.ece",
+      "snippet": "Rahul Gandhi on Thursday asked the media why it was not posing questions to Prime Minister Narendra Modi who “changed the Rafale deal to",
+      "bm25_score_raw": 2.7629479285254392,
+      "bm25_score_norm": 0.48735862588179446,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.9070785045623779,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Rahul Gandhi repeatedly questioned how many Rafales ...",
+      "url": "https://www.facebook.com/Timesnow/posts/rahul-gandhi-repeatedly-questioned-how-many-rafales-were-downed-now-with-the-mai/1516706130500644",
+      "snippet": "The defence minister has now refused to give the price of the Rafale aircraft to Parliament, saying it is 'confidential. This is a remarkable",
+      "bm25_score_raw": 3.1916381221903443,
+      "bm25_score_norm": 0.6130095624873381,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.9006069302558899,
+      "embedding_score_norm": 0.9388572342464813,
+      "embedding_rank": 2
+    },
+    {
+      "title": "It Smells Like a Scam': Rahul Gandhi on Rafale Deal",
+      "url": "https://www.thequint.com/news/politics/rahul-gandhi-on-rafale-deal-twitter",
+      "snippet": "\"The PM squirms when asked about the price of RAFALE and refuses to look me in the eye. Sure smells like a scam,\" Gandhi said on Twitter. He",
+      "bm25_score_raw": 2.0346747491646324,
+      "bm25_score_norm": 0.27389862972682805,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.9005612730979919,
+      "embedding_score_norm": 0.9384258701334977,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Rafale deal controversy",
+      "url": "https://en.wikipedia.org/wiki/Rafale_deal_controversy",
+      "snippet": "Rahul Gandhi, saying that he was present when Gandhi asked Macron if the French had any objections to price disclosure,",
+      "bm25_score_raw": 2.1358867779690223,
+      "bm25_score_norm": 0.3035643099848646,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8796678781509399,
+      "embedding_score_norm": 0.7410272322529708,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Rahul Gandhi, Arun Jaitley spar over Rafale jet pricing",
+      "url": "https://timesofindia.indiatimes.com/india/rahul-gandhi-arun-jaitley-spar-over-rafale-jet-pricing/articleshow/67352734.cms",
+      "snippet": "While Rahul claimed that the Union finance minister had himself corroborated the figure of Rs 1,600 crore per aircraft that was being quoted by",
+      "bm25_score_raw": 4.511954628262851,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8722966909408569,
+      "embedding_score_norm": 0.6713850166857946,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Shri Arun Jaitley explains what offset means that Rahul ...",
+      "url": "https://www.facebook.com/BJP4India/posts/shri-arun-jaitley-explains-what-offset-means-that-rahul-gandhi-doesnt-know-while/2644371542270019",
+      "snippet": "Rahul Gandhi can be seen saying, “During UP the price of a Rafale aircraft was Rs 700 crore, Modiji changed it to Rs 1,500 crore per aircraft.",
+      "bm25_score_raw": 2.0514956497488437,
+      "bm25_score_norm": 0.27882890791883863,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.8675792813301086,
+      "embedding_score_norm": 0.6268154178318941,
+      "embedding_rank": 6
+    },
+    {
+      "title": "Shri Rahul Gandhi - Indian National Congress",
+      "url": "https://inc.in/leadership/past-party-presidents/shri-rahul-gandhi",
+      "snippet": "*Party President of the Indian National Congress from 2017-19 - 84th AICC Plenary Session, New Delhi*. Rahul Gandhi is a four-term Member of Parliament in the Lok Sabha, and has represented the people of Wayanad, Kerala since 2019. Previously, he was the Member of Parliament from Amethi, Uttar Pradesh from 2004 to 2019. He is also a member of the Parliamentary Standing Committee on Defence and a trustee of the Rajiv Gandhi Charitable Trust and the Rajiv Gandhi Foundation. * General Secretary - All-India Congress Committee (AICC). Rahul Gandhi's political journey is rooted in pro-people policies, justice for the marginalised, equitable growth and his deep belief in truth and the power of love. On September 24th, 2007, Rahul Gandhi was appointed General Secretary of the All India Congress Committee (AICC). In his new role he was incharge of the party’s two important frontals - Indian Youth Congress and the National Students Union of India - the cradle of leadership and the nursery of Congress’ foundation.",
+      "bm25_score_raw": 1.2566153991592393,
+      "bm25_score_norm": 0.045846093168696735,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.8368816375732422,
+      "embedding_score_norm": 0.3367872496426886,
+      "embedding_rank": 7
+    },
+    {
+      "title": "चिल्लाते रहे राहुल-अखिलेश, लेकिन थाने उठा लाई पुलिस",
+      "url": "https://www.youtube.com/watch?v=AJUejSzwsu8",
+      "snippet": "Rahul Gandhi Protest Live: चिल्लाते रहे राहुल-अखिलेश, लेकिन थाने उठा लाई पुलिस | Jantar Mantar CJP LIVE | Sonam Wangchuk | Jantar Mantar | CJP | Sonam ...Read more",
+      "bm25_score_raw": 1.100199767965283,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.8236767649650574,
+      "embedding_score_norm": 0.21202897685613276,
+      "embedding_rank": 8
+    },
+    {
+      "title": "#RahulGandhi Released",
+      "url": "https://www.instagram.com/reel/DbD6gYPhk5k",
+      "snippet": "#RahulGandhi Released · LOP RAHUL GANDHI · जननायक है राहुल गांधी इसमें कोई शक नही। रात को आम जनता की आवाज सुनने के लिए सड़क पर ही रुक गए। · Andhbhakton Ne Rahul Gandhi ...Read more",
+      "bm25_score_raw": 2.9793586465028463,
+      "bm25_score_norm": 0.5507895366121546,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8155642747879028,
+      "embedding_score_norm": 0.1353830074075242,
+      "embedding_rank": 9
+    },
+    {
+      "title": "Rahul Gandhi (@rahulgandhi) - राहुल गांधी ...",
+      "url": "https://www.instagram.com/rahulgandhi?hl=hi",
+      "snippet": "Video by Rahul Gandhi on July 17, 2026. एक या अधिक लोग, लोग मुस्कुरा रहे हैं, माइक्रोफ़ोन, dais और वह टेक्स्ट जिसमें 'RUCHI KUMARI PRADEEP PRADEEPMEGHWAL MEGHWAL R ERTHANA IANTHAM IANT' लिखा है की फ़ोटो हो सकती है. एक या अधिक लोग, लोग खड़े हैं, पोस्टर, बैनर और टेक्स्ट की फ़ोटो हो सकती है. एक या अधिक लोग और टेक्स्ट की फ़ोटो हो सकती है. एक या अधिक लोग, पोस्टर और वह टेक्स्ट जिसमें 'रोक नहीं पाओगे!' लिखा है की फ़ोटो हो सकती है. एक या अधिक लोग, दाढ़ी और टेक्स्ट की फ़ोटो हो सकती है. एक या अधिक लोग, पोस्टर और वह टेक्स्ट जिसमें 'क्रांति का रंग लाल' लिखा है की फ़ोटो हो सकती है. एक या अधिक लोग, भीड़ और टेक्स्ट की फ़ोटो हो सकती है. एक या अधिक लोग, लोग खड़े हैं, पत्रिका, पोस्टर, बैनर और वह टेक्स्ट जिसमें 'FIGHT FOR OUR FUTURE' लिखा है की फ़ोटो हो सकती है.",
+      "bm25_score_raw": 1.5397648429194166,
+      "bm25_score_norm": 0.12883841100934063,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.810099184513092,
+      "embedding_score_norm": 0.08374939884962061,
+      "embedding_rank": 10
+    },
+    {
+      "title": "राहुल गांधी | Leader of the Opposition, India",
+      "url": "https://rahulgandhi.in?lang=hi",
+      "snippet": "Official website of Rahul Gandhi, Member of Parliament and Leader of the Opposition. Follow his work in Parliament, public initiatives, and nationwide",
+      "bm25_score_raw": 2.20596695780341,
+      "bm25_score_norm": 0.32410511162624495,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8086591362953186,
+      "embedding_score_norm": 0.07014397199624725,
+      "embedding_rank": 11
+    },
+    {
+      "title": "Rahul Gandhi - राहुल गांधी (@राहुलगांधी)",
+      "url": "https://www.facebook.com/rahulgandhi",
+      "snippet": "शांतिपूर्ण विरोध एक अटूट और मौलिक अधिकार है। भारत के निर्दोष छात्रों पर हमला करने के आदेशों का आँखें बंद करके पालन करने वाले हर पुलिस अधिकारी और सरकारी कर्मचारी ये बात ध्यान रखें: संविधान ही आपका मालिक है। सत्ता हमेशा के लिए नहीं ...Read more",
+      "bm25_score_raw": 2.2897495044130167,
+      "bm25_score_norm": 0.34866213580889666,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8012348413467407,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

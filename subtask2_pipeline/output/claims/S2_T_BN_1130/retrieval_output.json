@@ -1,0 +1,138 @@
+{
+  "claim": {
+    "id": "S2/T/BN/1130",
+    "text": "‘গ্র্যান্ড প্রিন্সেস’ জাহাজে করোনার কবলে ২১ জন, ক্যালিফোর্নিয়া উপকূলে আটকে প্রমোদতরী",
+    "lang": "bengali"
+  },
+  "generated_queries": {
+    "english_translation": "21 people stranded on the coast of California due to corona on the ship \"Grand Princess\"",
+    "native_query": "গ্র্যান্ড ক্যালিফোর্নিয়া কর কবল ২১ উপক আটক রম",
+    "english_query": "California 21 people stranded coast corona ship Grand"
+  },
+  "native_retrieval": [
+    {
+      "title": "The U.S. Forest Service employees were taken hostage ...",
+      "url": "https://x.com/KGWNews/status/2078348807352262882",
+      "snippet": "KGW News (@KGWNews). 9 likes. The U.S. Forest Service employees were taken hostage while doing field work in Northern California and were"
+    },
+    {
+      "title": "Rancho Cordova man accused of having rocket launcher ...",
+      "url": "https://www.kcra.com/article/rancho-cordova-rocket-launcher-guns-seized/70700087",
+      "snippet": "Mar 10, 2026 — A man is accused of illegally possessing firearms that include a rocket launcher, California Attorney General Rob Bonta's office announced"
+    },
+    {
+      "title": "SWAT responds to Rancho Cordova standoff",
+      "url": "https://www.abc10.com/article/news/local/rancho-cordova/swat-response-rancho-cordova-standoff-sacramento-county/103-3976680e-0e06-4758-904c-ee0a47cbd43e",
+      "snippet": "Mar 6, 2025 — A man barricaded himself with a knife after a dispute with his wife, leading to a SWAT response, according to Sacramento County deputies.Read more"
+    },
+    {
+      "title": "Sacramento woman jailed after Rancho Cordova murder ...",
+      "url": "https://www.kcra.com/article/sacramento-woman-jailed-after-rancho-cordova-murder-assault/5905069",
+      "snippet": "A 36-year-old Sacramento woman is in custody following the murder and assault of an elderly Rancho Cordova couple."
+    },
+    {
+      "title": "Violence in California prisons prompts contraband sweeps ...",
+      "url": "https://ktla.com/news/local-news/violence-in-california-prisons-prompts-contraband-sweeps-in-21-facilities",
+      "snippet": "Jun 18, 2025 — In response to a recent surge in violence at California Department of Corrections and Rehabilitation facilities, prison authorities"
+    },
+    {
+      "title": "Rancho Cordova PD",
+      "url": "https://www.facebook.com/ranchocordovapd",
+      "snippet": "Rancho Cordova PD, Rancho Cordova. 22191 likes · 483 talking about this · 405 were here. Official page of the Rancho Cordova Police Department."
+    }
+  ],
+  "english_retrieval": [
+    {
+      "title": "Grand Princess cruise ship to offload in Oakland | ABC News",
+      "url": "https://www.youtube.com/watch?v=i7vuV4C064Y",
+      "snippet": "Over 3500 people were stuck on the ship for days, At least 21 people on board the Grand Princess test positive for COVID-19. Cruise ship Grand"
+    },
+    {
+      "title": "21 people test positive for coronavirus on California cruise ...",
+      "url": "https://www.washingtonpost.com/health/dozens-of-passengers-on-a-stranded-cruise-ship-are-infected-by-coronavirus-that-number-could-soon-grow/2020/03/06/17cf1974-5fdb-11ea-b014-4fafa866bb81_story.html",
+      "snippet": "Mar 7, 2020 — Among the 46 people swabbed, 24 were negative and one was inconclusive. Nineteen of the positive tests came from crew members,"
+    },
+    {
+      "title": "Coronavirus testing to begin on cruise ship passengers ...",
+      "url": "https://www.kcra.com/article/coronavirus-testing-cruise-ship-passengers-delayed-san-francisco-coast/31232890",
+      "snippet": "Mar 4, 2020 — Thousands of people are stranded on a cruise ship off the coast of Northern California after more than a dozen people onboard began showing"
+    },
+    {
+      "title": "Grand Princess to set sail from L.A., first time since COVID",
+      "url": "https://www.latimes.com/business/story/2021-09-25/grand-princess-cruise-ship-los-angeles-port-sails-covid-pandemic",
+      "snippet": "Sep 25, 2021 — At least 21 people on the ship tested positive for COVID-19. A week earlier, a 75-year-old passenger from a previous Grand Princess cruise had ...Read more"
+    },
+    {
+      "title": "Was compensation given to Grand Princess passengers ...",
+      "url": "https://www.facebook.com/groups/1903318183220086/posts/4143531195865429",
+      "snippet": "More than 3,000 passengers are stuck at sea after at least 21 people tested positive for the novel coronavirus (COVID-19) on-board."
+    },
+    {
+      "title": "21 people on Grand Princess cruise ship test positive for ...",
+      "url": "https://www.nbcnews.com/politics/politics-news/21-people-grand-princess-cruise-ship-test-positive-coronavirus-pence-n1151936",
+      "snippet": "Mar 7, 2020 — Of the 46 passengers tested, Pence said 21 people, 19 employees and two passengers, had tested positive. Twenty-four tested negative, and one ...Read more"
+    }
+  ],
+  "merged_results": [
+    {
+      "title": "The U.S. Forest Service employees were taken hostage ...",
+      "url": "https://x.com/KGWNews/status/2078348807352262882",
+      "snippet": "KGW News (@KGWNews). 9 likes. The U.S. Forest Service employees were taken hostage while doing field work in Northern California and were"
+    },
+    {
+      "title": "Rancho Cordova man accused of having rocket launcher ...",
+      "url": "https://www.kcra.com/article/rancho-cordova-rocket-launcher-guns-seized/70700087",
+      "snippet": "Mar 10, 2026 — A man is accused of illegally possessing firearms that include a rocket launcher, California Attorney General Rob Bonta's office announced"
+    },
+    {
+      "title": "SWAT responds to Rancho Cordova standoff",
+      "url": "https://www.abc10.com/article/news/local/rancho-cordova/swat-response-rancho-cordova-standoff-sacramento-county/103-3976680e-0e06-4758-904c-ee0a47cbd43e",
+      "snippet": "Mar 6, 2025 — A man barricaded himself with a knife after a dispute with his wife, leading to a SWAT response, according to Sacramento County deputies.Read more"
+    },
+    {
+      "title": "Sacramento woman jailed after Rancho Cordova murder ...",
+      "url": "https://www.kcra.com/article/sacramento-woman-jailed-after-rancho-cordova-murder-assault/5905069",
+      "snippet": "A 36-year-old Sacramento woman is in custody following the murder and assault of an elderly Rancho Cordova couple."
+    },
+    {
+      "title": "Violence in California prisons prompts contraband sweeps ...",
+      "url": "https://ktla.com/news/local-news/violence-in-california-prisons-prompts-contraband-sweeps-in-21-facilities",
+      "snippet": "Jun 18, 2025 — In response to a recent surge in violence at California Department of Corrections and Rehabilitation facilities, prison authorities"
+    },
+    {
+      "title": "Rancho Cordova PD",
+      "url": "https://www.facebook.com/ranchocordovapd",
+      "snippet": "Rancho Cordova PD, Rancho Cordova. 22191 likes · 483 talking about this · 405 were here. Official page of the Rancho Cordova Police Department."
+    },
+    {
+      "title": "Grand Princess cruise ship to offload in Oakland | ABC News",
+      "url": "https://www.youtube.com/watch?v=i7vuV4C064Y",
+      "snippet": "Over 3500 people were stuck on the ship for days, At least 21 people on board the Grand Princess test positive for COVID-19. Cruise ship Grand"
+    },
+    {
+      "title": "21 people test positive for coronavirus on California cruise ...",
+      "url": "https://www.washingtonpost.com/health/dozens-of-passengers-on-a-stranded-cruise-ship-are-infected-by-coronavirus-that-number-could-soon-grow/2020/03/06/17cf1974-5fdb-11ea-b014-4fafa866bb81_story.html",
+      "snippet": "Mar 7, 2020 — Among the 46 people swabbed, 24 were negative and one was inconclusive. Nineteen of the positive tests came from crew members,"
+    },
+    {
+      "title": "Coronavirus testing to begin on cruise ship passengers ...",
+      "url": "https://www.kcra.com/article/coronavirus-testing-cruise-ship-passengers-delayed-san-francisco-coast/31232890",
+      "snippet": "Mar 4, 2020 — Thousands of people are stranded on a cruise ship off the coast of Northern California after more than a dozen people onboard began showing"
+    },
+    {
+      "title": "Grand Princess to set sail from L.A., first time since COVID",
+      "url": "https://www.latimes.com/business/story/2021-09-25/grand-princess-cruise-ship-los-angeles-port-sails-covid-pandemic",
+      "snippet": "Sep 25, 2021 — At least 21 people on the ship tested positive for COVID-19. A week earlier, a 75-year-old passenger from a previous Grand Princess cruise had ...Read more"
+    },
+    {
+      "title": "Was compensation given to Grand Princess passengers ...",
+      "url": "https://www.facebook.com/groups/1903318183220086/posts/4143531195865429",
+      "snippet": "More than 3,000 passengers are stuck at sea after at least 21 people tested positive for the novel coronavirus (COVID-19) on-board."
+    },
+    {
+      "title": "21 people on Grand Princess cruise ship test positive for ...",
+      "url": "https://www.nbcnews.com/politics/politics-news/21-people-grand-princess-cruise-ship-test-positive-coronavirus-pence-n1151936",
+      "snippet": "Mar 7, 2020 — Of the 46 passengers tested, Pence said 21 people, 19 employees and two passengers, had tested positive. Twenty-four tested negative, and one ...Read more"
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/1506",
+    "text": "PM मोदी ने कर्नाटक में फूंका प्रचार का बिगुल, ‘लूट’ को लेकर कांग्रेस पर किया तीखा हमला",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Karnataka CM change reflects growing public anger ...",
+      "url": "https://www.deccanherald.com/india/karnataka-cm-change-reflects-growing-public-anger-against-congress-misrule-pm-modi-4029203",
+      "snippet": "PM Narendra Modi. Credit: PMO via PTI Photo. Ahmedabad: Prime Minister Narendra Modi on Friday launched a scathing attack on the Congress",
+      "bm25_score_raw": 1.5336389742383343,
+      "bm25_score_norm": 0.27372213544769913,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8731021881103516,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Karnataka Election: कर्नाटक में पीएम मोदी का Congress पर हमला ...",
+      "url": "https://www.youtube.com/watch?v=-Lqoy29XMfc",
+      "snippet": "Karnataka Election: कर्नाटक में पीएम मोदी का Congress पर हमला, बोले- कांग्रेस यानी टोटल करप्शन · Comments.",
+      "bm25_score_raw": 3.8553739628583474,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.871335506439209,
+      "embedding_score_norm": 0.9682328391417722,
+      "embedding_rank": 2
+    },
+    {
+      "title": "कर्नाटक-कांग्रेस पर पीएम मोदी का बड़ा हमला, जानिए क्या कुछ कहा?",
+      "url": "https://www.youtube.com/watch?v=wyPOIQAKloc",
+      "snippet": "PM Modi News: कर्नाटक-कांग्रेस पर पीएम मोदी का बड़ा हमला, जानिए क्या कुछ कहा? · Comments.",
+      "bm25_score_raw": 0.9672390922820167,
+      "bm25_score_norm": 0.09654269904939813,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.8674191832542419,
+      "embedding_score_norm": 0.8978124172730186,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Starting his Karnataka campaign, PM Modi focuses on ...",
+      "url": "https://indianexpress.com/article/political-pulse/starting-karnataka-campaign-pm-modi-focuses-kharge-cong-abused-8582920",
+      "snippet": "Claims Congress did not spare even Ambedkar, Savarkar, and hence feels blessed; refers to other speeches to say Congress has also abused",
+      "bm25_score_raw": 1.5127652490691168,
+      "bm25_score_norm": 0.2671924821429687,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.8667547106742859,
+      "embedding_score_norm": 0.8858643636546811,
+      "embedding_rank": 4
+    },
+    {
+      "title": "“Congress Knows Only Betrayal”: PM Modi Launches Sharp ...",
+      "url": "https://www.youtube.com/watch?v=nQT4sbQuoY0",
+      "snippet": "Prime Minister Narendra Modi launched a sharp political attack on Congress during a rally in Karnataka, alleging that the party only knows",
+      "bm25_score_raw": 3.825585489831415,
+      "bm25_score_norm": 0.9906816632025978,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8601154088973999,
+      "embedding_score_norm": 0.766481358228327,
+      "embedding_rank": 5
+    },
+    {
+      "title": "'Power-Hungry Cong Stabbed DMK': Modi Launches Sharp ...",
+      "url": "https://www.youtube.com/watch?v=Xsd-1eWUn40",
+      "snippet": "Prime Minister Narendra Modi, speaking in Bengaluru, launched a strong political attack on the Congress party, alleging that it maintained a",
+      "bm25_score_raw": 3.1056350812639453,
+      "bm25_score_norm": 0.7654690321827546,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8499608635902405,
+      "embedding_score_norm": 0.5838898481199607,
+      "embedding_rank": 6
+    },
+    {
+      "title": "कर्नाटक में प्रधानमंत्री नरेंद्र मोदी ने कांग्रेस पर बोला हमला ...",
+      "url": "https://www.facebook.com/61552475147338/videos/%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%A8%E0%A4%BE%E0%A4%9F%E0%A4%95-%E0%A4%AE%E0%A5%87%E0%A4%82-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A7%E0%A4%BE%E0%A4%A8%E0%A4%AE%E0%A4%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A5%80-%E0%A4%A8%E0%A4%B0%E0%A5%87%E0%A4%82%E0%A4%A6%E0%A5%8D%E0%A4%B0-%E0%A4%AE%E0%A5%8B%E0%A4%A6%E0%A5%80-%E0%A4%A8%E0%A5%87-%E0%A4%95%E0%A4%BE%E0%A4%82%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8-%E0%A4%AA%E0%A4%B0-%E0%A4%AC%E0%A5%8B%E0%A4%B2%E0%A4%BE-%E0%A4%B9%E0%A4%AE%E0%A4%B2%E0%A4%BE-%E0%A4%A6%E0%A5%87%E0%A4%96%E0%A4%BF%E0%A4%8F-%E0%A4%AA%E0%A5%80%E0%A4%8F%E0%A4%AE-%E0%A4%AE%E0%A5%8B%E0%A4%A6%E0%A5%80-%E0%A4%A8/969640509205907",
+      "snippet": "... नरेंद्र मोदी ने कांग्रेस पर बोला हमला, देखिए पीएम मोदी ने क्या कहा - at Karnataka. Manoj Kumar and 2 others · 3 · · . Last viewed on: Jul 8, 2026.",
+      "bm25_score_raw": 1.708028523941083,
+      "bm25_score_norm": 0.32827412797878064,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8461339473724365,
+      "embedding_score_norm": 0.5150770760922105,
+      "embedding_rank": 7
+    },
+    {
+      "title": "PM Modi Targets Congress: 'Public Anger Forced ...",
+      "url": "https://www.ndtv.com/video/pm-modi-targets-congress-public-anger-forced-karnataka-cm-change-1109202",
+      "snippet": "Prime Minister Narendra Modi launched a strong attack on the Congress, claiming that growing public anger forced the party to change its",
+      "bm25_score_raw": 0.6586153916038054,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.8444101810455322,
+      "embedding_score_norm": 0.48408158715766436,
+      "embedding_rank": 8
+    },
+    {
+      "title": "बेंगलुरु में पीएम मोदी ने कांग्रेस पर जमकर हमला बोला है... पीएम मोदी ...",
+      "url": "https://www.facebook.com/News18Rajasthan/videos/%E0%A4%AC%E0%A5%87%E0%A4%82%E0%A4%97%E0%A4%B2%E0%A5%81%E0%A4%B0%E0%A5%81-%E0%A4%AE%E0%A5%87%E0%A4%82-%E0%A4%AA%E0%A5%80%E0%A4%8F%E0%A4%AE-%E0%A4%AE%E0%A5%8B%E0%A4%A6%E0%A5%80-%E0%A4%A8%E0%A5%87-%E0%A4%95%E0%A4%BE%E0%A4%82%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8-%E0%A4%AA%E0%A4%B0-%E0%A4%9C%E0%A4%AE%E0%A4%95%E0%A4%B0-%E0%A4%B9%E0%A4%AE%E0%A4%B2%E0%A4%BE-%E0%A4%AC%E0%A5%8B%E0%A4%B2%E0%A4%BE-%E0%A4%B9%E0%A5%88-%E0%A4%AA%E0%A5%80%E0%A4%8F%E0%A4%AE-%E0%A4%AE%E0%A5%8B%E0%A4%A6%E0%A5%80-%E0%A4%A8%E0%A5%87-%E0%A4%AC%E0%A5%87%E0%A4%82%E0%A4%97%E0%A4%B2%E0%A5%81%E0%A4%B0%E0%A5%81-%E0%A4%AE%E0%A5%87/1533063708183256",
+      "snippet": "पीएम मोदी ने बेंगलुरु में BJP कार्यकर्ताओं की एक विशाल सभा को संबोधित किया.. इस दौरान पीएम मोदी ने आरोप लगाते हुए कहा कि कांग्रेस ने अपने सहयोगियों के साथ 'विश्वासघात' किया है.. सत्ता की भूखी कांग्रेस ने DMK की",
+      "bm25_score_raw": 0.7023114328101316,
+      "bm25_score_norm": 0.013668858699322434,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.8430386185646057,
+      "embedding_score_norm": 0.4594191668301111,
+      "embedding_rank": 9
+    },
+    {
+      "title": "कर्नाटक कांग्रेस के पीएम मोदी को 'अंगूठाछाप' बताने संबंधी कमेंट के ...",
+      "url": "https://ndtv.in/india/karnataka-congress-s-tweet-on-pm-narendra-modi-sparks-political-row-2579755",
+      "snippet": "कई लोगों ने इसे पीएम मोदी पर निजी हमला करार दिया है. कर्नाटक बीजेपी प्रवक्‍ता मालविकाअविनाश ने कहा, 'केवल कांग्रेस ही इतने निचले स्‍तर पर जा सकती है.' उन्‍होंने कहा कि यह कमेंट,",
+      "bm25_score_raw": 2.1123546346295616,
+      "bm25_score_norm": 0.4547541550675339,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8240082263946533,
+      "embedding_score_norm": 0.1172287546394095,
+      "embedding_rank": 10
+    },
+    {
+      "title": "Congress launches 'CryPM' campaign to counter PM ...",
+      "url": "https://www.hindustantimes.com/india-news/karnataka-congress-launches-crypm-campaign-after-priyanka-gandhi-slams-modi-s-remarks-on-verbal-abuse-101682935861191.html",
+      "snippet": "The move comes after Congress leader Priyanka Gandhi slammed Prime Minister Narendra Modi's remarks about verbal abuse against him.",
+      "bm25_score_raw": 3.374027151337314,
+      "bm25_score_norm": 0.8494265986023046,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8192979693412781,
+      "embedding_score_norm": 0.032532402182545425,
+      "embedding_rank": 11
+    },
+    {
+      "title": "'मौका मिलते ही साथी की पीठ में घोंपा छुरा', PM मोदी ने कांग्रेस को ...",
+      "url": "https://www.abplive.com/news/india/pm-modi-attacks-congress-over-dmk-rift-karnataka-kerala-bengaluru-victory-rally-3127846",
+      "snippet": "PM Modi Statement: पीएम मोदी ने DMK-कांग्रेस गठबंधन टूटने का उदाहरण देते हुए कहा कि कांग्रेस ने सत्ता बदलते ही डीएमके की पीठ में छुरा घोंपा.",
+      "bm25_score_raw": 0.82663528286405,
+      "bm25_score_norm": 0.05255945593486169,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.8174887299537659,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

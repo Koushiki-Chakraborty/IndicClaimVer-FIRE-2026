@@ -1,0 +1,108 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1114",
+    "text": "Madhusudan Mistry wants Priyanka Gandhi  to campaign for him in Vadodara",
+    "lang": "english"
+  },
+  "generated_queries": {
+    "english_translation": "Madhusudan Mistry wants Priyanka Gandhi to campaign for him in Vadodara",
+    "native_query": "Madhusudan Mistry Priyanka Gandhi Vadodara campaign",
+    "english_query": "Madhusudan Mistry Priyanka Gandhi Vadodara campaign"
+  },
+  "native_retrieval": [
+    {
+      "title": "Priyanka won't campaign in Varanasi",
+      "url": "https://timesofindia.indiatimes.com/top-stories/priyanka-wont-campaign-in-varanasi/articleshow/34760400.cms",
+      "snippet": "... Priyanka to campaign against Modi. First, AICC general secretary Madhusudan Mistry asked her to campaign in Vadodara; then Rai sought her help in Varanasi."
+    },
+    {
+      "title": "Madhusudhan Mistry wants Priyanka to campaign for him",
+      "url": "https://english.newsnationtv.com/election/lok-sabha-election/madhusudhan-mistry-wants-priyanka-to-campaign-for-him-37918.html",
+      "snippet": "Amid reports that Priyanka Gandhi will share campaign responsibilities with her brother Rahul, Congress General Secretary Madhusudan Mistry"
+    },
+    {
+      "title": "Exclusive! Priyanka may campaign for Mistry in Vadodara",
+      "url": "https://www.rediff.com/news/report/ls-election-exclusive-priyanka-may-campaign-for-mistry-in-vadodara/20140404.htm",
+      "snippet": "Priyanka Vadra, who has been helping the Congress war-room in strategising its election campaign, may be taking baby steps towards a more"
+    },
+    {
+      "title": "Madhusudan Mistry wants Priyanka Gandhi to campaign ...",
+      "url": "https://www.ndtv.com/elections-news/madhusudan-mistry-wants-priyanka-gandhi-to-campaign-for-him-in-vadodara-556292",
+      "snippet": "Amid reports that Priyanka Gandhi will share campaign responsibilities with her brother Rahul, Congress General Secretary Madhusudan Mistry"
+    },
+    {
+      "title": "Mistry wants Priyanka to campaign for him",
+      "url": "https://www.thehindu.com/news/national/other-states/mistry-wants-priyanka-to-campaign-for-him/article5875727.ece",
+      "snippet": "Amid reports that Priyanka Gandhi will share campaign responsibilities with her brother Rahul, Congress general secretary Madhusudan Mistry on Saturday said"
+    },
+    {
+      "title": "Madhusudan Mistry wants Priyanka Gandhi to campaign ...",
+      "url": "https://www.indiatvnews.com/politics/national/madhusudan-mistry-priyanka-gandhi-campaign-vadodara-16310.html",
+      "snippet": "New Delhi: Amid reports that Priyanka Gandhi will share campaign responsibilities with her brother Rahul, Congress General Secretary"
+    }
+  ],
+  "english_retrieval": [
+    {
+      "title": "Priyanka won't campaign in Varanasi",
+      "url": "https://timesofindia.indiatimes.com/top-stories/priyanka-wont-campaign-in-varanasi/articleshow/34760400.cms",
+      "snippet": "... Priyanka to campaign against Modi. First, AICC general secretary Madhusudan Mistry asked her to campaign in Vadodara; then Rai sought her help in Varanasi."
+    },
+    {
+      "title": "Madhusudhan Mistry wants Priyanka to campaign for him",
+      "url": "https://english.newsnationtv.com/election/lok-sabha-election/madhusudhan-mistry-wants-priyanka-to-campaign-for-him-37918.html",
+      "snippet": "Amid reports that Priyanka Gandhi will share campaign responsibilities with her brother Rahul, Congress General Secretary Madhusudan Mistry"
+    },
+    {
+      "title": "Exclusive! Priyanka may campaign for Mistry in Vadodara",
+      "url": "https://www.rediff.com/news/report/ls-election-exclusive-priyanka-may-campaign-for-mistry-in-vadodara/20140404.htm",
+      "snippet": "Priyanka Vadra, who has been helping the Congress war-room in strategising its election campaign, may be taking baby steps towards a more"
+    },
+    {
+      "title": "Madhusudan Mistry wants Priyanka Gandhi to campaign ...",
+      "url": "https://www.ndtv.com/elections-news/madhusudan-mistry-wants-priyanka-gandhi-to-campaign-for-him-in-vadodara-556292",
+      "snippet": "Amid reports that Priyanka Gandhi will share campaign responsibilities with her brother Rahul, Congress General Secretary Madhusudan Mistry"
+    },
+    {
+      "title": "Mistry wants Priyanka to campaign for him",
+      "url": "https://www.thehindu.com/news/national/other-states/mistry-wants-priyanka-to-campaign-for-him/article5875727.ece",
+      "snippet": "Amid reports that Priyanka Gandhi will share campaign responsibilities with her brother Rahul, Congress general secretary Madhusudan Mistry on Saturday said"
+    },
+    {
+      "title": "Madhusudan Mistry wants Priyanka Gandhi to campaign ...",
+      "url": "https://www.indiatvnews.com/politics/national/madhusudan-mistry-priyanka-gandhi-campaign-vadodara-16310.html",
+      "snippet": "New Delhi: Amid reports that Priyanka Gandhi will share campaign responsibilities with her brother Rahul, Congress General Secretary"
+    }
+  ],
+  "merged_results": [
+    {
+      "title": "Priyanka won't campaign in Varanasi",
+      "url": "https://timesofindia.indiatimes.com/top-stories/priyanka-wont-campaign-in-varanasi/articleshow/34760400.cms",
+      "snippet": "... Priyanka to campaign against Modi. First, AICC general secretary Madhusudan Mistry asked her to campaign in Vadodara; then Rai sought her help in Varanasi."
+    },
+    {
+      "title": "Madhusudhan Mistry wants Priyanka to campaign for him",
+      "url": "https://english.newsnationtv.com/election/lok-sabha-election/madhusudhan-mistry-wants-priyanka-to-campaign-for-him-37918.html",
+      "snippet": "Amid reports that Priyanka Gandhi will share campaign responsibilities with her brother Rahul, Congress General Secretary Madhusudan Mistry"
+    },
+    {
+      "title": "Exclusive! Priyanka may campaign for Mistry in Vadodara",
+      "url": "https://www.rediff.com/news/report/ls-election-exclusive-priyanka-may-campaign-for-mistry-in-vadodara/20140404.htm",
+      "snippet": "Priyanka Vadra, who has been helping the Congress war-room in strategising its election campaign, may be taking baby steps towards a more"
+    },
+    {
+      "title": "Madhusudan Mistry wants Priyanka Gandhi to campaign ...",
+      "url": "https://www.ndtv.com/elections-news/madhusudan-mistry-wants-priyanka-gandhi-to-campaign-for-him-in-vadodara-556292",
+      "snippet": "Amid reports that Priyanka Gandhi will share campaign responsibilities with her brother Rahul, Congress General Secretary Madhusudan Mistry"
+    },
+    {
+      "title": "Mistry wants Priyanka to campaign for him",
+      "url": "https://www.thehindu.com/news/national/other-states/mistry-wants-priyanka-to-campaign-for-him/article5875727.ece",
+      "snippet": "Amid reports that Priyanka Gandhi will share campaign responsibilities with her brother Rahul, Congress general secretary Madhusudan Mistry on Saturday said"
+    },
+    {
+      "title": "Madhusudan Mistry wants Priyanka Gandhi to campaign ...",
+      "url": "https://www.indiatvnews.com/politics/national/madhusudan-mistry-priyanka-gandhi-campaign-vadodara-16310.html",
+      "snippet": "New Delhi: Amid reports that Priyanka Gandhi will share campaign responsibilities with her brother Rahul, Congress General Secretary"
+    }
+  ]
+}

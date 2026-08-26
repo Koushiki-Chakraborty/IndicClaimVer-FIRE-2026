@@ -1,0 +1,99 @@
+{
+  "claim": {
+    "id": "S2/1336",
+    "text": "Madras High Court Chief Justice Recuses From Hearing Madras Bar Association's Appeal Against Order Directing To Give Membership Without Discrimination",
+    "lang": "dev"
+  },
+  "entity_ranked_evidence": [
+    {
+      "title": "Madras High Court Chief Justice Recuses From Hearing ...",
+      "url": "https://www.livelaw.in/high-court/madras-high-court/madras-high-court-cj-recuses-from-hearing-appeal-against-order-against-madras-bar-association-231320",
+      "snippet": "Justice SV Gangapurwala on Monday recused himself from hearing an appeal against the single judge order directing the Madras Bar Association to",
+      "bm25_score_raw": 8.353981584861478,
+      "bm25_score_norm": 0.9233054519697975,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.9199916124343872,
+      "embedding_score_norm": 0.5230024473477431,
+      "embedding_rank": 2,
+      "entity_overlap_raw": 2,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 1
+    },
+    {
+      "title": "A Madras High Court judge recently recused from hearing ...",
+      "url": "https://www.instagram.com/p/DUvsGO2jjHm?hl=en",
+      "snippet": "A Madras High Court judge recently recused from hearing a case after All India Lawyers Association for Justice (AILAJ) alleged that a senior",
+      "bm25_score_raw": 3.723530070678461,
+      "bm25_score_norm": 0.2723372384715982,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8937100172042847,
+      "embedding_score_norm": 0.226623997720021,
+      "embedding_rank": 3,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 2
+    },
+    {
+      "title": "Madras HC verdict on Single Judge order which directed ...",
+      "url": "https://www.scconline.com/blog/post/2023/11/20/madras-high-court-sets-aside-order-madras-bar-associatio-pay-5-lakhs-preventing-non-member-drinking-water",
+      "snippet": "Madras HC verdict on Single Judge order which directed Madras Bar Association to pay Rs. 5 lakh compensation for discriminating against non-member.",
+      "bm25_score_raw": 1.7863473448544431,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8807967901229858,
+      "embedding_score_norm": 0.08100109361021098,
+      "embedding_rank": 4,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 3
+    },
+    {
+      "title": "A Madras High Court judge recently recused from hearing ...",
+      "url": "https://www.facebook.com/livelaw.in/posts/a-madras-high-court-judge-recently-recused-from-hearing-a-case-after-all-india-l/1350603317104696",
+      "snippet": "A lawyer appointed by HCLSC changed the prayer and argued against his own client. The respondent gained 50 crores. The case was dismissed.",
+      "bm25_score_raw": 2.025664525932011,
+      "bm25_score_norm": 0.03364420885270328,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.875632643699646,
+      "embedding_score_norm": 0.0227648375078055,
+      "embedding_rank": 5,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 4
+    },
+    {
+      "title": "Madras High Court orders vigilance inquiry into charge of ...",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/madras-high-court-orders-vigilance-inquiry-into-charge-of-senior-advocate-having-received-50-lakh-to-pay-to-a-judge/article70631645.ece",
+      "snippet": "Justice M. Nirmal Kumar recused from hearing those two cases, referred the matter to the vigilance cell and directed the High Court Registry to",
+      "bm25_score_raw": 2.751786365830741,
+      "bm25_score_norm": 0.13572544984034382,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8736139535903931,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 5
+    },
+    {
+      "title": "M.Baskar, President, Madras Bar Association",
+      "url": "https://www.facebook.com/TNDIPR/posts/mbaskarpresident-madras-bar-association-madras-high-courtcmmkstalin-dycmudhay-tn/970485405266913",
+      "snippet": "Madras High Court Chief Justice Recuses From Hearing Appeal Against Order Directing HC Bar Association To Give Membership Without Discrimination.",
+      "bm25_score_raw": 8.899523408090632,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9622897505760193,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 6
+    }
+  ]
+}

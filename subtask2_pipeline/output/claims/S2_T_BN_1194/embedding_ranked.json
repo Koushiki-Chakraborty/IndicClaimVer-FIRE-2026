@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/BN/1194",
+    "text": "‘আপনারাই বাস্তবের হিরো’, মুম্বই পুলিশকে অভিনবভাবে কুর্নিশ জানালেন বলিউড তারকারা",
+    "lang": "bengali"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Bollywood Celebs Applaud Mumbai Police as They ...",
+      "url": "https://www.socialnews.xyz/2025/12/29/bollywood-celebs-applaud-mumbai-police-as-they-complete-10-impactful-years-on-social-media",
+      "snippet": "Superstars Salman Khan and Ajay Devgn also joined in to acknowledge the police force's efforts, while former cricketer Sachin Tendulkar praised",
+      "bm25_score_raw": 0.8717307812246748,
+      "bm25_score_norm": 0.28597637263821635,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8666967153549194,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Mumbai Police are investigating a series of threatening ...",
+      "url": "https://www.facebook.com/61561966861130/posts/mumbai-police-are-investigating-a-series-of-threatening-extortion-calls-targetin/122173693742398895",
+      "snippet": "Mumbai Police are investigating a series of threatening extortion calls targeting Bollywood celebrities and film industry figures. The calls are",
+      "bm25_score_raw": 0.8717307812246748,
+      "bm25_score_norm": 0.28597637263821635,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8507918119430542,
+      "embedding_score_norm": 0.8810074854157915,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Bollywood celebrities hail police's `Drugs Free Mumbai ...",
+      "url": "https://theprint.in/india/bollywood-celebrities-hail-polices-drugs-free-mumbai-campaign/1555701",
+      "snippet": "Mumbai, May 4 (PTI) Several Bollywood celebrities including Shilpa Shetty Kundra, Ekta Kapoor and Rajkumar Rao have come out in support of",
+      "bm25_score_raw": 0.4973429523371607,
+      "bm25_score_norm": 0.16315625939782596,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8489882946014404,
+      "embedding_score_norm": 0.8675144727254566,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Mumbai police confuses actors for terrorists on Hrithik ...",
+      "url": "https://tribune.com.pk/story/1983392/mumbai-police-confuses-actors-terrorists-hrithik-roshans-film-set",
+      "snippet": "The arrested suspects were working on a Bollywood project starring the Krrish actor alongside Tiger Shroff, reported The Hindustan Times. A case",
+      "bm25_score_raw": 0.7236837672079309,
+      "bm25_score_norm": 0.23740868527383535,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8318476676940918,
+      "embedding_score_norm": 0.7392768943863395,
+      "embedding_rank": 4
+    },
+    {
+      "title": "5 more Bollywood celebrities targeted by gangster Shubham Lonkar, say cops: 'Warning to entire industry' | Mumbai News - The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/mumbai/5-more-bollywood-celebrities-targeted-by-gangster-shubham-lonkar-say-cops-warning-to-entire-industry/articleshow/127921292.cms",
+      "snippet": "MUMBAI: At least five Bollywood celebrities have received extortion calls from associates of fugitive gangster Shubham Lonkar, said to be operating on behalf of the jailed Lawrence Bishnoi, police sources said. Police sources say gangster Shubham Lonkar has made extortion calls to at least five Bollywood celebrities, though none of them is keen on filing a complaint. And this is a warning to the entire Bollywood industry: mend your ways while you still have time, otherwise, your situation will be very bad.\"Multiple police teams have now been sent to several parts of the country to trace the shooter involved in the firing. In the firing outside actor Salman Khan's house, the gang claimed it was seeking revenge for the killing of a blackbuck, considered sacred by the Bishnoi community.On the other hand, standup comedian Munawar Faruqui was targeted because he allegedly hurt the community's sentiments during one of his shows.After Baba Siddiqui's murder, the gang had alleged that he was close to Salman Khan and also had links to Dawood Ibrahim.",
+      "bm25_score_raw": 0.6221951667892557,
+      "bm25_score_norm": 0.20411475733534054,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8308776617050171,
+      "embedding_score_norm": 0.732019795816622,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Bollywood-Inspired Gang Conducting Fake Income Tax ...",
+      "url": "https://www.ndtv.com/mumbai-news/bollywood-inspired-gang-conducting-fake-income-tax-raids-busted-police-3289369",
+      "snippet": "Mumbai Police busted a gang which was conducting fake Income Tax (IT) raids in Akshay Kumar's 'Special 26' style at a businessman's residence.",
+      "bm25_score_raw": 0.3660734941539632,
+      "bm25_score_norm": 0.1200925471853516,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8197660446166992,
+      "embedding_score_norm": 0.6488882467467025,
+      "embedding_rank": 6
+    },
+    {
+      "title": "Asha Bhosle_Emon Modhur Sondhyaye (Ekanto Apon; R.D. ...",
+      "url": "https://www.youtube.com/watch?v=kSDbgqklZ_c",
+      "snippet": "A brilliant Pancham composition (originally for Shaan, the unreleased song \"mittua\"), presented with so much verve by Asha Bhosle.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.7701137661933899,
+      "embedding_score_norm": 0.27741478906966976,
+      "embedding_rank": 7
+    },
+    {
+      "title": "Mittha Bolar Shovab - song and lyrics by Akash Mahmud",
+      "url": "https://open.spotify.com/track/6DFEbL4pNs8355P7gpoGSf",
+      "snippet": "Listen to Mittha Bolar Shovab on Spotify. Song · Akash Mahmud · Recommended based on this song Bece Achi Morar Moto. Popular Tracks by Akash Mahmud",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.753328800201416,
+      "embedding_score_norm": 0.15183808741517257,
+      "embedding_rank": 8
+    },
+    {
+      "title": "আমাকে নিয়ে এত সুন্দর একটি লেখা, সত্যি অসাধারণ, আমি খুবই খুশি ধন্যবাদ ...",
+      "url": "https://www.facebook.com/shankartantubai87/posts/%E0%A6%86%E0%A6%AE%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%A8%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A7%87-%E0%A6%8F%E0%A6%A4-%E0%A6%B8%E0%A7%81%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%B0-%E0%A6%8F%E0%A6%95%E0%A6%9F%E0%A6%BF-%E0%A6%B2%E0%A7%87%E0%A6%96%E0%A6%BE-%E0%A6%B8%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A6%BF-%E0%A6%85%E0%A6%B8%E0%A6%BE%E0%A6%A7%E0%A6%BE%E0%A6%B0%E0%A6%A3-%E0%A6%86%E0%A6%AE%E0%A6%BF-%E0%A6%96%E0%A7%81%E0%A6%AC%E0%A6%87-%E0%A6%96%E0%A7%81%E0%A6%B6%E0%A6%BF-%E0%A6%A7%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%BE%E0%A6%A6-manbhuma-mun/4510146015888889",
+      "snippet": "❤️শঙ্কর তন্তুবাই ❤️ ✍️কলমে -মুন্না রজক মানভূমের মাটির গানে মাটির টানে বুকটা ভোরে উঠে শঙ্কর তন্তুবাই কন্ঠের সুরে যেন হাজার পলাশ ফুটে। বুকের ভেতর সুরের নদী, চোখে সরল হাসি, তোমার কণ্ঠে মেতে ওঠে গান-পাগল",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.7487321496009827,
+      "embedding_score_norm": 0.11744825181249091,
+      "embedding_rank": 9
+    },
+    {
+      "title": "'মুম্বাই' নাকি 'মুম্বই', কোন বানানটি সঠিক?",
+      "url": "https://bn.quora.com/%E0%A6%AE%E0%A7%81%E0%A6%AE%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%87-%E0%A6%A8%E0%A6%BE%E0%A6%95%E0%A6%BF-%E0%A6%AE%E0%A7%81%E0%A6%AE%E0%A7%8D%E0%A6%AC%E0%A6%87-%E0%A6%95%E0%A7%8B%E0%A6%A8",
+      "snippet": "সঠিক বানানটি হবে 'ভিত্তি'। যদি প্রকৃতি প্রত্যয় নির্ণয় করি, তবে আসবে : 'ভিদ্' ধাতুর সাথে 'ক্তিন্' প্রত্যয় যোগ করে আসবে এই শব্দটি।",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.735737681388855,
+      "embedding_score_norm": 0.020230154461951737,
+      "embedding_rank": 10
+    },
+    {
+      "title": "গীতবিতান/প্রেম/৬২ - উইকিসংকলন একটি মুক্ত পাঠাগার",
+      "url": "https://bn.wikisource.org/wiki/%E0%A6%97%E0%A7%80%E0%A6%A4%E0%A6%AC%E0%A6%BF%E0%A6%A4%E0%A6%BE%E0%A6%A8/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%AE/%E0%A7%AC%E0%A7%A8",
+      "snippet": "তুমি রবে নীরবে হৃদয়ে মম নিবিড় নিভৃত পূর্ণিমানিশথিনী-সম। মম জীবন যৌবন মম অখিল ভুবন তুমি ভরিবে গৌরবে নিশীথিনী-সম। জাগিবে একাকী, তব করুণ আঁখি, তব অঞ্চলছায়া মোরে রহিবে ঢাকি। মম দুঃখবেদন মম সফল স্বপন",
+      "bm25_score_raw": 3.0482615510599755,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.733517050743103,
+      "embedding_score_norm": 0.003616509118864978,
+      "embedding_rank": 11
+    },
+    {
+      "title": "Brilliant - Moontasir Rakib | Acoustic Demo",
+      "url": "https://www.youtube.com/watch?v=IP7aVfD2lwk",
+      "snippet": "Brilliant - Moontasir Rakib | Acoustic Demo @moontasir.rakib.oddsignature875 likes17K views5 years ago. Emotional Sad Song | Modern Acoustic",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.7330336570739746,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

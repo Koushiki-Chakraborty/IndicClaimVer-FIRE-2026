@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/HI/1027",
+    "text": "कोरोना पर पीएम ने वाराणसी के स्वास्थ्यकर्मियों से संवाद में कहा, ‘जहां बीमार, वहीं उपचार’ मंत्र सिर्फ शहरी इलाकों में लागू किया जाएगा।",
+    "lang": "hindi"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "COVID-19 | PM pitches for 'doorstep treatment' for COVID, fights back ...",
+      "url": "https://www.thehindu.com/news/national/covid-19-pm-modi-lauds-doctors-frontline-workers-of-varanasi/article34615097.ece/amp",
+      "snippet": "He said health services need to pay attention to the rural areas of Varanasi and Purvanchal and pitched his new 'mantra' of “treatment at the",
+      "bm25_score_raw": 0.977429622263656,
+      "bm25_score_norm": 0.11112531830739152,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8959072828292847,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "PM gets emotional at interaction with health officials of Varanasi",
+      "url": "https://www.business-standard.com/amp/article/politics/covid-pm-gets-emotional-at-interaction-with-health-officials-of-varanasi-121052100716_1.html",
+      "snippet": "Prime Minister Narendra Modi on Friday urged bringing medical services closer to COVID-19 patients, coming up with a new mantra - Jahan bimaar, wahin upchaar.",
+      "bm25_score_raw": 1.0007893034330464,
+      "bm25_score_norm": 0.11964444778231277,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8869463205337524,
+      "embedding_score_norm": 0.9011148748643405,
+      "embedding_rank": 2
+    },
+    {
+      "title": "PM Modi addresses frontline workers in Varanasi: Top quotes from his ...",
+      "url": "https://www.hindustantimes.com/india-news/pm-modi-s-addresses-frontline-workers-in-varanasi-top-quotes-from-his-speech-101621587004495-amp.html",
+      "snippet": "PM Modi thanked authorities for increasing the number of oxygen beds and ICU beds in the city within a short period of time.",
+      "bm25_score_raw": 0.6727210234391644,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.88310307264328,
+      "embedding_score_norm": 0.8587042457328905,
+      "embedding_rank": 3
+    },
+    {
+      "title": "'Jahan Bimar, Vahan Upchar': PM Modi asks health workers to continue ...",
+      "url": "https://indianexpress.com/article/india/pm-modi-asks-to-continue-the-fight-against-covid-19-in-interaction-with-healthcare-workers-of-varanasi-7324284/lite",
+      "snippet": "PM Modi virtually interacts with healthcare workers and doctors of Varanasi. fight against COVID-19. Kashi had successfully carried out micro-",
+      "bm25_score_raw": 1.6675938747910308,
+      "bm25_score_norm": 0.36282390030462186,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8646098971366882,
+      "embedding_score_norm": 0.6546301838392475,
+      "embedding_rank": 4
+    },
+    {
+      "title": "PM Modi to Interact With Doctors, Other Frontline Health Workers of ...",
+      "url": "https://www.news18.com/amp/news/india/pm-modi-to-interact-with-doctors-other-frontline-health-workers-of-varanasi-tomorrow-3759206.html",
+      "snippet": "Narendra Modi will on Friday interact with doctors, paramedical staff and other frontline health workers of his Lok Sabha constituency Varanasi",
+      "bm25_score_raw": 2.2592551756417607,
+      "bm25_score_norm": 0.5785990725211205,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8568099737167358,
+      "embedding_score_norm": 0.5685572401091854,
+      "embedding_rank": 5
+    },
+    {
+      "title": "COVID-19 Pandemic: 'Black Fungus A New Challenge', Says PM Modi ...",
+      "url": "https://swachhindia.ndtv.com/covid-19-pandemic-black-fungus-a-new-challenge-says-pm-modi-while-interacting-with-frontline-workers-from-varanasi-59430/amp",
+      "snippet": "PM Modi was interacting with doctors and healthcare workers from Varanasi; PM Modi warned against the new challenge of black fungus; PM Modi",
+      "bm25_score_raw": 0.6808569551896044,
+      "bm25_score_norm": 0.002967123372897055,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.8542749881744385,
+      "embedding_score_norm": 0.5405834182918406,
+      "embedding_rank": 6
+    },
+    {
+      "title": "Corona News: Varanasi में मिला कोरोना का मरीज, Director I. M. S. Dr. S. N. ...",
+      "url": "https://www.youtube.com/watch?v=Zsy9vDVIC5A",
+      "snippet": "Corona News: Varanasi में मिला कोरोना का मरीज, Director I. M. S. Dr. S. N. Sankhwar ने जताई चिंता! #coronanews #coronavirus #varanasinews #upnews",
+      "bm25_score_raw": 1.8822050143594224,
+      "bm25_score_norm": 0.44109123929293215,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8414530158042908,
+      "embedding_score_norm": 0.3990916565264577,
+      "embedding_rank": 7
+    },
+    {
+      "title": "Corona In Varanasi:काशी में अब तक मिले 15 कोरोना संक्रमित, इनमें पांच डॉक्टर ...",
+      "url": "https://www.amarujala.com/uttar-pradesh/varanasi/so-far-15-corona-infected-have-been-found-among-them-5-doctors-and-3-medical-students-varanasi-news-c-20-vns1056-1030251-2025-06-23",
+      "snippet": "28 मई को सबसे पहले शहर में दो कोरोना संक्रमित मरीज मिले थे। ये दोनों आईए",
+      "bm25_score_raw": 3.4147478042454598,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.837770402431488,
+      "embedding_score_norm": 0.3584536455421449,
+      "embedding_rank": 8
+    },
+    {
+      "title": "Corona News Update: वाराणसी में Corona अलर्ट, BHU में बना ICU वार्ड ...",
+      "url": "https://www.youtube.com/watch?v=CAPS7AA6yCk",
+      "snippet": "Corona News Update: वाराणसी में Corona अलर्ट, BHU में बना ICU वार्ड | Covid 19 | Lockdown #local18 वाराणसी में कोरोना के दो नए केस सामने आने पर स्वास्थ्य विभाग अलर्ट पर है।",
+      "bm25_score_raw": 2.7802671603613316,
+      "bm25_score_norm": 0.7686088814575478,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.831875741481781,
+      "embedding_score_norm": 0.29340546584668004,
+      "embedding_rank": 9
+    },
+    {
+      "title": "वाराणसी में म‍िला कोरोना का मरीज, जानें कैसी है अब हालात और इस महामारी से बचाव ...",
+      "url": "https://www.thehealthsite.com/hindi/diseases-conditions/varanasi-corona-alert-new-case-in-up-infection-confirmed-in-patient-doctor-explains-prevention-tips-in-hindi-1332979/amp",
+      "snippet": "भारत में एक बार फिर कोरोना वायरस के मामले तेजी से बढ़ने के मामले सामने आ रहे हैं। उत्तर प्रदेश वाराणसी में एक युवक कोरोना पॉजिटिव पाया गया है। बताया जा रहा है कि युवक को सांस लेने में परेशानी आने के बाद अस्पताल",
+      "bm25_score_raw": 0.7760118200182727,
+      "bm25_score_norm": 0.037669506841481536,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.8293863534927368,
+      "embedding_score_norm": 0.26593481764067484,
+      "embedding_rank": 10
+    },
+    {
+      "title": "वाराणसी में म‍िला कोरोना का मरीज, सांस लेने में द‍िक्‍कत होने पर जांच में सामने ...",
+      "url": "https://www.jagran.com/uttar-pradesh/varanasi-city-corona-patient-found-in-varanasi-shocking-facts-revealed-in-the-investigation-after-breathing-difficulties-40304957.html",
+      "snippet": "वाराणसी में सांस लेने में दिक्कत के बाद एक युवक कोरोना संक्रमित पाया गया और उसे बीएचयू अस्पताल में भर्ती किया गया है। विशेषज्ञों ने बताया कि वायरस अभी भी मौजूद है, लेकिन टीकाकरण से बनी एंटीबॉडी के कारण गंभीर",
+      "bm25_score_raw": 0.8037082101577221,
+      "bm25_score_norm": 0.047770206927023814,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.8251692056655884,
+      "embedding_score_norm": 0.219398164896241,
+      "embedding_rank": 11
+    },
+    {
+      "title": "Varanasi - 8 और नए कोरोना पॉजिटिव मिले, वाराणसी में पॉजिटिव मरीज़ों की ...",
+      "url": "https://www.youtube.com/watch?v=ME5sXa4-UPY",
+      "snippet": "भारत समाचार यूपी का सर्वश्रेष्ठ हिंदी न्‍यूज चैनल है। भारत समाचार न्‍यूज चैनल राजनीति, मनोरंजन, बॉलीवुड, व्यापार और खेल में नवीनतम समाचारों को शामिल करता है।",
+      "bm25_score_raw": 0.9443656007963951,
+      "bm25_score_norm": 0.09906707668163378,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.8052873611450195,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

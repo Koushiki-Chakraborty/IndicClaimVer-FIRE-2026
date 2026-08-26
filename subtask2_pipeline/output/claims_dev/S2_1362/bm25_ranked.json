@@ -1,0 +1,105 @@
+{
+  "claim": {
+    "id": "S2/1362",
+    "text": "सुप्रीम कोर्ट ने पंजाब सरकार, SEC को 2 सप्ताह में नगर पालिका चुनावों की अधिसूचना जारी करने का निर्देश दिया",
+    "lang": "dev"
+  },
+  "ranked_evidence": [
+    {
+      "title": "Supreme Court Directs Punjab Govt, SEC To Notify ...",
+      "url": "https://www.livelaw.in/top-stories/supreme-court-punjab-municipality-elections-be-notified-in-2-weeks-completed-in-8-weeks-election-commission-274879",
+      "snippet": "While partially modifying a Punjab and Haryana High Court order which directed that Punjab municipality elections be notified within 15 days",
+      "bm25_score_raw": 11.299130204033297,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "High Court Directs Punjab Election Commission, State To ...",
+      "url": "https://www.livelaw.in/high-court/punjab-and-haryana-high-court/punjab-haryana-high-court-directs-punjab-election-commission-punjab-govt-to-initiate-process-of-conducting-municipal-elections-in-15-days-without-delimitation-exercise-272985",
+      "snippet": "The Punjab & Haryana High Court has issued a writ of mandamus to the Punjab's State Election Commission and Punjab Government to initiate the process of",
+      "bm25_score_raw": 3.2776824361822277,
+      "bm25_score_norm": 0.29008272114717626,
+      "bm25_rank": 2
+    },
+    {
+      "title": "HC stalls Punjab notification for polls to 9 MCs, over 100 ...",
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/hc-stalls-punjab-notification-for-polls-to-9-mcs-over-100-local-bodies/articleshow/127893383.cms",
+      "snippet": "Chandigarh: The Punjab and Haryana high court on Tuesday directed the Punjab govt not to proceed with the the issuance of election",
+      "bm25_score_raw": 2.9019495968912477,
+      "bm25_score_norm": 0.2568294677988026,
+      "bm25_rank": 3
+    },
+    {
+      "title": "लुधियाना के स्पा सेंटर में पुलिस की रेड: 3 विदेशी महिला, कई युवक और 6 होटल ...",
+      "url": "https://www.bhaskar.com/amp/local/punjab/ludhiana/news/punjab-ludhiana-sarabha-nagar-police-raid-hotel-and-spa-center-sex-worker-video-update-ludhiana-sex-raid-news-132798113.html",
+      "snippet": "लुधियाना के स्पा सेंटर में पुलिस की रेड:3 विदेशी महिला, कई युवक और 6 होटल मालिक गिरफ्तार; बनाए गए थे फर्जी वोटर कार्ड ... पुलिस हिरासत में विदेशी लड़कियां व युवक। पंजाब के लुधियाना में थाना सराभा नगर की पुलिस ने",
+      "bm25_score_raw": 2.772599888697335,
+      "bm25_score_norm": 0.24538170979812565,
+      "bm25_rank": 4
+    },
+    {
+      "title": "High Court Issues Contempt Notice to Punjab Government ...",
+      "url": "https://www.upfront.news/high-court-issues-contempt-notice-to-punjab-government-and-state-election-commissioner-over-delayed-municipal-elections",
+      "snippet": "The High Court has issued a contempt notice to the Punjab State Election Commissioner and the Punjab Government for failing to comply with its orders",
+      "bm25_score_raw": 2.250493803854074,
+      "bm25_score_norm": 0.19917407474875773,
+      "bm25_rank": 5
+    },
+    {
+      "title": "पंजाब के इस जिले में स्पा सेंटर में चल रहा था सेक्स रैकेट",
+      "url": "https://www.youtube.com/watch?v=0IPXeYEuzcA",
+      "snippet": "पंजाब के इस जिले में स्पा सेंटर में चल रहा था सेक्स रैकेट. @GarimaTimesLive3 likes299 views3 years ago more. Subscribe. Comments. Comment.",
+      "bm25_score_raw": 2.0892694574148454,
+      "bm25_score_norm": 0.1849053351619107,
+      "bm25_rank": 6
+    },
+    {
+      "title": "High court issues order to State Election Commission ...",
+      "url": "https://www.royalpatiala.in/high-court-issues-order-to-state-election-commission-punjab-government-on-municipal-elections",
+      "snippet": "High court issues order to State Election Commission, Punjab government on Municipal Elections .Chief Justice Sheel Nagu and Justice Anil.",
+      "bm25_score_raw": 1.6189011141937157,
+      "bm25_score_norm": 0.1432766137711944,
+      "bm25_rank": 7
+    },
+    {
+      "title": "HC bars Punjab govt from notifying municipal elections till ...",
+      "url": "https://indianexpress.com/article/cities/chandigarh/hc-bars-punjab-govt-from-notifying-municipal-elections-till-next-hearing-10513238",
+      "snippet": "The Punjab and Haryana High Court division bench of Justice Harsimran Singh Sethi and Justice Vikas Suri, while hearing over 20 petitions",
+      "bm25_score_raw": 0.6883235526065102,
+      "bm25_score_norm": 0.06091827779458712,
+      "bm25_rank": 8
+    },
+    {
+      "title": "Sukar, SBS Nagar",
+      "url": "https://en.wikipedia.org/wiki/Sukar,_SBS_Nagar",
+      "snippet": "Sukar is a village in Shaheed Bhagat Singh Nagar district of Punjab State, India. Sukar has a total number of 72 houses and population of 331",
+      "bm25_score_raw": 0.5108049255160281,
+      "bm25_score_norm": 0.045207455467120204,
+      "bm25_rank": 9
+    },
+    {
+      "title": "Punjab News: मॉल में स्पा सेंटरों की आड़ में चल रहे सेक्स रैकेट का पर्दाफाश, आठ ...",
+      "url": "https://www.jagran.com/punjab/chandigarh-punjab-news-sex-racket-running-under-guise-of-spa-center-exposed-14-including-eight-girls-arrested-23752285.html",
+      "snippet": "पुलिस टीम ने वहां मौके से आठ युवतियों व छह लड़कों को काबू किया गया। स्पा सेंटर संचालकों से दस्तावेज दिखाने को कहा गया जोकि नहीं दिखा पाए। वहीं, दो आरोपित फरार हैं। मामले में 16 आरोपितों के खिलाफ केस दर्ज किया गया है।",
+      "bm25_score_raw": 0.3572168080126878,
+      "bm25_score_norm": 0.03161454037277816,
+      "bm25_rank": 10
+    },
+    {
+      "title": "ਸਰਹੱਦੀ ਜ਼ਿਲ੍ਹਿਆਂ ਦੇ ਪੈਦੇ ਥਾਣਿਆਂ ਦੇ ਸੈਕਸਨ ਲਈ ਪੰਜਾਬ ...",
+      "url": "https://www.facebook.com/cityhomenewsludhiana/videos/%E0%A8%B8%E0%A8%B0%E0%A8%B9%E0%A9%B1%E0%A8%A6%E0%A9%80-%E0%A8%9C%E0%A8%BC%E0%A8%BF%E0%A8%B2%E0%A9%8D%E0%A8%B9%E0%A8%BF%E0%A8%86%E0%A8%82-%E0%A8%A6%E0%A9%87-%E0%A8%AA%E0%A9%88%E0%A8%A6%E0%A9%87-%E0%A8%A5%E0%A8%BE%E0%A8%A3%E0%A8%BF%E0%A8%86%E0%A8%82-%E0%A8%A6%E0%A9%87-%E0%A8%B8%E0%A9%88%E0%A8%95%E0%A8%B8%E0%A8%A8-%E0%A8%B2%E0%A8%88-%E0%A8%AA%E0%A9%B0%E0%A8%9C%E0%A8%BE%E0%A8%AC-%E0%A8%B8%E0%A8%B0%E0%A8%95%E0%A8%BE%E0%A8%B0-%E0%A8%B5%E0%A9%B1%E0%A8%B2%E0%A9%8B%E0%A8%82-30-%E0%A8%95%E0%A8%B0%E0%A9%8B%E0%A9%9C-%E0%A8%B0%E0%A9%81%E0%A8%AA%E0%A8%8F-%E0%A8%9C%E0%A8%BE%E0%A8%B0%E0%A9%80-/902419498739217",
+      "snippet": "30 ਕਰੋੜ ਰੁਪਏ ਦੀ ਗ੍ਰਾਂਟ: ਸਰਹੱਦੀ ਜ਼ਿਲ੍ਹਿਆਂ ਦੇ ਪੈਦੇ ਥਾਣਿਆਂ ਦੇ ਸੈਕਸਨ ਲਈ ਪੰਜਾਬ ਸਰਕਾਰ ਵੱਲੋਂ 30 ਕਰੋੜ ਰੁਪਏ ਜਾਰੀ ਕੀਤੇ.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11
+    },
+    {
+      "title": "Sarpanch Saab | (Full HD) | Saabi Kharoud | Punjabi Songs 2018",
+      "url": "https://www.youtube.com/watch?v=81IgwSgu9rY",
+      "snippet": "Sarpanch Saab | (Full HD) | Saabi Kharoud | Punjabi Songs 2018. Sarpanch Saab Singer | Saabi Kharoud Lyrics | Saabi Kharoud Music (This Song Is",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12
+    }
+  ]
+}

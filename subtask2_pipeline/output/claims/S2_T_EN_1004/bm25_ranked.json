@@ -1,0 +1,57 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1004",
+    "text": "India to begin administering precaution dose of Covid-19 vaccine to elders from today",
+    "lang": "english"
+  },
+  "ranked_evidence": [
+    {
+      "title": "Safety monitoring of precautionary third dose of COVID-19 vaccines in a district in Northern India",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11213364",
+      "snippet": "A **.gov** website belongs to an official government organization in the United States. # Safety monitoring of precautionary third dose of COVID-19 vaccines in a district in Northern India. The COVID-19 vaccine programme, one of the most effective vaccination campaigns in human history, is unquestionably one of them.[3] On 16 th January 2021, India started its vaccination programme using two COVID-19 vaccines (Covishield - Oxford–AstraZeneca vaccine produced under license by Serum Institute of India and Covaxin, a vaccine created locally by Bharat Biotech).[4] Initially, precautionary dose (booster shots) was given to only health and front-line workers, as well as people over 60 years with co-morbidities or other health concerns, and then it was administered to all above 18 years of age.[5] As of March 2023, 65% of the world population is fully vaccinated with the second dose of COVID-19 vaccines, of which only 31% population are prevented by the booster dose.",
+      "bm25_score_raw": 2.516172512290992,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "COVID-19 vaccination in India - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/COVID-19_vaccination_in_India",
+      "snippet": "Immunisation programme against COVID-19 in India. | Participants | * **1,025,789,302** people with one dose administered of Covaxin or Oxford–AstraZeneca vaccine or Sputnik V * **952,033,158** people have been fully vaccinated with both doses of Covaxin or Oxford–AstraZeneca vaccine or Sputnik V or Corbevax * **228,593,024** people have been administered Precautionary/Booster doses of Covaxin or Oxford–AstraZeneca vaccine or Sputnik V or Corbevax |. India began administration of **COVID-19 vaccines** on 16 January 2021. As of 4 March 2023, India has administered over **2.2 billion** doses overall, including first, second and precautionary (booster) doses of the currently approved vaccines. They have since been joined by the Sputnik V (manufactured under license by Dr. Reddy's Laboratories, with additional production from Serum Institute of India being started in September), Moderna vaccines, Johnson & Johnson vaccine and ZyCoV-D (a vaccine locally developed by Zydus Cadila) and other vaccine candidates undergoing local clinical trials. According to a June 2022 study published in *The Lancet*, COVID-19 vaccination in India prevented an additional 4.2 million deaths from December 8, 2020, to December 8, 2021.",
+      "bm25_score_raw": 2.4847014987130334,
+      "bm25_score_norm": 0.9826021240958314,
+      "bm25_rank": 2
+    },
+    {
+      "title": "Guidelines For Healthcare, Front Line Workers & Senior Citizens",
+      "url": "https://www.apollohospitals.com/health-library/guidelines-for-covid-19-precaution-dose-of-healthcare-workers-front-line-workers-and-senior-citizens",
+      "snippet": "The Ministry of Health and Family Welfare (MoHFW) has issued guidelines for COVID vaccination of children aged 15-18 years and for the administration of precaution doses to priority groups including healthcare workers (HCWs) and front line workers (FLWs). These guidelines outline who is eligible for precautionary dose, when will it be rolled out and the methods of booking slots to get the vaccination. * Best Hospital Near me Chennai. * Best Hospital Near me Bangalore. * Best Hospital Near me Hyderabad. * Best Hospital Near me Mumbai. * Best Hospital Near me Delhi. * Best Hospital Near me Kolkata. * Best Hospital Near me Pune. * Best Hospital Near me Ahmedabad. * Best Hospital Near me Bhubaneswar. * Best Hospital Near me Bilaspur. * Best Hospital Near me Guwahati. * Best Hospital Near me Indore. * Best Hospital Near me Lucknow. * Best Hospital Near me Madurai. * Best Hospital Near me Nashik. * Best Hospital Near me Noida.",
+      "bm25_score_raw": 2.4300829872116254,
+      "bm25_score_norm": 0.9524077967724359,
+      "bm25_rank": 3
+    },
+    {
+      "title": "COVID-19 Booster Dose Coverage and Hesitancy among Older Adults in ...",
+      "url": "https://www.mdpi.com/2076-393X/11/7/1177",
+      "snippet": "by N Sharma · 2023 · Cited by 16 — The study objective was to ascertain the COVID-19 vaccination coverage, including the administration of precaution (booster) dose vaccination",
+      "bm25_score_raw": 1.5867045699307927,
+      "bm25_score_norm": 0.4861694594605854,
+      "bm25_rank": 4
+    },
+    {
+      "title": "Guidelines for COVID-19 vaccination of children between 15-18 years and ...",
+      "url": "https://rmlh.nic.in/rmlh_new/admnis/admin/showimg.aspx?ID=168",
+      "snippet": "The details of administration of the precaution dose will be suitably reflected in the vaccination certificates. 2. New beneficiaries aged 15-18 years: a",
+      "bm25_score_raw": 1.4320610839948154,
+      "bm25_score_norm": 0.400679102722075,
+      "bm25_rank": 5
+    },
+    {
+      "title": "COVID-19 vaccination among older adults in India",
+      "url": "https://abdn.elsevierpure.com/en/publications/covid-19-vaccination-among-older-adults-in-india-a-case-of-underr",
+      "snippet": "by A Guntupalli · 2023 — While 88% of older adults received the second dose, only 33% received the booster dose, known as the precaution dose. While the coverage",
+      "bm25_score_raw": 0.7072727505437587,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6
+    }
+  ]
+}

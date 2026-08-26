@@ -1,0 +1,76 @@
+{
+  "claim": {
+    "id": "S2/1568",
+    "text": "Delhi reports 22,751 new Covid-19 cases, 17 deaths in last 24 hours",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Delhi reports 22751 new Covid-19 cases, 17 deaths in last ...",
+      "url": "https://www.indiatoday.in/coronavirus-outbreak/story/delhi-reports-22-751-new-covid-19-cases-17-deaths-in-last-24-hours-1898007-2022-01-09",
+      "snippet": "Delhi has reported 22,751 new Covid-19 cases, 17 deaths in the last 24 hours. The positivity rate soared to 23.53 per cent, the health",
+      "bm25_score_raw": 3.8921562092532067,
+      "bm25_score_norm": 0.5808916636121708,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.9177221059799194,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "17 Covid deaths, 22751 new cases in Delhi in a day",
+      "url": "https://www.business-standard.com/article/current-affairs/17-covid-deaths-22-751-new-cases-in-delhi-in-a-day-positivity-rate-23-53-122010900718_1.html",
+      "snippet": "Delhi logged 17 deaths due to COVID-19 and 22,751 infections in a day as the positivity rate soared to 23.53 per cent, according to the city",
+      "bm25_score_raw": 4.3368230106375965,
+      "bm25_score_norm": 0.6677857425825532,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.9126794338226318,
+      "embedding_score_norm": 0.9370539098939837,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Coronavirus Update: Delhi Reports 17282 Covid Cases & 104 ...",
+      "url": "https://www.youtube.com/watch?v=Gellcuz-aGE",
+      "snippet": "Delhi recorded 17282 Coronavirus cases in last 24 hours, Also, 104 deaths have been reported in Delhi in the last 24 hours.",
+      "bm25_score_raw": 2.4757224518138727,
+      "bm25_score_norm": 0.30410080269774575,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8568328619003296,
+      "embedding_score_norm": 0.23993872201625102,
+      "embedding_rank": 3
+    },
+    {
+      "title": "New record rise in India’s COVID cases, deaths; curfew in capital | Coronavirus pandemic News | Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2021/4/19/india-sees-new-record-rise-in-daily-covid-cases-and-1619-deaths",
+      "snippet": "# New record rise in India’s COVID cases, deaths; curfew in capital. *India reports 273,810 new cases, taking its overall caseload past 15 million and a record 1,619 deaths as Delhi announces six-day curfew.*. India has reported a record rise in coronavirus infections of 273,810, as capital New Delhi announces a complete curfew starting Monday night and hospitals across the country struggle with a shortage of hospital beds and oxygen supplies. The country’s deaths from COVID-19 rose by a record 1,619 to reach a total of 178,769, according to health ministry data on Monday. The Indian capital will be under a strict lockdown for six days starting on Monday night, Delhi state’s Chief Minister Arvind Kejriwal said, adding the healthcare system was at a breaking point because of the worsening COVID-19 outbreak. Men carry a coffin for the dead body of a coronavirus victim at a graveyard in New Delhi. Men carry a coffin for the dead body of a coronavirus victim at a graveyard in New Delhi [Aishwarya Kumar/AFP].",
+      "bm25_score_raw": 1.807926566794802,
+      "bm25_score_norm": 0.17360419672607136,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.84718918800354,
+      "embedding_score_norm": 0.11955977467915738,
+      "embedding_rank": 4
+    },
+    {
+      "title": "India's Covid graph is on an upward trajectory ...",
+      "url": "https://www.facebook.com/Timesnow/posts/indias-covid-graph-is-on-an-upward-trajectory-with-4026-active-covid-19-caseload/1182212307283363",
+      "snippet": "India's Active Covid Cases Cross 2,700; 22 Deaths Reported ... Delhi has also reported its first Covid-19 related death amid recent",
+      "bm25_score_raw": 6.036877294778844,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8424803018569946,
+      "embedding_score_norm": 0.06078023033557806,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Delhi records its highest COVID-19 deaths, hospitals swamped",
+      "url": "https://www.reuters.com/world/asia-pacific/delhi-records-its-highest-covid-19-deaths-hospitals-swamped-2020-11-13",
+      "snippet": "Exclusive news, data and analytics for financial market professionals Learn more about Refinitiv. ## Browse World. ## Browse Business. ## Browse Markets. NEW DELHI, Nov 13 (Reuters) - Delhi's COVID-19 deaths rose by a record high on Thursday and it also reported the most number of infections in India, an increase attributed to the city's toxic air and a lack of physical distancing in public places around a major festival. Item 1 of 5 Health worker speaks to the relative of a COVID-19 victim, before the cremation in New Delhi, India, November 13, 2020. **[1/5]**Health worker speaks to the relative of a COVID-19 victim, before the cremation in New Delhi, India, November 13, 2020. The Delhi High Court on Thursday ordered, opens new tab 33 of the city's private hospitals to reserve 80% of their critical-care beds for coronavirus patients. *   #### World-Check, opens new tab. *   About Reuters, opens new tab. *   Media Center, opens new tab.",
+      "bm25_score_raw": 0.9195343566489232,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8376111388206482,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6
+    }
+  ]
+}

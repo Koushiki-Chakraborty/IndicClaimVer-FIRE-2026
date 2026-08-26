@@ -1,0 +1,6 @@
+{
+  "ID": "S2/T/EN/1281",
+  "Evidence": "Currently, the second dose of Covishield is administered 12-16 weeks after the first dose, as stated by the Ministry of Health and Family Welfare (Source 3). This gap was revised from an earlier recommendation of 6-8 weeks based on emerging evidence that indicated increased efficacy with a longer interval (Source 3). The recommendation for the 12-16 week gap was made by the National Technical Advisory Group on Immunisation (NTAGI) and supported by data showing improved vaccine efficacy when doses are spaced further apart (Source 3).",
+  "Prediction": "REFUTES",
+  "Justification": "The retrieved evidence clearly states that the second dose of Covishield is currently given 12-16 weeks after the first dose, contradicting the claim that it can be taken 8-16 weeks after the first dose. Source 3 explicitly mentions that there has been no change to this gap, confirming that the minimum interval is 12 weeks."
+}

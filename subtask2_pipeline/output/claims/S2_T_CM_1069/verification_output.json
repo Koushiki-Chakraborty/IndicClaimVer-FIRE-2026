@@ -1,0 +1,6 @@
+{
+  "ID": "S2/T/CM/1069",
+  "Evidence": "Disaster Unemployment Assistance (DUA) ek federal program hai jo un logon ko temporary benefits provide karta hai jinki employment ya self-employment major disaster ke direct result mein khatam ho gayi hai aur jo regular unemployment insurance ke liye eligible nahi hain (Source 3). DUA ke liye eligibility tab hoti hai jab kisi ne employment khoya ho ya unki employment disaster ke wajah se interrupt hui ho (Source 2). DUA ka purpose hai un logon ki madad karna jo disaster ke wajah se unemployed hain (Source 1).",
+  "Prediction": "SUPPORTS",
+  "Justification": "Retrieved evidence se yeh pata chalta hai ki Disaster Unemployment Assistance (DUA) un logon ke liye hai jo economic disaster ke baad bhi unemployed hain aur jo regular unemployment benefits ke liye qualify nahi karte. Iska matlab hai ki economic disaster ke baad bhi logon ko financial support milta hai, jo claim ke assertion ko support karta hai. Evidence mein DUA ke eligibility criteria aur purpose clearly mention kiye gaye hain, jo claim ko corroborate karte hain."
+}

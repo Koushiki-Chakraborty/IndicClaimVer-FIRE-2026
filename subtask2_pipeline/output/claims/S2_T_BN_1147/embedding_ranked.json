@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/BN/1147",
+    "text": "'ধর্ষক তোর বাড়ির কেউ ?' আরজি কর কাণ্ডে মালদা তৃণমূল সভাপতিকে প্রশ্ন শতরূপের",
+    "lang": "bengali"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "violence | 'TMC link' to Jhargram gun threat, Malda firing - Telegraph India",
+      "url": "https://telegraphindia.com/west-bengal/tmc-link-to-jhargram-gun-threat-malda-firing-prnt/cid/2118800",
+      "snippet": "Title: violence | 'TMC link' to Jhargram gun threat, Malda firing - Telegraph India\n* 'TMC link' to Jhargram gun threat, Malda firing. ## In Jhargram, a student grabbed an illegal firearm of his father, allegedly a local Trinamool worker, in a bid to attack his teacher who had recently rebuked him over studies. In Malda, a Class XII student was allegedly shot at by a Trinamool youth worker. Two separate incidents on Monday involving guns in Jhargram and Malda districts have hinted that a section of Trinamool workers possess illegal firearms. In the Jhargram case, sources said that the student got hold of his father’s gun and went to the school to “teach a lesson” to the teacher. When he was dissuaded by other students from pursuing his revenge agenda, he left the school and walked towards the teacher’s house, but was intercepted by some people. In due course, the police recovered the gun. The boy was produced before the juvenile justice board of the district on Tuesday and sent to a state-run home for boys. The boy admitted it was his father’s pistol. The father has gone into hiding as the firearm was illegal. Jhargram BJP alleged that the boy’s father was a local Trinamool leader. “He is a Trinamool leader with an illegal firearm. Trinamool cannot evade its responsibility,” said Debasish Kundu, a vice-president of the BJP in Jhargram. Dulal Murmu, the district Trinamool president, said they need to inquire whether the boy’s father was associated with the party. I was surprised to learn that the boy carried a gun to his school. In Malda, Abdul Sahid, 18, a student of the Bangitola High School in Panchanandapur, was reportedly shot at by Nasiruddin Ahmed aka Raj, late on Monday evening. During primary investigation, the police found that Abdul and Nasiruddin had a fight over a cellphone-related issue, which resulted in the firing that injured the student. Late at night, as his condition deteriorated, he was referred to Calcutta’s SSKM hospital,” said Tahir Sheikh, Sahid’s father. District BJP leaders alleged that Nasiruddin had a criminal background, but no steps were taken against him as he was close to Tahidur Sheikh, the Trinamool youth president of Kaliachak-II block.",
+      "bm25_score_raw": 0.22188122158903875,
+      "bm25_score_norm": 0.03279070935358781,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.8474693298339844,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Panchayat poll violence: Trinamool leader murdered in Malda",
+      "url": "https://thehawk.in/news/india/panchayat-poll-violence:-trinamool-leader-murdered-in-malda",
+      "snippet": "Title: Panchayat poll violence: Trinamool leader murdered in Malda\n# Panchayat poll violence: Trinamool leader murdered in Malda. Jun 17, 2023, 02:29 PM. **Kolkata:** A Trinamool Congress leader -- the husband of a former panchayat member of the party, has been murdered in broad daylight at Sujapur in West Bengal's Malda district on Saturday. The deceased has been identified as Mustafa Sheikh. The Trinamool Congress has accused the Congress workers of carrying out the assassination. To protest the killing, the Trinamool Congress workers blocked National Highway 34 along with Sheikh's body. West Bengal cabinet minister from Malda district, Sabina Yeasmin, later visited the spot. The State Election Commission has sought a detailed report from the district magistrate and district police superintendent of Malda over the incident. Yeasmin told mediapersons that on Saturday afternoon, when Sheikh was returning home after Namaaz, he was attacked by a group of people associated with Congress. \"The local residents have identified the assassins. Police should arrest them immediately,\" she said. The Congress, however, denied the allegations and claimed that this murder was a result of infighting in the ruling party in the area. This is the seventh killing in connection with the poll-related violence since the panchayat election dates were announced by the State Election Commission on June 8. The polling is scheduled to be held on July 8. The votes will be counted on July 11. ## Related posts. ## More from author.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.8278380632400513,
+      "embedding_score_norm": 0.695559257047676,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Abhishek Banerjee Malda migrant workers anti-Bengali BJP attack | Abhishek Banerjee guns for Congress, TMC MP takes migrant issue up a notch in Malda - Telegraph India",
+      "url": "https://telegraphindia.com/west-bengal/abhishek-banerjee-guns-for-congress-tmc-mp-takes-migrant-issue-up-a-notch-in-malda-prnt/cid/2141774",
+      "snippet": "Title: Abhishek Banerjee Malda migrant workers anti-Bengali BJP attack | Abhishek Banerjee guns for Congress, TMC MP takes migrant issue up a notch in Malda - Telegraph India\n* Abhishek Banerjee guns for Congress, TMC MP takes migrant issue up a notch in Malda. # Abhishek Banerjee guns for Congress, TMC MP takes migrant issue up a notch in Malda. ## On the second day of his north Bengal tour, Abhishek spoke at a public meeting at the Jalanga Ground in Old Malda — which Trinamool termed as an interaction with migrant workers — and launched a scathing attack on the BJP and the Congress. Abhishek Banerjee consoles a migrant worker at the public meeting in Malda on Tuesday. Abhishek Banerjee consoles a migrant worker at the public meeting in Malda on Tuesday. Trinamool Congress MP and national general secretary Abhishek Banerjee on Thursday tore into the saffron ecosystem's alleged “anti-Bengali” narrative while stressing the harassment and torture faced by Bengal's migrant workers in BJP-ruled states to drum up support in Malda. On the second day of his north Bengal tour, Abhishek spoke at a public meeting at the Jalanga Ground in Old Malda — which Trinamool termed as an interaction with migrant workers — and launched a scathing attack on the BJP and the Congress. “BJP legislators from Malda remained mute spectators and did not reach out to any migrant worker who faced torture in other states only because they speak Bengali. This time, we will have to politically obliterate the BJP from Malda by confirming Trinamool’s win in all 12 seats,” said Abhishek. Political observers pointed out that Abhishek’s remarks on Thursday against the Congress — which like Trinamool is a constituent of the INDIA bloc — came a few days after Mausam Benazir Noor, a Rajya Sabha member of Trinamool from Malda, defected to the Congress. On Wednesday, Abhishek raised the issue of migrant workers' torture during his visit to South Dinajpur, the home turf of Union minister of state and former state BJP president Sukanta Majumdar. Assembly Elections   Abhishek Banerjee   TMC   BJP   Migrant Workers   Violence. US President Donald Trump holds a press briefing at the White House, following a shooting incident during the annual White House Correspondents’ Association dinner, in Washington, D.C., US, April 25, 2026.",
+      "bm25_score_raw": 1.322146578472272,
+      "bm25_score_norm": 0.19539339051334392,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.8277860879898071,
+      "embedding_score_norm": 0.6947532273539857,
+      "embedding_rank": 3
+    },
+    {
+      "title": "2 Dead As Trinamool Groups Clash At Kangaroo Court Meet In Bengal's Malda",
+      "url": "https://www.ndtv.com/india-news/trinamool-factions-clash-at-kangaroo-court-meet-in-bengals-malda-1-dead-9715127",
+      "snippet": "News India News 2 Dead As Trinamool Groups Clash At Kangaroo Court Meet In Bengal's Malda. # 2 Dead As Trinamool Groups Clash At Kangaroo Court Meet In Bengal's Malda. ## Sticks and swords flew in West Bengal's Malda as two Trinamool Congress factions clashed at a kangaroo court meeting on Thursday, leading to the death of one party worker. * Nov 28, 2025 17:49 pm IST. + Published On Nov 28, 2025 14:38 pm IST. + Last Updated On Nov 28, 2025 17:49 pm IST. Sticks and swords flew in West Bengal's Malda as two Trinamool Congress factions clashed at a kangaroo court meeting convened by the local panchayat on Thursday, leading to the death of two party workers. The clash allegedly occurred as tempers escalated during an arbitration meeting over a dispute that began when a vehicle was driven through agricultural land in the district. This meeting was called after the 45-year-old Ekramul Sheikh, one of those who died in the clashes, approached the police about the dispute with TMC booth president Shamsul Sheikh, but a complaint was not filed. A kangaroo court meeting was then called, where Shamsul Sheikh was asked to do sit-ups while holding his ears. Six party workers were injured in the clashes between the two factions. One of the injured, identified as Badshah Sheikh, died during treatment. Police have been deployed in the area and investigation is underway. Politics erupted over the incident, with the BJP hitting out at the lawlessness in the district. Malda District BJP General Secretary Biswajit Roy said, \"Since Trinamool Congress came to power, there is no such thing as police administration. The police are busy protecting their offices. So instead of a police station, a kangaroo court was convened to resolve local issues. Malda District Trinamool Congress General Secretary Biswajit Ghosh said the incident was not a fallout of the party's infighting. It has no connection with politics. Whenever something happens, the BJP associates the name of Trinamool Congress with it. The police will definitely take action,\" he said. Track Latest News Live on NDTV.com and get news updates from India and around the world. West Bengal, Malda Clashes, West Bengal Clashes.",
+      "bm25_score_raw": 0.22365682377131885,
+      "bm25_score_norm": 0.033053116666247113,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.8239565491676331,
+      "embedding_score_norm": 0.6353649225490504,
+      "embedding_rank": 4
+    },
+    {
+      "title": "'ধর্ষক তোর বাড়ির কেউ ?' আরজি কর কাণ্ডে মালদা তৃণমূল সভাপতিকে প্রশ্ন শতরূপের",
+      "url": "https://www.etvbharat.com/amp/bn/!state/cpim-leader-shatarup-ghosh-slams-malda-tmc-district-president-abdur-rahim-bakshi-west-bengal-news-wbs24102201783",
+      "snippet": "মালদা, 22 অক্টোবর: আরজি করের তরুণী চিকিৎসক ধর্ষণ ও খুনের ঘটনায় আন্দোলনকারীদের গণধোলাই দেওয়ার হুমকি দিয়েছিলেন মালদার জেলা তৃণমূল সভাপতি আবদুর রহিম বকসি ৷ এই অভিযোগের পালটা জেলা তৃণমূল",
+      "bm25_score_raw": 6.766588035545547,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8231884837150574,
+      "embedding_score_norm": 0.6234538002636235,
+      "embedding_rank": 5
+    },
+    {
+      "title": "RG Kar News: 'রাস্তায় ফেলে পেটাতে পারতাম'! রাত দখলকারীদের হুমকি আরও এক ...",
+      "url": "https://bengali.abplive.com/district/rg-kar-protest-malda-tmc-leader-dulal-sarkar-threats-to-protestors-1094069/amp",
+      "snippet": "ফের তৃণমূলের নিশানায় আর জি কর-কাণ্ডের প্রতিবাদে রাস্তায় নামা আন্দোলনকারীরা। বিরোধীদের চামড়া গুটিয়ে দেওয়া থেকে শুরু করে আন্দোলনকারীদের সিপিএম-বিজেপি বলে দাগিয়ে রাস্তায় ফেলে পেটানোর হুমকি দিলেন মালদার তৃণমূল জেলা সভাপতি",
+      "bm25_score_raw": 4.446856624356254,
+      "bm25_score_norm": 0.6571785663611384,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8159505128860474,
+      "embedding_score_norm": 0.511207694995406,
+      "embedding_rank": 6
+    },
+    {
+      "title": "Lakshmir Bhandar scheme | Malda: Trinamool Congress holds events to celebrate hike in Lakshmir Bhandar allowance - Telegraph India",
+      "url": "https://telegraphindia.com/west-bengal/malda-trinamool-congress-holds-events-to-celebrate-hike-in-lakshmir-bhandar-allowance/cid/2013602",
+      "snippet": "Title: Lakshmir Bhandar scheme | Malda: Trinamool Congress holds events to celebrate hike in Lakshmir Bhandar allowance - Telegraph India\nNews   Places   People   Lifestyle   Happenings   Food   Puja   Try This   Durga Puja 2025. News   Career   Campus   18 Under 18   Colleges   Workshops   Brightminds. Bob Dylan@80   Heritage   Travel   Style   People   Books   Food   Arts   Music. regular-article-logo  Sunday, 26 April 2026. * Malda: Trinamool Congress holds events to celebrate hike in Lakshmir Bhandar allowance. # Malda: TMC holds events to celebrate hike in Lakshmir Bhandar allowance. ## In Mothabari, around 1,000 women joined the celebrations and hailed chief minister Mamata Banerjee for the increased dole. Women leaders of the Trinamul Congress in Malda district on Monday converged at four places and organised programmes to celebrate the increase in the monthly financial assistance provided under the Lakshmir Bhandar scheme. The district has two Lok Sabha seats where elections will be held on May 7. “From April, the monthly assistance has increased to Rs 1,000 from Rs 500 for women in the general category and to Rs 1,200 from Rs 1,000 for SC/ST women. why we thought of organising the celebrations,” said Sabina Yeasmin, a minister of. state and a Trinamul MLA, who arranged such an event in Mothabari, her Assembly constituency. In Mothabari, around 1,000 women joined the celebrations and hailed chief minister Mamata Banerjee for the increased dole. “The decision to double the assistance (from Rs 500 to Rs 1,000) will definitely help us in the elections. We came here to thank the chief minister,” said Sumita Mandal, a beneficiary of the scheme. Her husband, she said, is a day wage earner and makes around Rs 300 a day. Like Mothabari, celebrations were also held at Gazole, Englishbazar and Ratua in. Lakshmir Bhandar Scheme   Trinamul Congress (TMC). # Delhi-Zurich flight aborted after engine failure sparks fire, six injured in evacuation. The plane was evacuated on the runway at the Indira Gandhi International Airport early Sunday, the Economic Times reported. * ## Job toll and dole: Careers in Kolkata seem gloomy, youth move out for better prospects. US President Donald Trump holds a press briefing at the White House, following a shooting incident during the annual White House Correspondents’ Association dinner, in Washington, D.C., US, April 25, 2026. * ## Trump safe after being evacuated from White House correspondents' dinner, shooter held.",
+      "bm25_score_raw": 1.7664377189659595,
+      "bm25_score_norm": 0.26105294273667756,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8103879690170288,
+      "embedding_score_norm": 0.4249440308509714,
+      "embedding_rank": 7
+    },
+    {
+      "title": "RG Kar News: ফের আর জি করের ডাক্তারি পড়ুয়ার রহস্যমৃ*ত্যু ...",
+      "url": "https://www.youtube.com/watch?v=MN-HYJ9SzjM",
+      "snippet": "RG Kar News: অসুস্থ হয়ে ভর্তি হয়েছিলেন মালদহ মেডিক্যাল কলেজে Mysterious death of RG Kar medical student! The family files a complaint against the lover,",
+      "bm25_score_raw": 3.0108745311334637,
+      "bm25_score_norm": 0.4449619978809181,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8089558482170105,
+      "embedding_score_norm": 0.40273477001347696,
+      "embedding_rank": 8
+    },
+    {
+      "title": "Trinamool worker shot dead in Malda, second party leader killed in a month - The Hindu",
+      "url": "https://www.thehindu.com/news/national/west-bengal/trinamool-worker-shot-dead-in-malda-second-party-leader-killed-in-a-month/article69098802.ece",
+      "snippet": "The View From India Looking at World Affairs from the Indian perspective.SEE ALL NEWSLETTERS. First Day First Show News and reviews from the world of cinema and streaming.SEE ALL NEWSLETTERS. Today's Cache Your download of the top 5 technology stories of the day.SEE ALL NEWSLETTERS. The Hindu On Books Books of the week, reviews, excerpts, new titles and features.SEE ALL NEWSLETTERS. India World Movies Sport Data Health Opinion Science Business Premium. eBooks Crossword Newsletter Lit For Life The Huddle. # Trinamool worker shot dead in Malda, second party leader killed in a month. ## This is the second incident of a Trinamool Congress activist being killed in a month publicly in Malda district. A Trinamool Congress worker was killed and two other party supporters sustained bullet injuries at Kaliachak in Malda district on Tuesday (January 14, 2025). The firing occurred at about 9 a.m. in the Kaliaganj area under the Kaliachak police station limits when Trinamool Congress local committee president Bakul Sheikh and other party workers were attending a programme on the inauguration of a road. Arrest of Trinamool leader in party councillor’s murder raises questions on factionalism. This is the second incident of a Trinamool Congress activist being killed in a month publicly in Malda district. The incident occured 12 days after Trinamool Congress councillor Dulal Sarkar was shot dead in Englishbazar in Malda district. The MLA said that the rise in the violence is because of factional fights within Trinamool Congress in the regime. ****Also read | Trinamool councillor shot dead in Malda; Mamata sees ‘police negligence’****. The Malda police have arrested seven persons in the murder of Dulal Sheikh. The supporters of the deceased leader said that the assailants were acting under the direction of Trinamool Congress worker Zakir Sheikh. West Bengal / All India Trinamool Congress / crime / murder. * Access to comment on every story. ### Comments. If you are already a registered user of The Hindu and logged in, you may continue to engage with our articles. If you do not have an account please register and login to post comments. Users can access their older comments by logging into their accounts on Vuukle.",
+      "bm25_score_raw": 1.6924793401174738,
+      "bm25_score_norm": 0.2501230060448064,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8068584203720093,
+      "embedding_score_norm": 0.370207959358356,
+      "embedding_rank": 9
+    },
+    {
+      "title": "এবার ঘরে ঢুকে গৃহবধূকে ধর্ষণ! আরজি কর আবহে আরও এক সিভিক ভলান্টিয়ারের বিরুদ্ধে ...",
+      "url": "https://www.thewall.in/amp/west-bengal/malda-civic-volunteer-incident/tid/141462",
+      "snippet": "দ্য ওয়াল ব্যুরো: আরজি কর কণ্ডের আবহেই ফের ধর্ষণে নাম জড়াল আরও এক সিভিক ভলান্টিয়ারের। এবার বাড়িতে ঢুকে গৃহবধূকে ধর্ষণের অভিযোগ উঠল মালদার জেলা পুলিশের ওই সিভিকের বিরুদ্ধে।",
+      "bm25_score_raw": 1.9143239317300969,
+      "bm25_score_norm": 0.2829083020384818,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.7984775304794312,
+      "embedding_score_norm": 0.2402375199427645,
+      "embedding_rank": 10
+    },
+    {
+      "title": "বিষ খাইয়ে খুন? আরজি করের মেডিক্যাল পড়ুয়ার রহস্যমৃত্যু, অভিযুক্ত মালদা ...",
+      "url": "https://eisamay.com/amp/story/west-bengal-news/north-bengal-news/rg-kar-medical-college-female-student-mysteriously-died-at-malda-case-investigated-by-police/200415886.cms",
+      "snippet": "আরজি করের মেডিক্যাল পড়ুয়ার রহস্যমৃত্যু, অভিযুক্ত মালদা হাসপাতালের চিকিৎসক ... আরজি কর হাসপাতালের তরুণী চিকিৎসকের ধর্ষণ ও খুনের ঘটনার এখনও তদন্ত শেষ হয়নি।",
+      "bm25_score_raw": 4.395367322329787,
+      "bm25_score_norm": 0.6495692214806773,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.7909780144691467,
+      "embedding_score_norm": 0.1239353845186838,
+      "embedding_rank": 11
+    },
+    {
+      "title": "যৌন হেনস্থার অভিযোগ প্রত্যাহার না করলে আরজি করের ঘটনা ঘটবে! মালদহে হুমকি ...",
+      "url": "https://www.anandabazar.com/amp/west-bengal/north-bengal/malda-woman-molested-due-to-family-disputes-threatened-to-take-complaint-back-reminded-of-rg-kar-incident-dgtld/cid/1544355",
+      "snippet": "প্রথমে পারিবারিক বিবাদের জেরে বধূকে যৌন হেনস্থা। ঘটনার পর নির্যাতিতা থানায় অভিযোগ দায়ের করলে ফের বাড়িতে চড়াও হয়ে আরজি কর-কাণ্ডের ধাঁচে ধর্ষণ-খুনের হুমকি! এমনই ঘটনা ঘটেছে মালদহের চাঁচলে।",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.7829862833023071,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

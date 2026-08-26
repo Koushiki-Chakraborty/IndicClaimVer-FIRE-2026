@@ -1,0 +1,76 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1123",
+    "text": "Rajnath Singh is a leader without any policy, says Ajit Singh",
+    "lang": "english"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Modi is a leader without any policy, says Ajit Singh | National",
+      "url": "https://www.indiatvnews.com/politics/national/modi-is-a-leader-without-any-policy-says-ajit-singh-16311.html",
+      "snippet": "Rajnath Singh today filed. Modi is a leader without any policy, says Ajit Singh. BJP President Rajnath Singh today filed his nomination papers",
+      "bm25_score_raw": 7.482750637217448,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9357600212097168,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Defence Minister Rajnath Singh has... - The State Sentinel",
+      "url": "https://www.facebook.com/statesentinelnews/posts/defence-minister-rajnath-singh-has-said-that-from-a-policy-of-zero-tolerance-aga/1316335184019290",
+      "snippet": "## The State Sentinel's post. ### **The State Sentinel**. Defence Minister Rajnath Singh has said that from a policy of zero tolerance against terrorism to decisive actions such as Surgical Strikes, Balakot and Operation Sindoor, India has sent a clear message that its sovereignty is non-negotiable. In a social media post, Mr Singh noted that India has witnessed a historic transformation in its national security architecture under the astute leadership of Prime Minister Narendra Modi. He added that the Country’s resolve for Aatmanirbharta in Defence has strengthened indigenous capabilities, modernised the Armed Forces and enhanced preparedness across land, sea, air, cyber and space domains. The Defence Minister underlined that the journey of the last 12 years reflects a stronger, safer, self-reliant and more confident India, ready to safeguard its national interests and emerge as a leading global power. May be an image of text that says. Is ke bus ka kuch nahi hain koi power nahi hain.",
+      "bm25_score_raw": 3.303330842267765,
+      "bm25_score_norm": 0.19335143190812204,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8630706071853638,
+      "embedding_score_norm": 0.3020355859828612,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Ajit Singh (politician, born 1939) - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ajit_Singh_(politician,_born_1939)",
+      "snippet": "* Edit&action=edit \"Edit this page [e]\"). | Union Minister of Civil Aviation \"Ministry of Civil Aviation (India)\") |. **Ajit Singh** (12 February 1939 – 6 May 2021) was an Indian politician, farmer leader, and founder of the Rashtriya Lok Dal (RLD), a regional political party rooted in Uttar Pradesh and Rajasthan, dedicated to advocating farmers’ rights and rural interests. Singh entered the Rajya Sabha in 1986 and later represented Baghpat in the Lok Sabha across seven terms between 1989 and 2014, navigating multiple party affiliations including the Janata Dal, Lok Dal (Ajit), and eventually Rashtriya Lok Dal, which he established in 1996. He held several Union cabinet positions - Minister of Industry \"Ministry of Commerce and Industry (India)\") (1989–1990), Minister of Food (1995–1996), Minister of Agriculture (2001–2003), and Minister of Civil Aviation \"Ministry of Civil Aviation (India)\") (2011–2014)- reflecting his influence in both economic and rural policy domains.",
+      "bm25_score_raw": 3.4826610952395693,
+      "bm25_score_norm": 0.2279630523895247,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8612436652183533,
+      "embedding_score_norm": 0.2844932726135363,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Rajnath Singh | Indian BJP Politician, Biography, & Facts",
+      "url": "https://www.britannica.com/biography/Rajnath-Singh",
+      "snippet": "Rajnath SinghIndia's defense minister, Rajnath Singh, during a meeting with Australian officials in New Delhi, November 20, 2023.(more). # Rajnath Singh. Rajnath Singh, born on July 10, 1951, is an Indian politician and a significant figure in the Bharatiya Janata Party (BJP). In 1994, he became a member of the Rajya Sabha, and in 1997, he was appointed president of the Uttar Pradesh branch of the BJP. He served as the minister of Surface Transport in 1999 and as the chief minister of Uttar Pradesh in 2000. In 2014, he was elected to the Lok Sabha and became the minister of home affairs in Narendra Modi's cabinet, a position he held until 2019. Rajnath Singh is a prominent figure in the Bharatiya Janata Party (BJP), also known as the Indian People’s Party. **Rajnath Singh** (born July 10, 1951, Chandauli, Uttar Pradesh, India) is an Indian politician, government official, and a major figure in the Bharatiya Janata Party (BJP; Indian People’s Party) who has served as minister of defense since 2019.",
+      "bm25_score_raw": 2.3015354708209173,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8451907634735107,
+      "embedding_score_norm": 0.13035316418096668,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Rajnath Singh - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Rajnath_Singh",
+      "snippet": "Defense Minister of India since 2019. | 29th Union Minister of Defence \"Minister of Defence (India)\") |. | 30th Union Minister of Home Affairs \"Minister of Home Affairs (India)\") |. **Rajnath Singh** (Hindi pronunciation:  ⓘ; born 10 July 1951) is an Indian politician and lecturer who has served as the 29th Minister of Defence \"Minister of Defence (India)\") since 2019 and as the Deputy Leader of the House, Lok Sabha since 2014. He previously served as the 25th Union Minister of Home Affairs \"Minister of Home Affairs (India)\") in the first Modi ministry from 2014 to 2019, making him the first person born after Indian independence to hold the office. Singh previously served as the chief minister of Uttar Pradesh from 2000 to 2002 and a Cabinet Minister for Road Transport and Highways in the Vajpayee Government from 1999 to 2000 and the minister of Agriculture from 2003 to 2004. He was also a member of Rajya Sabha from 2002 to 2008 and from 1994 to 2001.",
+      "bm25_score_raw": 2.7792942969222887,
+      "bm25_score_norm": 0.09220980228729753,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8427420854568481,
+      "embedding_score_norm": 0.10684093561293934,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Defence Minister Rajnath Singh stated that under the ...",
+      "url": "https://www.facebook.com/DDNews/posts/defence-minister-rajnath-singh-stated-that-under-the-leadership-of-prime-ministe/1471525778335639",
+      "snippet": "India's commitment to strengthening its defence infrastructure while maintaining a trust-based, non- aggressive defence policy.",
+      "bm25_score_raw": 2.485307690823985,
+      "bm25_score_norm": 0.03546894195688824,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.831615149974823,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6
+    }
+  ]
+}

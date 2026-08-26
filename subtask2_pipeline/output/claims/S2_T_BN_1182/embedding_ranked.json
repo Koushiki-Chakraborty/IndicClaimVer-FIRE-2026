@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/BN/1182",
+    "text": "পার্থ জামিন পেলেও দলে যোগ দেবেন না বলে জানিয়েছেন বিচারপতি - Calcutta High Court",
+    "lang": "bengali"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Justice Partha Sarathi Chatterjee of the Calcutta High ...",
+      "url": "https://x.com/LawChakra/status/1930518692267233425",
+      "snippet": "Justice Partha Sarathi Chatterjee of the Calcutta High Court is facing a wave of online abuse and death threats after denying bail to social",
+      "bm25_score_raw": 3.883385184056671,
+      "bm25_score_norm": 0.5251951175766479,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8660176992416382,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "The Calcutta High Court on Tuesday refused to grant interim ...",
+      "url": "https://www.instagram.com/reel/DKcTegMPCG5?hl=en",
+      "snippet": "The Calcutta High Court on Tuesday refused to grant interim bail to Sharmistha Panoli, observing that “Freedom of speech doesn't mean you will go on to hurt",
+      "bm25_score_raw": 4.075955997225521,
+      "bm25_score_norm": 0.5642583143690988,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8644737601280212,
+      "embedding_score_norm": 0.9744044031185463,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Calcutta High Court Denies Bail to Bengal Poll Candidate ...",
+      "url": "https://www.facebook.com/thelocaljournalist/posts/calcutta-high-court-denies-bail-to-bengal-poll-candidate-over-attack-on-judges-i/1404592408356529",
+      "snippet": "Calcutta High Court Denies Bail to Bengal Poll Candidate Over Attack on Judges in SIR Drive: Calcutta High Court on May 20, 2026 denied bail",
+      "bm25_score_raw": 5.062630200449143,
+      "bm25_score_norm": 0.7644062388459193,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8486068248748779,
+      "embedding_score_norm": 0.7113605596782641,
+      "embedding_rank": 3
+    },
+    {
+      "title": "𝐂𝐚𝐥𝐜𝐮𝐭𝐭𝐚 𝐇𝐢𝐠𝐡 𝐂𝐨𝐮𝐫𝐭 𝐨𝐧 𝐁𝐚𝐢𝐥 𝐎𝐫𝐝𝐞𝐫𝐬 The ...",
+      "url": "https://www.instagram.com/p/DVs_3wWDZmX",
+      "snippet": "The Calcutta High Court recently held that a bail order must carry the Magistrate's full and legible signature, emphasizing that initials alone",
+      "bm25_score_raw": 3.225746676392374,
+      "bm25_score_norm": 0.3917924382170348,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.8328953981399536,
+      "embedding_score_norm": 0.4508947540044071,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Calcutta High Court: নতুন প্রধান বিচারপতি হিসেবে শপথগ্রহণ ...",
+      "url": "https://www.youtube.com/watch?v=iYbUjkCmvC4",
+      "snippet": "কলকাতা হাইকোর্টের নতুন প্রধান বিচারপতি হিসেবে শপথগ্রহণ করলেন বিচারপতি সুজয় পাল । #JusticeSujoyPaul #ChiefJustice #CalcuttaHighCourt #DDBanglaNews.",
+      "bm25_score_raw": 2.0791886562807003,
+      "bm25_score_norm": 0.1592119093374386,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.8246909379959106,
+      "embedding_score_norm": 0.31488028774419224,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Calcutta High Court: কেজরীওয়াল জামিন পেলে পার্থ কেন নয়? ...",
+      "url": "https://tv9bangla.com/kolkata/in-calcutta-high-court-cbi-advocate-address-partha-chatterjee-as-a-king-maker-1141819.html",
+      "snippet": "Dec 10, 2024 — Partha Chatterjee: এ দিন আদালতে পার্থর আইনজীবী সওয়াল করেন, \"অরবিন্দ কেজরিওয়াল পার্থ চট্টোপাধ্যায়ের থেকে অনেক বেশি ক্ষমতাশালী। তাও তাকে জামিন দেওয়া হয়েছে। পার্থ চট্টোপাধ্যায় তো এখন পার্টিরও সদস্য ...Read more",
+      "bm25_score_raw": 3.8365943582354567,
+      "bm25_score_norm": 0.5157035481790948,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8244338631629944,
+      "embedding_score_norm": 0.3106184721494847,
+      "embedding_rank": 6
+    },
+    {
+      "title": "Calcutta High Court - Judges",
+      "url": "https://www.calcuttahighcourt.gov.in/Judges/CJ-and-Judges",
+      "snippet": "Appointed as Permanent Judge of the High Court at Calcutta on August 26, 2025. The Hon'ble Justice Partha Sarathi Sen. Time Period:31-Aug-2022 to Present Judge.",
+      "bm25_score_raw": 6.224042626677323,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8230553865432739,
+      "embedding_score_norm": 0.2877659311666881,
+      "embedding_rank": 7
+    },
+    {
+      "title": "Calcutta High Court-এর নতুন ভারপ্রাপ্ত প্রধান বিচারপতি ...",
+      "url": "https://www.facebook.com/News18Bangla/videos/calcutta-high-court-%E0%A6%8F%E0%A6%B0-%E0%A6%A8%E0%A6%A4%E0%A7%81%E0%A6%A8-%E0%A6%AD%E0%A6%BE%E0%A6%B0%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AA%E0%A7%8D%E0%A6%A4-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A7%E0%A6%BE%E0%A6%A8-%E0%A6%AC%E0%A6%BF%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A6%AA%E0%A6%A4%E0%A6%BF-%E0%A6%B9%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A7%87%E0%A6%A8-justice-tapabrata-/2514496668985402",
+      "snippet": "তিনি আপাতত ভারপ্রাপ্ত প্রধান বিচারপতির দায়িত্ব সামলাবেন. কলকাতা হাইকোর্টের. অর্থাৎ সুজয় পাল অবসর নেওয়ার পর সেই জায়গায় তপব্রত চক্রবর্তী ভারপ্রাপ্ত হিসেবে আপাতত কাজ চালাবেন কলকাতা হাইকোর্টের প্রধান মন্ত্রী.Read more",
+      "bm25_score_raw": 1.7599198768328579,
+      "bm25_score_norm": 0.09444789366949193,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.8162899613380432,
+      "embedding_score_norm": 0.17560794853805792,
+      "embedding_rank": 8
+    },
+    {
+      "title": "Partha Chatterjee: পার্থর জামিনের আর্জি খারিজ হয়ে গেল ফের ...",
+      "url": "https://bengali.abplive.com/district/partha-chatterjees-bail-plea-rejected-in-calcutta-high-court-1111962",
+      "snippet": "Dec 24, 2024 — Source : ফাইল চিত্র। কলকাতা: বিড়ম্বনা বাড়ল পার্থ চট্টোপাধ্যায়ের। হাইকোর্টে পার্থ-সহ পাঁচ জনের জামিনের আবেদন খারিজ। পার্থ চট্টোপাধ্যায়দের জামিনের আবেদন ...Read more",
+      "bm25_score_raw": 2.0054449955616955,
+      "bm25_score_norm": 0.14425292836072962,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.8127123117446899,
+      "embedding_score_norm": 0.11629726978982421,
+      "embedding_rank": 9
+    },
+    {
+      "title": "Calcutta High Court Questions Ritabrata Banerjee's LoP ...",
+      "url": "https://www.youtube.com/watch?v=yZqnE1TqaZs",
+      "snippet": "Calcutta High Court questioned the recognition of rebel MLA Ritabrata Banerjee as Leader of Opposition in the West Bengal Assembly.",
+      "bm25_score_raw": 4.164595446860558,
+      "bm25_score_norm": 0.5822389221657327,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8107998371124268,
+      "embedding_score_norm": 0.08459204948567701,
+      "embedding_rank": 10
+    },
+    {
+      "title": "Calcutta HC grants interim bail to TMC leaders under ...",
+      "url": "https://theleaflet.in/analysis/calcutta-hc-grants-interim-bail-to-tmc-leaders-under-shadow-of-justice-sinhas-scathing-letter-imploring-high-court-to-get-its-act-together",
+      "snippet": "The grant of bail is subject to the TMC leaders submitting a personal bond of Rs. 2 lakh and two sureties each. The TMC leaders must also give",
+      "bm25_score_raw": 1.2943177454288537,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.8070517778396606,
+      "embedding_score_norm": 0.022456299838934397,
+      "embedding_rank": 11
+    },
+    {
+      "title": "Partha Pratim Mondal - advocate, Calcutta High Court",
+      "url": "https://in.linkedin.com/in/partha-pratim-mondal-800325255",
+      "snippet": "Advocate at advocate, Calcutta High Court · Experience: advocate, Calcutta High Court · Location: 700014. View Partha Pratim Mondal's profile on LinkedIn,",
+      "bm25_score_raw": 4.72446684493299,
+      "bm25_score_norm": 0.6958094380787105,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8056972026824951,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

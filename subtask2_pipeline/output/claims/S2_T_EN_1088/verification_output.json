@@ -1,0 +1,6 @@
+{
+  "ID": "S2/T/EN/1088",
+  "Evidence": "Lucknow recorded a significant spike in Covid-19 cases, with 200 new infections reported in 24 hours, marking the highest single-day increase in over a year. This surge raised the active cases to 571. The positivity rate has also increased significantly, from 0.6 to 4.3. Source 1 confirms the spike and the number of cases. Source 3 mentions a surge in cases and the declaration of containment zones, indicating a broader issue in the city. Source 2, however, reports only 6 fresh cases in a different timeframe, which does not support the claim of 169 infections in 24 hours.",
+  "Prediction": "REFUTES",
+  "Justification": "The retrieved evidence shows that Lucknow experienced a spike of 200 Covid-19 cases in 24 hours, which contradicts the claim of 169 infections. Source 1 explicitly states the number of new cases as 200, while Source 2 reports only 6 cases in a different context. Therefore, the evidence directly refutes the claim regarding the number of infections."
+}

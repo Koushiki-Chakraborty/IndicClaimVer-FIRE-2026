@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/HI/1230",
+    "text": "क्वारंटीन आइसोलेशन ने मिटाई विराट कोहली और रोहित शर्मा में दूरियां, कोच रवि शास्त्री ने निभाया बूस्टर का रोल",
+    "lang": "hindi"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Quarantine isolation and Ravi Shastri's guidance helped ...",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/england-in-india/quarantine-isolation-and-ravi-shastris-guidance-helped-virat-kohli-and-rohit-sharma-renew-friendship/articleshow/81752004.cms",
+      "snippet": "Quarantine isolation and Ravi Shastri's guidance helped Virat Kohli and Rohit Sharma renew friendship. TWIN TOWERS: Virat Kohli (R) and Rohit",
+      "bm25_score_raw": 7.267798202972038,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9253634214401245,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Quarantine helps Virat Kohli and Rohit Sharma burn old ...",
+      "url": "https://www.crictracker.com/quarantine-helps-virat-kohli-and-rohit-sharma-burn-old-hatches-and-rejuvenate-their-relationship",
+      "snippet": "In the past couple of years, there have been several reports of an alleged rift between Virat Kohli and Rohit Sharma.",
+      "bm25_score_raw": 3.7820947968917347,
+      "bm25_score_norm": 0.4093712795103422,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8909736275672913,
+      "embedding_score_norm": 0.7176842637840335,
+      "embedding_rank": 2
+    },
+    {
+      "title": "'There was a Rohit camp and a Virat camp. Ravi called ...",
+      "url": "https://www.hindustantimes.com/cricket/there-was-a-rohit-sharma-camp-and-a-virat-kohli-camp-ravi-called-them-both-and-said-how-shastri-reacted-to-rift-saga-101675489546085.html",
+      "snippet": "Former India fielding coach R Sridhar, in his book, revealed how things went down between Rohit and Kohli but before it could reach a crescendo, Ravi Shastri",
+      "bm25_score_raw": 2.4419837137310623,
+      "bm25_score_norm": 0.18229857648560216,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8723692297935486,
+      "embedding_score_norm": 0.564955396790213,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Ravi Shastri, other India support staff members to remain in ...",
+      "url": "https://www.youtube.com/watch?v=Q_94eklamck",
+      "snippet": "Ravi Shastri, other India support staff members to remain in isolation as precautionary measure. Virat Kohli & Rohit Sharma's strugges",
+      "bm25_score_raw": 3.162069527074426,
+      "bm25_score_norm": 0.30431221707127726,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.870991587638855,
+      "embedding_score_norm": 0.5536459350184251,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Coronavirus: Virat Kohli, Rohit Sharma Could Be Stranded ...",
+      "url": "https://sports.ndtv.com/cricket/coronavirus-virat-kohli-rohit-sharma-could-be-stranded-when-india-resume-training-2229403",
+      "snippet": "Top Indian players Virat Kohli and Rohit Sharma could be left stranded in pandemic-stricken Mumbai when senior players start training again, an",
+      "bm25_score_raw": 2.211374832088463,
+      "bm25_score_norm": 0.14322347088122667,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8707377314567566,
+      "embedding_score_norm": 0.5515619564052616,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Ravi Shastri has been impressed with recent signs from ...",
+      "url": "https://www.facebook.com/icc/videos/ravi-shastri-has-been-impressed-with-recent-signs-from-virat-kohli-and-rohit-sha/1720527892272636",
+      "snippet": "किंग कोहली और कप्तान शर्मा तैयार, पर जडेजा पर सस्पेंस बरक़रार! ... Ravi Shastri strongly believes Virat Kohli and Rohit Sharma still have the hunger in ODIs to.Read more",
+      "bm25_score_raw": 3.86574896933465,
+      "bm25_score_norm": 0.42354590972913647,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8634827136993408,
+      "embedding_score_norm": 0.4920034232247893,
+      "embedding_rank": 6
+    },
+    {
+      "title": "How Ravi Shastri managed to end rift between Virat Kohli ...",
+      "url": "https://www.firstpost.com/firstcricket/sports-news/this-must-stop-how-ravi-shastri-managed-to-end-rift-between-virat-kohli-and-rohit-sharma-12103832.html",
+      "snippet": "Things between the duo significantly improved once Shastri intervened, and could be seen celebrating the team's success on a regular basis, with",
+      "bm25_score_raw": 2.8950853170262896,
+      "bm25_score_norm": 0.25907355961791845,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.852715790271759,
+      "embedding_score_norm": 0.4036146435339658,
+      "embedding_rank": 7
+    },
+    {
+      "title": "अगर उनका दिमाग... रोहित-विराट पर सवाल उठाने वालों पर भड़क पड़े ...",
+      "url": "https://navbharattimes.indiatimes.com/sports/cricket/cricket-news/ravi-shastri-said-rohit-sharma-virat-kohli-ka-dimagh-after-these-two-put-under-questions-in-between-ind-vs-sa-series/articleshow/125767139.cms",
+      "snippet": "Dec 4, 2025 — पूर्व भारतीय क्रिकेट कोच रवि शास्त्री ने विराट कोहली और रोहित शर्मा के टीम में स्थान को लेकर सवाल उठाने वालों को करारा जवाब दिया है। शास्त्री ने साफ कहा है कि इन दोनों दिग्गजों के साथ खिलवाड़ नहीं करना चाहिए।Read more",
+      "bm25_score_raw": 1.4844784989960058,
+      "bm25_score_norm": 0.020055834072505167,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.8249481916427612,
+      "embedding_score_norm": 0.17566241797300663,
+      "embedding_rank": 8
+    },
+    {
+      "title": "'पंगा मत लो...', रोहित-कोहली के सपोर्ट में उतरे रव‍ि शास्त्री, क्या ...",
+      "url": "https://www.aajtak.in/sports/cricket/story/ravi-shastri-warns-critics-rohit-kohli-gambhir-agarkar-tspok-dskc-2403926-2025-12-05",
+      "snippet": "Dec 5, 2025 — रोहित शर्मा और विराट कोहली के आलोचकों को रवि शास्त्री ने सलाह दी है. उन्होंने कहा वनडे में भारत के सुपरस्टार बल्लेबाजों से कोई पंगा न ले, क्योंकि अगर वे दोनों अपने पर आ गए तो सब साइड में हो जाएंगे.",
+      "bm25_score_raw": 1.3661153264764656,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.8184448480606079,
+      "embedding_score_norm": 0.12227459488659467,
+      "embedding_rank": 9
+    },
+    {
+      "title": "ROKO से पंगे मत लेना वरना, रवि शास्त्री ने रोहित-विराट के ODI ...",
+      "url": "https://www.abplive.com/sports/cricket/ravi-shastri-warning-people-questioning-virat-kohli-rohit-sharma-odi-future-says-dont-mess-with-roko-3053495",
+      "snippet": "Dec 4, 2025 — विराट कोहली और रोहित शर्मा को 2027 ODI वर्ल्ड कप तक भारतीय टीम में बने रहना चाहिए या नहीं? इस विषय पर कई सारे सवाल उठ रहे हैं. टीम इंडिया के पूर्व हेड कोच रवि शास्त्री ने कोहली और रोहित की टीम में ...Read more",
+      "bm25_score_raw": 1.8253715773891122,
+      "bm25_score_norm": 0.07781784628613483,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.8177817463874817,
+      "embedding_score_norm": 0.11683100200764598,
+      "embedding_rank": 10
+    },
+    {
+      "title": "विराट कोहली, रवि शास्त्री को थी रोहित शर्मा के फैसले की जानकारी ...",
+      "url": "https://ndtv.in/cricket/virat-kohli-ravi-shastri-knew-about-rohit-sharma-decision-during-2nd-odi-broadcast-drops-big-hints-hindi-11784804",
+      "snippet": "5 days ago — विराट कोहली, रवि शास्त्री को थी रोहित शर्मा के फैसले की जानकारी? ब्रॉडकास्टर ने दिए संकेत. जब से यह खबर आई कि रोहित शर्मा लॉर्ड्स में संन्यास ले सकते हैं हिटमैन के फैंस से लेकर क्रिकेट जगह हैरत में.Read more",
+      "bm25_score_raw": 1.6930146842915792,
+      "bm25_score_norm": 0.055390871494814524,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.8146383762359619,
+      "embedding_score_norm": 0.09102616985869166,
+      "embedding_rank": 11
+    },
+    {
+      "title": "विराट-रोहित कब लेंगे संन्यास, भारत-ऑस्ट्रेलिया वनडे सीरीज से ...",
+      "url": "https://www.jansatta.com/khel/ind-vs-aus-when-will-rohit-sharma-virat-kohli-will-retire-ravi-shastri-tells-before-india-vs-austrlia-odi-series/4191454",
+      "snippet": "Oct 16, 2025 — खुद संन्यास ले लेंगे रोहित शर्मा ... रवि शास्त्री ने कहा कि रोहित शर्मा और विराट कोहली खुद तय करेंगे कि कब संन्यास लेना है। ऐसा तब होगा जब उन्हें लगेगा कि वे खेल का आनंद नहीं ले पा रहे हैं और फॉर्म खराब है।Read more",
+      "bm25_score_raw": 1.4722085696503266,
+      "bm25_score_norm": 0.017976778046884714,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.8035501837730408,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

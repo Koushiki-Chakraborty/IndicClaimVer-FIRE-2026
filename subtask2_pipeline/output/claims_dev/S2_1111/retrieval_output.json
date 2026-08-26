@@ -1,0 +1,108 @@
+{
+  "claim": {
+    "id": "S2/1111",
+    "text": "After tea-seller jibe, Modi accuses UPA of selling the nation",
+    "lang": "dev"
+  },
+  "generated_queries": {
+    "english_translation": "After tea-seller jibe, Modi accuses UPA of selling the nation",
+    "native_query": "Modi UPA tea seller jibe accuses selling nation",
+    "english_query": "Modi UPA tea seller jibe accuses selling nation"
+  },
+  "native_retrieval": [
+    {
+      "title": "After tea-seller jibe, Modi accuses UPA of selling the nation",
+      "url": "https://www.business-standard.com/article/politics/after-tea-seller-jibe-modi-accuses-upa-of-selling-the-nation-113111500852_1.html",
+      "snippet": "Narendra Modi today accused UPA leaders of \"selling the nation\" and asked whether they are eligible to become the prime minister of the country."
+    },
+    {
+      "title": "After Tea-Seller Jibe, Narendra Modi Accuses UPA ...",
+      "url": "https://www.scribd.com/doc/192536072/After-Tea-seller-Jibe-Narendra-Modi-Accuses-UPA-Leaders-of-Selling-the-Nation-The-Economic-Times",
+      "snippet": "Narendra Modi today accused UPA leaders of \"selling the nation\" and asked whether they are eligible to become the prime minister of the country."
+    },
+    {
+      "title": "After tea-seller jibe, Narendra Modi accuses UPA of selling ...",
+      "url": "https://www.deccanchronicle.com/131115/news-politics/article/after-tea-seller-jibe-narendra-modi-accuses-upa-selling-nation",
+      "snippet": "Narendra Modi on Friday accused UPA leaders of 'selling the nation' and asked whether they are eligible to become the prime minister of the"
+    },
+    {
+      "title": "I sold tea, not the nation: Prime Minister Modi attacks ...",
+      "url": "https://www.wionews.com/india-news/i-sold-tea-not-the-nation-prime-minister-modi-attacks-congress-25269",
+      "snippet": "Modi said he might have sold tea to earn living but never sold his nation. a derogatory meme taking a jibe at Narendra Modi's English speaking"
+    },
+    {
+      "title": "PM Modi On 'Chaiwala' Jibe: \"I Sold Tea, Not The Country\"",
+      "url": "https://www.youtube.com/watch?v=AyMpn6nAjKg",
+      "snippet": "Prime Minister Narendra Modi said that he sold the tea, but will never sell his country like others. PM Modi further added that Congress"
+    },
+    {
+      "title": "People who sell tea honestly to make ends meet are better ...",
+      "url": "https://www.youtube.com/watch?v=3OIjkcOoTD0",
+      "snippet": "They say how can a tea seller lead the nation.People who sell tea honestly to make ends meet are better than those who sell the nation."
+    }
+  ],
+  "english_retrieval": [
+    {
+      "title": "After tea-seller jibe, Modi accuses UPA of selling the nation",
+      "url": "https://www.business-standard.com/article/politics/after-tea-seller-jibe-modi-accuses-upa-of-selling-the-nation-113111500852_1.html",
+      "snippet": "Narendra Modi today accused UPA leaders of \"selling the nation\" and asked whether they are eligible to become the prime minister of the country."
+    },
+    {
+      "title": "After Tea-Seller Jibe, Narendra Modi Accuses UPA ...",
+      "url": "https://www.scribd.com/doc/192536072/After-Tea-seller-Jibe-Narendra-Modi-Accuses-UPA-Leaders-of-Selling-the-Nation-The-Economic-Times",
+      "snippet": "Narendra Modi today accused UPA leaders of \"selling the nation\" and asked whether they are eligible to become the prime minister of the country."
+    },
+    {
+      "title": "After tea-seller jibe, Narendra Modi accuses UPA of selling ...",
+      "url": "https://www.deccanchronicle.com/131115/news-politics/article/after-tea-seller-jibe-narendra-modi-accuses-upa-selling-nation",
+      "snippet": "Narendra Modi on Friday accused UPA leaders of 'selling the nation' and asked whether they are eligible to become the prime minister of the"
+    },
+    {
+      "title": "I sold tea, not the nation: Prime Minister Modi attacks ...",
+      "url": "https://www.wionews.com/india-news/i-sold-tea-not-the-nation-prime-minister-modi-attacks-congress-25269",
+      "snippet": "Modi said he might have sold tea to earn living but never sold his nation. a derogatory meme taking a jibe at Narendra Modi's English speaking"
+    },
+    {
+      "title": "PM Modi On 'Chaiwala' Jibe: \"I Sold Tea, Not The Country\"",
+      "url": "https://www.youtube.com/watch?v=AyMpn6nAjKg",
+      "snippet": "Prime Minister Narendra Modi said that he sold the tea, but will never sell his country like others. PM Modi further added that Congress"
+    },
+    {
+      "title": "People who sell tea honestly to make ends meet are better ...",
+      "url": "https://www.youtube.com/watch?v=3OIjkcOoTD0",
+      "snippet": "They say how can a tea seller lead the nation.People who sell tea honestly to make ends meet are better than those who sell the nation."
+    }
+  ],
+  "merged_results": [
+    {
+      "title": "After tea-seller jibe, Modi accuses UPA of selling the nation",
+      "url": "https://www.business-standard.com/article/politics/after-tea-seller-jibe-modi-accuses-upa-of-selling-the-nation-113111500852_1.html",
+      "snippet": "Narendra Modi today accused UPA leaders of \"selling the nation\" and asked whether they are eligible to become the prime minister of the country."
+    },
+    {
+      "title": "After Tea-Seller Jibe, Narendra Modi Accuses UPA ...",
+      "url": "https://www.scribd.com/doc/192536072/After-Tea-seller-Jibe-Narendra-Modi-Accuses-UPA-Leaders-of-Selling-the-Nation-The-Economic-Times",
+      "snippet": "Narendra Modi today accused UPA leaders of \"selling the nation\" and asked whether they are eligible to become the prime minister of the country."
+    },
+    {
+      "title": "After tea-seller jibe, Narendra Modi accuses UPA of selling ...",
+      "url": "https://www.deccanchronicle.com/131115/news-politics/article/after-tea-seller-jibe-narendra-modi-accuses-upa-selling-nation",
+      "snippet": "Narendra Modi on Friday accused UPA leaders of 'selling the nation' and asked whether they are eligible to become the prime minister of the"
+    },
+    {
+      "title": "I sold tea, not the nation: Prime Minister Modi attacks ...",
+      "url": "https://www.wionews.com/india-news/i-sold-tea-not-the-nation-prime-minister-modi-attacks-congress-25269",
+      "snippet": "Modi said he might have sold tea to earn living but never sold his nation. a derogatory meme taking a jibe at Narendra Modi's English speaking"
+    },
+    {
+      "title": "PM Modi On 'Chaiwala' Jibe: \"I Sold Tea, Not The Country\"",
+      "url": "https://www.youtube.com/watch?v=AyMpn6nAjKg",
+      "snippet": "Prime Minister Narendra Modi said that he sold the tea, but will never sell his country like others. PM Modi further added that Congress"
+    },
+    {
+      "title": "People who sell tea honestly to make ends meet are better ...",
+      "url": "https://www.youtube.com/watch?v=3OIjkcOoTD0",
+      "snippet": "They say how can a tea seller lead the nation.People who sell tea honestly to make ends meet are better than those who sell the nation."
+    }
+  ]
+}

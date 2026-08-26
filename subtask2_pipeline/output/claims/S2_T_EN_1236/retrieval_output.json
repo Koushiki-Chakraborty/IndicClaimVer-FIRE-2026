@@ -1,0 +1,108 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1236",
+    "text": "India logs 3,207 new Covid cases in 24 hours, 7.1% higher than yesterday",
+    "lang": "english"
+  },
+  "generated_queries": {
+    "english_translation": "India logs 3,207 new Covid cases in 24 hours, 7.1% higher than yesterday",
+    "native_query": "India logs 207 Covid 24 hours yesterday",
+    "english_query": "India logs 207 Covid 24 hours yesterday"
+  },
+  "native_retrieval": [
+    {
+      "title": "India logs 36571 new Covid cases, 540 deaths in 24 hours",
+      "url": "https://www.tbsnews.net/world/india-logs-36571-new-covid-cases-540-deaths-24-hours-290791",
+      "snippet": "India on Friday reported 36,571 daily new Covid-19 cases in the last 24 hours, pushing the country's case tally to 3,23,58,829, the Union"
+    },
+    {
+      "title": "Nearly 300 fresh cases, 2 more deaths in 24 hours",
+      "url": "https://indianexpress.com/article/india/covid-19-cases-in-india-live-updates-health-ministry-govt-tally-kerala-delhi-surge-variant-10045197",
+      "snippet": "India recorded nearly 300 fresh Covid cases in the last 24 hours, with the highest number of cases being reported from Kerala."
+    },
+    {
+      "title": "India registers 6155 fresh COVID-19 cases in last 24 hours",
+      "url": "https://www.youtube.com/watch?v=qR1UZ7KsJ50",
+      "snippet": "India logged 6,155 fresh cases of COVID-19 in the last 24 hours. 3,253 recoveries were recorded in the last 24 hours."
+    },
+    {
+      "title": "COVID surge: India reports 12193 fresh cases; active ...",
+      "url": "https://www.youtube.com/watch?v=DH8enSzkM7Y",
+      "snippet": "India has recorded 12,193 fresh COVID-19 cases in a span of 24 hours, with the number of active cases of the infection going up to 67,556,"
+    },
+    {
+      "title": "India Records 92596 Fresh Covid Cases & 2219 Deaths In Last 24 ...",
+      "url": "https://www.youtube.com/watch?v=dTdcR1iyqjU",
+      "snippet": "India Records 92596 Fresh Covid Cases & 2219 Deaths In Last 24 Hours | Breaking News\nIndia Today\n11300000 subscribers\n72 likes\n9177 views\n9 Jun 2021\nIndia has recorded 92596 fresh covid19 cases and 2219 deaths in the last 24 hours. This is the 2nd consecutive day where India has recorded less than 1 lakh daily cases. India also reported  1.62 lakh recoveries in the last 24 hours. \n\n#CovidCrisis #CovidUpdates #IndiaToday #IndiaTodayLiveTV\n\nSubscribe to India Today for NEW VIDEOS EVERY DAY and make sure to enable Push Notifications so you'll never miss a new video. \nAll you need to do is PRESS THE BELL ICON next to the Subscribe button! \nIndia Today TV is India's leading English News Channel. India Today YouTube channel offers latest news videos on Politics, Business, Cricket, Bollywood, Lifestyle, Auto, Technology, Travel, Entertainment and a lot more. \n\nStay tuned for latest updates and in-depth analysis of news from India and around the world! \n\n\n\nFollow us: Official website: https://www.indiatoday.in/\n\nTwitter: https://twitter.com/IndiaToday \n\nFacebook: https://www.facebook.com/IndiaToday\n\nTelegram: https://t.me/indiatodayofficial\n22 comments\n"
+    },
+    {
+      "title": "India's active Covid tally at 7400, 9 deaths in 24 hours",
+      "url": "https://www.indiatoday.in/india/story/india-active-covid-cases-tally-deaths-reported-spike-karnataka-gujarat-kerala-2740664-2025-06-14",
+      "snippet": "India reported 269 new Covid-19 cases, taking the active tally to 7,400, while nine deaths were reported in the past 24 hours, the Union Health"
+    }
+  ],
+  "english_retrieval": [
+    {
+      "title": "India logs 36571 new Covid cases, 540 deaths in 24 hours",
+      "url": "https://www.tbsnews.net/world/india-logs-36571-new-covid-cases-540-deaths-24-hours-290791",
+      "snippet": "India on Friday reported 36,571 daily new Covid-19 cases in the last 24 hours, pushing the country's case tally to 3,23,58,829, the Union"
+    },
+    {
+      "title": "Nearly 300 fresh cases, 2 more deaths in 24 hours",
+      "url": "https://indianexpress.com/article/india/covid-19-cases-in-india-live-updates-health-ministry-govt-tally-kerala-delhi-surge-variant-10045197",
+      "snippet": "India recorded nearly 300 fresh Covid cases in the last 24 hours, with the highest number of cases being reported from Kerala."
+    },
+    {
+      "title": "India registers 6155 fresh COVID-19 cases in last 24 hours",
+      "url": "https://www.youtube.com/watch?v=qR1UZ7KsJ50",
+      "snippet": "India logged 6,155 fresh cases of COVID-19 in the last 24 hours. 3,253 recoveries were recorded in the last 24 hours."
+    },
+    {
+      "title": "COVID surge: India reports 12193 fresh cases; active ...",
+      "url": "https://www.youtube.com/watch?v=DH8enSzkM7Y",
+      "snippet": "India has recorded 12,193 fresh COVID-19 cases in a span of 24 hours, with the number of active cases of the infection going up to 67,556,"
+    },
+    {
+      "title": "India Records 92596 Fresh Covid Cases & 2219 Deaths In Last 24 ...",
+      "url": "https://www.youtube.com/watch?v=dTdcR1iyqjU",
+      "snippet": "India Records 92596 Fresh Covid Cases & 2219 Deaths In Last 24 Hours | Breaking News\nIndia Today\n11300000 subscribers\n72 likes\n9177 views\n9 Jun 2021\nIndia has recorded 92596 fresh covid19 cases and 2219 deaths in the last 24 hours. This is the 2nd consecutive day where India has recorded less than 1 lakh daily cases. India also reported  1.62 lakh recoveries in the last 24 hours. \n\n#CovidCrisis #CovidUpdates #IndiaToday #IndiaTodayLiveTV\n\nSubscribe to India Today for NEW VIDEOS EVERY DAY and make sure to enable Push Notifications so you'll never miss a new video. \nAll you need to do is PRESS THE BELL ICON next to the Subscribe button! \nIndia Today TV is India's leading English News Channel. India Today YouTube channel offers latest news videos on Politics, Business, Cricket, Bollywood, Lifestyle, Auto, Technology, Travel, Entertainment and a lot more. \n\nStay tuned for latest updates and in-depth analysis of news from India and around the world! \n\n\n\nFollow us: Official website: https://www.indiatoday.in/\n\nTwitter: https://twitter.com/IndiaToday \n\nFacebook: https://www.facebook.com/IndiaToday\n\nTelegram: https://t.me/indiatodayofficial\n22 comments\n"
+    },
+    {
+      "title": "India's active Covid tally at 7400, 9 deaths in 24 hours",
+      "url": "https://www.indiatoday.in/india/story/india-active-covid-cases-tally-deaths-reported-spike-karnataka-gujarat-kerala-2740664-2025-06-14",
+      "snippet": "India reported 269 new Covid-19 cases, taking the active tally to 7,400, while nine deaths were reported in the past 24 hours, the Union Health"
+    }
+  ],
+  "merged_results": [
+    {
+      "title": "India logs 36571 new Covid cases, 540 deaths in 24 hours",
+      "url": "https://www.tbsnews.net/world/india-logs-36571-new-covid-cases-540-deaths-24-hours-290791",
+      "snippet": "India on Friday reported 36,571 daily new Covid-19 cases in the last 24 hours, pushing the country's case tally to 3,23,58,829, the Union"
+    },
+    {
+      "title": "Nearly 300 fresh cases, 2 more deaths in 24 hours",
+      "url": "https://indianexpress.com/article/india/covid-19-cases-in-india-live-updates-health-ministry-govt-tally-kerala-delhi-surge-variant-10045197",
+      "snippet": "India recorded nearly 300 fresh Covid cases in the last 24 hours, with the highest number of cases being reported from Kerala."
+    },
+    {
+      "title": "India registers 6155 fresh COVID-19 cases in last 24 hours",
+      "url": "https://www.youtube.com/watch?v=qR1UZ7KsJ50",
+      "snippet": "India logged 6,155 fresh cases of COVID-19 in the last 24 hours. 3,253 recoveries were recorded in the last 24 hours."
+    },
+    {
+      "title": "COVID surge: India reports 12193 fresh cases; active ...",
+      "url": "https://www.youtube.com/watch?v=DH8enSzkM7Y",
+      "snippet": "India has recorded 12,193 fresh COVID-19 cases in a span of 24 hours, with the number of active cases of the infection going up to 67,556,"
+    },
+    {
+      "title": "India Records 92596 Fresh Covid Cases & 2219 Deaths In Last 24 ...",
+      "url": "https://www.youtube.com/watch?v=dTdcR1iyqjU",
+      "snippet": "India Records 92596 Fresh Covid Cases & 2219 Deaths In Last 24 Hours | Breaking News\nIndia Today\n11300000 subscribers\n72 likes\n9177 views\n9 Jun 2021\nIndia has recorded 92596 fresh covid19 cases and 2219 deaths in the last 24 hours. This is the 2nd consecutive day where India has recorded less than 1 lakh daily cases. India also reported  1.62 lakh recoveries in the last 24 hours. \n\n#CovidCrisis #CovidUpdates #IndiaToday #IndiaTodayLiveTV\n\nSubscribe to India Today for NEW VIDEOS EVERY DAY and make sure to enable Push Notifications so you'll never miss a new video. \nAll you need to do is PRESS THE BELL ICON next to the Subscribe button! \nIndia Today TV is India's leading English News Channel. India Today YouTube channel offers latest news videos on Politics, Business, Cricket, Bollywood, Lifestyle, Auto, Technology, Travel, Entertainment and a lot more. \n\nStay tuned for latest updates and in-depth analysis of news from India and around the world! \n\n\n\nFollow us: Official website: https://www.indiatoday.in/\n\nTwitter: https://twitter.com/IndiaToday \n\nFacebook: https://www.facebook.com/IndiaToday\n\nTelegram: https://t.me/indiatodayofficial\n22 comments\n"
+    },
+    {
+      "title": "India's active Covid tally at 7400, 9 deaths in 24 hours",
+      "url": "https://www.indiatoday.in/india/story/india-active-covid-cases-tally-deaths-reported-spike-karnataka-gujarat-kerala-2740664-2025-06-14",
+      "snippet": "India reported 269 new Covid-19 cases, taking the active tally to 7,400, while nine deaths were reported in the past 24 hours, the Union Health"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "claim": {
+    "id": "S2/1581",
+    "text": "Covid cases in Andhra Pradesh cross 10,000 mark; officials implement night curfew",
+    "lang": "dev"
+  },
+  "ranked_evidence": [
+    {
+      "title": "Covid cases in Andhra Pradesh cross 10000 mark",
+      "url": "https://www.indiatoday.in/coronavirus-outbreak/story/covid-cases-in-andhra-pradesh-cross-10-000-mark-officials-implement-night-curfew-1902075-2022-01-20",
+      "snippet": "Jan 20, 2022 — As cases increase sharply and cross the 10,000 mark, authorities in Andhra Pradesh are implementing a night curfew and strict Covid protocol ...Read more",
+      "bm25_score_raw": 4.3960531533919065,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Amaravati | Andhra Pradesh reported 12 COVID-19 cases ...",
+      "url": "https://www.facebook.com/SANewsChannelMP/posts/amaravati-andhra-pradesh-reported-12-covid-19-cases-between-june-26-and-july-16-/1006098818721972",
+      "snippet": "officials have stated that there is no immediate cause for alarm, Covid cases cross 6000- mark Agency",
+      "bm25_score_raw": 4.027118193618481,
+      "bm25_score_norm": 0.9160758646676593,
+      "bm25_rank": 2
+    },
+    {
+      "title": "Night Curfew Back In Andhra Pradesh As COVID-19 Cases ...",
+      "url": "https://www.ndtv.com/andhra-pradesh-news/night-curfew-back-in-andhra-pradesh-as-covid-19-cases-rise-2699752",
+      "snippet": "Jan 10, 2022 — The Andhra Pradesh government on Monday decided to clamp the Covid curfew from 11 PM to 5 AM afresh in view of the spurt in number of cases over the past few ...Read more",
+      "bm25_score_raw": 3.860333138245332,
+      "bm25_score_norm": 0.8781361379278994,
+      "bm25_rank": 3
+    },
+    {
+      "title": "Andhra Pradesh Issues Statewide COVID Alert After 2 Deaths | WION",
+      "url": "https://www.youtube.com/watch?v=9CBpa0RuYSo",
+      "snippet": "Andhra Pradesh Issues Statewide COVID Alert After 2 Deaths | WION\nWION\n10500000 subscribers\n147 likes\n19005 views\n14 Jul 2026\nAndhra Pradesh is back on alert. The state has reported 8 COVID cases, and authorities say all patients are currently asymptomatic. But the concern is rising after 2 people who tested positive died within 10 days. In response, health officials have ramped up precautionary measures across districts — more testing, stricter monitoring in hospitals, and renewed advisories for masks and hygiene. \n\n#andhrapradesh #covid #covid19 #covidalert #wion \n\nAbout Channel: \n\nWION The World is One News examines global issues with in-depth analysis. We provide much more than the news of the day. Our aim is to empower people to explore their world. With our Global headquarters in New Delhi, we bring you news on the hour, by the hour. We deliver information that is not biased. We are journalists who are neutral to the core and non-partisan when it comes to world politics. People are tired of biased reportage and we stand for a globalized united world. So for us, the World is truly One.\n \nPlease keep discussions on this channel clean and respectful and refrain from using racist or sexist slurs and personal insults.\n\nSubscribe to our channel at https://goo.gl/JfY3NI\nCheck out our website: http://www.wionews.com\nJoin our WhatsApp Channel: https://bit.ly/455YOQ0\nConnect with us on our social media handles:\nFacebook: https://www.facebook.com/WIONews\nTwitter: https://twitter.com/WIONews\nInstagram: https://www.instagram.com/wionews/\nFollow us on Google News for the latest updates\n\nZee News:- https://bit.ly/2Ac5G60\nZee Business:- https://bit.ly/36vI2xa\nDNA India:- https://bit.ly/2ZDuLRY\nWION: https://bit.ly/3gnDb5J\nZee News Apps: https://bit.ly/ZeeNewsApps\n29 comments\n",
+      "bm25_score_raw": 2.2151238483392657,
+      "bm25_score_norm": 0.5038892322378132,
+      "bm25_rank": 4
+    },
+    {
+      "title": "Andhra Pradesh steps up COVID-19 surveillance as 2 ...",
+      "url": "https://www.thenewsminute.com/andhra-pradesh/andhra-pradesh-steps-up-covid-19-surveillance-as-2-deaths-and-8-active-cases-reported",
+      "snippet": "Jul 14, 2026 — A round-the-clock command-and-control room has been set up in Kadapa, and health authorities have increased surveillance across the district.Read more",
+      "bm25_score_raw": 1.4877394038954157,
+      "bm25_score_norm": 0.3384261636480682,
+      "bm25_rank": 5
+    },
+    {
+      "title": "High Alert in AP : Coronavirus cases cross 1000 mark - TV9",
+      "url": "https://www.youtube.com/watch?v=BGGr5llr3Mk&vl=en",
+      "snippet": "High Alert in AP : Coronavirus cases cross 1000 mark - TV9. @TV9TeluguLive17K views6 years ago more. Subscribe. Comments.Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6
+    }
+  ]
+}

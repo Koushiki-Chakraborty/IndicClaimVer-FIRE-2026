@@ -1,0 +1,57 @@
+{
+  "claim": {
+    "id": "S2/1187",
+    "text": "Excise Commissioner Is Not Duty Bound To Cancel Liquor Licence On The Application Of Legal Heirs Of The Deceased: Bombay High Court",
+    "lang": "dev"
+  },
+  "ranked_evidence": [
+    {
+      "title": "Excise Commissioner Is Duty Bound... - Bombay High Court",
+      "url": "https://www.livelaw.in/high-court/bombay-high-court/excise-commissioner-duty-bound-liquor-licence-application-legal-heirs-deceased-bombay-high-court-230925",
+      "snippet": "Excise Commissioner Is Duty Bound To Cancel Liquor Licence On The Application Of Legal Heirs Of The Deceased: Bombay High Court. Mariya Paliwala.",
+      "bm25_score_raw": 7.3873518461889525,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Bombay High Court: Excise Commissioner is Duty Bound ...",
+      "url": "https://www.legaleraonline.com/from-the-courts/bombay-high-court-excise-commissioner-is-duty-bound-to-cancel-liquor-license-on-the-application-of-legal-heirs-of-the-deceased-866094",
+      "snippet": "Bombay High Court: Excise Commissioner is Duty Bound to Cancel Liquor License on the Application of Legal Heirs of the Deceased.",
+      "bm25_score_raw": 4.7057076598872,
+      "bm25_score_norm": 0.5875544973145459,
+      "bm25_rank": 2
+    },
+    {
+      "title": "Excise Commissioner was duty bound to cancel liquor ...",
+      "url": "https://www.scconline.com/blog/post/2023/06/24/excise-commissioner-was-duty-bound-to-cancel-liquor-licence-on-application-of-legal-heirs-bombay-hc",
+      "snippet": "Excise Commissioner was duty bound to cancel liquor licence on application of Legal Heirs of deceased Licence Holder: Bombay HC.",
+      "bm25_score_raw": 3.634482366944284,
+      "bm25_score_norm": 0.42279660113498996,
+      "bm25_rank": 3
+    },
+    {
+      "title": "Excise Commissioner was duty bound to cancel liquor ...",
+      "url": "https://www.linkedin.com/posts/scconline_excise-commissioner-was-duty-bound-to-cancel-activity-7078260427612184577-lvqo",
+      "snippet": "Excise Commissioner was duty bound to cancel liquor licence for sale of IMFL on application of Legal Heirs: Bombay HC",
+      "bm25_score_raw": 3.4971942275940453,
+      "bm25_score_norm": 0.4016812436478545,
+      "bm25_rank": 4
+    },
+    {
+      "title": "Excise Commissioner Is Duty Bound To Cancel Liquor ...",
+      "url": "https://www.livelawbiz.com/high-court/bombay-high-court/excise-commissioner-duty-bound-liquor-licence-application-legal-heirs-deceased-bombay-high-court-230925",
+      "snippet": "The petitioner challenged the order passed by the Commissioner of Excise, who canceled the liquor license for the retail sale of IMFL and CL for",
+      "bm25_score_raw": 2.1418324675899165,
+      "bm25_score_norm": 0.19322224476908162,
+      "bm25_rank": 5
+    },
+    {
+      "title": "Parashiva vs The Commissioner Of Excise on 7 February ...",
+      "url": "https://indiankanoon.org/doc/69490739",
+      "snippet": "It also reiterates that the licence may be suspended or cancelled in accordance with the provisions of Section 29 of the Act and that licensee or his employee",
+      "bm25_score_raw": 0.8855372577368359,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6
+    }
+  ]
+}

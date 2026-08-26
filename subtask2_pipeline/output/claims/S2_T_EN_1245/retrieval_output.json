@@ -1,0 +1,108 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1245",
+    "text": "Congress enjoys a strong political presence in Bengal : Pradipta Tapadar",
+    "lang": "english"
+  },
+  "generated_queries": {
+    "english_translation": "Congress enjoys a strong political presence in Bengal : Pradipta Tapadar",
+    "native_query": "Congress Bengal Pradipta Tapadar enjoys strong political presence",
+    "english_query": "Congress Bengal Pradipta Tapadar enjoys strong political presence"
+  },
+  "native_retrieval": [
+    {
+      "title": "Press Trust of India (@PTI_News) on X",
+      "url": "https://x.com/PTI_News/status/2040030391286030812",
+      "snippet": "... Bengal's favourite food has become sharpest political hook of polls. By Pradipta Tapadar. Kolkata, Apr 3 (PTI) In West Bengal's election"
+    },
+    {
+      "title": "Congress fights for political existence in Bengal : Pradipta ...",
+      "url": "https://www.indiatvnews.com/politics/national/congress-fights-for-political-existence-in-bengal-pradipta-tap-16134.html",
+      "snippet": "Kolkata: Weakened and bruised by the migration of its leaders and workers to Mamata Banerjee's TMC, the Congress is fighting a battle for"
+    },
+    {
+      "title": "Pradipta Tapadar - Deputy Chief of Bureau at Press Trust ...",
+      "url": "https://in.linkedin.com/in/pradipta-tapadar-377b7119",
+      "snippet": "Seasoned journalist with over 15 years in a multimedia news agency setting, specializing in political, humanitarian, and socio-economic crises."
+    },
+    {
+      "title": "Pradipta Tapadar (@ptapadar) / Posts / X",
+      "url": "https://x.com/ptapadar",
+      "snippet": "Pradipta Tapadar (@ptapadar) - Posts - Chief Reporter @PTI_News Kolkata bureau, Ex @ians_india . Covers Politics, Investigating agencie."
+    },
+    {
+      "title": "Ahead of meet with Rahul, West Bengal Congress torn ...",
+      "url": "https://timesofindia.indiatimes.com/india/ahead-of-meet-with-rahul-west-bengal-congress-torn-between-opposing-views-pradipta-tapadar/articleshow/64865521.cms",
+      "snippet": "India News: KOLKATA: Ahead of its crucial meeting with party president Rahul Gandhi Friday, the Congress in West Bengal seems to be torn"
+    },
+    {
+      "title": "At 24, Trinamool Congress eyes national stage",
+      "url": "https://theprint.in/india/at-24-trinamool-congress-eyes-national-stage/792853",
+      "snippet": "Twenty-four years after Mamata Banerjee formed the Trinamool Congress on January 1, 1998 to unseat the Left Front from power in West Bengal."
+    }
+  ],
+  "english_retrieval": [
+    {
+      "title": "Press Trust of India (@PTI_News) on X",
+      "url": "https://x.com/PTI_News/status/2040030391286030812",
+      "snippet": "... Bengal's favourite food has become sharpest political hook of polls. By Pradipta Tapadar. Kolkata, Apr 3 (PTI) In West Bengal's election"
+    },
+    {
+      "title": "Congress fights for political existence in Bengal : Pradipta ...",
+      "url": "https://www.indiatvnews.com/politics/national/congress-fights-for-political-existence-in-bengal-pradipta-tap-16134.html",
+      "snippet": "Kolkata: Weakened and bruised by the migration of its leaders and workers to Mamata Banerjee's TMC, the Congress is fighting a battle for"
+    },
+    {
+      "title": "Pradipta Tapadar - Deputy Chief of Bureau at Press Trust ...",
+      "url": "https://in.linkedin.com/in/pradipta-tapadar-377b7119",
+      "snippet": "Seasoned journalist with over 15 years in a multimedia news agency setting, specializing in political, humanitarian, and socio-economic crises."
+    },
+    {
+      "title": "Pradipta Tapadar (@ptapadar) / Posts / X",
+      "url": "https://x.com/ptapadar",
+      "snippet": "Pradipta Tapadar (@ptapadar) - Posts - Chief Reporter @PTI_News Kolkata bureau, Ex @ians_india . Covers Politics, Investigating agencie."
+    },
+    {
+      "title": "Ahead of meet with Rahul, West Bengal Congress torn ...",
+      "url": "https://timesofindia.indiatimes.com/india/ahead-of-meet-with-rahul-west-bengal-congress-torn-between-opposing-views-pradipta-tapadar/articleshow/64865521.cms",
+      "snippet": "India News: KOLKATA: Ahead of its crucial meeting with party president Rahul Gandhi Friday, the Congress in West Bengal seems to be torn"
+    },
+    {
+      "title": "At 24, Trinamool Congress eyes national stage",
+      "url": "https://theprint.in/india/at-24-trinamool-congress-eyes-national-stage/792853",
+      "snippet": "Twenty-four years after Mamata Banerjee formed the Trinamool Congress on January 1, 1998 to unseat the Left Front from power in West Bengal."
+    }
+  ],
+  "merged_results": [
+    {
+      "title": "Press Trust of India (@PTI_News) on X",
+      "url": "https://x.com/PTI_News/status/2040030391286030812",
+      "snippet": "... Bengal's favourite food has become sharpest political hook of polls. By Pradipta Tapadar. Kolkata, Apr 3 (PTI) In West Bengal's election"
+    },
+    {
+      "title": "Congress fights for political existence in Bengal : Pradipta ...",
+      "url": "https://www.indiatvnews.com/politics/national/congress-fights-for-political-existence-in-bengal-pradipta-tap-16134.html",
+      "snippet": "Kolkata: Weakened and bruised by the migration of its leaders and workers to Mamata Banerjee's TMC, the Congress is fighting a battle for"
+    },
+    {
+      "title": "Pradipta Tapadar - Deputy Chief of Bureau at Press Trust ...",
+      "url": "https://in.linkedin.com/in/pradipta-tapadar-377b7119",
+      "snippet": "Seasoned journalist with over 15 years in a multimedia news agency setting, specializing in political, humanitarian, and socio-economic crises."
+    },
+    {
+      "title": "Pradipta Tapadar (@ptapadar) / Posts / X",
+      "url": "https://x.com/ptapadar",
+      "snippet": "Pradipta Tapadar (@ptapadar) - Posts - Chief Reporter @PTI_News Kolkata bureau, Ex @ians_india . Covers Politics, Investigating agencie."
+    },
+    {
+      "title": "Ahead of meet with Rahul, West Bengal Congress torn ...",
+      "url": "https://timesofindia.indiatimes.com/india/ahead-of-meet-with-rahul-west-bengal-congress-torn-between-opposing-views-pradipta-tapadar/articleshow/64865521.cms",
+      "snippet": "India News: KOLKATA: Ahead of its crucial meeting with party president Rahul Gandhi Friday, the Congress in West Bengal seems to be torn"
+    },
+    {
+      "title": "At 24, Trinamool Congress eyes national stage",
+      "url": "https://theprint.in/india/at-24-trinamool-congress-eyes-national-stage/792853",
+      "snippet": "Twenty-four years after Mamata Banerjee formed the Trinamool Congress on January 1, 1998 to unseat the Left Front from power in West Bengal."
+    }
+  ]
+}

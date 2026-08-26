@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/CM/1056",
+    "text": "debate news nation vipakshi neta ke vichar janata sansad me sunana chahti hai lekin vipaksh to keval t v par jhuth parosane apne pravakta bhej deta hai",
+    "lang": "codemix"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Sky News host Chris Kenny says Pauline Hanson's One Nation is “ ...",
+      "url": "https://www.facebook.com/SkyNewsAustralia/posts/sky-news-host-chris-kenny-says-pauline-hansons-one-nation-is-dominating-the-nati/1493262372831356",
+      "snippet": "Opposition Leader Sussan Ley isn't faring much better, with only 17% positive and more than half of voters neutral — hardly a ringing",
+      "bm25_score_raw": 5.677876007679779,
+      "bm25_score_norm": 0.874739755159667,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8315137028694153,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "संसद में हंगामा, विपक्ष के नेता के आचरण पर तीखी बहस - News ...",
+      "url": "https://www.aajtak.in/india/news/video/chaos-in-parliament-intense-debate-over-the-conduct-of-the-opposition-leader-questions-about-parliamentary-proceedings-ytvd-2296981-2025-07-27",
+      "snippet": "Jul 27, 2025 — संसद की कार्यवाही और उसमें हो रहे व्यवधानों पर बहस जारी है. चर्चा में विपक्ष के नेता की भूमिका और उनके आचरण पर आरोप लगाए गए. प्रधानमंत्री की संसदीय सत्रों के दौरान विदेश यात्राओं को लेकर भी",
+      "bm25_score_raw": 2.0991799269381652,
+      "bm25_score_norm": 0.22737138049290467,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8285208940505981,
+      "embedding_score_norm": 0.9486577767961496,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Parliament Debate Congress Vs BJP: संसद में आपस में भिड़े ...",
+      "url": "https://www.youtube.com/watch?v=ylJwwntlJwg",
+      "snippet": "Parliament Debate Congress Vs BJP: संसद में आपस में भिड़े पक्ष और विपक्ष | Parliament Session. @ABPNews17 likes4.8K viewsStreamed 5 months ago",
+      "bm25_score_raw": 2.1793946949472245,
+      "bm25_score_norm": 0.24188183424999904,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8238173723220825,
+      "embedding_score_norm": 0.8679679375684456,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Sky News host Sharri Markson argues One Nation Leader Pauline ...",
+      "url": "https://www.facebook.com/SkyNewsAustralia/posts/sky-news-host-sharri-markson-argues-one-nation-leader-pauline-hansons-opposition/1493460499478210",
+      "snippet": "A new opinion column by Lucy Zelic has reignited debate over Pauline Hanson's decision to wear a burqa in the Senate before being suspended.",
+      "bm25_score_raw": 5.66828487629579,
+      "bm25_score_norm": 0.873004767053613,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8204871416091919,
+      "embedding_score_norm": 0.8108371754875164,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Prime Minister Anthony Albanese has advised Opposition Leader Angus ...",
+      "url": "https://www.facebook.com/SkyNewsAustralia/posts/prime-minister-anthony-albanese-has-advised-opposition-leader-angus-taylor-to-st/1467506728740254",
+      "snippet": "Opposition Leader Angus Taylor MP was heard calling Anthony Albanese an “arrogant pr*ck” in Parliament this week, but has defended his actions",
+      "bm25_score_raw": 6.370323097813869,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8167113661766052,
+      "embedding_score_norm": 0.7460630062159561,
+      "embedding_rank": 5
+    },
+    {
+      "title": "The One Nation MP had been defending Pauline Hanson's actions ...",
+      "url": "https://www.facebook.com/news.com.au/posts/the-one-nation-mp-had-been-defending-pauline-hansons-actions-over-the-past-week/1559168269579810",
+      "snippet": "The opposition leader, Sussan Ley, has also slammed Pauline Hanson, releasing a statement last night saying the stunt “cheapens our parliament”.",
+      "bm25_score_raw": 2.0661273338598076,
+      "bm25_score_norm": 0.22139233030901084,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.8142597675323486,
+      "embedding_score_norm": 0.7040053498737687,
+      "embedding_rank": 6
+    },
+    {
+      "title": "Mid Day Prime | संसद में विपक्ष का हंगामा | Parliament Debate ...",
+      "url": "https://www.youtube.com/watch?v=G-yN258rRro",
+      "snippet": "Parliament Debate | Gaurav Gogoi | JP Nadda | संसद में आज जोरदार बहस और हंगामे के बीच कांग्रेस नेता Gaurav Gogoi ने चर्चा की शुरुआत करते हुए कहा कि लोकसभा स्पीकर को पूरी तरह",
+      "bm25_score_raw": 1.9373293213068943,
+      "bm25_score_norm": 0.1980934085326162,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.8117286562919617,
+      "embedding_score_norm": 0.6605836393252533,
+      "embedding_rank": 7
+    },
+    {
+      "title": "Fiery Lok Sabha Debate Over One Nation, One Election",
+      "url": "https://www.youtube.com/watch?v=uPMwKjfI1Ms",
+      "snippet": "Businessnews #OneNationOneElection #LokSabhaDebate #ModiGovt #AmitShah The Narendra Modi government introduced the historic 'One Nation,",
+      "bm25_score_raw": 1.322542337228738,
+      "bm25_score_norm": 0.08688149177032989,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.8077832460403442,
+      "embedding_score_norm": 0.5928993514096079,
+      "embedding_rank": 8
+    },
+    {
+      "title": "Lok Sabha LIVE | Waqf Amendment Bill | Parliament Debate ...",
+      "url": "https://www.youtube.com/watch?v=KhSt7vNxo0k",
+      "snippet": "Lok Sabha LIVE | Waqf Amendment Bill | Parliament Debate | Sansad TV | BJP | NDA | Congress #owaisi WaqfBill2025 | #SupportWaqfBill",
+      "bm25_score_raw": 4.654662428074021,
+      "bm25_score_norm": 0.6896454926066224,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8046572208404541,
+      "embedding_score_norm": 0.5392717750189935,
+      "embedding_rank": 9
+    },
+    {
+      "title": "Debate on the Address - Hansard - UK Parliament",
+      "url": "https://hansard.parliament.uk/Commons/2026-05-13/debates/D1815612-30E6-48B0-87BF-9752836B99CA/DebateontheAddress",
+      "snippet": "It is a huge honour for me and my constituents in Bradford West for me to move the Loyal Address. I am indeed humbled and honoured, primarily for being trusted by the people of Bradford West in placing their faith in me and sending me to this place, but also by being given this opportunity to be the first ever Muslim to propose the Loyal Address in this Chamber—[Hon. Members: “Hear, hear”]—and, of course, seeing the meltdown of the far right online at a “Muslim takeover” and even an “act of domination”. It is because, despite the challenges we may face as a nation and the differences in approach that we present across the House, I know without a doubt that, as someone who comes from the ethnic, religious and socioeconomic background that I came from, and whose entire live crashed before her, I would never have been given such an honour in any other country than this one—my own country, our country.",
+      "bm25_score_raw": 1.0413822655864868,
+      "bm25_score_norm": 0.03602102905047922,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.8002198934555054,
+      "embedding_score_norm": 0.46314855204725724,
+      "embedding_rank": 10
+    },
+    {
+      "title": "One Nation - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/One_Nation",
+      "snippet": "# One Nation. | Personal   * Hansonism * Electoral history * Pauline's United Australia Party  ---   One Nation   * One Nation * One Nation MPs * \"It's OK to be white\" motion * Burqa incidents * Fire the Liar  ---   Media by and about Pauline Hanson   * *I Don't Like It* * *Pauline Hanson: Please Explain!* * *Pauline Hanson's Please Explain* * *A Super Progressive Movie* |. | Parties  Active   * Australian Christians \"Australian Christians (political party)\") * Democratic Labour Party \"Democratic Labour Party (Australia, 1978)\") * Family First Party (2021) \"Family First Party (2021)\") * Katter's Australian Party * Liberal–National Coalition   + Liberal   + LNP   + National   + Country Liberal Party * Libertarian Party \"Libertarian Party (Australia)\") * One Nation * People First * Shooters, Fishers and Farmers Party * Trumpet of Patriots * United Australia Party (2013) \"United Australia Party (2013)\")   Defunct   * Australian Conservative Party * Australian Conservatives * Christian Democratic Party \"Christian Democratic Party (Australia)\") * Commonwealth Liberal Party \"Liberal Party (Australia, 1909)\") * Conservative National Party * Family First Party (2002) * Liberal (Queensland) * National (Queensland) * National Defence League \"National Defence League (Australia)\") * Nationalist Party \"Nationalist Party (Australia)\") * United Australia Party (1931) \"United Australia Party (1931)\") |.",
+      "bm25_score_raw": 0.8422555851186831,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.7970191240310669,
+      "embedding_score_norm": 0.4082387238015189,
+      "embedding_rank": 11
+    },
+    {
+      "title": "India First With Gaurav Sawant: Top RSS Neta Triggers ...",
+      "url": "https://www.youtube.com/watch?v=HPPmYDdn9G0",
+      "snippet": "India First With Gaurav Sawant: Top RSS Neta Triggers Samvidhan Debate | The Big Constitution Clash RSS General Secretary Dattatreya",
+      "bm25_score_raw": 4.719752414302803,
+      "bm25_score_norm": 0.701419948341706,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.7732223272323608,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "claim": {
+    "id": "S2/1060",
+    "text": "कोरोना के JN.1 वेरिएंट ने भारत में मचाया कोहराम, 24 घंटे में 6 लोगों की मौत, 702 नए मामले",
+    "lang": "dev"
+  },
+  "ranked_evidence": [
+    {
+      "title": "कोरोना ने फिर मचा! देश में आज आए 702 नए केस, 24 घंटे में 6 ...",
+      "url": "https://hindi.news18.com/news/nation/coronavirus-covid19-update-india-reports-702-news-covid-cases-and-6-death-in-last-24-hours-7936572.html",
+      "snippet": "Corona Alert: भारत में पिछले 24 घंटे में कोरोना वायरस के 702 नए मामले सामने आए हैं, जिससे चिंता और बढ़ती ही जा रही है. क्योंकि इससे एक दिन पहले देश में कोविड के 529 नए मामले दर्ज किए गए थे.",
+      "bm25_score_raw": 5.445885023804479,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Witnessing COVID chaos in India's hospitals, graveyards and ...",
+      "url": "https://widerimage.reuters.com/story/witnessing-covid-chaos-in-indias-hospitals-graveyards-and-crematoriums",
+      "snippet": "Jun 7, 2021 — At the height of the COVID-19 surge in May, 448 people in the city died from the disease in a single day. This is a battle with an invisible ...Read more",
+      "bm25_score_raw": 4.791323099956224,
+      "bm25_score_norm": 0.8603008692124531,
+      "bm25_rank": 2
+    },
+    {
+      "title": "भारत में 24 घंटे में COVID-19 से छह की मौत- 702 नए मामलों के साथ ...",
+      "url": "https://hindi.theprint.in/india/six-deaths-due-to-covid-19-in-india-in-24-hours-number-of-patients-rises-to-4097-with-702-new-cases/645529",
+      "snippet": "आधिकारिक आंकड़ों के अनुसार, पिछले 24 घंटों में देश में छह मौतें हुई हैं, जिनमें से दो महाराष्ट्र में, और एक-एक दिल्ली, कर्नाटक,",
+      "bm25_score_raw": 3.405020768586864,
+      "bm25_score_norm": 0.5644308779326878,
+      "bm25_rank": 3
+    },
+    {
+      "title": "How Dangerous is the JN.1 Covid-19 Variant? Health ...",
+      "url": "https://redcliffelabs.com/myhealth/covid/how-dangerous-is-the-jn-1-covid-19-variant-health-risks-symptoms-prevention-tips",
+      "snippet": "Who is at risk of New Covid-19 Variant JN.1? · People who are older than 65 years are at high risk. · Type 1 or type 2 diabetic Patients · People with Dementia or ...Read more",
+      "bm25_score_raw": 3.3625464365968067,
+      "bm25_score_norm": 0.5553658421528671,
+      "bm25_rank": 4
+    },
+    {
+      "title": "कोरोना के JN.1 वेरिएंट ने भारत में मचाया कोहराम, 24 घंटे में 6 ...",
+      "url": "https://www.jansatta.com/national/india-recorded-529-fresh-covid-19-cases-and-five-deaths-in-24-hours-jn-1-spread/3137908",
+      "snippet": "भारत में कोरोना के नए वेरिएंट JN.1 ने कोहराम मचा दिया है। रिपोर्ट के अनुसार, देश में 24 घंटे के भीतर 529 नए मामले सामने आए हैं। वहीं 5 लोगों की मौत हो गई। दिल्ली में भी JN.1 का पहला मामला सामने आया है।",
+      "bm25_score_raw": 3.327729695972878,
+      "bm25_score_norm": 0.5479351190618829,
+      "bm25_rank": 5
+    },
+    {
+      "title": "COVID-19 pandemic in India",
+      "url": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_India",
+      "snippet": "| Health checks during the COVID-19 pandemic in India, June 2020 |. The **COVID-19 pandemic in India** is a part of the COVID-19 pandemic. As of 14 July 2026, according to Indian government figures, India has the second-highest number of confirmed cases in the world (after the United States) with 45,056,221 reported cases of COVID-19 infection and the third-highest number of COVID-19 deaths (after the United States and Brazil) at 533,849 deaths. The first cases of COVID-19 in India were reported on 30 January 2020 in three towns of Kerala, among three Indian medical students who had returned from Wuhan, the epicenter of the pandemic. Main articles: Timeline of the COVID-19 pandemic in India (January–May 2020) \"Timeline of the COVID-19 pandemic in India (January–May 2020)\"), Timeline of the COVID-19 pandemic in India (June–December 2020) \"Timeline of the COVID-19 pandemic in India (June–December 2020)\"), and Timeline of the COVID-19 pandemic in India (2021) \"Timeline of the COVID-19 pandemic in India (2021)\").",
+      "bm25_score_raw": 2.6382028730000706,
+      "bm25_score_norm": 0.40077364462462095,
+      "bm25_rank": 6
+    },
+    {
+      "title": "शहर-शहर कोरोना के नए वैरिएंट JN.1 का कहर, गुरुग्राम-दिल्ली, ...",
+      "url": "https://www.aajtak.in/india/news/story/delhi-corona-update-sub-variant-jn1-rajasthan-gurugram-lucknow-news-ntc-1847879-2023-12-28",
+      "snippet": "देश में बीते 24 घंटे में कोरोना के 702 नए मामले सामने आए. इस दौरान छह कोरोना संक्रमितों की मौत भी हुई है. केंद्रीय स्वास्थ्य मंत्रालय ने गुरुवार को बताया कि कोरोना के एक्टिव मामलों की संख्या बढ़कर 4,097 हो",
+      "bm25_score_raw": 2.4828208275139794,
+      "bm25_score_norm": 0.36761140908427464,
+      "bm25_rank": 7
+    },
+    {
+      "title": "Corona Virus Outbreak in India: लगातार बढ़ रहे कोरोना के आंकड़े ...",
+      "url": "https://www.youtube.com/watch?v=aOPnxyWlX8Q",
+      "snippet": "#breakingnews #coronavirus #jn1 देश भर में कोरोना के मामलों में लगातार बढ़ोतरी देखने को मिल रही है। आंकड़ों पर नजर डालें तो केवल 15 दिनों में कोविड के सक्रिय मामलों में 20 गुना वृद्धि देखने को मिली",
+      "bm25_score_raw": 2.08829687269167,
+      "bm25_score_norm": 0.2834105847535287,
+      "bm25_rank": 8
+    },
+    {
+      "title": "Covid-19 in India: Why second coronavirus wave is devastating",
+      "url": "https://www.bbc.com/news/world-asia-india-56811315",
+      "snippet": "**Rajeshwari Devi, 58, died on Sunday after waiting for two days to get uninterrupted oxygen, an ambulance and a bed in a Covid-19 hospital.**. The staff there told her family they were running out of oxygen and she needed to be moved to a bigger hospital but there was no ambulance or any promise of a bed. Data suggests that this wave is proving to be more infectious and deadlier in some states, although India's death rate from the virus is still relatively low. On 10 February, at the start of the second wave, India confirmed 11,000 cases - and in the next 50 days, the daily average was around 22,000 cases. We had reports of some cities running out of beds even in the first wave and that should have been a good enough reason to be prepared for the second wave,\" he said.",
+      "bm25_score_raw": 1.7653794916230696,
+      "bm25_score_norm": 0.21449231161863644,
+      "bm25_rank": 9
+    },
+    {
+      "title": "Covid New Variant:हो जाएं सावधान! कोरोना ने फिर डराया देश में एक ...",
+      "url": "https://www.youtube.com/watch?v=vV94jGPRuA8",
+      "snippet": "Covid New Variant:हो जाएं सावधान! कोरोना ने फिर डराया देश में एक दिन में आए 702 नए केस| COVID19 JN.1. @amarujala93 likes7.2K views2 years ago",
+      "bm25_score_raw": 1.6706088954933138,
+      "bm25_score_norm": 0.19426600541110675,
+      "bm25_rank": 10
+    },
+    {
+      "title": "As Covid-19 Devastates India, Deaths Go Undercounted",
+      "url": "https://www.nytimes.com/2021/04/24/world/asia/india-coronavirus-deaths.html",
+      "snippet": "May 31, 2021 — India's coronavirus second wave is rapidly sliding into a devastating crisis, with hospitals unbearably full, oxygen supplies running low, desperate people ...Read more",
+      "bm25_score_raw": 0.8075881998760696,
+      "bm25_score_norm": 0.010076799414237681,
+      "bm25_rank": 11
+    },
+    {
+      "title": "The making of India's COVID-19 disaster",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2212420923002777",
+      "snippet": "by P McGowran · 2023 · Cited by 13 — Causes of death for people both trapped and on-the-move include forest fires, snakebites, being hit by trucks, freezing in cold, heat exhaustion, starvation ...Read more",
+      "bm25_score_raw": 0.7603732374519486,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12
+    }
+  ]
+}

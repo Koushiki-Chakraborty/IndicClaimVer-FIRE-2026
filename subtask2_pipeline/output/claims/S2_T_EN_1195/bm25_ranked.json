@@ -1,0 +1,57 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1195",
+    "text": "Traditional Families Eager To Report Crimes Involving Dignity Of Young Woman: Jammu & Kashmir High Court",
+    "lang": "english"
+  },
+  "ranked_evidence": [
+    {
+      "title": "Human rights abuses in Jammu and Kashmir - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Human_rights_abuses_in_Jammu_and_Kashmir",
+      "snippet": "For human rights abuses in Pakistani-administered territory, see Human rights abuses in Azad Kashmir. | * International People's Tribunal   on Human Rights and Justice in Kashmir * Jammu & Kashmir Human Rights Commission * Papa II |. **Human rights abuses in Jammu and Kashmir \"Jammu and Kashmir (union territory)\")** range from mass killings, enforced disappearances, torture, sexual violence to political repression and suppression of freedom of speech. The Indian Army, Central Reserve Police Force (CRPF), and Border Security Personnel (BSF) have been accused of committing severe human rights abuses against Kashmiri civilians. In a 1993 report, Human Rights Watch stated that Indian security forces \"assaulted civilians during search operations, tortured and summarily executed detainees in custody and murdered civilians in reprisal attacks\"; according to the report, militants had also targeted civilians, but to a lesser extent than security forces.",
+      "bm25_score_raw": 3.8221061017532487,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Under Siege: Violence against Children in Jammu and Kashmir | CJP",
+      "url": "https://cjp.org.in/under-siege-violence-against-children-in-jammu-and-kashmir",
+      "snippet": "## Under Siege: Violence against Children in Jammu and Kashmir Shocking findings of a JKCCS Report. ### The Jammu Kashmir Coalition of Civil Society (JKCCS) recently published a report, titled ‘Terrorized: Impact of Violence on the Children of Jammu and Kashmir’, which details the various ways in which violence has been perpetrated against children in Jammu and Kashmir, and its effects. The report places violence against civilians in Jammu and Kashmir in the 1990s within the context of the “impunity surrounding human rights abuses committed by armed forces.” It highlights the Armed Forces (Jammu and Kashmir) Special Powers Act (AFSPA) of the early 1990s, saying it “contributed to normalizing unaccountability for human rights abuses and allowed the armed forces to unleash violence, without differentiating between combatant and civilian, let alone between adults and children.” According to the report, the culture of impunity surrounding the armed forces persists because of “systematic lawlessness” in the state.",
+      "bm25_score_raw": 3.786603215218786,
+      "bm25_score_norm": 0.9865381393661425,
+      "bm25_rank": 2
+    },
+    {
+      "title": "Rape in Kashmir",
+      "url": "https://s3.amazonaws.com/PHR_Reports/rape-in-kashmir.pdf",
+      "snippet": "Rape by armed militant groups in Kashmir is less common, but has been reported with greater frequency in recent years along with other violent crimes including",
+      "bm25_score_raw": 2.7115620961775413,
+      "bm25_score_norm": 0.5789077990513823,
+      "bm25_rank": 3
+    },
+    {
+      "title": "Indian Kashmir Witnesses Rise in Crimes Against Women",
+      "url": "https://www.voanews.com/a/indian-kashmir-witnesses-rise-in-crimes-against-women/7076420.html",
+      "snippet": "Indian National Crime Records Bureau revealed 3937 crime cases against women were reported in 2021 compared to 3405 cases in 2020 and 3069",
+      "bm25_score_raw": 2.467141463647258,
+      "bm25_score_norm": 0.4862292364796323,
+      "bm25_rank": 4
+    },
+    {
+      "title": "India surveillance of Kashmir mosques sparks fear",
+      "url": "https://www.facebook.com/trtworld/posts/police-in-jammu-and-kashmir-are-collecting-identity-numbers-and-family-details-o/1353865583442346",
+      "snippet": "Police in Jammu and Kashmir are collecting identity numbers and family details of imams and mosque committees as many fear the Indian state is",
+      "bm25_score_raw": 1.7776486395262237,
+      "bm25_score_norm": 0.22478975331670098,
+      "bm25_rank": 5
+    },
+    {
+      "title": "\"Everyone Lives in Fear\": Patterns of Impunity in Jammu ...",
+      "url": "https://www.hrw.org/report/2006/09/11/everyone-lives-fear/patterns-impunity-jammu-and-kashmir",
+      "snippet": "Bashir joined an armed militant group in 1990 when he was fifteen years old and was arrested in 1994 by Indian security forces. Patterns of Impunity in Jammu and Kashmir. Kashmiris are trapped in an armed conflict between abusive Indian government forces and armed militant groups waging a brutal separatist struggle with the backing of the Pakistani government. In many other cases Indian security forces have shot civilians under the authority of laws such as the Jammu and Kashmir Disturbed Areas Act and the Armed Forces (Jammu and Kashmir) Special Powers Act, which allow lethal force to be used \"against any person who is acting in contravention of any law or order for the time being in force in the disturbed area.\" For example, on February 23, 2006, soldiers in Handwara shot at a group playing cricket, suspecting that a militant was hiding among them, and killed four boys, including an eight-year-old.",
+      "bm25_score_raw": 1.184811934172078,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/HI/1062",
+    "text": "प्रत्येक याचिकाकर्ता की परिस्थितियों के संदर्भ के बिना सरोगेसी की आयु सीमा को चुनौती देने पर फैसला नहीं सुनाया जा सकता: सुप्रीम कोर्ट",
+    "lang": "hindi"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "The Supreme Court hearing a batch of pleas challenging ...",
+      "url": "/goto?url=CAESYwHuR6pNld0rMJV5NME9yvHtEUzHSpIPIrvSlwAuF59XCh7vH6dec0LEsvUpOvMLfC2l1u1u_YW0xgUBNX3Yf6FyDeM9mhnF1FI4oYZDPed8vGpQmWyq-xxZ2AgyGTUIeJKqvA%3D%3D",
+      "snippet": "Can't Rule On Challenge To Surrogacy Age Limit Without Reference To Circumstances Of Each Petitioner, Says Supreme Court The Supreme Court,",
+      "bm25_score_raw": 8.580957399957875,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9453081488609314,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Supreme Court held that the surrogacy age limits don't ...",
+      "url": "/goto?url=CAESxgEB7keqTYxSzNnIkUNEabwnqlM4OWZX80Gt4xhlhaxl_t1NcDaG5RRmKCsfcbUt-nfEzPhavH653WePJPLZpBCqocd3yz-6eZEGNYo_ggUwts5vN7GhQ43EVaqYCVuFWjGPp646D2-8aXyDV-E2YHHYWkU2sP0zqxKJKCCGJkYY7aDXkt34mPJBcqkQxTazgfnGy5560ZTjSlcW0xmxLyFydFhPx79RnVRgZ9g31Y1ReDzX4CR1ZqCD_vkxc1dW80QzJvx1MAU%3D",
+      "snippet": "Supreme Court held that the surrogacy age limits don't apply to couples who began the process before the Surrogacy Act came into force.",
+      "bm25_score_raw": 0.5350318537218773,
+      "bm25_score_norm": 0.02990166345554611,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.8777646422386169,
+      "embedding_score_norm": 0.6398189165058629,
+      "embedding_rank": 2
+    },
+    {
+      "title": "SC exempts pre-2022 Surrogacy Cases from Age ...",
+      "url": "/goto?url=CAESkwEB7keqTUVpYKrGAVnf6z81mQS0IaDBGtbrGmQz58-1C7YJmPERqvAjPc_K-Fo6-zjb09Qf9Cb-0fprmRYwyuyVCG8j6R4KA9t4pKOuZin3Sbn1pGO1n2ZHrqWHzzoAOmPWk9IFSo5lQyPzlCY0OoeG4jmFML88jdvLYERXA-A6qrsZIarojMobCwwUVIHZYEHY_Qc%3D",
+      "snippet": "Oct 10, 2025 — The Supreme Court has ruled that age limits prescribed under the Surrogacy (Regulation) Act, 2021 do not apply retrospectively to couples ...Read more",
+      "bm25_score_raw": 1.9459618586503913,
+      "bm25_score_norm": 0.20001768589402452,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8678662776947021,
+      "embedding_score_norm": 0.5870351058253949,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Age Bar Won't Affect Couples Who Began Process Before ...",
+      "url": "/goto?url=CAESngEB7keqTXa0Zx7BYBzc-2f5u0Z9y8X0ORFcS9qTHWqhlvG85JUWh_Rw_nd4YLx8lLBbvASEw1jMMFuXdOok686LIivRF0mMInfaV3QyAuUxBvXuAxZ7S06k7491yo0eCkl9LSP7mV97Rqr769SNAemhd-PDqpE3zzrGURZzitfLxnook0dJgUWQMLTNCOHySZY2SiuBfF-qgOzwLsPSFg%3D%3D",
+      "snippet": "Oct 9, 2025 — The Supreme Court on Thursday ruled that the age restrictions under the Surrogacy (Regulation) Act, 2021 will not apply retrospectively to",
+      "bm25_score_raw": 1.8129273525644547,
+      "bm25_score_norm": 0.18397769741596126,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8657653331756592,
+      "embedding_score_norm": 0.5758316532498372,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Supreme Court Reserves Verdict on Challenge to Age ...",
+      "url": "/goto?url=CAESrAEB7keqTVkaStgzre9HxpX01iOU1tw5nv4ta2JJfVYXx-HvT7HlplhzE6F2gMletD6v5s3zCQpCPb1r0dXco0ifJGUanxw86mOEiVfeW5ebr4W2_Z_skFx0HN7wreB4e5Y9Bc9kMPuHfK0vl3p2bvwljqmwHgD4lWSEEO6vzjARGAqM9iBuHuzdqZLVLEeDUIhL1o8n_bDKuUtII9LhljjNczkBehyU3VH9EbxZ",
+      "snippet": "The law allows only widowed/divorced single women between 35 and 45 years to avail surrogacy. The exclusion of unmarried single women is challenged as ...Read more",
+      "bm25_score_raw": 1.4907432809764338,
+      "bm25_score_norm": 0.14513192012003864,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8553381562232971,
+      "embedding_score_norm": 0.5202279086369377,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Supreme Court: Age Bar In Surrogacy Act Won't Apply To ...",
+      "url": "/goto?url=CAESugEB7keqTVAfCEKJ-SoVJQpftX71bMWlmEKpRwsXYhNC0FgUgyZc1E3xZ6AHRtzE6KMhEZufgYGmQzooBWVtmqaxSIObCmFCQzeXND9Pf0QW2TDFJ7qzxsVAI-19sQgViv6vbLbIJuSB1J_9CJwRm3U5wo6Qy0q_TF5maAQi1ym2E9LesnllV0dXR2uWeZruBSmdyJyQ9lSTWf0AC2v0BSG7VjBGiypEnwOCQhrzWy9GYcDH5OjXQJp_v0Q%3D",
+      "snippet": "Oct 10, 2025 — The law mandates that the woman must be between 23 and 50 years of age and the man between 26 and 55 years. The Hon'ble Court clarified that ...Read more",
+      "bm25_score_raw": 0.28702961641373703,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.8437960147857666,
+      "embedding_score_norm": 0.45867852784954927,
+      "embedding_rank": 6
+    },
+    {
+      "title": "V 2 राष्ट्रीय आय सह मेधा छात्रवृति परीक्षा 2026 l मानसिक योग्यता ...",
+      "url": "https://www.youtube.com/watch?v=pLnDYB4Opxk",
+      "snippet": "V 2 राष्ट्रीय आय सह मेधा छात्रवृति परीक्षा 2026 l मानसिक योग्यता परीक्षा सेट 2025 l Rashtriy aay sah medha Pariksha 2026 set 2025 solution राष्ट्रीय आय सह मेधा छात्रवृत्ति",
+      "bm25_score_raw": 1.0274527518792185,
+      "bm25_score_norm": 0.08927291806597885,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.7922325134277344,
+      "embedding_score_norm": 0.18371208449122156,
+      "embedding_rank": 7
+    },
+    {
+      "title": "राष्ट्रीय आय में निम्न में से किसी सम्मिलित नहीं किया जाता है A. हस्तान्त..",
+      "url": "https://askfilo.com/user-question-answers-smart-solutions/14-raassttriiy-aay-men-nimn-men-se-kisii-smmilit-nhiin-kiyaa-3434373136373335",
+      "snippet": "14. राष्ट्रीय आय में निम्न में से किसी सम्मिलित नहीं किया जाता",
+      "bm25_score_raw": 1.0122775157524184,
+      "bm25_score_norm": 0.08744323778386824,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.7883381843566895,
+      "embedding_score_norm": 0.16294526715473054,
+      "embedding_rank": 8
+    },
+    {
+      "title": "राष्ट्रीय आय सह मेधा छात्रवृत्ति योजना|Rashtriya Aay Sah Medha ...",
+      "url": "https://www.youtube.com/watch?v=LcWXt_V3CGs",
+      "snippet": "राष्ट्रीय आय सह मेधा छात्रवृत्ति योजना से संबंधित सभी जानकारियां योजना के बारे में जानकारी योजना के लाभ लेने के लिए आहर्ता परिक्षा शुल्क परिक्षा केन्द्र परीक्षा पाठ्यक्रम चयन प्रक्रिया छात्रवृत्ति कि संख्या आरक्षण",
+      "bm25_score_raw": 0.8660111644351374,
+      "bm25_score_norm": 0.06980788392806472,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.7859134078025818,
+      "embedding_score_norm": 0.1500149546766818,
+      "embedding_rank": 9
+    },
+    {
+      "title": "राष्ट्रीय आय सह मेधा छात्रवृत्ति परीक्षा के लिए आवेदन 26 से विद्यार्थियों..",
+      "url": "https://askfilo.com/user-question-answers-smart-solutions/raassttriiy-aay-sh-medhaa-chaatrvrtti-priikssaa-ke-lie-3435343836353535",
+      "snippet": "राष्ट्रीय आय सह मेधा छात्रवृत्ति परीक्षा के लिए आवेदन",
+      "bm25_score_raw": 1.062107037949894,
+      "bm25_score_norm": 0.09345119004700968,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.7833836078643799,
+      "embedding_score_norm": 0.13652459670844547,
+      "embedding_rank": 10
+    },
+    {
+      "title": "ब्याज दर स्थिर रहने से आवास मांग को मिलेगा समर्थन,किफायती मकान के लिए ...",
+      "url": "https://hindi.theprint.in/india/economy/stable-interest-rates-will-support-housing-demand-help-needed-for-affordable-housing-industry/981872?amp=",
+      "snippet": "उन्होंने कहा, ''ब्याज दरों में कोई बदलाव नहीं होने से आवास ऋण लेने वालों को राहत मिलेगी और उनकी ईएमआई पर कोई अतिरिक्त बोझ नहीं पड़ेगा…। साथ ही आरबीआई का यह फैसला विकास को गति देने और महंगाई को नियंत्रण",
+      "bm25_score_raw": 1.2093260581094936,
+      "bm25_score_norm": 0.11120140731459846,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.7722307443618774,
+      "embedding_score_norm": 0.07705107125386938,
+      "embedding_rank": 11
+    },
+    {
+      "title": "चालू वित्त वर्ष में 6.5-6.7% की दर से बढ़ेगी देश की आर्थिकी | Dainik Jagran - Kanpur",
+      "url": "https://www.pressreader.com/india/dainik-jagran-kanpur/20260720/282419881024314",
+      "snippet": "इन हालात को देखते हुए आरबीआइ ने पिछले महीने चालू वित्त वर्ष के लिए भारत की जीडीपी वृद्धि का अनुमान पहले के 6.9 प्रतिशत से घटाकर 6.6 प्रतिशत कर दिया था। पिछले वित्त वर्ष यानी 2025-26 में आर्थिक विकास",
+      "bm25_score_raw": 1.1857635081769975,
+      "bm25_score_norm": 0.10836046746710591,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.7577816247940063,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

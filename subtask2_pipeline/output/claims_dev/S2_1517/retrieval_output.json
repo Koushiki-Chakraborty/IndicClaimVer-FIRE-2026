@@ -1,0 +1,108 @@
+{
+  "claim": {
+    "id": "S2/1517",
+    "text": "Former Army Chief Gen Singh's photograph on BJP poll poster: Army may move EC",
+    "lang": "dev"
+  },
+  "generated_queries": {
+    "english_translation": "Former Army Chief Gen Singh's photograph on BJP poll poster: Army may move EC",
+    "native_query": "Army Singh BJP EC Chief Gen photograph poll",
+    "english_query": "Army Singh BJP EC Chief Gen photograph poll"
+  },
+  "native_retrieval": [
+    {
+      "title": "Gen Singh's photograph in poll poster: Army may move EC",
+      "url": "https://www.deccanherald.com/india/gen-singhs-photograph-in-poll-poster-army-may-move-ec-358083.html",
+      "snippet": "The Army may take up the issue of a photograph of Army Chief Gen Bikram Singh used on a BJP poll poster in Madhya Pradesh with the Election Commission."
+    },
+    {
+      "title": "Gen Bikram Singh's pic in BJP poll poster: Army may move EC",
+      "url": "https://www.dailymotion.com/video/x55vver",
+      "snippet": "The Army may take up the issue of a photograph of Army Chief Gen Bikram Singh used on a BJP poll poster in Madhya Pradesh with the Election Commission."
+    },
+    {
+      "title": "Army Chief Gen Bikram Singh's photograph on BJP poll poster",
+      "url": "https://www.youtube.com/watch?v=WEz7b-r9hfY",
+      "snippet": "Army Chief Gen Bikram Singh's photograph on BJP poll poster: Army may move EC. @headlinestodayNo likes114 views12 years ago"
+    },
+    {
+      "title": "Election Commission bars use of defence personnel's ...",
+      "url": "https://timesofindia.indiatimes.com/india/armed-forces-cannot-be-used-in-election-campaigning-ec/articleshow/68337322.cms",
+      "snippet": "Political parties & candidates will not be able to use photographs of any defence personnel or functions of the defence forces in poll"
+    },
+    {
+      "title": "'Political parties and candidates will not be able to use ...",
+      "url": "https://www.facebook.com/TimesofIndia/posts/political-parties-and-candidates-will-not-be-able-to-use-photographs-of-any-defe/10157338922222139",
+      "snippet": "'Political parties and candidates will not be able to use photographs of any defence personnel or functions of the defence forces in their"
+    },
+    {
+      "title": "[JUST IN] Pritam Singh, 50, won the secret vote with a “ ...",
+      "url": "https://www.instagram.com/p/DaIBBvXJdtF",
+      "snippet": "Former Chief Election Commissioner, SY Quraishi, recalled a stark statement made by former Prime Minister Dr. Manmohan Singh in 2012 over \"loose"
+    }
+  ],
+  "english_retrieval": [
+    {
+      "title": "Gen Singh's photograph in poll poster: Army may move EC",
+      "url": "https://www.deccanherald.com/india/gen-singhs-photograph-in-poll-poster-army-may-move-ec-358083.html",
+      "snippet": "The Army may take up the issue of a photograph of Army Chief Gen Bikram Singh used on a BJP poll poster in Madhya Pradesh with the Election Commission."
+    },
+    {
+      "title": "Gen Bikram Singh's pic in BJP poll poster: Army may move EC",
+      "url": "https://www.dailymotion.com/video/x55vver",
+      "snippet": "The Army may take up the issue of a photograph of Army Chief Gen Bikram Singh used on a BJP poll poster in Madhya Pradesh with the Election Commission."
+    },
+    {
+      "title": "Army Chief Gen Bikram Singh's photograph on BJP poll poster",
+      "url": "https://www.youtube.com/watch?v=WEz7b-r9hfY",
+      "snippet": "Army Chief Gen Bikram Singh's photograph on BJP poll poster: Army may move EC. @headlinestodayNo likes114 views12 years ago"
+    },
+    {
+      "title": "Election Commission bars use of defence personnel's ...",
+      "url": "https://timesofindia.indiatimes.com/india/armed-forces-cannot-be-used-in-election-campaigning-ec/articleshow/68337322.cms",
+      "snippet": "Political parties & candidates will not be able to use photographs of any defence personnel or functions of the defence forces in poll"
+    },
+    {
+      "title": "'Political parties and candidates will not be able to use ...",
+      "url": "https://www.facebook.com/TimesofIndia/posts/political-parties-and-candidates-will-not-be-able-to-use-photographs-of-any-defe/10157338922222139",
+      "snippet": "'Political parties and candidates will not be able to use photographs of any defence personnel or functions of the defence forces in their"
+    },
+    {
+      "title": "[JUST IN] Pritam Singh, 50, won the secret vote with a “ ...",
+      "url": "https://www.instagram.com/p/DaIBBvXJdtF",
+      "snippet": "Former Chief Election Commissioner, SY Quraishi, recalled a stark statement made by former Prime Minister Dr. Manmohan Singh in 2012 over \"loose"
+    }
+  ],
+  "merged_results": [
+    {
+      "title": "Gen Singh's photograph in poll poster: Army may move EC",
+      "url": "https://www.deccanherald.com/india/gen-singhs-photograph-in-poll-poster-army-may-move-ec-358083.html",
+      "snippet": "The Army may take up the issue of a photograph of Army Chief Gen Bikram Singh used on a BJP poll poster in Madhya Pradesh with the Election Commission."
+    },
+    {
+      "title": "Gen Bikram Singh's pic in BJP poll poster: Army may move EC",
+      "url": "https://www.dailymotion.com/video/x55vver",
+      "snippet": "The Army may take up the issue of a photograph of Army Chief Gen Bikram Singh used on a BJP poll poster in Madhya Pradesh with the Election Commission."
+    },
+    {
+      "title": "Army Chief Gen Bikram Singh's photograph on BJP poll poster",
+      "url": "https://www.youtube.com/watch?v=WEz7b-r9hfY",
+      "snippet": "Army Chief Gen Bikram Singh's photograph on BJP poll poster: Army may move EC. @headlinestodayNo likes114 views12 years ago"
+    },
+    {
+      "title": "Election Commission bars use of defence personnel's ...",
+      "url": "https://timesofindia.indiatimes.com/india/armed-forces-cannot-be-used-in-election-campaigning-ec/articleshow/68337322.cms",
+      "snippet": "Political parties & candidates will not be able to use photographs of any defence personnel or functions of the defence forces in poll"
+    },
+    {
+      "title": "'Political parties and candidates will not be able to use ...",
+      "url": "https://www.facebook.com/TimesofIndia/posts/political-parties-and-candidates-will-not-be-able-to-use-photographs-of-any-defe/10157338922222139",
+      "snippet": "'Political parties and candidates will not be able to use photographs of any defence personnel or functions of the defence forces in their"
+    },
+    {
+      "title": "[JUST IN] Pritam Singh, 50, won the secret vote with a “ ...",
+      "url": "https://www.instagram.com/p/DaIBBvXJdtF",
+      "snippet": "Former Chief Election Commissioner, SY Quraishi, recalled a stark statement made by former Prime Minister Dr. Manmohan Singh in 2012 over \"loose"
+    }
+  ]
+}

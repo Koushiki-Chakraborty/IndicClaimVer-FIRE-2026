@@ -1,0 +1,76 @@
+{
+  "claim": {
+    "id": "S2/1490",
+    "text": "[Kerala Co-operative Societies Rules] 15 Days' Notice For 'No Confidence Motion' To Be Computed From Date Of Issuance Of Notice: High Court",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Cooperative Societies Rules: 15 Days' Notice For No ...",
+      "url": "https://www.verdictum.in/court-updates/high-courts/no-confidence-motion-15-days-notice-kerala-cooperative-society-rules-1482865",
+      "snippet": "Jun 30, 2023 — The Kerala High Court has held that under the Kerala Co-operative Societies Rules, 1969, 15 days of notice for the no-confidence motion must be computed from ...Read more",
+      "bm25_score_raw": 2.4401805001614156,
+      "bm25_score_norm": 0.42152258701590156,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.9298400282859802,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "[Kerala Co-operative Societies Rules] 15 Days' Notice For ' ...",
+      "url": "https://www.livelaw.in/high-court/kerala-high-court/kerala-high-court-co-operative-societies-rules-no-confidence-motion-15-days-notice-date-of-issue-231545",
+      "snippet": "Jun 29, 2023 — The Kerala High Court recently held that 'fifteen clear days notice' prescribed for convening a meeting for removal of the President or Vice-President of a ...Read more",
+      "bm25_score_raw": 1.776556000950187,
+      "bm25_score_norm": 0.20193241031531442,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8932653069496155,
+      "embedding_score_norm": 0.40893368176997597,
+      "embedding_rank": 2
+    },
+    {
+      "title": "THE KERALA CO-OPERATIVE SOCIETIES ACT, 1969 ( ...",
+      "url": "https://www.indiacode.nic.in/bitstream/123456789/17772/1/kcs_act_1969.pdf",
+      "snippet": "Written Page 25 notice of the general body meeting shall be given to each member before fifteen clear days of such meeting.",
+      "bm25_score_raw": 1.6416100870174009,
+      "bm25_score_norm": 0.1572794520222681,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.879022479057312,
+      "embedding_score_norm": 0.17876225363888645,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Kerala High Court",
+      "url": "https://indiankanoon.org/doc/113118067",
+      "snippet": "The Kerala Co-operative Deposit Guarantee Fund Board shall sanction the assistance within 15 days.",
+      "bm25_score_raw": 1.1662951200514171,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8751157522201538,
+      "embedding_score_norm": 0.11562753753993842,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Kerala Co-operative Societies Rules 1969 | PDF",
+      "url": "https://www.scribd.com/document/829285207/KCS-RULES",
+      "snippet": "Rule – 8A General Body Meeting. ➢ A notice of the general body meeting shall be given to every member at least 15 days before the meeting. Rule 9 – Procedure ...Read more",
+      "bm25_score_raw": 4.188399793322324,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8712106943130493,
+      "embedding_score_norm": 0.052519792209493515,
+      "embedding_rank": 5
+    },
+    {
+      "title": "the kerala co-operative societies rules, 1969",
+      "url": "https://www.legitquest.com/act/the-kerala-co-operative-societies-rules-1969/DE4C",
+      "snippet": "the society shall convene a meeting of a special general body, called for the purpose, giving 15 clear day's notice and pass a resolution for amalgamation,",
+      "bm25_score_raw": 1.5966002141060327,
+      "bm25_score_norm": 0.14238590008495125,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8679608106613159,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6
+    }
+  ]
+}

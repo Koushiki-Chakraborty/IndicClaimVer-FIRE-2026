@@ -1,0 +1,76 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1202",
+    "text": "Registrar Is Bound In Law To Incorporate Change In Register Of Births And Deaths On Basis Of Registered Adoption Deed: Gujarat High Court",
+    "lang": "english"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Registrar Is Bound In Law To Incorporate Change ...",
+      "url": "https://www.livelaw.in/high-court/gujarat-high-court/gujarat-high-court-adoption-deed-birth-certificate-name-change-232407",
+      "snippet": "The Gujarat High Court has said the Registrar is bound in law to incorporate change in the register of Births and Deaths on the basis of the Registered",
+      "bm25_score_raw": 5.568003166570359,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.955389142036438,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "authorities can't insist for civil court decree to make ...",
+      "url": "https://www.facebook.com/groups/737544993529857/posts/1234109983873353",
+      "snippet": "AUTHORITIES CAN'T INSIST FOR CIVIL COURT DECREE TO MAKE CHANGES IN BIRTH RECORDS WHEN REGISTERED DEED OF ADOPTION PRESENT: GUJARAT HIGH",
+      "bm25_score_raw": 1.9002639407366841,
+      "bm25_score_norm": 0.2479635339969377,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.897919237613678,
+      "embedding_score_norm": 0.3363903533525128,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Adoption deed valid for changing father's name on birth cert",
+      "url": "https://www.ahmedabadmirror.com/adoption-deed-valid-for-changing-fathers-name-on-birth-cert-hc/81859748.html",
+      "snippet": "The Registrar is bound",
+      "bm25_score_raw": 0.6909268655672375,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8954713344573975,
+      "embedding_score_norm": 0.3081242171046292,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Daxaben Pravinbhai Pansuriya vs The Registrar Of Birth ...",
+      "url": "https://indiankanoon.org/doc/42386697",
+      "snippet": "The Registrar is bound in law to incorporate change in the register of Births and Deaths … binding to the respondent authority under the Registration of Births",
+      "bm25_score_raw": 3.297966215045327,
+      "bm25_score_norm": 0.5345496335462029,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8939847946166992,
+      "embedding_score_norm": 0.2909590210194502,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Gujarat High Court Directs Authority To Make Inquiry Under ...",
+      "url": "https://libertatem.in/law/high-court/gujarat-high-court-directs-authority-to-make-inquiry-under-s-15-of-births-and-deaths-act-before-changing-name-on-birth-certificate",
+      "snippet": "Gujarat High Court Directs Authority To Make Inquiry Under S. 15 of Births and Deaths Act Before Changing Name on Birth Certificate. Respondents be directed to",
+      "bm25_score_raw": 2.209625865488062,
+      "bm25_score_norm": 0.311395374234448,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8912768363952637,
+      "embedding_score_norm": 0.2596900078461602,
+      "embedding_rank": 5
+    },
+    {
+      "title": "in the high court of gujarat at ahmedabad",
+      "url": "https://images.assettype.com/barandbench/2023-02/6e1a1eec-a1be-4bcb-bc63-a6f807f1f36d/_Khojema_Saidudin_Dodiya_vs_Registrar__Birth_and_Death.pdf",
+      "snippet": "C/SCA/416/2022 CAV JUDGMENT DATED: 17/02/2023 IN THE HIGH COURT OF GUJARAT AT AHMEDABAD R/SPECIAL CIVIL APPLICATION NO. 1,2 Page 1 of 37 Downloaded on : Fri Feb 17 16:15:55 IST 2023 C/SCA/416/2022 CAV JUDGMENT DATED: 17/02/2023 MR KAUSHAL PANDYA FOR THE RESPONDENT(S) NO. The Petitioner No.1 Alpaben was earlier married Page 2 of 37 Downloaded on : Fri Feb 17 16:15:55 IST 2023 C/SCA/416/2022 CAV JUDGMENT DATED: 17/02/2023 with one Manishbhai Sankharva. Learned Counsels for the respective petitioners contend that it is a settled position of law as set out in various decisions of this Court that on the basis of a registered deed of adoption, the authorities are bound to accept the adoption as valid and change the birth Page 6 of 37 Downloaded on : Fri Feb 17 16:15:55 IST 2023 C/SCA/416/2022 CAV JUDGMENT DATED: 17/02/2023 records without insisting for a decree of a competent court under the provisions of the Hindu Adoptions and Maintenance Act, 1956.",
+      "bm25_score_raw": 1.6047897686240873,
+      "bm25_score_norm": 0.18737925073447909,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8687871694564819,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6
+    }
+  ]
+}

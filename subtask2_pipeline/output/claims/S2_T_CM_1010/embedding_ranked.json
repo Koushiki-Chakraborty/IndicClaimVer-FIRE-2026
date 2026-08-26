@@ -1,0 +1,120 @@
+{
+  "claim": {
+    "id": "S2/T/CM/1010",
+    "text": "y question apne papa yogi and modi ke pita ji se kr le",
+    "lang": "codemix"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "@narendramodi ji please papa ko samjha lo 🙏🫣 . . . . . . . . . ...",
+      "url": "https://www.instagram.com/reel/DW_DM74Egdx",
+      "snippet": "kya modi Ji mujhe bachayenge? Le papa : Throwing me instantly out of house. Yogi Adityanath, I am the Modi ji of my house. If anything goes",
+      "bm25_score_raw": 5.863252950512145,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8646716475486755,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "PM Modi Enquired About Health Of Yogi Adityanath's Father On Sunday",
+      "url": "https://www.businessworld.in/article/pm-modi-enquired-about-health-of-yogi-adityanaths-father-on-sunday-189637",
+      "snippet": "Narendra Modi had spoken to Uttar Pradesh Chief Minister Yogi Adityanath on Sunday and enquired about the health of his father Anand Singh Bisht's.",
+      "bm25_score_raw": 3.882852861229207,
+      "bm25_score_norm": 0.5997717848717408,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8595539927482605,
+      "embedding_score_norm": 0.8869050363218451,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Sorry pitaji🚩😶 . . . . #explore #foryou #relatable #funny #bjp",
+      "url": "https://www.instagram.com/reel/DadFyOLzaCN",
+      "snippet": "Kya bola Modi ji ke baare mein? Papa sorry papa sorry. Modi ji ke baare mein kaise bola nalaayak? Yeh le! English Transcript. Hey dad, please ...Read more",
+      "bm25_score_raw": 3.0497493451323487,
+      "bm25_score_norm": 0.4314060414702389,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8521076440811157,
+      "embedding_score_norm": 0.7223483077247311,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Father Of 4 Writes To PM Modi, Yogi Adityanath; Seeks Security For ...",
+      "url": "https://www.youtube.com/watch?v=2JOKKsvs_Xo",
+      "snippet": "In the letter, the father has stated that his daughters are being harassed by young men in the neighbourhood. \"Even living at home has become",
+      "bm25_score_raw": 2.139632434362832,
+      "bm25_score_norm": 0.2474763048849321,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.846630871295929,
+      "embedding_score_norm": 0.6013172019995127,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Modi ji One Question, Ans is beta yoga se sab hoga 🧘😌 ...",
+      "url": "https://www.instagram.com/reel/DbAPP4uTipS",
+      "snippet": "Main na Modiji se actually ek hi cheez poochna chahta hoon... ki Modiji ka skincare routine kya hai? Kyunki Modiji ka glow badhe hi ja raha ...Read more",
+      "bm25_score_raw": 1.3278770076256752,
+      "bm25_score_norm": 0.08342489561574457,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.8404820561408997,
+      "embedding_score_norm": 0.46543464372978915,
+      "embedding_rank": 5
+    },
+    {
+      "title": "\"Help My 4 Daughters\": A Father's SOS To Yogi Adityanath, PM Modi",
+      "url": "https://www.ndtv.com/meerut-news/help-my-4-daughters-a-fathers-sos-to-yogi-adityanath-pm-narendra-modi-1873978",
+      "snippet": "The man says in the letter that his daughters, aged 17, 16, 14 and 12, have even stopped going to the local madrasa because of the unending",
+      "bm25_score_raw": 1.8815537388479855,
+      "bm25_score_norm": 0.1953199874683156,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8390184640884399,
+      "embedding_score_norm": 0.43309074863175645,
+      "embedding_rank": 6
+    },
+    {
+      "title": "Yogi Adityanath - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Yogi_Adityanath",
+      "snippet": "# Yogi Adityanath. A member of the Bharatiya Janata Party, Adityanath has served as the chief minister of Uttar Pradesh since 2017. | Member \"Member of the Legislative Assembly (India)\") of Uttar Pradesh Legislative Assembly |. | **In office** 18 September 2017 – 22 March 2022 |. In 2017, he moved from central to the UP state politics and was elected as the chief minister of Uttar Pradesh. Yogi Adityanath was born as Ajay Mohan Singh Bisht on 5 June 1972 in the village of Panchur, in Pauri Garhwal, Uttar Pradesh (now in Uttarakhand) in a Garhwali Rajput family. Adityanath was elected as a Member of Parliament from Gorakhpur \"Gorakhpur (Lok Sabha Constituency)\") for the first time in 1998 during the 12th Lok Sabha at the age of 26; he was its youngest member at that time. Adityanath was a prominent campaigner for the BJP in the 2017 assembly elections in the state of Uttar Pradesh.",
+      "bm25_score_raw": 0.9150758494842015,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.8376190662384033,
+      "embedding_score_norm": 0.40216548008719877,
+      "embedding_rank": 7
+    },
+    {
+      "title": "\"Yogi Adityanath received the news of his father's death during a meeting on ...",
+      "url": "https://www.instagram.com/p/B_M4_ksgzg3?hl=en",
+      "snippet": "Yogi Adityanath received the news of his father's death during a meeting on the COVID-19 crisis. His father (89 years) took his last breaths today in AIIMS at",
+      "bm25_score_raw": 1.7456917998786774,
+      "bm25_score_norm": 0.1678630197415372,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.835304856300354,
+      "embedding_score_norm": 0.3510237952541212,
+      "embedding_rank": 8
+    },
+    {
+      "title": "Modi paglu papa 🪷❤️ watch till the end 🙏🏻",
+      "url": "https://www.instagram.com/reel/DarTN3XMprz",
+      "snippet": "Modi ji toh vote chori karke jeete hain. Ab main Modi ji ke chakkar mein apne bete ko thodi maarunga? Aaja beta, aaja, bahar aaja. English ...Read more",
+      "bm25_score_raw": 5.068261036742731,
+      "bm25_score_norm": 0.8393364066123946,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8282675743103027,
+      "embedding_score_norm": 0.1955070239796624,
+      "embedding_rank": 9
+    },
+    {
+      "title": "'I Urge His Father': PM Modi Reacts To Content Creator's Reel After He Says ...",
+      "url": "https://www.facebook.com/ibtimes.india/posts/i-urge-his-father-pm-modi-reacts-to-content-creators-reel-after-he-says-his-dad-/1264709579187647",
+      "snippet": "A video showing Prime Minister Narendra Modi claiming that he is the son of a Pathaan is going viral. However, the viral claim is false.",
+      "bm25_score_raw": 1.289462298198866,
+      "bm25_score_norm": 0.07566148928600165,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.8194206953048706,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 10
+    }
+  ]
+}

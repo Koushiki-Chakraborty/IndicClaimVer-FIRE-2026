@@ -1,0 +1,99 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1144",
+    "text": "Kerala High Court Intervenes In Lokayukta's Decision, Stays Referral Of CMDRF Misappropriation Complaint To Full Bench",
+    "lang": "english"
+  },
+  "entity_ranked_evidence": [
+    {
+      "title": "Case Against Pinarayi Vijayan Over Misuse Of CMDRF ...",
+      "url": "https://www.youtube.com/watch?v=ju3lz_eovik",
+      "snippet": "Kerala Lokayukta referred the case to a three-judge bench, and CM Pinarayi Vijayan and other 18 Cabinet ministers were named respondents in",
+      "bm25_score_raw": 1.0311188938166282,
+      "bm25_score_norm": 0.10136383619306133,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.878581166267395,
+      "embedding_score_norm": 0.39016586746324977,
+      "embedding_rank": 4,
+      "entity_overlap_raw": 3,
+      "entity_overlap_qid": 1,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 1
+    },
+    {
+      "title": "Kerala CMDRF funds misuse allegations: Case transferred ...",
+      "url": "https://www.thenewsminute.com/kerala/kerala-cmdrf-funds-misuse-allegations-case-transferred-three-judge-bench-175313",
+      "snippet": "Mar 31, 2023 — The Kerala Lokayukta, on Friday, March 31, referred the case pertaining to misuse of Chief Minister's Distress Relief Fund (CMDRF) by the previous government, ...Read more",
+      "bm25_score_raw": 0.765874690937619,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8794404864311218,
+      "embedding_score_norm": 0.44683201006210205,
+      "embedding_rank": 3,
+      "entity_overlap_raw": 2,
+      "entity_overlap_qid": 1,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 2
+    },
+    {
+      "title": "'Abuse' of CM's Disaster Relief Fund: Kerala Lokayukta ...",
+      "url": "https://organiser.org/2023/04/03/167450/bharat/abuse-of-cms-disaster-relief-fund-kerala-lokayukta-refers-case-against-pinarayi-team-to-three-member-bench",
+      "snippet": "Apr 3, 2023 — The Kerala Lok Ayukta on March 31 issued a split verdict on the alleged CMDRF misuse case involving Chief Minister Pinarayi Vijayan and his ...Read more",
+      "bm25_score_raw": 1.0695417207504987,
+      "bm25_score_norm": 0.11604723018669272,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8726644515991211,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6,
+      "entity_overlap_raw": 2,
+      "entity_overlap_qid": 1,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 3
+    },
+    {
+      "title": "HC upholds Lok Ayukta order referring case related to ...",
+      "url": "https://www.thehindu.com/news/cities/Kochi/hc-upholds-lok-ayukta-order-referring-case-related-to-cmdrf-to-full-bench/article67146979.ece",
+      "snippet": "Aug 1, 2023 — High Court upholds Lok Ayukta's referral of case on alleged misuse of CMDRF to its Full Bench. Petitioner to approach Lok Ayukta with plea.",
+      "bm25_score_raw": 2.8927883522316664,
+      "bm25_score_norm": 0.8128061824541973,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.887829065322876,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 4
+    },
+    {
+      "title": "Kerala HC refuses to stay Lokayukta order on misuse of ...",
+      "url": "https://www.thestatesman.com/india/kerala-hc-refuses-to-stay-lokayukta-order-on-misuse-of-cm-fund-1503185701.html",
+      "snippet": "May 29, 2023 — The Kerala High Court on Monday refused to stay an order of the Lokayukta referring an alleged case of misuse of Chief Minister's Distress ...Read more",
+      "bm25_score_raw": 0.8792931442788683,
+      "bm25_score_norm": 0.043343188657724935,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8820398449897766,
+      "embedding_score_norm": 0.6182414904488641,
+      "embedding_rank": 2,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 5
+    },
+    {
+      "title": "Kerala High Court Refuses To Stay Lokayukta Decision ...",
+      "url": "https://www.livelaw.in/high-court/kerala-high-court/kerala-high-court-refuses-stay-lokayukta-decision-complaint-chief-minister-full-bench-229678",
+      "snippet": "May 29, 2023 — The Kerala High Court on Monday refused to stay the order of the Lok Ayukta referring the case against the Chief Minister Pinarayi Vijayan",
+      "bm25_score_raw": 3.382628484409043,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8744298815727234,
+      "embedding_score_norm": 0.11641773445483845,
+      "embedding_rank": 5,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 6
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/HI/1033",
+    "text": "कोरोनाकाल में भ्रष्टाचार: एक और अफ्रीकी देश के स्वास्थ्य मंत्री पर लगे करप्शन के आरोप, सरकार ने छुट्टी पर भेजा",
+    "lang": "hindi"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Report: Corruption at S Africa health ministry during COVID",
+      "url": "https://apnews.com/article/coronavirus-pandemic-business-africa-health-south-africa-b41b697e2ec09287027dd942f5622d55",
+      "snippet": "Sep 29, 2021 — A report into dealings by senior officials at South Africa's health ministry during the coronavirus pandemic has revealed corruption,",
+      "bm25_score_raw": 1.0476086288800532,
+      "bm25_score_norm": 0.1530554970937894,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.8858880996704102,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "SA minister Zweli Mkhize put on leave over corruption allegations | Corruption News | Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2021/6/8/south-africa-health-minister-put-on-leave-over-corruption-allegations",
+      "snippet": "# SA minister Zweli Mkhize put on leave over corruption allegations. *South African health minister placed on special leave amid claims over the ministry’s award of COVID-19-related contracts.*. South Africa’s President Cyril Ramaphosa has put his Health Minister Zweli Mkhize on special leave, after allegations his department irregularly awarded COVID-19-related contracts to a communications company controlled by his former associates. “This period of special leave will enable the Minister to attend to allegations and investigations concerning contracts between the Department of Health and a service provider, Digital Vibes,” Ramaphosa’s office said in a statement on Tuesday. Earlier on Tuesday, Mkhize told the press that he had approached the president about taking a special leave pending an investigation into the contracts awarded to communications firm Digital Vibes. South Africa’s Special Investigating Unit (SIU) is probing the case, one of over 4,000 coronavirus-linked contracts suspiciously awarded since the start of the pandemic. Mkhize has been health minister since 2018 and led South Africa’s campaign against COVID-19. ## Our Network.",
+      "bm25_score_raw": 5.248296876237559,
+      "bm25_score_norm": 0.9559689097709001,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.885321855545044,
+      "embedding_score_norm": 0.9961135800105465,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Zimbabwe health minister facing coronavirus corruption charge sacked | Governance | The Guardian",
+      "url": "https://www.theguardian.com/global-development/2020/jul/09/zimbabwe-health-minister-facing-coronavirus-corruption-charge-sacked",
+      "snippet": "Former Zimbabwean health minister Obadiah Moyo. Obadiah Moyo has been charged with criminal abuse of office over the alleged awarding of a $60m contract for Covid-19 supplies. A Zimbabwean health minister charged with corruption in connection with the awarding of a multimillion dollar contract for Covid-19 medical supplies has been fired by the president. Last month, Moyo was arrested and charged with criminal abuse of office over the awarding of a $60m (£47m) contract to a company that allegedly sold supplies to the government at inflated prices. Moyo is currently on bail and is expected to appear in court again at the end of July. The Zimbabwean government has been criticised for failing to deal with corruption at a time when the country is in desperate need of an international bailout package to save the economy from collapse. The country is also facing a looming health crisis as it continues to record more Covid-19 cases, which currently stand at 885.",
+      "bm25_score_raw": 3.991723624553016,
+      "bm25_score_norm": 0.7157893348111342,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8734983801841736,
+      "embedding_score_norm": 0.9149630851465528,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Zimbabwe's health minister arrested in COVID-19 ...",
+      "url": "https://www.youtube.com/watch?v=Uz3z8nimAJM",
+      "snippet": "The country's anti-corruption agency arrested Obadiah Moyo on Friday as the scandal roiled the country and played out on social media,",
+      "bm25_score_raw": 2.9089726747757503,
+      "bm25_score_norm": 0.5088339006124821,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.8613905310630798,
+      "embedding_score_norm": 0.8318607892541715,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Zweli Mkhize: Ex-South African minister implicated in ...",
+      "url": "https://www.bbc.com/news/world-africa-58734557",
+      "snippet": "Sep 29, 2021 — A former South African health minister has been implicated in a corruption scandal involving the awarding of a Covid-19 communication contract.Read more",
+      "bm25_score_raw": 3.631263484620198,
+      "bm25_score_norm": 0.6468915104439986,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8607441186904907,
+      "embedding_score_norm": 0.8274241340135796,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Report implicates former South African health minister ...",
+      "url": "https://www.aa.com.tr/en/africa/report-implicates-former-south-african-health-minister-others-in-coronavirus-contract-scandal/2378559",
+      "snippet": "Sep 30, 2021 — Zweli Mkhize accused of lying to nation about benefiting from $10M contract. Zweli Mkhize, who resigned last month for interfering in the",
+      "bm25_score_raw": 5.478659055176646,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8566066026687622,
+      "embedding_score_norm": 0.7990262676990635,
+      "embedding_rank": 6
+    },
+    {
+      "title": "LOK SABHA DEBATES",
+      "url": "https://eparlib.sansad.in/bitstream/123456789/2989565/1/UCD_18_4_02-04-2025_Fullday.pdf",
+      "snippet": "(ends) (0210/PC/VR) माननीय अध्यक्ष : ल लजी जी, यूपी में थोड़ी न लग है। … (व्यिि न) 02-04-2025 MMN Uncorrected / Not for publication 564 0210 बजे श्री लालजी िमाा (अम्बेडकर नगर) : अध्यक्ष महोदय, िन्यि द। आपने मविपुर क े र ष्ट्रपवत श सन क े अनुमोदन क े संकल्प पर अपनी ब त रखने क अिसर वदय , इसक े वलए मैं आपक आभ री ह ं। वनवित रूप से मविपुर की घटन एं हुईं , वजस तरह से संिैि वनक द वयत्िों क वनिाहन िह ं की सरक र ने नहीं वकय और जो घटन एं िह ं हुईं , िे हम रे देश क े वलए एक क ल िब्ब है। स र विपक्ष एकजुट होकर उस समय सरक र से म ंग कर रह थ वक उस सरक र को बख ास्त करक े िह ं र ष्ट्रपवत श सन लग य ज ए। लेवकन, उस समय भ रतीय जनत प टी की सरक र ने वजद करक े अप्लसंख्यकों को डर ने-िमक ने क क म वकय और िह ं र ष्ट्रपवत श सन नहीं लग य । आज वजस तरह क वििेयक ल कर अल्पसंख्यकों को डर ने क क म वकय ज रह है, उसी तरह से मविपुर में बड़े लंबे समय तक इस देश की म नित कर ह रही थी। मवहल ओं की ब त करने ि ली सरक र, मवहल ओं क े स थ जो घटन एं हो रही थीं, उन पर क राि ई नहीं कर रही थी। वनवित रूप से िह ं र ष्ट्रपवत श सन की म ंग स रे विपक्षी दलों ने वमलकर करने क क म वकय थ । उस समय यह नहीं हुआ। आज आए हैं, लेवकन उसक े स थ-स थ सुि र त्मक क या होन च वहए। िह ं की जनत क विश्व स अवजात करक े वनवित रूप से वजतन जल्द हो सक े, स म न्य वस्थवत ल कर विर िह ं जनत को अपने मत क े अनुस र सरक र चुनने क अिसर देने क क म करन च वहए। वनवित रूप से आज यह जो संकल्प आय है, हम इसक े पक्ष में हैं। लेवकन, स थ ही स थ हम री यह म ंग है, हम रे दल की तरि से यह म ंग है वक िह ं की वस्थवत स म न्य करने क े वलए स रे क या वकए ज एं। िह ं क े विक स क क म वकय ज ए और िह ं क े लोगों को विर से अपनी इच्छ नुस र सरक र चुनने क अिसर वदय ज ए। िन्यि द। (इवत) 02-04-2025 MMN Uncorrected / Not for publication 565 0213 बजे सुश्री सयानी घोष (जादिपुर) : अध्यक्ष महोदय, िन्यि द, आपने मुझे बोलने क मौक वदय है। आज सदन में बहुत शेर बोले ज रहे थे, तो मैं भी एक शेर क े स थ अपनी ब त शुरू करन च हती ह ं। “तेर इंतज़ र करेंगे हम, च हे ज़म ने लग ज एं, य तो तू आ ज ए, य हम ही विक ने लग ज एं।” सर, यह शेर मुझे अच्छे वदनों की य द वदल त है। उन वदनों की य द वदल त है, वजनक ि द थ , इस सरक र की नेकी क जो इर द थ । जो इर दे िर्ा 2014 में क िी बुलंद थे, लेवकन िर्ा 2024 क े आते-आते इनकी नीवतयों में क ुछ थोड़े-बहुत घमंड थे। इस घमंड क े चलते पूिा में नोटबंदी और लॉकड उन जैसी घटन एं घटीं, वजनकी िजह से 700 से अविक वकस नों की मौत हुई। वजसक े चलते मविपुर पर प्रेसीडेंट्स रूल तो ल गू वकय गय , लेवकन बस यही बोलन थ वक 22 महीने लग गए और कई लोगों की ज नें चली गईं । सर, मैंने पहले भी यह चच ा की थी that President’s Rule was the only solution, and why it was not imposed months ago when people were dying.",
+      "bm25_score_raw": 4.090192903321738,
+      "bm25_score_norm": 0.7346106088511165,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.7696182131767273,
+      "embedding_score_norm": 0.20198092872346649,
+      "embedding_rank": 7
+    },
+    {
+      "title": "एसजेवीएन में आर एंड आर | sjvn | SJVN Limited - A Joint Venture of Govt. of India & Govt. of Himachal Pradesh",
+      "url": "https://sjvn.nic.in/hi/esajaevaiena-maen-ara-enda-ara",
+      "snippet": "Title: एसजेवीएन में आर एंड आर | sjvn | SJVN Limited - A Joint Venture of Govt. of India & Govt. of Himachal Pradesh\nUser Icon | नियोक्ता लॉगिन. Digital India Logo Emblem of India Great Place to Work Logo PCMM Logo. # एसजेवीएन लिमिटेड  SJVN Limited. (भारत सरकार और हिमाचल प्रदेश सरकार का संयुक्त उद्यम). एक नवरत्न सार्वजनिक क्षेत्र का उपक्रम | ISO 9001:2015 प्रमाणित कंपनी. # एसजेवीएन में आर एंड आर. **एसजेवीएन में आर एंड आर**. एसजेवीएन एक जिम्मेदार कॉर्पोरेट नागरिक है जो पुनर्वास में अत्यधिक सावधानी बरत रहा है और इसकी परियोजना प्रभावित परिवारों (पीएएफ) का पुनर्वास जिसकी जमीन, घर और अन्य संपत्ति का अधिग्रहण किया गया है या आजीविका का स्रोत रहा है लग जाना। इसने तैयार की गई R & amp; R योजना का पालन करके अपनाया है केंद्र और संबंधित राज्य सरकारों के अधिनियम और नीतियां जो हैं परियोजनाओं में सख्ती से लागू किया जा रहा है। विश्व बैंक मिशन ने निगरानी की है एनजेएचपीएस समय-समय पर आरएंडआर गतिविधियों को अंजाम दिया और इसकी सराहना की है पीएएफ के पुनर्वास के लिए किए गए प्रयासों के तहत;. > **\"इस परियोजना में किए गए पुनर्वास गतिविधि की सफलता है भारत के लिए काफी दुर्लभ है, और इसे सबसे अच्छे उदाहरणों में से एक माना जा सकता है भारत में बैंक-सहायता प्राप्त परियोजनाओं में पुनर्वास कार्यान्वयन। यह अन्य परियोजनाओं के लिए एक उदाहरण के रूप में माना जाना चाहिए।\"**. ## Accessibility Options. ### Text Size. ### Theme. ### Cursor Size. ### Line Height. ### Focus Mode. ### Text Alignment. ### Text Spacing. ### Visual Options. ### Quick Actions.",
+      "bm25_score_raw": 3.1083756711398225,
+      "bm25_score_norm": 0.5469474979282157,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.7553911805152893,
+      "embedding_score_norm": 0.10433360374634523,
+      "embedding_rank": 8
+    },
+    {
+      "title": "रजत पाटीदार के कैच को लेकर आर अश्विन ने आरसीबी फैंस को बताई सच्चाई, सुनकर लग जाएगी मिर्ची - ipl 2026 r ashwin reaction on jason holder controversial catch of rajat patidar",
+      "url": "https://www.jagran.com/cricket/apni-baat-ipl-2026-r-ashwin-reaction-on-jason-holder-controversial-catch-of-rajat-patidar-40224689.html",
+      "snippet": "Title: रजत पाटीदार के कैच को लेकर आर अश्विन ने आरसीबी फैंस को बताई सच्चाई, सुनकर लग जाएगी मिर्ची - ipl 2026 r ashwin reaction on jason holder controversial catch of rajat patidar\n### पॉलिटिक्स*+*. ### स्पोर्ट्स*+*. # रजत पाटीदार के कैच को लेकर आर अश्विन ने आरसीबी फैंस को बताई सच्चाई, सुनकर लग जाएगी मिर्ची. भारतीय क्रिकेट टीम के पूर्व ऑफ स्पिनर रविचंद्रन अश्विन ने जेसन होल्डर द्वारा लपके गए रजत पाटीदर के कैच को लेकर अपनी बात रखी है। उन्होंने न्यूट्रल तरीक ...और पढ़ें. **स्पोर्ट्स डेस्क, नई दिल्ली।** रॉयल चैलेंजर्स बेंगलुरू के कप्तान रजत पाटीदार का कैच विवाद का विषय बना हुआ है। इसे लेकर आरसीबी के फैंस काफी नाराज है। जेसन होल्डर ने जैसे ही ये कैच लपका, वैसे ही आरसीबा का खेमा इसके खिलाफ था और विराट कोहली चौथे अंपायर से बहस कर रहे थे। अब भारत के पूर्व ऑफ स्पिनर आर अश्विन ने इस कैच को लेकर जो कहा है वो आरसीबी के फैंस को बुरा लग सकता है।. अरशद खान की गेंद पर होल्डर ने ये कैच लपका था। वह डीप स्क्वायर लेग पर भागते हुए आए और डाइव मारते हुए एक हाथ से गेंद को अपने हाथों में ले लिया। कैच लेने के बाद जब होल्डर ने स्लाइड लगाई तो ऐसा लगा कि गेंद जमीन पर लगी है। वहीं जब होल्डर उठे तो वह गेंद को जमीन पर लगाते हुए उठे थे। यही दो बातें विवाद की वजह बनी हैं। अंपायर पर आरसीबी के विरोध का कोई असर नहीं हुआ और रजत को आउट दे दिया गया।. अश्विन ने इस कैच को पूरा एनालिसिस किया है जो आरसीबी के फैंस को चुभ सकता है। अश्विन ने अपने यूट्यूब चैनल पर बात करते हुए कहा, \"जेसन होल्डर के हाथ मेरे से दोगुने बड़े हैं। उनके हाथ में गेंद लगभग गायब हो जाती है। तो अगर आप उनकी उंगलियों के बीच में से गेंद को देख रहे हैं तब भी इसका ये साफ मतलब नहीं है कि गेंद जमीन से लगी हो। उन्होंने गेंद को अच्छे से कब्जा लिया होगा। गेंद शायद जमीन से नहीं लगी थी।\". अश्विन ने इसके बाद दोनों टीमों के फैंस के नजरिए को सामने रखा और फिर एक न्यूट्रल नजरिया भी बताया। उन्होंने कहा, \"अगर आप आरसीबी की साइड हैं तो आप दुर्भाग्यशाली महसूस कर सकते हैं। अगर आप गुजरात की साइड हैं तो आपको ये साफ आउट लगेगा, लेकिन अगर आप इसे न्यूट्रल होकर देखेंगे तो ये एक पूरा फेयर कैच था।\".",
+      "bm25_score_raw": 2.763623907681021,
+      "bm25_score_norm": 0.4810521496839639,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.7545284032821655,
+      "embedding_score_norm": 0.09841192697294111,
+      "embedding_rank": 9
+    },
+    {
+      "title": "‘सरक जाता साड़ी’ से छाईं शिल्पी राज, माही श्रीवास्तव की परफॉर्मेंस ने बढ़ाया क्रेज",
+      "url": "https://www.prabhatkhabar.com/entertainment/bhojpuri/mahi-shrivastava-new-bhojpuri-song-sarak-jata-saree-shilpi-raj-video/amp",
+      "snippet": "Title: ‘सरक जाता साड़ी’ से छाईं शिल्पी राज, माही श्रीवास्तव की परफॉर्मेंस ने बढ़ाया क्रेज\n# ‘सरक जाता साड़ी’ से छाईं शिल्पी राज, माही श्रीवास्तव की परफॉर्मेंस ने बढ़ाया क्रेज. Mahi Shrivastava New Bhojpuri Song Sarak Jata Saree: शिल्पी राज का नया भोजपुरी गाना ‘सरक जाता साड़ी’ रिलीज होते ही वायरल हो गया है. माही श्रीवास्तव की दमदार परफॉर्मेंस ने गाने को खास बना दिया है. ‘सरक जाता साड़ी’ से छाईं शिल्पी राज, माही श्रीवास्तव की परफॉर्मेंस ने बढ़ाया क्रेज. **Mahi Shrivastava New Bhojpuri Song Sarak Jata Saree:** भोजपुरी म्यूजिक इंडस्ट्री में इन दिनों शिल्पी राज और माही श्रीवास्तव की जोड़ी लगातार हिट साबित हो रही है. इसी बीच दोनों का नया देसी गाना ‘सरक जाता साड़ी’ रिलीज होते ही इंटरनेट पर छा गया है.वर्ल्डवाइड रिकॉर्ड्स भोजपुरी के ऑफिशियल यूट्यूब चैनल पर रिलीज हुआ यह गाना तेजी से वायरल हो रहा है और दर्शकों का खूब प्यार बटोर रहा है. ‘सरक जाता साड़ी’ एक ऐसा गाना है जिसमें देसीपन और मस्ती का शानदार मेल देखने को मिलता है. शिल्पी राज की आवाज में खास खनक है. गाने के बोल गौतम राय ने लिखे हैं, जबकि म्यूजिक विक्की वोक्स ने दिया है. वीडियो में माही श्रीवास्तव ने अपनी परफॉर्मेंस से चार चांद लगा दिए हैं. साड़ी में उनका देसी अंदाज और चुलबुलापन दर्शकों को काफी पसंद आ रहा है.वीडियो में माही के साथ अविनाश आर्या नजर आ रहे हैं और दोनों की केमिस्ट्री स्क्रीन पर शानदार लग रही है. फिल्म निर्माता रत्नाकर कुमार ने कहा कि ‘यह गाना हर पार्टी और शादी की जान बनेगा.’ सिंगर शिल्पी राज ने कहा कि ‘इस गाने के बोल बहुत ही प्यारे और मजेदार हैं. माही श्रीवास्तव ने वीडियो में कमाल अदाकारी दिखाई है. उसने गाने को एक अलग लेवल पर पहुंचा दिया है.’ वहीं माही श्रीवास्तव ने कहा कि ‘साड़ी एक ऐसा पहनावा है जो हर भारतीय महिला की खूबसूरती बढ़ा देता है. **यह भी पढ़ें**– ब्लैक साड़ी में एक्ट्रेस का जलवा, समर सिंह का चैता गीत ‘कटनिया करे में’ वायरल. **यह भी पढ़ें**–खेसारी लाल यादव-नीलम का रोमांस छाया, ‘राते भर में’ ने पार किए 8 मिलियन व्यूज. **यह भी पढ़ें**– खेसारी लाल का नया गाना ‘मटर के छेमी’ रिलीज, आकांक्षा पुरी संग दिखी जबरदस्त केमिस्ट्री. #### रिलीज होते ही वायरल हुआ टुनटुन यादव का गाना 'कमर प तिल', उजाला के स्टाइलिश लुक ने उड़ाए होश.",
+      "bm25_score_raw": 0.24685176309096743,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.7516159415245056,
+      "embedding_score_norm": 0.07842222803139737,
+      "embedding_rank": 10
+    },
+    {
+      "title": "उणें करप - Meaning in English - उणें करप Translation in English",
+      "url": "https://shabdkosh.com/dictionary/konkani-english/%E0%A4%89%E0%A4%A3%E0%A5%87%E0%A4%82%20%E0%A4%95%E0%A4%B0%E0%A4%AA/%E0%A4%89%E0%A4%A3%E0%A5%87%E0%A4%82%20%E0%A4%95%E0%A4%B0%E0%A4%AA-meaning-in-english",
+      "snippet": "##### SHABDKOSH Shabdkosh®. ##### SHABDKOSH Shabdkosh® SHABDKOSH Logo GET APP. #### View this site in. # उणें करप - Meaning in English. ## उणें करप - Meaning in English. ## More matches for उणें करप. ## Also See. Sentences with the word उणें. Words that rhyme with उणें. Sentences with the word करप. Words that rhyme with करप. ### What is उणें करप meaning in English? The word or phrase उणें करप refers to . See उणें करप meaning in English, उणें करप definition, translation and meaning of उणें करप in English. Learn and practice the pronunciation of उणें करप. Find the answer of what is the meaning of उणें करप in English. ### Tags for the entry \"उणें करप\". What is उणें करप meaning in English, उणें करप translation in English, उणें करप definition, pronunciations and examples of उणें करप in English. ## SHABDKOSH Apps. Download SHABDKOSH Apps for Android and iOS. Ad-free experience & much more. #### Vocabulary Lists. We provide a facility to save words in lists. ###### Basic Word Lists. ###### Custom Word Lists. You can create your own lists to words based on topics. ##### Sign In / Sign Up. ##### Saved Words. ##### Custom Word Lists. ### Sign In. All messages posted at this site express the views of the author, and do not necessarily reflect the views of the owners and administrators. By registering at this site you agree not to post any messages that are obscene, vulgar, slanderous, hateful, threatening, or that violate any laws. All messages posted at this site express the views of the author, and do not necessarily reflect the views of the owners and administrators. By registering at this site you agree not to post any messages that are obscene, vulgar, slanderous, hateful, threatening, or that violate any laws. ### Translation. If you want to access full services of shabdkosh.com. Please help Us by disabling your ad blockers. or try our SHABDKOSH Premium for ads free experience. Steps to disable Ads Blockers. ### Word Finder. ### Get our Apps. © 2026 SHABDKOSH.COM, All Rights Reserved. ### Liked Words. ##### Vocabulary Lists & Quizzes. #### Get SHABDKOSH App.",
+      "bm25_score_raw": 4.4474490659303125,
+      "bm25_score_norm": 0.8028960296748167,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.7465192675590515,
+      "embedding_score_norm": 0.043441175351588056,
+      "embedding_rank": 11
+    },
+    {
+      "title": "‘सरक जाता साड़ी’ से छाईं शिल्पी राज, माही श्रीवास्तव की परफॉर्मेंस ने बढ़ाया क्रेज",
+      "url": "https://www.prabhatkhabar.com/entertainment/bhojpuri/mahi-shrivastava-new-bhojpuri-song-sarak-jata-saree-shilpi-raj-video",
+      "snippet": "Title: ‘सरक जाता साड़ी’ से छाईं शिल्पी राज, माही श्रीवास्तव की परफॉर्मेंस ने बढ़ाया क्रेज\n# ‘सरक जाता साड़ी’ से छाईं शिल्पी राज, माही श्रीवास्तव की परफॉर्मेंस ने बढ़ाया क्रेज. Mahi Shrivastava New Bhojpuri Song Sarak Jata Saree. ## Mahi Shrivastava New Bhojpuri Song Sarak Jata Saree: शिल्पी राज का नया भोजपुरी गाना ‘सरक जाता साड़ी’ रिलीज होते ही वायरल हो गया है. माही श्रीवास्तव की दमदार परफॉर्मेंस ने गाने को खास बना दिया है. इसी बीच दोनों का नया देसी गाना ‘सरक जाता साड़ी’ रिलीज होते ही इंटरनेट पर छा गया है.वर्ल्डवाइड रिकॉर्ड्स भोजपुरी के ऑफिशियल यूट्यूब चैनल पर रिलीज हुआ यह गाना तेजी से वायरल हो रहा है और दर्शकों का खूब प्यार बटोर रहा है. ‘सरक जाता साड़ी’ एक ऐसा गाना है जिसमें देसीपन और मस्ती का शानदार मेल देखने को मिलता है. साड़ी में उनका देसी अंदाज और चुलबुलापन दर्शकों को काफी पसंद आ रहा है.वीडियो में माही के साथ अविनाश आर्या नजर आ रहे हैं और दोनों की केमिस्ट्री स्क्रीन पर शानदार लग रही है. फिल्म निर्माता रत्नाकर कुमार ने कहा कि ‘यह गाना हर पार्टी और शादी की जान बनेगा.’ सिंगर शिल्पी राज ने कहा कि ‘इस गाने के बोल बहुत ही प्यारे और मजेदार हैं. माही श्रीवास्तव ने वीडियो में कमाल अदाकारी दिखाई है. उसने गाने को एक अलग लेवल पर पहुंचा दिया है.’ वहीं माही श्रीवास्तव ने कहा कि ‘साड़ी एक ऐसा पहनावा है जो हर भारतीय महिला की खूबसूरती बढ़ा देता है. ### Prabhat Khabar App :. दामोदर की लहरों में हेमंत सोरेन के आंसू, रजरप्पा में 17 को दिशोम गुरु का अस्थि विसर्जन करते हुए भावुक. ### दामोदर की लहरों में हेमंत सोरेन के आंसू, रजरप्पा में 17 को दिशोम गुरु का अस्थि विसर्जन करते हुए भावुक. Photos: 'हमने भी कुंभ स्नान किया, अब किसी के पेट में दर्द हो रहा होगा…' महाकुंभ स्नान के बाद मांझी का लालू-ममता पर तंज. ### Photos: 'हमने भी कुंभ स्नान किया, अब किसी के पेट में दर्द हो रहा होगा…' महाकुंभ स्नान के बाद मांझी का लालू-ममता पर तंज. Viral Video: एक कैच के लिए 1 करोड़ रुपये, SA20 में दर्शक ने पकड़ा एक हाथ से गजब का कैच. ### Viral Video: एक कैच के लिए 1 करोड़ रुपये, SA20 में दर्शक ने पकड़ा एक हाथ से गजब का कैच.",
+      "bm25_score_raw": 0.24861674094027722,
+      "bm25_score_norm": 0.00033735528676289903,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.7401899695396423,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

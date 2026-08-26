@@ -1,0 +1,99 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1241",
+    "text": "Modi will hinder India’s progress, says BJP MP Navjot Singh Sidhu",
+    "lang": "english"
+  },
+  "entity_ranked_evidence": [
+    {
+      "title": "Modi & Shah did not want me to talk on Badals & drugs: Navjot Sidhu",
+      "url": "https://www.nationalheraldindia.com/amp/story/interview/modi-and-shah-did-not-want-me-to-talk-on-badals-and-drugs-navjot-sidhu",
+      "snippet": "A star campaigner of the Congress Navjot Singh Sidhu explains why he quit BJP and alleges that BJP did not want him to speak on drugs and the Badals.",
+      "bm25_score_raw": 6.915893978326902,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.846071720123291,
+      "embedding_score_norm": 0.37190152019799944,
+      "embedding_rank": 4,
+      "entity_overlap_raw": 3,
+      "entity_overlap_qid": 1,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 1
+    },
+    {
+      "title": "Stirring Yet Another Controversy, Navjot Singh Sidhu Calls BJP, PM ...",
+      "url": "https://www.youtube.com/watch?v=4VwEQNw6rE0",
+      "snippet": "Republic TV is India's no.1 English news channel since its launch. It is your one-stop destination for all the live news updates from India",
+      "bm25_score_raw": 5.068975229596767,
+      "bm25_score_norm": 0.6636982315798666,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8371161818504333,
+      "embedding_score_norm": 0.16847416963178388,
+      "embedding_rank": 5,
+      "entity_overlap_raw": 3,
+      "entity_overlap_qid": 2,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 2
+    },
+    {
+      "title": "Politics peaks over PM Narendra Modi's security breach",
+      "url": "https://www.facebook.com/allindiannews/posts/politics-peaks-over-pm-narendra-modis-security-breach-this-is-all-a-drama-and-bj/334846355183856",
+      "snippet": "Politics peaks over PM Narendra Modi's security breach | This is all a drama and BJP must stop playing politics: Punjab Congress Chief Navjot Singh Sidhu.",
+      "bm25_score_raw": 2.7449452090851594,
+      "bm25_score_norm": 0.2405202188508758,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8661929965019226,
+      "embedding_score_norm": 0.8289614778469188,
+      "embedding_rank": 2,
+      "entity_overlap_raw": 2,
+      "entity_overlap_qid": 1,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 3
+    },
+    {
+      "title": "Navjot Singh Sidhu - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Navjot_Singh_Sidhu",
+      "snippet": "# Navjot Singh Sidhu. | Punjab \"Government of Punjab (India)\") Minister of Tourism and Cultural Affairs |. **Navjot Singh Sidhu** (born 20 October 1963) is an Indian former cricketer, television personality and politician from the Indian National Congress. He was nominated to the Rajya Sabha in 2016 from Punjab before he resigned from the position the same year and quit the party. In 2017, he joined the Indian National Congress and was elected to the Punjab Legislative Assembly from Amritsar East. He was part of the Indian squads that won the 1988 Asia Cup, the 1990–91 Asia Cup and the 1995 Asia Cup and semi finalists in the 1987 Cricket World Cup and 1996 Cricket World Cup. After retirement, he turned to commentary and television, most notably as a judge of comedy shows, and as a permanent guest in *Comedy Nights with Kapil* (2013–2015) and later *The Kapil Sharma Show* (2016–2019).",
+      "bm25_score_raw": 1.424044329701727,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8574614524841309,
+      "embedding_score_norm": 0.630622214279138,
+      "embedding_rank": 3,
+      "entity_overlap_raw": 2,
+      "entity_overlap_qid": 1,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 4
+    },
+    {
+      "title": "How justifiable is Navjot Singh Sidhu's degrading approach towards ...",
+      "url": "https://www.quora.com/How-justifiable-is-Navjot-Singh-Sidhus-degrading-approach-towards-Narendra-Modi",
+      "snippet": "How justifiable is Navjot Singh Sidhu's degrading approach towards Narendra Modi?",
+      "bm25_score_raw": 1.976677353066775,
+      "bm25_score_norm": 0.10062785012757837,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8737226724624634,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 5
+    },
+    {
+      "title": "Former Indian cricketer and prominent political figure Navjot Singh Sidhu ...",
+      "url": "https://www.instagram.com/p/DVx1GmZgV0q?hl=en",
+      "snippet": "In a video that has quickly gained traction across social media platforms, the former Punjab Congress chief was seen at his Amritsar residence",
+      "bm25_score_raw": 2.00138581998011,
+      "bm25_score_norm": 0.10512696581613706,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8296993970870972,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 6
+    }
+  ]
+}

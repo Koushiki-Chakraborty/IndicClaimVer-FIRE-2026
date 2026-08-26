@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/1171",
+    "text": "NaMo ऐप के जरिए PM मोदी ने कर्नाटक के उम्मीदवारों से की बात, कहा- जनता का विश्वास जीतकर चुनाव जीतना",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "PM Modi addresses Karnataka BJP workers via NaMo app ...",
+      "url": "https://www.youtube.com/watch?v=BhsPq83OAVI",
+      "snippet": "Ahead of the upcoming Karnataka assembly polls, Prime Minister Narendra Modi on Thursday boosted the morale of Bharatiya Janata Party (BJP)",
+      "bm25_score_raw": 1.1389555884943738,
+      "bm25_score_norm": 0.3865235810071087,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.9076933264732361,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "PM Modi's Speech To BJP's Karnataka Candidates Via ...",
+      "url": "https://www.ndtv.com/india-news/karnataka-assembly-election-2018-pm-narendra-modi-interacts-with-bjp-karnataka-candidates-via-namo-a-1842964",
+      "snippet": "In the run up to Karnataka assembly elections, Prime Minister Narendra Modi interacts with the candidates, office bearers, elected",
+      "bm25_score_raw": 2.714095638916284,
+      "bm25_score_norm": 0.9210736363623196,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.9031218886375427,
+      "embedding_score_norm": 0.9404287181176046,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Prime Minister Narendra Modi, speaking in Bengaluru ...",
+      "url": "https://www.instagram.com/p/DYJ1IHdkmDR",
+      "snippet": "Voting began today for the election to seven Karnataka Legislative Council seats, with the ruling Congress and the BJP-JD(S) alliance locked in",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.8780022859573364,
+      "embedding_score_norm": 0.6130903651047872,
+      "embedding_rank": 3
+    },
+    {
+      "title": "PM Modi congratulates Congress' Karnataka poll win, says ...",
+      "url": "https://www.youtube.com/watch?v=8MKy-PMWLUY",
+      "snippet": "Prime Minister Narendra Modi congratulated Congress on their historic win in Karnataka assembly polls. \"Congratulations to the Congress",
+      "bm25_score_raw": 2.9466652086963534,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8747887015342712,
+      "embedding_score_norm": 0.5712135310757721,
+      "embedding_rank": 4
+    },
+    {
+      "title": "LIVE : PM Modi's audio message to Haryana BJP workers through NAMo ...",
+      "url": "https://www.youtube.com/watch?v=cughbzDYvfo",
+      "snippet": "LIVE : PM Modi's audio message to Haryana BJP workers through NAMo App | Mera Booth Sabse Mazboot #election #assemblyelection #haryana",
+      "bm25_score_raw": 0.4539004835471075,
+      "bm25_score_norm": 0.15403870185439883,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.8740515112876892,
+      "embedding_score_norm": 0.5616070637981896,
+      "embedding_rank": 5
+    },
+    {
+      "title": "LIVE: PM Modi की Namo App के माध्यम से Tamil Nadu के BJP कार्यकर्ताओं ...",
+      "url": "https://www.youtube.com/watch?v=TH8AF_05ZZQ",
+      "snippet": "LIVE: PM Modi की Namo App के माध्यम से Tamil Nadu के BJP कार्यकर्ताओं के साथ खास बातचीत #bjp #pmmodi #tamilnadu #namoapp #narendramodi #kannamalai #live",
+      "bm25_score_raw": 1.226144078702822,
+      "bm25_score_norm": 0.4161124497904143,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8725188970565796,
+      "embedding_score_norm": 0.5416352742519026,
+      "embedding_rank": 6
+    },
+    {
+      "title": "Wishing PM Modi a very Happy Bday… through NaMo App! You too can ...",
+      "url": "https://www.instagram.com/reel/DOugB9zksxR?hl=hi",
+      "snippet": "भारत की विकास गाथा, PM Narendra Modi App के माध्यम से प्रधानमंत्री श्री नरेंद्र मोदी जी के विकसित भारत के संकल्प को जन-जन तक पहुँचाएँ। Narendra Modi Amit Shah PMO India Nitin",
+      "bm25_score_raw": 2.3309465506472806,
+      "bm25_score_norm": 0.7910456008942137,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8695194721221924,
+      "embedding_score_norm": 0.502549193532101,
+      "embedding_rank": 7
+    },
+    {
+      "title": "English version of salient points of interaction of Hon'ble ...",
+      "url": "https://www.bjp.org/pressreleases/english-version-salient-points-interaction-honble-prime-minister-shri-narendra-modi",
+      "snippet": "Prime Minister Shri Narendra Modi on Monday interacted with members of Karnataka BJP's Yuva Morcha through the medium of Namo App and said that there was a",
+      "bm25_score_raw": 0.8733113431098664,
+      "bm25_score_norm": 0.29637277439340715,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.8674368858337402,
+      "embedding_score_norm": 0.4754106127851143,
+      "embedding_rank": 8
+    },
+    {
+      "title": "PM Modi Shares His 2025 Journey on NaMo App With Diplomatic, ...",
+      "url": "https://www.youtube.com/watch?v=x1yRT50hrLo",
+      "snippet": "Prime Minister Narendra Modi has shared glimpses of his 2025 journey on the NaMo App, highlighting key diplomatic engagements,",
+      "bm25_score_raw": 1.1389555884943738,
+      "bm25_score_norm": 0.3865235810071087,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8643056154251099,
+      "embedding_score_norm": 0.43460642844160546,
+      "embedding_rank": 9
+    },
+    {
+      "title": "India: Modi's BJP nationalists lose elections in Karnataka",
+      "url": "https://www.dw.com/en/india-modis-bjp-nationalists-lose-elections-in-karnataka/a-65612561",
+      "snippet": "Prime Minister Narendra Modi's party BJP has suffered a major setback by losing a key election in Karnataka, despite Modi having thrust",
+      "bm25_score_raw": 2.6386652917719298,
+      "bm25_score_norm": 0.8954750895977466,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8546023964881897,
+      "embedding_score_norm": 0.30816192427605854,
+      "embedding_rank": 10
+    },
+    {
+      "title": "NarendraModi App (@NamoApp) / Posts / X",
+      "url": "https://x.com/NamoApp",
+      "snippet": "NarendraModi App (@NamoApp) - Posts - Official App of Narendra Modi, PM of India. It brings to you latest information, instant updates & h.",
+      "bm25_score_raw": 0.771931916878207,
+      "bm25_score_norm": 0.2619679747125805,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.8379721641540527,
+      "embedding_score_norm": 0.09145018198538835,
+      "embedding_rank": 11
+    },
+    {
+      "title": "Narendra Modi App - Google Play पर ऐप्लिकेशन",
+      "url": "https://play.google.com/store/apps/details/app?id=com.narendramodiapp&hl=hi",
+      "snippet": "नरेंद्र मोदी की आधिकारिक मोबाइल ऐप। यह आपके लिए नवीनतम जानकारी, त्वरित अपडेट और विभिन्न कार्यों में योगदान करने में आपकी सहायता करता है। यह सीधे प्रधानमंत्री नरेंद्र मोदी से संदेश और ईमेल प्राप्त करने का एक अनूठा अवसर",
+      "bm25_score_raw": 2.6079256106779716,
+      "bm25_score_norm": 0.8850430659653239,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.830954372882843,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "claim": {
+    "id": "S2/1415",
+    "text": "46 inmates, 43 staffers of three jails in Delhi test positive for COVID-19",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "46 inmates, 43 staffers of three jails in Delhi test positive for Covid",
+      "url": "https://www.business-standard.com/article/current-affairs/46-inmates-43-staffers-of-three-jails-in-delhi-test-positive-for-covid-122011000137_1.html",
+      "snippet": "According to data shared by the jail authorities, 46 inmates tested positive till Sunday -- 29 inmates in Tihar and the remaining 17 in Mandoli jail. Among the",
+      "bm25_score_raw": 3.571033426481656,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9254635572433472,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "46 inmates, 43 staffers of three jails in Delhi test positive for ...",
+      "url": "https://www.indiatoday.in/coronavirus-outbreak/story/delhi-jail-covid-cases-inmates-staff-positive-omicron-1898066-2022-01-10",
+      "snippet": "Among the 43 infected staffers, 25 are from Tihar, 12 from Rohini jail and six from Mandoli jail. As part of the steps taken to contain the spread of the viral",
+      "bm25_score_raw": 1.8141169358693232,
+      "bm25_score_norm": 0.33896359938573367,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.9228278398513794,
+      "embedding_score_norm": 0.9474629674512767,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Forty-six inmates and 43 staffers of three jails in Delhi have ...",
+      "url": "https://www.facebook.com/firstpostin/posts/forty-six-inmates-and-43-staffers-of-three-jails-in-delhi-have-tested-positive-f/4900228983370051",
+      "snippet": "Three Delhi jails turn into COVID-19 hotspots; 46 inmates and 43 staffers test positive for the virus. The total number of prisoners in all the three jails",
+      "bm25_score_raw": 2.786127085603088,
+      "bm25_score_norm": 0.7046805211482482,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.9215453863143921,
+      "embedding_score_norm": 0.9219001725096592,
+      "embedding_rank": 3
+    },
+    {
+      "title": "46 inmates, 43 staffers of three jails in Delhi test positive for ...",
+      "url": "https://www.moneycontrol.com/news/india/46-inmates-43-staffers-of-three-jails-in-delhi-test-positive-for-covid-19-7917651.html",
+      "snippet": "Jan 10, 2022 — According to data shared by the jail authorities, 46 inmates tested positive till Sunday — 29 inmates in Tihar and the remaining 17 in Mandoli",
+      "bm25_score_raw": 2.392342206904822,
+      "bm25_score_norm": 0.5565197290890288,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.9165958166122437,
+      "embedding_score_norm": 0.8232417558917039,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Over 1000 COVID cases in Delhi police",
+      "url": "https://www.thehindu.com/news/cities/Delhi/over-1000-covid-cases-in-delhi-police-force/article38229132.ece",
+      "snippet": "Jan 11, 2022 — In a related development, 46 inmates and 43 prison staffers in Delhi have tested positive for COVID-19, prison officers said on Monday. “All",
+      "bm25_score_raw": 3.273944737890301,
+      "bm25_score_norm": 0.8882209607462925,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8862733244895935,
+      "embedding_score_norm": 0.21883182922018982,
+      "embedding_rank": 5
+    },
+    {
+      "title": "About 1000 Delhi Police personnel, 46 prisoners in ...",
+      "url": "https://english.ratopati.com/story/23268/india-covid-19-police-delhi",
+      "snippet": "\"43 staff positive associated with jail administration, of which 25 are from Tihar jail, 12 are from Rohini Jail, 6 are from Mandoli Jail,\" he added. Goel said",
+      "bm25_score_raw": 0.9132123307300108,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8752948045730591,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6
+    }
+  ]
+}

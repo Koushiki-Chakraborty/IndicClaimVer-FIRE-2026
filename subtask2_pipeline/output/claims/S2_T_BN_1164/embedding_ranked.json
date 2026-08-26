@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/BN/1164",
+    "text": "সাবান বনাম স্যানিটাইজার, জেনে নিন করোনা ভাইরাস বধে কী বেশি কার্যকর",
+    "lang": "bengali"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Which One's More Effective Against Coronavirus",
+      "url": "https://cura4u.com/blog/which-one-more-effective-against-coronavirus-hand-sanitizer-or-soap",
+      "snippet": "Soap is made up of fats and lipids, which play an integral role in breaking down the virus. rubbing your hands with an alcohol-based sanitizer is the best way",
+      "bm25_score_raw": 2.3880478410845836,
+      "bm25_score_norm": 0.6147535522554076,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.901857852935791,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "How soap kills the coronavirus",
+      "url": "https://www.youtube.com/watch?v=-LKVUarhtvE",
+      "snippet": "Plain old soap and water absolutely annihilate coronavirus. It has to do with the way the soap molecules are able to absolutely demolish",
+      "bm25_score_raw": 0.5958908336349461,
+      "bm25_score_norm": 0.15339977718668502,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8838926553726196,
+      "embedding_score_norm": 0.8838244805546712,
+      "embedding_rank": 2
+    },
+    {
+      "title": "The Science of Soap: How It Works to Kill Viruses",
+      "url": "https://www.lesliebaumannmd.com/the-science-of-soap-how-it-works-to-kill-viruses",
+      "snippet": "Jun 3, 2020 — Sanitizers must contain at least 60% alcohol to be effective against viruses. The formulation of the sanitizer matters. Water content is needed",
+      "bm25_score_raw": 1.9887349302037842,
+      "bm25_score_norm": 0.5119586977294075,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.875657320022583,
+      "embedding_score_norm": 0.8305690482816465,
+      "embedding_rank": 3
+    },
+    {
+      "title": "How Washing Hands with Soap Destroys the Coronavirus",
+      "url": "https://globalhandwashing.org/how-washing-hands-with-soap-destroys-the-coronavirus",
+      "snippet": "Apr 8, 2020 — A drop of ordinary soap diluted in water is sufficient to rupture and kill many types of bacteria and viruses, including the new Coronavirus ...Read more",
+      "bm25_score_raw": 0.5014659364288431,
+      "bm25_score_norm": 0.12909203930131677,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.8618006110191345,
+      "embedding_score_norm": 0.7409618864000259,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Section 1: What Kills the Virus? | MSAA",
+      "url": "https://mymsaa.org/covid-19-facts-treatments-and-resources/what-kills-the-virus",
+      "snippet": "| **► Section 1: What Kills the Virus?** |. # What Kills the Virus? To kill germs on your hands, the Centers for Disease Control and Prevention (CDC) recommends washing hands often with soap and water for at least 20 seconds. If soap and water are not available, using a hand sanitizer with at least 60% alcohol can help you avoid getting sick and spreading germs to others. The Food and Drug Administration (FDA) is warning consumers about a sharp increase in hand sanitizer products that are labeled to contain ethanol (also known as ethyl alcohol), but have tested positive for methanol contamination. Please note that the warnings have been expanded to include hand sanitizers that are “subpotent” and do not have a sufficient amount of ethyl alcohol, isopropyl alcohol, or benzalkonium to be effective. The FDA continually updates a list of hand sanitizers that **should not** be used. Please note that household disinfectants are for household surfaces only and are not to be used on skin or ingested.",
+      "bm25_score_raw": 0.8274887519550382,
+      "bm25_score_norm": 0.21301987379143786,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8609782457351685,
+      "embedding_score_norm": 0.7356438979001713,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Soap vs. Hand Sanitizer | UCI Health | Orange County, CA",
+      "url": "https://www.ucihealth.org/blog/2020/04/soap-vs-sanitizer",
+      "snippet": "## Find a UCI Health Clinician that's right for you. ## Find a UCI Health facility near you. * UCI Health Gavin Herbert Eye Institute — Irvine. Wen & Family Center for Advanced Care  Coming soon: UCI Health — Irvine Rehabilitation Hospital. * Coming soon: UCI Health — Irvine Rehabilitation Hospital. ## Find information about medical services, conditions, and treatments. If you are experiencing an emergency, please call \"911\" or go to the nearest UCI Emergency Department. Entering your zip code helps us to provide information and results that are more relevant to you. UCI Medical Center UCI Health — Irvine UCI Health Gavin Herbert Eye Institute — Irvine Joe C. But hands down, soap and water is the most effective way to remove chemicals and all kinds of germs, including the novel coronavirus, infectious disease experts say. If you have touched harmful chemicals, experts recommend washing carefully with soap and water or as directed by a poison control center.",
+      "bm25_score_raw": 1.2398691983418013,
+      "bm25_score_norm": 0.31917869520843056,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8588063716888428,
+      "embedding_score_norm": 0.7215990428622858,
+      "embedding_rank": 6
+    },
+    {
+      "title": "\"ইট ইজ টু!\" অথবা \"ইট ইজ টুও!\" : r/grammar",
+      "url": "https://www.reddit.com/r/grammar/comments/8yz2dd/it_is_to_or_it_is_too?tl=bn",
+      "snippet": "\"ইট ইজ টু!\" অথবা \"ইট ইজ টুও!\" ... কোন 'টু' অথবা 'টুও' সঠিক যখন কোনো কিছু \"আসলে তাই\" এটা বোঝাতে ব্যবহার করা হয়। হয়তো এটা একটু পুরনো দিনের, কারণ আমার মনে হয় এই ধরনের কথা বলার উদাহরণগুলো",
+      "bm25_score_raw": 3.8845612722745795,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.7700685262680054,
+      "embedding_score_norm": 0.14775813462986848,
+      "embedding_rank": 7
+    },
+    {
+      "title": "বন্ধ কর in English - Bangla-English Dictionary",
+      "url": "https://glosbe.com/bn/en/%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A7%20%E0%A6%95%E0%A6%B0",
+      "snippet": "Translation of \"বন্ধ কর\" into English. close, shut are the top translations of \"বন্ধ কর\" into English. Sample translated sentence: বেড়োবার সময় দরজাটা বন্ধ করে দিও।",
+      "bm25_score_raw": 2.5485529407500978,
+      "bm25_score_norm": 0.6560722722897891,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.7691066265106201,
+      "embedding_score_norm": 0.14153781873433646,
+      "embedding_rank": 8
+    },
+    {
+      "title": "অর্জন করা in English | Bengali to English Dictionary",
+      "url": "https://www.translate.com/dictionary/bengali-english/achieve-289401",
+      "snippet": "Translate \"অর্জন করা\" from Bengali to English - \"achieve\". Discover meaning, audio pronunciations, synonyms, and sentence examples in both languages with",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.7632700800895691,
+      "embedding_score_norm": 0.10379463167234684,
+      "embedding_rank": 9
+    },
+    {
+      "title": "📚✨ ইংরেজি Grammar হিরো! ✨📚 Am, Is, Are সঠিকভাবে ব্যবহার করে নিজেকে ...",
+      "url": "https://www.facebook.com/khanmethodpublications/posts/-%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A6%BF-grammar-%E0%A6%B9%E0%A6%BF%E0%A6%B0%E0%A7%8B-am-is-are-%E0%A6%B8%E0%A6%A0%E0%A6%BF%E0%A6%95%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A7%87-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B9%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A6%B0%E0%A7%87-%E0%A6%A8%E0%A6%BF%E0%A6%9C%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A6%B8%E0%A7%8D%E0%A6%AE%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%9F-%E0%A6%95%E0%A6%B0%E0%A7%81%E0%A6%A8-%EF%B8%8F-%E0%A7%A8%E0%A7%AE-%E0%A6%A7%E0%A6%B0%E0%A6%A8/1096448899367525",
+      "snippet": "✨ ইংরেজি Grammar হিরো! ✨ Am, Is, Are সঠিকভাবে ব্যবহার করে নিজেকে স্মার্ট করুন! 🗣️ ২৮ ধরনের বাক্যে সহজ উদাহরণ: “I am reading English.” “He is doing the work.” “",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.7579720616340637,
+      "embedding_score_norm": 0.06953394269662141,
+      "embedding_rank": 10
+    },
+    {
+      "title": "যে করেই হোক ইংরেজি অর্থ",
+      "url": "https://www.english-bangla.com/bntoen/index/%E0%A6%AF%E0%A7%87%20%E0%A6%95%E0%A6%B0%E0%A7%87%E0%A6%87%20%E0%A6%B9%E0%A7%8B%E0%A6%95",
+      "snippet": "যে করেই হোক meaning in English - at all costs; [প্রতিশব্দ] যেন তেন প্রকারেন; Bangla to English dictionary meaning. Get English meaning for any Bangla word.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.7514833211898804,
+      "embedding_score_norm": 0.02757321340331992,
+      "embedding_rank": 11
+    },
+    {
+      "title": "Google Translate",
+      "url": "https://translate.google.com?hl=bn&sl=en&tl=bn&op=translate",
+      "snippet": "## সেটিংস. ### কথা বলার গতি. ### থিম পাল্টান. ## অনুবাদের ধরন. # টেক্সট অনুবাদ. ## সোর্স টেক্সট. ## অনুবাদের ফলাফল. # ডকুমেন্ট অনুবাদ. ## টেনে এনে রাখুন. # ওয়েবসাইটের অনুবাদ. একটি URL লিখুন. # ছবি অনুবাদ. ## সাইড প্যানেল. # সংরক্ষিত হয়েছে. # ইতিহাস.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.747219443321228,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

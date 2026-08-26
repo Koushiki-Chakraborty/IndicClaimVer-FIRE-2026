@@ -1,0 +1,99 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1286",
+    "text": "SSA teachers to abstain from poll duty in Arunachal Pradesh",
+    "lang": "english"
+  },
+  "entity_ranked_evidence": [
+    {
+      "title": "SSA teachers to abstain from poll duty in Arunachal Pradesh",
+      "url": "https://www.business-standard.com/amp/article/pti-stories/ssa-teachers-to-abstain-from-poll-duty-in-arunachal-pradesh-114031100435_1.html",
+      "snippet": "Protesting against the non-release of their salaries for last six months, teachers under the Sarva Shiksha Abhiyan (SSA) programme in Arunachal Pradesh have",
+      "bm25_score_raw": 2.314859072512587,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9282159805297852,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1,
+      "entity_overlap_raw": 2,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 1
+    },
+    {
+      "title": "SSA teachers to abstain from poll duty in Arunachal Pradesh",
+      "url": "https://m.economictimes.com/news/politics-and-nation/ssa-teachers-to-abstain-from-poll-duty-in-arunachal-pradesh/articleshow/31839095.cms",
+      "snippet": "AASSATA said that the decision was taken its several representatives had not been paid their salaries for the last six months.",
+      "bm25_score_raw": 2.162119793937065,
+      "bm25_score_norm": 0.9136746070894022,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.9135593175888062,
+      "embedding_score_norm": 0.8811111148715781,
+      "embedding_rank": 2,
+      "entity_overlap_raw": 2,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 2
+    },
+    {
+      "title": "Wessang||29-May-2026 Arunachal Pradesh Teacher Educators ...",
+      "url": "https://www.facebook.com/100075603837403/posts/wessang29-may-2026arunachal-pradesh-teacher-educators-association-aptea-launches/997159486147503",
+      "snippet": "Arunachal Pradesh SSA teachers protest for salary enhancement and regularization ... Such teachers should be terminated from duty by the",
+      "bm25_score_raw": 1.288612896488611,
+      "bm25_score_norm": 0.4199847924221764,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8780995607376099,
+      "embedding_score_norm": 0.5934759979326026,
+      "embedding_rank": 3,
+      "entity_overlap_raw": 2,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 3
+    },
+    {
+      "title": "UP: 80 govt school teachers in Bhadohi to face action for skipping election duty",
+      "url": "https://indianexpress.com/article/india/up-80-govt-school-teachers-bhadohi-action-skipping-election-duty-9451728/lite",
+      "snippet": "The Bhadohi district administration on Saturday ordered action against 80 government school teachers for using “fake” medical certificates to skip poll duty.",
+      "bm25_score_raw": 1.1404638650850176,
+      "bm25_score_norm": 0.33625372164252637,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8496416807174683,
+      "embedding_score_norm": 0.3626372563761271,
+      "embedding_rank": 4,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 4
+    },
+    {
+      "title": "No AP/SEC-329/2013/197",
+      "url": "https://secap.nic.in/docs/notification/RegdTeachersElecDuty.pdf",
+      "snippet": "AND THEREFORE, the undersigned rejects the claims of teachers for not engaging them for election duty. To yoh. (K. Singh). State Election Commissioner.",
+      "bm25_score_raw": 0.5455155059712231,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8469990491867065,
+      "embedding_score_norm": 0.34120130483909256,
+      "embedding_rank": 5,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 5
+    },
+    {
+      "title": "Regularize All ISSE (SSA) Teachers in One Go or Increase Numbers in ...",
+      "url": "https://www.facebook.com/newsArunachalToday/posts/regularize-all-isse-ssa-teachers-in-one-go-or-increase-numbers-in-phase-wise-pro/1426869742814340",
+      "snippet": "Many teachers are serving as: Teacher-in-Charge of schools without regular Headmasters. Census Duty Officials. Election Duty Personnel and BLOs",
+      "bm25_score_raw": 1.4098510252305272,
+      "bm25_score_norm": 0.48850632268602856,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8049356341362,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 6
+    }
+  ]
+}

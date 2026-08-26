@@ -1,0 +1,76 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1148",
+    "text": "Have not appealed to govt for booster dose to those who need to travel: Adar Poonawalla",
+    "lang": "english"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Have appealed to govt for booster dose to those who need ...",
+      "url": "https://www.indiatoday.in/coronavirus-outbreak/vaccine-updates/story/have-appealed-booster-dose-travel-sii-ceo-adar-poonawalla-1933500-2022-04-04",
+      "snippet": "Serum Institute of India CEO Adar Poonawalla said that he has appealed to the government for booster doses for the people who need to travel.",
+      "bm25_score_raw": 3.325081323370079,
+      "bm25_score_norm": 0.8621226076348241,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.9022847414016724,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Adar Poonawalla, CEO, Serum Institute of India on COVID- ...",
+      "url": "https://x.com/ANI/status/1510957122292359170",
+      "snippet": "We've appealed to the govt as everyone who needs to travel needs to take the booster dose. They're here having an internal discussion & should",
+      "bm25_score_raw": 0.8049731780283549,
+      "bm25_score_norm": 0.051789035760818294,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8959164619445801,
+      "embedding_score_norm": 0.8334788002718153,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Adar Poonawalla, CEO, Serum Institute of India (SII), speaking ...",
+      "url": "https://www.facebook.com/dcnpune/videos/adar-poonawalla-ceo-serum-institute-of-india-sii-speaking-about-the-covid-19-boo/1631122560589544",
+      "snippet": "... booster dose, said \"I have appealed to the government as everyone who needs to travel needs to take the booster dose.\" Pune: Adar Poonawalla, CEO, Serum",
+      "bm25_score_raw": 1.0128323107036543,
+      "bm25_score_norm": 0.11862554582835295,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8914697766304016,
+      "embedding_score_norm": 0.717204478719226,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Govt having discussion, should announce booster dose policy ...",
+      "url": "https://inshorts.com/en/news/govt-having-discussion-should-announce-booster-dose-policy-soon-adar-poonawalla-1649134416170",
+      "snippet": "Serum Institute of India CEO Adar Poonawalla has said, 'We have appealed to the government for a policy on booster dose of COVID19 vaccines as everyone who",
+      "bm25_score_raw": 3.7538750345258385,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8832614421844482,
+      "embedding_score_norm": 0.5025685305137685,
+      "embedding_rank": 4
+    },
+    {
+      "title": "We have enough stock for rollout of booster doses: Adar ...",
+      "url": "https://indianexpress.com/article/cities/pune/we-have-enough-stock-for-rollout-of-booster-doses-adar-poonawalla-7853147",
+      "snippet": "“We have requested the government to roll our booster doses for the general population. Those who have to travel abroad are required to take it",
+      "bm25_score_raw": 0.643911147044743,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8741812109947205,
+      "embedding_score_norm": 0.26513375684993423,
+      "embedding_rank": 5
+    },
+    {
+      "title": "COVID-19 Booster Dose: What Serum Institute CEO Adar ...",
+      "url": "https://www.india.com/news/india/covid-19-fourth-wave-latest-news-today-4-april-2022-what-serum-institute-ceo-adar-poonawalla-said-on-india-corona-vaccine-booster-policy-5319711",
+      "snippet": "Speaking on the booster dose, he said, “About the booster dose, we have appealed to the government, because everyone who needs to travel, needs",
+      "bm25_score_raw": 1.0025542082892072,
+      "bm25_score_norm": 0.115320651370954,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8640416860580444,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6
+    }
+  ]
+}

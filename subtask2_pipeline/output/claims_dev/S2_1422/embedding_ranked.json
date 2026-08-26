@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/1422",
+    "text": "WHO জানিয়েছে, করোনার উৎপত্তিস্থল যে চিনের ইউহান, তা নিয়ে কোনও সন্দেহ নেই।",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "COVID-19: An Insight into SARS-CoV-2 Pandemic Originated at Wuhan City in Hubei Province of China",
+      "url": "https://www.clinmedjournals.org/articles/jide/journal-of-infectious-diseases-and-epidemiology-jide-6-146.php?jid=jide",
+      "snippet": "# COVID-19: An Insight into SARS-CoV-2 Pandemic Originated at Wuhan City in Hubei Province of China. Coronavirus disease 19 (COVID-19), originated at Wuhan city of China in early December 2019 has rapidly widespread with confirmed cases in almost every country across the world and has become a new global public health crisis. The etiological agent was designated as Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). The World Health Organization coined the term COVID-19 and declared this novel coronavirus disease as a pandemic on March 11, 2020. The rapid surge was observed in new cases and COVID-19 related deaths outside of China since the beginning of March-2020. However, the recently identified strains of animal origin such as SARS-CoV-2, MERS-CoV, and the present SARS-CoV-2 which belong to beta-coronaviruses have resulted in large outbreaks with varying clinical severity ranging from mild self-limiting to life-threatening illness [8-10]. Further, on February 19, 2020, WHO coined the term COVID-19 and declared this novel coronavirus disease as a pandemic on March 11, 2020 (Figure 2: Timeline in the key events of SARS-CoV-2) [1,10].",
+      "bm25_score_raw": 0.9200241866182961,
+      "bm25_score_norm": 0.157109839776477,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8616205453872681,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "CIA Report Reignites COVID-19 Origins Debate – But China’s Refusal To Share Evidence Stymies Any Conclusion - Health Policy Watch",
+      "url": "https://healthpolicy-watch.news/cia-report-reignites-covid-19-origins-debate",
+      "snippet": "On the one side of the divide are those who argue that SARS-CoV2, the virus causing COVID-19, originated from a lab leak from the Wuhan Institute of Virology (WIV) that was studying coronaviruses in bats. The other camp (the zoonosis thesis) believes the virus was transmitted from bats to humans via an animal source – Animal X – that has never been conclusively identified but is believed to have been in the Huanan wet market in Wuhan. The World Health Organization (WHO) assembled a team of independent scientists to examine the origin of the pandemic in 2020, but the Chinese government denied it access to the data it requested on a visit to Wuhan in January 2021. Some of those who favour the lab leak thesis have claimed that there was a cover-up of the lab leak theory because a US research group, EcoHealth Alliance, had been involved with the WIV and received government research funds.",
+      "bm25_score_raw": 0.8383629727933612,
+      "bm25_score_norm": 0.14316479310640393,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8586441278457642,
+      "embedding_score_norm": 0.9047277444957454,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Covid origin: Why the Wuhan lab-leak theory is so disputed",
+      "url": "https://www.bbc.com/news/world-asia-china-57268111",
+      "snippet": "# Covid origin: Why the Wuhan lab-leak theory is so disputed. **More than three years after Covid-19 was detected in the Chinese city of Wuhan, the question of how the virus first emerged remains a mystery.**. But on 28 February 2023 the controversial claim that the pandemic might have leaked from a Chinese laboratory - once dismissed by many as a fringe conspiracy theory - resurfaced with FBI Director Christopher Wray's comments that the bureau believes Covid-19 \"most likely\" originated in a \"Chinese government-controlled lab\". It is the first public confirmation of the FBI's classified judgement of how the pandemic virus emerged. ## What is the lab-leak theory? It's a suspicion that the coronavirus may have escaped, accidentally or otherwise, from a laboratory in the central Chinese city of Wuhan where the virus was first recorded. Those who entertain the theory say it could have leaked from a WIV lab and spread to the wet market.",
+      "bm25_score_raw": 0.694117009515762,
+      "bm25_score_norm": 0.11853233179878671,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.8561565279960632,
+      "embedding_score_norm": 0.8251020719655054,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Origin of SARS-CoV-2 - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Origin_of_SARS-CoV-2",
+      "snippet": "Inquiries into the origins of SARS-CoV-2. | * COVID-19 (disease) * SARS-CoV-2 (virus)  * Cases * Deaths |. Since the beginning of the COVID-19 pandemic, there have been efforts by scientists, governments, and others to determine the origin of the SARS-CoV-2 virus. As with the 2002–2004 SARS-CoV-1 outbreak, efforts to trace the origins of SARS-CoV-2 have spanned years, with the World Health Organization and independent researchers conducting investigations into the origins of SARS-CoV-2 since 2020, but as of 2025, no conclusive determination has been made regarding its specific geographic and taxonomic origins. In 2025 the World Health Organization's Scientific Advisory Group for the Origins of Novel Pathogens, and an independent review, concluded that a zoonotic origin has the \"weight of available evidence\" and emphasized that the origin remains unresolved without additional primary data, including early patient records and sequences, detailed wildlife supply-chain documentation, and laboratory biosafety and health records from Wuhan institutions.",
+      "bm25_score_raw": 0.9477765809945455,
+      "bm25_score_norm": 0.1618490350033902,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8541390895843506,
+      "embedding_score_norm": 0.7605258137138933,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Novel Coronavirus – China",
+      "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2020-DON233",
+      "snippet": "On 11 and 12 January 2020, WHO received further detailed information from the National Health Commission about the outbreak. WHO is reassured of the quality of the ongoing investigations and the response measures implemented in Wuhan, and the commitment to share information regularly. The evidence is highly suggestive that the outbreak is associated with exposures in one seafood market in Wuhan. The Chinese authorities identified a new type of coronavirus (novel coronavirus, nCoV), which was isolated on 7 January 2020. According to information conveyed to WHO by Chinese authorities on 11 and 12 January, 41 cases with novel coronavirus infection have been preliminarily diagnosed in Wuhan City. This is when the one death, mentioned above, was reported, in a patient with other underlying health conditions. * A total of 763 close contacts including healthcare workers, have been identified and followed up and no additional cases of infection with the novel coronavirus have been identified;.",
+      "bm25_score_raw": 0.40579991527625886,
+      "bm25_score_norm": 0.06929726478681371,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.8510732650756836,
+      "embedding_score_norm": 0.6623917274010761,
+      "embedding_rank": 5
+    },
+    {
+      "title": "What do we know about the origin of COVID-19 three years later?",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10019034",
+      "snippet": "Elsevier hereby grants permission to make all its COVID-19-related research that is available on the COVID-19 resource centre - including this research content - immediately available in PubMed Central and other publicly funded repositories, such as the WHO COVID database with rights for unrestricted research re-use and analyses in any form or by any means with acknowledgement of the original source. More than three years have passed since the first case of a new coronavirus infection (SARS-CoV-2) in the city of Wuhan (Hubei, China). The coincidence that the first cases of infection emerged in the city where the virology institute’s headquarters is located, the failure to 100% identify the virus’ RNA in any of the coronaviruses isolated in bats, and the lack of evidence on a possible intermediate animal host in the contagion’s transmission make it so that at present, there are doubts about the real origin of SARS-CoV-2. This article will review two theories: SARS-CoV-2 as a virus of zoonotic origin or as a leak from the high-level biosafety laboratory in Wuhan.",
+      "bm25_score_raw": 0.8411009858040324,
+      "bm25_score_norm": 0.1436323555810315,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8491366505622864,
+      "embedding_score_norm": 0.6004025642004045,
+      "embedding_rank": 6
+    },
+    {
+      "title": "China raises doubts about COVID-19 origin as Wuhan ...",
+      "url": "https://www.cbsnews.com/news/china-covid-19-origin-wuhan",
+      "snippet": "Dec 1, 2020 — China raises doubts about COVID-19 origin as Wuhan marks 1 year since symptoms were detected December 1, 2020 \"origination is difficult\" the",
+      "bm25_score_raw": 1.4107202212386252,
+      "bm25_score_norm": 0.24090456658852033,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8491233587265015,
+      "embedding_score_norm": 0.5999771053535315,
+      "embedding_rank": 7
+    },
+    {
+      "title": "China’s denial of coronavirus tinkering at Wuhan lab misleading",
+      "url": "https://www.voanews.com/a/china-denial-of-coronavirus-tinkering-at-wuhan-lab-misleading/7980887.html",
+      "snippet": "On Feb. 12, China’s Foreign Ministry spokesperson, Guo Jiakun, was asked about U.S. media reports that USAID had funded gain-of-function studies at the WIV. “China has also made it clear more than once that the Wuhan Institute of Virology has never engaged in gain-of-function studies of coronavirus.”. That includes USAID’s role in funding research at China’s Wuhan Institute of Virology, or WIV, where the Central Intelligence Agency and others believe SARS‑CoV‑2, a strain of coronavirus that causes COVID-19, “most likely originated.\". FILE - A security person moves journalists away from the Wuhan Institute of Virology after a World Health Organization team arrived for a field visit in Wuhan in China's Hubei province, Feb. 3, 2021. In 2021, the National Institute of Allergy and Infectious Diseases, or NIAID, told VOA in a written comment that none of the studies it “supported indirectly” at the WIV “under a sub-award from EcoHealth Alliance” constituted gain-of-function research, as those studies were not designed to manipulate viruses to increase their transmissibility or ability to cause disease.",
+      "bm25_score_raw": 0.8030179592324759,
+      "bm25_score_norm": 0.1371290285056283,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8394135236740112,
+      "embedding_score_norm": 0.2891746479948106,
+      "embedding_rank": 8
+    },
+    {
+      "title": "Wuhan to World: The COVID-19 Pandemic",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8042280",
+      "snippet": "An official website of the United States government. A **.gov** website belongs to an official government organization in the United States. Image 5: PMC search open iconSearch. # Wuhan to World: The COVID-19 Pandemic. COVID-19 is a Severe Acute Respiratory Syndrome (SARS), caused by SARS-CoV-2, a novel virus which belongs to the family _Coronaviridae_. It was first reported in December 2019 in the Wuhan city of China and soon after, the virus and hence the disease got spread to the entire world. Although the case fatality rate among SARS-CoV-2 patient is lower (~2.15%) than its earlier relatives, SARS-CoV (~9.5%) and MERS-CoV (~34.4%), the SARS-CoV-2 has been observed to be more infectious and caused higher morbidity and mortality worldwide. Over a very short period of time, researchers have generated a lot of information in unprecedented ways in the key areas, including viral entry into the host, dominant mutation, potential transmission routes, diagnostic targets and their detection assays, potential therapeutic targets and drug molecules for inhibiting viral entry and/or its replication in the host including cross-neutralizing antibodies and vaccine candidates that could help us to combat the ongoing COVID-19 pandemic.",
+      "bm25_score_raw": 0.660794632719463,
+      "bm25_score_norm": 0.1128419669631827,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.8373377323150635,
+      "embedding_score_norm": 0.22273056816880987,
+      "embedding_rank": 9
+    },
+    {
+      "title": "'ইউহানের ল্যাবেই তৈরি হয়েছে করোনা ভাইরাস, প্রমাণ দেখাতে ...",
+      "url": "https://www.sangbadpratidin.in/app/coronavirus/corona-virus-made-in-wuhan-lab-controlled-by-china-govt-claims-virologist/pid/460634",
+      "snippet": "Sep 14, 2020 — প্রসঙ্গত, গত বছরের শেষের দিক থেকে চিনের ইউহান প্রদেশে দাবানলের মতো ছড়িয়েছে করোনা সংক্রমণ। এরপর গোটা বিশ্বে মহামারীর আকার নিয়েছে কোভিড-১৯ (Covid-19)। বেজিংয়ের (Beijing) দাবি, প্রাকৃতিক উপায়ে ...Read more",
+      "bm25_score_raw": 5.855929761797422,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8326245546340942,
+      "embedding_score_norm": 0.07186629526462396,
+      "embedding_rank": 10
+    },
+    {
+      "title": "WHO still waiting on COVID origins data from China",
+      "url": "https://www.dw.com/en/who-still-waiting-on-covid-origins-data-from-china/a-71188122",
+      "snippet": "Dec 31, 2024 — HealthChina. WHO still waiting on COVID origins data from China. 12/31/2024 December 31, 2024. Five years since COVID-19 first emerged in Wuhan ...Read more",
+      "bm25_score_raw": 0.6568529519107403,
+      "bm25_score_norm": 0.11216885765875811,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.8307691812515259,
+      "embedding_score_norm": 0.012477582325332926,
+      "embedding_rank": 11
+    },
+    {
+      "title": "China objects to term 'Wuhan coronavirus' used by Mike ...",
+      "url": "https://www.cnbc.com/2020/03/10/china-objects-to-term-wuhan-coronavirus-used-by-mike-pompeo.html",
+      "snippet": "Mar 10, 2020 — China's foreign ministry objected on Monday to the term \"Wuhan coronavirus.\" Beijing has begun giving test kits to countries such as Pakistan,",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.8303793668746948,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

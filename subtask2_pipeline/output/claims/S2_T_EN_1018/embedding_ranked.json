@@ -1,0 +1,76 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1018",
+    "text": "AAP welcomes EC's order to defer doubling of gas price",
+    "lang": "english"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "American Academy of Pediatrics",
+      "url": "https://en.wikipedia.org/wiki/American_Academy_of_Pediatrics",
+      "snippet": "# American Academy of Pediatrics. The **American Academy of Pediatrics** (**AAP**) is the largest professional association of pediatricians in the United States. It is headquartered in Itasca, Illinois, and maintains an office in Washington, D.C. The AAP has published hundreds of policy statements, ranging from advocacy issues to practice recommendations. The AAP issues a weekly report on COVID-19 cases in the United States. In 2006, the Academy received a grant from the Flight Attendant Medical Research Institute (FAMRI) to plan and establish a Center of Excellence dedicated to the elimination of children's exposure to tobacco and secondhand smoke. In 1988, the American Academy of Pediatrics published a statement on the age limit of pediatrics that identified the upper age limit of pediatrics as age 21. In 2018, the AAP began recommending that children be placed in rear-facing car seats until the child reached the maximum height or weight for the car seat, regardless of the child's age.",
+      "bm25_score_raw": 0.898156701454191,
+      "bm25_score_norm": 0.7796706416808632,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.813450813293457,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "HealthyChildren.org - From the American Academy of Pediatrics",
+      "url": "https://www.healthychildren.org",
+      "snippet": "# The AAP Parenting Website. https://www.healthychildren.org/SiteCollectionImage-Homepage-Banners/Extreme-Heat.jpg. https://www.healthychildren.org/SiteCollectionImage-Homepage-Banners/why_your-newborn_needs_a_vitamin_K_shot.jpg. https://www.healthychildren.org/SiteCollectionImage-Homepage-Banners/beach-time-banner.jpg. https://www.healthychildren.org/SiteCollectionImage-Homepage-Banners/Drowning_Prevention_Non_Swim_Time.jpg. https://www.healthychildren.org/SiteCollectionImage-Homepage-Banners/water-park-safety-water-slide-banner.png. https://www.healthychildren.org/SiteCollectionImagesArticleImages/child-got-immunization.gif. https://www.healthychildren.org/SiteCollectionImage-Homepage-Banners/measles-quicklink.jpg. https://www.healthychildren.org/SiteCollectionImage-Homepage-Banners/FMP-quicklink.jpg. Register now to recieve our monthly HealthyChildren e-newsletter and create your Family Health Center. Log in for personalized content. ​Register now and get updates about children's health delivered right to your inbox!​​​​​.",
+      "bm25_score_raw": 0.7757008098385633,
+      "bm25_score_norm": 0.6733692986758216,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.7887997031211853,
+      "embedding_score_norm": 0.5603439203217236,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Association of American Physicians",
+      "url": "https://aap-online.org",
+      "snippet": "The next AAP/ASCI/APSA Joint Meeting will be held from April 17-19, 2026 in Chicago. The goal of decreasing the time for MD – PhD and MD graduates to launch careers. ##### Letters of Support Open November 02, 2026. ### Association of American Physicians. The Association of American Physicians (AAP) is an honorary medical society founded in 1885 by the Canadian physician Sir William Osler and six other distinguished physicians of his era for “the advancement of scientific and practical medicine.” Read more... The AAP seeks to inspire the full breadth of physician-led research across all fields of science related to medicine and health, and to build a community of physician scientists in support of the principle that objective science and evidence are essential foundations for improving patient care and the health of Americans. ###### Terry Fry. University of Colorado Anschutz Medical Campus and Children's Hospital Colorado. University of Pittsburgh School of Medicine. The University of Texas Southwestern Medical Center.",
+      "bm25_score_raw": 0.5221703371610532,
+      "bm25_score_norm": 0.4532849125123803,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.7818124294281006,
+      "embedding_score_norm": 0.4357248935082275,
+      "embedding_rank": 3
+    },
+    {
+      "title": "American Academy of Pediatrics",
+      "url": "https://www.linkedin.com/company/american-academy-of-pediatrics",
+      "snippet": "Overview:\nFounded in 1930, the American Academy of Pediatrics (AAP) is a professional membership organization of 67,000 pediatricians committed to the optimal physical, mental, and social health and well-being for all infants, children, adolescents, and young adults. AAP is the nation’s leading advocacy organization for children, and the leading source of children’s health-related information for pediatricians and their patients. AAP also oversees HealthyChildren.org, the only parenting website backed by pediatricians, and has the largest pediatric publishing program in the world, with more than 300 titles for consumers and over 500 for physicians and other health care professionals, including Pediatrics, its monthly scientific journal, and AAP News, its membership news magazine. For more information on AAP publications, please visit http://www.aappublications.org. AAP headquarters is in Itasca, IL.; AAP also operates a federal affairs office in Washington, DC. Join our team and play a role in shaping the way children’s health is provided in the U.S. Since 2005, AAP has been named one of the 101 Best and Brightest Companies to Work for in Chicagoland. Work at the AAP and make a difference! https://www.youtube.com/watch?v=DG7lDZImF0Q Connect with us on social media: AAP Facebook: https://www.facebook.com/AmerAcadPeds AAP Twitter: https://twitter.com/AmerAcadPeds AAP Instagram: https://www.instagram.com/ameracadpeds/ Healthy Children Facebook: https://www.facebook.com/healthychildren Healthy Children Twitter: https://twitter.com/healthychildren Healthy Children Instagram: https://www.instagram.com/healthychildrenaap/ Healthy Children Pinterest: https://www.pinterest.com/healthychildrenaap/ Healthy Children in Español Facebook: https://www.facebook.com/HealthyChildrenEspanol Healthy Children in Español Twitter: https://twitter.com/aapninossanos AAP News Facebook: https://www.facebook.com/AAPNews AAP News Twitter: https://twitter.com/aapnews\n\nWebsite: https://www.aap.org/\nCrunchbase Url: https://www.crunchbase.com/organization/american-academy-of-pediatrics-committee-on-communications-and-media?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta_anon&trk=funding_crunchbase\nLinkedin Url: N/A\n\nIndustry:\nNon-profit Organization Management\n\nCompany size:\n201-500 employees\n1198 associated members (LinkedIn members who’ve listed American Academy of Pediatrics as their current workplace on their profile)\n\nFounded:\n1930\n\nFunding:\nLast Round Date: 2023-10-27T00:00:00.000Z\nLast Round Type: Grant\nTotal Rounds: 1\nLast Round Raised: US$ 500.0K\n\nInvestors:\nFoundation for Opioid Response Efforts",
+      "bm25_score_raw": 1.1519693745526804,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.7810585498809814,
+      "embedding_score_norm": 0.4222793438384663,
+      "embedding_rank": 4
+    },
+    {
+      "title": "AAP: Home",
+      "url": "https://www.aap.org",
+      "snippet": "* + The State of Children in 2020. There’s a place for you in the Academy no matter where you are in your career. Find valuable resources to assist you in your pediatrics career from pre-med and training to finding a job and growing a thriving practice. AAP original research, including a robust practice-based research network, addresses important questions regarding pediatric practice and the health and well being of children. The AAP is dedicated to the health of all children and the pediatric professionals who care for them. Learn more about the American Academy of Pediatrics including our mission, leadership and commitment to the optimal health and well-being of all children. Continuing Medical Education from AAP helps you stay current in practice and provides tools and resources for every stage of your career. The AAP's global mission is to attain optimal physical, mental, and social health and well-being for all children around the world.",
+      "bm25_score_raw": 0.9058728243189179,
+      "bm25_score_norm": 0.7863688430698742,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.7601265907287598,
+      "embedding_score_norm": 0.048954855142486896,
+      "embedding_rank": 5
+    },
+    {
+      "title": "American Academy of Pediatrics",
+      "url": "https://www.youtube.com/channel/UClR8YIQX5Fb8J2wmsUKLhvQ",
+      "snippet": "The American Academy of Pediatrics (AAP) is an organization of 67 ,000 pediatricians, pediatric medical subspecialists and pediatric surgical specialists.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.7573817372322083,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6
+    }
+  ]
+}

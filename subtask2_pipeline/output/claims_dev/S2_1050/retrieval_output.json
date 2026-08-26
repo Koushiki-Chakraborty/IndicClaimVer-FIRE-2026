@@ -1,0 +1,108 @@
+{
+  "claim": {
+    "id": "S2/1050",
+    "text": "Arvind Kejriwal govt: Know the new CM and his cabinet ministers",
+    "lang": "dev"
+  },
+  "generated_queries": {
+    "english_translation": "Arvind Kejriwal govt: Know the new CM and his cabinet ministers",
+    "native_query": "Arvind Kejriwal govt cabinet ministers",
+    "english_query": "Arvind Kejriwal govt cabinet ministers"
+  },
+  "native_retrieval": [
+    {
+      "title": "Kejriwal and his ministers",
+      "url": "https://www.deccanherald.com/india/kejriwal-his-ministers-2111954",
+      "snippet": "Delhi Chief Minister Arvind Kejriwal and Cabinet ministers Manish Sisodia, Gopal Rai, Jitendra Tomer, Satyendra Jain, Asim Ahmed Khan and"
+    },
+    {
+      "title": "Arvind Kejriwal cabinet: List of portfolios",
+      "url": "https://aapdelhiwatchdog.quora.com/Arvind-Kejriwal-cabinet-List-of-portfolios",
+      "snippet": "Cabinet of Ministers Delhi AAP Government. Jintender Singh Tomar - Home, Law and Justice, Tourism, Art and Culture. Sandeep Kumar- Women and Child Welfare,"
+    },
+    {
+      "title": "Second Kejriwal ministry - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Second_Kejriwal_ministry",
+      "snippet": "* 1 Council of Ministers (14 February 2015 – 14 February 2020)). Cabinet of Delhi, 2015–2020. | Date formed | 14 February 2015 |. | Date dissolved | 14 February 2020 |. The **Second Kejriwal cabinet** is the Council of Minister in Delhi Legislative Assembly headed by Chief Minister Arvind Kejriwal. | Chief Minister | Arvind Kejriwal | 14 February 2015 | 14 February 2020 |  | AAP |. | Deputy Chief Minister | Manish Sisodia | 14 February 2015 | 14 February 2020 |  | AAP |. | Social Welfare, SC & ST, Cooperative, Gurudwara Elections | Rajendra Pal Gautam | 14 February 2015 | 14 February 2020 |  | AAP |. As minister Rajendra Pal Gautam held the charge of social welfare department in the Second Kejriwal ministry."
+    },
+    {
+      "title": "Delhi Cabinet Ministers 2020: Full list of Ministers in Arvind ...",
+      "url": "https://www.financialexpress.com/india-news/delhi-cabinet-ministers-2020-full-list-of-ministers-in-arvind-kejriwal-government/1869305",
+      "snippet": "Full List of Delhi Ministers: 1. Arvind Kejriwal 2. Manish Sisodia 3. Satyender Jain 4. Gopal Rai 5. Kailash Gehlot 6. Imran Hussain 7."
+    },
+    {
+      "title": "First Kejriwal ministry - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/First_Kejriwal_ministry",
+      "snippet": "* 2 Council of Ministers (28 December 2013 - 14 February 2014)). Cabinet of the Delhi Legislative Assembly. | Head of government | Arvind Kejriwal |. The **First Kejriwal cabinet** was the Council of Ministers in fifth Delhi Legislative Assembly headed by Chief Minister Arvind Kejriwal.*[citation needed*]. Kejriwal was then sworn in as 7th Chief Minister of Delhi on 28 December, leading the First Kejriwal cabinet, the youngest cabinet in Delhi ever. Dhir was elected as the speaker of the legislative assembly on 3 January 2014. After 49 days, Kejriwal resigned as a chief minister following the failure of the introduction of Delhi's Jan Lokpal Bill in the assembly on 14 February 2014. | Chief Minister | Arvind Kejriwal | 28 December 2013 | 14 February 2014 |  | AAP |."
+    },
+    {
+      "title": "Delhi Cabinet: Meet the ministers in Arvind Kejriwal's new ...",
+      "url": "https://www.moneycontrol.com/news/india/delhi-cabinet-meet-the-ministers-in-arvind-kejriwals-new-government-4952541.html",
+      "snippet": "Along with Jain and Rai, Manish Sisodia, Imran Hussain, Rajendra Pal Gautam and Kailash Gahlot also took oath on February 16. Let's take a look"
+    }
+  ],
+  "english_retrieval": [
+    {
+      "title": "Kejriwal and his ministers",
+      "url": "https://www.deccanherald.com/india/kejriwal-his-ministers-2111954",
+      "snippet": "Delhi Chief Minister Arvind Kejriwal and Cabinet ministers Manish Sisodia, Gopal Rai, Jitendra Tomer, Satyendra Jain, Asim Ahmed Khan and"
+    },
+    {
+      "title": "Arvind Kejriwal cabinet: List of portfolios",
+      "url": "https://aapdelhiwatchdog.quora.com/Arvind-Kejriwal-cabinet-List-of-portfolios",
+      "snippet": "Cabinet of Ministers Delhi AAP Government. Jintender Singh Tomar - Home, Law and Justice, Tourism, Art and Culture. Sandeep Kumar- Women and Child Welfare,"
+    },
+    {
+      "title": "Second Kejriwal ministry - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Second_Kejriwal_ministry",
+      "snippet": "* 1 Council of Ministers (14 February 2015 – 14 February 2020)). Cabinet of Delhi, 2015–2020. | Date formed | 14 February 2015 |. | Date dissolved | 14 February 2020 |. The **Second Kejriwal cabinet** is the Council of Minister in Delhi Legislative Assembly headed by Chief Minister Arvind Kejriwal. | Chief Minister | Arvind Kejriwal | 14 February 2015 | 14 February 2020 |  | AAP |. | Deputy Chief Minister | Manish Sisodia | 14 February 2015 | 14 February 2020 |  | AAP |. | Social Welfare, SC & ST, Cooperative, Gurudwara Elections | Rajendra Pal Gautam | 14 February 2015 | 14 February 2020 |  | AAP |. As minister Rajendra Pal Gautam held the charge of social welfare department in the Second Kejriwal ministry."
+    },
+    {
+      "title": "Delhi Cabinet Ministers 2020: Full list of Ministers in Arvind ...",
+      "url": "https://www.financialexpress.com/india-news/delhi-cabinet-ministers-2020-full-list-of-ministers-in-arvind-kejriwal-government/1869305",
+      "snippet": "Full List of Delhi Ministers: 1. Arvind Kejriwal 2. Manish Sisodia 3. Satyender Jain 4. Gopal Rai 5. Kailash Gehlot 6. Imran Hussain 7."
+    },
+    {
+      "title": "First Kejriwal ministry - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/First_Kejriwal_ministry",
+      "snippet": "* 2 Council of Ministers (28 December 2013 - 14 February 2014)). Cabinet of the Delhi Legislative Assembly. | Head of government | Arvind Kejriwal |. The **First Kejriwal cabinet** was the Council of Ministers in fifth Delhi Legislative Assembly headed by Chief Minister Arvind Kejriwal.*[citation needed*]. Kejriwal was then sworn in as 7th Chief Minister of Delhi on 28 December, leading the First Kejriwal cabinet, the youngest cabinet in Delhi ever. Dhir was elected as the speaker of the legislative assembly on 3 January 2014. After 49 days, Kejriwal resigned as a chief minister following the failure of the introduction of Delhi's Jan Lokpal Bill in the assembly on 14 February 2014. | Chief Minister | Arvind Kejriwal | 28 December 2013 | 14 February 2014 |  | AAP |."
+    },
+    {
+      "title": "Delhi Cabinet: Meet the ministers in Arvind Kejriwal's new ...",
+      "url": "https://www.moneycontrol.com/news/india/delhi-cabinet-meet-the-ministers-in-arvind-kejriwals-new-government-4952541.html",
+      "snippet": "Along with Jain and Rai, Manish Sisodia, Imran Hussain, Rajendra Pal Gautam and Kailash Gahlot also took oath on February 16. Let's take a look"
+    }
+  ],
+  "merged_results": [
+    {
+      "title": "Kejriwal and his ministers",
+      "url": "https://www.deccanherald.com/india/kejriwal-his-ministers-2111954",
+      "snippet": "Delhi Chief Minister Arvind Kejriwal and Cabinet ministers Manish Sisodia, Gopal Rai, Jitendra Tomer, Satyendra Jain, Asim Ahmed Khan and"
+    },
+    {
+      "title": "Arvind Kejriwal cabinet: List of portfolios",
+      "url": "https://aapdelhiwatchdog.quora.com/Arvind-Kejriwal-cabinet-List-of-portfolios",
+      "snippet": "Cabinet of Ministers Delhi AAP Government. Jintender Singh Tomar - Home, Law and Justice, Tourism, Art and Culture. Sandeep Kumar- Women and Child Welfare,"
+    },
+    {
+      "title": "Second Kejriwal ministry - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Second_Kejriwal_ministry",
+      "snippet": "* 1 Council of Ministers (14 February 2015 – 14 February 2020)). Cabinet of Delhi, 2015–2020. | Date formed | 14 February 2015 |. | Date dissolved | 14 February 2020 |. The **Second Kejriwal cabinet** is the Council of Minister in Delhi Legislative Assembly headed by Chief Minister Arvind Kejriwal. | Chief Minister | Arvind Kejriwal | 14 February 2015 | 14 February 2020 |  | AAP |. | Deputy Chief Minister | Manish Sisodia | 14 February 2015 | 14 February 2020 |  | AAP |. | Social Welfare, SC & ST, Cooperative, Gurudwara Elections | Rajendra Pal Gautam | 14 February 2015 | 14 February 2020 |  | AAP |. As minister Rajendra Pal Gautam held the charge of social welfare department in the Second Kejriwal ministry."
+    },
+    {
+      "title": "Delhi Cabinet Ministers 2020: Full list of Ministers in Arvind ...",
+      "url": "https://www.financialexpress.com/india-news/delhi-cabinet-ministers-2020-full-list-of-ministers-in-arvind-kejriwal-government/1869305",
+      "snippet": "Full List of Delhi Ministers: 1. Arvind Kejriwal 2. Manish Sisodia 3. Satyender Jain 4. Gopal Rai 5. Kailash Gehlot 6. Imran Hussain 7."
+    },
+    {
+      "title": "First Kejriwal ministry - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/First_Kejriwal_ministry",
+      "snippet": "* 2 Council of Ministers (28 December 2013 - 14 February 2014)). Cabinet of the Delhi Legislative Assembly. | Head of government | Arvind Kejriwal |. The **First Kejriwal cabinet** was the Council of Ministers in fifth Delhi Legislative Assembly headed by Chief Minister Arvind Kejriwal.*[citation needed*]. Kejriwal was then sworn in as 7th Chief Minister of Delhi on 28 December, leading the First Kejriwal cabinet, the youngest cabinet in Delhi ever. Dhir was elected as the speaker of the legislative assembly on 3 January 2014. After 49 days, Kejriwal resigned as a chief minister following the failure of the introduction of Delhi's Jan Lokpal Bill in the assembly on 14 February 2014. | Chief Minister | Arvind Kejriwal | 28 December 2013 | 14 February 2014 |  | AAP |."
+    },
+    {
+      "title": "Delhi Cabinet: Meet the ministers in Arvind Kejriwal's new ...",
+      "url": "https://www.moneycontrol.com/news/india/delhi-cabinet-meet-the-ministers-in-arvind-kejriwals-new-government-4952541.html",
+      "snippet": "Along with Jain and Rai, Manish Sisodia, Imran Hussain, Rajendra Pal Gautam and Kailash Gahlot also took oath on February 16. Let's take a look"
+    }
+  ]
+}

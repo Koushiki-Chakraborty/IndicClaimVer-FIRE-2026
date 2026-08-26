@@ -1,0 +1,138 @@
+{
+  "claim": {
+    "id": "S2/T/BN/1206",
+    "text": "অল্প ব্যবধানে হারা আরামবাগে জিতবে বিজেপি, মোদির প্রচারেই কাজ হবে; দাবি অপরূপার",
+    "lang": "bengali"
+  },
+  "generated_queries": {
+    "english_translation": "BJP will win Arambagh after narrowly losing, Modi's campaign will work; The claim is incredible",
+    "native_query": "আরামবাগে বিজেপি মোদির অপরূপার অল যবধ তব রচ",
+    "english_query": "BJP Arambagh Modi win narrowly losing campaign claim"
+  },
+  "native_retrieval": [
+    {
+      "title": "অল্প ব্যবধানে হারা আরামবাগে জিততে বিজেপির বাজি মোদি, কাজ ...",
+      "url": "https://www.etvbharat.com/bn/!politics/arambagh-tmc-mp-aparupa-poddar-slams-bjp-over-pm-narendra-modi-meeting-wbs24022404184",
+      "snippet": "Feb 24, 2024 — Aparupa Poddar: বিধানসভার পর লোকসভা নির্বাচনকে টার্গেট করে প্রধানমন্ত্রী নরেন্দ্র মোদির প্রচার শুরু আরামবাগ থেকে । আরামবাগ লোকসভা কেন্দ্রে পদ্ম ফোটাতে মরিয়া বিজেপি ।"
+    },
+    {
+      "title": "Arambagh: আরামবাগে বিজেপি কর্মীদের বেধড়ক মার, বাড়ি ...",
+      "url": "https://madhyom.com/arambagh-bjp-worker-severely-beaten-house-vandalized-accused-trinamool-17680",
+      "snippet": "Nov 13, 2024 — মাধ্যম নিউজ ডেস্ক:বিজেপি কর্মীর বাড়িতে তাণ্ডব চালানোর অভিযোগ উঠল তৃণমূল আশ্রিত দুষ্কৃতীদের বিরুদ্ধে। ঘটনাটি ঘটেছে আরামবাগের (Arambagh) খানাকুল-১ নম্বর ব্লকের অরুণ্ডা গ্রামে।Read more"
+    },
+    {
+      "title": "পিটিয়ে-কুপিয়ে বিজেপি কর্মীকে খুন আরামবাগে",
+      "url": "https://www.anandabazar.com/west-bengal/bjp-party-member-murdered-in-arambag-1.1063687",
+      "snippet": "Oct 28, 2019 — পুলিশ জানায়, নিহতের নাম আমির আলি খান (২৩) ওরফে লকাই। তাঁর বাড়ি কালীপুরের পশ্চিম হরিপুরে। তাঁকে খুনের অভিযোগে গ্রেফতার করা হয়েছে শেখ আব্বাস আলি, ইয়াকুব আলি, টগরী বিবি ও ছবি বিবি নামে চারজনকে।"
+    },
+    {
+      "title": "PM Modi : Arambagh এর সভা থেকে কী বার্তা মোদির? Bangla ...",
+      "url": "https://www.youtube.com/watch?v=DFAkG-73a6c",
+      "snippet": "PM Modi : টার্গেট লোকসভায় বঙ্গে মোদি। দু'দিনের রাজ্য সফরে প্রধানমন্ত্রী। আজ আরামবাগে মোদির সভা। একাধিক সরকারি প্রকল্পের উদ্বোধন ও ঘোষণা। রাজনৈতিক সভাও করবেন নরেন্দ্র মোদি।"
+    },
+    {
+      "title": "Suvendu Adhikari: '৫৭ জন বিজেপি কর্মী খুন', মোদীর সামনে ভোট ...",
+      "url": "https://bangla.aajtak.in/elections/lok-sabha-election-2024/story/narendra-modi-in-arambagh-suvendu-adhikari-says-he-is-fighting-against-tmc-for-three-years-abk-903425-2024-03-01",
+      "snippet": "Mar 1, 2024 — আরামবাগে মোদীর সভা থেকে রাজ্যের শাসকদল ও সরকারকে আক্রমণ করলেন বিরোধী দলনেতা শুভেন্দু অধিকারী। দুর্নীতি নিয়ে নিয়ে মুখ্যমন্ত্রী ও তৃণমূলের বিরুদ্ধে তোপ দাগেন। শুভেন্দু বলেন, চোর তৃণমূল কেন্দ্রের পাঠানো টাকা লুঠ"
+    },
+    {
+      "title": "আরামবাগের মোদির সভার আগে বিজেপি কর্মীরা চনমনে !ভয়ে আছে ...",
+      "url": "https://www.youtube.com/watch?v=1pGmQ33j4gc",
+      "snippet": "2024elections আরামবাগের মোদির সভার আগে বিজেপি কর্মীরা চনমনে ! ভয়ে আছে তৃণমূল ! তৃণমূলের পোস্টার ব্যানার ছিড়ে ফেলছে আরামবাগের মোদির সভার আগে বিজেপি কর্মীরা চনমনে ! ভয়ে আছে তৃণমূল !"
+    }
+  ],
+  "english_retrieval": [
+    {
+      "title": "India elections: Modi party defeated in West Bengal battleground",
+      "url": "https://www.bbc.com/news/world-asia-india-56964703",
+      "snippet": "Indian Prime Minister Narendra Modi's party has failed to win a key state in elections held amid record Covid-19 deaths and cases. The BJP"
+    },
+    {
+      "title": "India: How Modi's BJP breached West Bengal's stronghold",
+      "url": "https://www.dw.com/en/india-modi-bjp-west-bengal-election-vote-victory/a-77058088",
+      "snippet": "# India: How Modi's BJP breached West Bengal's stronghold. Narendra Modi's Bharatiya Janata Party has won a major victory in West Bengal, a state seen as resistant to the party's rise. Modi campaigned heavily in West Bengal and promised economic development, employment for the youth and expanded welfare benefitsImage: Sajjad Hussain/AFP. Indian Prime Minister Narendra Modi's Bharatiya Janata Party (BJP) won a decisive election victory in opposition-held West Bengal, a key eastern state of more than 100 million people, marking a dramatic shift in a state long seen as resistant to the party's rise. The party's leader Mamata Banerjee has been a fierce critic of Modi. For decades, West Bengal resisted the kind of majoritarian politics that powered the BJP's rise across much of India, with the state's strong regional identity and linguistic pride appearing to insulate it, say experts. The BJP's victory in West Bengal marks a dramatic shift in a state long seen as resistant to the party's riseImage: Sahiba Chawdhary/REUTERS."
+    },
+    {
+      "title": "India's Modi celebrates 'record' win in opposition-held West Bengal",
+      "url": "https://dailyvoa.com/public/index.php/1656",
+      "snippet": "Indian Prime Minister Narendra Modi claimed a \"record\" victory on Monday in key elections in opposition-held West Bengal state after official trends and"
+    },
+    {
+      "title": "\"Democracy won, intimidation lost\": PM Modi hails BJP's massive ...",
+      "url": "https://m.economictimes.com/news/india/democracy-won-intimidation-lost-pm-modi-hails-bjps-massive-win-on-falta-seat/articleshow/131295900.cms",
+      "snippet": "Prime Minister Narendra Modi congratulated Debangshu Panda of the BJP for a significant victory in Falta, West Bengal."
+    },
+    {
+      "title": "It seems BJP and PM haven't learnt anything from these elections ...",
+      "url": "https://www.facebook.com/IndiaToday/posts/it-seems-bjp-and-pm-havent-learnt-anything-from-these-elections-why-is-pm-contin/981593260670889",
+      "snippet": "All should remember, that INDIRA the IRON LADY of Indian politics was back in in power POWER just within a few years."
+    },
+    {
+      "title": "BJP's Bengal Triumph Stuns World, US To London, How ... - YouTube",
+      "url": "https://www.youtube.com/watch?v=5ZWFn9HMf2E",
+      "snippet": "bjp #bengalresults #bengalelections #bengalpolls2026 #kolkata Bharatiya Janata Party's Bengal sweep, led by Narendra Modi, dominates global"
+    }
+  ],
+  "merged_results": [
+    {
+      "title": "অল্প ব্যবধানে হারা আরামবাগে জিততে বিজেপির বাজি মোদি, কাজ ...",
+      "url": "https://www.etvbharat.com/bn/!politics/arambagh-tmc-mp-aparupa-poddar-slams-bjp-over-pm-narendra-modi-meeting-wbs24022404184",
+      "snippet": "Feb 24, 2024 — Aparupa Poddar: বিধানসভার পর লোকসভা নির্বাচনকে টার্গেট করে প্রধানমন্ত্রী নরেন্দ্র মোদির প্রচার শুরু আরামবাগ থেকে । আরামবাগ লোকসভা কেন্দ্রে পদ্ম ফোটাতে মরিয়া বিজেপি ।"
+    },
+    {
+      "title": "Arambagh: আরামবাগে বিজেপি কর্মীদের বেধড়ক মার, বাড়ি ...",
+      "url": "https://madhyom.com/arambagh-bjp-worker-severely-beaten-house-vandalized-accused-trinamool-17680",
+      "snippet": "Nov 13, 2024 — মাধ্যম নিউজ ডেস্ক:বিজেপি কর্মীর বাড়িতে তাণ্ডব চালানোর অভিযোগ উঠল তৃণমূল আশ্রিত দুষ্কৃতীদের বিরুদ্ধে। ঘটনাটি ঘটেছে আরামবাগের (Arambagh) খানাকুল-১ নম্বর ব্লকের অরুণ্ডা গ্রামে।Read more"
+    },
+    {
+      "title": "পিটিয়ে-কুপিয়ে বিজেপি কর্মীকে খুন আরামবাগে",
+      "url": "https://www.anandabazar.com/west-bengal/bjp-party-member-murdered-in-arambag-1.1063687",
+      "snippet": "Oct 28, 2019 — পুলিশ জানায়, নিহতের নাম আমির আলি খান (২৩) ওরফে লকাই। তাঁর বাড়ি কালীপুরের পশ্চিম হরিপুরে। তাঁকে খুনের অভিযোগে গ্রেফতার করা হয়েছে শেখ আব্বাস আলি, ইয়াকুব আলি, টগরী বিবি ও ছবি বিবি নামে চারজনকে।"
+    },
+    {
+      "title": "PM Modi : Arambagh এর সভা থেকে কী বার্তা মোদির? Bangla ...",
+      "url": "https://www.youtube.com/watch?v=DFAkG-73a6c",
+      "snippet": "PM Modi : টার্গেট লোকসভায় বঙ্গে মোদি। দু'দিনের রাজ্য সফরে প্রধানমন্ত্রী। আজ আরামবাগে মোদির সভা। একাধিক সরকারি প্রকল্পের উদ্বোধন ও ঘোষণা। রাজনৈতিক সভাও করবেন নরেন্দ্র মোদি।"
+    },
+    {
+      "title": "Suvendu Adhikari: '৫৭ জন বিজেপি কর্মী খুন', মোদীর সামনে ভোট ...",
+      "url": "https://bangla.aajtak.in/elections/lok-sabha-election-2024/story/narendra-modi-in-arambagh-suvendu-adhikari-says-he-is-fighting-against-tmc-for-three-years-abk-903425-2024-03-01",
+      "snippet": "Mar 1, 2024 — আরামবাগে মোদীর সভা থেকে রাজ্যের শাসকদল ও সরকারকে আক্রমণ করলেন বিরোধী দলনেতা শুভেন্দু অধিকারী। দুর্নীতি নিয়ে নিয়ে মুখ্যমন্ত্রী ও তৃণমূলের বিরুদ্ধে তোপ দাগেন। শুভেন্দু বলেন, চোর তৃণমূল কেন্দ্রের পাঠানো টাকা লুঠ"
+    },
+    {
+      "title": "আরামবাগের মোদির সভার আগে বিজেপি কর্মীরা চনমনে !ভয়ে আছে ...",
+      "url": "https://www.youtube.com/watch?v=1pGmQ33j4gc",
+      "snippet": "2024elections আরামবাগের মোদির সভার আগে বিজেপি কর্মীরা চনমনে ! ভয়ে আছে তৃণমূল ! তৃণমূলের পোস্টার ব্যানার ছিড়ে ফেলছে আরামবাগের মোদির সভার আগে বিজেপি কর্মীরা চনমনে ! ভয়ে আছে তৃণমূল !"
+    },
+    {
+      "title": "India elections: Modi party defeated in West Bengal battleground",
+      "url": "https://www.bbc.com/news/world-asia-india-56964703",
+      "snippet": "Indian Prime Minister Narendra Modi's party has failed to win a key state in elections held amid record Covid-19 deaths and cases. The BJP"
+    },
+    {
+      "title": "India: How Modi's BJP breached West Bengal's stronghold",
+      "url": "https://www.dw.com/en/india-modi-bjp-west-bengal-election-vote-victory/a-77058088",
+      "snippet": "# India: How Modi's BJP breached West Bengal's stronghold. Narendra Modi's Bharatiya Janata Party has won a major victory in West Bengal, a state seen as resistant to the party's rise. Modi campaigned heavily in West Bengal and promised economic development, employment for the youth and expanded welfare benefitsImage: Sajjad Hussain/AFP. Indian Prime Minister Narendra Modi's Bharatiya Janata Party (BJP) won a decisive election victory in opposition-held West Bengal, a key eastern state of more than 100 million people, marking a dramatic shift in a state long seen as resistant to the party's rise. The party's leader Mamata Banerjee has been a fierce critic of Modi. For decades, West Bengal resisted the kind of majoritarian politics that powered the BJP's rise across much of India, with the state's strong regional identity and linguistic pride appearing to insulate it, say experts. The BJP's victory in West Bengal marks a dramatic shift in a state long seen as resistant to the party's riseImage: Sahiba Chawdhary/REUTERS."
+    },
+    {
+      "title": "India's Modi celebrates 'record' win in opposition-held West Bengal",
+      "url": "https://dailyvoa.com/public/index.php/1656",
+      "snippet": "Indian Prime Minister Narendra Modi claimed a \"record\" victory on Monday in key elections in opposition-held West Bengal state after official trends and"
+    },
+    {
+      "title": "\"Democracy won, intimidation lost\": PM Modi hails BJP's massive ...",
+      "url": "https://m.economictimes.com/news/india/democracy-won-intimidation-lost-pm-modi-hails-bjps-massive-win-on-falta-seat/articleshow/131295900.cms",
+      "snippet": "Prime Minister Narendra Modi congratulated Debangshu Panda of the BJP for a significant victory in Falta, West Bengal."
+    },
+    {
+      "title": "It seems BJP and PM haven't learnt anything from these elections ...",
+      "url": "https://www.facebook.com/IndiaToday/posts/it-seems-bjp-and-pm-havent-learnt-anything-from-these-elections-why-is-pm-contin/981593260670889",
+      "snippet": "All should remember, that INDIRA the IRON LADY of Indian politics was back in in power POWER just within a few years."
+    },
+    {
+      "title": "BJP's Bengal Triumph Stuns World, US To London, How ... - YouTube",
+      "url": "https://www.youtube.com/watch?v=5ZWFn9HMf2E",
+      "snippet": "bjp #bengalresults #bengalelections #bengalpolls2026 #kolkata Bharatiya Janata Party's Bengal sweep, led by Narendra Modi, dominates global"
+    }
+  ]
+}

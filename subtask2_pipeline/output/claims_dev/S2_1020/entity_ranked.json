@@ -1,0 +1,99 @@
+{
+  "claim": {
+    "id": "S2/1020",
+    "text": "PM Modi Degree Row| 'Arvind Kejriwal Making Responsible Statements Since Beginning': Gujarat Varsity Submits In HC In Delhi CM's Review Plea",
+    "lang": "dev"
+  },
+  "entity_ranked_evidence": [
+    {
+      "title": "PM Modi Degree Row| 'Arvind Kejriwal Making ...",
+      "url": "https://www.livelaw.in/high-court/gujarat-high-court/gujarat-high-court-pm-narendra-modi-degree-row-gujarat-university-arvind-kejriwal-irresponsible-statements-review-plea-231583",
+      "snippet": "PM Modi Degree Row| 'Arvind Kejriwal Making Irresponsible Statements Since Begining': Gujarat Varsity Submits In HC In Delhi CM's Review Plea",
+      "bm25_score_raw": 3.4698203693723086,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9822669625282288,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1,
+      "entity_overlap_raw": 3,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 1
+    },
+    {
+      "title": "Modi degree case: Gujarat High Court rejects Arvind ...",
+      "url": "https://scroll.in/latest/1058932/modi-degree-case-gujarat-high-court-rejects-arvind-kejriwals-review-petition",
+      "snippet": "The Gujarat High Court on Thursday rejected Delhi Chief Minister Arvind Kejriwal's petition seeking a review of its order about Prime Minister",
+      "bm25_score_raw": 1.6160580301792038,
+      "bm25_score_norm": 0.07097559301674473,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8913488388061523,
+      "embedding_score_norm": 0.15550596185541954,
+      "embedding_rank": 3,
+      "entity_overlap_raw": 3,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 2
+    },
+    {
+      "title": "PM Modi degree row: Arvind Kejriwal moves Gujarat High ...",
+      "url": "https://indianexpress.com/article/cities/ahmedabad/pm-modi-degree-row-arvind-kejriwal-moves-gujarat-high-court-appeal-against-quashing-cic-order-9077363",
+      "snippet": "PM Modi degree row: Arvind Kejriwal moves Gujarat High Court with appeal against quashing of CIC order. The CIC order had directed Gujarat",
+      "bm25_score_raw": 1.8595080147155612,
+      "bm25_score_norm": 0.19298205130546933,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.907976508140564,
+      "embedding_score_norm": 0.30995225975829255,
+      "embedding_rank": 2,
+      "entity_overlap_raw": 2,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 3
+    },
+    {
+      "title": "Gujarat HC rejects Arvind Kejriwal's review petition",
+      "url": "https://www.thehindu.com/news/national/pm-modis-degree-gujarat-hc-rejects-arvind-kejriwals-review-petition/article67517835.ece",
+      "snippet": "The HC rejects petition to review its March ruling quashing the CIC's 2016 order to Gujarat University to provide details on the PM's MA degree.",
+      "bm25_score_raw": 2.670605419467627,
+      "bm25_score_norm": 0.5994685083469028,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8906880617141724,
+      "embedding_score_norm": 0.14936832623476595,
+      "embedding_rank": 4,
+      "entity_overlap_raw": 2,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 4
+    },
+    {
+      "title": "PM Modi's degree record: Gujarat court rejects Arvind ...",
+      "url": "https://m.economictimes.com/news/politics-and-nation/pm-modis-degree-record-gujarat-court-rejects-arvind-kejriwals-revision-plea/articleshow/132183852.cms",
+      "snippet": "A sessions court in Ahmedabad has dismissed AAP leader Arvind Kejriwal's plea seeking records of Prime Minister Narendra Modi's educational",
+      "bm25_score_raw": 1.4744343221825742,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8814233541488647,
+      "embedding_score_norm": 0.06331298343015547,
+      "embedding_rank": 5,
+      "entity_overlap_raw": 2,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 5
+    },
+    {
+      "title": "Gujarat University files defamation case against Kejriwal in ...",
+      "url": "https://www.thehindu.com/news/national/other-states/gujarat-university-files-defamation-case-against-kejriwal-in-pm-modi-degree-case/article66743424.ece",
+      "snippet": "Gujarat University has sued Delhi CM Arvind Kejriwal and AAP's MP Sanjay Singh with criminal defamation over their statements against the varsity over Prime",
+      "bm25_score_raw": 2.1389753076307008,
+      "bm25_score_norm": 0.33303880539009184,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8746070861816406,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6,
+      "entity_overlap_raw": 2,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 6
+    }
+  ]
+}

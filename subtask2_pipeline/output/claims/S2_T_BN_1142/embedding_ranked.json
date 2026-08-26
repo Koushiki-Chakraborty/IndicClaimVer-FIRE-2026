@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/BN/1142",
+    "text": "করোনা সতর্কতায় কোহলিদের জন্য জারি নির্দেশিকা, বল চকচকে করতে থুতু লাগাবেন না বোলাররা!",
+    "lang": "bengali"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Don't burst coronavirus bubble, Kohli warns IPL stars",
+      "url": "https://www.france24.com/en/20200825-don-t-burst-coronavirus-bubble-kohli-warns-ipl-stars",
+      "snippet": "Aug 25, 2020 — Kohli has warned Indian Premier League players of serious \"repercussions\" for the tournament if they breach coronavirus safety rules.",
+      "bm25_score_raw": 2.2351048330456225,
+      "bm25_score_norm": 0.7219985438464842,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8887307047843933,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "IPL 2020: Virat Kohli inadvertently applies saliva on ball ...",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2020-virat-kohli-inadvertently-applies-saliva-on-ball-realises-immediately/articleshow/78497485.cms",
+      "snippet": "Oct 5, 2020 — Virat Kohli inadvertently applied saliva on the ball after stopping a cracking drive during violating the ICC's Covid-19 protocol. \"A team can",
+      "bm25_score_raw": 3.0957193087093873,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.874555230140686,
+      "embedding_score_norm": 0.8993949525941148,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Cricketers could be banned from spitting on ball over fears ...",
+      "url": "https://www.telegraph.co.uk/cricket/2020/04/08/cricketers-could-banned-spitting-ball-fears-spreading-coronavirus",
+      "snippet": "Apr 8, 2020 — Cricketers may be banned from spitting on the ball because of fears that it could spread coronavirus when play eventually resumes.Read more",
+      "bm25_score_raw": 0.9430421668567319,
+      "bm25_score_norm": 0.30462780143006196,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.861790657043457,
+      "embedding_score_norm": 0.8088032430507114,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Inews Guyana's post",
+      "url": "https://www.facebook.com/Inews.Guyana/posts/3008241482575461",
+      "snippet": "Bans also extend to using saliva to shine the ball, According to the ICC, the ball is on using saliva to shine the ball after the coronavirus",
+      "bm25_score_raw": 0.9989195771666064,
+      "bm25_score_norm": 0.32267769702384885,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8569793701171875,
+      "embedding_score_norm": 0.7746569614293383,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Taking the shine off swing bowling",
+      "url": "http://ex.chinadaily.com.cn/exchange/partners/45/rss/channel/www/columns/wvsne8/stories/WS5ec725a9a310a8b2411577d1.html",
+      "snippet": "May 22, 2020 — A move to ban the use of saliva to shine a cricket ball because of the danger of transmitting COVID-19 may force bowlers to relearn or reinvent ...Read more",
+      "bm25_score_raw": 2.1343365613425256,
+      "bm25_score_norm": 0.6894477013267509,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8491170406341553,
+      "embedding_score_norm": 0.7188570640543126,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Bowlers face 'saliva' conundrum in post Covid-19 scenario",
+      "url": "https://indianexpress.com/article/sports/cricket/to-spit-or-not-bowlers-face-saliva-conundrum-in-post-covid-19-scenario-6370731",
+      "snippet": "Apr 20, 2020 — Former players including Venkatesh Prasad, Praveen Kumar and Jason Gillespie, feel the game's custodians might have to suspend the use of saliva ...Read more",
+      "bm25_score_raw": 1.5299017920416014,
+      "bm25_score_norm": 0.49419913095396917,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8342399001121521,
+      "embedding_score_norm": 0.6132722095715344,
+      "embedding_rank": 6
+    },
+    {
+      "title": "প্রশ্ন (৩৪/৪৭৪) : ছালাত আদায়ের ক্ষেত্রে পুরুষদের সতর কতটুকু? ...",
+      "url": "/goto?url=CAESZQHuR6pNDg69Y44_RF9VXRM51aZAoCfPiURJbtChXhOJrNe77vdhT-QVKbXhlAjUVTZkcL2856_IJEvz_4vfVm1Lz5FqEXDKh_uwJD1VtyiVpfTtDQ9LPpHkZTU3VPJ_FXqFMORi",
+      "snippet": "প্রশ্ন (৩৪/৪৭৪) : ছালাত আদায়ের ক্ষেত্রে পুরুষদের সতর কতটুকু? খালি গায়ের উপর কেবল গামছা দিয়ে ছালাত পড়া যাবে কি? ... উত্তর : পুরুষদের সতর হচ্ছে হাটু থেকে নাভী পর্যন্ত। ছালাত আদায়ের ক্ষেত্রে এর সাথে যোগ হবে দুই কাঁধ। অতএব কেউ ...Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.7733238935470581,
+      "embedding_score_norm": 0.18094398901498215,
+      "embedding_rank": 7
+    },
+    {
+      "title": "ছেলেদের সতর ঢাকা বলতে কতটুকু অংশকে বোঝায়?",
+      "url": "/goto?url=CAESoAMB7keqTdDlk6mJxBu6oXctmjy_9IrSsayXjZ6vurxiWAE_mA1wZmrOuI_pBVnItq78OvEpXwK0meFaBtTEkpXktVaux0fSYBImxocaBjho2PWNF49vJQHIFpslRU7v9ZyNBeeaKkGC31Pq1W-5epWpzTQGs6vH-Um4OSBwDYFxkDXrDz8vZgYAWtj0nKB-3E3Ca2dDlLzoPsg8YL-XnE0a2_qW05y9QZtoP8FqsGGBDVMlEhSPGOlLtrExccCN79wTCOs-f41MGRBY109Y2J4dWvVdvk4rRy-HxASDjeb8UWpW6RqxPgifRbWc63Sd4VHO4k9axTJ_bITVmJwopJJ5v2Husvunx5ZIanGkQTBcnk8I6-B-LlLKrGoBrJlmmyw1CyrtLKkH8z3Xnb6tYO_Femex6hHDnjede3GmJPz5XL6gQvi6uUDvxF6Bh_-1ZRGSLkwa3V__P18Li_7EydGZLQwCDEj3lxrDoJCa8zlMOnr1pZ_yI4OgntXGJJwW_sXKpZ8dhtJtvWY2zdEwbN0elswR56Cx_oGg3whjbztr5A%3D%3D",
+      "snippet": "উত্তর : ছেলেদের সতর বলতে যতটুকু ফরজ সেটা হচ্ছে, নাভির ওপর থেকে হাঁটুর নিচ পর্যন্ত। আল্লাহতায়ালা পোশাক সম্পর্কে কোরআনুল কারিমে বলেছেন- হে আদম সন্তানগণ, নামাজ পড়তে যাওয়ার সময় তোমরা সুন্দর পোশাক গ্রহণ কর। যেহেতু নাভির উপর ...Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.7671231031417847,
+      "embedding_score_norm": 0.13693623418799153,
+      "embedding_rank": 8
+    },
+    {
+      "title": "প্রশ্ন (১১) : ছালাতে মহিলাদের সতর কতটুকু? জনৈক আলেম বলেন, ...",
+      "url": "/goto?url=CAESYQHuR6pNvhVJABzOjP1qtvCtqhPi-cv3e8JVfQt2dLdxhZA1s1lcU-31AdndOQe-YE75xaD-Wg3rk_cUcNWbINGfbEOB4vnCL8lWbZxyPgg-j2zieIVx136O_O5fBo3l1jo%3D",
+      "snippet": "প্রশ্ন (১১) : ছালাতে মহিলাদের সতর কতটুকু? জনৈক আলেম বলেন, মহিলাদের সতর হচ্ছে— 'দুই হাত ও মুখমণ্ডল ব্যতীত পুরো শরীর, এমনকি দুই পায়ের পাতাও'। তিনি আরও বলেন, 'কোনো মহিলা যদি অন্ধকার ঘরে একাকী ছালাত আদায়ের সময় ...Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.7637491226196289,
+      "embedding_score_norm": 0.11299068887754252,
+      "embedding_rank": 9
+    },
+    {
+      "title": "স্বামীর সামনে সতর খুলে রাখা জায়েজ?",
+      "url": "/goto?url=CAESXAHuR6pNZG1spGYN7IN4LOZSQPGRCYnpHMISE950CmK_uM3f9Bk8KjAz3f0lA6OfWNZ-D4uvVB4b97QL4sKso-nCHqMzdEqbIZy7Dta9byhoi5vcx9IBI2NYog0u",
+      "snippet": "May 8, 2023 — সতর ইসলামি শরিয়তের গুরুত্বপূর্ণ একটি বিধান। শরীরের যেসব অঙ্গ লজ্জার কারণে ঢেকে রাখা হয় তাকে সতর বলা হয়। অন্য কারো সামনে সতর ঢাকা ফরজ। ইসলামের বিধানমতে পুরুষের সতর হলো নাভি থেকে হাঁটু পর্যন্ত।Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.7546170949935913,
+      "embedding_score_norm": 0.04817959116680704,
+      "embedding_rank": 10
+    },
+    {
+      "title": "নারী-পুরুষের শরীরের যে অংশ ঢেকে রাখতেই হবে",
+      "url": "/goto?url=CAESYQHuR6pNH2LHayRs9nScFO5e8ZYEoNT5ndWLl6EbkcGDidX90XoIQxndjc6DuQH8Nx0X4Wn5RkQBnqG6AFTmlKUsUU5pykMDI3aJg34amQzz92NT_gK8A-k12lu0CiAxBiU%3D",
+      "snippet": "Sep 5, 2023 — 'সতর' শব্দটি আরবি 'আস-সাতরু' ধাতুমূল থেকে এসেছে। এর আভিধানিক অর্থ ঢেকে রাখা। অর্থাৎ শরীরের যেসব অঙ্গ লজ্জার কারণে ঢেকে রাখা হয় তাকে সতর বলা হয়। ... ইসলামের পরিভাষায়, পুরুষের সতর বা ঢেকে রাখতে হয়- ...Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.7519925832748413,
+      "embedding_score_norm": 0.029553116038557547,
+      "embedding_rank": 11
+    },
+    {
+      "title": "১৮৭. কোন পুরুষের জন্য অন্য কোন পুরুষের সতর এবং কোন মহিলার ...",
+      "url": "/goto?url=CAESZAHuR6pNd7oqMmT9dQYhxTuWNT2_WCnAhtzA-TRMdCBiTnugcWBvcN9gIhvYDdOyC5mA54-4GYDdjWXMqshNnv1rtbMlaeiaovvqmDIsG0vjEKop9pBbLlpliAwpdd4eEOkRjqc%3D",
+      "snippet": "সতর বলতে শরীয়তের দৃষ্টিতে মানব শরীরের যে অঙ্গ দেখা অন্যের জন্য হারাম উহাকেই বুঝানো হয়। বিশুদ্ধ মতে কোন পুরুষের জন্য অন্য কোন পুরুষের সতর তার নাভি থেকে হাঁটু পর্যন্ত এবং কোন মহিলার জন্য অন্য কোন মহিলার সতর হাত, পা, ঘাড় ও ...Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.747828483581543,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

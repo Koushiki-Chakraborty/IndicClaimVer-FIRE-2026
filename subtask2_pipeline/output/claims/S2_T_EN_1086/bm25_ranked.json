@@ -1,0 +1,49 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1086",
+    "text": "EC cracks the whip on cash delivery, high-value bank transactions",
+    "lang": "english"
+  },
+  "ranked_evidence": [
+    {
+      "title": "LS polls: EC keeping a hawk's eye on suspicious bank transactions and ...",
+      "url": "https://www.thehindu.com/news/national/karnataka/ls-polls-ec-keeping-a-hawks-eye-on-suspicious-bank-transactions-and-digital-payments/article67969306.ece/amp",
+      "snippet": "Election Commission is rigorously monitoring suspicious bank transactions and digital payments. “Any financial transaction will ultimately be",
+      "bm25_score_raw": 8.266585672223412,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Trump upholds OCC’s expedited bank merger reviews | Banking Dive",
+      "url": "https://www.bankingdive.com/news/trump-occ-expedited-bank-merger-review-barr-aba-cra-revoke/751507",
+      "snippet": "The president signed a measure nullifying a 2024 OCC rule that Republican lawmakers aimed to curb through the Congressional Review Act, citing “burdensome standards.”. President Donald Trump signed a measure Friday overturning an 2024 Office of the Comptroller of the Currency rule that would have banned expedited bank merger reviews. The Senate and House each voted last month to approve resolutions to nullify the rule through the Congressional Review Act. The move marks at least the second final rule from Biden-era banking regulators revoked by Trump through the CRA. Trump signed a resolution in May to overturn a 2024 Consumer Financial Protection Bureau rule that would have capped, at $5, the overdraft fee that banks and credit unions with more than $10 billion in assets could charge. The OCC rule itself was a rollback of a 1996 policy that deems bank deals as approved on the 15th day after the end of a comment period unless the regulator removes the filing from expedited processing.",
+      "bm25_score_raw": 0.8863376020858419,
+      "bm25_score_norm": 0.10721930882105637,
+      "bm25_rank": 2
+    },
+    {
+      "title": "FedNow advances over hurdles",
+      "url": "https://www.paymentsdive.com/news/fednow-advances-over-hurdles/825071",
+      "snippet": "Let Payments Dive’s free newsletter keep you informed, straight from your inbox. - [x]  By signing up to receive our newsletter, you agree to our Terms of Use and Privacy Policy. The Federal Reserve’s instant payments system is adding banks and accounts, but building more use cases to spur uptake remains a challenge. The Federal Reserve’s instant payments system FedNow has added 100 financial institutions since a sign highlighted 1,700+ at the Nacha Smarter Faster Payments conference on April 27. The Federal Reserve’s instant payments system has been connecting to more financial institutions and reaching more accounts, resulting in an 85% jump in the number of settled payments for the second quarter of this year, compared to the first quarter. The Fed has been wooing financial institutions to the system for three years, seeking to fill out a more extensive web of banks and credit unions that use the system to settle payments within seconds.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 3
+    },
+    {
+      "title": "Banks urge US Treasury to hit ground running in ending paper cheques",
+      "url": "https://www.globalgovernmentfinance.com/us-banks-treasury-ending-paper-cheques",
+      "snippet": "Three banking groups have written to the US Department of the Treasury 'urging prompt action' in ditching cheques for electronic payments.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 4
+    },
+    {
+      "title": "Instant payments: do US regulators have buyers' remorse?",
+      "url": "https://www.thebanker.com/content/c4ce9d6e-585d-476f-b329-59ba768899b5",
+      "snippet": "As FedNow and the RTP network move money in seconds, lawmakers warn fraud defences must evolve as fast.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 5
+    }
+  ]
+}

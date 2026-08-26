@@ -1,0 +1,99 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1076",
+    "text": "Telangana High Court Issues Notice To State Human Rights Commission On Plea Challenging Closure Of Proceedings In 2005 Custodial Torture Case",
+    "lang": "english"
+  },
+  "entity_ranked_evidence": [
+    {
+      "title": "Telangana High Court Issues Notice To State Human Rights Commission ...",
+      "url": "https://www.livelaw.in/amp/high-court/telangana-high-court/telangana-high-court-issues-notice-human-rights-commission-custodial-death-case-233156",
+      "snippet": "The Telangana High Court has issued notice to the State Human Rights Commission (SHRC) on a petition challenging closure of an application",
+      "bm25_score_raw": 11.631356829202854,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9139938354492188,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1,
+      "entity_overlap_raw": 2,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 1
+    },
+    {
+      "title": "Telangana Human Rights Commission",
+      "url": "https://www.facebook.com/groups/155186113213/posts/10162605496073214",
+      "snippet": "Today the Hon'ble High Court of Telangana sentence four police officers 4 weeks imprisonment for violation the Supreme Court orders in not",
+      "bm25_score_raw": 2.550088196462986,
+      "bm25_score_norm": 0.2192425384165395,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8705304265022278,
+      "embedding_score_norm": 0.5497195299069298,
+      "embedding_rank": 2,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 2
+    },
+    {
+      "title": "Legal Eagle Elite",
+      "url": "https://legaleagleweb.com/newsdetail.aspx?newsid=8376",
+      "snippet": "The Supreme Court on Thursday dismissed the. Telangana government's plea challenging a high court order which stayed a. government order providing 42 per cent reservation to Backward Classes in local. dismissed the state's plea against the October 9 order of the Telangana High. The high court had issued an interim stay against. The high court, which was hearing a batch of. petitions challenging the state government's order that increased the Backward. Classes quota, had directed the state to file its reply in four weeks. Some of the petitioners before the high court. challenged the September 26, 2025, government order, saying the 42 per cent. It breaches the 50 per cent ceiling on reservations laid down by the. Supreme Court to hear pleas seeking probe into Ram temple donations case on July 13 [10.07.2026]. Supreme Court seeks Centre, states' response on use of Aadhaar as proof of citizenship [16.06.2026]. Supreme Court seeks Centre, states reply on PIL seeking 30% quota for women lawyers [20.05.2026].",
+      "bm25_score_raw": 4.581332883972218,
+      "bm25_score_norm": 0.393877769485144,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.859774649143219,
+      "embedding_score_norm": 0.4382897869859901,
+      "embedding_rank": 3,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 3
+    },
+    {
+      "title": "Irep Dhan Pvt. Ltd. v. Telangana State Human Rights Commission",
+      "url": "https://www.casemine.com/judgement/in/618215d79fca1965cd3617f6/amp",
+      "snippet": "The Commission issued a notice to the employer in respect of the service dispute. The employer challenged the issuance of that notice before",
+      "bm25_score_raw": 3.201122457877321,
+      "bm25_score_norm": 0.2752148786150435,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8562771081924438,
+      "embedding_score_norm": 0.40205529867409645,
+      "embedding_rank": 4,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 4
+    },
+    {
+      "title": "High Court for the State of Telangana",
+      "url": "https://tshc.gov.in",
+      "snippet": "Full Court Reference in the First Court Hall on 23-07-2026 at 3-45 pm to condole the demise of Sri Ghulam Yazdani, Designated Senior Advocate, High Court",
+      "bm25_score_raw": 3.246568338312756,
+      "bm25_score_norm": 0.2791220651198315,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8439702987670898,
+      "embedding_score_norm": 0.27455687948307544,
+      "embedding_rank": 5,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 5
+    },
+    {
+      "title": "a;;;;;irortnenlspondentNo.l&2;lrTi,i;B?Bllll\"i*t\"o;,\"",
+      "url": "https://tshc.gov.in/documents/currentsection_2026_07_13T11_45_40.pdf",
+      "snippet": "Aggrieved by the said termination, the appellant filed underlying W.P.No.858l of 2026 challenging the validiry of the termination notice.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8174686431884766,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 6
+    }
+  ]
+}

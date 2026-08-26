@@ -1,0 +1,76 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1107",
+    "text": "UK clears 6th Covid vaccine despite cancelling deal for doses",
+    "lang": "english"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "U.K. clears 6th COVID shot despite canceling deal for doses",
+      "url": "https://www.southcarolinapublicradio.org/2022-04-14/u-k-clears-6th-covid-shot-despite-canceling-deal-for-doses",
+      "snippet": "The U.K. government scrapped an agreement with Valneva in September to purchase at least 100 million doses, saying at the time that British",
+      "bm25_score_raw": 6.6468756200016434,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9209842681884766,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "UK scraps Covid-19 vaccine deal with French firm Valneva",
+      "url": "https://www.bbc.com/news/business-58499064",
+      "snippet": "Valneva says the UK government has scrapped a deal for its Covid-19 vaccine. The UK had about 100 million doses on order,",
+      "bm25_score_raw": 1.6156245542129652,
+      "bm25_score_norm": 0.1598610305119775,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8682657480239868,
+      "embedding_score_norm": 0.4208657777358718,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Boris Johnson says it's 'not game over' as UK approves first ...",
+      "url": "https://www.youtube.com/watch?v=fx9jEx6HZdU",
+      "snippet": "UK has approved the Pfizer/BioNTech Covid-19 vaccine, which could be rolled out as soon as next week. UK approves first Covid vaccine",
+      "bm25_score_raw": 2.193621698923145,
+      "bm25_score_norm": 0.2563773679346478,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8458868265151978,
+      "embedding_score_norm": 0.1750242923780863,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Scrapped Covid vaccine deal with Valneva cost UK ...",
+      "url": "https://www.bbc.com/news/uk-scotland-65949444",
+      "snippet": "A Covid vaccine contract which was axed by the UK government cost taxpayers £358.6m, the deal was controversially scrapped in 2021.",
+      "bm25_score_raw": 2.6089854033075706,
+      "bm25_score_norm": 0.32573650545356964,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8455225229263306,
+      "embedding_score_norm": 0.17102227041410975,
+      "embedding_rank": 4
+    },
+    {
+      "title": "UK approves third coronavirus vaccine, giving OK to Moderna",
+      "url": "https://www.politico.eu/article/coronavirus-vaccine-uk-approves-third-moderna",
+      "snippet": "U.K. will only receive doses in the spring, BioNTech/Pfizer and Oxford/AstraZeneca vaccines are delayed by up to 12 weeks.",
+      "bm25_score_raw": 0.6582817700404834,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8442919254302979,
+      "embedding_score_norm": 0.15750366022623996,
+      "embedding_rank": 5
+    },
+    {
+      "title": "UK halts Oxford-AstraZeneca jab for under-30s",
+      "url": "https://www.youtube.com/watch?v=Rp217CRtH9c",
+      "snippet": "UK halts Oxford-AstraZeneca jab for under-30s\nSky News\n9300000 subscribers\n597 likes\n156874 views\n7 Apr 2021\nThe UK's vaccine advisory body has decided to stop offering the Oxford-AstraZeneca coronavirus vaccine to Britons aged 18-29.\n\nIt comes after 30 people who had the vaccine in the UK developed a blood clot.\n\nPeople in the 18-29 age group will be offered an alternative COVID vaccine.\n\nSUBSCRIBE to our YouTube channel for more videos: http://www.youtube.com/skynews\n \nFollow us on Twitter: https://twitter.com/skynews \n \nLike us on Facebook: https://www.facebook.com/skynews\n \nFollow us on Instagram: https://www.instagram.com/skynews\n \nFor more content go to http://news.sky.com and download our apps: \n \nApple: https://itunes.apple.com/gb/app/sky-news/id316391924?mt=8\n \nAndroid https://play.google.com/store/apps/details?id=com.bskyb.skynews.android&hl=en_GB\n\nSky News videos are now available in Spanish here/Los video de Sky News están disponibles en español aquí https://www.youtube.com/channel/UCzG5BnqHO8oNlrPDW9CYJog\n1334 comments\n",
+      "bm25_score_raw": 1.5547520641835004,
+      "bm25_score_norm": 0.14969629208513302,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8299543857574463,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6
+    }
+  ]
+}

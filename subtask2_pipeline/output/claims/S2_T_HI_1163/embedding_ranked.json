@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/HI/1163",
+    "text": "कोरोनाः भारत में छुपाया जा रहा मौतों का आंकड़ा? जानें- क्या कुछ है इस पर विदेशी मीडिया कवरेज में",
+    "lang": "hindi"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "How Local Reporters in India Exposed the Pandemic's ...",
+      "url": "https://gijn.org/stories/how-local-reporters-in-india-exposed-the-pandemics-true-death-toll",
+      "snippet": "Jun 28, 2021 — In some cases, officials were even stationed at crematoria to monitor media visitors, while death registers were hidden out of public view.",
+      "bm25_score_raw": 6.3330055854545115,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8712278604507446,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "India’s hidden COVID deaths: Was the toll in 2020 eight times higher? | Health News | Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2024/7/20/did-covids-first-wave-kill-eight-times-more-indians-than-announced",
+      "snippet": "# India’s hidden COVID deaths: Was the toll in 2020 eight times higher? *India had nearly 1.2 million excess deaths in 2020, new data shows. The life expectancy of Muslims fell the most among all Indians – by more than five years.*. **New Delhi, India –**India’s actual death toll during the first phase of the COVID-19 pandemic that ravaged the world’s most populous country could be eight times higher than the government’s official numbers, reveals a new study. The study, co-authored by 10 demographers and economists from elite international institutes, found that India had 1.19 million excess deaths in 2020, during the pandemic’s first wave, compared to 2019. That’s eight times India’s official COVID-19 toll for 2020, of 148,738 deaths. The numbers in the research, based on the Indian government’s 2019-21 National Family Health Survey (NFHS), a comprehensive report on the state of the country’s health and family welfare, are also 1.5 times the World Health Organization’s (WHO) estimate for India’s COVID-19 death toll in 2020.",
+      "bm25_score_raw": 2.7350498527065037,
+      "bm25_score_norm": 0.4318723259913583,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8682019710540771,
+      "embedding_score_norm": 0.9763989500726636,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Why India's real Covid toll may never be known",
+      "url": "https://www.bbc.com/news/world-asia-india-60981318",
+      "snippet": "**More than 4.7 million people in India - nearly 10 times higher than official records suggest - are thought to have died because of Covid-19, according to a new World Health Organization (WHO) report. In November 2020, researchers at the World Mortality Dataset - a global repository that provides updated data on deaths from all causes - asked authorities in India to provide information. \"These are not available,\" India's main statistical office told the researchers, according to Ariel Karlinsky, a scientist who co-created the dataset and is a member of an advisory group set up by the the WHO for its estimates of excess deaths caused by Covid globally during 2020 and 2021. Although it is difficult to say how many of these deaths were due to Covid, they can be considered a measure of the scale and toll of the pandemic.",
+      "bm25_score_raw": 0.5478990471441497,
+      "bm25_score_norm": 0.08651485297953164,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.8585955500602722,
+      "embedding_score_norm": 0.9014716834820544,
+      "embedding_rank": 3
+    },
+    {
+      "title": "India's death toll in 2021 during the COVID-19 pandemic: insights from delayed official civil registration data",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12615008",
+      "snippet": "An official website of the United States government. A **.gov** website belongs to an official government organization in the United States. # India's death toll in 2021 during the COVID-19 pandemic: insights from delayed official civil registration data. India released its 2021 official death registration data in May 2025, showing a dramatic undercount of reported COVID-19 mortality in 2021 – a year that included the lethal second wave from the Delta variant in April to June 2021. The civil registration system (CRS) documented 10.2 million deaths in 2021 – a 26% increase from 2020 – compared to only 335 004 reported COVID-19 deaths. The 2.1 million increase in registered deaths from 2020 to 2021 is ~ 6.3 times the reported 335 004 COVID-19 deaths in 2021 [5]. For example, the World Health Organization (WHO) estimated 14.8 million global excess deaths for 2020–21 compared to the reported 5.4 million COVID-19-related deaths – an EDR of 2.7× [1].",
+      "bm25_score_raw": 1.2017680338220185,
+      "bm25_score_norm": 0.18976266760007432,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8543249368667603,
+      "embedding_score_norm": 0.8681621529647058,
+      "embedding_rank": 4
+    },
+    {
+      "title": "India COVID - Coronavirus Statistics - Worldometer",
+      "url": "https://www.worldometers.info/coronavirus/country/india",
+      "snippet": "**NOTE:** As of April 13, 2024, the **Coronavirus Tracker is no longer being updated** due to the unfeasibility of providing statistically valid global totals, as **the majority of countries have now stopped reporting**. However, historical data remain accessible. Worldometer delivered the **most accurate and timely global statistics** to users and institutions around the world at a time when this was extremely challenging. **We thank everyone** who participated in this extraordinary collaborative effort. Last updated: April 13, 2024, 01:00 GMT. # India. # Coronavirus Cases:. # Deaths:. # Recovered:. Daily Cases Graph - Daily Deaths Graph. Cases which had an outcome:. **Learn more about Worldometer's COVID-19 data**. ### Total Coronavirus Cases in India. ### Daily New Cases in India. See also: Daily Deaths Graph. ### Total Coronavirus Deaths in India. ### Daily New Deaths in India. See also: Daily Cases Graph. ### Newly Infected vs. ### Outcome of Cases (Recovery or Death) in India.",
+      "bm25_score_raw": 0.3469405674972689,
+      "bm25_score_norm": 0.05478292460283208,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.8416478633880615,
+      "embedding_score_norm": 0.7692846974857346,
+      "embedding_rank": 5
+    },
+    {
+      "title": "India's COVID deaths up to ten times higher than official tally | DW News",
+      "url": "https://www.youtube.com/watch?v=V1hKM4LEwtg",
+      "snippet": "India's COVID deaths up to ten times higher than official tally | DW News\nDW News\n6350000 subscribers\n4433 likes\n409765 views\n21 Jul 2021\nStartling new evidence has emerged about the ravages of the pandemic in India. It was already a dire situation – the government reporting more than 415,000 have died. But most infectious disease experts agree the real toll is almost certainly much higher. Today, the Washington-based Center for Global Development released the most comprehensive study on the impact of the coronavirus in India. And, as feared, it says India's death toll could be a staggering ten times higher than the official tally.\nThat would mean 4.7 million additional deaths from the start of the pandemic until June this year. Just a few months ago India saw a devastating rise in infections, driven largely by the more infectious Delta variant.\n\n\nSubscribe: https://www.youtube.com/user/deutschewelleenglish?sub_confirmation=1\n\nFor more news go to: http://www.dw.com/en/\nFollow DW on social media:\n►Facebook: https://www.facebook.com/deutschewellenews/\n►Twitter: https://twitter.com/dwnews\n►Instagram: https://www.instagram.com/dwnews\nFür Videos in deutscher Sprache besuchen Sie: https://www.youtube.com/dwdeutsch\n\n\n#India #Covid19 #DeathToll\n1991 comments\n",
+      "bm25_score_raw": 0.7438750843045548,
+      "bm25_score_norm": 0.11746003919735497,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8399790525436401,
+      "embedding_score_norm": 0.7562684622915975,
+      "embedding_rank": 6
+    },
+    {
+      "title": "IndiaCover.in",
+      "url": "https://www.indiacover.in",
+      "snippet": "is a Professional Platform. Here we will only provide you with interesting content. Recent Post News Post Govt Jobs Post Technology Post Health Care",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.8281795978546143,
+      "embedding_score_norm": 0.6642361760032283,
+      "embedding_rank": 7
+    },
+    {
+      "title": "India provided cover with a layered defense! The Swedish Army declared ...",
+      "url": "https://www.youtube.com/watch?v=P0jN6R0UBrI",
+      "snippet": "India ने लेयर्ड डिफेंस किया कवर! Sweden आर्मी बोली –India ने निपटा दिया, पूरा NATO हैरान ! स्वीडन की आर्मी ने भारत को लेकर ऐसा खुलासा किया जिसने पूरा NATO हिला दिया।",
+      "bm25_score_raw": 3.453837528313443,
+      "bm25_score_norm": 0.5453709903945341,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8040652275085449,
+      "embedding_score_norm": 0.4761511590390729,
+      "embedding_rank": 8
+    },
+    {
+      "title": "Kada Cover at Best Price in Indore, Madhya Pradesh | Arihant Collection",
+      "url": "https://www.tradeindia.com/products/kada-cover-c3903115.html",
+      "snippet": "Buy low price Kada Cover in Sitlamata Bazar, Indore offered by Arihant Collection. Kada Cover is available with multiple payment options and easy delivery.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.7794449329376221,
+      "embedding_score_norm": 0.2841200814874528,
+      "embedding_rank": 9
+    },
+    {
+      "title": "Bharatcase: Buy Mobile Covers & Phone Cases Online in India ...",
+      "url": "https://bharatcase.com",
+      "snippet": "BharatCase is home to a wide range of stylish and trendy mobile phone cases and back covers in India. for iPhone & Samsung cases and back covers only.",
+      "bm25_score_raw": 0.6248843718164395,
+      "bm25_score_norm": 0.0986710596389901,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.7757536172866821,
+      "embedding_score_norm": 0.2553289019184512,
+      "embedding_rank": 10
+    },
+    {
+      "title": "BHARAT IMITATION Brass Silver Coated Kada Price in India",
+      "url": "https://www.flipkart.com/bharat-imitation-brass-silver-coated-kada/p/itm6ae3e3567d23e",
+      "snippet": "Buy BHARAT IMITATION Brass Silver Coated Kada only for Rs. Only Genuine Products. Online at Best Prices in India | Flipkart.com",
+      "bm25_score_raw": 0.844499906633783,
+      "bm25_score_norm": 0.13334899128676111,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.7688205242156982,
+      "embedding_score_norm": 0.20125280915069507,
+      "embedding_rank": 11
+    },
+    {
+      "title": "Motherland Navy Bharat India Cap - 100% Cotton, Unisex Fit",
+      "url": "https://motherlandsuperstore.com/products/bharat-india-cap",
+      "snippet": "Classic Navy cap with bold “BHARAT INDIA” typography embroidered in contrasting golden thread and a tricolour accent. Wear it loud. Wear it proud. Details: 100%",
+      "bm25_score_raw": 0.6418837451555265,
+      "bm25_score_norm": 0.10135531012790971,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.7430179119110107,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "ID": "S2/1161",
+  "Evidence": "भारत में कोरोना वायरस के मामलों में फिर से वृद्धि हो रही है। पिछले 24 घंटों में 752 नए केस सामने आए हैं और 4 मौतें हुई हैं। सक्रिय मामलों की संख्या 4000 के करीब पहुंच गई है। स्वास्थ्य मंत्रालय के अनुसार, दिल्ली में 47 नए केस और केरल में 1435 सक्रिय केस हैं। पिछले 24 घंटों में 4 मौतें हुई हैं, जिसमें दिल्ली, तमिलनाडु, महाराष्ट्र और केरल के लोग शामिल हैं। यह दर्शाता है कि कोरोना वायरस अभी भी खतरा बना हुआ है। (Source 1)",
+  "Prediction": "SUPPORTS",
+  "Justification": "Retrieved evidence confirms the claim that there were 752 new COVID-19 cases and 4 deaths in the last 24 hours, with active cases exceeding 3000, specifically noting that active cases are nearing 4000. Source 1 explicitly states these figures, corroborating the claim's core assertion about the current COVID-19 situation in India."
+}

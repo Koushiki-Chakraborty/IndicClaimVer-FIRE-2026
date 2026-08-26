@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/1016",
+    "text": "অভিনব উদ্যোগ, লকডাউনে বিনামূল্যে ৩ কোটি বিস্কুটের প্যাকেট বিলোবে ‘পার্লে’ সংস্থা",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Parle to donate 3 crore packs of biscuit packets amid the lockdown ...",
+      "url": "https://www.facebook.com/cnbctv18india/posts/parle-to-donate-3-crore-packs-of-biscuit-packets-amid-the-lockdowncoronavirus-co/2954318034605575",
+      "snippet": "Biscuits major Parle Products on Wednesday said it will donate three crore packs of biscuits in the next three weeks, a 21- day lockdown due to",
+      "bm25_score_raw": 4.3339205786033865,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9146583080291748,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Parle to donate 3 crore packs of Parle G biscuits to needy - Indian Liberals",
+      "url": "https://indianliberals.quora.com/India-lockdown-Parle-to-donate-3-crore-packs-of-Parle-G-biscuits-to-needy",
+      "snippet": "They have decided to work with government, donate through government agency three crore packs of biscuits, one crore each in the next three weeks, specially for",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.9101770520210266,
+      "embedding_score_norm": 0.9763830356671668,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Parle To Donate 3 Crore Parle-G Biscuits For The Needy During 21 ...",
+      "url": "https://swarajyamag.com/amp/story/insta%2Fparle-to-done-3-crore-parle-g-biscuits-for-the-needy-during-21-day-lockdown-in-india",
+      "snippet": "The company plans to donate 1 crore biscuits per week during the three week lockdown. The company added that it is also working with the",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.9095067977905273,
+      "embedding_score_norm": 0.9728506844185771,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Lockdown: Parle to donate 3 crore packs of Parle G biscuits through ...",
+      "url": "https://retail.economictimes.indiatimes.com/news/food-entertainment/personal-care-pet-supplies-liquor/lockdown-parle-to-donate-3-crore-packs-of-parle-g-biscuits-through-government-agencies/74821166",
+      "snippet": "Biscuits major Parle Products on Wednesday said it will donate three crore packs of biscuits in the next three weeks, a 21-day lockdown due to",
+      "bm25_score_raw": 1.5535076493815205,
+      "bm25_score_norm": 0.35845318833280077,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.9077327251434326,
+      "embedding_score_norm": 0.9635010265650406,
+      "embedding_rank": 4
+    },
+    {
+      "title": "#FightingCoronavirus: Parle Biscuits to donate one crore Parle-G packs ...",
+      "url": "https://bestmediainfo.com/2020/03/fightingcoronavirus-parle-biscuits-to-donate-one-crore-parle-g-packs-every-week-for-poor-during-lockdown",
+      "snippet": "#FightingCoronavirus: Parle Biscuits to donate one crore Parle-G packs every week for poor during lockdown. The Parle-G biscuits will be",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.9039669036865234,
+      "embedding_score_norm": 0.9436545212839477,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Coronavirus lockdown: Parle-G helps Parle clock best-ever growth in last ...",
+      "url": "https://indianexpress.com/article/business/companies/coronavirus-lockdown-parle-g-helps-parle-clock-best-ever-growth-in-last-four-decades-6451930/lite",
+      "snippet": "The company had also announced to donate three crore packs of Parle-G biscuits when the coronavirus pandemic intensified in India. Leading",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.8865840435028076,
+      "embedding_score_norm": 0.8520439575904244,
+      "embedding_rank": 6
+    },
+    {
+      "title": "The Rap of The Lock I Alexander Pope I Bangla Lecture ...",
+      "url": "https://www.youtube.com/watch?v=4hBmBexr1os",
+      "snippet": "This video is on The Rap of The Lock I Alexander Pope I Bangla Lecture I Part-i । Birbal Roy. Follow my channel for part- ii.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.765269935131073,
+      "embedding_score_norm": 0.212698433640172,
+      "embedding_rank": 7
+    },
+    {
+      "title": "ফোনের লক ভুলে গেলে কিভাবে লক খুলবেন। শিখে রাখু'ন কাজে আসতে ...",
+      "url": "https://www.facebook.com/Babuvai.page/videos/%E0%A6%AB%E0%A7%8B%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%B2%E0%A6%95-%E0%A6%AD%E0%A7%81%E0%A6%B2%E0%A7%87-%E0%A6%97%E0%A7%87%E0%A6%B2%E0%A7%87-%E0%A6%95%E0%A6%BF%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A7%87-%E0%A6%B2%E0%A6%95-%E0%A6%96%E0%A7%81%E0%A6%B2%E0%A6%AC%E0%A7%87%E0%A6%A8-%E0%A6%B6%E0%A6%BF%E0%A6%96%E0%A7%87-%E0%A6%B0%E0%A6%BE%E0%A6%96%E0%A7%81%E0%A6%A8-%E0%A6%95%E0%A6%BE%E0%A6%9C%E0%A7%87-%E0%A6%86%E0%A6%B8%E0%A6%A4%E0%A7%87-%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A7%87/991381155354137",
+      "snippet": "যে চোখ দেখছে তোমায় ভালবাসার নজরে ,সে চোখ কি করে তোমায় ভুলতে পারে। দু'চোখ ভাসবে শুধু বন্যায় ,আকাশের দিকে চেয়ে ভুলবো না কোনো দিন তোমায়। যদি শূন্য হয় চোখের জল তবুও ভুলবোনা তোমায় ,বাধবো আশা বুকে ।",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.7638643383979797,
+      "embedding_score_norm": 0.20529070512578876,
+      "embedding_rank": 8
+    },
+    {
+      "title": "parlously, adv. meanings, etymology and more",
+      "url": "https://www.oed.com/dictionary/parlously_adv",
+      "snippet": "parlously, adv. meanings, etymology, pronunciation and more in the Oxford English Dictionary.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.747845470905304,
+      "embedding_score_norm": 0.12086860972686082,
+      "embedding_rank": 9
+    },
+    {
+      "title": "Remember LOCKING or remember TO LOCK ...",
+      "url": "https://www.facebook.com/english.with.aga/videos/remember-locking-or-remember-to-lock-whats-the-difference-in-english-englishgram/1291970149094652",
+      "snippet": "Remember LOCKING or remember TO LOCK? What's the difference in English? #englishgrammar #gerundsandinfinitives #grammar #learnenglish.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.7363226413726807,
+      "embedding_score_norm": 0.06014138200533261,
+      "embedding_rank": 10
+    },
+    {
+      "title": "গভর্নর কুওমো কেন্দ্রীয় নিউ ইয়র্ক ও দক্ষিণ প্রান্তিকে (টিয়ারে ...",
+      "url": "https://www.governor.ny.gov/sites/default/files/atoms/files/03.10.20.rel_.PARKS_Bengali.pdf",
+      "snippet": "এই প্রকল্পের মধ্যে রয়েছে গ্রীন লেক স্টেট পার্কের ব্যাপক সম্প্রসারণ, সিয়ুগা লেকের পাশে ইথাকা. হাইকিং ট্রেইল এর উন্নতি. প্রকল্পের মধ্যে রেছে ওয়ানডাগা, টোপকিন্স এবং ডেলাস কাউন্টিয়সমূহ. গভর্নর অ্যান্ড্রু এম.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.7348021268844604,
+      "embedding_score_norm": 0.05212801781222278,
+      "embedding_rank": 11
+    },
+    {
+      "title": "Bowley Lock Company How it works",
+      "url": "https://www.bowleylockcompany.com/how-the-original-bowley-lock-works.html",
+      "snippet": "## HOW THE BOWLEY LOCK WORKS. In order to pick a lock, you must be able to reach each pin with the picking tool while applying a pre-torque to the lock. In order for a tool to reach the pins in the Bowley Lock, it must be shaped like a reverse fork, similar to the key. Moreover, the only place to apply torque to the lock cylinder is a small groove on the back wall of the lock. In order to bump a lock you must be able to apply torque to the lock during the bump itself. It is very hard to apply torque to our lock until the key is pushed all the way towards the back of the lock. With the idea of many combinations at hand the key no longer need to be a special shape and as such the corresponding key hole allowed objects to enter the lock with direct access to the pins.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.7249109745025635,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

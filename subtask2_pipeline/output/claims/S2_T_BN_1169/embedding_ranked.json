@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/BN/1169",
+    "text": "শহিদ বুদ্ধিজীবী দিবসে শেখ হাসিনা ইউনুসের নাম উল্লেখ করে তার বিরুদ্ধে সরাসরি বক্তব্য দেন",
+    "lang": "bengali"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "'Yunus A Murderous Fascist': Sheikh Hasina In 1st Public Address In Exile",
+      "url": "https://www.ndtv.com/world-news/bangladesh-muhammad-yunus-is-a-murderous-fascist-sheikh-hasina-in-first-public-address-in-exile-10863285/amp/1",
+      "snippet": "Yunus, whom she repeatedly labelled a \"murderous fascist,\" \"usurer,\" \"money launderer,\" and \"power-hungry traitor.\"",
+      "bm25_score_raw": 2.8025159674411757,
+      "bm25_score_norm": 0.7605057898136166,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8857015371322632,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "President, Chief Adviser pay homage to martyred intellectuals",
+      "url": "https://en.prothomalo.com/amp/story/bangladesh/kasj1vrap5",
+      "snippet": "Muhammad Yunus on Friday paid rich tributes to the martyred intellectuals of 1971 on the occasion of the Martyred Intellectuals Day, to be",
+      "bm25_score_raw": 2.150094026820152,
+      "bm25_score_norm": 0.5646089471654311,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8686266541481018,
+      "embedding_score_norm": 0.8762487699135765,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Martyred Intellectuals Day tomorrow | News Flash | Bangladesh Sangbad ...",
+      "url": "https://www.bssnews.net/news-flash/341614",
+      "snippet": "Professor Dr. Muhammad Yunus today gave separate messages paying profound respect to the memories of martyred intellectuals.",
+      "bm25_score_raw": 1.9455234885688235,
+      "bm25_score_norm": 0.5031843995726125,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8627107739448547,
+      "embedding_score_norm": 0.8333730762485108,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Bangladesh observes 'Martyred Intellectuals Day'",
+      "url": "https://ddnews.gov.in/en/bangladesh-observes-martyred-intellectuals-day",
+      "snippet": "Bangladesh President Mohammad Shahabuddin and Prime Minister Sheikh Hasina on Thursday paid tributes to the martyred intellectuals on the occasion of the",
+      "bm25_score_raw": 3.6001361601153063,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8553454279899597,
+      "embedding_score_norm": 0.7799922933303612,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Nation pays rich tribute to martyred intellectuals",
+      "url": "https://www.tbsnews.net/bangladesh/nation-pays-rich-tribute-martyred-intellectuals-343273?amp=",
+      "snippet": "Prime Minister Sheikh Hasina, in her message, said the nation will always remember their sacrifices with deep respect. She urged all to perform",
+      "bm25_score_raw": 1.7646962324632147,
+      "bm25_score_norm": 0.4488890328317195,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.842191219329834,
+      "embedding_score_norm": 0.6846563836193528,
+      "embedding_rank": 5
+    },
+    {
+      "title": "CA pays tributes to martyred intellectuals",
+      "url": "https://observerbd.com/news/558081",
+      "snippet": "Dr Yunus said, \"On the eve of the Bengali nation's triumph, the occupation forces and their collaborators abducted and brutally murdered",
+      "bm25_score_raw": 1.8383104437826536,
+      "bm25_score_norm": 0.4709925070922381,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8293671011924744,
+      "embedding_score_norm": 0.5917128246067396,
+      "embedding_rank": 6
+    },
+    {
+      "title": "'শেখ হাসিনাকে সরিয়ে ড. ইউনূসকে ক্ষমতায় বসাতে চায় আমেরিকা'",
+      "url": "https://www.jugantor.com/politics/729156",
+      "snippet": "Oct 15, 2023 — সেই সময় তিনি (ড. ইউনূস) অনুধাবন করেছিলেন যে, রাজনীতি আমার সঙ্গে যায় না। দীর্ঘ ১৫ বছরে তাকে রাজনীতির একমুহূর্তের জন্য তার আগ্রহ দেখা যায়নি। এর পরও আওয়ামী লীগের কাছে বা শেখ হাসিনার এত ক্ষোভ কেন?Read more",
+      "bm25_score_raw": 0.26969993765551253,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.8145288228988647,
+      "embedding_score_norm": 0.4841715200541886,
+      "embedding_rank": 7
+    },
+    {
+      "title": "বিগত শেখ হাসিনা সরকারের ১৬ বছরের ঋণের হিসাবকে ইউনূস ...",
+      "url": "https://rumorscanner.com/fact-check/false-claim-adviser-said-loan-rose-to-23-lakh-crore-under-hasina/188618",
+      "snippet": "Jan 29, 2026 — বিগত শেখ হাসিনা সরকারের ১৬ বছরের ঋণের হিসাবকে ইউনূস সরকারের নেওয়া ঋণে বলে প্রচার ... ' শীর্ষক মন্তব্যকি অন্তর্বর্তীকালীন সরকারের বাণিজ্য উপদেষ্টা শেখ বশিরউদ্দীন করেছেন দাবিতে একটি তথ্য ইন্টারনেটে ছড়িয়ে ...Read more",
+      "bm25_score_raw": 1.8060238763449579,
+      "bm25_score_norm": 0.46129811113895075,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.7970001697540283,
+      "embedding_score_norm": 0.35713156373683624,
+      "embedding_rank": 8
+    },
+    {
+      "title": "ঢাকায় একুশের বইমেলায় ডাস্টবিনে হাসিনার ছবি, নোংরা ফেলে ...",
+      "url": "https://www.thewall.in/bangladesh/yunuss-press-secretary-posted-the-picture-of-hasina-in-the-dustbin-at-the-twenty-one-book-fair-in-dhaka/tid/149658",
+      "snippet": "Feb 1, 2025 — ডাস্টবিনের গায়ে শেখ হাসিনার একটি ভাইরাল ছবি সাঁটা আছে। ঢাকা বিশ্ববিদ্যালয়ের চত্বরে হাসিনার একটি ম্যুরালে জুতো মেরেছিল জনতা। সেই ছবি শোভা পাচ্ছে ডাস্টবিনের গায়ে।। প্রধান উপদেষ্টা মহম্মদ ইউনুসের প্রেস সচিব শফিকুল ...Read more",
+      "bm25_score_raw": 2.108245754769552,
+      "bm25_score_norm": 0.5520435445408788,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.778550922870636,
+      "embedding_score_norm": 0.22341954953997575,
+      "embedding_rank": 9
+    },
+    {
+      "title": "শেখ হাসিনার ৩৫ কোটির খাবার বনাম ড. ইউনূসের ৩৪ লাখ! আসল রহস্য ...",
+      "url": "https://www.youtube.com/watch?v=d0aRNXFkjyU",
+      "snippet": "শেখ হাসিনার ৩৫ কোটির খাবার বনাম ড. ইউনূসের ৩৪ লাখ, আসল রহস্য কী গণভবনের খাবারের বিলে এ কেমন শুভঙ্করের ফাঁকি! হোটেল অবকাশ থেকে ড. ইউনূসের জন্য ৪৬০ আইটেম খাবারের বিল এসেছে ৩৪ লাখ টাকা।Read more",
+      "bm25_score_raw": 0.4033866353520406,
+      "bm25_score_norm": 0.04014089709779512,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.7761833667755127,
+      "embedding_score_norm": 0.20626054591213877,
+      "embedding_rank": 10
+    },
+    {
+      "title": "শেখ হাসিনার দপ্তর ও বাসার আড়াই কোটি টাকার খাবারের বিল বাকি",
+      "url": "https://www.prothomalo.com/business/jwagjiovtt",
+      "snippet": "Jan 31, 2026 — পর্যটন করপোরেশনের চিঠিতে বলা হয়েছে, ক্ষমতাচ্যুত শেখ হাসিনা সরকার এবং বর্তমান অন্তর্বর্তী সরকারের সময়কালে খাবার সরবরাহ বাবদ হোটেল অবকাশের মোট অপরিশোধিত পাওনার পরিমাণ প্রায় ২ কোটি ৮৯ লাখ ২০ হাজার টাকা।Read more",
+      "bm25_score_raw": 1.293803355031924,
+      "bm25_score_norm": 0.30749828219800857,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.7538715600967407,
+      "embedding_score_norm": 0.04455439984310188,
+      "embedding_rank": 11
+    },
+    {
+      "title": "২.৫ কোটির খাবারের বিল বাকি রেখেই চলে গিয়েছেন হাসিনা! ...",
+      "url": "https://www.anandabazar.com/world/huge-amount-is-pending-as-food-bill-for-sheikh-hasinas-residence-in-dhaka-dgtl/cid/1664675",
+      "snippet": "হাসিনা প্রধানমন্ত্রী থাকাকালীন গণভবনে খাবার সরবরাহ করত হোটেল অবকাশ। এই হোটেল বাংলাদেশের পর্যটন কর্পোরেশনের অধীনে একটি সরকারি প্রতিষ্ঠান। সেখানে আড়াই কোটি টাকার বিল বাকি বলে দাবি।",
+      "bm25_score_raw": 1.0077839891955764,
+      "bm25_score_norm": 0.22161783089031195,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.7477240562438965,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

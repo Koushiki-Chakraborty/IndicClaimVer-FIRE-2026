@@ -1,0 +1,57 @@
+{
+  "claim": {
+    "id": "S2/T/CM/1009",
+    "text": "i just don t understand their hyper fixation on superficial religious beliefs arre tum apne religion ko nahi pehchante hum kya kare and stop using religion to attack k perfectly normal narratives pretending they don t exist because they do",
+    "lang": "codemix"
+  },
+  "ranked_evidence": [
+    {
+      "title": "What's the difference between hyperfixation and hyperfocus in ...",
+      "url": "https://www.facebook.com/groups/1672249926352102/posts/3624659291111146",
+      "snippet": "Fixation implies an unbalanced life, ignoring the big picture. This applies to our faith as well. We're called to a relationship with God,",
+      "bm25_score_raw": 2.573922033893457,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Hyperfixation on religion and finding the 'true' faith : r/ADHD",
+      "url": "https://www.reddit.com/r/ADHD/comments/15wn9xy/hyperfixation_on_religion_and_finding_the_true",
+      "snippet": "I understand the hyperfixation on trying to do everything \"correctly\" but that's just not possible. We are human. Not God. We are going to",
+      "bm25_score_raw": 2.502717223529601,
+      "bm25_score_norm": 0.9723360655737705,
+      "bm25_rank": 2
+    },
+    {
+      "title": "Hyperfixation As A Christian",
+      "url": "https://www.tiktok.com/discover/hyperfixation-as-a-christian",
+      "snippet": "When you focus on sin, you hyperfixate and don't realize your attention had turned away from the Lord. ... Researching pre-Christian spiritual traditions is HARD.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 3
+    },
+    {
+      "title": "What is Hyperfixation?",
+      "url": "https://www.youtube.com/watch?v=B2uLi-7Y5qU",
+      "snippet": "Hyperfixation is an intense mental focus on a particular activity, interest, or task, often linked to ADHD, autism, and related conditions.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 4
+    },
+    {
+      "title": "Is It Hyperfixation or Just a New Obsession?",
+      "url": "https://www.charliehealth.com/post/what-is-hyperfixation",
+      "snippet": "Hyperfixation is a complete obsession with or absorption into a particular task. The task can be a hobby, a TV show, a subject of interest, or something else.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 5
+    },
+    {
+      "title": "ADHD Hyperfixation: What It Is & How to Manage It",
+      "url": "https://findmytherapist.com/resources/add-adhd/adhd-and-hyperfixations",
+      "snippet": "ADHD hyperfixation is intense focus on one interest. Learn why it happens, how it differs from hyperfocus, and practical ways to manage it.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6
+    }
+  ]
+}

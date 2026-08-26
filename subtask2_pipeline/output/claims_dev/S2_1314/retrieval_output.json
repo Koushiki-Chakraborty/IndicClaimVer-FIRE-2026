@@ -1,0 +1,138 @@
+{
+  "claim": {
+    "id": "S2/1314",
+    "text": "सावधान! खत्म नहीं हुआ कोरोना का कहर, सर्दी-खांसी के बाद नया लक्षण आया सामने, शरीर के इस हिस्से पर कर रहा अटैक",
+    "lang": "dev"
+  },
+  "generated_queries": {
+    "english_translation": "Attention Corona's havoc is not over, new symptoms have emerged after cold and cough, it is attacking this part of the body.",
+    "native_query": "कोरोना वध खत नह कहर सर नय लक",
+    "english_query": "Attention Corona havoc symptoms emerged cold cough attacking"
+  },
+  "native_retrieval": [
+    {
+      "title": "साल 2020 में कोरोना वायरस का कहर दुनियाभर के देशों में देखने को ...",
+      "url": "https://www.instagram.com/p/Da4rojtlHiT",
+      "snippet": "अब कोविड 19 को लेकर पहले ही तरह डर नहीं है लेकिन इसका खतरा पूरी तरह से खत्म नहीं हुई है. वायरस में म्यूटेशन के साथ नए वैरिएंट्स देखने को मिल रहे हैं. कुछ दिनों से कोविड को लेकर चर्चा काफी तेज हो गई है ...Read more"
+    },
+    {
+      "title": "CHINA में फिर फैली CORONA जैसी बीमारी, HMPV की वजह से ...",
+      "url": "https://www.youtube.com/watch?v=hNfR-xzhdDU",
+      "snippet": "... नए वायरस का संक्रमण फैल रहा है...जिसने बहुत जल्दी बहुत ज्यादा लोगों को अपने चपेत में ले लिया है...हालात ऐसे हो चुके हैं कि नए वायरस ह्यूमन मेटान्यूमोवायरस यानी HMPV के खतरे ने पूरे विश्व में दहशत पैदा कर ...Read more"
+    },
+    {
+      "title": "कोरोना का नया वेरिएंट 'Cicada' (BA.3.2) कितना खतरनाक?",
+      "url": "https://www.youtube.com/watch?v=kysoS7qeFgY",
+      "snippet": "कोरोना का नया वेरिएंट 'Cicada' (BA.3.2) कितना खतरनाक? | COVID-19 New Variant Explained | Clear Cutक्या दुनिया एक बार फिर कोरोना के नए खतरे की तरफ बढ़ रही है?"
+    },
+    {
+      "title": "Corona ke lakshan 2025: जानिए कौन से लक्षण नए हैं",
+      "url": "https://redcliffelabs.com/myhealth/covid/corona-symptoms-2025-know-which-symptoms-are-new",
+      "snippet": "Jul 19, 2025 — बाकी सदस्यों से दूरी बनाए रखें. Q10: क्या कोरोना अब कभी खत्म नहीं होगा? A: विशेषज्ञ मानते हैं कि यह वायरस लंबे समय तक हमारे साथ रहेगा, लेकिन अब यह एक सामान्य संक्रमण की तरह व्यवहार कर रहा है।Read more"
+    },
+    {
+      "title": "कोविड 'Cicada' का खतरा! क्या फिर लौटेगा लॉकडाउन?",
+      "url": "https://www.youtube.com/watch?v=9mtO-6UuBcs",
+      "snippet": "... यहाँ आपको देश-विदेश की ताज़ा और बड़ी ख़बरें हिंदी में मिलती हैं। India News पर सिर्फ़ राजनीतिक और जनहित की ख़बरें ही नहीं, बल्कि खास इंटरव्यू, पौराणिक कथाओं पर आधारित शृंखलाएँ और रोचक तथ्यात्मक कहानियाँ भी"
+    },
+    {
+      "title": "New Corona Variant Alert : कोरोना की फिर दस्तक, 23 देशों में ...",
+      "url": "https://www.facebook.com/TV9Bharatvarsh/videos/new-corona-variant-alert-%E0%A4%95%E0%A5%8B%E0%A4%B0%E0%A5%8B%E0%A4%A8%E0%A4%BE-%E0%A4%95%E0%A5%80-%E0%A4%AB%E0%A4%BF%E0%A4%B0-%E0%A4%A6%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A4%95-23-%E0%A4%A6%E0%A5%87%E0%A4%B6%E0%A5%8B%E0%A4%82-%E0%A4%AE%E0%A5%87%E0%A4%82-%E0%A4%AB%E0%A5%88%E0%A4%B2-%E0%A4%B0%E0%A4%B9%E0%A4%BE-%E0%A4%A8%E0%A4%AF%E0%A4%BE-%E0%A4%B5%E0%A5%87%E0%A4%B0%E0%A4%BF%E0%A4%8F%E0%A4%82%E0%A4%9Fcov/24799717693060095",
+      "snippet": "ऐसा माना जाता है कि फैक्टिविटी ज्यादा होगी मतलब एक से दूसरे को फैलने की चांसेस ज्यादा होंगे पर इसके सिम्टम्स वैसे ही होंगे जैसे कि नॉर्मल फ्लू वायरस के सिम्टम्स होते हैं यानि कि खांसी, जुखाम, बुखार इसी वक्त, इसी टाइप ...Read more"
+    }
+  ],
+  "english_retrieval": [
+    {
+      "title": "Symptoms of COVID-19 - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Symptoms_of_COVID-19",
+      "snippet": "# Symptoms of COVID-19. The **symptoms of COVID-19** are variable depending on the type of variant contracted, ranging from mild symptoms to a potentially fatal illness. Common symptoms include coughing, fever, loss of smell and taste, with less common ones including headaches, nasal congestion and runny nose, muscle pain, sore throat, diarrhea, eye irritation, and toes swelling or turning purple, and in moderate to severe cases, breathing difficulties. People with the COVID-19 infection may have different symptoms, and their symptoms may change over time. Three common clusters of symptoms have been identified: a respiratory symptom cluster with cough, sputum, shortness of breath, and fever; a musculoskeletal symptom cluster with muscle and joint pain, headache, and fatigue; and a cluster of digestive symptoms with abdominal pain, vomiting, and diarrhea. In people without prior ear, nose, or throat disorders, loss of taste combined with loss of smell is associated with COVID-19 and is reported in as many as 88% of symptomatic cases."
+    },
+    {
+      "title": "Coronavirus Symptoms: Early Signs, Serious Symptoms",
+      "url": "https://www.webmd.com/covid/covid-19-symptoms",
+      "snippet": "# Symptoms of Coronavirus. COVID-19 is a respiratory condition that develops when a coronavirus infects the body. Some people are infected but don’t notice any COVID-19 symptoms (doctors call that being asymptomatic). Most people have mild symptoms and get better on their own. The odds of more serious COVID-19 symptoms are higher if you’re older or have another health condition such as diabetes or heart disease. At the start of the COVID-19 pandemic, many people lost their sense of smell and taste, had a cough and trouble breathing, and needed to check into a hospital. Coronavirus symptoms now look more like those of a cold, with fever, muscle pain, extreme tiredness, sneezing, a sore throat, and a cough. COVID-19 symptoms can range from mild to serious. ### What are the most common COVID-19 symptoms? The most common symptoms of coronavirus include:. These symptoms can start anywhere from two to 14 days after you’re in contact with the virus."
+    },
+    {
+      "title": "Coronavirus Symptoms: Common Symptoms, vs. Cold & More",
+      "url": "https://www.healthline.com/health/coronavirus-symptoms",
+      "snippet": "# Signs and Symptoms of the New Coronavirus and COVID-19. Coronaviruses are a diverse family of viruses that can cause infection in both humans and animals. Others, such as SARS-CoV and MERS-CoV, can cause more severe respiratory illnesses. A SARS-CoV-2 infection causes a respiratory illness called COVID-19. COVID-19 can have potentially serious complications, such as breathing issues and pneumonia. Because of this, it’s important to be able to recognize the signs and symptoms of COVID-19 and how they differ from other conditions. ## What are the symptoms of COVID-19? It’s possible to have the virus and not develop symptoms. ## How do COVID-19 symptoms differ from cold symptoms? Some symptoms of the common cold are:. As you can see, there’s a lot of overlap in symptoms between COVID-19 and the flu. However, it’s important to note that many common symptoms of the flu are observed less often in cases of COVID-19. If you think that you have symptoms of COVID-19, here’s what to do:."
+    },
+    {
+      "title": "Coronavirus disease (COVID-19)",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/coronavirus-disease-(covid-19)",
+      "snippet": "# Coronavirus disease (COVID-19). * COVID-19 is a disease caused by the SARS-CoV-2 coronavirus. People with severe disease or at risk of developing severe disease should seek medical care as soon as possible. For those at high risk of severe COVID-19, revaccination may be needed 6-12 months after the most recent dose. * COVID-19 continues to be a signficant public health concern, with global circulation of the SARS-CoV-2 virus and hospitalizations and deaths continuing to occur. COVID-19 is caused by the SARS-CoV-2 virus, which spreads through the air in infectious respiratory particles from an infected person. Immediate medical attention should be sought by people at risk of developing severe disease or with the following severe symptoms:. People who have underlying health conditions are at higher risk of developing severe disease when they have COVID-19; they should seek medical help early if worried about their condition."
+    },
+    {
+      "title": "Unusual Symptoms of Coronavirus: What We Know So Far",
+      "url": "https://time.com/5837591/unusual-symptoms-of-coronavirus",
+      "snippet": "From skin rashes to COVID toes, kidney problems and blood clots, COVID-19 patients are reporting many unusual symptoms of their infections."
+    },
+    {
+      "title": "New virus strain spikes in 9 US states with symptoms ...",
+      "url": "https://www.foxnews.com/health/new-virus-strain-spikes-us-states-symptoms-from-brain-fog-persistent-cough",
+      "snippet": "The new strain exhibits most of the normal. These symptoms can include fatigue, fever and persistent, dry cough. Stratus may also present as"
+    }
+  ],
+  "merged_results": [
+    {
+      "title": "साल 2020 में कोरोना वायरस का कहर दुनियाभर के देशों में देखने को ...",
+      "url": "https://www.instagram.com/p/Da4rojtlHiT",
+      "snippet": "अब कोविड 19 को लेकर पहले ही तरह डर नहीं है लेकिन इसका खतरा पूरी तरह से खत्म नहीं हुई है. वायरस में म्यूटेशन के साथ नए वैरिएंट्स देखने को मिल रहे हैं. कुछ दिनों से कोविड को लेकर चर्चा काफी तेज हो गई है ...Read more"
+    },
+    {
+      "title": "CHINA में फिर फैली CORONA जैसी बीमारी, HMPV की वजह से ...",
+      "url": "https://www.youtube.com/watch?v=hNfR-xzhdDU",
+      "snippet": "... नए वायरस का संक्रमण फैल रहा है...जिसने बहुत जल्दी बहुत ज्यादा लोगों को अपने चपेत में ले लिया है...हालात ऐसे हो चुके हैं कि नए वायरस ह्यूमन मेटान्यूमोवायरस यानी HMPV के खतरे ने पूरे विश्व में दहशत पैदा कर ...Read more"
+    },
+    {
+      "title": "कोरोना का नया वेरिएंट 'Cicada' (BA.3.2) कितना खतरनाक?",
+      "url": "https://www.youtube.com/watch?v=kysoS7qeFgY",
+      "snippet": "कोरोना का नया वेरिएंट 'Cicada' (BA.3.2) कितना खतरनाक? | COVID-19 New Variant Explained | Clear Cutक्या दुनिया एक बार फिर कोरोना के नए खतरे की तरफ बढ़ रही है?"
+    },
+    {
+      "title": "Corona ke lakshan 2025: जानिए कौन से लक्षण नए हैं",
+      "url": "https://redcliffelabs.com/myhealth/covid/corona-symptoms-2025-know-which-symptoms-are-new",
+      "snippet": "Jul 19, 2025 — बाकी सदस्यों से दूरी बनाए रखें. Q10: क्या कोरोना अब कभी खत्म नहीं होगा? A: विशेषज्ञ मानते हैं कि यह वायरस लंबे समय तक हमारे साथ रहेगा, लेकिन अब यह एक सामान्य संक्रमण की तरह व्यवहार कर रहा है।Read more"
+    },
+    {
+      "title": "कोविड 'Cicada' का खतरा! क्या फिर लौटेगा लॉकडाउन?",
+      "url": "https://www.youtube.com/watch?v=9mtO-6UuBcs",
+      "snippet": "... यहाँ आपको देश-विदेश की ताज़ा और बड़ी ख़बरें हिंदी में मिलती हैं। India News पर सिर्फ़ राजनीतिक और जनहित की ख़बरें ही नहीं, बल्कि खास इंटरव्यू, पौराणिक कथाओं पर आधारित शृंखलाएँ और रोचक तथ्यात्मक कहानियाँ भी"
+    },
+    {
+      "title": "New Corona Variant Alert : कोरोना की फिर दस्तक, 23 देशों में ...",
+      "url": "https://www.facebook.com/TV9Bharatvarsh/videos/new-corona-variant-alert-%E0%A4%95%E0%A5%8B%E0%A4%B0%E0%A5%8B%E0%A4%A8%E0%A4%BE-%E0%A4%95%E0%A5%80-%E0%A4%AB%E0%A4%BF%E0%A4%B0-%E0%A4%A6%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A4%95-23-%E0%A4%A6%E0%A5%87%E0%A4%B6%E0%A5%8B%E0%A4%82-%E0%A4%AE%E0%A5%87%E0%A4%82-%E0%A4%AB%E0%A5%88%E0%A4%B2-%E0%A4%B0%E0%A4%B9%E0%A4%BE-%E0%A4%A8%E0%A4%AF%E0%A4%BE-%E0%A4%B5%E0%A5%87%E0%A4%B0%E0%A4%BF%E0%A4%8F%E0%A4%82%E0%A4%9Fcov/24799717693060095",
+      "snippet": "ऐसा माना जाता है कि फैक्टिविटी ज्यादा होगी मतलब एक से दूसरे को फैलने की चांसेस ज्यादा होंगे पर इसके सिम्टम्स वैसे ही होंगे जैसे कि नॉर्मल फ्लू वायरस के सिम्टम्स होते हैं यानि कि खांसी, जुखाम, बुखार इसी वक्त, इसी टाइप ...Read more"
+    },
+    {
+      "title": "Symptoms of COVID-19 - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Symptoms_of_COVID-19",
+      "snippet": "# Symptoms of COVID-19. The **symptoms of COVID-19** are variable depending on the type of variant contracted, ranging from mild symptoms to a potentially fatal illness. Common symptoms include coughing, fever, loss of smell and taste, with less common ones including headaches, nasal congestion and runny nose, muscle pain, sore throat, diarrhea, eye irritation, and toes swelling or turning purple, and in moderate to severe cases, breathing difficulties. People with the COVID-19 infection may have different symptoms, and their symptoms may change over time. Three common clusters of symptoms have been identified: a respiratory symptom cluster with cough, sputum, shortness of breath, and fever; a musculoskeletal symptom cluster with muscle and joint pain, headache, and fatigue; and a cluster of digestive symptoms with abdominal pain, vomiting, and diarrhea. In people without prior ear, nose, or throat disorders, loss of taste combined with loss of smell is associated with COVID-19 and is reported in as many as 88% of symptomatic cases."
+    },
+    {
+      "title": "Coronavirus Symptoms: Early Signs, Serious Symptoms",
+      "url": "https://www.webmd.com/covid/covid-19-symptoms",
+      "snippet": "# Symptoms of Coronavirus. COVID-19 is a respiratory condition that develops when a coronavirus infects the body. Some people are infected but don’t notice any COVID-19 symptoms (doctors call that being asymptomatic). Most people have mild symptoms and get better on their own. The odds of more serious COVID-19 symptoms are higher if you’re older or have another health condition such as diabetes or heart disease. At the start of the COVID-19 pandemic, many people lost their sense of smell and taste, had a cough and trouble breathing, and needed to check into a hospital. Coronavirus symptoms now look more like those of a cold, with fever, muscle pain, extreme tiredness, sneezing, a sore throat, and a cough. COVID-19 symptoms can range from mild to serious. ### What are the most common COVID-19 symptoms? The most common symptoms of coronavirus include:. These symptoms can start anywhere from two to 14 days after you’re in contact with the virus."
+    },
+    {
+      "title": "Coronavirus Symptoms: Common Symptoms, vs. Cold & More",
+      "url": "https://www.healthline.com/health/coronavirus-symptoms",
+      "snippet": "# Signs and Symptoms of the New Coronavirus and COVID-19. Coronaviruses are a diverse family of viruses that can cause infection in both humans and animals. Others, such as SARS-CoV and MERS-CoV, can cause more severe respiratory illnesses. A SARS-CoV-2 infection causes a respiratory illness called COVID-19. COVID-19 can have potentially serious complications, such as breathing issues and pneumonia. Because of this, it’s important to be able to recognize the signs and symptoms of COVID-19 and how they differ from other conditions. ## What are the symptoms of COVID-19? It’s possible to have the virus and not develop symptoms. ## How do COVID-19 symptoms differ from cold symptoms? Some symptoms of the common cold are:. As you can see, there’s a lot of overlap in symptoms between COVID-19 and the flu. However, it’s important to note that many common symptoms of the flu are observed less often in cases of COVID-19. If you think that you have symptoms of COVID-19, here’s what to do:."
+    },
+    {
+      "title": "Coronavirus disease (COVID-19)",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/coronavirus-disease-(covid-19)",
+      "snippet": "# Coronavirus disease (COVID-19). * COVID-19 is a disease caused by the SARS-CoV-2 coronavirus. People with severe disease or at risk of developing severe disease should seek medical care as soon as possible. For those at high risk of severe COVID-19, revaccination may be needed 6-12 months after the most recent dose. * COVID-19 continues to be a signficant public health concern, with global circulation of the SARS-CoV-2 virus and hospitalizations and deaths continuing to occur. COVID-19 is caused by the SARS-CoV-2 virus, which spreads through the air in infectious respiratory particles from an infected person. Immediate medical attention should be sought by people at risk of developing severe disease or with the following severe symptoms:. People who have underlying health conditions are at higher risk of developing severe disease when they have COVID-19; they should seek medical help early if worried about their condition."
+    },
+    {
+      "title": "Unusual Symptoms of Coronavirus: What We Know So Far",
+      "url": "https://time.com/5837591/unusual-symptoms-of-coronavirus",
+      "snippet": "From skin rashes to COVID toes, kidney problems and blood clots, COVID-19 patients are reporting many unusual symptoms of their infections."
+    },
+    {
+      "title": "New virus strain spikes in 9 US states with symptoms ...",
+      "url": "https://www.foxnews.com/health/new-virus-strain-spikes-us-states-symptoms-from-brain-fog-persistent-cough",
+      "snippet": "The new strain exhibits most of the normal. These symptoms can include fatigue, fever and persistent, dry cough. Stratus may also present as"
+    }
+  ]
+}

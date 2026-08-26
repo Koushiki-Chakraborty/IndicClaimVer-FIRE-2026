@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/HI/1251",
+    "text": "COVID-19 केवल फेफड़े की बीमारी नहीं, खतरनाक तरीके से खून का थक्का भी जम सकता है- एक्सपर्ट्स ने किया आगाह",
+    "lang": "hindi"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Coronavirus Disease 2019 (COVID-19)",
+      "url": "https://www.cdc.gov/coronavirus/2019-ncov/about/index.html",
+      "snippet": "Image 1An official website of the United States government. Here's how you know. A **.gov** website belongs to an official government organization in the United States. A **lock** (  ) or **https://** means you've safely connected to the .gov website. *   People with Certain Medical Conditions and COVID-19. *   How to Protect Yourself and Others. *   Containing COVID-19 in Non-U.S. Healthcare Settings. About COVID-19SymptomsPeople with Certain Medical Conditions and COVID-19COVID-19 VaccinesTestingTreatmentHow to Protect Yourself and OthersTools and ResourcesView Menu. # Coronavirus Disease 2019 (COVID-19). Learn how to protect yourself from COVID-19. Learn what you need to know about COVID-19 testing. Learn about the types of COVID-19 treatments, symptom management, and recovery. Information for healthcare workers about COVID-19. Guidance, tools, and resources for health departments to address COVID-19. Get information about the risk factors of COVID-19 for the general public. ## Covid. COVID-19 (coronavirus disease 2019) is a disease caused by a virus named SARS-CoV-2.",
+      "bm25_score_raw": 1.0861906847135692,
+      "bm25_score_norm": 0.17262536571611972,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8579446077346802,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "COVID-19",
+      "url": "https://www.hopkinsmedicine.org/health/conditions-and-diseases/coronavirus",
+      "snippet": "Image 1: Johns Hopkins MedicineJohns Hopkins Medicine  Menu. # COVID-19. *   COVID-19 can be severe, and has caused millions of deaths around the world as well as lasting health problems in some who have survived the illness. *   However, some with COVID-19 develop only mild symptoms—or experience no symptoms at all. ## What are symptoms of COVID-19? Some people infected with COVID-19 have mild illness, and others have no symptoms at all. If you have a fever or any of the symptoms listed above, call your doctor or a health care provider and explain your symptoms over the phone before going to the doctor’s office, urgent care facility or emergency room. These tests are recommended if you do not have symptoms or if you are taking the test as a risk-prevention measure, such as before going on a work trip or seeing a friend, and you want to be sure you don’t have the coronavirus that causes COVID-19.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.848628044128418,
+      "embedding_score_norm": 0.7922170112302195,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Covid-19",
+      "url": "https://en.wikipedia.org/wiki/COVID-19",
+      "snippet": "+ 13.1 Transmission and prevention research. - 13.2.1 Cytokine storm. # COVID-19. Contagious disease caused by SARS-CoV-2. For the virus that causes the disease, see SARS-CoV-2. For the global pandemic caused by the disease, see COVID-19 pandemic. | Coronavirus disease 2019 (COVID-19) |. | Transmission and life-cycle of SARS-CoV-2, which causes COVID-19 |. **Coronavirus disease 2019** (**COVID-19**) is a contagious disease caused by the coronavirus SARS-CoV-2. Starting in January 2020, the disease spread worldwide, resulting in the COVID-19 pandemic. In March 2020, the World Health Organization declared COVID-19 a global health emergency; they declared the end of the emergency in May 2023. The official names COVID‑19 and SARS-CoV-2 were issued by the WHO on 11 February 2020 with COVID-19 being shorthand for \"coronavirus disease 2019\". COVID‑19 is caused by infection with a coronavirus known as \"severe acute respiratory syndrome coronavirus 2\" (SARS-CoV-2).",
+      "bm25_score_raw": 1.2365792718414776,
+      "bm25_score_norm": 0.19652621960655028,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8408248424530029,
+      "embedding_score_norm": 0.6181858303556236,
+      "embedding_rank": 3
+    },
+    {
+      "title": "No Severe Outcomes Among Patients With COVID-19 ...",
+      "url": "https://www.youtube.com/watch?v=KBbEPwNElM8",
+      "snippet": "ଓଡ଼ିଶାରେ ହାଇ ଆଲର୍ଟ | COVID-19 Alert! 2 Deaths Reported in AP | High Alert Issued in Odisha. Kanak News. New. 2K views.Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.8376201391220093,
+      "embedding_score_norm": 0.5467128211672622,
+      "embedding_rank": 4
+    },
+    {
+      "title": "COVID-19 Response | United Nations",
+      "url": "https://www.un.org/en/coronavirus",
+      "snippet": "## Coronavirus global health emergency. ### WHO chief declares end to COVID-19 as a global health emergency. 5 May 2023 - The head of the UN World Health Organization (WHO) has declared “with great hope” an end to COVID-19 as a public health emergency, stressing that it does not mean the disease is no longer a global threat. For over 12 months, the pandemic “has been on a downward trend,” he said, with immunity increasing due to the highly effective vaccines developed in record time to fight the disease, and infections. ### WHO: Coronavirus disease (COVID-19) Pandemic. The World Health Organization (WHO) is working closely with global experts, governments and partners to rapidly expand scientific knowledge on this new virus, to track the spread and virulence of the virus, and to provide advice to countries and individuals on measures to protect health and prevent the spread of this outbreak. ### What is a Coronavirus?",
+      "bm25_score_raw": 0.8228410700936142,
+      "bm25_score_norm": 0.1307719193786039,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8357236385345459,
+      "embedding_score_norm": 0.5044160498553684,
+      "embedding_rank": 5
+    },
+    {
+      "title": "2025-2026 COVID-19 vaccines",
+      "url": "https://cdphe.colorado.gov/covid-19",
+      "snippet": "## 2025-2026 COVID-19 vaccines. This allows Coloradans to receive the vaccine at participating providers and pharmacies without having to first obtain an individual prescription. The updated COVID-19 vaccines protect against the latest variants of the COVID-19 virus. It’s safe to get your COVID-19 vaccine and flu vaccine at the same appointment. ## COVID-19. COVID-19 is a disease caused by a virus. From January 2020 until May 2023, COVID-19 was a federal public health emergency in the United States. The best way to protect yourself from COVID-19 is to stay up to date with COVID-19 vaccines. Depending on your personal risk factors, you may choose to take additional precautions, like wearing a mask and improving ventilation in your home and workplace. The Centers for Disease Control and Prevention’s respiratory virus guidance for people with COVID-19 is simple and aligns with guidance for other respiratory viruses, including flu and RSV. Some people are sick from COVID-19 for a long time.",
+      "bm25_score_raw": 0.8188708761753212,
+      "bm25_score_norm": 0.1301409471315072,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8351907730102539,
+      "embedding_score_norm": 0.49253179768589417,
+      "embedding_rank": 6
+    },
+    {
+      "title": "कोरोना से ठीक हो चुके मरीजों को गंभीर बीमारी का खतरा है ज्यादा ...",
+      "url": "https://hindi.news18.com/news/nation/death-in-people-recovering-from-covid-19-higher-risk-of-serious-illness-according-to-study-3567576.html",
+      "snippet": "Apr 23, 2021 — ... जोखिम 60 प्रतिशत तक ज्यादा होता है. शोधकर्ताओं ने कहा कि छह महीने की सीमा तक, कोविड-19 से ठीक हुए सभी लोगों में प्रति 1000 मरीजों पर अधिक मौत के आठ मामले सामने आते हैं. उन्होंने कहा कि कोविड-19 ...Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8311729431152344,
+      "embedding_score_norm": 0.4029240045941807,
+      "embedding_rank": 7
+    },
+    {
+      "title": "कोरोना वायरस का बढ़ता ख़तरा, कैसे करें बचाव - BBC News हिंदी",
+      "url": "https://www.bbc.com/hindi/science-51710467",
+      "snippet": "# कोरोना वायरस का बढ़ता ख़तरा, कैसे करें बचाव. **कोरोना****वायरस अब चीन में उतनी तेज़ी से नहीं बढ़ रहा जितना दूसरे देशों में फैल रहा है. ये वायरस अब तक** **160** **से ज़्यादा देशों में फैल चुका है.**. भारत में कोरोना वायरस संक्रमित लोगों की संख्या अब 223 पहुंच चुकी है. वहीं पूरी दुनिया में इसके संक्रमण के दो लाख से अधिक मामले सामने आ चुके हैं और इस कारण 10,000 से अधिक लोगों की मौत हो चुकी है. विश्व स्वास्थ्य संगठन, पब्लिक हेल्थ इंग्लैंड और नेशनल हेल्थ सर्विस (एनएचएस) से प्राप्त सूचना के आधार पर आगे आपको कोरोना वायरस से बचाव के तरीके बताए जा रहे हैं. अभी तक ये पूरी तरह से पता नहीं चल सका है कि कोरोना वायरस एक व्यक्ति से दूसरे व्यक्ति में कैसे फैलता है. इस तरह के कोई प्रमाण नहीं मिले हैं कि कोरोना वायरस पार्सल, चिट्टियों या खाने के ज़रिए फैलता है.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.824174165725708,
+      "embedding_score_norm": 0.24683352475752934,
+      "embedding_rank": 8
+    },
+    {
+      "title": "कोरोना वायरस के लक्षण क्या हैं और कैसे कर सकते हैं बचाव",
+      "url": "https://www.bbc.com/hindi/science-51366908",
+      "snippet": "**कोरोना वायरस के तीन मुख्य लक्षण हैं. अगर इनमें से एक भी लक्षण आपमें दिखता है तो आपको टेस्ट करा लेना चाहिए.**. ## क्या हैं ये तीन लक्षण. पब्लिक हेल्थ इंग्लैंड के मुताबिक़, 85% कोरोना के मरीज़ों में इनमें से कम से कम एक लक्षण देखा जाता है. ज़ोइ कोविड सिम्टम स्टडी और ओएनएस के एक हालिया सर्वे के मुताबिक़, नए वेरिएंट्स से संक्रमित लोगों में खांसी, गले में ख़राश या बहती नाक जैसे दूसरे लक्षण होने की संभावना ज़्यादा है. अगर किसी को भी लगता है कि उन्हें कोविड हो सकता है तो उन्हें टेस्ट करवाना चाहिए. ऐसे में अगर आप या आप जिन लोगों के साथ रहते हों उनमें किसी में ये लक्षण हों तो तुरंत टेस्ट कराना चाहिए और घर में ही खुद को सेल्फ़ आइसोलेट करना चाहिए ताकि ये संक्रमण दूसरों तक नहीं पहुंचे. कुछ लोग भले ही खुद ज़्यादा बीमार महसूस ना करें, लेकिन वो दूसरों को ख़तरे में ज़रूर डाल सकते हैं.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.8220722675323486,
+      "embedding_score_norm": 0.1999558660881402,
+      "embedding_rank": 9
+    },
+    {
+      "title": "Falling sick frequently after getting COVID? Guidance in ...",
+      "url": "https://www.youtube.com/watch?v=AIO5u4mi7D8",
+      "snippet": "It has been observed that some people are experiencing frequent illness,sickness or routine infections after covid attack.",
+      "bm25_score_raw": 6.2921846983936085,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8218396902084351,
+      "embedding_score_norm": 0.19476880210992004,
+      "embedding_rank": 10
+    },
+    {
+      "title": "COVID-19 Pandemic",
+      "url": "https://ourworldindata.org/coronavirus",
+      "snippet": "*   [![Image 40: A thumbnail of the \"Daily confirmed COVID-19 deaths by world region\" chart](https://ourworldindata.org/grapher/daily-covid-deaths-region.png)Daily confirmed COVID-19 deaths by world region](https://ourworldindata.org/grapher/daily-covid-deaths-region). *   [![Image 61: A thumbnail of the \"Cumulative confirmed COVID-19 cases and deaths\" chart](https://ourworldindata.org/grapher/cumulative-deaths-and-cases-covid-19.png)Cumulative confirmed COVID-19 cases and deaths](https://ourworldindata.org/grapher/cumulative-deaths-and-cases-covid-19). *   [![Image 63: A thumbnail of the \"Cumulative confirmed COVID-19 deaths by world region\" chart](https://ourworldindata.org/grapher/cumulative-covid-deaths-region.png)Cumulative confirmed COVID-19 deaths by world region](https://ourworldindata.org/grapher/cumulative-covid-deaths-region). *   [![Image 68: A thumbnail of the \"Daily and total confirmed COVID-19 deaths\" chart](https://ourworldindata.org/grapher/total-daily-covid-deaths.png)Daily and total confirmed COVID-19 deaths](https://ourworldindata.org/grapher/total-daily-covid-deaths). *   [![Image 78: A thumbnail of the \"Estimated daily excess deaths during COVID\" chart](https://ourworldindata.org/grapher/excess-deaths-daily-economist.png)Estimated daily excess deaths during COVID](https://ourworldindata.org/grapher/excess-deaths-daily-economist)Faceted Explorer version. *   [![Image 124: A thumbnail of the \"Total confirmed COVID-19 deaths and cases per million people\" chart](https://ourworldindata.org/grapher/total-covid-cases-deaths-per-million.png)Total confirmed COVID-19 deaths and cases per million people](https://ourworldindata.org/grapher/total-covid-cases-deaths-per-million). *   [![Image 133: A thumbnail of the \"Weekly confirmed COVID-19 deaths\" chart](https://ourworldindata.org/grapher/weekly-covid-deaths.png)Weekly confirmed COVID-19 deaths](https://ourworldindata.org/grapher/weekly-covid-deaths). *   [![Image 134: A thumbnail of the \"Weekly confirmed COVID-19 deaths per million people\" chart](https://ourworldindata.org/grapher/weekly-covid-deaths-per-million-people.png)Weekly confirmed COVID-19 deaths per million people](https://ourworldindata.org/grapher/weekly-covid-deaths-per-million-people).",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.8182119131088257,
+      "embedding_score_norm": 0.11386017525948613,
+      "embedding_rank": 11
+    },
+    {
+      "title": "कितना खतरनाक है Coronavirus का नया वेरिएंट? जानें लक्षण ...",
+      "url": "https://www.youtube.com/watch?v=Src9PSSOqBs",
+      "snippet": "... इम्यूनिटी को चकमा देकर तेजी से फैल सकता है। हालांकि अभी तक यह साफ नहीं है कि यह कितना खतरनाक है, लेकिन कमजोर इम्यूनिटी वाले लोग, बुजुर्ग और बीमार लोग इससे ज्यादा प्रभावित हो सकते हैं।Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8131066560745239,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1235",
+    "text": "Here's why China should stop obsessing with its Covid disinfection drive",
+    "lang": "english"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "China should stop obsessing with its disinfection drive ...",
+      "url": "https://www.indiatoday.in/coronavirus-outbreak/story/china-disinfection-drive-futile-risk-experts-covid-omicron-shanghai-1944725-2022-05-03",
+      "snippet": "May 3, 2022 — In pandemic-hit China, authorities seem to be obsessing with disinfection drives, even as experts say such measures could be futile and also pose health risks.Read more",
+      "bm25_score_raw": 5.013843815453691,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9216224551200867,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Why China is still obsessed with disinfecting everything",
+      "url": "https://www.technologyreview.com/2022/05/19/1052458/why-china-disinfect-everything",
+      "snippet": "May 19, 2022 — Scientists say China's splashy covid disinfection campaigns are not backed by science or a good investment of resources.",
+      "bm25_score_raw": 3.6215987495853046,
+      "bm25_score_norm": 0.7223198174667502,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.9138076305389404,
+      "embedding_score_norm": 0.8935871120536776,
+      "embedding_rank": 2
+    },
+    {
+      "title": "China is obsessed with disinfection against COVID-19. But ...",
+      "url": "https://www.facebook.com/LocalNews8/posts/china-is-obsessed-with-disinfection-against-covid-19-but-is-it-causing-more-harm/387499183420911",
+      "snippet": "In pandemic-hit China, authorities seem to be obsessing with disinfection drives, even as experts say such measures could be futile and also pose health risks.Read more",
+      "bm25_score_raw": 2.1312857626582007,
+      "bm25_score_norm": 0.425080206146259,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.9090836048126221,
+      "embedding_score_norm": 0.8292610078589592,
+      "embedding_rank": 3
+    },
+    {
+      "title": "China is obsessed with disinfection against Covid. But is it ...",
+      "url": "https://www.cnn.com/2022/05/02/china/china-covid-disinfection-intl-hnk-mic",
+      "snippet": "May 2, 2022 — China is obsessed with disinfection against Covid. China's rigorous “zero-Covid” policy drives an obsession with sanitizing everything.",
+      "bm25_score_raw": 1.1527879679471102,
+      "bm25_score_norm": 0.2299209968196421,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.901960551738739,
+      "embedding_score_norm": 0.7322678328086182,
+      "embedding_rank": 4
+    },
+    {
+      "title": "China is obsessed with disinfection against Covid. But is it ...",
+      "url": "https://ritms.rutgers.edu/news/china-is-obsessed-with-disinfection-against-covid-but-is-it-causing-more-harm-than-good",
+      "snippet": "May 27, 2022 — China is obsessed with disinfection against Covid. ... China's rigorous “zero-Covid” policy drives an obsession with sanitizing everything.Read more",
+      "bm25_score_raw": 1.1314875230303798,
+      "bm25_score_norm": 0.22567267044555797,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8952831625938416,
+      "embedding_score_norm": 0.6413431734676734,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Chinese workers blow clouds of disinfectant onto streets ...",
+      "url": "https://www.newsflare.com/video/449673/chinese-workers-blow-clouds-of-disinfectant-onto-streets-after-covid-19-lockdown-lifted",
+      "snippet": "Aug 25, 2021 — The video, filmed in the city of Zhangjiajie in Hunan Province on August 25, shows workers in protective clothes standing in a row to disinfect the streets.Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8481837511062622,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6
+    }
+  ]
+}

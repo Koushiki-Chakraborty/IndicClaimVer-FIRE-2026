@@ -1,0 +1,57 @@
+{
+  "claim": {
+    "id": "S2/T/CM/1113",
+    "text": "sardar patel referring to muslims who chose to live in india after partition ye kahete hai ki ab hamari niyat pr saval kyun karte ho are hume kyun puchte ho apne dil se pucho asking same thing to r wingers for thier beloved party with 303 seats",
+    "lang": "codemix"
+  },
+  "ranked_evidence": [
+    {
+      "title": "Sardar Patel and Indian Muslims - Rafiq Zakaria",
+      "url": "https://books.google.com/books/about/Sardar_Patel_and_Indian_Muslims.html?id=Hi9uAAAAMAAJ",
+      "snippet": "Sardar Patel and Indian Muslims: An Analysis of His Relations with Muslims, Before and After India's Partition Bhavan's book university. Author, Rafiq Zakaria.Read more",
+      "bm25_score_raw": 3.2129908247288745,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Sardar Vallabhbhai Patel in his Calcutta Speech in 1948 Is ...",
+      "url": "https://www.facebook.com/PostcardEnglishNews/posts/most-of-the-muslims-who-have-stayed-back-in-hindustan-helped-in-creating-pakista/2062334807310006",
+      "snippet": "Muslims of India claim that they chose India in 1947. ... Sardar Vallabhbhai Patel's speech about muslim stayed in India after partition.Read more",
+      "bm25_score_raw": 2.9209779405768597,
+      "bm25_score_norm": 0.8669547063719218,
+      "bm25_rank": 2
+    },
+    {
+      "title": "Pakistan || Partition of India || Muslim League",
+      "url": "https://www.youtube.com/watch?v=l3JjgZITVzY",
+      "snippet": "Sardar Vallabhbhai Patel on Minoritarianism || Pakistan || Partition of India || Muslim League ||. @collegestreetkolkata96698 likes138 views4 ...Read more",
+      "bm25_score_raw": 2.886358874264575,
+      "bm25_score_norm": 0.8511817590376867,
+      "bm25_rank": 3
+    },
+    {
+      "title": "What do you think about Congress leader and freedom ...",
+      "url": "https://www.reddit.com/r/CriticalThinkingIndia/comments/1ruf4cq/what_do_you_think_about_congress_leader_and",
+      "snippet": "Patel also said elsewhere that Muslims who chose to stay in India must be treated as citizens, and the Indian state must protect minorities ...Read more",
+      "bm25_score_raw": 2.1371542882617316,
+      "bm25_score_norm": 0.5098333133288285,
+      "bm25_rank": 4
+    },
+    {
+      "title": "Sardar Patel said, “The Muslims who are still in India, all of ...",
+      "url": "https://x.com/arunpudur/status/1672484024034693121?lang=en",
+      "snippet": "Sardar Patel said, “The Muslims who are still in India, all of them helped in the creation of Pakistan... They now say that they are loyal and",
+      "bm25_score_raw": 2.0646436250690052,
+      "bm25_score_norm": 0.4767964064003628,
+      "bm25_rank": 5
+    },
+    {
+      "title": "Sardar Patel: A Champion of Hindu-Muslim Unity",
+      "url": "https://www.asian-voice.com/Opinion/Columnists/Hari-Desai/Sardar-Patel-A-Champion-of-Hindu-Muslim-Unity",
+      "snippet": "Dec 3, 2018 — Patel said: “People say that Congress partitioned India. It is true. We have taken this responsibility after proper thinking and not because of",
+      "bm25_score_raw": 1.0181526896173623,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6
+    }
+  ]
+}

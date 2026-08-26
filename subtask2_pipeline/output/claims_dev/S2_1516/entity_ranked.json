@@ -1,0 +1,99 @@
+{
+  "claim": {
+    "id": "S2/1516",
+    "text": "Tamil Nadu lifts Sunday lockdown despite daily Covid cases reaching 30,000.",
+    "lang": "dev"
+  },
+  "entity_ranked_evidence": [
+    {
+      "title": "Tamil Nadu Announces Lockdown This Sunday Amid ...",
+      "url": "https://www.ndtv.com/india-news/tamil-nadu-announces-lockdown-this-sunday-amid-covid-surge-2721629",
+      "snippet": "Jan 21, 2022 — Tamil Nadu has announced a lockdown this Sunday amid a surge in Covid cases. infection tally to 30,42,796. s infection tally to 30,42,796.",
+      "bm25_score_raw": 5.357221591906214,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9075469970703125,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 1,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 1
+    },
+    {
+      "title": "Fresh lockdown in Tamil Nadu from June 19-30",
+      "url": "https://www.youtube.com/watch?v=tMYr8c05Jxw",
+      "snippet": "Fresh lockdown in Tamil Nadu from June 19-30 | COVID-19 cases cross 44000 Amid rising coronavirus cases in Tamil Nadu, especially in Chennai",
+      "bm25_score_raw": 2.2300880013327684,
+      "bm25_score_norm": 0.22257015483425655,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8851542472839355,
+      "embedding_score_norm": 0.5273300529301566,
+      "embedding_rank": 2,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 1,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 2
+    },
+    {
+      "title": "Tamil Nadu extends night curfew and Sunday lockdown ' ...",
+      "url": "https://timesofindia.indiatimes.com/city/chennai/tamil-nadu-extends-night-curfew-and-sunday-lockdown-until-further-orders/articleshow/82307152.cms",
+      "snippet": "Apr 29, 2021 — CHENNAI: The Tamil Nadu government on Thursday extended night curfew and complete lockdown on Sundays 'until further orders.",
+      "bm25_score_raw": 2.598739465448476,
+      "bm25_score_norm": 0.31421978935308215,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8772296905517578,
+      "embedding_score_norm": 0.360057170104967,
+      "embedding_rank": 3,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 1,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 3
+    },
+    {
+      "title": "TN observes one more 'Sunday' lockdown to fight COVID-19",
+      "url": "https://www.wionews.com/india-news/tn-observes-one-more-sunday-lockdown-to-fight-covid-19-319273",
+      "snippet": "Aug 9, 2020 — Tamil Nadu on Sunday observed an intense lockdown with only health care services and milk supply continuing as usual while roads wore a",
+      "bm25_score_raw": 2.093604545036835,
+      "bm25_score_norm": 0.1886393011554485,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8763910531997681,
+      "embedding_score_norm": 0.34235507114180425,
+      "embedding_rank": 4,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 1,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 4
+    },
+    {
+      "title": "Tamil Nadu lockdown extended till August 31",
+      "url": "https://indianexpress.com/article/explained/tamil-nadu-lockdown-extended-august-31-chennai-madurai-thiruvallur-6530821",
+      "snippet": "Jul 30, 2020 — On the five Sundays of August (2, 9, 16, 23, 30), a “complete lockdown” will be observed, Night curfew will be followed from 9 pm to 6 am. 6 am",
+      "bm25_score_raw": 1.3348218731164638,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8743411302566528,
+      "embedding_score_norm": 0.29908495120284945,
+      "embedding_rank": 5,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 1,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 5
+    },
+    {
+      "title": "Night curfew, Sunday lockdown in Tamil Nadu from April 20",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/coronavirus-tamil-nadu-announces-night-curfew-from-april-20/article34350744.ece",
+      "snippet": "Apr 18, 2021 — The Tamil Nadu government has announced restrictions from April 20 including a night curfew between 10 pm and 4 am and a complete lockdown on Sundays.Read more",
+      "bm25_score_raw": 2.3844253972764182,
+      "bm25_score_norm": 0.2609396374151887,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8601719737052917,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 1,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 6
+    }
+  ]
+}

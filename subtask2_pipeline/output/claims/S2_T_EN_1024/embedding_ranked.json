@@ -1,0 +1,76 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1024",
+    "text": "WHO 'excess Covid death' report: Govt lens on pharma firms denied entry to India",
+    "lang": "english"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Why India's real Covid toll may never be known",
+      "url": "https://www.bbc.com/news/world-asia-india-60981318",
+      "snippet": "**More than 4.7 million people in India - nearly 10 times higher than official records suggest - are thought to have died because of Covid-19, according to a new World Health Organization (WHO) report. In November 2020, researchers at the World Mortality Dataset - a global repository that provides updated data on deaths from all causes - asked authorities in India to provide information. \"These are not available,\" India's main statistical office told the researchers, according to Ariel Karlinsky, a scientist who co-created the dataset and is a member of an advisory group set up by the the WHO for its estimates of excess deaths caused by Covid globally during 2020 and 2021. Although it is difficult to say how many of these deaths were due to Covid, they can be considered a measure of the scale and toll of the pandemic.",
+      "bm25_score_raw": 3.1412909809945653,
+      "bm25_score_norm": 0.5314586221251766,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8675153851509094,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "India's death toll in 2021 during the COVID-19 pandemic: insights from delayed official civil registration data — JOGH",
+      "url": "https://jogh.org/2025/jogh-15-03045",
+      "snippet": "# India’s death toll in 2021 during the COVID-19 pandemic: insights from delayed official civil registration data. India released its 2021 official death registration data in May 2025, showing a dramatic undercount of reported COVID-19 mortality in 2021 – a year that included the lethal second wave from the Delta variant in April to June 2021. The civil registration system (CRS) documented 10.2 million deaths in 2021 – a 26% increase from 2020 – compared to only 335 004 reported COVID-19 deaths. Our analysis reveals India experienced approximately 2.4 million excess deaths in 2021, representing a 7.2× undercount compared to reported COVID-19 deaths. This aligns with the estimates derived from several epidemiological models during and after the pandemic, indicating excess-to-reported COVID-19 death ratios ranging from 4.4× to 11.9×. The 2.1 million increase in registered deaths from 2020 to 2021 is ~ 6.3 times the reported 335 004 COVID-19 deaths in 2021 [5].",
+      "bm25_score_raw": 3.478334080952167,
+      "bm25_score_norm": 0.5884811846906963,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8537540435791016,
+      "embedding_score_norm": 0.6010406118562704,
+      "embedding_rank": 2
+    },
+    {
+      "title": "The WHO estimates of excess mortality associated with the COVID-19 pandemic",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9812776",
+      "snippet": "A **.gov** website belongs to an official government organization in the United States. # The WHO estimates of excess mortality associated with the COVID-19 pandemic. Here we report a comprehensive and consistent measurement of the impact of the COVID-19 pandemic by estimating excess deaths, by month, for 2020 and 2021. describe how the World Health Organization has estimated the excess mortality associated with the COVID-19 pandemic, by month and for 2020 and 2021,and analyse their estimates across the WHO member states, with 14.83 million global excess deaths estimated. There are many different facets to the monthly time series of excess mortality that we may examine: (1) the raw excess counts, (2) the excess rate (say per 100,000 of population), (3) the P-score, which is the ratio of the excess to the expected and (4) the ratio of the excess to the reported COVID-19 deaths.",
+      "bm25_score_raw": 5.910697183598772,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8520543575286865,
+      "embedding_score_norm": 0.5517644781906971,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Estimates of pandemic excess mortality in India based on civil registration data | PLOS Global Public Health",
+      "url": "https://journals.plos.org/globalpublichealth/article?id=10.1371%2Fjournal.pgph.0000803",
+      "snippet": "Estimates of pandemic excess mortality in India based on civil registration data. The population health impacts of the COVID-19 pandemic are less well understood in low and middle-income countries, where mortality surveillance before the pandemic was patchy. Interpreting the limited all-cause mortality data available in India is challenging. We use existing data on all-cause mortality from civil registration systems of twelve Indian states comprising around 60% of the national population to understand the scale and timing of excess deaths in India during the COVID-19 pandemic. Comparing the pandemic period to 2019, we estimate excess mortality in twelve Indian states, and extrapolate our estimates to the rest of India. For the 12 states with available all-cause mortality data, we document an increase of 28% in deaths during April 2020–May 2021 relative to expectations from 2019. More limited data from June 2021 increases national estimates of excess deaths during April 2020–June 2021 to 3.8 million.",
+      "bm25_score_raw": 2.0772444437309416,
+      "bm25_score_norm": 0.351438143286203,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8425906300544739,
+      "embedding_score_norm": 0.27739857404034574,
+      "embedding_rank": 4
+    },
+    {
+      "title": "India's COVID deaths up to ten times higher than official tally",
+      "url": "https://www.youtube.com/watch?v=V1hKM4LEwtg",
+      "snippet": "– the government reporting more than 415000 have died. But most ... / dwdeutsch #India #Covid19 #DeathToll. India's COVID deaths up to ten times ...Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8366952538490295,
+      "embedding_score_norm": 0.10648386550497842,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Mortality studies of COVID in India",
+      "url": "https://unstats.un.org/iswghs/documents/1-Prabhat-Jha-India-COVID-mortality.pdf",
+      "snippet": "Jha et al, CGHR under review Facility-level deaths show urban peak in 2020 and urban and rural peak in 2021 0 10000 20000 30000 40000 50000 60000 70000 Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec Adjusted URBAN Series 2018 2019 2020 2021 0 100000 200000 300000 400000 500000 Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec Adjusted RURAL Series 2018 2019 2020 2021 Jha et al, CGHR under review Summary estimates of excess deaths in India at national and state levels Data source Reference period Months Excess deaths mid (LL,UL) in 000s Excess as percentage of UN estimated deaths; mid (LL,UL) National Survey June 2020-Jan 2021 8 586 (556, 615) 8.6 (8.2, 9.0) April-June 2021 3 2739 (2602, 2876) 107.9 (102.5, 113.3) June 2020-July 2021 13 3325 (3159, 3491) 30.3 (28.8, 31.9) Facility-based deaths, national July-Dec 2020 6 180 (169, 191) 13.9 (13.1, 14.8) Apr-May 2021 2 450 (362, 539) 120.2 (96.5, 143.9) July 2020-May 2021 11 630 (531, 730) 27.4 (23.1, 31.7) Civil registration deaths Andhra Pradesh July 2020-June 2021 12 207 (155, 259) 50.3 (37.7, 63) Madhya Pradesh July 2020-May 2021 11 205 (149, 261) 31.3 (22.8, 39.8) Haryana July 2020-May 2021 11 61 (51, 71) 31.2 (26.3, 36.2) Maharashtra July 2020-May 2021 11 244 (211, 278) 30.0 (25.9, 34.2) Karnataka July 2020-June 2021 12 175 (152, 198) 26.6 (23.1, 30.1) Himachal Pradesh July 2020-May 2021 11 8 (6, 10) 25.0 (18.4, 31.6) Tamil Nadu July 2020-June 2021 12 140 (101, 179) 22.6 (16.2, 28.9) West Bengal July 2020-May 2021 11 138 (124, 152) 22.0 (19.8, 24.3) Rajasthan July 2020-May 2021 11 50 (9, 11) 9.0 (1.7, 2.0) Kerala Aug 2020-May 2021 10 19 (15, 22) 7.8 (6.4, 9.2) Sub-total and medians 1247 (1002, 1491) 25.8 (21.3, 30.8) Mumbai: case and death rates for Waves 1 (Aleph), 2 (Mostly delta) and 3 (Omicron) Omicron Omicron Delta Delta Aleph Aleph",
+      "bm25_score_raw": 2.1881565501395954,
+      "bm25_score_norm": 0.3702027835584905,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8330222964286804,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6
+    }
+  ]
+}

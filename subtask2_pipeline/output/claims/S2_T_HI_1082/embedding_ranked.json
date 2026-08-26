@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/HI/1082",
+    "text": "ऑक्सीजन की पर्याप्त आपूर्ति के बावजूद गोवा में 26 कोरोना मरीजों की मौत हुई।",
+    "lang": "hindi"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "26 Covid-19 patients die at Goa hospital due to oxygen shortage",
+      "url": "https://www.livemint.com/news/26-covid-19-patients-die-at-goa-hospital-due-to-oxygen-shortage-11620811752080.html",
+      "snippet": "As many as 26 coronavirus-infected patients died due to oxygen shortage on Tuesday. The 26 victims were admitted at Goa Medical College and Hospital.",
+      "bm25_score_raw": 5.1991668618229205,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.930855393409729,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "26 coronavirus patients die due to oxygen shortage at Goa ...",
+      "url": "https://www.indiatoday.in/india/video/26-coronavirus-patients-die-due-to-oxygen-shortage-at-goa-govt-hospital-1801984-2021-05-13",
+      "snippet": "Goa Health Minister Vishwajit Rane on Tuesday state as many as 26 Covid-19 patients have died at Goa Medical College due to lack of",
+      "bm25_score_raw": 4.837591559136599,
+      "bm25_score_norm": 0.9229643825135738,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.9073498249053955,
+      "embedding_score_norm": 0.8598270826994548,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Goa news: 26 die due to oxygen shortage at Goa's premier ...",
+      "url": "https://timesofindia.indiatimes.com/india/26-die-due-to-oxygen-shortage-at-goas-premier-government-hospital/articleshow/82562505.cms",
+      "snippet": "Goa health minister Vishwajit Rane on Tuesday said that many Covid patients were dying due to oxygen supply problems in early morning hours at Goa Medical",
+      "bm25_score_raw": 4.0915480443894054,
+      "bm25_score_norm": 0.7640156866172938,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8996505737304688,
+      "embedding_score_norm": 0.81391343045062,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Many deaths in India's Goa as gov't fails to ensure oxygen ...",
+      "url": "https://www.aljazeera.com/news/2021/5/20/many-deaths-in-indias-goa-as-govt-fails-to-ensure-oxygen-supply",
+      "snippet": "Between May 11 and May 16, dropping oxygen levels at Goa's largest hospital killed 75 COVID-19 patients.",
+      "bm25_score_raw": 0.5055548095792575,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.8890798091888428,
+      "embedding_score_norm": 0.7508758185918089,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Disruption in oxygen supply kills 22 COVID patients in India",
+      "url": "https://www.youtube.com/watch?v=rxC7R6GnzEE",
+      "snippet": "19 patients at the hospital who were under ventilator support died due to the cut in oxygen supply. More than 20 patients died.",
+      "bm25_score_raw": 2.291905033627617,
+      "bm25_score_norm": 0.3805917924542655,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.886488676071167,
+      "embedding_score_norm": 0.7354238762934675,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Indian COVID-19 patients die as ventilators run out of oxygen",
+      "url": "https://www.reuters.com/world/india/oxygen-supplies-run-low-india-grapples-with-coronavirus-storm-2021-04-21",
+      "snippet": "At least 24 COVID-19 patients in western India died on Wednesday when the oxygen supply to their ventilators ran out, amid a nationwide shortage of the gas and",
+      "bm25_score_raw": 2.098487052564833,
+      "bm25_score_norm": 0.3393830221277266,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8825879096984863,
+      "embedding_score_norm": 0.712162077623688,
+      "embedding_rank": 6
+    },
+    {
+      "title": "Goa Nightclub Fire: गोवा अग्निकांड में 25 लोगों की मौत, कौन है जिम्मेदार? | Aaj ...",
+      "url": "https://www.youtube.com/watch?v=mEYGE0nv5S4",
+      "snippet": "गोवा में देर रात एक दर्दनाक हादसा हुआ, जब सिलेंडर ब्लास्ट के बाद नाइट क्लब के किचन में आग लग गई। कुछ ही देर में आग ने पूरे क्लब को अपनी चपेट में ले लिया। इस हादसे में 25 लोगों की मौत हो गई,",
+      "bm25_score_raw": 2.8381296486993963,
+      "bm25_score_norm": 0.49696796692114975,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8286386728286743,
+      "embedding_score_norm": 0.39044163436848645,
+      "embedding_rank": 7
+    },
+    {
+      "title": "Goa Trip In January 2026 | Goa Current Situation | A-Z Tour Guide | Goa ...",
+      "url": "https://www.youtube.com/watch?v=2nWyeLgPx-A",
+      "snippet": "January is the peak season in Goa with massive crowds, high prices, and unfortunately, several tourist scams",
+      "bm25_score_raw": 0.8399081260557295,
+      "bm25_score_norm": 0.07123582280658301,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.7683528661727905,
+      "embedding_score_norm": 0.030933742048676178,
+      "embedding_rank": 8
+    },
+    {
+      "title": "Goa Latest Update | January 2026 current situation of Goa | Goa news",
+      "url": "https://www.youtube.com/watch?v=pKZT0EwvJqs",
+      "snippet": "Goa Latest Update | January 2026 current situation of Goa | Goa news Top 5 Family resorts - Baga beach Goa 1. Casa de Silver Beachfront",
+      "bm25_score_raw": 0.9212349769518704,
+      "bm25_score_norm": 0.08856295806848959,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.7667056322097778,
+      "embedding_score_norm": 0.02111064034282042,
+      "embedding_rank": 9
+    },
+    {
+      "title": "Current Situation in Goa after New Year || January 2026 || Business in ...",
+      "url": "https://www.youtube.com/watch?v=e8hsZaUmVCU",
+      "snippet": "Current Situation in Goa after New Year || January 2026 || Business in Goa || Harry Dhillon ... 11:26. Go to channel Think School Hindi · Why GOA",
+      "bm25_score_raw": 0.8008108271463781,
+      "bm25_score_norm": 0.06290592709424736,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.764377236366272,
+      "embedding_score_norm": 0.007225503382422776,
+      "embedding_rank": 10
+    },
+    {
+      "title": "Goa Trip in February 2026 | आप ये गलती करके पैसा बर्बाद मत करो | A-Z Goa ...",
+      "url": "https://www.youtube.com/watch?v=aIsuXDgx-eo",
+      "snippet": "Goa Trip in February 2026 | आप ये गलती करके पैसा बर्बाद मत करो | A-Z Goa Tour Guide |Goa Trip Guide. @STEPTOTRAVEL248 likes14K views5 months ago",
+      "bm25_score_raw": 0.7885749059959217,
+      "bm25_score_norm": 0.060298996437375685,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.7632437944412231,
+      "embedding_score_norm": 0.00046634496446963214,
+      "embedding_rank": 11
+    },
+    {
+      "title": "Goa Trip January 2026 | Current Situation | A–Z Complete Travel Guide",
+      "url": "https://www.youtube.com/watch?v=z4mGT5eSCcQ",
+      "snippet": "... complete tour guide है। यह एक informative Goa vlog है जिसमें आपको मिलेगी Goa की current situation, मौसम, बजट, होटल, पार्टी सीन, sightseeing और एक perfect Goa",
+      "bm25_score_raw": 0.8091812669558925,
+      "bm25_score_norm": 0.0646892955781239,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.7631655931472778,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

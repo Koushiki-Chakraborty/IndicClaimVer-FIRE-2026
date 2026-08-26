@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/HI/1238",
+    "text": "सुप्रीम कोर्ट ने चुनाव याचिका में गवाह से क्रॉस एक्जामिनेशन की अनुमति देने से इनकार करते हुए VIPS चेयरमैन के खिलाफ सत्येंद्र जैन की याचिका खारिज कर दी।",
+    "lang": "hindi"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "The Supreme Court on Friday refused to entertain a writ petition ...",
+      "url": "https://www.facebook.com/livelaw.in/posts/the-supreme-court-on-friday-refused-to-entertain-a-writ-petition-challenging-the/1343068774524817",
+      "snippet": "Supreme Court Issues Notice On Satyendra Jain's Plea Against VIPS Chairman Over Cross-Examination Of A Witness In An Election Matter Case",
+      "bm25_score_raw": 4.701041586440463,
+      "bm25_score_norm": 0.8379987717367923,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.9411466717720032,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Supreme Court Issues Notice On Satyendra Jain's Plea Against VIPS ...",
+      "url": "https://x.com/LiveLawIndia/status/1811814528910524454",
+      "snippet": "Supreme Court Issues Notice On Satyendra Jain's Plea Against VIPS Chairman Over Cross-Examination Of A Witness In An Election Matter",
+      "bm25_score_raw": 4.993402854357184,
+      "bm25_score_norm": 0.8955553549698844,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.909214973449707,
+      "embedding_score_norm": 0.8426637658081468,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Supreme Court Disposes Satyendra Jain's Plea Against VIPS Chairman ...",
+      "url": "https://www.livelaw.in/amp/top-stories/supreme-court-disposes-satyendra-jains-plea-against-vips-chairman-over-cross-examination-of-witness-in-election-petition-266281",
+      "snippet": "Supreme Court Disposes Satyendra Jain's Plea Against VIPS Chairman Over Cross-Examination Of Witness In Election Petition. Gyanvi Khanna. 9",
+      "bm25_score_raw": 5.52393415300036,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9067085981369019,
+      "embedding_score_norm": 0.830314167324284,
+      "embedding_rank": 3
+    },
+    {
+      "title": "SC refuses to entertain Satyendar Jain's plea against HC order in ...",
+      "url": "https://www.thehindu.com/news/national/sc-refuses-to-entertain-satyendar-jains-plea-against-hc-order-in-money-laundering-case/article66254796.ece",
+      "snippet": "Mr. Mehta vehemently opposed Mr. Jain's petition for expeditious hearing of the bail plea. Justice Bhat voiced concern over pending bail matters",
+      "bm25_score_raw": 0.9743000732885984,
+      "bm25_score_norm": 0.10432255799480922,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.8558356165885925,
+      "embedding_score_norm": 0.5796490364523142,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Supreme Court Denies Bail to AAP Leader Satyendar Jain in Money ...",
+      "url": "https://www.youtube.com/watch?v=K2ci2hlt7vA",
+      "snippet": "The Supreme Court on Monday denied bail petition by AAP leader and former Delhi Minister Satyendar Jain in a money laundering case.",
+      "bm25_score_raw": 2.4645846534231515,
+      "bm25_score_norm": 0.39771192892181406,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8547400236129761,
+      "embedding_score_norm": 0.5742507494194514,
+      "embedding_rank": 5
+    },
+    {
+      "title": "'Surrender forthwith', SC's order to Satyendar Jain",
+      "url": "https://legal.economictimes.indiatimes.com/amp/news/litigation/surrender-forthwith-scs-order-to-satyendar-jain/108586457",
+      "snippet": "'Surrender forthwith', SC's order to Satyendar Jain. The Supreme Court on Monday dismissed the regular bail petition filed by Aam Aadmi Party",
+      "bm25_score_raw": 2.1967584588014315,
+      "bm25_score_norm": 0.34498551692958535,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8404671549797058,
+      "embedding_score_norm": 0.5039244116466258,
+      "embedding_rank": 6
+    },
+    {
+      "title": "Satyendar Jain Massage Video LIVE: BJP Releases Video Of AAP's Jain ...",
+      "url": "https://www.youtube.com/watch?v=SsA3i-ZOr9I",
+      "snippet": "Satyendar Jain Massage Video LIVE: BJP Releases Video Of AAP's Jain Getting VIP Treatment In Jail The BJP on Saturday released an old video",
+      "bm25_score_raw": 1.0093671904946127,
+      "bm25_score_norm": 0.11122615184154093,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.8080738186836243,
+      "embedding_score_norm": 0.3443135605639875,
+      "embedding_rank": 7
+    },
+    {
+      "title": "CCTV video of Delhi AAP's Minister Satyendar Jain getting a massage ...",
+      "url": "https://www.youtube.com/watch?v=4STU2ZYEpTE",
+      "snippet": "VSP News : CCTV video of Delhi AAP's Minister Satyendar Jain getting a massage inside Tihar jail. @VSPNEWS2 likes118 views3 years ago",
+      "bm25_score_raw": 0.9048347189058146,
+      "bm25_score_norm": 0.09064705138670466,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.7949923276901245,
+      "embedding_score_norm": 0.27985746713112514,
+      "embedding_rank": 8
+    },
+    {
+      "title": "AAP नेता सत्येंद्र जैन को जेल में VIP ट्रीटमेंट देने का आरोप, गृह मंत्रालय ने ...",
+      "url": "https://www.jansatta.com/rajya/satyendra-jain-getting-facility-in-jail-mha-sought-report/2455058/lite",
+      "snippet": "सत्येंद्र जैन की जमानत की याचिका पर 5 नवंबर को सुनवाई होनी है। सत्येंद्र जैन की ओर से वरिष्ठ वकील हरिहरन ने कोर्ट कोर्ट को बताया कि जैन किसी भी कंपनी के मालिक खुद नहीं है इस वजह से उन पर कोई मामला ही",
+      "bm25_score_raw": 3.6589155899841925,
+      "bm25_score_norm": 0.6328374927417575,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.7789920568466187,
+      "embedding_score_norm": 0.2010197449668411,
+      "embedding_rank": 9
+    },
+    {
+      "title": "Satyendra Jain Sting : चाचा-भतीजा संग, BJP में टेंशन!, 'AAP' का स्टिंग जारी है! ...",
+      "url": "https://www.youtube.com/watch?v=B4laDjvHcls",
+      "snippet": "Satyendra Jain Sting : चाचा-भतीजा संग, BJP में टेंशन!, 'AAP' का स्टिंग जारी है! #TV9D. @TV9Bharatvarsh36 likes6.1K viewsStreamed 3 years ago",
+      "bm25_score_raw": 0.4443889212634701,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.7621826529502869,
+      "embedding_score_norm": 0.11819520236454428,
+      "embedding_rank": 10
+    },
+    {
+      "title": "कैसे मिली सत्येंद्र जैन को VVIP सुविधाएं, देखिए Zee News पर बड़ा खुलासा! | AAP",
+      "url": "https://www.youtube.com/watch?v=f3-ccwU8QmY",
+      "snippet": "दिल्ली सरकार के मंत्री सत्येंद्र जैन को मिलती VIP सुविधाओं को लेकर बड़ा खुलासा हुआ है. एक्सक्लूसिव रिपोर्ट में यह सामने आया कि तिहाड़ जेल के तत्कालीन डीजी संदीप गोयल ने यह सुविधाएं मुहैया कराई थी.",
+      "bm25_score_raw": 3.0773069111212186,
+      "bm25_score_norm": 0.518337345124389,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.758243978023529,
+      "embedding_score_norm": 0.09878827090643116,
+      "embedding_rank": 11
+    },
+    {
+      "title": "हाल ही में जैनेंद्र के. जैन को प्रदान किए गए वोल्फ भौतिकी पुरस्कार के संबंध में ...",
+      "url": "https://testbook.com/question-answer/hn/consider-the-following-statements-regarding-the-wo--6a37dcad44bd4617bd5f0e0a/amp",
+      "snippet": "\"हाल ही में जैनेंद्र के. जैन को प्रदान किए गए वोल्फ भौतिकी",
+      "bm25_score_raw": 1.5254329710177,
+      "bm25_score_norm": 0.21282299899603013,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.7381947040557861,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "claim": {
+    "id": "S2/1193",
+    "text": "कोरोना वायरसः INSACOG ने कहा- Omicron अभी कम्युनिटी ट्रांसमिशन स्टेज में नहीं पहुँचा, मेट्रो शहरों में असर सीमित",
+    "lang": "dev"
+  },
+  "ranked_evidence": [
+    {
+      "title": "Omicron In Community Transmission Stage In India, Dominant In Multiple ...",
+      "url": "https://news.abplive.com/news/india/omicron-in-community-transmission-stage-in-india-dominant-in-multiple-metros-insacog-1508205/amp",
+      "snippet": "INSACOG said Omicron is now in community transmission in India and has become dominant in Delhi and Mumbai where new cases have been rising",
+      "bm25_score_raw": 5.020978989615991,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Omicron variant reaches the stage of community transmission",
+      "url": "https://www.thenewsminute.com/amp/story/news/omicron-variant-reaches-stage-community-transmission-160152",
+      "snippet": "The Omicron variant of COVID-19 is in the community transmission stage in India and has become dominant in multiple metros where new cases have",
+      "bm25_score_raw": 4.402819913256142,
+      "bm25_score_norm": 0.8459160981762667,
+      "bm25_rank": 2
+    },
+    {
+      "title": "Omicron in community transmission stage in India, dominant in multiple ...",
+      "url": "https://health.economictimes.indiatimes.com/amp/news/diagnostics/omicron-in-community-transmission-stage-in-india-dominant-in-multiple-metros-insacog/89072697",
+      "snippet": "The Omicron variant of COVID-19 is in the community transmission stage in India and has become dominant in multiple metros where new cases have",
+      "bm25_score_raw": 4.323927755534449,
+      "bm25_score_norm": 0.8262512385148427,
+      "bm25_rank": 3
+    },
+    {
+      "title": "Omicron COVID Variant Now in Community Transmission",
+      "url": "https://www.thequint.com/amp/story/fit/coronavirus/omicron-covid-19-variant-community-transmission-india-insacog",
+      "snippet": "INSACOG has reported on 23 January Sunday that the Omicron COVID-19 variant is in community transmission in India.",
+      "bm25_score_raw": 4.199111130024038,
+      "bm25_score_norm": 0.7951391293400191,
+      "bm25_rank": 4
+    },
+    {
+      "title": "Omicron in community transmission: INSACOG",
+      "url": "https://iasbaba.com/2022/01/omicron-in-community-transmission-insacog",
+      "snippet": "Context: According to the Indian SARS-CoV-2 Genomics Consortium (INSACOG), Omicron is now in community transmission in India and has become",
+      "bm25_score_raw": 4.028236744797436,
+      "bm25_score_norm": 0.7525465459673215,
+      "bm25_rank": 5
+    },
+    {
+      "title": "INSACOG declares community transmission of Omicron, says THIS ...",
+      "url": "https://www.dnaindia.com/india/report-insacog-declares-community-transmission-of-omicron-says-this-about-rising-cases-covid-19-2929793/amp",
+      "snippet": "INSACOG said that while most cases of Omicron have been mild or asymptomatic so far, hospitalizations and ICU cases have been increasing.",
+      "bm25_score_raw": 3.6711798925661276,
+      "bm25_score_norm": 0.6635456478673102,
+      "bm25_rank": 6
+    },
+    {
+      "title": "Early Introduction and Community Transmission of SARS-CoV ... - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9881774",
+      "snippet": "by D Liu · 2023 · Cited by 7 — The continuous genetic divergence within each Omicron subclade revealed their local community transmission and co-circulation in New York, Omicron has –",
+      "bm25_score_raw": 2.7479488826348986,
+      "bm25_score_norm": 0.4334187408378667,
+      "bm25_rank": 7
+    },
+    {
+      "title": "Omicron strains 20-30 pc more infectious: INSACOG to review data ...",
+      "url": "https://health.economictimes.indiatimes.com/amp/news/industry/omicron-strains-20-30-pc-more-infectious-insacog-to-review-data-of-genomic-surveillance-of-covid-variants/93514416",
+      "snippet": "\"The current strains that are doing rounds all over are 20-30 per cent more infectious than Omicron sub-variants, but hospitalisation and deaths",
+      "bm25_score_raw": 2.526805691615677,
+      "bm25_score_norm": 0.3782960272240057,
+      "bm25_rank": 8
+    },
+    {
+      "title": "Omicron (B.1.1.529 variant of SARS‐CoV‐2); an emerging threat: Current global scenario",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9015454",
+      "snippet": "Image 5: PMC search open icon Search. As the Alpha, Beta, and Delta variants were associated with consecutive waves of SARS‐CoV‐2 infections across the entire world with high surge of COVID‐19 cases and associated deaths seen during first half of this year, so it is expected that the world may face a new wave of pandemic due to Omicron in the coming time owing to its very rapid spread in many countries.27 Now the COVID‐19 cases are increasing rapidly in South Africa and the early doubling time is higher than that of the previous three waves of COVID‐19 pandemic.8, 28, 29 As on December 24, the UK reported maximum Omicron cases (26,447) followed by the USA (4614), Denmark (2001), South Africa (1643), and Australia (859) while cases are also increasing on daily basis in other many countries.7 As per the Institute for Health Metrics and Evaluation (IHME, the USA), world will witness 300 crore Omicron cases globally in next 2 months however, the infection‐fatality rate will be lower than the Delta variant.30 Now, Omicron has become the dominant variant and found in more than 70% of the samples collected in the United States, and it may likely displace Delta as the dominant variant in the coming days.31 So, the international responses towards Omicron have been raised as compared to other previous variants.",
+      "bm25_score_raw": 1.2147776498779177,
+      "bm25_score_norm": 0.0512565842968244,
+      "bm25_rank": 9
+    },
+    {
+      "title": "Why is genome sequencing crucial to track SARS-CoV-2 variants?",
+      "url": "https://www.thehindu.com/sci-tech/health/explained-why-is-genome-sequencing-crucial-to-track-sars-cov-2-variants/article60681380.ece/amp",
+      "snippet": "INSACOG is a consortia of 10 labs across the country tasked with scanning COVID-19 samples from swathes of patients and flagging the presence of variants.",
+      "bm25_score_raw": 1.0765684183542938,
+      "bm25_score_norm": 0.016806200122860184,
+      "bm25_rank": 10
+    },
+    {
+      "title": "SARS-CoV-2 Omicron variant",
+      "url": "https://en.wikipedia.org/wiki/SARS-CoV-2_Omicron_variant",
+      "snippet": "| * Alpha (B.1.1.7) * Beta (B.1.351) * Gamma (P.1) * Delta (B.1.617.2)   Omicron (B.1.1.529)   * BA.1 (B.1.1.529.1) * BA.2 (B.1.1.529.2) * BA.3 (B.1.1.529.3) * BA.4 (B.1.1.529.4) * BA.5 (B.1.1.529.5) * XBB * BA.2.86 (B.1.1.529.2.86) * NB.1.8.1 * XFG * BA.3.2 (B.1.1.529.3.2) |. **Omicron** (B.1.1.529) is a heavily mutated variant of SARS-CoV-2 first reported to the World Health Organization (WHO) by the Network for Genomics Surveillance in South Africa on 24 November 2021. It was first detected in Botswana and has spread to become the predominant variant in circulation around the world. Following the original B.1.1.529 variant, several subvariants of Omicron have emerged, including: BA.1, BA.2, BA.3, BA.4, and BA.5. JN.1 went on to spawn multiple notable sublineages, including KP.3.1.1 and XEC in 2024, and LP.8.1, NB.1.8.1, and XFG in 2025. As of 25 June 2025, the variants of interest as specified by the World Health Organization are JN.1, and the variants under monitoring are KP.3, KP.3.1.1, JN.1.18, LP.8.1, NB.1.8.1, XEC and XFG.",
+      "bm25_score_raw": 1.0091447289091071,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11
+    }
+  ]
+}

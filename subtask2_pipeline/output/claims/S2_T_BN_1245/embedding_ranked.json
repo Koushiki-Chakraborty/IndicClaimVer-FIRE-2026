@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/BN/1245",
+    "text": "করোনা আতঙ্ক: ইউরোপের ৩০ দেশে যাতায়াতের উপর নিষেধাজ্ঞা জারি আমেরিকার",
+    "lang": "bengali"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Trump Announces 30-Day Air Travel Ban From Europe to US",
+      "url": "https://www.shapiro.com/alerts/trump-announces-30-day-air-travel-ban-from-europe-to-u-s",
+      "snippet": "The restricted countries include Austria, Belgium, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Italy, Latvia,",
+      "bm25_score_raw": 1.3563155069425148,
+      "bm25_score_norm": 0.2427114966324853,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8959561586380005,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "EU condemns Trump travel ban on 26 European countries",
+      "url": "https://www.bbc.com/news/world-us-canada-51857462",
+      "snippet": "President Donald Trump's coronavirus travel ban on 26 European countries has been met with anger and confusion, with EU leaders accusing him",
+      "bm25_score_raw": 4.209829664646709,
+      "bm25_score_norm": 0.753345407646027,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8941155672073364,
+      "embedding_score_norm": 0.983672537080472,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Coronavirus: Trump restricts travel from most of Europe by foreigners",
+      "url": "https://www.nbcnews.com/politics/donald-trump/trump-make-prime-time-address-coronavirus-wednesday-night-n1155941",
+      "snippet": "# Coronavirus: Trump restricts travel from most of Europe by foreigners. The president made the announcement after the number of coronavirus cases in the United States passed 1,000 and the stock market plummeted. Watch Trump's full speech on the coronavirus. WASHINGTON — President Donald Trump announced Wednesday that he would ban many foreign travelers from Europe for the next 30 days amid the growing coronavirus outbreak. \"As a result, a large number of new clusters in the United States were seeded by travelers from Europe.\". > Hoping to get the payroll tax cut approved by both Republicans and Democrats, and please remember, very important for all countries & businesses to know that trade will in no way be affected by the 30-day restriction on travel from Europe. ***Full coverage of the coronavirus outbreak***.",
+      "bm25_score_raw": 1.3304978832462018,
+      "bm25_score_norm": 0.23809145501624504,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8876463174819946,
+      "embedding_score_norm": 0.9262853118397371,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Why Trump's Travel Ban Won't Stop COVID-19 in the U.S.",
+      "url": "https://time.com/5801723/trump-travel-ban-covid-19",
+      "snippet": "President Donald Trump's 30-day ban on Europeans traveling to the U.S. delivers a hammer blow to a global airline industry that was already at",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.8817077875137329,
+      "embedding_score_norm": 0.8736059794045552,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Chaos in Europe, and Anger, Over U.S. Travel Ban to Curb ...",
+      "url": "https://www.nytimes.com/2020/03/12/world/europe/europe-coronavirus-travel-ban.html",
+      "snippet": "European leaders denounced President Trump's decision to block most visitors from the Continent for 30 days.",
+      "bm25_score_raw": 3.305610646679768,
+      "bm25_score_norm": 0.591536189944873,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8719569444656372,
+      "embedding_score_norm": 0.7871084951451177,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Trump's Europe travel ban likely won't stop US coronavirus ...",
+      "url": "https://www.vox.com/2020/3/11/21175949/europe-travel-ban-coronavirus-trump",
+      "snippet": "President Donald Trump announced a sweeping ban on travelers coming to the US from Europe as part of the administration's plan to combat the",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.8657658100128174,
+      "embedding_score_norm": 0.7321883664711742,
+      "embedding_rank": 6
+    },
+    {
+      "title": "CDC Museum COVID-19 Timeline",
+      "url": "https://www.cdc.gov/museum/timeline/covid19.html",
+      "snippet": "A .gov website belongs to an official government organization in the United States. The World Health Organization (WHO) Country Office in China is informed of several cases of a pneumonia of unknown etiology (cause) with symptoms including shortness of breath and fever occurring in Wuhan, China. CDC publishes information about the 2019 Novel Coronavirus (2019-nCoV) outbreak caused by the SARS CoV-2 virus on its website. CDC begins screening passengers for symptoms of the 2019 Novel Coronavirus on direct and connecting flights from Wuhan, China to San Francisco, California, New York City, New York, and Los Angeles, California and plans to expand screenings to other major airports in the U.S. Worldwide, 282 laboratory-confirmed cases of the 2019 Novel Coronavirus have been reported in four countries: China (278 cases), Thailand (2 cases), Japan (1 case) and the Republic of Korea (1 case). CDC reports the first laboratory-confirmed case of the 2019 Novel Coronavirus in the U.S. from samples taken on January 18 in Washington state and on the same day activates its Emergency Operations Center (EOC) to respond to the emerging outbreak.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.8143859505653381,
+      "embedding_score_norm": 0.2764094597767029,
+      "embedding_rank": 7
+    },
+    {
+      "title": "How did COVID-19 affect people in the US? | USAFacts",
+      "url": "https://usafacts.org/answers/how-did-covid-19-affect-people-in-the-us/country/united-states",
+      "snippet": "The national daily average number of new COVID-19 cases fluctuated since the first reports in January 2020. ## During the pandemic, Los Angeles County, CA, had the highest number of COVID-19 cases. ## During the pandemic, Loving County, TX, had the highest number of COVID-19 cases per 100K. The COVID-19 pandemic affected different parts of the country unevenly, both in total deaths, and when adjusted for population. The ten counties with the most COVID-19 deaths were:. ## During the pandemic, Los Angeles County, CA, had the highest number of COVID-19 deaths. California recorded the most COVID-19 cases and deaths from January 2020 to July 2023. | [Alabama](/answers/how-did-covid-19-affect-people-in-the-us/state/alabama/) | 1.66M |. | [Alaska](/answers/how-did-covid-19-affect-people-in-the-us/state/alaska/) | 287,300 |. | [Arizona](/answers/how-did-covid-19-affect-people-in-the-us/state/arizona/) | 2.49M |. | [Arkansas](/answers/how-did-covid-19-affect-people-in-the-us/state/arkansas/) | 977,700 |. | [California](/answers/how-did-covid-19-affect-people-in-the-us/state/california/) | 11.3M |. | [Colorado](/answers/how-did-covid-19-affect-people-in-the-us/state/colorado/) | 1.77M |. | [Connecticut](/answers/how-did-covid-19-affect-people-in-the-us/state/connecticut/) | 983,000 |. | [Delaware](/answers/how-did-covid-19-affect-people-in-the-us/state/delaware/) | 334,500 |. | [Washington, DC](/answers/how-did-covid-19-affect-people-in-the-us/state/washington-dc/) | 169,100 |. | [Florida](/answers/how-did-covid-19-affect-people-in-the-us/state/florida/) | 7.63M |.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.8118468523025513,
+      "embedding_score_norm": 0.2538857035296506,
+      "embedding_rank": 8
+    },
+    {
+      "title": "'We're playing with fire': US Covid cases may be 30 times ...",
+      "url": "https://www.theguardian.com/world/2022/jun/01/us-covid-surge-cases-rate",
+      "snippet": "Jun 2, 2022 — The United States is now in its fourth-biggest Covid surge, according to official case counts – but experts believe the actual current rate is much higher.Read more",
+      "bm25_score_raw": 1.1944687832207355,
+      "bm25_score_norm": 0.21374916424116044,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.811779260635376,
+      "embedding_score_norm": 0.2532861134081887,
+      "embedding_rank": 9
+    },
+    {
+      "title": "যুক্তরাষ্ট্রে কোভিড-১৯ এর বৈশ্বিক মহামারি",
+      "url": "https://bn.wikipedia.org/wiki/%E0%A6%AF%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%B0%E0%A6%BE%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A7%87_%E0%A6%95%E0%A7%8B%E0%A6%AD%E0%A6%BF%E0%A6%A1-%E0%A7%A7%E0%A7%AF_%E0%A6%8F%E0%A6%B0_%E0%A6%AC%E0%A7%88%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%BF%E0%A6%95_%E0%A6%AE%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%B0%E0%A6%BF",
+      "snippet": "মার্কিন যুক্তরাষ্ট্রের করোনভাইরাস রোগ (সিওভিড -১৯) প্রথম ধরা পরে ২০২০ সালের ২০ জানুয়ারিতে।৩৫ বছর বয়সী একজন ব্যক্তি যিনি ১৫ জানুয়ারি চীনের উহান থেকে দেশে ফিরে এসেছিলেন যা তার শরীরে এই ভাইরাস নিশ্চিত হয়।Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.8051778674125671,
+      "embedding_score_norm": 0.19472667361782317,
+      "embedding_rank": 10
+    },
+    {
+      "title": "আমেরিকার অবরোধ সত্ত্বেও কিউবায় ৩০ টন ত্রাণ পৌঁছালো ৩৩ টি ...",
+      "url": "https://www.youtube.com/watch?v=2njKzKqtf20",
+      "snippet": "জরুরি ওষুধ নিয়ে কিউবায় পৌঁছালো ত্রাণ আমেরিকার অবরোধ সত্ত্বেও ৩০ টন ত্রাণ সহায়তা নিয়ে কিউবার হাভানা বন্দরে নৌবহর নোঙর করেছে। ৩৩টি দেশ ও ১২০টি আন্তর্জাতিক সংস্থার সম্মিলিত উদ্যোগে পাঠানো এই ত্রাণবাহী ...Read more",
+      "bm25_score_raw": 5.588179899843199,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8003014922142029,
+      "embedding_score_norm": 0.1514694716627575,
+      "embedding_rank": 11
+    },
+    {
+      "title": "মার্কিন হামলায় ইরানে ৩০ বেসামরিক নাগরিক নি'হত, আহত ২৬০ - #ইরান",
+      "url": "https://www.facebook.com/tabletalkwithhasinaakther/videos/%E0%A6%AE%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%95%E0%A6%BF%E0%A6%A8-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE%E0%A7%9F-%E0%A6%87%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%87-%E0%A7%A9%E0%A7%A6-%E0%A6%AC%E0%A7%87%E0%A6%B8%E0%A6%BE%E0%A6%AE%E0%A6%B0%E0%A6%BF%E0%A6%95-%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95-%E0%A6%A8%E0%A6%BF%E0%A6%B9%E0%A6%A4-%E0%A6%86%E0%A6%B9%E0%A6%A4-%E0%A7%A8%E0%A7%AC%E0%A7%A6-%E0%A6%87%E0%A6%B0%E0%A6%BE%E0%A6%A8-%E0%A6%AF%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%B0%E0%A6%BE%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0-%E0%A6%AE%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%95%E0%A6%BF%E0%A6%A8_%E0%A6%B9/1070219572346763",
+      "snippet": "Video Transcript. ইরানের দক্ষিণ অঞ্চলে মার্কিন সামরিক বাহিনীর সাম্প্রতিক বিমান হামলায় নতুন করে ত্রিশ জনেরও বেশি বেসরকারিক নিহত হয়েছে বলে সরকারিভাবে নিশ্চিত করা হয়েছে. এর ...Read more",
+      "bm25_score_raw": 1.7878009121431877,
+      "bm25_score_norm": 0.31992543980077526,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.7832263708114624,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

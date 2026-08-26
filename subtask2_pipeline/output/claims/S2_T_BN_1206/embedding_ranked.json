@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/BN/1206",
+    "text": "অল্প ব্যবধানে হারা আরামবাগে জিতবে বিজেপি, মোদির প্রচারেই কাজ হবে; দাবি অপরূপার",
+    "lang": "bengali"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "অল্প ব্যবধানে হারা আরামবাগে জিততে বিজেপির বাজি মোদি, কাজ ...",
+      "url": "https://www.etvbharat.com/bn/!politics/arambagh-tmc-mp-aparupa-poddar-slams-bjp-over-pm-narendra-modi-meeting-wbs24022404184",
+      "snippet": "Feb 24, 2024 — Aparupa Poddar: বিধানসভার পর লোকসভা নির্বাচনকে টার্গেট করে প্রধানমন্ত্রী নরেন্দ্র মোদির প্রচার শুরু আরামবাগ থেকে । আরামবাগ লোকসভা কেন্দ্রে পদ্ম ফোটাতে মরিয়া বিজেপি ।",
+      "bm25_score_raw": 1.7727373931507422,
+      "bm25_score_norm": 0.37505043556453815,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8611593246459961,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Arambagh: আরামবাগে বিজেপি কর্মীদের বেধড়ক মার, বাড়ি ...",
+      "url": "https://madhyom.com/arambagh-bjp-worker-severely-beaten-house-vandalized-accused-trinamool-17680",
+      "snippet": "Nov 13, 2024 — মাধ্যম নিউজ ডেস্ক:বিজেপি কর্মীর বাড়িতে তাণ্ডব চালানোর অভিযোগ উঠল তৃণমূল আশ্রিত দুষ্কৃতীদের বিরুদ্ধে। ঘটনাটি ঘটেছে আরামবাগের (Arambagh) খানাকুল-১ নম্বর ব্লকের অরুণ্ডা গ্রামে।Read more",
+      "bm25_score_raw": 0.7013007883608574,
+      "bm25_score_norm": 0.0917147266601606,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8384964466094971,
+      "embedding_score_norm": 0.7871052597688741,
+      "embedding_rank": 2
+    },
+    {
+      "title": "\"Democracy won, intimidation lost\": PM Modi hails BJP's massive ...",
+      "url": "https://m.economictimes.com/news/india/democracy-won-intimidation-lost-pm-modi-hails-bjps-massive-win-on-falta-seat/articleshow/131295900.cms",
+      "snippet": "Prime Minister Narendra Modi congratulated Debangshu Panda of the BJP for a significant victory in Falta, West Bengal.",
+      "bm25_score_raw": 0.8887915385013405,
+      "bm25_score_norm": 0.14129565787585768,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8342387080192566,
+      "embedding_score_norm": 0.7471081265856381,
+      "embedding_rank": 3
+    },
+    {
+      "title": "India elections: Modi party defeated in West Bengal battleground",
+      "url": "https://www.bbc.com/news/world-asia-india-56964703",
+      "snippet": "Indian Prime Minister Narendra Modi's party has failed to win a key state in elections held amid record Covid-19 deaths and cases. The BJP",
+      "bm25_score_raw": 2.375085030722581,
+      "bm25_score_norm": 0.5343380631622183,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8323431611061096,
+      "embedding_score_norm": 0.7293013869905871,
+      "embedding_rank": 4
+    },
+    {
+      "title": "India: How Modi's BJP breached West Bengal's stronghold",
+      "url": "https://www.dw.com/en/india-modi-bjp-west-bengal-election-vote-victory/a-77058088",
+      "snippet": "# India: How Modi's BJP breached West Bengal's stronghold. Narendra Modi's Bharatiya Janata Party has won a major victory in West Bengal, a state seen as resistant to the party's rise. Modi campaigned heavily in West Bengal and promised economic development, employment for the youth and expanded welfare benefitsImage: Sajjad Hussain/AFP. Indian Prime Minister Narendra Modi's Bharatiya Janata Party (BJP) won a decisive election victory in opposition-held West Bengal, a key eastern state of more than 100 million people, marking a dramatic shift in a state long seen as resistant to the party's rise. The party's leader Mamata Banerjee has been a fierce critic of Modi. For decades, West Bengal resisted the kind of majoritarian politics that powered the BJP's rise across much of India, with the state's strong regional identity and linguistic pride appearing to insulate it, say experts. The BJP's victory in West Bengal marks a dramatic shift in a state long seen as resistant to the party's riseImage: Sahiba Chawdhary/REUTERS.",
+      "bm25_score_raw": 0.3820172235398738,
+      "bm25_score_norm": 0.0072818868863031485,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.830781102180481,
+      "embedding_score_norm": 0.714627428605344,
+      "embedding_rank": 5
+    },
+    {
+      "title": "India's Modi celebrates 'record' win in opposition-held West Bengal",
+      "url": "https://dailyvoa.com/public/index.php/1656",
+      "snippet": "Indian Prime Minister Narendra Modi claimed a \"record\" victory on Monday in key elections in opposition-held West Bengal state after official trends and",
+      "bm25_score_raw": 2.170752567988405,
+      "bm25_score_norm": 0.4803034306677288,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8232236504554749,
+      "embedding_score_norm": 0.6436328391620608,
+      "embedding_rank": 6
+    },
+    {
+      "title": "BJP's Bengal Triumph Stuns World, US To London, How ... - YouTube",
+      "url": "https://www.youtube.com/watch?v=5ZWFn9HMf2E",
+      "snippet": "bjp #bengalresults #bengalelections #bengalpolls2026 #kolkata Bharatiya Janata Party's Bengal sweep, led by Narendra Modi, dominates global",
+      "bm25_score_raw": 0.37934307715482035,
+      "bm25_score_norm": 0.006574723104203529,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.8225737810134888,
+      "embedding_score_norm": 0.6375279752602672,
+      "embedding_rank": 7
+    },
+    {
+      "title": "আরামবাগের মোদির সভার আগে বিজেপি কর্মীরা চনমনে !ভয়ে আছে ...",
+      "url": "https://www.youtube.com/watch?v=1pGmQ33j4gc",
+      "snippet": "2024elections আরামবাগের মোদির সভার আগে বিজেপি কর্মীরা চনমনে ! ভয়ে আছে তৃণমূল ! তৃণমূলের পোস্টার ব্যানার ছিড়ে ফেলছে আরামবাগের মোদির সভার আগে বিজেপি কর্মীরা চনমনে ! ভয়ে আছে তৃণমূল !",
+      "bm25_score_raw": 2.266379535645843,
+      "bm25_score_norm": 0.5055914734230998,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8213061094284058,
+      "embedding_score_norm": 0.6256194871869528,
+      "embedding_rank": 8
+    },
+    {
+      "title": "PM Modi : Arambagh এর সভা থেকে কী বার্তা মোদির? Bangla ...",
+      "url": "https://www.youtube.com/watch?v=DFAkG-73a6c",
+      "snippet": "PM Modi : টার্গেট লোকসভায় বঙ্গে মোদি। দু'দিনের রাজ্য সফরে প্রধানমন্ত্রী। আজ আরামবাগে মোদির সভা। একাধিক সরকারি প্রকল্পের উদ্বোধন ও ঘোষণা। রাজনৈতিক সভাও করবেন নরেন্দ্র মোদি।",
+      "bm25_score_raw": 4.1359899534188465,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8207480907440186,
+      "embedding_score_norm": 0.6203774679400857,
+      "embedding_rank": 9
+    },
+    {
+      "title": "It seems BJP and PM haven't learnt anything from these elections ...",
+      "url": "https://www.facebook.com/IndiaToday/posts/it-seems-bjp-and-pm-havent-learnt-anything-from-these-elections-why-is-pm-contin/981593260670889",
+      "snippet": "All should remember, that INDIRA the IRON LADY of Indian politics was back in in power POWER just within a few years.",
+      "bm25_score_raw": 0.3544807009035486,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.8194892406463623,
+      "embedding_score_norm": 0.6085518487888539,
+      "embedding_rank": 10
+    },
+    {
+      "title": "Suvendu Adhikari: '৫৭ জন বিজেপি কর্মী খুন', মোদীর সামনে ভোট ...",
+      "url": "https://bangla.aajtak.in/elections/lok-sabha-election-2024/story/narendra-modi-in-arambagh-suvendu-adhikari-says-he-is-fighting-against-tmc-for-three-years-abk-903425-2024-03-01",
+      "snippet": "Mar 1, 2024 — আরামবাগে মোদীর সভা থেকে রাজ্যের শাসকদল ও সরকারকে আক্রমণ করলেন বিরোধী দলনেতা শুভেন্দু অধিকারী। দুর্নীতি নিয়ে নিয়ে মুখ্যমন্ত্রী ও তৃণমূলের বিরুদ্ধে তোপ দাগেন। শুভেন্দু বলেন, চোর তৃণমূল কেন্দ্রের পাঠানো টাকা লুঠ",
+      "bm25_score_raw": 0.6267997299174435,
+      "bm25_score_norm": 0.07201331818314603,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.8110532760620117,
+      "embedding_score_norm": 0.5293045225714227,
+      "embedding_rank": 11
+    },
+    {
+      "title": "পিটিয়ে-কুপিয়ে বিজেপি কর্মীকে খুন আরামবাগে",
+      "url": "https://www.anandabazar.com/west-bengal/bjp-party-member-murdered-in-arambag-1.1063687",
+      "snippet": "Oct 28, 2019 — পুলিশ জানায়, নিহতের নাম আমির আলি খান (২৩) ওরফে লকাই। তাঁর বাড়ি কালীপুরের পশ্চিম হরিপুরে। তাঁকে খুনের অভিযোগে গ্রেফতার করা হয়েছে শেখ আব্বাস আলি, ইয়াকুব আলি, টগরী বিবি ও ছবি বিবি নামে চারজনকে।",
+      "bm25_score_raw": 0.6519859901094568,
+      "bm25_score_norm": 0.07867369067205651,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.7547082304954529,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

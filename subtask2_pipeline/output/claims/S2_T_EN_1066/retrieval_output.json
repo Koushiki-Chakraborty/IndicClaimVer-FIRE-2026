@@ -1,0 +1,108 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1066",
+    "text": "Delhi records 325 new Covid-19 cases, zero deaths in last 24 hours",
+    "lang": "english"
+  },
+  "generated_queries": {
+    "english_translation": "Delhi records 325 new Covid-19 cases, zero deaths in last 24 hours",
+    "native_query": "Delhi records 325 Covid 19 deaths 24 hours",
+    "english_query": "Delhi records 325 Covid 19 deaths 24 hours"
+  },
+  "native_retrieval": [
+    {
+      "title": "Delhi records 325 fresh Covid-19 cases, one death - The Statesman",
+      "url": "https://www.thestatesman.com/cities/delhi/delhi-records-325-fresh-covid-19-cases-one-death-1503049502.html/amp",
+      "snippet": "# Delhi records 325 fresh Covid-19 cases, one death. A total of 325 fresh Covid-19 cases were recorded in Delhi on Wednesday out of 40,284 tests conducted during the past 24 hours across the national capital. According to the latest Delhi government’s health bulletin, the infection positivity rate stood at 0.81 per cent. The number of fresh Covid-19 cases in Delhi recorded yesterday were 344 while the positivity rate was 0.80 per cent. Delhi registered one death due to the virus infection during the past 24 hours, taking the cumulative count of such fatalities to 26,127, it said. There were four such casualties yesterday. In all, there were 1653 active cases of the virus in the city, the bulletin pointed out. * Electric sanitation vehicles will prove to be a milestone for waste management in MCD areas: Delhi Mayor. * Govt on Wheels' reaches East Delhi; Verma inspects ongoing works, Laxmi Nagar to get skywalk."
+    },
+    {
+      "title": "Coronavirus News: Delhi Reports Record 348 Deaths In 24 Hours; 24,331 New Covid Cases",
+      "url": "https://www.youtube.com/watch?v=WW5mNP905Uo",
+      "snippet": "Coronavirus News: Delhi Reports Record 348 Deaths In 24 Hours; 24,331 New Covid Cases\nNDTV\n15900000 subscribers\n174 likes\n25297 views\n24 Apr 2021\nCovid-19 News: Delhi on Friday logged 348 Covid-linked deaths - its biggest single-day spike in the death count. The city also reported 24,331 new coronavirus cases amid the rapid second wave of the pandemic.\n\n\nAbout Us: NDTV brings you unbiased and comprehensive coverage of news and entertainment programmes in India and abroad. NDTV delivers reliable information across all platforms: TV, Internet and Mobile.\n \nSubscribe to our channels:\nNDTV: https://www.youtube.com/user/ndtv?sub_confirmation=1\nNDTV India (Hindi News): https://www.youtube.com/user/ndtvindia?sub_confirmation=1\n\nFollow us on Social Media:\nLike us on Facebook: https://www.facebook.com/ndtv/\nFollow us on Twitter: https://twitter.com/ndtv/  \nFollow us on Instagram: https://www.instagram.com/ndtv/\nJoin NDTV on Telegram Messenger: https://t.me/NDTVbot/?start=hi\n\nFollow us on Google News for Breaking and Latest News Updates:\nNDTV: https://bit.ly/3e5ngbP\nNDTV India (Hindi News): https://bit.ly/3mNVwMY\n\nDownload NDTV Mobile Apps:\nhttp://www.ndtv.com/page/apps\n\nWatch More Videos:\nhttp://www.ndtv.com/video?yt\n\n#BreakingNews #LatestNews #TodayNews #PoliticalNews #News\n92 comments\n"
+    },
+    {
+      "title": "At 24 in a week, Delhi logs India's highest Covid deaths",
+      "url": "https://timesofindia.indiatimes.com/india/at-24-in-a-week-delhi-logs-indias-highest-covid-deaths/amp_articleshow/99541031.cms",
+      "snippet": "During this period (April 9-15), neighbouring Haryana registered 4,554 fresh cases, the fourth highest in the country, followed at number 5 by Uttar Pradesh with 3,332. Rajasthan, with a four-fold rise in cases, reported 14 fatalities from the virus, the third highest during the week after Delhi and Maharashtra (19).Read Less. In the last seven days, Delhi reported 24 deaths linked to Covid, the highest in the country and logged the second highest number of cases at 7,664. (With Sunday's data from Delhi coming in, the seven-day count of cases in the capital has risen to 8,599 and the seven-day toll stands at 23.). Rajasthan, with a four-fold rise in cases, reported 14 fatalities from the virus, the third highest during the week after Delhi and Maharashtra (19). Meanwhile, the number of states reporting over 2,000 fresh cases in the past seven days has risen to 10, up from four in the preceding week."
+    },
+    {
+      "title": "Delhi Covid Crisis: National Capital Records Over 24000 New Cases ...",
+      "url": "https://www.youtube.com/watch?v=chUlpri7GJ4",
+      "snippet": "Highest single-day death toll with as many as 357 fresh fatalities reported in 24 hours. The national capital recorded more than 24,00 fresh"
+    },
+    {
+      "title": "Delhi Witnesses 1075 New Covid-19 Cases, 21 Deaths in 24 Hours as Tally ...",
+      "url": "https://www.news18.com/amp/news/india/delhi-witnesses-1075-new-covid-19-cases-21-deaths-as-tally-crosses-1-30-lakh-2735869.html",
+      "snippet": "Delhi recorded 1,075 COVID-19 cases on Sunday, pushing the city's caseload to over 1.30 lakh, while the death toll mounted to 3,827,"
+    },
+    {
+      "title": "Delhi Covid Updates",
+      "url": "http://corona.delhi.gov.in/covid-delhi-data",
+      "snippet": "India Covid Cases Confirmed - Active - Recovered - Deaths - Source: Conducted In Delhi Tests Today - Total Tests. Corona Helpline 8800007722 Delhi"
+    }
+  ],
+  "english_retrieval": [
+    {
+      "title": "Delhi records 325 fresh Covid-19 cases, one death - The Statesman",
+      "url": "https://www.thestatesman.com/cities/delhi/delhi-records-325-fresh-covid-19-cases-one-death-1503049502.html/amp",
+      "snippet": "# Delhi records 325 fresh Covid-19 cases, one death. A total of 325 fresh Covid-19 cases were recorded in Delhi on Wednesday out of 40,284 tests conducted during the past 24 hours across the national capital. According to the latest Delhi government’s health bulletin, the infection positivity rate stood at 0.81 per cent. The number of fresh Covid-19 cases in Delhi recorded yesterday were 344 while the positivity rate was 0.80 per cent. Delhi registered one death due to the virus infection during the past 24 hours, taking the cumulative count of such fatalities to 26,127, it said. There were four such casualties yesterday. In all, there were 1653 active cases of the virus in the city, the bulletin pointed out. * Electric sanitation vehicles will prove to be a milestone for waste management in MCD areas: Delhi Mayor. * Govt on Wheels' reaches East Delhi; Verma inspects ongoing works, Laxmi Nagar to get skywalk."
+    },
+    {
+      "title": "Coronavirus News: Delhi Reports Record 348 Deaths In 24 Hours; 24,331 New Covid Cases",
+      "url": "https://www.youtube.com/watch?v=WW5mNP905Uo",
+      "snippet": "Coronavirus News: Delhi Reports Record 348 Deaths In 24 Hours; 24,331 New Covid Cases\nNDTV\n15900000 subscribers\n174 likes\n25297 views\n24 Apr 2021\nCovid-19 News: Delhi on Friday logged 348 Covid-linked deaths - its biggest single-day spike in the death count. The city also reported 24,331 new coronavirus cases amid the rapid second wave of the pandemic.\n\n\nAbout Us: NDTV brings you unbiased and comprehensive coverage of news and entertainment programmes in India and abroad. NDTV delivers reliable information across all platforms: TV, Internet and Mobile.\n \nSubscribe to our channels:\nNDTV: https://www.youtube.com/user/ndtv?sub_confirmation=1\nNDTV India (Hindi News): https://www.youtube.com/user/ndtvindia?sub_confirmation=1\n\nFollow us on Social Media:\nLike us on Facebook: https://www.facebook.com/ndtv/\nFollow us on Twitter: https://twitter.com/ndtv/  \nFollow us on Instagram: https://www.instagram.com/ndtv/\nJoin NDTV on Telegram Messenger: https://t.me/NDTVbot/?start=hi\n\nFollow us on Google News for Breaking and Latest News Updates:\nNDTV: https://bit.ly/3e5ngbP\nNDTV India (Hindi News): https://bit.ly/3mNVwMY\n\nDownload NDTV Mobile Apps:\nhttp://www.ndtv.com/page/apps\n\nWatch More Videos:\nhttp://www.ndtv.com/video?yt\n\n#BreakingNews #LatestNews #TodayNews #PoliticalNews #News\n92 comments\n"
+    },
+    {
+      "title": "At 24 in a week, Delhi logs India's highest Covid deaths",
+      "url": "https://timesofindia.indiatimes.com/india/at-24-in-a-week-delhi-logs-indias-highest-covid-deaths/amp_articleshow/99541031.cms",
+      "snippet": "During this period (April 9-15), neighbouring Haryana registered 4,554 fresh cases, the fourth highest in the country, followed at number 5 by Uttar Pradesh with 3,332. Rajasthan, with a four-fold rise in cases, reported 14 fatalities from the virus, the third highest during the week after Delhi and Maharashtra (19).Read Less. In the last seven days, Delhi reported 24 deaths linked to Covid, the highest in the country and logged the second highest number of cases at 7,664. (With Sunday's data from Delhi coming in, the seven-day count of cases in the capital has risen to 8,599 and the seven-day toll stands at 23.). Rajasthan, with a four-fold rise in cases, reported 14 fatalities from the virus, the third highest during the week after Delhi and Maharashtra (19). Meanwhile, the number of states reporting over 2,000 fresh cases in the past seven days has risen to 10, up from four in the preceding week."
+    },
+    {
+      "title": "Delhi Covid Crisis: National Capital Records Over 24000 New Cases ...",
+      "url": "https://www.youtube.com/watch?v=chUlpri7GJ4",
+      "snippet": "Highest single-day death toll with as many as 357 fresh fatalities reported in 24 hours. The national capital recorded more than 24,00 fresh"
+    },
+    {
+      "title": "Delhi Witnesses 1075 New Covid-19 Cases, 21 Deaths in 24 Hours as Tally ...",
+      "url": "https://www.news18.com/amp/news/india/delhi-witnesses-1075-new-covid-19-cases-21-deaths-as-tally-crosses-1-30-lakh-2735869.html",
+      "snippet": "Delhi recorded 1,075 COVID-19 cases on Sunday, pushing the city's caseload to over 1.30 lakh, while the death toll mounted to 3,827,"
+    },
+    {
+      "title": "Delhi Covid Updates",
+      "url": "http://corona.delhi.gov.in/covid-delhi-data",
+      "snippet": "India Covid Cases Confirmed - Active - Recovered - Deaths - Source: Conducted In Delhi Tests Today - Total Tests. Corona Helpline 8800007722 Delhi"
+    }
+  ],
+  "merged_results": [
+    {
+      "title": "Delhi records 325 fresh Covid-19 cases, one death - The Statesman",
+      "url": "https://www.thestatesman.com/cities/delhi/delhi-records-325-fresh-covid-19-cases-one-death-1503049502.html/amp",
+      "snippet": "# Delhi records 325 fresh Covid-19 cases, one death. A total of 325 fresh Covid-19 cases were recorded in Delhi on Wednesday out of 40,284 tests conducted during the past 24 hours across the national capital. According to the latest Delhi government’s health bulletin, the infection positivity rate stood at 0.81 per cent. The number of fresh Covid-19 cases in Delhi recorded yesterday were 344 while the positivity rate was 0.80 per cent. Delhi registered one death due to the virus infection during the past 24 hours, taking the cumulative count of such fatalities to 26,127, it said. There were four such casualties yesterday. In all, there were 1653 active cases of the virus in the city, the bulletin pointed out. * Electric sanitation vehicles will prove to be a milestone for waste management in MCD areas: Delhi Mayor. * Govt on Wheels' reaches East Delhi; Verma inspects ongoing works, Laxmi Nagar to get skywalk."
+    },
+    {
+      "title": "Coronavirus News: Delhi Reports Record 348 Deaths In 24 Hours; 24,331 New Covid Cases",
+      "url": "https://www.youtube.com/watch?v=WW5mNP905Uo",
+      "snippet": "Coronavirus News: Delhi Reports Record 348 Deaths In 24 Hours; 24,331 New Covid Cases\nNDTV\n15900000 subscribers\n174 likes\n25297 views\n24 Apr 2021\nCovid-19 News: Delhi on Friday logged 348 Covid-linked deaths - its biggest single-day spike in the death count. The city also reported 24,331 new coronavirus cases amid the rapid second wave of the pandemic.\n\n\nAbout Us: NDTV brings you unbiased and comprehensive coverage of news and entertainment programmes in India and abroad. NDTV delivers reliable information across all platforms: TV, Internet and Mobile.\n \nSubscribe to our channels:\nNDTV: https://www.youtube.com/user/ndtv?sub_confirmation=1\nNDTV India (Hindi News): https://www.youtube.com/user/ndtvindia?sub_confirmation=1\n\nFollow us on Social Media:\nLike us on Facebook: https://www.facebook.com/ndtv/\nFollow us on Twitter: https://twitter.com/ndtv/  \nFollow us on Instagram: https://www.instagram.com/ndtv/\nJoin NDTV on Telegram Messenger: https://t.me/NDTVbot/?start=hi\n\nFollow us on Google News for Breaking and Latest News Updates:\nNDTV: https://bit.ly/3e5ngbP\nNDTV India (Hindi News): https://bit.ly/3mNVwMY\n\nDownload NDTV Mobile Apps:\nhttp://www.ndtv.com/page/apps\n\nWatch More Videos:\nhttp://www.ndtv.com/video?yt\n\n#BreakingNews #LatestNews #TodayNews #PoliticalNews #News\n92 comments\n"
+    },
+    {
+      "title": "At 24 in a week, Delhi logs India's highest Covid deaths",
+      "url": "https://timesofindia.indiatimes.com/india/at-24-in-a-week-delhi-logs-indias-highest-covid-deaths/amp_articleshow/99541031.cms",
+      "snippet": "During this period (April 9-15), neighbouring Haryana registered 4,554 fresh cases, the fourth highest in the country, followed at number 5 by Uttar Pradesh with 3,332. Rajasthan, with a four-fold rise in cases, reported 14 fatalities from the virus, the third highest during the week after Delhi and Maharashtra (19).Read Less. In the last seven days, Delhi reported 24 deaths linked to Covid, the highest in the country and logged the second highest number of cases at 7,664. (With Sunday's data from Delhi coming in, the seven-day count of cases in the capital has risen to 8,599 and the seven-day toll stands at 23.). Rajasthan, with a four-fold rise in cases, reported 14 fatalities from the virus, the third highest during the week after Delhi and Maharashtra (19). Meanwhile, the number of states reporting over 2,000 fresh cases in the past seven days has risen to 10, up from four in the preceding week."
+    },
+    {
+      "title": "Delhi Covid Crisis: National Capital Records Over 24000 New Cases ...",
+      "url": "https://www.youtube.com/watch?v=chUlpri7GJ4",
+      "snippet": "Highest single-day death toll with as many as 357 fresh fatalities reported in 24 hours. The national capital recorded more than 24,00 fresh"
+    },
+    {
+      "title": "Delhi Witnesses 1075 New Covid-19 Cases, 21 Deaths in 24 Hours as Tally ...",
+      "url": "https://www.news18.com/amp/news/india/delhi-witnesses-1075-new-covid-19-cases-21-deaths-as-tally-crosses-1-30-lakh-2735869.html",
+      "snippet": "Delhi recorded 1,075 COVID-19 cases on Sunday, pushing the city's caseload to over 1.30 lakh, while the death toll mounted to 3,827,"
+    },
+    {
+      "title": "Delhi Covid Updates",
+      "url": "http://corona.delhi.gov.in/covid-delhi-data",
+      "snippet": "India Covid Cases Confirmed - Active - Recovered - Deaths - Source: Conducted In Delhi Tests Today - Total Tests. Corona Helpline 8800007722 Delhi"
+    }
+  ]
+}

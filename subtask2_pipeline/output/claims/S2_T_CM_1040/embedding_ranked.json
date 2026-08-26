@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/CM/1040",
+    "text": "guy jo apne school mein kabhi monitor bhi nahi bane wo government ko criticize kar rahe hain",
+    "lang": "codemix"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "EXCLUSIVE: The high school speech by Trump adviser Stephen Miller that offended students, and got him thrown off stage | Univision News | Univision",
+      "url": "https://www.univision.com/univision-news/politics/exclusive-the-high-school-speech-by-stephen-miller-that-offended-students-and-got-him-thrown-off-stage",
+      "snippet": "# EXCLUSIVE: The high school speech by Stephen Miller that offended students, and got him thrown off stage. ## The young White House adviser who is one of the president's preferred spokesmen once ran for election at his California high school. Video **EXCLUSIVE: The high school speech by Stephen Miller that offended students, and got him thrown off stage**. Donald Trump has found in the young Stephen Miller an adviser with the qualities to channel him: politically incorrect, self-confident and experienced with a microphone. The video contains fragments of a brief 90 second speech by Miller during his junior year at Santa Monica High School in California in the spring of 2002, including a controversial reference to the job of janitors. At the time of the speech, Miller was running for a student government post and was such a polemic figure he was chosen as the protagonist for the video.",
+      "bm25_score_raw": 2.010638301221786,
+      "bm25_score_norm": 0.24729781864258815,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8190444707870483,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Ben Carson: Monitor bias in the schools",
+      "url": "https://www.youtube.com/watch?v=BJ2mXNAwFa8",
+      "snippet": "Republican presidential candidate Ben Carson meets wth the Des Moines Register editorial board and says government funded entities should be",
+      "bm25_score_raw": 8.130432820872144,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8106142282485962,
+      "embedding_score_norm": 0.9172878247556401,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Simon Campbell Calls Out Pennsbury School Board ...",
+      "url": "https://www.youtube.com/watch?v=i9GcDK0zBkU",
+      "snippet": "All hell breaks loose at school board meeting when GOP lawmaker slams trans-inclusive bathroom rules.",
+      "bm25_score_raw": 1.1718758168713306,
+      "bm25_score_norm": 0.14413449353679358,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.7987698316574097,
+      "embedding_score_norm": 0.8010781425258102,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Maryland school joins nationwide protest to 'protect public ...",
+      "url": "https://www.youtube.com/watch?v=IMinHlEnADs",
+      "snippet": "Maryland school joins nationwide protest to 'protect public education' against Trump's funding cut",
+      "bm25_score_raw": 1.1771289023410565,
+      "bm25_score_norm": 0.14478059511409713,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.789282500743866,
+      "embedding_score_norm": 0.7079944888179848,
+      "embedding_rank": 4
+    },
+    {
+      "title": "VA school district seeks 'social media listening' for 'hate ...",
+      "url": "https://www.foxnews.com/us/fairfax-social-media-monitoring",
+      "snippet": "Fairfax County Public Schools is offering $200000 for social media monitoring that would track users' relationships, hate speech,",
+      "bm25_score_raw": 0.9091673605213527,
+      "bm25_score_norm": 0.11182275046752396,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.7767701745033264,
+      "embedding_score_norm": 0.5852315059024151,
+      "embedding_rank": 5
+    },
+    {
+      "title": "A virtual school meeting in New York City quickly took a ...",
+      "url": "https://www.facebook.com/cnn/videos/a-virtual-school-meeting-in-new-york-city-quickly-took-a-shocking-turn-after-a-h/934493282867024",
+      "snippet": "A virtual school meeting in New York City quickly took a shocking turn after a hot mic moment that many school and local officials are calling",
+      "bm25_score_raw": 1.2166695257015474,
+      "bm25_score_norm": 0.1496438815136826,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.7763457894325256,
+      "embedding_score_norm": 0.581067709643048,
+      "embedding_rank": 6
+    },
+    {
+      "title": "Guy (band)",
+      "url": "https://en.wikipedia.org/wiki/Guy_(band)",
+      "snippet": "# Guy (band). * Edit&action=edit \"Edit this page [e]\"). **Guy** is an American R&B group founded in 1987 by Teddy Riley, Aaron Hall \"Aaron Hall (singer)\"), and Timmy Gatling. The group released their debut album \"Guy (Guy album)\"), which went on to sell over a million copies and was certified double platinum. Following their success, the group released their second album *The Future \"The Future (Guy album)\")* in 1990, which also charted with successful singles and received platinum as well. Guy held the credit as the pioneer of the new jack swing genre with the early interactions of their work, which was developed and mainstreamed by Riley. [edit&action=edit&section=1 \"Edit section: Overview\")]. [edit&action=edit&section=2 \"Edit section: Origins\")]. [edit&action=edit&section=3 \"Edit section: Kids at Work (1979–1985)\")]. [edit&action=edit&section=4 \"Edit section: Guy (1986–1991)\")]. [edit&action=edit&section=5 \"Edit section: Mainstream success and breakup (1988–1991)\")]. However, four of the album's singles became significant *Billboard* R&B chart hits: \"Groove Me\" (#4), \"Teddy's Jam\" (#5), \"I Like\" (#2), and \"Spend the Night\" (#15) helped propel the album to double platinum status.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.7606913447380066,
+      "embedding_score_norm": 0.4274762599284903,
+      "embedding_rank": 7
+    },
+    {
+      "title": "Guy",
+      "url": "https://music.apple.com/us/artist/guy/59512",
+      "snippet": "## Essential Albums. ## Albums. Wanna Get With U - 7\" Version. Pioneers of new jack swing bring the party. * Wanna Get With U - EP. * 20th Century Masters: The Millennium Collection: The Best of Guy. 20th Century Masters: The Millennium Collection: The Best of Guy. 20th Century Masters: The Millennium Collection: The Best of Guy. * The Very Best of Guy. The Very Best of Guy. The Very Best of Guy. * ![You're The One (Radio Edit) [feat. Guy, Arron Hall & Teddy Riley] - Single](/assets/artwork/1x1.gif). Guy, Arron Hall & Teddy Riley] - Single](https://music.apple.com/us/album/youre-the-one-radio-edit-feat-guy-arron-hall-teddy/1434919541). ## About Guy. The R&B group Guy pioneered the “new jack swing” movement of the late ’80s and early ’90s, mixing traditional soul vocals with hip-hop beats. • New York City singer, songwriter, producer, and multi-instrumentalist Teddy Riley formed the group in 1987 with childhood friend Tommy Gatling and Aaron Hall. • After scoring another No. 1 R&B album with their 1990 sophomore effort, The Future, the group disbanded.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.7590006589889526,
+      "embedding_score_norm": 0.4108883272182449,
+      "embedding_rank": 8
+    },
+    {
+      "title": "GUY Definition & Meaning",
+      "url": "https://www.merriam-webster.com/dictionary/guy",
+      "snippet": "*   To save this word, you'll need to log in.Log In. **:**person—used in plural to refer to the members of a group regardless of sex. The other dogs pale in comparison to this little guy. often Guy**:**a grotesque effigy of Guy Fawkes traditionally displayed and burned in England on Guy Fawkes Day. chiefly British**:**a person of grotesque appearance. **:**to steady or reinforce with a guy. The human likenesses burned on the fires came to be called _guys._ The verb _guy_ “to ridicule” is derived from this story also. The use of the word was extended to similar figures and then to a person of strange appearance or dress. In the US, the word came to mean simply “man” and in time “a person of either sex.”. The likenesses burned to celebrate the failure of the plot came to be called _guys._ The use of the word was extended to similar figures and then to a person of strange appearance or dress.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.7428922653198242,
+      "embedding_score_norm": 0.2528430190329934,
+      "embedding_rank": 9
+    },
+    {
+      "title": "Guy",
+      "url": "https://www.imdb.com/name/nm6911212",
+      "snippet": "Guy is a Harlem-based R&B group from New York City, comprised of Aaron Hall, Damion Hall and Teddy Riley. The group is an influential R&B group that introduced and spurred the growth of the \"new jack swing\" era of Rhythm-N-Blues during the late 1980s and early 1990s. Actor 12 Music Department 1 Soundtrack 10 Self 13 Archive Footage 1IMDbPro. Guy: Why You Wanna Keep Me from My BabyMusic Video. *   Image 7: Guy: Let's Chill (1991). Guy: Let's ChillMusic Video. Guy: Wanna Get with UMusic Video. Guy: Teddy's Jam 2Music Video. Guy: Let's Stay TogetherMusic Video. *   Image 8: Guy: Spend the Night (1989). Guy: Spend the NightMusic Video. *   Image 10: Aaron Hall, Damion Hall, Teddy Riley, and Guy in Guy: 'Round and 'Round (1988). Guy: 'Round and 'RoundMusic Video. *   Image 11: Aaron Hall, Teddy Riley, Guy, and Timothy Gatlin in Guy: Groove Me (1988). #### Add demo reel with IMDbPro. Make your IMDb page stand out by adding a demo reel.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.7410748600959778,
+      "embedding_score_norm": 0.23501179547339204,
+      "embedding_rank": 10
+    },
+    {
+      "title": "Guy",
+      "url": "https://music.youtube.com/channel/UCjyZ_Vbe9dMtFyQKueKkZNA",
+      "snippet": "Sign in to create & share playlists, get personalized recommendations, and more. # Guy. ## Top songs. 20th Century Masters: The Millennium Collection: The Best Of Guy. The Very Best Of Guy. D-O-G Me Out. Guy - Lets Chill ( Vocal Sing- A- Long ). Guy - Teddy's Jam (Original Music Video). #20-century music videos • 13K views. Guy: You Can Call Me Crazy (1988) - Mono. 20th Century Nostalgia • 1.9K views. New Jack City (Guy) Soundtrack - 1991. Kandie's Music Selection • 12K views. 'Round And 'Round (Merry Go ' Round Of Love). Do Me Right Director's Cut Version. If playback doesn't begin shortly, try restarting your device. An error occurred while retrieving sharing information. Add similar content to the end of the queue.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.7218736410140991,
+      "embedding_score_norm": 0.046621652442312124,
+      "embedding_rank": 11
+    },
+    {
+      "title": "Guy - Groove Me",
+      "url": "https://www.youtube.com/watch?v=PAu2bsV9CiQ",
+      "snippet": "Guy - Groove Me\nGuyVEVO\n59600 subscribers\n100317 likes\n12415385 views\n17 Jun 2009\nREMASTERED IN HD!!\nOfficial Music Video for Groove Me performed by Guy .\n#Guy #GrooveMe #Remastered\n5157 comments\n",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.7171218395233154,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

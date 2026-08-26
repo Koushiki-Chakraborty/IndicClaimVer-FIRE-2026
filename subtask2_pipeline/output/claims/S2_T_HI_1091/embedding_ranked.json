@@ -1,0 +1,131 @@
+{
+  "claim": {
+    "id": "S2/T/HI/1091",
+    "text": "भाजपा नेता विनय कटियार ने कहा, दिल्ली की जामा मस्जिद का निर्माण औरंगज़ेब ने कराया था।",
+    "lang": "hindi"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "BJP's Vinay Katiyar: Delhi's Jama Masjid was \"Jamuna ...",
+      "url": "https://www.newsbytesapp.com/news/politics/vinay-katiyar-jama-masjid-was-jamuna-devi-temple/story",
+      "snippet": "Dec 7, 2017 — The marble and red-sandstone mosque was also built by Shah Jahan. Katiyar claims that \"Jama Masjid was originally Jamuna Devi temple\"",
+      "bm25_score_raw": 1.8737800929096293,
+      "bm25_score_norm": 0.20534774977045653,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.9037425518035889,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "BJP MP Vinay Katiyar says Delhi's Jama Masjid was ' ...",
+      "url": "https://indianexpress.com/article/india/bjp-mp-vinay-katiyar-says-delhis-jama-masjid-was-jamuna-devi-temple-4971821",
+      "snippet": "Dec 7, 2017 — Jama Masjid was built by Shah Jahan, who had also built Taj Mahal and Red Fort. The 17th-century mosque was built by Shah Jahan, who had also",
+      "bm25_score_raw": 2.9352691502909907,
+      "bm25_score_norm": 0.4450300017211511,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8975440263748169,
+      "embedding_score_norm": 0.9298239221108563,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Jama Masjid was originally Jamuna Devi Temple, claims ...",
+      "url": "https://www.moneycontrol.com/news/india/jama-masjid-was-originally-jamuna-devi-temple-claims-bjp-mp-vinay-katiyar-2457323.html",
+      "snippet": "Dec 8, 2017 — BJP MP Vinay Katiyar Jama Masjid was built by Mughal emperor Shah Jahan in the 17th century",
+      "bm25_score_raw": 2.642110463174576,
+      "bm25_score_norm": 0.37883531622876243,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8852071762084961,
+      "embedding_score_norm": 0.7901533233326653,
+      "embedding_rank": 3
+    },
+    {
+      "title": "jama masjid was jamuna mandir says bjp leader vinay katiyar",
+      "url": "https://www.youtube.com/watch?v=NjXfzTUdNyo",
+      "snippet": "बीजेपी नेता विनय कटियार का दावा है कि दिल्ली में जिस जगह आज जामा मस्जिद है उस जगह जमुना जी का मंदिर हुआ करता था. Watch ABP News Live 24/7",
+      "bm25_score_raw": 5.393083926118175,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8827759027481079,
+      "embedding_score_norm": 0.7626278678535205,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Delhi's Jama Masjid Was Jamuna Devi Temple: Vinay Katiyar",
+      "url": "https://www.india.com/news/india/jama-masjid-in-delhi-was-originally-jamuna-devi-temple-says-bjp-mp-vinay-katiyar-2723130",
+      "snippet": "Dec 7, 2017 — Katiyar has now said that Jama Masjid was originally Jamuna Devi Temple. He also said that the Mughal emperors brought down at least 6,000",
+      "bm25_score_raw": 0.9643494297495325,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.8740576505661011,
+      "embedding_score_norm": 0.663924918061328,
+      "embedding_rank": 5
+    },
+    {
+      "title": "बीजेपी के बड़े नेता ने कहा- जमुना देवी मंदिर है दिल्ली की जामा ...",
+      "url": "https://www.india.com/hindi-news/india-hindi/bjp-leader-vinay-katiyar-calls-jama-masjid-as-jamuna-devi-mandir-2723527",
+      "snippet": "Dec 7, 2017 — नई दिल्ली| राम मंदिर के मुद्दे पर कांग्रेस पर हमला बोलते हुए बीजेपी के वरिष्ठ नेता विनय कटियार ने कहा कि दिल्ली की जामा मस्जिद पहले जमुना देवी का मंदिर था. मुग़ल शासन के दौरान इसे मस्जिद बनाया गया.Read more",
+      "bm25_score_raw": 2.1509975556807164,
+      "bm25_score_norm": 0.2679429364989435,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8579349517822266,
+      "embedding_score_norm": 0.48139315649291015,
+      "embedding_rank": 6
+    },
+    {
+      "title": "भाजपा नेता विनय कटियार ने कहा, दिल्ली की जामा मस्जिद जमुना ...",
+      "url": "https://www.indiatv.in/india/politics-jama-masjid-was-originally-jamuna-devi-temple-says-bjp-leader-vinay-katiyar-558167",
+      "snippet": "Dec 7, 2017 — भाजपा नेता विनय कटियार ने कहा, दिल्ली की जामा मस्जिद जमुना देवी का मंदिर था · कटियार ने कहा कि औरंगजेब ने काशी विश्वनाथ और मथुरा का मंदिर तोड़ा था। अभी जहां जामा मस्जिद है वहां पहले जमुना देवी का मंदिर था। अगर ...Read more",
+      "bm25_score_raw": 2.68642369427372,
+      "bm25_score_norm": 0.3888411612699313,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.84943687915802,
+      "embedding_score_norm": 0.38518295081790216,
+      "embedding_rank": 7
+    },
+    {
+      "title": "BJP नेता ने 'जामा मस्जिद' को बताया 'जमुना देवी' का मंदिर, कहा",
+      "url": "https://www.aajtak.in/india/story/vinay-katiyar-says-jama-masjid-was-jamuna-devi-temple-475202-2017-12-06",
+      "snippet": "Dec 6, 2017 — यह सब (कांग्रेस नेता) औरंगजेब, बाबर और हैं. वहीं, कटियार ने ये भी कहा कि, दिल्ली का जामा मस्जिद जमुना देवी का मंदिर था. ... विनय कटियार ने कहा, जहां पर राम लला विद्यमान है वह जमीन भी रामलला की है. लोग ...Read more",
+      "bm25_score_raw": 2.275390909292501,
+      "bm25_score_norm": 0.2960307240404594,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.848228931427002,
+      "embedding_score_norm": 0.37150727342784706,
+      "embedding_rank": 8
+    },
+    {
+      "title": "बीजेपी नेता विनय कटियार बोले- जामा मस्जिद कभी जमुना जी का ...",
+      "url": "https://www.abplive.com/news/india/jama-masjid-was-jamuna-mandir-says-bjp-leader-vinay-katiyar-740545",
+      "snippet": "Dec 7, 2017 — बीजेपी नेता विनय कटियार का दावा है कि दिल्ली में जिस जगह आज जामा मस्जिद है उस जगह जमुना जी का मंदिर हुआ करता था. ... नई दिल्ली: बीजेपी नेता विनय कटियार का दावा है कि दिल्ली में जिस जगह आज जामा मस्जिद है उस ...Read more",
+      "bm25_score_raw": 2.7486742812239027,
+      "bm25_score_norm": 0.4028972278508531,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8437241315841675,
+      "embedding_score_norm": 0.3205065655532994,
+      "embedding_rank": 9
+    },
+    {
+      "title": "बीजेपी नेता का बयान- दिल्ली का जामा मस्जिद पहले 'जमुना देवी' का ...",
+      "url": "https://www.jansatta.com/rajya/bjp-leader-vinay-katiyar-said-that-jama-masjid-was-jamuna-devi-temple/509668",
+      "snippet": "Dec 7, 2017 — ताजमहल को शिव मंदिर बताने वाले भारतीय जनता पार्टी के वरिष्ठ नेता विनय कटियार का कहना है कि दिल्ली का जामा मस्जिद पहले जमुना देवी का मंदिर था। दरअसल गुजरात विधानसभा के चुनाव के लिए वोटिंग की तारीख नजदीक ...Read more",
+      "bm25_score_raw": 2.1509975556807164,
+      "bm25_score_norm": 0.2679429364989435,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.8426840305328369,
+      "embedding_score_norm": 0.30873115005658275,
+      "embedding_rank": 10
+    },
+    {
+      "title": "मुगलों ने जमुना देवी मंदिर को बनाया जामा मस्जिद:विनय कटियार",
+      "url": "https://www.amarujala.com/amp/video/delhi/bjp-leader-vinay-katiyar-gives-controversial-statement-on-jama-masjid",
+      "snippet": "Dec 7, 2017 — विनय कटियार ने कहा कि मुगल बादशाहों ने 6000 से ज्यादा स्थानों पर तोड़फोड़ की थी। विनय कटियार यहीं नहीं रुके उन्होने कहा कि जामा मस्जिद का असली नाम जमुना देवी मंदिर था। खुद सुनिए और क्या बोले विनय कटियार।Read more",
+      "bm25_score_raw": 2.028097527580367,
+      "bm25_score_norm": 0.24019233907633408,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.8154143691062927,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 11
+    }
+  ]
+}

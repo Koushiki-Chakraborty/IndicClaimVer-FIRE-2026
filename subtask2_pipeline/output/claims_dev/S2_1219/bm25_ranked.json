@@ -1,0 +1,105 @@
+{
+  "claim": {
+    "id": "S2/1219",
+    "text": "उप राष्ट्रपति नायडू ने सांसदों से कहा: प्रस्ताव दें, विरोध करें लेकिन मुद्दों को सुलझाने के लिए साथ आएं",
+    "lang": "dev"
+  },
+  "ranked_evidence": [
+    {
+      "title": "Rajya Sabha chairman expresses concern over conduct of MPs, warns ...",
+      "url": "https://m.economictimes.com/news/politics-and-nation/rajya-sabha-chairman-expresses-concern-over-conduct-of-mps-warns-of-action/amp_articleshow/84885400.cms",
+      "snippet": "Naidu voiced strong concern on Friday over the conduct of some MPs in the Upper House of Parliament during their protest over the Pegasus",
+      "bm25_score_raw": 4.807280380764615,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Chandrababu Naidu की ताज़ा ख़बर, ब्रेकिंग न्यूज़ News ...",
+      "url": "https://www.indiatv.in/topic/chandrababu-naidu",
+      "snippet": "मुंबई में हुई पवन कल्याण की सर्जरी, सीएम चंद्रबाबू नायडू ने की मुलाकात, दूसरे कंधे में भी है समस्या. आंध्रप्रदेश के उप मुख्यमंत्री पवन कल्याण मुंबई के कोकिला बेन अस्पताल में भर्ती हैं। उनके हाथ की सर्जरी की गई है।Read more",
+      "bm25_score_raw": 3.7466923471462237,
+      "bm25_score_norm": 0.7793787860050507,
+      "bm25_rank": 2
+    },
+    {
+      "title": "'Won't Accept Dramatics': Venkaiah Naidu Urges Protesting MPs to Stop ...",
+      "url": "https://www.news18.com/amp/news/politics/wont-accept-dramatics-venkaiah-naidu-urges-protesting-mps-to-stop-rajya-sabha-disruption-4013123.html",
+      "snippet": "Naidu on Tuesday let his displeasure be known over the continuous blocking of the proceedings of the House because of the disruption by members.",
+      "bm25_score_raw": 2.516663993123436,
+      "bm25_score_norm": 0.5235109654085023,
+      "bm25_rank": 3
+    },
+    {
+      "title": "N. Chandrababu Naidu - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/N._Chandrababu_Naidu",
+      "snippet": "| Positions Held   * 1975–1977: Local Youth President, INC * 1978–83: Member of Andhra Pradesh Legislative Assembly, Chandragiri constituency * 1980–83: Cabinet Minister of Andhra Pradesh * 1985–94: General Secretary of Telugu Desam Party * since 1989: Member of Andhra Pradesh Legislative Assembly, Kuppam constituency * 1994–95: Finance and Revenue Minister of Andhra Pradesh * 1999–2004: Convener of National Democratic Alliance * 1995–2004: 13th Chief Minister of Andhra Pradesh * 1995–2014: 2nd President of the Telugu Desam Party * 2004–2014: 8th Leader of Opposition of the Andhra Pradesh Legislative Assembly * 2014–present: 1st National President of the Telugu Desam Party * 2014–19: 13th Chief Minister of Andhra Pradesh * 2014–18: Convener Of National Democratic Alliance * 2019–24: 8th Leader of Opposition of the Andhra Pradesh Andhra Pradesh Assembly * 2024–tba: Convener of National Democratic Alliance * 2024–present: 13th Chief Minister of Andhra Pradesh |. In 1978, he was elected to the Andhra Pradesh Legislative Assembly from the Indian National Congress party, and from 1980 to 1982, he served as a minister in the state cabinet.",
+      "bm25_score_raw": 1.9859727272684724,
+      "bm25_score_norm": 0.41311772352928505,
+      "bm25_rank": 4
+    },
+    {
+      "title": "तेलुगु देशम पार्टी के प्रमुख नारा चंद्रबाबू नायडू ने आंध्र प्रदेश ...",
+      "url": "https://newsonair.gov.in/hi/telugu-desam-party-chief-nara-chandrababu-naidu-sworn-in-as-new-chief-minister-of-andhra-pradesh",
+      "snippet": "तेलुगु देशम पार्टी के प्रमुख नारा चंद्रबाबू नायडू ने आज कृष्णा जिले के केसरपल्ली आईटी पार्क में आंध्र प्रदेश के नए मुख्यमंत्री के रूप में शपथ ग्रहण की। राज्यपाल एस अब्दुल नजीर ने उन्हें पद और गोपनीयता की दिलाई।Read more",
+      "bm25_score_raw": 1.4793019705350032,
+      "bm25_score_norm": 0.30772117566808427,
+      "bm25_rank": 5
+    },
+    {
+      "title": "नारा चंद्रबाबू नायडू - विकिपीडिया",
+      "url": "https://hi.wikipedia.org/wiki/%E0%A4%A8%E0%A4%BE%E0%A4%B0%E0%A4%BE_%E0%A4%9A%E0%A4%82%E0%A4%A6%E0%A5%8D%E0%A4%B0%E0%A4%AC%E0%A4%BE%E0%A4%AC%E0%A5%82_%E0%A4%A8%E0%A4%BE%E0%A4%AF%E0%A4%A1%E0%A5%82",
+      "snippet": "नारा चंद्रबाबू नायडू(तेलुगू:నారా చంద్రబాబు నాయుడు) (जन्म: 20 अप्रैल, 1950) वर्तमान आन्ध्र प्रदेश के मुख्यमंत्री हैं। उनके नाम आन्ध्र प्रदेश में सबसे लंबे समय तक मुख्यमंत्री रहने का कीर्तिमान भी है।Read more",
+      "bm25_score_raw": 1.207523236413456,
+      "bm25_score_norm": 0.2511863550220874,
+      "bm25_rank": 6
+    },
+    {
+      "title": "Chandrababu Naidu ने BJP को दिया झटको, छीन ली सीट, Nitish ...",
+      "url": "https://www.youtube.com/watch?v=5XJKikP-9Z4",
+      "snippet": "Chandrababu Naidu ने BJP को दिया झटको, छीन ली सीट, Nitish Kumar भी नाराज | PM Modi #dblive … s993K views1 month ago",
+      "bm25_score_raw": 0.7649176242256712,
+      "bm25_score_norm": 0.15911649906802572,
+      "bm25_rank": 7
+    },
+    {
+      "title": "N. Chandrababu Naidu | Biography & Facts",
+      "url": "https://www.britannica.com/biography/Nara-Chandrababu-Naidu",
+      "snippet": "Image 3: Nara Chandrababu Naidu. Nara Chandrababu NaiduTelugu Desam Party leader Nara Chandrababu Naidu.(more). N. Chandrababu Naidu, born on April 20, 1950, is an Indian politician currently serving as the chief minister of Andhra Pradesh. He heads the Telugu Desam Party (TDP) and began his fourth term as chief minister in 2024. He was a confidant of Sanjay Gandhi and was elected to the Andhra Pradesh state legislative assembly in 1978, later becoming a minister. In 1995, he became leader of the TDP and chief minister of Andhra Pradesh. N. Chandrababu Naidu has served multiple terms as chief minister of Andhra Pradesh state in southeastern India. He is the head of the Telugu Desam Party (TDP). N. Chandrababu Naidu is associated with the Telugu Desam Party (TDP), a regional political party in Andhra Pradesh, India. Naidu is currently serving his fourth term as chief minister of Andhra Pradesh.",
+      "bm25_score_raw": 0.6339317304040204,
+      "bm25_score_norm": 0.13186909857402396,
+      "bm25_rank": 8
+    },
+    {
+      "title": "Union ministers call on Naidu, demand action against Opposition for unruly ...",
+      "url": "https://www.newindianexpress.com/amp/story/india/2021/Aug/15/union-ministers-call-on-naidu-demand-action-against-oppositionfor-unruly-scenes-in-house-2345117.html",
+      "snippet": "The ministers met Naidu and described the Opposition members' actions as \"unprecedented, extreme and violent\", sources said.",
+      "bm25_score_raw": 0.6031813106456163,
+      "bm25_score_norm": 0.1254724631954332,
+      "bm25_rank": 9
+    },
+    {
+      "title": "Parliament Winter Session: Opposition stages walkout after ...",
+      "url": "https://www.firstpost.com/india/parliament-winter-session-opposition-stages-walkout-after-venkaiah-naidu-refuses-to-revoke-suspension-of-12-rs-mps-10175201.html/amp",
+      "snippet": "Parliament Winter Session: Opposition stages walkout after Venkaiah Naidu refuses to revoke suspension of 12 RS MPs. FP Staff • November 30",
+      "bm25_score_raw": 0.5972386376343295,
+      "bm25_score_norm": 0.12423628129202995,
+      "bm25_rank": 10
+    },
+    {
+      "title": "Venkaiah considers action against 'unruly' Opposition MPs, seeks advice",
+      "url": "https://indianexpress.com/article/india/venkaiah-naidu-opposition-mps-rajya-sabha-protest-7452882/lite",
+      "snippet": "Naidu is said to be actively considering some kind of action against “unruly” members of the Opposition over their conduct in the well of the",
+      "bm25_score_raw": 0.5745945186718905,
+      "bm25_score_norm": 0.11952590095868283,
+      "bm25_rank": 11
+    },
+    {
+      "title": "Opposition parties prepare to move no-confidence motion against Vice- ...",
+      "url": "https://www.thehindu.com/news/national/opposition-parties-prepare-to-move-no-confidence-motion-against-vice-president/article68506004.ece/amp",
+      "snippet": "As many as 50 Opposition MPs, sources said, have signed a resolution to bring a no-confidence motion against Vice-President Jagdeep Dhankhar.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12
+    }
+  ]
+}

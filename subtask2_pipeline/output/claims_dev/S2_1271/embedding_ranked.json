@@ -1,0 +1,76 @@
+{
+  "claim": {
+    "id": "S2/1271",
+    "text": "Covid-19 test at Argentina, Chile border causes minimal delays, no supply chain concerns",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Covid tests spark Argentine supply chain fears over border queues",
+      "url": "https://www.france24.com/en/live-news/20220118-covid-tests-spark-argentine-supply-chain-fears-over-border-queues",
+      "snippet": "Up to 2,000 trucks are backed up at Argentina's main border crossing with Chile due to tougher Covid-19 testing requirements, Argentine haulers",
+      "bm25_score_raw": 4.911360630172273,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8881727457046509,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Chile, Argentina reach agreement to unblock truck queue at border crossing",
+      "url": "https://www.batimes.com.ar/news/amp/latin-america/chile-argentina-reach-agreement-to-unblock-truck-queue-at-border-crossing.phtml",
+      "snippet": "both countries reached an agreement to relax Covid-19 health controls that had delayed some 3,000 vehicles for almost two weeks.",
+      "bm25_score_raw": 1.530990909781582,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8789286613464355,
+      "embedding_score_norm": 0.8038702399741006,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Argentine truckers stranded at Chilean border by slow COVID testing",
+      "url": "https://www.reuters.com/world/americas/argentine-truckers-stranded-chilean-border-by-slow-covid-testing-2022-01-29",
+      "snippet": "Thousands of truck drivers from Argentina were stuck at the Chilean border on Saturday due to slow COVID-19 testing, as Chile faced its second",
+      "bm25_score_raw": 4.028326754512969,
+      "bm25_score_norm": 0.738775947987948,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8669353127479553,
+      "embedding_score_norm": 0.5494099287766582,
+      "embedding_rank": 3
+    },
+    {
+      "title": "COVID-19 – Cargo Entry Point Update Background Overview",
+      "url": "https://logcluster.org/sites/default/files/public/logisticsclustercovid-19cargoentrypointsupdate_200612.pdf",
+      "snippet": "COVID-19 – Cargo Entry Point Update 12 June 2020 https://logcluster.org/COVID-19 Background In an effort to have an overview of the impact of COVID-19 on Humanitarian Supply Chains in the world, the Logistics Cluster is compiling updates on entry point for cargo. The border with China is closed. The border with Iran is open with screening measures in place. Algeria 5-Jun WFP ; Agility ; North P&I ; Bollore Logistics ; Wilhelmsen ; DP World All commercial borders are still open to cargo movements, but operating at reduced capacity, delays to be expected. Angola 4-May WFP ; Agility ; North P&I ; Bimco ; Bollore Logistics ; Wilhelmsen All commercial borders are still open to cargo movements. Argentina 15-May GEODIS ; Bimco ; Wilhelmsen All commercial borders are still open to cargo movements. Bahrain 9-Jun GEODIS ; Bimco ; Wilhelmsen ; Agility ; Bollore Logistics All commercial borders are still open to cargo movements.",
+      "bm25_score_raw": 3.440925220484436,
+      "bm25_score_norm": 0.5650075194976337,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8512963056564331,
+      "embedding_score_norm": 0.2176004613330096,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Cross border e-commerce in Argentina and Chile grows despite COVID-19 and logistics disruption",
+      "url": "https://americasmi.com/insights/cross-border-ecommerce-logistics-argentina-chile",
+      "snippet": "# Cross border e-commerce in Argentina and Chile grows despite COVID-19 and logistics disruption. Both Argentina and Chile have experienced sustained growth in cross-border e-commerce purchase volumes since the pandemic despite economic difficulties and global logistics disruption. AMI figures show that by the end of 2019 (pre-pandemic), cross-border e-commerce in Argentina was worth US$150 million. Post-pandemic, it is estimated that the market will be worth USD 1 billion by the end of 2025, growing with a compound annual growth rate (CAGR) of 32% between 2021 and 2025. This growth will be fueled by the boom in domestic e-commerce and the number of users that have started buying online thanks to major improvements in international marketplaces such as mobile apps and Spanish-language websites. As a result of this, a new kind of business model in Argentina has appeared, in which local companies manage the buying and logistics process involved in buying from abroad.",
+      "bm25_score_raw": 2.198819404679491,
+      "bm25_score_norm": 0.19756078480691278,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8496291041374207,
+      "embedding_score_norm": 0.18222780340738942,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Chile Extends Border Restrictions Related to COVID-19",
+      "url": "https://www.mobilework.law/2022/01/chile-extends-border-restrictions-related-to-covid-19",
+      "snippet": "On December 31, 2021, the Chilean government extended and modified various border restrictions related to the COVID-19 pandemic.",
+      "bm25_score_raw": 1.829905623137866,
+      "bm25_score_norm": 0.08842663320322745,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8410402536392212,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6
+    }
+  ]
+}

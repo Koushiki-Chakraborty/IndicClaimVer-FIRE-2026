@@ -1,0 +1,76 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1023",
+    "text": "\"Nobody Expected People Would Have To Return To Their Hometowns\": Bombay HC Condones Student's Delay In Obtaining Marksheet Amid Covid-19",
+    "lang": "english"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Bombay High Court Condones Student's Delay In ...",
+      "url": "https://www.freepressjournal.in/legal/bombay-high-court-condones-students-delay-in-obtaining-class-12-marksheet-amid-covid-19",
+      "snippet": "Due to Covid, High Court has condoned delay in surrendering Class 12 marksheet by a student thereby clearing way for him to obtain marksheet",
+      "bm25_score_raw": 3.299603610164633,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8950692415237427,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Bombay HC Condones 113-Day Delay in Form 10B Filing ...",
+      "url": "https://news.vaquill.com/item/6102b0c3-1301-4a4a-9e19-3966a8494500",
+      "snippet": "# Bombay HC Condones 113-Day Delay in Form 10B Filing Amid COVID. Read full article →taxguru.in. ### Summary. * The Bombay High Court has condoned a 113-day delay in the filing of Form 10B due to COVID-19-related challenges. * The Court observed that the delay in e-verification was supported by bona fide reasons, emphasizing the impact of the pandemic. * It ruled that denying exemption on technical grounds would result in genuine hardship for the affected parties. * This decision highlights the judiciary's recognition of extraordinary circumstances affecting compliance during the pandemic. Join the discussion — sign up to comment, upvote, and save articles. ## Discussion.",
+      "bm25_score_raw": 2.421148830613327,
+      "bm25_score_norm": 0.5267880059184512,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8855242729187012,
+      "embedding_score_norm": 0.8465067239214408,
+      "embedding_rank": 2
+    },
+    {
+      "title": "'Justice doesn't mean whatever I want': Bombay HC raps ...",
+      "url": "https://www.deccanherald.com/india/maharashtra/justice-doesnt-mean-whatever-i-want-bombay-hc-raps-law-student-for-false-claims-in-plea-against-varsity-4055038",
+      "snippet": "Bombay High Court: The court dismissed a law student's plea against her university over attendance rules, calling her claims reckless and",
+      "bm25_score_raw": 1.8598334488334822,
+      "bm25_score_norm": 0.22441481915480324,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8736476898193359,
+      "embedding_score_norm": 0.6555185998140498,
+      "embedding_rank": 3
+    },
+    {
+      "title": "HC condones delay, gives teacher another chance | Mumbai News - Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/mumbai/hc-condones-delay-gives-teacher-another-chance/articleshow/14940587.cms",
+      "snippet": "The Bombay high court recently came to the rescue of an assistant teacher, a widow with a 12-year-old daughter. Justice Anoop Mohta condoned a delay of over two years in an appeal filed by Biner Dattatraya and directed the Presiding Officer to hear her plea to continue as teacher, on merits, within six months. MUMBAI: The Bombay high court recently came to the rescue of an assistant teacher, a widow with a 12-year-old daughter. To earn a living she took up a job as a teacher elsewhere but ultimately with no official reply, she filed an appeal with an application for condonation for dealy. She could not have, in any way, benefited by such delay, when her representations, admittedly, are pending with the management, as well as, with the Education Officer.\" The judge said \"even otherwise, when she worked for more than three years without any appointment letter, definitely, would like to wait for further continuation, as averred, that they promised her to continue in service.",
+      "bm25_score_raw": 1.4432373503527114,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8604266047477722,
+      "embedding_score_norm": 0.4429094499132552,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Student who claimed low attendance due to chickenpox ...",
+      "url": "https://www.hindustantimes.com/cities/mumbai-news/student-who-claimed-low-attendance-due-to-chickenpox-gets-no-hc-relief-101782930502009.html",
+      "snippet": "Student who claimed low attendance due to chickenpox gets no HC relief. The judges said that in the previous month, they had consistently passed",
+      "bm25_score_raw": 2.9308734575560327,
+      "bm25_score_norm": 0.8013699340527993,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.836884081363678,
+      "embedding_score_norm": 0.06432056283487812,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Bombay HC Condones 1,797-Day Delay; ITAT Took a ‘Pedantic Approach",
+      "url": "https://taxguru.in/income-tax/bombay-hc-condones-1797-day-delay-itat-pedantic-approach.html",
+      "snippet": "Uttar Bhartiya Education Society Vs PCIT (Bombay High Court) Material Facts The appeals related to Assessment Years 2018-19 and 2019-20 and arose from a common order of the ITAT dated 30.01.2026 upholding the Commissioner of Income Tax (Appeals)’ order dismissing the assessee’s appeals as barred by limitation. The assessee is a public charitable trust registered under the Maharashtra Public Trusts Act, 1950, the Societies Registration Act, 1860 and Section 12A of the Income-tax Act, 1961. GST Dues Not Secured Debt Under Section 82 CGST Act in CIRP: NCLAT Delhi ITC Cannot Be Denied for GSTR-2A Mismatches Caused by Portal Glitches: Madras HC Madras HC Dismisses Challenge to GST SCN Involving Disputed Facts Section 276C Prosecution Quashed After Section 271(1)(c) Penalty Deletion: Madras HC(c) Penalty Deletion: Madras HC\") Section 148 Notice Quashed for Absence of Section 150 Finding or Direction: ITAT Bangalore View More Published Posts. #### Join Taxguru’s Network for Latest updates on Income Tax, GST, Company Law, Corporate Laws and other related subjects.",
+      "bm25_score_raw": 1.6145446783815638,
+      "bm25_score_norm": 0.09228099634078055,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8328843116760254,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6
+    }
+  ]
+}

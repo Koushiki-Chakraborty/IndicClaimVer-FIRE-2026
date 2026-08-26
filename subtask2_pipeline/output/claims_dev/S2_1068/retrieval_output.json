@@ -1,0 +1,108 @@
+{
+  "claim": {
+    "id": "S2/1068",
+    "text": "Forced testing, quarantine camps: Why China's Zero Covid strategy is controversial",
+    "lang": "dev"
+  },
+  "generated_queries": {
+    "english_translation": "Forced testing, quarantine camps: Why China's Zero Covid strategy is controversial",
+    "native_query": "China Forced testing quarantine camps Covid strategy controversial",
+    "english_query": "China Forced testing quarantine camps Covid strategy controversial"
+  },
+  "native_retrieval": [
+    {
+      "title": "China's coronavirus lockdown strategy: brutal but effective | Coronavirus | The Guardian",
+      "url": "https://www.theguardian.com/world/2020/mar/19/chinas-coronavirus-lockdown-strategy-brutal-but-effective",
+      "snippet": "The world was astonished by the Wuhan quarantine but it seems to have worked. When China announced it was shutting down Wuhan, the centre of the coronavirus outbreak, in a bid to prevent further spread of the disease, the world was stunned and experts sceptical. Wuhan alone has a population of 11 million, and tens of millions more people in nearby cities were soon brought under lockdown as well, as the scale of the crisis became apparent. Countries with their own exponentially-growing outbreaks are imposing similar measures, from Italy and Spain to Germany and California, though none are as strict as Wuhan’s. Starting within hours of the announcement, transport into and out of the city was closed, with no exceptions even for personal and medical emergencies. Controls were stepped up elsewhere across China soon after Wuhan was locked down, in part because of fears that people racing to escape the city before it was closed off could have turbo-charged the spread of Covid-19."
+    },
+    {
+      "title": "From forced testing to quarantine camps, why China's Zero ...",
+      "url": "https://www.indiatoday.in/coronavirus-outbreak/story/from-forced-testing-to-quarantine-camps-why-china-s-zero-covid-strategy-is-controversial-1899697-2022-01-13",
+      "snippet": "These measures include forced mass testing, lockdown enforcements, and mandatory extensive quarantines."
+    },
+    {
+      "title": "Camp beds, plain bread in Shanghai's COVID quarantine",
+      "url": "https://www.youtube.com/watch?v=jypwKG8Ty-o",
+      "snippet": "Separated by less than an arm's length, people at a quarantine facility in the Chinese city of Shanghai after testing positive for COVID-19"
+    },
+    {
+      "title": "China builds massive Covid-19 quarantine camp for ...",
+      "url": "https://www.cnn.com/2021/01/20/asia/china-shijiazhuang-covid-quarantine-intl-hnk-scli",
+      "snippet": "China is rushing to build a massive quarantine camp that can house more than 4000 people, after an outbreak of Covid-19 this month that has"
+    },
+    {
+      "title": "China's huge quarantine camps standing months after ' ...",
+      "url": "https://www.aljazeera.com/economy/2023/3/23/china-quit-zero-covid-its-huge-quarantine-centers-stayed-put",
+      "snippet": "COVID quarantine. China's mass quarantine centres are still standing months after the end of Beijing's 'zero COVID' policy [File: Reuters]. By"
+    },
+    {
+      "title": "People Locked Up In Quarantine Camps In China",
+      "url": "https://www.youtube.com/watch?v=bxbg3gB93WU",
+      "snippet": "china #quarantine #lockdown #covid We Are Not in 2020 and the Novel Coronavirus Is Not Novel Anymore. As the World Has Moved on & has Learnt"
+    }
+  ],
+  "english_retrieval": [
+    {
+      "title": "China's coronavirus lockdown strategy: brutal but effective | Coronavirus | The Guardian",
+      "url": "https://www.theguardian.com/world/2020/mar/19/chinas-coronavirus-lockdown-strategy-brutal-but-effective",
+      "snippet": "The world was astonished by the Wuhan quarantine but it seems to have worked. When China announced it was shutting down Wuhan, the centre of the coronavirus outbreak, in a bid to prevent further spread of the disease, the world was stunned and experts sceptical. Wuhan alone has a population of 11 million, and tens of millions more people in nearby cities were soon brought under lockdown as well, as the scale of the crisis became apparent. Countries with their own exponentially-growing outbreaks are imposing similar measures, from Italy and Spain to Germany and California, though none are as strict as Wuhan’s. Starting within hours of the announcement, transport into and out of the city was closed, with no exceptions even for personal and medical emergencies. Controls were stepped up elsewhere across China soon after Wuhan was locked down, in part because of fears that people racing to escape the city before it was closed off could have turbo-charged the spread of Covid-19."
+    },
+    {
+      "title": "From forced testing to quarantine camps, why China's Zero ...",
+      "url": "https://www.indiatoday.in/coronavirus-outbreak/story/from-forced-testing-to-quarantine-camps-why-china-s-zero-covid-strategy-is-controversial-1899697-2022-01-13",
+      "snippet": "These measures include forced mass testing, lockdown enforcements, and mandatory extensive quarantines."
+    },
+    {
+      "title": "Camp beds, plain bread in Shanghai's COVID quarantine",
+      "url": "https://www.youtube.com/watch?v=jypwKG8Ty-o",
+      "snippet": "Separated by less than an arm's length, people at a quarantine facility in the Chinese city of Shanghai after testing positive for COVID-19"
+    },
+    {
+      "title": "China builds massive Covid-19 quarantine camp for ...",
+      "url": "https://www.cnn.com/2021/01/20/asia/china-shijiazhuang-covid-quarantine-intl-hnk-scli",
+      "snippet": "China is rushing to build a massive quarantine camp that can house more than 4000 people, after an outbreak of Covid-19 this month that has"
+    },
+    {
+      "title": "China's huge quarantine camps standing months after ' ...",
+      "url": "https://www.aljazeera.com/economy/2023/3/23/china-quit-zero-covid-its-huge-quarantine-centers-stayed-put",
+      "snippet": "COVID quarantine. China's mass quarantine centres are still standing months after the end of Beijing's 'zero COVID' policy [File: Reuters]. By"
+    },
+    {
+      "title": "People Locked Up In Quarantine Camps In China",
+      "url": "https://www.youtube.com/watch?v=bxbg3gB93WU",
+      "snippet": "china #quarantine #lockdown #covid We Are Not in 2020 and the Novel Coronavirus Is Not Novel Anymore. As the World Has Moved on & has Learnt"
+    }
+  ],
+  "merged_results": [
+    {
+      "title": "China's coronavirus lockdown strategy: brutal but effective | Coronavirus | The Guardian",
+      "url": "https://www.theguardian.com/world/2020/mar/19/chinas-coronavirus-lockdown-strategy-brutal-but-effective",
+      "snippet": "The world was astonished by the Wuhan quarantine but it seems to have worked. When China announced it was shutting down Wuhan, the centre of the coronavirus outbreak, in a bid to prevent further spread of the disease, the world was stunned and experts sceptical. Wuhan alone has a population of 11 million, and tens of millions more people in nearby cities were soon brought under lockdown as well, as the scale of the crisis became apparent. Countries with their own exponentially-growing outbreaks are imposing similar measures, from Italy and Spain to Germany and California, though none are as strict as Wuhan’s. Starting within hours of the announcement, transport into and out of the city was closed, with no exceptions even for personal and medical emergencies. Controls were stepped up elsewhere across China soon after Wuhan was locked down, in part because of fears that people racing to escape the city before it was closed off could have turbo-charged the spread of Covid-19."
+    },
+    {
+      "title": "From forced testing to quarantine camps, why China's Zero ...",
+      "url": "https://www.indiatoday.in/coronavirus-outbreak/story/from-forced-testing-to-quarantine-camps-why-china-s-zero-covid-strategy-is-controversial-1899697-2022-01-13",
+      "snippet": "These measures include forced mass testing, lockdown enforcements, and mandatory extensive quarantines."
+    },
+    {
+      "title": "Camp beds, plain bread in Shanghai's COVID quarantine",
+      "url": "https://www.youtube.com/watch?v=jypwKG8Ty-o",
+      "snippet": "Separated by less than an arm's length, people at a quarantine facility in the Chinese city of Shanghai after testing positive for COVID-19"
+    },
+    {
+      "title": "China builds massive Covid-19 quarantine camp for ...",
+      "url": "https://www.cnn.com/2021/01/20/asia/china-shijiazhuang-covid-quarantine-intl-hnk-scli",
+      "snippet": "China is rushing to build a massive quarantine camp that can house more than 4000 people, after an outbreak of Covid-19 this month that has"
+    },
+    {
+      "title": "China's huge quarantine camps standing months after ' ...",
+      "url": "https://www.aljazeera.com/economy/2023/3/23/china-quit-zero-covid-its-huge-quarantine-centers-stayed-put",
+      "snippet": "COVID quarantine. China's mass quarantine centres are still standing months after the end of Beijing's 'zero COVID' policy [File: Reuters]. By"
+    },
+    {
+      "title": "People Locked Up In Quarantine Camps In China",
+      "url": "https://www.youtube.com/watch?v=bxbg3gB93WU",
+      "snippet": "china #quarantine #lockdown #covid We Are Not in 2020 and the Novel Coronavirus Is Not Novel Anymore. As the World Has Moved on & has Learnt"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1002",
+    "text": "Rajasthan High Court Upholds Dismissal Of BSF Constable Terminated In 2004 For Overstay Of Casual Leave",
+    "lang": "english"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Rajasthan High Court Orders Reinstatement Of BSF Constable Terminated In 2004 For Overstay Of Casual Leave",
+      "url": "https://www.livelaw.in/high-court/rajasthan-high-court/rajasthan-high-court-quashes-dismissal-order-bsf-constable-leave-overstay-non-speaking-order-233231",
+      "snippet": "# Rajasthan High Court Orders Reinstatement Of BSF Constable Terminated In 2004 For Overstay Of Casual Leave. ###### Udit Singh. 21 July 2023 9:20 AM IST. The Rajasthan High Court at Jaipur on Wednesday set aside the dismissal order of a BSF Constable who was terminated from the service in 2004 on account of over stay of casual leave.While directing the Union Government to reinstate the said constable, the single judge bench comprising Justice Anoop Kumar Dhand observed:“The impugned order dated 08.03.2004 has been passed by the Summary... # This is a premium content Available exclusively to Our subscribers. ### INR 1099+GST. Your support helps us to bring you more content at. ##### Tags.",
+      "bm25_score_raw": 15.740338515374308,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9464162588119507,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "24Law - General Clauses Act | J&K&L High Court Upholds Dismissal of BSF Constable for Overstaying Leave, Notice Deemed Served Once Properly Addressed and Dispatched Under Section 27",
+      "url": "https://24law.in/story/general-clauses-act-j-k-l-high-court-upholds-dismissal-of-bsf-constable-for-overstaying-leave-notice",
+      "snippet": "# General Clauses Act | J&K&L High Court Upholds Dismissal of BSF Constable for Overstaying Leave, Notice Deemed Served Once Properly Addressed and Dispatched Under Section 27. The High Court of Jammu & Kashmir and Ladakh, Division Bench of Justice Sindhu Sharma and  Justice Shahzad Azeem upheld the dismissal of a Border Security Force constable who had overstayed leave, overturning a single-judge order that had quashed his termination. The Court reaffirmed that once a notice is correctly addressed and sent through registered post, it is presumed to be duly served under Section 27 of the General Clauses Act, 1897, and the responsibility rests on the addressee to prove otherwise. The dispute originated from the dismissal of Mohammad Shafi Khan, a constable of the 193 Battalion of the BSF, who was removed from service on July 28, 2004.",
+      "bm25_score_raw": 3.143793086951352,
+      "bm25_score_norm": 0.09331326993670695,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8974303007125854,
+      "embedding_score_norm": 0.5627584298954044,
+      "embedding_rank": 2
+    },
+    {
+      "title": "High court upholds dismissal of BSF constable for drunken border firing | Chandigarh News - The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/high-court-upholds-dismissal-of-bsf-constable-for-drunken-border-firing/articleshow/123739634.cms",
+      "snippet": "Hence, it cannot be said that the act done by the appellant was of such a nature to say that the punishment of dismissal from service imposed upon him is shockingly disproportionate to such conceded action,\" the court observed.The division bench, comprising Justice Harsimran Singh Sethi and Justice Vikas Suri, passed the orders while upholding the order of the summary security force court and a single-bench ruling, observing that the appellant's actions could have had grave diplomatic consequences.Kumar was dismissed in 2009 after the force court found him guilty of misconduct. Challenging this, Kumar argued that he was not provided with adequate time to prepare his defence, as key evidence was handed to him only two days before the proceedings began.His counsel also relied on a Delhi high court precedent in the 2025 case titled Prema Ram versus Union of India, which held that a guilty plea must bear the accused's signature under Rule 142(2) of the BSF Rules.",
+      "bm25_score_raw": 2.7242304287609427,
+      "bm25_score_norm": 0.06311356980678398,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8765367269515991,
+      "embedding_score_norm": 0.37626541534991115,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Absence from duty of BSF personnel: HC dismisses petition, upholds dismissal from service",
+      "url": "https://www.journeyline.in/newsdet.aspx?q=269492",
+      "snippet": "JAMMU, Sep 24: The High Court of J&K and Ladakh at Jammu comprising of Justice Wasim Sadiq Nargal has dismissed a writ petition and held \"Court is of the view that the order of dismissal of the petitioner from service does not suffer from any legal infirmity and the same has been passed by the respondents in consonance with the relevant provisions of BSF Act and Rules framed therein. The petitioner had also sought issuance of a direction against the respondents to consider his case for reinstatement by allowing him to join and perform his duties on the post of Constable, which the petitioner was working prior to his dismissal from service and also to release his salary and other consequential benefits for which the petitioner was entitled by treating the period of dismissal as on duty. However, despite submitting the medical certificate, the respondents did not allow the petitioner to join his duty and it was conveyed to him that he has already been dismissed from service on account of overstay of leave while being posted at Akhnoor.",
+      "bm25_score_raw": 2.3915703452279793,
+      "bm25_score_norm": 0.039169030006172466,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8724370002746582,
+      "embedding_score_norm": 0.3396718485651355,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Delhi HC Upholds Dismissal of BSF Officer For Illicit Relationship With Colleague’s Wife | Delhi HC Upholds Dismissal of BSF Officer For Illicit Relationship With Colleagueâs Wife",
+      "url": "https://lawbeat.in/news-updates/delhi-hc-upholds-dismissal-of-bsf-officer-for-illicit-relationship-with-colleagues-wife-1536805",
+      "snippet": "# Delhi HC Upholds Dismissal of BSF Officer For Illicit Relationship With Colleague’s Wife. BSF officer’s dismissal for illicit relationship with colleague’s wife upheld by Delhi HC. The Delhi High Court has upheld the dismissal of a Border Security Force (BSF) Sub-Inspector who was dismissed from service for allegedly developing an illicit relationship with the wife of a fellow constable, observing that members of a disciplined force are expected to maintain the highest standards of morality and integrity. A Division Bench of Justice C Hari Shankar and Justice Om Prakash Shukla said an officer in uniform “must abstain from any conduct inconsistent with the dignity of the service” and that moral lapses of this nature cannot be ignored. Court was hearing a plea filed by Sub-Inspector Patil Shivaji Madhukar, who had sought to quash the findings and sentence passed by the General Security Force Court (GSFC) on September 14, 2022, and the subsequent order of the BSF Director General by which he was dismissed from service.",
+      "bm25_score_raw": 3.3624003198545256,
+      "bm25_score_norm": 0.10904839972252302,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8545643091201782,
+      "embedding_score_norm": 0.18014279482022963,
+      "embedding_rank": 5
+    },
+    {
+      "title": "ThePrint - The top court ruled in a BSF constable's case...",
+      "url": "https://www.facebook.com/theprintindia/posts/the-top-court-ruled-in-a-bsf-constables-case-that-he-could-pursue-his-service-di/1057681980195349",
+      "snippet": "## ThePrint's Post. ### **ThePrint**. The top court ruled in a BSF constable's case that he could pursue his service dispute in Delhi High Court despite the disciplinary proceedings against him having occurred elsewhere. Location of dispute vs location of authority: SC revives old debate on HCs' territorial jurisdiction.",
+      "bm25_score_raw": 1.8473973144551885,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.834382176399231,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6
+    }
+  ]
+}

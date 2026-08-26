@@ -1,0 +1,76 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1224",
+    "text": "Police Personnel Cannot Be 'Authorised Officers' Under Mines And Minerals Act, Cannot Seize Vehicles Or Compound Offences: Madras High Court",
+    "lang": "english"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Police Personnel 'Authorised Officer' Under Mines And ...",
+      "url": "https://x.com/LiveLawIndia/status/1676615361331105792",
+      "snippet": "Police Personnel 'Authorised Officer' Under Mines And Minerals Act, Have Powers To Seize Vehicle, Compound Offences: Madras High Court Live Law",
+      "bm25_score_raw": 2.871892419750827,
+      "bm25_score_norm": 0.35728393707286,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.9406665563583374,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Police personnel can seize vehicles under Mines and ...",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/police-personnel-can-seize-vehicles-under-mines-and-minerals-act-rules-full-bench-of-madras-high-court/article66965663.ece",
+      "snippet": "Police personnel can seize vehicles under Mines and Minerals Act, rules Full Bench of Madras High Court.",
+      "bm25_score_raw": 3.1462835086080245,
+      "bm25_score_norm": 0.42042848794524507,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.9173139333724976,
+      "embedding_score_norm": 0.5032382729886952,
+      "embedding_rank": 2
+    },
+    {
+      "title": "'Can cops seize vehicles under Mines Act?'",
+      "url": "https://www.newindianexpress.com/states/tamil-nadu/2022/Dec/05/can-cops-seize-vehicles-under-mines-act-2525456.html",
+      "snippet": "Madras HC recently sought for the constitution of a Full Bench to clarify whether police officers have the power to seize vehicles under the",
+      "bm25_score_raw": 4.315427230210954,
+      "bm25_score_norm": 0.6894789717395889,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.9053107500076294,
+      "embedding_score_norm": 0.24790412480410604,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Police Personnel 'Authorised Officer' Under Mines And ...",
+      "url": "https://www.livelaw.in/high-court/madras-high-court/madras-high-court-police-personnel-authorised-officer-mines-and-minerals-act-can-seize-vehicles-231997",
+      "snippet": "The Madras High Court has ruled that there is no embargo in bringing police personnel under the ambit of “authorised officer” under Sections 21,22 and 23-A of",
+      "bm25_score_raw": 2.1471641638996495,
+      "bm25_score_norm": 0.19050505073640903,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.9041200876235962,
+      "embedding_score_norm": 0.2225761133623772,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Madras HC's larger bench to decide if cops can seize ...",
+      "url": "https://timesofindia.indiatimes.com/city/madurai/madras-hcs-larger-bench-to-decide-if-cops-can-seize-vehicles-in-illegal-mining-cases/articleshow/96018390.cms",
+      "snippet": "MADURAI: Can a police officer seize vehicles for mining-related offences? Or should the power remain vested only with revenue officials?",
+      "bm25_score_raw": 1.31933519715314,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8937313556671143,
+      "embedding_score_norm": 0.0015849025982259235,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Police personnel authorised to act against illegal mining ...",
+      "url": "https://www.barandbench.com/news/litigation/police-authorised-illegal-mining-seize-vehicles-madras-high-court-full-bench",
+      "snippet": "A full bench of the Madras High Court recently held that police personnel are authorised to act against illegal mining activity under the Mines and Minerals (",
+      "bm25_score_raw": 5.664778866738201,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.893656849861145,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6
+    }
+  ]
+}

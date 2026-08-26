@@ -1,0 +1,99 @@
+{
+  "claim": {
+    "id": "S2/1577",
+    "text": "West Bengal maintains Covid norms, prohibiting fairs in open spaces and limiting weddings to 50 guests.",
+    "lang": "dev"
+  },
+  "entity_ranked_evidence": [
+    {
+      "title": "West Bengal relaxes Covid norms, allows fairs in open ...",
+      "url": "https://www.indiatoday.in/coronavirus-outbreak/story/west-bengal-relaxes-covid-norms-allows-200-guests-at-weddings-1900410-2022-01-15",
+      "snippet": "Jan 15, 2022 — It allows wedding functions with a maximum of 200 guests at a time. While fairs and or melas will be allowed in open spaces. Lakhs of pilgrims ...Read more",
+      "bm25_score_raw": 2.548773487090556,
+      "bm25_score_norm": 0.6259852530995735,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.9225665330886841,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 1,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 1
+    },
+    {
+      "title": "Bengal Allows Fairs, Wedding Functions; Covid Curbs ...",
+      "url": "https://www.ndtv.com/india-news/coronavirus-restrictions-west-bengal-allows-fairs-wedding-functions-covid-curbs-extended-till-january-31-2709754",
+      "snippet": "Jan 15, 2022 — The West Bengal government on Saturday extended the ongoing COVID-19 restrictions till January 31, allowing fairs on open grounds in a very",
+      "bm25_score_raw": 2.4876601168254595,
+      "bm25_score_norm": 0.6073028257930335,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.9004848003387451,
+      "embedding_score_norm": 0.7485925471503491,
+      "embedding_rank": 2,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 1,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 2
+    },
+    {
+      "title": "West Bengal government gives a go ahead for Gangsagar ...",
+      "url": "https://m.economictimes.com/news/politics-and-nation/west-bengal-government-gives-a-go-ahead-for-gangsagar-fair-maintaining-covid-protocols/articleshow/88529984.cms",
+      "snippet": "Dec 27, 2021 — West Bengal government gives a go ahead for Gangsagar fair maintaining COVID protocols ; 1. TMC Bengal chief Chandrima Bhattacharya quits all ...Read more",
+      "bm25_score_raw": 1.3196803724166868,
+      "bm25_score_norm": 0.25025007979367636,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8457228541374207,
+      "embedding_score_norm": 0.12511061466465434,
+      "embedding_rank": 4,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 1,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 3
+    },
+    {
+      "title": "Covid spike prompts restrictions in state",
+      "url": "https://www.getbengal.com/home/story_detail/covid-spike-prompts-restrictions-in-state",
+      "snippet": "Jan 2, 2022 — Meetings and conferences shall be allowed with a maximum of 200 people at a time or 50 percent seating capacity of the hall, whichever is lower.Read more",
+      "bm25_score_raw": 0.5010701600302531,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8604867458343506,
+      "embedding_score_norm": 0.29320215203205247,
+      "embedding_rank": 3,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 4
+    },
+    {
+      "title": "Bengal polls: EC bans physical campaigning, expresses ' ...",
+      "url": "https://indianexpress.com/elections/west-bengal-elections-covid-19-election-commission-campaigning-ban-7285069",
+      "snippet": "Apr 22, 2021 — EC bans physical campaigning, expresses 'anguish' over flouting of Covid norms … banned roadshows, vehicle rallies, and public meetings of more",
+      "bm25_score_raw": 3.772238796864867,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8393545150756836,
+      "embedding_score_norm": 0.05260507714524588,
+      "embedding_rank": 5,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 5
+    },
+    {
+      "title": "Crackdown on Covid rule flout at tourist spots in Bengal",
+      "url": "https://www.telegraphindia.com/west-bengal/crackdown-on-covid-rule-flout-at-tourist-spots-in-bengal/cid/1823578",
+      "snippet": "Jul 23, 2021 — Officials at tourist places like Digha, Santiniketan and Purulia have directed hoteliers not to allow anyone to check in if they do not have a document to ...Read more",
+      "bm25_score_raw": 0.9350687514384024,
+      "bm25_score_norm": 0.13267386661792935,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8347340822219849,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 6
+    }
+  ]
+}

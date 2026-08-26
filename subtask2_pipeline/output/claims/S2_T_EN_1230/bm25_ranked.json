@@ -1,0 +1,57 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1230",
+    "text": "Brahmapuram Fire: Kerala Govt Suggests High Court To Constitute Special Bench To Consider Issues Under Solid Waste Management Rules",
+    "lang": "english"
+  },
+  "ranked_evidence": [
+    {
+      "title": "Brahmapuram Fire: Kerala Govt Suggests High Court To Constitute ...",
+      "url": "https://www.livelaw.in/amp/high-court/kerala-high-court/kerala-high-court-special-bench-brahmapuram-fire-solid-waste-management-issues-232188",
+      "snippet": "The Kerala government on Friday suggested the High Court to constitute a Special Bench for consideration of the Brahmapuram fire incident and other matters",
+      "bm25_score_raw": 5.0897419565913,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Kerala High Court to constitute special bench to deal with Brahmapuram fire ...",
+      "url": "https://www.thehindu.com/news/cities/Kochi/kerala-high-court-to-constitute-special-bench-to-deal-with-brahmapuram-fire-case-and-other-waste-management-cases/article67054317.ece/amp",
+      "snippet": "High Court Registrar (Judicial) to constitute a special bench when the suo motu case relating to the Brahmapuram fire came up for hearing.",
+      "bm25_score_raw": 2.551690177203115,
+      "bm25_score_norm": 0.40845561905774747,
+      "bm25_rank": 2
+    },
+    {
+      "title": "Kerala HC asks govt to conduct study on Brahmapuram legacy waste for ...",
+      "url": "https://madhyamamonline.com/amp/kerala/kerala-hc-asks-govt-to-conduct-study-on-brahmapuram-legacy-waste-for-road-construction-1188620",
+      "snippet": "The high court had initiated suo moto the state had asked the presiding bench to constitute a Special Bench for the consideration of issues",
+      "bm25_score_raw": 1.9473489846943879,
+      "bm25_score_norm": 0.26760166189905843,
+      "bm25_rank": 3
+    },
+    {
+      "title": "Kerala High Court Plans Visit To Brahmapuram Bio-Mining Plant ...",
+      "url": "https://24law.in/story/kerala-high-court-plans-visit-to-brahmapuram-bio-mining-plant-seeks-accountability-in-waste",
+      "snippet": "A Special Bench comprising Justice Bechu. The matter has been posted for further consideration on July 10, 2026. Special Government Pleader.",
+      "bm25_score_raw": 1.8155693505799957,
+      "bm25_score_norm": 0.23688774868575677,
+      "bm25_rank": 4
+    },
+    {
+      "title": "Kerala HC wants govt to conduct study on legacy waste for road construction",
+      "url": "https://www.daijiworld.com/news/newsDisplay?newsID=1106761",
+      "snippet": "The high court had initiated suo moto proceedings the state had asked the presiding bench to constitute a Special Bench for consideration of",
+      "bm25_score_raw": 1.7060431613210143,
+      "bm25_score_norm": 0.2113604515879071,
+      "bm25_rank": 5
+    },
+    {
+      "title": "The #Kerala High Court has initiated a suo motu writ petition for ...",
+      "url": "https://www.facebook.com/abplive/posts/the-kerala-high-court-has-initiated-a-suo-motu-writ-petition-for-the-brahmapuram/597866475706309",
+      "snippet": "The #Kerala High Court has initiated a suo motu writ petition for the #Brahmapuram waste plant fire incident.",
+      "bm25_score_raw": 0.799190205689024,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6
+    }
+  ]
+}

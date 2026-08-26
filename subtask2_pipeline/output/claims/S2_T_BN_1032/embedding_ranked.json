@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/BN/1032",
+    "text": "লোকসভার আগে 'গোষ্ঠীদ্বন্দ্ব' মেটাতেই পুরুলিয়ায় জরুরি বৈঠক মমতার ?",
+    "lang": "bengali"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Troubles in TMC: Mamata calls emergency meet today",
+      "url": "https://www.thestatesman.com/bengal/troubles-in-tmc-mamata-calls-emergency-meet-today-1503045423.html",
+      "snippet": "Feb 12, 2022 — Banerjee today has reportedly conveyed her decision to hold a crucial meeting at her residence tomorrow which party insiders feel is to put",
+      "bm25_score_raw": 0.6255716744299871,
+      "bm25_score_norm": 0.14223598905688284,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.8744891881942749,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Alliance Tensions Rise After Bengal Defeat | Odia News",
+      "url": "https://www.youtube.com/watch?v=Fcxc3lINzrQ",
+      "snippet": "Bengal, Mamata Banerjee has urged an urgent INDIA bloc meeting amid rising unease among alliance partners. Strains between Congress, DMK",
+      "bm25_score_raw": 2.901219600754621,
+      "bm25_score_norm": 0.6596491757088535,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8711663484573364,
+      "embedding_score_norm": 0.9677246042865579,
+      "embedding_rank": 2
+    },
+    {
+      "title": ":Mamata Banerjee Public meeting at Santuri, Purulia",
+      "url": "https://www.youtube.com/watch?v=M7Ik24NozaU",
+      "snippet": ":Mamata Banerjee Public meeting at Santuri, Purulia | পুরুলিয়ার সাঁতুড়িতে জনসভা. @HaldiaLive14 likes614 viewsStreamed 7 years agoRead more",
+      "bm25_score_raw": 1.4953822063153681,
+      "bm25_score_norm": 0.3400044724325745,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.853204607963562,
+      "embedding_score_norm": 0.7932586871692738,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Mamata Accuses Congress Of Delaying Seat-Sharing ...",
+      "url": "https://www.outlookindia.com/national/mamata-accuses-congress-of-delaying-seat-sharing-talks-in-bengal-with-unjustified-demand",
+      "snippet": "Jan 23, 2024 — Mamata Banerjee on Tuesday criticised the Congress for causing delay in discussions for seat-sharing in West Bengal, citing \"unjustified\"",
+      "bm25_score_raw": 0.46692335319747896,
+      "bm25_score_norm": 0.10616418177231987,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.8489835262298584,
+      "embedding_score_norm": 0.7522584903257182,
+      "embedding_rank": 4
+    },
+    {
+      "title": "What Happened At Mamata Banerjee's 12-Minute Meet ...",
+      "url": "https://www.ndtv.com/india-news/what-happened-at-mamata-banerjees-12-minute-meet-with-her-mps-and-why-9020125",
+      "snippet": "Aug 5, 2025 — \"I have quit as the party's chief whip in Lok Sabha as 'Didi' said during the virtual meeting that there is a lack of coordination among party ...Read more",
+      "bm25_score_raw": 4.398125105874641,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8487970232963562,
+      "embedding_score_norm": 0.7504469506617417,
+      "embedding_rank": 5
+    },
+    {
+      "title": "WB CM Mamata Banerjee addresses the press after ...",
+      "url": "https://aitcofficial.org/wb-cm-mamata-banerjee-addresses-the-press-after-completing-administrative-meeting-in-purulia",
+      "snippet": "WB CM Mamata Banerjee addresses the press after completing administrative meeting in Purulia · Chairperson Mamata Banerjee makes “last appeal“ to Centre for debt ...Read more",
+      "bm25_score_raw": 1.473521176989475,
+      "bm25_score_norm": 0.3350339386711103,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8410447239875793,
+      "embedding_score_norm": 0.6751473431909498,
+      "embedding_rank": 6
+    },
+    {
+      "title": "PM Modi| 'জনসভার উৎসাহ আগের সব রেকর্ড ভেঙে দিচ্ছে', Purulia-র সভা থেকে ...",
+      "url": "https://www.youtube.com/watch?v=kQn0EAo9JMY",
+      "snippet": "PM Modi| পুরুলিয়ায় বিজেপি প্রার্থীদের সমর্থনে প্রচারে প্রধানমন্ত্রী মোদি। শুরুতেই তিনি বলেন, 'আগেও পুরুলিয়া এসেছি। এই জনসভার উৎসাহ আগের সব রেকর্ড ভেঙে দিচ্ছে। হেলিপ্যাডের কাছেও প্রচুর লোক ছিলেন।",
+      "bm25_score_raw": 0.935574297914979,
+      "bm25_score_norm": 0.2127211653586931,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.826513946056366,
+      "embedding_score_norm": 0.534007040051874,
+      "embedding_rank": 7
+    },
+    {
+      "title": "Purulia : পুর পরিষেবা দিতে ব্যর্থতার অভিযোগে, তৃণমূল পরিচালিত পুরুলিয়া ...",
+      "url": "https://www.youtube.com/watch?v=AO2rNMPRPrg",
+      "snippet": "ABP Ananda LIVE :তৃণমূল পরিচালিত পুরুলিয়া পুরসভাকেই সরকারের শোকজ! পুর পরিষেবা দিতে ব্যর্থতার অভিযোগে পুর দফতরের শোকজ।সরকারের শোকজের পরেই উপ পুরপ্রধানের নিশানায় পুরপ্রধান!",
+      "bm25_score_raw": 0.6496496232843879,
+      "bm25_score_norm": 0.1477105829519586,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.8184276819229126,
+      "embedding_score_norm": 0.45546356657364845,
+      "embedding_rank": 8
+    },
+    {
+      "title": "পুরুলিয়ায় ভোট পরবর্তী হিংসা রুখতে কঠোর পুরুলিয়া জেলা পুলিশ। কেউ ...",
+      "url": "https://www.facebook.com/NewsFlashPuruliaWebPortal/videos/%E0%A6%AA%E0%A7%81%E0%A6%B0%E0%A7%81%E0%A6%B2%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A6%AD%E0%A7%8B%E0%A6%9F-%E0%A6%AA%E0%A6%B0%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%A4%E0%A7%80-%E0%A6%B9%E0%A6%BF%E0%A6%82%E0%A6%B8%E0%A6%BE-%E0%A6%B0%E0%A7%81%E0%A6%96%E0%A6%A4%E0%A7%87-%E0%A6%95%E0%A6%A0%E0%A7%8B%E0%A6%B0-%E0%A6%AA%E0%A7%81%E0%A6%B0%E0%A7%81%E0%A6%B2%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE-%E0%A6%9C%E0%A7%87%E0%A6%B2%E0%A6%BE-%E0%A6%AA%E0%A7%81%E0%A6%B2%E0%A6%BF%E0%A6%B6-%E0%A6%95%E0%A7%87%E0%A6%89-%E0%A6%95%E0%A7%8B%E0%A6%A5%E0%A6%BE%E0%A6%93-%E0%A6%85%E0%A6%B6%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%B0/2130163467836546",
+      "snippet": "পুরুলিয়ায় ভোট পরবর্তী হিংসা রুখতে কঠোর পুরুলিয়া জেলা পুলিশ। কেউ কোথাও অশান্তির পরিবেশ তৈরি করলে কঠোর ব্যবস্থা নেবে প্রশাসন। সাংবাদিক সম্মেলনে পুরুলিয়া জেলা পুলিশ সুপার বৈভব তেওয়ারি।",
+      "bm25_score_raw": 1.3970916616134765,
+      "bm25_score_norm": 0.31765618939474016,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8048096895217896,
+      "embedding_score_norm": 0.3231893287634751,
+      "embedding_rank": 9
+    },
+    {
+      "title": "Purulia News| পুরুলিয়ায় পড়ুয়াকে র‍্যাগিং ও মারধরের অভিযোগ। প্রথম ...",
+      "url": "https://www.youtube.com/watch?v=Qgxqnm3SWtg",
+      "snippet": "Purulia News| পুরুলিয়ায় পড়ুয়াকে র‍্যাগিং ও মারধরের অভিযোগ। প্রথম বর্ষের ডাক্তারি পড়ুয়াকে 'র‍্যাগিং'। পুরুলিয়া গভর্মেন্ট মেডিক্য়াল কলেজের ঘটনা। অভিযোগ দ্বিতীয় ও চতুর্থ বর্ষের দুই পড়ুয়ার বিরুদ্ধে।",
+      "bm25_score_raw": 2.328031718614712,
+      "bm25_score_norm": 0.5293236691937493,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.7929246425628662,
+      "embedding_score_norm": 0.20774753077127936,
+      "embedding_rank": 10
+    },
+    {
+      "title": "(\"পুরুলিয়া\" নামকরণ ) -শুকদেব মাহাত । কোনো জায়গার নামকরণ সেই জায়গাটির ...",
+      "url": "https://www.facebook.com/Purulia.Infoo/posts/%E0%A6%AA%E0%A7%81%E0%A6%B0%E0%A7%81%E0%A6%B2%E0%A6%BF%E0%A7%9F%E0%A6%BE-%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%95%E0%A6%B0%E0%A6%A3-%E0%A6%B6%E0%A7%81%E0%A6%95%E0%A6%A6%E0%A7%87%E0%A6%AC-%E0%A6%AE%E0%A6%BE%E0%A6%B9%E0%A6%BE%E0%A6%A4-%E0%A6%95%E0%A7%8B%E0%A6%A8%E0%A7%8B-%E0%A6%9C%E0%A6%BE%E0%A7%9F%E0%A6%97%E0%A6%BE%E0%A6%B0-%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%95%E0%A6%B0%E0%A6%A3-%E0%A6%B8%E0%A7%87%E0%A6%87-%E0%A6%9C%E0%A6%BE%E0%A7%9F%E0%A6%97%E0%A6%BE%E0%A6%9F%E0%A6%BF%E0%A6%B0-%E0%A6%AD%E0%A7%8C%E0%A6%97%E0%A7%8B%E0%A6%B2%E0%A6%BF%E0%A6%95-%E0%A6%85%E0%A6%AC%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A6%A8%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC/306938997340749",
+      "snippet": "এবং সেটা কোথায় আছে? আগেকার দিনে বলা হত সূর্য্য পূর্বদিকে ওঠে এবং পশ্চিম দিকে রোজ অস্ত যায়, পৃথিবীটাই স্থির আছে, কিন্ত বিজ্ঞান এই ধারণা যে ভুল তা প্রমান করেদিয়েছেন, এবার দেখা যাক পুরুইল্যা বা পুরুলিয়ার নামকরণ",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.776964545249939,
+      "embedding_score_norm": 0.05272396743976008,
+      "embedding_rank": 11
+    },
+    {
+      "title": "যোগাযোগ | পুরুলিয়া জেলা, পশ্চিমবঙ্গ সরকার | ভারত",
+      "url": "https://purulia.gov.in/bn/%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A7%87",
+      "snippet": "জেলা শাসক এবং জেলা সমহর্তা. নাম, উপাধি, ইমেল, ঠিকানা, ফোন. শ্রী সুধীর কোন্তম, আই. এ. এস. জেলা শাসক এবং জেলা সমহর্তা. dm-pur-wb[at]nic[dot]in. পুরাতন কালেক্টরেট বিল্ডিং, পুরুলিয়া, পশ্চিমবঙ্গ ৭২৩১০১",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.7715364694595337,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

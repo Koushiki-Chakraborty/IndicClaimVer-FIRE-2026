@@ -1,0 +1,99 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1226",
+    "text": "Covishield and Covaxin will now cost private hospitals Rs 375 per dose.",
+    "lang": "english"
+  },
+  "entity_ranked_evidence": [
+    {
+      "title": "Centre fixes maximum price for Covid-19 vaccines ...",
+      "url": "https://www.facebook.com/T7News/posts/centre-fixes-maximum-price-for-covid-19-vaccines-at-private-hospitalsthe-governm/4341636365899526",
+      "snippet": "The government has directed private hospitals not to charge more than Rs 780 for a dose of Covishield, Rs 1,410 for Covaxin,",
+      "bm25_score_raw": 3.0649541125727424,
+      "bm25_score_norm": 0.3674804549366847,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.9370548725128174,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 1
+    },
+    {
+      "title": "Covishield, Covaxin precautionary doses price slashed to ...",
+      "url": "https://www.deccanherald.com/india/covishield-covaxin-precautionary-doses-price-slashed-to-225-for-private-hospitals-1099109.html",
+      "snippet": "Covaxin precautionary doses price slashed to ₹225 for private hospitals. Covaxin from Rs 1,200 to Rs 225 per dose for supply in private",
+      "bm25_score_raw": 2.86375498697597,
+      "bm25_score_norm": 0.3085230837846497,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.9334771633148193,
+      "embedding_score_norm": 0.8601116328932495,
+      "embedding_rank": 2,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 2
+    },
+    {
+      "title": "Covaxin priced at Rs.600 a dose for States, Rs.150 ... - Frontline",
+      "url": "https://frontline.thehindu.com/dispatches/covaxin-priced-at-rs-600-a-dose-for-states-rs-150-for-the-centre-and-rs1200-for-private-hospitals/article34408383.ece",
+      "snippet": "Covishield, which is priced at Rs.400 a dose for State governments and Rs.600 a dose for private hospitals. dicated a price band between $15",
+      "bm25_score_raw": 1.8108828274657047,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.9304428100585938,
+      "embedding_score_norm": 0.7414684736124544,
+      "embedding_rank": 3,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 3
+    },
+    {
+      "title": "Covaxin vs Covishield vs Sputnik V vs Pfizer",
+      "url": "https://www.policybazaar.com/health-insurance/coronavirus-health-insurance/articles/comparison-covaxin-covishield-sputnikv-pfizer-all-about-covid-19-vaccines-approved-in-india",
+      "snippet": "For govt: Rs 300/dose to states. Private hospitals- Rs 600/dose to. For citizens: Free at government Centres. Rs 250 in private hospitals. Gamaleya - Russia",
+      "bm25_score_raw": 4.738927519646149,
+      "bm25_score_norm": 0.8580048106799412,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.926654577255249,
+      "embedding_score_norm": 0.5933486372164023,
+      "embedding_rank": 4,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 4
+    },
+    {
+      "title": "Covaxin To Cost Rs.1200 For Private Hospitals, Rs. 600 ...",
+      "url": "https://www.youtube.com/watch?v=8xScCd7i26g",
+      "snippet": "Bharat Biotech's Covaxin will cost Rs. 600 for state governments and Rs. 1,200 for private hospitals, the company said in a statement today.",
+      "bm25_score_raw": 5.223503194780502,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9252713918685913,
+      "embedding_score_norm": 0.5392661127748581,
+      "embedding_rank": 5,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 5
+    },
+    {
+      "title": "What do we know about India's Covaxin vaccine?",
+      "url": "https://search.proquest.com/openview/4bd138f2f6137f7193d5def6a0477ab0/1?pq-origsite=gscholar&cbl=2043523",
+      "snippet": "by K Thiagarajan · 2021 · Cited by 96 — Each dose of Covaxin costs 295 rupees ・ s able to charge up to 250 rupees.13 ・ private hospitals can charge up to Rs 250 per dose.",
+      "bm25_score_raw": 3.013694051450661,
+      "bm25_score_norm": 0.352459721422627,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.9114794135093689,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 6
+    }
+  ]
+}

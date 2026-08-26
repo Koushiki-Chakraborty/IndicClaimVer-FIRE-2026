@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/BN/1257",
+    "text": "করোনায় সংক্রমণের সংখ্যা নিয়ে তথ্য গোপনের অভিযোগ দিলীপের, পালটা জবাব ফিরহাদের",
+    "lang": "bengali"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Coronavirus Archives — ProPublica",
+      "url": "https://www.propublica.org/series/coronavirus",
+      "snippet": "Investigative Journalism in the Public Interest. ProPublica is a nonprofit, investigative newsroom that exposes corruption. We report in all 50 states and partner with local newsrooms. How Recent Arrivals at the Border Have Changed the Country and Its Attitudes#### Friends of the Court. The U.S. Response to COVID-19. Postal delays and mistakes have marred primary voting, and after years of budget cuts and plant closures, mail delivery has slowed so much that ballot deadlines in many states are no longer realistic. The federal government is spending billions of dollars to combat the coronavirus, and spending shows no sign of slowing down. Explore who the U.S. is buying from, what it’s buying and how much it’s paying. It Didn’t Have To. In Chicago, 70 of the city’s 100 first recorded victims of COVID-19 were black. ### FEMA Ordered $10.2 Million in COVID-19 Testing Kits It’s Now Warning States Not to Use. by Ryan Gabrielson and J.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.8233582973480225,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Ousted HHS official files whistleblower complaint on ...",
+      "url": "https://www.nbcnews.com/politics/white-house/ousted-hhs-official-files-whistleblower-complaint-coronavirus-response-n1200681",
+      "snippet": "Ousted HHS official files whistleblower complaint on coronavirus response · \"We are deeply disappointed that he has not shown up to work on",
+      "bm25_score_raw": 2.8149813700799875,
+      "bm25_score_norm": 0.7169618753575402,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8224650621414185,
+      "embedding_score_norm": 0.9817698322717519,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Mis-infodemic: The Achillesâ€™ heel in combating ...",
+      "url": "https://www.monaldi-archives.org/macd/article/view/1405",
+      "snippet": "by SS Sahoo · 2020 · Cited by 21 — In this ongoing SARS-CoV2 Corona virus pandemic, we are witnessing an uninhibited spread of mis-information on various social media",
+      "bm25_score_raw": 3.2288837854284678,
+      "bm25_score_norm": 0.8223807797515078,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8174760341644287,
+      "embedding_score_norm": 0.8799480319788235,
+      "embedding_rank": 3
+    },
+    {
+      "title": "করোনায় মৃত্যু কমেছে রোগীও কমেছে: স্বাস্থ্যমন্ত্রী",
+      "url": "https://www.ekushey-tv.com/print.php?nssl=108480",
+      "snippet": "Title: করোনায় মৃত্যু কমেছে রোগীও কমেছে: স্বাস্থ্যমন্ত্রী\nঢাকা, বুধবার   ০৬ মে ২০২৬,   বৈশাখ ২২ ১৪৩৩. একুশে টেলিভিশন | পরিবর্তনে অঙ্গিকারবদ্ধ. 2. করোনা সংকট. # করোনায় মৃত্যু কমেছে রোগীও কমেছে: স্বাস্থ্যমন্ত্রী. একুশে টেলিভিশন. প্রকাশিত : ০৪:৩১ পিএম, ৯ আগস্ট ২০২০ রবিবার. **দেশে করোনাভাইরাসে মৃত্যুহার এবং কোভিড-১৯ পজেটিভ রোগীর সংখ্যা কমে আসছে বলে জানিয়েছেন স্বাস্থ্য ও পরিবারকল্যাণমন্ত্রী জাহিদ মালেক। আজ রোববার সচিবালয়ে বিশ্ব মাতৃদুগ্ধ সপ্তাহ উপলক্ষ্যে আয়োজিত এক সংবাদ সম্মেলনে তিনি এ কথা জানান।**. স্বাস্থ্যমন্ত্রী বলেন, দেশে করোনাভাইরাসে মৃত্যুহার ও রোগী দুটোই কমেছে। অধিকাংশ রোগীই বাসায় বসে চিকিৎসা পাচ্ছেন। মূলত বন্যার কারণে ও বাসায় বসে চিকিৎসা নিয়ে সুস্থ হওয়াতে হাসপাতালে রোগী কম আসছে। শুধু মুমূর্ষু রোগীরাই হাসপাতালে আসছেন। এ সময় করোনাভাইরাস টেস্ট কিটের অভাব নেই বলেও জানান মন্ত্রী।. এদিকে গত একদিনের ব্যবধানে দেশে মরণঘাতী করোনাভাইরাসে আরো ৩৪ জনের মৃত্যু হয়েছে। এ নিয়ে মৃত্যুর সংখ্যা বেড়ে দাঁড়ালো ৩ হাজার ৩৯৯ জন। এ ছাড়া একদিনে আরো ২ হাজার ৪৮৭ জনকে আক্রান্ত হিসেবে শনাক্ত করা হয়েছে। এ নিয়ে দেশে আক্রান্তের সংখ্যা বেড়ে দাঁড়ালো ২ লাখ ৫৭ হাজার ৬০০ জন।. উক্ত সময়ের মধ্যে মোট ৮৫টি ল্যাবে নমুনা সংগ্রহ করা হয়েছে ১১ হাজার ১৪টি। পূর্বের নমুনাসহ মোট পরীক্ষা হয়েছে ১০ হাজার ৭৫৯টি। এর মধ্যে ২ হাজার ৪৮৭ জনকে আক্রান্ত হিসেবে শনাক্ত করা হয়েছে। এ পর্যন্ত মোট পরীক্ষা হয়েছে ১২ লাখ ৬০ হাজার ৩১৯টি নমুনা।.",
+      "bm25_score_raw": 3.342340282511378,
+      "bm25_score_norm": 0.8512775901477163,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8172307014465332,
+      "embedding_score_norm": 0.874941000725022,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Asia: Bachelet alarmed by clampdown on freedom of expression during COVID-19",
+      "url": "https://www.ohchr.org/en/press-releases/2020/06/asia-bachelet-alarmed-clampdown-freedom-expression-during-covid-19",
+      "snippet": "*   Topics;)Human rights Topics The UN Human Rights Office and the mechanisms we support work on a wide range of human rights topics. GENEVA (3 June 2020) - UN High Commissioner for Human Rights Michelle Bachelet expressed alarm at the clampdown on freedom of expression in parts of the Asia-Pacific during the COVID-19 crisis, saying any actions taken to stop the spread of false information must be proportionate. Many countries in the region already have laws governing alleged “fake news” and online media that raise human rights concerns and have been used in other contexts to deter legitimate speech, especially public debate, criticism of government policy and suppress freedom of expression. In China, the UN Human Rights Office received information on more than a dozen cases of medical professionals, academics and ordinary citizens who appear to have been detained, and in some instances charged, for publishing their views or other information on the situation related to COVID-19, or who have been critical of the Government’s response to the outbreak.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.8172215819358826,
+      "embedding_score_norm": 0.8747548793008647,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Yeah. Those were me. - Spider Man: Into the Spider Verse | Clip.Cafe",
+      "url": "https://clip.cafe/spider-man-into-the-spider-verse-2018/spider-man-into-the-spider-verse-2018/seriously-dad-walking-wouldve-been-fine",
+      "snippet": "Title: Yeah. Those were me. - Spider Man: Into the Spider Verse | Clip.Cafe\nTo watch in HD, get ClipCafe PRO. Please log in to add to collections. # Yeah. Spider Man: Into the Spider Verse • 2018. ### Share this clip. Join the conversation Log in or create an account to leave a comment. Seriously, Dad, walking would have been fine.Jefferson Davis:You can walk plenty on Saturday when you peel those stickers off.Miles Morales:You saw that? I don't know if that was me, Dad.Jefferson Davis:And the two from yesterday on Clinton.Miles Morales: Yeah. Seriously dad Walking would've been fine. You can walk plenty on Saturday when you peel those stickers off. You saw that I don't know if that was me. And the two from yesterday on Clinton. আম র মন হচ ছ এই নত ন স ক লট অভ জ ত. অভ জ ত আর আম থ কত চ ই. স ধ রণ ম ন ষ র স ধ রণ স ক ল. স ধ রণ ম ন ষ এর ই ত র স ধ রণ ম ন ষ. আম এখ ন এস ছ ক রণ ওই ফ লত লট র ট জ ত ছ বল. ত ই ন ক ত ই আর সব র মত ই ভর ত পর ক ষ য় প স কর ছ স. Sérieux papa J'aurais très bien pu marcher. quand tu m'enlèveras ces stickers. T'as vu ça Je suis pas certain que ce soit les miens. Et les deux d'hier sur Clinton. Ouais ça c'était les miens. En serio papá Caminar hubiera estado bien. Viste eso No sé si sería yo papá. Y las dos de ayer sobre Clinton. Sí esas si fuí yo. action, adventure, animation, science fiction. Columbia Pictures,Lord Miller,Pascal Pictures,Sony Pictures Animation,Arad Productions,Marvel Entertainment. ### Want This Clip in HD? Upgrade for HD/4K downloads and unlimited access. Miles Morales is juggling his life between being a high school student and being a spider-man. With great ability comes great accountabilityThat's not... Oh my gosh Don't cops run red lightsOh yeah some do But... I love you milesYeah I know dad See you FridayYou gotta say... Every choice that we makeWould create countless other... I come on I I hah, sicker than your average poppa twist...",
+      "bm25_score_raw": 3.8128651324255394,
+      "bm25_score_norm": 0.9711179494418869,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.7965665459632874,
+      "embedding_score_norm": 0.45320323486334063,
+      "embedding_rank": 6
+    },
+    {
+      "title": "বাংলাদেশ এর কয়েক টা ভাইরাল পন ভিডিও | TikTok",
+      "url": "https://www.tiktok.com/discover/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6-%E0%A6%8F%E0%A6%B0-%E0%A6%95%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%95-%E0%A6%9F%E0%A6%BE-%E0%A6%AD%E0%A6%BE%E0%A6%87%E0%A6%B0%E0%A6%BE%E0%A6%B2-%E0%A6%AA%E0%A6%A8-%E0%A6%AD%E0%A6%BF%E0%A6%A1%E0%A6%BF%E0%A6%93",
+      "snippet": "# বাংলাদেশ এর কয়েক টা ভাইরাল পন ভিডিও. বাংলাদেশের ভাইরাল পন ভিডিওগুলি সারা বিশ্বে নজর কেড়ে নিয়েছে। প্রতিদিন হাজার হাজার ব্যবহারকারী সোশ্যাল মিডিয়াতে আকর্ষণীয় এবং বিনোদনমূলক ভিডিওগুলি দেখেন, যা তাদের বন্ধুদের সাথে শেয়ার করেন। এই ভিডিওগুলি মূলত টিকটক এবং অন্যান্য প্ল্যাটফর্মে তৈরি করা হয়, যেখানে বিচার্য শিরোনাম এবং সঙ্গীতের সাথে বিভিন্ন ডান্স ট্রেন্ডগুলি খুব একটা পপুলার হতে থাকে। এই ডিসকভারি পেজে আমরা সংগ্রহ করেছি কিছু সেরা এবং সবচেয়ে ভাইরাল পন ভিডিও, যা আপনাকে আনন্দ দেবে এবং পাশাপাশি ব্যতিক্রমী বাংলাদেশের সংস্কৃতির এক টুকরোও উপস্থাপন করবে। এগুলোতে বাংলাদেশের হাসির নাটক, তরুণদের নিয়ে নির্মিত মজার ভিডিও, এবং বিভিন্ন সামাজিক আন্দোলনে প্রভাবফেলে এমন যথাসম্ভাবনাময় অবস্থানও অন্তর্ভুক্ত রয়েছে। তাই, আসুন শুরু করি বাংলাদেশের ভিডিও জগতে, যেখানে প্রতিটি ক্লিপে রয়েছে কিছু শিখনীয়, হাস্যকর এবং আবেগময় মুহূর্ত। বাংলাদেশের ভাইরাল পন ভিডিও, কিভাবে ভাইরাল পন ভিডিও তৈরি হয়, বাংলাদেশের ভাইরাল টিকটক ভিডিও. If you think it may contain an error, please report at: Feedback and help - TikTok. বাংলাদেশ টিকটক অফিশিয়াল ভাইরাল ভিডিও 🇧🇩❤️❤️@সাথী খান ১৪৩. বাংলাদেশ টপ ওয়ানের ফেইস রিভিল ডান 😮🤔#viralvideo #tiktoknews #vaiprofycaramba #tiktokindia #foryoupage বাংলাদেশ টপ ওয়ানের ফেইস রিভিল: এমন সাহসী মেয়েরা!. বাংলাদেশের টপ ওয়ান ফেইস রিভিল উপভোগ করুন। অভিনব সাহসী মেয়েদের জন্য দারুন ভিডিও দেখুন। #viralvideo #tiktoknews #vaiprofycaramba #tiktokindia. বাংলাদেশ টপ ওয়ান ফেইস রিভিল, সাহসী মেয়েদের ভিডিও, টিকটকের সেরা মুহূর্ত, মেয়ে ফেইস রিভিল, টপ ট্রেন্ডিং ভিডিও বাংলাদেশ, টিকটক নিউজ বাংলাদেশ, ফেইস রিভিল ভিডিও মেয়েদের, সাহসী ডিজিটাল কনটেন্ট, বাংলা টিকটক ট্রেন্ড, দর্শকদের জন্য মজার ভিডিও. বাংলাদেশি কাপেল বিশ্বে ৮ নং স্তান অধিকারি😱🇧🇩 #foryou #foryoupage #viral #viralvideo #bdtiktokofficial @TikTok @TikTok Bangladesh বাংলাদেশি কাপেল বিশ্বের ৮ নম্বর স্থান লাভ করেছে. বাংলাদেশি কাপেল, বিশ্ব ৮ নম্বর স্থান, প্রতিভা উদযাপন, টিকটক বাংলাদেশ, জনপ্রিয় কাপেল ভিডিও, বাংলাদেশের সংস্কৃতি, কাপেল প্রতিযোগিতা, বিনোদন ভিডিও, টিকটক ট্রেন্ড, গানের কাপেল. টিকটক ভিডিও টিকটক বিডি বাংলাদেশ ফর ইউ ভাইরাল ভিডিও. #bdtiktokbangladesh #bdtiktokofficial #viral #mostviralvideo #mostviralvideo #best #viralvideo #foryoupage #most #trendingvideo #CapCut Discover the Best of Bangladeshi TikTok Videos. #bdtiktokbangladesh #bdtiktokofficial #CapCut. Bangladeshi TikTok videos, viral TikTok trends, best TikTok content, most viral videos from Bangladesh, trending TikTok challenges. সৌরভ বাংলাদেশ ছায়াছবির ভিডিও গান #CapCut #viralvideo1million #bangladesh🇧🇩 #foryoupage #viralvideo #foryou # বাংলাদেশের ছায়াছবির ভিডিও গানের অনন্য সৌন্দর্য. ~” ইনশাল্লাহ একদিন বাংলাদেশ বিশ্বকাপ অংশগ্রহণ করবে..!!🇧🇩🫶🌹 #bangladesh🇧🇩 #ফুটবল\\_\\_\\_\\_\\_\\_\\_প্রেমিরা\\_সারা\\_দাও🥰⚽ #Viral #fyp #ভাইরাল\\_ভিডিও @For You @💫\\_𝐈𝐓𝐙°𝐀𝐑𝐌𝐀𝐍\\_🔥 @TikTok @TikTok Bangladesh. #বাংলাদেশ #বাংলাদেশি\\_ভাইরাল\\_টিকটক\\_ #fyp #foryourepage জয় বাংলা: বাংলাদেশের প্রতিটি প্রান্তে. বাংলাদেশের সংস্কৃতি, জয় বাংলা স্লোগান, বাংলাদেশের ইতিহাস, বাংলাদেশি ভাইরাল ভিডিও, টিকটক বাংলাদেশ, বাংলা গান, বাংলাদেশি কনটেন্ট সৃষ্টি, ঐতিহ্য ও সংস্কৃতি, দেশপ্রেম, স্থানীয় সংস্কৃতি. ### Related to বাংলাদেশ এর কয়েক টা ভাইরাল পন ভিডিও.",
+      "bm25_score_raw": 2.5953697309784602,
+      "bm25_score_norm": 0.6610278736997957,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.7954952120780945,
+      "embedding_score_norm": 0.4313382252044903,
+      "embedding_rank": 7
+    },
+    {
+      "title": "Read the full whistleblower complaint claiming ...",
+      "url": "https://www.pbs.org/newshour/politics/read-full-ousted-hhs-vaccine-expert-files-whistleblower-complaint",
+      "snippet": "A former vaccine expert with the US Department of Health and Human Services (HHS) alleges in a whistleblower complaint that he was ousted.",
+      "bm25_score_raw": 2.821194060137587,
+      "bm25_score_norm": 0.7185442168828006,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.7930400967597961,
+      "embedding_score_norm": 0.3812314182695817,
+      "embedding_rank": 8
+    },
+    {
+      "title": "P2A BCS Preliminary Question Analysis 01609-98 69 28 FB Group: BCS P2A - PDFCOFFEE.COM",
+      "url": "https://pdfcoffee.com/p2a-bcs-preliminary-question-analysis-01609-98-69-28-fb-group-bcs-p2a-pdf-free.html",
+      "snippet": "01609-98 69 28 YouTube Channel: P2A Fb Group: BCS P2A P2A BCS Preliminary Question Analysis িবিসএস বাংল ভাষ িমক নং ট. P2A BCS Preliminary Question Analysis িবিসএস বাংল ভাষ িমক নং. িবিসএস বাংল সািহত থম ভাগঃ াচীন এবং মধ যু গ িমক নং ০১. নাথ ও ম স​য় সািহত. িবিসএস বাংল সািহত ি তীয় ভাগঃ ভাষ আে ালন,মু ি যু িমক নং. গাইডলাইন কাস/ ায়াল কাস শেষ ফাইনাল এ ােম িবজয় ✅ ২ কা ট চ া য়নিশপ ও পর ার. গাইডলাইন কাস/ ায়াল কাস এর ব াপাের আ হ হেল মেসজ িদন ফান ক ন:. ও কাযাবিল; মু ি যু ে র রণেকৗশল; ০২ ০৩ ০৪. মু ি যু ে বৃ হৎ শি বেগর ভূ িমক ; পাক বাংলােদেশর কৃিষজএবং স বাংলােদেশর দ: বািহনীর আ সমপণ. শস উৎপাদন এবং এর ব মু খীকরণ, খাদ অভু দয় উৎপাদন ও ব ব াপন । বাংলােদেশর জনসংখ , আদম মাির,. জািত, গা ও উপজািত সং া িবষয়ািদ। বাংলােদেশর অথনীিত: উ য়ন পিরক ন. গােম স িশ ও এর সা ব​ক. পন ব​ন াস ও সং ার। বাংলােদেশর জাতীয় অজন, িবিশ ব ি. পণ িত ান ও াপনাসমূ হ, জাতীয়. পিরেবশ িবষয়ক সংগঠন ও অন ান পিরেবশ ও জলবায়ু সে লন COP স. বি ক ইিতহাস, আ িলক ও আ জািতক ব ব , ভূ -রাজনীিত াচীন সভ ত , িবে র ধান ধান ধম এবং. আ জািতক সংগঠনসমূ হ এবং বি ক অথৈনিতক িত ানসমূ হ জািতপ জািতসংঘ এবং জািতসংেঘর সংগঠন স. ভূ েগাল (বাংলােদশ ও িব ), পিরেবশ ও দেযাগ ব ব াপন িমক নং. বাংলােদশ ও অ লিভি ক ভৗেগািলক অব ান, সীমান , পািরেবিশক, আথসামািজক ও ভূ -রাজৈনিতক. বাংলােদেশর পিরেবশ ও কৃিত ও স. বাংলােদশ ও বি ক পিরেবশ পিরবতনঃ ০৪. আবহাওয় ও জলবায়ু িনয়ামকসমূ েহর স র িভি ক ানীয় , আ িলক ও বি ক ভাব।. ধরন, কৃিত ও ব ব াপন অন ান. আেলার কৃিত, ি র ও চল তিড়ৎ, আেলাক য পািত. এইচআইিভ, এইডস, িব, পািলও, ম ও িশ র া. নিতকত ,মূ ল েবাধ ও সশাসন িমক নং. েণা র অন ম ও ধার. েণা র অন ম ও ধার. WWW, ই ারেনট তথ যু ি র বড় িত ান ও তােদর সব :.",
+      "bm25_score_raw": 2.065240494454992,
+      "bm25_score_norm": 0.5260065710227811,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.790454089641571,
+      "embedding_score_norm": 0.3284532214820618,
+      "embedding_rank": 9
+    },
+    {
+      "title": "Concealment of Potential Exposure to COVID-19 and Its ...",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7356408",
+      "snippet": "by AKJ Teo · 2020 · Cited by 16 — Concealment of one's potential exposure to the virus has negative implications for the spread of COVID-19 across the socio-ecological spectrum.",
+      "bm25_score_raw": 3.9262636784922353,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.7871286869049072,
+      "embedding_score_norm": 0.26058459157903957,
+      "embedding_rank": 10
+    },
+    {
+      "title": "লট (Lot)",
+      "url": "https://justmarkets.com/bn/glossary/l/%E0%A6%B2%E0%A6%9F-lot",
+      "snippet": "Title: লট (Lot)\nJustMarkets trading app iOS and Android. Scan to Download the App. ডাউনলোডের আরো অপশনগুলো. * শব্দভাণ্ডার. # লট (Lot). একটি নির্দিষ্ট পরিমাণের ইউনিট বা নির্দিষ্ট উপকরণের বাণিজ্য সম্পাদনের জন্য ব্যবহৃত সম্পদের যোগফল (মুদ্রা জোড়ার জন্য, একটি স্ট্যান্ডার্ড ফরেক্স লট বেস মুদ্রার 100,000 ইউনিট)।. * standard (স্ট্যান্ডার্ড) লটের আকার – 1 লট – বেস মুদ্রার 100,000 ইউনিটের সমান;. * mini (মিনি) লটের আকার – 0,1 লট – বেস মুদ্রার 10,000 ইউনিটের সমান;. * micro (মাইক্রো) লটের আকার – 0,01 লট – বেস মুদ্রার 1,000 ইউনিটের সমান।. নিবন্ধন   ফ্রি ডেমো চেষ্টা করে দেখুন. ## Related Articles. 3 পড়া মিনিট. The Technological Future of Trading: How AI Is Rewriting the Rules. Technological evolution has long affected financial markets, but right now we are witnessing a qualitative leap: algorithms and artificial intelligence are no longer tools for analytics and are becomi... 5 পড়া মিনিট. How To Conduct Backtesting on the Forex Market. Backtesting is the foundation upon which conscious and stable trading is built. Almost everyone understands this in theory, but in practice, only a few get around to doing full-fledged testing. পেন্ডিং অর্ডার কৌশল. 2 পড়া মিনিট. পেন্ডিং অর্ডার কৌশল. পেন্ডিং অর্ডার কৌশল Forex ট্রেডারদের মধ্যে অধিক জনপ্রিয়তা লাভ করেছে। এই পরিবেশটি এ জাতীয় কাজের কৌশলগুলির উচ্চ দক্ষতার কারণে তৈরি হয়েছিল।. আরো নিবন্ধগুলি পড়ুন. আপনার ট্রেডিং পরের ধাপে নিয়ে যান. বিশ্বব্যাপী স্বীকৃত ব্রোকারের সাথে আপনার ট্রেডিং যাত্রা শুরু করুন যা উচ্চতর স্প্রেড, এক্সিকিউশন এবং পরিষেবা প্রদান করে।. নিবন্ধন   ফ্রি ডেমো চেষ্টা করে দেখুন. ## معلومات هامة. আইপি ঠিকানার উপর ভিত্তি করে, আপনার অবস্থান হল Ireland, আমরা এই দেশের বাসিন্দাদের সেবা প্রদান করি না।. আপনি যদি Ireland-এর বাসিন্দা না হন, অনুগ্রহ করে এগিয়ে যান, অন্যথায় আপনি JustMarkets Ltd দ্বারা পরিচালিত, CySEC লাইসেন্স নং 401/21 এর অধীনে justmarkets.eu-তে নিবন্ধন করতে পারেন. এখানে যান- justmarkets.eu.",
+      "bm25_score_raw": 2.7826162252438276,
+      "bm25_score_norm": 0.7087186325479822,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.7835284471511841,
+      "embedding_score_norm": 0.1871067728734715,
+      "embedding_rank": 11
+    },
+    {
+      "title": "[PDF] রবীন্দ্রনাথের গাথন অরণ্য ও তথ াবথনর কল্পনায় ববশ - ijhsss",
+      "url": "https://www.ijhsss.com/files/1.-Samhita-Bhattacharjee.pdf",
+      "snippet": "এর উত্তথর বলা র্ায় চর্, চববদক ভারথতর তথ াবথন আর্য ঋবষরা তাাঁথদর সাধনা ও জ্ঞান দ্বারা প্রকৃবতথক একবদন চর্ভাথব চদথখবিথলন ও উ লবি কথরবিথলন, চসই উ লবি বা চবাধ তাাঁথদর কখথনা প্রকৃবত চেথক বববচ্ছন্ন িথত চশখায় বন বরং প্রকৃবতর এক অববথচ্ছদয অংশ রূথ প্রকৃবতর সাথে সবিবলত িথয় োকথতই উদ্বুদ্ধ কথরথি। আজথকর আধুবনক ববথশ্বর বরথবশববদরাও বরথবশ ও ববশ্বপ্রকৃবতথক রক্ষা করার স্বাথেয প্রাথেযর এই চবাধ ও ভাবনাবিথক র্থেি গুরুত্ব বদথচ্ছন। এ প্রসথে ‘তথ াবন’ প্রবথন্ধ রবীন্দ্রনাথের একবি উবি ববথশষ উথেখথর্াগয, চর্খাথন বতবন বলথিন- “আোথদর চদথশর কববথত্ব চর্ প্রকৃবত চপ্রথের বরেয় াওয়া র্ায় অনয চদথশর কাথবযর সথে তার চর্ন একিা বববশিতা আথি। আোথদর এ প্রকৃবতর প্রবত প্রভুত্ব করা নয়, রবীন্দ্রনাথের গাথন অরণ্য ও তথ াবথনর কল্পনায় ববশ্বপ্রকৃবত ও আধুবনক বরথবশ চেতনার চেলবন্ধন Samhita Bhattacharjee Volume-V, Issue-II January 2019 3 প্রকৃবতথক চভাগ করা নয়, এ প্রকৃবতর সথে সবিলন”। অেযাৎ রবীন্দ্রনাথের েথত এই সবিলন প্রকৃত অথেয প্রকৃবতর সথে োনব-বেথত্তর সবিলন, ‘বনবখথলর সথে চর্াগ’ , ‘ভুোর সথে বেলন’- র্া ভারথতর আরণ্যক ঋবষরা চ থয়বিথলন সাধনাকৃত উ লবির দ্বারা। এ কো রবীন্দ্রনাে বববভন্ন সেয় বববভন্ন প্রবথন্ধ উথেখ কথরথিন। তাাঁর েথত আবিকা বা আথেবরকার অরণ্য চস কারথণ্ই ভারথতর অরথণ্যর েথতা ‘তথ াবন’ িথয় উঠথত াথরবন। চসখাথন অরণ্যবাসী োনুথষর ববযরতার প্রবৃবত্তবিই প্রবল িথয় উথঠথি ; োনুষ চসখাথন নয় অরণ্য-প্রকৃবতথক ভয় চ থয়থি নয় তার উ র আবধ তয ববস্তার করথত চেথয়থি। এর কারণ্ খাবনকিা িথলও িয়থতা চসসব চদথশর চভৌগবলক অবস্থান ও চসখানকার প্রবতকূল প্রকৃবত। আোথদর অরণ্য-আবৃত ভারত ভূখথে বিংস্র প্রাণ্ীর অভাব বিল না বঠকই বকন্তু প্রকৃবতর ববরূ তা ওইসব",
+      "bm25_score_raw": 2.2498473213525116,
+      "bm25_score_norm": 0.5730250196075721,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.7743606567382812,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

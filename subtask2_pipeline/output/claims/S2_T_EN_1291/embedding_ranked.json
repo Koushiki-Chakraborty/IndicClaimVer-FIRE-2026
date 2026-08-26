@@ -1,0 +1,76 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1291",
+    "text": "[S.52A NDPS Act] Bombay High Court Grants Bail To Accused As Samples Collected In Front Of Magistrate Not Sent For Chemical Analysis",
+    "lang": "english"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "[S.52A NDPS Act] Bombay High Court Grants Bail To ...",
+      "url": "https://www.livelaw.in/high-court/bombay-high-court/bombay-high-court-bail-52a-ndps-act-contraband-sample-before-magistrate-no-chemical-analysis-spot-evidence-233790",
+      "snippet": "The Bombay High Court granted bail to a 35-year-old man arrested after commercial quantity of Ganja was allegedly seized from his farmhouse.",
+      "bm25_score_raw": 8.599253586427846,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8997765183448792,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "NDPS Act Section 52A sampling and certification",
+      "url": "https://www.facebook.com/groups/666790835491075/posts/721466266690198",
+      "snippet": "Granting bail to the accused, the court held that violation of Section 52A of NDPS Act vitiates the sample collection procedure, benefit of",
+      "bm25_score_raw": 2.348001394028397,
+      "bm25_score_norm": 0.27304711629091094,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8940356969833374,
+      "embedding_score_norm": 0.850545818494984,
+      "embedding_rank": 2
+    },
+    {
+      "title": "[NDPS Act] Duration Of 51 Days Is Not Reasonable For ...",
+      "url": "https://www.verdictum.in/court-updates/high-courts/delhi-hc-grants-bail-to-accused-as-sample-collection-procedure-stood-vitiated-1477611",
+      "snippet": "Therefore, while stating that there is a violation of section 52A in the present case and the sample collection procedure stands vitiated due to",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8731975555419922,
+      "embedding_score_norm": 0.3080542171946403,
+      "embedding_rank": 3
+    },
+    {
+      "title": "NDPS",
+      "url": "https://updates.manupatra.com/roundup/tagsearch.aspx?tag=NDPS",
+      "snippet": "52 of NDPS Act. Bombay High Court has held that all offences under the Narcotic Drugs and Psychotropic Substances (NDPS) Act, 1985, are non-bailable.",
+      "bm25_score_raw": 3.792388864507921,
+      "bm25_score_norm": 0.44101372594633415,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8698592782020569,
+      "embedding_score_norm": 0.2211468783216566,
+      "embedding_rank": 4
+    },
+    {
+      "title": "MUKESH RAJARAM CHAUDHARI Vs THE STATE OF ...",
+      "url": "https://www.casemine.com/judgement/in/651c6e73579e261d14c72147",
+      "snippet": "There was no compliance with Section 52A of the NDPS Act, which mandates drawing representative samples in the presence of a Magistrate and",
+      "bm25_score_raw": 3.0357935618660092,
+      "bm25_score_norm": 0.35302989164750126,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8623438477516174,
+      "embedding_score_norm": 0.025493253885125963,
+      "embedding_rank": 5
+    },
+    {
+      "title": "2025:BHC-AS:44810",
+      "url": "https://bombayhighcourt.nic.in/generatenewauth.php?bhcpar=cGF0aD0uL3dyaXRlcmVhZGRhdGEvZGF0YS9qdWRnZW1lbnRzLzIwMjUvJmZuYW1lPTIzMzEwMDAwMjg2MjAyNV8xMy5wZGYmc21mbGFnPU4mcmp1ZGRhdGU9JnVwbG9hZGR0PTE1LzEwLzIwMjUmc3Bhc3NwaHJhc2U9MjYxMDI1MTUxNzEzJm5jaXRhdGlvbj0yMDI1OkJIQy1BUzo0NDgxMCZzbWNpdGF0aW9uPSZkaWdjZXJ0ZmxnPVkmaW50ZXJmYWNlPU8%3D",
+      "snippet": "lapse in compliance with Section 52(A) of the NDPS Act does not by itself vitiate the trial or entitle the accused to bail. The Court must",
+      "bm25_score_raw": 3.7320366097669906,
+      "bm25_score_norm": 0.4339954127713181,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8613646030426025,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6
+    }
+  ]
+}

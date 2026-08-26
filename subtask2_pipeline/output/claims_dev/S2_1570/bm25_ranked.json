@@ -1,0 +1,105 @@
+{
+  "claim": {
+    "id": "S2/1570",
+    "text": "করোনা আতঙ্ক: বিদেশ থেকে ফিরে সেল্‌ফ আইসোলেশনে অনুপম খের-শাবানা আজমি",
+    "lang": "dev"
+  },
+  "ranked_evidence": [
+    {
+      "title": "PM Narendra Modi calls for Janta Curfew: Shabana Azmi ...",
+      "url": "https://www.ibtimes.co.in/pm-narendra-modi-calls-janta-curfew-shabana-azmi-calls-pms-decision-applaud-medical-staff-815512",
+      "snippet": "Anupam Kher, Anupam Kher (@AnupamPKher) Shabana Azmi chose to remain in self-isolation post her return from Budapest, Zoya Akhtar and team",
+      "bm25_score_raw": 1.1508349098470267,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Coronavirus outbreak: Anupam Kher, Shabana Azmi opt ...",
+      "url": "https://www.firstpost.com/health/coronavirus-outbreak-anupam-kher-shabana-azmi-opt-for-precautionary-self-isolation-on-return-from-overseas-8174211.html",
+      "snippet": "Veteran actor Anupam Kher, who returned from the US on Friday, said as a precautionary measure he will be self-isolating himself, amid",
+      "bm25_score_raw": 1.0289118361891338,
+      "bm25_score_norm": 0.8940568515825617,
+      "bm25_rank": 2
+    },
+    {
+      "title": "TIMES NOW's post - Facebook",
+      "url": "https://www.facebook.com/Timesnow/posts/adding-to-the-list-of-celebrities-that-have-recently-contracted-covid-19-bollywo/10166596592605311",
+      "snippet": "From Anupam Kher's family. Shabana Azmi is the latest celebrity to test positive for Covid-19. she is currently in to take proper precuations",
+      "bm25_score_raw": 0.8537464070127672,
+      "bm25_score_norm": 0.7418495908559555,
+      "bm25_rank": 3
+    },
+    {
+      "title": "Anupam Kher Join Politics : রাজনীতিতে পাকাপাকি অনুপম খের ...",
+      "url": "https://www.facebook.com/newsrplus/videos/anupam-kher-join-politics-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%AA%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%AA%E0%A6%BE%E0%A6%95%E0%A6%BF-%E0%A6%85%E0%A6%A8%E0%A7%81%E0%A6%AA%E0%A6%AE-%E0%A6%96%E0%A7%87%E0%A6%B0-%E0%A6%9C%E0%A6%B2%E0%A7%8D%E0%A6%AA%E0%A6%A8%E0%A6%BE%E0%A6%B0-%E0%A6%85%E0%A6%AC%E0%A6%B8%E0%A6%BE%E0%A6%A8-anupam-kher/997886585563095",
+      "snippet": "Anupam Kher Join Politics : রাজনীতিতে পাকাপাকি অনুপম খের ? জল্পনার অবসান। | Anupam Kher News RPLUS News #rplus #AnupamKher #anupamkhernews.",
+      "bm25_score_raw": 0.7967368340434445,
+      "bm25_score_norm": 0.6923120138485804,
+      "bm25_rank": 4
+    },
+    {
+      "title": "Anupam Kher to Samik Bhattacharya: 'প্লিজ, এই প্রার্থনা ...",
+      "url": "https://bengali.news18.com/news/kolkata/anupam-kher-on-samik-bhattacharya-s-comment-after-election-what-he-mentioned-about-his-hair-sta-2779505.html",
+      "snippet": "Jun 28, 2026 — Anupam Kher to Samik Bhattacharya: 'প্লিজ, এই প্রার্থনা করবেন না..,' হাতজোড় করে শমীকের কাছে আবদার অনুপম খেরের! ভিডিও পোস্ট করলেন বিজেপি নেতা. Reported by:VENKATESHWAR LAHIRI.",
+      "bm25_score_raw": 0.6464696111353411,
+      "bm25_score_norm": 0.5617396601405429,
+      "bm25_rank": 5
+    },
+    {
+      "title": "Anupam Kher returns from the US, opts for self-isolation",
+      "url": "https://indianexpress.com/article/entertainment/bollywood/covid-19-anupam-kher-returns-from-the-us-opts-for-self-isolation-6324322",
+      "snippet": "Shabana Azmi, who returned from Budapest, took to Twitter on Thursday and said she is under self-isolation. “I have returned from Budapest on",
+      "bm25_score_raw": 0.484156524044848,
+      "bm25_score_norm": 0.4207002411051329,
+      "bm25_rank": 6
+    },
+    {
+      "title": "Veteran actor Shabana Azmi on Tuesday said she has ...",
+      "url": "https://www.facebook.com/Sangeet1061/posts/veteran-actor-shabana-azmi-on-tuesday-said-she-has-tested-positive-for-the-novel/5364024166958760",
+      "snippet": "Veteran actor Shabana Azmi on Tuesday said she has tested positive for the novel coronavirus and is under home isolation. The 71-year-old actor",
+      "bm25_score_raw": 0.45301432950986076,
+      "bm25_score_norm": 0.39363971811567405,
+      "bm25_rank": 7
+    },
+    {
+      "title": "Anupam Kher Meets Samik: 'আমার টাকে চুল গজানোর কথা কেন ...",
+      "url": "https://bangla.aajtak.in/west-bengal/story/anupam-kher-praises-samik-bhattacharya-after-kalighat-visit-prb-1415347-2026-06-28",
+      "snippet": "Jun 28, 2026 — শমীক বলেন, 'তখন ভোটের বাজার ছিল। মানুষের রাজনৈতিক ভাষণ শুনতে শুনতে একঘেয়ে লাগে। তাই মাঝে মাঝে একটু মজার কথা বলতে হয়। অনুপম খের তো দেশের বিখ্যাত মানুষ। আকাশ মাটিতে নেমে আসতে পারে,",
+      "bm25_score_raw": 0.4037203053029083,
+      "bm25_score_norm": 0.35080644656197674,
+      "bm25_rank": 8
+    },
+    {
+      "title": "B-town, India Inc welcome 'Janata Curfew' with open arms; ...",
+      "url": "https://m.economictimes.com/magazines/panache/b-town-welcomes-janata-curfew-with-open-arms-big-b-akshay-kumar-laud-pm-modi-anushka-sharma-urges-fans-to-follow-initiative/articleshow/74724575.cms",
+      "snippet": "Azmi had also shared with her followers that she recently returned from Budapest and will be practicing 'self isolation'.",
+      "bm25_score_raw": 0.33768629314495135,
+      "bm25_score_norm": 0.2934272242313521,
+      "bm25_rank": 9
+    },
+    {
+      "title": "'অনুপম খেরের মাথায় চুল গজাতে পারে, তবে তৃণমূল ফিরবে না', ...",
+      "url": "https://bengali.indianexpress.com/entertainment/anupam-kher-meets-samik-bhattacharya-kolkata-political-conversation-12114369",
+      "snippet": "Jun 28, 2026 — কলকাতা সফরে এসে একের পর এক গুরুত্বপূর্ণ সাক্ষাৎ সেরে ফেললেন বলিউডের বর্ষীয়ান অভিনেতা ও প্রযোজক অনুপম খের। রাজ্যের বিরোধী দলনেতা শুভেন্দু অধিকারীর সঙ্গে বৈঠকের পর এদিন তিনি দেখা করেন বিজেপির রাজ্য সভাপতি",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10
+    },
+    {
+      "title": "নিজেকে 95 শতাংশ কাশ্মীরি, 5 শতাংশ বাঙালি বলে দাবি অনুপম ...",
+      "url": "https://www.etvbharat.com/bn/entertainment/anupam-kher-talks-about-upcoming-bengali-movie-shuru-theke-shuru-with-tota-roy-chowdhury-paoli-dam-wbs26062602885",
+      "snippet": "Jun 26, 2026 — কলকাতা, 26 জুন: ঋতুপর্ণ ঘোষের পরিচালনায় 'বাড়িওয়ালি'র পর আর কোনও বাংলা ছবির প্রযোজনা করেননি অনুপম খের। আজ ঠিক 26 বছর পর বাংলা সিনেমা প্রযোজনা করতে চলেছেন অনুপম খের। ফিরদৌসুল হাসানের সঙ্গে যৌথ",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11
+    },
+    {
+      "title": "কেন এত দিন বাংলা ছবি প্রযোজনা করেননি অনুপম খের?",
+      "url": "https://www.youtube.com/watch?v=JRDT14d6Yio",
+      "snippet": "অনুপম খের। দেশের অন্যতম কুশলী অভিনেতা নিজের রাজনৈতিক দর্শন গোপন করেননি কোনওদিন। কলকাতায় এসে সিনেমা-রাজনীতি আর নিজের নতুন কাজ নিয়ে জমিয়ে তুললেন অনুপম-আড্ডা।",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12
+    }
+  ]
+}

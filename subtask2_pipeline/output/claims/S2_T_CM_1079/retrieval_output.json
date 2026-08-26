@@ -1,0 +1,138 @@
+{
+  "claim": {
+    "id": "S2/T/CM/1079",
+    "text": "punjab mein situation boht kharab ho rahi hai apne ghar pe bjp chodo india ka jhanda nahi lgga skte",
+    "lang": "codemix"
+  },
+  "generated_queries": {
+    "english_translation": "The situation in Punjab is getting very bad, you will not be able to raise BJP's flag in your home.",
+    "native_query": "punjab mein situation boht kharab ho rahi hai",
+    "english_query": "Punjab BJP situation bad raise flag"
+  },
+  "native_retrieval": [
+    {
+      "title": "पंजाब के 12 जिले बाढ़ से बुरी तरह प्रभावित, 3 लाख लोगों को छोड़ना ...",
+      "url": "https://www.aajtak.in/india/punjab/story/flood-five-big-reasons-river-overflowing-record-level-of-rain-bhakra-nangal-dam-ntc-dskc-2324088-2025-09-02",
+      "snippet": "Sep 2, 2025 — पंजाब में बाढ़ की स्थिति गंभीर बनी हुई है. राज्य के 23 में से 12 जिले बुरी तरह प्रभावित हैं, जिससे 1000 से 1500 से अधिक गांव चपेट में हैं. अब तक 29 लोगों की जान जा चुकी है और करीब 15 लाख लोग प्रभावित ...Read more"
+    },
+    {
+      "title": "पंजाब में बाढ़ का कहर! 37 मौतें, लाखों एकड़ फसल बर्बाद, देखें",
+      "url": "https://www.aajtak.in/india/punjab/video/devastating-flood-in-punjab-37-deaths-lakhs-acres-crop-submerged-ytvd-2324868-2025-09-03",
+      "snippet": "Sep 3, 2025 — पंजाब के सभी 23 जिलों में बाढ़ का सितम जारी है. 12 जिलों में 3,75,000 एकड़ फसल और खेती की जमीन पानी में डूब गई है. बाढ़ से मरने वालों की संख्या 37 हो गई है. मरीजों ...Read more"
+    },
+    {
+      "title": "Punjab Flood Update Live: पंजाब में बद से बदत्तर हालात",
+      "url": "https://www.youtube.com/watch?v=lUbm-_gxhnA",
+      "snippet": "Punjab Flood Update Live: पंजाब में भीषण बाढ़ से अब तक 30 मौतें हो चुकी हैं और 2.56 लाख से ज्यादा लोग प्रभावित हैं. 1300 से ज्यादा गांवों और 96000 हेक्टेयर खेतीबाड़ी को नुकसान पहुंचा है."
+    },
+    {
+      "title": "Punjab Floods 2025: Climate Chaos and Government Failure",
+      "url": "https://www.youtube.com/watch?v=TXrCQBA2mR0",
+      "snippet": "Punjab is reeling under its worst floods since 1988—its. Nearly 1,900 villages are submerged, over 1.71 lakh hectares of crops have been"
+    },
+    {
+      "title": "Punjab Floods Update: India's Food Bowl in Crisis, Worst ...",
+      "url": "https://www.youtube.com/watch?v=aywsto0MFBw",
+      "snippet": "Punjab is facing its worst floods in nearly four decades, Heavy rainfall in Himachal Pradesh and Jammu & Kashmir. India's Food Bowl in Crisis,"
+    },
+    {
+      "title": "Narendra Modi's Punjab Problem",
+      "url": "https://www.noemamag.com/narendra-modis-punjab-problem",
+      "snippet": "Dec 12, 2023 — Gandhi wrote a letter the following week to Margaret Thatcher: “We have a troubled situation in Punjab,” she began. “Of all malefactors ...Read more"
+    }
+  ],
+  "english_retrieval": [
+    {
+      "title": "'No one will dare to hold the BJP flag in Punjab'",
+      "url": "https://www.rediff.com/news/interview/no-one-will-dare-to-hold-bjp-flag-in-punjab/20210714.htm",
+      "snippet": "'BJP leaders are trying to save their lives in Punjab.' IMAGE: Farmers protest against Bharatiya Janata Party leader Bhupesh Aggarwal at a"
+    },
+    {
+      "title": "Punjab BJP Office Attacked In Tarn Taran | Ink Hurled, Stone ...",
+      "url": "https://www.youtube.com/watch?v=po0KUHaG05o",
+      "snippet": "A major security scare unfolded in Punjab's Tarn Taran after a group of youths allegedly stormed the BJP district office,"
+    },
+    {
+      "title": "Suspended by Congress over a BJP flag, MLA Sandeep ...",
+      "url": "https://indianexpress.com/article/political-pulse/congress-bjp-flag-mla-sandeep-jakhar-8906867",
+      "snippet": "Alleges \"ulterior motive\", suggests Congress LoP Partap Singh Bajwa with family political loyalties also divided is the real target."
+    },
+    {
+      "title": "Punjab BJP's tightrope walk: Navigating the saffron party's ...",
+      "url": "https://www.tribuneindia.com/news/punjab/punjab-bjps-tightrope-walk-navigating-the-saffron-partys-national-policies-and-local-alienation",
+      "snippet": "The recent controversies regarding the administrative and democratic changes at Panjab University and Chandigarh have shown how precarious"
+    },
+    {
+      "title": "#NewsAlert | Punjab BJP MLA beaten up, stripped by a group ...",
+      "url": "https://www.facebook.com/Timesnow/videos/punjab-bjp-mla-beaten-up-stripped-by-a-group-of-protesters-allegedly-farmers/256902246104553",
+      "snippet": "Farmer leader Rakesh Tikait distances himself from the incident; says his people were not involved. Take a look at the top reactions. Gurpreet"
+    },
+    {
+      "title": "Explained: BJP's High-Stakes Gamble In Punjab",
+      "url": "https://www.ndtv.com/india-news/explained-bjps-high-stakes-gamble-in-punjab-11758180",
+      "snippet": "BJP sources said the high command has already deployed party leaders to consolidate particular segments of voters in Punjab."
+    }
+  ],
+  "merged_results": [
+    {
+      "title": "पंजाब के 12 जिले बाढ़ से बुरी तरह प्रभावित, 3 लाख लोगों को छोड़ना ...",
+      "url": "https://www.aajtak.in/india/punjab/story/flood-five-big-reasons-river-overflowing-record-level-of-rain-bhakra-nangal-dam-ntc-dskc-2324088-2025-09-02",
+      "snippet": "Sep 2, 2025 — पंजाब में बाढ़ की स्थिति गंभीर बनी हुई है. राज्य के 23 में से 12 जिले बुरी तरह प्रभावित हैं, जिससे 1000 से 1500 से अधिक गांव चपेट में हैं. अब तक 29 लोगों की जान जा चुकी है और करीब 15 लाख लोग प्रभावित ...Read more"
+    },
+    {
+      "title": "पंजाब में बाढ़ का कहर! 37 मौतें, लाखों एकड़ फसल बर्बाद, देखें",
+      "url": "https://www.aajtak.in/india/punjab/video/devastating-flood-in-punjab-37-deaths-lakhs-acres-crop-submerged-ytvd-2324868-2025-09-03",
+      "snippet": "Sep 3, 2025 — पंजाब के सभी 23 जिलों में बाढ़ का सितम जारी है. 12 जिलों में 3,75,000 एकड़ फसल और खेती की जमीन पानी में डूब गई है. बाढ़ से मरने वालों की संख्या 37 हो गई है. मरीजों ...Read more"
+    },
+    {
+      "title": "Punjab Flood Update Live: पंजाब में बद से बदत्तर हालात",
+      "url": "https://www.youtube.com/watch?v=lUbm-_gxhnA",
+      "snippet": "Punjab Flood Update Live: पंजाब में भीषण बाढ़ से अब तक 30 मौतें हो चुकी हैं और 2.56 लाख से ज्यादा लोग प्रभावित हैं. 1300 से ज्यादा गांवों और 96000 हेक्टेयर खेतीबाड़ी को नुकसान पहुंचा है."
+    },
+    {
+      "title": "Punjab Floods 2025: Climate Chaos and Government Failure",
+      "url": "https://www.youtube.com/watch?v=TXrCQBA2mR0",
+      "snippet": "Punjab is reeling under its worst floods since 1988—its. Nearly 1,900 villages are submerged, over 1.71 lakh hectares of crops have been"
+    },
+    {
+      "title": "Punjab Floods Update: India's Food Bowl in Crisis, Worst ...",
+      "url": "https://www.youtube.com/watch?v=aywsto0MFBw",
+      "snippet": "Punjab is facing its worst floods in nearly four decades, Heavy rainfall in Himachal Pradesh and Jammu & Kashmir. India's Food Bowl in Crisis,"
+    },
+    {
+      "title": "Narendra Modi's Punjab Problem",
+      "url": "https://www.noemamag.com/narendra-modis-punjab-problem",
+      "snippet": "Dec 12, 2023 — Gandhi wrote a letter the following week to Margaret Thatcher: “We have a troubled situation in Punjab,” she began. “Of all malefactors ...Read more"
+    },
+    {
+      "title": "'No one will dare to hold the BJP flag in Punjab'",
+      "url": "https://www.rediff.com/news/interview/no-one-will-dare-to-hold-bjp-flag-in-punjab/20210714.htm",
+      "snippet": "'BJP leaders are trying to save their lives in Punjab.' IMAGE: Farmers protest against Bharatiya Janata Party leader Bhupesh Aggarwal at a"
+    },
+    {
+      "title": "Punjab BJP Office Attacked In Tarn Taran | Ink Hurled, Stone ...",
+      "url": "https://www.youtube.com/watch?v=po0KUHaG05o",
+      "snippet": "A major security scare unfolded in Punjab's Tarn Taran after a group of youths allegedly stormed the BJP district office,"
+    },
+    {
+      "title": "Suspended by Congress over a BJP flag, MLA Sandeep ...",
+      "url": "https://indianexpress.com/article/political-pulse/congress-bjp-flag-mla-sandeep-jakhar-8906867",
+      "snippet": "Alleges \"ulterior motive\", suggests Congress LoP Partap Singh Bajwa with family political loyalties also divided is the real target."
+    },
+    {
+      "title": "Punjab BJP's tightrope walk: Navigating the saffron party's ...",
+      "url": "https://www.tribuneindia.com/news/punjab/punjab-bjps-tightrope-walk-navigating-the-saffron-partys-national-policies-and-local-alienation",
+      "snippet": "The recent controversies regarding the administrative and democratic changes at Panjab University and Chandigarh have shown how precarious"
+    },
+    {
+      "title": "#NewsAlert | Punjab BJP MLA beaten up, stripped by a group ...",
+      "url": "https://www.facebook.com/Timesnow/videos/punjab-bjp-mla-beaten-up-stripped-by-a-group-of-protesters-allegedly-farmers/256902246104553",
+      "snippet": "Farmer leader Rakesh Tikait distances himself from the incident; says his people were not involved. Take a look at the top reactions. Gurpreet"
+    },
+    {
+      "title": "Explained: BJP's High-Stakes Gamble In Punjab",
+      "url": "https://www.ndtv.com/india-news/explained-bjps-high-stakes-gamble-in-punjab-11758180",
+      "snippet": "BJP sources said the high command has already deployed party leaders to consolidate particular segments of voters in Punjab."
+    }
+  ]
+}

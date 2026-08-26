@@ -1,0 +1,57 @@
+{
+  "claim": {
+    "id": "S2/1555",
+    "text": "Karnataka HC Increases Maintenance For 'Incapable' Wife; Rules She Is Entitled To Full Support From Husband",
+    "lang": "dev"
+  },
+  "ranked_evidence": [
+    {
+      "title": "Husband With 75% Disability Exempted from Paying Maintenance : Karnataka HC",
+      "url": "https://lawbeat.in/news-updates/husband-75-disability-exempted-paying-maintenance-karnataka-hc",
+      "snippet": "The High Court of Karnataka held that a husband is exempted from paying maintenance while rejecting the plea of a wife seeking maintenance from her husband",
+      "bm25_score_raw": 9.00789324946913,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Wife Not Entitled to Maintenance if Her Family Causes Incapacity of Husband’s Earning: Allahabad High Court Denies Maintenance",
+      "url": "https://lawchakra.in/high-court/wife-not-entitled-to-maintenance",
+      "snippet": "The Allahabad High Court held that a wife cannot claim maintenance under Section 125 Cr.P.C. if her own family members have rendered the",
+      "bm25_score_raw": 4.860771680670059,
+      "bm25_score_norm": 0.5032691956328825,
+      "bm25_rank": 2
+    },
+    {
+      "title": "Adult son, daughter take father to court seeking financial support for education; win case under Hindu law",
+      "url": "https://m.economictimes.com/wealth/legal/will/adult-son-daughter-take-father-to-court-seeking-financial-support-for-education-win-case-under-hindu-law/articleshow/124493135.cms",
+      "snippet": "A father must financially support his adult son and daughter's education. The Himachal Pradesh High Court ruled in favor of the children",
+      "bm25_score_raw": 4.174544046209951,
+      "bm25_score_norm": 0.4210747387814467,
+      "bm25_rank": 3
+    },
+    {
+      "title": "Husband asked to pay 80% of notional monthly income as interim maintenance to wife",
+      "url": "https://m.economictimes.com/wealth/legal/will/divorce-haryana-husband-asked-to-pay-80-of-declared-monthly-income-as-interim-maintenance-to-delhi-wife-who-had-a-government-job/articleshow/121206640.cms",
+      "snippet": "Delhi High Court on May 13, 2025, ordered a husband, who claims to have an earning of Rs 15,000 per month, to pay Rs 12,000 per month (Rs",
+      "bm25_score_raw": 1.2491861515557465,
+      "bm25_score_norm": 0.0706834237532559,
+      "bm25_rank": 4
+    },
+    {
+      "title": "Legal Eagle Elite",
+      "url": "https://legaleagleweb.com/newsdetail.aspx?newsid=8267",
+      "snippet": "a precedent-setting judgment, India’s Supreme Court has significantly increased. permanent alimony for a divorced but unmarried wife from Rs 20,000 to Rs 50,000. per month, along with a 5% hike every two years. The court also upheld the. transfer of her ex-husband’s house to her name. marks a 2.5× increase over the Calcutta High Court’s 2016 award of ? maintenance from her ex-husband, Raja Sadhukhan. and the matter lingered in various courts for over a decade. maintenance reflective of the standard of living she enjoyed during the. 20,000 in 2016), Rakhi approached the. wife also asked the Court to consider the transfer of a property (their shared. given the husband's income. maintain the wife’s standard of living and protect against inflation. Ordered the transfer of the marital home to Rakhi as part of the. living, the husband’s entire earning history (not just current income) and the. of the standard of living she enjoyed during the marriage and which reasonably.",
+      "bm25_score_raw": 0.9965498949053956,
+      "bm25_score_norm": 0.04042334844647713,
+      "bm25_rank": 5
+    },
+    {
+      "title": "Timing of husband’s death doesn’t deny the right of maintenance: Supreme Court backs widow’s claim on inco",
+      "url": "https://m.economictimes.com/wealth/legal/will/timing-of-husbands-death-doesnt-deny-the-right-of-maintenance-supreme-court-backs-widows-claim-on-income-from-father-in-laws-property/articleshow/126545452.cms",
+      "snippet": "Daughter-in-law vs husband's family over property: Supreme Court says widow can seek maintenance from late father-in-law's estate even if",
+      "bm25_score_raw": 0.6590621877778785,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6
+    }
+  ]
+}

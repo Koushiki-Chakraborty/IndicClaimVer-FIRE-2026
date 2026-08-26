@@ -1,0 +1,6 @@
+{
+  "ID": "S2/T/EN/1034",
+  "Evidence": "Delhi recorded 606 fresh Covid-19 cases with a positivity rate of 16.98% on a recent Thursday, according to Source 1. The positivity rate had previously reached 26.54% with 509 cases reported on Wednesday. Other sources reported lower case numbers, such as 218 cases with a 1.93% positivity rate (Source 2). Source 3 discusses a much higher number of cases in a different context, but does not provide recent data relevant to the claim. Overall, the evidence indicates that the claim of over 1600 cases is not supported, as the highest reported was 606 cases.",
+  "Prediction": "REFUTES",
+  "Justification": "The retrieved evidence directly contradicts the claim that Delhi recorded over 1600 fresh Covid-19 cases. Source 1 states that the highest number of fresh cases reported recently was 606, with a positivity rate of 16.98%. Other sources provide lower case counts, further refuting the claim. Therefore, the evidence does not substantiate the assertion of over 1600 cases."
+}

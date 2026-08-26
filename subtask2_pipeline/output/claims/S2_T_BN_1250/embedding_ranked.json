@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/BN/1250",
+    "text": "বাংলাদেশি হিন্দুদের উপর অত্যাচার বন্ধ না-হলে নাগা সন্ন্যাসীদের নিয়ে ভারতীয় হাইকমিশনের সামনে ধরনায় বসবেন বলে হুঁশিয়ারি দেন শুভেন্দু অধিকারী।",
+    "lang": "bengali"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "BJP Leader Suvendu Adhikari Threatens Bangladesh Deputy",
+      "url": "https://www.facebook.com/CentristNationTV/videos/bjp-leader-suvendu-adhikari-threatens-bangladesh-deputy-high-commission-news-cn-/742011822279307",
+      "snippet": "Vowing to mobilize a massive force of hundreds of thousands of Hindu monks to lay siege to the Bangladesh Deputy High Commission.",
+      "bm25_score_raw": 1.176184829200234,
+      "bm25_score_norm": 0.2663378488520773,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.897515058517456,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Suvendu Adhikari takes up Hindu torture with Bangladeshi ...",
+      "url": "https://www.telegraphindia.com/west-bengal/suvendu-adhikari-takes-up-hindu-torture-with-bangladeshi-deputy-high-commissioner-prnt/cid/2139787",
+      "snippet": "Dec 27, 2025 — Adhikari met the Bangladeshi envoy to raise his concerns and demands regarding the alleged oppression of Hindus, particularly the killing of",
+      "bm25_score_raw": 3.559088869018481,
+      "bm25_score_norm": 0.8059278182429106,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8665667772293091,
+      "embedding_score_norm": 0.7652077142948874,
+      "embedding_rank": 2
+    },
+    {
+      "title": "West Bengal News | Suvendu Adhikari Leads Protest ...",
+      "url": "https://www.youtube.com/watch?v=h214-ht3syg",
+      "snippet": "Adhikari spearheaded protests against attacks on Hindus in Bangladesh, rallying supporters outside the Bangladesh Deputy High Commission in",
+      "bm25_score_raw": 4.071712054989325,
+      "bm25_score_norm": 0.9220073265256431,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8579015135765076,
+      "embedding_score_norm": 0.699467809699348,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Suvendu Adhikari Leads Protest at Bangladesh Dy High ...",
+      "url": "https://www.dailymotion.com/video/x9wgddo",
+      "snippet": "Dec 26, 2025 — The demonstration addresses the persecution of Hindus in Bangladesh, specifically the recent lynching of Dipu Chandra Das in Mymensingh.Read more",
+      "bm25_score_raw": 4.158011309473765,
+      "bm25_score_norm": 0.9415491172598023,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8550595045089722,
+      "embedding_score_norm": 0.6779066186674939,
+      "embedding_rank": 4
+    },
+    {
+      "title": "India's BJP leader Suvendu Adhikari triggered widespread ...",
+      "url": "https://www.facebook.com/YeniSafakEnglish/posts/indias-bjp-leader-suvendu-adhikari-triggered-widespread-condemnation-after-stati/893600709723417",
+      "snippet": "Hindus are often marginalized minorities in several countries where they face persecution. Given the proximity of Bangladesh to India, I am ...Read more",
+      "bm25_score_raw": 1.5172748877182605,
+      "bm25_score_norm": 0.34357502297231485,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8462806940078735,
+      "embedding_score_norm": 0.6113052793512967,
+      "embedding_rank": 5
+    },
+    {
+      "title": "'Won't allow them to function': Suvendu Adhikari's warning ...",
+      "url": "https://www.hindustantimes.com/india-news/wont-allow-them-to-function-bjp-suvendu-adhikari-warns-bangladesh-mission-in-kolkata-over-envoy-meet-101766500195639.html",
+      "snippet": "Dec 23, 2025 — “We will not let the deputy high commission function smoothly on Indian soil,” Adhikari warned. The Bengal LoP expressed concern regarding ...Read more",
+      "bm25_score_raw": 4.416138503294292,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8428742289543152,
+      "embedding_score_norm": 0.5854617855348605,
+      "embedding_rank": 6
+    },
+    {
+      "title": "Suvendu Adhikari | ধর্ম পালনে বাধা নেই, আইন মেনে চলুন: ...",
+      "url": "https://www.facebook.com/newssangbad/videos/suvendu-adhikari-%E0%A6%A7%E0%A6%B0%E0%A7%8D%E0%A6%AE-%E0%A6%AA%E0%A6%BE%E0%A6%B2%E0%A6%A8%E0%A7%87-%E0%A6%AC%E0%A6%BE%E0%A6%A7%E0%A6%BE-%E0%A6%A8%E0%A7%87%E0%A6%87-%E0%A6%86%E0%A6%87%E0%A6%A8-%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A7%87-%E0%A6%9A%E0%A6%B2%E0%A7%81%E0%A6%A8-%E0%A6%B6%E0%A7%81%E0%A6%AD%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%81-%E0%A6%85%E0%A6%A7%E0%A6%BF%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80-bjp-hindu-na/1418167330135484",
+      "snippet": "ধর্ম পালনে বাধা নেই, আইন মেনে চলুন: শুভেন্দু অধিকারী #bjp #hindu #narendramodi. Ministry of Information & Broadcasting, Government of India",
+      "bm25_score_raw": 1.1433483392031742,
+      "bm25_score_norm": 0.2589022826956796,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8174198269844055,
+      "embedding_score_norm": 0.3923493744084702,
+      "embedding_rank": 7
+    },
+    {
+      "title": "Suvendu Adhikari: আমরা অন্য ধর্মকে সম্মান করি: শুভেন্দু ...",
+      "url": "https://www.youtube.com/watch?v=McAKSObiNIE",
+      "snippet": "Suvendu Adhikari: আমরা অন্য ধর্মকে সম্মান করি: শুভেন্দু অধিকারী | TV9 Bangla. Us On YouTube: https://bit.ly/34uWUvN",
+      "bm25_score_raw": 0.7159247225878929,
+      "bm25_score_norm": 0.1621155500566472,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.808404803276062,
+      "embedding_score_norm": 0.3239559795552826,
+      "embedding_rank": 8
+    },
+    {
+      "title": "Suvendu Adhikari: 'রাজ্য পুলিশকে আধা সেনার মতো গড়ে তুলতে ...",
+      "url": "https://bangla.asianetnews.com/west-bengal/i-want-to-mold-the-state-police-like-paramilitary-forces-suvendu-adhikari-anbbm/videoshow-dzca1fo",
+      "snippet": "Suvendu Adhikari: 'রাজ্য পুলিশকে আধা সেনার মতো গড়ে তুলতে চাই'- শুভেন্দু অধিকারী. Author : Biman Mondal | ANI. Published : Jul 03 2026, 12:02 PM IST.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.7939268946647644,
+      "embedding_score_norm": 0.21411785240932665,
+      "embedding_rank": 9
+    },
+    {
+      "title": "দিনের বেলাতেও সুরা পানের জন্য এসব কথা! তৃণমূলের মন্ত্রীকে ...",
+      "url": "https://bengali.oneindia.com/news/west-bengal/suvendu-adhikari-targets-soumen-mahapatra-on-his-of-joining-tmc-just-waiting-for-the-time-148291.html",
+      "snippet": "নন্দীগ্রামে একের পর এক কর্মসূচি শুভেন্দু অধিকারীর ... শুভেন্দু অধিকারী নন্দীগ্রামের মানুষের সঙ্গে যোগাযোগ রাখতে একাধিক কর্মসূচি নিয়েছেন। বাংলাদেশের ঘটনায় প্রতিবাদই হোক কিংবা কালীপুজোর উদ্বোধন, তাঁকে দেখা গিয়েছে মানুষের মাঝে।",
+      "bm25_score_raw": 0.5827523663366141,
+      "bm25_score_norm": 0.13195971229206246,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.786799430847168,
+      "embedding_score_norm": 0.16004462277072679,
+      "embedding_rank": 10
+    },
+    {
+      "title": "Suvendu Adhikari : শুভেন্দুর কোন গুণে মুগ্ধ মদন মিত্র ...",
+      "url": "https://www.facebook.com/News18Bangla/videos/suvendu-adhikari-%E0%A6%B6%E0%A7%81%E0%A6%AD%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%81%E0%A6%B0-%E0%A6%95%E0%A7%8B%E0%A6%A8-%E0%A6%97%E0%A7%81%E0%A6%A3%E0%A7%87-%E0%A6%AE%E0%A7%81%E0%A6%97%E0%A7%8D%E0%A6%A7-%E0%A6%AE%E0%A6%A6%E0%A6%A8-%E0%A6%AE%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%B0-suvenduadhikari-news18bangla/1335196838271765",
+      "snippet": "তৃনমূল কংগ্রেসে মমতা ব্যানার্জি পরে যোগ্য মুখ্যমন্ত্রী হবার দাবিদার ছিল শুভেন্দু অধিকারী, কিন্তু তাকে সড়িয়ে নিজের ভাইপোকে প্রমোট করে দলের অনেক ক্ষতি হ'য়েছে। আমরা যখন ২০০৮ থেকে রাজনীতি করা শুরু করি আমরা যুব নেতা",
+      "bm25_score_raw": 0.4125255160255319,
+      "bm25_score_norm": 0.09341317436439134,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.7841974496841431,
+      "embedding_score_norm": 0.14030442786490352,
+      "embedding_rank": 11
+    },
+    {
+      "title": "শুভেন্দু অধিকারী | সত্তা",
+      "url": "https://inscript.me/entities/suvendu-adhikari-indian-politician",
+      "snippet": "Religious Tourism Bengal: উত্তরপ্রদেশের অযোধ্যা-কাশী মডেলের পথেই কি হাঁটছে পশ্চিমবঙ্গ? শক্তিপীঠ সার্কিট, চৈতন্য মহাপ্রভু তীর্থযাত্রা প্রকল্প এবং মায়াপুরে ১,০০০ কোটি টাকার বিনিয়োগ কি বাংলাকে ধর্মীয় পর্যটনের নতুন কেন্দ্র হিসেবে",
+      "bm25_score_raw": 0.6381479137967525,
+      "bm25_score_norm": 0.14450360044657012,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.7657037377357483,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "claim": {
+    "id": "S2/T/CM/1104",
+    "text": "phir woh baithgaye to teesre number pe aapne apne sahabzaade hazrat abdullah bin umar ko bulaya jab wo aaye to unko usi me se aapne 500 dirham aadhi raqam pesh ki unhone imam hasan e mujtaba ko 1000 dirham imam hussain ko bhi 1000 dirham magar apne bete abdullah ko 500 dirham",
+    "lang": "codemix"
+  },
+  "ranked_evidence": [
+    {
+      "title": "Abdullah bin khattab was son of slave?",
+      "url": "https://islam.stackexchange.com/questions/62358/abdullah-bin-khattab-was-son-of-slave",
+      "snippet": "Aug 21, 2020 — \"Once Hazrat Abdullah bin Umar (RA) was playing with Hazrat Imam Hassan and Hazrat Imam Hussain (RA). At that time Hazrat Imam Hassan (RA) passed a remark",
+      "bm25_score_raw": 6.852277007218337,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Imam Hasan Mujtaba Our Hazrat Umar K Beta Abdullah ibn Umar Ka ...",
+      "url": "https://www.youtube.com/watch?v=cwFhU5rAIyY",
+      "snippet": "Imam Hasan Mujtaba Our Hazrat Umar K Beta Abdullah ibn Umar Ka Waqia | Maulana Ali Raza Rizvi. @wilayatmedia110886 likes35K views3 years ago",
+      "bm25_score_raw": 5.90136547686809,
+      "bm25_score_norm": 0.8150770217318335,
+      "bm25_rank": 2
+    },
+    {
+      "title": "Imam Hassan R.A and Imam Hussain R.A Narrated by Abdullah ibn Abbas ...",
+      "url": "https://www.facebook.com/groups/378371256226063/posts/1603593367037173",
+      "snippet": "Narrated by Abdullah ibn Abbas … they became known as the Companions of the Garment. Martyred by means of poison. Imam Hassan Mujtaba رضي الله",
+      "bm25_score_raw": 5.6233016221733685,
+      "bm25_score_norm": 0.7610021740539059,
+      "bm25_rank": 3
+    },
+    {
+      "title": "e-Mujtaba ko Aapne 1000 dirham pesh kiye bade Ikraam ke sath ...",
+      "url": "https://www.facebook.com/luqman.betara/posts/chiraage-ahle-jannat-badi-imaan-afroz-riwayat-hazrat-abdullah-ibne-abbas-radiall/2790721941301670",
+      "snippet": "Fir Wo baithgaye to teesre number pe Aapne Apne Sahabzaade Hazrat Abdullah bin Umar ko bulaya. Jab Wo aaye to Unko usi me se Aapne 500 dirham, aadhi raqam",
+      "bm25_score_raw": 4.452406737371517,
+      "bm25_score_norm": 0.5332992149187191,
+      "bm25_rank": 4
+    },
+    {
+      "title": "Abbajaan mai us waqt Aaqa SallAllahu Alaihi wa Aalihi ...",
+      "url": "https://www.facebook.com/MQIMiraj/posts/badi-imaan-afroz-riwayat-hazrat-abdullah-ibne-abbas-radiallahu-anhuma-farmate-ha/2877076558988053",
+      "snippet": "Aug 28, 2019 — Fir Wo baithgaye to teesre number pe Aapne Apne Sahabzaade Hazrat Abdullah bin Umar ko bulaya. Jab Wo aaye to Unko usi me se Aapne 500 ...Read more",
+      "bm25_score_raw": 4.411379733648479,
+      "bm25_score_norm": 0.5253207274614382,
+      "bm25_rank": 5
+    },
+    {
+      "title": "Heartiest congratulations on the birth anniversary of Imam Hassan ...",
+      "url": "https://www.instagram.com/p/DHOWeT6IIoc",
+      "snippet": "Warmest wishes on the birth anniversary of Hazrat Imam Hassan Mujtaba (A.S.)! May his teachings of patience, generosity, wisdom, and peace",
+      "bm25_score_raw": 1.7665429421842085,
+      "bm25_score_norm": 0.010981505672163197,
+      "bm25_rank": 6
+    },
+    {
+      "title": "Hasan ibn Ali - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hasan_ibn_Ali",
+      "snippet": "+ 2.2 Caliphate of Ali. # Hasan ibn Ali. From Wikipedia, the free encyclopedia. Grandson of Muhammad and the second Shia Imam (625–670). For the American jazz pianist and composer, see Hasaan Ibn Ali. For the 11th Twelver Imam, see Hasan ibn Ali al-Askari. | Succeeded by | Husayn ibn Ali |. | Ahl al-Kisa  * Muhammad * Ali * Fatima * Hasan * Husayn |. He is considered as the second Imam in Shia Islam, succeeding Ali and preceding his brother Husayn. As a grandson of the prophet, he is part of the *ahl al-bayt* and the *ahl al-kisa*, and also participated in the event of the mubahala. Given Mu'awiya's military superiority, supporters of Hasan maintain that his abdication was inevitable after his soldiers mutinied and that he was motivated by the desire for unity and peace among Muslims, which was reportedly predicted by Muhammad in a Sunni hadith.",
+      "bm25_score_raw": 1.7100738085910674,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 7
+    }
+  ]
+}

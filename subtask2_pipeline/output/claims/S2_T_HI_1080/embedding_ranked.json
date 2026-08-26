@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/HI/1080",
+    "text": "दिल्ली में जिग्नेश मेवाणी का फ्लॉप शो, रैली में 300 समर्थक ही पहुंचे, खाली पड़ी रहीं कुर्सियां",
+    "lang": "hindi"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Jignesh Mevani holds Delhi rally despite no from police ...",
+      "url": "https://indianexpress.com/article/india/jignesh-mevani-rally-live-updates-delhi-police-deny-permission-to-conduct-rally-on-parliament-street-jantar-mantar-5017181",
+      "snippet": "Jan 9, 2018 — \"The way corruption, poverty, unemployment and the real issues are being swept under the carpet and ghar wapasi, love jihad and cows are",
+      "bm25_score_raw": 1.5843275791058016,
+      "bm25_score_norm": 0.07618750108842598,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.8918628692626953,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Jignesh Mevani blames rumours after less than 200 turn up ...",
+      "url": "https://timesofindia.indiatimes.com/city/delhi/mevani-blames-rumours-after-less-than-200-turn-up-for-rally/articleshow/62435762.cms",
+      "snippet": "Jan 10, 2018 — The 'Yuva Hunkar Rally' by Gujarat MLA Jignesh Mevani registered a poor turnout on Tuesday with less than 200 people turning up. Delhi",
+      "bm25_score_raw": 1.8230376135715205,
+      "bm25_score_norm": 0.12031252845218914,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8904509544372559,
+      "embedding_score_norm": 0.9823968598518655,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Jignesh Mevani's rally in Delhi despite no police permission",
+      "url": "https://www.thestatesman.com/india/jignesh-mevanis-rally-delhi-despite-no-police-permission-1502560649.html",
+      "snippet": "Jan 9, 2018 — Scores of people gathered around the barricaded Parliament Street in the heart of Delhi on Tuesday for a protest march planned by Gujarat",
+      "bm25_score_raw": 1.172164185738466,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.885847270488739,
+      "embedding_score_norm": 0.9250001300468391,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Jignesh Mevani's Delhi Rally On Despite No From Police",
+      "url": "https://www.ndtv.com/video/jignesh-mevani-s-delhi-rally-on-despite-no-from-police-476202",
+      "snippet": "The Youth Hunkar rally of Jignesh Mevani, for which the police denied permission, took off in Delhi's Connaught Place today, surrounded by",
+      "bm25_score_raw": 1.757374056286174,
+      "bm25_score_norm": 0.10817476361753137,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8792457580566406,
+      "embedding_score_norm": 0.842695343357096,
+      "embedding_rank": 4
+    },
+    {
+      "title": "'Yuva Hunkaar Rally' Highlights: \"We Only Want To Save ...",
+      "url": "https://www.ndtv.com/india-news/jignesh-mevanis-yuva-hunkaar-rally-live-updates-gujarat-dalit-leader-may-carry-out-protest-march-wit-1797593",
+      "snippet": "Jan 9, 2018 — The 'Yuva Hunkar' rally led by Dalit spearhead Jignesh Mevani, a newly-elected Gujarat MLA, began at Parliament Street in Delhi on Tuesday.",
+      "bm25_score_raw": 1.172164185738466,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.8514785766601562,
+      "embedding_score_norm": 0.49650619877547897,
+      "embedding_rank": 5
+    },
+    {
+      "title": "'Break India brigade' loses face; 'Hunkar' rally ends in ...",
+      "url": "https://www.timesnownews.com/india/article/jignesh-mevani-delhi-police-gujarat-vadgam-dalits-narendra-modi-parliament-street/186820",
+      "snippet": "Jan 9, 2018 — Gujarat MLA Jignesh Mevani on Tuesday addresed a 'Social Justice' or 'Yuva Hunkaar Rally' on Parliament Street in Delhi.",
+      "bm25_score_raw": 1.667399494893362,
+      "bm25_score_norm": 0.09154316288743902,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.850416362285614,
+      "embedding_score_norm": 0.48326297180064337,
+      "embedding_rank": 6
+    },
+    {
+      "title": "जिग्नेश मेवाणी की दिल्ली में ललकार/BIG SPEECH OF JIGNESH ...",
+      "url": "https://www.youtube.com/watch?v=c9Dz1tsppiU",
+      "snippet": "जिग्नेश मेवाणी की दिल्ली में ललकार/BIG SPEECH OF JIGNESH MEVANI AT DELHI. @NationalDastakBAHUJAN853 likes18K views2 years ago",
+      "bm25_score_raw": 6.582019968893289,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8436312079429626,
+      "embedding_score_norm": 0.39866861761696226,
+      "embedding_rank": 7
+    },
+    {
+      "title": "Congress MLA Jignesh Mevani says Congress failed to ...",
+      "url": "https://www.opindia.com/2022/12/congress-mla-jignesh-mevani-displeasure-disastrous-performance-gujarat-assembly-polls",
+      "snippet": "Dec 10, 2022 — After narrowly defeating the BJP's Manibhai Vaghela in Vadgam, Mevani told The Indian Express, \"The party “did not use me enough” during the",
+      "bm25_score_raw": 1.4829424007207068,
+      "bm25_score_norm": 0.0574466727837626,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.8394798636436462,
+      "embedding_score_norm": 0.3469114618825283,
+      "embedding_rank": 8
+    },
+    {
+      "title": "LIVE: Jignesh Mevani द्वारा Congress Party Briefing| AICC ...",
+      "url": "https://www.youtube.com/watch?v=wcGARXh3aEU",
+      "snippet": "LIVE: Jignesh Mevani द्वारा Congress Party Briefing| AICC | New Delhi | Gujarat | BJP #congress #jigneshmewani #delhi #gujarat #bjp #live",
+      "bm25_score_raw": 1.9622426067775118,
+      "bm25_score_norm": 0.14604426674352158,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8316367864608765,
+      "embedding_score_norm": 0.24912738570926432,
+      "embedding_rank": 9
+    },
+    {
+      "title": "जिग्नेश मेवानी ने आतिशी के लिए किया प्रचार, कहा- मैं भी गुजरात ...",
+      "url": "https://www.amarujala.com/india-news/lok-sabha-election-2019-jignesh-mevani-campaigned-for-aap-candidate-atishi-in-delhi",
+      "snippet": "गुजरात से निर्दलीय विधायक जिग्नेश मेवानी ने रविवार को आम आदमी पार्टी की पूर्वी दिल्ली से प्रत्याशी आतिशी के लिए प्रचार किया।",
+      "bm25_score_raw": 2.3547266039310557,
+      "bm25_score_norm": 0.21859407451763235,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8176639676094055,
+      "embedding_score_norm": 0.07492035560007698,
+      "embedding_rank": 10
+    },
+    {
+      "title": "'सीने पर गोली...' | गुजरात में जिग्नेश मेवाणी ने मोदी की धज्जियां उड़ाईं ...",
+      "url": "https://www.youtube.com/watch?v=KPZZgkGUJPk",
+      "snippet": "'सीने पर गोली...' | गुजरात में जिग्नेश मेवाणी ने मोदी की धज्जियां उड़ाईं! | Jignesh Mevani | CWC. @IndianNationalCongress27K views1 year ago",
+      "bm25_score_raw": 3.6191650512428364,
+      "bm25_score_norm": 0.4523227538012801,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8173850774765015,
+      "embedding_score_norm": 0.07144327468344741,
+      "embedding_rank": 11
+    },
+    {
+      "title": "Jignesh Mevani Interview : Gujarat के विधायक जिग्नेश मेवाणी को ...",
+      "url": "https://www.youtube.com/watch?v=UU67dl3xCU4",
+      "snippet": "गुजरात के निर्दलीय विधायक जिग्नेश मेवाणी को प्रधानमंत्री से जुड़े एक ट्वीट के संबंध में असम पुलिस ने गिरफ़्तार किया था. अब उन्हें इस मामले में ज़मानत पर रिहा किया गया है. जिग्नेश मेवानी के साथ बातचीत कर रहे",
+      "bm25_score_raw": 3.322663912436198,
+      "bm25_score_norm": 0.3975151672977948,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8116547465324402,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

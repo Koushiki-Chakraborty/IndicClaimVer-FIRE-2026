@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/HI/1123",
+    "text": "अमित शाह ने NDA से अलग होने पर चंद्रबाबू नायडू को पत्र नहीं लिखा।",
+    "lang": "hindi"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Amit Shah's Letter To Chandrababu Naidu After TDP's ...",
+      "url": "https://www.ndtv.com/india-news/full-text-of-amit-shah-s-letter-to-chandrababu-naidu-after-tdp-s-decision-to-quit-nda-1828079",
+      "snippet": "BJP President Amit Shah has written an open letter to the Andhra chief minister Chandrababu Naidu, saying his party's decision to quit the NDA",
+      "bm25_score_raw": 1.0641415190374548,
+      "bm25_score_norm": 0.12560628248327757,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.8839703798294067,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Amit Shah writes to Chandrababu Naidu, calls TDP's ...",
+      "url": "https://www.indiatoday.in/india/story/amit-shah-writes-to-chandrababu-naidu-calls-tdp-s-decision-to-quit-bjp-guided-by-political-consideration-1196954-2018-03-24",
+      "snippet": "President Amit Shah has written a 9-page-long open letter to CM Chandrababu Naidu over the TDP quitting NDA.",
+      "bm25_score_raw": 1.1326432527041101,
+      "bm25_score_norm": 0.14520208720403668,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8811885118484497,
+      "embedding_score_norm": 0.9696456293725623,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Amit Shah writes open letter to Chandrababu Naidu on ...",
+      "url": "https://www.thestatesman.com/india/amit-shah-writes-open-letter-chandrababu-naidu-alliance-break-1502607450.html",
+      "snippet": "Amit Shah penned an open letter to the Andhra Pradesh CM Chandrababu Naidu and described his decision of ending his party's alliance with NDA",
+      "bm25_score_raw": 1.2290017599460479,
+      "bm25_score_norm": 0.17276668141248944,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8736968636512756,
+      "embedding_score_norm": 0.8879004611819552,
+      "embedding_rank": 3
+    },
+    {
+      "title": "TDP-NDA Split: BJP Chief Amit Shah Writes a Letter to ...",
+      "url": "https://www.india.com/news/india/tdp-nda-split-bjp-chief-amit-shah-writes-a-letter-to-chandrababu-naidu-calls-his-decision-unfortunate-and-unilateral-2961049",
+      "snippet": "TDP-NDA Split: BJP Chief Amit Shah Writes a Letter to Chandrababu Naidu, Calls His Decision 'Unfortunate and Unilateral'. Written By: India.com",
+      "bm25_score_raw": 0.6250552844000415,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.8735084533691406,
+      "embedding_score_norm": 0.8858446211589579,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Chandrababu Naidu TDP Exits NDA Alliance",
+      "url": "https://www.thequint.com/news/politics/tdp-may-exit-nda-alliance",
+      "snippet": "Meanwhile, Amit Shah penned a letter to Andhra Pradesh CM Chandrababu Naidu, calling the TDP's decision to pull out 'unfortunate'.",
+      "bm25_score_raw": 0.9718960505211327,
+      "bm25_score_norm": 0.09921827606847529,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.8684225678443909,
+      "embedding_score_norm": 0.8303499480674389,
+      "embedding_rank": 5
+    },
+    {
+      "title": "TDP cuts ties with NDA, to move its own no-confidence ...",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/telugu-desam-party-cuts-ties-with-nda/article61876583.ece",
+      "snippet": "Mr. Naidu is believed to have told the polit bureau members that he would write a letter to BJP president Amit Shah, explaining why the party is",
+      "bm25_score_raw": 2.921436675012884,
+      "bm25_score_norm": 0.6569095245649074,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8611363768577576,
+      "embedding_score_norm": 0.7508466275703691,
+      "embedding_rank": 6
+    },
+    {
+      "title": "NDA Leaders Including Amit Shah, Chandrababu Naidu ...",
+      "url": "https://www.youtube.com/watch?v=20lS1eBpeSc",
+      "snippet": "NDA Leaders Had A Tea Party At The House Of Bharatiya Janata Party (BJP) President JP Nadda On Wednesday. On This Occasion, NDA Leaders Had",
+      "bm25_score_raw": 0.8888167409107781,
+      "bm25_score_norm": 0.07545236766997795,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.8233351111412048,
+      "embedding_score_norm": 0.3383778700300669,
+      "embedding_rank": 7
+    },
+    {
+      "title": "NDA गठबंधन में पड़ गई फूट नायडू-अमित शाह आमने-सामने गिर ...",
+      "url": "https://www.youtube.com/watch?v=-UzPYmwRJaM",
+      "snippet": "NDA गठबंधन में पड़ गई फूट नायडू-अमित शाह आमने-सामने गिर गई सरकार/BIG NEWS ON NAIDU SHAH AND NEW BILL. @NationalDastakBAHUJAN2.1K likes91K views10 months",
+      "bm25_score_raw": 0.9045702199155666,
+      "bm25_score_norm": 0.07995885358977418,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.8140110969543457,
+      "embedding_score_norm": 0.23663882838581113,
+      "embedding_rank": 8
+    },
+    {
+      "title": "अमित शाह की चिठ्टी को नायडू ने झूठ का पुलिंदा बताया, शाह ने Nda ...",
+      "url": "https://www.amarujala.com/india-news/chandrababu-naidu-reaction-to-amit-shah-letter-described-it-as-bundle-of-lies",
+      "snippet": "Mar 25, 2018 — भाजपा अध्यक्ष अमित शाह ने टीडीपी प्रमुख एवं आंध्र प्रदेश के मुख्यमंत्री चंद्रबाबू नायडू के राजग से अलग होने के फैसले के बाद पहली बार उन पर हमला करते हुए कहा कि यह एकतरफा और दुर्भाग्यपूर्ण निर्णय",
+      "bm25_score_raw": 3.835176710781216,
+      "bm25_score_norm": 0.9182966508176188,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8121663331985474,
+      "embedding_score_norm": 0.21650967662631515,
+      "embedding_rank": 9
+    },
+    {
+      "title": "अमित शाह के बयान पर चंद्रबाबू नायडू का पलटवार, बोले- कौन कह ...",
+      "url": "https://www.jansatta.com/rajya/andhra-pradesh-cm-chandrababu-naidu-on-amit-shahs-remark-doors-closed-for-chandrababu-naidu-in-nda-jsp/902367",
+      "snippet": "Feb 5, 2019 — बीजेपी अध्यक्ष अमित शाह ने आंध्र प्रदेश के सीएम चंद्रबाबू नायडू पर हमला करते हुए कहा था कि एनडीए के दरवाजे अब उनके लिए हमेशा के लिए बंद हो चुके हैं। जिसके जवाब में नायडू ने कहा कि अमित शाह को कौन",
+      "bm25_score_raw": 3.145206615712058,
+      "bm25_score_norm": 0.7209218031687601,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8008547425270081,
+      "embedding_score_norm": 0.0930831811994373,
+      "embedding_rank": 10
+    },
+    {
+      "title": "अमित शाह ने साधा नायडू पर निशाना, कहा- एनडीए में उनकी वापसी ...",
+      "url": "https://www.abplive.com/elections/amit-shah-slams-andhra-cm-said-wont-take-back-chandrababu-naidu-in-nda-1064140",
+      "snippet": "Feb 4, 2019 — आंध्र प्रदेश की सीएम चंद्रबाबू नायडू के एनडीए से अलग होने के बाद से ही दोनों दलों के बीच तल्खी काफी बढ़ गई है. चंद्रबाबू नायडू पर हमला बोलते हुए बीजेपी अध्यक्ष अमित शाह ने भविष्य में उनके साथ किसी भी",
+      "bm25_score_raw": 4.120789939996352,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8000315427780151,
+      "embedding_score_norm": 0.08410083176646801,
+      "embedding_rank": 11
+    },
+    {
+      "title": "चंद्रबाबू नायडू के लिए राजग के दरवाजे हमेशा के लिए बंद : अमित शाह",
+      "url": "https://www.jagran.com/politics/national-bjp-president-amit-shah-says-ndas-doors-closed-for-chandrababu-naidu-18919080.html",
+      "snippet": "Feb 5, 2019 — श्रीकाकुलम (आंध्र प्रदेश), एजेंसी। भाजपा अध्यक्ष अमित शाह ने सोमवार को आंध्र प्रदेश के मुख्यमंत्री चंद्रबाबू नायडू के खिलाफ तीखा हमला बोलते हुए कहा कि उनके लिए राष्ट्रीय जनतांत्रिक गठबंधन (राजग) के",
+      "bm25_score_raw": 2.9330528640844027,
+      "bm25_score_norm": 0.660232485320216,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.7923240065574646,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

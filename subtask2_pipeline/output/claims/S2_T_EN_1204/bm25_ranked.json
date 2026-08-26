@@ -1,0 +1,57 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1204",
+    "text": "Paddy Land Act - 25 Cents To Be Excluded To Compute Conversion Fee Under Section 27A : Kerala High Court",
+    "lang": "english"
+  },
+  "ranked_evidence": [
+    {
+      "title": "Paddy Land Act - 25 Cents To Be Excluded To Compute ...",
+      "url": "https://www.facebook.com/livelaw.in/posts/paddy-land-act-25-cents-to-be-excluded-to-compute-conversion-fee-under-section-2/677053884459646",
+      "snippet": "25 Cents To Be Excluded To Compute Conversion Fee Under Section 27A : Kerala High Court. fees have to be remitted for conversion.",
+      "bm25_score_raw": 7.427207073434479,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Paddy Land Act - 25 Cents To Be Excluded To Compute ...",
+      "url": "https://www.livelaw.in/high-court/kerala-high-court/kerala-paddy-land-act-section-27a-conversion-fee-25-cents-kerala-high-court-234512",
+      "snippet": "As per a recent Kerala High Court decisions, properties in excess of 25 cents can be converted from paddy land as per Section 27A of the Kerala Conservation of",
+      "bm25_score_raw": 5.972406668066826,
+      "bm25_score_norm": 0.7643887679505028,
+      "bm25_rank": 2
+    },
+    {
+      "title": "Paddy Land Conversion in Kerala: Process, Pitfalls, and Legal ...",
+      "url": "https://ghlegal.in/article/paddy-land-conversion-in-kerala-process-pitfalls-and-legal-remedies",
+      "snippet": "Fee Confusion: For land over 25 cents, a significant conversion fee is applicable, often calculated at 10%–20% of the fair value. When the Kerala High Court",
+      "bm25_score_raw": 2.507631610337634,
+      "bm25_score_norm": 0.20325342793137507,
+      "bm25_rank": 3
+    },
+    {
+      "title": "HC issues order on land conversion fee",
+      "url": "https://www.thehindu.com/news/national/kerala/hc-issues-order-on-land-conversion-fee/article67162895.ece",
+      "snippet": "The single judge directed the authorities to calculate fee payable at 10% of the fair value of the property for the land beyond 25 cents.",
+      "bm25_score_raw": 1.5357275811101938,
+      "bm25_score_norm": 0.04584935730061544,
+      "bm25_rank": 4
+    },
+    {
+      "title": "Interpretation of Government Notification on Exemption of ...",
+      "url": "https://lawtext.in/judgement.php?bid=1553",
+      "snippet": "The High Court ruled that the fee should be calculated only for the land exceeding 25 cents, exempting the first 25 cents. The State appealed,",
+      "bm25_score_raw": 1.518152473660933,
+      "bm25_score_norm": 0.043002992463044384,
+      "bm25_rank": 5
+    },
+    {
+      "title": "State Of Kerala & Ors. Vs. Moushmi Ann Jacob - Caseon",
+      "url": "https://www.caseon.in/case/state-of-kerala-ors-vs-moushmi-ann-jacob",
+      "snippet": "For any landholding exceeding 25 cents, the conversion fee (10% of the fair value for lands up to one acre, and 20% for lands above one acre)",
+      "bm25_score_raw": 1.2526270556956456,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6
+    }
+  ]
+}

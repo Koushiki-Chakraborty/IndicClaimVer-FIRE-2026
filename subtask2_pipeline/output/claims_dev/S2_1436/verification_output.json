@@ -1,0 +1,6 @@
+{
+  "ID": "S2/1436",
+  "Evidence": "The WHO chief scientist stated that there is no evidence that healthy children and adolescents need booster doses of the COVID-19 vaccine (Source 1). The interim statement from WHO indicates that children and adolescents generally experience fewer and milder symptoms of COVID-19 compared to adults, and the burden of severe disease and deaths remains primarily among older individuals and those with comorbidities (Source 2). Additionally, the American Academy of Pediatrics recommends COVID vaccination primarily for young children at high risk and those with specific health conditions, rather than universally for all children (Source 3).",
+  "Prediction": "SUPPORTS",
+  "Justification": "The retrieved evidence directly supports the claim that there is no evidence suggesting healthy children and adolescents need COVID booster doses. Source 1 explicitly states this position from the WHO chief scientist. Source 2 reinforces that children and adolescents are at lower risk for severe disease, while Source 3 indicates that vaccination is recommended mainly for those at higher risk, not universally for all healthy children. Thus, the evidence corroborates the claim."
+}

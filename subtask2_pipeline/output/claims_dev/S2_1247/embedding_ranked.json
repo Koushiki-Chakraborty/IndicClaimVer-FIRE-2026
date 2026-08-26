@@ -1,0 +1,76 @@
+{
+  "claim": {
+    "id": "S2/1247",
+    "text": "Delhi govt order to wear mask in car while driving alone 'absurd': HC",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "'Absurd': Delhi HC on govt's order to wear mask in car while ...",
+      "url": "https://www.livemint.com/news/india/absurd-delhi-hc-on-govt-s-order-to-wear-mask-in-car-while-driving-alone-11643724908382.html",
+      "snippet": "Absurd was what the Delhi High Court termed Delhi government's order to mandatorily wear masks in a car even while driving alone.",
+      "bm25_score_raw": 1.9082841238453012,
+      "bm25_score_norm": 0.2064537777801529,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.9502586126327515,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Delhi govt order to wear mask in car while driving alone ...",
+      "url": "https://www.indiatoday.in/cities/delhi/story/delhi-govt-order-to-wear-mask-in-car-while-driving-alone-absurd-hc-1907441-2022-02-01",
+      "snippet": "The Delhi High Court Tuesday termed as “absurd” a Delhi government order making it compulsory to wear a mask while driving alone in the context of Covid-19.",
+      "bm25_score_raw": 4.471671976234145,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9427365660667419,
+      "embedding_score_norm": 0.8753692289915987,
+      "embedding_rank": 2
+    },
+    {
+      "title": "'Absurd': Delhi HC on State Govt's Order for Wearing Mask ...",
+      "url": "https://www.thequint.com/news/law/absurd-delhi-high-court-on-state-govts-order-for-wearing-mask-when-driving-alone",
+      "snippet": "“It is a Delhi government order, why don't you withdraw it. It is absurd actually. You are sitting in your own car and you must wear the mask?”",
+      "bm25_score_raw": 1.2413776586352478,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.9317804574966431,
+      "embedding_score_norm": 0.6938404061691733,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Delhi High Court on Tuesday termed as “absurd” a ...",
+      "url": "https://www.facebook.com/TimesofIndia/posts/delhi-high-court-on-tuesday-termed-as-absurd-a-delhi-government-order-last-year-/10160255302887139",
+      "snippet": "Delhi High Court on Tuesday termed as “absurd” a Delhi government order last year making it compulsory to wear a mask while driving alone.",
+      "bm25_score_raw": 1.3813297379375615,
+      "bm25_score_norm": 0.04332486935937811,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.9309683442115784,
+      "embedding_score_norm": 0.6803847190798187,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Delhi HC Calls Delhi Govts' 'Mask Inside A Private Car ...",
+      "url": "https://www.youtube.com/watch?v=OkEfq0AXEMs",
+      "snippet": "The High Court asked the Delhi government to withdraw this order, stating that 'it's absurd to wear a mask in your own car when you are driving",
+      "bm25_score_raw": 1.7311938592794225,
+      "bm25_score_norm": 0.1516320658385886,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.9256221652030945,
+      "embedding_score_norm": 0.5918053137372442,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Car A \"Public Place\", Mask Must Even If Driving Alone",
+      "url": "https://www.facebook.com/groups/238868060129267/posts/756854501663951",
+      "snippet": "Private vehicle occupied by single person is \"public place\"; wearing mask compulsory even when driving alone: Delhi govt's mask rule in cars",
+      "bm25_score_raw": 1.535754733658469,
+      "bm25_score_norm": 0.09113010954433212,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8899039626121521,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6
+    }
+  ]
+}

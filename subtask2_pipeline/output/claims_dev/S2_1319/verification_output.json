@@ -1,0 +1,6 @@
+{
+  "ID": "S2/1319",
+  "Evidence": "भारत में कोविड-19 मामलों में पिछले सप्ताह 41% की वृद्धि हुई है, जिसमें दिल्ली, हरियाणा और उत्तर प्रदेश ने सभी नए मामलों का 68% हिस्सा लिया। दिल्ली में 9,684 नए मामले दर्ज किए गए, जो पिछले सप्ताह के 6,326 मामलों से 53% अधिक हैं। हरियाणा में 3,695 नए मामले आए, जो 61% की वृद्धि दर्शाते हैं, जबकि उत्तर प्रदेश में 1,736 नए मामले दर्ज किए गए, जो 36% की वृद्धि है। ये आंकड़े 1 मई 2022 तक के हैं (Source 1)।",
+  "Prediction": "SUPPORTS",
+  "Justification": "Retrieved evidence confirms that Covid-19 cases in India increased by 41% in the week ending May 1, 2022, with Delhi, Haryana, and Uttar Pradesh accounting for 68% of new cases. Specifically, Delhi reported a 53% rise in cases, Haryana a 61% rise, and Uttar Pradesh a 36% rise. This directly supports the claim regarding the increase in Covid-19 patients in these regions."
+}

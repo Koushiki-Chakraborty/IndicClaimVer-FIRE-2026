@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/BN/1137",
+    "text": "জয়শঙ্কর জানিয়েছেন, তিনি অক্টোবরে পাকিস্তানে কোনও বৈঠকে যোগ দিতে যাচ্ছেন না।",
+    "lang": "bengali"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "India's Jaishankar to visit Pakistan for SCO summit",
+      "url": "https://tribune.com.pk/story/2500644/indias-jaishankar-to-visit-pakistan-for-sco-summit-on-october-15",
+      "snippet": "Jaishankar, is set to visit Pakistan to attend the Shanghai Cooperation Organisation (SCO) 'Heads of Government' (HoG) meeting on October 15-16",
+      "bm25_score_raw": 3.702665568172581,
+      "bm25_score_norm": 0.7830634457720986,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8349733948707581,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Jaishankar will go to Pak for SCO meeting, first visit by ...",
+      "url": "https://indianexpress.com/article/india/jaishankar-to-travel-to-pakistan-for-sco-meet-on-october-15-16-9603581",
+      "snippet": "Minister S Jaishankar will be in Islamabad on Oct 15-16. This will be the first visit to Pakistan by an External Affairs Minister in nine years.",
+      "bm25_score_raw": 0.5872567883182567,
+      "bm25_score_norm": 0.12419682948587485,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8325295448303223,
+      "embedding_score_norm": 0.9660703749463139,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Jaishankar Expected to Reach Pakistan on October 15 for ...",
+      "url": "https://m.thewire.in/article/diplomacy/jaishankar-expected-to-reach-pakistan-on-october-15-for-sco-summit-rules-out-bilateral-meeting",
+      "snippet": "Jaishankar is set to arrive in Islamabad on Tuesday (Oct 15), marking the first visit by an Indian foreign minister in nine years.",
+      "bm25_score_raw": 1.2518457233005063,
+      "bm25_score_norm": 0.2647483569915189,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8313654661178589,
+      "embedding_score_norm": 0.9499086818827669,
+      "embedding_rank": 3
+    },
+    {
+      "title": "India foreign minister Jaishankar to attend SCO summit ...",
+      "url": "https://www.bbc.com/news/articles/c0lw9pdw400o",
+      "snippet": "Pakistan will be hosting this year's summit from 15 October to 16 October. Mr Jaishankar will lead the Indian delegation to Pakistan.",
+      "bm25_score_raw": 2.308437718258254,
+      "bm25_score_norm": 0.4882032040775805,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8248231410980225,
+      "embedding_score_norm": 0.8590771532580335,
+      "embedding_rank": 4
+    },
+    {
+      "title": "EAM Jaishankar to visit Pakistan to attend SCO meeting on ...",
+      "url": "https://www.thehindu.com/news/national/jaishankar-to-visit-pakistan-to-attend-sco-meet-on-october-15-16/article68717655.ece",
+      "snippet": "Jaishankar will travel to Islamabad to attend the Heads of Government (HoG) meeting of the Shanghai Cooperation Organisation (SCO) on October 15",
+      "bm25_score_raw": 4.728436231015435,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8196767568588257,
+      "embedding_score_norm": 0.7876264158032064,
+      "embedding_rank": 5
+    },
+    {
+      "title": "'পাকিস্তানের মতো দালাল দেশ...,' মধ্যপ্রাচ্যে ...",
+      "url": "https://www.hindustantimes.com/bangla/news/what-did-external-affairs-minister-s-jaishankar-say-at-the-all-party-meeting-271774515209986.html",
+      "snippet": "বুধবার সর্বদলীয় বৈঠকে বৈশ্বিক কূটনীতিতে মধ্যস্থতাকারীর ভূমিকা নেওয়ার জন্য ইসলামাবাদের প্রচেষ্টাকে রীতিমতো তোপ দেগে বিদেশমন্ত্রী এস জয়শঙ্কর স্পষ্ট ভাষায় বলেন, 'ভারত পাকিস্তানের মতো কোনও দালাল বা ব্রোকার দেশ নয়।",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.800581157207489,
+      "embedding_score_norm": 0.5225092745609324,
+      "embedding_rank": 6
+    },
+    {
+      "title": "পাকিস্তানের মতো ভারত 'দালাল' রাষ্ট্র নয়: জয়শঙ্করের ...",
+      "url": "https://bangla.tob.news/%E0%A6%AA%E0%A6%BE%E0%A6%95%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A6%A4%E0%A7%8B-%E0%A6%AD%E0%A6%BE%E0%A6%B0%E0%A6%A4-%E0%A6%A6%E0%A6%BE",
+      "snippet": "ইরান-যুক্তরাষ্ট্র যুদ্ধ নিয়ে চলতি সপ্তাহের শুরুতে আয়োজিত এক সর্বদলীয় বৈঠকে ভারতের পররাষ্ট্রমন্ত্রী এস. জয়শঙ্কর বলেছেন, ভারত পাকিস্তানের মতো কোনো 'দালাল' রাষ্ট্র নয়।",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.7975460290908813,
+      "embedding_score_norm": 0.48037053557020654,
+      "embedding_rank": 7
+    },
+    {
+      "title": "Jaishankar: ভারত পাকিস্তানের মতো 'দালাল' দেশ নয়, সর্বদলীয় ...",
+      "url": "https://bengali.news18.com/news/national/india-not-a-dalal-country-like-pakistan-said-eam-s-jaishankar-on-ank-2603314.html",
+      "snippet": "Jaishankar: ভারত পাকিস্তানের মতো 'দালাল' দেশ নয়, সর্বদলীয় বৈঠকে বললেন বিদেশমন্ত্রী জয়শঙ্কর ... Jaishankar: আমেরিকা এবং ইরানের মধ্যে 'দূত' পাকিস্তান৷ যুদ্ধে রত দুই দেশ এখনও মুখোমুখি বসেনি৷ তবে",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.794640302658081,
+      "embedding_score_norm": 0.440028367784855,
+      "embedding_rank": 8
+    },
+    {
+      "title": "পাক বাহিনী নিয়ে জয়শঙ্করের মন্তব্যকে দায়িত্বজ্ঞানহীন বলল ...",
+      "url": "https://www.anandabazar.com/india/pakistan-reacts-on-indian-foreign-minister-s-jaishankars-remark-about-their-army-dgtl/cid/1652803",
+      "snippet": "শনিবার পাকিস্তানের সামরিক বাহিনী নিয়ে কিছু মন্তব্য করেছিলেন ভারতের বিদেশমন্ত্রী এস জয়শঙ্কর। এক দিনের মধ্যেই তার প্রতিবাদে বিবৃতি জারি করল পাকিস্তানের বিদেশ দফতর।",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.7874283790588379,
+      "embedding_score_norm": 0.3399003486390828,
+      "embedding_rank": 9
+    },
+    {
+      "title": "Indian EAM Jaishankar meets Pakistan Assembly Speaker ...",
+      "url": "https://asianews.network/indian-eam-jaishankar-meets-pakistan-assembly-speaker-ayaz-sadiq-in-dhaka",
+      "snippet": "NEW DELHI – External Affairs Minister (EAM) Dr S Jaishankar on Wednesday met Pakistani National Assembly Speaker Sardar Ayaz Sadiq in the",
+      "bm25_score_raw": 0.6343944569458093,
+      "bm25_score_norm": 0.13416580576567758,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.7776206731796265,
+      "embedding_score_norm": 0.20373332627172994,
+      "embedding_rank": 10
+    },
+    {
+      "title": "পাকিস্তানের মতো 'দালাল রাষ্ট্র' নয় ভারত: জয়শঙ্কর",
+      "url": "https://ekattor.tv/international/south-asia/88635/%E0%A6%AA%E0%A6%BE%E0%A6%95%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A6%A4%E0%A7%8B-%E0%A6%A6%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%B2-%E0%A6%B0%E0%A6%BE%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A7%9F-%E0%A6%AD%E0%A6%BE%E0%A6%B0%E0%A6%A4-%E0%A6%9C%E0%A7%9F%E0%A6%B6%E0%A6%99%E0%A7%8D%E0%A6%95%E0%A6%B0",
+      "snippet": "বৈশ্বিক কূটনীতিতে মধ্যস্থতাকারীর ভূমিকা নেয়ার জন্য ইসলামাবাদের প্রচেষ্টাকে রীতিমতো ব্যঙ্গ করে ভারতের পররাষ্ট্রমন্ত্রী এস জয়শঙ্কর পাকিস্তানকে 'দালাল রাষ্ট্র' হিসেবে অভিহিত করেছেন। বুধবার দিল্লিতে আয়োজিত এক সর্বদলীয়",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.771041750907898,
+      "embedding_score_norm": 0.1123936932158128,
+      "embedding_rank": 11
+    },
+    {
+      "title": "S Jaishankar UN Speech জয়শঙ্করের বক্তব্য কার্যত কোণঠাসা ...",
+      "url": "https://www.youtube.com/watch?v=DVtsgcPyCcQ",
+      "snippet": "ইউএনজিএ-তে বিদেশমন্ত্রী এস জয়শঙ্কর তীব্র আক্রমণ করেছিলেন, পাকিস্তান থেকে প্রতিক্রিয়া জানিয়েছিলেন-যদিও এটি নাম ছিল না। পাকিস্তানের মন্তব্যের নিন্দা করে ভারত দ্রুত তার উত্তর দেওয়ার অধিকার প্রয়োগ করে।",
+      "bm25_score_raw": 0.41415707997117235,
+      "bm25_score_norm": 0.08758859372038774,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.762946367263794,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

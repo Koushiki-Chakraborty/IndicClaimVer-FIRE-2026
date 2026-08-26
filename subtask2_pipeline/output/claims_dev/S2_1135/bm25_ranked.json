@@ -1,0 +1,57 @@
+{
+  "claim": {
+    "id": "S2/1135",
+    "text": "Gujarat High Court Issues Notice To State Govt, Junagadh Municipal Corporation On Pleas Challenging Demolition Of Dargahs",
+    "lang": "dev"
+  },
+  "ranked_evidence": [
+    {
+      "title": "The Gujarat high court on Friday, June 26, pulled up the Surat Municipal ...",
+      "url": "https://www.facebook.com/thewire.in/posts/the-gujarat-high-court-on-friday-june-26-pulled-up-the-surat-municipal-corporati/1057900403574654",
+      "snippet": "The Gujarat high court on Friday, June 26, pulled up the Surat Municipal Corporation (SMC), state government, and police for the demolition of nearly 150",
+      "bm25_score_raw": 5.670733256187075,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Gujarat High Court: Notice Issued To State Govt, Junagadh Municipal ...",
+      "url": "https://www.magzter.com/stories/newspaper/The-Business-Guardian/GUJARAT-HIGH-COURT-NOTICE-ISSUED-TO-STATE-GOVT-JUNAGADH-MUNICIPAL-CORPORATIONS-ON-PLEA-CHALLENGING-DEMOLITION-OF-DARGAHS",
+      "snippet": "State Of Gujarat observed wherein the plea is moved challenging the demolition notices issued for alleged unauthorised Dargahs,",
+      "bm25_score_raw": 5.503951452838681,
+      "bm25_score_norm": 0.957338222709563,
+      "bm25_rank": 2
+    },
+    {
+      "title": "Demolition of 300-year-old dargah | Gujarat HC issues contempt notice to ...",
+      "url": "https://indianexpress.com/article/cities/ahmedabad/demolition-of-300-year-old-dargah-gujarat-hc-issues-contempt-notice-to-junagadh-municipal-corporation-officers-10094853/lite",
+      "snippet": "The Gujarat High Court on Friday issued a contempt notice to the then Municipal Commissioner Om Prakash and Senior Town Planner Vivek Kiran Parekh.",
+      "bm25_score_raw": 2.492002391756483,
+      "bm25_score_norm": 0.1868998566870234,
+      "bm25_rank": 3
+    },
+    {
+      "title": "Gujarat High Court Issues Notice To Junagadh Municipality On Tenant's ...",
+      "url": "https://www.livelaw.in/amp/high-court/gujarat-high-court/gujarat-high-court-junagadh-municipal-corporation-demolition-shop-311748",
+      "snippet": "Gujarat High Court Issues Notice To Junagadh Municipality On Tenant's Plea For Alternative Premises After Demolition Of Paan Shop. LIVELAW",
+      "bm25_score_raw": 2.378740504181648,
+      "bm25_score_norm": 0.15792815038451663,
+      "bm25_rank": 4
+    },
+    {
+      "title": "Legal Requirements for Challenging a Demolition Notice",
+      "url": "https://supremetoday.ai/search/challenging-demolition-notice-legally",
+      "snippet": "If statutory remedies fail or urgency. File under Article 226 for quashing. - Grounds: Violation of natural justice, lack of jurisdiction, arbitrariness.",
+      "bm25_score_raw": 2.1723863702662936,
+      "bm25_score_norm": 0.10514401010472745,
+      "bm25_rank": 5
+    },
+    {
+      "title": "Gujarat HC issues Notice on Demolition Notices for Dargahs in ...",
+      "url": "https://www.latestlaws.com/amp/latest-news/gujarat-hc-issues-notice-on-demolition-notices-for-dargahs-in-junagadh-201054",
+      "snippet": "The notices in question were issued by the Senior Town Planner of the Junagadh Municipal Corporation, demanding the removal of alleged illegal",
+      "bm25_score_raw": 1.761336743872057,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "claim": {
+    "id": "S2/T/HI/1024",
+    "text": "विशिष्ट निष्पादन के लिए मुकदमा डिक्री पारित होने के बाद समाप्त हो जाता है, और न्यायालय के पास डिक्री को रद्द करने या समय बढ़ाने का अधिकार नहीं रहता: सुप्रीम कोर्ट",
+    "lang": "hindi"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "abatement+of+specific+performance+suit | Indian Case Law",
+      "url": "https://www.casemine.com/search/in/abatement%2Bof%2Bspecific%2Bperformance%2Bsuit",
+      "snippet": "the decree passed in the suit for specific performance of the contract by the trial court was a nullity.25.",
+      "bm25_score_raw": 3.1610090010907674,
+      "bm25_score_norm": 0.3206853811320349,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8913004994392395,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Specific Performance Decree Survives Delay: Supreme Court Rejects ‘Hyper-Technical’ View | Specific Performance Decree Survives Delay: Supreme Court Rejects âHyper-Technicalâ View",
+      "url": "https://lawbeat.in/supreme-court-judgments/specific-performance-decree-survives-delay-supreme-court-rejects-hyper-technical-view-1556928",
+      "snippet": "The Supreme Court has clarified that courts have the power to extend the time fixed in a decree for performance of its conditions and that a slight delay, by itself, cannot defeat a decree for specific performance. A bench of Justices Sanjay Karol and Manoj Misra allowed an appeal filed by Dr Amit Arya after finding that he had consistently shown readiness and willingness to perform his part of the agreement. The respondent objected to the execution on several grounds, including that the petition was filed 87 days after the two-month period mentioned in the decree, that no extension of time had been granted, and that the balance sale consideration had not been deposited at the time of filing the execution petition. The bench directed that a copy of its judgment be sent to the executing court, which was asked to proceed in accordance with law and execute the decree of specific performance passed by the trial court.",
+      "bm25_score_raw": 2.861847524665633,
+      "bm25_score_norm": 0.23512180635806196,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.882412314414978,
+      "embedding_score_norm": 0.8630216638864189,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Abatement in Civil Procedure Code Clarified by Supreme ...",
+      "url": "https://www.linkedin.com/posts/anb-legal_civilprocedure-technicalobservation-justice-activity-7467496151743856641-gLil",
+      "snippet": "The Supreme Court reaffirmed that in a suit for specific performance, the original vendor remains a necessary party even after transferring",
+      "bm25_score_raw": 2.0397759023002426,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.8675715923309326,
+      "embedding_score_norm": 0.6343070936735279,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Important legal issues in specific performance cases: A Study",
+      "url": "https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID2758063_code2533671.pdf?abstractid=2758063&mirid=1",
+      "snippet": "A decree for specific performance can be passed on the basis of an oral agreement and an oral agreement is valid, binding and enforceable. The decree for",
+      "bm25_score_raw": 2.232487386207955,
+      "bm25_score_norm": 0.05511766976209331,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8632758855819702,
+      "embedding_score_norm": 0.5681047406286055,
+      "embedding_rank": 4
+    },
+    {
+      "title": "सुप्रीम कोर्ट ने स्पष्ट शब्दों में कहा है कि वर्षों तक लगातार सेवा ...",
+      "url": "https://www.instagram.com/reel/DUfwHteki-y?hl=hi",
+      "snippet": "... समय से काम कर रहे कर्मचारियों को बाहर नहीं कर सकतीं। ... सुप्रीम कोर्ट ने कंपनी की अपील स्वीकार की, कर्मचारी को सेवा से हटाने के फैसले को सही ठहराया, लेबर कोर्ट और हाई कोर्ट के आदेश रद कर दिए।Read more",
+      "bm25_score_raw": 5.536140765682907,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8578591346740723,
+      "embedding_score_norm": 0.4846256586247694,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Peremptory Decrees In A Suit For Specific Performance Of ...",
+      "url": "https://www.livelaw.in/articles/peremptory-decrees-suit-specific-performancecontract-535597",
+      "snippet": "Section 148 of the CPC confers the civil court with jurisdiction to extend the time, even though the time originally fixed has expired. A three",
+      "bm25_score_raw": 2.0800500903607526,
+      "bm25_score_norm": 0.011518874497996611,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.8562140464782715,
+      "embedding_score_norm": 0.45927273862976653,
+      "embedding_rank": 6
+    },
+    {
+      "title": "Conduct of Parties in Suit for Specific Performance",
+      "url": "https://www.scobserver.in/supreme-court-observer-law-reports-scolr/conduct-of-parties-in-suit-for-specific-performance",
+      "snippet": "The Supreme Court held that the conduct of parties is significant in determining their bona fide intent at the time of executing an agreement in a suit for",
+      "bm25_score_raw": 2.384334407022955,
+      "bm25_score_norm": 0.09854763967321152,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8540929555892944,
+      "embedding_score_norm": 0.42658400634925303,
+      "embedding_rank": 7
+    },
+    {
+      "title": "Direct Supreme Court Kab Jaya Ja Sakta Hai? Sirf ...",
+      "url": "https://www.instagram.com/reel/Das-i1cyZ98",
+      "snippet": "... जिसको कहते हैं डिस्चार्ज। इस स्टेज पे अगर जज को लगता है कि केस में डाक्यूमेंट्स और जो स्टेटमेंट्स वगैरह देखने के बाद लगता है कि कोई भी जो है केस नहीं बनता तो कोर्ट आपको उसी समय डिस्चार्ज कर सकती है।Read more",
+      "bm25_score_raw": 2.7299071704216376,
+      "bm25_score_norm": 0.19738536882952956,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8306952714920044,
+      "embedding_score_norm": 0.06599567163191969,
+      "embedding_rank": 8
+    },
+    {
+      "title": "20 बागी सांसदों पर सुप्रीम कोर्ट का बड़ा फैसला! CJI का बड़ा कदम! ...",
+      "url": "https://www.facebook.com/prbnews01/videos/20-%E0%A4%AC%E0%A4%BE%E0%A4%97%E0%A5%80-%E0%A4%B8%E0%A4%BE%E0%A4%82%E0%A4%B8%E0%A4%A6%E0%A5%8B%E0%A4%82-%E0%A4%AA%E0%A4%B0-%E0%A4%B8%E0%A5%81%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AE-%E0%A4%95%E0%A5%8B%E0%A4%B0%E0%A5%8D%E0%A4%9F-%E0%A4%95%E0%A4%BE-%E0%A4%AC%E0%A4%A1%E0%A4%BC%E0%A4%BE-%E0%A4%AB%E0%A5%88%E0%A4%B8%E0%A4%B2%E0%A4%BE-cji-%E0%A4%95%E0%A4%BE-%E0%A4%AC%E0%A4%A1%E0%A4%BC%E0%A4%BE-%E0%A4%95%E0%A4%A6%E0%A4%AE-supreme-court-cji/914411688340933",
+      "snippet": "हालाँकि दोस्तों सबसे महत्वपूर्ण बात ये रही कि सुप्रीम कोर्ट ने इस याचिका पर सुनवाई करने से पूरी तरीके से इनकार कर दिया। यानी अदालत ने फिलहाल दल-बदल को रोकने के लिए नए दिशा निर्देश जारी करने की मांग स्वीकार ...Read more",
+      "bm25_score_raw": 2.4569092792073848,
+      "bm25_score_norm": 0.11930487612313258,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8264129757881165,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 9
+    }
+  ]
+}

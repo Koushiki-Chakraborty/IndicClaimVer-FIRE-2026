@@ -1,0 +1,105 @@
+{
+  "claim": {
+    "id": "S2/1472",
+    "text": "COVID के बढ़ते मामलों के बीच केंद्र की समीक्षा बैठक, पीएम मोदी ने हाई लेवल मीटिंग में दिए ये निर्देश",
+    "lang": "dev"
+  },
+  "ranked_evidence": [
+    {
+      "title": "Modi chairs a high level meeting to review the COVID-19 ...",
+      "url": "https://www.thehindu.com/news/national/modi-chairs-a-high-level-meeting-to-review-the-covid-19-related-situation-and-vaccination/article36396733.ece",
+      "snippet": "Modi chairs a high level meeting to review the COVID-19 related situation and vaccination PM reviewed production, supply and pipeline of",
+      "bm25_score_raw": 3.530441802598934,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "We need to revive Covid-era practices such as work from ...",
+      "url": "https://www.instagram.com/reel/DYL-Yx8ib14?hl=hi",
+      "snippet": "July 8. Transcript. वर्क फ्रॉम होम फिर से शुरू करने का समय आ गया है. English Transcript. The time has come to start work from home again. OCR. देशहित में PM मोदी",
+      "bm25_score_raw": 1.7640114119716717,
+      "bm25_score_norm": 0.4996574113395935,
+      "bm25_rank": 2
+    },
+    {
+      "title": "PM Modi chairs high-level meeting, reviews preparations ...",
+      "url": "https://theprint.in/india/pm-modi-chairs-high-level-meeting-reviews-preparations-for-covid-vaccination/451915",
+      "snippet": "Modi chaired a high-level meeting to review planning and preparations for vaccination against the novel coronavirus. “An important subject that",
+      "bm25_score_raw": 0.6465895212029237,
+      "bm25_score_norm": 0.18314691400009395,
+      "bm25_rank": 3
+    },
+    {
+      "title": "PM Modi Takes First Dose Of Covid Vaccine LIVE - TV9 ...",
+      "url": "https://www.youtube.com/watch?v=899eHvi7huM",
+      "snippet": "PM Modi Takes First Dose Of Covid Vaccine LIVE - TV9 Exclusive. @TV9TeluguLive53K viewsStreamed 5 years ago",
+      "bm25_score_raw": 0.6398929668981754,
+      "bm25_score_norm": 0.1812501105179296,
+      "bm25_rank": 4
+    },
+    {
+      "title": "PM Modi unveils Atmanirbhar Bharat Abhiyaan for India as ...",
+      "url": "https://www.youtube.com/watch?v=xwWeEZRlLRk",
+      "snippet": "Prime Minister Narendra Modi unveiled a comprehensive package to make India self reliant as it battles the covid-19 pandemic.",
+      "bm25_score_raw": 0.6398929668981754,
+      "bm25_score_norm": 0.1812501105179296,
+      "bm25_rank": 5
+    },
+    {
+      "title": "covid 19: PM Modi chairs high-level meeting to review ...",
+      "url": "https://m.economictimes.com/news/india/pm-modi-chairs-high-level-meeting-to-review-covid-related-situation/videoshow/98923119.cms",
+      "snippet": "Prime Minister Narendra Modi will hold a high-level meeting today to review the Covid-related situation and public health preparedness.",
+      "bm25_score_raw": 0.6398929668981754,
+      "bm25_score_norm": 0.1812501105179296,
+      "bm25_rank": 6
+    },
+    {
+      "title": "PM Modi chairs high-level review meeting on Covid ...",
+      "url": "https://www.hindustantimes.com/india-news/pm-modi-to-hold-high-level-review-meeting-today-on-covid-situation-preparedness-101679476356390.html",
+      "snippet": "Prime Minister Narendra Modi held a high-level meeting today to review the public health preparedness amid rise in coronavirus disease (Covid-19) cases.",
+      "bm25_score_raw": 0.6269075402869384,
+      "bm25_score_norm": 0.17757197975206404,
+      "bm25_rank": 7
+    },
+    {
+      "title": "PM Modi Covid review meeting updates centre guidelines ...",
+      "url": "https://www.indiatvnews.com/news/india/pm-modi-covid-review-meeting-updates-centre-guidelines-on-covid19-rising-cases-states-preparedness-latest-news-2023-03-22-856646",
+      "snippet": "Prime Minister Narendra Modi on Wednesday held a high-level meeting to review the Covid-related situation and public health preparedness, amid rising cases in",
+      "bm25_score_raw": 0.6206104779403062,
+      "bm25_score_norm": 0.17578833263401875,
+      "bm25_rank": 8
+    },
+    {
+      "title": "Five years ago, Modi and his minions fought corona by ...",
+      "url": "https://www.reddit.com/r/unitedstatesofindia/comments/1jhgope/five_years_ago_modi_and_his_minions_fought_corona",
+      "snippet": "Five years ago, Modi and his minions fought corona by scaring the virus away with beating thali sound. 3000 people died in india",
+      "bm25_score_raw": 0.608388389753298,
+      "bm25_score_norm": 0.1723264179869593,
+      "bm25_rank": 9
+    },
+    {
+      "title": "PM Modi leads by example, like a true leader. Watch him walk ...",
+      "url": "https://www.instagram.com/reel/DYWkl7nDKaL",
+      "snippet": "PM MODI LEADING BY EXAMPLE, ALWAYS TOOK THE FIRST VACCINE DURING COVID REDUCED HIS CONVOY TO ... दूसरी ओर बेंगलुरु में एक राजनीतिक रैली के कारण भारी ट्रैफ़िक की",
+      "bm25_score_raw": 0.5639624627124892,
+      "bm25_score_norm": 0.1597427444625566,
+      "bm25_rank": 10
+    },
+    {
+      "title": "PM Modi Holds High-Level Review Meeting On Covid ...",
+      "url": "https://swachhindia.ndtv.com/pm-modi-holds-high-level-review-meeting-on-covid-influenza-situation-stresses-on-covid-appropriate-behaviour-75079",
+      "snippet": "The prime minister emphasized Covid-appropriate behaviour including wearing of masks in hospital premises by both patients, health professionals",
+      "bm25_score_raw": 0.4672831833903482,
+      "bm25_score_norm": 0.13235827398326117,
+      "bm25_rank": 11
+    },
+    {
+      "title": "PM Modi's address to the Nation on COVID-19 | 12th May ...",
+      "url": "https://www.youtube.com/watch?v=P4QjOhu9eIQ",
+      "snippet": "Prime Minister Narendra Modi's address to the Nation on issues related to COVID-19 #IndiaFightsCorona #COVID19 #PMModiLive",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12
+    }
+  ]
+}

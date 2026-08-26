@@ -1,0 +1,76 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1219",
+    "text": "Pawar agreed to pact with Sena in Assembly polls: Joshi",
+    "lang": "english"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Sharad Pawar claims offer of 160 Assembly seats before ...",
+      "url": "https://www.facebook.com/indianexpress/posts/sharad-pawar-claims-offer-of-160-assembly-seats-before-maharashtra-polls-says-he/1328551575295308",
+      "snippet": "Sharad Pawar claims offer of 160 Assembly seats before Maharashtra polls, says he and Rahul Gandhi declined it.",
+      "bm25_score_raw": 7.79322543478322,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8396373987197876,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "BJP-Shiv Sena pact for Lok Sabha polls on course",
+      "url": "https://timesofindia.indiatimes.com/india/bjp-shiv-sena-pact-for-lok-sabha-polls-on-course/articleshow/64501080.cms",
+      "snippet": "India News: If a senior BJP cabinet member is to be believed, both parties agreed to stick to the 2014 formula for the LS polls.",
+      "bm25_score_raw": 7.673007680449506,
+      "bm25_score_norm": 0.9845740694479143,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8339532613754272,
+      "embedding_score_norm": 0.9174120287937257,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Shiv Sena (Eknath Shinde faction) has reportedly ...",
+      "url": "https://www.facebook.com/thepunemirror/posts/shiv-sena-eknath-shinde-faction-has-reportedly-approached-ajit-pawars-ncp-with-a/1410339197342070",
+      "snippet": "Shiv Sena (Eknath Shinde faction) has reportedly approached Ajit Pawar's NCP with a proposal for 25–30 seats, after the party was",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8263689279556274,
+      "embedding_score_norm": 0.8072150592017293,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Six Sena (UBT) MPs are poised to cross over to the Shinde ...",
+      "url": "https://www.facebook.com/timesofindiaplus/posts/six-sena-ubt-mps-are-poised-to-cross-over-to-the-shinde-camp-deepening-uddhav-th/1553497293039094",
+      "snippet": "Yes 50 crore per MP. 15 crore Advance and balance 35 crore after joining party. Thats the deal and reason MPs are suddenly going to Bjp.|You",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8043967485427856,
+      "embedding_score_norm": 0.4879691278050673,
+      "embedding_rank": 4
+    },
+    {
+      "title": "मनोहर जोशींची स्मरणशक्ती कमी झाली : नवाब मलिक",
+      "url": "https://divyamarathi.bhaskar.com/news/MAH-MUM-sharad-pawar-agreed-to-pact-with-shiv-sena-in-assembly-polls-manohar-joshi-4587061-NOR.html",
+      "snippet": "मुंबई - 2009 च्या विधानसभा निवडणुकीवेळी राष्ट्रवादी काँग्रेसचे अध्यक्ष शरद पवार यांनी शिवसेनेसोबत युतीचा प्रस्ताव ठेवला होता, असा दावा करून शिवसेना नेते मनोहर जोशी यांनी राजकीय वातावरण तापवले आहे.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.7849225997924805,
+      "embedding_score_norm": 0.20501846373417765,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Maha Vikas Aghadi firefights seat crisis. India Today's Sahil ...",
+      "url": "https://www.facebook.com/IndiaToday/posts/maha-chaos-of-seat-sharing-continues-maha-vikas-aghadi-firefights-seat-crisis-in/921192633377619",
+      "snippet": "Maha chaos of seat sharing continues; Maha Vikas Aghadi firefights seat crisis. India Today's Sahil Joshi shares his political perspectives",
+      "bm25_score_raw": 2.7035516015174164,
+      "bm25_score_norm": 0.3469104832321099,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.7708121538162231,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6
+    }
+  ]
+}

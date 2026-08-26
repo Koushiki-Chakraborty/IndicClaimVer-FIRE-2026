@@ -1,0 +1,6 @@
+{
+  "ID": "S2/T/EN/1207",
+  "Evidence": "The cumulative number of COVID-19 vaccine doses administered in India has crossed 150 crore, according to Source 1. Source 2 and Source 3 report that the cumulative doses have surpassed 174.99 crore. The evidence indicates that the vaccination drive has been ongoing since January 16, with various phases for different age groups and frontline workers. However, there is no mention of the cumulative doses reaching 120 crore specifically on a Monday, as the latest figures reported are significantly higher than that threshold.",
+  "Prediction": "REFUTES",
+  "Justification": "The retrieved evidence indicates that the cumulative COVID-19 vaccine doses administered in India have surpassed 150 crore and 174.99 crore, but does not confirm that it crossed 120 crore specifically on a Monday. Therefore, the claim is not substantiated by the evidence, leading to a refutation."
+}

@@ -1,0 +1,99 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1244",
+    "text": "Congress, LF face spectre of cross-voting in Bengal Rajya Sabha poll",
+    "lang": "english"
+  },
+  "entity_ranked_evidence": [
+    {
+      "title": "Congress, LF face spectre of cross-voting in Bengal Rajya ...",
+      "url": "https://www.indiatvnews.com/politics/national/congress-lf-face-spectre-of-cross-voting-in-bengal-rajya-sabha-14728.html",
+      "snippet": "Kolkata: High drama marked the eve of the biennial Rajya Sabha polls in West Bengal for five seats, amid speculations Thursday that a few.",
+      "bm25_score_raw": 9.881348761715438,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8936867713928223,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1,
+      "entity_overlap_raw": 2,
+      "entity_overlap_qid": 1,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 1
+    },
+    {
+      "title": "Cross Voting Concerns In Rajya Sabha Polls: After BJD, Congress ...",
+      "url": "https://www.youtube.com/watch?v=gNU2uqbHCJI",
+      "snippet": "Cross Voting Concerns In Rajya Sabha Polls: After BJD, Congress Issues Whips To MLAs #otvnews #odishatv #latestnews #otvnewsenglish #odisha",
+      "bm25_score_raw": 6.615468396839398,
+      "bm25_score_norm": 0.6504456719063478,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.871209442615509,
+      "embedding_score_norm": 0.5949867790501108,
+      "embedding_rank": 2,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 1,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 2
+    },
+    {
+      "title": "Cross voting by 2 Congress, 3 Left Front MLAs in Rajya ...",
+      "url": "https://m.economictimes.com/news/politics-and-nation/cross-voting-by-2-congress-3-left-front-mlas-in-rajya-sabha-polls-ensures-tmc-win/articleshow/29999450.cms",
+      "snippet": "... Congress candidates in the Rajya Sabha elections in West Bengal. As a result of this cross voting, Trinamool Congress is all set to win four",
+      "bm25_score_raw": 5.396355360022366,
+      "bm25_score_norm": 0.519961333582778,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8596012592315674,
+      "embedding_score_norm": 0.38582190059478166,
+      "embedding_rank": 3,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 1,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 3
+    },
+    {
+      "title": "The Cross-Voting Curse: Why Rajya Sabha Polls Remain ...",
+      "url": "https://www.news18.com/explainers/rajya-sabha-achilles-heel-how-cross-voting-has-dogged-congress-since-2014-ws-l-10160418.html",
+      "snippet": "From Haryana to Himachal Pradesh, Gujarat to UP, and Jharkhand, Rajya Sabha elections have repeatedly become a test of the Congress's",
+      "bm25_score_raw": 1.4822733655737954,
+      "bm25_score_norm": 0.10102856544236805,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8453449606895447,
+      "embedding_score_norm": 0.1289413144481032,
+      "embedding_rank": 5,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 1,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 4
+    },
+    {
+      "title": "Kolkata, West Bengal: On cross-voting in the Rajya Sabha ...",
+      "url": "https://x.com/ANI/status/2067936893204074510",
+      "snippet": "ANI (@ANI). 18 likes. #WATCH | Kolkata, West Bengal: On cross-voting in the Rajya Sabha election in Jharkhand, CPI(M-L) leader Dipankar",
+      "bm25_score_raw": 1.467179501394843,
+      "bm25_score_norm": 0.09941303610205468,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8465009927749634,
+      "embedding_score_norm": 0.1497715600291269,
+      "embedding_rank": 4,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 5
+    },
+    {
+      "title": "Decode Politics: As cross-voting cloud looms on Rajya ...",
+      "url": "https://indianexpress.com/article/political-pulse/rajya-sabha-polls-nominations-voting-9165428",
+      "snippet": "MLAs choosing Upper House MPs would have to show their vote to party representatives, but that hasn't checked cross-voting.",
+      "bm25_score_raw": 0.5383651325696687,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8381890058517456,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 6
+    }
+  ]
+}

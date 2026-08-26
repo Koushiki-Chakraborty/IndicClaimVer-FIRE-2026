@@ -1,0 +1,76 @@
+{
+  "claim": {
+    "id": "S2/1111",
+    "text": "After tea-seller jibe, Modi accuses UPA of selling the nation",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "After tea-seller jibe, Narendra Modi accuses UPA of selling ...",
+      "url": "https://www.deccanchronicle.com/131115/news-politics/article/after-tea-seller-jibe-narendra-modi-accuses-upa-selling-nation",
+      "snippet": "Narendra Modi on Friday accused UPA leaders of 'selling the nation' and asked whether they are eligible to become the prime minister of the",
+      "bm25_score_raw": 1.694870584339664,
+      "bm25_score_norm": 0.3023918127477493,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.9327584505081177,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "After tea-seller jibe, Modi accuses UPA of selling the nation",
+      "url": "https://www.business-standard.com/article/politics/after-tea-seller-jibe-modi-accuses-upa-of-selling-the-nation-113111500852_1.html",
+      "snippet": "Narendra Modi today accused UPA leaders of \"selling the nation\" and asked whether they are eligible to become the prime minister of the country.",
+      "bm25_score_raw": 4.327281840175215,
+      "bm25_score_norm": 0.9762049314360489,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.9297652244567871,
+      "embedding_score_norm": 0.9759430120816687,
+      "embedding_rank": 2
+    },
+    {
+      "title": "After Tea-Seller Jibe, Narendra Modi Accuses UPA ...",
+      "url": "https://www.scribd.com/doc/192536072/After-Tea-seller-Jibe-Narendra-Modi-Accuses-UPA-Leaders-of-Selling-the-Nation-The-Economic-Times",
+      "snippet": "Narendra Modi today accused UPA leaders of \"selling the nation\" and asked whether they are eligible to become the prime minister of the country.",
+      "bm25_score_raw": 0.5135050254451015,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.926809549331665,
+      "embedding_score_norm": 0.9521878263535589,
+      "embedding_rank": 3
+    },
+    {
+      "title": "PM Modi On 'Chaiwala' Jibe: \"I Sold Tea, Not The Country\"",
+      "url": "https://www.youtube.com/watch?v=AyMpn6nAjKg",
+      "snippet": "Prime Minister Narendra Modi said that he sold the tea, but will never sell his country like others. PM Modi further added that Congress",
+      "bm25_score_raw": 0.5825836776775972,
+      "bm25_score_norm": 0.017681926405829888,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8915321826934814,
+      "embedding_score_norm": 0.6686585611221293,
+      "embedding_rank": 4
+    },
+    {
+      "title": "I sold tea, not the nation: Prime Minister Modi attacks ...",
+      "url": "https://www.wionews.com/india-news/i-sold-tea-not-the-nation-prime-minister-modi-attacks-congress-25269",
+      "snippet": "Modi said he might have sold tea to earn living but never sold his nation. a derogatory meme taking a jibe at Narendra Modi's English speaking",
+      "bm25_score_raw": 4.16987398377389,
+      "bm25_score_norm": 0.9359135528026024,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8798649311065674,
+      "embedding_score_norm": 0.5748871834669886,
+      "embedding_rank": 5
+    },
+    {
+      "title": "People who sell tea honestly to make ends meet are better ...",
+      "url": "https://www.youtube.com/watch?v=3OIjkcOoTD0",
+      "snippet": "They say how can a tea seller lead the nation.People who sell tea honestly to make ends meet are better than those who sell the nation.",
+      "bm25_score_raw": 4.420242936633326,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8083361387252808,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6
+    }
+  ]
+}

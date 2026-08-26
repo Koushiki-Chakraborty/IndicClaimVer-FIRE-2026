@@ -1,0 +1,105 @@
+{
+  "claim": {
+    "id": "S2/T/HI/1204",
+    "text": "PM मोदी को विदेशों के बजाय देश में ज्यादा सम्मान मिलता है: अमर सिंह",
+    "lang": "hindi"
+  },
+  "ranked_evidence": [
+    {
+      "title": "...जब मंच से पीएम मोदी ने लिया अमर सिंह का नाम",
+      "url": "https://www.youtube.com/watch?v=VDcW3hPjA6I",
+      "snippet": "समाजवादी पार्टी के पूर्व नेता और राज्यसभा सांसद Amar Singh की BJP में शामिल होने की अटकलें तेज हो रही हैं. Amar Singh कल Uttar Pradesh की राजधानी Lucnkow में हुए 'ग्राउंड ब्रेकिंग सेरेमनी'",
+      "bm25_score_raw": 5.31244366637384,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Amar Singh praises Narendra Modi, creates buzz in political circles",
+      "url": "https://www.thestatesman.com/india/amar-singh-praises-narendra-modi-creates-buzz-political-circles-1502667201.html/amp",
+      "snippet": "He said he has started “thinking as an ordinary Indian voter” and sees Prime Minister Modi as the “best bet to take the country forward”. “I",
+      "bm25_score_raw": 3.4639236377850517,
+      "bm25_score_norm": 0.6008954354901092,
+      "bm25_rank": 2
+    },
+    {
+      "title": "Photos by Amar Singh Bhargar (@amarsinghbhargar)",
+      "url": "https://www.instagram.com/p/DaKKr3qEuIY",
+      "snippet": "He also expressed his respect for Prime Minister Narendra Modi, saying that he admires PM Modi's leadership style and personally respects him greatly.",
+      "bm25_score_raw": 3.2799401066820923,
+      "bm25_score_norm": 0.5611724863620458,
+      "bm25_rank": 3
+    },
+    {
+      "title": "पीएम मोदी के बयान पर बोले अमर सिंह, सही समय पर करूंगा खुलासा | ABP News Hindi",
+      "url": "https://www.youtube.com/watch?v=EXH2u4AkLNI",
+      "snippet": "पीएम मोदी के बयान पर बोले अमर सिंह, सही समय पर करूंगा खुलासा About Channel: ABP News एक समाचार चैनल है जो नवीनतम शीर्ष समाचारों, खेल, व्यवसाय, मनोरंजन, राजनीति और कई और अन्य",
+      "bm25_score_raw": 3.129282273341792,
+      "bm25_score_norm": 0.528644719264392,
+      "bm25_rank": 4
+    },
+    {
+      "title": "Modi wants Amitabh Bachchan for next President of India: Amar Singh",
+      "url": "https://tribune.com.pk/story/1077987/modi-planning-to-nominate-amitabh-bachchan-for-next-president-amar-singh?amp=1",
+      "snippet": "Amar Singh revealed that Prime Minister Narendra Modi is planning to propose Bollywood superstar Amitabh Bachchan's name for the next President of India.",
+      "bm25_score_raw": 2.024165598470818,
+      "bm25_score_norm": 0.29004459460482085,
+      "bm25_rank": 5
+    },
+    {
+      "title": "Amar Singh praises PM Narendra Modi but is sarcastic for others",
+      "url": "https://www.youtube.com/watch?v=9ewVsD2P3kY",
+      "snippet": "Known for his political acumen, Amar Singh knows very well how to sail with the winds. while he was praising PM Narendra Modi he didn't have",
+      "bm25_score_raw": 1.97157300393156,
+      "bm25_score_norm": 0.2786895948128737,
+      "bm25_rank": 6
+    },
+    {
+      "title": "Amar Singh hits out at Mulayam for lauding PM Modi",
+      "url": "https://www.facebook.com/EconomicTimes/posts/amar-singh-hits-out-at-mulayam-for-lauding-pm-modi-httpsgoogln2542a/10156030656147694",
+      "snippet": "PM Modi had accused Singh of stating that Muslims have the “first right on the country's resources.” Singh also criticized the BJP for imposing",
+      "bm25_score_raw": 1.9346879492439157,
+      "bm25_score_norm": 0.2707259301187594,
+      "bm25_rank": 7
+    },
+    {
+      "title": "Modi leads tributes after Indian politician Amar Singh dies",
+      "url": "https://www.cnn.com/2020/08/01/india/amar-singh-death-intl",
+      "snippet": "Amar Singh, an Indian politician and former leading figure of the Samajwadi Party, has died aged 64, the country's Prime Minister Narendra Modi said on",
+      "bm25_score_raw": 1.8271291943296273,
+      "bm25_score_norm": 0.2475034659986032,
+      "bm25_rank": 8
+    },
+    {
+      "title": "When PM Modi Mentioned Amar Singh's Name | ABP News",
+      "url": "https://www.youtube.com/watch?v=NTNtePuHaSo",
+      "snippet": "Prime Minister Narendra Modi was addressing in Lucknow when he mentioned Amar Singh's name and said that he can expose many who have cordial",
+      "bm25_score_raw": 1.3494437323138786,
+      "bm25_score_norm": 0.14436882566903841,
+      "bm25_rank": 9
+    },
+    {
+      "title": "यशस्वी प्रधानमंत्री आदरणीय श्री नरेंद्र मोदी जी कल दिनांक- 29 मार्च, 2026 को ...",
+      "url": "https://www.instagram.com/p/DWblr1qiHOe",
+      "snippet": "आदरणीय प्रधानमंत्री श्री Narendra Modi जी अपने लोकप्रिय जनसंवाद कार्यक्रम 'मन की बात' के माध्यम से देशवासियों को संबोधित करेंगे। दिनांक: 28 जून 2026, रविवार समय: प्रातः 11:00 बजे आप सभी इस",
+      "bm25_score_raw": 1.317041022661773,
+      "bm25_score_norm": 0.13737292131061135,
+      "bm25_rank": 10
+    },
+    {
+      "title": "\"Energetic Public Figure\": PM Modi Tweets After Amar Singh's Death",
+      "url": "https://www.ndtv.com/india-news/pm-narendra-modi-tweets-after-amar-singhs-death-energetic-public-figure-2272631",
+      "snippet": "Prime Minister Narendra Modi tweeted on Saturday, condoling his death after an long illness. Several politicians tweeted to express their anguish at Mr Singh's",
+      "bm25_score_raw": 1.1524073281726879,
+      "bm25_score_norm": 0.10182769706282074,
+      "bm25_rank": 11
+    },
+    {
+      "title": "Amar Singh's statement after viral video of derogatory remarks against ...",
+      "url": "https://www.youtube.com/watch?v=7uCwuJmIh5U",
+      "snippet": "Amar Singh's statement after viral video of derogatory remarks against PM Modi. Watch this special segment and get to know more here.",
+      "bm25_score_raw": 0.6807751940805935,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12
+    }
+  ]
+}

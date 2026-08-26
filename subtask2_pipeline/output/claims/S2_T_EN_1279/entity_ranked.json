@@ -1,0 +1,99 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1279",
+    "text": "Allahabad High Court Denies Jaypee’s Interim Plea To Sell Land For Clearing Dues When Allotment Stands Cancelled By Yamuna Expressway Authority",
+    "lang": "english"
+  },
+  "entity_ranked_evidence": [
+    {
+      "title": "Media & Recognition",
+      "url": "https://pricuslegal.com/media-recognition",
+      "snippet": "Allahabad High Court Denies Jaypee's Interim Plea To Sell Land For Clearing Dues When Allotment Stands Cancelled By Yamuna Expressway Authority. Read More.",
+      "bm25_score_raw": 7.541025180817038,
+      "bm25_score_norm": 0.9184658915409899,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.97416090965271,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1,
+      "entity_overlap_raw": 3,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 1
+    },
+    {
+      "title": "Allahabad High Court Denies Jaypee's Interim Plea To Sell Land ...",
+      "url": "https://www.livelaw.in/amp/high-court/allahabad-high-court/allahabad-high-court-jaypee-yeida-homebuyers-land-allotment-cancelled-yamuna-expressway-development-area-jai-prakash-associates-233170",
+      "snippet": "The Allahabad High Court has declined the proposal of M/s Jai Prakash Associates (Jaypee) to sell off certain portion of the 1,000 hectares",
+      "bm25_score_raw": 5.254808675647498,
+      "bm25_score_norm": 0.5459930637949983,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.9166008234024048,
+      "embedding_score_norm": 0.5007971134361688,
+      "embedding_rank": 2,
+      "entity_overlap_raw": 2,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.6666666666666666,
+      "entity_rank": 2
+    },
+    {
+      "title": "Supreme Court rejects Jaypee group's plea to sell Yamuna Expressway",
+      "url": "https://www.newslaundry.com/amp/story/2017%2F10%2F26%2Fsupreme-court-rejects-jaypee-groups-plea-to-sell-yamuna-expressway",
+      "snippet": "The Supreme Court on Wednesday turned down the Jaypee Infratech Limited's plea to sell or hive off its rights to the multi-crore six-lane",
+      "bm25_score_raw": 8.041476785894634,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8945602774620056,
+      "embedding_score_norm": 0.30964548612547044,
+      "embedding_rank": 3,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.3333333333333333,
+      "entity_rank": 3
+    },
+    {
+      "title": "Hc Rejects Jal Interim Plea To Sell Land & Clear 3.6k Cr Dues | Noida ...",
+      "url": "https://timesofindia.indiatimes.com/city/noida/hc-rejects-jal-interim-plea-to-sell-land-clear-3-6k-cr-dues/amp_articleshow/102000425.cms",
+      "snippet": "The Allahabad High Court has rejected the Jaiprakash Associates Ltd's (JAL) petition seeking one-year time to sell a 150-acre land parcel in",
+      "bm25_score_raw": 3.525548776741771,
+      "bm25_score_norm": 0.2642601994767092,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8844633102416992,
+      "embedding_score_norm": 0.22207725073404738,
+      "embedding_rank": 4,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.3333333333333333,
+      "entity_rank": 4
+    },
+    {
+      "title": "Abhinav Gaur's Post",
+      "url": "https://www.linkedin.com/posts/abhinav-gaur-37445565_allahabad-high-court-denies-jaypees-interim-activity-7087876539190558720-V-zT",
+      "snippet": "Allahabad High Court has refused to accept the interim application of the petitioner by which it sought to sell some portion of leased land to",
+      "bm25_score_raw": 3.0680321136253252,
+      "bm25_score_norm": 0.1897210974859048,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8769024610519409,
+      "embedding_score_norm": 0.15650407344609404,
+      "embedding_rank": 5,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 5
+    },
+    {
+      "title": "After 14-yr battle, homebuyers relieved as HC dismisses farmers' ...",
+      "url": "https://groups.google.com/g/yeida/c/Hz2HyhAjG60",
+      "snippet": "The Allahabad high court on Thursday dismissed the petitions of farmers, who claimed that Yeida had forcefully acquired their land for developmental purposes.",
+      "bm25_score_raw": 1.9035350761476086,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8588569164276123,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 6
+    }
+  ]
+}

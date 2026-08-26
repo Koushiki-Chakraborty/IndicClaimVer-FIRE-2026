@@ -1,0 +1,105 @@
+{
+  "claim": {
+    "id": "S2/T/CM/1033",
+    "text": "maurya apne desh me hindi sabse jada bolne wala shabd hindi hai isliye hamare desh ka naam hindustan hai ok jo hindu hai wohindu hai jo muslim hai wo muslim hai aisa nahi hai ki jo hindustan me hai wo hindu hi ho aisa kuchh nahi hai sab bakbas hai",
+    "lang": "codemix"
+  },
+  "ranked_evidence": [
+    {
+      "title": "Hindi Debate Live : SDM Jyoti Maurya के नाम पर न सताओ",
+      "url": "https://www.youtube.com/watch?v=RhbDZyuHqi8",
+      "snippet": "Hindi Debate Live : SDM Jyoti Maurya के नाम पर न सताओ | Alok Maurya | Hindi News | Latest News. @News18BiharJharkhand13 likes1.9K viewsStreamed ...Read more",
+      "bm25_score_raw": 5.813527326442718,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Were URDU and HINDI once the same Language?",
+      "url": "https://www.youtube.com/watch?v=uJtEE-vj0-U",
+      "snippet": "\"Urdu and Hindi are actually Hindustani. Muslims chose to speak Persianized and Arabicized Hindustani, and Hindus chose a Sanskritized ...Read more",
+      "bm25_score_raw": 5.1225145911303365,
+      "bm25_score_norm": 0.881137096893082,
+      "bm25_rank": 2
+    },
+    {
+      "title": "MUSLIMS NAMED HINDUSTAN!",
+      "url": "https://www.goanobserver.in/2022/12/09/muslims-named-hindustan",
+      "snippet": "Dec 9, 2022 — Hindustan is the name that the Mughals gave to the area they controlled based on the Sindhu. It is the British who reinforced the word “",
+      "bm25_score_raw": 4.787429033961465,
+      "bm25_score_norm": 0.8234981561342175,
+      "bm25_rank": 3
+    },
+    {
+      "title": "बेवफा कौन?..Pakistani Seema, SDM Jyoti Maurya पर सबसे ...",
+      "url": "https://www.youtube.com/watch?v=pxmYNK-dAXA",
+      "snippet": "बेवफा कौन?..Pakistani Seema, SDM Jyoti Maurya पर सबसे विस्फोटक बहस LIVE | Sachin | Alok Maurya Seema & Jyoti...2 'प्रेमकथाओं' पर गदर!",
+      "bm25_score_raw": 3.6871551161902465,
+      "bm25_score_norm": 0.6342371694752843,
+      "bm25_rank": 4
+    },
+    {
+      "title": "Language Monday: Hindi",
+      "url": "https://www.worldbook.com/behind-the-headlines/Language-Monday-Hindi",
+      "snippet": "Apr 16, 2018 — Indian Hindus, people who practice Hinduism, often speak Hindi. Indian Muslims, people who practice Islam, often speak Urdu. Urdu is also spoken ...Read more",
+      "bm25_score_raw": 3.2817772345300154,
+      "bm25_score_norm": 0.5645070626232226,
+      "bm25_rank": 5
+    },
+    {
+      "title": "he Hindustani language was born in the 13th century ...",
+      "url": "https://www.facebook.com/TheCultureTreeNY/posts/he-hindustani-language-was-born-in-the-13th-century-when-the-arabs-and-the-turks/4944376879006921",
+      "snippet": "The divide became more pronounced between Hindus using the 'Hindi' with the Devanagari script and the Muslims identifying with 'Urdu' written in ...Read more",
+      "bm25_score_raw": 2.8581053580925158,
+      "bm25_score_norm": 0.49163015800966103,
+      "bm25_rank": 6
+    },
+    {
+      "title": "Hindustani language - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hindustani_language",
+      "snippet": "# Hindustani language. For its official forms, see Hindi and Urdu. | The word *Hindustani* in the Devanagari and the Nastaliq-style Perso-Arabic scripts |. | Official language in | * India  (as Hindi and Urdu) * Pakistan   (as Urdu) * Fiji  (as Fijian Hindustani)  |. **Hindustani** is an Indo-Aryan language spoken in North India and Pakistan as the lingua franca of the region. Hindustani is a pluricentric language with two standard registers \"Register (sociolinguistics)\"), known as Hindi (Prakritised and Sanskritised \"Sanskritisation (linguistics)\") register written in the Brahmic script) and Urdu (Persianised and Arabised register written in the Perso-Arabic script), which serve as official languages of India and Pakistan, respectively. The concept of a Hindustani language as a \"unifying language\" or \"fusion language\" that could transcend communal and religious divisions across the subcontinent was endorsed by Mahatma Gandhi, as it was not seen to be associated with either the Hindu or Muslim communities as was the case with Hindi and Urdu respectively, and it was also considered a simpler language for people to learn.",
+      "bm25_score_raw": 2.6809775338977877,
+      "bm25_score_norm": 0.46116193893222324,
+      "bm25_rank": 7
+    },
+    {
+      "title": "Maurya Empire: A Pan-India Empire (Part-2) | Ancient India ...",
+      "url": "https://www.youtube.com/watch?v=ax61_T_3m5g",
+      "snippet": "सर जी आपके इस सवाल से में इतना उत्साहित हो गया शायद में भी होता तो आपकी भाषा मे ही जवाब ना सही बल्कि आपके अनुसरण से दे सकता हूँ थैंक्स सर जी मे राजस्थान से.Read more",
+      "bm25_score_raw": 2.065746267643912,
+      "bm25_score_norm": 0.3553344039939237,
+      "bm25_rank": 8
+    },
+    {
+      "title": "Did you know the word Hindu didn't start as a religion? It ...",
+      "url": "https://www.instagram.com/reel/DUnr7wkjGgE",
+      "snippet": "Here Hindu began to mean as non-Muslims in India. By 16th century, Indian authors had accepted it too. It increasingly became another name for",
+      "bm25_score_raw": 1.1371744881489978,
+      "bm25_score_norm": 0.19560835002470556,
+      "bm25_rank": 9
+    },
+    {
+      "title": "भारत में सबसे ज़्यादा बोली जाने वाली भाषा कौन सी है? . . . ...",
+      "url": "https://www.instagram.com/reel/DNfttuUpkHi?hl=en",
+      "snippet": "भारत में सबसे ज़्यादा बोली जाने वाली भाषा कौन सी है? . . . क्या आप जानते हैं, भारत में कौन-सी भाषा सबसे ज़्यादा बोली जाती है? हिंदी, बंगाली, मराठी, तेलुगु… और भी कई भाषाएँ हैं जो हमारे देश की विविधता को दिखाती हैं ...Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10
+    },
+    {
+      "title": "हिंदी दुनिया की चौथी सबसे ज्यादा बोली जाने वाली भाषा है और कई ...",
+      "url": "https://www.instagram.com/reel/DUk6nP4DXMk?hl=en",
+      "snippet": "7195 likes, 63 comments - indiatvnews on February 10, 2026: \"हिंदी दुनिया की चौथी सबसे ज्यादा बोली जाने वाली भाषा है और कई देश ऐसे हैं जहां इसे बड़े पैमाने पर बोला जाता है।",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11
+    },
+    {
+      "title": "हिंदी को भारत की सबसे व्यापक रूप से बोली जाने वाली भाषा ...",
+      "url": "https://www.facebook.com/thebetterindia.hindi/posts/%E0%A4%B9%E0%A4%BF%E0%A4%82%E0%A4%A6%E0%A5%80-%E0%A4%95%E0%A5%8B-%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4-%E0%A4%95%E0%A5%80-%E0%A4%B8%E0%A4%AC%E0%A4%B8%E0%A5%87-%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AA%E0%A4%95-%E0%A4%B0%E0%A5%82%E0%A4%AA-%E0%A4%B8%E0%A5%87-%E0%A4%AC%E0%A5%8B%E0%A4%B2%E0%A5%80-%E0%A4%9C%E0%A4%BE%E0%A4%A8%E0%A5%87-%E0%A4%B5%E0%A4%BE%E0%A4%B2%E0%A5%80-%E0%A4%AD%E0%A4%BE%E0%A4%B7%E0%A4%BE-%E0%A4%AE%E0%A4%BE%E0%A4%A8%E0%A4%BE-%E0%A4%9C%E0%A4%BE%E0%A4%A4%E0%A4%BE-%E0%A4%B9%E0%A5%88-%E0%A4%B2%E0%A5%87%E0%A4%95%E0%A4%BF%E0%A4%A8-%E0%A4%95%E0%A5%81%E0%A4%9B-%E0%A4%B0/1040221911467394",
+      "snippet": "हिंदी को भारत की सबसे व्यापक रूप से बोली जाने वाली भाषा माना जाता है, लेकिन कुछ राज्यों में इसकी लोकप्रियता के अलग-अलग कारण हैं। अरुणाचल प्रदेश भी ऐसा ही",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12
+    }
+  ]
+}

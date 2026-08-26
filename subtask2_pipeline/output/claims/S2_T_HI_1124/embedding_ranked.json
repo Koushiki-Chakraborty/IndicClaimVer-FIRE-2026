@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/HI/1124",
+    "text": "NEET-UG 2024 | NEET परीक्षा दोबारा आयोजित करने की मांग को समर्थन देने सुप्रीम कोर्ट पहुंचे 2 कैंडिडेट",
+    "lang": "hindi"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Supreme Court says any order for conducting NEET",
+      "url": "https://newsonair.gov.in/supreme-court-scheduled-to-hear-today-batch-of-petitions-related-to-neet-ug-2024-controversy",
+      "snippet": "Supreme Court says any order for conducting NEET-UG 2024 afresh has to be on. The Supreme Court says the retest of the NEET examination has",
+      "bm25_score_raw": 4.977797330758989,
+      "bm25_score_norm": 0.686582140480267,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.9077505469322205,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Supreme Court Confirms NEET-UG Re-Examination on ...",
+      "url": "https://www.facebook.com/TheCSRJournal/posts/the-supreme-court-has-confirmed-that-the-national-eligibility-cum-entrance-test-/1317759853778733",
+      "snippet": "New Delhi: Amid demands for cancellation of the NEET-UG 2024 examination over alleged paper leak, the Centre on Friday opposed before the",
+      "bm25_score_raw": 0.7882818710327323,
+      "bm25_score_norm": 0.10872685614802254,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.9021801948547363,
+      "embedding_score_norm": 0.9293616738233433,
+      "embedding_rank": 2
+    },
+    {
+      "title": "The Supreme Court has issued notice to the centre and ...",
+      "url": "https://www.facebook.com/IndiaToday/posts/the-supreme-court-has-issued-notice-to-the-centre-and-the-national-testing-agenc/971085681721647",
+      "snippet": "The #SupremeCourt has told the Centre and National Testing Agency (NTA) to address any negligence in conducting NEET-UG 2024. Aspirants have",
+      "bm25_score_raw": 2.5330766969962113,
+      "bm25_score_norm": 0.34938449781344644,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8975129127502441,
+      "embedding_score_norm": 0.8701752900778302,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Supreme Court to Hear NEET UG 2024 Controversy: Key ...",
+      "url": "https://www.youtube.com/watch?v=dr4xrOGze94",
+      "snippet": "On Monday, the Supreme Court of India is set to hear over 40 petitions demanding the cancellation of the NEET UG 2024 exam amid allegations",
+      "bm25_score_raw": 3.187637376560353,
+      "bm25_score_norm": 0.4396673363035469,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8885509371757507,
+      "embedding_score_norm": 0.756527365312504,
+      "embedding_rank": 4
+    },
+    {
+      "title": "NEET UG 2024: Candidates demand re-exam for all, ...",
+      "url": "https://timesofindia.indiatimes.com/education/news/neet-ug-2024-candidates-demand-re-exam-for-all-deeper-probe-into-alleged-irregularities/articleshow/110973547.cms",
+      "snippet": "The decision to cancel the scorecards of 1,563 NEET UG candidates who received grace marks and offer them a re-examination on June 23 has been",
+      "bm25_score_raw": 7.250111876310967,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8777400255203247,
+      "embedding_score_norm": 0.6194328525850581,
+      "embedding_rank": 5
+    },
+    {
+      "title": "'NEET UG 2024 रीटेस्ट आखिरी विकल्प है', सुप्रीम कोर्ट ने पेपर ...",
+      "url": "https://www.jagran.com/news/education-sc-hearing-on-neet-ug-2024-supreme-court-to-continue-proceedings-on-38-pleas-demanding-cancellation-and-re-condut-of-medical-entrance-exam-23754375.html",
+      "snippet": "उच्चतम न्यायालय में राष्ट्रीय पात्रता सह प्रवेश परीक्षा - अंडरग्रेजुएट (NEET UG) 2024 को रद्द करने और फिर से आयोजन का राष्ट्रीय परीक्षा एजेंसी (NTA) को आदेश देने की मांगों से सम्बन्धित दायर 38 याचिकाओं",
+      "bm25_score_raw": 0.4816529587067383,
+      "bm25_score_norm": 0.06643386570081661,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.8760368227958679,
+      "embedding_score_norm": 0.5978343274071868,
+      "embedding_rank": 6
+    },
+    {
+      "title": "NEET UG 2024 Row: सुप्रीम कोर्ट में केंद्र का हलफनामा ...",
+      "url": "https://www.jansatta.com/education/neet-ug-2024-row-central-government-filed-affidavit-in-supreme-court-and-appealed-not-to-cancel-the-neet-ug-exam/3457074",
+      "snippet": "NEET-UGC NET Row 2024: केंद्र सरकार ने सर्वोच्च अदालत में हलफनामा दायर कर नीट यूजी परीक्षा रद्द न किए जाने की अपील की है, जिसके लिए कुछ तर्कों और तथ्यों को रखा गया है। इस मामले की सुनवाई 8",
+      "bm25_score_raw": 1.4080109891449997,
+      "bm25_score_norm": 0.19420541547028233,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.8675358295440674,
+      "embedding_score_norm": 0.4900321767005012,
+      "embedding_rank": 7
+    },
+    {
+      "title": "Neet 2024: 'Expect Timely Action...', Supreme Court Slams NTA; Protests Spread Across The Country",
+      "url": "https://www.youtube.com/watch?v=cJRe-6APU58",
+      "snippet": "Neet 2024: 'Expect Timely Action...', Supreme Court Slams NTA; Protests Spread Across The Country\nMint\n1500000 subscribers\n296 likes\n30622 views\n18 Jun 2024\nAmid concerns about the National Eligibility-cum-Entrance Test (NEET) for admission into medical colleges, the Supreme Court today came down heavily on the National Testing Agency (NTA), which conducts the nationwide exam for medical college aspirants.\n\nStudents are protesting across the country demanding a re-exam. Aam Admi Party also took out a protest to demand an inquiry into the alleged scam and scrapping of the NEET UG 2024. \n\nIn the meantime, NEET PG admit card has been released today and the exam will be conducted on 23rd June 2024.\n\n#neet2024 #neetexam #neetexamdate2024 #neetexamdate #neetpaper #neetprotest #sanjaysingh #rahulgandhinews #priyankagandhinews #aamadmiparty \n\nMint is an Indian financial daily newspaper published by HT Media. The Mint YT Channel brings you cutting edge analysis of the latest business news and financial news. With in-depth market coverage, explainers and expert opinions, we break down and simplify business news for you. \n\nClick here to download the Mint App \nhttps://livemint.onelink.me/MrDS/p0kx3pdg\n79 comments\n",
+      "bm25_score_raw": 2.6197161438958574,
+      "bm25_score_norm": 0.36133458194700746,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8671707510948181,
+      "embedding_score_norm": 0.48540257156613686,
+      "embedding_rank": 8
+    },
+    {
+      "title": "NEET Exam 2024: नीट में धांधली के आरोपों पर सुप्रीम कोर्ट ...",
+      "url": "https://hindi.news18.com/news/education/neet-ug-2024-controversy-supreme-court-decision-on-neet-exam-cancel-nta-neet-re-exam-news-8401039.html",
+      "snippet": "सुप्रीम कोर्ट ने नीट काउंसलिंग पर रोक लगाने से इनकार कर दिया है. हालांकि अदालत ने माना कि परीक्षा की पवित्रता प्रभावित हुई है. इस मामले में शीर्ष अदालत ने नेशनल टेस्टिंग को नोटिस जारी किया है. अदालत ने कहा कि",
+      "bm25_score_raw": 0.9152703472338741,
+      "bm25_score_norm": 0.12624223775421048,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.860744833946228,
+      "embedding_score_norm": 0.40391471851622857,
+      "embedding_rank": 9
+    },
+    {
+      "title": "NEET UG 2024: नीट यूजी मामले में सुप्रीम कोर्ट में सुनवाई ...",
+      "url": "https://bansalnews.com/important-hearing-is-going-to-held-in-supreme-court-today-in-neet-ug-paper-leak-case-hindi-news-ujr",
+      "snippet": "NEET UG 2024: नीट यूजी मामले में सुप्रीम कोर्ट में सुनवाई खत्म, कोर्ट ने माना लीक हुआ था नीट का पेपर ... NEET UG 2024: नीट यूजी पेपर लीक मामले में आज सुप्रीम कोर्ट में अहम सुनवाई होने जा रही है। 24",
+      "bm25_score_raw": 2.2603455268537047,
+      "bm25_score_norm": 0.31176698586392343,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8596917390823364,
+      "embedding_score_norm": 0.3905602918200735,
+      "embedding_rank": 10
+    },
+    {
+      "title": "NEET पर अब 22 जुलाई को अगली सुनवाई, सुप्रीम कोर्ट में क्या चली ...",
+      "url": "https://ndtv.in/india/neet-ug-2024-hearing-live-updates-supreme-court-verdict-neet-exam-neet-paper-leak-6129641",
+      "snippet": "NEET UG Live Updates: सुबह 11: 15 बजे के करीब शुरू होगी सुनवाई. विवादों में घिरे नीट-यूजी मामले पर सुप्रीम कोर्ट में आज सुबह सवा 11 बजे के आसपास सुनवाई शुरू होगी. अदालती सुनवाई की लाइव स्ट्रीमिंग",
+      "bm25_score_raw": 1.7820182867653749,
+      "bm25_score_norm": 0.24579183289404755,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8494514226913452,
+      "embedding_score_norm": 0.2607015684724268,
+      "embedding_rank": 11
+    },
+    {
+      "title": "सुप्रीम कोर्ट का नीट काउंसलिंग पर रोक लगाने से इनकार, 8 जुलाई ...",
+      "url": "https://www.abplive.com/news/india/supreme-court-declines-neet-ug-2024-counselling-issues-notice-nta-over-neet-paper-leak-2719930",
+      "snippet": "अदालत ने मेडिकल एंट्रेंस एग्जाम करवाने वाली संस्था नेशनल टेस्टिंग एजेंसी (एनटीए) को नोटिस भी जारी किया है. सुप्रीम कोर्ट ने नीट एग्जाम को रद्द करने और दोबारा परीक्षा की मांग वाली नई याचिकाओं को बाकी की पेंडिंग पड़ी",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.8288931846618652,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

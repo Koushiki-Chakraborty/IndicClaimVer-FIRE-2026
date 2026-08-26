@@ -1,0 +1,6 @@
+{
+  "ID": "S2/T/EN/1156",
+  "Evidence": "Chennai reported 4,041 new Covid-19 cases and 88 deaths in a single day, with the total active cases in Tamil Nadu reaching 3.06 lakh. The state had a total of 21,340 deaths reported. The retrieved evidence indicates that Chennai is experiencing a significant number of cases and deaths, with the highest numbers in the state (Source 2). However, there is no mention of the specific numbers of 47 cases and one death as stated in the claim, nor is there a confirmation of 255 active cases in Tamil Nadu (Source 1 and Source 3).",
+  "Prediction": "REFUTES",
+  "Justification": "The evidence does not support the claim that Chennai logged 47 cases and one death, as it states that Chennai reported 4,041 new cases and 88 deaths on that day (Source 2). Additionally, the claim of 255 active cases in Tamil Nadu is not substantiated by the retrieved evidence, which indicates a much higher number of active cases (3.06 lakh) (Source 2). Therefore, the claim is directly contradicted by the evidence."
+}

@@ -1,0 +1,4 @@
+=== KG-boosted retrieval + GPT-4o-mini veracity (data/ train+dev) ===
+Retrieval -- n=5670  Success@3=0.8395  nDCG@3=0.5748
+Veracity  -- n=5670  macro_F1=0.9236
+Confusion matrix ['REFUTES', 'SUPPORTS']: [[1582, 307], [65, 3716]]

@@ -1,0 +1,57 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1140",
+    "text": "Special assembly session for passing Jan Lokpal Bill on March 16",
+    "lang": "english"
+  },
+  "ranked_evidence": [
+    {
+      "title": "Special Delhi assembly session at IGI stadium on Feb 16",
+      "url": "https://timesofindia.indiatimes.com/city/delhi/jan-lokpal-bill-special-delhi-assembly-session-at-igi-stadium-on-feb-16/articleshow/29658068.cms",
+      "snippet": "Delhi Cabinet on Friday decided to call a special session of assembly to take up the Jan Lokpal Bill that seeks to punish corrupt officials on",
+      "bm25_score_raw": 9.50691987660242,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Lokpal - A 'toothless' tiger?",
+      "url": "https://prsindia.org/theprsblog/lokpal-a-toothless-tiger?page=54&per-page=1",
+      "snippet": "On March 16, all educational institutions and hostels in the state were closed till March 31. Assembly concludes 2-day session;",
+      "bm25_score_raw": 5.874740011165559,
+      "bm25_score_norm": 0.5472487559760614,
+      "bm25_rank": 2
+    },
+    {
+      "title": "AAP govt to pass Jan Lokpal Bill on Feb 16",
+      "url": "https://www.rediff.com/news/report/aap-govt-to-pass-jan-lokpal-bill-on-feb-16/20140131.htm",
+      "snippet": "Minister Manish Sisodia said a meeting of the cabinet has decided to call the assembly session from February 13 to 16 and the House will sit at",
+      "bm25_score_raw": 5.0777297831905726,
+      "bm25_score_norm": 0.44790142583714576,
+      "bm25_rank": 3
+    },
+    {
+      "title": "Jan Lokpal Bill passed by Delhi Assembly",
+      "url": "https://www.indiatoday.in/india/story/jan-lokpal-bill-passed-by-delhi-assembly-275725-2015-12-04",
+      "snippet": "The Delhi Jan Lokpal bill which has been described as the strongest anti graft legislation by the AAP government was passed by the Delhi Assembly on December 3.",
+      "bm25_score_raw": 2.5334268300464804,
+      "bm25_score_norm": 0.13075404605802818,
+      "bm25_rank": 4
+    },
+    {
+      "title": "jan lokpal bill",
+      "url": "https://www.deployyourself.com/tag/jan-lokpal-bill",
+      "snippet": "Lokpal Bill was first introduced in parliament in 1968. It has been brought in parliament on eight times on later occasions, but has never been passed by the",
+      "bm25_score_raw": 1.516588713863639,
+      "bm25_score_norm": 0.0040051682137400456,
+      "bm25_rank": 5
+    },
+    {
+      "title": "Jan Lokpal Bill - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jan_Lokpal_Bill",
+      "snippet": "# Jan Lokpal Bill. Not to be confused with The Lokpal and Lokayuktas Act, 2013. The **Jan Lokpal Bill**, also referred to as the **Citizen's Ombudsman Bill**, was a bill drawn up by civil society activists in India seeking the appointment of a Jan Lokpal, an independent body to investigate corruption cases and complete the investigation within a year for envisaging trial in the case getting completed within one year. The demand for a Jan Lokpal was inspired by the Hong Kong Independent Commission Against Corruption \"Independent Commission Against Corruption (Hong Kong)\") and taken forward by a group of activists that came to be styled by the media as Team Anna. The Lokpal has jurisdiction to inquire into allegations of corruption against anyone who is or has been Prime Minister, or a Minister in the Union government, or a Member of Parliament, as well as officials of the Union government under Groups A, B, C and D.",
+      "bm25_score_raw": 1.4844574021651002,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6
+    }
+  ]
+}

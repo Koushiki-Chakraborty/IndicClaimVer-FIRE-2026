@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/1630",
+    "text": "আতঙ্কের মাঝেও স্বস্তি, করোনার কবল থেকে বেঁচে ফিরলেন ৫৬ হাজার",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Death Toll in Hydropower Tunnel Disaster Rises to 25 - Manufacturing.net",
+      "url": "https://www.manufacturing.net/energy/news/22971113/death-toll-in-hydropower-tunnel-disaster-rises-to-25",
+      "snippet": "# Death Toll in Hydropower Tunnel Disaster Rises to 25. In this image provided by the Information and Public Relations Department, Government of Sikkim, rescue workers stand outside an under-construction tunnel at a hydropower project in Samardung village, about 40 kilometers (25 miles) from Gangtok, India, Wednesday, July 22, 2026. GUWAHATI, India (AP) — Authorities recovered the bodies of the remaining 13 workers trapped inside a collapsed hydropower tunnel in India, taking the death toll to 25 as authorities ended the rescue operations on Thursday. **Explosion in Hydropower Project Tunnel**. Multiple agencies had made sustained and coordinated rescue efforts in the four days since a gas explosion ripped through the tunnel. Following the recovery of all the missing employees, teams carried out a final inspection of the tunnel, the state government of Sikkim said in a statement. A buildup of methane gas triggered the explosion, trapping dozens of workers underground. ##### Toxic Gas Slows Efforts to Rescue 13 Workers Trapped in Hydropower Tunnel After Explosion.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.8078528642654419,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Thieves hit Corona collectible card shop for nearly $20k in stolen goods, owner says - CBS News",
+      "url": "https://www.cbsnews.com/losangeles/video/thieves-hit-corona-collectible-card-shop-for-nearly-20k-in-stolen-goods-owner-says/",
+      "snippet": "# Thieves hit Corona collectible card shop for nearly $20k in stolen goods, owner says. Up to $20,000 in stolen memorabilia was taken from a card shop in Corona over the weekend, the store's owner says.",
+      "bm25_score_raw": 2.850526765305114,
+      "bm25_score_norm": 0.7869934723798052,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.794240415096283,
+      "embedding_score_norm": 0.782917330854333,
+      "embedding_rank": 2
+    },
+    {
+      "title": "TV host spent months believing her cancer had returned — but doctors had made a mistake - New York Post",
+      "url": "https://nypost.com/2026/07/23/health/tv-host-believed-her-cancer-had-returned-doctors-made-a-msitake/",
+      "snippet": "# TV host spent months believing her cancer had returned — but doctors had made a mistake. After over three years believing she was cancer free, Scottish TV host Jo Wilson got life-changing news: “I was told my cancer had returned in a lymph node.”. She was diagnosed with stage three cervical cancer in September 2022. But after her three-year scan in February 2026, she was told it had come back — and was referred to a team for high dose radiation to target and kill the cancer. What doctors saw in her pelvic lymph nodes, Wilson said, “is now thought to be a benign neuroma — a cluster of nerves that was likely inflamed at the time of my original scan.”. When Wilson learned she didn’t actually have cancer, “the relief was indescribable, but so too is the emotional toll from the last five months, believing — then not knowing if my cancer had returned.”. In February 2026, she was told her cancer returned.",
+      "bm25_score_raw": 3.4042305730015334,
+      "bm25_score_norm": 0.9398639128867136,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.788223385810852,
+      "embedding_score_norm": 0.6869615802486034,
+      "embedding_rank": 3
+    },
+    {
+      "title": "First responders on scene of partial building collapse in Jerusalem - The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-903095",
+      "snippet": "# Approximately five people trapped due to partial building collapse in Jerusalem. ## Several people are still trapped in the rubble, a United Hatzalah spokesperson said. United Hatzalah volunteers respond to a partial building collapse on Jerusalem's KKL Street, July 20, 2026. A partial building collapse was reported on Jerusalem's Keren Kayemet Boulevard on Monday, United Hatzalah said. Several people are still trapped in the rubble, the emergency response organization said, noting that first responders are on scene providing assistance to several conscious victims. *This is a developing story.*.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.7871142625808716,
+      "embedding_score_norm": 0.6692739894129199,
+      "embedding_rank": 4
+    },
+    {
+      "title": "1 dead, 60 displaced after fire in Baldwin Park townhouse community - Los Angeles Times",
+      "url": "https://www.latimes.com/california/story/2026-07-20/1-dead-60-displaced-after-fire-in-baldwin-park-townhouse-community",
+      "snippet": "# 1 dead, 60 displaced after fire in Baldwin Park townhouse community. See more from the L.A. Times in Google Search. * At least one person was killed and 60 others were displaced from the townhouse community called Alderwood. * The Los Angeles County medical examiner has not identified the victim. One person is dead and 60 others have been displaced following a fire at a Baldwin Park townhouse community, according to the Los Angeles County Fire Department. at the townhouse community of Alderwood, according to the Fire Department. Fire officials said the fire killed one person and displaced 60 others but did not say how many townhouses were destroyed or damaged or how the fire started. The Los Angeles County medical examiner has not released details about the victim killed in the fire. ### More to Read. ### More From the Los Angeles Times.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.786208987236023,
+      "embedding_score_norm": 0.6548372348120836,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Haaretz: Israeli Army Opened 57 Death Investigations Into Gaza and Lebanon Prisoners, None Led to Indictments - ABNA English",
+      "url": "https://en.abna24.com/news/1842121/Haaretz-Israeli-Army-Opened-57-Death-Investigations-Into-Gaza",
+      "snippet": "# Haaretz: Israeli Army Opened 57 Death Investigations Into Gaza and Lebanon Prisoners, None Led to Indictments. ABNA24 - The Israeli occupation army opened 57 criminal investigations into the deaths of 56 Palestinian prisoners from Gaza and one Lebanese prisoner during the latest wars on Gaza and Lebanon, but none led to indictments, Haaretz reported on Friday. The Israeli occupation army opened 57 criminal investigations into the deaths of 56 Palestinian prisoners from Gaza and one Lebanese prisoner during the latest wars on Gaza and Lebanon, but none led to indictments, Haaretz reported on Friday. Most of the deaths occurred inside military detention facilities equipped with surveillance cameras and in the presence of soldiers and detainees who could serve as witnesses, the report said. Most investigations were opened in 2024, which saw record numbers of detainees from Gaza. The second involved soldiers from Unit 100 accused of violence against a Gaza detainee, but the case was closed after public pressure and after the Palestinian complainant was released and returned to Gaza before testifying in court.",
+      "bm25_score_raw": 3.5289508026033487,
+      "bm25_score_norm": 0.9742975508251501,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.7822391986846924,
+      "embedding_score_norm": 0.5915295754807103,
+      "embedding_rank": 6
+    },
+    {
+      "title": "Exclusive | Panic and confusion as NYC renters learn of Legionnaires’ at their building — but not from management - New York Post",
+      "url": "https://nypost.com/2026/07/20/real-estate/panic-confusion-as-nyc-renters-learn-of-legionnaires/",
+      "snippet": "# Panic and confusion as NYC renters learn of Legionnaires’ at their building — but not from management. Residents at the Upper East Side mega-complex Normandie Court are fuming after learning Legionella DNA was detected at their building — not from management, but through other news sources. Normandie Court was one of 31 buildings with cooling towers that tested positive for the presence of Legionella bacteria during an initial PCR (polymerase chain reaction) screening, DOH announced on July 10. “As part of our regularly scheduled water testing protocol conducted by Metro Group, our certified water management company, the routine Legionella culture test performed on June 23 returned with no Legionella detected,” management wrote in a letter for residents and viewed by The Post. Normandie’s management said in its July 14 note to residents Metro Group “performed a full hyperhalogenation and disinfection of the cooling tower today, and the tower will then be retested pursuant to Department of Health guidelines.”.",
+      "bm25_score_raw": 3.6220462625761676,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.7794206738471985,
+      "embedding_score_norm": 0.5465815365809378,
+      "embedding_rank": 7
+    },
+    {
+      "title": "Bezalel Smotrich announces expansion of West Bank highway in new settlement push - The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-902929",
+      "snippet": "# Smotrich announces expansion of West Bank's Highway 465, pushes for new level of 'safety, security'. ## \"The doubling of this important road will create a completely different level of safety, security, and quality of life,\" said Finance Minister Bezalel Smotrich in a statement announcing the project. Finance Minister Bezalel Smotrich on Wednesday approved the expansion of Highway 465, located inside the West Bank, which will double the route's capacity and connect the east and west settlements of the Mateh Binyamin Regional Council. The doubling of this important road will create a completely different level of safety, security, and quality of life,\" said Smotrich in a statement announcing the expansion of the highway. Israel Ganz, head of the Mateh Binyamin Regional Council, said that this new project will \"significantly improve the quality of life of residents, strengthen the connection between East and West Binyamin, and constitute another step on the path to bringing hundreds of thousands of residents to the Binyamin region.\".",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.7727788090705872,
+      "embedding_score_norm": 0.44066130753956373,
+      "embedding_rank": 8
+    },
+    {
+      "title": "Albanese keeps Labor ‘politburo’ under control at party conference as ALP avoids major debates - Sky News Australia",
+      "url": "https://www.skynews.com.au/australia-news/politics/anthony-albanese-tightens-grip-as-labor-conference-avoids-major-policy-showdown/news-story/0351f794989309dafc55d8545c7cc549",
+      "snippet": "# Anthony Albanese tightens grip as Labor conference avoids major policy showdown. Anthony Albanese has tightened his grip over Labor functionaries as the party’s national conference continues without any major policy showdown. Watch the Labor National Conference live on SkyNews.com.au. More than 2,000 Labor delegates, comprising of party apparatchiks, MPs and union officials, have descended on Adelaide for the 50th National Conference. **Watch the Labor Party National Conference on Sky News Extra or with a SkyNews.com.au Streaming Subscription.**. Sky News Political Editor Andrew Clennell said there was no conflict on the first day of the conference, pointing to the Prime Minister’s grip on the delegates. It’s understood the party conference will debate its platform on Israel and Palestine as well as defence which includes AUKUS on Friday. The Labor Party conference is set to debate climate change policy on Friday as well as Medicare, NDIS and the Israel-Palestine conflict.",
+      "bm25_score_raw": 3.293775639951946,
+      "bm25_score_norm": 0.9093687383245238,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.769603431224823,
+      "embedding_score_norm": 0.39002240415498696,
+      "embedding_rank": 9
+    },
+    {
+      "title": "Kenedy Corona's Little League home run - MLB.com",
+      "url": "https://www.mlb.com/video/kenedy-corona-s-little-league-home-run",
+      "snippet": "# Kenedy Corona's Little League home run. July 22, 2026 | 00:00:30. Yankees prospect Kenedy Corona scores on a Little League home run in the bottom of the 4th for Triple-A Scranton/Wilkes-Barre.",
+      "bm25_score_raw": 2.1386982906628598,
+      "bm25_score_norm": 0.5904668619946666,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.7473911643028259,
+      "embedding_score_norm": 0.0357953189859292,
+      "embedding_rank": 10
+    },
+    {
+      "title": "Lottery opens for 169 affordable apartments in Morris Heights, from $777/month - 6sqft",
+      "url": "https://www.6sqft.com/lottery-opens-for-169-affordable-apartments-in-morris-heights-bronx-from-777-month/",
+      "snippet": "Lottery opens for 169 affordable apartments in Morris Heights, from $777/month. As part of the second phase of the two-building Starhill development in Morris Heights, 51 Featherbed Lane includes 244 residences, including 74 supportive housing units for formerly homeless individuals and families with on-site supportive services. Developed by Services for the UnderServed (S:US) and Bronx Pro Group and designed by Marvel Architects, Starhill occupies the largest single-use lot in Morris Heights, spanning nearly two acres just north of the Cross Bronx Expressway, as 6sqft previously reported. In June 2024, a housing lottery opened for 125 apartments under the project’s first phase. Of the 244 units, 74 are supportive homes, with residents having access to on-site supportive services provided by S and funded through the city’s 15/15 Supportive Housing Initiative. Mayor Zohran Mamdani on Monday announced that New York City’s first city-owned grocery store will open next year at a new affordable housing development in the South Bronx.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.7465802431106567,
+      "embedding_score_norm": 0.022863264314848242,
+      "embedding_rank": 11
+    },
+    {
+      "title": "RVNL Wins ₹359 Crore Railway Contract for Bihar Rail Doubling - Whalesbook",
+      "url": "https://www.whalesbook.com/news/English/railway/RVNL-Wins-indian-rupee359-Crore-Railway-Contract-for-Bihar-Rail-Doubling/6a5defb7fe1c9287f476d1c3",
+      "snippet": "# RVNL Wins ₹359 Crore Railway Contract for Bihar Rail Doubling. Rail Vikas Nigam Ltd (RVNL) has emerged as the lowest bidder for a ₹358.97 crore rail doubling project in Bihar awarded by East Central Railway. Rail Vikas Nigam Ltd (RVNL) has been announced as the lowest bidder for a ₹358.97 crore engineering, procurement, and construction contract awarded by the East Central Railway. The project is focused on the doubling of a 41.04 km rail line between Kundawa Chainpur and Raxaul in Bihar, which is part of the broader Sitamarhi-Raxaul corridor. As an engineering and construction entity, the company’s revenue and profit growth depend significantly on its ability to execute these long-term projects within the stipulated timelines and budgets. One of the primary monitorables for shareholders is the pace of execution for the company’s large order book. While RVNL has a strong track record of project delivery, investors typically watch for quarterly updates on billing milestones to ensure that revenue recognition is proceeding as planned.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.7451465725898743,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

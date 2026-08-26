@@ -1,0 +1,105 @@
+{
+  "claim": {
+    "id": "S2/1199",
+    "text": "भिवंडी की अदालत में पेश होंगे राहुल गांधी, कार्यकर्ताओं से भी करेंगे मुलाकात",
+    "lang": "dev"
+  },
+  "ranked_evidence": [
+    {
+      "title": "महाराष्ट्र के भिवंडी कोर्ट में कांग्रेस नेता राहुल गांधी की आज पेशी ...",
+      "url": "https://www.instagram.com/reel/DVA24ajAC7s",
+      "snippet": "राहुल गांधी भिवंडी कोर्ट में आरएसएस मानहानि केस में पेश हुए। राहुल गांधी के वकील नारायण अय्यर ने कहा, इस केस ... ने हाईकोर्ट के समक्ष लंबित याचिका को समाप्त कर दिया।",
+      "bm25_score_raw": 4.912442509134639,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Rahul Gandhi to appear in court, meet Congress workers ...",
+      "url": "https://www.mid-day.com/mumbai/mumbai-news/article/rahul-gandhi-to-appear-in-court-meet-congress-workers-in-maharashtra-on-june-12-19511184",
+      "snippet": "Jun 12, 2018 — Gandhi will appear before the court in Bhiwandi at 11 am, a Congress leader said. The court had on May 2 asked Gandhi to appear before it on ...Read more",
+      "bm25_score_raw": 4.538538338532716,
+      "bm25_score_norm": 0.8597796047327491,
+      "bm25_rank": 2
+    },
+    {
+      "title": "Rahul Gandhi Defamation Case: भिवंडी कोर्ट में राहुल गांधी की ...",
+      "url": "https://www.youtube.com/watch?v=qmXNBf2obhw",
+      "snippet": "... के मामले में शनिवार को ठाणे जिले के भिवंडी स्थित मजिस्ट्रेट अदालत में पेश होंगे। उनके वकील ने यह जानकारी दी। कांग्रेस नेता के वकील नारायण अय्यर ने बताया कि राहुल गांधी को एक नया जमानतदार पेश करने के लिए कहा गया",
+      "bm25_score_raw": 3.1646054813099016,
+      "bm25_score_norm": 0.34453151857124226,
+      "bm25_rank": 3
+    },
+    {
+      "title": "मानहानि केस: राहुल गांधी की भिवंडी कोर्ट में पेशी, BJP वर्कर्स ने ...",
+      "url": "https://www.aajtak.in/india/news/story/rahul-gandhi-rss-defamation-case-bhivandi-court-hearing-press-conference-ntc-drmt-rpti-2475416-2026-02-21",
+      "snippet": "मानहानि केस: राहुल गांधी की भिवंडी कोर्ट में पेशी, BJP वर्कर्स ने दिखाए काले झंडे. कांग्रेस सांसद राहुल गांधी आज महाराष्ट्र के भिवंडी कोर्ट में आरएसएस से जुड़े मानहानि मामले में पेश हुए हैं. कोर्ट में सुनवाई के बाद वे",
+      "bm25_score_raw": 2.968547284548782,
+      "bm25_score_norm": 0.27100637494694896,
+      "bm25_rank": 4
+    },
+    {
+      "title": "As Rahul Gandhi headed to appear before the Bhiwandi ...",
+      "url": "https://www.instagram.com/reel/DVAzCt8gLY4?hl=en",
+      "snippet": "Rahul Gandhi headed to appear before the Bhiwandi court in connection with a 2014 case linked to his remarks about the RSS, BJP workers staged",
+      "bm25_score_raw": 2.8596684335126263,
+      "bm25_score_norm": 0.23017496217089864,
+      "bm25_rank": 5
+    },
+    {
+      "title": "Rahul Gandhi appears before Bhiwandi court in 2014 RSS ...",
+      "url": "https://www.livemint.com/news/india/rahul-gandhi-appears-before-bhiwandi-court-in-2014-rss-defamation-case-heres-why-11771659139872.html",
+      "snippet": "Feb 21, 2026 — Gandhi, who faced a black-flag protest by BJP workers on his way to Bhiwandi in the Thane district, reached the court premises with Sakpal and ...Read more",
+      "bm25_score_raw": 2.5377274421350724,
+      "bm25_score_norm": 0.10944163900143772,
+      "bm25_rank": 6
+    },
+    {
+      "title": "Rahul Gandhi Appears in Bhiwandi Court Defamation Case ...",
+      "url": "https://www.youtube.com/watch?v=N3TVp33x4Tc",
+      "snippet": "Congress leader Rahul Gandhi appeared before the Bhiwandi court in a defamation case filed by two petitioners alleging his 2014 remarks against",
+      "bm25_score_raw": 2.423811573398247,
+      "bm25_score_norm": 0.0667212592961898,
+      "bm25_rank": 7
+    },
+    {
+      "title": "Rahul Gandhi reached Bhiwandi Court in Maharashtra's ...",
+      "url": "https://www.facebook.com/IndiaToday/videos/rahul-gandhi-reached-bhiwandi-court-for-the-third-time-in-a-12-year-old-defamati/1396511045033911",
+      "snippet": "Rahul Gandhi reached Bhiwandi Court in Maharashtra's Thane district for the third time in a 12- year-old defamation case filed by an RSS member.",
+      "bm25_score_raw": 2.403457662355015,
+      "bm25_score_norm": 0.059088198003714926,
+      "bm25_rank": 8
+    },
+    {
+      "title": "Rahul Gandhi Appears In Maharashtra Court In RSS ...",
+      "url": "https://www.ndtv.com/india-news/rahul-gandhi-appears-in-maharashtra-bhiwandi-court-in-rss-defamation-case-files-fresh-bail-bond-harshwardhan-sapkal-new-guarantor-11116855",
+      "snippet": "Feb 21, 2026 — Gandhi, who faced a black-flag protest by BJP workers on his way to Bhiwandi in Thane district, reached the court premises with Sakpal and other ...Read more",
+      "bm25_score_raw": 2.394874087107782,
+      "bm25_score_norm": 0.05586921194096097,
+      "bm25_rank": 9
+    },
+    {
+      "title": "Rahul Gandhi appears before Bhiwandi court in a ...",
+      "url": "https://timesofindia.indiatimes.com/videos/city/mumbai/rahul-gandhi-appears-before-bhiwandi-court-in-a-defamation-case/videoshow/64553622.cms",
+      "snippet": "Jun 12, 2018 — Rahul Gandhi has reached Mumbai and appearing before Bhiwandi court in a defamation case filed by an RSS worker against him.",
+      "bm25_score_raw": 2.363758430492303,
+      "bm25_score_norm": 0.04420031383105556,
+      "bm25_rank": 10
+    },
+    {
+      "title": "Rahul Gandhi appeared before the Bhiwandi court in a ...",
+      "url": "https://www.facebook.com/thehindu/posts/rahul-gandhi-appeared-before-the-bhiwandi-court-in-a-2014-defamation-case-filed-/1235191332145582",
+      "snippet": "Public Congress chief Rahul Gandhi today pleaded not guilty in a defamation suit filed against him in a Bhiwandi court by a RSS worker.",
+      "bm25_score_raw": 2.363758430492303,
+      "bm25_score_norm": 0.04420031383105556,
+      "bm25_rank": 11
+    },
+    {
+      "title": "भिवंडी कोर्ट में राहुल गांधी से जुड़े केस की सुनवाई",
+      "url": "https://www.bhaskar.com/national/news/rahul-gandhi-defamation-case-bhiwandi-court-rss-mahatma-gandhi-murder-133423201.html",
+      "snippet": "3 जून 2024 को भिवंडी मजिस्ट्रेट ने कुंटे के दिए गए कुछ दस्तावेजों को रिकॉर्ड में लिया था। राहुल के भाषण की कॉपी को सबूत के तौर पर स्वीकार लिया था। इसके के आधार पर मानहानि का मामला दायर किया गया था।",
+      "bm25_score_raw": 2.245896248946981,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12
+    }
+  ]
+}

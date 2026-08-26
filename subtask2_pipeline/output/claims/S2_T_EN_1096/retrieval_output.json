@@ -1,0 +1,108 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1096",
+    "text": "BJP-led NDA will bag 300 plus seats in LS polls: Naqvi",
+    "lang": "english"
+  },
+  "generated_queries": {
+    "english_translation": "BJP-led NDA will bag 300 plus seats in LS polls: Naqvi",
+    "native_query": "NDA LS Naqvi BJP led bag 300 seats",
+    "english_query": "NDA LS Naqvi BJP led bag 300 seats"
+  },
+  "native_retrieval": [
+    {
+      "title": "BJP-led NDA is leading with 300 seats, while the INDIA ...",
+      "url": "https://x.com/sidhant/status/1797916689746862573",
+      "snippet": "Sidhant Sibal (@sidhant). 7 replies. BJP-led NDA is leading with 300 seats, while the INDIA alliance is trailing with 225 seats."
+    },
+    {
+      "title": "BJP alliance NDA leads with nearly 300 seats, INDIA bloc ...",
+      "url": "https://www.thedailystar.net/news/asia/india/news/bjp-alliance-nda-leads-nearly-300-seats-india-bloc-makes-strong-gains-3626416",
+      "snippet": "Jun 4, 2024 — India's ruling BJP-led National Democratic Alliance today faced a stiff challenge from opposition INDIA bloc as counting of votes progressed"
+    },
+    {
+      "title": "NDA crosses 300 seats in Lok Sabha with TMC MP support",
+      "url": "https://www.facebook.com/groups/444845482953401/posts/2223898915048040",
+      "snippet": "NDA CROSSES 300 SEATS IN LOK SABHA! New Delhi: In a dramatic political development, a group of nearly 20 Trinamool Congress MPs has"
+    },
+    {
+      "title": "NDA leads on 297 seats, INDIA bloc on 226",
+      "url": "https://legal.economictimes.indiatimes.com/news/industry/nda-leads-on-297-seats-india-bloc-on-226/110696039",
+      "snippet": "Jun 4, 2024 — The BJP-led NDA was leading in 297 constituencies, while the opposition INDIA bloc was ahead in 226 and other parties in 20,"
+    },
+    {
+      "title": "BJP-led NDA leads on 295 parliamentary seats",
+      "url": "https://www.youtube.com/watch?v=xHOpgU_tgzo",
+      "snippet": "DD India is India's 24x7 international news channel from the stable of the country's Public Service Broadcaster, Prasar Bharati."
+    },
+    {
+      "title": "NDA strength crosses 300 in Lok Sabha as 20 rebel TMC ...",
+      "url": "https://www.indiablooms.com/news/nda-strength-crosses-300-in-lok-sabha-as-20-rebel-tmc-mps-extend-support/details",
+      "snippet": "Jun 9, 2026 — New Delhi/IBNS: The strength of the Bharatiya Janata Party (BJP)-led National Democratic Alliance (NDA) in the Lok Sabha has crossed the ...Read more"
+    }
+  ],
+  "english_retrieval": [
+    {
+      "title": "BJP-led NDA is leading with 300 seats, while the INDIA ...",
+      "url": "https://x.com/sidhant/status/1797916689746862573",
+      "snippet": "Sidhant Sibal (@sidhant). 7 replies. BJP-led NDA is leading with 300 seats, while the INDIA alliance is trailing with 225 seats."
+    },
+    {
+      "title": "BJP alliance NDA leads with nearly 300 seats, INDIA bloc ...",
+      "url": "https://www.thedailystar.net/news/asia/india/news/bjp-alliance-nda-leads-nearly-300-seats-india-bloc-makes-strong-gains-3626416",
+      "snippet": "Jun 4, 2024 — India's ruling BJP-led National Democratic Alliance today faced a stiff challenge from opposition INDIA bloc as counting of votes progressed"
+    },
+    {
+      "title": "NDA crosses 300 seats in Lok Sabha with TMC MP support",
+      "url": "https://www.facebook.com/groups/444845482953401/posts/2223898915048040",
+      "snippet": "NDA CROSSES 300 SEATS IN LOK SABHA! New Delhi: In a dramatic political development, a group of nearly 20 Trinamool Congress MPs has"
+    },
+    {
+      "title": "NDA leads on 297 seats, INDIA bloc on 226",
+      "url": "https://legal.economictimes.indiatimes.com/news/industry/nda-leads-on-297-seats-india-bloc-on-226/110696039",
+      "snippet": "Jun 4, 2024 — The BJP-led NDA was leading in 297 constituencies, while the opposition INDIA bloc was ahead in 226 and other parties in 20,"
+    },
+    {
+      "title": "BJP-led NDA leads on 295 parliamentary seats",
+      "url": "https://www.youtube.com/watch?v=xHOpgU_tgzo",
+      "snippet": "DD India is India's 24x7 international news channel from the stable of the country's Public Service Broadcaster, Prasar Bharati."
+    },
+    {
+      "title": "NDA strength crosses 300 in Lok Sabha as 20 rebel TMC ...",
+      "url": "https://www.indiablooms.com/news/nda-strength-crosses-300-in-lok-sabha-as-20-rebel-tmc-mps-extend-support/details",
+      "snippet": "Jun 9, 2026 — New Delhi/IBNS: The strength of the Bharatiya Janata Party (BJP)-led National Democratic Alliance (NDA) in the Lok Sabha has crossed the ...Read more"
+    }
+  ],
+  "merged_results": [
+    {
+      "title": "BJP-led NDA is leading with 300 seats, while the INDIA ...",
+      "url": "https://x.com/sidhant/status/1797916689746862573",
+      "snippet": "Sidhant Sibal (@sidhant). 7 replies. BJP-led NDA is leading with 300 seats, while the INDIA alliance is trailing with 225 seats."
+    },
+    {
+      "title": "BJP alliance NDA leads with nearly 300 seats, INDIA bloc ...",
+      "url": "https://www.thedailystar.net/news/asia/india/news/bjp-alliance-nda-leads-nearly-300-seats-india-bloc-makes-strong-gains-3626416",
+      "snippet": "Jun 4, 2024 — India's ruling BJP-led National Democratic Alliance today faced a stiff challenge from opposition INDIA bloc as counting of votes progressed"
+    },
+    {
+      "title": "NDA crosses 300 seats in Lok Sabha with TMC MP support",
+      "url": "https://www.facebook.com/groups/444845482953401/posts/2223898915048040",
+      "snippet": "NDA CROSSES 300 SEATS IN LOK SABHA! New Delhi: In a dramatic political development, a group of nearly 20 Trinamool Congress MPs has"
+    },
+    {
+      "title": "NDA leads on 297 seats, INDIA bloc on 226",
+      "url": "https://legal.economictimes.indiatimes.com/news/industry/nda-leads-on-297-seats-india-bloc-on-226/110696039",
+      "snippet": "Jun 4, 2024 — The BJP-led NDA was leading in 297 constituencies, while the opposition INDIA bloc was ahead in 226 and other parties in 20,"
+    },
+    {
+      "title": "BJP-led NDA leads on 295 parliamentary seats",
+      "url": "https://www.youtube.com/watch?v=xHOpgU_tgzo",
+      "snippet": "DD India is India's 24x7 international news channel from the stable of the country's Public Service Broadcaster, Prasar Bharati."
+    },
+    {
+      "title": "NDA strength crosses 300 in Lok Sabha as 20 rebel TMC ...",
+      "url": "https://www.indiablooms.com/news/nda-strength-crosses-300-in-lok-sabha-as-20-rebel-tmc-mps-extend-support/details",
+      "snippet": "Jun 9, 2026 — New Delhi/IBNS: The strength of the Bharatiya Janata Party (BJP)-led National Democratic Alliance (NDA) in the Lok Sabha has crossed the ...Read more"
+    }
+  ]
+}

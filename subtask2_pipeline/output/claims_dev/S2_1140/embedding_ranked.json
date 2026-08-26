@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/1140",
+    "text": "রাখে হরি তো মারে কে? ডেঙ্গু, ম্যালেরিয়া, করোনার থাবার পর বিষধর সাপের ছোবলেও সুস্থ ব্যক্তি",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Dengue: What is the mosquito-borne disease that Sri Lanka is using drones to fight? - BBC",
+      "url": "https://www.bbc.com/news/articles/cvgw8e0k1jyo",
+      "snippet": "# What is the mosquito-borne disease Sri Lanka is using drones to fight? Battling its worst dengue outbreak in nearly a decade, Sri Lanka has deployed military drones to scan for stagnant pools of water on rooftops and other mosquito-breeding sites. The virus has killed 56 people and infected more than 77,000 others in the South Asian nation this year, with more than a quarter of them reported in July alone. Dengue fever, which is spread to humans through mosquitoes, is common in tropical climates. According to the WHO, the number of global reported cases surged from around 500,000 in the year 2000 to 14.4 million in 2024. ## What is dengue fever and what are its symptoms? Dengue is a viral fever caused by the dengue virus, which is transmitted to humans through the bite of infected Aedes mosquitoes. \"The number of patients is high, and the severity of the cases is high,\" he says, noting that about 75% of the cases were linked to the more virulent dengue strain.",
+      "bm25_score_raw": 1.895185693179667,
+      "bm25_score_norm": 0.47242654628755293,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8247140645980835,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "India approves dengue vaccine: Doctor explains the four virus strains and why immunity remains a major challenge - The Times of India",
+      "url": "https://timesofindia.indiatimes.com/health/there-are-four-strains-of-dengue-and-recovering-from-one-doesnt-protect-you-from-the-others-is-a-single-vaccine-enough/photostory/132520952.cms",
+      "snippet": "* India approves dengue vaccine: Doctor explains the four virus strains and why immunity remains a major challenge. Monsoon often brings relief from the heat, but it also marks the return of one of India's biggest seasonal health concerns: dengue. The virus exists in four different forms, known as serotypes or strains. Given in two doses, three months apart, the vaccine is designed to protect against all four dengue virus serotypes (DENV-1 to DENV-4) and does not require pre-vaccination screening. While it offers broad protection and reduces the risk of severe dengue and hospitalisation, no vaccine provides 100% immunity against every infection or strain. ## Dengue is not one virus, it comes in four different serotypes. What many are not aware of is that there are four virus strains (serotypes) of Dengue. Dr Kumar said, \"As a matter of fact, dengue fever can be more serious upon a second infection with a different strain of the virus.",
+      "bm25_score_raw": 1.91099354418858,
+      "bm25_score_norm": 0.4763670828182184,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8203725218772888,
+      "embedding_score_norm": 0.9306342803160165,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Canada to host Gordie Howe Bridge celebration; man bitten by Michigan rattlesnake; other stories - CBS News",
+      "url": "https://www.cbsnews.com/detroit/video/canada-to-host-gordie-howe-bridge-celebration-man-bitten-by-michigan-rattlesnake-other-stories/",
+      "snippet": "# Canada to host Gordie Howe Bridge celebration; man bitten by Michigan rattlesnake; other stories. Canada will host its own Gordie Howe Bridge event. A man was bitten by a Michigan-native rattlesnake in Commerce Township. Those headlines and other top stories are in the CBS Detroit news brief.",
+      "bm25_score_raw": 3.9108890560614102,
+      "bm25_score_norm": 0.9748953974895397,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8050898313522339,
+      "embedding_score_norm": 0.6864595951515705,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Sri Lanka uses air force drones to tackle spreading dengue outbreak - Reuters",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/sri-lanka-uses-air-force-drones-tackle-spreading-dengue-outbreak-2026-07-21/",
+      "snippet": "## Browse World. ## Browse Business. Image 3: A white board with general information on dengue patients inside a ward at District General Hospital in Negombo. Item 1 of 9 A white board with general information on dengue patients inside a ward at District General Hospital in Negombo, Sri Lanka, July 16, 2026. **[1/9]**A white board with general information on dengue patients inside a ward at District General Hospital in Negombo, Sri Lanka, July 16, 2026. COLOMBO, July 21 (Reuters) - Sri Lanka's public health services and hospitals are battling the worst outbreak of mosquito-borne dengue in nearly a decade, and turning ​to the island nation's armed forces to help curb the spread of the disease. Hospitals rushed ​to add beds, convert wards to care for the ill and step up hours worked by doctors and nurses in the battle to treat an influx of more ​than 18,000 cases in the first two weeks of July, health authorities said.",
+      "bm25_score_raw": 1.8407909960089968,
+      "bm25_score_norm": 0.45886718953788125,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8042008280754089,
+      "embedding_score_norm": 0.6722558072208382,
+      "embedding_rank": 4
+    },
+    {
+      "title": "'I want to kill you': Man threatens, hits MK Moshe Tur-Paz's aide in Ramat Gan - The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-903563",
+      "snippet": "# 'I want to kill you': Man threatens, hits MK Moshe Tur-Paz's aide in Ramat Gan. ## In an initial video seen by The Jerusalem Post, the man appears to shout from several meters away, saying that he wants to \"kill you,\" before a woman is heard responding, \"You want to kill me?\". A police officer escorts a man away after appearing to smack the phone of MK Moshe Tur-Paz's aide, following a death threat towards a woman, July 24, 2026. A man in Ramat Gan, near Tel Aviv, admitted on video to threatening to kill an aide of Yesh Atid MK Moshe Tur-Paz on Friday. *A man threatens to kill the aide of MK Moshe Tur-Paz (Yesh Atid) in Ramat Gan, July 24, 2026. *A man admits to threatening to kill an aide of MK Moshe Tur-Paz (Yesh Atid) in Ramat Gan, July 24, 2026. Get out of here; I do not want to talk to you,\" he said.",
+      "bm25_score_raw": 3.8982031323392463,
+      "bm25_score_norm": 0.9717330861909175,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.7989594340324402,
+      "embedding_score_norm": 0.5885129781576882,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Thieves hit Corona collectible card shop for nearly $20k in stolen goods, owner says - CBS News",
+      "url": "https://www.cbsnews.com/losangeles/video/thieves-hit-corona-collectible-card-shop-for-nearly-20k-in-stolen-goods-owner-says/",
+      "snippet": "# Thieves hit Corona collectible card shop for nearly $20k in stolen goods, owner says. Up to $20,000 in stolen memorabilia was taken from a card shop in Corona over the weekend, the store's owner says.",
+      "bm25_score_raw": 4.011598645487885,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.7986716032028198,
+      "embedding_score_norm": 0.5839142458802825,
+      "embedding_rank": 6
+    },
+    {
+      "title": "MK Haskel testifies lawmakers were told to film vote for comptroller, show Netanyahu - The Times of Israel",
+      "url": "https://www.timesofisrael.com/mk-haskel-testifies-lawmakers-were-told-to-film-vote-for-comptroller-show-netanyahu/",
+      "snippet": "## Watchdog calls for perjury probe as New Hope lawmaker’s affidavit contradicts those submitted by Likud MKs; High Court has annulled vote and ordered new one. You will receive email alerts from this author. New Hope MK Sharren Haskel told the High Court of Justice on Thursday that Knesset members from her party were instructed to video themselves voting for the Likud’s state comptroller candidate, Michael Rabello, in the controversial election held in the Knesset at the beginning of June. In an affidavit to the High Court, Haskel said MKs were also instructed to show the video of their vote to Prime Minister Benjamin Netanyahu, who had insisted that Rabello, his longtime lawyer and adviser, be the coalition’s candidate. But as the journalism we do is costly, we invite readers for whom The Times of Israel has become important to help support our work by joining **The Times of Israel Community.**.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.7939854264259338,
+      "embedding_score_norm": 0.5090422371037414,
+      "embedding_rank": 7
+    },
+    {
+      "title": "Big Bear's Jackie in critical condition as vets await test results - USA Today",
+      "url": "https://www.usatoday.com/story/pets-animals/wildlife/2026/07/22/jackie-big-bear-valley-bald-eagle-remains-critical-condition/91006893007/",
+      "snippet": "Jackie, the beloved bald eagle known for appearing on Big Bear Valley's Big Bear Eagle Nest Cam, is in critical condition after being rescued following an apparent \"altercation\" with two subadult eagles. Ojai Raptor Center, where Jackie is currently rehabilitating, said in a July 21 Facebook post that while the results of some \"important tests\" are awaited, \"initial bloodwork indicates that the eagle is experiencing severe anemia and inflammation affecting the kidneys.\". While Jackie's \"condition remains critical, and this is still a very serious case,\" she is \"alert and is eating,\" the center said. Friends of Big Bear Valley's Big Bear Eagle Nest Cam (FOBBV), in a July 21 email to USA TODAY, said the rescue is unable to take calls or emails and is only disseminating information on Jackie through social media. FOBBV, which manages the eagle nest camp, in a post on Facebook, said Jackie had more energy and \"is mad and fighting the staff.\".",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.784935474395752,
+      "embedding_score_norm": 0.3644492949054922,
+      "embedding_rank": 8
+    },
+    {
+      "title": "Tick bites, lyme disease on the rise, says health officials - CBS News",
+      "url": "https://www.cbsnews.com/miami/video/tick-bites-lyme-disease-on-the-rise-says-health-officials/",
+      "snippet": "* Jim Berry's Absolutely Not. # Tick bites, lyme disease on the rise, says health officials. Data from the CDC show a 13% increase in emergency-related tick bites this year in comparison to last year, making the threat of Lyme disease even more extreme. Hear from Dr. Celine Gounder on how to protect yourself.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.783405065536499,
+      "embedding_score_norm": 0.33999763825718615,
+      "embedding_rank": 9
+    },
+    {
+      "title": "New Hope MKs ordered to film comptroller vote for Netanyahu, Sharren Haskel claims - The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-903431",
+      "snippet": "## Haskel signed the affidavit weeks after the High Court of Justice invalidated Rabello’s election and ordered a new vote because the filming of ballots had violated the secrecy of the election. MK Sharren Haskel alleged in a sworn affidavit that members of the New Hope-United Right faction were required to film themselves voting for Michael Rabello as state comptroller and show the footage to Prime Minister Benjamin Netanyahu as proof of how they voted. Haskel signed the affidavit on Sunday, more than two weeks after the High Court of Justice invalidated Rabello’s election and ordered the Knesset to hold a new vote because the filming of ballots had fundamentally violated the secrecy of the election. “During the repeat round of voting, members of the New Hope faction were required to document their votes by filming themselves and to present the documentation to the prime minister, a member of the Likud faction, as evidence of how they voted,” she wrote.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.7824550867080688,
+      "embedding_score_norm": 0.32481963141575054,
+      "embedding_rank": 10
+    },
+    {
+      "title": "Big Bear bald eagle Jackie remains in rehabilitation after fight - CBS News",
+      "url": "https://www.cbsnews.com/losangeles/video/big-bear-bald-eagle-jackie-remains-in-rehabilitation-after-fight/",
+      "snippet": "# Big Bear bald eagle Jackie remains in rehabilitation after fight. The Ojai Raptor Center said Jackie has more energy as she is eating well with assistance and is even picking up food on her own.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.7771821022033691,
+      "embedding_score_norm": 0.24057207505771033,
+      "embedding_rank": 11
+    },
+    {
+      "title": "Michigan man accused of trying to 2 kidnap two girls allegedly flipped off their families in court: reports - New York Post",
+      "url": "https://nypost.com/2026/07/21/us-news/michigan-man-endi-bala-accused-of-trying-to-2-kidnap-two-girls-allegedly-flipped-off-their-families-in-court-reports/",
+      "snippet": "A Michigan man who tried to abduct two girls flipped off at their families while in court — as he backtracked on a plea deal over the charges, according to reports. Bala, who is originally from Albania and moved to the US when he was a teen, allegedly tried to snatch Olivia and Alexis, who were 7 and 15 at the time, within a 45 minute period – and faces charges of kidnapping and child enticement. “The plan was to enter into the pleas today, but unfortunately after our conference in chambers, he has changed his mind for the time being,” Samuel Bennett, his attorney, said, trying to explain Bala’s decision. But when Bala was being escorted out of the courtroom, he allegedly made a crude gesture at the girls’ families. Bala tried to shove the girl in the passenger side of his car – but Swejkowski told how she met him “in the middle” where they “fought for the [child’s] life.”.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.7621248960494995,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

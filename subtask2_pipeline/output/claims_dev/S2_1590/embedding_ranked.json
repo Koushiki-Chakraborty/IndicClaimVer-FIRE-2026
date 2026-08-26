@@ -1,0 +1,76 @@
+{
+  "claim": {
+    "id": "S2/1590",
+    "text": "'Foreign Object' Left Inside Patient In Surgery: Kerala High Court Directs Police To Forward Complaint To Medical Negligence Panel",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "'Foreign Object' Left Inside Patient In Surgery: Kerala High ...",
+      "url": "https://www.livelaw.in/high-court/kerala-high-court/kerala-high-court-medical-negligence-foreign-object-left-inside-patient-in-surgery-231222",
+      "snippet": "The Kerala High Court on Friday directed the Station House Officer of Edathala gram panchayat to forward to Expert Panel for Medical Negligence.",
+      "bm25_score_raw": 6.34318509644948,
+      "bm25_score_norm": 0.9512809470418485,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.9261549711227417,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Surgical Instrument Left Inside Patient: Recent Kerala Case",
+      "url": "https://www.delhimedicalnegligence.com/post/surgical-instrument-left-inside-patient-recent-kerala-case",
+      "snippet": "A recent Kerala medical negligence case revealed a surgical tool left inside a patient's body. Understand the risks, legal implications and",
+      "bm25_score_raw": 1.3951445706871601,
+      "bm25_score_norm": 0.08701334568869153,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8980094194412231,
+      "embedding_score_norm": 0.6294160487703812,
+      "embedding_rank": 2
+    },
+    {
+      "title": "KERALA HIGH COURT: DIRECTED POLICE TO ...",
+      "url": "https://www.magzter.com/stories/newspaper/The-Business-Guardian/KERALA-HIGH-COURT-DIRECTED-POLICE-TO-FORWARD-COMPLAINT-TO-MEDICAL-NEGLIGENCE-PANEL-FOREIGN-OBJECT-INSIDE-PATIENT-IN-SURGERY",
+      "snippet": "KERALA HIGH COURT: DIRECTED POLICE TO FORWARD COMPLAINT TO MEDICAL NEGLIGENCE PANEL; FOREIGN OBJECT, INSIDE PATIENT IN SURGERY. The Business",
+      "bm25_score_raw": 6.622107791267922,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8895785808563232,
+      "embedding_score_norm": 0.5184097515648838,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Retained foreign object",
+      "url": "https://www.tmlt.org/case-studies/retained-foreign-object",
+      "snippet": "This case resulted in allegations of closing the surgical field with a foreign body (surgical screw) embedded in it.",
+      "bm25_score_raw": 4.772053829825287,
+      "bm25_score_norm": 0.6768535562097905,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8741208910942078,
+      "embedding_score_norm": 0.3148830339597054,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Forceps Left Inside Kerala Woman's Stomach During ...",
+      "url": "https://www.ndtv.com/kerala-news/forceps-left-inside-kerala-womans-stomach-during-surgery-in-2017-cops-4236701",
+      "snippet": "An investigation by the Kerala police has found that forceps were accidentally left inside the stomach of a woman after surgery due to alleged",
+      "bm25_score_raw": 4.996041335984707,
+      "bm25_score_norm": 0.7159771534547125,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8574157953262329,
+      "embedding_score_norm": 0.09493209942427344,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Scissors left inside Kerala woman's abdomen is not a rare ...",
+      "url": "https://thesouthfirst.com/health/scissors-left-inside-kerala-womans-abdomen-is-not-a-rare-case",
+      "snippet": "A case of suspected medical negligence has come to light after a surgical scissor was discovered inside the abdomen of a 51 year-old woman.",
+      "bm25_score_raw": 0.8969822421725661,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8502057790756226,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6
+    }
+  ]
+}

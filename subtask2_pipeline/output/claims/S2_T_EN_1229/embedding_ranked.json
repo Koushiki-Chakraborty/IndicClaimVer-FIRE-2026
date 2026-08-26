@@ -1,0 +1,76 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1229",
+    "text": "Covid threat not over yet, all precautions need to be followed: PM Modi",
+    "lang": "english"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "PM cautions against covid threat even as vaccination drive gathers steam",
+      "url": "https://www.livemint.com/news/pm-modi-asks-people-to-be-careful-vigilant-against-pandemic-in-mann-ki-baat/amp-11630232250080.html",
+      "snippet": "Prime Minister Narendra Modi on Sunday reminded people to stay cautious about the coronavirus pandemic, even as India administered over 10",
+      "bm25_score_raw": 2.9148708398227923,
+      "bm25_score_norm": 0.5336945708127012,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8811292052268982,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "\"We Need To Take Precautions And Remain Calm & Careful\": PM Modi ...",
+      "url": "https://hwnews.in/news/national/we-need-to-take-precautions-and-remain-calm-careful-pm-modi-on-spike-in-covid",
+      "snippet": "PM Modi said, “We are seeing that Covid cases are rising in many countries, we need to remain careful and wear masks and wash our hands”.",
+      "bm25_score_raw": 4.64527927637366,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8773573040962219,
+      "embedding_score_norm": 0.9096447729696774,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Say no to panic, yes to precautions: PM Modi tweets on coronavirus",
+      "url": "https://www.indiatoday.in/amp/india/story/say-no-to-panic-yes-to-precautions-pm-modi-tweets-on-coronavirus-1654838-2020-03-12",
+      "snippet": "PM Modi, advises citizens to avoid large gatherings. Modi urged the nation to 'say no to panic, say yes to precautions'. from suspension of",
+      "bm25_score_raw": 0.9343886706890701,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8536911010742188,
+      "embedding_score_norm": 0.3427250492240519,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Omicron Threat Looms: Curbs Are Back; PM Modi Announces Jabs for ...",
+      "url": "https://www.youtube.com/watch?v=LAC7iP84w7o",
+      "snippet": "Modi on Saturday announced \"precautionary doses\", January 10. PM Modi also announced vaccination for 15-18 year age group against Covid-19 from",
+      "bm25_score_raw": 2.5335180923857497,
+      "bm25_score_norm": 0.43092874234746403,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8454713225364685,
+      "embedding_score_norm": 0.1458217025596507,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Modi sought to protect his image over stopping India's covid pandemic",
+      "url": "https://www.washingtonpost.com/outlook/modis-pandemic-choice-protect-his-image-or-protect-india-he-chose-himself/2021/04/28/44cc0d22-a79e-11eb-bca5-048b2759a489_story.html",
+      "snippet": "Prime Minister Narendra Modi's government abandoned its caution. Modi imposed a draconian, nationwide lockdown with just a few hours' notice,",
+      "bm25_score_raw": 1.6915375252348994,
+      "bm25_score_norm": 0.20403426966722707,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8439888954162598,
+      "embedding_score_norm": 0.11031042207750485,
+      "embedding_rank": 5
+    },
+    {
+      "title": "India’s Modi slammed for COVID handling amid spiralling crisis | Narendra Modi News | Al Jazeera",
+      "url": "https://www.aljazeera.com/amp/news/2021/5/5/crime-against-humanity-indias-modi-slammed-for-covid-handling",
+      "snippet": "# India’s Modi slammed for COVID handling amid spiralling crisis. *Indian Prime Minister Narendra Modi is accused of stifling dissent and choosing politics over public health amid a deadly pandemic.*. India’s hospitals were packed with coronavirus patients, relatives of the sick scrambled to find supplies of oxygen, and nearly full crematoriums worked feverishly to deal with the dead. As another deadly wave of COVID-19 infections was swamping India, Modi’s government refused to cancel a major Hindu festival attended by millions. Al Jazeera’s Elizabeth Puranam, reporting from New Delhi, said the government is facing a lot of criticism from courts around the country. “The Delhi High Court told the government that it is living in an ivory tower while people die from a lack of oxygen,” she said. Modi was also called a “super-spreader” by the vice president of the Indian Medical Association, Dr Navjot Dahiya. “It is a crime against humanity,” author and activist Arundhati Roy said of Modi’s handling of the virus.",
+      "bm25_score_raw": 1.3044039674596226,
+      "bm25_score_norm": 0.09971064525689288,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8393839597702026,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6
+    }
+  ]
+}

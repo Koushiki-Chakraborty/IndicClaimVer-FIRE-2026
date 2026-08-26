@@ -1,0 +1,99 @@
+{
+  "claim": {
+    "id": "S2/1236",
+    "text": "Angry tea sellers to give Re 1 discount to customers promising not to vote for SP",
+    "lang": "dev"
+  },
+  "entity_ranked_evidence": [
+    {
+      "title": "Angry tea sellers to give Re 1 discount to customers ...",
+      "url": "https://www.indiatvnews.com/politics/national/angry-tea-sellers-to-give-re-1-discount-to-customers-promising-n-13424.html",
+      "snippet": "Meerut: In a small hamlet named Jani Khurd adjoining Meerut, tea vendors on Friday held a meeting to express their anger over an SP.",
+      "bm25_score_raw": 10.835638436089425,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.891289234161377,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 1
+    },
+    {
+      "title": "The Republic of Tea Coupon & Promo Codes",
+      "url": "https://www.republicoftea.com/pages/the-republic-of-tea-coupon-promo-codes",
+      "snippet": "Spend $58.99 more for FREE shipping (Contiguous U.S. Only). Free Shipping with Orders over $59\\*. # The Republic of Tea Coupon & Promo Codes. Savvy tea drinkers who want to save with discount and coupon codes for free shipping and sale items, rejoice at the special offers on this page. ## Free Shipping on Orders Over $59 Within the Contiguous U.S. Free standard shipping applies to orders over $59 within the contiguous U.S. Orders must total over $59 before tax and shipping. Free shipping offer applies only to the standard shipping option. Offer applies to U.S. domestic orders over $25 before tax and shipping. Offer may not be combined with any other sale, promotion, discount, code, coupon and/or offer. Percentage off applies to U.S. domestic orders for new Citizens only and applies to order total before taxes and shipping fees. May not be combined with any other sale, promotion, discount, code, coupon and/or offer. This offer is only valid when ordering direct from The Republic of Tea.",
+      "bm25_score_raw": 0.6060575165025639,
+      "bm25_score_norm": 0.05593186964267974,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8167669773101807,
+      "embedding_score_norm": 0.23374926456167877,
+      "embedding_rank": 2,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 2
+    },
+    {
+      "title": "Prices going down? In this economy??? #tea#tariff ...",
+      "url": "https://www.tiktok.com/@yourteaguy/video/7639291871407131918",
+      "snippet": "504 Likes, TikTok video from Jesses Teahouse (@yourteaguy): “Prices going down? In this economy?",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8160556554794312,
+      "embedding_score_norm": 0.22643533045695236,
+      "embedding_rank": 3,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 3
+    },
+    {
+      "title": "These businesses are offering Election Day deals",
+      "url": "https://www.scrippsnews.com/business/company-news/these-businesses-are-offering-election-day-deals",
+      "snippet": "Krispy Kreme: Free Original Glazed Doughnut; Lyft: 50% off ride to the polls using code \"VOTE24\" from 5 am to 10 pm local time; Uber: 50% off",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8091223239898682,
+      "embedding_score_norm": 0.1551456167876054,
+      "embedding_rank": 4,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 4
+    },
+    {
+      "title": "Extended for today only! Buy 2 teas and receive the 3rd tea ...",
+      "url": "https://www.instagram.com/reel/DRw1riECQou?hl=en",
+      "snippet": "B2G1 FREE Buy 2, Get the 3rd Теа Free!\" DECAF COMFORT AND JOY HOLIDAY SPICE BLEND Premium Decalfrimated Black Lean& Alcald Spices. Fruit",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.7959885597229004,
+      "embedding_score_norm": 0.020101980780545203,
+      "embedding_rank": 5,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 5
+    },
+    {
+      "title": "Should we pay more for tea? Getting a teabag from Sri Lanka ...",
+      "url": "https://www.instagram.com/reel/DG2GpouTPPZ",
+      "snippet": "Getting a teabag from Sri Lanka to supermarket shelves in Australia for just 6c comes at a cost to the women who pick the leaves.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.7940335273742676,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 6
+    }
+  ]
+}

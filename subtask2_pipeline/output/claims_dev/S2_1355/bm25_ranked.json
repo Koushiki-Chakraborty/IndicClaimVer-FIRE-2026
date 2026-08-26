@@ -1,0 +1,57 @@
+{
+  "claim": {
+    "id": "S2/1355",
+    "text": "S.482 CrPC Can Be Invoked To Secure Justice Despite Availability Of Revisional Remedy: Kerala High Court",
+    "lang": "dev"
+  },
+  "ranked_evidence": [
+    {
+      "title": "S.482 CrPC Can Be Invoked To Secure Justice Despite ...",
+      "url": "https://www.livelaw.in/news-updates/kerala-high-court-revision-alternate-remedy-section-482-crpc-justice-section-397-crpc-231792",
+      "snippet": "The Kerala High Court has recently held that inherent powers under Section 482 CrPC can be invoked to secure justice and to prevent abuse of court process.",
+      "bm25_score_raw": 5.699482281467647,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Section 482 CrPC Inherent Powers Can Override Functus ...",
+      "url": "https://www.verdictum.in/calcutta-high-court/2026chcas359-goutam-saha-ors-v-state-of-west-bengal-1614177",
+      "snippet": "Section 482 of the Code of Criminal Procedure (CrPC) can be invoked to accept the compounding of an offence even after a revisional",
+      "bm25_score_raw": 4.168822803179804,
+      "bm25_score_norm": 0.6266084681496096,
+      "bm25_rank": 2
+    },
+    {
+      "title": "Section 482 CrPC Can Be Invoked To Ensure Justice ...",
+      "url": "https://www.bwlegalworld.com/article/section-482-crpc-can-be-invoked-to-ensure-justice-kerala-hc-holds-482905",
+      "snippet": "The judge emphasised that the powers under Section 482 of the CrPC can be invoked when there is an abuse of the court's processes or to secure",
+      "bm25_score_raw": 4.049377226515578,
+      "bm25_score_norm": 0.5974707223112621,
+      "bm25_rank": 3
+    },
+    {
+      "title": "Criminal Proceedings Can Be Quashed At Post-Conviction ...",
+      "url": "https://www.asialawoffices.com/7253-/criminal-proceedings-can-be-quashed-at-post-conviction-stage-invoking-power-u-s-482-crpc-upon-settlement-between-victim-convict-kerala-high-court",
+      "snippet": "Criminal Proceedings Can Be Quashed At Post-Conviction Stage Invoking Power U/S 482 CrPC Upon Settlement Between Victim & Convict: Kerala High Court.",
+      "bm25_score_raw": 1.8305926682139135,
+      "bm25_score_norm": 0.05621685309865202,
+      "bm25_rank": 4
+    },
+    {
+      "title": "Bineesh vs State Of Kerala on 11 September, 2025",
+      "url": "https://indiankanoon.org/doc/164444668",
+      "snippet": "... High Court under Section 482 of the Cr.P.C/528 of the BNSS can be invoked in appropriate cases to permit the withdrawal of an appeal. It is",
+      "bm25_score_raw": 1.6874671796759526,
+      "bm25_score_norm": 0.02130259152049656,
+      "bm25_rank": 5
+    },
+    {
+      "title": "Chelladurai v. Sureshkumar (Biju) | Kerala High Court",
+      "url": "https://www.casemine.com/judgement/in/594bf6f453bee70969db662c",
+      "snippet": "The High Court's inherent power under Section 482 remains available but only in exceptional circumstances as delineated by binding precedents.",
+      "bm25_score_raw": 1.6001405778610855,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6
+    }
+  ]
+}

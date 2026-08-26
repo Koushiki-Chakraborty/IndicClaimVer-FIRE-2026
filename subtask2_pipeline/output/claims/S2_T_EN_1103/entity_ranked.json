@@ -1,0 +1,99 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1103",
+    "text": "MP CM supports Centre's efforts to aid farmers affected by rains",
+    "lang": "english"
+  },
+  "entity_ranked_evidence": [
+    {
+      "title": "Farmers from Cane Grove, Mahaica, are expressing gratitude for the ...",
+      "url": "https://www.facebook.com/pppcguyana/posts/farmers-from-cane-grove-mahaica-are-expressing-gratitude-for-the-governments-tim/1383673820451267",
+      "snippet": "The Ministry of Agriculture and Fisheries has announced a $646.9-million support package for farmers affected by the recent heavy rains.",
+      "bm25_score_raw": 0.988071444522157,
+      "bm25_score_norm": 0.25865907464838905,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8464595079421997,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 1
+    },
+    {
+      "title": "Distribution of the Government's cash support for rice farmers commenced ...",
+      "url": "https://www.facebook.com/pppcguyana/posts/distribution-of-the-governments-cash-support-for-rice-farmers-commenced-this-mor/1471130415038940",
+      "snippet": "Through this initiative, rice farmers cultivating 50 acres or less will receive $10,000 per acre, providing targeted support to help strengthen",
+      "bm25_score_raw": 0.9828219504249318,
+      "bm25_score_norm": 0.25728485288225234,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8125280737876892,
+      "embedding_score_norm": 0.5136679572302887,
+      "embedding_rank": 2,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 2
+    },
+    {
+      "title": "Supporting Family Farmers: Farm Aid's Work",
+      "url": "https://www.farmaid.org/our-work/supporting-family-farmers",
+      "snippet": "### Farm Aid's Work. Farm Aid is best known for our annual music, food and farm festival, but the truth is we work each and every day, year-round to build a system of agriculture that values family farmers, good food, soil and water, and strong communities. Our work celebrates and strengthens farmers, advocates for fair farm policies, connects farmers and eaters, and brings family farm food to everyone. Read about Farm Aid's work. ## Resources for Farmers. If you are a farmer, Farm Aid is here for you. Check out Farm Aid’s Resources for Farmers. Farm Aid created the Family Farm Disaster Fund to help farm families recover from weather-related disasters. Learn more about how the Family Farm Disaster Fund helps farm families recover. If you’re a farmer dealing with natural disaster, read our guide for steps to take and resources to help you rebuild.",
+      "bm25_score_raw": 3.819975950448684,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8028364777565002,
+      "embedding_score_norm": 0.374760368647847,
+      "embedding_rank": 3,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 3
+    },
+    {
+      "title": "Drought Conditions and Disaster Support for Southeast US Farmers",
+      "url": "https://www.rafiusa.org/drought-conditions-and-disaster-support-for-southeast-us-farmers",
+      "snippet": "farmers in all 89 counties are now eligible for Emergency Farm Loan assistance through USDA's Farm Service Agency (FSA). contact RAFI's Farmer",
+      "bm25_score_raw": 0.988071444522157,
+      "bm25_score_norm": 0.25865907464838905,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.7921814918518066,
+      "embedding_score_norm": 0.2220447175169237,
+      "embedding_rank": 4,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 4
+    },
+    {
+      "title": "Programs and Support for Small and Mid-Sized Farmers",
+      "url": "https://www.usda.gov/farming-and-ranching/resources-small-and-mid-sized-farmers/programs-and-support-small-and-mid-sized-farmers",
+      "snippet": "An official website of the United States government. A **.gov** Website belongs to an official government organization in the United States. Image 4: USDA LogoU.S. Department of Agriculture. Providing a safety net for millions of Americans who are food-insecure and for developing and promoting dietary guidance based on scientific evidence. ## Food Menu. *   Nutrition Policy and Programs Nutrition Policy and Programs. *   Nutrition Research and Programs Overview. *   Food Assistance Programs Food Assistance Programs. *   Food Assistance Programs Overview and emergency food assistance among many other programs.\"). ## Food Submenus. USDA provides critical nutrition assistance through Food and Nutrition Administration (FNA) and emergency food assistance among many other programs. We maintain a safety net for America's farmers, ranchers and growers that includes disaster assistance, crop insurance, access to credit and more. *   Resources for Small and Mid-sized Farmers Resources for Small and Mid-sized Farmers. *   Resources for Small and Mid-sized Farmers Overview.",
+      "bm25_score_raw": 0.7244997319494493,
+      "bm25_score_norm": 0.18966080974000674,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.7767728567123413,
+      "embedding_score_norm": 0.0011960210089633232,
+      "embedding_rank": 5,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 5
+    },
+    {
+      "title": "Prolonged droughts and heavy rain in Central America leave million ...",
+      "url": "https://scalingupnutrition.org/news/prolonged-droughts-and-heavy-rain-central-america-leave-million-people-urgent-need-food",
+      "snippet": "For 2019, FAO and WFP are requesting USD 72 million from the international community to provide food assistance to more than 700,000 people in the Dry Corridor.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.7766894102096558,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 6
+    }
+  ]
+}

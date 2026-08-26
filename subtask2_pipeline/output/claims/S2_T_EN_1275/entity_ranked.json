@@ -1,0 +1,99 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1275",
+    "text": "Telangana is a perfect example of how BJP sows seeds of poison, says Modi",
+    "lang": "english"
+  },
+  "entity_ranked_evidence": [
+    {
+      "title": "UPA: Sonia targets Modi, says BJP sowing 'seeds of poison'",
+      "url": "https://timesofindia.indiatimes.com/india/sonia-targets-modi-says-bjp-sowing-seeds-of-poison/articleshow/29729799.cms",
+      "snippet": "In a scathing attack on BJP and its prime ministerial candidate Narendra Modi, Congress president Sonia Gandhi on Saturday accused them of indulging in divisive",
+      "bm25_score_raw": 0.38970560108929675,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8451095819473267,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6,
+      "entity_overlap_raw": 2,
+      "entity_overlap_qid": 1,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 1
+    },
+    {
+      "title": "Andhra Pradesh best example of Congress sowing seeds of poison",
+      "url": "https://www.dnaindia.com/india/report-andhra-pradesh-best-example-of-congress-sowing-seeds-of-poison-narendra-modi-1962665/amp",
+      "snippet": "Bharatiya Janata Party (BJP) prime ministerial candidate Narendra Modi on Sunday said that Andhra Pradesh was a perfect example of poisonous seeds sowed by",
+      "bm25_score_raw": 2.6858828619271446,
+      "bm25_score_norm": 0.4461841910053324,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.9126169681549072,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 1,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 2
+    },
+    {
+      "title": "Telangana issue perfect example of Congress sowing 'seeds of poison'",
+      "url": "https://www.ndtv.com/india-news/telangana-issue-perfect-example-of-congress-sowing-seeds-of-poison-narendra-modi-551005",
+      "snippet": "Accusing Congress of pursuing vote-bank politics, Narendra Modi said that the turmoil over the bifurcation of Andhra Pradesh was a perfect",
+      "bm25_score_raw": 5.535959787424657,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9107958078384399,
+      "embedding_score_norm": 0.9730227991516759,
+      "embedding_rank": 2,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 3
+    },
+    {
+      "title": "BJP sowing seeds of poison: Sonia",
+      "url": "https://www.youtube.com/watch?v=wwbrwBBCm0w",
+      "snippet": "Speaking at a rally, Sonia Gandhi accused the BJP of sowing seeds of poison. For more news from Headlines Today visit",
+      "bm25_score_raw": 0.8451098635134525,
+      "bm25_score_norm": 0.08849237638385064,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8627203702926636,
+      "embedding_score_norm": 0.26087202208044247,
+      "embedding_rank": 3,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 1,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 4
+    },
+    {
+      "title": "BJP sowing seeds of poison in its hunger for power: Sonia Gandhi",
+      "url": "https://indianexpress.com/article/political-pulse/bjp-sowing-seeds-of-poison-in-its-hunger-for-power-sonia-gandhi/lite",
+      "snippet": "Attacking BJP and its PM candidate Narendra Modi, Congress President Sonia Gandhi on Saturday accused them of indulging in divisive politics",
+      "bm25_score_raw": 0.6747143911058984,
+      "bm25_score_norm": 0.05538179415493581,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8590171337127686,
+      "embedding_score_norm": 0.20601526065128828,
+      "embedding_rank": 4,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 1,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 5
+    },
+    {
+      "title": "BJP sowing seeds of poison in its hunger for power: Sonia Gandhi",
+      "url": "https://www.youtube.com/watch?v=8XWj90P6LhY",
+      "snippet": "Attacking BJP and its PM candidate Narendra Modi, Congress President Sonia Gandhi today accused them of indulging in divisive politics by",
+      "bm25_score_raw": 0.6747143911058984,
+      "bm25_score_norm": 0.05538179415493581,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8556247353553772,
+      "embedding_score_norm": 0.15576300607635976,
+      "embedding_rank": 5,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 1,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 6
+    }
+  ]
+}

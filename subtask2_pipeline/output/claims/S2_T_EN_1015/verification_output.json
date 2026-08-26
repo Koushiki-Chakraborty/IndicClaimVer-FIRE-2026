@@ -1,0 +1,6 @@
+{
+  "ID": "S2/T/EN/1015",
+  "Evidence": "Delhi reported 1,407 new Covid-19 cases and a positivity rate of 4.72% on May 7, 2022. On May 6, the city recorded 1,656 cases with a positivity rate of 5.39%. The day before, on May 5, Delhi had 1,414 cases and a positivity rate of 5.97%, with one death reported. The overall Covid-19 infection tally in Delhi rose to 1,892,832, and the death toll stood at 26,179. The number of active cases was 5,955, down from 6,096 the previous day (Source 2).",
+  "Prediction": "REFUTES",
+  "Justification": "The retrieved evidence indicates that Delhi reported 1,407 new Covid-19 cases with a positivity rate of 4.72% on May 7, 2022, and specifically states that on May 5, there were 1,414 cases with a positivity rate of 5.97%. This contradicts the claim that Delhi reported 1,414 fresh Covid cases with a positivity rate of 5.97% on the same day, as the evidence shows it was reported on May 5, not the current date. Therefore, the evidence refutes the claim."
+}

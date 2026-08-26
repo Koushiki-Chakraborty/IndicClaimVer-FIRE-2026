@@ -1,0 +1,105 @@
+{
+  "claim": {
+    "id": "S2/T/BN/1089",
+    "text": "অভিনয় জীবনের ইতি, নতুন রাজনৈতিক দলের পতাকা ও মিউজিক ভিডিও উদ্বোধন বিজয়ের",
+    "lang": "bengali"
+  },
+  "ranked_evidence": [
+    {
+      "title": "https://www.lib.uchicago.edu/e/su/southasia/to_bha...",
+      "url": "https://www.lib.uchicago.edu/e/su/southasia/to_bhaskar/candrakanta.utf",
+      "snippet": "... দল; <eng>fire- brigade</eng>. <b>অগ্নিপৰীক্ষা</b> অগ্নি ... ধন থাকোঁতেও দান নকৰা হেতু পাপ; যেনে",
+      "bm25_score_raw": 2.9493312973915504,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "আনত তল (Inclined Plane) এর নাড়ি-নক্ষত্র! | Fahad Sir | Fahad's ...",
+      "url": "https://www.facebook.com/fahadstutorialofficial/videos/%E0%A6%86%E0%A6%A8%E0%A6%A4-%E0%A6%A4%E0%A6%B2-%E0%A6%8F%E0%A6%B0-%E0%A6%A8%E0%A6%BE%E0%A7%9C%E0%A6%BF-%E0%A6%A8%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%A4%E0%A7%8D%E0%A6%B0/1851186238929682",
+      "snippet": "আর. আর ফর হোয়াট. রিফেক্টিভ ফোর্স. এই হচ্ছে ঘর্ষণ বল. প্রয়োগকৃত বল হচ্ছে F. আর এটা হচ্ছে MG. এটা স্যার কোন দল ছিল অনুভবত. এটা ছিল অনুভূমির তল. কিন্তু স্যার. এটা যদি কেউ স্যার আনতো তল হয়.",
+      "bm25_score_raw": 2.0179635192679033,
+      "bm25_score_norm": 0.6842105263157896,
+      "bm25_rank": 2
+    },
+    {
+      "title": "Superstar Vijay on Thursday the flag and symbol of his ...",
+      "url": "https://www.facebook.com/abplive/posts/superstar-vijay-on-thursday-the-flag-and-symbol-of-his-political-party-tamizhaga/955325036627116",
+      "snippet": "Superstar Vijay on Thursday the flag and symbol of his political party Tamizhaga Vetri Kazhagam. Thalapathy Vijay's political plans and",
+      "bm25_score_raw": 1.8942269683127488,
+      "bm25_score_norm": 0.6422564226636873,
+      "bm25_rank": 3
+    },
+    {
+      "title": "Tamil Nadu: Actor Vijay Launches Party Flag And Song In ...",
+      "url": "https://swarajyamag.com/tamil-nadu/tamil-nadu-actor-vijay-launches-party-flag-and-song-in-chennai",
+      "snippet": "Aug 21, 2024 — Tamil film actor Vijay today (22 August) unveiled the flag and song for his recently launched political party, Tamizhaga Vetri Kazhagam (TVK) at a programme in ...Read more",
+      "bm25_score_raw": 1.590846484650008,
+      "bm25_score_norm": 0.5393922636148016,
+      "bm25_rank": 4
+    },
+    {
+      "title": "Tamil Actor Vijay Unveils New Party's Flag, To Contest ...",
+      "url": "https://www.youtube.com/watch?v=sJJAhMyzs_g",
+      "snippet": "Popular Tamil actor Vijay has taken a major step towards the 2026 assembly elections by unveiling the flag and anthem of his political party",
+      "bm25_score_raw": 1.4460991347656695,
+      "bm25_score_norm": 0.49031424039904553,
+      "bm25_rank": 5
+    },
+    {
+      "title": "TN: Actor Vijay vows to win as he unveils his political ...",
+      "url": "https://thefederal.com/category/states/south/tamil-nadu/actor-vijay-vows-to-win-as-he-launches-political-party-tamizhaga-vetri-kazhagam-in-tn-140308",
+      "snippet": "Aug 22, 2024 — 'I unveiled our party flag today. I feel very proud,' Vijay told his cheering supporters. 'We will work together for the development of",
+      "bm25_score_raw": 1.3720667558527513,
+      "bm25_score_norm": 0.465212828774521,
+      "bm25_rank": 6
+    },
+    {
+      "title": "Actor and Tamilaga Vettri Kazhagam (TVK) president Vijay ...",
+      "url": "https://www.facebook.com/TimesofIndia/posts/actor-and-tamilaga-vettri-kazhagam-tvk-president-vijay-officially-launched-his-p/1314076434099874",
+      "snippet": "Actor and Tamilaga Vettri Kazhagam (TVK) president Vijay officially launched his party symbol, the whistle, in Mahabalipuram, Tamil Nadu.",
+      "bm25_score_raw": 0.3817291425278024,
+      "bm25_score_norm": 0.12942904815929343,
+      "bm25_rank": 7
+    },
+    {
+      "title": "Vijay: The Indian film star turning politician in Tamil Nadu",
+      "url": "https://www.bbc.com/news/articles/cx2k5kxk3plo",
+      "snippet": "India's southern state of Tamil Nadu has a long, peculiar political tradition: here, cinema doesn't merely entertain, it also governs. From extremely successful political stints of MG Ramachandran - popularly known as MGR - and Jayalalithaa to the more ambivalent experiments of Rajnikanth, Kamal Haasan, Khushbu and Vijayakanth, the state has repeatedly seen cinema icons turn into full-time politicians. Now Tamil superstar C Joseph Vijay, known as \"Thalapathy\" Vijay (General Vijay), is the latest to join the list. He launched his political party, Tamilaga Vettri Kazhagam (TVK), in 2024 and soon after announced that he would retire from films to pursue politics full-time. His upcoming film this month, Jana Nayagan (The People's Hero), would be his farewell release, he said. Reuters A portrait of actor-turned-politician Vijay is seen near the scattered shoes after a stampede that broke out last evening during his political rally in the Karur district, in the Indian state of Tamil Nadu, on September 28, 2025.",
+      "bm25_score_raw": 0.3720696422014193,
+      "bm25_score_norm": 0.12615389886191672,
+      "bm25_rank": 8
+    },
+    {
+      "title": "নততল কী? নততলের ব্যবহার | Important প্রশ্ন | WBBSE Class 6 ...",
+      "url": "https://www.youtube.com/watch?v=NVxWVf_3nPg",
+      "snippet": "... সুবিধা 1 এর বেশি। তাই আনততলকে যন্ত্র বলা হয়। আনত তলের ব্যবহারিক প্রয়োগ উল্লেখ করো। আনত তলের ব্যবহারিক প্রয়োগ উল্লেখ : (1) লরি, মালগাড়ি প্রভৃতিতে মাল বোঝাই করতে আনত তল ব্যবহার করা হয়।",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 9
+    },
+    {
+      "title": "আনত তল",
+      "url": "https://bn.wikipedia.org/wiki/%E0%A6%86%E0%A6%A8%E0%A6%A4_%E0%A6%A4%E0%A6%B2",
+      "snippet": "আনত তল বলতে হেলানো তলকে বোঝানো হয়। অর্থাৎ কোনো তলের দুই প্রান্ত দুটি ভিন্ন উচ্চতায় থাকলে তাকে আনত তল বলা হয়। কোনো বস্তুকে খাড়াভাবে নিম্নস্থান থেকে উচ্চস্থানে তুলতে যে বল প্রয়োগ করতে হয় তার থেকে অনেক কম বল প্রয়োগ করে",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10
+    },
+    {
+      "title": "আনত তল এ Pro হয়ে যাও | SSC 26,27,28 | Sharoare Hosan Emon ...",
+      "url": "https://www.youtube.com/watch?v=n5Aujz8mv-Y",
+      "snippet": "ঘর্ষণ ও অন্যান্য টিপস দিয়ে আনত তল এ Pro হোন। ভিডিওতে আনত তল SSC Physics এর সবকিছু শিখুন! আনত তল ঘর্ষণ নিয়ে প্রো হয়ে যান।",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11
+    },
+    {
+      "title": "আনত তলে কাজ (কাজ ক্ষমতা শক্তি) -Work power & energy",
+      "url": "https://www.youtube.com/watch?v=Xmyf9yVToOY",
+      "snippet": "আনত তলে কাজ (কাজ ক্ষমতা শক্তি) -Work power & energy আনত তল বরাবার কোনো ব্যক্তি বা বস্তু উঠলে আমরা অনেকেই কনফিউশনে থাকি এঙ্গেল কোনটা নিবো আবার উচ্চতা কোনটা নিবো,সবগুলা কনফিউশন ক্লিয়ার",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12
+    }
+  ]
+}

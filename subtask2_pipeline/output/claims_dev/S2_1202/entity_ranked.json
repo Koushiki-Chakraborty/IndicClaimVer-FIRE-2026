@@ -1,0 +1,99 @@
+{
+  "claim": {
+    "id": "S2/1202",
+    "text": "'Period Spent By Teacher To Pursue PhD Can Be Counted As Teaching Experience' : Kerala High Court Allows Priya Varghese's Appeal",
+    "lang": "dev"
+  },
+  "entity_ranked_evidence": [
+    {
+      "title": "Kerala High Court Allows Priya Varghese's Appeal",
+      "url": "https://www.livelaw.in/high-court/kerala-high-court/kerala-hc-allows-priya-vargheses-kannur-university-case-period-spent-by-teacher-to-pursue-phd-can-be-counted-as-teaching-experience-231107",
+      "snippet": "'Period Spent By Teacher To Pursue PhD Can Be Counted As Teaching Experience' : Kerala High Court Allows Priya Varghese's Appeal. Sheryl",
+      "bm25_score_raw": 9.992337784905972,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9814340472221375,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1,
+      "entity_overlap_raw": 2,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 1
+    },
+    {
+      "title": "Kerala High Court Allows Priya Varghese's Appeal",
+      "url": "http://www.pharmacybbdniit.org/File/WebNews/news_23623a.pdf",
+      "snippet": "In an appeal by Priya Varghese, a division bench of Justice A K Jayasankaran Nambiar and Justice Mohammed Nias C P set aside the order of the single bench and held that the period spent by Priya Varghese on pursuing her Ph.D. degree under the Faculty Development Programme could not be excluded while considering the period of teaching experience. ‘Faculty members’, on the other hand, refers to persons who are already working as teachers in an institution at the time of applying for the teaching post in question, and for them, the period spent on pursuing a research degree simultaneously with teaching assignment and without taking any kind of leave, will count towards teaching experience. Similarly, even those regular faculty members, upto 20% of the total faculty strength, who have availed study leave to pursue the Ph.D. programme under the Faculty Development Programme, will get the benefit of including the period spent on pursuing a research degree in the teaching/research experience stipulated for the teaching post that is notified for appointment.",
+      "bm25_score_raw": 4.327281791211505,
+      "bm25_score_norm": 0.2702508825953846,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.9249751567840576,
+      "embedding_score_norm": 0.38868645642947863,
+      "embedding_rank": 2,
+      "entity_overlap_raw": 2,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 2
+    },
+    {
+      "title": "'Inclusion of Ph.D. Pursuit as Teaching Experience: Court's ...",
+      "url": "https://judgementsofindia.quora.com/Inclusion-of-Ph-D-Pursuit-as-Teaching-Experience-Courts-Decision-in-Appointments-Case",
+      "snippet": "However, in Priya Varghese's appeal, a division bench of the High Court ruled that the time she spent pursuing her Ph.D. degree should be consideconsidered",
+      "bm25_score_raw": 2.2293191548287123,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.9235828518867493,
+      "embedding_score_norm": 0.37361115413607593,
+      "embedding_rank": 3,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 3
+    },
+    {
+      "title": "Priya Varghese's claims fall flat in court",
+      "url": "https://www.newindianexpress.com/states/kerala/2022/Nov/17/priya-vargheses-claims-fall-flat-in-court-2519396.html",
+      "snippet": "The High Court did not find force in the argument of Priya that the time spent on obtaining a PhD degree under the Faculty Development",
+      "bm25_score_raw": 2.65949750511491,
+      "bm25_score_norm": 0.05541379852155736,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.889077365398407,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 4
+    },
+    {
+      "title": "IN THE SUPREME COURT OF INDIA",
+      "url": "https://www.kpcta.in/getfile?cid=",
+      "snippet": "Priya Varghese & Ors. Hon'ble High Court of Kerala ・ shall be counted as teaching experience ・ shall be counted as teaching experience",
+      "bm25_score_raw": 6.014014635155531,
+      "bm25_score_norm": 0.4875288416368456,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.9077948331832886,
+      "embedding_score_norm": 0.20266500934502235,
+      "embedding_rank": 4,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 5
+    },
+    {
+      "title": "Kerala HC sets aside order against appointment of Priya ...",
+      "url": "https://www.thenewsminute.com/kerala/kerala-hc-sets-aside-order-against-appointment-priya-varghese-kannur-varsity-178834",
+      "snippet": "The period Priya spent pursuing her PhD under the Faculty Development Programme cannot be excluded while deciding on her “teaching/research”",
+      "bm25_score_raw": 3.412545238924509,
+      "bm25_score_norm": 0.15241829763379308,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.9030251502990723,
+      "embedding_score_norm": 0.15102085333994197,
+      "embedding_rank": 5,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 6
+    }
+  ]
+}

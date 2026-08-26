@@ -1,0 +1,99 @@
+{
+  "claim": {
+    "id": "S2/1210",
+    "text": "Telangana: Government to table the bill soon, says Kamal Nath",
+    "lang": "dev"
+  },
+  "entity_ranked_evidence": [
+    {
+      "title": "Telangana: Government to table the bill soon, says Kamal Nath",
+      "url": "https://www.indiatvnews.com/politics/national/telangana-government-to-table-the-bill-soon-says-kamal-nath-13670.html",
+      "snippet": "New Delhi: Union Parliamentary Affairs Minister Kamal Nath has said that the government will try to bring as soon as possible because there was a consensus",
+      "bm25_score_raw": 2.092959842321934,
+      "bm25_score_norm": 0.2983662620986333,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.9383447170257568,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1,
+      "entity_overlap_raw": 2,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 1
+    },
+    {
+      "title": "Government to table Telangana bill soon: Kamal Nath",
+      "url": "https://www.business-standard.com/article/politics/government-to-table-telangana-bill-soon-kamal-nath-113120300488_1.html",
+      "snippet": "Government to table Telangana bill soon: Kamal Nath · Kamal Nath said all political parties had agreed upon bringing the Telangana bill in the winter session.",
+      "bm25_score_raw": 4.611406968518273,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9361703991889954,
+      "embedding_score_norm": 0.9849464672954275,
+      "embedding_rank": 2,
+      "entity_overlap_raw": 2,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 2
+    },
+    {
+      "title": "Government to table Telangana bill soon: Kamal Nath - Madhyamam",
+      "url": "https://madhyamamonline.com/amp/en/node/18496",
+      "snippet": "\"It will be the government's endeavour to bring the bill as soon as possible,\" he said. The Bharatiya Janata Party has also demanded introduction and passing of",
+      "bm25_score_raw": 2.772027356851786,
+      "bm25_score_norm": 0.4875529531952904,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.9318935871124268,
+      "embedding_score_norm": 0.9553366607724638,
+      "embedding_rank": 3,
+      "entity_overlap_raw": 2,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 3
+    },
+    {
+      "title": "MP crisis: Kamal Nath meets governor, says govt in majority; rules out floor test",
+      "url": "https://timesofindia.indiatimes.com/india/kamal-nath-meets-governor-says-govt-in-majority-rules-out-floor-test/amp_articleshow/74660777.cms",
+      "snippet": "We are in a majority today so no question of a floor test. \"Those who claim that we don't have a majority should move a no-confidence motion",
+      "bm25_score_raw": 1.0220027107794953,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.832530677318573,
+      "embedding_score_norm": 0.26741386176202964,
+      "embedding_rank": 4,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 4
+    },
+    {
+      "title": "25 MPs can't hold Parliament hostage: Kamal Nath | India News",
+      "url": "https://www.hindustantimes.com/india/25-mps-can-t-hold-parliament-hostage-kamal-nath/story-kxHhn04yXxqBGt5W5mbLLK_amp.html",
+      "snippet": "Nath said outside the House, \"A group of 25 MPs cannot hold the entire House hostage. We will recommend strictest possible action against them.\"",
+      "bm25_score_raw": 1.331723156408378,
+      "bm25_score_norm": 0.08628742359156773,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8223773241043091,
+      "embedding_score_norm": 0.19711878710098069,
+      "embedding_rank": 5,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 5
+    },
+    {
+      "title": "C.M. SHRI Kamal Nath Industries with an investment lesser than Rs. 100 ...",
+      "url": "https://www.facebook.com/jansampark.madhyapradesh/posts/cm-shri-kamal-nath-chairs-round-table-conference-with-textile-apparel-industrypo/1608154535999808",
+      "snippet": "Shri Kamal Nath Chairs Round Table Conference with Textile, Apparel Industry Policy for Composite and Integrated Textile Units. Giving Jobs to",
+      "bm25_score_raw": 2.1349368273073512,
+      "bm25_score_norm": 0.31006095625154595,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.7939056754112244,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 6
+    }
+  ]
+}

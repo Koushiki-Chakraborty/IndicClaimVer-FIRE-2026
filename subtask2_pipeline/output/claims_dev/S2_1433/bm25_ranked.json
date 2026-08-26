@@ -1,0 +1,57 @@
+{
+  "claim": {
+    "id": "S2/1433",
+    "text": "Kejriwal says Covid curbs will remain in place to protect people's health, despite concerns about livelihoods.",
+    "lang": "dev"
+  },
+  "ranked_evidence": [
+    {
+      "title": "Coronavirus: Here Are The Steps Taken Across India To Control The ...",
+      "url": "https://swachhindia.ndtv.com/coronavirus-here-are-the-steps-taken-by-india-to-control-the-spread-of-covid-19-42304/amp",
+      "snippet": "All schools, colleges and cinema halls in Delhi will remain shut till March 31 as a measure to counter the coronavirus, Chief Minister Arvind Kejriwal",
+      "bm25_score_raw": 2.9515458004728963,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Forced to enforce curbs for safety of all: Kejriwal",
+      "url": "https://www.newindianexpress.com/amp/story/states/delhi/2022/Jan/26/forced-to-enforce-curbs-for-safety-of-all-kejriwal-2411493.html",
+      "snippet": "He added, “Whenever Covid spreads, we've to take tough decisions. We are forced to impose weekend curfews, and odd-even protocols. All of this",
+      "bm25_score_raw": 1.728269241414715,
+      "bm25_score_norm": 0.4803890839285575,
+      "bm25_rank": 2
+    },
+    {
+      "title": "Don't want people's livelihood to be affected, Covid curbs to be eased as ...",
+      "url": "https://health.economictimes.indiatimes.com/amp/news/policy/dont-want-peoples-livelihood-to-be-affected-covid-curbs-to-be-eased-as-soon-as-possible-arvind-kejriwal/89110933",
+      "snippet": "Kejriwal on Tuesday said that his government does not want livelihood of people to be affected and Covid restrictions will be eased as soon as",
+      "bm25_score_raw": 1.5741924080999121,
+      "bm25_score_norm": 0.4149419011870432,
+      "bm25_rank": 3
+    },
+    {
+      "title": "Coronavirus | Kejriwal asks people to stay home, says lockdown decision ...",
+      "url": "https://www.thehindu.com/news/cities/Delhi/coronavirus-kejriwal-asks-people-to-stay-home-says-lockdown-decision-taken-for-their-safety/article34365784.ece/amp",
+      "snippet": "Kindly cooperate with the government and stay home to keep safe from the infection,\" Mr. Kejriwal tweeted.",
+      "bm25_score_raw": 0.8047796232685392,
+      "bm25_score_norm": 0.08811860108954314,
+      "bm25_rank": 4
+    },
+    {
+      "title": "Arvind Kejriwal To Take COVID-19 Test Tomorrow, \"Frontline Warrior ...",
+      "url": "https://www.youtube.com/watch?v=Z6v7B7038dg",
+      "snippet": "Arvind Kejriwal has gone into self-quarantine and will take a coronavirus test after complaints of mild fever and a sore throat,",
+      "bm25_score_raw": 0.7885639144414865,
+      "bm25_score_norm": 0.08123065800260962,
+      "bm25_rank": 5
+    },
+    {
+      "title": "COVID digest: Delhi drops COVID restrictions",
+      "url": "https://amp.dw.com/en/covid-digest-indias-capital-drops-restrictions-as-cases-ease/a-60926438",
+      "snippet": "People would still have to follow what Kejriwal called \"COVID appropriate behavior\" like wearing masks, though fines for non-compliance were",
+      "bm25_score_raw": 0.5973293642462363,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6
+    }
+  ]
+}

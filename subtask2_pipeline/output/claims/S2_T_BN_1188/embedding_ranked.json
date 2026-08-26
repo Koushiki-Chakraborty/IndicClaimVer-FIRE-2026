@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/BN/1188",
+    "text": "উপনির্বাচনের ফল দেখিয়ে দিল মানুষ বিভ্রান্তির ফাঁদে পা দিয়েছে: স্বপন দেবনাথ",
+    "lang": "bengali"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Swapan Debnath - --",
+      "url": "https://www.linkedin.com/in/swapan-debnath-58203773",
+      "snippet": "ates\nN/A connections, N/A followers\n\n\nAbout\nN/A\n\n\nExperience\nN/A\n\n\nEducation\nN/A",
+      "bm25_score_raw": 1.4895326617653715,
+      "bm25_score_norm": 0.18266795865059315,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.8472127318382263,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Debnath Swapan Deb nath Swapan - --",
+      "url": "https://www.linkedin.com/in/debnath-swapan-deb-nath-swapan-80b10162",
+      "snippet": " connections, N/A followers\n\n\nAbout\nN/A\n\n\nExperience\nN/A\n\n\nEducation\nN/A",
+      "bm25_score_raw": 1.6537935324376551,
+      "bm25_score_norm": 0.22599137447283243,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8370767831802368,
+      "embedding_score_norm": 0.9037577670158417,
+      "embedding_rank": 2
+    },
+    {
+      "title": "swapan debnath - --",
+      "url": "https://www.linkedin.com/in/swapan-debnath-09625915",
+      "snippet": "onnections, 1 followers\n\n\nAbout\nN/A\n\n\nExperience\nN/A\n\n\nEducation\nN/A",
+      "bm25_score_raw": 1.520927963769794,
+      "bm25_score_norm": 0.19094839523926807,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8350954055786133,
+      "embedding_score_norm": 0.8849443129229447,
+      "embedding_rank": 3
+    },
+    {
+      "title": "WB Assembly Vote, Swapan Debnath: পূর্বস্থলী দক্ষিণে দুই ...",
+      "url": "https://www.facebook.com/TV9BanglaLive/videos/wb-assembly-vote-swapan-debnath-%E0%A6%AA%E0%A7%82%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%B2%E0%A7%80-%E0%A6%A6%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BF%E0%A6%A3%E0%A7%87-%E0%A6%A6%E0%A7%81%E0%A6%87-%E0%A6%AB%E0%A7%81%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A7%87%E0%A6%9C%E0%A6%BE%E0%A7%9F-%E0%A6%AE%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%B0%E0%A6%BFswapa/1515081033542101",
+      "snippet": "WB Assembly Vote, Swapan Debnath: পূর্বস্থলী দক্ষিণে দুই ফুলের বেজায় মারামারি #SwapanDebnath | #Purbasthali | #TV9Bangla | #PurbaBardhaman |",
+      "bm25_score_raw": 0.8517196597110847,
+      "bm25_score_norm": 0.014446289109113504,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.8347312211990356,
+      "embedding_score_norm": 0.881486331919768,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Swapan Debnath - --",
+      "url": "https://www.linkedin.com/in/swapan-debnath-a357b1277",
+      "snippet": " Tripura, India\nN/A connections, N/A followers\n\n\nAbout\nN/A\n\n\nExperience\nN/A\n\n\nEducation\nN/A",
+      "bm25_score_raw": 1.4743160965486992,
+      "bm25_score_norm": 0.17865462559342613,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.8332772254943848,
+      "embedding_score_norm": 0.8676804418065942,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Swapan Debnath | TMC | চুনো-পুঁটি বাঁচাতে বললেন মন্ত্রী ...",
+      "url": "https://www.youtube.com/watch?v=hCq1fExFVS8",
+      "snippet": "এবার চুনো-পুঁটি বাঁচানোর দাবি তুলেছেন মন্ত্রী স্বপন দেবনাথ। ... Swapan Debnath | TMC | চুনো-পুঁটি বাঁচাতে বললেন মন্ত্রী স্বপন দেবনাথ.",
+      "bm25_score_raw": 2.760969136634729,
+      "bm25_score_norm": 0.5180063193136334,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8293815851211548,
+      "embedding_score_norm": 0.8306907982050192,
+      "embedding_rank": 6
+    },
+    {
+      "title": "Swapan Debnath | Swapan Debnath: Parents should monitor what their daughters do during 'Reclaim the night' movement held after midnight - Telegraph India",
+      "url": "https://www.telegraphindia.com/west-bengal/swapan-debnath-parents-should-monitor-what-their-daughters-do-during-reclaim-the-night-movement-held-after-midnight/cid/2049072",
+      "snippet": "Title: Swapan Debnath | Swapan Debnath: Parents should monitor what their daughters do during 'Reclaim the night' movement held after midnight - Telegraph India\nNews   Places   People   Lifestyle   Happenings   Food   Puja   Try This   Durga Puja 2025. * Swapan Debnath: Parents should monitor what their daughters do during 'Reclaim the night' movement held after midnight. # Parents should monitor what daughters do during 'Reclaim the night' movement held after midnight: Swapan Debnath. ## The Animal Resources Development Minister said that any untoward incident makes the state government responsible but the safety of women is the responsibility of everyone. West Bengal minister and senior TMC leader Swapan Debnath has stirred a controversy by saying that parents should monitor what their daughters do during the 'Reclaim the night' movement held after midnight, while citing an alleged incident of a protestor consuming liquor with men during one such agitation. In a purported video, Debnath was seen telling a gathering in Purba Bardhaman district on Wednesday that during a recent 'Reclaim the night' movement in his area Purbasthali, a woman and two men were seen sipping beer at a hotel. We informed you (parents) to take her home, we also asked the police to ensure she is safe,\" he said. Debnath said he has requested the hotel owners in his area not to sell liquor to women after midnight. Urging parents to be more vigilant, he said, \"Your daughter went for protest demanding safety for other women. But monitor what she is doing outside after midnight.\" \"Any untoward incident will make the state accountable. We are certainly responsible for the safety of women. The 'Reclaim the night' movement, held in protest against the rape and murder of a woman doctor at state-run RG Kar Medical College and Hospital, was first organised on August 14 across West Bengal and repeated on three more occasions with participation of thousands of women. \"But the underlying note of concern for the safety of a woman, which is apparent in the comment of Swapan Debnath, should not be overlooked at the same time. Swapan Debnath   Reclaim The Night   Parents. The assessments of Tehran's nuclear program remain broadly unchanged even after two months of a war that Trump launched in part to stop the Islamic Republic from developing a nuclear bomb.",
+      "bm25_score_raw": 1.8541806686232993,
+      "bm25_score_norm": 0.2788430073106901,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8226633667945862,
+      "embedding_score_norm": 0.7669003869429807,
+      "embedding_rank": 7
+    },
+    {
+      "title": "Minister Swapan Debnath: অন্যরূপে মন্ত্রী স্বপন দেবনাথ! ...",
+      "url": "https://bengali.news18.com/news/south-bengal/east-bardhaman-news-west-bengal-minister-swapan-debnath-acts-in-jatra-pala-local-people-happy-to-see-his-acting-l18-local18-2444180.html",
+      "snippet": "রাজ্যের প্রাণীসম্পদ দফতরের মন্ত্রী স্বপন দেবনাথকে সবাই চেনেন প্রশাসনিক কাজের ব্যস্ত মন্ত্রী হিসেবে। কিন্তু রবিবার সন্ধ্যায় তাঁকে দেখা গেল একেবারে ভিন্ন সাজে, যাত্রার রঙিন পোশাক পরে আলো ঝলমলে মঞ্চে অভিনয় করছেন",
+      "bm25_score_raw": 1.620572358392025,
+      "bm25_score_norm": 0.21722936845526258,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8156740665435791,
+      "embedding_score_norm": 0.7005360153532093,
+      "embedding_rank": 8
+    },
+    {
+      "title": "Concetta M. Payne Swapan Debnath - Goodreads",
+      "url": "https://www.goodreads.com/author/show/38728139.Concetta_M_Payne_Swapan_Debnath",
+      "snippet": "Payne Swapan Debnath (Author of BoBo's New Challenge...Spike) Discover new books on Goodreads See if your friends have read any of Concetta M. Payne Swapan Debnath's books Payne Swapan Debnath’s Followers Payne Swapan Debnath’s books Payne Swapan Debnath Average rating: 5.0 · 4 ratings · 1 review · 1 distinct work it was amazing 5.00 avg rating — 4 ratings — published 2011 — 2 editionsWant to Read saving… 1 of 5 stars2 of 5 stars3 of 5 stars4 of 5 stars5 of 5 stars * Note: these are all the books on Goodreads for this author. To add more, click here. If not, help out and invite Concetta to Goodreads. ### Company ### Work with us ### Connect Just a moment while we sign you in to your Goodreads account.",
+      "bm25_score_raw": 1.4749438519920153,
+      "bm25_score_norm": 0.17882019460565737,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.8120154142379761,
+      "embedding_score_norm": 0.6657966061982187,
+      "embedding_rank": 9
+    },
+    {
+      "title": "Swapan Debnath & Yatra: যাত্রা আর রাজনীতি স্বপনের শিরা ...",
+      "url": "https://www.anandabazar.com/west-bengal/minister-swapan-debnath-appeared-on-theyatra-stage-with-a-message-of-communal-harmony-dgtl/cid/1320388",
+      "snippet": "যাত্রা ও রাজনীতির পৃথক মঞ্চে মন্ত্রী স্বপন দেবনাথ। নিজস্ব চিত্র। তাঁর যাত্রাপ্রেমের কথা কারও অজানা নয়। পেশাদার রাজনীতিক হয়েও বার বার যাত্রামঞ্চে অভিনয় করে দর্শকদের হাততালি কুড়িয়েছেন তিনি। এ বার সাম্প্রদায়িক",
+      "bm25_score_raw": 1.925938235907499,
+      "bm25_score_norm": 0.29776889582645244,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.808385968208313,
+      "embedding_score_norm": 0.6313345146686875,
+      "embedding_rank": 10
+    },
+    {
+      "title": "প্রথম পূর্ণমন্ত্রী পেল কালনা, অতিমারিতে মানুষের পাশে থাকতে ...",
+      "url": "https://zeenews.india.com/bengali/state/swapan-debnath-got-the-ministry-of-animal-resources-development_380981.html",
+      "snippet": "সমস্ত আসন জিতেছে তৃণমূল। আস্থাভাজন স্বপন দেবনাথকেই, এবার গুরুত্বপূর্ণ দায়িত্বে এনেছেন মুখ্য়মন্ত্রী মমতা বন্দ্য়োপাধ্য়ায়। তাঁকে প্রাণিসম্পদ উন্নয়ন দফতরের পূর্ণমন্ত্রীর দায়িত্ব দিয়েছেন। তৃণমূল নেত্রীর ভরশা অটুট",
+      "bm25_score_raw": 0.7969465080098654,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.8011754155158997,
+      "embedding_score_norm": 0.5628693205774772,
+      "embedding_rank": 11
+    },
+    {
+      "title": "স্বপন দেবনাথ",
+      "url": "https://bn.wikipedia.org/wiki/%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%AA%E0%A6%A8_%E0%A6%A6%E0%A7%87%E0%A6%AC%E0%A6%A8%E0%A6%BE%E0%A6%A5",
+      "snippet": "স্বপন দেবনাথ (জন্ম ১৯৫২) পশ্চিমবঙ্গের একজন ভারতীয় রাজনীতিবিদ। তিনি ২০১১ সাল থেকে পূর্ব বর্ধমান জেলার পূর্বস্থলী দক্ষিণ বিধানসভা কেন্দ্র থেকে পশ্চিমবঙ্গ বিধানসভার সদস্য। তিনি ২০২১ সালের পশ্চিমবঙ্গ বিধানসভা নির্বাচনে",
+      "bm25_score_raw": 4.5884497298763955,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.7418956756591797,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

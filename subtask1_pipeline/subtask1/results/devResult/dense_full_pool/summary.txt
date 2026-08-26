@@ -1,0 +1,9 @@
+
+=== Dense full-pool per-language metrics ===
+Language      Success@3   nDCG@3      n   
+------------------------------------------
+Hindi         0.875       0.584       288 
+Bengali       0.682       0.488       179 
+English       0.869       0.623       398 
+Code-mixed    0.773       0.512       269 
+Overall       0.818       0.566       1134

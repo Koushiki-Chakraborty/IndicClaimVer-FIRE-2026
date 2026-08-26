@@ -1,0 +1,6 @@
+{
+  "ID": "S2/T/EN/1242",
+  "Evidence": "India's first case of the coronavirus variant XE was reported in Mumbai, according to the Brihanmumbai Municipal Corporation (BMC). A 50-year-old female patient, who arrived from South Africa, tested positive for XE after initially testing negative. However, the Union Health Ministry refuted claims of the XE variant's detection, stating that genomic experts found the sample did not correlate with XE's genomic structure. The BMC noted that the patient's sample was sent for further testing to confirm the XE variant. The XE variant is a recombinant of the BA.1 and BA.2 Omicron strains, which has been reported to be more transmissible.",
+  "Prediction": "REFUTES",
+  "Justification": "The evidence from Source 3 indicates that while the BMC reported a case of the XE variant, the Union Health Ministry refuted this claim, stating that genomic analysis did not support the identification of the XE variant. Therefore, the core assertion that the XE variant was detected in Mumbai is contradicted by the evidence, leading to the conclusion that the claim is not substantiated."
+}

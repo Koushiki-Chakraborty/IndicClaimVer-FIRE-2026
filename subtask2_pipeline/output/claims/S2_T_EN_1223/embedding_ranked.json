@@ -1,0 +1,76 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1223",
+    "text": "Mumbai logs 420 fresh Covid-19 cases in 24 hours, active caseload at 3,318",
+    "lang": "english"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Mumbai reports 922 new COVID-19 cases in 24-hours",
+      "url": "https://www.youtube.com/watch?v=q32H6n905d0",
+      "snippet": "Mumbai has reported 922 new Covid-19 cases in the past 24 hours, marking a rise in fresh cases for the fourth day in a row, state health",
+      "bm25_score_raw": 2.2047415963026844,
+      "bm25_score_norm": 0.030943254102354305,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.9036267399787903,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "At 420, Mumbai sees 79% rise in new Covid-19 cases ...",
+      "url": "https://www.business-standard.com/article/current-affairs/at-420-mumbai-sees-79-rise-in-new-covid-19-cases-in-last-24-hours-122071201268_1.html",
+      "snippet": "At 420, Mumbai sees 79% rise in new Covid-19 cases in last 24 hours · The case tally in the metropolis is 11,19,450, while the recovery count",
+      "bm25_score_raw": 2.1300195922795,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.9022004008293152,
+      "embedding_score_norm": 0.9726222360528426,
+      "embedding_rank": 2
+    },
+    {
+      "title": "At 420, Mumbai Sees 79% Rise In Covid-19 Cases In 24 ...",
+      "url": "https://www.outlookindia.com/national/at-420-mumbai-sees-79-rise-in-covid-19-cases-in-24-hours-news-208738",
+      "snippet": "Mumbai on Tuesday reported 420 COVID-19 cases, which is a rise of almost 79 per cent over the number of infections recorded a day before,",
+      "bm25_score_raw": 3.5567923542208857,
+      "bm25_score_norm": 0.5908432555605952,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.897940456867218,
+      "embedding_score_norm": 0.8908550488692515,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Mumbai reports 4,192 new Covid cases in last 24 hours ... - Mint",
+      "url": "https://www.livemint.com/news/india/mumbai-reports-4-192-new-covid-cases-in-last-24-hours-lowest-rise-in-37-days-11619715838191.html",
+      "snippet": "4,192 fresh cases were reported in Mumbai today, taking the active cases tally to 64,018 in the city. 82 deaths were reported in the last 24",
+      "bm25_score_raw": 4.544827155052906,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8946852684020996,
+      "embedding_score_norm": 0.8283735686165935,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Mumbai Records 1765 New Covid Cases, 42% Rise In A Day",
+      "url": "https://www.youtube.com/watch?v=jt1NClBTS48",
+      "snippet": "Mumbai reported 1765 new Covid cases in the last 24 hours, a 42 per cent increase from the previous day's count. The infection count is the",
+      "bm25_score_raw": 2.65774612844915,
+      "bm25_score_norm": 0.21853771882491377,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8852056264877319,
+      "embedding_score_norm": 0.6464172654956657,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Mumbai logs most COVID-19 cases since start of pandemic",
+      "url": "https://www.thenews.com.pk/latest/806695-mumbai-logs-most-covid-cases-since-start-of-pandemic",
+      "snippet": "MUMBAI: India's wealthiest state Maharashtra and its capital Mumbai recorded on Friday the most daily coronavirus cases since the pandemic",
+      "bm25_score_raw": 3.474076255273533,
+      "bm25_score_norm": 0.556589553434388,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8515282869338989,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6
+    }
+  ]
+}

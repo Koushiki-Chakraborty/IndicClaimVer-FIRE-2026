@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/HI/1177",
+    "text": "अब गुजरात के MLAs को क्षेत्र के विकास के लिए हर साल एक करोड़ रुपये मिलेंगे",
+    "lang": "hindi"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Gujarat MLAs to get Rs 50 lakh more per year for area ...",
+      "url": "https://www.indiatribune.com/public/gujarat-mlas-to-get-rs-50-lakh-more-per-year-for-area-development",
+      "snippet": "Mar 27, 2018 — The Gujarat government on March 26 announced that the state's 182 legislators would get Rs 1.50 crore each as Local Area Development(LAD) grant",
+      "bm25_score_raw": 2.55025303437474,
+      "bm25_score_norm": 0.706643945003122,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8929964900016785,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "With focus on water, Gujarat hikes MLA development fund ...",
+      "url": "https://theprint.in/india/with-focus-on-water-gujarat-hikes-mla-development-fund-by-rs-1-crore-to-rs-2-5-crore-a-year/2583630",
+      "snippet": "Apr 9, 2025 — The Gujarat government has increased the annual MLA local area development to Rs 2.5 crore from the existing Rs 1.5 crore. at just ₹500 a month.",
+      "bm25_score_raw": 2.1897639393586745,
+      "bm25_score_norm": 0.6067568229022308,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8925436735153198,
+      "embedding_score_norm": 0.9955013157925904,
+      "embedding_rank": 2
+    },
+    {
+      "title": "MLA Fund Boost: Delhi Leads Pack With Rs 15 Crores",
+      "url": "https://www.youtube.com/watch?v=R0hwMg78nA4",
+      "snippet": "The MLA fund has been raised to Rs 15 crores, with an additional Rs 5 crores allocated for 'development'. Gujarat offers Rs 1.5 crores. For '",
+      "bm25_score_raw": 0.47686581985772575,
+      "bm25_score_norm": 0.13213369012382306,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.8614910840988159,
+      "embedding_score_norm": 0.686997103124504,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Over Rs 300 crore unspent in Gujarat MLA's fund: report",
+      "url": "https://madhyamamonline.com/india/over-rs-300-crore-unspent-in-gujarat-mlas-fund-report-1018359",
+      "snippet": "Every MLA can suggest developmental works worth ₹ 1.5 crores in her/his constituency. The MLAs of 2017-2022 recommended works worth Rs 1,004.15. Rs 849.64 crore",
+      "bm25_score_raw": 2.768159687428052,
+      "bm25_score_norm": 0.7670232151698455,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8602324724197388,
+      "embedding_score_norm": 0.6744929283550343,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Gujarat MLAs' Funds Under-Utilised, Over Rs 300 Crore ...",
+      "url": "https://www.ndtv.com/india-news/gujarat-mlas-funds-under-utilised-over-rs-300-crore-unspent-report-3035920",
+      "snippet": "Jun 3, 2022 — Development works worth Rs 1,004.15 crore was recommended by MLAs in 2017-22, of which Rs 849.64 crore were released and Rs 677.5 crore were",
+      "bm25_score_raw": 3.6089646736638676,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8581266403198242,
+      "embedding_score_norm": 0.6535717077353445,
+      "embedding_rank": 5
+    },
+    {
+      "title": "32% of MLAs' local development funds remains unspent in ...",
+      "url": "http://www.adrindia.org/content/report-32-mlas%E2%80%99-local-development-funds-remains-unspent-gujarat",
+      "snippet": "Mar 6, 2022 — Gujarat Assembly's tenure to end, over Rs 325 crore–or 32 per cent–of the MLA local area development fund remained unspent as in March 2022, Rs",
+      "bm25_score_raw": 1.3733731592967409,
+      "bm25_score_norm": 0.38054491619683123,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.8421585559844971,
+      "embedding_score_norm": 0.4949304678821069,
+      "embedding_rank": 6
+    },
+    {
+      "title": "गुजरात में BJP के 162 MLA हैं, इतनी बहुमत के बावजूद गुजरात ...",
+      "url": "https://www.facebook.com/AapKaGopalRai/posts/%E0%A4%97%E0%A5%81%E0%A4%9C%E0%A4%B0%E0%A4%BE%E0%A4%A4-%E0%A4%AE%E0%A5%87%E0%A4%82-bjp-%E0%A4%95%E0%A5%87-162-mla-%E0%A4%B9%E0%A5%88%E0%A4%82-%E0%A4%87%E0%A4%A4%E0%A4%A8%E0%A5%80-%E0%A4%AC%E0%A4%B9%E0%A5%81%E0%A4%AE%E0%A4%A4-%E0%A4%95%E0%A5%87-%E0%A4%AC%E0%A4%BE%E0%A4%B5%E0%A4%9C%E0%A5%82%E0%A4%A6-%E0%A4%97%E0%A5%81%E0%A4%9C%E0%A4%B0%E0%A4%BE%E0%A4%A4-%E0%A4%B8%E0%A4%B0%E0%A4%95%E0%A4%BE%E0%A4%B0-%E0%A4%AE%E0%A5%87%E0%A4%82-%E0%A4%87%E0%A4%A4%E0%A4%A8%E0%A5%80-%E0%A4%B9%E0%A4%BF%E0%A4%AE%E0%A5%8D%E0%A4%AE%E0%A4%A4-/1467029918117205",
+      "snippet": "आप पार्टी इतनी खराब है कि अगर गुजरात सत्ता में आई तो गुजरात के विकास को नज़र लग जाएगी और ये लोग नई नई स्कीम बनाकर चुनाव लड़ने के लिए राज्य खजाने से पैसा चुरा कर ले जाएंगे ।",
+      "bm25_score_raw": 1.0866225949984205,
+      "bm25_score_norm": 0.3010898396783882,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.8397378325462341,
+      "embedding_score_norm": 0.4708808349065207,
+      "embedding_rank": 7
+    },
+    {
+      "title": "25 BJP MLAs Sworn In as Gujarat Ministers; Harsh Sanghavi ...",
+      "url": "https://www.youtube.com/watch?v=7NGnCjXEGdo",
+      "snippet": "In a major political development in Gujarat, 25 BJP MLAs were sworn in as state ministers, marking a significant cabinet expansion.",
+      "bm25_score_raw": 3.1329360730335036,
+      "bm25_score_norm": 0.8680982930910505,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8149511814117432,
+      "embedding_score_norm": 0.22462806060936238,
+      "embedding_rank": 8
+    },
+    {
+      "title": "Gujarat: AAP MLA Chaitar Vasava को जेल, Arvind Kejriwal बोले ...",
+      "url": "https://www.facebook.com/thelallantop/videos/gujarat-aap-mla-chaitar-vasava-%E0%A4%95%E0%A5%8B-%E0%A4%9C%E0%A5%87%E0%A4%B2-arvind-kejriwal-%E0%A4%AC%E0%A5%8B%E0%A4%B2%E0%A5%87-%E0%A4%9C%E0%A4%A8%E0%A4%A4%E0%A4%BE-%E0%A4%AC%E0%A4%A6%E0%A4%B2%E0%A4%BE-%E0%A4%B2%E0%A5%87%E0%A4%97%E0%A5%80gujarat/807019789044587",
+      "snippet": "Bada neta to tu bhi tha,maan bhi AAP mein sab badey chor neta hein.yani tu court k jadge ko be imman bata reha hai.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.8120169639587402,
+      "embedding_score_norm": 0.1954769185582419,
+      "embedding_rank": 9
+    },
+    {
+      "title": "गुजरात में BJP के भ्रष्टाचार के ख़िलाफ़ आवाज़ उठाई तो AAP MLA ...",
+      "url": "https://www.instagram.com/reel/DMe_wP9SgML",
+      "snippet": "24K likes, 207 comments - arvindkejriwal on July 24, 2025: \"गुजरात में BJP के भ्रष्टाचार के ख़िलाफ़ आवाज़ उठाई तो AAP MLA चैतर वसावा जी को गिरफ़्तार कर लिया गया। विरोध में अब",
+      "bm25_score_raw": 1.9302655031971485,
+      "bm25_score_norm": 0.5348529779975701,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8077268600463867,
+      "embedding_score_norm": 0.15285518701782894,
+      "embedding_rank": 10
+    },
+    {
+      "title": "Fact Check: गुजरात में AAP के सभी नवनिर्वाचित विधायकों का ...",
+      "url": "https://www.vishvasnews.com/viral/fact-check-no-all-newly-elected-mlas-of-aap-in-gujarat-have-not-joined-bjp",
+      "snippet": "गुजरात विधानसभा चुनाव के नतीजे आने के बाद आम आदमी पार्टी के पांचों नवनिर्वाचित विधायकों के बीजेपी में शामिल होने का दावा फेक और मनगढ़ंत है।",
+      "bm25_score_raw": 0.9280229297043188,
+      "bm25_score_norm": 0.2571438109318421,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.7969703674316406,
+      "embedding_score_norm": 0.04599056324450056,
+      "embedding_rank": 11
+    },
+    {
+      "title": "'गुजरात में खिसक रही बीजेपी की जमीन', हर्ष संघवी के आरोप पर ...",
+      "url": "https://www.abplive.com/news/india/bjp-land-slipping-in-gujarat-says-aap-mla-dilip-pandey-on-harsh-sanghvi-allegations-ann-2248815",
+      "snippet": "Gujarat Elections News: गुजरात विधानसभा चुनाव को लेकर बीजेपी और आम आदमी पार्टी के बीच आरोप-प्रत्यारोप का दौर चल रहा है. अब 'आप' विधायक दिलीप पांडेय ने गुजरात बीजेपी पर निशाना साधा है.",
+      "bm25_score_raw": 2.627415097217174,
+      "bm25_score_norm": 0.7280246094927242,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.7923411726951599,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

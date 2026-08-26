@@ -1,0 +1,99 @@
+{
+  "claim": {
+    "id": "S2/1153",
+    "text": "Absence Of A Specific Clause Under GAFTA Arbitration Rules Bars Arbitrator From Deciding The Challenge Made To Its Jurisdiction: Bombay High Court",
+    "lang": "dev"
+  },
+  "entity_ranked_evidence": [
+    {
+      "title": "Absence Of A Specific Clause Under GAFTA Arbitration ...",
+      "url": "https://www.livelaw.in/high-court/bombay-high-court/bombay-high-court-arbitration-clause-foreign-award-grain-feed-trade-association-rules-231571",
+      "snippet": "Absence Of A Specific Clause Under GAFTA Arbitration Rules Doesn't Bar Arbitrator From Deciding The Challenge Made To Its Jurisdiction: Bombay",
+      "bm25_score_raw": 11.269803017735619,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9622465372085571,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 1
+    },
+    {
+      "title": "'Absence Of Arbitration Clause In Agreement Does Not ...",
+      "url": "https://www.livelawbiz.com/high-court/bombay-high-court/bombay-high-court-rules-supplemental-agreement-without-arbitration-clause-arbitrable-309921",
+      "snippet": "The Bombay High Court has held that the absence of an independent arbitration clause in a supplemental agreement, when the principal",
+      "bm25_score_raw": 6.027341346622548,
+      "bm25_score_norm": 0.4974104930328271,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8975304365158081,
+      "embedding_score_norm": 0.4242571592954845,
+      "embedding_rank": 2,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 2
+    },
+    {
+      "title": "GAFTA: EFFECTIVE NOTICE OF ARBITRATION",
+      "url": "https://www.hfw.com/app/uploads/2024/04/003707-HFW-GAFTA-Effective-notice-of-arbitration-Jan-2022.pdf",
+      "snippet": "Disputes arose under both contracts and the Buyer sent to the Seller a single notice of arbitration (the “Notice”). At this point, the Seller disputed the jurisdiction of the Tribunal on the grounds that the Buyer had failed to commence arbitration properly under each of the contracts and had instead wrongfully purported to commence a single consolidated arbitration. Based on that guidance, the Court found that the Notice served on the Seller did properly commence two separate arbitrations, in particular given that the final paragraph requested that the Seller accept that the two contracts 'be adjudicated under a single arbitration'. Further, it is an equitable remedy and in this case, it would be inequitable to rectify the Notice because it would mean the Tribunal did not have jurisdiction when the parties had signed the Washout Agreement under which the Seller agreed that the Buyer would continue with the arbitration if the settlement payment was not made.",
+      "bm25_score_raw": 0.838901460024653,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.863046407699585,
+      "embedding_score_norm": 0.11747210121776296,
+      "embedding_rank": 4,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 3
+    },
+    {
+      "title": "The GAFTA Default Clause and the Scope of Arbitration Appeals | Kluwer Arbitration Blog",
+      "url": "https://legalblogs.wolterskluwer.com/arbitration-blog/the-gafta-default-clause-and-the-scope-of-arbitration-appeals",
+      "snippet": "The GAFTA Default Clause and the Scope of Arbitration Appeals. Whilst the facts of the case as presented are a little unusual, the Supreme Court’s conclusion provides guidance as to how damages are to be assessed generally in cases of default under standard Gafta contracts. Each of the Gafta standard form contracts include an arbitration clause which provides that all disputes arising out of the contract are to be determined by arbitration in accordance with the Gafta Arbitration Rules under English law. In this case, the dispute was heard in Gafta arbitration and then appealed to the High Court under s.69 AA 1996 on a point of law. The Court granted permission to appeal under s.69 of the AA 1996 on whether the actual or estimated value of the goods on the date of default (for the purposes of sub-clause (c)) should be assessed by reference to:.",
+      "bm25_score_raw": 3.227777977467629,
+      "bm25_score_norm": 0.2290191796199071,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8564184308052063,
+      "embedding_score_norm": 0.05850670922959856,
+      "embedding_rank": 5,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 4
+    },
+    {
+      "title": "Arbitration Rules No.125",
+      "url": "https://www.gafta.com/media/pr1nj4iv/125_october_2025.pdf",
+      "snippet": "RIGHT OF APPEAL 10.1 Save as provided in Rules 6.4, 8.1(b), 8.2, 19 and 21, either party may appeal against an award to a board of appeal provided that the following conditions are complied with: - (a) Not later than 12 noon on the 30th consecutive day after the date on which the award was made the appellant shall: - (i) ensure that a written notice of appeal is received by Gafta, (ii) serve a notice of his intention to appeal on the other party and ensure receipt of a copy by Gafta, and (iii) ensure Gafta have received cleared funds of the appeal deposit stated on the award of arbitration on account of the costs, fees and expenses of the appeal, otherwise the right of appeal shall be deemed to be waived and barred.",
+      "bm25_score_raw": 1.7430881661439341,
+      "bm25_score_norm": 0.08668346653610855,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8498420119285583,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 5
+    },
+    {
+      "title": "The GAFTA Arbitration Process",
+      "url": "https://indianlawwatch.com/gafta-arbitration-process",
+      "snippet": "GAFTA rules allow the tribunal to rule on its own jurisdiction, meaning the tribunal can determine whether there is a valid arbitration agreement, whether the",
+      "bm25_score_raw": 2.7212178216105687,
+      "bm25_score_norm": 0.180455768964134,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8746138215065002,
+      "embedding_score_norm": 0.2203808922837894,
+      "embedding_rank": 3,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 6
+    }
+  ]
+}

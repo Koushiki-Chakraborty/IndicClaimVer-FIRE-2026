@@ -1,0 +1,108 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1101",
+    "text": "India records 16,906 new Covid-19 cases in 24 hours, recovery rate at 97.49%",
+    "lang": "english"
+  },
+  "generated_queries": {
+    "english_translation": "India records 16,906 new Covid-19 cases in 24 hours, recovery rate at 97.49%",
+    "native_query": "India records 16 906 Covid 19 24 hours",
+    "english_query": "India records 16 906 Covid 19 24 hours"
+  },
+  "native_retrieval": [
+    {
+      "title": "COVID-19: India Records 906 Fresh Cases, 20 Patients ...",
+      "url": "https://swachhindia.ndtv.com/covid-19-india-records-906-fresh-cases-20-patients-succumb-to-the-virus-77077",
+      "snippet": "May 18, 2023 — India witnessed a single-day rise of 906 new COVID-19 cases and 20 deaths in the last 24 hours and the as the active cases declined to 10,179,"
+    },
+    {
+      "title": "India Reports Record 273,810 Daily COVID Cases",
+      "url": "https://www.voanews.com/a/covid-19-pandemic_india-reports-record-273810-daily-covid-cases/6204791.html",
+      "snippet": "A patient is wheeled outside a COVID-19 hospital, amidst the spread of the coronavirus disease, in Ahmedabad, India, April 19, 2021. India's health ministry Monday announced a record 273,810 new COVID cases in the previous 24-hour period while officials in the capital, New Delhi, announced a weeklong lockdown. The infections reported Monday are the most the country has seen in a single day since the pandemic began. About 1 in 3 people tested for COVID-19 in New Delhi recently returned a positive result, according to the city's chief minister Sunday. \"The bigger worry is that in last 24 hours, positivity rate has increased to around 30% from 24%,\" Arvind Kejriwal, chief minister of Delhi, told a news briefing Sunday. People queue outside a wine store to buy liquor after the Delhi government ordered a six-day lockdown to limit the spread of the coronavirus disease, in New Delhi, India, April 19, 2021. Just more than 1% of India's population has been vaccinated, according to Johns Hopkins Coronavirus Resource Center."
+    },
+    {
+      "title": "World's highest daily rise in COVID cases in India, record ...",
+      "url": "https://www.aljazeera.com/news/2021/4/22/worlds-highest-daily-rise-in-covid-cases-in-india-record-deaths",
+      "snippet": "Apr 22, 2021 — India has reported more than 300,000 coronavirus cases over the last 24 hours, the highest daily global total, while COVID-19-related deaths ...Read more"
+    },
+    {
+      "title": "Covid: India sees world's highest daily cases amid oxygen shortage",
+      "url": "https://www.bbc.com/news/world-asia-india-56826645",
+      "snippet": "# Covid: India sees world's highest daily cases amid oxygen shortage. **India has recorded the highest one-day tally of new Covid-19 cases anywhere in the world - and the country's highest number of deaths over 24 hours.**. A number of people have died while waiting for oxygen. Meanwhile, some countries are bringing in stricter rules affecting travel to and from India amid fears over the rising cases. Australia's Prime Minister Scott Morrison said the number of flights between the two countries would be cut, while the UK has added India to a red list, restricting travel and bringing in hotel quarantine for all arrivals from India from Friday morning. Oxygen supply has been a particular problem, with a number of hospitals in the capital Delhi running out entirely on Thursday, according to the city's Deputy Chief Minister, Manish Sisodia. We want to know what the centre is doing with regard to oxygen supply across India,\" the judges said while reading out the verdict in a petition by the owner of six private hospitals."
+    },
+    {
+      "title": "India's Terrible New World Record: Most COVID Cases In A Single Day : Goats and Soda : NPR",
+      "url": "https://www.npr.org/sections/goatsandsoda/2021/04/22/989768074/how-india-went-from-a-ray-of-hope-to-a-world-record-for-most-covid-cases-in-a-da",
+      "snippet": "**India's Terrible New World Record: Most COVID Cases In A Single Day : Goats and Soda** **India's COVID-19 caseload plummeted to record lows in February. # How India Went From A Ray Of Hope To A World Record For Most COVID Cases In A Day. Relatives carry the shrouded body of a family member, who died of COVID-19, from an ambulance to a crematorium this week in New Delhi. \"We can't find a hospital bed for him, but I can't just take him home after all this, in his condition,\" Naharshetivar told local TV, speaking through a pink patterned bandanna in lieu of a mask. On the other side of the country in Gujarat, in western India, a man sobs over the body of his relative, a cancer patient who'd also tested positive for the coronavirus and died in the parking lot of yet another overcrowded hospital, unable to get care."
+    },
+    {
+      "title": "India records 573 fresh COVID-19 cases, 2 deaths in 24 hours ...",
+      "url": "https://www.youtube.com/watch?v=7nns37FHPSs",
+      "snippet": "India records 573 fresh COVID-19 cases, 2 deaths in 24 hours; active count stands at 4,565\nThe Economic Times\n3460000 subscribers\n38 likes\n4576 views\n2 Jan 2024\nIndia recorded 573 fresh cases of Covid and two deaths in the last 24 hours, the Union Ministry of Health and Family Welfare said on Tuesday. According to the Ministry, the new cases take the total number of active cases to 4,565. It said that two deaths were reported, one each from Haryana and Karnataka.\n\n► Subscribe to The Economic Times for the latest video updates. It's free! - https://www.youtube.com/TheEconomicTimes?sub_confirmation=1\n\n► More Videos @ ETTV - https://economictimes.indiatimes.com/TV\n\n► https://EconomicTimes.com\n\n► For business news on the go, download ET app:\nhttps://etapp.onelink.me/tOvY/EconomicTimesApp\n\nFollow ET on:\n\n► Facebook - https://www.facebook.com/EconomicTimes \n► Twitter - https://www.twitter.com/economictimes\n► LinkedIn - https://www.linkedin.com/company/economictimes\n► Instagram - https://www.instagram.com/the_economic_times\n► Flipboard - https://flipboard.com/@economictimes\n\n#news #latestnews #economictimes #ET #TheEconomicTimes #businessnews\n\n"
+    }
+  ],
+  "english_retrieval": [
+    {
+      "title": "COVID-19: India Records 906 Fresh Cases, 20 Patients ...",
+      "url": "https://swachhindia.ndtv.com/covid-19-india-records-906-fresh-cases-20-patients-succumb-to-the-virus-77077",
+      "snippet": "May 18, 2023 — India witnessed a single-day rise of 906 new COVID-19 cases and 20 deaths in the last 24 hours and the as the active cases declined to 10,179,"
+    },
+    {
+      "title": "India Reports Record 273,810 Daily COVID Cases",
+      "url": "https://www.voanews.com/a/covid-19-pandemic_india-reports-record-273810-daily-covid-cases/6204791.html",
+      "snippet": "A patient is wheeled outside a COVID-19 hospital, amidst the spread of the coronavirus disease, in Ahmedabad, India, April 19, 2021. India's health ministry Monday announced a record 273,810 new COVID cases in the previous 24-hour period while officials in the capital, New Delhi, announced a weeklong lockdown. The infections reported Monday are the most the country has seen in a single day since the pandemic began. About 1 in 3 people tested for COVID-19 in New Delhi recently returned a positive result, according to the city's chief minister Sunday. \"The bigger worry is that in last 24 hours, positivity rate has increased to around 30% from 24%,\" Arvind Kejriwal, chief minister of Delhi, told a news briefing Sunday. People queue outside a wine store to buy liquor after the Delhi government ordered a six-day lockdown to limit the spread of the coronavirus disease, in New Delhi, India, April 19, 2021. Just more than 1% of India's population has been vaccinated, according to Johns Hopkins Coronavirus Resource Center."
+    },
+    {
+      "title": "World's highest daily rise in COVID cases in India, record ...",
+      "url": "https://www.aljazeera.com/news/2021/4/22/worlds-highest-daily-rise-in-covid-cases-in-india-record-deaths",
+      "snippet": "Apr 22, 2021 — India has reported more than 300,000 coronavirus cases over the last 24 hours, the highest daily global total, while COVID-19-related deaths ...Read more"
+    },
+    {
+      "title": "Covid: India sees world's highest daily cases amid oxygen shortage",
+      "url": "https://www.bbc.com/news/world-asia-india-56826645",
+      "snippet": "# Covid: India sees world's highest daily cases amid oxygen shortage. **India has recorded the highest one-day tally of new Covid-19 cases anywhere in the world - and the country's highest number of deaths over 24 hours.**. A number of people have died while waiting for oxygen. Meanwhile, some countries are bringing in stricter rules affecting travel to and from India amid fears over the rising cases. Australia's Prime Minister Scott Morrison said the number of flights between the two countries would be cut, while the UK has added India to a red list, restricting travel and bringing in hotel quarantine for all arrivals from India from Friday morning. Oxygen supply has been a particular problem, with a number of hospitals in the capital Delhi running out entirely on Thursday, according to the city's Deputy Chief Minister, Manish Sisodia. We want to know what the centre is doing with regard to oxygen supply across India,\" the judges said while reading out the verdict in a petition by the owner of six private hospitals."
+    },
+    {
+      "title": "India's Terrible New World Record: Most COVID Cases In A Single Day : Goats and Soda : NPR",
+      "url": "https://www.npr.org/sections/goatsandsoda/2021/04/22/989768074/how-india-went-from-a-ray-of-hope-to-a-world-record-for-most-covid-cases-in-a-da",
+      "snippet": "**India's Terrible New World Record: Most COVID Cases In A Single Day : Goats and Soda** **India's COVID-19 caseload plummeted to record lows in February. # How India Went From A Ray Of Hope To A World Record For Most COVID Cases In A Day. Relatives carry the shrouded body of a family member, who died of COVID-19, from an ambulance to a crematorium this week in New Delhi. \"We can't find a hospital bed for him, but I can't just take him home after all this, in his condition,\" Naharshetivar told local TV, speaking through a pink patterned bandanna in lieu of a mask. On the other side of the country in Gujarat, in western India, a man sobs over the body of his relative, a cancer patient who'd also tested positive for the coronavirus and died in the parking lot of yet another overcrowded hospital, unable to get care."
+    },
+    {
+      "title": "India records 573 fresh COVID-19 cases, 2 deaths in 24 hours ...",
+      "url": "https://www.youtube.com/watch?v=7nns37FHPSs",
+      "snippet": "India records 573 fresh COVID-19 cases, 2 deaths in 24 hours; active count stands at 4,565\nThe Economic Times\n3460000 subscribers\n38 likes\n4576 views\n2 Jan 2024\nIndia recorded 573 fresh cases of Covid and two deaths in the last 24 hours, the Union Ministry of Health and Family Welfare said on Tuesday. According to the Ministry, the new cases take the total number of active cases to 4,565. It said that two deaths were reported, one each from Haryana and Karnataka.\n\n► Subscribe to The Economic Times for the latest video updates. It's free! - https://www.youtube.com/TheEconomicTimes?sub_confirmation=1\n\n► More Videos @ ETTV - https://economictimes.indiatimes.com/TV\n\n► https://EconomicTimes.com\n\n► For business news on the go, download ET app:\nhttps://etapp.onelink.me/tOvY/EconomicTimesApp\n\nFollow ET on:\n\n► Facebook - https://www.facebook.com/EconomicTimes \n► Twitter - https://www.twitter.com/economictimes\n► LinkedIn - https://www.linkedin.com/company/economictimes\n► Instagram - https://www.instagram.com/the_economic_times\n► Flipboard - https://flipboard.com/@economictimes\n\n#news #latestnews #economictimes #ET #TheEconomicTimes #businessnews\n\n"
+    }
+  ],
+  "merged_results": [
+    {
+      "title": "COVID-19: India Records 906 Fresh Cases, 20 Patients ...",
+      "url": "https://swachhindia.ndtv.com/covid-19-india-records-906-fresh-cases-20-patients-succumb-to-the-virus-77077",
+      "snippet": "May 18, 2023 — India witnessed a single-day rise of 906 new COVID-19 cases and 20 deaths in the last 24 hours and the as the active cases declined to 10,179,"
+    },
+    {
+      "title": "India Reports Record 273,810 Daily COVID Cases",
+      "url": "https://www.voanews.com/a/covid-19-pandemic_india-reports-record-273810-daily-covid-cases/6204791.html",
+      "snippet": "A patient is wheeled outside a COVID-19 hospital, amidst the spread of the coronavirus disease, in Ahmedabad, India, April 19, 2021. India's health ministry Monday announced a record 273,810 new COVID cases in the previous 24-hour period while officials in the capital, New Delhi, announced a weeklong lockdown. The infections reported Monday are the most the country has seen in a single day since the pandemic began. About 1 in 3 people tested for COVID-19 in New Delhi recently returned a positive result, according to the city's chief minister Sunday. \"The bigger worry is that in last 24 hours, positivity rate has increased to around 30% from 24%,\" Arvind Kejriwal, chief minister of Delhi, told a news briefing Sunday. People queue outside a wine store to buy liquor after the Delhi government ordered a six-day lockdown to limit the spread of the coronavirus disease, in New Delhi, India, April 19, 2021. Just more than 1% of India's population has been vaccinated, according to Johns Hopkins Coronavirus Resource Center."
+    },
+    {
+      "title": "World's highest daily rise in COVID cases in India, record ...",
+      "url": "https://www.aljazeera.com/news/2021/4/22/worlds-highest-daily-rise-in-covid-cases-in-india-record-deaths",
+      "snippet": "Apr 22, 2021 — India has reported more than 300,000 coronavirus cases over the last 24 hours, the highest daily global total, while COVID-19-related deaths ...Read more"
+    },
+    {
+      "title": "Covid: India sees world's highest daily cases amid oxygen shortage",
+      "url": "https://www.bbc.com/news/world-asia-india-56826645",
+      "snippet": "# Covid: India sees world's highest daily cases amid oxygen shortage. **India has recorded the highest one-day tally of new Covid-19 cases anywhere in the world - and the country's highest number of deaths over 24 hours.**. A number of people have died while waiting for oxygen. Meanwhile, some countries are bringing in stricter rules affecting travel to and from India amid fears over the rising cases. Australia's Prime Minister Scott Morrison said the number of flights between the two countries would be cut, while the UK has added India to a red list, restricting travel and bringing in hotel quarantine for all arrivals from India from Friday morning. Oxygen supply has been a particular problem, with a number of hospitals in the capital Delhi running out entirely on Thursday, according to the city's Deputy Chief Minister, Manish Sisodia. We want to know what the centre is doing with regard to oxygen supply across India,\" the judges said while reading out the verdict in a petition by the owner of six private hospitals."
+    },
+    {
+      "title": "India's Terrible New World Record: Most COVID Cases In A Single Day : Goats and Soda : NPR",
+      "url": "https://www.npr.org/sections/goatsandsoda/2021/04/22/989768074/how-india-went-from-a-ray-of-hope-to-a-world-record-for-most-covid-cases-in-a-da",
+      "snippet": "**India's Terrible New World Record: Most COVID Cases In A Single Day : Goats and Soda** **India's COVID-19 caseload plummeted to record lows in February. # How India Went From A Ray Of Hope To A World Record For Most COVID Cases In A Day. Relatives carry the shrouded body of a family member, who died of COVID-19, from an ambulance to a crematorium this week in New Delhi. \"We can't find a hospital bed for him, but I can't just take him home after all this, in his condition,\" Naharshetivar told local TV, speaking through a pink patterned bandanna in lieu of a mask. On the other side of the country in Gujarat, in western India, a man sobs over the body of his relative, a cancer patient who'd also tested positive for the coronavirus and died in the parking lot of yet another overcrowded hospital, unable to get care."
+    },
+    {
+      "title": "India records 573 fresh COVID-19 cases, 2 deaths in 24 hours ...",
+      "url": "https://www.youtube.com/watch?v=7nns37FHPSs",
+      "snippet": "India records 573 fresh COVID-19 cases, 2 deaths in 24 hours; active count stands at 4,565\nThe Economic Times\n3460000 subscribers\n38 likes\n4576 views\n2 Jan 2024\nIndia recorded 573 fresh cases of Covid and two deaths in the last 24 hours, the Union Ministry of Health and Family Welfare said on Tuesday. According to the Ministry, the new cases take the total number of active cases to 4,565. It said that two deaths were reported, one each from Haryana and Karnataka.\n\n► Subscribe to The Economic Times for the latest video updates. It's free! - https://www.youtube.com/TheEconomicTimes?sub_confirmation=1\n\n► More Videos @ ETTV - https://economictimes.indiatimes.com/TV\n\n► https://EconomicTimes.com\n\n► For business news on the go, download ET app:\nhttps://etapp.onelink.me/tOvY/EconomicTimesApp\n\nFollow ET on:\n\n► Facebook - https://www.facebook.com/EconomicTimes \n► Twitter - https://www.twitter.com/economictimes\n► LinkedIn - https://www.linkedin.com/company/economictimes\n► Instagram - https://www.instagram.com/the_economic_times\n► Flipboard - https://flipboard.com/@economictimes\n\n#news #latestnews #economictimes #ET #TheEconomicTimes #businessnews\n\n"
+    }
+  ]
+}

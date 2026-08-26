@@ -1,0 +1,6 @@
+{
+  "ID": "S2/1359",
+  "Evidence": "COVID-19 vaccination has been linked to increased cardiac risks, including myocarditis and cardiac arrest, particularly among young individuals. Studies indicate that the risk of myocarditis is significantly elevated after mRNA vaccinations, with a 510% increase following the second dose of the Moderna vaccine. There are reports of sudden cardiac events occurring months after vaccination, suggesting long-term cardiovascular effects. The evidence highlights the need for risk stratification to identify individuals at higher risk of cardiac events post-vaccination (Source 3).",
+  "Prediction": "SUPPORTS",
+  "Justification": "The retrieved evidence directly supports the claim by detailing the increased cardiac risks associated with COVID-19 vaccinations, including myocarditis and cardiac arrest. It emphasizes the urgency of risk stratification for vaccinated individuals, particularly in light of observed long-term effects, thus corroborating concerns about the safety of booster doses in relation to heart health."
+}

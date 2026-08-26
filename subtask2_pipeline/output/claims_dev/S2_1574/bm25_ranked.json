@@ -1,0 +1,105 @@
+{
+  "claim": {
+    "id": "S2/1574",
+    "text": "‘দেশে ফিরলেই একঘরে করা হতে পারে’, আতঙ্কে ভুগছেন কুয়েতে আটকে থাকা দেবজিৎ",
+    "lang": "dev"
+  },
+  "ranked_evidence": [
+    {
+      "title": "Migrant workers suffering in Kuwait's desert detention camps",
+      "url": "https://www.middleeasteye.net/news/coronavirus-kuwait-migrant-workers-bangladesh-detention-camps",
+      "snippet": "Over 20,000 labourers are awaiting repatriation in squalid and cramped facilities, unable to leave or practise coronavirus social distancing.",
+      "bm25_score_raw": 2.543093155127676,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Travel blogger stuck at Kuwait airport says the U.S. ...",
+      "url": "https://www.youtube.com/watch?v=lrvqQDeY4e4",
+      "snippet": "Travel blogger and influencer Alyssa Ramos spoke with CBS News 24/7 about her experience being stranded at the Kuwait airport after airspace",
+      "bm25_score_raw": 1.3856879191029794,
+      "bm25_score_norm": 0.5448828786743406,
+      "bm25_rank": 2
+    },
+    {
+      "title": "Strangers help tourist stuck in Kuwait during Middle East trip",
+      "url": "https://www.facebook.com/groups/touristhelpline/posts/27213578008232281",
+      "snippet": "A Wauwatosa couple is stranded in Dubai and a Greendale native living in Kuwait is reassessing safety daily as conflict in the Middle East",
+      "bm25_score_raw": 1.3628598478561011,
+      "bm25_score_norm": 0.5359063804281596,
+      "bm25_rank": 3
+    },
+    {
+      "title": "Travel Blogger Trapped in Kuwait Is 'Self Evacuating' by Land After Claiming U.S. Government Is No Help",
+      "url": "https://people.com/travel-blogger-stuck-in-kuwait-says-u-s-government-is-no-help-amid-middle-east-conflicts-11918310",
+      "snippet": "# Travel Blogger Trapped in Kuwait Is 'Self Evacuating' by Land After Claiming U.S. Government Is No Help. In a March 2 Instagram post, Alyssa Ramos says she is attempting to cross into Saudi Arabia by land after she claims the U.S. government has been no help. Image 11: Travel blogger stuck at Kuwait airport says the U.S. government is not helping:max_bytes(150000):strip_icc():focal(749x0:751x2):format(webp)/travel-blogger-kuwait-030326-65b7a76a294c491098fdd3736259c81d.jpg). A travel blogger on the ground in Kuwait is attempting to self-evacuate by land amid the ongoing war in the Middle East that has shut down airspace. One travel blogger, Alyssa Ramos, is attempting to make alternative plans to get out of Kuwait after she claims the U.S. government hasn't been able to help her. Image 17: Smoke rises from a reported Iranian strike in the area where the US Embassy is located in Kuwait City on March 2, 2026:max_bytes(150000):strip_icc():focal(721x495:723x497):format(webp)/iranian-strike-kuwait-030326-1-eb7ddf3f10484a6ca29b5db9b7d4776b.jpg).",
+      "bm25_score_raw": 1.1003511304654687,
+      "bm25_score_norm": 0.43268219579247996,
+      "bm25_rank": 4
+    },
+    {
+      "title": "'We need help': Tampa Bay families beg for help while ...",
+      "url": "https://www.wfla.com/news/hillsborough-county/we-need-help-tampa-bay-families-beg-for-help-while-stuck-in-kuwait-war-zone",
+      "snippet": "(WFLA) — Tampa Bay area families, stuck in Kuwait while on holiday, have been trapped in an active war zone since the United States conflict",
+      "bm25_score_raw": 1.0695777542734675,
+      "bm25_score_norm": 0.4205814293970562,
+      "bm25_rank": 5
+    },
+    {
+      "title": "\"I'm scared for my life;\" Tampa Bay area families beg for help ...",
+      "url": "https://www.youtube.com/watch?v=GFPzYcSv_bE",
+      "snippet": "News Channel 8's Ryan Arbag spoke with two mothers from Hillsboro County and Penllis County who are stuck in a war zone in Kuwait.",
+      "bm25_score_raw": 0.34697220245408816,
+      "bm25_score_norm": 0.13643707929238968,
+      "bm25_rank": 6
+    },
+    {
+      "title": "'দেশে ফিরলেই একঘরে করা হতে পারে', আতঙ্কে ভুগছেন কুয়েতে আটকে ...",
+      "url": "https://m.sangbadpratidin.in/article/debojit-maity-stuck-in-kuwait-wants-to-get-back-india/386839",
+      "snippet": "Mar 22, 2020 — মার্চ মাসে ভেবেছিলাম বাড়ি ফিরব। অথচ ১১ মার্চ থেকে কুয়েত থেকে বিমান বন্দর লকডাউন করে দেওয়া হয়েছে। নিষেধাজ্ঞা উঠবে আগামী ৩১ মার্চ। ফলে তার আগে কোনওভাবেই দেশে ফেরা সম্ভব নয়। কুয়েত জুড়ে লকডাউন চলছে।। তবে ...Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 7
+    },
+    {
+      "title": "কুয়েতে রাতারাতি ঘরভাড়া বৃদ্ধি, আশ্রয় হারিয়েছেন ...",
+      "url": "https://www.instagram.com/reel/Da7l0kXEcgP",
+      "snippet": "কুয়েতে হত্যা, অপহরণ ও ধর্ষণের মামলায় দোষী সাব্যস্ত ৫ জনের মৃত্যুদণ্ড কার্যকর কুয়েতের পাবলিক প্রসিকিউশন রোববার জানিয়েছে, কেন্দ্রীয় কারাগারে এই মৃত্যুদণ্ড কার্যকর করা হয়েছে। মৃত্যুদণ্ডপ্রাপ্তদের পরিচয় কুয়েতি ...Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 8
+    },
+    {
+      "title": "কুয়েতে রাতারাতি ঘরভাড়া বৃদ্ধি, আশ্রয় হারিয়েছেন ...",
+      "url": "https://www.facebook.com/jagonews24/posts/%E0%A6%95%E0%A7%81%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%A4%E0%A7%87-%E0%A6%B0%E0%A6%BE%E0%A6%A4%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A6%A4%E0%A6%BF-%E0%A6%98%E0%A6%B0%E0%A6%AD%E0%A6%BE%E0%A7%9C%E0%A6%BE-%E0%A6%AC%E0%A7%83%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A6%BF-%E0%A6%86%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%9F-%E0%A6%B9%E0%A6%BE%E0%A6%B0%E0%A6%BF%E0%A7%9F%E0%A7%87%E0%A6%9B%E0%A7%87%E0%A6%A8-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A6%BF%E0%A6%B0%E0%A6%BEkuwait-bangladeshi-ren/1396473852620671",
+      "snippet": "আবার অনেকে খুঁজছেন নতুন ঠিকানা. গেল পনেরো জুলাই থেকে এই সাঁড়াশি অভিযান শুরু হয়. স্বরাষ্ট্র মন্ত্রণালয়ের নেতৃত্বে পরিচালিত এই অভিযানে অংশ নেয় কুয়েত সেনাবাহিনী ন্যাশনাল গার্ড সহ বিভিন্ন সরকারি সংস্থা. লক্ষ্য ছিল ...Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 9
+    },
+    {
+      "title": "কুয়েত বিমানবন্দরে ড্রোন হামলায় ৪ বাংলাদেশি আহত, সতর্কতা ...",
+      "url": "https://www.youtube.com/watch?v=3s7S3wMEvuc",
+      "snippet": "#kuwait #kuwaitairport #droneattack #prothomalo কুয়েত আন্তর্জাতিক বিমানবন্দরে একটি ড্রোন হামলায় অন্তত চার বাংলাদেশি প্রবাসী আহত হয়েছেন। এ ঘটনায় এক ভারতীয় নাগরিক নিহত এবং আরও ...Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10
+    },
+    {
+      "title": "জেনে রাখুন কুয়েতের রহস্যময় আয়না ঘর যাহা হাউজ অপ মিরর নামে ...",
+      "url": "https://www.facebook.com/kuwaitprobashinews/videos/%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A7%87-%E0%A6%B0%E0%A6%BE%E0%A6%96%E0%A7%81%E0%A6%A8%E0%A6%95%E0%A7%81%E0%A7%9F%E0%A7%87%E0%A6%A4%E0%A7%87%E0%A6%B0-%E0%A6%B0%E0%A6%B9%E0%A6%B8%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A7%9F-%E0%A6%86%E0%A7%9F%E0%A6%A8%E0%A6%BE-%E0%A6%98%E0%A6%B0-%E0%A6%AF%E0%A6%BE%E0%A6%B9%E0%A6%BE-%E0%A6%B9%E0%A6%BE%E0%A6%89%E0%A6%9C-%E0%A6%85%E0%A6%AA-%E0%A6%AE%E0%A6%BF%E0%A6%B0%E0%A6%B0-%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A7%87-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%9A%E0%A6%BF%E0%A6%A4%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%8F%E0%A6%95-%E0%A6%AC%E0%A6%BE%E0%A7%9C%E0%A6%BF/488645764954181",
+      "snippet": "আনুমানিক ১০০ টন সাদা সিমেন্ট এবং ৭৫ টন আয়না দিয়ে দোতালা এই বাড়ির ভেতরটা মোজাইক করা হয়েছে। কুয়েতের কাদসিয়া অঞ্চলের এই বাড়িটি এখন যাদুঘর হিসেবে উন্মুক্ত করা হয়েছে। প্রতি সপ্তাহে একদিন এখানে যে কেউ বেড়াতে যেতে পারেন, তবে সেজন্য ...Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11
+    },
+    {
+      "title": "কুয়েতে একটি সরকারি ভবনে ড্রোন হামলার ঘটনা ঘটেছে বলে ...",
+      "url": "https://www.instagram.com/p/DVpWQaAGQu_",
+      "snippet": "কুয়েতে হত্যা, অপহরণ ও ধর্ষণের মামলায় দোষী সাব্যস্ত ৫ জনের মৃত্যুদণ্ড কার্যকর কুয়েতের পাবলিক প্রসিকিউশন রোববার জানিয়েছে, কেন্দ্রীয় কারাগারে এই মৃত্যুদণ্ড কার্যকর করা হয়েছে। মৃত্যুদণ্ডপ্রাপ্তদের পরিচয় কুয়েতি ...Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12
+    }
+  ]
+}

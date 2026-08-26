@@ -1,0 +1,6 @@
+{
+  "ID": "S2/T/EN/1085",
+  "Evidence": "Noida has been reporting over 100 active COVID-19 cases recently, with the active tally reaching 621 according to Source 1. Source 2 indicates a significant increase in cases, with 236 new COVID-19 patients recorded in a single day, raising the active cases to 1,599. Source 3 confirms that Noida's active COVID-19 cases have crossed the 100-mark after six months, aligning with the claim that the active tally is above 100. However, the specific mention of three new cases for the first time this year is not corroborated by the evidence provided.",
+  "Prediction": "REFUTES",
+  "Justification": "The retrieved evidence indicates that Noida's active COVID-19 cases are indeed above 100, but it does not support the claim that three new cases were recorded for the first time this year. Source 1 mentions ongoing reporting of over 100 cases, while Source 2 shows a significant increase in cases. However, the specific assertion about three new cases is not substantiated by the evidence, leading to a refutation of the claim."
+}

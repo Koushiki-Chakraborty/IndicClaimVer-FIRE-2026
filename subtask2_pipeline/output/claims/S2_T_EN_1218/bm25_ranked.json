@@ -1,0 +1,57 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1218",
+    "text": "Gujarat's NID reports 24 Covid cases, declared micro containment zone",
+    "lang": "english"
+  },
+  "ranked_evidence": [
+    {
+      "title": "Gujarat's National Institute of Design reports 24 Covid ...",
+      "url": "https://www.indiatoday.in/coronavirus-outbreak/story/covid19-cases-gujarat-national-institute-of-design-micro-containment-zone-1947015-2022-05-09",
+      "snippet": "The National Institute of Design (NID) in Gujarat reported 24 Covid-19 cases while around 178 were quarantined and two students were",
+      "bm25_score_raw": 5.724735965898894,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "NID Campus declared micro containment zone, 24 students ...",
+      "url": "https://www.facebook.com/trendinginahmedabad/posts/nid-campus-declared-micro-containment-zone-24-students-tested-covid-positiveahme/1038828766753986",
+      "snippet": "NID Campus declared micro containment zone, 24 students tested covid positive. #Ahmedabad #AhmedabadCity #Instagram_Ahmedabad #AhmedabadDiaries",
+      "bm25_score_raw": 2.033845921705829,
+      "bm25_score_norm": 0.28671242348165227,
+      "bm25_rank": 2
+    },
+    {
+      "title": "Gujarat: 24 students test Covid positive at NID | Today News",
+      "url": "https://www.livemint.com/news/india/gujarat-24-students-test-covid-positive-at-nid-hostel-declared-micro-containment-zone-11652024798455.html",
+      "snippet": "24 students of the NID have tested positive for Covid-19. They have been kept under isolation in the hostel, which has been declared a micro",
+      "bm25_score_raw": 1.5098387380471674,
+      "bm25_score_norm": 0.18544475914195024,
+      "bm25_rank": 3
+    },
+    {
+      "title": "Gujarat: NID Declared Micro-Containment Zone",
+      "url": "https://www.pratidintime.com/national/gujarat-nid-declared-micro-containment-zone",
+      "snippet": "The National Institute of Design (NID) has been declared a micro containment zone as 24 cases of COVID-19 has been reported while around 178",
+      "bm25_score_raw": 1.499396878871281,
+      "bm25_score_norm": 0.1834268045736119,
+      "bm25_rank": 4
+    },
+    {
+      "title": "Gujarat: 24 students test Covid-19 positive at National ...",
+      "url": "https://timesofindia.indiatimes.com/city/ahmedabad/gujarat-24-students-test-covid-19-positive-at-national-institute-of-design-in-3-days/articleshow/91422250.cms",
+      "snippet": "24 students of the NID have tested positive for Covid-19. They have been kept under isolation in the hostel, which has been declared a micro",
+      "bm25_score_raw": 1.4038117319627545,
+      "bm25_score_norm": 0.1649543773343336,
+      "bm25_rank": 5
+    },
+    {
+      "title": "Notification of Micro Containment Zone | Covid-19 - Jamnagar",
+      "url": "https://jamnagar.gujarat.gov.in/news/showpage.aspx?contentid=2569",
+      "snippet": "Notification of Micro Containment Zone ; 25-01-2022, Notification of Micro Containment Zone (COVID-19) Dt : 25-01-2022. Download. [1,105 KB] [Gujarati] ; 25-01-",
+      "bm25_score_raw": 0.5502591269655785,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6
+    }
+  ]
+}

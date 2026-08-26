@@ -1,0 +1,57 @@
+{
+  "claim": {
+    "id": "S2/1224",
+    "text": "Rule 89(4) Under CGST Rules Inapplicable On Refund Of Integrated Tax Paid On Zero-Rated Supply: Delhi High Court",
+    "lang": "dev"
+  },
+  "ranked_evidence": [
+    {
+      "title": "Rule 89",
+      "url": "https://taxinformation.cbic.gov.in/content/html/tax_repository/gst/rules/cgst_rules/active/chapter10/rule89_v1.00.html",
+      "snippet": "Rule 89 Rule 89. Application for refund of tax, interest, penalty, fees or any other amount.- claiming refund of additional integrated tax paid",
+      "bm25_score_raw": 6.6632052592788185,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Rule 89(4) Under CGST Rules... - Delhi High Court",
+      "url": "https://www.livelaw.in/high-court/delhi-high-court/rule-894-cgst-rules-inapplicable-refund-integrated-tax-paid-zero-rated-supply-delhi-high-court-230705",
+      "snippet": "Rule 89(4) of the Central Goods and Services Tax Rules, 2017 is inapplicable to cases of refund of integrated tax paid on zero-rated supply.The",
+      "bm25_score_raw": 6.004257856865637,
+      "bm25_score_norm": 0.871708708536879,
+      "bm25_rank": 2
+    },
+    {
+      "title": "Provision of rule 89(4) of CGST Rules inapplicable to ...",
+      "url": "https://taxguru.in/goods-and-service-tax/provision-rule-89-4-cgst-rules-inapplicable-refund-integrated-tax-paid-zero-rated-supply.html",
+      "snippet": "Delhi High Court held that rule 89(4) of the Central Goods and Services Tax Rules, 2017 applies only in case of zero rated supply of goods",
+      "bm25_score_raw": 5.356018341860498,
+      "bm25_score_norm": 0.7455021490256386,
+      "bm25_rank": 3
+    },
+    {
+      "title": "Delhi HC: Modification to GST Rule 89(4)(c) is Not ...",
+      "url": "https://blog.saginfotech.com/delhi-hc-modification-cgst-rules-89-4-c-not-retroactive-export-turnover-restricts-refunds",
+      "snippet": "The Respondent erred in applying Rule 89(4)(C) of the CGST Rules to calculate the export turnover for determining the Petitioner's refund claims",
+      "bm25_score_raw": 2.638067313826465,
+      "bm25_score_norm": 0.21634087417571699,
+      "bm25_rank": 4
+    },
+    {
+      "title": "Amendment to Rule 89(4)(C) of CGST Rules, restricting ...",
+      "url": "https://www.taxtmi.com/article/detailed?id=11955",
+      "snippet": "Amendment to Rule 89(4)(C) of CGST Rules, restricting refund by capping 'export turnover,' not applicable retrospectively ... Prospective",
+      "bm25_score_raw": 1.779065424539111,
+      "bm25_score_norm": 0.049100725201224174,
+      "bm25_rank": 5
+    },
+    {
+      "title": "Deficiency in a Refund Application cannot be beyond the ...",
+      "url": "https://amlegals.com/deficiency-in-a-refund-application-cannot-be-beyond-the-scope-of-cgst-rules",
+      "snippet": "Refund Application cannot be rejected for the requirement of documents beyond the scope of Rule 89(2) of the CGST Rules.",
+      "bm25_score_raw": 1.526867516489749,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6
+    }
+  ]
+}

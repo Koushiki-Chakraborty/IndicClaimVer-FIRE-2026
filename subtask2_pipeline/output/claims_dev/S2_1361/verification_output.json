@@ -1,0 +1,6 @@
+{
+  "ID": "S2/1361",
+  "Evidence": "The Bombay High Court has ruled that the assessee is entitled to claim depreciation based on the actual cost of assets, which includes the cost paid to the predecessor after revaluation. This indicates that depreciation can be claimed on the actual cost rather than the revalued cost (Source 1). However, another source mentions that the High Court has held that the assessee is not entitled to depreciation on the revalued figure, but notes that the facts of the case are distinguishable (Source 3).",
+  "Prediction": "REFUTES",
+  "Justification": "The retrieved evidence indicates that the Bombay High Court has ruled that the assessee is entitled to claim depreciation based on the actual cost of assets, not the revalued cost. Source 1 supports the claim that depreciation can be claimed on actual costs, while Source 3 directly states that the assessee is not entitled to depreciation on the revalued figure, contradicting the claim that the assessee is not entitled to claim depreciation on revalued costs."
+}

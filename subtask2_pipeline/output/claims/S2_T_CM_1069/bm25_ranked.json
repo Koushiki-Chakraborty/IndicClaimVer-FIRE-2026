@@ -1,0 +1,97 @@
+{
+  "claim": {
+    "id": "S2/T/CM/1069",
+    "text": "kitna jhoot bolte ho aap economic disaster unemployment mahgai ke baad bhi kaise apne jhoot ka prachar karte ho",
+    "lang": "codemix"
+  },
+  "ranked_evidence": [
+    {
+      "title": "Disaster Unemployment Assistance | Arizona Department of Economic Security",
+      "url": "https://des.az.gov/dua",
+      "snippet": "Image 1: Arizona Department of Economic Security Home. Arizona Department of Economic Security. Your Partner for a Stronger Arizona. *   Strategic Planning Frequently Asked Questions. *   DES Program and Services Contact Numbers. *   How to Apply for Nutrition Assistance. *   Documents Needed to Apply for Nutrition Assistance. *   Change Report for Nutrition, Cash, and Medical Assistance Benefits. *   Publications for Nutrition, Cash, and Medical Assistance Benefits. *   How to Support Health in your Home (link is external). *   How to Apply for Medical Assistance. *   Apply for Child Care Assistance. *   File a Complaint on a DES Child Care Provider. *   Work Search and Your Eligibility for Unemployment Benefits. Disaster Unemployment Assistance (DUA) is a federal program that provides temporary benefits to individuals whose employment or self-employment has been lost or interrupted as a direct result of a major disaster and who are not eligible for regular unemployment insurance (UI).",
+      "bm25_score_raw": 8.009125569466793,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Disaster Unemployment Assistance (MODES-INF-178)",
+      "url": "https://labor.mo.gov/des/disaster-unemployment-assistance",
+      "snippet": "The Disaster Unemployment Assistance (DUA) Program provides temporary benefits to individuals whose employment or self-employment has been lost or interrupted",
+      "bm25_score_raw": 2.999581747218363,
+      "bm25_score_norm": 0.28406463164161333,
+      "bm25_rank": 2
+    },
+    {
+      "title": "Disaster Unemployment Assistance",
+      "url": "https://www.dws.nm.gov/DUA",
+      "snippet": "Disaster Unemployment Assistance (DUA) is a federal program that provides financial assistance to jobless workers and the self-employed when they are",
+      "bm25_score_raw": 2.999581747218363,
+      "bm25_score_norm": 0.28406463164161333,
+      "bm25_rank": 3
+    },
+    {
+      "title": "Disaster Unemployment Assistance (DUA) FAQs",
+      "url": "https://www.des.nc.gov/need-help/faqs/disaster-unemployment-assistance-dua-faqs",
+      "snippet": "If your employment has been lost or interrupted because of a federally declared disaster, you may be eligible for Disaster Unemployment Assistance (DUA).",
+      "bm25_score_raw": 2.9479098152582757,
+      "bm25_score_norm": 0.27667997448434134,
+      "bm25_rank": 4
+    },
+    {
+      "title": "Disaster Unemployment Assistance (DUA), Employment & Training Administration (ETA) - U.S. Department of Labor",
+      "url": "https://oui.doleta.gov/unemploy/disaster.asp",
+      "snippet": "Stafford Disaster Relief and Emergency Assistance Act of 1974, as amended, authorizes the President to provide benefit assistance to individuals unemployed as a direct result of a major disaster. The U.S. Department of Labor oversees the DUA program and coordinates with the Federal Emergency Management Agency (FEMA), to provide the funds to the state UI agencies for payment of DUA benefits and payment of state administration costs under agreements with the Secretary of Labor. Disaster Unemployment Assistance provides financial assistance to individuals whose employment or self-employment has been lost or interrupted as a direct result of a major disaster and who are not eligible for regular unemployment insurance benefits. When a major disaster has been declared by the President, DUA is generally available to any unemployed worker or self-employed individual who lived, worked, or was scheduled to work in the disaster area at the time of the disaster; and due to the disaster:. DUA benefits are payable to individuals (whose unemployment continues to be a result of the major disaster) only for weeks of unemployment in the Disaster Assistance Period (DAP).",
+      "bm25_score_raw": 2.7468712680206786,
+      "bm25_score_norm": 0.24794869445609646,
+      "bm25_rank": 5
+    },
+    {
+      "title": "Disaster Unemployment Assistance (DUA)",
+      "url": "https://kcc.ky.gov/career/resources/Pages/Disaster-Unemployment-Assistance-(DUA).aspx",
+      "snippet": "DUA is available for up to 29 weeks of unemployment beginning April 6, 2025, until October 25, 2025, as long as the individual's unemployment continues to be a",
+      "bm25_score_raw": 2.7326206459670463,
+      "bm25_score_norm": 0.245912077009216,
+      "bm25_rank": 6
+    },
+    {
+      "title": "Federal Disaster Unemployment Assistance (DUA) program | Employment Security Department",
+      "url": "https://esd.wa.gov/get-financial-help/federal-disaster-unemployment-assistance-dua-program",
+      "snippet": "The **https://** ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely. # Federal Disaster Unemployment Assistance (DUA) program. If you're unemployed because of a major disaster, Disaster Unemployment Assistance (DUA) can help. See if it's available, if you qualify and how to apply. * Lose or experience interruptions in employment or self-employment because of the disaster, and. You need to have applied for unemployment benefits and not qualified before you can apply for DUA. To qualify for these benefits, you need to have become unemployed due to this disaster and not otherwise qualify for unemployment benefits. **Applications for DUA benefits for the December 2025 storms and flooding were due Wednesday, June 10, 2026.** If you think you may be eligible but missed the deadline, you may still apply and we will ask you to explain why you did not apply by this date.",
+      "bm25_score_raw": 2.6337585742323766,
+      "bm25_score_norm": 0.23178327481575273,
+      "bm25_rank": 7
+    },
+    {
+      "title": "Disaster Unemployment Assistance",
+      "url": "https://www.twc.texas.gov/programs/unemployment-benefits/disaster-unemployment-assistance",
+      "snippet": "DUA provides unemployment benefits for individuals who lost their jobs or self-employment or who are no longer working as a direct result of a major disaster.",
+      "bm25_score_raw": 2.6300109161784517,
+      "bm25_score_norm": 0.23124768094842255,
+      "bm25_rank": 8
+    },
+    {
+      "title": "Disaster Unemployment Assistance (DUA)",
+      "url": "https://www.everycrsreport.com/reports/RS22022.html",
+      "snippet": "First created in 1970 through P.L. 91-606, the DUA program provides income support to individuals who become unemployed as a direct result of a major disaster",
+      "bm25_score_raw": 2.615902263987839,
+      "bm25_score_norm": 0.2292313530228604,
+      "bm25_rank": 9
+    },
+    {
+      "title": "Disaster Unemployment Assistance",
+      "url": "https://edd.ca.gov/en/unemployment/Disaster_Unemployment_Assistance",
+      "snippet": "Tell us how you think AI could affect the job market and how you do your work. + Step 1: Get Your Information in Order. + Step 5: Certify for Benefits. If you lost your job or can’t work because of a disaster, you may qualify for unemployment, disability, or Paid Family Leave benefits. If the president of the United States declares a disaster, Disaster Unemployment Assistance (DUA) may also be available for workers and self-employed people who do not qualify for regular unemployment benefits. ## How to Apply for Unemployment Benefits. * If you use myEDD to apply for benefits, you may be asked to fax or mail your application. | **Unemployment** | * If you are out of work because of a disaster, you may be eligible for unemployment benefits. If you lose your job because of the disaster, and do not qualify for regular unemployment benefits, you may be able to get DUA.",
+      "bm25_score_raw": 2.3943643110269335,
+      "bm25_score_norm": 0.19757041510391807,
+      "bm25_rank": 10
+    },
+    {
+      "title": "Disaster Unemployment Assistance (DUA)",
+      "url": "https://www.congress.gov/crs-product/RS22022",
+      "snippet": "- [x] Agriculture (93rd-119th) - [x] Agriculture (93rd-119th) - [x] Appropriations (93rd-119th) - [x] Appropriations (93rd-119th) - [x] Armed Services (106th-119th) - [x] Armed Services (106th-119th) - [x] Budget (94th-119th) - [x] Budget (94th-119th) - [x] Education and Workforce (119th) - [x] Education and Workforce (119th) - [x] Energy and Commerce (107th-119th) - [x] Energy and Commerce (107th-119th) - [x] Ethics (112th-119th) - [x] Ethics (112th-119th) - [x] Financial Services (107th-119th) - [x] Financial Services (107th-119th) - [x] Foreign Affairs (110th-119th) - [x] Foreign Affairs (110th-119th) - [x] Homeland Security (109th-119th) - [x] Homeland Security (109th-119th) - [x] House Administration (106th-119th) - [x] House Administration (106th-119th) - [x] Intelligence (Permanent Select) (95th-119th) - [x] Intelligence (Permanent Select) (95th-119th) - [x] Judiciary (93rd-119th) - [x] Judiciary (93rd-119th) - [x] Natural Resources (110th-119th) - [x] Natural Resources (110th-119th) - [x] Oversight and Government Reform (119th) - [x] Oversight and Government Reform (119th) - [x] Rules (93rd-119th) - [x] Rules (93rd-119th) - [x] Science, Space, and Technology (112th-119th) - [x] Science, Space, and Technology (112th-119th) - [x] Small Business (94th-119th) - [x] Small Business (94th-119th) - [x] Transportation and Infrastructure (104th-119th) - [x] Transportation and Infrastructure (104th-119th) - [x] Veterans' Affairs (93rd-119th) - [x] Veterans' Affairs (93rd-119th) - [x] Ways and Means (93rd-119th) - [x] Ways and Means (93rd-119th).",
+      "bm25_score_raw": 1.0119243643704043,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11
+    }
+  ]
+}

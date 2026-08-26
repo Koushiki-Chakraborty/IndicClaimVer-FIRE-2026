@@ -1,0 +1,99 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1201",
+    "text": "Indore district to vaccinate 1.5 lakh children in 12-14 years age group",
+    "lang": "english"
+  },
+  "entity_ranked_evidence": [
+    {
+      "title": "Indore district to vaccinate 1.5 lakh children in 12-14 years ...",
+      "url": "https://www.indiatoday.in/coronavirus-outbreak/story/children-covid-vaccination-indore-latest-covid-cases-1925626-2022-03-15",
+      "snippet": "Mar 15, 2022 — The Union Minister said over 1.5 lakh kids aged 12-14 years in the Indore district are expected to get their Covid-19 vaccine doses from",
+      "bm25_score_raw": 3.178526218241753,
+      "bm25_score_norm": 0.6078293947855596,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.93846195936203,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 1
+    },
+    {
+      "title": "Indore plans vaccine jabs for 14 lakh children",
+      "url": "https://www.inkl.com/news/indore-plans-vaccine-jabs-for-14-lakh-children",
+      "snippet": "INDORE: District health authorities are planning to inoculate 12 to 14 lakh children aged 2-17 years with Covid-19 vaccines, when the Union government gives",
+      "bm25_score_raw": 2.01263037632985,
+      "bm25_score_norm": 0.28051758113266706,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.9331367015838623,
+      "embedding_score_norm": 0.9072123513308048,
+      "embedding_rank": 2,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 2
+    },
+    {
+      "title": "Indore plans vaccine jabs for 14 lakh children",
+      "url": "https://timesofindia.indiatimes.com/city/indore/indore-plans-vaccine-jabs-for-14-lakh-children/articleshow/87055797.cms",
+      "snippet": "Oct 16, 2021 — District health authorities are planning to inoculate 12 to 14 lakh children aged 2-17 years with Covid-19 vaccines,",
+      "bm25_score_raw": 2.057160113391118,
+      "bm25_score_norm": 0.29301879133949726,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.9287276268005371,
+      "embedding_score_norm": 0.8303883366082445,
+      "embedding_rank": 3,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 3
+    },
+    {
+      "title": "Vaccination of kids aged 12-14 years: Indore division gets ...",
+      "url": "https://www.freepressjournal.in/indore/vaccination-of-kids-aged-12-14-years-indore-division-gets-321-lakh-doses-of-corbevax-70k-for-indore-district",
+      "snippet": "Mar 16, 2022 — “As many as 3.21 lakh doses were received for Indore division, out of which over 22 per cent (70,000 doses) will be given to Indore district.Read more",
+      "bm25_score_raw": 1.0134171863879933,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.9132943749427795,
+      "embedding_score_norm": 0.5614783211960834,
+      "embedding_rank": 4,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 4
+    },
+    {
+      "title": "MP Govt starts vax drive for 30 lakh 12-14 age group",
+      "url": "https://www.socialnews.xyz/2022/03/23/mp-govt-starts-vax-drive-for-30-lakh-12-14-age-group",
+      "snippet": "The government has targetted to vaccinate around 50,000 children in this age group in Indore district and nearly 43,000 in Bhopal on the first day. Children",
+      "bm25_score_raw": 4.575451287449532,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9013195037841797,
+      "embedding_score_norm": 0.3528273630249378,
+      "embedding_rank": 5,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 5
+    },
+    {
+      "title": "Record 3.44 lakh kids in 12-14 age group vaccinated in Madhya ...",
+      "url": "https://timesofindia.indiatimes.com/city/bhopal/record-3-44-lakh-kids-in-12-14-age-group-vaccinated-in-madhya-pradesh/articleshow/90408541.cms",
+      "snippet": "BHOPAL/INDORE: On the very first day of the vaccination drive for children between 12 and 14 year age group, 3. 44 lakh kids were vaccinated in Madhya",
+      "bm25_score_raw": 2.576319849449768,
+      "bm25_score_norm": 0.43876690079862146,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.881070077419281,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 6
+    }
+  ]
+}

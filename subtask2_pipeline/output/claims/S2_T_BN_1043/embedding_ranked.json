@@ -1,0 +1,131 @@
+{
+  "claim": {
+    "id": "S2/T/BN/1043",
+    "text": "ক’দিন পর মহারাষ্ট্রে ভোট, মোদীর উদ্বোধন করা শিবাজী মূর্তির ভাঙায় চাপে বিজেপি",
+    "lang": "bengali"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Watch | Mumbai, Maharashtra: BJP leader Kirit Somaiya ...",
+      "url": "https://www.facebook.com/UNINewsagency/posts/watch-mumbai-maharashtra-bjp-leader-kirit-somaiya-visited-the-bandra-area-ahead-/1469102238563226",
+      "snippet": "Watch | Mumbai, Maharashtra: BJP leader Kirit Somaiya visited the Bandra area ahead of a proposed demolition drive to inspect the site and",
+      "bm25_score_raw": 0.807286205353462,
+      "bm25_score_norm": 0.12050818698424504,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8357393741607666,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Shiv Sena has successfully managed to demolish the integrity of ...",
+      "url": "https://www.facebook.com/etnow/posts/shiv-sena-has-successfully-managed-to-demolish-the-integrity-of-mumbai-police-sa/4417755744932604",
+      "snippet": "Shiv Sena has successfully managed to demolish the integrity of Mumbai Police: Sambit Patra, National Spokesperson BJP.",
+      "bm25_score_raw": 3.174157253698675,
+      "bm25_score_norm": 0.5743052875980491,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.833617091178894,
+      "embedding_score_norm": 0.9560759215717236,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Shiv Sena",
+      "url": "https://en.wikipedia.org/wiki/Shiv_Sena",
+      "snippet": "# Shiv Sena. Political party in Maharashtra, India. Not to be confused with Shiv Sena (2022) \"Shiv Sena (2022)\") or Shiv Sena (UBT) \"Shiv Sena (UBT)\"). | Succeeded by | Shiv Sena (UBT) \"Shiv Sena (UBT)\") Shiv Sena (Shinde) \"Shiv Sena (2022)\") |. The party has split into two parties: the Uddhav Thackeray-led Shiv Sena (Uddhav Balasaheb Thackeray) \"Shiv Sena (UBT)\") which has a new symbol of *Mashaal* (Torch) and Eknath Shinde-led Shiv Sena (2022) \"Shiv Sena (2022)\") which has the original party name and the \"bow and arrow\" symbol. Shiv Sena was one of the founding members of the BJP-led National Democratic Alliance (NDA) in 1998, and it also participated in Vajpayee Government from 1998 to 2004 and the Narendra Modi Government from 2014 to 2019. Under Uddhav Thackeray, Shiv Sena formed an alliance with its historic rivals, the Indian National Congress and Nationalist Congress Party Following the 2022 Maharashtra political crisis, the party split.",
+      "bm25_score_raw": 0.5001770500768876,
+      "bm25_score_norm": 0.0616265489947565,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.8238947987556458,
+      "embedding_score_norm": 0.7548573571536072,
+      "embedding_rank": 3
+    },
+    {
+      "title": "BJP's Maharashtra Victory a Triumph of Good Governance ...",
+      "url": "https://newsonair.gov.in/bjps-maharashtra-victory-a-triumph-of-good-governance-and-development-pm-modi",
+      "snippet": "Prime Minister Narendra Modi has said that the BJP's victory in Maharashtra assembly polls is a win for good governance and development.Read more",
+      "bm25_score_raw": 3.537360689484087,
+      "bm25_score_norm": 0.643941808864227,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8173971176147461,
+      "embedding_score_norm": 0.62037733800791,
+      "embedding_rank": 4
+    },
+    {
+      "title": "মহারাষ্ট্রে মুখ্যমন্ত্রী বিজেপি থেকেই! জোটের জট ছাড়াতে দু' ...",
+      "url": "https://www.thewall.in/India/maharashtra-chief-minister-to-be-from-bjp-sources/tid/143536",
+      "snippet": "Nov 27, 2024 — বুধবার বিকেলে শিন্ডে এক সাংবাদিক বৈঠকে জানান, মুখ্যমন্ত্রী বাছাই করার দায়িত্ব তিনি প্রধানমন্ত্রী নরেন্দ্র মোদীর উপর ছেড়ে দিয়েছেন।",
+      "bm25_score_raw": 5.394454582295512,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8154720067977905,
+      "embedding_score_norm": 0.5805340563959211,
+      "embedding_rank": 5
+    },
+    {
+      "title": "\"The BJP after all is an election within machine now its may ...",
+      "url": "https://www.facebook.com/IndiaToday/posts/the-bjp-after-all-is-an-election-within-machine-now-its-may-say-what-they-do-aft/1467858428711034",
+      "snippet": "\"The BJP after all is an election within machine now its may say what they do after winning elections that's a different debate altogether,\"",
+      "bm25_score_raw": 0.7770152659056957,
+      "bm25_score_norm": 0.11470437922553489,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8131996393203735,
+      "embedding_score_norm": 0.5335037366183666,
+      "embedding_rank": 6
+    },
+    {
+      "title": "Eknath Shinde is turning out to be a slippery character ...",
+      "url": "https://www.facebook.com/thewire.in/posts/eknath-shinde-is-turning-out-to-be-a-slippery-character-for-the-bharatiya-janata/516423671055666",
+      "snippet": "Eknath Shinde is turning out to be a slippery character for the Bharatiya Janata Party (BJP) in poll-bound Maharashtra where he was installed by it as a stopgap",
+      "bm25_score_raw": 0.17875125333242964,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.8088297843933105,
+      "embedding_score_norm": 0.44306252205085944,
+      "embedding_rank": 7
+    },
+    {
+      "title": "PM Modi in Maharashtra again, as BJP plans a two- ...",
+      "url": "https://indianexpress.com/article/political-pulse/maharashtra-pm-modi-visit-bjp-strategy-elections-9603634",
+      "snippet": "Oct 4, 2024 — PM Modi visits Maharashtra, focusing on Vidarbha and Mumbai-Thane regions, to unveil infrastructure projects and woo Banjara community ahead",
+      "bm25_score_raw": 2.1464800925983556,
+      "bm25_score_norm": 0.3772700851942674,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8086299896240234,
+      "embedding_score_norm": 0.4389274461959029,
+      "embedding_rank": 8
+    },
+    {
+      "title": "Maharashtra Chief Minister Devendra Fadnavis said the ...",
+      "url": "https://www.instagram.com/reel/DTlLG2_Apjy?hl=en",
+      "snippet": "Maharashtra Chief Minister Devendra Fadnavis said the Mumbai mayor will be from the BJP–Shiv Sena Mahayuti alliance as trends show a strong",
+      "bm25_score_raw": 0.26818404381486843,
+      "bm25_score_norm": 0.017146832333390913,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.8043349981307983,
+      "embedding_score_norm": 0.35003565145948934,
+      "embedding_rank": 9
+    },
+    {
+      "title": "Modi's BJP wrests back control of key Indian state ahead ...",
+      "url": "https://www.cnn.com/2022/06/30/india/india-maharashtra-bjp-state-control-intl-hnk",
+      "snippet": "Jun 30, 2022 — Indian Prime Minister Narendra Modi's party is returning to power in the country's richest state, Maharashtra, giving it a fillip ahead of the 2024 national ...Read more",
+      "bm25_score_raw": 0.5298232709308414,
+      "bm25_score_norm": 0.06731058027186666,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.8018699884414673,
+      "embedding_score_norm": 0.2990182895688024,
+      "embedding_rank": 10
+    },
+    {
+      "title": "নরেন্দ্র মোদী কি ভারতের পরবর্তী প্রধানমন্ত্রী ?",
+      "url": "https://www.bbc.com/bengali/news/2012/12/121220_mhgujratmodi",
+      "snippet": "Dec 20, 2012 — ভারতের পশ্চিমাঞ্চলীয় রাজ্য গুজরাটের বিধানসভা নির্বাচনে বর্তমান মুখ্যমন্ত্রী নরেন্দ্র মোদীর বিপুল বিজয়ের পর অনেকে তাঁকে এখন বিজেপির পরবর্তী নেতা হিসেবে দেখতে চাইছেন। বিজেপি যদি জাতীয় নির্বাচনে জয়ী হয়,",
+      "bm25_score_raw": 2.8569563487142053,
+      "bm25_score_norm": 0.5134887715928086,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.7874222993850708,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 11
+    }
+  ]
+}

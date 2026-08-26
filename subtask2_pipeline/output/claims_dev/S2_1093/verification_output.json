@@ -1,0 +1,6 @@
+{
+  "ID": "S2/1093",
+  "Evidence": "हिमाचल प्रदेश में कोरोना के केस बढ़ रहे हैं, और हाल ही में 24 घंटे में 65 लोगों की मौत हुई है (Source 2)। भारत में सक्रिय मामलों की संख्या 7,154 है, और हाल ही में तीन नई कोविड से संबंधित मौतें हुई हैं, जिनमें से दो महाराष्ट्र में और एक मध्य प्रदेश में हुई (Source 3)। दिल्ली और महाराष्ट्र जैसे राज्यों में भी सक्रिय मामलों की संख्या काफी अधिक है (Source 3)।",
+  "Prediction": "SUPPORTS",
+  "Justification": "Retrieved evidence indicates a rise in COVID-19 cases and deaths in Himachal Pradesh, with 65 deaths reported in 24 hours (Source 2). Additionally, three new COVID-related deaths were recorded in India, including two in Maharashtra (Source 3). The evidence confirms an increase in cases in Delhi and Maharashtra, supporting the claim that COVID-19 deaths are rising in these regions."
+}

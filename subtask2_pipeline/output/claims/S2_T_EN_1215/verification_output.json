@@ -1,0 +1,6 @@
+{
+  "ID": "S2/T/EN/1215",
+  "Evidence": "Novavax states that its protein vaccine is effective for children as young as 12 years old. A study involving 2,247 U.S. kids aged 12 to 17 found that the two-dose vaccine was 80% effective at preventing symptomatic COVID-19. Additionally, the Novavax vaccine is categorized as a protein subunit vaccine, which includes harmless pieces of the spike protein that causes COVID-19, and is available for children aged 12 years and older (Source 2, Source 3).",
+  "Prediction": "SUPPORTS",
+  "Justification": "The retrieved evidence directly supports the claim that Novavax says its protein vaccine works for kids as young as 12. Source 2 explicitly states that Novavax's vaccine is effective for this age group, citing a study that shows an 80% effectiveness rate. Source 3 confirms that the Novavax vaccine is available for children aged 12 and older, reinforcing the claim."
+}

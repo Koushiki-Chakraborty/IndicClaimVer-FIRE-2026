@@ -1,0 +1,57 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1212",
+    "text": "Shanghai residents say they understand how Covid spread during the lockdown.",
+    "lang": "english"
+  },
+  "ranked_evidence": [
+    {
+      "title": "Fed Up': New Englanders Stuck in Shanghai Due to COVID Lockdown",
+      "url": "https://www.nbcboston.com/news/local/fed-up-new-englanders-stuck-in-shanghai-due-to-covid-lockdown/2704695",
+      "snippet": "COVID-19 lockdowns in China's financial capital continue despite promises that residents would be let out after two weeks of quarantine.",
+      "bm25_score_raw": 3.687714233164617,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "An empirical study of the Shanghai lockdown under COVID-19 - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10071188",
+      "snippet": "Shanghai residents were strictly prohibited from going out of their homes during the lockdown period. The longer the residents were isolated, the more negative",
+      "bm25_score_raw": 2.731089938047853,
+      "bm25_score_norm": 0.5820735101453455,
+      "bm25_rank": 2
+    },
+    {
+      "title": "63 Days: Post journalist recounts living through Shanghai's Covid ...",
+      "url": "https://www.scmp.com/video/scmp-films/3183829/63-days-post-journalist-recounts-living-through-shanghais-covid-19",
+      "snippet": "The Chinese city of Shanghai carried out one of the world's strictest lockdowns to stop the spread of the Covid-19, from March to June 2022.",
+      "bm25_score_raw": 2.187069818342154,
+      "bm25_score_norm": 0.34440400896342066,
+      "bm25_rank": 3
+    },
+    {
+      "title": "The lockdown in Shanghai, explained by an expert | Vox",
+      "url": "https://www.vox.com/23033466/shanghai-covid-zero-lockdown-interview",
+      "snippet": "## The context you need, when you need it. When news breaks, you need to understand what actually matters — and what to do about it. At Vox, our mission to help you make sense of the world has never been more vital. But we can’t do it on our own. Why even many wealthy people in China’s richest city can’t reliably get food — and what it says about the country’s political system. A transit officer controls access to a tunnel in the direction of Shanghai’s Pudong district as a government-imposed lockdown began March 28 to curb the spread of Covid-19. They were given little time to prepare provisions for what they were told would be a few days trapped at home to combat the spread of Covid-19. On top of all of that, it’s not exactly clear how much Covid-19 spread and death the most extreme measures have actually prevented.",
+      "bm25_score_raw": 2.1218342668873094,
+      "bm25_score_norm": 0.31590414211660567,
+      "bm25_rank": 4
+    },
+    {
+      "title": "Shanghai extends lockdown for 26 million residents | DW News",
+      "url": "https://www.youtube.com/watch?v=sgrKTUmsTMg",
+      "snippet": "Shanghai extends lockdown for 26 million residents | DW News\nDW News\n6340000 subscribers\n2300 likes\n243333 views\n6 Apr 2022\n26 million people confined to their homes - and no end in sight. Following a public uproar Shanghai officials have now allowed parents to stay with children infected with COVID-19. But the full lockdown, which started in parts of China's largest city, has been extended. \n\nSubscribe: https://www.youtube.com/user/deutschewelleenglish?sub_confirmation=1\n\nFor more news go to: http://www.dw.com/en/\nFollow DW on social media:\n►Facebook: https://www.facebook.com/deutschewellenews/\n►Twitter: https://twitter.com/dwnews\n►Instagram: https://www.instagram.com/dwnews\nFür Videos in deutscher Sprache besuchen Sie: https://www.youtube.com/dwdeutsch\n#Shanghai #Lockdown #Quarantine\n1303 comments\n",
+      "bm25_score_raw": 2.069724034974761,
+      "bm25_score_norm": 0.2931384164080975,
+      "bm25_rank": 5
+    },
+    {
+      "title": "Post journalist recounts living through Shanghai's Covid-19 lockdown",
+      "url": "https://www.youtube.com/watch?v=NtxegGEZWTQ",
+      "snippet": "... spread of the Covid-19, from March to June 2022. The city of 22.5 million people essentially shut down as residents were ordered not to",
+      "bm25_score_raw": 1.3987368212531193,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6
+    }
+  ]
+}

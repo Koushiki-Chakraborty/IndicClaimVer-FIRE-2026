@@ -1,0 +1,109 @@
+{
+  "claim": {
+    "id": "S2/T/HI/1233",
+    "text": "जस्टिन टड्रो से आज मिलेंगे मोदी, पीएम ने Tweet कर कहा-मिलने के लिए उत्सुक हूं",
+    "lang": "hindi"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "PM Modi tweets on Justin Trudeau's visit, says 'looking forward to meet his ...",
+      "url": "https://indianexpress.com/article/india/pm-narendra-modi-tweets-on-justin-trudeaus-visit-says-looking-forward-to-meet-his-children-5074494/lite",
+      "snippet": "PM Modi tweets on Justin Trudeau's visit, says 'looking forward to meet his children'. The duo are expected to hold talks on defence and counter",
+      "bm25_score_raw": 2.666584595390821,
+      "bm25_score_norm": 0.4331320440289465,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.924463152885437,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "With A Tweet, PM Modi Sets Tone For His Meeting With Justin Trudeau",
+      "url": "https://www.ndtv.com/india-news/with-a-tweet-pm-narendra-modi-sets-tone-for-his-meeting-with-canadian-prime-minister-justin-trudeau-1816101",
+      "snippet": "Prime Minister Narendra Modi tweeted a welcome to Justin Trudeau last evening - five days after the Canadian Prime Minister and his family landed in India.",
+      "bm25_score_raw": 4.234061526687338,
+      "bm25_score_norm": 0.6877365626308309,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.9135819673538208,
+      "embedding_score_norm": 0.9263809321791254,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Today, Prime Minister Justin Trudeau met with the ...",
+      "url": "https://x.com/CanadianPM/status/1700893006197338212",
+      "snippet": "Today, Prime Minister Justin Trudeau met with the Prime Minister of India, Narendra Modi, on the margins of the #G20Summit in New Delhi, India.",
+      "bm25_score_raw": 0.8747720263322769,
+      "bm25_score_norm": 0.14208879646254433,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.9039657711982727,
+      "embedding_score_norm": 0.8613204298196019,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Trudeau in India: The Canadian PM meets Modi after diplomatic dance",
+      "url": "https://www.bbc.com/news/world-asia-india-43165794",
+      "snippet": "Mr Modi first welcomed Mr Trudeau on Twitter. Canadian Prime Minister Justin Trudeau met his Indian counterpart, Narendra Modi, on Friday.",
+      "bm25_score_raw": 1.3426713375988921,
+      "bm25_score_norm": 0.2180894549224132,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8996735215187073,
+      "embedding_score_norm": 0.8322802650925218,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Prime Ministers Narendra Modi and Justin Trudeau had a meeting on the ...",
+      "url": "https://www.facebook.com/PMOIndia/posts/prime-ministers-narendra-modi-and-justin-trudeau-had-a-meeting-on-the-sidelines-/713332387496585",
+      "snippet": "Taking to X (Formerly known as Twitter), PM Modi posted, \"Met PM @JustinTrudeau on the sidelines of the G20 Summit. We discussed the full range",
+      "bm25_score_raw": 2.2599066642287933,
+      "bm25_score_norm": 0.36707554468137715,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8970702886581421,
+      "embedding_score_norm": 0.8146675172941658,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Trudeau, Modi meet for first time since Canada publicly accused India ...",
+      "url": "https://www.cbc.ca/news/politics/trudeau-modi-india-g7-italy-1.7226843",
+      "snippet": "Modi posted a photo to his 98 million followers on X, formerly known as Twitter, of the two leaders shaking hands on Friday on the sidelines of",
+      "bm25_score_raw": 1.6519707822008975,
+      "bm25_score_norm": 0.26832881387207735,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8905851244926453,
+      "embedding_score_norm": 0.7707907045018466,
+      "embedding_rank": 6
+    },
+    {
+      "title": "कनाडाई पीएम जस्टिन ट्रूडो की भारत यात्रा पर पीएम मोदी का ...",
+      "url": "https://ndtv.in/india/pm-narendra-modi-tweets-on-canadian-pm-justin-trudeau-visit-with-throwback-photo-1816085",
+      "snippet": "जस्टिन ट्रूडो की यात्रा पर पीएम मोदी ने पहली बार बोला. ट्वीट कर कहा कि वह जस्टिन ट्रूडो से मिलने के लिए उत्सुक हैं. परिवार समेत भारत दौरे पर आए हैं कनाडा के पीएम जस्टिन ट्रूडो.",
+      "bm25_score_raw": 6.156516545362345,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.868131160736084,
+      "embedding_score_norm": 0.6188734455010972,
+      "embedding_rank": 7
+    },
+    {
+      "title": "Justin Trudeau: तैमूर कुछ दिन तस्वीरों में नहीं आएंगे नज़र, एक ...",
+      "url": "https://www.india.com/hindi-news/entertainment-hindi/canada-pm-justin-trudeau-son-hadrien-trudeau-is-new-sensation-tamur-will-not-seen-for-few-days-2906607/amp",
+      "snippet": "कनाडा के प्रधानमंत्री जस्टिन ट्रूडो अपने पूरे परिवार के साथ भारत के सात दिवसीय दौरे पर हैं. ट्रूडो ने एक शाम बॉलीवुड हस्तियों के साथ बिताई, जिनमें शाहरुख खान, अनुपम खेर और फरहान अख्तर जैसे सितारे शामिल",
+      "bm25_score_raw": 2.332054922090235,
+      "bm25_score_norm": 0.3787945512543052,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8362834453582764,
+      "embedding_score_norm": 0.4034006818462273,
+      "embedding_rank": 8
+    },
+    {
+      "title": "daily news archive",
+      "url": "https://archives.ndtv.com/articles/2016-04.html",
+      "snippet": "होम लोन, ईपीएफओ, दवाओं और ट्रेन की यात्रा से जुड़ी यह महत्‍वपूर्ण खबर आपके लिए ही है... बेंगलुरू : 12वीं की केमिस्ट्री का पर्चा लीक होने पर एबीवीपी का जोरदार प्रदर्शन · Tesla Unveils Cheaper Model Aimed At",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.7766592502593994,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 9
+    }
+  ]
+}

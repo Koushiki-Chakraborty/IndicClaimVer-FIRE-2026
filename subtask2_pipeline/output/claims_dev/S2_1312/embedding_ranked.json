@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/1312",
+    "text": "ফিরহাদ বলতে উঠলেই ওয়াক আউট বিজেপির, নজিরবিহীন পরিস্থিতি বিধানসভায় - BJP Protests Firhad Comment",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "BJP protests demanding Firhad Hakim's resignation ...",
+      "url": "https://www.instagram.com/reel/C9cEJpnp2zk",
+      "snippet": "BJP protests demanding Firhad Hakim's resignation, Mayor's effigy was burnt by the protestor. The rally drew huge crowds, prompting organisers",
+      "bm25_score_raw": 3.6258655999777325,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8663885593414307,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Violent protests will only help BJP: Firhad Hakim",
+      "url": "https://www.moneycontrol.com/news/india/violent-protests-will-only-help-bjp-firhad-hakim-4730421.html",
+      "snippet": "Hakim, the urban development minister said that such violent protests will not help the state but will only strengthen the hands of the BJP.",
+      "bm25_score_raw": 3.031995742662038,
+      "bm25_score_norm": 0.8362129425538162,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8536331653594971,
+      "embedding_score_norm": 0.8393038703737912,
+      "embedding_rank": 2
+    },
+    {
+      "title": "BJP to boycott Bengal minister Firhad Hakim over his ...",
+      "url": "https://www.indiatoday.in/india/story/bjp-to-boycott-bengal-minister-firhad-hakim-over-his-alleged-communal-speech-2574751-2024-08-01",
+      "snippet": "The Bengal BJP has also sought an apology from Firhad Hakim over his alleged speech, and vowed to continue boycotting him in Assembly till",
+      "bm25_score_raw": 1.3583621720679158,
+      "bm25_score_norm": 0.37463114244396095,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.8467241525650024,
+      "embedding_score_norm": 0.752262135936911,
+      "embedding_rank": 3
+    },
+    {
+      "title": "FIR Against Firhad Hakim: ফেঁসে গেলেন ফিরহাদ? ধর্মীয় উস্কানিমূলক ...",
+      "url": "https://tv9bangla.com/kolkata/fir-against-firhad-hakim-bjp-worker-demands-arrest-over-alleged-religious-and-offensive-remarks-1320200.html/amp",
+      "snippet": "Firhad Hakim Controversial Remarks: রাজ্যে পালাবদলের পর একের পর এক তৃণমূল নেতার বিরুদ্ধে নানা অভিযোগ সামনে আসছে। গ্রেফতার হয়েছেন একাধিক তৃণমূল নেতা। তৃণমূলের সর্বভারতীয় সাধারণ সম্পাদক",
+      "bm25_score_raw": 1.3323924226284865,
+      "bm25_score_norm": 0.3674687839054677,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.842339277267456,
+      "embedding_score_norm": 0.6970202131701742,
+      "embedding_rank": 4
+    },
+    {
+      "title": "BJP, Cong protest seeking Kolkata mayor's resignation",
+      "url": "https://indianexpress.com/article/cities/kolkata/bjp-cong-protest-seeking-kolkata-mayors-resignation-8274980",
+      "snippet": "The BJP and Congress Thursday held protest rallies in Kolkata demanding the resignation of Mayor Firhad Hakim over a spurt in the number of",
+      "bm25_score_raw": 0.9854261318968736,
+      "bm25_score_norm": 0.27177679500942487,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.8420181274414062,
+      "embedding_score_norm": 0.6929742751027629,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Breaking: ফিরহাদ বলতে উঠলেই ওয়াক আউট BJPর, বিধানসভায় হৈ চৈ বিরোধী MLA ...",
+      "url": "https://www.youtube.com/watch?v=-zLpFxZpxlc",
+      "snippet": "firhadhakim #bjp #wbassembly #aajtakbangla #aajtak বিধানসভায় ধুন্ধুমার কাণ্ড। পশ্চিমবঙ্গ বিধানসভায় বুধবার এক নজিরবিহীন পরিস্থিতি তৈরি হল ৷ বিধানসভার অধিবেশন কক্ষে ফিরহাদ হাকিমকে",
+      "bm25_score_raw": 2.855366594522148,
+      "bm25_score_norm": 0.7874992924557611,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.833624541759491,
+      "embedding_score_norm": 0.5872294635602753,
+      "embedding_rank": 6
+    },
+    {
+      "title": "Firhad Hakim's statement sparks controversy",
+      "url": "https://www.bhaskarenglish.in/national/news/firhad-hakims-statement-sparks-controversy-134124890.html",
+      "snippet": "BJP MP described Hakim's remarks as a threat to India's unity, stating, \"This speech is like creating a situation similar to Bangladesh in India.\"",
+      "bm25_score_raw": 1.0141046612002589,
+      "bm25_score_norm": 0.27968622477526106,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.8299804925918579,
+      "embedding_score_norm": 0.5413206818922495,
+      "embedding_rank": 7
+    },
+    {
+      "title": "Firhad Hakim:BJP-র কোনও সংগঠন আছে নাকি? হতে পারে যে এজেন্সিকে ...",
+      "url": "https://www.youtube.com/watch?v=ejbZsrFYrK4",
+      "snippet": "Firhad Hakim:BJP-র কোনও সংগঠন আছে নাকি? হতে পারে যে এজেন্সিকে দিয়েছে, তারা টাকা মেরে দিয়েছে: ফিরহাদ. @abpanandatv18 likes2.3K views9 months ago",
+      "bm25_score_raw": 1.3853644018826283,
+      "bm25_score_norm": 0.38207825515957794,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8298225402832031,
+      "embedding_score_norm": 0.5393307531842614,
+      "embedding_rank": 8
+    },
+    {
+      "title": "ঢোক গিললেন ববি, বয়কট তুলল বিজেপি - Firhad Hakim",
+      "url": "https://www.etvbharat.com/amp/bn/!state/bjp-calls-of-boycott-over-firhad-hakim-after-he-speaks-in-wb-assembly-wbs24080104090",
+      "snippet": "BJP Calls of Boycott: কারও ধর্মকে আঘাত করা তাঁর অভিপ্রায় নয় ৷ বিধানসভায় এমনটাই জানালেন রাজ্যের মন্ত্রী ফিরহাদ হাকিম ৷ আর তাঁর এই বক্তব্যের শেষে তাঁকে বয়কটের প্রশ্ন থেকে সরে দাঁড়াল বিজেপি।",
+      "bm25_score_raw": 1.4323694856439888,
+      "bm25_score_norm": 0.39504207923558593,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8242628574371338,
+      "embedding_score_norm": 0.4692882663290546,
+      "embedding_rank": 9
+    },
+    {
+      "title": "'বিজেপি কল্পনাই করতে পারবে না...', কী বললেন ফিরহাদ?",
+      "url": "https://tv9bangla.com/videos/bjps-attempts-will-not-succeed-warns-tmc-leader-firhad-hakim-1299764.html/amp",
+      "snippet": "ভোটের আগে বহিরাগতদের বাংলার ঢোকাচ্ছে বিজেপি। পদ্ম শিবিরকে নিশানা করে বললেন রাজ্যের বিদায়ী মন্ত্রী তথা তৃণমূল নেতা ফিরহাদ হাকিম। তবে বিজেপির চেষ্টা সফল হবে না বলে তিনি মন্তব্য করেন।",
+      "bm25_score_raw": 2.5160984085266813,
+      "bm25_score_norm": 0.6939304116904205,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.801749050617218,
+      "embedding_score_norm": 0.18565283929035387,
+      "embedding_rank": 10
+    },
+    {
+      "title": "Mamata Banerjee Aide's \"Would Break Legs\" Threat To ...",
+      "url": "https://www.ndtv.com/india-news/mamata-banerjee-aide-firhad-hakim-would-break-legs-threat-to-election-commission-bjp-sir-elections-west-bengal-caa-9535652",
+      "snippet": "The BJP hit out at the state government accusing it of \"inciting violence\" by allegedly protecting \"illegal infiltrators\".",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.8000048398971558,
+      "embedding_score_norm": 0.1636787699387102,
+      "embedding_rank": 11
+    },
+    {
+      "title": "ফিরহাদ হাকিমের বিরুদ্ধে উস্কানিমূলক মন্তব্যের অভিযোগ, উঠল গ্রেফতারের দাবি",
+      "url": "https://bangla.aajtak.in/amp/kolkata/story/a-bjp-worker-has-accused-firhad-hakim-of-making-inflammatory-remarks-and-has-demanded-his-arrest-suk-1406065-2026-06-10",
+      "snippet": "প্রসঙ্গত অভিযোগকারী বলেন, 'মমতা বন্দ্যোপাধ্যায়ের কিচেন ক্যাবিনেটের সদস্য ফিরহাদ হাকিমের বিরুদ্ধে আগে এখানে অভিযোগ নেয়নি। তখন আমি মণ্ডল সভাপতি ছিলাম।'",
+      "bm25_score_raw": 3.0817527127115945,
+      "bm25_score_norm": 0.8499357264457128,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.7870126962661743,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

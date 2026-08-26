@@ -1,0 +1,57 @@
+{
+  "claim": {
+    "id": "S2/1217",
+    "text": "Patna reports more than 1,000 Covid cases after 15 days as positivity rate rises",
+    "lang": "dev"
+  },
+  "ranked_evidence": [
+    {
+      "title": "Patna reports less than 1000 Covid cases after 15 days as ...",
+      "url": "https://www.indiatoday.in/cities/patna/story/patna-reports-less-1000-covid-cases-15-days-positivity-rate-drops-1902279-2022-01-20",
+      "snippet": "Jan 20, 2022 — The positivity rate has also come down to 12.36 per cent, giving a big relief to the health officials. advertisement. ❮❯.Read more",
+      "bm25_score_raw": 12.5893145706716,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "COVID-19 cases | WHO COVID-19 dashboard - WHO Data",
+      "url": "https://data.who.int/dashboards/covid19/cases",
+      "snippet": "This global summary of COVID-19 cases includes data on confirmed cases reported to WHO. Count Rate per 100 000 Number of COVID-19 cases reported to WHO World,",
+      "bm25_score_raw": 3.8024474070288474,
+      "bm25_score_norm": 0.2331402351918978,
+      "bm25_rank": 2
+    },
+    {
+      "title": "COVID-19 pandemic in Bihar",
+      "url": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Bihar",
+      "snippet": "Patna district has the highest number of cases. Bihar's COVID case fatality rate is one of the lowest in the nation. Total 416 migrant positive case reported",
+      "bm25_score_raw": 2.1056201168360267,
+      "bm25_score_norm": 0.08505234989174174,
+      "bm25_rank": 3
+    },
+    {
+      "title": "Block wise Covid 19 confirmed cases in Patna District. ...",
+      "url": "https://www.facebook.com/dmpatna/posts/block-wise-covid-19-confirmed-cases-in-patna-districtstaysafe/2000737653395550",
+      "snippet": "Covid 19 confirmed cases in Patna District. Of the new cases, 17 were reported from Patna, 749 people tested positive for COVID-19. Of 2.75",
+      "bm25_score_raw": 1.8284598931237086,
+      "bm25_score_norm": 0.060863635073151526,
+      "bm25_rank": 4
+    },
+    {
+      "title": "Sero-epidemiological survey of SARS-Cov2 in urban slums of ...",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9480741",
+      "snippet": "by SK Nirala · 2022 · Cited by 3 — Yet, the seroconversion rate across different slums in Patna surpassed the positive test rates reported by the nationwide first[6] (0.73%) and ...Read more",
+      "bm25_score_raw": 1.266964335392806,
+      "bm25_score_norm": 0.011860009170628377,
+      "bm25_rank": 5
+    },
+    {
+      "title": "Surveillance and Data Analytics | Covid",
+      "url": "https://www.cdc.gov/covid/php/surveillance/index.html",
+      "snippet": "Image 1An official website of the United States government. A **.gov** website belongs to an official government organization in the United States. Surveillance and Data AnalyticsSARS-CoV-2 Laboratory Biosafety GuidelinesAntibody SeroprevalenceCDC's Role in Tracking VariantsSARS-CoV-2 Interagency GroupView Menu. Other COVID-19 related data visualizations (previously on CDC’s COVID Data Tracker) are provided in the resources section at the bottom of this page. ## COVID-19 Surveillance Data in the United States. Test positivity (the percentage of total reported tests that are positive) and the percentage of total emergency department visits due to COVID-19 are key metrics to assess the impact of COVID-19 on communities. For public health professionals, these metrics act as early indicators of potential increases in COVID-19 activity. Hospitalizations and deaths are key metrics for assessing the severity and disease burden of COVID-19, including which groups are at the increased risk of severe COVID-19. % of All Deaths in U.S. Due to COVID-19. COVID-19 Data from the National Center for Health Statistics.",
+      "bm25_score_raw": 1.1310694431005048,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6
+    }
+  ]
+}

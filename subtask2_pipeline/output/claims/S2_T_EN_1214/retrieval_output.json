@@ -1,0 +1,108 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1214",
+    "text": "Biological E’s Corbevax vaccine has not received EUA for the 12-18 years age group.",
+    "lang": "english"
+  },
+  "generated_queries": {
+    "english_translation": "Biological E’s Corbevax vaccine has not received EUA for the 12-18 years age group.",
+    "native_query": "EUA Biological Corbevax vaccine received 12 18 age",
+    "english_query": "EUA Biological Corbevax vaccine received 12 18 age"
+  },
+  "native_retrieval": [
+    {
+      "title": "European University Association - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/European_University_Association",
+      "snippet": "# European University Association. The **European University Association** (**EUA**) represents more than 800 institutions of higher education in 48 countries, providing them with a forum for cooperation and the exchange of information on higher education and research policies. Members of the Association are European universities involved in teaching and research, national associations of rectors \"Rector (academia)\"), and other organisations active in higher education and research. EUA is the result of a merger between the Association of European Universities and the Confederation of European Union Rectors' Conferences. 2. ↑ \"European University Association (EUA)\"."
+    },
+    {
+      "title": "European University Association (EUA)",
+      "url": "https://www.youtube.com/c/EuropeanUniversityAssociationEUA",
+      "snippet": "EUA is a community of over 900 members and affiliates. It represents universities and national rectors' conferences in 48 European countries.Read more"
+    },
+    {
+      "title": "European University Association",
+      "url": "https://www.facebook.com/EuropeanUniversityAssociation/photos/-eua-is-the-most-comprehensive-body-representing-universities-in-europe-but-afte/1175377868493244",
+      "snippet": "EUA is the most comprehensive body representing universities in Europe. Since 2001, EUA has supported university communities across the"
+    },
+    {
+      "title": "EUA (@EUA) / X",
+      "url": "https://x.com/EUA",
+      "snippet": "We believe great design is about more than elevating the environment. We believe great design is about elevating people’s potential. Don't miss what's happening. People on X are the first to know. ## @EUA hasn’t posted. When they do, their posts will show up here."
+    },
+    {
+      "title": "E.U.A.",
+      "url": "https://en.wiktionary.org/wiki/E.U.A.",
+      "snippet": "E.U.A. m pl (plural only). alternative spelling of EUA: initialism of Estados Unidos da América (= United States of America): a country in North America: ...Read more"
+    },
+    {
+      "title": "Welcome to EUA - Laravel",
+      "url": "https://www.eua.am",
+      "snippet": "Welcome to EUA. European University of Armenia - Empowering students with quality education and innovative learning experiences. Apply Now. Why Choose EUA?Read more"
+    }
+  ],
+  "english_retrieval": [
+    {
+      "title": "European University Association - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/European_University_Association",
+      "snippet": "# European University Association. The **European University Association** (**EUA**) represents more than 800 institutions of higher education in 48 countries, providing them with a forum for cooperation and the exchange of information on higher education and research policies. Members of the Association are European universities involved in teaching and research, national associations of rectors \"Rector (academia)\"), and other organisations active in higher education and research. EUA is the result of a merger between the Association of European Universities and the Confederation of European Union Rectors' Conferences. 2. ↑ \"European University Association (EUA)\"."
+    },
+    {
+      "title": "European University Association (EUA)",
+      "url": "https://www.youtube.com/c/EuropeanUniversityAssociationEUA",
+      "snippet": "EUA is a community of over 900 members and affiliates. It represents universities and national rectors' conferences in 48 European countries.Read more"
+    },
+    {
+      "title": "European University Association",
+      "url": "https://www.facebook.com/EuropeanUniversityAssociation/photos/-eua-is-the-most-comprehensive-body-representing-universities-in-europe-but-afte/1175377868493244",
+      "snippet": "EUA is the most comprehensive body representing universities in Europe. Since 2001, EUA has supported university communities across the"
+    },
+    {
+      "title": "EUA (@EUA) / X",
+      "url": "https://x.com/EUA",
+      "snippet": "We believe great design is about more than elevating the environment. We believe great design is about elevating people’s potential. Don't miss what's happening. People on X are the first to know. ## @EUA hasn’t posted. When they do, their posts will show up here."
+    },
+    {
+      "title": "E.U.A.",
+      "url": "https://en.wiktionary.org/wiki/E.U.A.",
+      "snippet": "E.U.A. m pl (plural only). alternative spelling of EUA: initialism of Estados Unidos da América (= United States of America): a country in North America: ...Read more"
+    },
+    {
+      "title": "Welcome to EUA - Laravel",
+      "url": "https://www.eua.am",
+      "snippet": "Welcome to EUA. European University of Armenia - Empowering students with quality education and innovative learning experiences. Apply Now. Why Choose EUA?Read more"
+    }
+  ],
+  "merged_results": [
+    {
+      "title": "European University Association - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/European_University_Association",
+      "snippet": "# European University Association. The **European University Association** (**EUA**) represents more than 800 institutions of higher education in 48 countries, providing them with a forum for cooperation and the exchange of information on higher education and research policies. Members of the Association are European universities involved in teaching and research, national associations of rectors \"Rector (academia)\"), and other organisations active in higher education and research. EUA is the result of a merger between the Association of European Universities and the Confederation of European Union Rectors' Conferences. 2. ↑ \"European University Association (EUA)\"."
+    },
+    {
+      "title": "European University Association (EUA)",
+      "url": "https://www.youtube.com/c/EuropeanUniversityAssociationEUA",
+      "snippet": "EUA is a community of over 900 members and affiliates. It represents universities and national rectors' conferences in 48 European countries.Read more"
+    },
+    {
+      "title": "European University Association",
+      "url": "https://www.facebook.com/EuropeanUniversityAssociation/photos/-eua-is-the-most-comprehensive-body-representing-universities-in-europe-but-afte/1175377868493244",
+      "snippet": "EUA is the most comprehensive body representing universities in Europe. Since 2001, EUA has supported university communities across the"
+    },
+    {
+      "title": "EUA (@EUA) / X",
+      "url": "https://x.com/EUA",
+      "snippet": "We believe great design is about more than elevating the environment. We believe great design is about elevating people’s potential. Don't miss what's happening. People on X are the first to know. ## @EUA hasn’t posted. When they do, their posts will show up here."
+    },
+    {
+      "title": "E.U.A.",
+      "url": "https://en.wiktionary.org/wiki/E.U.A.",
+      "snippet": "E.U.A. m pl (plural only). alternative spelling of EUA: initialism of Estados Unidos da América (= United States of America): a country in North America: ...Read more"
+    },
+    {
+      "title": "Welcome to EUA - Laravel",
+      "url": "https://www.eua.am",
+      "snippet": "Welcome to EUA. European University of Armenia - Empowering students with quality education and innovative learning experiences. Apply Now. Why Choose EUA?Read more"
+    }
+  ]
+}

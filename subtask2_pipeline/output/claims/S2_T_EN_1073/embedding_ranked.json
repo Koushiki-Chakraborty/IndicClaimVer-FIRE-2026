@@ -1,0 +1,76 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1073",
+    "text": "Karnataka High Court Denies Bail To Juvenile Accused Of Sexual Offence, Citing Mother Not Fit To Keep Him Under Custody",
+    "lang": "english"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Karnataka High Court Grants Bail To Juvenile Accused Of ...",
+      "url": "https://www.livelaw.in/high-court/karnataka-high-court/karnataka-high-court-grants-bail-juvenile-penetrative-sexual-assault-minor-victim-232888",
+      "snippet": "Jul 17, 2023 — The Karnataka High Court recently granted bail to a juvenile accused of committing penetrative sexual assault on a minor, directing his mother to execute ...Read more",
+      "bm25_score_raw": 6.447687550396221,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9073057770729065,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "\"Parents would think twice before sending girls school\": Karnataka HC denies Bail to Govt teacher accused of sexual harassment",
+      "url": "https://lawbeat.in/news-updates/parents-would-think-twice-sending-girls-school-karnataka-hc-denies-bail-govt-school-teacher-sexual-harassment",
+      "snippet": "The teacher allegedly sexually harassed the girl students of standards IV to VI. The Karnataka High Court recently denied bail to a government primary school teacher accused of sexually assaulting minor girl students. Court noted that allegedly the teacher had not only harassed the girl students but also had threatened them of spoiling their name and future. It was only in March 2023, the villagers informed the Block Education Officer (BEO) about the illegal acts of the accused petitioner and when the BEO visited the said school, some of the girl students, who were studying in IV and V standards stated that the accused used to touch their private part of the body and talked to them in an obscene manner. Before the high court, the counsel for the accused teacher argued that the accused had been teaching at the said school for 6-7 years and there had not been any complaint against him.",
+      "bm25_score_raw": 4.886061908256453,
+      "bm25_score_norm": 0.5676367635594564,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8929277658462524,
+      "embedding_score_norm": 0.4924869136384293,
+      "embedding_rank": 2
+    },
+    {
+      "title": "High Court of Karnataka Allows Bail to Juvenile in POCSO and SC/ST Act Case — Emphasizes Prima Facie Case Requirement for Bail Denial Under Juvenile Justice Act. The court set aside the orders of the Juvenile Justice Board and Appellate Court denying bail to a 16-year-old juvenile accused of taking video of sexual assault, holding that the Board failed to record the required satisfaction under Section 12 of the Juvenile Justice Act. - Lawtext",
+      "url": "https://lawtext.in/judgement.php?bid=73642",
+      "snippet": "# High Court of Karnataka Allows Bail to Juvenile in POCSO and SC/ST Act Case — Emphasizes Prima Facie Case Requirement for Bail Denial Under Juvenile Justice Act. The court set aside the orders of the Juvenile Justice Board and Appellate Court denying bail to a 16-year-old juvenile accused of taking video of sexual assault, holding that the Board failed to record the required satisfaction under Section 12 of the Juvenile Justice Act. High Court: Karnataka High Court Bench: BENGALURU  In Favour of Accused. The petitioner, a 16-year-old juvenile (CCWL-4), filed a criminal revision petition under Section 102 of the Juvenile Justice (Care and Protection of Children) Act, 2015, challenging the orders of the Juvenile Justice Board, Dharwad, dated 11.03.2022 in JC No. 10/2022 and the II Additional Sessions Judge, Dharwad, dated 04.06.2022 in Criminal Appeal No. 35/2022, which denied him bail.",
+      "bm25_score_raw": 5.872093833026085,
+      "bm25_score_norm": 0.8406368621252943,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8912453055381775,
+      "embedding_score_norm": 0.4330996583239358,
+      "embedding_rank": 3
+    },
+    {
+      "title": "The Karnataka High Court refused bail to a 23-year-old ...",
+      "url": "https://www.instagram.com/p/DZFIuQnCWhT?hl=en",
+      "snippet": "student accused of sexually assaulting a former classmate in 2023. The order was passed by Justice R Nataraj while hearing the student's",
+      "bm25_score_raw": 2.9936665696969693,
+      "bm25_score_norm": 0.04369418018623463,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8893440961837769,
+      "embedding_score_norm": 0.3659910288993991,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Karnataka High Court Upholds Bail Cancellation in Minor ...",
+      "url": "https://supremetoday.ai/karnataka-hc-upholds-bail-cancellation-in-minor-rape-case-20260131014",
+      "snippet": "Karnataka High Court Upholds Bail Cancellation in Minor Rape Case - 2026-01-31. Subject : Criminal Law - Criminal Procedure and Bail. Listen Audio Icon ...Read more",
+      "bm25_score_raw": 2.8358503021696015,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.879366934299469,
+      "embedding_score_norm": 0.013818524565330819,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Karnataka High Court Grants Bail to 20-Year-Old Accused ...",
+      "url": "https://jgu.edu.in/child-rights-clinic/karnataka-high-court-grants-bail-to-20-year-old-accused-under-pocso-act-citing-concerns-over-exposure-to-hardened-criminals",
+      "snippet": "Jul 5, 2024 — In a recent ruling, the Karnataka High Court granted bail to a 20-year-old accused under the Prevention of Children from Sexual Offences (POCSO) Act, 2012.Read more",
+      "bm25_score_raw": 4.4275905433831255,
+      "bm25_score_norm": 0.4407009872870253,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8789754509925842,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6
+    }
+  ]
+}

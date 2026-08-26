@@ -1,0 +1,108 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1156",
+    "text": "Covid-19 in Chennai: City logs 47 cases, one death; active cases reach 255 in Tamil Nadu",
+    "lang": "english"
+  },
+  "generated_queries": {
+    "english_translation": "Covid-19 in Chennai: City logs 47 cases, one death; active cases reach 255 in Tamil Nadu",
+    "native_query": "Chennai Tamil Nadu Covid 19 City logs 47 death",
+    "english_query": "Chennai Tamil Nadu Covid 19 City logs 47 death"
+  },
+  "native_retrieval": [
+    {
+      "title": "COVID-19 pandemic in Tamil Nadu - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Tamil_Nadu",
+      "snippet": "The first case of the COVID-19 pandemic in the Indian state of Tamil Nadu was reported on 7 March 2020. The largest single-day spike (36,987 cases) was reported on 13 May 2021 and Tamil Nadu now has the fourth highest number of confirmed cases in India after Maharashtra, Kerala and Karnataka. In June, the state saw a surge in deaths with 209 deaths (36% of the state's recorded deaths) occurring between 11 and 16 June 2020. The state has 85 laboratories approved by Indian Council of Medical Research (ICMR), capable of conducting tests.The state was under a lockdown since 25 March which was relaxed to an extent from 4 May onwards. The state enforced a stricter lockdown in four majorly-affected districts, which included Chennai and its three neighbouring districts of Chengalpattu, Thiruvallur and Kancheepuram from 19 to 30 June 2020. See also: Timeline of the COVID-19 pandemic in India."
+    },
+    {
+      "title": "Covid-19: Deaths at 468, highest so far in single day in Tamil Nadu",
+      "url": "https://timesofindia.indiatimes.com/city/chennai/deaths-at-468-highest-so-far-in-single-day/amp_articleshow/82955527.cms",
+      "snippet": "CHENNAI: The state added 468 deaths highest so far that pushed the death toll to 21,340 on Tuesday. The 34,285 new cases took the case tally"
+    },
+    {
+      "title": "200 Chennai deaths 'missing' from state toll; TN govt probes | India News",
+      "url": "https://indianexpress.com/article/india/coronavirus-cases-chennai-deaths-tamil-nadu-toll-6453253/lite",
+      "snippet": "Tamil Nadu had reported 326 Covid deaths till Wednesday evening, including 260 within Chennai city limits alone."
+    },
+    {
+      "title": "Tamil Nadu Logs 421 New Covid-19 Cases; zero Fatalities",
+      "url": "https://www.outlookindia.com/amp/story/national/tamil-nadu-logs-421-new-covid-19-cases-zero-fatalities-news-223182",
+      "snippet": "Tamil Nadu on Tuesday logged 421 new Covid-19 infections, pushing the total caseload to 35,74,514 while the death toll remained unchanged at 38"
+    },
+    {
+      "title": "All-cause mortality during the COVID-19 pandemic in Chennai ...",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8694707",
+      "snippet": "by JA Lewnard · 2021 · Cited by 71 — Between March 1, 2020, and June 30, 2021, 87 870 deaths were registered in areas of Chennai district represented by the 2011 census, exceeding expected deaths"
+    },
+    {
+      "title": "Shows the number of affected cases, district wise in Tamilnadu 4",
+      "url": "https://www.researchgate.net/figure/Shows-the-number-of-affected-cases-district-wise-in-Tamilnadu-4_tbl1_342225853",
+      "snippet": "Chennai city has 20993 confirmed cases. 197 patients die due to COVID-19 from Chennai city. As on June 8, 234 people died … 8, 234 people died"
+    }
+  ],
+  "english_retrieval": [
+    {
+      "title": "COVID-19 pandemic in Tamil Nadu - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Tamil_Nadu",
+      "snippet": "The first case of the COVID-19 pandemic in the Indian state of Tamil Nadu was reported on 7 March 2020. The largest single-day spike (36,987 cases) was reported on 13 May 2021 and Tamil Nadu now has the fourth highest number of confirmed cases in India after Maharashtra, Kerala and Karnataka. In June, the state saw a surge in deaths with 209 deaths (36% of the state's recorded deaths) occurring between 11 and 16 June 2020. The state has 85 laboratories approved by Indian Council of Medical Research (ICMR), capable of conducting tests.The state was under a lockdown since 25 March which was relaxed to an extent from 4 May onwards. The state enforced a stricter lockdown in four majorly-affected districts, which included Chennai and its three neighbouring districts of Chengalpattu, Thiruvallur and Kancheepuram from 19 to 30 June 2020. See also: Timeline of the COVID-19 pandemic in India."
+    },
+    {
+      "title": "Covid-19: Deaths at 468, highest so far in single day in Tamil Nadu",
+      "url": "https://timesofindia.indiatimes.com/city/chennai/deaths-at-468-highest-so-far-in-single-day/amp_articleshow/82955527.cms",
+      "snippet": "CHENNAI: The state added 468 deaths highest so far that pushed the death toll to 21,340 on Tuesday. The 34,285 new cases took the case tally"
+    },
+    {
+      "title": "200 Chennai deaths 'missing' from state toll; TN govt probes | India News",
+      "url": "https://indianexpress.com/article/india/coronavirus-cases-chennai-deaths-tamil-nadu-toll-6453253/lite",
+      "snippet": "Tamil Nadu had reported 326 Covid deaths till Wednesday evening, including 260 within Chennai city limits alone."
+    },
+    {
+      "title": "Tamil Nadu Logs 421 New Covid-19 Cases; zero Fatalities",
+      "url": "https://www.outlookindia.com/amp/story/national/tamil-nadu-logs-421-new-covid-19-cases-zero-fatalities-news-223182",
+      "snippet": "Tamil Nadu on Tuesday logged 421 new Covid-19 infections, pushing the total caseload to 35,74,514 while the death toll remained unchanged at 38"
+    },
+    {
+      "title": "All-cause mortality during the COVID-19 pandemic in Chennai ...",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8694707",
+      "snippet": "by JA Lewnard · 2021 · Cited by 71 — Between March 1, 2020, and June 30, 2021, 87 870 deaths were registered in areas of Chennai district represented by the 2011 census, exceeding expected deaths"
+    },
+    {
+      "title": "Shows the number of affected cases, district wise in Tamilnadu 4",
+      "url": "https://www.researchgate.net/figure/Shows-the-number-of-affected-cases-district-wise-in-Tamilnadu-4_tbl1_342225853",
+      "snippet": "Chennai city has 20993 confirmed cases. 197 patients die due to COVID-19 from Chennai city. As on June 8, 234 people died … 8, 234 people died"
+    }
+  ],
+  "merged_results": [
+    {
+      "title": "COVID-19 pandemic in Tamil Nadu - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Tamil_Nadu",
+      "snippet": "The first case of the COVID-19 pandemic in the Indian state of Tamil Nadu was reported on 7 March 2020. The largest single-day spike (36,987 cases) was reported on 13 May 2021 and Tamil Nadu now has the fourth highest number of confirmed cases in India after Maharashtra, Kerala and Karnataka. In June, the state saw a surge in deaths with 209 deaths (36% of the state's recorded deaths) occurring between 11 and 16 June 2020. The state has 85 laboratories approved by Indian Council of Medical Research (ICMR), capable of conducting tests.The state was under a lockdown since 25 March which was relaxed to an extent from 4 May onwards. The state enforced a stricter lockdown in four majorly-affected districts, which included Chennai and its three neighbouring districts of Chengalpattu, Thiruvallur and Kancheepuram from 19 to 30 June 2020. See also: Timeline of the COVID-19 pandemic in India."
+    },
+    {
+      "title": "Covid-19: Deaths at 468, highest so far in single day in Tamil Nadu",
+      "url": "https://timesofindia.indiatimes.com/city/chennai/deaths-at-468-highest-so-far-in-single-day/amp_articleshow/82955527.cms",
+      "snippet": "CHENNAI: The state added 468 deaths highest so far that pushed the death toll to 21,340 on Tuesday. The 34,285 new cases took the case tally"
+    },
+    {
+      "title": "200 Chennai deaths 'missing' from state toll; TN govt probes | India News",
+      "url": "https://indianexpress.com/article/india/coronavirus-cases-chennai-deaths-tamil-nadu-toll-6453253/lite",
+      "snippet": "Tamil Nadu had reported 326 Covid deaths till Wednesday evening, including 260 within Chennai city limits alone."
+    },
+    {
+      "title": "Tamil Nadu Logs 421 New Covid-19 Cases; zero Fatalities",
+      "url": "https://www.outlookindia.com/amp/story/national/tamil-nadu-logs-421-new-covid-19-cases-zero-fatalities-news-223182",
+      "snippet": "Tamil Nadu on Tuesday logged 421 new Covid-19 infections, pushing the total caseload to 35,74,514 while the death toll remained unchanged at 38"
+    },
+    {
+      "title": "All-cause mortality during the COVID-19 pandemic in Chennai ...",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8694707",
+      "snippet": "by JA Lewnard · 2021 · Cited by 71 — Between March 1, 2020, and June 30, 2021, 87 870 deaths were registered in areas of Chennai district represented by the 2011 census, exceeding expected deaths"
+    },
+    {
+      "title": "Shows the number of affected cases, district wise in Tamilnadu 4",
+      "url": "https://www.researchgate.net/figure/Shows-the-number-of-affected-cases-district-wise-in-Tamilnadu-4_tbl1_342225853",
+      "snippet": "Chennai city has 20993 confirmed cases. 197 patients die due to COVID-19 from Chennai city. As on June 8, 234 people died … 8, 234 people died"
+    }
+  ]
+}

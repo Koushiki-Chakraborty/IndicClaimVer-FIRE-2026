@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/HI/1245",
+    "text": "सुब्रहमण्यम स्वामी ने राष्ट्रपति को लिखी चिट्ठी, की रक्षा मंत्री निर्मला सीतारमण पर कार्रवाई की मांग",
+    "lang": "hindi"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "What do you think about Subramanian Swamy's letter to seek ...",
+      "url": "https://www.quora.com/What-do-you-think-about-Subramanian-Swamys-letter-to-seek-the-prosecution-of-the-finance-secretary",
+      "snippet": "What do you think about Subramanian Swamy's letter to seek the prosecution of the finance secretary?",
+      "bm25_score_raw": 2.3659719201526213,
+      "bm25_score_norm": 0.3756768041596807,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.8903735876083374,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Subramanian Swamy ने वित्तमंत्री Nirmala Sitharaman पर कर ...",
+      "url": "https://www.youtube.com/watch?v=6mpaOEJ6HGo",
+      "snippet": "Subramanian Swamy On Nirmala Sitharaman : सुब्रमण्यम स्वामी (Subramanian Swamy) ने वित्तमंत्री निर्मला सीतरमण (Nirmala Sitharaman) पर निशाना साधा है.",
+      "bm25_score_raw": 3.8028947908422297,
+      "bm25_score_norm": 0.6669193289994256,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8858934640884399,
+      "embedding_score_norm": 0.9490384537153302,
+      "embedding_rank": 2
+    },
+    {
+      "title": "President refers BJP leader Subramanian Swamy's letter to ...",
+      "url": "https://www.youtube.com/watch?v=6EKKSrLQi7A",
+      "snippet": "President Pranab Mukherjee refers BJP leader Subramanian Swamy's letter to the Government. \"The timing of this proposed announcement will,",
+      "bm25_score_raw": 5.446237342582297,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8827736973762512,
+      "embedding_score_norm": 0.9135510090066146,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Subramanian Swamy writes to Rajnath Singh, requests President's ...",
+      "url": "https://indianexpress.com/article/india/india-news-india/jayalalithaa-health-subramanian-swamy-requests-for-presidents-rule-in-tamil-nadu-3070158/lite",
+      "snippet": "Swamy has urged Rajnath Singh to invoke Article 356 of the Constitution, put the Legislative Assembly in suspended action and to impose AFSPA in",
+      "bm25_score_raw": 4.06691219076787,
+      "bm25_score_norm": 0.7204316613064935,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8809037208557129,
+      "embedding_score_norm": 0.8922799671303315,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Subramanian Swamy Writes To Tamil Nadu CM, Warns Of Contempt Action ...",
+      "url": "https://www.verdictum.in/amp/news/subramanian-swamy-stalin-hindu-temples-supreme-court-contempt-1451182",
+      "snippet": "Dr. Subramanian Swamy has written a letter to MK Stalin, the Chief Minister of Tamil Nadu calling upon him to free Hindu Temples and Religious Institutions",
+      "bm25_score_raw": 4.820971419530357,
+      "bm25_score_norm": 0.8732680578474576,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8804600834846497,
+      "embedding_score_norm": 0.8872335780478345,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Subramanian Swamy on GDP, Says Nirmala Sitharaman ...",
+      "url": "https://www.youtube.com/watch?v=ODSKAW9uD2E",
+      "snippet": "वहीं बीजेपी सांसद सुब्रमण्यम स्वामी ने वित्तमंत्री निर्मला सीतारमण पर निशाना साधा. ... Download App: https://play.google.co... Subramanian Swamy on GDP, Says Nirmala",
+      "bm25_score_raw": 3.8225684183211035,
+      "bm25_score_norm": 0.6709068756218508,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8775396943092346,
+      "embedding_score_norm": 0.8540140591057389,
+      "embedding_rank": 6
+    },
+    {
+      "title": "Sweet Dreams: What Subramanian Swamy said to Nirmala Sitharaman ...",
+      "url": "https://theprint.in/india/sweet-dreams-what-subramanian-swamy-said-to-nirmala-sitharaman-after-budget/259609?amp=",
+      "snippet": "BJP's Subramanian Swamy mocked Finance Minister Nirmala Sitharaman on Twitter, where he quoted paragraphs from the budget and questioned govt figures.",
+      "bm25_score_raw": 3.4013301706560797,
+      "bm25_score_norm": 0.5855282562738593,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8724973201751709,
+      "embedding_score_norm": 0.7966568943587296,
+      "embedding_rank": 7
+    },
+    {
+      "title": "Urgent Action on Delayed Corruption Cases | PDF | Justice | Crime & Violence",
+      "url": "https://www.scribd.com/document/523027056/Subramanian-Swamy-s-Letter-to-PM-Narendra-Modi-on-Delay-in-Corruption-Cases",
+      "snippet": "Subramanian Swamy's Letter to PM Narendra Modi on Delay in Corruption Cases - Read online for free. 1) The letter summarizes delays in the prosecution of",
+      "bm25_score_raw": 2.645524901366933,
+      "bm25_score_norm": 0.43233796373622774,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.8720473051071167,
+      "embedding_score_norm": 0.7915379587718894,
+      "embedding_rank": 8
+    },
+    {
+      "title": "BJP's Subramanian Swamy Says FM Nirmala Sitharaman's ...",
+      "url": "https://www.facebook.com/hwnewsenglish/videos/bjps-subramanian-swamy-says-fm-nirmala-sitharamans-budget-should-be-scrapped/1152562106788196",
+      "snippet": "निर्मला सीतारमण आजके समय देश की आर्थिक स्थिति से बिल्कुल अनजान हैं,उसे तुरंत हटा देना चाहिए। 6mo. 3.",
+      "bm25_score_raw": 2.224576330539768,
+      "bm25_score_norm": 0.34701805750037773,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.859721839427948,
+      "embedding_score_norm": 0.6513353980836875,
+      "embedding_rank": 9
+    },
+    {
+      "title": "निर्मला सीतारमण को कुछ नहीं आता! | Subramanian Swamy ...",
+      "url": "https://www.youtube.com/shorts/uYdONnN05Yw",
+      "snippet": "निर्मला सीतारमण को कुछ नहीं आता! | Subramanian Swamy Podcast | Nirmala Sitharaman | Modi | SKT. अमित शाह पर सुब्रमण्यम स्वामी के विवादित बोल | Subramanian Swamy",
+      "bm25_score_raw": 3.837887327680253,
+      "bm25_score_norm": 0.6740117867695233,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8548315763473511,
+      "embedding_score_norm": 0.5957085013655015,
+      "embedding_rank": 10
+    },
+    {
+      "title": "वो कुछ भी कह सकती हैं, निर्मला सीतारमण के ज्ञान पर बोले ...",
+      "url": "https://www.jansatta.com/national/ex-bjp-mp-subramanian-swamy-lashes-out-at-finance-minister-nirmala-sitharaman-and-media/2384445",
+      "snippet": "Subramanian Swamy: भाजपा नेता और पूर्व राज्यसभा सांसद सुब्रमण्यम स्वामी ने अपने एक ट्वीट में वित्त मंत्री निर्मला सीतारमण पर निशाना साधा है। स्वामी ने निर्मला सीतारमण के ज्ञान पर सवाल उठाया है।",
+      "bm25_score_raw": 1.6663756950182431,
+      "bm25_score_norm": 0.23387923441350064,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.8362910151481628,
+      "embedding_score_norm": 0.38480903319239873,
+      "embedding_rank": 11
+    },
+    {
+      "title": "रुपये नहीं गिर रहा, डॉलर हो रहा मजबूत, वित्त मंत्री के बयान पर ...",
+      "url": "https://www.jansatta.com/national/subramanian-swamy-took-a-jibe-at-finance-minister-sitharaman-statement-that-dollar-growing-stronger-rupee-was-not-weakening/2427538",
+      "snippet": "बता दें, निर्मला सीतारमण ने दिल्ली के जवाहर लाल नेहरू यूनिवर्सिटी से उच्च शिक्षा हासिल की है। उन्होंने जेएनयू से पहले अर्थशास्त्र में एमए किया फिर एफफिल की डिग्री हासिल की। सुब्रमण्यम स्वामी की यह टिप्पणी निर्मला",
+      "bm25_score_raw": 0.5124699558304152,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.8024617433547974,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

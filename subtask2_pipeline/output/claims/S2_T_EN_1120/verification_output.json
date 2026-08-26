@@ -1,0 +1,6 @@
+{
+  "ID": "S2/T/EN/1120",
+  "Evidence": "The U.S. Supreme Court upheld the CMS COVID-19 vaccination mandate for healthcare personnel in a 5-4 decision, allowing mandatory vaccinations for employees of Medicare and Medicaid funded healthcare facilities to protect patients (Source 1). However, the Court struck down the OSHA COVID-19 vaccination and testing emergency temporary standard, ruling that OSHA exceeded its authority in requiring vaccinations or testing for all employers with over 100 employees (Source 1). This indicates that while mandatory vaccination was allowed in healthcare settings, it was not universally mandated across all workplaces (Source 2).",
+  "Prediction": "SUPPORTS",
+  "Justification": "The retrieved evidence confirms that the Supreme Court allowed mandatory vaccinations specifically for healthcare personnel under the CMS mandate, which aligns with the claim. The ruling indicates that the Court recognized the authority of CMS to impose such requirements during the COVID-19 surge, thereby supporting the claim's assertion about mandatory vaccination."
+}

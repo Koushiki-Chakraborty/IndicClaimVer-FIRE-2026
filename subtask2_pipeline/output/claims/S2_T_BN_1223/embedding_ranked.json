@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/BN/1223",
+    "text": "‘করোনা উপসর্গ সত্ত্বেও ফিরিয়ে দেন ডাক্তাররা’, ভয়াবহ অভিজ্ঞতা অভিনেত্রী শ্রিয়ার",
+    "lang": "bengali"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Shriya Saran reveals husband Andrei was turned away ...",
+      "url": "https://www.onmanorama.com/entertainment/entertainment-news/2020/04/15/shriya-saran-husband-andrei-turned-away-from-hospital-despite-coronavirus-symptoms.html",
+      "snippet": "“Andrei began to develop a dry cough and fever. We rushed to a hospital but the doctors were overwhelmed and urged us to leave. 'Chances are",
+      "bm25_score_raw": 1.4794685827724976,
+      "bm25_score_norm": 0.4456561380875668,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8750629425048828,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Drishyam actress Shriya Saran opens up about her ...",
+      "url": "https://www.bollywoodhungama.com/news/bollywood/drishyam-actress-shriya-saran-opens-husband-getting-covid-19-symptoms",
+      "snippet": "Shriya's husband started showing symptoms of COVID-19 - fever and dry cough. they rushed to the hospital but the doctors urged them to leave …",
+      "bm25_score_raw": 3.3197536314013414,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8734914064407349,
+      "embedding_score_norm": 0.9852744056368989,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Shriya Saran reveals her husband had COVID-19 symptoms ...",
+      "url": "https://www.zoomtventertainment.com/tamil-cinema/article/shriya-saran-reveals-her-husband-had-covid-19-symptoms-but-was-turned-away-from-hospital/578186",
+      "snippet": "Drishyam actress Shriya Saran spoke to a leading daily and said that her husband had developed coronavirus symptoms but they took home treatment to recover.",
+      "bm25_score_raw": 1.9547824751284866,
+      "bm25_score_norm": 0.5888335979629096,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8594971895217896,
+      "embedding_score_norm": 0.8541459088248566,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Shriya Saran Shares Her Experience About Husband ...",
+      "url": "https://www.news18.com/news/movies/shriya-saran-shares-her-experience-about-husband-having-covid-19-like-symptoms-2577535.html",
+      "snippet": "Another wave of shock hit them when Shriya's husband Andrei began to develop COVID-19 symptoms – dry cough and fever. “We rushed to a hospital",
+      "bm25_score_raw": 2.481011475227145,
+      "bm25_score_norm": 0.7473480717844279,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8592934608459473,
+      "embedding_score_norm": 0.852236932054278,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Shriya Saran says husband Andrei turned away from ...",
+      "url": "https://www.hindustantimes.com/bollywood/shriya-saran-says-husband-andrei-turned-away-from-hospital-despite-covid-19-symptoms-doctors-overwhelmed-asked-us-to-go/story-WFVj7k1gqYAD7INqiYcHYK.html",
+      "snippet": "Actor Shriya Saran has revealed her husband Andrei Koscheev had Covid-19 symptoms like dry cough and fever but was turned away from the hospital in Barcelona.",
+      "bm25_score_raw": 0.3197473487668448,
+      "bm25_score_norm": 0.09631658980424772,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.8572796583175659,
+      "embedding_score_norm": 0.8333672160885748,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Noted actor's husband suspected of COVID-19, when ...",
+      "url": "https://keralakaumudi.com/en/india/general/noted-actor%E2%80%99s-husband-suspected-of-covid-19-when-reached-hospital-doctors-revealed-something-else-283653",
+      "snippet": "Shriya Saran has revealed her husband Andrei Koscheev had Covid-19 symptoms like dry cough and fever but was turned away from the hospital in",
+      "bm25_score_raw": 0.33207165771289016,
+      "bm25_score_norm": 0.10002900654188467,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8465346097946167,
+      "embedding_score_norm": 0.7326840503817954,
+      "embedding_rank": 6
+    },
+    {
+      "title": "Shreya Ghoshal: বিদেশের মাটিতে বড় বিপর্যয়, কণ্ঠস্বর ...",
+      "url": "https://tv9bangla.com/photo-gallery/entertainment-photos/did-you-know-shreya-ghoshal-once-lost-her-voice-a-day-before-a-big-concert-965538.html",
+      "snippet": "তাঁর গায়কীর মধ্যে দিয়ে মন ছুঁয়ে নেন সকলের। কিছু দিন আগেই কলকাতায় পারফর্ম করতে দেখা গিয়েছে তাঁকে। Shreya Ghoshal: বিদেশের মাটিতে বড় বিপর্যয়, কণ্ঠস্বর হারিয়ে চরম দুর্ভোগের শিকার শ্রেয়া. হাউহাউ করে কাঁদছেন",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.8192621469497681,
+      "embedding_score_norm": 0.47713584229550826,
+      "embedding_rank": 7
+    },
+    {
+      "title": "Shreya Ghosal : 'এ যে শরীরের চিৎকার...' কলকাতার কনসার্টে ...",
+      "url": "https://www.editorji.com/bengali/kolkata/shreya-ghoshal-sings-song-to-protest-against-rg-kar-case-1729430016920",
+      "snippet": "একইসঙ্গে তিনি জানিয়েছিলেন, আর জি করের ঘটনা তাঁকে যন্ত্রণা দিয়েছে । গভীরভাবে তাঁকে প্রভাবিত করেছে । শ্রেয়া লিখেছিলেন, \"কলকাতায় সম্প্রতি যে নৃশংস ঘটনা ঘটেছে, আমাকে তা গভীরভাবে প্রভাবিত করেছে। একজন মহিলা হিসাবে",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.8085989952087402,
+      "embedding_score_norm": 0.37722006514425116,
+      "embedding_rank": 8
+    },
+    {
+      "title": "Shreya Ghosal: 'This is the scream of the body' Shreya's protest ...",
+      "url": "https://www.youtube.com/watch?v=gdESG9Zg_3s",
+      "snippet": "Shreya Ghosal: 'This is the scream of the body' Shreya's protest song at the Kolkata concert, Official Tumi Bondhu Aaj Shunbe (Official Video) |",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.7996364235877991,
+      "embedding_score_norm": 0.2932390499126495,
+      "embedding_rank": 9
+    },
+    {
+      "title": "এ যে শরীরের চিৎকার...! আরজি কর নিয়ে এবার গানের সুরে ...",
+      "url": "https://www.etvbharat.com/bn/!entertainment/shreya-ghoshal-protests-in-rg-kar-doctor-rape-and-murder-through-song-in-kolkata-concert-west-bengal-news-wbs24102002453",
+      "snippet": "এ যে শরীরের চিৎকার...! আরজি কর নিয়ে এবার গানের সুরে প্রতিবাদী শ্রেয়া, শুনে নিন · এলেন, গাইলেন, মুগ্ধ করলেন, সকলকে স্তব্ধ করে ছাড়লেন অডিটোরিয়াম । শ্রেয়া ঘোষালের গানের সুরে শোনা গেল আরজি কর-কাণ্ডের প্রতিবাদ",
+      "bm25_score_raw": 1.9262879534084867,
+      "bm25_score_norm": 0.580250273751597,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.778523325920105,
+      "embedding_score_norm": 0.09540527498648413,
+      "embedding_rank": 10
+    },
+    {
+      "title": "'আর গান গাইব না', অরিজিতের পর এবার কোন পথে হাঁটা বন্ধ করলেন ...",
+      "url": "https://www.thewall.in/entertainment/shreya-ghoshal-seals-big-decision-amid-raunchy-song-controversy/tid/188388",
+      "snippet": "প্রসঙ্গত, ২০২৫ সালে কনটেন্ট ক্রিয়েটর লিলি সিং-এর সঙ্গে এক আলাপচারিতায় শ্রেয়া বলেছিলেন, সংবেদনশীল ও আবেদনময় গানের সঙ্গে সরাসরি নারীর বস্তুতান্ত্রিক উপস্থাপনার মধ্যে সূক্ষ্ম পার্থক্য রয়েছে। তিনি লক্ষ্য করেছেন",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.7772946953773499,
+      "embedding_score_norm": 0.08389277113278615,
+      "embedding_rank": 11
+    },
+    {
+      "title": "কলকাতায় এসে আরজি কর কাণ্ডের প্রতিবাদে সরব শ্রেয়া, গাইলেন, 'এ ...",
+      "url": "https://bengali.abplive.com/entertainment/shreya-ghoshal-concert-at-kolkata-sang-for-rg-kar-protest-against-woman-safety-1101004",
+      "snippet": "নারী নির্যাতনের বিরুদ্ধে শ্রেয়ার গলায় শোনা গেল প্রতিবাদের ভাষা। কলকাতার আরজি করের ঘটনার প্রতিবাদে সামিল হয়েছে গোটা বিশ্ব। এই নিয়ে ইতিমধ্যেই গান লিখেছেন অরিজিৎ সিংহ (Arijit Singh)। আর কবে? সেই গান ছড়িয়ে",
+      "bm25_score_raw": 1.3462331381700963,
+      "bm25_score_norm": 0.40552200182452136,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.7683415412902832,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/1204",
+    "text": "বাজারে ভিড় আর পাঁচদিনের মতোই! লকডাউনেও সপ্তাহান্তের ছবি বাড়াচ্ছে উদ্বেগ",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Bond market anxiety is growing over AI capex budgets - CNBC",
+      "url": "https://www.cnbc.com/2026/07/24/bond-market-anxiety-ai-capex-spending.html",
+      "snippet": "* Yields climbed this week after Alphabet lifted its capex forecast for its AI buildout, raising concerns that other hyperscalers would do the same. * Google, Amazon and Meta are seeing credit spreads widen as fixed-income investors demand more reward on the companies they lend to. * Oracle's 5-year credit default swap has become a go-to proxy for AI debt fears, currently trading at a multi-year high. It's playing out in real time in the bond market, where the biggest names involved in the blitz — Google, Amazon and Meta — are seeing credit spreads widen as fixed-income investors demand more reward to lend to the companies. The analysts added that the hyperscalers are currently on track to collectively spend more on capex than they generate in free cash flow by next year. Oracle is facing questions from investors about how active it plans to be in the debt market in the coming years, as the buildout and leasing of data centers continue to become more capital intensive.",
+      "bm25_score_raw": 2.966668175738045,
+      "bm25_score_norm": 0.6842978493516312,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8182409405708313,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "The European city overlooked by Australian tourists - have you been? - Oberon Review",
+      "url": "https://www.oberonreview.com.au/story/9314566/why-warsaw-poland-is-worth-adding-to-your-european-travel-list/",
+      "snippet": "Like a lesson in humanity, it was the stronger and purer emotion that came to define the legacy of Warsaw's Old Town. Looking at the historic centre of the Polish capital city today, it's actually hard to believe that this vast area with thousands of beautiful buildings is just decades - rather than centuries - old. Because as I walk across the cobblestones of the main square, into the streets with their medieval layout and Renaissance and Baroque facades, it feels like the layers of heritage you expect from a European capital. The city centre has been meticulously recreated to look exactly how it once did. To understand the story of Warsaw's Old Town, we need to go back to the start of World War II, when the historic centre was still a marvellous collection of original buildings, including brightly coloured merchant houses, a soaring cathedral, and historic barbican walls. The buildings look exactly like they once did, even down to the windows and the colours.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.8086894750595093,
+      "embedding_score_norm": 0.8073261905420337,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Trump's new tariff threats fuel economic uncertainty in Canada : Trump's Terms - NPR",
+      "url": "https://www.npr.org/2026/07/22/nx-s1-5902990/trumps-new-tariff-threats-fuel-economic-uncertainty-in-canada",
+      "snippet": "* Keyboard shortcuts for audio player. **Trump's new tariff threats fuel economic uncertainty in Canada : Trump's Terms**  **President Trump's renewed tariff threats are rattling businesses, consumers and lawmakers in Canada, raising concerns about the potential impact. Then, NPR's Michel Martin speaks with longtime Canadian journalist Peter Mansbridge about how Canada views President Trump's latest tariff threats. Support NPR and hear every episode of *Trump's Terms*sponsor-free with NPR+. Sign up at plus.npr.org.**. ### Trump's Terms. # Trump's new tariff threats fuel economic uncertainty in Canada. * **`<iframe src=\"https://www.npr.org/player/embed/nx-s1-5902990/nx-s1-mx-5902990-1\" width=\"100%\" height=\"290\" frameborder=\"0\" scrolling=\"no\" title=\"NPR embedded audio player\">`**. President Trump's renewed tariff threats are rattling businesses, consumers and lawmakers in Canada, raising concerns about the potential impact.",
+      "bm25_score_raw": 2.513182322847994,
+      "bm25_score_norm": 0.5796958596913447,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8026738166809082,
+      "embedding_score_norm": 0.6859772923201968,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Brent Oil Tops $90 as Middle East Attacks Threaten Hormuz Flows - Yahoo Finance",
+      "url": "https://finance.yahoo.com/energy/articles/brent-oil-tops-90-middle-225554077.html",
+      "snippet": "2. Best 0% APR cards. 3. Best balance transfer cards. 2. Best high-yield savings accounts. 3. Best money market accounts. (Bloomberg) -- Brent crude jumped after the US and Iran escalated hostilities over the weekend, including the targeting of vessels attempting to transit the Strait of Hormuz and an attack on a key oil facility in Kuwait. * Thousands of Trucks Haul Iraq's Oil Through Syria in Sign of Hormuz Legacy. * US Strikes Iran to 'Punish' It for Attack That Killed 2 Troops. Tehran said the ceasefire between the US and Iran had effectively collapsed, raising the prospect of deeper disruptions to energy flows through the strait. The Iranian Navy said Sunday that it had halted four unidentified vessels attempting to use an \"unsafe route\" through Hormuz after they disregarded warnings. Intensifying strikes over the weekend \"all point to scope for the conflict to broaden in scope and length,\" said Saul Kavonic, senior energy analyst at MST Marquee.",
+      "bm25_score_raw": 2.5804244776251224,
+      "bm25_score_norm": 0.5952060749139525,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8010050058364868,
+      "embedding_score_norm": 0.6523137521777658,
+      "embedding_rank": 4
+    },
+    {
+      "title": "OPINION: How data collaboration is helping travel advisors thrive in a crowded market - travelweekly.com.au",
+      "url": "https://travelweekly.com.au/opinion-how-data-collaboration-is-helping-travel-advisors-thrive-in-a-crowded-market/",
+      "snippet": "Reading: OPINION: How data collaboration is helping travel advisors thrive in a crowded market. # OPINION: How data collaboration is helping travel advisors thrive in a crowded market. One of the biggest opportunities emerging across the travel industry is data collaboration. **As travellers become increasingly price-conscious, data collaboration is helping travel advisors deliver more personalised recommendations, spot changing booking trends earlier, and provide better value in an increasingly competitive market, writes Melanie Hoptman (pictured), VP and Managing Director, Brands and Agencies, APAC, LiveRamp**. The travel industry continues to be in a state of flux. One of the biggest opportunities emerging across the industry is data collaboration, which involves connecting data from various sources to generate combined insights for product development, analytics, and targeted campaigns. When first-party data is safely connected with insights from airlines, hotels, destinations, or media partners, travel advisors can identify not only where someone wants to travel but why, how, and what they value most.",
+      "bm25_score_raw": 4.335346338657864,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.7971644401550293,
+      "embedding_score_norm": 0.5748411989404846,
+      "embedding_rank": 5
+    },
+    {
+      "title": "NEXT Weather: 6:30 a.m. report for Minnesota from July 22, 2026 - CBS News",
+      "url": "https://www.cbsnews.com/minnesota/video/next-weather-630-a-m-report-for-minnesota-from-july-22-2026/",
+      "snippet": "03:05 10h agoImage 31: Minneapolis residents demand change after violent weekend ### Minneapolis residents demand change after violent weekend 02:23 10h agoImage 32: Community gathers to remember St. Paul apartment employees killed in shooting ### Community gathers to remember St. Paul apartment employees killed in shooting 03:49 10h agoImage 33: Minnesota's 3M Open brings back former Gophers ### Minnesota's 3M Open brings back former Gophers 02:41 14h agoImage 34: NEXT Weather: 6 p.m. report for Minnesota on July 21, 2026 ### NEXT Weather: 6 p.m. report for Minnesota on July 21, 2026 02:43 14h agoImage 35: Twin Cities family self deports in hopes of returning to US ### Twin Cities family self deports in hopes of returning to US 04:52 14h agoImage 36: Neighbors react after back-to-back shootings on Minneapolis block ### Neighbors react after back-to-back shootings on Minneapolis block 02:36 14h agoImage 37: Search for pets continues days after devastating St. Louis Park apartment fire ### Search for pets continues days after devastating St. Louis Park apartment fire 02:07 14h agoImage 38: Researchers study how Minnesotans mobilize, care for community through difficulties ### Researchers study how Minnesotans mobilize, care for community through difficulties 02:44 15h agoImage 39: Wildfires driving northern Minnesota tourism to a halt ### Wildfires driving northern Minnesota tourism to a halt 01:44 15h agoImage 40: Twin Cities officer stabbed inside CVS store ### Twin Cities officer stabbed inside CVS store 01:18 15h agoImage 41: Disgruntled tenant executed 3 over Twin Cities parking contract dispute, charges say ### Disgruntled tenant executed 3 over Twin Cities parking contract dispute, charges say 02:47 15h agoImage 42: NEXT Weather: 5 p.m. report for Minnesota on July 21, 2026 ### NEXT Weather: 5 p.m. report for Minnesota on July 21, 2026 02:48 15h agoImage 43: North Minneapolis shopping center invites residents to buy in as co-owners for as little as $1,000 ### North Minneapolis shopping center invites residents to buy in",
+      "bm25_score_raw": 2.6193838570443018,
+      "bm25_score_norm": 0.6041925263703869,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.7886761426925659,
+      "embedding_score_norm": 0.403613798708911,
+      "embedding_rank": 6
+    },
+    {
+      "title": "Cybersecurity expert raises concerns about OpenAI hack on another company - CBS News",
+      "url": "https://www.cbsnews.com/boston/video/cybersecurity-expert-raises-concerns-about-openai-hack-on-another-company/",
+      "snippet": "# Cybersecurity expert raises concerns about OpenAI hack on another company. Cyber security experts are raising concerns about the growing capabilities of artificial intelligence after an AI agent developed by OpenAI escaped its testing environment. WBZ-TV's Logan Hall reports.",
+      "bm25_score_raw": 2.928457456579609,
+      "bm25_score_norm": 0.6754840854274634,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.7869706153869629,
+      "embedding_score_norm": 0.3692096077797189,
+      "embedding_rank": 7
+    },
+    {
+      "title": "On Thin Ice by Charlie Walker review – a Siberian adventure goes off the rails - The Guardian",
+      "url": "https://www.theguardian.com/books/2026/jul/22/on-thin-ice-by-charlie-walker-review-a-siberian-adventure-goes-off-the-rails",
+      "snippet": "# On Thin Ice by Charlie Walker review – a Siberian adventure goes off the rails. “The plan,” he writes, “was simple in concept.” A sub-zero camping trip through a region populated by wolves and bears and scarred by centuries of historical trauma, in a country that was about to invade one of its neighbours: what could possibly go wrong? On Thin Ice is Walker’s third travelogue. Reading his latest, it’s clear he’s familiar with the terrain on both sides of that line. But, reasoning that “Yakutsk is comfortably closer to the Alaskan city of Anchorage than it is to Kyiv”, he presses on. Armed with a flare gun, a can of pepper spray and a dagger for protection from the wolves and bears, Walker spends weeks trudging along ice roads – *zimniki* – by day, shivering in his tent at night, and occasionally experiencing the extremes of Siberian hospitality.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.7838606834411621,
+      "embedding_score_norm": 0.30647552425691443,
+      "embedding_rank": 8
+    },
+    {
+      "title": "Christopher Nolan's The Odyssey Becomes the Biggest Hollywood Box Office Opening of 2026 in India - IGN India",
+      "url": "https://in.ign.com/the-odyssey-2026/266646/christopher-nolans-the-odyssey-becomes-the-biggest-hollywood-box-office-opening-of-2026-in-india",
+      "snippet": "[The Odyssey [2026]](https://in.ign.com/the-odyssey-2026 \"The Odyssey [2026]\"). # Christopher Nolan's The Odyssey Becomes the Biggest Hollywood Box Office Opening of 2026 in India. ### A record-setting voyage at the Indian box office. Updated: July 22, 2026, 3:02 p.m. Related reads:The Odyssey Isn't 100% Matt Damon's Bulging Biceps — for One Scene His Stunt Double Was a Woman Who Had 'The Greatest Arms I've Ever Seen'. Christopher Nolan's The Odyssey has become the biggest opening for a Hollywood film in India in 2026. According to Sacnilk, the film has surpassed Evil Dead Burn, which previously held the record with ₹12.65 crore collected during its opening three days. The Odyssey earned India gross of ₹73.19 crore and an India net collection of ₹61.30 crore in its first weekend. Here's the day-wise box office breakdown:. The film has also delivered Christopher Nolan's biggest opening weekend in India. Its ₹73 crore opening weekend has comfortably surpassed the opening weekend collection of Oppenheimer, which earned ₹42.40 crore during its first three days in July 2023.",
+      "bm25_score_raw": 2.967689719911787,
+      "bm25_score_norm": 0.6845334808546171,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.78095543384552,
+      "embedding_score_norm": 0.24787032839926848,
+      "embedding_rank": 9
+    },
+    {
+      "title": "US on track to have historically low number of homicides in 2026, report says - Chicago Tribune",
+      "url": "https://www.chicagotribune.com/2026/07/23/us-homicides-2026-numbers-report/",
+      "snippet": "Crime and Public Safety |   US on track to have historically low number of…. # US on track to have historically low number of homicides in 2026, report says. LOS ANGELES — Data collected from 30 American cities showed an 18% decrease in the homicide rate from 2025 compared to the same period in 2026, translating to about 215 fewer homicides this year, according to a new report from the independent Council on Criminal Justice. That suggests the most significant factors contributing to the improvements are taking place nationwide and are not specific to a single local public safety measure, said Adam Gelb, the president and CEO of the Council on Criminal Justice, a nonpartisan think tank for criminal justice policy and research. Notably, Gelb said that a significant number of violent crimes were less deadly: There was a 23% drop in the lethality of the crimes committed, which is measured by the share of serious violent crime that is fatal.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.7794842720031738,
+      "embedding_score_norm": 0.218193798011545,
+      "embedding_rank": 10
+    },
+    {
+      "title": "Where Minnesota officials are testing speed safety cameras - CBS News",
+      "url": "https://www.cbsnews.com/minnesota/video/where-minnesota-officials-are-testing-speed-safety-cameras/",
+      "snippet": "# Where Minnesota officials are testing speed safety cameras. Drivers traveling through some Minnesota construction zones will soon notice something new. The Minnesota Department of Transportation is launching a pilot program using speed safety cameras in two work zones. Photojournalist Nick Lunemann and Jeff Wagner show what to expect.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.7687653303146362,
+      "embedding_score_norm": 0.001969457773887491,
+      "embedding_rank": 11
+    },
+    {
+      "title": "Mamdani admin wants sweeping powers to OK new bike and bus lanes — deepening fight over NYC streets - New York Post",
+      "url": "https://nypost.com/2026/07/23/us-news/mamdani-backed-charter-amendment-would-strip-bike-lane-opponents-of-legal-leverage/",
+      "snippet": "# Mamdani admin wants sweeping powers to OK new bike and bus lanes — deepening fight over NYC streets. The Mamdani administration wants to give the Department of Transportation sweeping new power to approve new bike and bus lanes, claiming it’ll speed up such projects by 33% — deepening an already bitter fight over the city’s streets. Mayor Zohran Mamdani’s office, in a press release detailing the five ballot questions, touted that the proposal would “Speed up street safety projects, including bike lanes, by at least 33%.”. New York City has more than 1,316 miles of cycling lanes, including more than 140 miles of on-street protected bike lanes, according to DOT. The agency installed 27.9 miles of new protected bike lanes in fiscal year 2025 and DOT Commissioner Mike Flynn told the City Council in early March that the agency expected to outperform that in 2026, but didn’t give a target.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.7686676979064941,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

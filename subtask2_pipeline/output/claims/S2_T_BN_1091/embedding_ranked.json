@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/BN/1091",
+    "text": "লকডাউনে একঘেয়ে জীবন? এবার নিখরচায় দেখুন YouTube-এর একগুচ্ছ প্রিমিয়াম শো",
+    "lang": "bengali"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "The joy of watching strangers' boring lives on YouTube",
+      "url": "https://www.avclub.com/the-joy-of-watching-strangers-boring-lives-on-youtube-1798262358",
+      "snippet": "Daily vlogs revel in the mundane aspects of life. These vloggers don't just capture their most exciting days. They also capture the days where they do nothing",
+      "bm25_score_raw": 0.9038478999900974,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.8454107046127319,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Is it just me, or is YouTube incredibly boring now? : r/GenZ",
+      "url": "https://www.reddit.com/r/GenZ/comments/1feg786/is_it_just_me_or_is_youtube_incredibly_boring_now",
+      "snippet": "It’s gotten so boring I thinking I’ll stick to regular shows and movies for entertainment now",
+      "bm25_score_raw": 1.0078048469538146,
+      "bm25_score_norm": 0.1095915599788539,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.8407626152038574,
+      "embedding_score_norm": 0.942669989634106,
+      "embedding_rank": 2
+    },
+    {
+      "title": "This Boring YouTube Channel Makes More Than Most Doctors",
+      "url": "https://www.youtube.com/watch?v=3tmT4Fei97A",
+      "snippet": "The \"boring\" channel secret hiding in plain sight 2:31 - The hidden content web most creators never think to build. The lifestyle aesthetic",
+      "bm25_score_raw": 0.9529997495363867,
+      "bm25_score_norm": 0.05181594905344607,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.8366771936416626,
+      "embedding_score_norm": 0.8922799820618572,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Our Boring Life",
+      "url": "https://www.youtube.com/c/OurBoringLife",
+      "snippet": "Welcome to Our Boring Life! We have a lot of CRAZY adventures coming your way so yeah... come BORED with us!",
+      "bm25_score_raw": 1.150846787246723,
+      "bm25_score_norm": 0.2603865750014977,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.8229568600654602,
+      "embedding_score_norm": 0.7230519838556715,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Why I Choose to Live a \"Boring\" Life",
+      "url": "https://www.youtube.com/watch?v=TjPlZrpmEdA",
+      "snippet": "Why I Choose to Live a \"Boring\" Life. You aren't living a boring life, you're living your best life! Best Kept Secret – Live a Boring Life!",
+      "bm25_score_raw": 0.9854856378455247,
+      "bm25_score_norm": 0.08606261828604496,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.8157416582107544,
+      "embedding_score_norm": 0.6340589459135587,
+      "embedding_rank": 5
+    },
+    {
+      "title": "YouTubeLock",
+      "url": "https://www.youtube.com/hashtag/youtubelock",
+      "snippet": "How to Lock YouTube on Your Smart TV 🔒 - (Step by Step Guide) How to Put a Lock on YouTube | How to Set a Lock for YouTube Upcoming Updates",
+      "bm25_score_raw": 1.569367746748975,
+      "bm25_score_norm": 0.7015919602626359,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8090330362319946,
+      "embedding_score_norm": 0.5513141159950891,
+      "embedding_rank": 6
+    },
+    {
+      "title": "Stop Living a Boring Life",
+      "url": "https://www.youtube.com/watch?v=YeLnXPxMgoo",
+      "snippet": "Modern society wants to keep you unhealthy, unhappy, and hedonistic. Stop Living a Boring Life likes8.4K views3 years ago",
+      "bm25_score_raw": 1.575405114792498,
+      "bm25_score_norm": 0.7079565621616035,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.7987831830978394,
+      "embedding_score_norm": 0.4248913786639024,
+      "embedding_rank": 7
+    },
+    {
+      "title": "ইউটিউব সেই আপডেট | YouTube New Update Lock Screen | YouTube ...",
+      "url": "https://www.youtube.com/watch?v=INMB3unZLGA",
+      "snippet": "ইউটিউব সেই আপডেট | YouTube New Update Lock Screen | YouTube Lock Screen Option HEY In This Video I Will Show - How To Use Lock Screen",
+      "bm25_score_raw": 1.6376011270424085,
+      "bm25_score_norm": 0.773523685918235,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.7974316477775574,
+      "embedding_score_norm": 0.40822140373319216,
+      "embedding_rank": 8
+    },
+    {
+      "title": "Youtube অ্যাপ লক কিভাবে করব || YouTube a Lock Kivabe Lagabo ...",
+      "url": "https://www.youtube.com/watch?v=ssgPmIu-uLM",
+      "snippet": "Youtube অ্যাপ লক কিভাবে করব || YouTube a Lock Kivabe Lagabo || How To Lock YouTube App Friends, Ajker ai video te dekhanu hoyeche kivabe YouTube",
+      "bm25_score_raw": 1.8233694629858033,
+      "bm25_score_norm": 0.9693609274430169,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.7926984429359436,
+      "embedding_score_norm": 0.34984157091080187,
+      "embedding_rank": 9
+    },
+    {
+      "title": "YouTube pe Lock kaise lagaye | How to enable lock for Youtube ...",
+      "url": "https://www.youtube.com/watch?v=vBpbR1CV7tg",
+      "snippet": "YouTube pe Lock kaise lagaye | How to enable lock for Youtube | Youtube app lock kaise kare. 1.4K views · 2 years ago.",
+      "bm25_score_raw": 1.757342156526707,
+      "bm25_score_norm": 0.8997548479322391,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.7909086346626282,
+      "embedding_score_norm": 0.32776589253288047,
+      "embedding_rank": 10
+    },
+    {
+      "title": "YouTube App Lock Kivabe Korbo | How To Lock YouTube App ...",
+      "url": "https://www.youtube.com/watch?v=Rd_3idilXXM",
+      "snippet": "How To Lock YouTube App | YouTube Lock Settings. Jodi অ্যাপ লক কিভাবে করে … ️ YouTube App Lock Kivabe Korbo | How To Lock YouTube App | YouTube Lock",
+      "bm25_score_raw": 1.85243323798306,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.7896010279655457,
+      "embedding_score_norm": 0.31163773773553,
+      "embedding_rank": 11
+    },
+    {
+      "title": "YouTube অ্যাপের স্ক্রিন লক করা - YouTube সহায়তা",
+      "url": "https://support.google.com/youtube/answer/14001626?hl=bn",
+      "snippet": "YouTube অ্যাপের স্ক্রিন লক করা. YouTube মোবাইল অ্যাপে ভিডিও দেখার সময় কোনও রকমের বিঘ্ন এড়াতে আপনি স্ক্রিন লক করতে পারেন। স্ক্রিন লক করলে, প্লেব্যাক চলার সময় অনিচ্ছাকৃত ট্যাপ বা সোয়াইপের সমস্যা আটকানো সম্ভব।",
+      "bm25_score_raw": 1.6186936092189557,
+      "bm25_score_norm": 0.7535913539854457,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.7643346786499023,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

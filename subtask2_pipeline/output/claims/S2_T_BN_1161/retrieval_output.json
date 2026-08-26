@@ -1,0 +1,98 @@
+{
+  "claim": {
+    "id": "S2/T/BN/1161",
+    "text": "স্কুল-কলেজ ও ধর্মস্থানে লকডাউন বাড়ানোর পরামর্শ মন্ত্রী গোষ্ঠীর! তুঙ্গে জল্পনা",
+    "lang": "bengali"
+  },
+  "generated_queries": {
+    "english_translation": "The suggestion of the ministerial group to extend the lockdown in schools, colleges and places of worship! Speculation abounds",
+    "native_query": "কল ধর মস লকড উন মর মন জল",
+    "english_query": "suggestion ministerial extend lockdown schools colleges worship Speculation"
+  },
+  "native_retrieval": [
+    {
+      "title": "Koli Yuge Mon Kalo - Song",
+      "url": "https://www.jiosaavn.com/song/koli-yuge-mon-kalo/QzdGBg0FdQE",
+      "snippet": "Koli Yuge Mon Kalo is a Bengali language song and is sung by Pramathes Das. was released in the year 2018. The duration of the song is 4:28."
+    },
+    {
+      "title": "Amar Jomunar Jol Dekhte Kalo Remix | VDJ NIROB",
+      "url": "https://music.youtube.com/podcast/4mN00JvMLGg",
+      "snippet": "May 28, 2023 — Amar Jomunar Jol Dekhte Kalo Remix | VDJ NIROB | যমুনার জল দেখতে কালো | Bengali Folk Song | Dj Remix Hi Guys, Presenting you \"Amar Jomunar Jol Remix\" ...Read more"
+    }
+  ],
+  "english_retrieval": [
+    {
+      "title": "On Monday, Minister of State for Education, Emeka ...",
+      "url": "https://www.facebook.com/channelsforum/posts/on-monday-minister-of-state-for-education-emeka-nwajiuba-apologised-for-the-cont/3401223759889725",
+      "snippet": "Ministry of General Education has lifted the ban that prohibited churches from holding worship services in schools following the Covid-19"
+    },
+    {
+      "title": "CHURCHES TO RESUME WORSHIPPING FROM ...",
+      "url": "https://www.facebook.com/fyambemedia/posts/churches-to-resume-worshipping-from-schoolsministry-of-general-education-has-lif/346726640094418",
+      "snippet": "Ministry of General Education has lifted the ban that prohibited churches from holding worship services in schools following the Covid-19"
+    },
+    {
+      "title": "State of emergency: As coronavirus spreads, governor ...",
+      "url": "https://mississippitoday.org/2020/03/14/state-of-emergency-governor-urges-mississippi-churches-to-cancel-services-and-schools-to-extend-spring-break",
+      "snippet": "Mar 14, 2020 — State of emergency: As coronavirus spreads, governor urges Mississippi churches to cancel services and schools to extend spring break.Read more"
+    },
+    {
+      "title": "Schools to reopen or vacations extended? Govt to decide ...",
+      "url": "https://www.facebook.com/100063736372615/posts/schools-to-reopen-or-vacations-extended-govt-to-decide-soon/1622986499835880",
+      "snippet": "The Government has clarified that all private and government schools will reopen after a short summer break of ten days from tomorrow (Monday)."
+    },
+    {
+      "title": "a study on the essence of worship in online worship groups",
+      "url": "https://digitalcommons.liberty.edu/cgi/viewcontent.cgi?article=4222&context=doctoral",
+      "snippet": "by N Kim · 2021 · Cited by 3 — ministers who conducted online worship under the COVID-19 pandemic. The researcher reached out to CKCGW. This is an assembly of Korean ...Read more"
+    },
+    {
+      "title": "Adventist Schools, COVID-19, and the Big Government ...",
+      "url": "https://spectrummagazine.org/news/adventist-schools-covid-19-and-big-government-bailout-funding-jeopardy",
+      "snippet": "Dec 10, 2020 — The Chesapeake Conference recommended that schools under its auspices not accept federal funds made available through the Coronavirus Aid, Relief and Economic ...Read more"
+    }
+  ],
+  "merged_results": [
+    {
+      "title": "Koli Yuge Mon Kalo - Song",
+      "url": "https://www.jiosaavn.com/song/koli-yuge-mon-kalo/QzdGBg0FdQE",
+      "snippet": "Koli Yuge Mon Kalo is a Bengali language song and is sung by Pramathes Das. was released in the year 2018. The duration of the song is 4:28."
+    },
+    {
+      "title": "Amar Jomunar Jol Dekhte Kalo Remix | VDJ NIROB",
+      "url": "https://music.youtube.com/podcast/4mN00JvMLGg",
+      "snippet": "May 28, 2023 — Amar Jomunar Jol Dekhte Kalo Remix | VDJ NIROB | যমুনার জল দেখতে কালো | Bengali Folk Song | Dj Remix Hi Guys, Presenting you \"Amar Jomunar Jol Remix\" ...Read more"
+    },
+    {
+      "title": "On Monday, Minister of State for Education, Emeka ...",
+      "url": "https://www.facebook.com/channelsforum/posts/on-monday-minister-of-state-for-education-emeka-nwajiuba-apologised-for-the-cont/3401223759889725",
+      "snippet": "Ministry of General Education has lifted the ban that prohibited churches from holding worship services in schools following the Covid-19"
+    },
+    {
+      "title": "CHURCHES TO RESUME WORSHIPPING FROM ...",
+      "url": "https://www.facebook.com/fyambemedia/posts/churches-to-resume-worshipping-from-schoolsministry-of-general-education-has-lif/346726640094418",
+      "snippet": "Ministry of General Education has lifted the ban that prohibited churches from holding worship services in schools following the Covid-19"
+    },
+    {
+      "title": "State of emergency: As coronavirus spreads, governor ...",
+      "url": "https://mississippitoday.org/2020/03/14/state-of-emergency-governor-urges-mississippi-churches-to-cancel-services-and-schools-to-extend-spring-break",
+      "snippet": "Mar 14, 2020 — State of emergency: As coronavirus spreads, governor urges Mississippi churches to cancel services and schools to extend spring break.Read more"
+    },
+    {
+      "title": "Schools to reopen or vacations extended? Govt to decide ...",
+      "url": "https://www.facebook.com/100063736372615/posts/schools-to-reopen-or-vacations-extended-govt-to-decide-soon/1622986499835880",
+      "snippet": "The Government has clarified that all private and government schools will reopen after a short summer break of ten days from tomorrow (Monday)."
+    },
+    {
+      "title": "a study on the essence of worship in online worship groups",
+      "url": "https://digitalcommons.liberty.edu/cgi/viewcontent.cgi?article=4222&context=doctoral",
+      "snippet": "by N Kim · 2021 · Cited by 3 — ministers who conducted online worship under the COVID-19 pandemic. The researcher reached out to CKCGW. This is an assembly of Korean ...Read more"
+    },
+    {
+      "title": "Adventist Schools, COVID-19, and the Big Government ...",
+      "url": "https://spectrummagazine.org/news/adventist-schools-covid-19-and-big-government-bailout-funding-jeopardy",
+      "snippet": "Dec 10, 2020 — The Chesapeake Conference recommended that schools under its auspices not accept federal funds made available through the Coronavirus Aid, Relief and Economic ...Read more"
+    }
+  ]
+}

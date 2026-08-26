@@ -1,0 +1,6 @@
+{
+  "ID": "S2/T/CM/1085",
+  "Evidence": "Delhi High Court ne Saket Gokhale ko directive diya tha ki woh apne tweets delete karein jo Lakshmi Puri ke khilaf the, jismein unhone Puri par corruption ke allegations lagaye the (Source 1). Court ne Gokhale ko yeh bhi kaha ki agar woh comply nahi karte, toh Twitter ko unke tweets hataane ke liye kaha jayega (Source 3). Gokhale ko defamation case mein guilty paya gaya aur unhe apology dene aur damages pay karne ka order diya gaya (Source 2). Court ne warning di thi ki agar Gokhale comply nahi karte, toh unhe jail bhi ho sakti hai (Source 2).",
+  "Prediction": "SUPPORTS",
+  "Justification": "Retrieved evidence se yeh saaf hai ki Saket Gokhale ko court ne apne tweets delete karne ka order diya tha aur unhe defamation case mein guilty paya gaya. Court ne unhe warning di thi ki agar woh orders ka palan nahi karte, toh unhe jail ho sakti hai. Yeh sab points claim ke assertion ko support karte hain ki Gokhale ko court ne dhoya aur unhone apne tweets delete kiye, warna unhe bhari fine dena padta."
+}

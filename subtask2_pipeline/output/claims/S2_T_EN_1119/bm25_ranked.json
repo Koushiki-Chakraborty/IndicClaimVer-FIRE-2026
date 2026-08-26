@@ -1,0 +1,57 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1119",
+    "text": "Consumer Forum Member's 'Caste Hurl' Complaint Against Landlords Quashed By Karnataka High Court",
+    "lang": "english"
+  },
+  "ranked_evidence": [
+    {
+      "title": "'Abuse of law': Karnataka HC quashes SC/ST Act complaint ...",
+      "url": "https://www.financialexpress.com/india-news/abuse-of-law-karnataka-hc-quashes-scst-act-complaint-against-landlord/3179311",
+      "snippet": "The Karnataka High Court has quashed a police complaint filed under the SC/ST (Prevention of Atrocities) Act by an aggrieved tenant against her landlords.",
+      "bm25_score_raw": 4.933074544930857,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Consumer Forum Member's 'Caste... - Karnataka High Court",
+      "url": "https://www.livelaw.in/high-court/karnataka-high-court/karnataka-high-court-quashes-sc-st-atrocities-act-proceedings-tenant-district-consumer-forum-member-abuse-of-law-232571",
+      "snippet": "The Karnataka High Court on Wednesday quashed the proceedings initiated under the SC/ST (Prevention of Atrocities) Act by a \"disgruntled tenant\"",
+      "bm25_score_raw": 2.915175395559757,
+      "bm25_score_norm": 0.5287754197851349,
+      "bm25_rank": 2
+    },
+    {
+      "title": "Karnataka HC quashes SC/ST atrocity case filed by woman ...",
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/hc-quashes-sc/st-atrocity-case-filed-by-woman-against-landlords/articleshow/101839825.cms",
+      "snippet": "The high court has quashed proceedings in a criminal case registered by a district consumer forum member against her landlords, pointing out",
+      "bm25_score_raw": 2.398471554410091,
+      "bm25_score_norm": 0.4081135171736769,
+      "bm25_rank": 3
+    },
+    {
+      "title": "Tenant files SC/ST plaint against owner, Karnataka High ...",
+      "url": "https://www.newindianexpress.com/cities/bengaluru/2023/Jul/18/tenant-files-scst-plaint-against-owner-karnataka-high-court-quashes-proceedings--2595922.html",
+      "snippet": "The Karnataka High Court quashed proceedings initiated against the owners by a tenant, who was a member of the Consumer Commission.",
+      "bm25_score_raw": 1.554585080862343,
+      "bm25_score_norm": 0.2110471526972979,
+      "bm25_rank": 4
+    },
+    {
+      "title": "SC/ST Act Misuse Case: Karnataka HC Quashes Charges ...",
+      "url": "https://www.deccanherald.com/india/karnataka/karnataka-high-court-quashes-proceedings-against-realtor-under-scst-act-3571652",
+      "snippet": "The Karnataka High Court has quashed the proceedings against a realtor for offences punishable under the Scheduled Castes and Scheduled Tribes",
+      "bm25_score_raw": 1.418477422218639,
+      "bm25_score_norm": 0.1792629704558828,
+      "bm25_rank": 5
+    },
+    {
+      "title": "SC/ST Act| \"Complaint Is Frivolous, Proceedings Should ...",
+      "url": "https://www.verdictum.in/court-updates/high-courts/sc-st-act-complaint-frivolous-proceedings-should-not-be-allowed-to-continue-quash-caste-hurl-complaint-1485730",
+      "snippet": "- Karnataka HC Quashes \"Caste Hurl\" Nagaprasanna has quashed proceedings initiated by a tenant under the SC/ST. Act, alleging that her",
+      "bm25_score_raw": 0.6508294454689503,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6
+    }
+  ]
+}

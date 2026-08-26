@@ -1,0 +1,138 @@
+{
+  "claim": {
+    "id": "S2/T/BN/1049",
+    "text": "বিজেপিতে যোগ দিতে চেয়েছিলেন অতীন ! কী বলছেন ডেপুটি মেয়র ?",
+    "lang": "bengali"
+  },
+  "generated_queries": {
+    "english_translation": "Atin wanted to join the BJP! What is the deputy mayor saying?",
+    "native_query": "বিজেপিতে অতীন বলছ য়র",
+    "english_query": "Atin BJP deputy mayor"
+  },
+  "native_retrieval": [
+    {
+      "title": "বিজেপিতে যোগ দিতে চেয়েছিলেন অতীন ! কী বলছেন ডেপুটি মেয়র ?",
+      "url": "https://www.etvbharat.com/bn/!state/atin-ghosh-avoids-media-regarding-claim-of-suvendu-adhikari-on-his-joining-to-bjp-west-bengal-news-wbs24102605573",
+      "snippet": "অতীন ঘোষ বিজেপিতে যোগদানের ইচ্ছেপ্রকাশ করেছিলেন, তা বিশ্বাস করেন না ৷ শুভেন্দুর দাবিকে মিথ্যে বলে ঘোষণা করুক অতীন, আবেদন করলেন শান্তনু সেন ৷."
+    },
+    {
+      "title": "২১-এর বিধানসভা ভোটে বিজেপিতে যোগ দিতে চেয়েছিলেন অতীন, ...",
+      "url": "https://www.anandabazar.com/west-bengal/atin-ghosh-wanted-to-become-a-bjp-candidate-if-he-did-not-get-tmc-ticket-in-2021-assembly-polls-claims-suvendu-adhikari-dgtl/cid/1555943",
+      "snippet": "তৃণমূলের টিকিট না পেলে কলকাতার ডেপুটি মেয়র অতীন ঘোষ যোগদান করতেন বিজেপিতে। এমনই দাবি করেছেন বিরোধী দলনেতা শুভেন্দু অধিকারী। বিরোধী দলনেতাকে তাঁর মন্তব্যের পাল্টা চ্যালেঞ্জ ছুড়ে দিয়েছেন শান্তনু সেন।"
+    },
+    {
+      "title": "'বিজেপিতে আসতে চেয়েছিলেন অতীন ঘোষ', RG করে ভাঙচুরের ঘটনায় ...",
+      "url": "https://bengali.abplive.com/district/suvendu-adhikari-attacks-atin-ghosh-on-rg-kar-vandalism-issue-claims-atin-ghosh-wanted-to-join-bjp-1101977",
+      "snippet": "Atin Ghosh News : দাবি, কাশীপুর-বেলগাছিয়ায় তৃণমূল টিকিট না দিলে বিজেপির হয়ে লড়তেও চেয়েছিলেন অতীন।"
+    },
+    {
+      "title": "Atin Ghosh: 'গত ৫ বছর ধরে ৫টা জনসংযোগ অফিস করেছি, পার্টি অফিস ...",
+      "url": "https://www.youtube.com/watch?v=9aemY8CvhAk",
+      "snippet": "Atin Ghosh: 'গত ৫ বছর ধরে ৫টা জনসংযোগ অফিস করেছি, পার্টি অফিস নয়', বললেন অতীন ঘোষ. 2.7K views · 3 months ago. #DAHike #Bengalinews #abhishekbanerjee."
+    },
+    {
+      "title": "অধিবেশন চলাকালীন তৃণমূল-বিজেপি কাউন্সিলরদের মধ্যে হাতাহাতি ...",
+      "url": "https://bengali.abplive.com/short-videos/district/clash-between-trinamool-bjp-councilors-during-the-session-what-did-atin-ghosh-say-1009555",
+      "snippet": "ALT. খবরাখবর. 16 Sep, 08:23 PM(IST). অধিবেশন চলাকালীন তৃণমূল-বিজেপি কাউন্সিলরদের মধ্যে হাতাহাতি! কী বললেন অতীন ঘোষ ?"
+    },
+    {
+      "title": "তৃণমূলের হয়ে কাজ করেছিলেন অর্জুন! চাঞ্চল্যকর দাবি অতীনের",
+      "url": "https://eisamay.com/west-bengal-news/kolkata-news/cossipore-news-bjp-leader-arjun-worked-with-tmc-claims-atin-ghosh/articleshow/91368638.cms",
+      "snippet": "Cossipore news: কাশীপুরে তুলকালাম কাণ্ড। বিজেপি নেতা অর্জুন চৌরাসিয়ার দেহ উদ্ধার ঘিরে ধুন্ধুমার পরিস্থিতি। গত পুরভোটে তৃণমূল প্রার্থীর হয়ে কাজ করেছিলেন অর্জুন, এমন দাবিই করেছেন অতীন।"
+    }
+  ],
+  "english_retrieval": [
+    {
+      "title": "Atin Ghosh explains his plans as he going take charge as ...",
+      "url": "https://www.youtube.com/watch?v=WbBxZijZhWY",
+      "snippet": "Atin Ghosh explains his plans as he going take charge as Deputy Mayor of Kolkata. @abpanandatv223 likes26K views7 years ago"
+    },
+    {
+      "title": "Is Kolkata Municipal Corporation Deputy Mayor Atin Ghosh ...",
+      "url": "https://www.youtube.com/watch?v=k2VqM3vTjQ8",
+      "snippet": "বিশেষ সতর্কীকরণ: এই চ্যানেল কোনো রাজনৈতিক দলকে সমর্থন করে না এবং কোনো রাজনৈতিক দলের বিরুদ্ধাচারণ করে না।এই ভিডিওটি শুধুমাত্র আমার নিজের দৃষ্টিভঙ্গি থেকে করা,এই ভিডিওটি থেকে কোনো উত্তেজিত হওয়ার কোনো কারণ"
+    },
+    {
+      "title": "BJP's Neeraj Jain is Ajmer deputy mayor | Jaipur News",
+      "url": "https://timesofindia.indiatimes.com/city/jaipur/bjps-neeraj-jain-is-ajmer-deputy-mayor/articleshow/80756790.cms",
+      "snippet": "Ajmer: Neeraj Jain of BJP won the election of deputy mayor in the Ajmer Municipal Corporation (AMC) on Monday."
+    },
+    {
+      "title": "Kerala: BJP's GS Asha Nath elected as Deputy Mayor of ...",
+      "url": "https://www.aninews.in/news/national/politics/kerala-bjps-gs-asha-nath-elected-as-deputy-mayor-of-thiruvananthapuram-corporation20251226185725",
+      "snippet": "Earlier today, BJP State Secretary and Kodunganoor ward councillor VV Rajesh was elected Mayor of Thiruvananthapuram Corporation."
+    },
+    {
+      "title": "Will focus on cleaning up Capital, says BJP's Deputy Mayor ...",
+      "url": "https://www.thehindu.com/news/cities/Delhi/will-focus-on-cleaning-up-capital-says-bjps-deputy-mayor-candidate/article69479958.ece",
+      "snippet": "Jai Bhagwan Yadav says after winning mayoral polls, BJP will speed up formation of Standing Committee, resume stalled development works."
+    },
+    {
+      "title": "BJP announces names for Mayor,Deputy Mayor | Delhi News",
+      "url": "https://indianexpress.com/article/cities/delhi/bjp-announces-names-for-mayor-deputy-mayor",
+      "snippet": "The Bharatiya Janata Party on Tuesday proposed the name of first-time councillor of Mukherjee Nagar,Rajni Abbi,for the post of the new Mayor"
+    }
+  ],
+  "merged_results": [
+    {
+      "title": "বিজেপিতে যোগ দিতে চেয়েছিলেন অতীন ! কী বলছেন ডেপুটি মেয়র ?",
+      "url": "https://www.etvbharat.com/bn/!state/atin-ghosh-avoids-media-regarding-claim-of-suvendu-adhikari-on-his-joining-to-bjp-west-bengal-news-wbs24102605573",
+      "snippet": "অতীন ঘোষ বিজেপিতে যোগদানের ইচ্ছেপ্রকাশ করেছিলেন, তা বিশ্বাস করেন না ৷ শুভেন্দুর দাবিকে মিথ্যে বলে ঘোষণা করুক অতীন, আবেদন করলেন শান্তনু সেন ৷."
+    },
+    {
+      "title": "২১-এর বিধানসভা ভোটে বিজেপিতে যোগ দিতে চেয়েছিলেন অতীন, ...",
+      "url": "https://www.anandabazar.com/west-bengal/atin-ghosh-wanted-to-become-a-bjp-candidate-if-he-did-not-get-tmc-ticket-in-2021-assembly-polls-claims-suvendu-adhikari-dgtl/cid/1555943",
+      "snippet": "তৃণমূলের টিকিট না পেলে কলকাতার ডেপুটি মেয়র অতীন ঘোষ যোগদান করতেন বিজেপিতে। এমনই দাবি করেছেন বিরোধী দলনেতা শুভেন্দু অধিকারী। বিরোধী দলনেতাকে তাঁর মন্তব্যের পাল্টা চ্যালেঞ্জ ছুড়ে দিয়েছেন শান্তনু সেন।"
+    },
+    {
+      "title": "'বিজেপিতে আসতে চেয়েছিলেন অতীন ঘোষ', RG করে ভাঙচুরের ঘটনায় ...",
+      "url": "https://bengali.abplive.com/district/suvendu-adhikari-attacks-atin-ghosh-on-rg-kar-vandalism-issue-claims-atin-ghosh-wanted-to-join-bjp-1101977",
+      "snippet": "Atin Ghosh News : দাবি, কাশীপুর-বেলগাছিয়ায় তৃণমূল টিকিট না দিলে বিজেপির হয়ে লড়তেও চেয়েছিলেন অতীন।"
+    },
+    {
+      "title": "Atin Ghosh: 'গত ৫ বছর ধরে ৫টা জনসংযোগ অফিস করেছি, পার্টি অফিস ...",
+      "url": "https://www.youtube.com/watch?v=9aemY8CvhAk",
+      "snippet": "Atin Ghosh: 'গত ৫ বছর ধরে ৫টা জনসংযোগ অফিস করেছি, পার্টি অফিস নয়', বললেন অতীন ঘোষ. 2.7K views · 3 months ago. #DAHike #Bengalinews #abhishekbanerjee."
+    },
+    {
+      "title": "অধিবেশন চলাকালীন তৃণমূল-বিজেপি কাউন্সিলরদের মধ্যে হাতাহাতি ...",
+      "url": "https://bengali.abplive.com/short-videos/district/clash-between-trinamool-bjp-councilors-during-the-session-what-did-atin-ghosh-say-1009555",
+      "snippet": "ALT. খবরাখবর. 16 Sep, 08:23 PM(IST). অধিবেশন চলাকালীন তৃণমূল-বিজেপি কাউন্সিলরদের মধ্যে হাতাহাতি! কী বললেন অতীন ঘোষ ?"
+    },
+    {
+      "title": "তৃণমূলের হয়ে কাজ করেছিলেন অর্জুন! চাঞ্চল্যকর দাবি অতীনের",
+      "url": "https://eisamay.com/west-bengal-news/kolkata-news/cossipore-news-bjp-leader-arjun-worked-with-tmc-claims-atin-ghosh/articleshow/91368638.cms",
+      "snippet": "Cossipore news: কাশীপুরে তুলকালাম কাণ্ড। বিজেপি নেতা অর্জুন চৌরাসিয়ার দেহ উদ্ধার ঘিরে ধুন্ধুমার পরিস্থিতি। গত পুরভোটে তৃণমূল প্রার্থীর হয়ে কাজ করেছিলেন অর্জুন, এমন দাবিই করেছেন অতীন।"
+    },
+    {
+      "title": "Atin Ghosh explains his plans as he going take charge as ...",
+      "url": "https://www.youtube.com/watch?v=WbBxZijZhWY",
+      "snippet": "Atin Ghosh explains his plans as he going take charge as Deputy Mayor of Kolkata. @abpanandatv223 likes26K views7 years ago"
+    },
+    {
+      "title": "Is Kolkata Municipal Corporation Deputy Mayor Atin Ghosh ...",
+      "url": "https://www.youtube.com/watch?v=k2VqM3vTjQ8",
+      "snippet": "বিশেষ সতর্কীকরণ: এই চ্যানেল কোনো রাজনৈতিক দলকে সমর্থন করে না এবং কোনো রাজনৈতিক দলের বিরুদ্ধাচারণ করে না।এই ভিডিওটি শুধুমাত্র আমার নিজের দৃষ্টিভঙ্গি থেকে করা,এই ভিডিওটি থেকে কোনো উত্তেজিত হওয়ার কোনো কারণ"
+    },
+    {
+      "title": "BJP's Neeraj Jain is Ajmer deputy mayor | Jaipur News",
+      "url": "https://timesofindia.indiatimes.com/city/jaipur/bjps-neeraj-jain-is-ajmer-deputy-mayor/articleshow/80756790.cms",
+      "snippet": "Ajmer: Neeraj Jain of BJP won the election of deputy mayor in the Ajmer Municipal Corporation (AMC) on Monday."
+    },
+    {
+      "title": "Kerala: BJP's GS Asha Nath elected as Deputy Mayor of ...",
+      "url": "https://www.aninews.in/news/national/politics/kerala-bjps-gs-asha-nath-elected-as-deputy-mayor-of-thiruvananthapuram-corporation20251226185725",
+      "snippet": "Earlier today, BJP State Secretary and Kodunganoor ward councillor VV Rajesh was elected Mayor of Thiruvananthapuram Corporation."
+    },
+    {
+      "title": "Will focus on cleaning up Capital, says BJP's Deputy Mayor ...",
+      "url": "https://www.thehindu.com/news/cities/Delhi/will-focus-on-cleaning-up-capital-says-bjps-deputy-mayor-candidate/article69479958.ece",
+      "snippet": "Jai Bhagwan Yadav says after winning mayoral polls, BJP will speed up formation of Standing Committee, resume stalled development works."
+    },
+    {
+      "title": "BJP announces names for Mayor,Deputy Mayor | Delhi News",
+      "url": "https://indianexpress.com/article/cities/delhi/bjp-announces-names-for-mayor-deputy-mayor",
+      "snippet": "The Bharatiya Janata Party on Tuesday proposed the name of first-time councillor of Mukherjee Nagar,Rajni Abbi,for the post of the new Mayor"
+    }
+  ]
+}

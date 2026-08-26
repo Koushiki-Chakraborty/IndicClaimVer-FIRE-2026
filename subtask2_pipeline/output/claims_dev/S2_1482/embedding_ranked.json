@@ -1,0 +1,76 @@
+{
+  "claim": {
+    "id": "S2/1482",
+    "text": "Madras High Court Orders Reinstatement Of Bus Conductor Dismissed From Service For Non-Issuance Of Ticket, Having Excess 7 Rupees In Bag",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Madras High Court Orders Reinstatement Of Bus ...",
+      "url": "https://www.livelaw.in/high-court/madras-high-court/madras-high-court-reinstatement-conductor-non-issuance-ticket-excess-of-7-rupees-231755",
+      "snippet": "Jul 3, 2023 — Madras High Court Orders Reinstatement Of Bus Conductor Dismissed From Service For Non-Issuance Of Ticket, Having Excess 7 Rupees In Bag ...Read more",
+      "bm25_score_raw": 4.989698372064713,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9557074904441833,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Madras HC orders TNSTC to reinstate conductor dismissed for excess Rs 7 in money bag",
+      "url": "https://lawbeat.in/news-updates/madras-high-court-orders-tnstc-reinstate-conductor-dismissed-excess-rs-7-money-bag",
+      "snippet": "The allegations against the sacked conductor were that he did not issue a ticket worth Rs 5 to a lady passenger and was also found having Rs 7 in excess in his money bag. The Madras High Court recently quashed the termination order of a conductor who had been sacked for having Rs.7 excess in his money bag. The conductor had moved the high court alleging that the order of his termination was illegal and arbitrary. He also claimed that the Corporation had not given him a fair opportunity to present his case before his termination. However, the Corporation opposed the plea and submitted that the petitioner was afforded a fair opportunity and it was justified in looking into the past history of the petitioner and therefore the impugned order was not liable to be interfered with. The high court noted that the latest charges against the petitioner were that he did not issue a ticket to a lady passenger after receiving Rs.5, being the ticket amount, and he had Rs.7 excess in his money bag.",
+      "bm25_score_raw": 1.6635815964393899,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.9130932688713074,
+      "embedding_score_norm": 0.3881054452305983,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Madras High Court Orders Reinstatement of Bus ...",
+      "url": "https://blog.primelegal.in/madras-high-court-orders-reinstatement-of-bus-conductors-dismissals-from-service",
+      "snippet": "Jul 4, 2023 — Madras High Court Orders Reinstatement of Bus Conductors dismissals from service. · Whether the acts of the Petitioner was causing loss to the ...Read more",
+      "bm25_score_raw": 4.4567688679926345,
+      "bm25_score_norm": 0.8397742653001455,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.9113523960113525,
+      "embedding_score_norm": 0.3631083765470718,
+      "embedding_rank": 3
+    },
+    {
+      "title": "TNSTC Conductor Gets Reinstated In Service After Madras ...",
+      "url": "https://www.bwlegalworld.com/article/tnstc-conductor-gets-reinstated-in-service-after-madras-hcs-intervention-482899",
+      "snippet": "Jul 4, 2023 — Madras High Court to reinstate a bus conductor who was removed from service in 2015 for failing to issue a ticket to a female passenger and",
+      "bm25_score_raw": 2.6364994728691724,
+      "bm25_score_norm": 0.2925086345613558,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.893873929977417,
+      "embedding_score_norm": 0.11213633488728768,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Madras High Court directs TNSTC to reinstate bus ...",
+      "url": "https://www.scconline.com/blog/post/2023/07/06/madras-high-court-directs-tnstc-reinstate-bus-conductor-terminated-non-issuance-ticket",
+      "snippet": "Jul 6, 2023 — Madras High Court directs State Transport Corporation to reinstate bus conductor terminated due to non-issuance of ticket.Read more",
+      "bm25_score_raw": 3.120741935718905,
+      "bm25_score_norm": 0.4380965665300681,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8917731046676636,
+      "embedding_score_norm": 0.08197073476335931,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Madras High Court Directs TNSTC to Reinstate Conductor ...",
+      "url": "https://legalvidhiya.com/madras-high-court-directs-tnstc-to-reinstate-conductor-terminated-for-rs7-excess",
+      "snippet": "Jul 4, 2023 — The conductor, A Ayyanar, was dismissed from service in 2015 based on allegations of failing to issue a ticket to a female passenger and",
+      "bm25_score_raw": 1.881775219111304,
+      "bm25_score_norm": 0.0656001088930177,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8860644102096558,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6
+    }
+  ]
+}

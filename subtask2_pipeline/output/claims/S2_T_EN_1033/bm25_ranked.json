@@ -1,0 +1,57 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1033",
+    "text": "India doesn't agree to WHO's estimate of Covid-19 deaths: Union Health Minister",
+    "lang": "english"
+  },
+  "ranked_evidence": [
+    {
+      "title": "47.4 lakh deaths in India linked to COVID-19, says WHO; Union gov ...",
+      "url": "https://www.youtube.com/watch?v=gM83ZFKADCk",
+      "snippet": "The WHO on May 5th said that covid 19 could have killed as many as 47.4 lakh people in India in 2020 and 2021, happened in 2020 itself.",
+      "bm25_score_raw": 7.163758386941912,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "India doesn't agree to WHO's estimate of Covid-19 deaths: Union Health ...",
+      "url": "https://www.indiatoday.in/amp/coronavirus-outbreak/story/union-health-minister-challenge-who-estimate-covid-19-death-in-india-1946715-2022-05-07",
+      "snippet": "India doesn't agree to WHO's estimate of Covid-19 deaths: Union Health Minister ... estimate of 4.7 million Covid-related deaths in India.",
+      "bm25_score_raw": 6.486256142956909,
+      "bm25_score_norm": 0.8990873372488446,
+      "bm25_rank": 2
+    },
+    {
+      "title": "India Discards WHO Estimate Of 47 Lakh COVID-19 Deaths In The ...",
+      "url": "https://www.youtube.com/watch?v=o7W9v528uFo",
+      "snippet": "India Discards WHO Estimate Of 47 Lakh COVID-19 Deaths In The Country, Objects To Mathematical Model",
+      "bm25_score_raw": 1.9965797550635542,
+      "bm25_score_norm": 0.23035863086342792,
+      "bm25_rank": 3
+    },
+    {
+      "title": "WHO estimates 4.7 million COVID-19-linked deaths in India",
+      "url": "https://www.thehindu.com/sci-tech/health/who-estimates-47-million-covid-linked-deaths-in-india-10-times-official-count/article65385669.ece/amp",
+      "snippet": "India officially estimated only 4.8 lakh cumulative deaths linked to COVID-19 as of December 2021, the WHO estimate is nearly 10 times the",
+      "bm25_score_raw": 1.9374920823707718,
+      "bm25_score_norm": 0.22155763508793733,
+      "bm25_rank": 4
+    },
+    {
+      "title": "India's Objections To WHO COVID-19 Mortality Estimates Are Misleading ...",
+      "url": "https://www.indiaspend.com/covid-19/indias-objections-to-who-covid-19-mortality-estimates-are-misleading-experts-say-815095",
+      "snippet": "The WHO is expected to place estimated mortality from Covid-19 at 4 million as of the end of 2021, about eight times India's officially reported",
+      "bm25_score_raw": 0.6213140983536966,
+      "bm25_score_norm": 0.02551544304974999,
+      "bm25_rank": 5
+    },
+    {
+      "title": "India's Official COVID-19 Death Toll Is Still an Undercount",
+      "url": "https://foreignpolicy.com/2022/05/03/india-covid-death-toll-undercount-who",
+      "snippet": "India's official count numbers 520,000 deaths, but the WHO and several previous studies have estimated that as many as 4 million Indians have",
+      "bm25_score_raw": 0.45000982938295997,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6
+    }
+  ]
+}

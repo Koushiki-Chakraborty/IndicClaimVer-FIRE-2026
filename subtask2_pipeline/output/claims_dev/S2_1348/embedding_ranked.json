@@ -1,0 +1,76 @@
+{
+  "claim": {
+    "id": "S2/1348",
+    "text": "Govt: 5-10% Covid cases requiring hospitalisation, but situation may change",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "DHS decouples duration of some visas from training program length - Fierce Healthcare",
+      "url": "https://www.fiercehealthcare.com/providers/trump-administration-decouples-visa-duration-training-program-length",
+      "snippet": "The Trump administration is moving ahead with a visa rule change that will require some medical trainees to seek government approval to remain in the country long enough to finish their programs. The Department of Homeland Security’s policy change for F, J and I nonimmigrant visas was floated as a draft last August and finalized last week with a Sept. Medical educators and hospitals say the shift away from the current system—which is referred to as “duration of status” and allows nonimmigrant students to stay for the duration of their education programs—could disrupt physician training, bring new administrative burdens and impact current and future care delivery. “We strongly believe there is no compelling need to change the current visa system for international students, trainee and postdoctoral scholars,” the Association of American Medical Colleges said in a Friday statement. They said the current approach in which an entity called Intealth sponsors J-1 physicians for the duration of their program, up to a maximum of seven years.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.7974832057952881,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Sectors Up Close: 'States are cracking down on data centers' - Reuters",
+      "url": "https://www.reuters.com/video/watch/idRW959121072026RP1/",
+      "snippet": "Exclusive news, data and analytics for financial market professionals Learn more about Refinitiv. ## Browse World. *   Israel and Hamas at War. *   Ukraine and Russia at War. ## Browse Business. ## Browse Markets. *   ### Image 3: Police clash with India's youth-led 'cockroach' movement Now Playing Police clash with India's youth-led 'cockroach' movement. *   ### Image 6: Delhi police fire tear gas as thousands rally against Modi's govt 02:02 Delhi police fire tear gas as thousands rally against Modi's govt. *   ### Image 10: People brave simulated typhoons in China to prepare for real thing 01:23 People brave simulated typhoons in China to prepare for real thing. *   ### Image 11: Taiwan president urges his party to oppose China's 'red terror' 01:35 Taiwan president urges his party to oppose China's 'red terror'. Indian police on Monday (July 20) struck with batons and fired tear gas shells on students protesting for education reforms in New Delhi. *   Reuters and AI, opens new tab.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.7951302528381348,
+      "embedding_score_norm": 0.9455362218064822,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Govt extends exemption for net metering, open access RE projects till Dec - Daily Excelsior",
+      "url": "https://www.dailyexcelsior.com/govt-extends-exemption-for-net-metering-open-access-re-projects-till-dec/",
+      "snippet": "# Govt extends exemption for net metering, open access RE projects till Dec. ## NEW DELHI, Jul 18: The Government today said it has extended the exemption timeline for net-metering and open access RE projects till December 31, 2026 under the ALMM-II. The ministry clarified that there will be no change with respect to the implementation of Approved List of Models & Manufacturers (ALMM) List-II for solar PV cells. The MNRE has decided that there will be no change in the policy of the Government of India with respect of implementation of Approved List of Models & Manufacturers (ALMM) List-II for solar PV cells, and no blanket extension in applicability of ALMM List-II for solar power projects will be provided. However, a limited window is being provided for net metering projects and open access RE power projects, whereby such projects can now commission with exemption of ALMM List-II (for solar PV cells), till 31st December 2026.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.7939245700836182,
+      "embedding_score_norm": 0.9176282953372736,
+      "embedding_rank": 3
+    },
+    {
+      "title": "US hits Iran for eighth consecutive night, Iran returns fire on Gulf bases - Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/19/us-launches-eighth-consecutive-night-of-attacks-on-iran",
+      "snippet": "*US Central Command says new strikes on Iran are designed to further degrade Iran's ability to choke the Strait of Hormuz.*. The United States military said Sunday that it launched new strikes on Iran to “swiftly punish” the country’s Islamic Revolutionary Guard Corps (IRGC) for an attack that killed two American service members and left one missing and four requiring hospitalisation. An area near Sirik in Iran’s Hormozgan province and Qeshm Island have been hit on the eighth consecutive night of US air strikes on Iran, according to Iran’s semi-official  Mehr and Tasnim news agencies. In a post on X, US Central Command (CENTCOM) said the US military launched new strikes “designed to further degrade Iran’s ability to threaten commercial shipping in the Strait of Hormuz”. The post added that strikes were also in retaliation for Iranian ballistic missile and drone attacks on a US base in Jordan that killed the two US service members on Friday.",
+      "bm25_score_raw": 2.5513518837517752,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.781450629234314,
+      "embedding_score_norm": 0.6288941132321209,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Govt extends exemption for renewable energy projects - NewsBytes",
+      "url": "https://www.newsbytesapp.com/news/business/indian-government-extends-net-metering-exemption-timeline-for-re-projects/story",
+      "snippet": "Home / News / Business News / Govt extends exemption for renewable energy projects. # Govt extends exemption for renewable energy projects. The Indian government has extended the exemption timeline for net metering and open access renewable energy (RE) projects till December 31, 2026. The extension comes under the Approved List of Models & Manufacturers (ALMM)-II policy. The Ministry of New and Renewable Energy (MNRE) clarified that there will be no change in the implementation of ALMM List-II for solar photovoltaic (PV) cells. ### No blanket extension for solar power projects. The MNRE has clarified that there will be no blanket extension in the applicability of ALMM List-II for solar power projects. The MNRE said this extension will also help standalone solar PV module manufacturers by protecting their already made investments, in the form of inventories. The ministry added that this move will create additional demand and give these manufacturers enough time to effectively increase their sourcing of solar cells from ALMM List-II enlisted manufacturers.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.7672092318534851,
+      "embedding_score_norm": 0.2992486327489059,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Acrisure sold auto dealers millions of hackable anti-theft devices for cars - Automotive News",
+      "url": "https://www.autonews.com/retail/finance-insurance/cgr-acrisure-sold-hackable-antitheft-devices-that-made-cars-easier-to-steal-20260723/",
+      "snippet": "# Acrisure sold auto dealers millions of hackable anti-theft devices for cars. July 23, 2026 11:10 AM EDT. ## Featured Stories. Lexus future includes LFA EV supercar revival, TZ 3-row EV crossover, and GR and Century lines. Lexus future product plans include the return of its legendary LFA nameplate, the addition of a new TZ three-row EV crossover, and continued investment in its hybrid and gasoline-powered vehicles. Here’s the 2026 Future Product Pipeline guide for every U.S. vehicle brand. 2 dealership groups accused of fraudulently obtaining COVID-era PPP loans; 1 agrees to $2.1 million settlement. Tesla Q2 net income falls 5% to $1.1 billion; Elon Musk cites safety in cautious robotaxi rollout.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.7542810440063477,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6
+    }
+  ]
+}

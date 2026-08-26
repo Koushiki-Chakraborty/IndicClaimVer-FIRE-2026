@@ -1,0 +1,6 @@
+{
+  "ID": "S2/T/EN/1257",
+  "Evidence": "India has recorded a spike of 38,792 fresh Covid-19 cases in the last 24 hours, according to the Ministry of Health and Family Welfare (MoHFW) (Source 1). In Delhi, the number of active Covid-19 cases decreased from 728 to 691, indicating a reduction rather than an increase (Source 2). Tamil Nadu logged 421 new Covid-19 infections, not 2,458 as stated in the claim (Source 3). Overall, the evidence indicates a significant rise in cases across India, but the specific figures for Delhi and Tamil Nadu do not align with the claim's assertion of 12,781 fresh cases in the last 24 hours.",
+  "Prediction": "REFUTES",
+  "Justification": "The retrieved evidence directly contradicts the claim that India logged 12,781 fresh Covid cases in the last 24 hours. Source 1 states that India recorded 38,792 new cases, while Source 2 shows a decrease in active cases in Delhi, and Source 3 reports only 421 new cases in Tamil Nadu. Therefore, the claim is not supported by the evidence."
+}

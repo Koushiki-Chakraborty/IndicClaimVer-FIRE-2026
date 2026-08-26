@@ -1,0 +1,109 @@
+{
+  "claim": {
+    "id": "S2/1264",
+    "text": "कर्नाटक के आधार पर कांग्रेस केवल गोवा और मणिपुर में सरकार बनाने का दावा करेगी, बिहार में नहीं।",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Congress Demands \"Karnataka Model\" In Goa And Manipur",
+      "url": "https://www.ndtv.com/india-news/were-single-largest-too-says-goa-congress-citing-karnataka-example-1853576",
+      "snippet": "In Karnataka yesterday, the BJP was invited to form government as the largest party, though the Congress and Janata Dal Secular combine claimed",
+      "bm25_score_raw": 3.033454145273197,
+      "bm25_score_norm": 0.6477484026419207,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8802284002304077,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "RJD, Congress to stake claim to power in Bihar, Goa",
+      "url": "https://www.thenewsminute.com/news/karnataka-effect-rjd-congress-stake-claim-power-bihar-goa-81489",
+      "snippet": "The Congress central leadership backed the move, saying that there cannot be two sets of rules and two Constitutions in the country.",
+      "bm25_score_raw": 1.1521646516438102,
+      "bm25_score_norm": 0.10662869789372219,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8763704299926758,
+      "embedding_score_norm": 0.936378344692822,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Opposition in Goa, Bihar, Manipur and Meghalaya to stake claim to ...",
+      "url": "https://www.youtube.com/watch?v=w7J_eU6neyk",
+      "snippet": "Opposition in Goa, Bihar, Manipur an Seeking an adoption of Karnataka example, Congress party in Goa and RJD in Bihar have decided to stake",
+      "bm25_score_raw": 2.9937568239239405,
+      "bm25_score_norm": 0.6363301690949067,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8644561171531677,
+      "embedding_score_norm": 0.739899818942791,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Congress, RJD Now Demand \"Karnataka Model\" In Goa, Manipur ...",
+      "url": "https://www.youtube.com/watch?v=IxJw7n_JVUw",
+      "snippet": "The Congress said that it will stake a claim in other states where it missed a shot at power after falling short of numbers in Goa,",
+      "bm25_score_raw": 0.7814528714099205,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.8613247871398926,
+      "embedding_score_norm": 0.6882611627372075,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Video | Congress Demands \"Karnataka Model\" In Goa And ...",
+      "url": "https://www.ndtv.com/video/congress-demands-karnataka-model-in-goa-and-manipur-485204",
+      "snippet": "Its ally in Bihar, Lalu Yadav's party RJD, has the same idea. \"If in Karnataka the single largest party got a chance to form government",
+      "bm25_score_raw": 2.528439222470543,
+      "bm25_score_norm": 0.5024897771907113,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8607262372970581,
+      "embedding_score_norm": 0.6783904977402252,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Congress, RJD want 'Karnataka model' in Goa, Manipur ...",
+      "url": "https://www.rediff.com/news/report/karnataka-effect-congress-rjd-to-stake-claim-to-form-govt-in-goa-bihar/20180517.htm",
+      "snippet": "B S Yeddyurappa took oath as chief minister in Bengaluru on Thursday morning. Goa Congress Legislature Party chief Chandrakant Kavlekar said the",
+      "bm25_score_raw": 1.009281464850581,
+      "bm25_score_norm": 0.06553087211366429,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.8540852069854736,
+      "embedding_score_norm": 0.5688734938930052,
+      "embedding_rank": 6
+    },
+    {
+      "title": "Congress, RJD want 'Karnataka model' in Goa, Manipur, Bihar",
+      "url": "https://m.rediff.com/amp/news/report/karnataka-effect-congress-rjd-to-stake-claim-to-form-govt-in-goa-bihar/20180517.htm",
+      "snippet": "Goa Congress Legislature Party chief Chandrakant Kavlekar said the party will stake claim on Friday by submitting to Governor Mridula Sinha a",
+      "bm25_score_raw": 2.204380419088806,
+      "bm25_score_norm": 0.40927998433278934,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.848879337310791,
+      "embedding_score_norm": 0.483023675048508,
+      "embedding_rank": 7
+    },
+    {
+      "title": "सियासी साइड इफेक्ट: बिहार, गोवा, मणिपुर में विपक्ष ने सरकार बनाने का दावा ठोका",
+      "url": "https://www.abplive.com/news/india/karnataka-effect-in-bihar-manipur-goa-congress-rjd-cpim-meets-governor-stake-claim-for-government-863134/amp",
+      "snippet": "गोवा, बिहार और मणिपुर में बीजेपी के नेतृत्व वाली राष्ट्रीय जनतांत्रिक गठबंधन (एनडीए) की सरकार है. दरअसल, कांग्रेस और अन्य विपक्षी दलों का कहना है कि जब कर्नाटक में राज्यपाल ने सबसे बड़ी पार्टी होने के आधार",
+      "bm25_score_raw": 4.258113353594385,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8363459706306458,
+      "embedding_score_norm": 0.2763363535746512,
+      "embedding_rank": 8
+    },
+    {
+      "title": "कर्नाटक असर: राजद ने बिहार में और कांग्रेस ने गोवा, मणिपुर में सरकार बनाने ...",
+      "url": "https://www.indiatv.in/amp/india/national-congress-in-goa-and-manipur-rjd-in-bihar-claim-to-be-in-government-583132",
+      "snippet": "कर्नाटक विधानसभा चुनाव में भाजपा सबसे बड़े दल के रूप में उभरी है। दोनों सहयोगियों के इस कदम को लेकर सवाल भी खड़े किए गए क्योंकि इन राज्यों में विधानसभा चुनाव एक साल से भी ज्यादा समय पहले संपन्न हो चुके हैं।",
+      "bm25_score_raw": 4.030628996150116,
+      "bm25_score_norm": 0.9345681412924925,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8195891380310059,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 9
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/1024",
+    "text": "লকডাউন না মানলে রাজ্যে আধাসেনা মোতায়েন, মমতাকে আশ্বস্ত করলেন অমিত শাহ",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Prime Minister Balendra Shah to Discuss Organic Agriculture Promotion - Ratopati",
+      "url": "https://english.ratopati.com/story/71452/prime-minister-shah-holds-discussions-with-officials-of-the-nepal-organic-association",
+      "snippet": "# Prime Minister Balendra Shah to Discuss Organic Agriculture Promotion. Prime Minister Balendra Shah will hold a discussion at 11:30 AM today at the Office of the Prime Minister and Council of Ministers with the office bearers and entrepreneurs of the Nepal Organic Association regarding organic agricultural production, processing, trade, marketing, and export promotion. The Nepal Organic Association is an organization active in promoting organic agricultural production, processing, trade, and consumption. Prime Minister Shah has been continuously engaging with representatives of industry, business, and production sectors recently, providing necessary policy facilitation and initiating solutions based on the problems, suggestions, and legitimate demands they are facing. According to the flood forecasting bulletin issued by the Flood Forecasting Division at 8... ### Madhav Kumar Nepal Pays Tribute to Pushpa Lal Shrestha on 48th Memorial Day. Former Prime Minister and CPN Co-coordinator Madhav Kumar Nepal has paid heartfelt tribute to... The Ministry of Education and Sports will hold discussions today with stakeholders on the...",
+      "bm25_score_raw": 3.62860641903488,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8085506558418274,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Jerusalem completes safety preparation for Tisha B'Av prayers, events - The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-903294",
+      "snippet": "# Police, Border Guard complete public safety preparations ahead of Tisha B’av. ## Police and Border Guard will deploy both overt and covert forces, as well as special units, in Jerusalem's Old City to ensure law enforcement can swiftly respond to any unusual incidents. Israel Police deployed at 2025 Tisha B’Av prayers and events in Jerusalem. In preparation for the holiday of Tisha B’Av, hundreds of police officers, Border Guard soldiers, and volunteers will be deployed throughout Jerusalem on Wednesday to maintain public safety and direct traffic. Police and Border Guard will deploy both overt and covert forces, as well as special units, to ensure that law enforcement will be able to swiftly respond to any unusual incidents. In preparation for the end of the Tisha B’Av fast, Sultan Suleiman Street, Jericho Road, Ophel Road, and Ma’ale Hashalom Street will be intermittently closed between 4:00 p.m. and 2:00 a.m. Public transportation to the Western Wall will operate on its normal schedule throughout Wednesday and Thursday.",
+      "bm25_score_raw": 0.8696449799267032,
+      "bm25_score_norm": 0.23966362826365922,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8077512979507446,
+      "embedding_score_norm": 0.9926457846653286,
+      "embedding_rank": 2
+    },
+    {
+      "title": "US braces for Iran escalation, sends additional refuelers to Middle East - The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-902950",
+      "snippet": "## A senior security official said that as more US forces arrive in the region, coordination with the militaries will tighten, while the US military is also redeploying F-35 and F-15 aircraft and dozens. As the hours pass and more American forces arrive in the Middle East, coordination between the IDF and US military will naturally tighten, “with the goal of shortening the time it takes to move from routine to emergency readiness,” a senior security official said on Sunday. Another senior security official, who is familiar with the details of the talks with the US Department of Defense, said that at this stage, dozens of American refueling aircraft will be deployed across IDF bases and the Ramon Airport in southern Israel. As part of the buildup of American forces in the Middle East and Israel, the US military is redeploying F-35 aircraft from Britain and F-15 aircraft from Germany, including aircraft specialized in suppressing enemy air defenses and radars.",
+      "bm25_score_raw": 2.2191473455568955,
+      "bm25_score_norm": 0.611570142718078,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.7881679534912109,
+      "embedding_score_norm": 0.8124760087300804,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Trump Thirsts Over His Eighth War in Unlikely Country - The Daily Beast",
+      "url": "https://www.thedailybeast.com/trump-thirsts-over-his-eighth-war-in-unlikely-country/",
+      "snippet": "The Trump administration is looking to strike an al-Qaeda-affiliated group known as JNIM, the Washington Post has reported, citing current and former U.S. officials familiar with the deliberations. Gorka, who has been a prominent architect of U.S. counterterrorism policy under the second Trump administration, long pushed for the U.S. to get involved in countering Islamist extremism. He has been an outspoken advocate for confronting Iran, and has been highly critical of those who have questioned the administration’s current war there. Mali had been supported by French troops and U.N. forces, but after its former government President Ibrahim Boubacar Keita was toppled in a coup, the new military-led government effectively expelled them and tore up security cooperation with the U.S. Following the withdrawal of French and U.N. forces from Mali in 2023, Russia’s military and paramilitary forces have joined with Mali’s junta to try and combat Islamist insurgents, including groups like the al-Qaeda linked JNIM.",
+      "bm25_score_raw": 2.7875954668939817,
+      "bm25_score_norm": 0.7682275631412826,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.7874407768249512,
+      "embedding_score_norm": 0.8057858717467838,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Israeli defense-tech firm ASIO raises $15 million for global expansion - Ynetnews",
+      "url": "https://www.ynetnews.com/business/article/bjhvv2i4gg",
+      "snippet": "## Protego Ventures and Aliya Capital Partners led the company’s first funding round; ASIO says its navigation, situational-awareness and command systems are deployed across the IDF and used by defense customers worldwide. Israeli defense-technology company ASIO has raised $15 million in its first funding round as it seeks to expand production, accelerate product development and increase sales to defense customers worldwide. The round was led by Israeli defense-focused venture capital fund Protego Ventures, with Miami-based Aliya Capital Partners serving as co-lead investor. Founded by Tomer and Yaniv Malchi, ASIO develops tactical systems designed for military forces operating in complex environments where communications and satellite navigation may be disrupted. ASIO said its systems are deployed across all branches of the Israel Defense Forces and are also used by defense customers internationally. “This investment deepens our commitment to Israel’s defense-tech ecosystem, and we’re proud to co-lead alongside Protego Ventures in backing Tomer, Yaniv, and the ASIO team as they scale their platform to defense customers around the world,” Kestin said.",
+      "bm25_score_raw": 2.2262566015133807,
+      "bm25_score_norm": 0.6135293675927272,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.77183997631073,
+      "embedding_score_norm": 0.6622561116046458,
+      "embedding_rank": 5
+    },
+    {
+      "title": "US and Iran trade strikes as Mideast conflict widens - The Boston Globe",
+      "url": "https://www.bostonglobe.com/2026/07/19/world/us-strikes-iran-over-attack-that-killed-troops-in-jordan/",
+      "snippet": "## The U.S. military said Sunday it had ended its latest round of airstrikes on Iran, which included targeting Iran’s paramilitary Revolutionary Guard over an attack that killed American troops in Jordan. DUBAI, United Arab Emirates (AP) — The United States launched more airstrikes at Iran on Sunday in response to the killing of U.S. troops, and Iran fired missiles toward Jordan that risked widening the conflict into neighboring Israel. The U.S. military said the latest strikes targeted Iran’s paramilitary Revolutionary Guard to retaliate for Friday’s killing of troops in Jordan. The U.S. military’s Central Command said it hit “Iranian military coastal surveillance and air defense facilities, maritime capabilities and missile and drone storage sites.” It said the attack was designed to degrade Iran’s ability to control the strait and “swiftly punish Islamic Revolutionary Guard Corps forces,” a power base in Iran’s theocracy that controls its ballistic missile arsenal.",
+      "bm25_score_raw": 2.0261542402571333,
+      "bm25_score_norm": 0.5583835793345812,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.7706426382064819,
+      "embedding_score_norm": 0.6512404172013293,
+      "embedding_rank": 6
+    },
+    {
+      "title": "For Taylor Swift, Madison Square Garden’s Controversial Cameras Briefly Went Dark - WIRED",
+      "url": "https://www.wired.com/story/for-taylor-swift-madison-square-gardens-controversial-cameras-briefly-went-dark/",
+      "snippet": "Madison Square Garden owner James Dolan has insisted that the face-recognition system and array of surveillance cameras deployed at his venues is “very, very useful for security”—a big reason why MSG “is the most secure venue in the country.”. On the night of July 2, security in and around the Garden was particularly intense. July 2 was, of course, the kickoff to Taylor Swift and Travis Kelce’s wedding celebration, an approximately 100-person rehearsal dinner at Madison Square Garden’s Infosys Theater. And yet, on that extremely sensitive evening, Dolan’s MSG locked nearly all of its security team out of the network of surveillance cameras inside the arena, according to an internal document reviewed by WIRED. According to the internal document, an MSG executive ordered on July 2 a seven-hour lockdown of the Garden’s video management system, made by the security tech company Genetec, “due to a client privacy request.” Security staffers who ordinarily monitor the building’s internal cameras and the accompanying face-recognition software were barred from doing so.",
+      "bm25_score_raw": 2.5017509303454104,
+      "bm25_score_norm": 0.689452269395151,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.7660351991653442,
+      "embedding_score_norm": 0.608851270577655,
+      "embedding_rank": 7
+    },
+    {
+      "title": "MySweetCharity Photo Gallery Alert: 2026 Crystal Charity Ball Former Chairmen’s Dinner - My Sweet Charity",
+      "url": "https://mysweetcharity.com/2026/07/mysweetcharity-photo-gallery-2026-crystal-charity-ball-former-chairmens-dinner/",
+      "snippet": "# MySweetCharity Photo Gallery Alert: 2026 Crystal Charity Ball Former Chairmen’s Dinner. Just as the April non-profits were starting to wind down for the first half of the North Texas fundraising season, the 2026 Crystal Charity Ball committee held its dinner honoring the past leadership of the 70+-year-old organization benefiting Dallas County children’s non-profits. It also provided an opportunity to share some of the hallmarks of 2026 CCB Chair **Jennifer Dix**‘s ball theme, “Joy for The World,” with words of inspiration from the timeless **Dolly Parton** via her book “The Little Guide To Dolly Parton-Unofficial and Unauthorized.” It was not surprising to see some of the former chairs donning the butterfly brooches from Jennifer that have come to be her “symbol of transformation and hope.”. Then it was time for the annual group photo of the “Ma’ams” and a dinner in the Promenade. While the post is being served up, check out MySweetCharity Photo Gallery for the gathering of the past chairs, current committee members and guests.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.7657251358032227,
+      "embedding_score_norm": 0.605998640037728,
+      "embedding_rank": 8
+    },
+    {
+      "title": "Boeheim’s Army vs. Hall In in the TBT: Game 2 box score - Syracuse.com",
+      "url": "https://www.syracuse.com/sports/2026/07/boeheims-army-vs-hall-in-in-the-tbt-game-2-box-score.html",
+      "snippet": "Summer Sale - $1 for 3 months - Expires 8/2/26. # Boeheim’s Army vs. Hall In in the TBT: Game 2 box score. * syracuse.com | The Post-Standard. ― Boeheim’s Army held off Hall In 81-76 at the OnCenter Thursday night to sweep the best-of-three first-round series in The Basketball Tournament. All five starters scored in double figures for Boeheim’s Army. The game’s stats are below. *If you are having trouble seeing the box on the mobile app, click here.*. Hall in at Boeheim's Army - July 23, 2026. Box Score - TBT  by  George Owens.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.7521447539329529,
+      "embedding_score_norm": 0.4810570416433609,
+      "embedding_rank": 9
+    },
+    {
+      "title": "Event honoring memory of Alexis Wilson set for July 27 - HF Chronicle",
+      "url": "https://www.hfchronicle.com/2026/07/21/event-honoring-memory-of-alexis-wilson-set-for-july-27/",
+      "snippet": "News you can't get anywhere else. # Event honoring memory of Alexis Wilson set for July 27. ### More in Local News:. * 07.21.2026 | What You Need To Know Today July 21, 2026. * Homewood approves contract for village website redesign July 20, 2026. * Homewood approves new three-year firefighters contract with pay increases and staffing changes July 20, 2026. The Forever Lexi Foundation is hosting the fifth annual Legacy of Light Butterfly Release on July 27 to honor the memory of Alexis Wilson, who was a victim of police violence in 2021. The event will be held from 5 to 9 p.m. in Izaak Walton Preserve, 1100 Ridge Road in Homewood. Wilson, a Homewood-Flossmoor High School graduate, was 19 when she was shot and killed by Dolton police. Her mother, Cara Wilson, has become…. ### Newsletter. ### New Irwin Park playground. ### Izaak Walton community picnic.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.7505255341529846,
+      "embedding_score_norm": 0.4661599710459645,
+      "embedding_rank": 10
+    },
+    {
+      "title": "Al-Najmah vs. Al-Ittihad Club - Boxscore - Live Score - August 18, 2026 - FOX Sports",
+      "url": "https://www.foxsports.com/soccer/saudi-king-cup-al-najmah-vs-al-ittihad-club-aug-18-2026-game-boxscore-859410?tab=boxscore",
+      "snippet": "Access and manage your favorites here. ## Al-Najmah vs Al-Ittihad Club. Aug 18 at 4:15 PM. # Al-Najmah vs. Al-Ittihad Club - Boxscore: Aug 18, 2026. ## MATCHUP## ODDS. | 5/20 | SHA (H) | W1-0 |. | 5/4 | ETT (A) | D0-0 |. | 4/28 | KHS (A) | L3-1 |. | 5/21 | QAD (H) | L5-1 |. | 5/4 | AKH (H) | D0-0 |. Follow a team and personalize your FOX Sports experience. NFL College Football INDYCAR MLB College Basketball NASCAR. The Herd with Colin Cowherd First Things First The Joel Klatt Show Kevin Harvick's Happy Hour Bear Bets. FOX SPORTS™, SPEED™, SPEED.COM™ & © 2026 Fox Media LLC and Fox Sports Interactive Media, LLC. Use of this website (including any and all parts and components) constitutes your acceptance of these  Terms of Use and  Privacy Policy |  Advertising Choices |  Your Privacy Choices |  Closed Captioning. FS1FOXFOX NewsFox CorporationFOX Sports SupportsFOX Deportes.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.7229170799255371,
+      "embedding_score_norm": 0.21215795303743187,
+      "embedding_rank": 11
+    },
+    {
+      "title": "Roseville 8-year-old has 4,000-book library | Cody’s Caravan - CBS News",
+      "url": "https://www.cbsnews.com/gooddaysacramento/video/roseville-8-year-old-has-4000-book-library-codys-caravan/",
+      "snippet": "# Roseville 8-year-old has 4,000-book library | Cody’s Caravan. Cody’s Caravan is in Roseville with a kid who has a serious book collection.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.6998568177223206,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

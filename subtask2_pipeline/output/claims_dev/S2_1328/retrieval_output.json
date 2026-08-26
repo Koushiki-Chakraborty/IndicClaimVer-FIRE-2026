@@ -1,0 +1,108 @@
+{
+  "claim": {
+    "id": "S2/1328",
+    "text": "Congress first offers unconditional support to AAP, then taunts it",
+    "lang": "dev"
+  },
+  "generated_queries": {
+    "english_translation": "Congress first offers unconditional support to AAP, then taunts it",
+    "native_query": "Congress AAP offers unconditional support taunts",
+    "english_query": "Congress AAP offers unconditional support taunts"
+  },
+  "native_retrieval": [
+    {
+      "title": "Congress first offers unconditional support to Aam Aadmi ...",
+      "url": "https://www.ndtv.com/delhi-news/congress-first-offers-unconditional-support-to-aam-aadmi-party-then-taunts-it-544083",
+      "snippet": "Dec 10, 2013 — Congress today first indicated its willingness to back the Aam Aadmi Party to form the Delhi government but later taunted it, saying Arvind"
+    },
+    {
+      "title": "Congress offers unconditional support to AAP",
+      "url": "https://www.deccanherald.com/india/congress-offers-unconditional-support-to-aap-364044.html",
+      "snippet": "Dec 13, 2013 — Congress today sought to inject some life into government making in Delhi by offering unconditional support of its eight MLAs to Aam Admi"
+    },
+    {
+      "title": "Congress Dismisses Dikshit's Comment on Supporting AAP",
+      "url": "https://www.newindianexpress.com/india/2015/Jan/08/congress-dismisses-dikshits-comment-on-supporting-aap-703015.html",
+      "snippet": "Jan 8, 2015 — NEW DELHI: Congress on Thursday trashed former Chief Minister Sheila Dikshit's comment that the party may extend support to Aam Aadmi Party"
+    },
+    {
+      "title": "AAP-Congress Alliance Can Inject Dynamism Into The Poll ...",
+      "url": "https://www.ndtv.com/opinion/aap-congress-alliance-can-inject-dynamism-into-the-poll-landscape-5130327",
+      "snippet": "Feb 26, 2024 — Why should nobody trust the Aam Aadmi Party's (AAP) spokesperson based on what they say in a press conference?Read more"
+    },
+    {
+      "title": "How allies banded to back AAP, not Congress",
+      "url": "https://www.hindustantimes.com/cities/delhi-news/how-allies-banded-to-back-aap-not-congress-101736447653412.html",
+      "snippet": "Jan 10, 2025 — The AAP, the Samajwadi Party and the TMC have been in touch with each other over the Delhi elections, two leaders of INDIA bloc members have"
+    },
+    {
+      "title": "The actions of the AAP aren't a surprise. What will be ...",
+      "url": "https://x.com/Bhayankur/status/2079561662861111715",
+      "snippet": "Ankur Bhardwaj (@Bhayankur). 26 likes. The actions of the AAP aren't a surprise. What will be a surprise is when their friends will again"
+    }
+  ],
+  "english_retrieval": [
+    {
+      "title": "Congress first offers unconditional support to Aam Aadmi ...",
+      "url": "https://www.ndtv.com/delhi-news/congress-first-offers-unconditional-support-to-aam-aadmi-party-then-taunts-it-544083",
+      "snippet": "Dec 10, 2013 — Congress today first indicated its willingness to back the Aam Aadmi Party to form the Delhi government but later taunted it, saying Arvind"
+    },
+    {
+      "title": "Congress offers unconditional support to AAP",
+      "url": "https://www.deccanherald.com/india/congress-offers-unconditional-support-to-aap-364044.html",
+      "snippet": "Dec 13, 2013 — Congress today sought to inject some life into government making in Delhi by offering unconditional support of its eight MLAs to Aam Admi"
+    },
+    {
+      "title": "Congress Dismisses Dikshit's Comment on Supporting AAP",
+      "url": "https://www.newindianexpress.com/india/2015/Jan/08/congress-dismisses-dikshits-comment-on-supporting-aap-703015.html",
+      "snippet": "Jan 8, 2015 — NEW DELHI: Congress on Thursday trashed former Chief Minister Sheila Dikshit's comment that the party may extend support to Aam Aadmi Party"
+    },
+    {
+      "title": "AAP-Congress Alliance Can Inject Dynamism Into The Poll ...",
+      "url": "https://www.ndtv.com/opinion/aap-congress-alliance-can-inject-dynamism-into-the-poll-landscape-5130327",
+      "snippet": "Feb 26, 2024 — Why should nobody trust the Aam Aadmi Party's (AAP) spokesperson based on what they say in a press conference?Read more"
+    },
+    {
+      "title": "How allies banded to back AAP, not Congress",
+      "url": "https://www.hindustantimes.com/cities/delhi-news/how-allies-banded-to-back-aap-not-congress-101736447653412.html",
+      "snippet": "Jan 10, 2025 — The AAP, the Samajwadi Party and the TMC have been in touch with each other over the Delhi elections, two leaders of INDIA bloc members have"
+    },
+    {
+      "title": "The actions of the AAP aren't a surprise. What will be ...",
+      "url": "https://x.com/Bhayankur/status/2079561662861111715",
+      "snippet": "Ankur Bhardwaj (@Bhayankur). 26 likes. The actions of the AAP aren't a surprise. What will be a surprise is when their friends will again"
+    }
+  ],
+  "merged_results": [
+    {
+      "title": "Congress first offers unconditional support to Aam Aadmi ...",
+      "url": "https://www.ndtv.com/delhi-news/congress-first-offers-unconditional-support-to-aam-aadmi-party-then-taunts-it-544083",
+      "snippet": "Dec 10, 2013 — Congress today first indicated its willingness to back the Aam Aadmi Party to form the Delhi government but later taunted it, saying Arvind"
+    },
+    {
+      "title": "Congress offers unconditional support to AAP",
+      "url": "https://www.deccanherald.com/india/congress-offers-unconditional-support-to-aap-364044.html",
+      "snippet": "Dec 13, 2013 — Congress today sought to inject some life into government making in Delhi by offering unconditional support of its eight MLAs to Aam Admi"
+    },
+    {
+      "title": "Congress Dismisses Dikshit's Comment on Supporting AAP",
+      "url": "https://www.newindianexpress.com/india/2015/Jan/08/congress-dismisses-dikshits-comment-on-supporting-aap-703015.html",
+      "snippet": "Jan 8, 2015 — NEW DELHI: Congress on Thursday trashed former Chief Minister Sheila Dikshit's comment that the party may extend support to Aam Aadmi Party"
+    },
+    {
+      "title": "AAP-Congress Alliance Can Inject Dynamism Into The Poll ...",
+      "url": "https://www.ndtv.com/opinion/aap-congress-alliance-can-inject-dynamism-into-the-poll-landscape-5130327",
+      "snippet": "Feb 26, 2024 — Why should nobody trust the Aam Aadmi Party's (AAP) spokesperson based on what they say in a press conference?Read more"
+    },
+    {
+      "title": "How allies banded to back AAP, not Congress",
+      "url": "https://www.hindustantimes.com/cities/delhi-news/how-allies-banded-to-back-aap-not-congress-101736447653412.html",
+      "snippet": "Jan 10, 2025 — The AAP, the Samajwadi Party and the TMC have been in touch with each other over the Delhi elections, two leaders of INDIA bloc members have"
+    },
+    {
+      "title": "The actions of the AAP aren't a surprise. What will be ...",
+      "url": "https://x.com/Bhayankur/status/2079561662861111715",
+      "snippet": "Ankur Bhardwaj (@Bhayankur). 26 likes. The actions of the AAP aren't a surprise. What will be a surprise is when their friends will again"
+    }
+  ]
+}

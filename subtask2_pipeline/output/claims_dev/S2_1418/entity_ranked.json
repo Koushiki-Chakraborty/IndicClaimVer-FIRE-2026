@@ -1,0 +1,99 @@
+{
+  "claim": {
+    "id": "S2/1418",
+    "text": "Congress to finalize candidates' list for Delhi assembly poll next week",
+    "lang": "dev"
+  },
+  "entity_ranked_evidence": [
+    {
+      "title": "Congress Releases 4th List for Delhi Assembly Polls",
+      "url": "https://www.youtube.com/watch?v=Y2gTTRaIZcg",
+      "snippet": "Congress has released its fourth list for the upcoming Delhi assembly elections naming the candidates in the five remaining constituencies.",
+      "bm25_score_raw": 3.260242385915917,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8856995105743408,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1,
+      "entity_overlap_raw": 2,
+      "entity_overlap_qid": 1,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 1
+    },
+    {
+      "title": "Delhi Polls: Congress Releases List Of 15 Candidates ...",
+      "url": "https://www.ndtv.com/india-news/delhi-polls-congress-releases-list-of-15-candidates-replaces-gokalpur-nominee-7473706",
+      "snippet": "Jan 14, 2025 — The party also replaced its candidate in the Gokalpur (SC) constituency, fielding Ishwar Bagri in place of Pramod Kumar Jayant.Read more",
+      "bm25_score_raw": 1.8240471994688934,
+      "bm25_score_norm": 0.03179431791633231,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8452333807945251,
+      "embedding_score_norm": 0.0042475487859431945,
+      "embedding_rank": 5,
+      "entity_overlap_raw": 2,
+      "entity_overlap_qid": 1,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 2
+    },
+    {
+      "title": "Congress releases 4th list of candidates for Delhi ...",
+      "url": "https://newsonair.gov.in/congress-releases-4th-list-of-candidates-for-delhi-assembly-elections",
+      "snippet": "Sumesh Gupta has been fielded from the Rohini seat, Virender Bidhuri from Tughlakabad, and Arjun Bhadana from Badarpur. Earlier on Tuesday, the party had ...Read more",
+      "bm25_score_raw": 1.8001571803635525,
+      "bm25_score_norm": 0.01568894974551956,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8450607657432556,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6,
+      "entity_overlap_raw": 2,
+      "entity_overlap_qid": 1,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 3
+    },
+    {
+      "title": "Congress releases another candidate list for Delhi Assembly ...",
+      "url": "https://www.facebook.com/RepublicWorld/posts/congress-releases-another-candidate-list-for-delhi-assembly-polls-mp-cm-kamal-na/2826254524155076",
+      "snippet": "With barely weeks to go for the elections to the Delhi Assembly, Congress has released a list of its star campaigners, including Sonia Gandhi, Rahul Gandhi",
+      "bm25_score_raw": 2.3872364556891816,
+      "bm25_score_norm": 0.41146627553507575,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8810688257217407,
+      "embedding_score_norm": 0.8860524636809645,
+      "embedding_rank": 2,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 1,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 4
+    },
+    {
+      "title": "The Delhi Assembly election is just a few weeks away and ...",
+      "url": "https://www.facebook.com/thehindu/posts/the-delhi-assembly-election-is-just-a-few-weeks-away-and-the-main-contenders-the/2869379469822704",
+      "snippet": "*Candidate Selection*, Congress has announced two lists of 47 candidates so far, including Alka Lamba, who will contest against Chief Minister Atishi in the",
+      "bm25_score_raw": 1.7768848586638568,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8661514520645142,
+      "embedding_score_norm": 0.5189797669421609,
+      "embedding_rank": 3,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 1,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 5
+    },
+    {
+      "title": "List of party candidates to the Delhi Legislative Assembly",
+      "url": "https://inc.in/media/press-releases/list-of-party-candidates-to-the-delhi-legislative-assembly",
+      "snippet": "Dec 12, 2024 — The Central Election Committee has selected the following persons as Congress candidates for the ensuing elections to the Delhi Legislative Assembly.Read more",
+      "bm25_score_raw": 2.64158265900486,
+      "bm25_score_norm": 0.5829328293785435,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8489329814910889,
+      "embedding_score_norm": 0.09528384215428165,
+      "embedding_rank": 4,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 1,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 6
+    }
+  ]
+}

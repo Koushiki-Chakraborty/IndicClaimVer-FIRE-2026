@@ -1,0 +1,57 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1274",
+    "text": "Bombay High Court ruled that sexual acts should occur only within marriage and did not advocate distinguishing the age of consent from the age of marriage.",
+    "lang": "english"
+  },
+  "ranked_evidence": [
+    {
+      "title": "'Sexual acts do not happen only in the confines of marriage ...",
+      "url": "https://www.indiatoday.in/law/story/sexual-acts-age-of-consent-age-of-marriage-bombay-high-court-pocso-act-case-2406211-2023-07-13",
+      "snippet": "Jul 13, 2023 — \"Age of consent necessarily must be distinguished from the age of marriage as sexual acts do not happen only in the confines of marriage,\"",
+      "bm25_score_raw": 4.00226638318495,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Heard Mr. Faiz Merchant, learned Advocate for the Pe",
+      "url": "https://bombayhighcourt.nic.in/generatenewauth.php?bhcpar=cGF0aD0uL3dyaXRlcmVhZGRhdGEvZGF0YS9qdWRnZW1lbnRzLzIwMjYvJmZuYW1lPTIzMDgwMDA2NDg2MjAyNV8xMC5wZGYmc21mbGFnPU4mcmp1ZGRhdGU9JnVwbG9hZGR0PTA3LzAzLzIwMjYmc3Bhc3NwaHJhc2U9MTAwMzI2MjAxMTEyJm5jaXRhdGlvbj0yMDI2OkJIQy1BUzoxMTMxOS1EQiZzbWNpdGF0aW9uPSZkaWdjZXJ0ZmxnPVkmaW50ZXJmYWNlPU8%3D",
+      "snippet": "Mar 7, 2026 — 3 is accepted that there indeed was a false promise of marriage based on which the accused- appellant indulged in sexual activities, such a ...Read more",
+      "bm25_score_raw": 2.931724851272231,
+      "bm25_score_norm": 0.6883696488650951,
+      "bm25_rank": 2
+    },
+    {
+      "title": "POSH Won't Apply To Sexual Harassment Complaints Of ...",
+      "url": "https://www.instagram.com/reel/DL1r2luPEt8?hl=en",
+      "snippet": "Bombay High Court's ruling that the POSH Act does not apply to women lawyers' complaints against fellow advocates, since no employer-employee",
+      "bm25_score_raw": 1.0866748638851484,
+      "bm25_score_norm": 0.15128298917839175,
+      "bm25_rank": 3
+    },
+    {
+      "title": "As per the #Bombay High Court's interpretation, staring at a ...",
+      "url": "https://www.facebook.com/groups/advocategroups/posts/26460804110212677",
+      "snippet": "” DECISION Supreme Court held that “we conclude that the sexual intercourse in question is not proved to amount to rape and that no offence ...Read more",
+      "bm25_score_raw": 0.977957045173156,
+      "bm25_score_norm": 0.11963566769679847,
+      "bm25_rank": 4
+    },
+    {
+      "title": "Bombay High Court warns against misuse of domestic ...",
+      "url": "https://www.linkedin.com/posts/amish-aggarwala-45978246_bombay-high-court-marriages-are-sacrosanct-activity-7380950194063863808-mAV6",
+      "snippet": "Bombay High Court: Marriages are sacrosanct, but misuse of domestic violence law is a growing menace The Bombay High Court has observed that",
+      "bm25_score_raw": 0.8688926998061086,
+      "bm25_score_norm": 0.08788747369417427,
+      "bm25_rank": 5
+    },
+    {
+      "title": "barandbench",
+      "url": "https://www.instagram.com/p/DZhE7pyhA_8",
+      "snippet": "Bombay High Court cancels bail for a gang rape accused, ruling that impending marriage is not a valid ground for bail in heinous offenses ...Read more",
+      "bm25_score_raw": 0.5669734856414725,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6
+    }
+  ]
+}

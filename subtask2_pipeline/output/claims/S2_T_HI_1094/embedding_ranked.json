@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/HI/1094",
+    "text": "कोरोना से यूपी हलकान, सरकार ने लखनऊ के सबसे बड़े श्मशान को खुला छोड़ दिया",
+    "lang": "hindi"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "UP | Pile Of COVID Dead Bodies At Lucknow Crematorium ...",
+      "url": "https://www.youtube.com/watch?v=Vl0l8Vo1HyA",
+      "snippet": "Mojo Story's Anoop reports from Bhainsa Kund cremation ground which is also one of the biggest crematorium in Uttar Pradesh's Lucknow and is",
+      "bm25_score_raw": 3.075739944490672,
+      "bm25_score_norm": 0.7878996967790245,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8887410163879395,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Lucknow's biggest crematorium is being covered on all ...",
+      "url": "https://www.facebook.com/thetelegraphindia/posts/lucknows-biggest-crematorium-is-being-covered-on-all-sides-with-tin-sheets-spark/5483325428375211",
+      "snippet": "Lucknow's biggest crematorium is being covered on all sides with tin sheets, sparking allegations that the Uttar Pradesh government is trying",
+      "bm25_score_raw": 2.7100306828309066,
+      "bm25_score_norm": 0.6824904252247996,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8858916163444519,
+      "embedding_score_norm": 0.9740803414530732,
+      "embedding_rank": 2
+    },
+    {
+      "title": "At Lucknow's designated electric crematorium for Covid ...",
+      "url": "https://www.facebook.com/ndtv/posts/at-lucknows-designated-electric-crematorium-for-covid-linked-deaths-a-line-of-am/10159684424685798",
+      "snippet": "It is because government officials don't see the cremation workers and wife's body on the outskirt of the village.",
+      "bm25_score_raw": 2.3729297293515383,
+      "bm25_score_norm": 0.5853269960427593,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8792628049850464,
+      "embedding_score_norm": 0.9137811471014496,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Video | Covid Deaths In Lucknow Underreported? Cremations ...",
+      "url": "https://www.ndtv.com/video/covid-19-cases-in-lucknow-covid-deaths-in-lucknow-underreported-cremations-vs-government-data-582704",
+      "snippet": "A mismatch between the official figure of deaths because of COVID-19 and the death count at crematoriums has been reported in Uttar Pradesh's",
+      "bm25_score_raw": 0.3463096564357296,
+      "bm25_score_norm": 0.0011893544810056172,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.873275876045227,
+      "embedding_score_norm": 0.859320856690666,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Covid Deaths In Lucknow Underreported? Cremations vs ...",
+      "url": "https://www.ndtv.com/india-news/uttar-pradesh-coronavirus-covid-deaths-in-lucknow-underreported-cremations-vs-government-data-2413690",
+      "snippet": "A mismatch between the official figure of deaths because of COVID-19 and the death count at crematoriums has been reported in Uttar Pradesh's capital Lucknow.",
+      "bm25_score_raw": 0.3421832836538387,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.8711299896240234,
+      "embedding_score_norm": 0.8398007322893177,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Non-stop cremations cast doubt on India's counting of ...",
+      "url": "https://www.aljazeera.com/news/2021/4/20/non-stop-cremations-cast-doubt-on-indias-counting-of-covid-dead",
+      "snippet": "the largest coronavirus-only crematorium, shows double the number of bodies arriving on six different days in April than government data on",
+      "bm25_score_raw": 3.4730100198766207,
+      "bm25_score_norm": 0.9024058185728002,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8611140251159668,
+      "embedding_score_norm": 0.7486901910859798,
+      "embedding_rank": 6
+    },
+    {
+      "title": "Lucknow में लगातार बढ़ रहे Corona Case, सोमवार को 499 नए ...",
+      "url": "https://www.youtube.com/watch?v=c97QeilmeeY",
+      "snippet": "... कोरोना से 5 लोगों की मौत भी हो गई है। बता दें, कोरोना के सबसे ज्यादा मामले Lucknow से सामने आ रहे हैं। #YogiAdityanath देखिये हमारी ये खास रिपोर्ट देखते रहिये उत्तरप्रदेश और उत्तराखंड की सभी बड़ी",
+      "bm25_score_raw": 2.1492219876151903,
+      "bm25_score_norm": 0.5208471685687496,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.8506560325622559,
+      "embedding_score_norm": 0.653558727640533,
+      "embedding_rank": 7
+    },
+    {
+      "title": "Corona से UP का हाल बेहाल, 27 हजार से ज्यादा नए मामले, देखें ...",
+      "url": "https://www.youtube.com/watch?v=9wRg7g_JpHw",
+      "snippet": "UP में Corona ने पिछले सारे Record तोड़ दिए हैं. राज्य में आज 27 हजार से ज्यादा नए केस आए हैं. राजधानी लखनऊ का बहुत बुरा हाल है. जहां आंकड़ा साढ़े छह हजार के पार पहुंच गया.",
+      "bm25_score_raw": 3.524842273829946,
+      "bm25_score_norm": 0.9173455554212386,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8380227088928223,
+      "embedding_score_norm": 0.5386392951891531,
+      "embedding_rank": 8
+    },
+    {
+      "title": "Surkhiyan : राजधानी Lucknow में कोरोना का पहला केस, अब UP में ...",
+      "url": "https://www.youtube.com/watch?v=-tpYyQlOr3A",
+      "snippet": "यूपी की राजधानी लखनऊ में सामने आया कोरोना का पहला मरीज. बढ़ती कोरोना मामलों को लेकर यूपी में लिया गया बड़ा फैसला. वहीं, अगले महीने बढ़ने वाले बिजली बिल से लेकर जानिए वो सभी खबरें जो हैं आपके लिए जरूरी,",
+      "bm25_score_raw": 3.811605434736974,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8379439115524292,
+      "embedding_score_norm": 0.5379225126643327,
+      "embedding_rank": 9
+    },
+    {
+      "title": "कोरोना: लखनऊ में हालात कैसे हो गए बेक़ाबू, कहाँ हुई चूक",
+      "url": "https://www.bbc.com/hindi/india-56778157",
+      "snippet": "लखनऊ के गोमती नगर में रहने वाले रिटायर्ड ज़िला जज रमेश चंद्रा और उनकी पत्नी मधु चंद्रा चार दिन पहले कोरोना संक्रमित हुए थे. गुरुवार को पत्नी की हालत बिगड़ने लगी तो रमेश चंद्रा सरकार की ओर से उपलब्ध",
+      "bm25_score_raw": 0.7008611457884926,
+      "bm25_score_norm": 0.1033825941368007,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.8178300261497498,
+      "embedding_score_norm": 0.3549559113683769,
+      "embedding_rank": 10
+    },
+    {
+      "title": "लखनऊ में मिले रिकॉर्ड 191 कोरोना संक्रमित, फिर लागू हो सकते ...",
+      "url": "https://hindi.news18.com/news/uttar-pradesh/lucknow-new-191-corona-virus-infection-active-case-more-than-800-nodelsp-4337657.html",
+      "snippet": "बुधवार को लखनऊ में रिकॉर्ड तोड़ 191 नए कोरोना केस मिले हैं. इसके साथ ही यहां कोविड पॉजिटिव मरीजों की संख्या बढ़कर 800 से ऊपर पहुंच गई है. यूपी के नोएडा, गाजियाबाद समेत कई अन्य शहरों में भी कोरोना संक्रमितों",
+      "bm25_score_raw": 2.1881210252540075,
+      "bm25_score_norm": 0.5320591329665306,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8150455951690674,
+      "embedding_score_norm": 0.32962724597731563,
+      "embedding_rank": 11
+    },
+    {
+      "title": "लखनऊ में 4 दिन में कोरोना के 22 नए केस: एक्टिव संक्रमितों की ...",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/lucknow/news/up-lucknow-covid-update-22-new-cases-of-corona-found-in-lucknow-in-4-days-active-case-count-reaches-35-26-cases-more-reported-in-state-in-last-24-hrs-135289434.html",
+      "snippet": "लखनऊ में अब तक कोरोना के 67 केस. रविवार सुबह आई रिपोर्ट में लखनऊ में 24 घंटे में 1 संक्रमित मिलने की पुष्टि हुई। · शुक्रवार को 10 नए मरीज मिले थे · गुरुवार को 6 महीने की बच्ची समेत 7 पॉजिटिव केस थे.",
+      "bm25_score_raw": 0.8642854393894176,
+      "bm25_score_norm": 0.15048677647157507,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.7788090109825134,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

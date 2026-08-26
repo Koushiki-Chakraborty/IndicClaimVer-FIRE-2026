@@ -1,0 +1,105 @@
+{
+  "claim": {
+    "id": "S2/T/HI/1028",
+    "text": "नीतीश सरकार में RT-PCR जांच घोटाला? 20 करोड़ के काम का ब्लैकलिस्टेड कंपनी को दिया 29 करोड़ में ठेका",
+    "lang": "hindi"
+  },
+  "ranked_evidence": [
+    {
+      "title": "CM नीतीश का निर्देश, RT-PCR प्रक्रिया से हो कोरोना जांच, 24 घंटे के अंदर मिल जानी ...",
+      "url": "https://www.abplive.com/states/bihar/cm-nitishs-instruction-corona-test-to-be-done-through-rt-pcr-process-report-should-be-received-within-24-hours-ann-1826145/amp",
+      "snippet": "वहीं, आरटीपीसीआर जांच की रिपोर्ट 24 घंटे के अंदर मिल जानी चाहिए, इसमें देरी नहीं होनी चाहिए. साथ ही कोरोना टीकाकरण की रफ्तार को और बढ़ाएं. सभी हेल्थ वर्कर, फ्रंटलाइन वर्कर और पुलिसकर्मियों का टीकाकरण तेजी से",
+      "bm25_score_raw": 5.9265401827802995,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Nitish asks officials to increase RT-PCR tests in Bihar",
+      "url": "https://www.deccanherald.com/amp/story/india%2Fnitish-asks-officials-to-increase-rt-pcr-tests-in-bihar-876322.html",
+      "snippet": "He asked officials to ensure availability of RT-PCR machines at the earliest so that the number of tests can be increased. ADVERTISEMENT.",
+      "bm25_score_raw": 5.610526854889068,
+      "bm25_score_norm": 0.9466782780264588,
+      "bm25_rank": 2
+    },
+    {
+      "title": "Nitish Kumar Reddy in the IPL since 2025: Runs-183 Strike Rate",
+      "url": "https://x.com/talksports45/status/2037900137620812113",
+      "snippet": "Nitish Kumar Reddy in the IPL since 2025: Runs-183. Strike Rate -115.09. Avg-20.33. Boundaries -20. Balls Per Boundary -7.59.",
+      "bm25_score_raw": 0.5616546886897027,
+      "bm25_score_norm": 0.09476940531367753,
+      "bm25_rank": 3
+    },
+    {
+      "title": "Nitish Kumar Reddy played some stunning shots for his highest T20 ...",
+      "url": "https://www.facebook.com/Cricinfo/posts/nitish-kumar-reddy-played-some-stunning-shots-for-his-highest-t20-score-live-esp/992551012232615",
+      "snippet": "Nitish Kumar Reddy played some stunning shots for his highest T20 score ・ scoring 303 runs with a strike rate of 142 ・ scoring 74 runs off 35",
+      "bm25_score_raw": 0.5366418206106593,
+      "bm25_score_norm": 0.0905489213031719,
+      "bm25_rank": 4
+    },
+    {
+      "title": "Nitish Kumar Reddy Profile - Cricket Player India | Stats, Records, Video",
+      "url": "https://www.cricinfo.com/cricketers/nitish-kumar-reddy-1175496",
+      "snippet": "Full Name. Kaki Nitish Kumar Reddy ; Born. May 26, 2003, Visakhapatnam, Andhra Pradesh ; Age. 23y 54d ; Batting Style. Right hand Bat ; Bowling Style. Right arm",
+      "bm25_score_raw": 0.5342625227484339,
+      "bm25_score_norm": 0.09014745640310448,
+      "bm25_rank": 5
+    },
+    {
+      "title": "Bihar CM Nitish Kumar seeks PM's help to raise testing to 1 lakh a day",
+      "url": "https://timesofindia.indiatimes.com/city/patna/nitish-seeks-pms-help-to-raise-testing-to-1-lakh-a-day/amp_articleshow/77491873.cms",
+      "snippet": "we will be able to test 20,600 samples per day through RT-PCR,” he said. 6,100 samples were being tested through RT-PCR, which is the most",
+      "bm25_score_raw": 0.4103064755542311,
+      "bm25_score_norm": 0.06923204144407662,
+      "bm25_rank": 6
+    },
+    {
+      "title": "RT (TV network)",
+      "url": "https://en.wikipedia.org/wiki/RT_(TV_network)",
+      "snippet": "# RT (TV network). | Sister channels | * RT America (2010–2022) * RT France (2017–2023) * RT UK (2014–2022) * RT DE (2014–2022) * RT India * RT en Español * RT Arabic * RT Documentary * Ruptly (including Redfish and Maffick) |. **RT**, formerly **Russia Today** (Russian: Россия Сегодня, romanized: *Rossiya Segodnya*), is a Russian state-controlled international news television network funded by the Russian government. RT operates as a multilingual service with channels in five languages: the original English-language channel was launched in 2005, the Arabic-language channel in 2007, Spanish in 2009, German in 2014 and French in 2017. In September 2017, RT America was ordered to register as a foreign agent with the United States Department of Justice under the Foreign Agents Registration Act. RT was banned in Ukraine in 2014 after Russia's annexation of Crimea; Latvia and Lithuania implemented similar bans in 2020.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 7
+    },
+    {
+      "title": "WATCH LIVE: RT in Russia",
+      "url": "https://bnonews.com/index.php/live-feeds/rt",
+      "snippet": "# WATCH LIVE: RT in Russia. **NOTE: Try refreshing the page once or twice if the player doesn’t appear.**. RT, formerly known as Russia Today, is a state-funded news organization in Russia. It provides live coverage of local and international news. **DISCLAIMER: RT has been accused of spreading propaganda, misinformation and conspiracy theories. BNO News provides this and other live feeds for information purposes and does not endorse RT’s reporting.**. Click here to let us know.*. Article continues below the player. ## Latest updates from RT. ## Death toll from Venezuela earthquakes rises to more than 5,200 Legal22 hours ago. ## Texas Amber Alert: 5-year-old Edward Hall missing in Fort Bend County US News22 hours ago. ## Tropical depression forms in Gulf, expected to strengthen. ## Man shot and killed by police after pointing gun at people in Austin, Texas World1 week ago. ## Death toll from wildfire in southern Spain rises to 13 Politics7 days ago.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 8
+    },
+    {
+      "title": "RT (@RT_com) / X",
+      "url": "https://x.com/RT_com?lang=en",
+      "snippet": "People on X are the first to know. JOE ROGAN: ‘The narrative is that Israel has a very disproportionate effect on American politics’ JD VANCE: ‘I see that narrative’. This dog's mother instinct knows no boundaries when it comes to saving her puppies after house collapse. ‘Charlie Kirk right in the neck b\\*\\*\\*h…f\\*\\*k that nigga!’ Texas State student disrupts vigil for Charlie, reenacting his death How do you deal with this kind of disrespect? Elderly suspect ADMITS he helped Charlie Kirk’s killer escape – Fox News George Zinn told cops he wanted ‘to draw attention from the real shooter’ Random act of insanity, or proof of conspiracy? 2009 Gaddafi TORE up the UN Charter and THREW it at Sec Gen Ban Ki-moon In his speech Gaddafi UNMASKED the UN's ineptness to resolve global crisis He called for a ONE STATE solution for the Palestinian-Israeli conflict. Where are the borders of the State of #Israel?",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 9
+    },
+    {
+      "title": "RT - latest news, breaking stories and comment - The Independent",
+      "url": "https://www.the-independent.com/topic/rt",
+      "snippet": "## Stay up to date with notifications from The Independent. # RT. <p>Photo of Meta’s logo taken during the World Economic Forum (WEF) annual meeting in Davos in January</p>. ## Meta bans RT and other Russian state media for 'foreign interference'. ## US accuses Russia of using state media to interfere with elections. <p>Vladimir Putin and Tucker Carlson</p>. <p>Russia UN Putin</p>. <p>George Gallow appears on a recent episode of his RT show</p>. <p>RT is a Russian state-owned TV network used as a mouthpiece for Putin’s propaganda</p>. <p>Russia Today held a conference in Moscow on Thursday</p>. <p>President Vladimir Putin speaks during his visit to the new studio complex of the state-owned English-language Russia Today television network in Moscow, on June 11, 2013</p>. <p>Vladimir Putin on RT, formerly known as Russia Today </p>. Russian President Vladimir Putin is seen on the screen of a television camera during his visit to the new studio complex of television channel 'Russia Today' in Moscow.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10
+    },
+    {
+      "title": "RT Definition & Meaning - Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/rt",
+      "snippet": "## abbreviation (2). ## Browse Nearby Words. ## Cite this Entry. “Rt.” *Merriam-Webster.com Dictionary*, Merriam-Webster, https://www.merriam-webster.com/dictionary/rt. ## Medical Definition. Subscribe to America's largest dictionary and get thousands more definitions and advanced search—ad free! ## More from Merriam-Webster. #### Word of the Day. Get Word of the Day daily email! ## Popular in Grammar & Usage. ### Merriam-Webster’s Great Big List of Words You Love to Hate. ### Do you 'say your piece' or 'say your peace'? ### Why is '-ed' sometimes pronounced at the end of a word? ### Commonly Misspelled Words. ## Popular in Wordplay. ### 14 Phobias You Probably Haven't Heard Of. ### It's a Scorcher! Words for the Summer Heat. ### The Longest Long Words List. ### Ten Words Ending with a Silent ‘T’. ### Why do we say 'fly off the handle'? ## Popular.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11
+    },
+    {
+      "title": "RT TV",
+      "url": "https://www.youtube.com/channel/UCa9T0y46uK5FzJT-8tLBFeQ",
+      "snippet": "RT TV, TV STATION GIVING Y'ALL EVERY ASPECT OF MEDIA. Collaborations RTTV Gaming RTTV 2.0 RT TV Reacts RTTV VLOGS Wellz Couples Channel Latest From RTTV. RTTV",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12
+    }
+  ]
+}

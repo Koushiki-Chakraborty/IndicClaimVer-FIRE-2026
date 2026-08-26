@@ -1,0 +1,6 @@
+{
+  "ID": "S2/T/EN/1162",
+  "Evidence": "The US Government Patient Assistance Program (USG PAP) allows eligible patients, including those with Medicare, Medicaid, or who are uninsured, to access Paxlovid for free until December 31, 2026 (Source 1). Paxlovid is a prescription medication for treating mild-to-moderate COVID-19 in high-risk patients (Source 2). The program aims to make antiviral treatment more accessible, particularly for those at high risk of severe COVID-19 (Source 2). Additionally, the PAXCESS Patient Support Program offers assistance with enrollment and financial aid (Source 1).",
+  "Prediction": "SUPPORTS",
+  "Justification": "The retrieved evidence indicates that the US Government Patient Assistance Program facilitates access to Paxlovid for eligible patients, making it more accessible at test sites. Specifically, Source 1 states that eligible patients can obtain Paxlovid for free, and Source 2 highlights its role in treating high-risk individuals, supporting the claim that the US is making Paxlovid more accessible."
+}

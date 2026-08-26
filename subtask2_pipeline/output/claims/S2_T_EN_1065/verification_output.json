@@ -1,0 +1,6 @@
+{
+  "ID": "S2/T/EN/1065",
+  "Evidence": "The retrieved evidence discusses various health risks associated with COVID-19, including a three-fold increased risk of acute myocardial infarction and stroke in the first two weeks following infection (Source 1). However, none of the sources explicitly mention a link between severe COVID-19 and long-term adverse mental health outcomes. Source 2 focuses on the risk of severe disease and death increasing with age, while Source 3 discusses genetic factors related to severe clinical courses of COVID-19. None of these sources provide evidence supporting the claim about mental health outcomes.",
+  "Prediction": "REFUTES",
+  "Justification": "The evidence does not support the claim that severe COVID-19 is linked with increased risk of long-term adverse mental health outcomes. While it highlights other health risks, such as cardiovascular issues shortly after infection (Source 1), it lacks any mention of mental health consequences. Therefore, the claim is not substantiated by the retrieved evidence."
+}

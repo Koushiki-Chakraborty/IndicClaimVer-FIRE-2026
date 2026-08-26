@@ -1,0 +1,108 @@
+{
+  "claim": {
+    "id": "S2/1028",
+    "text": "Farooq Abdullah says, We're not afraid of speaking to women now, keeping women secretaries",
+    "lang": "dev"
+  },
+  "generated_queries": {
+    "english_translation": "Farooq Abdullah says, We're not afraid of speaking to women now, keeping women secretaries",
+    "native_query": "Farooq Abdullah afraid speaking women keeping secretaries",
+    "english_query": "Farooq Abdullah afraid speaking women keeping secretaries"
+  },
+  "native_retrieval": [
+    {
+      "title": "Farooq Abdullah says, We're scared of speaking to women now, keeping ...",
+      "url": "https://www.indiatvnews.com/amp/politics/national/farooq-abdullah-scared-of-speaking-to-women-13709.html",
+      "snippet": "Dr Abdullah told mediapersons today:\" Nowadays we are scared of speaking to women, and even keeping woman secretaries."
+    },
+    {
+      "title": "Minister apologises for remark on women",
+      "url": "https://www.gulf-times.com/story/373895/minister-apologises-for-remark-on-women/amp",
+      "snippet": "“Now we are even afraid of talking to girls. We are scared now of appointing women secretaries,” Abdullah said speaking to reporters in the"
+    },
+    {
+      "title": "We feel scared to talk to ladies nowadays, says Farooq Abdullah",
+      "url": "https://www.indiatoday.in/india/video/farooq-abdullah-sexual-assault-cases-sexual-harassment-jammu-and-kashmir-426168-2013-12-05",
+      "snippet": "Union Minister Farooq Abdullah kicked up a controversy by suggesting that ladies should not be hired as personal secretaries as one can land"
+    },
+    {
+      "title": "Men scared to talk to women nowadays: Farooq Abdullah",
+      "url": "https://www.business-standard.com/amp/article/news-ani/men-scared-to-talk-to-women-nowadays-farooq-abdullah-113120600277_1.html",
+      "snippet": "\"I'm scared to talk to a woman these days. I don't even want to keep a female secretary, who knows, I might end up in jail because of a"
+    },
+    {
+      "title": "J&K: After release, Farooq Abdullah says he won't speak on politics until ...",
+      "url": "https://amp.scroll.in/latest/956093/j-k-after-release-farooq-abdullah-says-he-wont-speak-on-politics-until-all-others-are-freed-too",
+      "snippet": "J&K: After release, Farooq Abdullah says he won't speak on politics until National Conference chief Farooq Abdullah with his wife Mollie"
+    },
+    {
+      "title": "Farooq Abdullah's sister, daughter detained after women's protest",
+      "url": "https://www.youtube.com/watch?v=aKoLOFrQpvk",
+      "snippet": "Farooq Abdullah's sister Suraiya and daughter Safiya staged a protest here on Tuesday against the scrapping of Article 370."
+    }
+  ],
+  "english_retrieval": [
+    {
+      "title": "Farooq Abdullah says, We're scared of speaking to women now, keeping ...",
+      "url": "https://www.indiatvnews.com/amp/politics/national/farooq-abdullah-scared-of-speaking-to-women-13709.html",
+      "snippet": "Dr Abdullah told mediapersons today:\" Nowadays we are scared of speaking to women, and even keeping woman secretaries."
+    },
+    {
+      "title": "Minister apologises for remark on women",
+      "url": "https://www.gulf-times.com/story/373895/minister-apologises-for-remark-on-women/amp",
+      "snippet": "“Now we are even afraid of talking to girls. We are scared now of appointing women secretaries,” Abdullah said speaking to reporters in the"
+    },
+    {
+      "title": "We feel scared to talk to ladies nowadays, says Farooq Abdullah",
+      "url": "https://www.indiatoday.in/india/video/farooq-abdullah-sexual-assault-cases-sexual-harassment-jammu-and-kashmir-426168-2013-12-05",
+      "snippet": "Union Minister Farooq Abdullah kicked up a controversy by suggesting that ladies should not be hired as personal secretaries as one can land"
+    },
+    {
+      "title": "Men scared to talk to women nowadays: Farooq Abdullah",
+      "url": "https://www.business-standard.com/amp/article/news-ani/men-scared-to-talk-to-women-nowadays-farooq-abdullah-113120600277_1.html",
+      "snippet": "\"I'm scared to talk to a woman these days. I don't even want to keep a female secretary, who knows, I might end up in jail because of a"
+    },
+    {
+      "title": "J&K: After release, Farooq Abdullah says he won't speak on politics until ...",
+      "url": "https://amp.scroll.in/latest/956093/j-k-after-release-farooq-abdullah-says-he-wont-speak-on-politics-until-all-others-are-freed-too",
+      "snippet": "J&K: After release, Farooq Abdullah says he won't speak on politics until National Conference chief Farooq Abdullah with his wife Mollie"
+    },
+    {
+      "title": "Farooq Abdullah's sister, daughter detained after women's protest",
+      "url": "https://www.youtube.com/watch?v=aKoLOFrQpvk",
+      "snippet": "Farooq Abdullah's sister Suraiya and daughter Safiya staged a protest here on Tuesday against the scrapping of Article 370."
+    }
+  ],
+  "merged_results": [
+    {
+      "title": "Farooq Abdullah says, We're scared of speaking to women now, keeping ...",
+      "url": "https://www.indiatvnews.com/amp/politics/national/farooq-abdullah-scared-of-speaking-to-women-13709.html",
+      "snippet": "Dr Abdullah told mediapersons today:\" Nowadays we are scared of speaking to women, and even keeping woman secretaries."
+    },
+    {
+      "title": "Minister apologises for remark on women",
+      "url": "https://www.gulf-times.com/story/373895/minister-apologises-for-remark-on-women/amp",
+      "snippet": "“Now we are even afraid of talking to girls. We are scared now of appointing women secretaries,” Abdullah said speaking to reporters in the"
+    },
+    {
+      "title": "We feel scared to talk to ladies nowadays, says Farooq Abdullah",
+      "url": "https://www.indiatoday.in/india/video/farooq-abdullah-sexual-assault-cases-sexual-harassment-jammu-and-kashmir-426168-2013-12-05",
+      "snippet": "Union Minister Farooq Abdullah kicked up a controversy by suggesting that ladies should not be hired as personal secretaries as one can land"
+    },
+    {
+      "title": "Men scared to talk to women nowadays: Farooq Abdullah",
+      "url": "https://www.business-standard.com/amp/article/news-ani/men-scared-to-talk-to-women-nowadays-farooq-abdullah-113120600277_1.html",
+      "snippet": "\"I'm scared to talk to a woman these days. I don't even want to keep a female secretary, who knows, I might end up in jail because of a"
+    },
+    {
+      "title": "J&K: After release, Farooq Abdullah says he won't speak on politics until ...",
+      "url": "https://amp.scroll.in/latest/956093/j-k-after-release-farooq-abdullah-says-he-wont-speak-on-politics-until-all-others-are-freed-too",
+      "snippet": "J&K: After release, Farooq Abdullah says he won't speak on politics until National Conference chief Farooq Abdullah with his wife Mollie"
+    },
+    {
+      "title": "Farooq Abdullah's sister, daughter detained after women's protest",
+      "url": "https://www.youtube.com/watch?v=aKoLOFrQpvk",
+      "snippet": "Farooq Abdullah's sister Suraiya and daughter Safiya staged a protest here on Tuesday against the scrapping of Article 370."
+    }
+  ]
+}

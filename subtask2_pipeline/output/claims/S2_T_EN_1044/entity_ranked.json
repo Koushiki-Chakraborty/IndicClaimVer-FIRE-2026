@@ -1,0 +1,99 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1044",
+    "text": "WHO chief says conditions are not suitable for more dangerous Covid variants.",
+    "lang": "english"
+  },
+  "entity_ranked_evidence": [
+    {
+      "title": "COVID-19: WHO Chief Says Conditions Ideal For More ...",
+      "url": "https://www.facebook.com/stluciatimes/posts/covid-19-who-chief-says-conditions-ideal-for-more-variants/2168828903296598",
+      "snippet": "The WHO has warned there is a 'strong likelihood' of dangerous Covid variants spreading around the world as they declared the pandemic is '",
+      "bm25_score_raw": 16.48965591944098,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9109961986541748,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 1
+    },
+    {
+      "title": "COVID-19 variants | WHO COVID-19 dashboard",
+      "url": "https://data.who.int/dashboards/covid19/variants",
+      "snippet": "# WHO COVID-19 dashboard. # Coronavirus (COVID-19) variant data. Since the beginning of the COVID-19 pandemic and with the evolution of the SARS-CoV-2 virus, multiple COVID-19 Variants of Concern (VOCs) and Variants of Interest (VOIs) have been designated by WHO based on their assessed potential for expansion and replacement of prior variants, for causing new waves with increased circulation, and for the need for adjustments to public health actions. | Variant of Concern (VOC) | A Variant of Concern (VOC) is a term that describes a SARS-CoV-2 variant that meets the definition of a VOI (see above), but also meets at least one of the following criteria when compared with other variants:   * it can cause a detrimental change in disease severity; * it can have a substantial impact on the ability of health systems to provide care to patients with COVID-19 or other illnesses and therefore require major public health interventions; or * there is a significant decrease in the effectiveness of available vaccines in protecting against severe disease.",
+      "bm25_score_raw": 0.7992277495302222,
+      "bm25_score_norm": 0.048468430962707254,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8584131002426147,
+      "embedding_score_norm": 0.4689936618573828,
+      "embedding_rank": 2,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 2
+    },
+    {
+      "title": "COVID-19 Variants: 2024 Dominant Variants and Symptoms",
+      "url": "https://ada.com/covid/what-strain-of-covid-is-going-around",
+      "snippet": "3. COVID-19: New Variants in 2025. * New variants of SARS-CoV-2, the virus that causes COVID-19, will continue to occur through mutations. * Symptoms of the new variants are similar to previous Omicron variants. This article explains the **dominant** **variants of COVID-19 in 2025**, their symptoms, and who is at risk. ## What are the dominant COVID-19 variants in 2025? In early 2025, a new COVID-19 variant called **XEC** has become the dominant global strain. ## What are the symptoms of the dominant COVID-19 variants in 2025? The dominant COVID-19 variants are **XEC** and **JN.1**. | **Variants of Concern** | A variant of SARS-CoV-2 that satisfies the VOI definition (as defined below) and is evaluated through a risk assessment conducted by WHO TAG-VE may be classified as a VOC with moderate or high confidence if it meets any of the following criteria when compared to other variants:   * Results in a detrimental change in the severity of clinical disease; OR * Causes a change in COVID-19 epidemiology, leading to a considerable impact on the capacity of health systems to provide care to patients with COVID-19 or other illnesses, necessitating major public health interventions; OR * Results in a significant reduction in the effectiveness of available vaccines in protecting against severe disease.",
+      "bm25_score_raw": 0.98399011999735,
+      "bm25_score_norm": 0.05967317479543311,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8506649732589722,
+      "embedding_score_norm": 0.39074980287353206,
+      "embedding_rank": 3,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 3
+    },
+    {
+      "title": "Omicron, Delta, Alpha, and More: What To Know About the Coronavirus Variants | News | Yale Medicine",
+      "url": "https://www.yalemedicine.org/news/covid-19-variants-of-concern-omicron",
+      "snippet": "# Omicron, Delta, Alpha, and More: What To Know About the Coronavirus Variants. A quick guide to the coronavirus variants that have been top-of-mind. Since the beginning of the pandemic, we’ve seen a number of prominent variants, including Alpha, Beta, Delta, and Omicron. This is especially true if a new variant is more aggressive, highly transmissible, vaccine-resistant, able to cause more severe disease—or all of the above, compared with the original strain of the virus. Below is a list of—and information about—some of the variants that have been top-of-mind. While the original Omicron strain (BA.1) is no longer circulating, Omicron subvariants are now driving most of the country’s SARS-CoV-2 infections. The original strain of Omicron was more transmissible than Delta was. **How contagious is it?** It’s estimated that Delta caused more than twice as many infections as previous variants—in Connecticut, it was estimated to have been 80 to 90% more transmissible than the Alpha variant.",
+      "bm25_score_raw": 0.8048314497898558,
+      "bm25_score_norm": 0.04880826220521529,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8460572957992554,
+      "embedding_score_norm": 0.34421952966527625,
+      "embedding_rank": 4,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 4
+    },
+    {
+      "title": "SARS-CoV-2 variants of concern as of 26 June 2026",
+      "url": "https://www.ecdc.europa.eu/en/covid-19/variants-concern",
+      "snippet": "| **n/a** | B.1.620 | Unclear (b) | S477N, E484K, D614G, P681H | February 2021 | No evidence | Increased (m) (12, 23) | No evidence | No longer detected or detected at extremely low levels in the EU/EEA |. | **n/a** | A.28 | Unclear (b) | E484K, N501T, H655Y | December 2020 | No evidence | Increased (m) (12) | No evidence | No longer detected or detected at extremely low levels in the EU/EEA |. | **n/a** | C.16 | Unclear (b) | L452R, D614G | October 2020 | No evidence | Increased (m) (12) | No evidence | No longer detected or detected at extremely low levels in the EU/EEA |. | **n/a** | B.1.1.318 | Unclear (b) | E484K, D614G, P681H | January 2021 | No evidence | Increased (m) (12) | No evidence | No longer detected or detected at extremely low levels in the EU/EEA |.",
+      "bm25_score_raw": 0.47187063419309333,
+      "bm25_score_norm": 0.02861616012477053,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8312539458274841,
+      "embedding_score_norm": 0.19472904891745968,
+      "embedding_rank": 5,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 5
+    },
+    {
+      "title": "COVID-19: Who's at higher risk of serious symptoms?",
+      "url": "https://www.mayoclinic.org/diseases-conditions/coronavirus/in-depth/coronavirus-who-is-at-risk/art-20483301",
+      "snippet": "Heart disease. Examples are heart failure or coronary artery disease. · Diabetes. The risk is higher for both type 1 and type 2. · Chronic lung diseases. This",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8119708299636841,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 6
+    }
+  ]
+}

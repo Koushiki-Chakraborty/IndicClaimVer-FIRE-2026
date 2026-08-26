@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/HI/1054",
+    "text": "रिपब्लिक टीवी की एंकर ने कहा- कोरोना वैक्सीन बना चीन को भारत ने दिया जवाब, पकौड़े तल कर नहीं दिया जाता करारा जवाब",
+    "lang": "hindi"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "रिपब्लिक टीवी की एंकर ने कहा- कोरोना वैक्सीन बना चीन को भारत ...",
+      "url": "https://www.jansatta.com/national/republic-tv-anchor-praises-india-for-coronavirus-vaccine-while-debate-on-hacking-attempts-by-china-on-sii-and-bharat-biotech-news-and-updates/1651823",
+      "snippet": "Mar 3, 2021 — रिपब्लिक टीवी की एंकर ने कहा- कोरोना वैक्सीन बना ... माना जाता है कि इसके जरिए चीन ने भारतीय वैक्सीन की जानकारी चुराने की कोशिश की।",
+      "bm25_score_raw": 8.098110165277769,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8881819844245911,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Where Does India Stand In Global Race For Coronavirus Vaccine ...",
+      "url": "https://www.youtube.com/watch?v=cb9F77jdeyI",
+      "snippet": "Where Does India Stand In Global Race For Coronavirus Vaccine? | The Debate With Arnab Goswami",
+      "bm25_score_raw": 2.1672815518758455,
+      "bm25_score_norm": 0.15250098918756116,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.8592246174812317,
+      "embedding_score_norm": 0.5928848024817884,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Ye Bharat Ki Baat Hai: भारत आ गया चीनी वायरस, फिर लगेगा ...",
+      "url": "https://www.youtube.com/watch?v=ripbSmxEuYQ",
+      "snippet": "चीन से कोरोना वायरस के बाद भारत आ गया है एक और चीनी वायरस. ... रिपब्लिक भारत देश का नंबर वन न्यूज चैनल है। देश और",
+      "bm25_score_raw": 4.0454429371650376,
+      "bm25_score_norm": 0.42088505825033046,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8521860837936401,
+      "embedding_score_norm": 0.4939291882483766,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Debate With Arnab LIVE: Has China entered the War to back Iran ...",
+      "url": "https://www.youtube.com/watch?v=9A98Ej2IXi0",
+      "snippet": "Republic TV is India's no.1 English news channel since its launch. anchors, and producers spread across India and the world.",
+      "bm25_score_raw": 5.096799323791292,
+      "bm25_score_norm": 0.5711209790226219,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8457423448562622,
+      "embedding_score_norm": 0.40333586685359407,
+      "embedding_rank": 4
+    },
+    {
+      "title": "The Newest Diplomatic Currency: Covid-19 Vaccines",
+      "url": "https://www.nytimes.com/2021/02/11/world/asia/vaccine-diplomacy-india-china.html",
+      "snippet": "For India, its soft-power vaccine drive has given it a rejoinder to China, after years of watching the Chinese make political gains in its own",
+      "bm25_score_raw": 1.100074134868191,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.8414694666862488,
+      "embedding_score_norm": 0.34326294504551536,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Renowned Virologist Jerome E. Kim Wants India and China to Ally ...",
+      "url": "https://www.youtube.com/watch?v=hOM66X_ipO8",
+      "snippet": "India should ask the Chinese government to supply its surplus vaccines to help tide over its national shortage.",
+      "bm25_score_raw": 1.6910346877370497,
+      "bm25_score_norm": 0.0844466290686233,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.8345083594322205,
+      "embedding_score_norm": 0.24539587860220072,
+      "embedding_rank": 6
+    },
+    {
+      "title": "Ye Bharat Ki Baat Hai: सावधान... आ रहा है कोरोना? | Corona",
+      "url": "https://www.facebook.com/RepublicBharatHindi/posts/ye-bharat-ki-baat-hai-%E0%A4%B8%E0%A4%BE%E0%A4%B5%E0%A4%A7%E0%A4%BE%E0%A4%A8-%E0%A4%86-%E0%A4%B0%E0%A4%B9%E0%A4%BE-%E0%A4%B9%E0%A5%88-%E0%A4%95%E0%A5%8B%E0%A4%B0%E0%A5%8B%E0%A4%A8%E0%A4%BE-corona-covid-19yebharatkibaathai-co/1540111918165298",
+      "snippet": "दावा किया जा रहा है दर्शकों कि कोरोना का जो variant है बार-बार बार-बार बदलता है। ... वैक्सीन भी बन गई फिर कोरोना क्या वाकई खतरनाक होगा?",
+      "bm25_score_raw": 4.414713198327208,
+      "bm25_score_norm": 0.4736527575816181,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8278090953826904,
+      "embedding_score_norm": 0.15121009810337935,
+      "embedding_rank": 7
+    },
+    {
+      "title": "चीन का दावा, कहा- पहले हमने बनाई कोविड-19 की वैक्सीन, अप्रैल ...",
+      "url": "https://www.amarujala.com/world/china-claimed-that-first-we-made-the-vaccine-of-covid-19-trial-was-done-in-april",
+      "snippet": "Aug 14, 2020 — पीपुल्स लिबरेशन आर्मी के मेजर जनरल शेन वी के नेतृत्व में बन रही इस वैक्सीन को लेकर चीन दावा कर रहा है कि उसने रूस या दुनिया के किसी भी देश से पहले कोविड-19 की वैक्सीन बना ली थी और इसका क्लिनिकल ट्रायल",
+      "bm25_score_raw": 2.326371085789072,
+      "bm25_score_norm": 0.17523444371993446,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.8243640661239624,
+      "embedding_score_norm": 0.10277600636201295,
+      "embedding_rank": 8
+    },
+    {
+      "title": "China and India tussle online over vaccine diplomacy",
+      "url": "https://www.aspistrategist.org.au/china-and-india-tussle-online-over-vaccine-diplomacy",
+      "snippet": "The Times of India accused China and the Global Times of starting 'a smear campaign' against India's vaccines. India's News18 claimed that the",
+      "bm25_score_raw": 3.0454515389528867,
+      "bm25_score_norm": 0.27798905230427023,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8214302062988281,
+      "embedding_score_norm": 0.06152850880684604,
+      "embedding_rank": 9
+    },
+    {
+      "title": "चीन की वैक्सीन के इस्तेमाल को WHO ने दी मंज़ूरी",
+      "url": "https://www.bbc.com/hindi/live/india-57018522",
+      "snippet": "कांग्रेस नेता राहुल गांधी ने शुक्रवार को केंद्र सरकार से पूरे देश में प्रभावी टीकाकरण और कोरोना संक्रमण को रोकने के लिए वैज्ञानिक तरीक़ा अपनाने की मांग की. भारत में कोरोना संक्रमण तेज़ी से बढ़ रहा है और एक हफ़्ते में 15 लाख संक्रमण के नए",
+      "bm25_score_raw": 2.4226728300935214,
+      "bm25_score_norm": 0.18899569671805788,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8200535774230957,
+      "embedding_score_norm": 0.04217431345651214,
+      "embedding_rank": 10
+    },
+    {
+      "title": "Race for vaccine: Russia and China emerging as frontrunners?",
+      "url": "https://www.facebook.com/RepublicWorld/videos/race-for-vaccine-russia-and-china-emerging-as-frontrunners-arnab-goswami-debates/576017436405653",
+      "snippet": "Race for vaccine: Russia and China emerging as frontrunners? | Arnab Goswami Debates Watch more on Republic World ▻ http://bit.ly/2QoRSt0.",
+      "bm25_score_raw": 2.6124316151501734,
+      "bm25_score_norm": 0.21611170244195896,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8195040225982666,
+      "embedding_score_norm": 0.034448054315098973,
+      "embedding_rank": 11
+    },
+    {
+      "title": "Corona Virus लैब में बना है या जानवरों से आया? USA सच बोल ...",
+      "url": "https://www.bbc.com/hindi/media-52408865",
+      "snippet": "Apr 24, 2020 — अमरीकी राष्ट्रपति डोनाल्ड ट्रंप इसे चीनी वायरस बता चुके हैं और उन्होंने एक रिपोर्ट का हवाला भी दिया जिसमें कहा गया था कि ये वायरस चीन की एक लैब में बनाया गया है.",
+      "bm25_score_raw": 1.5329806011291287,
+      "bm25_score_norm": 0.061861137093288256,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.8170537948608398,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

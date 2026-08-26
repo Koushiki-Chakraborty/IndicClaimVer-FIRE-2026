@@ -1,0 +1,6 @@
+{
+  "ID": "S2/T/CM/1118",
+  "Evidence": "Retrieved evidence does not provide any information about the claim regarding Congress or the assertion that the Congress is liked by the people. Source 1 discusses the dynamics of Congress but does not mention public opinion or the claim's context. Source 2 provides a translation of 'alag kar diya' but is unrelated to the political context. Source 3 mentions lawmakers working across the aisle but does not address the claim about Congress or public sentiment towards it.",
+  "Prediction": "REFUTES",
+  "Justification": "The retrieved evidence does not substantiate the claim that Congress is liked by the people or that it is working to keep people together. Source 1 discusses Congress's productivity without mentioning public opinion, Source 2 is a translation unrelated to the claim, and Source 3 does not address the assertion about Congress's popularity. Therefore, the evidence directly contradicts the claim."
+}

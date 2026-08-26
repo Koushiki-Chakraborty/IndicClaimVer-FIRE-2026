@@ -1,0 +1,138 @@
+{
+  "claim": {
+    "id": "S2/T/HI/1056",
+    "text": "भारत में मिला स्ट्रेन कहलाएगा ‘डेल्टा’ और ‘कप्पा’सभी वैरिएंट्स के रखे गए नाम",
+    "lang": "hindi"
+  },
+  "generated_queries": {
+    "english_translation": "The strain found in India will be called 'Delta' and 'Kappa', the names of all the variants.",
+    "native_query": "भारत कहल एग कप सभ रख गए",
+    "english_query": "India strain called Delta Kappa names variants"
+  },
+  "native_retrieval": [
+    {
+      "title": "ये शहर है भारत की 'Egg City'; जानिए क्यों चर्चा में है इसका नाम? ...",
+      "url": "https://www.jagran.com/business/biz-namakkal-eggs-export-indias-egg-capital-to-supply-us-markets-23967259.html",
+      "snippet": "Jun 18, 2025 — ये है दक्षिण भारत के राज्य तमिलनाडु का नमक्कल शहर। नमक्कल को देश का Egg Capital of India भी कहा जाता है। कारण, यहां हर रोज 5 से 6 करोड़ मुर्गी के अंडों का उत्पादन होता है।"
+    },
+    {
+      "title": "Dahi egg curry recipe by @bharat.wadhwa.24 ...",
+      "url": "https://www.instagram.com/reel/CK2_jmbA1YQ",
+      "snippet": "#reels ऐसे बनाओ ज़ायकेदार अंडा करी सब उंगलिया चाटते रह जाएगे! ... Add the fried egg and cup. Let them cook for five to 7 minutes"
+    },
+    {
+      "title": "क्या बदल जाएगा देश का नाम, सिर्फ भारत ही कहलाएगा India?",
+      "url": "https://www.youtube.com/watch?v=U1LrHE3FWqU",
+      "snippet": "G20 समिट में हिस्सा लेने आ रहे मेहमानों को भेजे गए Invitation में President of Bharat लिखा गया तो एक बार फिर से छिड़ गई India vs Bharat वाली बहस।"
+    },
+    {
+      "title": "अंडा करी बनाने का नया तरीका देख कहोगे पहले नहीं सोचा",
+      "url": "https://www.facebook.com/Bharatzkitchen/videos/super-unique-egg-curry-recipe-anda-bhajji-masala/518968322250707",
+      "snippet": "अंडा करी बनाने का नया तरीका देख कहोगे पहले नहीं सोचा | NEW Egg Curry Recipe | Anda bhajji Masala #bachelorspecialrecipe #eggcurry."
+    },
+    {
+      "title": "Bharat Ki Baat Batata Hoon | Iran में लाखों में बिक रहा अंडा-दूध",
+      "url": "https://www.youtube.com/watch?v=d_E7Y6PB7nQ",
+      "snippet": "... समूचे देश और दुनियाभर से आपके लिए लाता है. ख़बरों के अलावा NDTV इंडिया पर बड़ी राजनैतिक डिबेट्स, एक्सक्लूसिव इंटरव्यूज़, टॉक शोज़ भी चौबीसों घंटे लगातार चलते रहते हैं, जिनमें ढेरों भरोसेमंद जानकारी आप तक सभी"
+    },
+    {
+      "title": "Namaste Bharat - Indian men's hockey team loses in semis",
+      "url": "https://www.youtube.com/watch?v=Se2w3Q4h15E",
+      "snippet": "Indian men's hockey team lost the match against Belgium by 2-5 in the semifinals of the Tokyo Olympics. The team will now play for the bronze"
+    }
+  ],
+  "english_retrieval": [
+    {
+      "title": "WHO assigns labels to Covid variants, strain first found in India to be called ' ...",
+      "url": "https://www.indiatoday.in/amp/coronavirus-outbreak/story/who-names-labels-mutant-strains-corona-india-covid-strain-delta-1809235-2021-05-31",
+      "snippet": "B.1.617.2 strain of SARS-CoV-2, which was first discovered in India, will now be referred to as the 'Delta variant' of Covid-19. 'Kappa'."
+    },
+    {
+      "title": "WHO names COVID-19 variants 1st found in India as 'Kappa' and 'Delta'",
+      "url": "https://m.economictimes.com/industry/healthcare/biotech/healthcare/who-renames-virus-strain-first-found-in-india-as-delta-variant/amp_articleshow/83135554.cms",
+      "snippet": "The B.1.617.1 and B.1.617.2 variants of the COVID-19, first identified in India, have been named as 'Kappa' and 'Delta' respectively by the WHO."
+    },
+    {
+      "title": "Kappa And Delta Variants: Explained: Why WHO named Covid-19 ...",
+      "url": "https://timesofindia.indiatimes.com/india/explained-why-who-named-covid-19-variants-found-in-india-as-kappa-and-delta/amp_articleshow/83137667.cms",
+      "snippet": "B.1.617.1 and B.1.617.2 variants of the Covid-19 - first identified in India - have been named as 'Kappa' and 'Delta' respectively."
+    },
+    {
+      "title": "Here's what we know about the Indian Delta COVID-19 variant detected in ...",
+      "url": "https://www.abc.net.au/news/2021-06-04/what-do-we-know-about-delta-kappa-covid-variants/100190414",
+      "snippet": "Both Kappa, also known as B.1.617.1, and Delta, also called B.1.617.2, are considered subtypes of what's been referred to as the Indian variant"
+    },
+    {
+      "title": "Covid-19: WHO names virus strain first found in India as 'Delta' variant ...",
+      "url": "https://www.youtube.com/watch?v=jy-976eUSwE",
+      "snippet": "The COVID-19 variant first found in India will now be referred to as the Delta variant, the World Health Organization announced on Monday."
+    },
+    {
+      "title": "Why the Kappa variant of Covid-19 is less of a concern than Delta strain",
+      "url": "https://indianexpress.com/article/explained/why-kappa-is-less-of-a-concern-than-delta-7397404/lite",
+      "snippet": "What are Delta and Kappa variants of Covid-19? · 1 was named Kappa, while the B.1.617. · 2 became Delta. No specific name was given to the B.1.617"
+    }
+  ],
+  "merged_results": [
+    {
+      "title": "ये शहर है भारत की 'Egg City'; जानिए क्यों चर्चा में है इसका नाम? ...",
+      "url": "https://www.jagran.com/business/biz-namakkal-eggs-export-indias-egg-capital-to-supply-us-markets-23967259.html",
+      "snippet": "Jun 18, 2025 — ये है दक्षिण भारत के राज्य तमिलनाडु का नमक्कल शहर। नमक्कल को देश का Egg Capital of India भी कहा जाता है। कारण, यहां हर रोज 5 से 6 करोड़ मुर्गी के अंडों का उत्पादन होता है।"
+    },
+    {
+      "title": "Dahi egg curry recipe by @bharat.wadhwa.24 ...",
+      "url": "https://www.instagram.com/reel/CK2_jmbA1YQ",
+      "snippet": "#reels ऐसे बनाओ ज़ायकेदार अंडा करी सब उंगलिया चाटते रह जाएगे! ... Add the fried egg and cup. Let them cook for five to 7 minutes"
+    },
+    {
+      "title": "क्या बदल जाएगा देश का नाम, सिर्फ भारत ही कहलाएगा India?",
+      "url": "https://www.youtube.com/watch?v=U1LrHE3FWqU",
+      "snippet": "G20 समिट में हिस्सा लेने आ रहे मेहमानों को भेजे गए Invitation में President of Bharat लिखा गया तो एक बार फिर से छिड़ गई India vs Bharat वाली बहस।"
+    },
+    {
+      "title": "अंडा करी बनाने का नया तरीका देख कहोगे पहले नहीं सोचा",
+      "url": "https://www.facebook.com/Bharatzkitchen/videos/super-unique-egg-curry-recipe-anda-bhajji-masala/518968322250707",
+      "snippet": "अंडा करी बनाने का नया तरीका देख कहोगे पहले नहीं सोचा | NEW Egg Curry Recipe | Anda bhajji Masala #bachelorspecialrecipe #eggcurry."
+    },
+    {
+      "title": "Bharat Ki Baat Batata Hoon | Iran में लाखों में बिक रहा अंडा-दूध",
+      "url": "https://www.youtube.com/watch?v=d_E7Y6PB7nQ",
+      "snippet": "... समूचे देश और दुनियाभर से आपके लिए लाता है. ख़बरों के अलावा NDTV इंडिया पर बड़ी राजनैतिक डिबेट्स, एक्सक्लूसिव इंटरव्यूज़, टॉक शोज़ भी चौबीसों घंटे लगातार चलते रहते हैं, जिनमें ढेरों भरोसेमंद जानकारी आप तक सभी"
+    },
+    {
+      "title": "Namaste Bharat - Indian men's hockey team loses in semis",
+      "url": "https://www.youtube.com/watch?v=Se2w3Q4h15E",
+      "snippet": "Indian men's hockey team lost the match against Belgium by 2-5 in the semifinals of the Tokyo Olympics. The team will now play for the bronze"
+    },
+    {
+      "title": "WHO assigns labels to Covid variants, strain first found in India to be called ' ...",
+      "url": "https://www.indiatoday.in/amp/coronavirus-outbreak/story/who-names-labels-mutant-strains-corona-india-covid-strain-delta-1809235-2021-05-31",
+      "snippet": "B.1.617.2 strain of SARS-CoV-2, which was first discovered in India, will now be referred to as the 'Delta variant' of Covid-19. 'Kappa'."
+    },
+    {
+      "title": "WHO names COVID-19 variants 1st found in India as 'Kappa' and 'Delta'",
+      "url": "https://m.economictimes.com/industry/healthcare/biotech/healthcare/who-renames-virus-strain-first-found-in-india-as-delta-variant/amp_articleshow/83135554.cms",
+      "snippet": "The B.1.617.1 and B.1.617.2 variants of the COVID-19, first identified in India, have been named as 'Kappa' and 'Delta' respectively by the WHO."
+    },
+    {
+      "title": "Kappa And Delta Variants: Explained: Why WHO named Covid-19 ...",
+      "url": "https://timesofindia.indiatimes.com/india/explained-why-who-named-covid-19-variants-found-in-india-as-kappa-and-delta/amp_articleshow/83137667.cms",
+      "snippet": "B.1.617.1 and B.1.617.2 variants of the Covid-19 - first identified in India - have been named as 'Kappa' and 'Delta' respectively."
+    },
+    {
+      "title": "Here's what we know about the Indian Delta COVID-19 variant detected in ...",
+      "url": "https://www.abc.net.au/news/2021-06-04/what-do-we-know-about-delta-kappa-covid-variants/100190414",
+      "snippet": "Both Kappa, also known as B.1.617.1, and Delta, also called B.1.617.2, are considered subtypes of what's been referred to as the Indian variant"
+    },
+    {
+      "title": "Covid-19: WHO names virus strain first found in India as 'Delta' variant ...",
+      "url": "https://www.youtube.com/watch?v=jy-976eUSwE",
+      "snippet": "The COVID-19 variant first found in India will now be referred to as the Delta variant, the World Health Organization announced on Monday."
+    },
+    {
+      "title": "Why the Kappa variant of Covid-19 is less of a concern than Delta strain",
+      "url": "https://indianexpress.com/article/explained/why-kappa-is-less-of-a-concern-than-delta-7397404/lite",
+      "snippet": "What are Delta and Kappa variants of Covid-19? · 1 was named Kappa, while the B.1.617. · 2 became Delta. No specific name was given to the B.1.617"
+    }
+  ]
+}

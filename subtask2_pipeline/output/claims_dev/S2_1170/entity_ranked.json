@@ -1,0 +1,99 @@
+{
+  "claim": {
+    "id": "S2/1170",
+    "text": "Bar Council Of Punjab & Haryana Introduces Lecture Series To Train Young Lawyers",
+    "lang": "dev"
+  },
+  "entity_ranked_evidence": [
+    {
+      "title": "Bar Council Of Punjab & Haryana Introduces Lecture ...",
+      "url": "https://www.livelaw.in/news-updates/punjab-haryana-high-court-bar-council-training-junior-lawyers-231758",
+      "snippet": "The Bar Council of Punjab and Haryana is set to begin a lecture series from Tuesday to provide training to junior lawyers and new entrants",
+      "bm25_score_raw": 5.367207060542219,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9388071298599243,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 1
+    },
+    {
+      "title": "Bar Council Of Punjab & Haryana Introduces Lecture ...",
+      "url": "https://legalvidhiya.com/bar-council-of-punjab-haryana-introduces-lecture-series-to-train-young-lawyers",
+      "snippet": "The Bar Council's pilot initiative will consist of a series of lectures lasting 35 minutes each, beginning on July 4 and ending on July 15, with",
+      "bm25_score_raw": 3.7100723673844653,
+      "bm25_score_norm": 0.44909989640897646,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.895031213760376,
+      "embedding_score_norm": 0.4438961599473001,
+      "embedding_rank": 3,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 2
+    },
+    {
+      "title": "Bar Council of Punjab and Haryana agrees begin lecture ...",
+      "url": "https://www.thelawadvice.com/news/bar-council-of-punjab-and-haryana-agrees-begin-lecture-series-to-provide-training-to-young-lawyers",
+      "snippet": "Bar Council of Punjab and Haryana agrees begin lecture series to provide training to young lawyers · Court-craft and Court etiquettes, · Drafting,",
+      "bm25_score_raw": 4.2444981690053805,
+      "bm25_score_norm": 0.6267651342983932,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.9363201260566711,
+      "embedding_score_norm": 0.96840654660271,
+      "embedding_rank": 2,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 3
+    },
+    {
+      "title": "Bar Council of Punjab and Haryana",
+      "url": "https://www.lawof.in/webinar-bar-council-punjab-haryana",
+      "snippet": "Online webinar for Law Students, practitioners and academicians. conduct seminars and talks on legal topics by eminent jurists … 25th of May, Monday at 5:00 PM",
+      "bm25_score_raw": 2.3591577202792973,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8871657252311707,
+      "embedding_score_norm": 0.3439775571010498,
+      "embedding_rank": 4,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 4
+    },
+    {
+      "title": "Punjab & Haryana High Court Bar Association issues ...",
+      "url": "https://www.facebook.com/saumen.ghosh.503/posts/punjab-haryana-high-court-bar-association-issues-advisory-to-law-interns-and-tra/3596646340484545",
+      "snippet": "High Court Bar Association issues advisory to Law Interns and Trainees. Bar Council of Punjab and Haryana warns advocates against advertising",
+      "bm25_score_raw": 2.885765299027858,
+      "bm25_score_norm": 0.17506613728035866,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.869652509689331,
+      "embedding_score_norm": 0.12149982774090719,
+      "embedding_rank": 5,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 5
+    },
+    {
+      "title": "Bar Council of Punjab and Haryana's Webinar around ' ...",
+      "url": "https://legalthirst.com/webinar-by-bar-council-punjab-haryana",
+      "snippet": "The Bar Council of Punjab and Haryana is organising a webinar on April 19 (Sunday), from 5 PM to 6.30 PM. Keynote Speaker. Mr. Baldev Raj Mahajan,",
+      "bm25_score_raw": 2.7651813330523596,
+      "bm25_score_norm": 0.13497904018342113,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8600881695747375,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 6
+    }
+  ]
+}

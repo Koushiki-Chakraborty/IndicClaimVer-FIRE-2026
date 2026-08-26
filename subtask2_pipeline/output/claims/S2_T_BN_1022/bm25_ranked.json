@@ -1,0 +1,105 @@
+{
+  "claim": {
+    "id": "S2/T/BN/1022",
+    "text": "Sagardighi: বিধায়কের হাত ধরে কংগ্রেস ও SDPI ছেড়ে তৃণমূলে একাধিক কর্মী",
+    "lang": "bengali"
+  },
+  "ranked_evidence": [
+    {
+      "title": "SDPI - Social Democratic Party of India",
+      "url": "https://www.facebook.com/SDPINational/posts/a-large-conference-was-held-at-sekhdighi-high-school-ground-in-sagardighi-in-sup/1490963509068341",
+      "snippet": "A large conference was held at Sekhdighi High School ground in Sagardighi in support of SDPI-nominated Grand Alliance candidate Masiur",
+      "bm25_score_raw": 5.194846485991738,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Sagardighi MLA Bayron Biswas left Congress, joins TMC at Ghatal ...",
+      "url": "https://www.youtube.com/watch?v=nt5G2Xy5A1o",
+      "snippet": "Sagardighi MLA Bayron Biswas left Congress, joins TMC at Ghatal | Sangbad Pratidin. @SangbadPratidin41 likes8.1K views3 years ago",
+      "bm25_score_raw": 5.121478280015717,
+      "bm25_score_norm": 0.9832476360870392,
+      "bm25_rank": 2
+    },
+    {
+      "title": "Sagardighi bypoll: A Bengal MLA for Congress, a 'warning sign' for TMC ...",
+      "url": "https://theprint.in/politics/sagardighi-bypoll-a-bengal-mla-for-congress-a-warning-sign-for-tmc-ahead-of-panchayat-polls/1411973?amp=",
+      "snippet": "With Left-backed Congress candidate Bayron Biswas's win, Congress will now finally have an MLA in state assembly. Mamata says Congress, BJP,",
+      "bm25_score_raw": 3.6660009970401317,
+      "bm25_score_norm": 0.650914511853041,
+      "bm25_rank": 3
+    },
+    {
+      "title": "Lone Cong MLA joins TMC in presence of Abhishek",
+      "url": "https://www.millenniumpost.in/amp/bengal/lone-cong-mla-joins-tmc-in-presence-of-abhishek-520303",
+      "snippet": "Kolkata: The victory of Byron Biswas, the lone Left-backed Congress MLA, in Sagardighi bypolls has often been projected by the Opposition",
+      "bm25_score_raw": 2.9477380962185498,
+      "bm25_score_norm": 0.4869115716193014,
+      "bm25_rank": 4
+    },
+    {
+      "title": "Bengal boomerang: Cong MLA who wrested Sagardighi seat from TMC ...",
+      "url": "https://indianexpress.com/article/political-pulse/sagargidhi-tmc-bayron-biswas-mamata-banerjee-8635081/lite",
+      "snippet": "The Sagardighi bypoll win just 3 months ago had given Cong its only MLA in Bengal House; for TMC, it had been a big blow in its stronghold",
+      "bm25_score_raw": 1.9574276224012785,
+      "bm25_score_norm": 0.26079126209959214,
+      "bm25_rank": 5
+    },
+    {
+      "title": "Sagardighi Assembly constituency",
+      "url": "https://en.wikipedia.org/wiki/Sagardighi_Assembly_constituency",
+      "snippet": "Sagardighi Assembly constituency is an assembly constituency in Murshidabad district in the Indian state of West Bengal.Read more",
+      "bm25_score_raw": 1.3619482465277735,
+      "bm25_score_norm": 0.12482382123622775,
+      "bm25_rank": 6
+    },
+    {
+      "title": "Sagardighi, Murshidabad",
+      "url": "https://en.wikipedia.org/wiki/Sagardighi,_Murshidabad",
+      "snippet": "Sagardighi is a town situated in the Sagardighi CD block in the Jangipur subdivision of Murshidabad district in the state of West Bengal, India.Read more",
+      "bm25_score_raw": 1.2723591222002941,
+      "bm25_score_norm": 0.10436769049932589,
+      "bm25_rank": 7
+    },
+    {
+      "title": "Sagardighi (community development block)",
+      "url": "https://en.wikipedia.org/wiki/Sagardighi_(community_development_block)",
+      "snippet": "Sagardighi is a community development block that forms an administrative division in the Jangipur subdivision of Murshidabad district in the Indian state of ...Read more",
+      "bm25_score_raw": 1.245059075473835,
+      "bm25_score_norm": 0.09813419587425694,
+      "bm25_rank": 8
+    },
+    {
+      "title": "List of Candidates in SAGARDIGHI : MURSHIDABAD West ...",
+      "url": "https://www.myneta.info/WestBengal2026/index.php?action=show_candidates&constituency_id=61",
+      "snippet": "It provides criminal and financial background information on candidates, MPs and MLAs contesting in elections.It also has information on income and",
+      "bm25_score_raw": 0.863818725899042,
+      "bm25_score_norm": 0.011084540108260422,
+      "bm25_rank": 9
+    },
+    {
+      "title": "Conference in support of SDPI-Nominated Grand Alliance ...",
+      "url": "https://sdpi.in/conference-in-support-of-sdpi-nominated-grand-alliance-candidate-masiur-rahman",
+      "snippet": "A large conference was held at Sekhdighi High School ground in Sagardighi in support of SDPI-nominated Grand Alliance candidate Masiur Rahman, backed by the",
+      "bm25_score_raw": 0.8388441783425981,
+      "bm25_score_norm": 0.005382033093657438,
+      "bm25_rank": 10
+    },
+    {
+      "title": "Sagardighi (Sagar Dighi): The Historic Heart of Murshidabad",
+      "url": "https://wanderingwithin.com/sagardighi-sagar-dighi-the-historic-heart-of-murshidabad",
+      "snippet": "Sep 26, 2025 — This expansive lake, surrounded by heritage palaces, temples, and colonial-era architecture, reflects the grandeur of the Nawabi era while ...Read more",
+      "bm25_score_raw": 0.8268907318112614,
+      "bm25_score_norm": 0.0026526698273330665,
+      "bm25_rank": 11
+    },
+    {
+      "title": "Sagardighi || HECT India - Travel Portal",
+      "url": "https://www.hectindia.com/location/sagardighi",
+      "snippet": "Overview. Sagardighi, a quaint town nestled in the heart of West Bengal, is a hidden gem that offers a unique blend of history, culture, and ...Read more",
+      "bm25_score_raw": 0.8152731698188566,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12
+    }
+  ]
+}

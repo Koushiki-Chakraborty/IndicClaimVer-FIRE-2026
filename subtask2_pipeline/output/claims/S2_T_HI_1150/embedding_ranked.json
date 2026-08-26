@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/HI/1150",
+    "text": "गुजरात चुनाव: PM मोदी गुजरात में आज सिर्फ दो रैलियों को संबोधित करेंगे",
+    "lang": "hindi"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "PM Narendra Modi to address 14 rallies from Nov 27 to Dec 2",
+      "url": "https://timesofindia.indiatimes.com/elections/assembly-elections/gujarat/news/gujarat-assembly-elections-pm-narendra-modi-to-address-14-rallies-from-nov-27-to-dec-2/articleshow/95778590.cms",
+      "snippet": "Assembly Elections News: Prime Minister Narendra Modi, who has been campaigning extensively in Gujarat for the assembly election,",
+      "bm25_score_raw": 3.9323948168046683,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8991157412528992,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "7 Rallies In 2 Days, What PM Modi's Blitz Says About BJP ...",
+      "url": "https://www.ndtv.com/india-news/gujarat-elections-narendra-modi-campaign-7-rallies-in-2-days-what-pm-modis-campaign-blitz-says-about-gujarat-polls-3565130",
+      "snippet": "Prime Minister Narendra Modi will have held 27 election campaign rallies in his home state Gujarat this time, a number comparable to his 2017 tally of 34.",
+      "bm25_score_raw": 2.1863011743326317,
+      "bm25_score_norm": 0.5067076641383549,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.8928192257881165,
+      "embedding_score_norm": 0.9302299470044013,
+      "embedding_rank": 2
+    },
+    {
+      "title": "PM Modi & Arvind Kejriwal To Address Rallies In Gujarat's ...",
+      "url": "https://www.youtube.com/watch?v=9o6V4AFXwlY",
+      "snippet": "As per the latest news on Mirror Now, in the Gujarat elections, big guns come out for the campaign. Prime Minister Narendra Modi and Aam",
+      "bm25_score_raw": 2.849867853497703,
+      "bm25_score_norm": 0.6941731867215946,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8789167404174805,
+      "embedding_score_norm": 0.7761801163472665,
+      "embedding_rank": 3
+    },
+    {
+      "title": "PM Modi to hold six rallies and a roadshow in Gujarat",
+      "url": "https://www.thehindu.com/news/national/other-states/pm-modi-to-hold-six-rallies-and-a-roadshow-in-gujarat/article68106896.ece",
+      "snippet": "Intense Lok Sabha campaign in Gujarat with PM Modi, Rahul Gandhi, and Priyanka Gandhi holding rallies and roadshows.",
+      "bm25_score_raw": 2.8303186491600263,
+      "bm25_score_norm": 0.6886503027035781,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8770652413368225,
+      "embedding_score_norm": 0.7556641357701798,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Prime Minister Narendra Modi is addressing a public ...",
+      "url": "https://www.facebook.com/tv9gujarati/posts/prime-minister-narendra-modi-is-addressing-a-public-meeting-in-vadodara-gujarat-/3458120344440786",
+      "snippet": "PM Narendra Modi to kick start BJP's campaign for assembly elections in #Gujarat today. Prime Minister #NarendraModi to address a rally at",
+      "bm25_score_raw": 2.94025134896665,
+      "bm25_score_norm": 0.7197076051048465,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8703026175498962,
+      "embedding_score_norm": 0.6807292574804107,
+      "embedding_rank": 5
+    },
+    {
+      "title": "PM Modi Gujarat Visit: पीएम मोदी का आज से दो दिन का गुजरात दौरा ...",
+      "url": "https://www.youtube.com/watch?v=EJDBJcaC7WE",
+      "snippet": "आज से दो दिन के गुजरात दौरे पर प्रधानमंत्री मोदी...आज सूरत में रोड शो...तो कल नवसारी में लखपति दीदी से संवाद...मिशन 2027 के लिए राहुल गांधी भी पहुंचेंगे अहमदाबाद.",
+      "bm25_score_raw": 2.598625171528733,
+      "bm25_score_norm": 0.6231941244067266,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8695967197418213,
+      "embedding_score_norm": 0.6729073871531905,
+      "embedding_rank": 6
+    },
+    {
+      "title": "PM Narendra Modi to kick start BJP's campaign ...",
+      "url": "https://www.facebook.com/airnewsalerts/posts/pm-narendra-modi-to-kick-start-bjps-campaign-for-assembly-elections-in-gujarat-t/479530381037335",
+      "snippet": "PM Narendra Modi to kick start BJP's campaign for assembly elections in #Gujarat today. Prime Minister #NarendraModi to address a rally at",
+      "bm25_score_raw": 3.1258822212784834,
+      "bm25_score_norm": 0.7721505465275632,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8674747943878174,
+      "embedding_score_norm": 0.6493948832564553,
+      "embedding_rank": 7
+    },
+    {
+      "title": "PM Modi Gujarat Visit LIVE : विपक्ष पर बरसे पीएम मोदी, कहा ...",
+      "url": "https://www.livehindustan.com/gujarat/story-pm-narendra-modi-two-days-gujarat-visit-live-updates-vibrant-gujarat-global-summit-8762812.html",
+      "snippet": "PM Modi Gujarat Visit LIVE : प्रधानमंत्री नरेंद्र मोदी 26-27 सितंबर को दो दिवसीय गुजरात दौरे पर आ रहे हैं। इस दौरान वह वाइब्रेंट गुजरात ग्लोबल समिट के 20 साल पूरे होने के उपलक्ष्य में आयोजित",
+      "bm25_score_raw": 1.7168853632220462,
+      "bm25_score_norm": 0.37409208366736774,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.8609331846237183,
+      "embedding_score_norm": 0.5769090039680652,
+      "embedding_rank": 8
+    },
+    {
+      "title": "PM Modi Gujarat Visit: पीएम मोदी गुजरात को देंगे आज करोड़ों ...",
+      "url": "https://www.youtube.com/watch?v=7PP1KlwrqmQ",
+      "snippet": "PM Modi Gujarat Visit: पीएम मोदी गुजरात को देंगे आज करोड़ों प्रोजेक्ट की सौगात | India Tv पीएम मोदी आज गुजरात के दौरे पर रहेंगे जहां वो अपने गृह राज्य को करोड़ों की सौगात देंगे पीएम मोदी आज",
+      "bm25_score_raw": 3.419462650474296,
+      "bm25_score_norm": 0.8550905287591211,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8530651330947876,
+      "embedding_score_norm": 0.4897251678898452,
+      "embedding_rank": 9
+    },
+    {
+      "title": "PM मोदी का गुजरात-दमन दौरा, 22000 करोड़ की सौगात आज",
+      "url": "https://www.youtube.com/watch?v=LDC9wAA-D18",
+      "snippet": "प्रधानमंत्री नरेंद्र मोदी आज गुजरात और दमन के महत्वपूर्ण दौरे पर हैं। इस दौरान वे करीब 22,000 करोड़ रुपये से अधिक की विकास परियोजनाओं का उद्घाटन और शिलान्यास करेंगे।",
+      "bm25_score_raw": 1.8590408889036674,
+      "bm25_score_norm": 0.4142527197371769,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.8357143998146057,
+      "embedding_score_norm": 0.2974661974733305,
+      "embedding_rank": 10
+    },
+    {
+      "title": "मोदी बोले- दूसरे देशों पर निर्भरता हमारी सबसे बड़ी दुश्मन",
+      "url": "https://www.bhaskar.com/national/news/pm-narendra-modi-gujarat-bhavnagar-rally-live-photos-update-135960957.html",
+      "snippet": "... PM मोदी सुबह 10:30 बजे भावनगर पहुंचे। वहां रोड शो निकाला और जनसभा को संबोधित किया। प्रधानमंत्री नरेंद्र मोदी शनिवार को एक दिन के गुजरात दौरे पर पहुंचे।",
+      "bm25_score_raw": 0.43355227243627276,
+      "bm25_score_norm": 0.011535137897835699,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.8248201012611389,
+      "embedding_score_norm": 0.1767493038713734,
+      "embedding_rank": 11
+    },
+    {
+      "title": "दुनिया में हमारा कोई दुश्मन नहीं...गुजरात के भावनगर में PM मोदी ...",
+      "url": "https://navbharattimes.indiatimes.com/state/gujarat/ahmedabad/pm-modi-on-gujarat-visit-inaugurated-34200-crore-rupees-of-project-roadshow-in-bhavnagar-samudra-se-samriddhi-know-all-updates/articleshow/124010688.cms",
+      "snippet": "अहमदाबाद/भावनगर: प्रधानमंत्री नरेंद्र मोदी ने गुजरात दौरे में एक बार फिर आत्मनिर्भरता पर जोर दिया है। पीएम मोदी ने भावनगर में समुद्र से समृद्धि कार्यक्रम में कहा है कि हमारा दुनिया में कोई दुश्मन नहीं है।",
+      "bm25_score_raw": 0.3927216543946045,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.8088690638542175,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

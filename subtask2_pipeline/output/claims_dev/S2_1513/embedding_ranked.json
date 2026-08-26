@@ -1,0 +1,76 @@
+{
+  "claim": {
+    "id": "S2/1513",
+    "text": "Padayatra led to surge in Covid cases, Congress is responsible: Health minister Sudhakar",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Fire in Sunol burns over 1,000 acres as evacuation orders remain in effect - CBS News",
+      "url": "https://www.cbsnews.com/sanfrancisco/video/fire-in-sunol-burns-over-1000-acres-as-evacuation-orders-remain-in-effect/",
+      "snippet": "Image 47: What to know about Tesla's robotaxi plans in the Bay Area ### What to know about Tesla's robotaxi plans in the Bay Area 05:13 Jul 27, 2025Image 48: Skincare brands make billions selling products, including some harmful to young skin, to tweens | Investigating \"Sephora kid\" Concerns ### Skincare brands make billions selling products, including some harmful to young skin, to tweens | Investigating \"Sephora kid\" Concerns 04:43 May 22, 2025Image 49: USF immigration policy expert discusses presidential election ### USF immigration policy expert discusses presidential election 17:08 Aug 13, 2024Image 50: UC Berkeley professor discusses threat of artificial intelligence in elections ### UC Berkeley professor discusses threat of artificial intelligence in elections 14:51 Aug 12, 2024Image 51: UCSF doctor discusses summer Covid surge ### UCSF doctor discusses summer Covid surge 15:42 Aug 8, 2024Image 52: Bay Area political expert on campaigns tapping into social media influencers ### Bay Area political expert on campaigns tapping into social media influencers 15:47 Aug 7, 2024Image 53: Bay Area teen provides mental health resources for students ### Bay Area teen provides mental health resources for students 17:55 Aug 2, 2024Image 54: Bay Area lung cancer survivor recalls how car crash may have saved her life ### Bay Area lung cancer survivor recalls how car crash may have saved her life 15:31 Aug 1, 2024Image 55: Reaction to Gov. Newsom's executive order to clear homeless encampments ### Reaction to Gov. Newsom's executive order to clear homeless encampments 17:29 Jul 26, 2024Image 56: UC Berkeley professor on Silicon Valley's influence in potential Harris-Trump matchup ### UC Berkeley professor on Silicon Valley's influence in potential Harris-Trump matchup 19:09 Jul 22, 2024Image 57: Talking Politics: Bay Area professors on Biden's exit from race ### Talking Politics: Bay Area professors on Biden's exit from race 08:01 Jul 22, 2024Image 58: New California gun control law looks at credit card codes ### New California gun control law",
+      "bm25_score_raw": 3.4582781895430696,
+      "bm25_score_norm": 0.5513064407036544,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8025593757629395,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Somalia hands over its citizen to Kash Patel-led FBI team to face charges in $250 million COVID child-feeding fraud case - Business Insider Africa",
+      "url": "https://africa.businessinsider.com/local/lifestyle/somalia-hands-over-its-citizen-to-kash-patel-led-fbi-team-to-face-charges-in/13r9n9j",
+      "snippet": "# Somalia hands over its citizen to Kash Patel-led FBI team to face charges in $250 million COVID child-feeding fraud case. Somalia has handed over one of its citizens to a Kash Patel-led FBI team to face charges in a $250 million COVID-era fraud case involving taxpayer-funded resources intended to provide meals to children in need, nearly four years after American authorities issued a warrant for his arrest. * Somalia extradited Abdikerm Abdelahi Eidleh to the US to face 31 charges in a $250 million COVID-era child nutrition fraud case. * Eidleh, seen as a key figure in the 'Feeding Our Future' scandal, was located and lawfully surrendered in Somalia nearly four years after his indictment. * Eidleh’s capture demonstrates expanding Somalia-US legal cooperation and is a landmark in one of the largest pandemic-related fraud prosecutions in US history. Abdikerm Abdelahi Eidleh, 42, was transferred to Minnesota on July 16, 2026, after what the US Justice Department described as his lawful surrender in Somalia.",
+      "bm25_score_raw": 1.7176550641624313,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.7919865846633911,
+      "embedding_score_norm": 0.7605915904324095,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Oil prices surge as Congress splits on Iran war votes: From the Politics Desk - NBC News",
+      "url": "https://www.nbcnews.com/politics/politics-news/oil-prices-surge-congress-splits-iran-war-votes-politics-desk-rcna588959",
+      "snippet": "# Oil prices surge as Congress splits on Iran war votes: From the Politics Desk. *Welcome to* *From the Politics Desk**, a daily newsletter that brings you the NBC News Politics team’s latest reporting and analysis from the White House, Capitol Hill and the campaign trail.*. *In today’s edition, we examine how the escalating Iran war is playing out in the oil markets and the halls of the Capitol. Plus, Scott Wong and Matt Dixon have a profile of the little-known new senator from South Carolina.*. ## Oil prices surge as Congress splits on Iran war votes. “July 10, to my knowledge, is the first time I heard anyone in the administration refer to it as a war,” Tillis said, adding that it would be important for Congress to authorize the war once 60 days are up.",
+      "bm25_score_raw": 3.28463689404395,
+      "bm25_score_norm": 0.49630914508869634,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.7835434675216675,
+      "embedding_score_norm": 0.5694071408711895,
+      "embedding_rank": 3
+    },
+    {
+      "title": "One crucial detail about anti-vaccine bills revealed in new study - Newsweek",
+      "url": "https://www.newsweek.com/republican-lawmakers-drove-86-of-anti-vaccine-bills-study-finds-12217870",
+      "snippet": "\"As a physician, that's deeply concerning because viruses, bacteria, and disease do not recognize party affiliation, but only biology.\" Vaccine Hesitancy in the U.S. The findings, published in American Journal of Public Health, come amid a fraught national reckoning over vaccine safety. Boston's researchers suggest the surge in sponsorships is at least partly strategic, driven by election-minded Republican lawmakers courting anti-vaccine constituents who fashion themselves as champions of \"medical freedom.\" \"Our work shows that state lawmakers affiliated with the Republican party are responsible for the overwhelming majority of anti-vaccine bills introduced in recent years,\" study corresponding author Dr. Matt Motta said in a statement. \"While the majority of these bills do not actually pass, it's important to remember that we live in an increasingly connected world—one in which low vaccine coverage in one part of the country can get people sick thousands of miles away.\" The team now plan to expand the SVPP dataset to cover a longer time span and to examine how public experiences with vaccination shape legislation, and vice versa.",
+      "bm25_score_raw": 3.3097315346736655,
+      "bm25_score_norm": 0.5042573544423326,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.7817034125328064,
+      "embedding_score_norm": 0.5277412615161192,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Traumatic Brain Injuries Spike 26% as Veterans Push More Research, Funding - Military.com",
+      "url": "https://www.military.com/traumatic-brain-injuries-spike-26-percent-veterans-push-more-research-funding",
+      "snippet": "# Traumatic Brain Injuries Spike 26% as Veterans Push More Research, Funding. The number of TBI cases reported to the VA database grew by 26 percent between 2021 and 2025. Veteran advocacy groups have called for more funding and research into traumatic brain injuries (TBI) after newly released data from the Department of Veterans Affairs (VA) documented a surge in reported cases. The new VA data shows that the number of cases of TBI reported to the VA grew by 26% between 2021 and 2025, with more than 28,000 cases a year. The nonprofit Disabled American Veterans (DAV) and military health research group Invisible Wounds Foundation, in a joint statement, called on Congress to \"act now\" to fund \"research to prevent, diagnose and treat TBI,\" which occurs when a sudden blow to the head causes damage to the brain. Seizures, caused by a condition called post-traumatic epilepsy (PTE) that develops after a TBI, can be prevented by treating patients with chemicals derived from the gut microbiome, according to new research from Texas A&M University's Naresh K.",
+      "bm25_score_raw": 3.024560914688318,
+      "bm25_score_norm": 0.413935447761358,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.7675090432167053,
+      "embedding_score_norm": 0.20632647607427543,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Florida and Texas Cities Still Lead America’s Population, Economic Boom - Newsweek",
+      "url": "https://www.newsweek.com/florida-texas-cities-lead-america-population-economic-boom-12217657",
+      "snippet": "Nine cities in Texas and four in Florida are among the top 20 cities in the country showing great economic and population growth and a promising outlook for the future, according to a new study by SmartAsset. Florida and Texas Are Still Popular Despite Losing Luster During the pandemic, when the rise of remote work and the nationwide homebuying frenzy led to a surge in domestic migration to Florida and Texas, two states where housing was relatively affordable at the time, most newcomers were flocking to cities like Austin, San Antonio, Cape Coral, Punta Gorda, and Tampa. During the pandemic, when the rise of remote work and the nationwide homebuying frenzy led to a surge in domestic migration to Florida and Texas, two states where housing was relatively affordable at the time, most newcomers were flocking to cities like Austin, San Antonio, Cape Coral, Punta Gorda, and Tampa.",
+      "bm25_score_raw": 4.87492477274594,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.7583972215652466,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6
+    }
+  ]
+}

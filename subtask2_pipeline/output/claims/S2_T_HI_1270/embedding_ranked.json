@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/HI/1270",
+    "text": "सुप्रीम कोर्ट ने बेटी को दूसरी शादी करने के लिए उकसाने के आरोपी माता-पिता की सजा बढ़ाई",
+    "lang": "hindi"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Dad accused of arranging teen's marriage to avoid child- ...",
+      "url": "https://www.abajournal.com/web/article/dad-accused-of-arranging-teens-marriage-to-void-child-custody-deal-wins-in-idaho-supreme-court",
+      "snippet": "The ABA Journal is read by half of the nation's 1 million lawyers every month. It covers the trends, people and finances of the legal",
+      "bm25_score_raw": 2.056294497693813,
+      "bm25_score_norm": 0.5130296765066655,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.825599193572998,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Adult Daughter's Right to Marry of Her Own Choice",
+      "url": "https://lawtrend.in/adult-daughters-right-to-marry-of-her-own-choice-supreme-court-dismisses-parental-plea",
+      "snippet": "The bench, led by Chief Justice Sanjiv Khanna and Justice Sanjay Kumar, ruled that the woman was not a minor at the time of her marriage,",
+      "bm25_score_raw": 2.056294497693813,
+      "bm25_score_norm": 0.5130296765066655,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8232471942901611,
+      "embedding_score_norm": 0.9795450245319746,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Supreme Court Quashes POCSO Conviction After Victim ...",
+      "url": "https://x.com/law_trend/status/2064668156568965202",
+      "snippet": "LawTrend (@law_trend). 44 views. Supreme Court Quashes POCSO Conviction After Victim Marries Accused.",
+      "bm25_score_raw": 4.0081394739103295,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8207491636276245,
+      "embedding_score_norm": 0.9578200366489297,
+      "embedding_rank": 3
+    },
+    {
+      "title": "SUPERIOR COURT MEMORANDUM OPINION: MARITAL ...",
+      "url": "https://www.law.com/article/almID/52N6-HS51-JBYY-22JH-00000-00",
+      "snippet": "The court held to the rule that the presumption is irrebuttable where mother, child and husband live together as an intact family and husband",
+      "bm25_score_raw": 1.5042362149685666,
+      "bm25_score_norm": 0.37529537700968224,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8117098212242126,
+      "embedding_score_norm": 0.8792062681592336,
+      "embedding_rank": 4
+    },
+    {
+      "title": "February 2025 Case Update",
+      "url": "https://www.americanbar.org/groups/family_law/resources/case-update/february-2025",
+      "snippet": "Read cases on child custody, child support, intimate partner violence, parentage, property division, and more.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.8099101185798645,
+      "embedding_score_norm": 0.8635545314820526,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Supreme Court Case Highlights Clash Between Parental ...",
+      "url": "https://sdvoice.info/supreme-court-case-highlights-clash-between-parental-rights-and-progressive-indoctrination",
+      "snippet": "In America's schools, the tension between parental rights and learning curricula has created a contentious battlefield.",
+      "bm25_score_raw": 2.8560255217255994,
+      "bm25_score_norm": 0.7125564218301188,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8064068555831909,
+      "embedding_score_norm": 0.8330871928319462,
+      "embedding_rank": 6
+    },
+    {
+      "title": "आइए जानें — SIR क्या है और इसका क्या उद्देश्य है ?",
+      "url": "https://www.facebook.com/manishjaiswalbjp/videos/%E0%A4%86%E0%A4%87%E0%A4%8F-%E0%A4%9C%E0%A4%BE%E0%A4%A8%E0%A5%87%E0%A4%82-sir-%E0%A4%95%E0%A5%8D%E0%A4%AF%E0%A4%BE-%E0%A4%B9%E0%A5%88-%E0%A4%94%E0%A4%B0-%E0%A4%87%E0%A4%B8%E0%A4%95%E0%A4%BE-%E0%A4%95%E0%A5%8D%E0%A4%AF%E0%A4%BE-%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%A6%E0%A5%87%E0%A4%B6%E0%A5%8D%E0%A4%AF-%E0%A4%B9%E0%A5%88-/1513415796380015",
+      "snippet": "Mera abhi tak order I'd nahi bani hai tu Mera kya ho ga sir. Me mujhe kya kr na ho ga plz mujhe kohi battery. 2w. Profile photo of सिंह.Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.7639637589454651,
+      "embedding_score_norm": 0.46396611917900177,
+      "embedding_rank": 7
+    },
+    {
+      "title": "SIR ka full form kya hota hai | सर का फुल फॉर्म क्या होता है",
+      "url": "https://www.youtube.com/watch?v=WXuLhi5cZqU",
+      "snippet": "SIR ka full form kya hota hai | सर का फुल फॉर्म क्या होता है | sir ka full form | sir ka full name hello friends welcome to my channel",
+      "bm25_score_raw": 0.831890177369856,
+      "bm25_score_norm": 0.20755020696878754,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.7304307818412781,
+      "embedding_score_norm": 0.1723349826215648,
+      "embedding_rank": 8
+    },
+    {
+      "title": "Sir Meaning: क्या आप जानते हैं 'सर' का मतलब, बिना सोचे समझे ...",
+      "url": "https://navbharattimes.indiatimes.com/education/gk-update/sir-word-meaning-in-hindi-slave-i-remain-or-french-word-sire-history-of-british-mentality/articleshow/112441616.cms",
+      "snippet": "Aug 11, 2024 — SIR word Meaning: 'सर' शब्द अक्सर भारत से लेकर पूरी दुनिया में अलग-अलग जगहों पर आए दिन सैकड़ों बार उपयोग किया जाता है हालांकि बहुत कम लोग इसका पूरा मतलब या फिर इतिहास जानते हैं।Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.7255324125289917,
+      "embedding_score_norm": 0.1297346192425024,
+      "embedding_rank": 9
+    },
+    {
+      "title": "दिन भर करते हैं सर...सर, पर जानते हैं इसका मतलब? कहां से आया ...",
+      "url": "https://hindi.news18.com/news/knowledge/what-is-the-meaning-of-sir-and-madam-full-form-of-sir-hindu-word-for-sir-8222384.html",
+      "snippet": "Apr 9, 2024 — कॉलिन्स डिक्शनरी के मुताबिक सर, किसी व्यक्ति के लिए संबोधन का एक औपचारिक या विनम्र शब्द है. सर से तात्पर्य किसी ऐसे व्यक्ति से है जिसका समाज में ऊंचा दर्जा है.",
+      "bm25_score_raw": 0.5450787751930448,
+      "bm25_score_norm": 0.13599296599857777,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.7242705821990967,
+      "embedding_score_norm": 0.11876067523190686,
+      "embedding_rank": 10
+    },
+    {
+      "title": "सर",
+      "url": "https://hi.wikipedia.org/wiki/%E0%A4%B8%E0%A4%B0",
+      "snippet": "सर (sir) अंग्रेजी में पुरुषों के लिए एक औपचारिक सम्मानसूचक संबोधन है, जो उच्च मध्य युग में साइर (Sire) से लिया गया था। दोनों पुराने फ्रांसीसी \"सियूर\" (लॉर्ड) से लिए गए हैं, जो फ्रांसीसी-भाषी नॉर्मन द्वारा इंग्लैंड में लाए गए थे, ...Read more",
+      "bm25_score_raw": 0.8458162626455198,
+      "bm25_score_norm": 0.21102465823634223,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.7165793180465698,
+      "embedding_score_norm": 0.05187093563628918,
+      "embedding_rank": 11
+    },
+    {
+      "title": "सर - sara का अर्थ, मतलब, अनुवाद, उच्चारण",
+      "url": "https://www.shabdkosh.com/hi/dictionary/hindi-english/%E0%A4%B8%E0%A4%B0/%E0%A4%B8%E0%A4%B0-meaning-in-english",
+      "snippet": "सर - sara का अर्थ क्या है? सर (sara) का अर्थ, अनुवाद, उदाहरण, पर्यायवाची, विपरीत, परिभाषा और तुकांत शब्द। सर का मीनिंग।",
+      "bm25_score_raw": 1.195679784926337,
+      "bm25_score_norm": 0.298312918676913,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.7106149792671204,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1069",
+    "text": "Country's Youth Spoiling Lives Due To Lure Of Free Relationship With Opposite Sex Aping Western Culture: Allahabad High Court",
+    "lang": "english"
+  },
+  "entity_ranked_evidence": [
+    {
+      "title": "Country's Youth Spoiling Lives Due To Lure Of Free Relationship ...",
+      "url": "https://www.facebook.com/livelaw.in/posts/countrys-youth-spoiling-lives-due-to-lure-of-free-relationship-with-opposite-sex/669993741832327",
+      "snippet": "Country's Youth Spoiling Lives Due To Lure Of Free Relationship With Opposite Sex Aping Western Culture: Allahabad High Court ; Adv Prakhar Bhardwaj ▻ All India",
+      "bm25_score_raw": 9.070584909099313,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9635220766067505,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 1
+    },
+    {
+      "title": "Youth in India ape Western culture, spoil life due to lure of free relations with opposite sex: Allahabad High Court",
+      "url": "https://www.barandbench.com/news/litigation/youth-western-culture-spoil-life-free-relations-opposite-sex-allahabad-high-court",
+      "snippet": "# Youth in India ape Western culture, spoil life due to lure of free relations with opposite sex: Allahabad High Court. The Court made the observations while granting bail to a man accused of abetting the suicide of a woman, who the judge said had “hopped from one affair to another with a number of boys” before she died by suicide. Allahabad High Court with Justice Siddharth. The Allahabad High Court recently expressed concern that the youth in the country were spoiling their lives by imitating Western culture and giving in to the *lure* of free relationships with the opposite sex, even though they often fail to find a real soulmate this way. Bar and Bench - Indian Legal news.",
+      "bm25_score_raw": 3.4159780392372388,
+      "bm25_score_norm": 0.24331492506699898,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.9370605945587158,
+      "embedding_score_norm": 0.7276577523835698,
+      "embedding_rank": 2,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 2
+    },
+    {
+      "title": "The Allahabad High Court recently expressed concern that ...",
+      "url": "https://www.instagram.com/p/CvHiP_VPmZ9",
+      "snippet": "The Allahabad High Court recently expressed concern that the youth in the country were spoiling their lives by imitating Western culture and giving in to",
+      "bm25_score_raw": 4.167708294522296,
+      "bm25_score_norm": 0.3439095512967181,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.914881706237793,
+      "embedding_score_norm": 0.49939206854963875,
+      "embedding_rank": 3,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 3
+    },
+    {
+      "title": "The Allahabad High Court last week observed that ...",
+      "url": "https://www.facebook.com/livelaw.in/posts/the-allahabad-high-court-last-week-observed-that-the-youth-of-the-country-are-sp/670340158464352",
+      "snippet": "Jul 25, 2023 — The Allahabad High Court last week observed that the youth of the country are spoiling their lives due to the lure of free relationships",
+      "bm25_score_raw": 4.563041665618237,
+      "bm25_score_norm": 0.39681205511632406,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.9119316935539246,
+      "embedding_score_norm": 0.46903046282539057,
+      "embedding_rank": 4,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 4
+    },
+    {
+      "title": "Live Law - Allahabad High Court #AllahabadHC",
+      "url": "https://x.com/LiveLawIndia/status/1683473520154558471",
+      "snippet": "Live Law (@LiveLawIndia). 742 likes 84 replies. \"Youth in this country are spoiling their lives due to lure of free relationship with the",
+      "bm25_score_raw": 5.215626806968943,
+      "bm25_score_norm": 0.4841393349693205,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8948347568511963,
+      "embedding_score_norm": 0.29306835456083546,
+      "embedding_rank": 5,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 5
+    },
+    {
+      "title": "allahabad high court youngsters live in relationships",
+      "url": "https://www.ndtv.com/india-news/allahabad-high-court-youngsters-live-in-relationships-7552290",
+      "snippet": "Jan 24, 2025 — Although live-in relationships have no social sanction, the youths' attraction to it demands there must be devised some framework or",
+      "bm25_score_raw": 1.5977179831027235,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8663594722747803,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 6
+    }
+  ]
+}

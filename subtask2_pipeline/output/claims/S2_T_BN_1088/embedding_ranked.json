@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/BN/1088",
+    "text": "'যে যত বেশি ভোটে লিড দেবে, সেখানে তত বেশি উন্নয়ন হবে'; বিতর্কিত মন্তব্য তৃণমূল বিধায়কের",
+    "lang": "bengali"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Trinamool Congress (#TMC) chairperson #MamataBanerjee has ...",
+      "url": "https://www.facebook.com/TimesofIndia/posts/trinamool-congress-tmc-chairperson-mamatabanerjee-has-written-to-the-election-co/1473065881534261",
+      "snippet": "A fundamental legal question arises. If the Ritabrata Banerjee faction sought repeated extensions from the Election Commission to file its",
+      "bm25_score_raw": 0.8717469253488138,
+      "bm25_score_norm": 0.3293135200229008,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.8536038994789124,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Mangal Pandey reacted to the ongoing political developments within the All ...",
+      "url": "https://www.facebook.com/SocialSamaachar/posts/mangal-pandey-reacted-to-the-ongoing-political-developments-within-the-all-india/1409760161187070",
+      "snippet": "Mangal Pandey reacted to the ongoing political developments within the All India Trinamool Congress and criticized Mamata Banerjee.",
+      "bm25_score_raw": 0.8485423571748887,
+      "bm25_score_norm": 0.3205476984251831,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.8314048647880554,
+      "embedding_score_norm": 0.839054094173134,
+      "embedding_rank": 2
+    },
+    {
+      "title": "The Bharatiya Janata Party (BJP) is leading in 111 constituencies ...",
+      "url": "https://www.instagram.com/p/DX6ABuykloz?hl=en",
+      "snippet": "According to the data, Trinamool Congress (TMC) is currently trailing behind, and leading in 69 seats. The Communist Party of India (Marxist) (",
+      "bm25_score_raw": 0.8194587092615633,
+      "bm25_score_norm": 0.3095609794693215,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.8290019035339355,
+      "embedding_score_norm": 0.8216323106993475,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Drama ahead of West Bengal's Falta re-poll Trinamool Congress Party's ...",
+      "url": "https://www.facebook.com/WIONews/posts/wionracetopower-drama-ahead-of-west-bengals-falta-re-polltrinamool-congress-part/1344314464474391",
+      "snippet": "WIONRaceToPower | Drama ahead of West Bengal's Falta re-poll Trinamool Congress Party's Jahangir Khan withdraws from Falta re-poll Mohammed",
+      "bm25_score_raw": 1.106541415420264,
+      "bm25_score_norm": 0.41801013340811316,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8286269903182983,
+      "embedding_score_norm": 0.8189141408357703,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Mamata Banerjee Alleges EC Bias, Says TMC Won 'Morally' After Bengal ...",
+      "url": "https://www.facebook.com/TimesofIndia/posts/mamata-banerjee-alleges-ec-bias-says-tmc-won-morally-after-bengal-poll-lossoutgo/1404107598430090",
+      "snippet": "Mamata Banerjee Alleges EC Bias, Says TMC Won 'Morally' After Bengal Poll Loss Outgoing West Bengal Chief Minister Mamata Banerjee has",
+      "bm25_score_raw": 2.6471640924071127,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8237881660461426,
+      "embedding_score_norm": 0.783832031795241,
+      "embedding_rank": 5
+    },
+    {
+      "title": "The hard-won victories of Mamata Banerjee | The Caravan",
+      "url": "https://caravanmagazine.in/reportage/sister-soldier",
+      "snippet": "National headlines focus on the misdemeanours of her government and her personal foibles, but within Bengal, Mamata Banerjee is the most popular mass leader since the communist chief minister Jyoti Basu in his heyday. A group of journalists huddled in respectful silence before him, listening to an expanded recitation of the objectives that had fuelled his tremendously popular movement in 2011—an end to corruption, the return of black money from the shadowy overseas accounts of India’s rich and powerful, comprehensive electoral reform, and so on. Hazare’s agenda had been sent out, in the form of a petition, to several chief ministers late last year, in the run-up to the Delhi assembly polls. In February, an alliance between Mamata Banerjee and Anna Hazare appeared to signal the start of Banerjee’s national campaign, but the partnership broke down soon after a failed joint rally at Delhi’s Ramlila Maidan that was attended by only a few thousand people.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.8046151995658875,
+      "embedding_score_norm": 0.6448255163982564,
+      "embedding_rank": 6
+    },
+    {
+      "title": "United Nations | Peace, dignity and equality on a healthy planet",
+      "url": "https://www.un.org/en",
+      "snippet": "## One World, One Game, One Goal: Football as a catalyst for youth mental health and well-being. Ahead of the 2026 Men's World Cup Final, the \"One World, One Game, One Goal\" event—hosted with UN Member States Friends of Football—unites global stakeholders, from youth leaders to athletes, to champion football as a driver of youth mental health and well-being. 16 July 2026 — The Ebola outbreak in the Democratic Republic of the Congo (DRC) has become the third largest on record and is spreading faster than any previous one during the first month of... 16 July 2026 — UN Member States reaffirmed their commitment to the Sustainable Development Goals (SDGs) by adopting a declaration on Wednesday that they will implement reforms to help close the $4... The UN \"Hear Us. Act Now for a Peaceful World\" campaign, launched on the International Day of Peace, aims to include, invest in, and partner with young people to build lasting peace.",
+      "bm25_score_raw": 1.2168541237021513,
+      "bm25_score_norm": 0.45968216597998823,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.7753605842590332,
+      "embedding_score_norm": 0.4327257280179356,
+      "embedding_rank": 7
+    },
+    {
+      "title": "United Nations",
+      "url": "https://en.wikipedia.org/wiki/United_Nations",
+      "snippet": "[Jump to content](https://en.wikipedia.org/wiki/United_Nations#bodyContent). *   [(Top)](https://en.wikipedia.org/wiki/United_Nations#). *   [1.2 Declarations by the Allies of World War II (1941–1944)](https://en.wikipedia.org/wiki/United_Nations#Declarations_by_the_Allies_of_World_War_II_(1941%E2%80%931944)). *   [1.3 Founding (1945)](https://en.wikipedia.org/wiki/United_Nations#Founding_(1945)). *   [1.4 Cold War (1947–1991)](https://en.wikipedia.org/wiki/United_Nations#Cold_War_(1947%E2%80%931991)). *   [1.5 After the Cold War (1991–1999)](https://en.wikipedia.org/wiki/United_Nations#After_the_Cold_War_(1991%E2%80%931999)). *   [2.1 General Assembly](https://en.wikipedia.org/wiki/United_Nations#General_Assembly). *   [2.2 Security Council](https://en.wikipedia.org/wiki/United_Nations#Security_Council). *   [2.3 UN Secretariat](https://en.wikipedia.org/wiki/United_Nations#UN_Secretariat). *   [2.6 Specialized agencies](https://en.wikipedia.org/wiki/United_Nations#Specialized_agencies). *   [2.7 Funds, programmes and other bodies](https://en.wikipedia.org/wiki/United_Nations#Funds,_programmes_and_other_bodies). *   [3.1 Group of 77](https://en.wikipedia.org/wiki/United_Nations#Group_of_77). *   [4.2 Human rights](https://en.wikipedia.org/wiki/United_Nations#Human_rights). *   [5 Funding](https://en.wikipedia.org/wiki/United_Nations#Funding). *   [7 Awards](https://en.wikipedia.org/wiki/United_Nations#Awards). *   [8.1 Role](https://en.wikipedia.org/wiki/United_Nations#Role). *   [8.4 Independence](https://en.wikipedia.org/wiki/United_Nations#Independence). *   [8.7 Effectiveness](https://en.wikipedia.org/wiki/United_Nations#Effectiveness). *   [10 See also](https://en.wikipedia.org/wiki/United_Nations#See_also). *   [11 Notes](https://en.wikipedia.org/wiki/United_Nations#Notes). *   [12.1 Citations](https://en.wikipedia.org/wiki/United_Nations#Citations). *   [12.2 Bibliography](https://en.wikipedia.org/wiki/United_Nations#Bibliography). *   [13 Further reading](https://en.wikipedia.org/wiki/United_Nations#Further_reading). *   [14 External links](https://en.wikipedia.org/wiki/United_Nations#External_links). *   [贛語](https://gan.wikipedia.org/wiki/%E8%81%AF%E5%90%88%E5%9C%8B \"聯合國 – Gan\"). *   [Moore](https://mos.wikipedia.org/wiki/United_Nations \"United Nations – Mossi\"). *   [粵語](https://zh-yue.wikipedia.org/wiki/%E8%81%AF%E5%90%88%E5%9C%8B \"聯合國 – Cantonese\"). *   [Article](https://en.wikipedia.org/wiki/United_Nations \"View the content page [c]\"). *   [Talk](https://en.wikipedia.org/wiki/Talk:United_Nations \"Discuss improvements to the content page [t]\"). *   [Read](https://en.wikipedia.org/wiki/United_Nations). *   [Read](https://en.wikipedia.org/wiki/United_Nations). | •[UN Charter](https://en.wikipedia.org/wiki/Charter_of_the_United_Nations \"Charter of the United Nations\") signed | 26 June 1945(81 years ago)(1945-06-26) |. [United Nations](https://en.wikipedia.org/wiki/United_Nations). [UN System](https://en.wikipedia.org/wiki/United_Nations_System \"United Nations System\"). 293 languages[Add topic](https://en.wikipedia.org/wiki/United_Nations#).",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.7682348489761353,
+      "embedding_score_norm": 0.3810632149510578,
+      "embedding_rank": 8
+    },
+    {
+      "title": "আবারও উ. কোরিয়ার ক্ষমতাসীন দলের প্রধান হলেন উন",
+      "url": "https://www.ittefaq.com.bd/776287/%E0%A6%86%E0%A6%AC%E0%A6%BE%E0%A6%B0%E0%A6%93-%E0%A6%89.-%E0%A6%95%E0%A7%8B%E0%A6%B0%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%AE%E0%A6%A4%E0%A6%BE%E0%A6%B8%E0%A7%80%E0%A6%A8-%E0%A6%A6%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A7%E0%A6%BE%E0%A6%A8-%E0%A6%B9%E0%A6%B2%E0%A7%87%E0%A6%A8-%E0%A6%89%E0%A6%A8",
+      "snippet": "উত্তর কোরিয়ার ক্ষমতাসীন ওয়ার্কার্স পার্টি আবারও কিম জং উন-কে দলটির সাধারণ সম্পাদক হিসেবে নির্বাচিত করেছে। ... কিম জং উন. কংগ্রেসের উদ্বোধনী ...Read more",
+      "bm25_score_raw": 1.3205299837951716,
+      "bm25_score_norm": 0.49884704449673556,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.7526096701622009,
+      "embedding_score_norm": 0.2677786242949072,
+      "embedding_rank": 9
+    },
+    {
+      "title": "উন শব্দের অর্থ | উন সমার্থক শব্দ at English-bangla.com",
+      "url": "https://www.english-bangla.com/bntobn/index/%E0%A6%89%E0%A6%A8",
+      "snippet": "উন অর্থ - [বিশেষণ পদ] কম, হীন, দুর্বল। Online Bangla Dictionary (অনলাইন বাংলা অভিধান). Search any Bengali word for accurate Bengali meanings.",
+      "bm25_score_raw": 1.9249891026833699,
+      "bm25_score_norm": 0.7271891864221169,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.7229375243186951,
+      "embedding_score_norm": 0.05265168489799517,
+      "embedding_rank": 10
+    },
+    {
+      "title": "What is the United Nations? | United Nations",
+      "url": "https://www.youtube.com/watch?v=Ttoad811t88",
+      "snippet": "What is the United Nations? | United Nations\nUnited Nations\n3310000 subscribers\n1297 likes\n109602 views\n27 Jun 2025\nAnna Wilson explains the fundamentals of the organization and breaks down the basics:\nHow it started?\nWhat it does?\nAnd why does it still matter today?\n \nLearn all this in the following UN explainer video.\n313 comments\n",
+      "bm25_score_raw": 2.0877911195859187,
+      "bm25_score_norm": 0.7886897248169658,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.7161614894866943,
+      "embedding_score_norm": 0.0035245458517227535,
+      "embedding_rank": 11
+    },
+    {
+      "title": "উন - উইকিপিডিয়া",
+      "url": "https://bpy.wikipedia.org/wiki/%E0%A6%89%E0%A6%A8",
+      "snippet": "উন (ইংরেজি:Un), ভারতর উত্তর প্রদেশ রাজ্যর মুজাফ্ফরনগর জিলার নগর পঞ্চায়েত-শাসিত শহর আগ। উন. উন. রাজ্য - জিলা, উত্তর প্রদেশ - মুজাফ্ফরনগর. ভৌগলিক লামতুপ, 29.58° N 77.25° E. লয়াগ - উচহান, km²Read more",
+      "bm25_score_raw": 1.6884744066019062,
+      "bm25_score_norm": 0.6378427432757093,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.7156753540039062,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

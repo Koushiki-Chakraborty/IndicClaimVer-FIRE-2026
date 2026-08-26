@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/CM/1027",
+    "text": "tu hi bandon pe karta hay lutf o ataa hay tujhi pe bharosa tujhi sey dua mujhe jalwa e paak rasool dikha tujhe apne hi izz o ulaa ki qasam",
+    "lang": "codemix"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "enjoy",
+      "url": "https://en.wiktionary.org/wiki/enjoy",
+      "snippet": "## English. From Middle English *enjoyen*, from Old French *enjoier\")*, *anjoier\")*, *enjoer\")* (“to give joy, receive with joy, rejoice”), equivalent to *en-* +‎ *joy*. 1. (transitive) To receive pleasure or satisfaction from something. :   It is not a crime to **enjoy** some bacon or a trout or what have you. Ancient nomads, wishing to ward off the evening chill and **enjoy** a meal around a campfire, had to collect wood and then spend time and effort coaxing the heat of friction out from between sticks to kindle a flame. 2. (transitive) To have the use or benefit of something. #### Translations. to have the use or benefit of something. * English terms inherited from Middle English. * English terms derived from Middle English. * English terms derived from Old French. * English terms with IPA pronunciation. * English terms with audio pronunciation. * Terms with Old English translations. * Requests for review of Dutch translations. * Requests for review of Norwegian translations.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.7971581816673279,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Kalam e Imam Ahmed Raza Fazile Barelvi Hadaiq e Bakhshish",
+      "url": "https://www.facebook.com/farmaneAlahazrat/photos/kalam-e-imam-ahmed-raza-fazile-barelvi-hadaiq-e-bakhshish-no-5hai-kalaam-e-ilahi/2019181718341608",
+      "snippet": "Tu Hi Bando Pe karta Hai Lutf o 'Ata Hai Tujhi Pe Bharosa Hai Tujhi se Dua Mujhe Jalwaa e Paake Rasool Dikha Tujhe Apne Hi izz o 'Ala ki Qasam",
+      "bm25_score_raw": 8.134350869966486,
+      "bm25_score_norm": 0.8712916776898114,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.7865915298461914,
+      "embedding_score_norm": 0.8776528933376766,
+      "embedding_rank": 2
+    },
+    {
+      "title": "enjoy - English Word of the Day",
+      "url": "https://www.youtube.com/shorts/CSIkgK0_O8E",
+      "snippet": "\"enjoy\" it's a verb that means to get pleasure or happiness from something.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.7852168083190918,
+      "embedding_score_norm": 0.861735533311617,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Hai Kalam e Ilahi Mein in Roman Urdu (Naat)",
+      "url": "https://lyrics.midhah.com/naat/hai-kalam-e-ilahi-mein/transliterated",
+      "snippet": "Tu hi bandon pe karta hai lutf-o-ata hai tujhi pe bharosa tujhi se dua Mujhe jalwa-e-pak-e-Rasool dikha tujhe apne hi izz-o-ala ki qasam Mere garcha",
+      "bm25_score_raw": 9.335967596447531,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.7849485278129578,
+      "embedding_score_norm": 0.8586292188181512,
+      "embedding_rank": 4
+    },
+    {
+      "title": "enjoy (@___enjoy_official___)",
+      "url": "https://www.instagram.com/___enjoy_official___?hl=en",
+      "snippet": "A collection of songs from the past. new full length album by Enjoy comes out this March. Released an album today called “Exploited”. NEW album “Exploited”",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.7692699432373047,
+      "embedding_score_norm": 0.6770930527873323,
+      "embedding_rank": 5
+    },
+    {
+      "title": "ENJOY | definition in the Cambridge English Dictionary",
+      "url": "https://dictionary.cambridge.org/us/dictionary/english/enjoy",
+      "snippet": "# Meaning of **enjoy** in English. Your browser doesn't support HTML5 audio. ### enjoy verb [T] (PLEASURE). You can also find related words, phrases, and synonyms in the topics:. ### enjoy verb [T] (GOOD THING). ### **Grammar**. ## **enjoy** | Intermediate English. ### enjoy verb [T] (LIKE TO DO). ### enjoy verb [T] (BENEFIT). ## Examples of enjoy. ## Translations of enjoy. Get a quick, free translation! ## **Browse**. ## More meanings of *enjoy*. If you have egg on your face, you look stupid because of something that you have done. have egg on your face. Paws and claws (Words for parts of animals). ## Learn more with +Plus. To add **enjoy** to a word list please sign up or log in. Add **enjoy** to one of your lists below, or create a new one. There was a problem sending your report.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.7643654942512512,
+      "embedding_score_norm": 0.6203063663918994,
+      "embedding_rank": 6
+    },
+    {
+      "title": "Dil Kerta hai Bs Suna hi rahun ..❤️🥺 . . . . . . . #instagood #explore #food #viral ...",
+      "url": "https://www.instagram.com/reel/DZnA44RtD2i",
+      "snippet": "Rizq asal mein Allah ki taraf se aata hai. Aap Allah walay ban jayen, Allah Ta'ala kehta hai main tujhe udhar se doonga jahan se tu ne socha bhi",
+      "bm25_score_raw": 1.1969746228461464,
+      "bm25_score_norm": 0.12821109440242834,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.7575352191925049,
+      "embedding_score_norm": 0.5412212971295749,
+      "embedding_rank": 7
+    },
+    {
+      "title": "ENJOY Definition & Meaning",
+      "url": "https://www.dictionary.com/browse/enjoy",
+      "snippet": "enjoys,   present (3rd person singular)     enjoyed,   past participle, past     enjoying   present participle. 1. to experience with joy; take pleasure in. 2. to have and use with satisfaction; have the benefit of. 3. to find or experience pleasure for (oneself ). > *Automobile manufacturers have enjoyed a six-percent rise in sales over the past month.*. 5. to have intercourse with. 1. to receive pleasure from; take joy in. 2. to have the benefit of; use with satisfaction. 3. to have as a condition; experience. 4. *archaic* to have sexual intercourse with. 5. to have a good time. To *enjoy* something is to take delight or pleasure in something: to have fun doing it. Check out this interactive, curated word list from our team of English language specialists at Vocabulary.com – one of over 17,000 lists we've built to help learners worldwide! Start your learning journey today with our library of interactive, themed word lists built by the experts at Vocabulary.com – we'll help you make the most of your study time!",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.7540524005889893,
+      "embedding_score_norm": 0.500895109952905,
+      "embedding_rank": 8
+    },
+    {
+      "title": "Enjoy - Definition, Meaning & Synonyms",
+      "url": "https://www.vocabulary.com/dictionary/enjoy",
+      "snippet": "# enjoy. To *enjoy* something is to take delight or pleasure in something: to have fun doing it. Whatever you like or love, you *enjoy*. Saying you enjoy something is a major compliment: it means you like it, and it makes you happy. Some people enjoy sports; others enjoy music. TV, movies, books, video games, sunny days, pets, and exercise are enjoyed by many people. We can also talk about enjoying as a type of advantage. A tall boxer enjoys an advantage because he has a longer reach than a short boxer. ### Vocabulary lists containing **enjoy**. view more about the vocabulary list. At a loss for an original message to put on your Mother's Day card? Consult this list of verbs to remember all your mother has done for you. ### Whether you’re a teacher or a learner, Vocabulary.com can put you or your class on the path to systematic vocabulary improvement. Spanish-English dictionary, translator, and learning. French-English dictionary, translator, and learning.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.7540034055709839,
+      "embedding_score_norm": 0.5003278159041094,
+      "embedding_rank": 9
+    },
+    {
+      "title": "Tere Pyar Pe Bharosa Kar To Lun Full Song | Hawalaat | Padmini Kolhapure",
+      "url": "https://www.youtube.com/watch?v=yFxhrMZ6qps",
+      "snippet": "Song : Tere Pyar Pe Bharosa Kar To Lun Movie : Hawalaat Singer : Lata Mangeshkar, D. Padmini Kolhapure & Others. Lyrics: Gulshan Bawra Music",
+      "bm25_score_raw": 1.081421929256777,
+      "bm25_score_norm": 0.11583394201885121,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.7228286266326904,
+      "embedding_score_norm": 0.13936730840368147,
+      "embedding_rank": 10
+    },
+    {
+      "title": "Bara Lutf Aya - song and lyrics by Nasheed Club, Anas Nazeer",
+      "url": "https://open.spotify.com/track/1T5W8MTlv6bdMzaIeDwBh3",
+      "snippet": "Listen to Bara Lutf Aya on Spotify. Song · Nasheed Club, Anas Nazeer · 2024.",
+      "bm25_score_raw": 2.5936689018089965,
+      "bm25_score_norm": 0.277814685517538,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.7160416841506958,
+      "embedding_score_norm": 0.060783970009330675,
+      "embedding_rank": 11
+    },
+    {
+      "title": "Phir Se Bharosa Kar Lunga (LYRICS) Stebin Ben | Jennifer Winget ...",
+      "url": "https://www.youtube.com/watch?v=6d98ColC0-k",
+      "snippet": "Bharosa (LYRICS) - Stebin Ben | Jennifer Winget | Anand Raj Anand | New Sad Song 2024 Bharosa Lyrics has been beautifully sung by the",
+      "bm25_score_raw": 1.219453283526551,
+      "bm25_score_norm": 0.13061884276361138,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.7107920050621033,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

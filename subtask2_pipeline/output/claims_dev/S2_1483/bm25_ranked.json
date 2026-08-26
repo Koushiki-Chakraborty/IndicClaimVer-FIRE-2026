@@ -1,0 +1,57 @@
+{
+  "claim": {
+    "id": "S2/1483",
+    "text": "Covid-19 test at Argentina, Chile border causes long queues, sparks supply chain fears",
+    "lang": "dev"
+  },
+  "ranked_evidence": [
+    {
+      "title": "Covid-19 test at Argentina, Chile border causes long queues",
+      "url": "https://www.indiatoday.in/amp/coronavirus-outbreak/story/covid-19-testing-long-queues-at-argentina-chile-border-sparks-supply-chain-fears-1901678-2022-01-19",
+      "snippet": "Covid-19 test at Argentina, Chile border causes long queues; sparks supply chain fears. Up to 2,000 trucks are backed up at Argentina's main",
+      "bm25_score_raw": 12.533446187885477,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Argentine truckers stranded at Chilean border by slow COVID testing",
+      "url": "https://www.reuters.com/world/americas/argentine-truckers-stranded-chilean-border-by-slow-covid-testing-2022-01-29",
+      "snippet": "Thousands of truck drivers from Argentina were stuck at the Chilean border on Saturday due to slow COVID-19 testing, as Chile faced its second",
+      "bm25_score_raw": 3.9875246990863706,
+      "bm25_score_norm": 0.18515501583298796,
+      "bm25_rank": 2
+    },
+    {
+      "title": "Chile reopens remaining land borders as Covid cases stabilise",
+      "url": "https://www.batimes.com.ar/news/amp/latin-america/chile-reopens-land-borders-two-years-after-the-start-of-pandemic.phtml",
+      "snippet": "Chile has reopened 22 land border crossings with Argentina, Bolivia and Peru in a symbolic move that marks a new stage in the coronavirus pandemic.",
+      "bm25_score_raw": 3.257057029201465,
+      "bm25_score_norm": 0.11550566114584097,
+      "bm25_rank": 3
+    },
+    {
+      "title": "Thousands of truckers wait for COVID-19 testing to enter Chile",
+      "url": "https://www.youtube.com/watch?v=Vd-tBw371vs",
+      "snippet": "Thousands of truck drivers are stranded on the border between Chile and Argentina as they wait to be tested for COVID-19.",
+      "bm25_score_raw": 2.461288573572718,
+      "bm25_score_norm": 0.03962994247965737,
+      "bm25_rank": 4
+    },
+    {
+      "title": "Cross border e-commerce in Argentina and Chile grows despite COVID-19 and logistics disruption",
+      "url": "https://americasmi.com/insights/cross-border-ecommerce-logistics-argentina-chile",
+      "snippet": "# Cross border e-commerce in Argentina and Chile grows despite COVID-19 and logistics disruption. Both Argentina and Chile have experienced sustained growth in cross-border e-commerce purchase volumes since the pandemic despite economic difficulties and global logistics disruption. AMI figures show that by the end of 2019 (pre-pandemic), cross-border e-commerce in Argentina was worth US$150 million. Post-pandemic, it is estimated that the market will be worth USD 1 billion by the end of 2025, growing with a compound annual growth rate (CAGR) of 32% between 2021 and 2025. This growth will be fueled by the boom in domestic e-commerce and the number of users that have started buying online thanks to major improvements in international marketplaces such as mobile apps and Spanish-language websites. As a result of this, a new kind of business model in Argentina has appeared, in which local companies manage the buying and logistics process involved in buying from abroad.",
+      "bm25_score_raw": 2.1620307982690576,
+      "bm25_score_norm": 0.011096015799103168,
+      "bm25_rank": 5
+    },
+    {
+      "title": "Chile, Argentina reach agreement to unblock truck queue at border crossing | Buenos Aires Times",
+      "url": "https://www.batimes.com.ar/news/amp/latin-america/chile-argentina-reach-agreement-to-unblock-truck-queue-at-border-crossing.phtml",
+      "snippet": "A long and lengthy queue of trucks at the border between Argentina and Chile was unblocked on Sunday, after both countries reached an agreement to relax Covid-19 health controls that had delayed some 3,000 vehicles for almost two weeks. Trucks remain parked in the industrial zone of Luján de Cuyo, Mendoza Province, near the Cristo Redentor-Libertadores international crossing between Argentina and Chile, on January 30, 2022. \"After two weeks of delays at the border, the ambassadors of Argentina and Chile sealed an agreement that will allow the flow of cargo transport between the two countries to resume,\" announced the Federación Argentina de Entidades Empresarias del Autotransporte de Cargas (Argentine Federation of Freight Transport Business Entities, FADEEAC). Several hundred trucks from Argentina were blocked at the Cristo Redentor crossing at an altitude of more than 3,100 metres, due to requirements for truck-drivers needing an negative antigen test and a lack of sufficient personnel to speed up the process.",
+      "bm25_score_raw": 2.045658136351592,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6
+    }
+  ]
+}

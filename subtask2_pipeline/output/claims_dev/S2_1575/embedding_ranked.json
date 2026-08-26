@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/1575",
+    "text": "सुप्रीम कोर्ट ने मां, पत्नी और 2 साल की बेटी की कथित हत्या के लिए मौत की सजा पाए व्यक्ति को बरी किया",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "SC acquits death row convict in case of killing his mother, ...",
+      "url": "https://lawstreet.co/judiciary/sc-acquits-death-row-convict-in-case-of-killing-his-mother-wife-and-2-yr-old-daughter",
+      "snippet": "SC acquits man sentenced to death for killing his mother, wife, and daughter, citing insufficient evidence and unreliable witness testimony.",
+      "bm25_score_raw": 10.983702593249395,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8829150199890137,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "South Carolina Supreme Court overturns Alex Murdaugh's ...",
+      "url": "https://www.youtube.com/watch?v=YJ64vVUX2sA",
+      "snippet": "South Carolina Supreme Court overturns Alex Murdaugh's murder convictions in deaths of wife and son",
+      "bm25_score_raw": 3.2832729324114682,
+      "bm25_score_norm": 0.2989222354244528,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8526598215103149,
+      "embedding_score_norm": 0.8112429160035104,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Prosecutors to retry Alex Murdaugh in deaths of wife and ...",
+      "url": "https://www.wdbj7.com/2026/05/13/south-carolina-supreme-court-overturns-alex-murdaughs-murder-convictions-deaths-wife-son",
+      "snippet": "The South Carolina Supreme Court has overturned Alex Murdaugh's murder convictions and life sentence for the killings of his wife and his",
+      "bm25_score_raw": 3.1626551118826045,
+      "bm25_score_norm": 0.2879407089760768,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8368085622787476,
+      "embedding_score_norm": 0.7123495812818873,
+      "embedding_rank": 3
+    },
+    {
+      "title": "South Carolina Supreme Court overturns Alex Murdaugh's ...",
+      "url": "https://www.cnbc.com/2026/05/13/south-carolina-supreme-court-overturns-alex-murdaughs-murder-convictions-in-deaths-of-wife-and-son.html",
+      "snippet": "The ruling is a win for Murdaugh, who has adamantly denied killing his wife Maggie and younger son Paul since he found their bodies outside",
+      "bm25_score_raw": 1.9460915590399226,
+      "bm25_score_norm": 0.1771799211165818,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.8347771763801575,
+      "embedding_score_norm": 0.6996761070371417,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Prosecutors to retry Alex Murdaugh in deaths of wife and ...",
+      "url": "https://thehill.com/homenews/state-watch/alex-murdaugh-south-carolina-supreme-court-murder-convictions",
+      "snippet": "The South Carolina Supreme Court on Wednesday overturned the murder convictions and life sentence of disgraced lawyer Alex Murdaugh in the",
+      "bm25_score_raw": 2.9444879082548976,
+      "bm25_score_norm": 0.2680778984369611,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8321024775505066,
+      "embedding_score_norm": 0.6829891118416159,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Alex Murdaugh's Murder Case: Supreme Court Overturns ...",
+      "url": "https://www.yahoo.com/lifestyle/articles/alex-murdaughs-murder-case-supreme-151006521.html",
+      "snippet": "The South Carolina Supreme Court overturned Murdaugh's 2023 conviction for the murders of his wife, Maggie, and son, Paul, on Wednesday, May 13.",
+      "bm25_score_raw": 2.187287633214482,
+      "bm25_score_norm": 0.1991393716868111,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.8240243196487427,
+      "embedding_score_norm": 0.6325908462122001,
+      "embedding_rank": 6
+    },
+    {
+      "title": "[PDF] ॢबह र गजट",
+      "url": "https://upload.indiacode.nic.in/showfile?actid=AC_BR_59_737_00001_00001_1545115896167&type=notification&filename=1211_31.12.2018_tax_rate_24_2018.pdf",
+      "snippet": "द, को0 ठक और अंक “धारा 9 क5 उप धारा (1)” क े प8 चात, को0 ठक और अंक “और धारा 15 क5 उप धारा (5)” को अंत:; था=पत >कया जाएगा; (ख) अनुसूची I- 2.5% म$,- (i) Hम सं\b या 23, 24 और उससे संबं धत '=वि0टयK को foyksfir कर \u0016दया जाएगा; (ii) Hम सं\b या 123 और उससे संबं धत '=वि0टयK क े प8 चात \u0001न\u0018 न(लMखत Hम सं\b या और '=वि0टयK को अंत:; था=पत >कया जाएगा,यथा:- “123क 2515 11 00 माबNल और Oावरटाईन, H ूड या रफल\u000f \u0016O\u0018 ड”; 2 ॢबह\u0004र गजट [स\u0004ध\u0004रण\u000f\u0010 31 \u0016दस\u0018 बर 2018 (iii) Hम सं\b या 198क को अब Hम सं\b या 198कक (लखा जाएगा और इस तरह (लखे गए Hम सं\b या 198कक क े पहले \u0001न\u0018 न(लMखत Hम सं\b या और '=वि0टयK को अंत:; था=पत >कया जाएगा,यथा:- “198क 4501 'ाक ृ\u0001तक काक N , कU चा या साधारण Wप से तैयार >कया गया”; (iv) Hम सं\b या 224 म$, कॉलम (2) क5 '=वि0ट क े ; थान पर '=वि0ट “63 [6305 32 00, 6309 से (भY न]”को '\u0001त;था=पत >कया जाएगा; (v) Hम सं\b या 225 म$, कॉलम (3) क5 '=वि0ट क े ; थान पर '=वि0ट “फ ुट=वयर िजसका =वHय मूZ य 1000 [पए '\u0001त जोड़ी से अ धक न हो” को '\u0001त; था=पत >कया जाएगा; (vi) Hम सं\b या 225क और उससे संबं धत '=वि0टयK क े ; थान पर \u0001न\u0018 न(लMखत Hम सं\b या और '=वि0टयK को '\u0001त; था=पत >कया जाएगा, यथा: - “225क 6602 00 00 वा>क ंग ; ट\u000f\u001dस,िजसम$ सीट ; ट\u000f स भी आती है 225ख 6815 ^लाई ऐश क5 `ट$ या ^लाई ऐश िजसम$ क ुल (मलाकर 90 '\u0001तशत या इससे अ धक ^लाई ऐश हो; ^लाई ऐश .",
+      "bm25_score_raw": 2.310178857627873,
+      "bm25_score_norm": 0.21032787787314208,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.7747911810874939,
+      "embedding_score_norm": 0.3254335926460307,
+      "embedding_rank": 7
+    },
+    {
+      "title": "हुजूम-ए-नाला हैरत आजिज़-ए-अर्ज़ यक-अफ़्ग़ाँ है - ग़ज़ल",
+      "url": "https://www.rekhta.org/ghazals/hujuum-e-naala-hairat-aajiz-e-arz-yak-afgaan-hai-mirza-ghalib-ghazals?lang=hi",
+      "snippet": "Title: हुजूम-ए-नाला हैरत आजिज़-ए-अर्ज़ यक-अफ़्ग़ाँ है - ग़ज़ल\naaj ik aur baras biit gayā us ke baġhair. jis ke hote hue hote the zamāne mere. # हुजूम-ए-नाला हैरत आजिज़-ए-अर्ज़ यक-अफ़्ग़ाँ है. मिर्ज़ा ग़ालिब. ## मिर्ज़ा ग़ालिब. #### हुजूम-ए-नाला हैरत आजिज़-ए-अर्ज़ यक-अफ़्ग़ाँ है. ##### मिर्ज़ा ग़ालिब. हुजूम-ए-नाला हैरत आजिज़-ए-अर्ज़ यक-अफ़्ग़ाँ है. ख़मोशी रेशा-ए-सद-नीस्ताँ से ख़स-ब-दंदाँ है. तकल्लुफ़-बर-तरफ़ है जाँ-सिताँ-तर लुत्फ़-ए-बद-ख़ूयाँ. निगाह-ए-बे-हिजाब-ए-नाज़ तेग़-ए-तेज़-ए-उर्यां है. हुई ये कसरत-ए-ग़म से तलफ़ कैफ़ियत-ए-शादी. कि सुब्ह-ए-ईद मुझ को बद-तर अज़-चाक-ए-गरेबाँ है. दिल ओ दीं नक़्द ला साक़ी से गर सौदा किया चाहे. कि उस बाज़ार में साग़र माता-ए-दस्त-गर्दां है. ग़म आग़ोश-ए-बला में परवरिश देता है आशिक़ को. चराग़-ए-रौशन अपना क़ुल्ज़ुम-ए-सरसर का मर्जां है. तकल्लुफ़ साज़-ए-रुस्वाई है ग़ाफ़िल शर्म-ए-रानाई. दिल-ए-ख़ूँ-गश्ता दर दस्त-ए-हिना-आलूदा उर्यां है. 'असद' जमइयत-ए-दिल दर-किनार-ए-बे-ख़ुदी ख़ुश-तर. दो-आलम आगही सामान-ए-यक-ख़्वाब-ए-परेशाँ है. ###### COMMENT. ###### COMMENTS. ### Additional information available. Click on the INTERESTING button to view additional information associated with this sher. #### About this sher. ### rare Unpublished content. This ghazal contains ashaar not published in the public domain. These are marked by a red line on the left. ## और खोजिए. *You have  remaining out of 5 free content pages per year.*. Log In;) or Register;) to become a Rekhta Family member to access the full website. ## join rekhta family! You have exhausted 5 free content pages per year. Register and enjoy **UNLIMITED**  access to the whole universe of Urdu Poetry, Rare Books, Language Learning, Sufi Mysticism, and more. Best poetry resource in urdu. Best poetry resource in urdu. #### शायरी. #### अन्य. #### रेख़्ता फ़ाउंडेशन की अन्य वेबसाइट्स. ##### रेख़्ता फ़ाउंडेशन. ##### रेख़्ता डिक्शनरी. ##### सूफ़ीनामा. ##### हिन्दवी. ##### जश्न-ए-रेख़्ता. ##### आमोज़िश. ##### Rekhta Foundation. Devoted to the preservation & promotion of Urdu. ##### Rekhta Dictionary. A Trilingual Treasure of Urdu Words. ##### Sufinama. Online Treasure of Sufi and Sant Poetry. ##### Hindwi. World of Hindi language and literature. ##### Rekhta Learning. The best way to learn Urdu online. ##### Rekhta Books. Best of Urdu & Hindi Books.",
+      "bm25_score_raw": 0.4200212645170041,
+      "bm25_score_norm": 0.03824040763586862,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.7687561511993408,
+      "embedding_score_norm": 0.28778205833791964,
+      "embedding_rank": 8
+    },
+    {
+      "title": "download",
+      "url": "https://www.fda.gov/media/95047/download",
+      "snippet": "खयद् -ायय था औत हाा ्ं ापंय ा पद जो पखर पद हधयत ात उच ं ् त्या उाय्  पय  धयातस पत द कर. पत द कप दकय क प उ पद हयदै ी हाा ं ापंय ा खयद् -ायय था पोकइ् ढअ ग ् द ं न् यत पत तद  जो ् यहाज प क हय व्क्  तयक पयकहष ं तकूयय कपतंयकनक ज न् य प  तोध यतरप  ् अ तस ू यय क. हाा ं ापंय ा पद य क FSVP ं न् यत पत द क ब यक तख द ह ् तस पत द प हह श् पंय न ् कय. o खयद् -ायय था प ्  तय ् द क्अ ब अ ध ं हयदै ी हाा ं ापंय ा प पय्ा ापं्यँ क ूो्द् औ त ू थयकँ . • ् अै ोध ं FSVP ाद यकँ बं छो सद ह्यंप  औत प छ छो सद हाा ं ापंय ा लअ ् द खयद् -ायय था पद. • ् द क प् ीकऐ्दक यदै र हयदै ी हाा ं ापंय ा ् द प छ खयद् -ायय थ कपद य क ् अै ोध ं ाद यक ँ . • ऐ्दक हाा ं ापंय ा ् द खयद् -ायय था ह्यं पत द पद य क जो क हयतपक  ् अ त स ् य उाजक्  तय. • ऐ्द ह्यंप पदकय क जो  हयतप  ् अ त स ह ् र  र कयक गक हाा ं ा -शक अ ख य पय्ा ् र ू यहधय  पद ध् धी क ह् अ कप  रयांय ् य ू ो्द्त न क ह ं थ कज् ं पक इ्दक उ कूयहधय क. सों उ ा बध पतय द पद य क FDA FSMA खयद् -ायय था ्  तय ं प ीप ् य्ंय ् अ जय. • ू यै स औत ं प ीप ् य्ंय पय्ा ् र थयांक पत द पद य क खयद् -ायय था क्  तयक हयतप क ् अ तस गठजोड़ क(FSPCA) पद ् य थ ् ् ोग पत य1.",
+      "bm25_score_raw": 5.85967373208886,
+      "bm25_score_norm": 0.5334880184838787,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.765091061592102,
+      "embedding_score_norm": 0.2649161820047896,
+      "embedding_rank": 9
+    },
+    {
+      "title": "Told you he'd take it well - Harry Potter and the Deathly Hallows: Part 1 | Clip.Cafe",
+      "url": "https://clip.cafe/harry-potter-the-deathly-hallows-part-1-2010/i-believe-youre-familiarwith-this-particular-brew",
+      "snippet": "WalkStreet is a GPS real-estate tycoon — claim your block and grow it into an empire. I believe you're familiar with this particular brewNo Absolutely notI told you he'd take it well. Please log in to add to collections. Harry Potter and the Deathly Hallows: Part 1 • 2010. # Told you he'd take it well. Join the conversation Log in or create an account to leave a comment. Alastor \"Mad-Eye\" Moody:I believe you're familiar with this particular brew.Harry Potter:No. Absolutely not.Hermione Granger:Told you he'd take it well. I believe you're familiar with this particular brew. For those of you who haven't takenPolyjuice Potion before, fair warning: It tastes like goblin piss. For those of you who haven't takenPolyjuice Potion... It tastes like goblin pissHave a lot of experiences with that do you Mad EyeJust trying to diffuse the tension - Harry Potter and the Deathly Hallows: Part 1  00:11. Hang on Harry - Harry Potter and the Deathly Hallows: Part 1  00:03.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.7612797021865845,
+      "embedding_score_norm": 0.24113775305299795,
+      "embedding_rank": 10
+    },
+    {
+      "title": "जम्मू और कश्मीर,राजौरी,सज - का पिनकोड",
+      "url": "https://pincodes.info/hindi/Jammu-And-Kashmir/Rajauri/Saj",
+      "snippet": "Title: जम्मू और कश्मीर,राजौरी,सज - का पिनकोड\n# जम्मू और कश्मीर , राजौरी , सज - का पिनकोड है 185212. | नाम | Saj B.O-सज |. | राज्य | जम्मू और कश्मीर |. | मुख्य कार्यालय | Rajouri H.O |. | उप कार्यालय | Thanamandi S.O |. | स्थान | Rajouri Taluk of Rajauri District |. | विभाग की जानकारी | Rajouri Division Srinagar HQ Region Jammukashmir Circle |. | भारतीय पोस्टल कोड सिस्टम छह अंकों से मिलकर बनता है। पहले अंक राज्य का प्रतिनिधित्व करते हैं, दूसरे दो अंक जिले का प्रतिनिधित्व करते हैं और तीसरा दो अंक पोस्ट ऑफिस का प्रतिनिधित्व करता है। इस मामले में पहले दो अंक 18 राज्य जम्मू और कश्मीर का प्रतिनिधित्व करते हैं, दूसरे दो अंक 52 जिला राजौरी का प्रतिनिधित्व करते हैं, और अंत में। 12 डाकघर Saj B.O का प्रतिनिधित्व करता है इस प्रकार जम्मू और कश्मीर , राजौरी , सज का पिन कोड 185212 है |. Flipkart delivery service in Saj, Rajauri, Jammu And Kashmir , Amazon Courier Service, Myntra cash on delivery may not be available. ## Rajauri Info. **Rajauri** or **Rajouri** (rÉ™ËˆÊ¤É”:rÉª) (Hindi: à¤°à¤¾à¤œà¥Œà¤°à¥€) is a town and a municipal council in Rajouri district in Jammu and Kashmir. Rajauri is about 155 kilometres (96 mi) from Jammu city on the Poonch Highway. Rajouri is a district in the Jammu & Kashmir state of India. The total area of Rajouri is 2,630 km² including 2,608.11 km² rural area and 21.89 km² urban area. Rajouri has a population of 642,415. There are 130,401 houses in the district. Rajouri district is further divided into the following Blocks/Tehsils for administrative purposes: 1. Rajouri district was a region of immense significance in ancient More Info. **Jammu And Kashmir: Anantnag Police Seize Properties Worth Rs 75 Lakh Belonging To Drug Peddlers**2025-03-22. **Jammu And Kashmir: Unidentified Terrorist Killed In Handwara Gunfight; Arms and Ammunition Recovered**2025-03-18. Security forces neutralized an unidentified terrorist in Handwara, recovering an AK-47 rifle. Jammu And Kashmir, Poonch, Sakhi MaidaJammu And Kashmir, Leh, SaktJammu And Kashmir, Udhampur, SalaJammu And Kashmir, Baramulla, SalamabaJammu And Kashmir, Baramulla, SalamabaJammu And Kashmir, Jammu, SalehaJammu And Kashmir, Kargil, SaliskoJammu And Kashmir, Ananthnag, SallaJammu And Kashmir, Udhampur, SalmehrJammu And Kashmir, Udhampur, Salmer.",
+      "bm25_score_raw": 3.166172964159141,
+      "bm25_score_norm": 0.2882609882486327,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.7366828918457031,
+      "embedding_score_norm": 0.08768239896473248,
+      "embedding_rank": 11
+    },
+    {
+      "title": "बर - हिन्दी शब्दकोश में बर की परिभाषा और पर्यायवाची",
+      "url": "https://educalingo.com/hi/dic-hi/bara-2",
+      "snippet": "# \"बर\" शब्दकोश में हिन्दी का अर्थ. ### हिन्दी में बर का क्या अर्थ होता है? #### हिन्दीशब्दकोश में बर की परिभाषा. वह जिसका विवाह होता हो । दूल्हा । दे० 'वर' । उ०—(क) जद्यपि बर अनेक जग माँहीं । एहि कँह सिव तजि दूसर नाहीं ।— तुलसी (शब्द०) । (ख) बर अस बधू आप जब जाने रुक्मिनि करत बधाई ।—सूर (शब्द०) । मुहा०—बर का पानी = विवाह से पहले नहछू के समय का बर का स्नान किया हुआ पानी जो एक पात्र में एकत्र करके कन्या के घर भेजा जाता हैं और जिससे फिर कन्या नहलाई जाती है । जिस पात्र में वह जल जाता है वह पात्र चीनी, खांड़ आदि से भरकर लड़केवाला के घर लोटा दिया जाता हैं । २. वह आशीर्वाद सूचक वचन जो किसी की प्रार्थना पूरी करने के लिये कहा जाय । दे० 'वर' । उ०—यह बर माँग्यो दियो न काहू । तुम मम मन ते कहूँ न जाहू ।—केशव (शब्द०) ।.",
+      "bm25_score_raw": 3.8780485944157945,
+      "bm25_score_norm": 0.3530729789423878,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.7226285934448242,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

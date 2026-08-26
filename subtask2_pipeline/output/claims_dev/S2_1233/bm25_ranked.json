@@ -1,0 +1,105 @@
+{
+  "claim": {
+    "id": "S2/1233",
+    "text": "मुकदमे में देरी के आधार पर जमानत मांगने वाले PMLA आरोपियों से स्थगन मांगने के खिलाफ अंडरटेकिंग दाखिल करने को कहा जाएगा: सुप्रीम कोर्ट",
+    "lang": "dev"
+  },
+  "ranked_evidence": [
+    {
+      "title": "Supreme Court seeks balance between bail and ...",
+      "url": "https://www.thehindu.com/news/national/supreme-court-seeks-balance-between-bail-and-the-accuseds-obligation-to-a-timely-trial/article68918335.ece",
+      "snippet": "Nov 27, 2024 — The Supreme Court on Wednesday (November 27, 2024) proposed that accused persons seeking bail on the ground of delay in the commencement of trial in money ...Read more",
+      "bm25_score_raw": 5.976228009697948,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Will Ask PMLA Accused Seeking Bail On Ground Of Delay ...",
+      "url": "https://www.livelaw.in/top-stories/will-ask-pmla-accused-seeking-bail-on-ground-of-delay-in-trial-to-file-undertaking-against-seeking-adjournments-supreme-court-276673",
+      "snippet": "Nov 28, 2024 — The Supreme Court on Wednesday (November 27) expressed that it will require persons accused of money laundering to file undertaking that they will not seek ...Read more",
+      "bm25_score_raw": 5.385463517440751,
+      "bm25_score_norm": 0.9011475982344497,
+      "bm25_rank": 2
+    },
+    {
+      "title": "Supreme Court Grants Bail in PMLA Case Citing Trial ...",
+      "url": "https://24law.in/story/supreme-court-grants-bail-in-pmla-case-citing-trial-delay-long-custody-distinguishes-recent",
+      "snippet": "Supreme Court granted bail to an accused in a money laundering case, citing prolonged incarceration and an unlikely conclusion of the trial in a reasonable",
+      "bm25_score_raw": 4.236197367885022,
+      "bm25_score_norm": 0.7088413228228099,
+      "bm25_rank": 3
+    },
+    {
+      "title": "PMLA एक्ट क्या है? बदलते वक्त के साथ कड़ा होता गया यह कानून ...",
+      "url": "https://www.jagran.com/news/national-what-is-pmla-act-this-law-became-stricter-with-changing-times-23681613.html",
+      "snippet": "हेमंत सोरेन के बाद अरविंद केजरीवाल की गिरफ्तारी से कठोर पीएमएलए कानून ईडी और सीबीआई जैसी एजेंसियों के दुरुपयोग के विपक्ष दलों के आरोप का स्वर तेज हो गया है। सबसे अधिक निशाने पर ईडी और उसका पीएमएलए",
+      "bm25_score_raw": 3.114269811525093,
+      "bm25_score_norm": 0.5211096039962664,
+      "bm25_rank": 4
+    },
+    {
+      "title": "Supreme Court Grants Bail to Former Promoter in PMLA ...",
+      "url": "https://lawtext.in/judgement.php?bid=67519&ref=LT000008",
+      "snippet": "2 days ago — Supreme Court Grants Bail to Former Promoter in PMLA Case Citing Long Incarceration and Delayed Trial.",
+      "bm25_score_raw": 3.066425474611019,
+      "bm25_score_norm": 0.5131038289762313,
+      "bm25_rank": 5
+    },
+    {
+      "title": "Supreme Court Grants Bail In PMLA Case",
+      "url": "https://www.livelawbiz.com/top-stories/long-custody-will-enure-to-benefit-of-accused-for-bail-when-delay-in-trial-isnt-his-fault-supreme-court-grants-bail-in-pmla-case-270566",
+      "snippet": "Sep 24, 2024 — Supreme Court granted bail to an accused in a money laundering case related to cattle smuggling across India-Bangladesh border.",
+      "bm25_score_raw": 2.6943623457665575,
+      "bm25_score_norm": 0.4508466446384358,
+      "bm25_rank": 6
+    },
+    {
+      "title": "Pmla: No bail for former MLA Ramesh Kadam in money ...",
+      "url": "https://timesofindia.indiatimes.com/city/mumbai/no-bail-for-former-mla-ramesh-kadam-pmla-court/articleshow/93827019.cms",
+      "snippet": "Refusing to granted bail to an accused in a money laundering case allegedly involving former MLA Ramesh Kadam, a special PMLA court held that",
+      "bm25_score_raw": 2.4035194850068704,
+      "bm25_score_norm": 0.40218001741341686,
+      "bm25_rank": 7
+    },
+    {
+      "title": "Supreme Court Review 2024: Batting for bail in the face of delayed trials - Supreme Court Observer",
+      "url": "https://www.scobserver.in/journal/supreme-court-review-2024-batting-for-bail-in-the-face-of-delayed-trial",
+      "snippet": "Home > Analysis > Supreme Court Review 2024: Batting for bail in the face of delayed trials. # Supreme Court Review 2024: Batting for bail in the face of delayed trials. Yet, 2024 saw the Supreme Court soften its stance in several high-profile cases, where it relied on prolonged incarceration and the long road to trial as a factor for granting bail. In 2024, the Supreme Court granted bail to former Delhi Chief Minister Arvind Kejriwal on three separate occasions following his arrest by the Enforcement Directorate (ED) and the Central Bureau of Investigation (CBI) in connection with the Delhi Liquor Policy scam. His CBI arrest came immediately after a trial court had granted him bail in the ED case. Justice Bhuyan noted that the CBI had been investigating Kejriwal and the Delhi Liquor Policy scam for over a year but only deemed it necessary to arrest him when he was on the verge of release in the ED case.",
+      "bm25_score_raw": 2.2544122640440256,
+      "bm25_score_norm": 0.37722996183975394,
+      "bm25_rank": 8
+    },
+    {
+      "title": "Anti-Money Laundering Law PMLA Is \"Comprehensive\"",
+      "url": "https://www.ndtv.com/india-news/anti-money-laundering-law-pmla-is-comprehensive-delhi-high-court-9569210",
+      "snippet": "PMLA is a self-contained, stringent, and comprehensive law designed to prevent the legitimization of illegally earned money",
+      "bm25_score_raw": 1.605516949731619,
+      "bm25_score_norm": 0.2686505513387809,
+      "bm25_rank": 9
+    },
+    {
+      "title": "PMLA Act Kya Hai? Money Laundering Par Sabse Bada ...",
+      "url": "https://www.youtube.com/watch?v=s5xJRTvXEcY",
+      "snippet": "Prevention of Money Laundering Act, 2002 ya PMLA Act 2002 India ka ek important law hai jo money laundering ko rokne ke liye banaya gaya tha",
+      "bm25_score_raw": 1.4762284038513098,
+      "bm25_score_norm": 0.2470167472619442,
+      "bm25_rank": 10
+    },
+    {
+      "title": "PMLA is nothing but Pradhan Mantri Ki Lal Aankh: Kapil Sibal on prevention of money laundering act",
+      "url": "https://www.youtube.com/watch?v=irTWnQhtMmA",
+      "snippet": "PMLA is nothing but Pradhan Mantri Ki Lal Aankh: Kapil Sibal on prevention of money laundering act\nThe Economic Times\n3460000 subscribers\n27 likes\n1546 views\n22 May 2024\nRajya Sabha MP Kapil Sibal claimed that the Prevention of Money Laundering Act (PMLA) stands for 'Pradhan Mantri ki Lal Ankh' and has nothing to do with money laundering. He explained that the Directorate of Enforcement (ED), the law enforcement agency responsible for enforcing economic laws in the country, can arrest any accused based on any oral statement. Watch!\n\n► Subscribe to The Economic Times for the latest video updates. It's free! - https://www.youtube.com/TheEconomicTimes?sub_confirmation=1\n\n► More Videos @ ETTV - https://economictimes.indiatimes.com/TV\n\n► https://EconomicTimes.com\n\n► For business news on the go, download ET app:\nhttps://etapp.onelink.me/tOvY/EconomicTimesApp\n\nFollow ET on:\n\n► Facebook - https://www.facebook.com/EconomicTimes \n► Twitter - https://www.twitter.com/economictimes\n► LinkedIn - https://www.linkedin.com/company/economictimes\n► Instagram - https://www.instagram.com/the_economic_times\n► Flipboard - https://flipboard.com/@economictimes\n\n#news #latestnews #economictimes #ET #TheEconomicTimes #businessnews\n15 comments\n",
+      "bm25_score_raw": 0.8039369739543208,
+      "bm25_score_norm": 0.1345224734815554,
+      "bm25_rank": 11
+    },
+    {
+      "title": "PMLA: बदलते वक्त के साथ कड़ा होता गया कानून, जानिये कब और ...",
+      "url": "https://www.jansatta.com/national/pmla-when-and-how-prevention-of-money-laundering-act-created-uses-advantages-disadvantages/3287144",
+      "snippet": "झारखंड के पूर्व मुख्यमंत्री हेमंत सोरेन के बाद दिल्ली के मुख्यमंत्री अरविंद केजरीवाल की गिरफ्तारी से धनशोधन निवारण अधिनियम, 2002 (PMLA) कानून को लेकर चर्चा तेज हो गई है।",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12
+    }
+  ]
+}

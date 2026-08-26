@@ -1,0 +1,97 @@
+{
+  "claim": {
+    "id": "S2/T/HI/1278",
+    "text": "लोकसभा चुनाव 2019: 10 जनपथ पर हुई ममता बनर्जी और सोनिया गांधी की मुलाकात",
+    "lang": "hindi"
+  },
+  "ranked_evidence": [
+    {
+      "title": "Reports that Mamata Banerjee is joining the Congress ...",
+      "url": "https://www.instagram.com/p/DZjXKz8R2k1",
+      "snippet": "MAMATA TO JOIN CONGRESS Current Affairs Exam Mamta Banerjee To Join Congress after 28 Years, Sonia Gandhi Proposes Vice President Role in INC (",
+      "bm25_score_raw": 5.224761108369274,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "सोनिया गांधी से मिलने 10 जनपथ पहुंचीं ममता बनर्जी - #Dangal",
+      "url": "https://www.facebook.com/aajtak/videos/%E0%A4%B8%E0%A5%8B%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%BE-%E0%A4%97%E0%A4%BE%E0%A4%82%E0%A4%A7%E0%A5%80-%E0%A4%B8%E0%A5%87-%E0%A4%AE%E0%A4%BF%E0%A4%B2%E0%A4%A8%E0%A5%87-10-%E0%A4%9C%E0%A4%A8%E0%A4%AA%E0%A4%A5-%E0%A4%AA%E0%A4%B9%E0%A5%81%E0%A4%82%E0%A4%9A%E0%A5%80%E0%A4%82-%E0%A4%AE%E0%A4%AE%E0%A4%A4%E0%A4%BE-%E0%A4%AC%E0%A4%A8%E0%A4%B0%E0%A5%8D%E0%A4%9C%E0%A5%80/635233157867419",
+      "snippet": "सोनिया गांधी से मिलने 10 जनपथ पहुंचीं ममता बनर्जी #Dangal #MamataBanerjee ... Isne Bengal me bjp netaon aur hinduon ke liye kadam kadam per dikkaten paida ki the.",
+      "bm25_score_raw": 4.045583636699797,
+      "bm25_score_norm": 0.7525883092481399,
+      "bm25_rank": 2
+    },
+    {
+      "title": "कल 'इंडिया' की मेज पर मिले, आज सीधे सोनिया गांधी की चौखट पर, ममता बनर्जी ...",
+      "url": "https://hindi.news18.com/amp/news/nation/mamata-banerjee-visit-10-janpath-sonia-gandhi-second-meeting-in-24-hours-bengal-politics-tmc-split-numbers-crisis-10554126.html",
+      "snippet": "मंगलवार को टीएमसी सुप्रीमो ममता बनर्जी सीधे कांग्रेस संसदीय दल की प्रमुख सोनिया गांधी के आधिकारिक आवास, 10 जनपथ (10 Janpath) पहुंच गईं. इस हाई-प्रोफाइल मुलाकात ने देश की राजनीति में हलचल तेज कर",
+      "bm25_score_raw": 3.412092596200676,
+      "bm25_score_norm": 0.619671006151991,
+      "bm25_rank": 3
+    },
+    {
+      "title": "Mamata and Sonia hold talks on strategy, discuss alliance ...",
+      "url": "https://www.thehindu.com/news/national/mamata-banerjee-meets-sonia-gandhi/article71081140.ece",
+      "snippet": "Mamata Banerjee meets Sonia Gandhi to discuss future strategies and potential alliances for the 2029 elections in Delhi.",
+      "bm25_score_raw": 3.3540189582394744,
+      "bm25_score_norm": 0.6074861592554929,
+      "bm25_rank": 4
+    },
+    {
+      "title": "'मुश्किल हालात में हम आपके साथ', 24 घंटे में दूसरी बार सोनिया गांधी से ममता बनर्जी ...",
+      "url": "https://www.abplive.com/news/india/sonia-gandhi-mamata-banerjee-met-new-delhi-to-discuss-political-situation-in-west-bengal-3142620/amp",
+      "snippet": "नई दिल्ली में मंगलवार (9 जून 2026) शाम तृणमूल कांग्रेस (TMC) प्रमुख और पश्चिम बंगाल की पूर्व मुख्यमंत्री ममता बनर्जी ने कांग्रेस संसदीय दल की अध्यक्ष सोनिया गांधी से उनके 10 जनपथ स्थित आवास पर मुलाकात",
+      "bm25_score_raw": 3.329205940768809,
+      "bm25_score_norm": 0.6022799619250935,
+      "bm25_rank": 5
+    },
+    {
+      "title": "Breaking News: सोनिया गांधी से मिलीं ममता बनर्जी | TMC vs BJP | Bengal ...",
+      "url": "https://www.youtube.com/watch?v=KPTqOAT7zxE",
+      "snippet": "#breakingnews #soniagandhi #mamatabanerjee Breaking News: सोनिया गांधी से मिलीं ममता बनर्जी | TMC vs BJP | Bengal Politics About Channel: ज़ी न्यूज़ देश का सबसे",
+      "bm25_score_raw": 3.0697286291157093,
+      "bm25_score_norm": 0.5478371643562512,
+      "bm25_rank": 6
+    },
+    {
+      "title": "From Hugs To Heartbreak: Mamata's 10 Janpath Optics ...",
+      "url": "https://www.youtube.com/watch?v=vHp-bg4EHIY",
+      "snippet": "Mamata Banerjee is facing one of the most politically sensitive The political landscape shifts dramatically as a cornered Mamata Banerjee",
+      "bm25_score_raw": 2.978832427696605,
+      "bm25_score_norm": 0.528765579784522,
+      "bm25_rank": 7
+    },
+    {
+      "title": "Dangal Live With Sahil Joshi: Mamata Banerjee 10 जनपथ पहुंची, Sonia ...",
+      "url": "https://www.youtube.com/watch?v=_9PfZr2CfH8",
+      "snippet": "क्या टीएमसी का कांग्रेस में विलय की खबरों में थोड़ी भी सच्चाई है या सिर्फ शिगूफा Mamata Banerjee 10 जनपथ पहुंची, Sonia Gandhi गांधी से की मुलाकात.",
+      "bm25_score_raw": 2.3321149377601578,
+      "bm25_score_norm": 0.39307314037806007,
+      "bm25_rank": 8
+    },
+    {
+      "title": "Mamata Banerjee visited Sonia Gandhi at her residence ...",
+      "url": "https://www.facebook.com/TheCSRJournal/posts/mamata-banerjee-visited-sonia-gandhi-at-her-residence-today-to-hold-a-crucial-me/1323788029842582",
+      "snippet": "Mamata Banerjee visited Sonia Gandhi at her residence today to hold a crucial meeting regarding their future political strategy and the",
+      "bm25_score_raw": 1.3996328600441383,
+      "bm25_score_norm": 0.1974223812799464,
+      "bm25_rank": 9
+    },
+    {
+      "title": "After Hug At INDIA Huddle, A Mamata Banerjee-Sonia ...",
+      "url": "https://www.ndtv.com/india-news/congress-trinamool-congress-after-hug-at-india-huddle-a-mamata-banerjee-sonia-gandhi-meet-at-10-janpath-11613965",
+      "snippet": "New Delhi: A day after photos of her hug with Sonia Gandhi at the INDIA bloc meeting were widely shared, Trinamool Congress chief Mamata",
+      "bm25_score_raw": 0.5251447298969194,
+      "bm25_score_norm": 0.013939748664996659,
+      "bm25_rank": 10
+    },
+    {
+      "title": "Mamata Banerjee is facing one of the most politically ...",
+      "url": "https://www.facebook.com/BusinessToday/posts/mamata-banerjee-is-facing-one-of-the-most-politically-sensitive-the-political-la/1477578124416561",
+      "snippet": "moments for the Trinamool Congress as internal rebellion spreads from Bengal to Parliament. After weeks of sharp political signals, Mamata's",
+      "bm25_score_raw": 0.4587071353897764,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11
+    }
+  ]
+}

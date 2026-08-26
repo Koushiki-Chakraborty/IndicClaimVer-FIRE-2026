@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/BN/1178",
+    "text": "লকডাউনের সময় বেশিরভাগ কেন্দ্রীয় মন্ত্রীরা বাড়ি থেকেই কাজ করেছেন এবং অফিসে উপস্থিত হননি।",
+    "lang": "bengali"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "UK PM Johnson admits attending party during lockdown ...",
+      "url": "https://www.aljazeera.com/news/2022/1/12/uk-pm-johnson-admits-to-attending-lockdown-gathering",
+      "snippet": "The prime minister said he had entered the Downing Street garden to thank his staff members before returning to his office 25 minutes later.",
+      "bm25_score_raw": 3.251882351702288,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8071197271347046,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "UK PM to Be Fined Over Attending Parties During Lockdowns",
+      "url": "https://www.voanews.com/a/uk-pm-to-be-fined-over-attending-parties-during-lockdowns-/6526150.html",
+      "snippet": "Britain's prime minister and finance minister will have to pay fines for attending parties and violating the country's pandemic lockdown",
+      "bm25_score_raw": 1.0111336464034055,
+      "bm25_score_norm": 0.3109379544048079,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.7993901371955872,
+      "embedding_score_norm": 0.9273025810524003,
+      "embedding_rank": 2
+    },
+    {
+      "title": "UK's Johnson sorry for attending lockdown party, but says ...",
+      "url": "https://www.timesofisrael.com/uks-johnson-sorry-for-attending-lockdown-party-but-says-he-deemed-it-a-work-event",
+      "snippet": "UK's Johnson sorry for attending lockdown party, but says he deemed it a work event. British PM facing mounting anger over May 2020 garden party",
+      "bm25_score_raw": 1.2205319053476928,
+      "bm25_score_norm": 0.375330892493319,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.7951693534851074,
+      "embedding_score_norm": 0.8876057686594022,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Partygate: A timeline of the lockdown parties",
+      "url": "https://www.bbc.com/news/uk-politics-59952395",
+      "snippet": "**Former Prime Minister Boris Johnson is to be questioned by MPs over allegations he may have misled Parliament about Covid rule-breaking parties - claims he denies.**. Investigations carried out by senior civil servant Sue Gray and the Metropolitan Police last year found rules had been broken and a number of fines were issued, including to Mr Johnson and his then chancellor, Rishi Sunak. A photo from May 2020 showed the prime minister and his staff with bottles of wine and a cheeseboard in the Downing Street garden. A gathering took place in the Cabinet Office to mark the departure of a No 10 private secretary. On Boris Johnson's birthday, up to 30 people gathered in the Cabinet Room at No 10 to present the prime minister with a birthday cake and sing Happy Birthday, according to a report by ITV News. Sue Gray Report/Cabinet Office Boris Johnson and Rishi Sunak at a gathering in Downing Street for the PM's birthday.",
+      "bm25_score_raw": 2.707948914712483,
+      "bm25_score_norm": 0.8327327442503977,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.7903885841369629,
+      "embedding_score_norm": 0.8426422460234796,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Boris Johnson says UK is going back to work after Covid - but warns of more outbreaks",
+      "url": "https://www.youtube.com/watch?v=Q5h41o3q_AI",
+      "snippet": "Boris Johnson says UK is going back to work after Covid - but warns of more outbreaks\nChannel 4 News\n4200000 subscribers\n209 likes\n30327 views\n1 Sep 2020\nIt's back at work at Westminster after the summer break, and Boris Johnson claims the rest of the country is following suit. (Subscribe: https://bit.ly/C4_News_Subscribe) \n\nHe told this morning's cabinet meeting that \"millions of pupils are going back to school\" and \"huge numbers\" of people are going back to the office.\n\nBut he also warned that the country must be prepared for more coronavirus outbreaks still to come. \n -----------------------  \nFollow us on Instagram - https://www.instagram.com/Channel4News\n200 comments\n",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.7752256989479065,
+      "embedding_score_norm": 0.7000340836596881,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Boris Johnson fined by police over lockdown-breaking ...",
+      "url": "https://www.komu.com/news/nationworld/boris-johnson-fined-by-police-over-lockdown-breaking-parties-at-uk-government-premises/article_441210c6-e220-5dbf-992d-13243fa344ee.html",
+      "snippet": "Prime Minister Boris Johnson and his finance minister Rishi Sunak have been issued with fines by police over lockdown-breaking parties held",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.7683883905410767,
+      "embedding_score_norm": 0.63572864473727,
+      "embedding_rank": 6
+    },
+    {
+      "title": "অকারণে মুড অফ? মন ভালো করুন এসব উপায়ে",
+      "url": "https://dhakamail.com/lifestyle/239635",
+      "snippet": "রোববার, ১১ জানুয়ারি, ২০২৬, ঢাকা. # অকারণে মুড অফ? মন ভালো করুন এসব উপায়ে. লাইফস্টাইল ডেস্ক. প্রকাশিত: ০৭ জুলাই ২০২৫, ০৬:২১ পিএম. শেয়ার করুন:. সংসারের নানা দায়দায়িত্ব, অফিসের টানা কাজের চাপ, আর্থিক টানাপোড়েন, নানা শারীরিক জটিলতা। সবকিছু যখন একসঙ্গে জীবনে হানা দেয় তখন মন আর কিছুতেই ভালো থাকে না। আর মন খারাপ থাকলে কোনো কাজ করার এনার্জি থাকে না।. সুস্থ জীবনযাপন করতে মন ভালো রাখার বিকল্প নেই। কিন্তু অকারণেই যদি মুড অফ থাকে তাহলে কী করবেন? জেনে নিন মন ভালো করার কিছু উপায়-. #### মুক্ত বাতাসে শ্বাস নিন. বাসা-অফিস-বাসা— রোজ একই ফ্রেমে চলছে জীবন? বদ্ধ পরিবেশ মনের অস্বস্তি আরও বাড়ায়। মনে হয় যেন জীবন নিয়ে হাঁপিয়ে উঠেছেন। পরিস্থিতির সঙ্গে আর মানিয়ে নেওয়া সম্ভব হচ্ছে না। এমনটা হলে মাথার ভেতর নানারকম চিন্তা পুষে না রেখে বাড়ির বাইরে বের হোন। মুক্ত বাতাসে হাঁটাহাঁটি করুন। মন ভরে শ্বাস নিন। জগিং বা ব্যায়াম করতে পারেন। এতে মন ফুরফুরা হবে।. #### পর্যাপ্ত পানি পান করুন. অনেক সময় ডিহাইড্রেশনের কারণেও মন খারাপ হয়। অ্যাংজাইটি, প্যানিক অ্যাটাক হলে এক গ্লাস পানি পান করুন। এতে স্বস্তি বোধ করবেন এবং আরাম পাবেন। এরপর মুক্ত বাতাসে জোরে জোরে শ্বাস নিন।. #### ঘরকে নতুন করে সাজান. ঘরের পরিবেশ মনের ওপর প্রভাব ফেলে। অগোছালো ঘর অনেকসময় মন খারাপের কারণ হয়ে দাঁড়ায়। তাই সময় বের করে, নিজের ঘর, পড়ার ঘর পরিষ্কার করুন। প্রয়োজনে আসবাবপত্রের স্থান পরিবর্তন করুন। মন ভালো রাখতে বাড়ির অন্দরমহল একটু নতুন করে সাজান। ঘরে যেন পর্যাপ্ত আলো-বাতাস প্রবেশ করে সেদিকে খেয়াল রাখুন।. #### পছন্দের গান শুনুন. মন ভালো করার দাওয়াই হতে পারে গান। তবে তাই বলে স্যাড সং শুনলে চলবে না। এমন গান শুনুন যা নিমেষে মন ভালো করে দেবে, বাড়াবে এনার্জি। প্রয়োজন ভালো সিরিজ বা সিনেমাও দেখতে পারেন। মন ভালো রাখতে গল্পের বইও পড়তে পারেন।. #### বন্ধু-পরিবারের সঙ্গে সময় কাটান. মনের ভিতর কী চলছে, তা কাউকে শেয়ার করতে পারছেন না? কিংবা পরিস্থিতির সঙ্গে কীভাবে লড়াই করবেন, বুঝতে পারছেন না? এমন পরিস্থিতিতে ডায়েরিতে নিজের মনের কথা লিখে রাখতে পারেন। কাছের মানুষ, পরিবার বা বন্ধুদের সঙ্গে সময় কাটাতে পারেন। এতে সমস্যার সমাধান না হলেও মন ভালো হয়ে যাবে।. ঢাকা মেইলের খবর পেতে গুগল নিউজ চ্যানেল ফলো করুন. মানসিক স্বাস্থ্যস্বাস্থ্য পরামর্শজানতে চাইটিপস.",
+      "bm25_score_raw": 1.3891910658616318,
+      "bm25_score_norm": 0.42719597931777,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.7371129989624023,
+      "embedding_score_norm": 0.3415810557637823,
+      "embedding_rank": 7
+    },
+    {
+      "title": "Episode 2/পর্ব ২--মন কি কর তত্ত্ব তাঁরে || Sri Debabrata Das || Pranaram Bangla",
+      "url": "https://www.youtube.com/watch?v=w8HisdZRI1s",
+      "snippet": "Episode 2/পর্ব ২--মন কি কর তত্ত্ব তাঁরে || Sri Debabrata Das || Pranaram Bangla\nPRANARAM Bangla\n180000 subscribers\n18 likes\n375 views\n20 Oct 2022\nপর্ব ২--\nমন কি কর তত্ত্ব তাঁরে || \nSri #DebabrataDas || \n#Pranaram Bangla\n20.10.2022\n4 comments\n",
+      "bm25_score_raw": 0.6224646586928662,
+      "bm25_score_norm": 0.19141672156959177,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.7330629825592041,
+      "embedding_score_norm": 0.3034903237162849,
+      "embedding_rank": 8
+    },
+    {
+      "title": "You're late.Our master grows impatient. He wants the Shire-rats now. I don't take orders... - The Lord of the Rings: The Two Towers | Clip.Cafe",
+      "url": "https://clip.cafe/the-lord-of-the-rings-the-two-towers-2002/the-lord-of-the-rings-the-two-towers-2002/the-lord-of-the-rings-the-two-towers-2002/youre-late-our-master-grows-impatient",
+      "snippet": "🤑 **Build Your Real Estate Empire!** Play **MoneyBnB** - The GPS Location Game where you claim real-world buildings. To watch in HD, get ClipCafe PRO. Please log in to add to collections. # You're late.Our master grows impatient. He wants the Shire-rats now. I don't take orders... The Lord of the Rings: The Two Towers • 2002. ### Share this clip. Facebook Twitter LinkedIn Reddit WhatsApp SMS Tumblr VK Flipboard. Join the conversation Log in or create an account to leave a comment. He wants the Shire-rats now. I don't take orders from Orc-maggots. Saruman will have his prize. He wants the Shire rats now. I don't take orders from Orc maggots. Saruman will have his prize. الأمر ميؤوس منه كل أورك في موردور سيسمع هذه الضوضاء. لنربطه في مكان ما ونتركه كلا. ত ম দ র করছ আম দ র প রভ অধ র য হয় য ব. উন শ য় র র এই প চ চ ই দ রগ ল চ ন এক ষন. আম এখন আর ম য গট স র আদ শ প লন কর ন. স র মন ত র উপহ র প ব. আমর ত র ক ছ প ছ য় দ ব. Il veut les rats de la Comté. Saruman wird seine Beute kriegen. He wants the Shire rats now. I don't take orders from Orc maggots. Saruman will have his prize. Kalian terlambat Tuan kami mulai tidak sabar. Dia menginginkan tikus tikus dari Shire itu. Aku tidak mau diperintah oleh Orc busuk. Quiere las ratas de la Comarca ya. ### Want This Clip in HD? Upgrade for HD/4K downloads and unlimited access. Frodo and Sam are trekking to Mordor to destroy the One Ring of Power while Gimli, Legolas and Aragorn search for the orc-captured Merry and Pippin. All along, nefarious wizard Saruman awaits the Fellowship members at the Orthanc Tower in Isengard. I don't take orders from Orc-maggots. Saruman will have his prize. Not idly do the leaves of Lórien fall. Not idly do the leaves of Lórien fall. Not idly do the leaves of Lórien fallThey may yet be alive. I'm wasted on cross-country. I'm wasted on cross country We Dwarves are natural...",
+      "bm25_score_raw": 1.4681123149203499,
+      "bm25_score_norm": 0.451465384088027,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.7257870435714722,
+      "embedding_score_norm": 0.23505952868128752,
+      "embedding_rank": 9
+    },
+    {
+      "title": "You're late. Ourmaster grows impatient. - The Lord of the Rings: The Two Towers | Clip.Cafe",
+      "url": "https://clip.cafe/the-lord-of-the-rings-the-two-towers-2002/the-lord-of-the-rings-the-two-towers-2002/the-lord-of-the-rings-the-two-towers-2002/youre-late-s119",
+      "snippet": "Title: You're late. Ourmaster grows impatient. - The Lord of the Rings: The Two Towers | Clip.Cafe\nEarn.** Start your digital real estate journey today with **MoneyBnB**. To watch in HD, get ClipCafe PRO. Please log in to add to collections. # You're late. The Lord of the Rings: The Two Towers • 2002. ### Share this clip. Facebook   Twitter   LinkedIn   Reddit   WhatsApp   SMS   Tumblr   VK   Flipboard. Join the conversation Log in or create an account to leave a comment. ### Full Transcript. You're late Our master grows impatient. He wants the Shire rats now. I don't take orders from Orc maggots. Saruman will have his prize. سنقود آلة الحرب مع السيف والقوس. يجب أن نتخلص فقط من المعارضين لنا. ত ম দ র করছ আম দ র প রভ অধ র য হয় য ব. উন শ য় র র এই প চ চ ই দ রগ ল চ ন এক ষন. আম এখন আর ম য গট স র আদ শ প লন কর ন. স র মন ত র উপহ র প ব. আমর ত র ক ছ প ছ য় দ ব. Vous êtes en retard Notre Maître s'impatiente. Il veut les rats de la Comté. Je ne reçois pas d'ordres d'un Orque véreux. Er will die Auenland Ratten jetzt. Saruman wird seine Beute kriegen. You're late Our master grows impatient. He wants the Shire rats now. I don't take orders from Orc maggots. Saruman will have his prize. Kalian terlambat Tuan kami mulai tidak sabar. Dia menginginkan tikus tikus dari Shire itu. Aku tidak mau diperintah oleh Orc busuk. Quiere las ratas de la Comarca ya. ### Want This Clip in HD? Upgrade for HD/4K downloads and unlimited access. Frodo and Sam are trekking to Mordor to destroy the One Ring of Power while Gimli, Legolas and Aragorn search for the orc-captured Merry and Pippin. All along, nefarious wizard Saruman awaits the Fellowship members at the Orthanc Tower in Isengard. I don't take orders from Orc-maggots. Saruman will have his prize. Not idly do the leaves of Lórien fall. Not idly do the leaves of Lórien fall. Not idly do the leaves of Lórien fallThey may yet be alive. I'm wasted on cross-country. I'm wasted on cross country We Dwarves are natural...",
+      "bm25_score_raw": 1.4559166276646467,
+      "bm25_score_norm": 0.4477150370776811,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.7223037481307983,
+      "embedding_score_norm": 0.20229885315212187,
+      "embedding_rank": 10
+    },
+    {
+      "title": "You're late. Ourmaster grows impatient. - The Lord of the Rings: The Two Towers | Clip.Cafe",
+      "url": "https://clip.cafe/the-lord-of-the-rings-the-two-towers-2002/youre-late-s119",
+      "snippet": "Title: You're late. Ourmaster grows impatient. - The Lord of the Rings: The Two Towers | Clip.Cafe\n🤑 **Build Your Real Estate Empire!** Play **MoneyBnB** - The GPS Location Game where you claim real-world buildings. To watch in HD, get ClipCafe PRO. Please log in to add to collections. # You're late. The Lord of the Rings: The Two Towers • 2002. ### Share this clip. Facebook   Twitter   LinkedIn   Reddit   WhatsApp   SMS   Tumblr   VK   Flipboard. Join the conversation Log in or create an account to leave a comment. ### Full Transcript. You're late Our master grows impatient. He wants the Shire rats now. I don't take orders from Orc maggots. Saruman will have his prize. سنقود آلة الحرب مع السيف والقوس. يجب أن نتخلص فقط من المعارضين لنا. ত ম দ র করছ আম দ র প রভ অধ র য হয় য ব. উন শ য় র র এই প চ চ ই দ রগ ল চ ন এক ষন. আম এখন আর ম য গট স র আদ শ প লন কর ন. স র মন ত র উপহ র প ব. আমর ত র ক ছ প ছ য় দ ব. Vous êtes en retard Notre Maître s'impatiente. Il veut les rats de la Comté. Je ne reçois pas d'ordres d'un Orque véreux. Saruman wird seine Beute kriegen. You're late Our master grows impatient. He wants the Shire rats now. I don't take orders from Orc maggots. Saruman will have his prize. Kalian terlambat Tuan kami mulai tidak sabar. Dia menginginkan tikus tikus dari Shire itu. Aku tidak mau diperintah oleh Orc busuk. Quiere las ratas de la Comarca ya. ### Want This Clip in HD? Upgrade for HD/4K downloads and unlimited access. Frodo and Sam are trekking to Mordor to destroy the One Ring of Power while Gimli, Legolas and Aragorn search for the orc-captured Merry and Pippin. All along, nefarious wizard Saruman awaits the Fellowship members at the Orthanc Tower in Isengard. I don't take orders from Orc-maggots. Saruman will have his prize. Not idly do the leaves of Lórien fall. Not idly do the leaves of Lórien fall. Not idly do the leaves of Lórien fallThey may yet be alive. I'm wasted on cross-country. I'm wasted on cross country We Dwarves are natural...",
+      "bm25_score_raw": 1.4510948985961634,
+      "bm25_score_norm": 0.4462322869203886,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.7212182283401489,
+      "embedding_score_norm": 0.19208945166791302,
+      "embedding_rank": 11
+    },
+    {
+      "title": "মন কি কর তত্ত্ব তাঁরে - রামপ্রসাদ সেন - Mon Ki Koro Tattwa Tare - Ramprasad Sen",
+      "url": "https://www.youtube.com/watch?v=LiLp_-hQ9bQ",
+      "snippet": "্ত \n24700 subscribers\n205 likes\n5403 views\n16 Oct 2022\n#রামপ্রসাদী #কথামৃতের_গান \nকথামৃতে উল্লিখিত রামপ্রসাদের এই গান। গানের বাণীর দু একটি পাঠান্তর আছে। প্রথম কলিতে ‘মন কি তত্ত্ব কর তারে’- এমন পাঠান্তরও আছে। আমি পদাবলী অনুসরণে গাইলাম।\n20 comments\n",
+      "bm25_score_raw": 0.5652333633526664,
+      "bm25_score_norm": 0.1738172855659367,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.7007942199707031,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "claim": {
+    "id": "S2/1616",
+    "text": "BREAKING - Delhi High Court Dismisses PIL Challenging RBI's Decision To Withdraw Rs 2,000 Currency Notes From Circulation",
+    "lang": "dev"
+  },
+  "generated_queries": {
+    "english_translation": "BREAKING - Delhi High Court Dismisses PIL Challenging RBI's Decision To Withdraw Rs 2,000 Currency Notes From Circulation",
+    "native_query": "Delhi PIL RBI BREAKING Court Dismisses Challenging Decision",
+    "english_query": "Delhi PIL RBI BREAKING Court Dismisses Challenging Decision"
+  },
+  "native_retrieval": [
+    {
+      "title": "High Court Dismisses Request Against Withdrawal Of Rs ...",
+      "url": "https://www.ndtv.com/india-news/hc-dismisses-pil-against-withdrawal-of-rs-2-000-banknotes-4172402",
+      "snippet": "The Delhi High Court on Monday dismissed a public interest litigation (PIL) challenging the RBI's decision to withdraw Rs 2000 denomination"
+    },
+    {
+      "title": "Delhi High Court stays order mandating human ...",
+      "url": "https://www.moneycontrol.com/news/business/delhi-high-court-stays-order-mandating-human-intervention-in-rbi-ombudsman-complaints-13764025.html",
+      "snippet": "Delhi High Court stays order mandating human intervention in RBI ombudsman complaints. The single judge, in its November 27, 2025 judgement"
+    },
+    {
+      "title": "Delhi HC seeks Centre, RBI response on PIL against ...",
+      "url": "https://indianexpress.com/article/cities/delhi/delhi-hc-seeks-centre-rbi-response-on-pil-against-online-lending-platforms-7147401",
+      "snippet": "The Delhi High Court on Friday sought response from Centre and RBI on PIL seeking regulation of online lending platforms."
+    },
+    {
+      "title": "Delhi High Court Seeks RBI's Response on PIL Alleging ...",
+      "url": "https://www.moneylife.in/article/delhi-high-court-seeks-rbis-response-on-pil-alleging-data-breach-by-digital-lending-nbfcs/79316.html",
+      "snippet": "It is stated that RBI's inaction on his complaint led to continued violations and constitutes a failure to discharge its statutory and"
+    },
+    {
+      "title": "Delhi High Court seeks RBI's response on PIL alleging ...",
+      "url": "https://www.instagram.com/p/DTNSqY6AfP-?hl=en",
+      "snippet": "Delhi High Court seeks RBI's response on PIL alleging data breach by digital lending NBFCs. The petition states that apps on Play Store and"
+    },
+    {
+      "title": "Delhi High Court seeks RBI's response on PIL alleging ...",
+      "url": "https://www.barandbench.com/news/delhi-high-court-seeks-rbis-response-on-pil-alleging-data-breach-by-digital-lending-nbfcs",
+      "snippet": "Delhi High Court seeks RBI's response on PIL alleging data breach by digital lending NBFCs. The petition states that apps on Play Store and"
+    }
+  ],
+  "english_retrieval": [
+    {
+      "title": "High Court Dismisses Request Against Withdrawal Of Rs ...",
+      "url": "https://www.ndtv.com/india-news/hc-dismisses-pil-against-withdrawal-of-rs-2-000-banknotes-4172402",
+      "snippet": "The Delhi High Court on Monday dismissed a public interest litigation (PIL) challenging the RBI's decision to withdraw Rs 2000 denomination"
+    },
+    {
+      "title": "Delhi High Court stays order mandating human ...",
+      "url": "https://www.moneycontrol.com/news/business/delhi-high-court-stays-order-mandating-human-intervention-in-rbi-ombudsman-complaints-13764025.html",
+      "snippet": "Delhi High Court stays order mandating human intervention in RBI ombudsman complaints. The single judge, in its November 27, 2025 judgement"
+    },
+    {
+      "title": "Delhi HC seeks Centre, RBI response on PIL against ...",
+      "url": "https://indianexpress.com/article/cities/delhi/delhi-hc-seeks-centre-rbi-response-on-pil-against-online-lending-platforms-7147401",
+      "snippet": "The Delhi High Court on Friday sought response from Centre and RBI on PIL seeking regulation of online lending platforms."
+    },
+    {
+      "title": "Delhi High Court Seeks RBI's Response on PIL Alleging ...",
+      "url": "https://www.moneylife.in/article/delhi-high-court-seeks-rbis-response-on-pil-alleging-data-breach-by-digital-lending-nbfcs/79316.html",
+      "snippet": "It is stated that RBI's inaction on his complaint led to continued violations and constitutes a failure to discharge its statutory and"
+    },
+    {
+      "title": "Delhi High Court seeks RBI's response on PIL alleging ...",
+      "url": "https://www.instagram.com/p/DTNSqY6AfP-?hl=en",
+      "snippet": "Delhi High Court seeks RBI's response on PIL alleging data breach by digital lending NBFCs. The petition states that apps on Play Store and"
+    },
+    {
+      "title": "Delhi High Court seeks RBI's response on PIL alleging ...",
+      "url": "https://www.barandbench.com/news/delhi-high-court-seeks-rbis-response-on-pil-alleging-data-breach-by-digital-lending-nbfcs",
+      "snippet": "Delhi High Court seeks RBI's response on PIL alleging data breach by digital lending NBFCs. The petition states that apps on Play Store and"
+    }
+  ],
+  "merged_results": [
+    {
+      "title": "High Court Dismisses Request Against Withdrawal Of Rs ...",
+      "url": "https://www.ndtv.com/india-news/hc-dismisses-pil-against-withdrawal-of-rs-2-000-banknotes-4172402",
+      "snippet": "The Delhi High Court on Monday dismissed a public interest litigation (PIL) challenging the RBI's decision to withdraw Rs 2000 denomination"
+    },
+    {
+      "title": "Delhi High Court stays order mandating human ...",
+      "url": "https://www.moneycontrol.com/news/business/delhi-high-court-stays-order-mandating-human-intervention-in-rbi-ombudsman-complaints-13764025.html",
+      "snippet": "Delhi High Court stays order mandating human intervention in RBI ombudsman complaints. The single judge, in its November 27, 2025 judgement"
+    },
+    {
+      "title": "Delhi HC seeks Centre, RBI response on PIL against ...",
+      "url": "https://indianexpress.com/article/cities/delhi/delhi-hc-seeks-centre-rbi-response-on-pil-against-online-lending-platforms-7147401",
+      "snippet": "The Delhi High Court on Friday sought response from Centre and RBI on PIL seeking regulation of online lending platforms."
+    },
+    {
+      "title": "Delhi High Court Seeks RBI's Response on PIL Alleging ...",
+      "url": "https://www.moneylife.in/article/delhi-high-court-seeks-rbis-response-on-pil-alleging-data-breach-by-digital-lending-nbfcs/79316.html",
+      "snippet": "It is stated that RBI's inaction on his complaint led to continued violations and constitutes a failure to discharge its statutory and"
+    },
+    {
+      "title": "Delhi High Court seeks RBI's response on PIL alleging ...",
+      "url": "https://www.instagram.com/p/DTNSqY6AfP-?hl=en",
+      "snippet": "Delhi High Court seeks RBI's response on PIL alleging data breach by digital lending NBFCs. The petition states that apps on Play Store and"
+    },
+    {
+      "title": "Delhi High Court seeks RBI's response on PIL alleging ...",
+      "url": "https://www.barandbench.com/news/delhi-high-court-seeks-rbis-response-on-pil-alleging-data-breach-by-digital-lending-nbfcs",
+      "snippet": "Delhi High Court seeks RBI's response on PIL alleging data breach by digital lending NBFCs. The petition states that apps on Play Store and"
+    }
+  ]
+}

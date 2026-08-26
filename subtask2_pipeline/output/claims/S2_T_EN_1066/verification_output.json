@@ -1,0 +1,6 @@
+{
+  "ID": "S2/T/EN/1066",
+  "Evidence": "Delhi recorded 325 fresh Covid-19 cases in the last 24 hours, according to Source 1. However, it also reported one death during this period, contradicting the claim that there were zero deaths. The positivity rate was noted at 0.81 percent, with a total of 40,284 tests conducted. The previous day's count was 344 cases with four deaths. Source 2 discusses a different time frame and higher case numbers, but does not pertain to the specific claim. Source 3 does not provide relevant data on cases or deaths.",
+  "Prediction": "REFUTES",
+  "Justification": "The retrieved evidence from Source 1 clearly states that Delhi recorded 325 new Covid-19 cases and one death in the last 24 hours. This directly contradicts the claim that there were zero deaths. Therefore, the evidence refutes the claim's core assertion."
+}

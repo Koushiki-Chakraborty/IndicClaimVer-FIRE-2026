@@ -1,0 +1,108 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1081",
+    "text": "Rudy to meet Raj Thackeray to soothe frayed nerves in MNS",
+    "lang": "english"
+  },
+  "generated_queries": {
+    "english_translation": "Rudy to meet Raj Thackeray to soothe frayed nerves in MNS",
+    "native_query": "Rudy Raj Thackeray MNS meet soothe frayed nerves",
+    "english_query": "Rudy Raj Thackeray MNS meet soothe frayed nerves"
+  },
+  "native_retrieval": [
+    {
+      "title": "MNS head Raj Thackeray meets Maharashtra CM Fadnavis",
+      "url": "https://www.newindianexpress.com/india/2025/Aug/21/mns-head-raj-thackeray-meets-maharashtra-cm-fadnavis",
+      "snippet": "Aug 21, 2025 — The meeting follows a defeat for the Uddhav-led Shiv Sena (UBT) and Raj Thackeray's MNS in their first joint electoral contest,"
+    },
+    {
+      "title": "After 20 years, Uddhav and Raj Thackeray to reunite at ...",
+      "url": "https://www.hindustantimes.com/india-news/all-eyes-on-uddhav-and-raj-sharing-stage-after-20-years-101751674784008.html",
+      "snippet": "Jul 5, 2025 — Shiv Sena (UBT) chief Uddhav Thackeray and Maharashtra Navnirman Sena (MNS) chief Raj Thackeray will be seen in a joint rally in Worli today.Read more"
+    },
+    {
+      "title": "Raj Thackeray meets Fadnavis, says talk focused on civic ...",
+      "url": "https://www.thehindu.com/news/cities/mumbai/raj-thackeray-meets-fadnavis-says-talk-focused-on-civic-issues/article69961303.ece",
+      "snippet": "Aug 21, 2025 — Maharashtra Navnirman Sena (MNS) chief Raj Thackeray on Thursday (August 21, 2025) met Chief Minister Devendra Fadnavis at his official ...Read more"
+    },
+    {
+      "title": "Raj Thackeray Meets Maharashtra CM Devendra Fadnavis ...",
+      "url": "https://www.deccanherald.com/india/maharashtra/mns-chief-raj-thackeray-springs-surprise-by-meeting-maharashtra-cm-fadnavis-in-mumbai-3690430",
+      "snippet": "Aug 20, 2025 — MNS chief Raj Thackeray's surprise meeting with CM Devendra Fadnavis fuels speculation amid talks of a Shiv Sena (UBT)-MNS alliance ahead of"
+    },
+    {
+      "title": "Raj Thackeray reacts to attack on Uddhav's convoy",
+      "url": "https://www.ptinews.com/story/national/angry-reaction-by-mns-workers-raj-thackeray-reacts-to-attack-on-uddhav-s-convoy-54-booked/1730697",
+      "snippet": "Aug 11, 2025 — Mumbai, Aug 11 (PTI) Maharashtra Navnirman Sena chief Raj Thackeray on Sunday attributed the attack on Uddhav Thackeray's convoy by MNS"
+    },
+    {
+      "title": "Angry reaction by MNS workers: Raj Thackeray reacts to ...",
+      "url": "https://www.tribuneindia.com/news/india/angry-reaction-by-mns-workers-raj-thackeray-reacts-to-attack-on-uddhavs-convoy-54-booked",
+      "snippet": "Aug 11, 2024 — Mumbai, August 11 Maharashtra Navnirman Sena chief Raj Thackeray on Sunday attributed the attack on Uddhav Thackeray's convoy by MNS workers"
+    }
+  ],
+  "english_retrieval": [
+    {
+      "title": "MNS head Raj Thackeray meets Maharashtra CM Fadnavis",
+      "url": "https://www.newindianexpress.com/india/2025/Aug/21/mns-head-raj-thackeray-meets-maharashtra-cm-fadnavis",
+      "snippet": "Aug 21, 2025 — The meeting follows a defeat for the Uddhav-led Shiv Sena (UBT) and Raj Thackeray's MNS in their first joint electoral contest,"
+    },
+    {
+      "title": "After 20 years, Uddhav and Raj Thackeray to reunite at ...",
+      "url": "https://www.hindustantimes.com/india-news/all-eyes-on-uddhav-and-raj-sharing-stage-after-20-years-101751674784008.html",
+      "snippet": "Jul 5, 2025 — Shiv Sena (UBT) chief Uddhav Thackeray and Maharashtra Navnirman Sena (MNS) chief Raj Thackeray will be seen in a joint rally in Worli today.Read more"
+    },
+    {
+      "title": "Raj Thackeray meets Fadnavis, says talk focused on civic ...",
+      "url": "https://www.thehindu.com/news/cities/mumbai/raj-thackeray-meets-fadnavis-says-talk-focused-on-civic-issues/article69961303.ece",
+      "snippet": "Aug 21, 2025 — Maharashtra Navnirman Sena (MNS) chief Raj Thackeray on Thursday (August 21, 2025) met Chief Minister Devendra Fadnavis at his official ...Read more"
+    },
+    {
+      "title": "Raj Thackeray Meets Maharashtra CM Devendra Fadnavis ...",
+      "url": "https://www.deccanherald.com/india/maharashtra/mns-chief-raj-thackeray-springs-surprise-by-meeting-maharashtra-cm-fadnavis-in-mumbai-3690430",
+      "snippet": "Aug 20, 2025 — MNS chief Raj Thackeray's surprise meeting with CM Devendra Fadnavis fuels speculation amid talks of a Shiv Sena (UBT)-MNS alliance ahead of"
+    },
+    {
+      "title": "Raj Thackeray reacts to attack on Uddhav's convoy",
+      "url": "https://www.ptinews.com/story/national/angry-reaction-by-mns-workers-raj-thackeray-reacts-to-attack-on-uddhav-s-convoy-54-booked/1730697",
+      "snippet": "Aug 11, 2025 — Mumbai, Aug 11 (PTI) Maharashtra Navnirman Sena chief Raj Thackeray on Sunday attributed the attack on Uddhav Thackeray's convoy by MNS"
+    },
+    {
+      "title": "Angry reaction by MNS workers: Raj Thackeray reacts to ...",
+      "url": "https://www.tribuneindia.com/news/india/angry-reaction-by-mns-workers-raj-thackeray-reacts-to-attack-on-uddhavs-convoy-54-booked",
+      "snippet": "Aug 11, 2024 — Mumbai, August 11 Maharashtra Navnirman Sena chief Raj Thackeray on Sunday attributed the attack on Uddhav Thackeray's convoy by MNS workers"
+    }
+  ],
+  "merged_results": [
+    {
+      "title": "MNS head Raj Thackeray meets Maharashtra CM Fadnavis",
+      "url": "https://www.newindianexpress.com/india/2025/Aug/21/mns-head-raj-thackeray-meets-maharashtra-cm-fadnavis",
+      "snippet": "Aug 21, 2025 — The meeting follows a defeat for the Uddhav-led Shiv Sena (UBT) and Raj Thackeray's MNS in their first joint electoral contest,"
+    },
+    {
+      "title": "After 20 years, Uddhav and Raj Thackeray to reunite at ...",
+      "url": "https://www.hindustantimes.com/india-news/all-eyes-on-uddhav-and-raj-sharing-stage-after-20-years-101751674784008.html",
+      "snippet": "Jul 5, 2025 — Shiv Sena (UBT) chief Uddhav Thackeray and Maharashtra Navnirman Sena (MNS) chief Raj Thackeray will be seen in a joint rally in Worli today.Read more"
+    },
+    {
+      "title": "Raj Thackeray meets Fadnavis, says talk focused on civic ...",
+      "url": "https://www.thehindu.com/news/cities/mumbai/raj-thackeray-meets-fadnavis-says-talk-focused-on-civic-issues/article69961303.ece",
+      "snippet": "Aug 21, 2025 — Maharashtra Navnirman Sena (MNS) chief Raj Thackeray on Thursday (August 21, 2025) met Chief Minister Devendra Fadnavis at his official ...Read more"
+    },
+    {
+      "title": "Raj Thackeray Meets Maharashtra CM Devendra Fadnavis ...",
+      "url": "https://www.deccanherald.com/india/maharashtra/mns-chief-raj-thackeray-springs-surprise-by-meeting-maharashtra-cm-fadnavis-in-mumbai-3690430",
+      "snippet": "Aug 20, 2025 — MNS chief Raj Thackeray's surprise meeting with CM Devendra Fadnavis fuels speculation amid talks of a Shiv Sena (UBT)-MNS alliance ahead of"
+    },
+    {
+      "title": "Raj Thackeray reacts to attack on Uddhav's convoy",
+      "url": "https://www.ptinews.com/story/national/angry-reaction-by-mns-workers-raj-thackeray-reacts-to-attack-on-uddhav-s-convoy-54-booked/1730697",
+      "snippet": "Aug 11, 2025 — Mumbai, Aug 11 (PTI) Maharashtra Navnirman Sena chief Raj Thackeray on Sunday attributed the attack on Uddhav Thackeray's convoy by MNS"
+    },
+    {
+      "title": "Angry reaction by MNS workers: Raj Thackeray reacts to ...",
+      "url": "https://www.tribuneindia.com/news/india/angry-reaction-by-mns-workers-raj-thackeray-reacts-to-attack-on-uddhavs-convoy-54-booked",
+      "snippet": "Aug 11, 2024 — Mumbai, August 11 Maharashtra Navnirman Sena chief Raj Thackeray on Sunday attributed the attack on Uddhav Thackeray's convoy by MNS workers"
+    }
+  ]
+}

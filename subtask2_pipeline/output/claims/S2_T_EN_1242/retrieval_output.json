@@ -1,0 +1,108 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1242",
+    "text": "XE variant of coronavirus 'detected' in Mumbai: Here's all you need to know",
+    "lang": "english"
+  },
+  "generated_queries": {
+    "english_translation": "XE variant of coronavirus 'detected' in Mumbai: Here's all you need to know",
+    "native_query": "Mumbai XE variant coronavirus detected",
+    "english_query": "Mumbai XE variant coronavirus detected"
+  },
+  "native_retrieval": [
+    {
+      "title": "India reports first case of Covid variant XE in Mumbai",
+      "url": "https://www.tbsnews.net/coronavirus-chronicle/india-reports-first-case-covid-variant-xe-mumbai-398602",
+      "snippet": "India's first case of coronavirus variant XE was detected in Mumbai, The patients with the new variants of the virus don't have any severe symptoms so far. The"
+    },
+    {
+      "title": "India's First Case Of Coronavirus Variant XE Reported From ...",
+      "url": "https://swachhindia.ndtv.com/indias-first-case-of-coronavirus-variant-xe-reported-from-mumbai-67726",
+      "snippet": "The first case of XE, a more transmissible COVID-19 variant, was detected in Mumbai on Wednesday, a civic health official said."
+    },
+    {
+      "title": "XE a 'recombinant': What we know of the new Covid variant ...",
+      "url": "https://www.youtube.com/watch?v=kDV3CgOw8uM",
+      "snippet": "... XE variant of the Covid-19 was reported from Mumbai. One case of the XE Covid variant and one of the Kappa variant was detected, BMC said."
+    },
+    {
+      "title": "The First Case Of New COVID Variant XE Detects In Mumbai ...",
+      "url": "https://www.youtube.com/watch?v=2DqqPXgYqlY",
+      "snippet": "In the latest development, The first case of new Covid variant XE detected in Mumbai. Dr. Shashank Joshi, Maharashtra Covid Task Force"
+    },
+    {
+      "title": "India's First Case of COVID-19 New Variant 'XE' found in ...",
+      "url": "https://www.facebook.com/AapduVadodara/posts/indias-first-case-of-covid-19-new-variant-xe-found-in-mumbai-228-people-detected/1857998151058298",
+      "snippet": "India's First Case of COVID-19 New Variant 'XE' found in Mumbai; 228 people detected with Omicron. 99.13% (230 samples) patients detected with"
+    },
+    {
+      "title": "Mumbai confirms Omicron's XE recombinant variant",
+      "url": "https://www.thehindu.com/sci-tech/health/mumbai-confirms-omicrons-xe-recombinant-variant-union-health-ministry-denies-it/article65296308.ece",
+      "snippet": "XE, a new variant of COVID, is a combination of the BA.1 and BA.2 strains of Omicron and found to be responsible for enhanced viral transmission"
+    }
+  ],
+  "english_retrieval": [
+    {
+      "title": "India reports first case of Covid variant XE in Mumbai",
+      "url": "https://www.tbsnews.net/coronavirus-chronicle/india-reports-first-case-covid-variant-xe-mumbai-398602",
+      "snippet": "India's first case of coronavirus variant XE was detected in Mumbai, The patients with the new variants of the virus don't have any severe symptoms so far. The"
+    },
+    {
+      "title": "India's First Case Of Coronavirus Variant XE Reported From ...",
+      "url": "https://swachhindia.ndtv.com/indias-first-case-of-coronavirus-variant-xe-reported-from-mumbai-67726",
+      "snippet": "The first case of XE, a more transmissible COVID-19 variant, was detected in Mumbai on Wednesday, a civic health official said."
+    },
+    {
+      "title": "XE a 'recombinant': What we know of the new Covid variant ...",
+      "url": "https://www.youtube.com/watch?v=kDV3CgOw8uM",
+      "snippet": "... XE variant of the Covid-19 was reported from Mumbai. One case of the XE Covid variant and one of the Kappa variant was detected, BMC said."
+    },
+    {
+      "title": "The First Case Of New COVID Variant XE Detects In Mumbai ...",
+      "url": "https://www.youtube.com/watch?v=2DqqPXgYqlY",
+      "snippet": "In the latest development, The first case of new Covid variant XE detected in Mumbai. Dr. Shashank Joshi, Maharashtra Covid Task Force"
+    },
+    {
+      "title": "India's First Case of COVID-19 New Variant 'XE' found in ...",
+      "url": "https://www.facebook.com/AapduVadodara/posts/indias-first-case-of-covid-19-new-variant-xe-found-in-mumbai-228-people-detected/1857998151058298",
+      "snippet": "India's First Case of COVID-19 New Variant 'XE' found in Mumbai; 228 people detected with Omicron. 99.13% (230 samples) patients detected with"
+    },
+    {
+      "title": "Mumbai confirms Omicron's XE recombinant variant",
+      "url": "https://www.thehindu.com/sci-tech/health/mumbai-confirms-omicrons-xe-recombinant-variant-union-health-ministry-denies-it/article65296308.ece",
+      "snippet": "XE, a new variant of COVID, is a combination of the BA.1 and BA.2 strains of Omicron and found to be responsible for enhanced viral transmission"
+    }
+  ],
+  "merged_results": [
+    {
+      "title": "India reports first case of Covid variant XE in Mumbai",
+      "url": "https://www.tbsnews.net/coronavirus-chronicle/india-reports-first-case-covid-variant-xe-mumbai-398602",
+      "snippet": "India's first case of coronavirus variant XE was detected in Mumbai, The patients with the new variants of the virus don't have any severe symptoms so far. The"
+    },
+    {
+      "title": "India's First Case Of Coronavirus Variant XE Reported From ...",
+      "url": "https://swachhindia.ndtv.com/indias-first-case-of-coronavirus-variant-xe-reported-from-mumbai-67726",
+      "snippet": "The first case of XE, a more transmissible COVID-19 variant, was detected in Mumbai on Wednesday, a civic health official said."
+    },
+    {
+      "title": "XE a 'recombinant': What we know of the new Covid variant ...",
+      "url": "https://www.youtube.com/watch?v=kDV3CgOw8uM",
+      "snippet": "... XE variant of the Covid-19 was reported from Mumbai. One case of the XE Covid variant and one of the Kappa variant was detected, BMC said."
+    },
+    {
+      "title": "The First Case Of New COVID Variant XE Detects In Mumbai ...",
+      "url": "https://www.youtube.com/watch?v=2DqqPXgYqlY",
+      "snippet": "In the latest development, The first case of new Covid variant XE detected in Mumbai. Dr. Shashank Joshi, Maharashtra Covid Task Force"
+    },
+    {
+      "title": "India's First Case of COVID-19 New Variant 'XE' found in ...",
+      "url": "https://www.facebook.com/AapduVadodara/posts/indias-first-case-of-covid-19-new-variant-xe-found-in-mumbai-228-people-detected/1857998151058298",
+      "snippet": "India's First Case of COVID-19 New Variant 'XE' found in Mumbai; 228 people detected with Omicron. 99.13% (230 samples) patients detected with"
+    },
+    {
+      "title": "Mumbai confirms Omicron's XE recombinant variant",
+      "url": "https://www.thehindu.com/sci-tech/health/mumbai-confirms-omicrons-xe-recombinant-variant-union-health-ministry-denies-it/article65296308.ece",
+      "snippet": "XE, a new variant of COVID, is a combination of the BA.1 and BA.2 strains of Omicron and found to be responsible for enhanced viral transmission"
+    }
+  ]
+}

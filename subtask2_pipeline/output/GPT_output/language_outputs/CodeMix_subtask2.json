@@ -1,0 +1,1046 @@
+[
+  {
+    "ID": "S2/T/CM/1001",
+    "Evidence": "Source 2 mentions that the public often feels let down by governments that do not fulfill their election promises, indicating that voters may choose parties based on promises rather than results. Source 3 states that political parties are generally not highly likely to fulfill their election promises, suggesting that voters may be swayed by promises alone. This aligns with the claim that the public votes based on promises, allowing opposition parties to come to power without significant effort.",
+    "Prediction": "SUPPORTS",
+    "Justification": "The retrieved evidence from Source 2 highlights public dissatisfaction with governments that fail to deliver on promises, supporting the idea that voters rely on promises when casting their votes. Source 3 reinforces this by stating that political parties often do not fulfill their promises, suggesting that the public's voting behavior is influenced by these unfulfilled commitments. Thus, the evidence directly corroborates the claim that the public votes based on promises, enabling opposition parties to gain power more easily."
+  },
+  {
+    "ID": "S2/T/CM/1002",
+    "Evidence": "Retrieved evidence discusses a young Chinese woman, Zhang Yan, who begged with her blind father for survival, gaining national attention. It details her family's struggles, including her father's blindness and her mother's mental health issues. The evidence does not mention any abandonment or forgetting of her father, but rather highlights her journey and resilience. Source 1 focuses on Zhang's story and her eventual acceptance into university, emphasizing her connection to her father and her past experiences.",
+    "Prediction": "REFUTES",
+    "Justification": "The retrieved evidence directly contradicts the claim by illustrating that Zhang Yan did not forget her father; instead, it highlights her struggles alongside him while begging and her eventual success. Source 1 emphasizes her connection to her father and her determination to help others, which refutes the assertion that she has forgotten him."
+  },
+  {
+    "ID": "S2/T/CM/1003",
+    "Evidence": "Retrieved evidence does not provide any specific information regarding insaf (justice) related to Hafiz Muzafer Kareem. Source 2 discusses the importance of justice in Islam through the example of `Umar Ibn al-Khattab, emphasizing that justice is essential for peace. However, it does not mention Hafiz Muzafer Kareem or any personal claims of justice related to him. Source 1 and Source 3 do not address the claim either, focusing instead on the Prophet's humility and various aspects of his life.",
+    "Prediction": "REFUTES",
+    "Justification": "The retrieved evidence does not substantiate the claim about receiving justice related to Hafiz Muzafer Kareem. Source 2 discusses justice in a broader Islamic context but does not connect it to the individual mentioned in the claim. Sources 1 and 3 also do not provide relevant information regarding the claim. Therefore, the evidence directly contradicts the assertion that justice will not be found without reference to Hafiz Muzafer Kareem."
+  },
+  {
+    "ID": "S2/T/CM/1004",
+    "Evidence": "Rinku Sharma, a 25-year-old man, was killed in a quarrel at a birthday party in Delhi. Police stated that all involved were known to each other and lived in the same locality, contradicting claims of a hate crime (Source 1). However, some reports allege that a Muslim mob attacked Sharma's family and attempted to burn them, with the murder linked to a dispute over fundraising for a Hindu temple (Source 2). It is noted that Sharma had previously donated blood to the wife of one of his attackers (Source 2).",
+    "Prediction": "REFUTES",
+    "Justification": "The retrieved evidence indicates that Rinku Sharma's murder was a result of a quarrel among acquaintances, not a broader threat from Islam as claimed. Police statements assert that all parties were known to each other, and while there are claims of a hate crime, they are not substantiated by the police's findings (Source 1). Additionally, the evidence does not support the assertion that Islam poses a significant threat based on this incident."
+  },
+  {
+    "ID": "S2/T/CM/1005",
+    "Evidence": "Source 1 discusses the importance of following the teachings of God and emphasizes that true guidance comes from a divine source, not from worldly influences like politicians. It highlights the need to reveal the Father through one's actions and to avoid being misled by negative influences in the environment. The text encourages good deeds and positive speech, aligning with the claim's assertion about acting according to the teachings of parents and not being swayed by bad politicians.",
+    "Prediction": "SUPPORTS",
+    "Justification": "The retrieved evidence from Source 1 directly supports the claim by emphasizing the importance of good actions and speech, as well as the need to avoid negative influences from politicians. It aligns with the idea of adhering to the teachings of one's parents and acting positively in the world, thus corroborating the core assertion of the claim."
+  },
+  {
+    "ID": "S2/T/CM/1006",
+    "Evidence": "Jyotiraditya Scindia is the current Minister of Civil Aviation, having taken charge of the ministry during challenging times for the civil aviation sector due to the pandemic. He has previously held various ministerial roles and switched from Congress to BJP in 2020, which influenced political dynamics in Madhya Pradesh. The evidence indicates that he is responsible for addressing issues within the civil aviation sector, which aligns with the claim that he must support the common man and solve their problems (Source 2).",
+    "Prediction": "SUPPORTS",
+    "Justification": "The retrieved evidence confirms that Jyotiraditya Scindia is the Minister of Civil Aviation and highlights the challenges faced by the sector, implying a need for him to address public concerns. The claim that he must support the common man and solve problems is directly supported by his role and responsibilities as outlined in Source 2."
+  },
+  {
+    "ID": "S2/T/CM/1007",
+    "Evidence": "Jaunpur, Uttar Pradesh, is a city and district with a history of communal tensions, as seen in incidents like the clashes in Bhadethi village where residents left due to fear (Source 2). Additionally, there are reports of caste-based violence involving a BJP leader attacking a Dalit reporter, highlighting ongoing issues of trust and safety in the region (Source 3). The evidence indicates a complex socio-political environment where leaders may not be trusted, aligning with the claim's assertion about AIMIM leaders needing to rely on their own efforts (Source 1).",
+    "Prediction": "SUPPORTS",
+    "Justification": "The retrieved evidence indicates a lack of trust in leaders and a need for communities to rely on their own efforts, as seen in the aftermath of communal clashes and caste-based violence in Jaunpur. Source 2 describes residents leaving their homes due to fear, while Source 3 details the harassment faced by a Dalit reporter from a BJP leader, suggesting a broader context of distrust in leadership. This aligns with the claim that AIMIM leaders should act independently."
+  },
+  {
+    "ID": "S2/T/CM/1008",
+    "Evidence": "Source 1 mein ek Islamic themed design ka zikr hai, lekin ismein kisi bhabhi ya devar ka koi reference nahi hai. Source 2 ek video ka link hai jisme ek beautiful muslim bhabhi ka zikr hai, lekin yeh bhi claim se directly related nahi hai. Source 3 mein kisi bhi bhabhi ya devar ka reference nahi hai, sirf ek general discussion hai. Isliye, retrieved evidence mein claim ka koi direct support nahi hai.",
+    "Prediction": "REFUTES",
+    "Justification": "Retrieved evidence se yeh pata chalta hai ki claim ka core assertion, jo bhabhi aur devar ke beech kisi interaction ka hai, uska koi direct support nahi hai. Source 1 aur Source 3 mein is tarah ka koi reference nahi hai, aur Source 2 bhi sirf ek video ka link hai jo claim ko substantiate nahi karta. Isliye, claim ko refute kiya jata hai."
+  },
+  {
+    "ID": "S2/T/CM/1009",
+    "Evidence": "Source 1 discusses hyperfixation on religion, suggesting that some individuals may focus excessively on finding the 'true' faith, which can lead to ignoring broader narratives. Source 3 mentions that fixation can imply an unbalanced life, including in faith, and emphasizes the importance of a relationship with God rather than superficial beliefs. However, there is no direct evidence in the retrieved sources that specifically addresses the claim about using religion to attack normal narratives or the assertion about not recognizing one's religion.",
+    "Prediction": "REFUTES",
+    "Justification": "The retrieved evidence does not support the claim's assertion about hyper fixation on superficial religious beliefs leading to attacks on normal narratives. While it discusses hyperfixation and the implications of fixation in faith, it does not substantiate the idea that religion is used to attack narratives or that individuals fail to recognize their religion. Therefore, the evidence refutes the claim."
+  },
+  {
+    "ID": "S2/T/CM/1010",
+    "Evidence": "Source 2 ke mutabik, PM Modi ne Yogi Adityanath ke pita ji, Anand Singh Bisht, ki sehat ke baare mein pucha tha. Anand Singh Bisht ka inteqal AIIMS, Delhi mein hua. Source 1 aur Source 3 mein sirf social media posts hain jo kisi specific baat ko nahi batate. Source 2 se yeh pata chalta hai ki Modi ne Yogi ke pita ji se sambandhit baat ki thi, lekin yeh nahi kehta ki Yogi ne apne papa se koi sawaal kiya hai.",
+    "Prediction": "REFUTES",
+    "Justification": "Retrieved evidence se yeh saaf hai ki PM Modi ne Yogi Adityanath ke pita ji ki sehat ke baare mein pucha, lekin yeh claim ki Yogi ne apne papa se koi sawaal kiya hai, uska koi saboot nahi hai. Source 2 mein sirf Modi ka inquiry hai, aur baaki sources mein sirf social media posts hain jo claim ko support nahi karte. Isliye, claim ko refute kiya jaata hai."
+  },
+  {
+    "ID": "S2/T/CM/1011",
+    "Evidence": "Rohingya Muslims faced severe persecution in Myanmar, leading to a mass exodus in 2017 due to military crackdowns, described as ethnic cleansing by the UN (Source 2). The situation remains dire, with ongoing risks of violence and lack of accountability for past actions (Source 2). The Rohingya community is one of the most discriminated groups globally, with many still living in precarious conditions in refugee camps (Source 2). The UNHCR is involved in efforts to support Rohingya refugees (Source 3).",
+    "Prediction": "REFUTES",
+    "Justification": "The retrieved evidence indicates that the Rohingya have faced significant persecution and violence, leading to their flight from Myanmar. The claim suggests a notion of time and escape, but the evidence shows that the Rohingya are already in a state of crisis and have been fleeing for years, contradicting the idea of a future escape. Thus, the evidence refutes the claim."
+  },
+  {
+    "ID": "S2/T/CM/1012",
+    "Evidence": "Harmohan Singh Yadav was a senior leader of the Samajwadi Party (SP) and had significant influence in politics, especially in the Kanpur region (Source 1). His family, particularly his son Sukhram Singh Yadav, has shown signs of aligning with the BJP, which indicates a shift in political loyalty (Source 3). However, there is no specific evidence in the retrieved sources that directly supports the claim that he only developed good roads for his school and left the rest for the BJP (Source 1, 2, 3).",
+    "Prediction": "REFUTES",
+    "Justification": "The retrieved evidence does not substantiate the claim that Harmohan Singh Yadav only built good roads for his school and neglected others for the BJP. While it discusses his political influence and family dynamics, it does not provide any details about road construction or specific neglect of infrastructure for the BJP. Therefore, the claim is not supported by the evidence."
+  },
+  {
+    "ID": "S2/T/CM/1013",
+    "Evidence": "Kejriwal ne 2047 tak Delhi ko world-class city banane ka plan announce kiya hai, jismein unhone corporate houses se ideas aur participation ki zarurat batayi hai (Source 1). Unhone kaha ki 2047 ka target procrastination nahi hai, aur kuch projects 1-2 saal mein complete honge, jabki kuch 2047 tak chalenge (Source 1). Education Minister Atishi ne bhi students se 2047 ke liye unke ideas share karne ka mauka diya, jisse unhone future India ka vision banane ki baat ki (Source 2). Yeh sab indicate karta hai ki Kejriwal ka 2047 ka vision serious hai, na ki sirf ek empty promise (Source 1).",
+    "Prediction": "REFUTES",
+    "Justification": "Claim kehta hai ki Kejriwal ka 2047 tak kuch nahi hoga, lekin retrieved evidence yeh dikhata hai ki Kejriwal ne 2047 tak Delhi ko world-class city banane ka serious plan banaya hai aur ismein unhone specific timelines aur projects ka zikr kiya hai (Source 1). Iske alawa, students ke ideas ko encourage karna bhi yeh dikhata hai ki unka vision practical hai (Source 2). Isliye, evidence claim ko refute karta hai."
+  },
+  {
+    "ID": "S2/T/CM/1014",
+    "Evidence": "Retrieved evidence does not provide specific examples of Modi's speeches or his behavior towards opposition parties during state elections. It discusses Modi's confidence in winning elections, the challenges faced by opposition parties, and the political environment in India, including allegations of corruption and election law violations. However, it does not detail Modi's speech content or the nature of his remarks towards opposition parties. Sources 2 and 3 mention the political landscape but do not support the claim about Modi's speech behavior.",
+    "Prediction": "REFUTES",
+    "Justification": "The retrieved evidence does not substantiate the claim regarding Modi's speech behavior towards opposition parties during state elections. It lacks specific instances or quotes that would support the assertion of him giving derogatory speeches. Instead, it focuses on the broader political context and challenges faced by opposition parties, indicating that the claim is not corroborated by the evidence."
+  },
+  {
+    "ID": "S2/T/CM/1015",
+    "Evidence": "Source 3 mein kaha gaya hai ki younger generations ko unke parents se zyada rights aur privileges mile hain, jo unki freedom aur focus par depend karta hai. Lekin, ismein kisi bhi tarah se privilege ka fayda uthana ya dusron ka adhikar chhinne ka zikr nahi hai. Source 1 aur Source 2 mein bhi is tarah ka koi specific point nahi hai jo claim ko support kare. Isliye, evidence se yeh nahi pata chalta ki kisi ne dusron ka adhikar chhina hai ya privilege ka fayda uthaya hai.",
+    "Prediction": "REFUTES",
+    "Justification": "Claim ke core assertion ko support karne ke liye koi direct evidence nahi hai. Source 3 sirf younger generations ke rights aur privileges ke baare mein baat karta hai, lekin dusron ka adhikar chhinne ya privilege ka fayda uthana ka koi zikr nahi hai. Isliye, retrieved evidence claim ko refute karta hai."
+  },
+  {
+    "ID": "S2/T/CM/1016",
+    "Evidence": "Retrieved evidence does not mention anything about Nalanda or any related events. Source 1 and Source 2 focus on the game World of Warcraft, detailing its gameplay, development, and success. Source 3 discusses content on xHamster, which is unrelated to the claim. There is no reference to any characters or events that would support the assertion about Nalanda or people crying.",
+    "Prediction": "REFUTES",
+    "Justification": "The retrieved evidence does not provide any information that corroborates the claim regarding Nalanda or people crying. Source 1 and Source 2 are focused on World of Warcraft, while Source 3 is about adult content, making them irrelevant to the claim. Therefore, the evidence directly contradicts the claim's core assertion."
+  },
+  {
+    "ID": "S2/T/CM/1017",
+    "Evidence": "Source 1 mentions that waqf board ke paas paisa aur zameen hain, lekin yeh bhi kaha gaya hai ki sab musalmano ko Pakistan a jana chahiye. Source 2 states that government snatches land from Hindu temples and provides financial support to waqf board. Source 3 discusses the reality of the waqf board but does not provide specific details about its financial status or laws. Overall, evidence suggests that waqf board has resources but does not directly address the claim about Hindu temples or the construction of Haj houses.",
+    "Prediction": "REFUTES",
+    "Justification": "Retrieved evidence does not substantiate the claim that waqf board has significant resources or that laws favor them. While Source 1 acknowledges the waqf board's resources, it does not confirm the claim's assertion about Hindu temples or the construction of Haj houses. Source 2 mentions financial support to waqf board but highlights the government's actions against Hindu temples, which contradicts the claim's implication of fairness. Thus, the evidence fails to support the core assertion."
+  },
+  {
+    "ID": "S2/T/CM/1018",
+    "Evidence": "Source 3 mentions political strategist Prashant Kishor criticizing the BJP, stating that the party is struggling to find suitable candidates and that some aspirants are withdrawing from contests. This indicates a shift in the political landscape, suggesting that the BJP's previous dominance may be challenged. However, there is no direct mention of the impact on UP or the specific electoral outcomes related to Punjab seats. Source 1 and Source 2 do not provide relevant information regarding the claim about UP or the BJP's electoral performance.",
+    "Prediction": "REFUTES",
+    "Justification": "The retrieved evidence from Source 3 indicates that the BJP is facing challenges in candidate selection and electoral dominance, which contradicts the claim's assertion that the BJP will not be affected in UP. The evidence does not support the idea that the BJP's performance in UP will remain unaffected by the situation in Punjab, thus refuting the claim."
+  },
+  {
+    "ID": "S2/T/CM/1019",
+    "Evidence": "Retrieved evidence mein India ke policies ya kisi specific policy ka zikr nahi hai. Source 1, 2, aur 3 sirf general topics par hain, jaise payments, citizenship, aur German Autobahn. Koi bhi evidence is claim ko support nahi karta hai ki India apne pass koi specific policy hai jo enticing hai.",
+    "Prediction": "REFUTES",
+    "Justification": "Claim ke core assertion ko support karne ke liye koi bhi evidence nahi hai. Retrieved evidence mein India ki policies ya unki enticing nature ka koi direct reference nahi hai. Source 1, 2, aur 3 sirf alag-alag topics par hain aur kisi bhi tarah se claim ko substantiate nahi karte. Isliye, claim ko refute kiya jata hai."
+  },
+  {
+    "ID": "S2/T/CM/1020",
+    "Evidence": "2009 mein Andhra Pradesh ke elections mein Congress ne 156 seats jeeti thi, jo ki 294 total constituencies mein se hai. Iska matlab hai ki Congress apne peak par thi aur unhone 20 seats nahi jeeti, balki kaafi zyada seats jeeti. Source 1 ke mutabik, Congress ka vote share 36.55% tha, jo unki majbooti ko darshata hai.",
+    "Prediction": "REFUTES",
+    "Justification": "Retrieved evidence se yeh pata chalta hai ki Congress ne 2009 mein Andhra Pradesh se 156 seats jeeti thi, jo claim ke core assertion ko directly contradict karta hai. Isliye, yeh claim ki Congress ne sirf 20 seats jeeti thi, galat hai. Source 1 mein diya gaya data Congress ki majbooti aur unke jeete gaye seats ki sankhya ko darshata hai."
+  },
+  {
+    "ID": "S2/T/CM/1021",
+    "Evidence": "Source 1 states that inflation is linked to corruption in political systems, where governments use fiscal irresponsibility to appease voters, leading to economic mismanagement. It mentions that politicians often ignore the problem of inflation to maintain power, which aligns with the claim about a lack of efforts to control inflation. Source 3 discusses how government deficits, particularly during the pandemic, contributed to inflation, indicating that financial mismanagement is a factor. However, there is no direct mention of corruption in the current government or specific actions taken against inflation in the evidence provided.",
+    "Prediction": "SUPPORTS",
+    "Justification": "The retrieved evidence from Source 1 supports the claim by highlighting that inflation is a result of corrupt political practices and fiscal irresponsibility, which aligns with the assertion that there have been no genuine efforts to control inflation. Additionally, Source 3 discusses how government deficits led to inflation, reinforcing the idea of mismanagement. Therefore, the evidence corroborates the claim's core assertion regarding inflation and corruption."
+  },
+  {
+    "ID": "S2/T/CM/1022",
+    "Evidence": "Source 1 discusses how politicians often prioritize their image over public good, choosing high-cost private bailouts instead of providing direct assistance to families in need. This indicates a lack of genuine compassion from politicians. Source 2 highlights that compensation is often used to gain political support, but does not imply that politicians are acting out of genuine concern for families in distress. Source 3 reveals that political parties often rely on state subsidies and private funding, raising questions about their motivations and transparency, rather than showing they provide help from personal funds for image reasons.",
+    "Prediction": "REFUTES",
+    "Justification": "The retrieved evidence from Source 1 indicates that politicians prioritize their image over public good, suggesting they do not genuinely help families in distress. Source 2 discusses compensation as a political strategy rather than a sign of compassion. Source 3 highlights the lack of transparency in political funding, further implying that politicians may not act out of genuine concern. Therefore, the evidence refutes the claim that politicians are truly sensitive and help families from their own funds."
+  },
+  {
+    "ID": "S2/T/CM/1023",
+    "Evidence": "Evidence shows that forgiveness is a key aspect of healing relationships and brings joy. Source 3 states that forgiveness heals rifts and restores relationships, leading to joy. Source 1 emphasizes that forgiveness is a divine matter, while Source 2 discusses the ongoing nature of forgiveness, suggesting it is a lifestyle rather than a one-time act. The act of forgiving others is linked to personal happiness and peace, aligning with the idea of being happy for others' happiness as mentioned in the claim.",
+    "Prediction": "SUPPORTS",
+    "Justification": "The retrieved evidence supports the claim by highlighting that forgiveness leads to joy and healing in relationships, which aligns with the idea of being happy for others. Source 3 explicitly states that forgiveness restores relationships and brings joy, while Source 2 discusses the ongoing nature of forgiveness, reinforcing the notion of being content with others' happiness. Thus, the evidence directly corroborates the claim's assertion."
+  },
+  {
+    "ID": "S2/T/CM/1024",
+    "Evidence": "Retrieved evidence does not provide any specific information about a reporter's integrity or their motivations for joining a channel like Republic. Source 1 discusses the concept of a republic and its political implications, while Source 2 elaborates on the definitions of a republic without mentioning any specific reporters or their actions. Source 3 contains a conversation about voter issues but does not relate to the claim about reporters or their motivations. Therefore, there is no evidence to support the claim that a reporter should join Republic for genuine reporting or to solve public problems.",
+    "Prediction": "REFUTES",
+    "Justification": "The retrieved evidence does not substantiate the claim regarding a reporter's integrity or their reasons for joining Republic. Sources 1 and 2 focus on the definition and history of a republic, while Source 3 discusses voter issues without addressing the claim about reporters. Thus, the evidence directly contradicts the assertion that reporters are motivated by genuine public service."
+  },
+  {
+    "ID": "S2/T/CM/1025",
+    "Evidence": "Source 1 states that young people feel politicians neglect mental health, indicating a disconnect between politicians and the concerns of the youth. Source 2 discusses the lack of principled ideology among politicians, suggesting they prioritize power over genuine concern. Source 3 highlights the changing perceptions of emotional expression in politics, showing that politicians sometimes use tears to connect with voters, but this can be seen as a performance rather than genuine emotion.",
+    "Prediction": "SUPPORTS",
+    "Justification": "Retrieved evidence from Source 1 supports the claim that politicians do not genuinely connect with the public's concerns, particularly regarding mental health. Source 2 reinforces this by stating that politicians often act based on power rather than ideology, aligning with the claim's assertion about one-sided agendas. Source 3 illustrates how emotional displays can be perceived as political strategy, further supporting the idea that politicians may not authentically engage with issues."
+  },
+  {
+    "ID": "S2/T/CM/1026",
+    "Evidence": "Retrieved evidence does not address the claim regarding the connection between the state and the incident involving the girl. Source 1 discusses a mother who lost her daughter but does not mention any political or state-related context. Source 2 focuses on a politician's daughter in Bollywood, which is unrelated to the claim about justice and state involvement. Source 3 is another Instagram post that does not provide relevant information. Overall, the evidence does not substantiate the claim's assertion about linking the incident to the state or political motives.",
+    "Prediction": "REFUTES",
+    "Justification": "The retrieved evidence does not support the claim that the incident involving the girl is being linked to the state or that there is a political motive behind seeking justice. Source 1 discusses a personal tragedy without political context, while Source 2 focuses on a politician's daughter in entertainment, which is unrelated. Therefore, the evidence directly contradicts the claim's core assertion."
+  },
+  {
+    "ID": "S2/T/CM/1027",
+    "Evidence": "Source 2 mein 'Tu hi bandon pe karta hai lutf-o-ata hai, tujhi pe bharosa, tujhi se dua, mujhe jalwa-e-pak-e-Rasool dikha' ka zikr hai. Yeh line is claim ka core assertion hai, jo Allah aur Rasool ki taraf se lutf aur dua ki baat karti hai. Iske alawa, yeh bhi kaha gaya hai ke 'Tere khulq ko Haq ne jameel kiya', jo Rasool ki izzat aur unki khubsurti ko darshata hai. Yeh sab kuch is claim ko support karta hai.",
+    "Prediction": "SUPPORTS",
+    "Justification": "Retrieved evidence, specifically from Source 2, directly corroborates the claim by stating 'Tu hi bandon pe karta hai lutf-o-ata hai, tujhi pe bharosa, tujhi se dua, mujhe jalwa-e-pak-e-Rasool dikha'. This line aligns perfectly with the claim's assertion about reliance on and supplication to the divine, emphasizing the relationship between the speaker and the Prophet. The evidence clearly supports the idea of trust and divine grace, confirming the claim's core message."
+  },
+  {
+    "ID": "S2/T/CM/1028",
+    "Evidence": "Retrieved evidence does not directly address the claim regarding the name 'Khan' or the assertion about Muslims and honor. Source 1 is an Instagram post that does not provide relevant context. Source 2 discusses Afghan Taliban fighters and their safety but does not relate to the claim. Source 3 mentions children and their parents but is unrelated to the specific assertions made in the claim.",
+    "Prediction": "REFUTES",
+    "Justification": "Retrieved evidence does not support the claim's core assertion about removing the name 'Khan' or the notion of honor among Muslims. The sources do not provide any information that corroborates the claim, and they focus on unrelated topics. Therefore, the evidence fails to substantiate the claim's assertions."
+  },
+  {
+    "ID": "S2/T/CM/1029",
+    "Evidence": "Retrieved evidence does not address the claim regarding caste and religion in crime. Source 1 discusses a family celebration during Diwali without any mention of caste or crime. Source 2 is about a book by Waseem Barelvi, focusing on poetry and emotions, with no relevance to caste or crime. Source 3 provides translations and examples of Hindi phrases, which are unrelated to the claim's assertion about caste and religion in crime contexts.",
+    "Prediction": "REFUTES",
+    "Justification": "The retrieved evidence does not support the claim about the significance of caste and religion in crime or the daily experience of casteist slurs. Source 1 focuses on a family celebration, Source 2 discusses poetry, and Source 3 provides translations, none of which substantiate the claim's core assertion regarding caste and crime. Therefore, the evidence directly contradicts the claim."
+  },
+  {
+    "ID": "S2/T/CM/1030",
+    "Evidence": "Source 1 mein Modi Ji ne Yuvraj Dia ke baap ko kam sugar khane ki salah di hai. Source 2 mein Modi ka kehna hai ki unka baap unse zyada unka naam leta hai. Source 3 mein ek video viral ho raha hai jisme unique slogans hain, lekin ismein claim ka koi direct sambandh nahi hai.",
+    "Prediction": "REFUTES",
+    "Justification": "Retrieved evidence se yeh pata chalta hai ki Modi Ji ne kisi ko khana khane ya chup rehne ki salah nahi di. Source 1 sirf sugar khane ki salah deta hai, aur Source 2 mein baap ka zikr hai lekin yeh claim ka core assertion ko support nahi karta. Source 3 mein bhi is claim ka koi sambandh nahi hai. Isliye, evidence claim ko refute karta hai."
+  },
+  {
+    "ID": "S2/T/CM/1031",
+    "Evidence": "Source 1 discusses the boycott of Chinese goods as a response to China's actions against India, emphasizing that it could make China pay a price. It mentions that many people have uninstalled Chinese apps, indicating a shift in consumer behavior. Source 3 mentions that significant taxpayer money has been spent on projects, implying that the cost of constructing a mandir is much higher than 10-15 lakhs. However, there is no direct mention of the Ram Mandir or any financial misconduct related to it in the retrieved evidence.",
+    "Prediction": "REFUTES",
+    "Justification": "The retrieved evidence does not support the claim that there is a financial misconduct related to the Ram Mandir or that promoters of China have become boycotters due to a 15 lakh lure. Source 1 focuses on the boycott of Chinese goods and its implications, while Source 3 discusses the costs of projects without linking them to the Ram Mandir or any specific financial misconduct. Therefore, the evidence refutes the claim."
+  },
+  {
+    "ID": "S2/T/CM/1032",
+    "Evidence": "Source 1 discusses the concept of soul rebirth in Hinduism, suggesting that if souls are reborn, they exist in all living beings. Source 2 does not provide specific information about souls in animals or the Hindu perspective on them. Source 3 contrasts Hinduism's belief in the atman (soul) with Buddhism's denial of a soul, indicating a belief in the existence of souls in living beings, including animals, according to Hinduism.",
+    "Prediction": "SUPPORTS",
+    "Justification": "Retrieved evidence from Source 1 and Source 3 indicates that Hinduism believes in the existence of souls (atman) in all living beings, including animals. This aligns with the claim that animals have life and families, and that there is no fundamental difference between humans and animals in this regard. Therefore, the evidence supports the assertion made in the claim."
+  },
+  {
+    "ID": "S2/T/CM/1033",
+    "Evidence": "Hindustan ka naam Mughals ne diya tha, jo Sindhu nadi ke naam se aata hai. Yeh naam sabhi logon ko shamil karta hai, na ki sirf Hinduo ko. Source 1 kehta hai ki Hindustan ka matlab sirf Hinduon ka desh nahi hai, balki yeh sabhi logon ka hai jo Bharat mein baste hain, jaise Muslims aur Christians. Hindi, jo ki ek pramukh bhasha hai, zyada tar Uttar Bharat mein boli jaati hai, lekin yeh desh ke anya hisson mein bhi suna jaata hai (Source 2). Hindi aur Urdu dono bhashaon ka ek samanya itihas hai, jo Hindu aur Muslim samudayon ke beech ek ekta ka prateek hai (Source 3).",
+    "Prediction": "REFUTES",
+    "Justification": "Retrieved evidence se yeh saaf hai ki Hindustan ka naam sirf Hinduon se nahi, balki Mughals se aaya hai, jo is naam ko sabhi logon ke liye istemal karte the. Source 1 mein yeh spasht hai ki Hindustan ka matlab sirf Hinduon ka desh nahi hai, balki yeh sabhi dharmon ke logon ka hai. Isliye, claim ki mool baat ki Hindustan sirf Hinduon ka desh hai, yeh galat hai."
+  },
+  {
+    "ID": "S2/T/CM/1034",
+    "Evidence": "Source 1 mentions Modi as the Prime Minister of India and highlights a significant moment in India's space journey, indicating achievements. Source 2 expresses admiration for Modi, stating he has ' दम' (strength) and thanks him on behalf of the world, suggesting a positive perception of his contributions. Source 3 features Modi's speech, implying his impactful communication skills, but does not provide specific achievements or honors.",
+    "Prediction": "REFUTES",
+    "Justification": "The retrieved evidence does not provide concrete achievements or honors that would justify viewing Modi's 20-year political career with respect. While there are expressions of admiration and acknowledgment of his role as Prime Minister, specific accomplishments or recognitions that would substantiate the claim are absent in the evidence."
+  },
+  {
+    "ID": "S2/T/CM/1035",
+    "Evidence": "Evidence retrieved does not mention Sayyeduna Maula Ali al Murtaza writing anything or making a statement as described in the claim. Source 2 discusses the creation of the pen and its command to write, but does not relate to Ali. Source 3 details an incident involving the Prophet Muhammad wanting to write something but being prevented, which does not support the claim about Ali writing a testimony. No direct correlation to the claim's assertion is found in the sources.",
+    "Prediction": "REFUTES",
+    "Justification": "The retrieved evidence does not substantiate the claim that Sayyeduna Maula Ali al Murtaza wrote a testimony as described. Source 2 discusses the pen's creation but does not mention Ali, and Source 3 recounts an event where the Prophet Muhammad wished to write but was stopped, which contradicts the claim's core assertion about Ali's actions. Therefore, the evidence directly refutes the claim."
+  },
+  {
+    "ID": "S2/T/CM/1036",
+    "Evidence": "Umar ibn Al-Khattab (R.A.) is referred to as Al-Farooq, and he is recognized for his significant role in Islamic history. He converted to Islam and was known for his strong character and leadership. The evidence mentions that he was a companion of Prophet Muhammad (S.A.W.) and participated in many battles. Additionally, he is regarded as a paragon of Islamic virtues and is often referred to as a 'light' for the believers, which aligns with the claim that he is a 'siraaj' (lamp) for the people of Jannah (Paradise). This is supported by Source 1 and Source 2.",
+    "Prediction": "SUPPORTS",
+    "Justification": "The retrieved evidence indicates that Umar ibn Al-Khattab (R.A.) is highly regarded in Islamic tradition, being referred to as a 'light' for the believers and a significant figure in Islamic history. This aligns with the claim that he is described as a 'siraaj' for the people of Jannah. The sources confirm his esteemed status and connection to the Prophet Muhammad (S.A.W.), supporting the assertion made in the claim."
+  },
+  {
+    "ID": "S2/T/CM/1037",
+    "Evidence": "Arvind Kejriwal ne Sheila Dikshit par ilzaam lagaya hai ki unhone 2008 mein illegal colonies ko authorize kiya tha, jo political gain ke liye kiya gaya tha (Source 1). Congress ne Kejriwal ke dharne ko support nahi kiya, jisse unka isolation dikh raha hai (Source 2). Kejriwal ne kaha ki Sheila Dikshit ab important nahi hain, jo Congress ko criticize karne ka mauka diya (Source 3).",
+    "Prediction": "SUPPORTS",
+    "Justification": "Retrieved evidence se yeh pata chalta hai ki Arvind Kejriwal ne Sheila Dikshit par corruption ke ilzaam lagaye hain aur unki governance ko criticize kiya hai, jo claim ke core assertion ko support karta hai. Source 1 mein unka investigation ka demand aur Source 3 mein unka statement ki Sheila Dikshit ab important nahi hain, yeh sab is baat ko darshata hai ki Kejriwal Congress par vaar karne ke liye unhe target kar rahe hain. Isliye, evidence claim ko support karta hai."
+  },
+  {
+    "ID": "S2/T/CM/1038",
+    "Evidence": "Retrieved evidence does not directly mention Gairola's statement about Rahul Gandhi leaving Congress and its impact on BJP's strength. Source 1 discusses Rahul Gandhi's comments on those leaving Congress, but does not connect it to BJP's potential strengthening. Source 2 talks about Rahul Gandhi's strategy against BJP but does not address the claim. Source 3 mentions the BJP's growth over time but does not relate it to Gandhi leaving Congress.",
+    "Prediction": "REFUTES",
+    "Justification": "Retrieved evidence does not support the claim that Gairola said BJP would become stronger if Rahul Gandhi leaves Congress. The sources do not provide any direct correlation between Gandhi's departure and BJP's strength. Source 1 focuses on Gandhi's comments about Congress members leaving, while Source 2 and Source 3 discuss broader political strategies and history without linking to the specific claim."
+  },
+  {
+    "ID": "S2/T/CM/1039",
+    "Evidence": "Source 1 discusses how Congress has ruled for 55 out of 70 years but does not provide specific details on the damages caused. Source 2 mentions the 113th Congress as being labeled the 'worst Congress ever' due to its unproductiveness and dysfunction, with 65% of Americans considering it the worst of their lifetime. However, it does not directly address the claim about the Congress party's actions over 70 years. Source 3 does not provide relevant information regarding Congress or its impact.",
+    "Prediction": "REFUTES",
+    "Justification": "The retrieved evidence does not substantiate the claim that Congress has caused significant damage over 70 years. While Source 1 notes Congress's long rule, it lacks specific details on the alleged harm. Source 2 critiques a specific Congress but does not relate to the broader claim about the Congress party's overall impact. Therefore, the evidence fails to support the assertion made in the claim."
+  },
+  {
+    "ID": "S2/T/CM/1040",
+    "Evidence": "Retrieved evidence does not mention any specific individual who has never been a monitor in school criticizing the government. Source 1 discusses Stephen Miller's controversial high school speech and his political career, but does not relate to the claim about someone criticizing the government without having been a school monitor. Sources 2 and 3 are YouTube links without relevant content to the claim. Therefore, there is no direct support for the assertion that someone who never became a monitor is criticizing the government.",
+    "Prediction": "REFUTES",
+    "Justification": "The retrieved evidence does not substantiate the claim that a person who has never been a school monitor is criticizing the government. Source 1 focuses on Stephen Miller's high school experience and political actions, but does not connect to the specific claim about a school monitor. Sources 2 and 3 do not provide relevant information. Thus, the evidence directly contradicts the claim."
+  },
+  {
+    "ID": "S2/T/CM/1041",
+    "Evidence": "Altaf Hussain, MQM ka leader, ne military establishment par ilzam lagaya hai ke wo har tarah ki zindagi ko tabah kar rahe hain, aur unka kehna hai ke wo sirf apne liye kaam karte hain, Pakistan ke liye nahi (Source 2). Hussain ka kehna hai ke military generals ne Murree tragedy ke dauran logon ki madad nahi ki, jo unki negligence ka saboot hai (Source 2). Iske ilawa, Hussain ki political career kaafi complex hai, jisme wo establishment ke sath kabhi dosti aur kabhi dushmani rakhte hain (Source 1). MQM ki political strategy aur Hussain ki leadership par bhi sawal uthte hain (Source 1).",
+    "Prediction": "REFUTES",
+    "Justification": "Retrieved evidence clearly states that Altaf Hussain blames the military establishment for various issues, including the Murree tragedy, indicating a lack of support for the claim that the establishment will test him again. Instead, it shows his criticism of the establishment's actions and negligence (Source 2). Additionally, Hussain's complex relationship with the establishment, where he has both confronted and apologized to them, suggests that he does not have a straightforward or supportive relationship with them (Source 1). Therefore, the evidence refutes the claim."
+  },
+  {
+    "ID": "S2/T/CM/1042",
+    "Evidence": "Retrieved evidence does not provide any information about Rajdeep Sardesai's work for BJP or any actions taken by BJP regarding him. Source 1 is about Rajdeep Sardesai's YouTube channel, Source 2 discusses an incident involving a BJP leader's son, and Source 3 details a separate incident involving BJP workers and a Congress leader. None of these sources mention Rajdeep Sardesai's relationship with BJP or any actions related to him.",
+    "Prediction": "REFUTES",
+    "Justification": "The retrieved evidence does not support the claim that Rajdeep Sardesai worked for BJP or that BJP did not take action for its workers. Source 1 is unrelated to the claim, while Sources 2 and 3 focus on different incidents involving BJP but do not mention Rajdeep Sardesai. Therefore, the evidence directly contradicts the assertion made in the claim."
+  },
+  {
+    "ID": "S2/T/CM/1043",
+    "Evidence": "Source 1 describes 'patwari' as a term used in Pakistan for individuals who are seen as corrupt followers of the Sharif family, indicating a negative connotation associated with them. It states that patwaris are often viewed as uneducated and blindly loyal to corrupt leaders. Source 2 mentions a specific case involving a patwari named Aurangzeb who was involved in fraudulent land occupation. Source 3 discusses a former patwari, Shah Nawaz, who was convicted for corruption, further emphasizing the negative reputation of patwaris in relation to fraud and corruption.",
+    "Prediction": "SUPPORTS",
+    "Justification": "The retrieved evidence directly supports the claim by highlighting the negative perception of patwaris as corrupt individuals associated with fraud and the Sharif family. Source 1 explicitly states that patwaris are viewed as 'slaves' of the corrupt Sharif family, while Sources 2 and 3 provide examples of patwaris involved in fraudulent activities and corruption. This aligns with the claim's assertion about the detrimental impact of such individuals on the economy."
+  },
+  {
+    "ID": "S2/T/CM/1044",
+    "Evidence": "Retrieved evidence discusses levels of consciousness, emphasizing that individuals can operate at various levels, from shame and guilt to higher states of love and enlightenment (Source 1). It highlights that lower levels of consciousness are often marked by resistance and emotional suppression, leading to self-sabotaging behaviors. The evidence does not specifically address the actions of a priest or their relationship with self-consciousness or fear of divine judgment, nor does it provide a direct commentary on the claim's assertion about understanding or stooping to a certain level (Sources 2 and 3).",
+    "Prediction": "REFUTES",
+    "Justification": "The retrieved evidence does not support the claim's assertion about a priest's behavior or self-consciousness. While it discusses levels of consciousness and emotional states, it does not provide any specific examples or context related to a priest or the idea of fearing religion or gods. Therefore, the claim is not substantiated by the evidence, leading to a refutation."
+  },
+  {
+    "ID": "S2/T/CM/1045",
+    "Evidence": "Twitter te businesses layi mauke ne, jithe 316 million monthly active users ne. Source 1 vich dassya gaya hai ke Twitter te active rehna, followers badhana, te sales vich vadhai karna zaroori hai. Tweet karna, relevant hashtags use karna, te customer support dena, eh sab kuch businesses layi faida mand hai. Source 1 vich eh vi mention kita gaya hai ke Twitter te positive experience naal relationship mazboot hunda hai, jo ke customers nu attract karda hai.",
+    "Prediction": "SUPPORTS",
+    "Justification": "Retrieved evidence vich clear hai ke Twitter te active hona businesses layi faida mand hai, jiven ke followers badhana, sales vich vadhai karna, te customer support dena. Source 1 vich eh vi dassya gaya hai ke positive experiences naal relationships mazboot hote ne, jo ke customers nu attract karda hai. Is karke, claim da core assertion ke 'tweet karna koi faida ni' nu evidence support nahi karda."
+  },
+  {
+    "ID": "S2/T/CM/1046",
+    "Evidence": "Mahatma Gandhi led the campaign for India's independence from British rule through nonviolent resistance (Source 1). He was a prominent leader of the Indian National Congress and worked towards religious pluralism in India. The partition of British India into India and Pakistan in 1947 was a significant event, leading to religious violence (Source 1). Rahul Gandhi, a member of the Indian National Congress and descendant of Gandhi, has been involved in Indian politics, including leading the party during elections (Source 3). The claim suggests that Congress leaders would have prevented the partition, but the evidence does not support this assertion directly.",
+    "Prediction": "REFUTES",
+    "Justification": "The retrieved evidence indicates that Mahatma Gandhi was a key figure in the independence movement but does not support the claim that Congress leaders could have prevented the partition of India. The partition was a complex event influenced by various factors, including rising Muslim nationalism, which Gandhi's vision of a united India struggled against (Source 1). Therefore, the claim that Congress leaders would have resolved the situation differently is not substantiated by the evidence."
+  },
+  {
+    "ID": "S2/T/CM/1047",
+    "Evidence": "Retrieved evidence does not provide any information regarding the claim about cases in a specific state or the assertion of exercising rights in such cases. Source 1 is unrelated to the claim, focusing on music and entertainment. Source 2 defines 'sir' and does not address legal matters or rights. Source 3 discusses the Ministry of External Affairs and does not mention any cases or rights related to the claim.",
+    "Prediction": "REFUTES",
+    "Justification": "The retrieved evidence does not support the claim's assertion about cases in a state or the exercise of rights in such cases. Source 1 is irrelevant, Source 2 provides definitions unrelated to the claim, and Source 3 discusses governmental functions without addressing the specific legal context mentioned in the claim. Therefore, the evidence fails to substantiate the claim."
+  },
+  {
+    "ID": "S2/T/CM/1048",
+    "Evidence": "Retrieved evidence does not provide any information regarding the opposition's strength or ambitions. Source 1 is an Instagram post that does not relate to the claim. Source 2 is a YouTube video about a James Bond game, which is unrelated to the claim's context. Source 3 is a wiki page about James Bond, containing general information about the character but no relevant details about opposition or ambitions. Therefore, none of the sources substantiate the claim's assertion about opposition and ambitions.",
+    "Prediction": "REFUTES",
+    "Justification": "The retrieved evidence does not support the claim that the opposition has no strength or that ambitions are a factor in their actions. Source 1, Source 2, and Source 3 do not provide any relevant information regarding the opposition's capabilities or ambitions, directly contradicting the claim's core assertion."
+  },
+  {
+    "ID": "S2/T/CM/1049",
+    "Evidence": "Retrieved evidence mein kisi bhi tarah ka sandesh nahi hai jo papa ki pariyon ke liye ya unke islaam se bhatakne ke baare mein ho. Source 1 mein ek vyakti apne pita ki wafat ke baare mein dua maang raha hai, lekin ismein kisi bhi tarah ka khushi ya parinaam ka zikr nahi hai. Source 2 mein ek vyakti ke naye Muslim doston ke baare mein baat ho rahi hai, lekin ye bhi claim se sambandhit nahi hai. Source 3 sirf ek poetry ka link hai jo kisi sandesh ko nahi samjhata.",
+    "Prediction": "REFUTES",
+    "Justification": "Retrieved evidence mein koi bhi aisa content nahi hai jo claim ke core assertion ko support kare. Source 1 sirf ek dua ki maang hai, Source 2 mein dosti ki baat hai, aur Source 3 ek poetry ka link hai. In sab mein na to khushi ka zikr hai aur na hi kisi parinaam ka, jo claim mein diya gaya hai. Isliye, evidence claim ko refute karta hai."
+  },
+  {
+    "ID": "S2/T/CM/1050",
+    "Evidence": "Congress party ne kaha hai ki petrol aur diesel par excise duty cut se aam logon ko koi asli rahat nahi mil rahi hai, aur sarkar logon ko headlines se fool kar rahi hai (Source 1). Congress ne yeh bhi kaha ki jab global crude oil prices girte hain, tab bhi India mein consumer prices nahi ghatte (Source 3). Rahul Gandhi ne bhi prices ghatane ki maang ki hai, lekin yeh sirf election ke nazdeek aane par ho raha hai (Source 2). Congress ke leaders ne yeh bhi bataya ki actual relief sirf narrative mein hai, na ki reality mein (Source 1, 3).",
+    "Prediction": "REFUTES",
+    "Justification": "Retrieved evidence se yeh pata chalta hai ki Congress party petrol aur diesel ki prices ko ghatane ki maang kar rahi hai, lekin unka kehna hai ki sarkar sirf headlines bana rahi hai aur asli relief nahi de rahi (Source 1, 3). Isliye, yeh claim ki Congress ko petrol aur diesel ki prices Rs 40 karne ka sandesh dena chahiye, yeh evidence se contradict hota hai kyunki Congress khud is par criticism kar rahi hai aur asli relief nahi milne ki baat kar rahi hai (Source 1, 3)."
+  },
+  {
+    "ID": "S2/T/CM/1051",
+    "Evidence": "Source 1 mentions that caste sentiments can be hurt by discussions around caste, indicating that mentioning a victim's caste can provoke social feelings. Source 3 discusses how women are often used in caste politics, suggesting that caste mentions can be politically charged. Source 2 does not address caste in relation to rape victims directly but provides a general overview of rape and its implications.",
+    "Prediction": "REFUTES",
+    "Justification": "Retrieved evidence from Source 1 and Source 3 indicates that mentioning a rape victim's caste can indeed stir social sentiments and be politically motivated, contradicting the claim that it is merely a general information point without political implications. Therefore, the evidence refutes the assertion that mentioning caste does not provoke social feelings or involve politics."
+  },
+  {
+    "ID": "S2/T/CM/1052",
+    "Evidence": "Source 3 mentions that some MPs arrived at Parliament on bicycles, which has gone viral. However, there is no evidence in the retrieved sources that discusses the appropriateness of this action or the implications regarding public funds or taxes. Source 1 provides information about attending debates in Parliament but does not address the claim's assertion about MPs' behavior or the use of public money. Source 2 is a video link about a budget debate but does not relate to the claim's core assertion either.",
+    "Prediction": "REFUTES",
+    "Justification": "The retrieved evidence does not support the claim that MPs should feel shame for using public funds or that their actions are inappropriate. Source 3 only states that MPs arrived on bicycles, without any commentary on public funds or shame. Source 1 and Source 2 do not provide relevant information to substantiate the claim. Therefore, the evidence refutes the assertion made in the claim."
+  },
+  {
+    "ID": "S2/T/CM/1053",
+    "Evidence": "Source 1 mentions a viral video where a man tears his Pakistan passport and shouts, indicating a strong emotional reaction against Pakistan. However, there is no evidence in the retrieved sources that directly supports the claim about someone verbally abusing another or taking their family to Pakistan for citizenship. Source 2 and Source 3 do not provide relevant information regarding the claim.",
+    "Prediction": "REFUTES",
+    "Justification": "Retrieved evidence from Source 1 shows a man tearing his Pakistan passport, which aligns with a strong negative sentiment towards Pakistan. However, it does not support the specific claim about galiya dena or taking family for citizenship. Sources 2 and 3 do not provide any corroboration for the claim's core assertion. Therefore, the evidence does not substantiate the claim."
+  },
+  {
+    "ID": "S2/T/CM/1054",
+    "Evidence": "Source 1 mentions that the law and order situation is problematic, implying that the government, including BJP, has responsibilities. Source 3 states that the BJP has historically supported rapists, suggesting a failure in law enforcement. The evidence indicates a lack of action from the BJP leaders regarding rapists, which aligns with the claim that the government is not effectively handling law and order issues related to crime.",
+    "Prediction": "SUPPORTS",
+    "Justification": "Retrieved evidence directly supports the claim that the government, including BJP, has responsibilities regarding law and order. Source 1 indicates that the government is responsible for the law and order situation, while Source 3 highlights the BJP's failure to act against rapists. This aligns with the assertion that the government is not adequately addressing these issues, thus supporting the claim."
+  },
+  {
+    "ID": "S2/T/CM/1055",
+    "Evidence": "Source 1 and Source 3 both state that विरोध करना देश का विरोध नहीं है, indicating that opposing Modi does not equate to opposing the country. Source 2 discusses Modi's instructions to MPs not to engage in sycophantic gestures like touching his feet, emphasizing a focus on work rather than personal adulation. There is no evidence in the retrieved sources that supports the claim of Modi touching anyone's body or that people would harm themselves in response to opposition against him.",
+    "Prediction": "REFUTES",
+    "Justification": "Retrieved evidence from Source 1 and Source 3 clearly states that opposing Modi is not the same as opposing the nation, which contradicts the claim's implication of extreme consequences for opposition. Additionally, Source 2 highlights Modi's request for MPs to avoid sycophancy, which does not support the idea of him touching anyone's body or people harming themselves. Thus, the evidence refutes the claim."
+  },
+  {
+    "ID": "S2/T/CM/1056",
+    "Evidence": "Source 2 mein bataya gaya hai ki संसद में हंगामा ho raha hai aur विपक्ष के नेता ke आचरण par तीखी बहस chal rahi hai. Ismein विपक्ष ke नेता ki भूमिका aur उनके आचरण par आरोप lagaye gaye hain. Lekin, kisi bhi source mein yeh nahi kaha gaya hai ki विपक्ष sirf टीवी par झूठ parोसने ke liye अपने प्रवक्ता bhej deta hai. Source 1 aur Source 3 mein विपक्ष ke नेताओं ke व्यवहार par kuch comments hain, lekin yeh claim ko directly support nahi karte hain.",
+    "Prediction": "REFUTES",
+    "Justification": "Retrieved evidence, particularly Source 2, discusses the chaos in Parliament and the debate over the conduct of the opposition leader, but it does not support the claim that the opposition only sends spokespersons to spread lies on TV. Instead, it highlights ongoing discussions and accusations regarding the opposition's role in parliamentary proceedings. Therefore, the evidence directly contradicts the core assertion of the claim."
+  },
+  {
+    "ID": "S2/T/CM/1057",
+    "Evidence": "BJP leader Nazia Elahi Khan called for Hindus to boycott Muslims from government and private sector jobs for 2-3 years, claiming security concerns and questioning Muslim patriotism (Source 2). This call for boycott is described as unconstitutional and discriminatory, with opposition leaders condemning it as a dangerous act that undermines democracy and communal harmony (Source 1). The BJP's actions are seen as weaponizing Muslims for political gain, with Congress leaders urging the need to address the challenges faced by Muslims (Source 1).",
+    "Prediction": "SUPPORTS",
+    "Justification": "The retrieved evidence supports the claim that the BJP is engaging in a boycott of Muslims for political purposes. Specifically, the call by a BJP leader to boycott Muslims from jobs and the condemnation of this action as unconstitutional and divisive directly corroborate the assertion that the BJP is using Muslims as a political tool while portraying them as a threat to Hindus. This aligns with the claim's core assertion."
+  },
+  {
+    "ID": "S2/T/CM/1058",
+    "Evidence": "Source 1 mein Sanjay Singh ka video hai jo social media par viral ho raha hai. Ismein kaha gaya hai ki wo ticket black marketers ke liye ek politician hain. Yeh bhi kaha gaya hai ki agar kuch paise diye jayein to wo Khujliwal aur baba ke liye gaana gaayenge.",
+    "Prediction": "REFUTES",
+    "Justification": "Retrieved evidence se yeh pata chalta hai ki Sanjay Singh ko ticket black marketers se joda gaya hai, lekin yeh claim ki sarkar ya Khujliwal ka ismein koi direct involvement hai, uska koi saboot nahi hai. Source 1 sirf yeh batata hai ki wo ek politician ke liye kaam karte hain, par yeh claim ko support nahi karta ki Khujliwal ka ismein koi role hai."
+  },
+  {
+    "ID": "S2/T/CM/1059",
+    "Evidence": "Retrieved evidence does not provide any direct information about the claim regarding respect for PM or educated individuals. Source 1 discusses respecting blind people for their character, Source 2 focuses on Shayari related to big brothers, and Source 3 is about a video without relevant content. None of the sources substantiate the assertion of educated individuals showing respect for their PM or claiming superiority based on education.",
+    "Prediction": "REFUTES",
+    "Justification": "The retrieved evidence does not support the claim that educated individuals are demonstrating respect for their PM or showcasing their greatness. Source 1 emphasizes respect for blind individuals based on their heart, while Source 2 and Source 3 do not address the claim at all. Therefore, the evidence directly contradicts the core assertion of the claim."
+  },
+  {
+    "ID": "S2/T/CM/1060",
+    "Evidence": "Retrieved evidence does not mention anything about a clock tower in Ghaziabad resembling London's Big Ben. Source 1 shows a video related to Ghaziabad but does not provide specific details about a clock tower. Source 2 discusses time differences between Varanasi and London but does not relate to any clock tower. Source 3 is a video update about Ghaziabad and Varanasi but lacks relevant information about a clock tower or comparison to Big Ben.",
+    "Prediction": "REFUTES",
+    "Justification": "Claim ke core assertion ke liye koi direct evidence nahi hai jo Ghaziabad mein ek ghanta ghar ko London ke Big Ben jaisa batata ho. Retrieved evidence mein sirf Ghaziabad aur Varanasi ke baare mein general information hai, lekin ghanta ghar ya Big Ben ka koi zikr nahi hai. Isliye, claim ko refute kiya jata hai."
+  },
+  {
+    "ID": "S2/T/CM/1061",
+    "Evidence": "Source 1 mentions Rahul Gandhi as a brand ambassador for the Congress party, indicating he is actively involved. However, Source 3 refers to Rahul and Congress as 'the biggest brand ambassadors of lies, deceit,' which suggests a negative connotation rather than a supportive role. Source 2 discusses Rahul Gandhi's potential role as a brand ambassador for the Commonwealth Games, but does not confirm his current status with the Congress party.",
+    "Prediction": "REFUTES",
+    "Justification": "The retrieved evidence indicates that while Source 1 supports the idea of Rahul Gandhi being a brand ambassador for Congress, Source 3 contradicts this by labeling him and the party negatively. This contradiction undermines the claim that he is actively working as a brand ambassador for the Congress party. Therefore, the evidence does not substantiate the claim."
+  },
+  {
+    "ID": "S2/T/CM/1062",
+    "Evidence": "Retrieved evidence does not provide any specific information about Chitra Ji's statements or actions regarding Hindu-Muslim topics. Source 1 mentions that no religion teaches hatred, but does not directly address Chitra Ji's behavior. Source 2 and Source 3 do not contain relevant content related to the claim about her channel or her discussions on Hindu-Muslim issues.",
+    "Prediction": "REFUTES",
+    "Justification": "Retrieved evidence does not support the claim that Chitra Ji speaks negatively about Hindu-Muslim relations on her channel. Source 1 states that no religion teaches hatred, which contradicts the assertion that she promotes division. The other sources do not provide any relevant information about her discussions, thus failing to substantiate the claim."
+  },
+  {
+    "ID": "S2/T/CM/1063",
+    "Evidence": "Mount Kailash is considered the abode of Lord Shiva and holds significant spiritual importance in Hinduism, Buddhism, Jainism, and Bon (Source 2). It is a sacred pilgrimage site where many people visit for spiritual solace and to connect with its transcending energy (Source 2). The mountain remains unclimbed due to its religious significance, and the pilgrimage involves trekking towards Lake Mansarovar and circumambulating Mount Kailash (Source 1). The idea of pilgrimage is to subdue oneself and connect with the spiritual essence of the place (Source 3).",
+    "Prediction": "SUPPORTS",
+    "Justification": "The retrieved evidence directly supports the claim by stating that Mount Kailash is the abode of Lord Shiva and is a significant pilgrimage site for many, where people seek spiritual connection. Sources 2 and 3 emphasize the spiritual importance of Kailash and the nature of pilgrimage, aligning with the claim about Kailash ji and his connection to his followers and the sacredness of the site."
+  },
+  {
+    "ID": "S2/T/CM/1064",
+    "Evidence": "Mamata Banerjee lost her own seat of Bhabanipur in the recent elections, which indicates a significant defeat on her home turf. This loss is highlighted in Source 2, where it is specifically mentioned that she was unable to secure her own constituency. Additionally, Source 3 discusses the effectiveness of the BJP's campaign in Bengal, suggesting that their strategy contributed to her defeat. Overall, these sources confirm that Mamata faced a substantial setback in an area she was expected to dominate.",
+    "Prediction": "SUPPORTS",
+    "Justification": "Retrieved evidence clearly states that Mamata Banerjee lost her own seat in Bhabanipur, which is her favorite turf, thus supporting the claim. Source 2 directly mentions her loss, while Source 3 attributes this defeat to the successful campaign of the BJP, reinforcing the assertion that she lost in a crucial area. Therefore, the evidence substantiates the claim that she faced a significant defeat in the Lok Sabha elections."
+  },
+  {
+    "ID": "S2/T/CM/1065",
+    "Evidence": "Source 1 discusses the ability to identify someone's caste with a single word, indicating a strong awareness of caste identity. Source 2 addresses how to describe someone who believes strongly in the caste system, suggesting that caste plays a significant role in social interactions. Source 3 is unrelated to caste and focuses on a personal relationship message. Overall, the evidence highlights the importance of caste in social contexts, but does not directly address the claim about the emotional impact on those affected by caste dynamics.",
+    "Prediction": "REFUTES",
+    "Justification": "Retrieved evidence from Source 1 and Source 2 indicates that caste identity is recognized and significant in social interactions, but it does not support the claim that those who are affected by caste dynamics should not be involved with others. The evidence does not substantiate the assertion that people should not care about caste-related issues or the feelings of those impacted by it."
+  },
+  {
+    "ID": "S2/T/CM/1066",
+    "Evidence": "Retrieved evidence does not provide any specific information about the salary of MLAs or any claims regarding their salary increases. Source 1 is a YouTube link that does not contain relevant content, Source 2 is an Instagram link that also lacks specific details about MLA salaries, and Source 3 is a dictionary definition of 'increased' without any context related to MLA salaries. Therefore, there is no evidence to support or refute the claim about MLA salaries being too high or the notion of them being 'aam aadmi'.",
+    "Prediction": "REFUTES",
+    "Justification": "The retrieved evidence does not substantiate the claim regarding MLA salaries or their implications about being 'aam aadmi'. Source 1 and Source 2 do not provide relevant information about salary figures, and Source 3 is unrelated to the claim. Thus, the evidence fails to support the assertion made in the claim."
+  },
+  {
+    "ID": "S2/T/CM/1067",
+    "Evidence": "Amit Shah criticized Arvind Kejriwal's claims about Delhi government schools, stating that BJP MPs found them in a 'miserable' condition, which he argued exposed Kejriwal's 'education revolution' claims (Source 2). Kejriwal invited Shah to see the schools himself, but Shah's response was to highlight the poor state of these schools (Source 1). Shah also accused Kejriwal of focusing on personal luxury rather than infrastructure (Source 3). Kejriwal defended his education reforms, attributing success to the efforts of students and teachers, and called Shah's accusations false (Source 2).",
+    "Prediction": "REFUTES",
+    "Justification": "The retrieved evidence shows that Amit Shah directly challenged Kejriwal's claims about education reforms and the condition of schools, stating they were in 'miserable' condition (Source 2). Kejriwal's defense did not substantiate the claim that he provided significant educational improvements, as Shah's criticisms were based on firsthand observations by BJP MPs (Source 1). Therefore, the evidence refutes the claim that Kejriwal's actions equate to genuine educational progress."
+  },
+  {
+    "ID": "S2/T/CM/1068",
+    "Evidence": "Pakistan ka itihas 1947 mein Bharat ke partition se shuru hota hai, jab Muslim-majority state banayi gayi thi. Yeh do hisson mein thi, jo 1971 mein East Pakistan ke Bangladesh banne ke saath alag ho gayi. Pakistan ki vikas mein Islamist violence aur arthik rukawat aati rahi hain, aur India ke saath sambandh aksar tanav bhare rahte hain (Source 1).",
+    "Prediction": "REFUTES",
+    "Justification": "Claim ke anusar, Pakistan wale apne hain aur unka koyla ko doodh se dhone par bhi safeed nahi hoga, jo ki unki asli soorat ko darshata hai. Lekin, retrieved evidence mein Pakistan ke vikas aur sambandhon ki samasyaon ka zikr hai, jo is claim ko contradict karta hai. Pakistan ki asli sthiti aur samasyaon ko samajhne par yeh claim sahi nahi lagta, isliye yeh refute hota hai."
+  },
+  {
+    "ID": "S2/T/CM/1069",
+    "Evidence": "Disaster Unemployment Assistance (DUA) ek federal program hai jo un logon ko temporary benefits provide karta hai jinki employment ya self-employment major disaster ke direct result mein khatam ho gayi hai aur jo regular unemployment insurance ke liye eligible nahi hain (Source 3). DUA ke liye eligibility tab hoti hai jab kisi ne employment khoya ho ya unki employment disaster ke wajah se interrupt hui ho (Source 2). DUA ka purpose hai un logon ki madad karna jo disaster ke wajah se unemployed hain (Source 1).",
+    "Prediction": "SUPPORTS",
+    "Justification": "Retrieved evidence se yeh pata chalta hai ki Disaster Unemployment Assistance (DUA) un logon ke liye hai jo economic disaster ke baad bhi unemployed hain aur jo regular unemployment benefits ke liye qualify nahi karte. Iska matlab hai ki economic disaster ke baad bhi logon ko financial support milta hai, jo claim ke assertion ko support karta hai. Evidence mein DUA ke eligibility criteria aur purpose clearly mention kiye gaye hain, jo claim ko corroborate karte hain."
+  },
+  {
+    "ID": "S2/T/CM/1070",
+    "Evidence": "Retrieved evidence does not mention any specific CSR projects related to smog towers or the Jan Rasoi initiative. Source 1 discusses the installation of smog towers in Delhi but does not link them to any specific funding from MPs or the central government. Source 2 and Source 3 provide historical and geographical information about Ghazipur but do not address the claim regarding government funding or special projects related to the landfill or smog towers.",
+    "Prediction": "REFUTES",
+    "Justification": "The retrieved evidence does not substantiate the claim that the smog tower project or Jan Rasoi is funded by the Delhi or central government through MP funds. Source 1 only mentions the smog tower installation without detailing funding sources or specific projects. Sources 2 and 3 focus on Ghazipur's history and geography, failing to provide any relevant information about the claim's assertions."
+  },
+  {
+    "ID": "S2/T/CM/1071",
+    "Evidence": "Allah ki maafi be had hai, aur wo apne bandon ki galtiyon ko maaf karne ke liye tayyar hai. Source 2 mein kaha gaya hai ki Allah ne apne bandon ko tauba karne aur maafi maangne ka hukm diya hai, aur wo unki tauba ko qabool karne ka waada karta hai, chahe unke gunah kitne bhi bade kyun na ho. Allah ne kaha hai, 'O mere bandon jo apne khilaf ghamand karte ho, Allah ki rahmat se umeed mat chhodo. Beshak, Allah sabhi gunahon ko maaf kar deta hai.' Yeh sab Allah ki maafi aur uski rahmat ko darshata hai.",
+    "Prediction": "SUPPORTS",
+    "Justification": "Yeh saboot yeh darshata hai ki Allah sabhi gunahon ko maaf karne ke liye tayyar hai, jo claim ke core assertion ko support karta hai. Source 2 mein Allah ki maafi ki be had hone ki baat ki gayi hai, aur yeh bhi kaha gaya hai ki Allah apne bandon ki tauba ko qabool karta hai. Isliye, retrieved evidence se yeh saaf hai ki Allah sabse maaf karne wala hai, jo claim ko support karta hai."
+  },
+  {
+    "ID": "S2/T/CM/1072",
+    "Evidence": "Retrieved evidence shows that PM Anthony Albanese charged taxpayers over $1.8 million for travel costs and expenses in just three months (Source 2 and Source 3). Additionally, during a trip, he spent $160K on food (Source 1). There is no mention of him allocating funds for the welfare of the poor or that the poor are receiving ration and subsidies due to his travel expenses. Instead, the evidence highlights significant expenditures rather than savings or reallocations for public welfare.",
+    "Prediction": "REFUTES",
+    "Justification": "Retrieved evidence directly contradicts the claim. It states that the PM incurred substantial travel costs, totaling over $1.8 million, and spent $160K on food, which does not support the assertion that he spends very little on travel and allocates the rest for the welfare of the poor. There is no evidence provided that connects his travel expenses to the provision of ration and subsidies for the poor."
+  },
+  {
+    "ID": "S2/T/CM/1073",
+    "Evidence": "Retrieved evidence does not provide any information regarding the claim about a mother and brother-in-law's actions or any related family dynamics. Source 1 discusses a father causing harm to his daughter, while Source 2 is an Instagram reel without relevant context. Source 3 is a PDF titled 'Bap Beti Sex Story' but does not clarify the claim's assertion. None of the sources substantiate the claim's core assertion about family behavior or moral judgments.",
+    "Prediction": "REFUTES",
+    "Justification": "Retrieved evidence does not support the claim's assertion about family actions and moral judgments. Source 1 discusses a father harming his daughter, which contradicts the claim's context of familial relationships. Sources 2 and 3 do not provide relevant information to substantiate the claim. Therefore, the evidence directly refutes the claim."
+  },
+  {
+    "ID": "S2/T/CM/1074",
+    "Evidence": "Ahmed Patel criticized PM Modi's policies on Pakistan, calling them hypocritical in a series of tweets (Source 1). He stated that labeling ideological opponents as terrorists is treasonous and emphasized that the Congress party does not use undignified remarks against opponents (Source 1). However, there is no evidence in the retrieved sources that directly states Ahmed Patel was jailed due to PM Modi's actions (Sources 2 and 3). Instead, PM Modi expressed condolences upon Patel's death, acknowledging his contributions to the Congress party (Sources 2 and 3).",
+    "Prediction": "REFUTES",
+    "Justification": "The retrieved evidence shows that Ahmed Patel criticized PM Modi but does not support the claim that Patel was jailed because of Modi. Sources 2 and 3 focus on Modi's condolences for Patel's death and do not mention any jail time related to Modi's actions. Therefore, the claim is not substantiated by the evidence."
+  },
+  {
+    "ID": "S2/T/CM/1075",
+    "Evidence": "Hazrat Abdullah bin Umar radiallahu anhuma sahabi the aur umr me senior the Hasnain Kareemain se, to unhone arz kiya apne abbajaan se. Abdullah bin Umar ko Rasulullah ﷺ ke saath gazwat me talwar chalane ka mauka nahi mila, lekin unka junoon aur talash hamesha thi ki wo Rasulullah ﷺ ke saath ho. Unka naam unke father Hazrat Umar ke saath bhi aata hai, jo ke ek mashhoor sahabi the (Source 1, 2).",
+    "Prediction": "SUPPORTS",
+    "Justification": "Retrieved evidence confirms that Hazrat Abdullah bin Umar was indeed a sahabi and senior in age to Hasnain Kareemain, as stated in Source 1. It also mentions his eagerness to participate in battles under the leadership of Rasulullah ﷺ, aligning with the claim's assertion about his involvement in gazwat. Therefore, the evidence directly supports the claim regarding his status and actions."
+  },
+  {
+    "ID": "S2/T/CM/1076",
+    "Evidence": "Source 2 discusses how Hindus, despite being a majority, face significant threats and violence, indicating that their lives are undervalued. It mentions the psychological branding that has led to a perception of Hindus as responsible for violence against them. Source 3 states that secularism in India has been associated with negative views towards Hinduism, suggesting that Hindus are not thriving under the current secular framework. Overall, the evidence highlights the struggles and dangers faced by Hindus, contradicting the claim that they are living better lives due to secularism.",
+    "Prediction": "REFUTES",
+    "Justification": "The retrieved evidence from Source 2 and Source 3 directly contradicts the claim that Hindus are living better lives due to secularism. Source 2 illustrates that Hindus face violence and their lives are devalued, while Source 3 indicates that secularism has fostered negative perceptions of Hinduism. Therefore, the evidence shows that the situation for Hindus is not improved by secularism, refuting the claim."
+  },
+  {
+    "ID": "S2/T/CM/1077",
+    "Evidence": "Retrieved evidence does not mention Dhruv Rathee going to China or Canada, nor does it reference Khalistani individuals. Source 1 discusses Rathee's political views and criticism of Arvind Kejriwal and Modi, but does not address travel or affiliations. Source 2 is a ghazal and Source 3 contains song lyrics, neither of which relate to the claim about Rathee's travel or connections to Khalistanis.",
+    "Prediction": "REFUTES",
+    "Justification": "The retrieved evidence does not support the claim that Rathee should go to Canada or that he has any connection to Khalistani individuals. Source 1 focuses on Rathee's political commentary without mentioning travel or affiliations. Sources 2 and 3 are unrelated to the claim. Therefore, the evidence directly contradicts the assertion made in the claim."
+  },
+  {
+    "ID": "S2/T/CM/1078",
+    "Evidence": "Source 2 states कि कुछ दलित अपने को हिन्दू नहीं मानते और यह भी कहा गया है कि जो दलित ऐसा करते हैं, उन्हें अपना नाम बदलने और आरक्षण छोड़ने के लिए कहा गया है। Source 1 में एक दलित व्यक्ति ने कहा कि वह हिन्दू है और दलित नहीं है। यह दर्शाता है कि कुछ दलित खुद को नास्तिक मानते हैं और हिन्दू पहचान से दूर रहना चाहते हैं।",
+    "Prediction": "SUPPORTS",
+    "Justification": "Retrieved evidence से स्पष्ट है कि कुछ दलित अपने को हिन्दू नहीं मानते और खुद को नास्तिक मानते हैं, जैसा कि Source 2 में कहा गया है। Source 1 में भी एक दलित व्यक्ति ने हिन्दू पहचान को स्वीकार किया है, लेकिन यह भी दिखाता है कि दलित समुदाय में विभिन्न दृष्टिकोण हैं। इस प्रकार, यह claim का core assertion को corroborate करता है।"
+  },
+  {
+    "ID": "S2/T/CM/1079",
+    "Evidence": "Punjab mein BJP ke leaders ko public mein maar peet ka samna karna pad raha hai, aur unki jaan ko khatra hai (Source 1). BJP workers demoralized hain aur unhe social boycott ka samna karna pad raha hai (Source 1). Anil Joshi ne kaha ki koi bhi BJP ka jhanda nahi utha sakta Punjab mein (Source 1). Iske alawa, BJP ke leaders ko farmers ke protests ke liye kuch nahi kehne diya gaya hai (Source 1). Punjab ki situation kharab hai aur log BJP ke khilaf protest kar rahe hain (Source 1).",
+    "Prediction": "SUPPORTS",
+    "Justification": "Retrieved evidence se yeh pata chalta hai ki Punjab mein BJP ki situation bohot kharab hai. Anil Joshi ne kaha hai ki koi bhi BJP ka jhanda nahi utha sakta, aur BJP workers ko public mein maar peet ka samna karna pad raha hai. Yeh sab kuch is claim ko support karta hai ki Punjab mein situation kharab ho rahi hai aur log BJP ko chhod rahe hain. Isliye, yeh claim sahi hai."
+  },
+  {
+    "ID": "S2/T/CM/1080",
+    "Evidence": "2014 me, Republicans ne Congress ke elections me significant gains kiye, jisme unhone 16 seats Democratic se jeeti aur total 247 seats par control hasil kiya, jo 1928 ke baad unka sabse bada majority hai (Source 3). Is election ke natije me, Democratic Party ne 77 seats khoyi, jo Barack Obama ke presidency ke dauran sabse zyada hai (Source 3). Mehngai par control ka koi specific reference nahi hai, lekin elections ke natije se pata chalta hai ki logon ka dissatisfaction tha (Source 3).",
+    "Prediction": "REFUTES",
+    "Justification": "Retrieved evidence se yeh pata chalta hai ki 2014 ke elections me Republicans ne Congress me control hasil kiya, jo mehngai par control nahi karne ka ek natija ho sakta hai. Lekin, evidence me mehngai par control na karne ka koi direct sambandh nahi hai, isliye claim ko support nahi milta. Isliye, yeh claim refute hota hai."
+  },
+  {
+    "ID": "S2/T/CM/1081",
+    "Evidence": "Retrieved evidence does not discuss any specific comments made by communists about China or any related political stance. Source 1 talks about feelings towards criticism of communist figures but does not mention China or any specific individuals. Source 2 and Source 3 are Instagram posts that do not provide relevant information regarding the claim about communists and China.",
+    "Prediction": "REFUTES",
+    "Justification": "Retrieved evidence does not support the claim that communists in India do not criticize China. Source 1 discusses emotions related to criticism of communists but does not address the specific issue of criticism towards China. Sources 2 and 3 are unrelated Instagram content. Therefore, the evidence fails to substantiate the claim's assertion."
+  },
+  {
+    "ID": "S2/T/CM/1082",
+    "Evidence": "Retrieved evidence does not provide any information about political power struggles or family conflicts. Source 1 discusses a game show called 'Fighting Families' that involves physical competitions. Source 2 is a YouTube short with no relevant content related to family or power struggles. Source 3 mentions a TikTok meme but does not address the claim's assertion about political or familial conflicts. Overall, the evidence does not support the claim that individuals are only fighting for their power and family.",
+    "Prediction": "REFUTES",
+    "Justification": "Retrieved evidence does not substantiate the claim that individuals are engaged in conflicts solely for their power and family. Source 1 focuses on a game show, while Source 2 and Source 3 do not provide relevant context about political or familial struggles. Therefore, the evidence directly contradicts the claim's core assertion."
+  },
+  {
+    "ID": "S2/T/CM/1083",
+    "Evidence": "BJP Uttar Pradesh ki sarkar ne divisive politics aur sectarian agenda ke liye criticize kiya gaya hai, jisse minorities ko sidelined kiya ja raha hai (Source 2). Yogi Adityanath ne majority Hindu community ko appeal karne ke liye policies introduce ki hain, jo unki political strategy ka hissa hai (Source 2). BJP ki leadership ne apne majoritarianism ko openly accept kiya hai, jo secular principles ke khilaf hai (Source 2). Uttar Pradesh ki sarkar ne Kanwarias ke liye ek order issue kiya tha, jo social segregation ko promote karta hai, isse opposition parties ne condemn kiya (Source 2).",
+    "Prediction": "REFUTES",
+    "Justification": "Retrieved evidence se yeh pata chalta hai ki BJP ki sarkar ne divisive politics aur sectarian agenda ko promote kiya hai, jo minorities ko sidelined karta hai. Yogi Adityanath ki policies majority Hindu community ko appeal karne ke liye hain, jo secular principles ke khilaf hai. Isliye, claim ki core assertion ki BJP party achi hai, yeh evidence se contradict hoti hai, kyunki BJP ki actions aur policies divisive aur non-secular hain (Source 2)."
+  },
+  {
+    "ID": "S2/T/CM/1084",
+    "Evidence": "Source 1 discusses how Allah does not punish His beloveds, suggesting that hardships are not a sign of abandonment. Source 2 emphasizes love through suffering, indicating that challenges can lead to growth and deeper faith. Source 3 states that Allah shows love by sending hardships to teach patience and trust, implying that these experiences are part of a divine plan rather than neglect. Overall, the evidence suggests that difficulties are not a reason to forget one's faith or connection with Allah, but rather a means to strengthen it.",
+    "Prediction": "SUPPORTS",
+    "Justification": "Retrieved evidence from Source 1 and Source 2 indicates that hardships are not a sign of Allah's neglect but rather a way to foster love and growth in faith. Source 3 reinforces this by explaining that challenges are meant to teach patience and trust in Allah. Therefore, the claim that Ali forgets his rub is countered by the notion that such experiences are integral to spiritual development, supporting the idea that one should remain hopeful and connected through prayer."
+  },
+  {
+    "ID": "S2/T/CM/1085",
+    "Evidence": "Delhi High Court ne Saket Gokhale ko directive diya tha ki woh apne tweets delete karein jo Lakshmi Puri ke khilaf the, jismein unhone Puri par corruption ke allegations lagaye the (Source 1). Court ne Gokhale ko yeh bhi kaha ki agar woh comply nahi karte, toh Twitter ko unke tweets hataane ke liye kaha jayega (Source 3). Gokhale ko defamation case mein guilty paya gaya aur unhe apology dene aur damages pay karne ka order diya gaya (Source 2). Court ne warning di thi ki agar Gokhale comply nahi karte, toh unhe jail bhi ho sakti hai (Source 2).",
+    "Prediction": "SUPPORTS",
+    "Justification": "Retrieved evidence se yeh saaf hai ki Saket Gokhale ko court ne apne tweets delete karne ka order diya tha aur unhe defamation case mein guilty paya gaya. Court ne unhe warning di thi ki agar woh orders ka palan nahi karte, toh unhe jail ho sakti hai. Yeh sab points claim ke assertion ko support karte hain ki Gokhale ko court ne dhoya aur unhone apne tweets delete kiye, warna unhe bhari fine dena padta."
+  },
+  {
+    "ID": "S2/T/CM/1086",
+    "Evidence": "Retrieved evidence does not provide any information regarding the criminal cases against MLAs or councillors, nor does it mention corruption or threatening calls. Source 1 discusses the misconception about becoming a politician, Source 2 clarifies the differences between political positions, and Source 3 shows an MLA receiving a welcome, none of which relate to the claims made.",
+    "Prediction": "REFUTES",
+    "Justification": "Retrieved evidence directly contradicts the claim's assertion about criminal cases and corruption involving MLAs and councillors. Sources 1, 2, and 3 do not mention any criminal activities or corruption related to the mentioned individuals, nor do they support the idea of threatening calls. Therefore, the claim is not substantiated by the retrieved evidence."
+  },
+  {
+    "ID": "S2/T/CM/1087",
+    "Evidence": "Retrieved evidence does not mention Zardari or any specific interactions with a president's house. Source 1 discusses a personal experience at the White House during Reagan's administration, while Source 3 reflects on Chelsea Clinton's experiences in the White House, emphasizing that it is a temporary home for presidential families. There is no reference to Zardari's status or treatment in the context of the president's house or any specific permissions regarding meetings.",
+    "Prediction": "REFUTES",
+    "Justification": "The retrieved evidence does not support the claim that Zardari was not given a special place in the president's house or that he was denied permission to meet. Sources focus on personal experiences in the White House without mentioning Zardari or his interactions, thus directly contradicting the claim's assertion."
+  },
+  {
+    "ID": "S2/T/CM/1088",
+    "Evidence": "Imran Khan ne baar baar kaha hai ke wo apne logon aur mulk ke liye kisi bhi qurbani dene ko tayyar hain. Unka 'azm' yaani unki bepanah himmat is baat ka saboot hai (Source 1). Unhone yeh bhi kaha hai ke asal azaadi ke liye qurbani deni padegi (Source 3). Lekin, evidence mein kisi bhi tarah se unki corruption ya beghairati ka zikar nahi hai, sirf unki qurbani aur azm ka zikr hai.",
+    "Prediction": "REFUTES",
+    "Justification": "Retrieved evidence sirf Imran Khan ki qurbani aur unki himmat ko darshata hai, lekin ismein unki corruption ya beghairati ka koi saboot nahi hai. Isliye, claim jo unhe ghatia shaks aur corrupt kehlata hai, uska koi sahara nahi milta. Evidence ke mutabiq, unki qurbaniyon ko appreciate karne ki zarurat hai, jo claim ke core assertion ko refute karta hai."
+  },
+  {
+    "ID": "S2/T/CM/1089",
+    "Evidence": "Source 1 mentions that hatred has always existed but has been more visible in the last four years, suggesting that the claim about people supporting hatred is not entirely accurate. Source 2 and Source 3 do not provide relevant information regarding the claim about hatred and support for 'hutiyoon'.",
+    "Prediction": "REFUTES",
+    "Justification": "Retrieved evidence from Source 1 indicates that while there is a perception of increased hatred, it has always been present and is not solely due to support for 'hutiyoon'. This contradicts the claim that people are supporting hatred due to a decline in their values. Therefore, the evidence refutes the assertion made in the claim."
+  },
+  {
+    "ID": "S2/T/CM/1090",
+    "Evidence": "Jammu and Kashmir is a union territory of India, previously a state until October 31, 2019. It is located in the northern part of the Indian subcontinent, with Jammu as its winter capital. The region has a rich history and is known for its mountainous terrain and diverse geography, including the Himalayas and the Vale of Kashmir. The area has been a subject of dispute between India, Pakistan, and China since 1947. The retrieved evidence does not mention any specific trends or the TLP team.",
+    "Prediction": "REFUTES",
+    "Justification": "The retrieved evidence does not support the claim regarding the TLP team or any trends associated with it. It focuses on the geographical and historical context of Jammu and Kashmir without mentioning any specific events or achievements related to the TLP team, thus refuting the claim."
+  },
+  {
+    "ID": "S2/T/CM/1091",
+    "Evidence": "Retrieved evidence does not provide any relevant information regarding the claim about merit disqualification or any related issues. Source 1 is an Instagram post with no context provided. Source 2 is a YouTube video link with no content summary. Source 3 is a Reddit link that does not contain any specific information related to the claim. Therefore, none of the sources substantiate the assertion made in the claim.",
+    "Prediction": "REFUTES",
+    "Justification": "Retrieved evidence does not support the claim's assertion about merit disqualification or related demands. Source 1, Source 2, and Source 3 do not contain any relevant content that addresses the claim's core points. Since the evidence fails to substantiate the claim, it directly contradicts the assertion made, leading to the conclusion that the claim is refuted."
+  },
+  {
+    "ID": "S2/T/CM/1092",
+    "Evidence": "Source 1 discusses petrol and diesel prices, suggesting that the government can control these prices, but does not mention voting related to Hindu Rashtra. Source 2 expresses a desire for India to be declared a Hindu Rashtra and critiques the secular state, but does not connect this to voting behavior regarding petrol or diesel. Source 3 contains various opinions on Hindu Rashtra but does not address the claim about voting for resources or rights. Overall, none of the sources substantiate the claim about voting specifically for Hindu Rashtra or resources like petrol and diesel.",
+    "Prediction": "REFUTES",
+    "Justification": "The retrieved evidence does not support the claim that votes were cast specifically for Hindu Rashtra or for resources like petrol and diesel. Source 1 focuses on government control of fuel prices without linking it to voting intentions. Source 2 and Source 3 discuss the concept of Hindu Rashtra but do not connect it to the act of voting for resources or rights. Therefore, the claim is not substantiated by the evidence."
+  },
+  {
+    "ID": "S2/T/CM/1093",
+    "Evidence": "Retrieved evidence does not provide any information regarding the claim about money distribution or the prices of wheat and rice. Source 1 discusses gratitude for what one has, while Source 2 and Source 3 focus on coins and currency notes without addressing the specific claims made about the 500 rupee calendar, 1000 rupee exchange, or the prices of wheat and rice. There is no mention of any deceptive practices or manipulation of money as suggested in the claim.",
+    "Prediction": "REFUTES",
+    "Justification": "The retrieved evidence does not substantiate the claim's assertion about financial manipulation or the specific prices of wheat and rice. Source 1 emphasizes gratitude, while Sources 2 and 3 focus on currency without addressing the claim's core points. Therefore, the evidence directly contradicts the claim's assertions."
+  },
+  {
+    "ID": "S2/T/CM/1094",
+    "Evidence": "Source 1 describes a Muslim woman who faced discrimination and hostility while shopping, emphasizing her protective instincts towards her daughter. She expresses anger at the disrespect shown to her child and asserts her rights as a mother. The narrative highlights her determination to stand up against ignorance and defend her family, reflecting a broader theme of familial loyalty and the challenges faced by Muslims in society. Source 2 and Source 3 do not provide relevant information to the claim.",
+    "Prediction": "SUPPORTS",
+    "Justification": "The retrieved evidence from Source 1 supports the claim by illustrating a mother's protective attitude towards her daughter in the face of hostility, aligning with the assertion about trusting one's family over external opinions. The woman's response to the aggressor shows her commitment to her child's safety and well-being, reinforcing the idea of familial loyalty emphasized in the claim."
+  },
+  {
+    "ID": "S2/T/CM/1095",
+    "Evidence": "Retrieved evidence does not contain any direct reference to Shafiq's statement about adding 'Khan' to names for job opportunities or its relevance to the 2021 elections. Source 1 is an Instagram post without context related to the claim. Source 2 and Source 3 are LinkedIn profiles of Shafiq Khan, detailing his professional roles but lacking any mention of the claim's content regarding job seeking or elections.",
+    "Prediction": "REFUTES",
+    "Justification": "Retrieved evidence does not support the claim that Shafiq stated adding 'Khan' to names could help in job seeking or was relevant to the 2021 elections. The sources focus on his professional background and social media presence without addressing the claim's assertion. Therefore, the evidence directly contradicts the claim."
+  },
+  {
+    "ID": "S2/T/CM/1096",
+    "Evidence": "Source 1 reports a terrorist attack in Kashmir where over 20 tourists were feared dead, indicating ongoing violence in the region. Source 2 features a statement from a terrorist advocating for violence against Hindus as a means to achieve freedom for Kashmir, reflecting a militant perspective. Source 3 discusses Pakistan's financial struggles and its leaders' perceived failures, suggesting a narrative of Pakistan's decline. However, none of the sources confirm the claim that Kashmir is still in India due to Pakistan's bankruptcy or that its leaders are begging for money, nor do they directly address the assertion about the PM's house being rented.",
+    "Prediction": "REFUTES",
+    "Justification": "The retrieved evidence does not support the claim that Kashmir remains in India due to Pakistan's financial state or that its leaders are begging for money. Source 1 discusses a terrorist attack, Source 2 presents a militant's view on violence, and Source 3 mentions Pakistan's economic issues, but none substantiate the claim's core assertion. Therefore, the evidence refutes the claim."
+  },
+  {
+    "ID": "S2/T/CM/1097",
+    "Evidence": "Source 2 mentions that the reservation system is destroying the nation and future, and implies that discussions about removing reservations are politically sensitive. However, there is no explicit mention of providing knowledge or taking action to remove reservations. Source 1 discusses OBCs but does not provide a clear stance on the reservation issue. Source 3 is unrelated to the topic of reservations.",
+    "Prediction": "REFUTES",
+    "Justification": "The retrieved evidence does not support the claim that action should be taken to either provide knowledge or remove reservations. Source 2 indicates a negative view of the reservation system but does not advocate for specific actions as suggested in the claim. Therefore, the evidence fails to substantiate the core assertion of the claim."
+  },
+  {
+    "ID": "S2/T/CM/1098",
+    "Evidence": "Rajasthan ke discoms ne 25 saalon baad bijli tariff cut kiya hai, jisme 0-50 units tak ke liye charge ₹4.75 per unit hai, aur 51-150 units ke liye ₹6.00 per unit kiya gaya hai. 1.35 crore domestic consumers me se 1.04 crore free electricity scheme ke under hain, jisme 62 lakh consumers 0-100 units tak free electricity payenge. Is mahine bijli bill badhne ki koi baat nahi hai, balki kuch categories me tariff ghataye gaye hain (Source 2).",
+    "Prediction": "REFUTES",
+    "Justification": "Retrieved evidence se pata chalta hai ki Rajasthan me bijli tariff ghataye gaye hain, aur kuch consumers ko free electricity mil rahi hai. Isliye, claim ki core assertion ki bijli bill is mahine badhe hain, yeh sahi nahi hai. Source 2 me yeh clearly mention hai ki 0-100 units tak ke liye consumers ko koi bill nahi dena padega, jo claim ko refute karta hai."
+  },
+  {
+    "ID": "S2/T/CM/1099",
+    "Evidence": "Privilege Pass ke liye railway servant ko apne request par privilege pass ya privilege ticket order diya ja sakta hai. Ye pass self, family, dependent relatives aur adopted child ke liye admissible hain (Source 2). Pass ka issue hone ke liye specific conditions aur categories hain jo Schedule-II mein specified hain (Source 2).",
+    "Prediction": "SUPPORTS",
+    "Justification": "Retrieved evidence se ye pata chalta hai ki privilege pass railway servants ko unki request par diya ja sakta hai, jo unke liye aur unki family ke liye bhi applicable hai. Isliye, claim ki core assertion ki ye privilege pass unhe chahiye, isse support milta hai. Source 2 mein iski details di gayi hain, jo claim ko corroborate karti hain."
+  },
+  {
+    "ID": "S2/T/CM/1100",
+    "Evidence": "Retrieved evidence does not provide any information about a person's commitment to not using abusive language towards their parents or their behavior in a branch. Source 1 and Source 2 focus on the definition of 'person' and do not address the claim. Source 3 contains lyrics that do not relate to the claim's assertion about respect for parents or behavior in public settings.",
+    "Prediction": "REFUTES",
+    "Justification": "Retrieved evidence does not support the claim that a person will never abuse their parents or behave inappropriately in public. Sources 1 and 2 define 'person' without addressing the specific behaviors mentioned in the claim. Source 3 contains unrelated lyrics, failing to substantiate the assertion. Therefore, the evidence directly contradicts the claim."
+  },
+  {
+    "ID": "S2/T/CM/1101",
+    "Evidence": "Retrieved evidence does not provide any information regarding Anwar Khan's actions related to electricity rates, contracts, or any financial dealings with the Pakistani public. Source 1 contains poetry and does not address the claim. Source 2 is a media talk but does not mention Anwar Khan's involvement in contracts or electricity rates. Source 3 is about music and does not relate to the claim at all.",
+    "Prediction": "REFUTES",
+    "Justification": "The retrieved evidence does not substantiate the claim about Anwar Khan's involvement in signing contracts related to electricity rates or any financial implications for the Pakistani public. Sources 1, 2, and 3 do not provide relevant information on this matter, thus directly contradicting the claim's core assertion."
+  },
+  {
+    "ID": "S2/T/CM/1102",
+    "Evidence": "Source 1 advises against watching godi media news channels, stating that every view increases their TRP. This implies a lack of trust in these channels for delivering truthful news. Source 2 suggests that truth-telling channels expose the lies of godi media, reinforcing the idea that these channels are not reliable for accurate news. Source 3 does not provide relevant information regarding the trustworthiness of media channels.",
+    "Prediction": "SUPPORTS",
+    "Justification": "Retrieved evidence from Source 1 and Source 2 directly supports the claim that Nirmala Tai does not trust godi media channels for accurate news. Source 1 explicitly states to avoid these channels, indicating a lack of faith in their reporting. Source 2 mentions that truth-telling channels expose the lies of godi media, further corroborating the assertion that one should seek news elsewhere."
+  },
+  {
+    "ID": "S2/T/CM/1103",
+    "Evidence": "India has accused Pakistan of having a 'nefarious agenda' and being a 'pernicious cradle of terrorism' at various international forums, including the UN. India claims Pakistan misuses these platforms to deflect attention from its own human rights violations and terrorism. The Indian representative highlighted Pakistan's systemic persecution of minorities and its role in cross-border terrorism, asserting that Pakistan should focus on its internal issues rather than preach to others about human rights (Source 1, Source 2). Pakistan, in turn, has accused India of manipulating international systems for its own agenda and spreading disinformation (Source 3).",
+    "Prediction": "REFUTES",
+    "Justification": "The retrieved evidence indicates that India accuses Pakistan of having a 'nefarious agenda' and engaging in terrorism, while Pakistan claims India manipulates international systems. This contradicts the claim's assertion that Pakistan is an honest actor needing support. The evidence shows both countries are engaged in mutual accusations, undermining the idea that Pakistan is a 'naik aur honest aadmi' in this context."
+  },
+  {
+    "ID": "S2/T/CM/1104",
+    "Evidence": "Source 2 ke mutabiq, Hazrat Abdullah bin Umar ko 500 dirham diye gaye, jabki Imam Hasan aur Imam Hussain ko 1000 dirham diye gaye. Yeh baat teesre number pe baithne ke baad hui, jab Hazrat Abdullah bin Umar aaye. Yeh sab kuch ek hi context me hua, jahan unko aadhi raqam pesh ki gayi.",
+    "Prediction": "SUPPORTS",
+    "Justification": "Yeh evidence, jo Source 2 se hai, claim ki core assertion ko support karta hai. Isme yeh bataya gaya hai ke Hazrat Abdullah bin Umar ko 500 dirham diye gaye, jabki Imam Hasan aur Imam Hussain ko 1000 dirham diye gaye. Yeh details claim me diye gaye facts ke sath milti hain, isliye yeh claim ko support karta hai."
+  },
+  {
+    "ID": "S2/T/CM/1105",
+    "Evidence": "Source 1 discusses how Khalistani activists in Canada are allegedly targeting new students from Punjab, brainwashing them to support their agenda. It mentions that these activists help students with jobs and accommodation in exchange for support from their families in Punjab. The source also highlights the fear among the majority who oppose Khalistani sentiments, indicating that political patronage allows these activists to operate without opposition. There is no direct mention of Adani or specific harm to local communities in Punjab, nor any reference to Pakistan or China in the context of the claim.",
+    "Prediction": "REFUTES",
+    "Justification": "The retrieved evidence does not support the claim that Khalistani activists are harming their own people or that they are involved in conspiracies with Pakistan or China. Instead, it focuses on the recruitment of students in Canada and the political dynamics surrounding Khalistani activism, without substantiating the specific assertions made in the claim."
+  },
+  {
+    "ID": "S2/T/CM/1106",
+    "Evidence": "Retrieved evidence does not provide any information about corruption or property management related to the claim. It discusses India's geography, population, culture, and history, including its parliamentary government and social structure, but does not mention any specific individuals or their actions regarding corruption or honesty. Source 1 describes India's demographics and governance, Source 2 outlines its geography and social structure, and Source 3 provides historical context and political information, but none address the claim's assertion about a person's integrity or representation of AJK.",
+    "Prediction": "REFUTES",
+    "Justification": "The retrieved evidence does not support the claim that someone is corrupt or that they help their people. It lacks any mention of corruption or specific individuals' actions, focusing instead on general information about India. Therefore, the claim is refuted as the evidence does not substantiate the assertion made."
+  },
+  {
+    "ID": "S2/T/CM/1107",
+    "Evidence": "Retrieved evidence does not provide any direct information regarding the claims about the performance of political parties, electricity in villages, highway construction, or subsidies in accounts. Source 1 discusses the historical context of Punjabi Dalit Christians and their struggles, while Source 2 mentions Punjabi Dalit fiction reaching an English audience, and Source 3 contains unrelated news topics without addressing the claim's core assertions.",
+    "Prediction": "REFUTES",
+    "Justification": "The retrieved evidence does not substantiate the claim's assertions about political parties' effectiveness or specific developments in infrastructure and subsidies. Source 1 focuses on historical struggles of Punjabi Dalit Christians, Source 2 discusses literature, and Source 3 contains unrelated news. Therefore, the evidence fails to support the claim's core assertions."
+  },
+  {
+    "ID": "S2/T/CM/1108",
+    "Evidence": "Urban planning plays a crucial role in economic development by creating a conducive environment for job creation and growth. Source 1 highlights that infrastructure investments, mixed-use zoning, business development incentives, and green spaces can attract businesses and enhance the quality of life. These strategies stimulate local economies and promote sustainable practices. Additionally, creating technology and innovation hubs can drive economic growth by fostering collaboration and attracting industries. Source 3 mentions that a strong downtown can stimulate economic growth, supporting the idea that urban planning can strengthen the urban economy and retain residents.",
+    "Prediction": "SUPPORTS",
+    "Justification": "Retrieved evidence from Source 1 and Source 3 directly supports the claim that urban planning strengthens the economy and retains people in cities. Source 1 outlines various strategies like infrastructure investments and mixed-use zoning that foster economic growth, while Source 3 emphasizes the importance of a strong downtown as a revenue generator. Together, these points corroborate the assertion that urban planning creates a scene for economic vitality and urban retention."
+  },
+  {
+    "ID": "S2/T/CM/1109",
+    "Evidence": "Source 1 emphasizes that not everyone without a job lacks ambition or potential, suggesting that unemployment does not define a person's character. Source 3 discusses the emotional and financial strains of unemployment, particularly on men who feel responsible for their families. It clarifies that the biblical context of providing for one's family does not condemn those who are unemployed due to circumstances beyond their control. This indicates that the claim about unemployed individuals lacking concern for family is not universally true.",
+    "Prediction": "REFUTES",
+    "Justification": "Retrieved evidence from Source 1 and Source 3 indicates that unemployment does not equate to a lack of concern for family or responsibility. Source 1 states that not all unemployed individuals lack ambition, while Source 3 highlights the emotional burden on those unable to provide due to circumstances. Therefore, the claim that unemployed individuals do not care for their families is directly contradicted by the evidence."
+  },
+  {
+    "ID": "S2/T/CM/1110",
+    "Evidence": "Allah is described in the Qurʾān as the one and only God, unique, omnipotent, and all-merciful (Source 1). The Qurʾān emphasizes Allah's singularity and sole sovereignty, known as tawḥīd (Source 2). Allah is seen as the creator and sustainer of the universe, and Muslims believe that He can grant requests and bestow blessings according to His will (Source 3). The Qurʾān contains 99 names that reflect Allah's attributes, including The Merciful and The All-Knowing, indicating His power and mercy (Source 1).",
+    "Prediction": "SUPPORTS",
+    "Justification": "The retrieved evidence directly supports the claim that Allah is capable of granting prayers and is all-powerful. It states that Allah is unique, omnipotent, and all-merciful, which aligns with the assertion that He can bestow blessings according to His will. The Qurʾān's emphasis on Allah's attributes and His role as the creator further corroborates the claim, as mentioned in Sources 1, 2, and 3."
+  },
+  {
+    "ID": "S2/T/CM/1111",
+    "Evidence": "Source 1 discusses protests by Indian Muslim groups against French President Macron, highlighting that these protests were in response to his statements on terrorism and the depiction of Prophet Mohammad. It mentions that protests were limited and that there were calls for restraint from community leaders. Source 2 criticizes Pakistan for fabricating Islamophobia narratives while ignoring its own treatment of minorities. It emphasizes India's pluralistic character and the rights of Muslims in India. Source 3 contains a warning from India's Army Chief to Pakistan regarding terrorism, but does not address the claim directly.",
+    "Prediction": "REFUTES",
+    "Justification": "The retrieved evidence does not support the claim that Muslims in India only protest against perceived slights to their religion while ignoring issues related to terrorism or violence against other groups. Source 1 indicates that protests were in response to specific actions against Muslims, while Source 2 highlights India's commitment to pluralism and the rights of Muslims, contradicting the claim's assertion of selective outrage."
+  },
+  {
+    "ID": "S2/T/CM/1112",
+    "Evidence": "Thakur ek feudal title hai jo India ke Rajput community se juda hai, aur kuch anya communities bhi ise istemal karte hain jaise Bengali Brahmins aur Bhumihars (Source 3). Thakur ka matlab 'god', 'lord', ya 'master of the estate' hai (Source 3). Thakur title ka istemal un logon ke liye hota hai jo landowning caste se hain (Source 3). Is title ka istemal political context mein bhi hota hai, jahan kuch log is title ko apne political identity ke liye istemal karte hain (Source 3). Muslim vote se support lene ki baat claim mein hai, lekin evidence mein is par koi specific reference nahi hai (Source 1, 2, 3).",
+    "Prediction": "REFUTES",
+    "Justification": "Claim mein kaha gaya hai ki Thakur aur Muslim vote se sambandhit ek political identity banani hai, lekin retrieved evidence mein sirf Thakur title aur uski caste associations ke baare mein hi jankari di gayi hai. Evidence mein yeh nahi hai ki Muslim vote se kisi tarah ka sambandh hai ya is par koi political strategy hai. Isliye, claim ka core assertion evidence se support nahi hota, jo ki Thakur title aur caste ke baare mein hi hai."
+  },
+  {
+    "ID": "S2/T/CM/1113",
+    "Evidence": "Sardar Patel ne kaha ki jo Muslims India mein ab bhi hain, un sab ne Pakistan banane mein madad ki. Unhone ye bhi kaha ki unki loyalty par sawaal kyun uthaya ja raha hai, jabki unhe khud apne dil se padhna chahiye. Patel ne ye bhi kaha ki Pakistan aur India ko milne ki baat karne se bachna chahiye, aur unka mazak bhi udhaya. Yeh sab baatein unhone apne speech mein kahi thi (Source 3).",
+    "Prediction": "SUPPORTS",
+    "Justification": "Retrieved evidence se pata chalta hai ki Sardar Patel ne Muslims ki loyalty par sawaal uthaya aur unse kaha ki unhe apne dil se padhna chahiye. Unhone ye bhi kaha ki unhone Pakistan banane mein madad ki thi, jo claim ke core assertion ko support karta hai. Isliye, yeh evidence claim ko support karta hai."
+  },
+  {
+    "ID": "S2/T/CM/1114",
+    "Evidence": "Hate is defined as a negative emotion that can lead to negative behaviors with severe consequences (Source 3). It is linked to poorer health outcomes and can create fear that permeates communities (Source 3). Hatred can be a learned response influenced by external factors (Source 2). It often stems from feelings of fear and vulnerability, leading individuals to act out against perceived threats (Source 1). Hate can create an empty hole in individuals, which they may try to fill with more hate (Source 1).",
+    "Prediction": "REFUTES",
+    "Justification": "The retrieved evidence indicates that hate is a negative emotion that can lead to harmful behaviors and consequences, suggesting that associating oneself with hate (as implied in the claim) results in negative outcomes. Specifically, it states that hate creates fear and can lead to violence, which contradicts the idea that one can benefit from associating with hate. Thus, the evidence refutes the claim."
+  },
+  {
+    "ID": "S2/T/CM/1115",
+    "Evidence": "Source 1 discusses being born to a Hindu mother, while Source 2 reflects on the idea of rebirth without specifying religion. Source 3 mentions that everyone begins in the womb (गर्भ), but does not address love or relationships. None of the sources provide evidence about love between individuals of different religions or the claim about someone being taken away after one day of love.",
+    "Prediction": "REFUTES",
+    "Justification": "Retrieved evidence does not support the claim regarding love between individuals of different religions or the notion that someone would be taken away after a brief relationship. Source 1 and Source 2 focus on birth and rebirth without addressing the dynamics of love or relationships, while Source 3 simply states a biological fact. Therefore, the evidence directly contradicts the core assertion of the claim."
+  },
+  {
+    "ID": "S2/T/CM/1116",
+    "Evidence": "Aldous Huxley ki kitab Brave New World 1932 mein publish hui thi, jo dystopian themes ko explore karti hai (Source 1). Money Heist, jise Netflix par La Casa de Papel ke naam se jaana jaata hai, ek Spanish series hai jo heist genre ko naya roop deti hai aur iski kahani ek son ke apne pita ki maut ka badla lene par kendrit hai (Source 3). Series mein characters ki personal growth aur tragedy ka bhi zikr hai (Source 3).",
+    "Prediction": "SUPPORTS",
+    "Justification": "Retrieved evidence se yeh pata chalta hai ki Ramesh ka kehna sahi hai ki agar koi Aldous Huxley ki Brave New World padhe aur Money Heist dekhe, toh unhe desh ki samasyaon ka samajh aayega. Huxley ki kitab dystopian themes ko explore karti hai, jabki Money Heist mein characters ki personal struggles aur societal issues ko dikhaya gaya hai, jo dono milkar samajh ko gehra banate hain (Source 1 aur Source 3)."
+  },
+  {
+    "ID": "S2/T/CM/1117",
+    "Evidence": "Retrieved evidence does not address the claim about maturity or the behavior of people. Source 1 discusses food suggestions for children in hot weather, such as nimbu pani and fresh fruits. Source 2 focuses on what to eat to stay cool and energized in the heat, without mentioning maturity or social behavior. Source 3 is about gluttony and does not relate to the claim's assertion about maturity or social dynamics. None of the sources provide information that supports or contradicts the claim directly.",
+    "Prediction": "REFUTES",
+    "Justification": "The retrieved evidence does not substantiate the claim regarding maturity or social behavior. Source 1 and Source 2 focus on food suggestions for hot weather, while Source 3 discusses gluttony without any reference to maturity or social interactions. Therefore, the evidence fails to support the claim's core assertion about maturity and social dynamics."
+  },
+  {
+    "ID": "S2/T/CM/1118",
+    "Evidence": "Retrieved evidence does not provide any information about the claim regarding Congress or the assertion that the Congress is liked by the people. Source 1 discusses the dynamics of Congress but does not mention public opinion or the claim's context. Source 2 provides a translation of 'alag kar diya' but is unrelated to the political context. Source 3 mentions lawmakers working across the aisle but does not address the claim about Congress or public sentiment towards it.",
+    "Prediction": "REFUTES",
+    "Justification": "The retrieved evidence does not substantiate the claim that Congress is liked by the people or that it is working to keep people together. Source 1 discusses Congress's productivity without mentioning public opinion, Source 2 is a translation unrelated to the claim, and Source 3 does not address the assertion about Congress's popularity. Therefore, the evidence directly contradicts the claim."
+  },
+  {
+    "ID": "S2/T/CM/1119",
+    "Evidence": "Yogi Adityanath is the Chief Minister of Uttar Pradesh since 2017 and has a significant following. There is mention of a demand for him in Australia, indicating that people outside India are interested in his governance and policies. Source 1 highlights the demand for Yogi Baba in Australia, suggesting that his work is recognized internationally. Source 2 discusses his interaction with the Indian diaspora, which implies that his influence extends beyond India. Source 3 provides background on his political career and popularity, reinforcing the idea that he is a prominent figure.",
+    "Prediction": "SUPPORTS",
+    "Justification": "The retrieved evidence indicates that Yogi Adityanath is recognized and sought after internationally, particularly in Australia, as noted in Source 1. This aligns with the claim that people abroad are interested in his governance and policies. Additionally, Source 2's mention of his interaction with the Indian diaspora supports the assertion that his work is being considered by people outside India. Therefore, the evidence corroborates the claim's core assertion."
+  },
+  {
+    "ID": "S2/T/CM/1120",
+    "Evidence": "TMC, led by Mamata Banerjee, has faced challenges from BJP but has remained a significant political force in West Bengal. Mamata Banerjee's leadership has been pivotal, and she has been re-elected for a third term, indicating strong support for her party. The TMC's campaign focused on local issues and cultural identity, which resonated with voters. Despite allegations of corruption against TMC leaders, Mamata's appeal and strategies have helped maintain her party's influence in the state (Source 3).",
+    "Prediction": "SUPPORTS",
+    "Justification": "The retrieved evidence indicates that Mamata Banerjee and the TMC have maintained significant political influence in West Bengal, overcoming challenges from the BJP. The evidence supports the claim that the TMC party has a strong following and that Mamata Banerjee's leadership is valued, as seen in her re-election and the party's strategies resonating with voters (Source 3). Thus, the claim is corroborated."
+  },
+  {
+    "ID": "S2/T/CM/1121",
+    "Evidence": "Retrieved evidence mein kisi bhi tarah se yeh nahi dikhaya gaya hai ki koi banda bina Gandhi surname ke election jeet sakta hai ya Hindustan ko save kar sakta hai. Source 1 mein ek player ko handle karne ki baat hai, lekin yeh kisi bhi political context se related nahi hai. Source 2 aur Source 3 mein bhi kisi election ya Gandhi surname ka zikr nahi hai, sirf general hiring aur cricket ki baatein hain.",
+    "Prediction": "REFUTES",
+    "Justification": "Claim ke core assertion ko support karne ke liye koi evidence nahi hai. Retrieved evidence mein na toh kisi election jeetne ki baat hai bina Gandhi surname ke, na hi Hindustan ko save karne ki. Source 1, 2, aur 3 mein sirf unrelated topics hain, jo claim ko directly contradict karte hain. Isliye, yeh claim refute hota hai."
+  },
+  {
+    "ID": "S2/T/CM/1122",
+    "Evidence": "Arvind Kejriwal, the Delhi Chief Minister, has been visiting Bengaluru for treatment of a chronic cough and diabetes. He has been battling this cough for years and has lost his voice multiple times. His visits to Bengaluru include stays at the Jindal Naturecure Institute for naturopathy treatment, where he underwent therapy for his cough and diabetes. He has spent significant time in Bengaluru for these health issues, indicating a long-term struggle with his condition (Source 2, Source 3).",
+    "Prediction": "SUPPORTS",
+    "Justification": "The retrieved evidence confirms that Arvind Kejriwal has been traveling to Bengaluru for treatment of his chronic cough, which aligns with the claim. Sources indicate he has been battling this cough for years and has sought treatment specifically for it in Bengaluru, thus supporting the assertion made in the claim."
+  },
+  {
+    "ID": "S2/T/CM/1123",
+    "Evidence": "Shani Dev, Hindu God of Karma and Justice, is associated with the planet Saturn and is revered for guiding individuals based on their deeds. He is depicted with dark skin and is known for his role in Vedic astrology, emphasizing discipline and the consequences of actions. Worshiping Shani Dev is believed to remove obstacles and promote righteous living. The evidence does not mention any specific incidents related to cremation rituals or the context of Hindu-Muslim discussions, nor does it address the claim's narrative about dogs and corpses in rivers. (Source 1, Source 2)",
+    "Prediction": "REFUTES",
+    "Justification": "The retrieved evidence does not support the claim's assertion regarding cremation rituals, the presence of corpses in rivers, or the discussion of Hindu-Muslim issues. Instead, it focuses on Shani Dev's role in karma and justice without any mention of the specific circumstances described in the claim. Therefore, the evidence directly contradicts the claim's core assertion."
+  },
+  {
+    "ID": "S2/T/CM/1124",
+    "Evidence": "Retrieved evidence discusses political dynamics involving Sonia Gandhi, Rahul Gandhi, Mulayam Singh Yadav, and Sharad Pawar, but does not support the claim that these leaders want to turn the country into hell for settling their children. Source 1 mentions Mulayam Singh and Pawar's political actions, Source 2 highlights gratitude from Supriya Sule towards these leaders for supporting Pawar's nomination, and Source 3 notes Mulayam Singh's criticism of Congress. None of these sources indicate any intent to harm the country or its citizens.",
+    "Prediction": "REFUTES",
+    "Justification": "The retrieved evidence does not substantiate the claim that these political figures aim to make the country a hell for their children's settlement. Instead, it highlights political alliances and support among leaders like Sonia Gandhi and Rahul Gandhi for Sharad Pawar, as well as Mulayam Singh's criticisms of Congress. There is no mention of any destructive intentions towards the country, thus directly contradicting the claim."
+  },
+  {
+    "ID": "S2/T/CM/1125",
+    "Evidence": "Retrieved evidence does not mention anything about pados ki bahen betiyon ka aspirational district se transfer ya election se related issues. Source 1 focuses on Apne Aap Women Worldwide's efforts to empower marginalized women and girls, providing meals, safe spaces, and education. Source 2 and Source 3 do not provide relevant information regarding the claim about election and transfers.",
+    "Prediction": "REFUTES",
+    "Justification": "The retrieved evidence does not support the claim regarding the transfer of pados ki bahen betiyon or any related election issues. Source 1 discusses the empowerment of women and girls but does not mention anything about transfers or elections. Sources 2 and 3 are unrelated to the claim. Therefore, the evidence directly contradicts the assertion made in the claim."
+  },
+  {
+    "ID": "S2/T/CM/1126",
+    "Evidence": "Source 1 discusses a Baloch activist criticizing Pakistan's stance on Kashmir, indicating awareness of the situation. Source 2 expresses emotional distress over the ongoing violence in Kashmir, suggesting acknowledgment of the issue. Source 3 mentions Baloch people's desire for independence, implying a critique of Pakistan's treatment of both Baloch and Kashmiris, but does not provide specific historical context about 1948 or the actions of the army against Baloch people.",
+    "Prediction": "SUPPORTS",
+    "Justification": "Retrieved evidence from Source 1 and Source 2 indicates that there is recognition of the violence in Kashmir and criticism of Pakistan's actions. Source 1 highlights a Baloch activist's stance on Kashmir, while Source 2 shows emotional reactions to the situation. This aligns with the claim's assertion about the acknowledgment of oppression in Kashmir and Balochistan, thus supporting the claim."
+  },
+  {
+    "ID": "S2/T/CM/1127",
+    "Evidence": "Source 1 mentions that Raja Dahir Sen was a king in Sindh and discusses the kidnapping of girls by Muslim men who were forcibly converted to Islam. However, it does not provide evidence of Raja Dahir Sen's family being harmed or of any specific actions against Prophet Muhammad's descendants. Sources 2 and 3 do not contain relevant information regarding the claim about the treatment of Muslim girls or the actions taken against Raja Dahir Sen's family.",
+    "Prediction": "REFUTES",
+    "Justification": "Retrieved evidence from Source 1 does not support the claim that Islam has harmed its own prophet's descendants or that Raja Dahir Sen's family was specifically targeted. It only mentions the kidnapping of girls by Muslim men, which does not substantiate the broader assertions made in the claim. Therefore, the evidence directly contradicts the core assertion of the claim."
+  },
+  {
+    "ID": "S2/T/CM/1128",
+    "Evidence": "Source 1 discusses cricket's relationship with common sense, highlighting how fans' loyalties can shift based on the sport, but it does not address the claim about Kashmir's status or the implications of naming. Source 2 is a sarcastic comment about common sense but lacks context related to Kashmir or the claim. Source 3 analyzes how mass common sense shapes political discourse in India, particularly regarding Jammu and Kashmir, but does not directly support or refute the claim about Kashmir being in India.",
+    "Prediction": "REFUTES",
+    "Justification": "The retrieved evidence does not substantiate the claim that Kashmir's status can be altered by naming conventions or that it is recognized as part of India based on common sense. Source 1 and Source 2 do not address the claim directly, while Source 3 discusses political discourse without confirming the assertion about Kashmir's status. Therefore, the evidence fails to support the claim."
+  },
+  {
+    "ID": "S2/T/CM/1129",
+    "Evidence": "Source 1 mentions a person referred to as 'accidental Hindu' in a mocking context related to Congress. Source 2 discusses Rahul Gandhi's actions that allegedly insult Hindu beliefs, but does not provide specific details about him claiming to be a greater Hindu than Savarkar. Source 3 focuses on a World Hindu Congress event, emphasizing Hindu unity and population concerns, without mentioning Congress or any individual claiming superiority in Hindu identity.",
+    "Prediction": "REFUTES",
+    "Justification": "The retrieved evidence does not substantiate the claim that a Congress member claimed to be a greater Hindu than Savarkar or that someone identified as 'accidental Hindu' became a leader of Hindus. Source 1 only mocks the term 'accidental Hindu' without supporting the claim's assertion. Source 2 discusses insults to Hindu beliefs but does not confirm the specific claim about superiority. Therefore, the evidence refutes the claim."
+  },
+  {
+    "ID": "S2/T/CM/1130",
+    "Evidence": "Retrieved evidence does not provide any information regarding Ruchi ji touching Kejriwal's or Raga's feet. Source 1 and Source 2 are profiles with no relevant content, while Source 3 is a video link that does not confirm the claim about Ruchi ji's actions. There is no mention of a mother’s love or any related context in the evidence provided.",
+    "Prediction": "REFUTES",
+    "Justification": "Retrieved evidence does not support the claim that Ruchi ji touched Raga's feet instead of Kejriwal's. The sources do not contain any details about this incident or the significance of a mother's love in this context. Therefore, the claim is not substantiated by the retrieved evidence."
+  },
+  {
+    "ID": "S2/T/CM/1131",
+    "Evidence": "Retrieved evidence does not mention anything about the Congress party or its majority. Source 1 discusses a fictional story involving female domination, while Sources 2 and 3 provide statistical data on human penis size, including measurements and variations. None of the sources relate to political claims or the Congress party's electoral performance.",
+    "Prediction": "REFUTES",
+    "Justification": "The retrieved evidence does not support the claim regarding the Congress party achieving a full majority. Source 1 is unrelated to politics, focusing instead on a fictional narrative. Sources 2 and 3 provide data on human penis size, which is also irrelevant to the claim. Therefore, the evidence fails to substantiate the assertion about the Congress party's electoral success."
+  },
+  {
+    "ID": "S2/T/CM/1132",
+    "Evidence": "Retrieved evidence se pata chalta hai ki Allah kabhi apne bandon ko tanha nahi chhorta. Source 1 mein yeh baat explicitly kahi gayi hai, aur Source 3 bhi isse confirm karta hai. Yeh Allah ki rahmat aur hamesha humare sath hone ki tasdeeq karta hai. Is tarah se, yeh claim ki core assertion ko support karta hai ki Allah apne bandon ko akela nahi chhodta.",
+    "Prediction": "SUPPORTS",
+    "Justification": "Yeh conclusion retrieved evidence se liya gaya hai, jismein Source 1 aur Source 3 dono yeh kehte hain ki Allah apne bandon ko tanha nahi chhorta. Isliye, claim ki core assertion ko support milta hai, kyunki yeh Allah ki rahmat aur bandon ke liye uski hamesha maujoodgi ko darshata hai."
+  },
+  {
+    "ID": "S2/T/CM/1133",
+    "Evidence": "Lt Ummer Fayaz, a Kashmiri Muslim army officer, was kidnapped and brutally killed by militants while attending a family wedding in Shopian, as reported in multiple sources (Source 2, Source 3). His death highlights the risks faced by Kashmiri personnel in uniform, with concerns about targeted attacks on them and their families (Source 1). The evidence indicates that there is a significant threat to the lives of Kashmiri Muslims serving in the army and police, as they may become targets of extremist violence (Source 1, Source 3).",
+    "Prediction": "SUPPORTS",
+    "Justification": "The retrieved evidence directly supports the claim by detailing the targeted killing of Lt Ummer Fayaz, emphasizing the dangers faced by Kashmiri Muslims in military and police roles. Sources indicate that his murder is part of a broader pattern of violence against security personnel from Kashmir, confirming that their lives and those of their families are indeed at risk, as stated in the claim."
+  },
+  {
+    "ID": "S2/T/CM/1134",
+    "Evidence": "Source 1 discusses the disrespect towards Baba Saheb Ambedkar, emphasizing that his honor should not be compromised. It mentions an incident where someone attempted to remove a board from his statue, indicating a lack of respect for his legacy. Source 3 highlights the silence of civil society regarding important issues, suggesting a political apathy that could relate to the claim about the lack of response to disrespect towards Baba Saheb. However, no specific political motivations or obligations are mentioned in the evidence.",
+    "Prediction": "REFUTES",
+    "Justification": "The retrieved evidence from Source 1 clearly states that disrespect towards Baba Saheb Ambedkar should not occur, indicating that there is indeed a recognition of the issue. However, it does not support the claim that there is a political obligation or a lack of response from the community regarding this disrespect. Therefore, the evidence refutes the claim's assertion."
+  },
+  {
+    "ID": "S2/T/CM/1135",
+    "Evidence": "Retrieved evidence me Rajasthan ke politicians aur aam janta ki samasyaon par dhyan dene ka koi specific reference nahi hai. Source 2 me Ashok Gehlot ka zikr hai, jisme unhone aam janta ki politics se sambandhit baatein ki hain, lekin isme samasyaon par dhyan dene ka koi direct proof nahi hai. Source 1 aur Source 3 sirf Instagram reels hain, jisme koi substantial content nahi hai jo claim ko support kare. Isliye, media ke muddon ko highlight karne ka bhi koi direct evidence nahi hai.",
+    "Prediction": "REFUTES",
+    "Justification": "Retrieved evidence me Rajasthan ke politicians ke aam janta ki samasyaon par dhyan dene ya media ke in muddon ko highlight karne ka koi direct proof nahi hai. Source 2 me sirf Ashok Gehlot ki baatein hain jo aam janta ki politics se judi hain, lekin samasyaon par dhyan dene ka koi specific reference nahi hai. Source 1 aur Source 3 me bhi koi substantial content nahi hai jo claim ko support kare, isliye claim ko refute kiya jata hai."
+  },
+  {
+    "ID": "S2/T/CM/1136",
+    "Evidence": "Source 1 discusses Kejriwal's actions and principles, suggesting he embodies Islamic values through his service to the people and fight against corruption. It highlights his humility and dedication to public welfare, aligning him with Islamic teachings. Source 2 and Source 3 mention BJP's criticism of Kejriwal, indicating political tensions but do not provide evidence regarding the claim about Hindutva groups or Shaheen Bagh. Overall, the evidence does not support the claim about Hindutva groups or the specific actions regarding land and housing.",
+    "Prediction": "REFUTES",
+    "Justification": "The retrieved evidence does not substantiate the claim regarding Hindutva groups or the specific actions related to land and housing. Source 1 focuses on Kejriwal's alignment with Islamic values and his public service, while Sources 2 and 3 mention political criticism without addressing the claim's core assertion. Therefore, the evidence refutes the claim."
+  },
+  {
+    "ID": "S2/T/CM/1137",
+    "Evidence": "Evidence shows that Muslims seek protection from Allah (SWT) in various aspects of life, including protection from harm, evil, and danger (Source 2). Du’as are recommended for protection against calamities and illness, indicating a reliance on Allah for safeguarding (Source 2). The concept of being occupied with good deeds and seeking Allah's help aligns with the idea of being masghool in one's actions (Source 1).",
+    "Prediction": "SUPPORTS",
+    "Justification": "Retrieved evidence indicates that Muslims regularly seek Allah's protection and guidance in their lives, which aligns with the claim that Allah should keep everyone occupied in their good deeds. Source 2 specifically mentions the recitation of du’as for protection, which supports the notion of being engaged in beneficial actions. Therefore, the evidence directly corroborates the claim."
+  },
+  {
+    "ID": "S2/T/CM/1138",
+    "Evidence": "Source 1 states that the Modi government is looting citizens through fuel price hikes and mentions a ruined economy, which aligns with the claim of Modi's actions leading to financial hardship. Source 2 discusses Modi and Bhagwat allegedly looting ₹688 crore, further supporting the idea of corruption. Source 3, however, focuses on a manipulated video of Modi with children, which does not directly relate to the claim about economic issues or corruption, but highlights misinformation surrounding Modi's image.",
+    "Prediction": "SUPPORTS",
+    "Justification": "The retrieved evidence from Source 1 and Source 2 directly supports the claim that Modi's actions are financially detrimental to citizens, indicating a pattern of corruption and economic mismanagement. Source 1's mention of 'looting' and Source 2's specific figure of ₹688 crore reinforce the assertion that Modi's government is involved in exploitative practices, thus corroborating the claim."
+  },
+  {
+    "ID": "S2/T/CM/1139",
+    "Evidence": "Retrieved evidence does not contain any direct statements about a constable comparing themselves to a PM or discussing their duty in that context. Source 1 features a dialogue involving constables and their roles, but does not mention any comparison to a PM. Source 2 provides a general definition of a constable without any specific claims about personal comparisons. Source 3 is unrelated to the claim. Therefore, the evidence does not support the assertion that the constable compared themselves to a PM or only spoke about their duty.",
+    "Prediction": "REFUTES",
+    "Justification": "The retrieved evidence does not substantiate the claim that the constable compared themselves to a PM or solely discussed their duty. Source 1 discusses constables in a narrative context but lacks any mention of self-comparison to a PM. Source 2 provides a definition of a constable without relevant context. Thus, the evidence directly contradicts the claim's core assertion."
+  },
+  {
+    "ID": "S2/T/CM/1140",
+    "Evidence": "Retrieved evidence does not provide any information regarding Imran Khan's accountability or control over any situation. Source 1 discusses the government's desire to control PTI but does not mention Imran Khan's responsibilities. Source 2 is an Instagram reel that is not relevant to the claim. Source 3 features a message from Imran Khan to the nation but does not address the specific issues raised in the claim about accountability or control.",
+    "Prediction": "REFUTES",
+    "Justification": "Retrieved evidence does not substantiate the claim that Imran Khan has control or accountability over any situation. Source 1 talks about the government's attempts to control PTI without mentioning Khan's responsibilities. Source 2 is irrelevant, and Source 3 does not address the claim's core assertion. Therefore, the evidence directly contradicts the claim."
+  },
+  {
+    "ID": "S2/T/CM/1141",
+    "Evidence": "Source 1 states that the government has failed to meet the expectations of the people in Jammu & Kashmir, highlighting issues like rising unemployment and lack of accountability. Source 2 discusses the opposition's criticism of the BJP-led government for not addressing unemployment and inflation, suggesting that the government is not serious about these issues. There is no evidence in the retrieved sources that directly addresses the claim about the government's seriousness regarding the topic mentioned by the user.",
+    "Prediction": "SUPPORTS",
+    "Justification": "The retrieved evidence from Source 1 and Source 2 indicates that there is a perception of government failure to address critical issues like unemployment and public accountability. This aligns with the claim that the government is not serious about the topic, as both sources reflect disappointment and criticism towards the government's handling of these matters."
+  },
+  {
+    "ID": "S2/T/CM/1142",
+    "Evidence": "Source 3 mentions Rahul Gandhi addressing a rally where he criticized the BJP and Modi, indicating that Congress leaders are actively discussing Modi. However, the evidence does not provide specific instances of Congress leaders ignoring Rahul Gandhi or not mentioning him. The focus is on the Congress rally against the BJP, with Gandhi making significant statements about the party's ideology and actions. Source 1 and Source 2 do not provide relevant information regarding the frequency of mentions of Rahul Gandhi compared to Modi.",
+    "Prediction": "REFUTES",
+    "Justification": "The retrieved evidence indicates that Rahul Gandhi is actively speaking out against Modi and the BJP, particularly in the context of a major rally. This suggests that Rahul Gandhi is indeed being mentioned and is part of the discourse, contradicting the claim that he is not discussed. Therefore, the evidence refutes the assertion that Congress leaders only talk about Modi and not about Rahul Gandhi."
+  },
+  {
+    "ID": "S2/T/CM/1143",
+    "Evidence": "Retrieved evidence includes three sources: Source 1 discusses Instagram tagged photos not showing, Source 2 is a reel on Instagram about saving a relationship, and Source 3 is a translation of a conversation in Hindi about a police investigation. None of the sources provide any information related to the claim about political affiliations, social divisions, or actors. They focus on unrelated topics such as social media issues and a fictional narrative involving a police case.",
+    "Prediction": "REFUTES",
+    "Justification": "The retrieved evidence does not support the claim's assertion regarding political or social issues among Hindus or any mention of actors. Source 1 and Source 2 are unrelated to the claim, focusing instead on Instagram functionalities and personal relationships. Source 3 is a narrative about a police investigation, which also does not relate to the claim. Therefore, the evidence directly contradicts the claim's core assertion."
+  },
+  {
+    "ID": "S2/T/CM/1144",
+    "Evidence": "Source 1 mein kaha gaya hai ki government apni galtiyon ko chhupane ke liye dusron par ilzaam lagate hain. Source 2 mein municipal employees ke behavior par sawaal uthaya gaya hai, jo aam aadmi ke liye samasya bana hua hai. Source 3 mein Nilesh Ojha ne kaha hai ki agar koi government officer galti kare, toh us par action lena chahiye, jo aam aadmi ko nyay milne ki baat ko darshata hai.",
+    "Prediction": "SUPPORTS",
+    "Justification": "Retrieved evidence se yeh saaf hai ki government apni galtiyon ko chhupane ke liye dusron par ilzaam lagate hain (Source 1), jo aam aadmi ko nyay nahi milne ki baat ko darshata hai. Source 2 mein bhi government employees ke behavior par prashna uthaya gaya hai, jo aam aadmi ke liye samasya hai. Source 3 mein yeh kaha gaya hai ki agar government officer galti kare, toh us par action lena chahiye, jo aam aadmi ke liye nyay ki zarurat ko darshata hai."
+  },
+  {
+    "ID": "S2/T/CM/1145",
+    "Evidence": "Pakistan ne chicken dishes par ban lagaya hai Aiwan-e-Sadar aur important state functions ke menu mein, jo health precaution ke liye hai. Health Minister Naseer Khan ne kaha ki yeh bird flu outbreak ke khilaf hai. Pakistan mein H5N1 strain ka outbreak confirm hua hai, lekin koi human case report nahi hua hai (Source 1).",
+    "Prediction": "REFUTES",
+    "Justification": "Retrieved evidence se yeh pata chalta hai ki Pakistan ne chicken dishes par ban lagaya hai, jo health precaution ke liye hai, aur isse kisi bhi individual ya group ko Pakistan se nikalne ka koi sambandh nahi hai. Isliye, claim ka core assertion ki 'mulle chup kar aur nikal pakistan' ko evidence support nahi karta, balki yeh ek health measure hai."
+  },
+  {
+    "ID": "S2/T/CM/1146",
+    "Evidence": "Retrieved evidence does not provide any information related to the claim about fearing God or making statements regarding Qamar Bajwa. Source 1 discusses the morality of God killing the firstborn, Source 2 is about God sending His son, and Source 3 focuses on a slave becoming a son. None of these sources address the specific context of the claim or the individuals mentioned.",
+    "Prediction": "REFUTES",
+    "Justification": "Retrieved evidence does not support the claim's assertion about fearing God or making statements about Qamar Bajwa. The sources focus on theological discussions unrelated to the claim's context. Therefore, the evidence directly contradicts the claim's core assertion."
+  },
+  {
+    "ID": "S2/T/CM/1147",
+    "Evidence": "Retrieved evidence does not explicitly mention Rahulbaba discussing khandan or bap ka naam uncha karne. However, it does indicate that he was preparing a speech and had discussions about various themes, including economic growth. There is no mention of comparing pilots and cycle tractor chalaks or praising deshbhakti in the provided sources. Source 1 discusses Rahul's speech preparation but does not confirm the specific claims made in the assertion.",
+    "Prediction": "REFUTES",
+    "Justification": "The retrieved evidence does not support the claim that Rahulbaba spoke about khandan or bap ka naam uncha karne, nor does it mention a comparison between pilots and cycle tractor chalaks in relation to deshbhakti. Source 1 focuses on speech preparation without confirming these specific points, leading to a conclusion that the claim is not substantiated."
+  },
+  {
+    "ID": "S2/T/CM/1148",
+    "Evidence": "Arvind Kejriwal, the chief minister of Delhi, faced criticism for planning to move into spacious official flats, which contradicted his anti-corruption promises. He later decided to forgo the flats after receiving feedback from supporters and opponents. Kejriwal emphasized the need to avoid 'VIP culture' in politics and stated he would seek smaller accommodation instead (Source 1). There is no mention of his salary or the difficulties faced by people in managing their homes in the retrieved evidence.",
+    "Prediction": "REFUTES",
+    "Justification": "The retrieved evidence does not support the claim regarding difficulties faced by people in managing their homes or Kejriwal's salary. Instead, it focuses on his accommodation choices and the criticism he faced for them, which does not substantiate the claim's core assertion about the challenges people are experiencing."
+  },
+  {
+    "ID": "S2/T/CM/1149",
+    "Evidence": "Dr. Ambedkar advocated for a uniform civil code for India on 2nd December 1948, stating that it should be implemented if everyone agrees (Source 1). The Uniform Civil Code aims to apply personal laws equally to all citizens, regardless of religion, covering areas like marriage and inheritance (Source 3). Ambedkar's philosophy included fighting against the caste system and promoting gender justice, which aligns with the principles of a uniform civil code (Source 2).",
+    "Prediction": "SUPPORTS",
+    "Justification": "The retrieved evidence directly supports the claim that Ambedkar advocated for a uniform civil code in India, emphasizing its importance for all citizens. Source 1 confirms Ambedkar's stance on the implementation of such a code, while Source 2 highlights his fight against casteism and the need for equality, aligning with the claim's assertion about Ambedkar's vision for India."
+  },
+  {
+    "ID": "S2/T/CM/1150",
+    "Evidence": "Source 2 discusses how some leaders are misusing public tax money, suggesting that when the public unites in understanding this, no leader's position will be secure. Source 3 mentions a government initiative called 'Cycle to Work' aimed at encouraging people to cycle instead of using cars, which can save money. However, there is no direct evidence linking the misuse of tax money to the claim about cycling or the specific actions of leaders in relation to public funds.",
+    "Prediction": "REFUTES",
+    "Justification": "The retrieved evidence from Source 2 indicates that public tax money is being misused by some leaders, but it does not support the claim about cycling or the specific actions of leaders regarding public funds. Source 3 discusses a cycling initiative but does not address the claim's core assertion about tax money and cycling. Therefore, the evidence does not substantiate the claim."
+  },
+  {
+    "ID": "S2/T/CM/1151",
+    "Evidence": "Retrieved evidence from the sources does not provide any information about kashifali's involvement with a 007 character, Chughtai Islam, or any activities related to cancer or madarass. All three sources are LinkedIn profiles with no connections, followers, or relevant details about the claims made.",
+    "Prediction": "REFUTES",
+    "Justification": "Retrieved evidence clearly shows that there is no information supporting the claim regarding kashifali's actions or affiliations. The profiles listed do not contain any relevant details about cancer, madarass, or any connection to the mentioned characters or activities. Therefore, the claim is directly contradicted by the lack of substantiating evidence in the retrieved sources."
+  },
+  {
+    "ID": "S2/T/CM/1152",
+    "Evidence": "BJP ने कर्नाटक में चार बार सरकार बनाई है, जबकि कांग्रेस ने नौ बार सरकार बनाई है (Source 2)। BJP ने 2008, 2013, 2019 और 2021 में कर्नाटक में सरकार बनाई, जबकि कांग्रेस ने 1952 से 2018 तक कई बार सत्ता में रही (Source 2)। BJP का दावा है कि वे फिर से सरकार बनाने की कोशिश कर रहे हैं, जबकि कांग्रेस भी सत्ता में लौटने की कोशिश कर रही है (Source 2)।",
+    "Prediction": "REFUTES",
+    "Justification": "Retrieved evidence clearly states that BJP has formed the government in Karnataka multiple times, while Congress has done so even more frequently. The claim suggests that Congress will form the government, but the evidence indicates that both parties are vying for power, with BJP having a history of success in the state. Therefore, the evidence contradicts the assertion that Congress will definitely form the government."
+  },
+  {
+    "ID": "S2/T/CM/1153",
+    "Evidence": "Uttarakhand High Court ne Char Dham Yatra ko kholne ke liye sarkar ke faisle ko stay kiya hai, yeh kehkar ki yatra se logon ki jaan khatre mein pad sakti hai, khaas taur par Delta Plus variant aur COVID-19 ke teesre leher ke dauran (Source 3). Court ne kaha ki yatra ko rokna zaroori hai, aur yeh faisla Article 21 aur anya constitutional provisions ke khilaf hai (Source 3). Isliye, yatra December mein kholne ka koi faisla nahi hua hai, aur Supreme Court ne bhi is par koi turant faisla nahi sunaaya hai (Source 1).",
+    "Prediction": "REFUTES",
+    "Justification": "Retrieved evidence se yeh saaf hai ki Uttarakhand High Court ne Char Dham Yatra ko kholne ka faisla stay kiya hai, jo claim ke core assertion ko contradict karta hai. Court ne yeh bhi kaha ki yatra se logon ki jaan khatre mein pad sakti hai, aur isliye yeh yatra abhi nahi khuli hai. Isliye, claim ki sachai ko support nahi milta, aur yeh refute hota hai."
+  },
+  {
+    "ID": "S2/T/CM/1154",
+    "Evidence": "Texas woman Elizabeth Wolf was sentenced to five years for attempting to drown a 3-year-old Palestinian-American Muslim girl and injuring her brother. The indictment included a hate crime enhancement, indicating she targeted the children because they were Muslim or of Middle Eastern descent. Wolf was drunk and made racial statements before the attack at a pool. The children physically recovered, and the family is receiving support from local services (Source 1, Source 2, Source 3).",
+    "Prediction": "SUPPORTS",
+    "Justification": "Retrieved evidence clearly states that Elizabeth Wolf's actions were racially motivated, targeting Muslim children, which aligns with the claim's assertion of hate. The evidence from multiple sources confirms the hate crime aspect and the specific targeting of the children based on their religion and ethnicity, thus supporting the claim."
+  },
+  {
+    "ID": "S2/T/CM/1155",
+    "Evidence": "Retrieved evidence primarily discusses public reactions to Imran Khan's phrase 'Aapne Ghabrana Nahi Hai', which has become a subject of humor and memes. Sources 1 and 3 highlight how the public makes fun of this phrase, but there is no mention of PM House being put for rental or it being converted into a marriage hall. Additionally, there is no reference to social weddings or any future plans involving 'kundra shoots'.",
+    "Prediction": "REFUTES",
+    "Justification": "Retrieved evidence does not support the claim that Imran Khan's PM House is now a marriage hall or that it is available for rental. Instead, it focuses on public humor regarding his phrase 'Aapne Ghabrana Nahi Hai', as seen in Sources 1 and 3. Therefore, the claim is directly contradicted by the evidence."
+  },
+  {
+    "ID": "S2/T/CM/1156",
+    "Evidence": "Source 1 discusses Jesse Jackson admitting to an extramarital affair that resulted in an illegitimate child. He expresses regret and takes responsibility for his actions. The evidence does not mention any specific derogatory terms or insults related to individuals or groups, nor does it support claims about 'namard gaddar' or 'gutter chhap andhbhakto'. Source 2 is an Instagram post about a woman confronting her husband over an affair, but it does not provide relevant context to the claim. Source 3 is a video link with no relevant content.",
+    "Prediction": "REFUTES",
+    "Justification": "The retrieved evidence does not support the claim's assertions about derogatory terms or the nature of individuals mentioned. Source 1 focuses on Jesse Jackson's admission of an affair and does not include any language or context that aligns with the claim. Source 2 and Source 3 do not provide relevant information to substantiate the claim either. Therefore, the evidence refutes the claim."
+  },
+  {
+    "ID": "S2/T/CM/1157",
+    "Evidence": "Retrieved evidence does not provide any direct information regarding the claim about social discrimination being derived from religious texts. Source 1 is an Instagram post with no relevant content. Source 2 is a YouTube video link without context provided. Source 3 discusses teaching Dharma to children but does not address the claim about discrimination in religious texts or their origins.",
+    "Prediction": "REFUTES",
+    "Justification": "Retrieved evidence does not support the claim that social discrimination is written in religious texts or that it originates from them. Source 1 and Source 2 do not contain relevant information, while Source 3 focuses on teaching Dharma without mentioning discrimination or the nature of religious texts. Therefore, the evidence fails to substantiate the claim."
+  },
+  {
+    "ID": "S2/T/CM/1158",
+    "Evidence": "Kejriwal ki sarkar ne education aur health me achievements kiye hain, jo har volunteer aur supporter ki achievement hai (Source 1). AAP ne sirf paanch saal me kaafi kuch achieve kiya hai, aur Kejriwal ko party ka face mana jata hai (Source 2). Punjab me teachers ke liye 'Teacher Transfer' policy ko badalne ka guarantee diya gaya hai (Source 3).",
+    "Prediction": "SUPPORTS",
+    "Justification": "Retrieved evidence se ye pata chalta hai ki Kejriwal ki sarkar ne education aur health me achievements kiye hain, jo claim ko support karta hai. Source 1 me yeh kaha gaya hai ki AAP ki achievements har volunteer ki bhi achievements hain. Source 2 me AAP ke achievements ko highlight kiya gaya hai, jo Kejriwal ki leadership me hui hain. Isliye, evidence claim ki core assertion ko support karta hai."
+  },
+  {
+    "ID": "S2/T/CM/1159",
+    "Evidence": "Captain Amarinder Singh ne Punjab mein law and order ki complete failure ki baat ki hai, aur unhone kaha hai ki agar Prime Minister ko sirf 10km door se smooth passage nahi diya ja sakta, toh unhe office mein rehne ka koi haq nahi hai (Source 3). Lekin, is evidence mein gaddari ya kisi bhi tarah ke betrayal ka zikr nahi hai, aur na hi yeh claim ko support karta hai ki unki actions desh aur logo ke khilaf hain (Source 1, Source 2).",
+    "Prediction": "REFUTES",
+    "Justification": "Retrieved evidence mein Captain Amarinder Singh ki taraf se gaddari ka koi bhi zikr nahi hai. Unhone law and order ki failure par criticism kiya hai, lekin ismein unki actions ko desh ya logo ke khilaf gaddari ke roop mein nahi dekha gaya hai. Isliye, yeh evidence claim ko directly contradict karta hai, jo gaddari ki baat karta hai."
+  },
+  {
+    "ID": "S2/T/CM/1160",
+    "Evidence": "Source 2 discusses the deep love Muslims have for the Prophet Muhammad ﷺ, emphasizing that this love is essential to their faith and is expressed through actions and following his teachings. It mentions that true believers love the Prophet more than anyone else, including family. Source 1 expresses a heartfelt connection to the Prophet, indicating that love for him is profound and enduring. Source 3 features a Naat that reflects love for the Prophet, aligning with the sentiment of crossing boundaries in expressing this love.",
+    "Prediction": "SUPPORTS",
+    "Justification": "The retrieved evidence directly supports the claim by highlighting the intense love Muslims have for the Prophet Muhammad ﷺ, which transcends boundaries. Source 2 explicitly states that loving the Prophet more than anyone else is a part of faith, and Source 1 conveys a strong emotional connection to him. This aligns with the claim's assertion of surpassing limits in expressing love for the Prophet."
+  },
+  {
+    "ID": "S2/T/CM/1161",
+    "Evidence": "Retrieved evidence does not provide any information regarding the merit or non-merit system in relation to the results of March 12 or the number of qualified students. Source 1 discusses the reservation issue of open merit but does not mention any decrease in qualified students. Source 2 addresses the merit vs nepotism debate but lacks specific details about the claim. Source 3 focuses on the governor's actions regarding education funding and special education, with no mention of merit-based qualifications or student numbers.",
+    "Prediction": "REFUTES",
+    "Justification": "The retrieved evidence does not substantiate the claim that the government is not playing a merit vs non-merit game or that the number of qualified students is decreasing after March 12. Sources 1 and 2 do not provide relevant information about the claim, and Source 3 discusses unrelated issues regarding education funding. Therefore, the evidence directly contradicts the assertion made in the claim."
+  },
+  {
+    "ID": "S2/T/CM/1162",
+    "Evidence": "Retrieved evidence does not provide any direct support for the claim that Sushma Swaraj and Arun Jaitley caused harm to the country by disrupting parliament or engaging in propaganda regarding fuel prices. Source 1 discusses their political roles without mentioning any specific actions that align with the claim. Source 2 focuses on power dynamics in Bengal and does not address the claim. Source 3 critiques the tendency to overlook the negative aspects of deceased politicians but does not specifically mention Swaraj or Jaitley in relation to the claim's assertions.",
+    "Prediction": "REFUTES",
+    "Justification": "The retrieved evidence does not substantiate the claim that Sushma Swaraj and Arun Jaitley harmed the country or engaged in specific disruptive actions. Source 1 and Source 3 discuss their political legacies without confirming the negative assertions made in the claim. Therefore, the evidence directly contradicts the claim's core assertion."
+  },
+  {
+    "ID": "S2/T/CM/1163",
+    "Evidence": "Source 1 mentions Gullu's controversial statements and actions in Splitsvilla, indicating that he has been vocal about certain issues. Source 2 discusses Gullu being exposed for his behavior, suggesting that there are significant concerns regarding his actions. Source 3 shows Ruru accusing Gullu directly, which implies tension and conflict related to his behavior. However, none of the sources provide specific details about the 'desh ka mudda' or the exact issues Gullu was previously vocal about, leaving that part of the claim unverified.",
+    "Prediction": "REFUTES",
+    "Justification": "Retrieved evidence does not substantiate the claim's assertion about Gullu's previous vocalization regarding a specific national issue ('desh ka mudda'). While it indicates controversy and conflict surrounding Gullu, it does not confirm that he was indeed shouting about a national issue as claimed. Therefore, the evidence directly contradicts the core assertion of the claim."
+  },
+  {
+    "ID": "S2/T/CM/1164",
+    "Evidence": "Hazrat Ali Murtaza (R.A) was the Fourth Caliph and is known for his extraordinary knowledge and wisdom. He was martyred at the age of 63 while going to the Masjid. The evidence does not mention any specific incident regarding a letter he wrote or instructions about being buried with it. Source 1 discusses an incident of his martyrdom, while Source 3 provides details about his life and character but does not support the claim about a letter or its significance for forgiveness.",
+    "Prediction": "REFUTES",
+    "Justification": "The retrieved evidence does not support the claim that Hazrat Ali Murtaza instructed to keep a letter for his burial as a means of forgiveness. While it provides information about his life and martyrdom, it lacks any mention of a written letter or its importance in the context of his burial. Therefore, the claim is refuted based on the retrieved evidence."
+  },
+  {
+    "ID": "S2/T/CM/1165",
+    "Evidence": "Rajput leaders of BJP have urged their community to support the party despite controversies surrounding Union Minister Parshottam Rupala's remarks, which offended the Kshatriya community. While some BJP leaders have apologized and called for unity, the core committee of the Rajput community has rejected the appeal for support, stating they will not back the BJP due to dissatisfaction with Rupala's candidature. Protests have been ongoing, with community members vowing to vote against the ruling party, indicating a significant divide between the BJP's leadership and the Rajput community's sentiments (Source 3).",
+    "Prediction": "REFUTES",
+    "Justification": "The retrieved evidence indicates that the Rajput community, despite appeals from BJP leaders, has decided not to support the party due to dissatisfaction with Minister Rupala's remarks and candidature. The core committee's rejection of the BJP's appeal and ongoing protests demonstrate a clear stance against the party, directly contradicting the claim that BJP should take action to avoid negative consequences for the Rajput community. Thus, the evidence refutes the claim."
+  },
+  {
+    "ID": "S2/T/CM/1166",
+    "Evidence": "Source 1 discusses the concept of a 'wealth mindset' and how it influences financial success, emphasizing that mindset shapes one's financial reality. Source 2 highlights the idea that the people we attract reflect our own traits, suggesting that self-perception affects relationships. Source 3 explains the Law of Attraction, stating that positive or negative thoughts attract corresponding experiences. None of the sources directly address the claim about reservation being a birthright or the dynamics of caste and financial success in the context mentioned.",
+    "Prediction": "REFUTES",
+    "Justification": "The retrieved evidence does not support the claim that reservation is seen as a birthright or that individuals from lower castes perceive themselves negatively in relation to wealth. Instead, it focuses on mindset and attraction principles without addressing caste dynamics or the specific assertions made in the claim. Therefore, the evidence fails to substantiate the claim's core assertion."
+  },
+  {
+    "ID": "S2/T/CM/1167",
+    "Evidence": "Retrieved evidence does not mention any specific incident where Sayyiduna Umar Farooq (رضی اللہ عنہ) expressed anger towards his son Abdullah ibn Umar regarding a particular statement. Sources discuss his exemplary character, lifestyle, and interactions but do not provide details about a confrontation or a specific dialogue with his son. Source 1 focuses on Abdullah ibn Umar, while Source 2 and Source 3 highlight Umar Farooq's virtues and actions without referencing the claim's context.",
+    "Prediction": "REFUTES",
+    "Justification": "The retrieved evidence does not support the claim that Sayyiduna Farooq e Aazam (رضی اللہ عنہ) became angry with his son Abdullah ibn Umar over a statement. Instead, the sources emphasize his character and lifestyle without mentioning any such incident. Therefore, the claim is directly contradicted by the absence of relevant evidence in the retrieved sources."
+  },
+  {
+    "ID": "S2/T/CM/1168",
+    "Evidence": "Kashmir conflict ki shuruaat 1947 mein hui jab Pakistan ne tribal militias ke zariye Jammu aur Kashmir par hamla kiya. Iske baad India ne bhi is conflict mein shamil hua. Teen wars hue hain India aur Pakistan ke beech, jismein Kashmir ka masla hamesha samne raha. Pehli jang 1947-48 mein hui jab Pakistan ne Kashmir par kabza karne ki koshish ki, aur iske baad 1965 aur 1971 mein bhi jang hui. Har dafa Kashmir ka masla central raha hai (Source 1, Source 2).",
+    "Prediction": "SUPPORTS",
+    "Justification": "Retrieved evidence se yeh saaf hai ki Kashmir conflict ki shuruaat Pakistan ke tribal militias ke hamle se hui thi, aur India ne ismein shamil hote hue teen jangon ka samna kiya. Har jang mein Kashmir ka masla samne aaya, jo claim ko support karta hai. Isliye, claim ki core assertion ko evidence se support milta hai."
+  },
+  {
+    "ID": "S2/T/CM/1169",
+    "Evidence": "Source 1 mentions that Allah eases the efforts of those working hard to feed their families. Source 2 emphasizes that supporting one's family is highly rewarded in Islam, with multiple narrations from Prophet Muhammad highlighting the importance of spending on family as a form of charity. It states that fulfilling the duty of supporting one's family is an Islamic obligation. Source 3 reiterates that spending on family is a significant act in Islam, reinforcing the idea that one should work hard to provide for their family.",
+    "Prediction": "SUPPORTS",
+    "Justification": "The retrieved evidence directly supports the claim by stating that Allah encourages hard work to provide for families (Source 1) and emphasizes the rewards for supporting one's family as an Islamic obligation (Source 2). It highlights that spending on family is a form of charity and a significant aspect of a Muslim's duty, aligning with the claim's assertion about the importance of earning and providing for one's family."
+  },
+  {
+    "ID": "S2/T/CM/1170",
+    "Evidence": "Opposition parties in Pakistan walked out of the Senate over the government's inadequate response regarding the CPEC Authority. They questioned the legitimacy of Lt-Gen Asim Saleem Bajwa's role as chairman after the ordinance lapsed. There were concerns about Bajwa's controversial background and allegations of corruption. The CPEC Authority was established under Imran Khan's government, but the ordinance had expired, raising questions about its operational legality. The opposition felt their queries were not adequately addressed, leading to their protest in the Senate (Source 1).",
+    "Prediction": "REFUTES",
+    "Justification": "The retrieved evidence indicates that the opposition's walkout was due to the government's inadequate response regarding the CPEC Authority, not a resignation by a chairman as a protest. The evidence does not support the claim that a chairman resigned in protest, as it focuses on the opposition's actions and concerns about the authority's legitimacy, specifically regarding Bajwa's position."
+  },
+  {
+    "ID": "S2/T/CM/1171",
+    "Evidence": "Source 1 aur Source 2 mein Mukesh bhai ke baare mein kuch specific information nahi hai, lekin Source 3 mein Mukesh Bhudhaliya ne kaha hai ki burqa ya hijab pehnna official norms ko override nahi kar sakta. Yeh statement yeh darshata hai ki hijab pehnne se kuch takleef ho sakti hai, jo claim ke core assertion se contradict karta hai.",
+    "Prediction": "REFUTES",
+    "Justification": "Retrieved evidence mein Mukesh Bhudhaliya ka yeh kehna hai ki burqa ya hijab official norms ko override nahi kar sakta, jo yeh darshata hai ki hijab pehnne se kuch samasya ho sakti hai. Isliye, yeh claim ki mukesh bhai dusre dharm mein taang adane se acha hai, yeh support nahi karta. Yeh evidence claim ke core assertion ko directly contradict karta hai."
+  },
+  {
+    "ID": "S2/T/CM/1172",
+    "Evidence": "Evidence shows that Allah is happy when His slaves ask for forgiveness for their sins. The Prophet's hadith emphasizes that Allah forgives all sins and encourages believers to repent sincerely. It states that the one who repents is treated as if they never sinned, and Allah's mercy is vast, as mentioned in Surah Az-Zumar 39:53. The importance of making a strong intention to repent and seek forgiveness is highlighted, along with the notion that Allah will guide those who turn towards Him in repentance (Source 1, Source 3).",
+    "Prediction": "SUPPORTS",
+    "Justification": "The retrieved evidence directly supports the claim by stating that Allah is pleased when believers repent and seek forgiveness for their sins. It emphasizes the importance of sincere repentance and Allah's mercy, which aligns with the claim's assertion about seeking forgiveness and turning towards good deeds. The evidence from the hadith and Quranic verse reinforces the idea that Allah forgives all sins and encourages believers to ask for His mercy, thus supporting the claim."
+  },
+  {
+    "ID": "S2/T/CM/1173",
+    "Evidence": "Nirbhaya, a 23-year-old woman, was gang-raped and murdered in Delhi, leading to widespread protests and changes in laws regarding women's safety in India (Source 1). Her mother, Asha Devi, has become an activist advocating for justice for all rape victims, stating that despite legal changes, implementation remains poor (Source 1). The case highlighted issues of gender violence and the need for societal change (Source 3). Asha Devi's activism is rooted in her personal loss and the ongoing struggle for justice for her daughter and others (Source 1).",
+    "Prediction": "SUPPORTS",
+    "Justification": "The retrieved evidence supports the claim by illustrating the ongoing struggle against the misuse of politics in the context of women's safety and justice, as seen through Asha Devi's activism for her daughter Nirbhaya and other victims. It emphasizes that women should not be treated as political tools, aligning with the claim's assertion about the need for respect and justice for women in India."
+  },
+  {
+    "ID": "S2/T/CM/1174",
+    "Evidence": "Source 2 states that corruption in India is growing, indicating a systemic issue. It mentions India's ranking at 81st in a corruption index, suggesting a significant level of corruption. Source 3 discusses the biographies of one hundred corrupt politicians, highlighting the prevalence of corruption among political figures. However, none of the sources directly address the claim about the general public's actions or the specific behavior of individuals in relation to corruption, such as breaking rules or bribing police.",
+    "Prediction": "REFUTES",
+    "Justification": "The retrieved evidence indicates that corruption is a significant issue in India, particularly among politicians, as noted in Source 2 and Source 3. However, it does not support the claim that 'we the people of India' are inherently corrupt or that individuals break rules without prompting from politicians. Therefore, the evidence does not substantiate the claim's assertion."
+  }
+]

@@ -1,0 +1,99 @@
+{
+  "claim": {
+    "id": "S2/1439",
+    "text": "India's Covid-19 vaccination coverage surpasses 165.6 crore, says Health Ministry",
+    "lang": "dev"
+  },
+  "entity_ranked_evidence": [
+    {
+      "title": "India's Covid Vaccination Coverage Exceeds 196.94 Crore",
+      "url": "https://www.ndtv.com/india-news/indias-covid-vaccination-coverage-exceeds-196-94-crore-health-ministry-3098976",
+      "snippet": "India's cumulative COVID-19 vaccination coverage exceeded the 196.94 crores (1,96,94,40932) mark today, informed the Ministry of Health and",
+      "bm25_score_raw": 12.090416077604365,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9084946513175964,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 1,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 1
+    },
+    {
+      "title": "India's Cumulative COVID-19 Vaccination Coverage ...",
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1793443",
+      "snippet": "India's COVID-19 vaccination coverage has exceeded 165.04 Cr (165,04,87,260) as per provisional reports till 7 am today. This has been achieved through 180,50,",
+      "bm25_score_raw": 1.7681013321877566,
+      "bm25_score_norm": 0.04068678011235932,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.883622407913208,
+      "embedding_score_norm": 0.5662270242849747,
+      "embedding_rank": 2,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 1,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 2
+    },
+    {
+      "title": "With over 332 Million #COVID19Vaccine coverage, here ...",
+      "url": "https://www.facebook.com/IndiainBhutan/posts/day-165-with-over-332-million-covid19vaccine-coverage-here-are-the-latest-stats-/4830203827006200",
+      "snippet": "India's Cumulative #COVID19 Vaccination Coverage exceeds 165.04 Cr (165,04,87,260). ➡️ More than 56 Lakh doses administered in the last 24 hours.",
+      "bm25_score_raw": 1.330307146106885,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8766496181488037,
+      "embedding_score_norm": 0.444621276224176,
+      "embedding_rank": 3,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 1,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 3
+    },
+    {
+      "title": "#Unite2FightCorona #LargestVaccineDrive ➡️ India's ...",
+      "url": "https://x.com/MoHFW_INDIA/status/1488365330778886145",
+      "snippet": "➡️ India's Cumulative #COVID19 Vaccination Coverage exceeds 166.68 Cr (1,66,68,48,204). ➡️ More than 61 Lakh doses administered in the last 24",
+      "bm25_score_raw": 1.3737829898973462,
+      "bm25_score_norm": 0.004040465023843461,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.870919406414032,
+      "embedding_score_norm": 0.344686141493606,
+      "embedding_rank": 4,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 1,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 4
+    },
+    {
+      "title": "Day 165 India's COVID-19 Vaccination Coverage crosses ...",
+      "url": "https://cdnbbsr.s3waas.gov.in/s3850af92f8d9903e7a4e0559a98ecc857/uploads/2021/06/2021063042.pdf",
+      "snippet": "165 India's COVID-19 Vaccination Coverage crosses the landmark of 33 Cr More than 33.79 lakh Vaccine Doses administered today till 7 pm More",
+      "bm25_score_raw": 6.041884121337631,
+      "bm25_score_norm": 0.4378744681142403,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8691507577896118,
+      "embedding_score_norm": 0.3138408347661212,
+      "embedding_rank": 5,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 1,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 5
+    },
+    {
+      "title": "COVID-19 vaccination in India - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/COVID-19_vaccination_in_India",
+      "snippet": "Immunisation programme against COVID-19 in India. | Participants | * **1,025,789,302** people with one dose administered of Covaxin or Oxford–AstraZeneca vaccine or Sputnik V * **952,033,158** people have been fully vaccinated with both doses of Covaxin or Oxford–AstraZeneca vaccine or Sputnik V or Corbevax * **228,593,024** people have been administered Precautionary/Booster doses of Covaxin or Oxford–AstraZeneca vaccine or Sputnik V or Corbevax |. India began administration of **COVID-19 vaccines** on 16 January 2021. As of 4 March 2023, India has administered over **2.2 billion** doses overall, including first, second and precautionary (booster) doses of the currently approved vaccines. They have since been joined by the Sputnik V (manufactured under license by Dr. Reddy's Laboratories, with additional production from Serum Institute of India being started in September), Moderna vaccines, Johnson & Johnson vaccine and ZyCoV-D (a vaccine locally developed by Zydus Cadila) and other vaccine candidates undergoing local clinical trials. According to a June 2022 study published in *The Lancet*, COVID-19 vaccination in India prevented an additional 4.2 million deaths from December 8, 2020, to December 8, 2021.",
+      "bm25_score_raw": 3.956037957500916,
+      "bm25_score_norm": 0.24402455663881545,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8511553406715393,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 1,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 6
+    }
+  ]
+}

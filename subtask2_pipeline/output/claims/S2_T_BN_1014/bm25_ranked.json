@@ -1,0 +1,105 @@
+{
+  "claim": {
+    "id": "S2/T/BN/1014",
+    "text": "কারা যোগ দিয়েছিলেন তবলিঘির জমায়েতে? খুঁজে বার করতে দিল্লি পুলিশের অস্ত্র জিপিএস ডেটা",
+    "lang": "bengali"
+  },
+  "ranked_evidence": [
+    {
+      "title": "Delhi Blast LIVE : দিল্লি বিস্ফোরণকাণ্ডে কাশ্মীরের ৮ জায়গায় ...",
+      "url": "https://www.youtube.com/watch?v=3hZwT3pamoQ",
+      "snippet": "ABP Ananda LIVE : দিল্লি বিস্ফোরণকাণ্ডে কাশ্মীরের ৮ জায়গায় NIA তল্লাশি। কাশ্মীরের অধিকাংশ জায়গায় কেন্দ্রীয় তদন্তকারী সংস্থা NIA-র তল্লাশি। দিল্লি বিস্ফোরণের সঙ্গে যুক্ত চিকিৎসক মুজাম্মিল শাকিলের বাড়ি",
+      "bm25_score_raw": 4.171335526904756,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Mega Showdown in Delhi's Kalkaji Amid Demolition Drive as ...",
+      "url": "https://www.youtube.com/watch?v=DciQ23WWmCI",
+      "snippet": "Mega Showdown in Delhi's Kalkaji Amid Demolition Drive as Police Deny Entry to AAP Leader Atishi Tensions escalated in Delhi's Kalkaji as a",
+      "bm25_score_raw": 1.9892665055848076,
+      "bm25_score_norm": 0.47688959393321617,
+      "bm25_rank": 2
+    },
+    {
+      "title": "Turkman Gate Demolition Drive: Stone-Pelting, Tear Gas, FIR ...",
+      "url": "https://www.youtube.com/watch?v=GOHE9Lj91XA",
+      "snippet": "In the early hours of January 7, 2026, a midnight anti-encroachment drive at Turkman Gate and Ramlila Maidan in Old Delhi sparked tension as",
+      "bm25_score_raw": 0.975186597718919,
+      "bm25_score_norm": 0.23378282361345645,
+      "bm25_rank": 3
+    },
+    {
+      "title": "Delhi Fire: Multiple Jhuggis Gutted In Jahangirpuri Bangali ...",
+      "url": "https://www.youtube.com/watch?v=BFfpNrtLOrU",
+      "snippet": "A fire broke out at Jahangirpuri Bengali Basti on Sunday morning. Officers said multiple jhuggis were gutted in the fire. A total of 11 fire",
+      "bm25_score_raw": 0.9616978486726021,
+      "bm25_score_norm": 0.23054914726224573,
+      "bm25_rank": 4
+    },
+    {
+      "title": "Demolition drive in Delhi's Bhoomiheen camp | Over 300 ...",
+      "url": "https://www.youtube.com/watch?v=__Cr3X7y8Rg",
+      "snippet": "A major demolition drive was carried out at Bhoomiheen camp in Delhi's Govindpuri area, where over 300 jhuggis were removed from government",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 5
+    },
+    {
+      "title": "Court-Ordered Demolition Sparks Political Clash At ...",
+      "url": "https://www.youtube.com/watch?v=TA-v_0k0wCI",
+      "snippet": "A court-ordered demolition drive is underway at Bhoomiheen Camp in Kalkaji, Delhi, triggering both public protests and political backlash",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6
+    },
+    {
+      "title": "Tablighi Jamaat",
+      "url": "https://en.wikipedia.org/wiki/Tablighi_Jamaat",
+      "snippet": "Tablighi Jamaat ・ is an international Islamic religious movement. [2] [3] It focuses on exhorting Muslims to be more religiously observant ・ adherents",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 7
+    },
+    {
+      "title": "The misunderstood missionary - the story of the Tablighi ...",
+      "url": "https://www.trtworld.com/magazine/the-misunderstood-missionary-the-story-of-the-tablighi-jamaat-37657",
+      "snippet": "From humble beginnings the Tablighi Jamaat has become the largest Islamic missionary movement, lately attracting attention for all the wrong reasons.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 8
+    },
+    {
+      "title": "What exactly is Tablighi Jamaat? : r/islam",
+      "url": "https://www.reddit.com/r/islam/comments/193pbgb/what_exactly_is_tablighi_jamaat",
+      "snippet": "I have heard them mentioned before and a group of them were at the masjid today Edit: Jazakallah Khair for your responses",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 9
+    },
+    {
+      "title": "What is Tablighi Jamaat?",
+      "url": "https://tablighi-jamaat.com/en/what-is-tablighi-jamaat",
+      "snippet": "Tablighi Jamaat is a global movement within Islam that aims to revive the Iman (faith) of Muslims and encourage a return to the Sunnah (practices) of the",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10
+    },
+    {
+      "title": "Sheikh what are your thoughts on Tablighi Jamah #islam # ...",
+      "url": "https://www.youtube.com/watch?v=j4lXYaHrtJ0",
+      "snippet": "They are one of the kindest I've ever encountered in my life the sweetest people the most generous the most giving as individuals.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11
+    },
+    {
+      "title": "What is the Tablighi Jamaat? | Dr. Shabir Ally",
+      "url": "https://www.youtube.com/watch?v=_unIi_vLybI",
+      "snippet": "The Tablighi Jamaat is a movement that focuses on spiritual development and renewal and works to call Muslims back to the faith.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1050",
+    "text": "Dalits, Muslims treated worse than animals in Delhi slums: Mayawati",
+    "lang": "english"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Dalits, Muslims treated worse than animals in Mumbai slums",
+      "url": "https://www.firstpost.com/politics/dalits-muslims-treated-worse-than-animals-in-mumbai-slums-mayawati-1478653.html",
+      "snippet": "BSP chief Mayawati on Sunday alleged that poor people, especially Dalits and Muslims of Uttar Pradesh, who have come to Mumbai in search of jobs",
+      "bm25_score_raw": 14.018682023882507,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9059524536132812,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "'First Muslims, Now Dalits Being Oppressed In Name of ...",
+      "url": "https://www.ndtv.com/video/first-muslims-now-dalits-being-oppressed-in-name-of-cow-protection-mayawati-424540",
+      "snippet": "Dalit leader Mayawati said: \"In the name of cow protection, in the past one and a half years, first there were atrocities against Muslims, now",
+      "bm25_score_raw": 1.3664848944214882,
+      "bm25_score_norm": 0.09747598897624736,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8805283904075623,
+      "embedding_score_norm": 0.712623814740405,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Indian elections: Poor rally round as Mayawati defies ...",
+      "url": "https://www.theguardian.com/world/2009/may/08/indian-election-mayawati-kumari-profile",
+      "snippet": "Born a Dalit … to poor parents in a Delhi slum, she has defied deep-rooted prejudice throughout her political career. for India's 160 million",
+      "bm25_score_raw": 3.887491820571043,
+      "bm25_score_norm": 0.27730793907360435,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8661661744117737,
+      "embedding_score_norm": 0.5502831687410815,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Mayawati Should Blame Brahmins, Dalits and Herself for ...",
+      "url": "https://www.newsclick.in/mayawati-blame-brahmins-dalits-herself-BSP-debacle-muslims",
+      "snippet": "Blaming Muslims for her party's poor performance could turn the Dalits against the Muslims. It also proves the thesis that non-BJP parties take Muslim voters",
+      "bm25_score_raw": 1.6181928116067064,
+      "bm25_score_norm": 0.11543116598621188,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8613039255142212,
+      "embedding_score_norm": 0.49532363970533744,
+      "embedding_rank": 4
+    },
+    {
+      "title": "For Dalit-Muslim unity, Mayawati must focus on caste, not religion | SabrangIndia",
+      "url": "https://sabrangindia.in/article/dalit-muslim-unity-mayawati-must-focus-caste-not-religion",
+      "snippet": "# For Dalit-Muslim unity, Mayawati must focus on caste, not religion. ### The most backward among Muslims come closest to the Dalits when it comes to shared experience in facing Hindutva's wrath. For instance only 62% of Jatavs, who are the BSP’s mainstay, voted for the party, down from the whopping 86% who did in 2007, which was when it won a majority for the first time. Conducted between the last week of July and the first week of August this year, the pre-election survey showed 62% of Muslims supporting the Samajwadi Party, a substantial gain from votes the party polled from the community in 2012 (39%) and 2007 (45%). For a Dalit-Muslim consolidation to happen in the BSP’s favour in UP, and give her an edge in the election sweepstakes, CSDS’ Verma says, it will have to poll Dalit votes close to what it bagged in 2007 and also double its Muslim votes from the 20% it notched in 2012.",
+      "bm25_score_raw": 0.7788127715071539,
+      "bm25_score_norm": 0.055555348939390514,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.838168203830719,
+      "embedding_score_norm": 0.23381329862276104,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Casteism In Islam May Help Mayawati's Dalit-Muslim ...",
+      "url": "https://swarajyamag.com/politics/casteism-in-islam-may-help-mayawatis-dalit-muslim-coalition",
+      "snippet": "Despite Islam's egalitarian character, the Muslim community is highly fragmented at the social level, suffering from a virtual caste system.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8174828290939331,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "claim": {
+    "id": "S2/1487",
+    "text": "Jammu and Kashmir govt lifts weekend curfew despite rising Covid cases",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "No weekend lockdown in J&K; night curfew to remain in place [details]",
+      "url": "https://www.ibtimes.co.in/no-weekend-lockdown-jk-night-curfew-remain-place-details-839047",
+      "snippet": "As COVID positive cases show a declining trend, the Jammu and Kashmir Government on Sunday lifted the weekend COVID curfew in all districts",
+      "bm25_score_raw": 1.9547048645074907,
+      "bm25_score_norm": 0.41827719913373657,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.9191869497299194,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Weekend Covid curfew lifted from eight districts, restrictions eased in J-K",
+      "url": "https://www.business-standard.com/amp/article/current-affairs/weekend-covid-curfew-lifted-from-eight-districts-restrictions-eased-in-j-k-121062000550_1.html",
+      "snippet": "daily night curfew will continue to exist from 8 pm to 7 am. weekend curfew from Friday 8 pm till Monday 7 am",
+      "bm25_score_raw": 1.529430367286556,
+      "bm25_score_norm": 0.27088362269748306,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8992250561714172,
+      "embedding_score_norm": 0.6020752611899067,
+      "embedding_rank": 2
+    },
+    {
+      "title": "J&K Re-Imposes Weekend Lockdown, Extends Night Curfew As Covid ...",
+      "url": "https://www.ndtv.com/india-news/covid-19-amid-surge-in-cases-j-k-administration-re-imposes-weekend-lockdown-extends-night-curfew-2710537",
+      "snippet": "Jammu and Kashmir administration on Saturday re-imposed night curfew shall continue to remain in force in all districts from 9 pm-6 am with",
+      "bm25_score_raw": 1.6753073716143692,
+      "bm25_score_norm": 0.32144234072122824,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8981515169143677,
+      "embedding_score_norm": 0.580675095558732,
+      "embedding_rank": 3
+    },
+    {
+      "title": "COVID-19: Jammu and Kashmir govt extends night curfew to all 20 districts",
+      "url": "https://www.dnaindia.com/india/report-covid19-jammu-and-kashmir-extends-night-curfew-to-all-20-districts-check-details-2887197/amp",
+      "snippet": "Jammu and Kashmir government on Tuesday decided to extend the night curfew to all municipal/local urban body limits in all the 20 districts",
+      "bm25_score_raw": 3.6331489164255126,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8811336159706116,
+      "embedding_score_norm": 0.24143654745737136,
+      "embedding_rank": 4
+    },
+    {
+      "title": "J&K announces seven-hour relaxation in weekly Covid restrictions",
+      "url": "https://indianexpress.com/article/cities/jammu/jammu-kashmir-covid-weekend-restrictions-night-curfew-7749532/lite",
+      "snippet": "Apart from this, night curfew will continue to remain in force in all the districts from 9 pm to 6 am with complete restriction on non-essential",
+      "bm25_score_raw": 0.7478501978286253,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8735848665237427,
+      "embedding_score_norm": 0.09095813000740231,
+      "embedding_rank": 5
+    },
+    {
+      "title": "No weekend lockdown in 13 districts of J&K; night curfew to remain in place ...",
+      "url": "https://www.indiatoday.in/amp/coronavirus-outbreak/story/weekend-covid-lockdown-night-curfew-j-k-districts-1823802-2021-07-04",
+      "snippet": "The weekend lockdown has been lifted from Rajouri, Anantnag, Baramulla, Budgam and Pulwama in addition to the previous eight districts.",
+      "bm25_score_raw": 1.2666792745930127,
+      "bm25_score_norm": 0.17981814964957685,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8690219521522522,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6
+    }
+  ]
+}

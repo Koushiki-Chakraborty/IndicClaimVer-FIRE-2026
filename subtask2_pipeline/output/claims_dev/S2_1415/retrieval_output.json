@@ -1,0 +1,108 @@
+{
+  "claim": {
+    "id": "S2/1415",
+    "text": "46 inmates, 43 staffers of three jails in Delhi test positive for COVID-19",
+    "lang": "dev"
+  },
+  "generated_queries": {
+    "english_translation": "46 inmates, 43 staffers of three jails in Delhi test positive for COVID-19",
+    "native_query": "Delhi 46 inmates 43 staffers jails positive COVID",
+    "english_query": "Delhi 46 inmates 43 staffers jails positive COVID"
+  },
+  "native_retrieval": [
+    {
+      "title": "46 inmates, 43 staffers of three jails in Delhi test positive for Covid",
+      "url": "https://www.business-standard.com/article/current-affairs/46-inmates-43-staffers-of-three-jails-in-delhi-test-positive-for-covid-122011000137_1.html",
+      "snippet": "According to data shared by the jail authorities, 46 inmates tested positive till Sunday -- 29 inmates in Tihar and the remaining 17 in Mandoli jail. Among the"
+    },
+    {
+      "title": "Over 1000 COVID cases in Delhi police",
+      "url": "https://www.thehindu.com/news/cities/Delhi/over-1000-covid-cases-in-delhi-police-force/article38229132.ece",
+      "snippet": "Jan 11, 2022 — In a related development, 46 inmates and 43 prison staffers in Delhi have tested positive for COVID-19, prison officers said on Monday. “All"
+    },
+    {
+      "title": "Forty-six inmates and 43 staffers of three jails in Delhi have ...",
+      "url": "https://www.facebook.com/firstpostin/posts/forty-six-inmates-and-43-staffers-of-three-jails-in-delhi-have-tested-positive-f/4900228983370051",
+      "snippet": "Three Delhi jails turn into COVID-19 hotspots; 46 inmates and 43 staffers test positive for the virus. The total number of prisoners in all the three jails"
+    },
+    {
+      "title": "46 inmates, 43 staffers of three jails in Delhi test positive for ...",
+      "url": "https://www.indiatoday.in/coronavirus-outbreak/story/delhi-jail-covid-cases-inmates-staff-positive-omicron-1898066-2022-01-10",
+      "snippet": "Among the 43 infected staffers, 25 are from Tihar, 12 from Rohini jail and six from Mandoli jail. As part of the steps taken to contain the spread of the viral"
+    },
+    {
+      "title": "46 inmates, 43 staffers of three jails in Delhi test positive for ...",
+      "url": "https://www.moneycontrol.com/news/india/46-inmates-43-staffers-of-three-jails-in-delhi-test-positive-for-covid-19-7917651.html",
+      "snippet": "Jan 10, 2022 — According to data shared by the jail authorities, 46 inmates tested positive till Sunday — 29 inmates in Tihar and the remaining 17 in Mandoli"
+    },
+    {
+      "title": "About 1000 Delhi Police personnel, 46 prisoners in ...",
+      "url": "https://english.ratopati.com/story/23268/india-covid-19-police-delhi",
+      "snippet": "\"43 staff positive associated with jail administration, of which 25 are from Tihar jail, 12 are from Rohini Jail, 6 are from Mandoli Jail,\" he added. Goel said"
+    }
+  ],
+  "english_retrieval": [
+    {
+      "title": "46 inmates, 43 staffers of three jails in Delhi test positive for Covid",
+      "url": "https://www.business-standard.com/article/current-affairs/46-inmates-43-staffers-of-three-jails-in-delhi-test-positive-for-covid-122011000137_1.html",
+      "snippet": "According to data shared by the jail authorities, 46 inmates tested positive till Sunday -- 29 inmates in Tihar and the remaining 17 in Mandoli jail. Among the"
+    },
+    {
+      "title": "Over 1000 COVID cases in Delhi police",
+      "url": "https://www.thehindu.com/news/cities/Delhi/over-1000-covid-cases-in-delhi-police-force/article38229132.ece",
+      "snippet": "Jan 11, 2022 — In a related development, 46 inmates and 43 prison staffers in Delhi have tested positive for COVID-19, prison officers said on Monday. “All"
+    },
+    {
+      "title": "Forty-six inmates and 43 staffers of three jails in Delhi have ...",
+      "url": "https://www.facebook.com/firstpostin/posts/forty-six-inmates-and-43-staffers-of-three-jails-in-delhi-have-tested-positive-f/4900228983370051",
+      "snippet": "Three Delhi jails turn into COVID-19 hotspots; 46 inmates and 43 staffers test positive for the virus. The total number of prisoners in all the three jails"
+    },
+    {
+      "title": "46 inmates, 43 staffers of three jails in Delhi test positive for ...",
+      "url": "https://www.indiatoday.in/coronavirus-outbreak/story/delhi-jail-covid-cases-inmates-staff-positive-omicron-1898066-2022-01-10",
+      "snippet": "Among the 43 infected staffers, 25 are from Tihar, 12 from Rohini jail and six from Mandoli jail. As part of the steps taken to contain the spread of the viral"
+    },
+    {
+      "title": "46 inmates, 43 staffers of three jails in Delhi test positive for ...",
+      "url": "https://www.moneycontrol.com/news/india/46-inmates-43-staffers-of-three-jails-in-delhi-test-positive-for-covid-19-7917651.html",
+      "snippet": "Jan 10, 2022 — According to data shared by the jail authorities, 46 inmates tested positive till Sunday — 29 inmates in Tihar and the remaining 17 in Mandoli"
+    },
+    {
+      "title": "About 1000 Delhi Police personnel, 46 prisoners in ...",
+      "url": "https://english.ratopati.com/story/23268/india-covid-19-police-delhi",
+      "snippet": "\"43 staff positive associated with jail administration, of which 25 are from Tihar jail, 12 are from Rohini Jail, 6 are from Mandoli Jail,\" he added. Goel said"
+    }
+  ],
+  "merged_results": [
+    {
+      "title": "46 inmates, 43 staffers of three jails in Delhi test positive for Covid",
+      "url": "https://www.business-standard.com/article/current-affairs/46-inmates-43-staffers-of-three-jails-in-delhi-test-positive-for-covid-122011000137_1.html",
+      "snippet": "According to data shared by the jail authorities, 46 inmates tested positive till Sunday -- 29 inmates in Tihar and the remaining 17 in Mandoli jail. Among the"
+    },
+    {
+      "title": "Over 1000 COVID cases in Delhi police",
+      "url": "https://www.thehindu.com/news/cities/Delhi/over-1000-covid-cases-in-delhi-police-force/article38229132.ece",
+      "snippet": "Jan 11, 2022 — In a related development, 46 inmates and 43 prison staffers in Delhi have tested positive for COVID-19, prison officers said on Monday. “All"
+    },
+    {
+      "title": "Forty-six inmates and 43 staffers of three jails in Delhi have ...",
+      "url": "https://www.facebook.com/firstpostin/posts/forty-six-inmates-and-43-staffers-of-three-jails-in-delhi-have-tested-positive-f/4900228983370051",
+      "snippet": "Three Delhi jails turn into COVID-19 hotspots; 46 inmates and 43 staffers test positive for the virus. The total number of prisoners in all the three jails"
+    },
+    {
+      "title": "46 inmates, 43 staffers of three jails in Delhi test positive for ...",
+      "url": "https://www.indiatoday.in/coronavirus-outbreak/story/delhi-jail-covid-cases-inmates-staff-positive-omicron-1898066-2022-01-10",
+      "snippet": "Among the 43 infected staffers, 25 are from Tihar, 12 from Rohini jail and six from Mandoli jail. As part of the steps taken to contain the spread of the viral"
+    },
+    {
+      "title": "46 inmates, 43 staffers of three jails in Delhi test positive for ...",
+      "url": "https://www.moneycontrol.com/news/india/46-inmates-43-staffers-of-three-jails-in-delhi-test-positive-for-covid-19-7917651.html",
+      "snippet": "Jan 10, 2022 — According to data shared by the jail authorities, 46 inmates tested positive till Sunday — 29 inmates in Tihar and the remaining 17 in Mandoli"
+    },
+    {
+      "title": "About 1000 Delhi Police personnel, 46 prisoners in ...",
+      "url": "https://english.ratopati.com/story/23268/india-covid-19-police-delhi",
+      "snippet": "\"43 staff positive associated with jail administration, of which 25 are from Tihar jail, 12 are from Rohini Jail, 6 are from Mandoli Jail,\" he added. Goel said"
+    }
+  ]
+}

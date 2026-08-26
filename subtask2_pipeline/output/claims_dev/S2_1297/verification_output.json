@@ -1,0 +1,6 @@
+{
+  "ID": "S2/1297",
+  "Evidence": "भारत सरकार ने चीन, जापान, साउथ कोरिया, हांगकांग और थाईलैंड से आने वाले यात्रियों के लिए RT-PCR टेस्ट अनिवार्य किया है। यह नियम 1 जनवरी से लागू होगा, और यात्रियों को यात्रा से पहले अपनी RT-PCR रिपोर्ट एयर सुविधा पोर्टल पर अपलोड करनी होगी (Source 2)। केंद्रीय स्वास्थ्य मंत्री ने कहा कि यह कदम कोरोना के बढ़ते मामलों के मद्देनजर उठाया गया है (Source 1)।",
+  "Prediction": "REFUTES",
+  "Justification": "Retrieved evidence from Source 2 clearly states that RT-PCR tests are mandatory for travelers from China, Japan, South Korea, Hong Kong, and Thailand, contradicting the claim that such tests are not required. Therefore, the evidence directly refutes the claim's assertion."
+}

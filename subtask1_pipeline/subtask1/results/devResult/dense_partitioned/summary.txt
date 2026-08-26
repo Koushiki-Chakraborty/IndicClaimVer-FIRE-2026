@@ -1,0 +1,9 @@
+
+=== Dense partitioned per-language metrics ===
+Language      Success@3   nDCG@3      n   
+------------------------------------------
+Hindi         0.875       0.575       288 
+Bengali       0.687       0.490       179 
+English       0.874       0.626       398 
+Code-mixed    0.773       0.512       269 
+Overall       0.821       0.565       1134

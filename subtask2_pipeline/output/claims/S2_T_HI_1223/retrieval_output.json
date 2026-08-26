@@ -1,0 +1,138 @@
+{
+  "claim": {
+    "id": "S2/T/HI/1223",
+    "text": "खतरनाक अपशिष्ट निपटान प्राधिकरण के चलते रहने के दौरान तूतिकोरिन प्लांट कैसे बंद किया जा सकता है? सुप्रीम कोर्ट ने वेदांता से पूछा",
+    "lang": "hindi"
+  },
+  "generated_queries": {
+    "english_translation": "How can the Tuticorin plant be closed while the Hazardous Waste Disposal Authority is in operation? Supreme Court asked Vedanta",
+    "native_query": "वेदांता खतरन अपश पट करण चलत रहन सकत",
+    "english_query": "Tuticorin Hazardous Waste Disposal Authority Supreme Court Vedanta plant closed operation"
+  },
+  "native_retrieval": [
+    {
+      "title": "अनिल अग्रवाल को बड़ा झटका! खतरे में पड़ सकती है 'कॉपरटेक मेटल्स' की लिस्टिंग",
+      "url": "https://www.jagran.com/business/biz-vedanta-groupowned-coppertech-metals-faces-going-concern-warning-sec-filing-shows-40266609.html",
+      "snippet": "दरअसल, वेदांता ग्रुप के स्वामित्व वाली कॉपरटेक मेटल्स, जो इस साल अमेरिकी शेयर बाजार में लिस्टिंग की तैयारी में जुटी है, उसे यूएस रेगुलेटर से तगड़ा झटका लगा है। अमेरिकी सिक्योरिटी एंड एक्सचेंज कमीशन (SEC) द्वारा"
+    },
+    {
+      "title": "भ्रामक और आधारहीन…वेदांता ने अमेरिकी शॉर्ट सेलिंग कंपनी की रिपोर्ट पर किया ...",
+      "url": "https://www.livehindustan.com/business/vedanta-structure-ponzi-like-unsustainable-and-alleges-viceroy-research-group-rejects-claims-201752057930743.amp.html",
+      "snippet": "क्या है रिपोर्ट ... वायसराय रिसर्च ने अपनी रिपोर्ट में कहा है कि वह वेदांता लिमिटेड की मूल कंपनी और बहुलांश हिस्सेदारी रखने वाली वेदांता रिसोर्सेज के ऋण बॉन्ड की कीमत भविष्य में गिरने का दांव लगा रही है। डेब्ट कैटेगरी"
+    },
+    {
+      "title": "Vedanta Latest News, Updates in Hindi | वेदांता के समाचार और अपडेट",
+      "url": "https://www.aajtak.in/topic/vedanta",
+      "snippet": "छत्तीसगढ़ के वेदांता पावर प्लांट में बड़ा हादसा हुआ है. बॉयलर फटने से करीब 10 लोगों की मौत की खबर सामने आई है. जबकि 23 लोगों की हालत नाजुक बताई जा रही है. बॉयलर फटने से ब्लास्ट इतना भीषण ब्लास्ट हुआ कि दूर तक धुएं का गुबार"
+    },
+    {
+      "title": "Is Vedanta's Empire in Crisis? | U.S. Report Triggers Stock Fall ...",
+      "url": "https://www.youtube.com/watch?v=t1KEwgk01g0",
+      "snippet": "A recent American financial report has sparked major concerns about Vedanta Group's debt and governance, causing a sharp fall in its stock"
+    },
+    {
+      "title": "वेदांता ग्रुप के मुंबई-दिल्ली दफ्तरों पर ED की रेड: फेमा नियमों के उल्लंघन का आरोप",
+      "url": "https://www.bhaskar.com/amp/g/business/news/vedanta-group-ed-raid-fema-violation-rs74000cr-debt-138089813.html",
+      "snippet": "ED की कार्रवाई फॉरेन एक्सचेंज मैनेजमेंट एक्ट (FEMA) के नियमों के कथित उल्लंघन से जुड़ी हुई है। यह कार्रवाई ऐसे समय में हुई है, जब कंपनी अपने कारोबार को 5 अलग-अलग लिस्टेड कंपनियों में बांटने (डिमर्जर) की प्रक्रिया पर काम कर"
+    },
+    {
+      "title": "वेदांता के मालिक अनिल अग्रवाल, प्रबंधक देवेंद्र पटेल के खिलाफ FIR, छत्तीसगढ़ ...",
+      "url": "https://ndtv.in/india/fir-filed-against-vedanta-owner-anil-agarwal-in-the-power-plant-accident-that-killed-20-people-11369709",
+      "snippet": "वेदांता के मालिक अनिल अग्रवाल, प्रबंधक देवेंद्र पटेल के खिलाफ FIR, छत्तीसगढ़ पॉवर प्लांट हादसे में एक्‍शन. छत्तीसगढ़ में वेदांता पावर प्लांट में हुए भीषण बायलर विस्फोट मामले में 20 लोगों की मौत हो गई है. पुलिस"
+    }
+  ],
+  "english_retrieval": [
+    {
+      "title": "Supreme Court Rejects Vedanta's Plea To Inspect, Operate ...",
+      "url": "https://www.youtube.com/watch?v=jJcGW3BcBps",
+      "snippet": "Tuticorin in Tamil Nadu, which is closed since May 2018 over pollution concerns, and to operate it for four weeks to assess the pollution level."
+    },
+    {
+      "title": "Supreme Court Questions Vedanta on Tuticorin Copper ...",
+      "url": "https://www.livelaw.in/top-stories/supreme-court-vedanta-limited-tuticorin-copper-plant-vedanta-250266",
+      "snippet": "Supreme Court questions Vedanta on how it continued operating its copper plant in Tuticorin even after the authorization for hazardous waste"
+    },
+    {
+      "title": "Supreme Court dismisses Vedanta's appeal to reopen ...",
+      "url": "https://www.deccanherald.com/india/tamil-nadu/supreme-court-dismisses-vedantas-appeal-to-reopen-sterlite-copper-plant-in-thoothukudi-2915932",
+      "snippet": "The plant has been closed since May 2018 after 13 people were killed as police opened fire to quell a protest over alleged pollution caused by"
+    },
+    {
+      "title": "Supreme Court says Vedanta can refurbish closed plant in ...",
+      "url": "https://www.thehindu.com/news/national/sc-indicates-vedanta-can-refurbish-thoothukudi-plant-tn-says-nobody-has-a-right-to-set-up-a-polluting-industry/article67871567.ece",
+      "snippet": "Supreme Court allows Vedanta to refurbish Thoothukudi plant with upfront deposit for environmental safeguards, following expert advice."
+    },
+    {
+      "title": "SC junks Vedanta's plea to reopen Sterlite Copper's ... - Mint",
+      "url": "https://www.livemint.com/companies/news/setback-for-vedanta-as-sc-dismisses-plea-to-reopen-sterlite-copper-plant-in-tamil-nadus-thoothukudi-11709205833536.html",
+      "snippet": "“The Supreme Court's refusal to allow Vedanta to reopen its Sterlite copper smelting plant in Tuticorin sets a precedent for stringent"
+    },
+    {
+      "title": "India: Supreme Court dismisses Vedanta's plea to reopen ...",
+      "url": "https://www.business-humanrights.org/en/latest-news/india-supreme-court-rejects-vedantas-plea-to-reopen-thoothukudi-copper-plant-citing-pollution-concerns",
+      "snippet": "The top court upheld the decisions of the Tamil Nadu Pollution Control Board and the Madras high court's 2020 ruling to close the plant due to"
+    }
+  ],
+  "merged_results": [
+    {
+      "title": "अनिल अग्रवाल को बड़ा झटका! खतरे में पड़ सकती है 'कॉपरटेक मेटल्स' की लिस्टिंग",
+      "url": "https://www.jagran.com/business/biz-vedanta-groupowned-coppertech-metals-faces-going-concern-warning-sec-filing-shows-40266609.html",
+      "snippet": "दरअसल, वेदांता ग्रुप के स्वामित्व वाली कॉपरटेक मेटल्स, जो इस साल अमेरिकी शेयर बाजार में लिस्टिंग की तैयारी में जुटी है, उसे यूएस रेगुलेटर से तगड़ा झटका लगा है। अमेरिकी सिक्योरिटी एंड एक्सचेंज कमीशन (SEC) द्वारा"
+    },
+    {
+      "title": "भ्रामक और आधारहीन…वेदांता ने अमेरिकी शॉर्ट सेलिंग कंपनी की रिपोर्ट पर किया ...",
+      "url": "https://www.livehindustan.com/business/vedanta-structure-ponzi-like-unsustainable-and-alleges-viceroy-research-group-rejects-claims-201752057930743.amp.html",
+      "snippet": "क्या है रिपोर्ट ... वायसराय रिसर्च ने अपनी रिपोर्ट में कहा है कि वह वेदांता लिमिटेड की मूल कंपनी और बहुलांश हिस्सेदारी रखने वाली वेदांता रिसोर्सेज के ऋण बॉन्ड की कीमत भविष्य में गिरने का दांव लगा रही है। डेब्ट कैटेगरी"
+    },
+    {
+      "title": "Vedanta Latest News, Updates in Hindi | वेदांता के समाचार और अपडेट",
+      "url": "https://www.aajtak.in/topic/vedanta",
+      "snippet": "छत्तीसगढ़ के वेदांता पावर प्लांट में बड़ा हादसा हुआ है. बॉयलर फटने से करीब 10 लोगों की मौत की खबर सामने आई है. जबकि 23 लोगों की हालत नाजुक बताई जा रही है. बॉयलर फटने से ब्लास्ट इतना भीषण ब्लास्ट हुआ कि दूर तक धुएं का गुबार"
+    },
+    {
+      "title": "Is Vedanta's Empire in Crisis? | U.S. Report Triggers Stock Fall ...",
+      "url": "https://www.youtube.com/watch?v=t1KEwgk01g0",
+      "snippet": "A recent American financial report has sparked major concerns about Vedanta Group's debt and governance, causing a sharp fall in its stock"
+    },
+    {
+      "title": "वेदांता ग्रुप के मुंबई-दिल्ली दफ्तरों पर ED की रेड: फेमा नियमों के उल्लंघन का आरोप",
+      "url": "https://www.bhaskar.com/amp/g/business/news/vedanta-group-ed-raid-fema-violation-rs74000cr-debt-138089813.html",
+      "snippet": "ED की कार्रवाई फॉरेन एक्सचेंज मैनेजमेंट एक्ट (FEMA) के नियमों के कथित उल्लंघन से जुड़ी हुई है। यह कार्रवाई ऐसे समय में हुई है, जब कंपनी अपने कारोबार को 5 अलग-अलग लिस्टेड कंपनियों में बांटने (डिमर्जर) की प्रक्रिया पर काम कर"
+    },
+    {
+      "title": "वेदांता के मालिक अनिल अग्रवाल, प्रबंधक देवेंद्र पटेल के खिलाफ FIR, छत्तीसगढ़ ...",
+      "url": "https://ndtv.in/india/fir-filed-against-vedanta-owner-anil-agarwal-in-the-power-plant-accident-that-killed-20-people-11369709",
+      "snippet": "वेदांता के मालिक अनिल अग्रवाल, प्रबंधक देवेंद्र पटेल के खिलाफ FIR, छत्तीसगढ़ पॉवर प्लांट हादसे में एक्‍शन. छत्तीसगढ़ में वेदांता पावर प्लांट में हुए भीषण बायलर विस्फोट मामले में 20 लोगों की मौत हो गई है. पुलिस"
+    },
+    {
+      "title": "Supreme Court Rejects Vedanta's Plea To Inspect, Operate ...",
+      "url": "https://www.youtube.com/watch?v=jJcGW3BcBps",
+      "snippet": "Tuticorin in Tamil Nadu, which is closed since May 2018 over pollution concerns, and to operate it for four weeks to assess the pollution level."
+    },
+    {
+      "title": "Supreme Court Questions Vedanta on Tuticorin Copper ...",
+      "url": "https://www.livelaw.in/top-stories/supreme-court-vedanta-limited-tuticorin-copper-plant-vedanta-250266",
+      "snippet": "Supreme Court questions Vedanta on how it continued operating its copper plant in Tuticorin even after the authorization for hazardous waste"
+    },
+    {
+      "title": "Supreme Court dismisses Vedanta's appeal to reopen ...",
+      "url": "https://www.deccanherald.com/india/tamil-nadu/supreme-court-dismisses-vedantas-appeal-to-reopen-sterlite-copper-plant-in-thoothukudi-2915932",
+      "snippet": "The plant has been closed since May 2018 after 13 people were killed as police opened fire to quell a protest over alleged pollution caused by"
+    },
+    {
+      "title": "Supreme Court says Vedanta can refurbish closed plant in ...",
+      "url": "https://www.thehindu.com/news/national/sc-indicates-vedanta-can-refurbish-thoothukudi-plant-tn-says-nobody-has-a-right-to-set-up-a-polluting-industry/article67871567.ece",
+      "snippet": "Supreme Court allows Vedanta to refurbish Thoothukudi plant with upfront deposit for environmental safeguards, following expert advice."
+    },
+    {
+      "title": "SC junks Vedanta's plea to reopen Sterlite Copper's ... - Mint",
+      "url": "https://www.livemint.com/companies/news/setback-for-vedanta-as-sc-dismisses-plea-to-reopen-sterlite-copper-plant-in-tamil-nadus-thoothukudi-11709205833536.html",
+      "snippet": "“The Supreme Court's refusal to allow Vedanta to reopen its Sterlite copper smelting plant in Tuticorin sets a precedent for stringent"
+    },
+    {
+      "title": "India: Supreme Court dismisses Vedanta's plea to reopen ...",
+      "url": "https://www.business-humanrights.org/en/latest-news/india-supreme-court-rejects-vedantas-plea-to-reopen-thoothukudi-copper-plant-citing-pollution-concerns",
+      "snippet": "The top court upheld the decisions of the Tamil Nadu Pollution Control Board and the Madras high court's 2020 ruling to close the plant due to"
+    }
+  ]
+}

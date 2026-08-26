@@ -1,0 +1,76 @@
+{
+  "claim": {
+    "id": "S2/1208",
+    "text": "Delhi High Court Monthly Digest: June 2023 [Citations 400 - 460]",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Calcutta High Court Orders Arrest of Cricketer Abishek Porel in Rape and Blackmail Case With Private Photos - Republic World",
+      "url": "http://www.republicworld.com/sports/cricket/calcutta-high-court-orders-arrest-of-cricketer-abishek-porel-in-rape-and-blackmail-case-with-private-photos-2026-07-20-132925",
+      "snippet": "* Calcutta High Court Orders Arrest of Cricketer Abishek Porel in Rape and Blackmail Case With Private Photos. ## The Calcutta High Court has ordered the immediate arrest of Delhi Capitals cricketer Abishek Porel over rape and blackmail allegations. Abishek Porel Arrest Ordered by Calcutta High Court in Rape Case | Image: iplt20.com. In a major legal development, the Calcutta High Court has ordered the immediate arrest of Bengal and Delhi Capitals cricketer Abishek Porel. The orders come in light of serious allegations leveled by a medical student, who has accused the duo of rape, physical assault, and criminal intimidation. To protect the complainant's privacy and secure critical evidence, the Calcutta High Court has ordered the immediate seizure of electronic devices belonging to Porel and the co-accused. While Porel has previously denied the allegations, police confirmed to the court that efforts to locate and arrest the accused are currently underway.",
+      "bm25_score_raw": 4.148151008871521,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8209247589111328,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Hundreds of non-citizens voted in New Jersey due to software error, governor says - The Detroit News",
+      "url": "https://www.detroitnews.com/story/news/politics/2026/07/21/hundreds-of-non-citizens-voted-in-new-jersey-due-to-software-error-governor-says/91004007007/",
+      "snippet": "# Hundreds of non-citizens voted in New Jersey due to software error, governor says. *Princeton, New Jersey* - Nearly 400 New Jersey residents who were not U.S. citizens cast ballots after thousands of non-citizens were accidentally registered to vote between 2023 and 2024 due to a software error, Democratic Governor Mikie Sherrill said on Tuesday. The White House seized upon the disclosure to press Republican President Donald Trump's longstanding claim that voting by non-citizens is widespread, for which he has not presented evidence. The White House said in a statement that the New Jersey discovery proves that Democrats are wrong to suggest non-citizen voting is not a concern. Sherrill said the software glitch added about 6,600 non-citizens to the state's voter rolls between June 2023 and June 2024, even though they answered \"no\" when asked whether they were U.S. citizens while applying for driver's licenses or ID cards. \"We have no evidence at this time that any elections were swayed,\" Sherrill said.",
+      "bm25_score_raw": 1.8453534270253202,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.7955532073974609,
+      "embedding_score_norm": 0.634546007139705,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Kashmiri activist Khurram Parvez and journalist Irfan Mehraj freed on bail, under tight curbs - Greenwich Time",
+      "url": "https://www.greenwichtime.com/news/world/article/kashmiri-activist-khurram-parvez-and-journalist-22356946.php",
+      "snippet": "NEW DELHI (AP) — A prominent Kashmiri human rights activist and a renowned journalist have been released on bail after years of imprisonment on allegations of financing terrorism in the Indian-controlled portion of Kashmir. Rights activist Khurram Parvez and independent journalist Irfan Mehraj were arrested in 2021 and 2023 respectively, under India's terror laws. Despite their release from a New Delhi jail late Wednesday, both remain under tight court-imposed restrictions as the country’s federal counterterror agency seeks to reverse the ruling. Last week, a lower court in India allowed the two men to be released on bail, but India’s National Investigation Agency appealed the decision. Following their release, the Paris-based International Federation for Human Rights and the World Organization Against Torture said in a statement the two men were arrested on “trumped-up charges.” They also called on Indian authorities to drop all charges against them “as they are part of politically motivated proceedings aimed at discrediting their legitimate work and the JKCCS.”.",
+      "bm25_score_raw": 3.339593061143035,
+      "bm25_score_norm": 0.6488801473031562,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.7861545085906982,
+      "embedding_score_norm": 0.4991663475721054,
+      "embedding_rank": 3
+    },
+    {
+      "title": "‘Serious software error' leads to 400 non-citizens voting in New Jersey, Sherrill said - NBC New York",
+      "url": "https://www.nbcnewyork.com/new-jersey/serious-software-error-leads-to-400-non-citizens-voting-in-new-jersey-sherrill-said/6528421/?amp",
+      "snippet": "# ‘Serious software error' leads to 400 non-citizens voting in New Jersey, Sherrill said. A \"serious software error\" in New Jersey Motor Vehicle's system lead to roughly 400 non-citizens being registered to vote, Gov. Mikie Sherrill announced Tuesday. Around 6,600 people who indicated they were not citizens between June 2023 and June 2024 -- by answering \"no\" when asked if they were U.S. citizens when applying for a driver's' license or identification card -- were registered by the software system regardless \"through no fault of their own,\" Sherrill said. The NJ DMV will also replace the vendor who was responsible for the system, MVC Chair and Chief Administrator Rosalie Johnson said during a joint press conference Tuesday with Sherrill and Lt. Gov. \"In regards to the system error MVC experienced in '23 and '24, we are actively working with a new vendor to ensure that this type of technical malfunction does not happen in the future and expect to launch with the new vendor next year.\".",
+      "bm25_score_raw": 1.9449111552779315,
+      "bm25_score_norm": 0.04323338231612773,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.7852665185928345,
+      "embedding_score_norm": 0.4863756638740884,
+      "embedding_rank": 4
+    },
+    {
+      "title": "6,600 noncitizens were registered to vote in N.J. because of a ‘software error,’ governor says - NBC News",
+      "url": "https://www.nbcnews.com/politics/2026-election/6600-noncitizens-registered-vote-nj-software-error-governor-says-rcna588524",
+      "snippet": "# 6,600 noncitizens were registered to vote in N.J. because of a ‘software error,’ governor says. Democratic Gov. Mikie Sherrill said a review found that around 400 noncitizens cast ballots in elections between 2023 and 2024. Roughly 6,600 noncitizens were unwittingly registered to vote in New Jersey between 2023 and 2024, Gov. Mikie Sherrill said Tuesday. She added that it is unclear at this point which elections they voted in and that there was “no evidence at this time that any elections were swayed” as a result. Sherill said the names are currently being removed from the voter rolls, and that the noncitizens had been registered through no fault of their own because of “a serious software error in New Jersey’s Motor Vehicle System” between June of 2023 and June of 2024. While the number of noncitizens who cast ballots in New Jersey represents a tiny percentage of the state’s overall electorate, the finding could add fuel to President Donald Trump’s claims that they are voting in large numbers in U.S. elections.",
+      "bm25_score_raw": 1.9208881428177496,
+      "bm25_score_norm": 0.032801283268619544,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.777080774307251,
+      "embedding_score_norm": 0.3684675047263199,
+      "embedding_rank": 5
+    },
+    {
+      "title": "D.M.V. Error Led to 400 Noncitizens Voting in New Jersey, Governor Says - The New York Times",
+      "url": "https://www.nytimes.com/2026/07/21/nyregion/noncitizen-voting-new-jersey-error.html",
+      "snippet": "Skip to contentSkip to site index. New York|D.M.V. Error Led to 400 Noncitizens Voting in New Jersey, Governor Says. # D.M.V. Error Led to 400 Noncitizens Voting in New Jersey, Governor Says. A software glitch in 2023 at the New Jersey Department of Motor Vehicles led to roughly 6,600 noncitizens being registered to vote, Gov. Mikie Sherrill announced on Tuesday. Roughly 400 noncitizens voted in New Jersey after about 6,600 residents were improperly registered to vote between June 2023 and June 2024 because of a software error at the Department of Motor Vehicles, Gov. Mikie Sherrill announced on Tuesday. All of the people affected had disclosed that they were not citizens when registering for either a driver’s license or ID, but were nonetheless placed on the voter rolls in error. Ms. Sherrill, a Democrat who took over in January, held a news conference to disclose the error tied to a software vendor that is being phased out of use in New Jersey.",
+      "bm25_score_raw": 2.235811466831169,
+      "bm25_score_norm": 0.16955812481477867,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.7515000104904175,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6
+    }
+  ]
+}

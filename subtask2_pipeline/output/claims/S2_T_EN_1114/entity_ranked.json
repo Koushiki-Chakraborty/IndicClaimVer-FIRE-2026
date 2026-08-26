@@ -1,0 +1,99 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1114",
+    "text": "Madhusudan Mistry wants Priyanka Gandhi  to campaign for him in Vadodara",
+    "lang": "english"
+  },
+  "entity_ranked_evidence": [
+    {
+      "title": "Madhusudan Mistry wants Priyanka Gandhi to campaign ...",
+      "url": "https://www.ndtv.com/elections-news/madhusudan-mistry-wants-priyanka-gandhi-to-campaign-for-him-in-vadodara-556292",
+      "snippet": "Amid reports that Priyanka Gandhi will share campaign responsibilities with her brother Rahul, Congress General Secretary Madhusudan Mistry",
+      "bm25_score_raw": 1.7749201627123947,
+      "bm25_score_norm": 0.27007190562291394,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8986088037490845,
+      "embedding_score_norm": 0.3956071076011846,
+      "embedding_rank": 2,
+      "entity_overlap_raw": 2,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 1
+    },
+    {
+      "title": "Madhusudan Mistry wants Priyanka Gandhi to campaign ...",
+      "url": "https://www.indiatvnews.com/politics/national/madhusudan-mistry-priyanka-gandhi-campaign-vadodara-16310.html",
+      "snippet": "New Delhi: Amid reports that Priyanka Gandhi will share campaign responsibilities with her brother Rahul, Congress General Secretary",
+      "bm25_score_raw": 1.565886221568186,
+      "bm25_score_norm": 0.1708065196130336,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8958818912506104,
+      "embedding_score_norm": 0.2219037132660035,
+      "embedding_rank": 3,
+      "entity_overlap_raw": 2,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 2
+    },
+    {
+      "title": "Madhusudhan Mistry wants Priyanka to campaign for him",
+      "url": "https://english.newsnationtv.com/election/lok-sabha-election/madhusudhan-mistry-wants-priyanka-to-campaign-for-him-37918.html",
+      "snippet": "Amid reports that Priyanka Gandhi will share campaign responsibilities with her brother Rahul, Congress General Secretary Madhusudan Mistry",
+      "bm25_score_raw": 1.565886221568186,
+      "bm25_score_norm": 0.1708065196130336,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8940709829330444,
+      "embedding_score_norm": 0.10654947224542487,
+      "embedding_rank": 4,
+      "entity_overlap_raw": 2,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 3
+    },
+    {
+      "title": "Mistry wants Priyanka to campaign for him",
+      "url": "https://www.thehindu.com/news/national/other-states/mistry-wants-priyanka-to-campaign-for-him/article5875727.ece",
+      "snippet": "Amid reports that Priyanka Gandhi will share campaign responsibilities with her brother Rahul, Congress general secretary Madhusudan Mistry on Saturday said",
+      "bm25_score_raw": 1.525029090933054,
+      "bm25_score_norm": 0.15140441284724993,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8925462961196899,
+      "embedding_score_norm": 0.009427443237907207,
+      "embedding_rank": 5,
+      "entity_overlap_raw": 2,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 4
+    },
+    {
+      "title": "Priyanka won't campaign in Varanasi",
+      "url": "https://timesofindia.indiatimes.com/top-stories/priyanka-wont-campaign-in-varanasi/articleshow/34760400.cms",
+      "snippet": "... Priyanka to campaign against Modi. First, AICC general secretary Madhusudan Mistry asked her to campaign in Vadodara; then Rai sought her help in Varanasi.",
+      "bm25_score_raw": 1.2062003189285266,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8923982977867126,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6,
+      "entity_overlap_raw": 2,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 5
+    },
+    {
+      "title": "Exclusive! Priyanka may campaign for Mistry in Vadodara",
+      "url": "https://www.rediff.com/news/report/ls-election-exclusive-priyanka-may-campaign-for-mistry-in-vadodara/20140404.htm",
+      "snippet": "Priyanka Vadra, who has been helping the Congress war-room in strategising its election campaign, may be taking baby steps towards a more",
+      "bm25_score_raw": 3.3120092977341167,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.908096969127655,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 6
+    }
+  ]
+}

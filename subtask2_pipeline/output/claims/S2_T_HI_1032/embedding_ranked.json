@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/HI/1032",
+    "text": "सुरेंद्रनगर रैली में PM मोदी ने कांग्रेस अध्यक्ष चुनाव की निष्पक्षता की तारीफ की, जिससे भीड़ ने उनकी बातों पर शांत प्रतिक्रिया दी।",
+    "lang": "hindi"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Throwback to 2009, Modi's sharp words on Congress ...",
+      "url": "https://www.facebook.com/bharat.archives/posts/throwback-to-2009-modis-sharp-words-on-congress-during-an-election-rallypolitics/1238462244989230",
+      "snippet": "Throwback to 2009, Modi's sharp words on Congress during an election rally. Politics has always been full of fiery speeches, but some lines",
+      "bm25_score_raw": 3.5378400975795112,
+      "bm25_score_norm": 0.7731757989476106,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8482034206390381,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "India's Elections: Snapshots From the World's Biggest Vote",
+      "url": "https://time.com/102149/india-elections-narendra-modi-photos",
+      "snippet": "May 15, 2014 — Supporters of BJP leader Narendra Modi cheer during his speech at a rally by the leader.Read more",
+      "bm25_score_raw": 3.7877979894265814,
+      "bm25_score_norm": 0.8278027429025798,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8434768319129944,
+      "embedding_score_norm": 0.9516685235614347,
+      "embedding_rank": 2
+    },
+    {
+      "title": "PM Narendra Modi Expresses Gratitude for BJP's Big Win ...",
+      "url": "https://newsonair.gov.in/pm-narendra-modi-expresses-gratitude-for-bjps-big-win-in-gujarat-local-polls",
+      "snippet": "18 hours ago — The Bharatiya Janata Party has registered a landslide victory in the local body elections in Gujarat, sweeping all major Municipal ...Read more",
+      "bm25_score_raw": 1.2284145013050762,
+      "bm25_score_norm": 0.268463338446301,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.8352981209754944,
+      "embedding_score_norm": 0.8680375588456859,
+      "embedding_rank": 3
+    },
+    {
+      "title": "PM Modi Calls Rahul Gandhi 'Rajkumar', Predicts ...",
+      "url": "https://timesofindia.indiatimes.com/videos/the-narrative-election-special/news/pm-modi-targets-rahul-gandhi-as-rajkumar-predicts-congress-hat-trick-defeat-in-mega-assam-rally/videoshow/129947371.cms",
+      "snippet": "Apr 1, 2026 — The Assam election campaign has intensified as Narendra Modi delivered a fiery speech targeting Congress and its leadership.",
+      "bm25_score_raw": 4.575725342664574,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8262171149253845,
+      "embedding_score_norm": 0.7751802244364101,
+      "embedding_rank": 4
+    },
+    {
+      "title": "प्रधानमंत्री ने गुजरात के सुरेंद्रनगर जिले में हुई दुखद घटना में जनहानि पर शोक व्यक्त किया | भारत के प्रधानमंत्री",
+      "url": "https://www.pmindia.gov.in/hi/news_updates/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A7%E0%A4%BE%E0%A4%A8%E0%A4%AE%E0%A4%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A5%80-%E0%A4%A8%E0%A5%87-%E0%A4%97%E0%A5%81%E0%A4%9C%E0%A4%B0%E0%A4%BE%E0%A4%A4-%E0%A4%95-68?comment=disable",
+      "snippet": "Title: प्रधानमंत्री ने गुजरात के सुरेंद्रनगर जिले में हुई दुखद घटना में जनहानि पर शोक व्यक्त किया | भारत के प्रधानमंत्री\n# पीएमइंडियापीएमइंडिया. #### न्यूज अपडेट्स. ## प्रधानमंत्री ने गुजरात के सुरेंद्रनगर जिले में हुई दुखद घटना में जनहानि पर शोक व्यक्त किया. प्रधानमंत्री श्री नरेन्द्र मोदी ने आज गुजरात के सुरेंद्रनगर जिले में हुई दुखद घटना पर अपनी गहरी संवेदना व्यक्त की है।. प्रधानमंत्री ने इस दुखद घटना में अपने प्रियजनों को खोने वाले परिवारों के प्रति अपनी गहरी संवेदना व्यक्त की। श्री मोदी ने कहा कि वह इस हादसे में घायल हुए सभी लोगों के शीघ्र स्वस्थ होने की कामना करते हैं।. प्रधानमंत्री ने एक्स पर लिखा:. “गुजरात के सुरेंद्रनगर जिले में हुई दुर्घटना अत्यंत दुखद है। अपने प्रियजनों को खोने वाले परिवारों के प्रति मेरी गहरी संवेदनाएं। मैं घायलों के शीघ्र स्वस्थ होने की कामना करता हूँ।“. The mishap in Surendranagar district, Gujarat, is deeply distressing. Heartfelt condolences to those who have lost their loved ones. Prayers for the speedy recovery of the injured: PM @narendramodi. — PMO India (@PMOIndia) April 13, 2026. **पीके/केसी/डीवी**. The mishap in Surendranagar district, Gujarat, is deeply distressing. Heartfelt condolences to those who have lost their loved ones. Prayers for the speedy recovery of the injured: PM @narendramodi. ### लोकप्रिय समाचार. ### नवीनतम समाचार.",
+      "bm25_score_raw": 3.537375328960678,
+      "bm25_score_norm": 0.7730742262822892,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8172398805618286,
+      "embedding_score_norm": 0.6833840017748176,
+      "embedding_rank": 5
+    },
+    {
+      "title": "‘We will defeat Narendra Modi and BJP in Gujarat’: Shri Rahul Gandhi at public gathering in Ahmedabad",
+      "url": "https://inc.in/congress-sandesh/national/we-will-defeat-narendra-modi-and-bjp-in-gujarat-shri-rahul-gandhi-at-public-gathering-in-ahmedabad",
+      "snippet": "Ahmedabad: Congress MP Shri Rahul Gandhi while addressing Party workers in Ahmedabad on July 6, 2024, said that together they will defeat “Prime Minister Narendra Modi and BJP in Gujarat like they did in Ayodhya.”. He also said that the people of Ayodhya lost their land when the airport was built, they were unhappy when no one invited them for the ‘Pran Pratistha ceremony’. The people of Ayodhya were upset that no one from Ayodhya was invited to the inauguration of the Ram Temple... The movement which was started by Advani Ji, whose centre was Ayodhya, INDIA Alliance has defeated that movement in Ayodhya...” Shri Rahul Gandhi said. Flagging the reasons behind BJP’s loss in Faizabad constituency (which includes Ayodhya) in the general election, Shri Rahul Gandhi said: “To clean up the area in Ayodhya to construct the Ram Temple, a lot of land was taken from the people and till date, the Narendra Modi government has not compensated them.",
+      "bm25_score_raw": 1.5483526053088035,
+      "bm25_score_norm": 0.3383840788851094,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.8127632141113281,
+      "embedding_score_norm": 0.6376080919979619,
+      "embedding_rank": 6
+    },
+    {
+      "title": "Seeing phenomenal support for BJP in Bharuch and ...",
+      "url": "https://www.facebook.com/narendramodi/posts/seeing-phenomenal-support-for-bjp-in-bharuch-and-surendranagar-where-i-addressed/10159748031195165",
+      "snippet": "Narendra Modi, the real hero. The real statesman ( but not a politician). Real worshipper of mother India. 8y.Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.8044015169143677,
+      "embedding_score_norm": 0.5521060112193825,
+      "embedding_rank": 7
+    },
+    {
+      "title": "पंतप्रधानांनी गुजरातच्या सुरेंद्रनगर जिल्ह्यातील दुर्घटनेतील जीवितहानीबद्दल शोक केला व्यक्त | भारताचे पंतप्रधान",
+      "url": "https://www.pmindia.gov.in/mr/news_updates/%E0%A4%AA%E0%A4%82%E0%A4%A4%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A7%E0%A4%BE%E0%A4%A8%E0%A4%BE%E0%A4%82%E0%A4%A8%E0%A5%80-%E0%A4%97%E0%A5%81%E0%A4%9C%E0%A4%B0%E0%A4%BE%E0%A4%A4%E0%A4%9A%E0%A5%8D-3?comment=disable",
+      "snippet": "Title: पंतप्रधानांनी गुजरातच्या सुरेंद्रनगर जिल्ह्यातील दुर्घटनेतील जीवितहानीबद्दल शोक केला व्यक्त | भारताचे पंतप्रधान\n# पीएम्इंडियापीएम्इंडिया. पीएम्इंडिया. #### ताज्या घडामोडी. ## पंतप्रधानांनी गुजरातच्या सुरेंद्रनगर जिल्ह्यातील दुर्घटनेतील जीवितहानीबद्दल शोक केला व्यक्त. नवी दिल्‍ली, 13 एप्रिल 2026. पंतप्रधानांनी गुजरातच्या सुरेंद्रनगर जिल्ह्यातील दुर्घटनेतील जीवितहानीबद्दल शोक व्यक्त केला. पंतप्रधान नरेंद्र मोदी यांनी आज गुजरातच्या सुरेंद्रनगर जिल्ह्यात घडलेल्या दुर्दैवी दुर्घटनेबद्दल तीव्र दुःख व्यक्त केले आहे. या भीषण अपघातात ज्यांनी आपले नातेवाईक आणि प्रियजन गमावले आहेत, त्यांच्याप्रती पंतप्रधानांनी आपल्या संवेदना व्यक्त केल्या. तसेच, या दुर्घटनेत जखमी झालेल्या नागरिकांच्या प्रकृतीत लवकरात लवकर सुधारणा व्हावी, अशी प्रार्थनाही मोदी यांनी केली आहे. पंतप्रधानांनी एक्स वर केलेल्या एका संदेशात म्हटले आहे की,. गुजरातच्या सुरेंद्रनगर जिल्ह्यात घडलेली दुर्घटना अत्यंत वेदनादायक आहे. ज्यांनी आपले प्रियजन गमावले आहेत त्यांच्याबद्दल मी माझ्या संवेदना व्यक्त करतो. जखमींच्या प्रकृतीत लवकरात लवकर सुधारणा व्हावी यासाठी मी प्रार्थना करतो. The mishap in Surendranagar district, Gujarat, is deeply distressing. Heartfelt condolences to those who have lost their loved ones. Prayers for the speedy recovery of the injured: PM @narendramodi. — PMO India (@PMOIndia) April 13, 2026. नेहा कुलकर्णी/राज दळेकर/दर्शना राणे. सोशल मिडियावर आम्हाला फॉलो करा:PM India. @PIBMumbai   Image result for facebook icon /PIBMumbai   PM India /pibmumbai  PM Indiapibmumbai@gmail.com  PM India/PIBMumbai   PM India /pibmumbai. Image result for facebook icon. The mishap in Surendranagar district, Gujarat, is deeply distressing. Heartfelt condolences to those who have lost their loved ones. Prayers for the speedy recovery of the injured: PM @narendramodi. ### लोकप्रिय बातम्या. ### ताज्या बातम्या.",
+      "bm25_score_raw": 3.819199933907911,
+      "bm25_score_norm": 0.8346654678543015,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8032227754592896,
+      "embedding_score_norm": 0.5400528544576445,
+      "embedding_rank": 8
+    },
+    {
+      "title": "गुजरात चुनावः पीएम मोदी की आज तीन चुनावी रैलियां | Gujarat Election: PM Modi's three election rallies today | गुजरात चुनावः पीएम मोदी की आज तीन चुनावी रैलियां",
+      "url": "https://jantaserishta.com/national/gujarat-election-pm-modis-three-election-rallies-today-1767387",
+      "snippet": "Title: गुजरात चुनावः पीएम मोदी की आज तीन चुनावी रैलियां | Gujarat Election: PM Modi's three election rallies today | गुजरात चुनावः पीएम मोदी की आज तीन चुनावी रैलियां\n+ उत्तर प्रदेश. + महाराष्ट्र. + पश्चिम बंगाल. + हिमाचल प्रदेश. + अरुणाचल प्रदेश. + आंध्र प्रदेश. + जम्मू और कश्मीर. * प्रौद्योगिकी. * लाइफ स्टाइल. + धर्म-अध्यात्म. * दिल्ली-एनसीआर. ### Breaking. * गुजरात चुनावः पीएम... # गुजरात चुनावः पीएम मोदी की आज तीन चुनावी रैलियां. 21 Nov 2022 6:22 AM IST. गुजरात। गुजरात विधानसभा चुनाव में भारतीय जनता पार्टी (भाजपा) के पक्ष में माहौल बनाने के लिए प्रधानमंत्री नरेंद्र मोदी ताबड़तोड़ रैलियां कर रहे हैं। इसी कड़ी में पीएम मोदी का आज काफी व्यस्त कार्यक्रम है। वह गुजरात में भाजपा के विजय संकल्प सम्मेलन की तीन रैलियों को संबोधित करेंगे। पीएम मोदी की पहली रैली सुबह 11 बजे सुरेंद्रनगर में होगी इसके बाद दोपहर करीब एक बजे जंबूसर और फिर तीन बजे नवसारी में चुनावी सभा करेंगे। पीएम मोदी ने पिछले विधानसभा चुनाव में गुजरात में 34 जनसभाएं की थीं, इस बार वे कम से कम 25 चुनावी सभाएं करने वाले हैं।. वहीं, केंद्रीय गृह मंत्री अमित शाह अगले महीने होने वाले गुजरात विधानसभा चुनाव से पहले सोमवार को राज्य के द्वारका, सोमनाथ, जूनागढ़ और कच्छ जिलों में चार जनसभाओं को संबोधित करेंगे।सुबह करीब 11 बजे शाह पहली जनसभा को द्वारका जिले के खंभालिया विधानसभा क्षेत्र में संबोधित करेंगे। इसके बाद दोपहर एक बजे कोदिनार के सोमनाथ में वे दूसरी रैली को संबोधित करेंगे।इसके साथ ही गृह मंत्री जूनागढ़ के मांगरोल विधानसभा क्षेत्र में दोपहर तीन बजे तीसरी और कच्छ के भुज विधानसभा क्षेत्र में शाम चार बजे चौथी जनसभा को संबोधित करेंगे।. वहीं, उत्तर प्रदेश के मुख्यमंत्री और गुजरात चुनाव के लिए भाजपा के स्टार प्रचारक योगी आदित्यनाथ महेमदावाद विधानसभा क्षेत्र में दोपहर तीन बजे एक जनसभा को संबोधित करेंगे।. TagsGujarat electionsPM Modi's three election rallies todayPM Modi in Gujarat. ## Nilmani Pal. #### छत्तीसगढ़. #### विश्व.",
+      "bm25_score_raw": 3.197960166145287,
+      "bm25_score_norm": 0.6988968800918073,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.7842256426811218,
+      "embedding_score_norm": 0.345798704480683,
+      "embedding_rank": 9
+    },
+    {
+      "title": "PM मोदी - Political Insight",
+      "url": "https://politicalinsight.in/tag/pm-%E0%A4%AE%E0%A5%8B%E0%A4%A6%E0%A5%80",
+      "snippet": "Title: PM मोदी - Political Insight\nपश्चिम एशिया संकट PM मोदी ने संसद के उच्च सदन में रखा सरकार का पक्ष. ##### पश्चिम एशिया संकट PM मोदी ने संसद के उच्च सदन में रखा सरकार का पक्ष. नई दिल्लीः-  PM मोदी ने पश्चिम एशिया में जारी संघर्ष के बीच शांति बहाली के लिए संवाद और कूटनीति को ही सबसे प्रभावी रास्ता बताया है। राज्यसभा में इस मुद्दे…. नई दिल्लीः- PM मोदी ने कहा है कि पश्चिम एशिया में जारी तनाव के बीच भारत का संतुलित और सक्रिय दृष्टिकोण उसकी मजबूत कूटनीतिक क्षमता और संकट प्रबंधन की दक्षता…. नई दिल्लीः-  PM मोदी ने पश्चिम एशिया में जारी संघर्ष के मद्देनज़र देश की तैयारी और प्रभावों की समीक्षा के लिए मंत्रिमंडल की सुरक्षा मामलों की समिति (CCS) की उच्चस्तरीय…. PM मोदी ने ईरान के राष्ट्रपति से की फोन पर बातचीत, क्षेत्रीय तनाव पर जताई चिंता. पश्चिम एशिया संकट: PM मोदी ने कुवैत, कतर और ओमान के नेताओं से की बात, क्षेत्रीय शांति पर दिया जोर. ##### पश्चिम एशिया संकट: PM मोदी ने कुवैत, कतर और ओमान के नेताओं से की बात, क्षेत्रीय शांति पर दिया जोर. नई दिल्ली:- PM मोदी ने पश्चिम एशिया में हालिया घटनाक्रमों के बीच कुवैत, कतर और ओमान के शीर्ष नेतृत्व से टेलीफोन पर बातचीत की और क्षेत्रीय शांति व स्थिरता पर…. मिडिल ईस्ट में बढ़ते संघर्ष के बीच PM मोदी ने वैश्विक मंच से एक बार फिर दिया शांति और स्थिरता का संदेश. ##### मिडिल ईस्ट में बढ़ते संघर्ष के बीच PM मोदी ने वैश्विक मंच से एक बार फिर दिया शांति और स्थिरता का संदेश. नई दिल्लीः- मिडिल ईस्ट में बढ़ते संघर्ष के बीच PM मोदी ने वैश्विक मंच से एक बार फिर शांति और स्थिरता का संदेश दिया। नई दिल्ली में कनाडा के प्रधानमंत्री…. अमेरिका–इजराइल और ईरान के बीच बढ़ते तनाव को लेकर PM मोदी ने इजराइल के PM नेतन्याहू से की टेलीफोन पर बातचीत. ##### अमेरिका–इजराइल और ईरान के बीच बढ़ते तनाव को लेकर PM मोदी ने इजराइल के PM नेतन्याहू से की टेलीफोन पर बातचीत. नई दिल्लीः- अमेरिका–इजराइल और ईरान के बीच बढ़ते तनाव के बीच PM मोदी ने इजराइल के PM बेंजामिन नेतन्याहू से टेलीफोन पर बातचीत की। प्रधानमंत्री ने सोशल मीडिया प्लेटफॉर्म X….",
+      "bm25_score_raw": 1.7177890766069728,
+      "bm25_score_norm": 0.3754135023337427,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.7731931805610657,
+      "embedding_score_norm": 0.23298686196161225,
+      "embedding_rank": 10
+    },
+    {
+      "title": "Read all Latest Updates on and about Surendranagar",
+      "url": "https://jantaserishta.com/tags/surendranagar",
+      "snippet": "Title: Read all Latest Updates on and about Surendranagar\n+ मध्य प्रदेश. + उत्तर प्रदेश. + हिमाचल प्रदेश. + अरुणाचल प्रदेश. + आंध्र प्रदेश. + मध्य प्रदेश. + उत्तर प्रदेश. + हिमाचल प्रदेश. + अरुणाचल प्रदेश. + आंध्र प्रदेश. गुजरात के सुरेंद्रनगर में दर्दनाक सड़क हादसा: तेज रफ्तार ट्रक ने श्रद्धालुओं को रौंदा, 7 की मौत, कई घायल. ## गुजरात के सुरेंद्रनगर में दर्दनाक सड़क हादसा: तेज रफ्तार ट्रक ने श्रद्धालुओं को रौंदा, 7 की मौत, कई घायल. गुजरात के सुरेंद्रनगर में दर्दनाक सड़क हादसा. 13 April 2026 12:25 PM IST. 13 April 2026 11:54 AM IST. कार और SUV की टक्कर में 8 की मौत, तीन घायल. ## कार और SUV की टक्कर में 8 की मौत, तीन घायल. 17 Aug 2025 10:42 PM IST. 31 March 2025 7:16 AM IST. गुजरात के सुरेंद्रनगर में भीषण सड़क हादसा, पांच की मौत. ## गुजरात के सुरेंद्रनगर में भीषण सड़क हादसा, पांच की मौत. 24 Feb 2025 8:14 AM IST. प्रसाद खाने से 30 लोगों की हालत खराब, अस्पताल में चल रहा इलाज. ## प्रसाद खाने से 30 लोगों की हालत खराब, अस्पताल में चल रहा इलाज. 11 Oct 2024 12:24 PM IST. 9 Sept 2024 10:57 AM IST. Surendranagar : जिले में डुप्लीकेट खाद का खुलासा, 200 से ज्यादा किसान प्रभावित. ## Surendranagar : जिले में डुप्लीकेट खाद का खुलासा, 200 से ज्यादा किसान प्रभावित. 6 Aug 2024 12:56 PM IST. कांग्रेस हिंदू समाज को विभाजित करने की कोशिश कर रही है: गुजरात के सुरेंद्रनगर में पीएम मोदी. ## \"कांग्रेस हिंदू समाज को विभाजित करने की कोशिश कर रही है\": गुजरात के सुरेंद्रनगर में पीएम मोदी. 2 May 2024 2:29 PM IST. 30 March 2024 9:55 AM IST. सुरेंद्रनगर में एस.टी. ## सुरेंद्रनगर में एस.टी. 21 March 2024 11:52 AM IST. सुरेंद्रनगर में युवक की दिल का दौरा पड़ने से मौत. ## सुरेंद्रनगर में युवक की दिल का दौरा पड़ने से मौत. 14 Dec 2023 1:48 PM IST. केजीएफ फिल्म की क्रूरता सुरेंद्रनगर में देखने को मिली, जहां मजदूरों को जंजीरों में बांधकर काम कराया गया. ## केजीएफ फिल्म की क्रूरता सुरेंद्रनगर में देखने को मिली, जहां मजदूरों को जंजीरों में बांधकर काम कराया गया. 2 Oct 2023 2:03 PM IST. 29 Sept 2023 1:33 PM IST.",
+      "bm25_score_raw": 3.7174957601516687,
+      "bm25_score_norm": 0.8124385713209932,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.7608720064163208,
+      "embedding_score_norm": 0.10699736459092649,
+      "embedding_rank": 11
+    },
+    {
+      "title": "India Russia Deal : Iran War के बीच भारत पहुंचें Deputy PM Denis Manturov, क्या पक रहा? | India russia deepen ties denis manturov visit trade defence energy cooperation",
+      "url": "https://www.tv9hindi.com/videos/india-russia-deepen-ties-denis-manturov-visit-trade-defence-energy-cooperation-3740181.html/amp",
+      "snippet": "Title: India Russia Deal : Iran War के बीच भारत पहुंचें Deputy PM Denis Manturov, क्या पक रहा? | India russia deepen ties denis manturov visit trade defence energy cooperation\n# India Russia Deal : Iran War के बीच भारत पहुंचें Deputy PM Denis Manturov, क्या पक रहा? ## रूस के प्रथम उप प्रधानमंत्री डेनिस मांतुरोव के भारत दौरे से व्यापार, ऊर्जा और रक्षा संबंधों को नई दिशा मिली है. उन्होंने प्रधानमंत्री नरेंद्र मोदी सहित कई वरिष्ठ भारतीय अधिकारियों से मुलाकात की. इस दौरान 2023 तक 100 अरब डॉलर व्यापार का लक्ष्य निर्धारित किया गया, साथ ही कच्चे तेल, उर्वरक आपूर्ति और एस-400 मिसाइल डिफेंस सिस्टम के सौदों पर महत्वपूर्ण चर्चा हुई. रूस के प्रथम उप प्रधानमंत्री डेनिस मांतुरोव ने 2 अप्रैल को दो दिवसीय दौरे पर भारत पहुंचकर द्विपक्षीय संबंधों को मजबूत किया. उन्होंने प्रधानमंत्री नरेंद्र मोदी, विदेश मंत्री एस. जयशंकर, राष्ट्रीय सुरक्षा सलाहकार अजीत डोभाल और वित्त मंत्री निर्मला सीतारमण से मुलाकात की. इन बैठकों में व्यापार, ऊर्जा और रक्षा जैसे महत्वपूर्ण मुद्दों पर चर्चा हुई. दोनों देशों ने 2023 तक द्विपक्षीय व्यापार को 100 अरब डॉलर तक पहुंचाने का लक्ष्य रखा है. रूस भारत को सस्ते कच्चे तेल और उर्वरक की आपूर्ति के लिए सहमत हुआ है, जिससे किसानों को लाभ मिलने की उम्मीद है. इसके अतिरिक्त, रुपया-रूबल व्यापार तंत्र को मजबूत करने पर भी जोर दिया गया ताकि पश्चिमी प्रतिबंधों का असर कम हो सके. तेजस मार्क 1A डिलीवरी, भारतीय वायुसेना को HAL बैठक से फैसले का इंतज़ार. ईरान का F-35 गिराने का दावा, अमेरिकी फाइटर जेट की कमजोरी? अमेरिका को ईरान से हो रहा भारी नुकसान, फिर भी क्यों बेबस हैं ट्रंप? भारत का आर्थिक सुरक्षा कवच, मिडिल ईस्ट तनाव और क्रेडिट गारंटी योजना. #### Network. #### राज्य. #### राशिफल. #### मनोरंजन. #### कृषि. #### लोकसभा चुनाव 2024. #### हेल्थ. #### वीडियो. #### फोटो. #### ट्रेंडिंग. #### देश. #### अपराध. #### टेक्नोलॉजी. #### नॉलेज. #### ऑटो. #### बिज़नेस. #### धर्म. #### ओपिनियन. #### पॉडकास्ट. बोर्ड रिजल्ट्स image.",
+      "bm25_score_raw": 3.654692743230846,
+      "bm25_score_norm": 0.7987133119975718,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.7504081726074219,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

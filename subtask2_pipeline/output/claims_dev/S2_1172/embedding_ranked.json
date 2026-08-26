@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/1172",
+    "text": "আজ বিকেল থেকেই রাজ্যে লকডাউন, জানেন আইন ভাঙলে কী শাস্তি হতে পারে?",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Coronavirus lockdown rules and punishments around ...",
+      "url": "https://www.telegraph.co.uk/news/2020/04/01/coronavirus-lockdown-rules-punishments-around-world",
+      "snippet": "Apr 1, 2020 — Police could ultimately charge someone with the more serious criminal offence of breaching coronavirus regulations and a direction to follow ...Read more",
+      "bm25_score_raw": 1.2783158622095128,
+      "bm25_score_norm": 0.2704079857549909,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.8585824966430664,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Nirmal - আজ থেকে লাগু হচ্ছে গুন্ডা দমন আইন,জানিনা এটাও সেই ...",
+      "url": "https://www.facebook.com/nirmal.pal.184881/photos/%E0%A6%86%E0%A6%9C-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A6%B2%E0%A6%BE%E0%A6%97%E0%A7%81-%E0%A6%B9%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A7%87-%E0%A6%97%E0%A7%81%E0%A6%A8%E0%A7%8D%E0%A6%A1%E0%A6%BE-%E0%A6%A6%E0%A6%AE%E0%A6%A8-%E0%A6%86%E0%A6%87%E0%A6%A8%E0%A6%9C%E0%A6%BE%E0%A6%A8%E0%A6%BF%E0%A6%A8%E0%A6%BE-%E0%A6%8F%E0%A6%9F%E0%A6%BE%E0%A6%93-%E0%A6%B8%E0%A7%87%E0%A6%87-%E0%A6%86%E0%A6%87%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%86%E0%A6%93%E0%A6%A4%E0%A6%BE%E0%A7%9F-%E0%A6%86%E0%A6%B8%E0%A6%9B%E0%A7%87-%E0%A6%95%E0%A6%BF%E0%A6%A8%E0%A6%BE/1523801196166381",
+      "snippet": "আজ থেকে লাগু হচ্ছে গুন্ডা দমন আইন,জানিনা এটাও সেই আইনের আওতায় আসছে কিনা।",
+      "bm25_score_raw": 1.7750088835452857,
+      "bm25_score_norm": 0.3754757263725708,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8508414030075073,
+      "embedding_score_norm": 0.878141830396517,
+      "embedding_rank": 2
+    },
+    {
+      "title": "What is the punishment for violating Lockdown Orders?",
+      "url": "https://nyaaya.org/legal-explainer/what-is-the-punishment-for-violating-lockdown-orders-2",
+      "snippet": "May 31, 2024 — Offence, Punishment. Negligently spreading the infection of disease, The punishment is jail time of up to 6 months or/and fine.Read more",
+      "bm25_score_raw": 4.72735987674476,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8448526263237,
+      "embedding_score_norm": 0.7838681529020999,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Punishments for breaking COVID rules revoked",
+      "url": "https://english.court.gov.cn/2023-01/09/c_846376.htm",
+      "snippet": "Jan 9, 2023 — Starting from Jan 8, people who violate COVID-19 prevention measures will not be convicted or punished for obstructing the control of infectious diseases.Read more",
+      "bm25_score_raw": 2.5844416455496777,
+      "bm25_score_norm": 0.5466987309900581,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8278921842575073,
+      "embedding_score_norm": 0.5168815327741185,
+      "embedding_rank": 4
+    },
+    {
+      "title": "How Can Someone Be Punished if They Violate a COVID ...",
+      "url": "https://www.emcomplaw.com/blog/how-can-someone-be-punished-if-they-violate-a-covid-19-stay-at-home-order",
+      "snippet": "May 6, 2020 — Across the country, stay-at-home orders have strained law enforcement and tested how far states and municipalities are willing to go to ...Read more",
+      "bm25_score_raw": 1.7583633992817922,
+      "bm25_score_norm": 0.37195463115293725,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8262718915939331,
+      "embedding_score_norm": 0.49137533074368067,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Boris Johnson fined by police over lockdown-breaking ...",
+      "url": "https://www.cnn.com/2022/04/12/uk/boris-johnson-uk-pm-coronavirus-fine-intl-gbr",
+      "snippet": "Apr 12, 2022 — Prime Minister Boris Johnson and his finance minister Rishi Sunak were fined by police over lockdown-breaking parties held on UK government",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.8184342980384827,
+      "embedding_score_norm": 0.3679980859089118,
+      "embedding_rank": 6
+    },
+    {
+      "title": "আইন বিষয়ক অনুষ্ঠান \"ল এন্ড অর্ডার\" আজ রাত ১১.৪৫মিঃ",
+      "url": "https://www.youtube.com/watch?v=m5uSglZPuyU",
+      "snippet": "আইন বিষয়ক অনুষ্ঠান \"ল এন্ড অর্ডার\" আজ রাত ১১.৪৫মিঃ About ATN Bangla =============== ATN Bangla (Asian Television Network) is the most popular and the",
+      "bm25_score_raw": 3.381609742560497,
+      "bm25_score_norm": 0.7153273350725012,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8143197894096375,
+      "embedding_score_norm": 0.3032286212914485,
+      "embedding_rank": 7
+    },
+    {
+      "title": "আইন, স্বাধীনতা ও নাগরিক অধিকার",
+      "url": "http://www.ebookbou.edu.bd/Books/Text/SSHL/BABSS/bpo_2301/Unit-06.pdf",
+      "snippet": "evsjv‡`k Dš§y³ wek¦we`¨vjq AvBb, ¯^vaxbZv I bvMwiK AwaKvi AvBb, ¯^vaxbZv, mvg¨, bvMwiK AwaKvi G me cÖZ¨q¸‡jv ci¯úi m¤úK©hy³| ivóªweÁv‡bi Av‡jvPbvq G cÖZ¨q¸‡jv GK wewkó ¯’vb Ry‡o i‡q‡Q| myô, my›`i I DbœZ Rxeb hvc‡bi Rb¨ gvbyl AvBb †g‡b P‡j| AvBb bvMwiK‡`i ¯^vaxbZv Ges AwaKvi i¶v K‡i| AvB‡bi Dcw¯’wZ mgvR I iv‡óª ¯^vaxbZv I mv‡g¨i c_ cÖk¯’ K‡i _v‡K| G ¸‡jvi Abycw¯’wZ‡Z bvMwiK Rxeb `ywe©mn n‡q D‡V| AvBbnxbZvq ejevb `ye©‡ji Dci AZ¨vPvi I wbcxob Pvjvq| G BDwb‡U Avgiv AvB‡bi msÁv, Drm, †kªYxwefvM, AvBb I ˆbwZKZvi m¤úK©, ¯^vaxbZv I AvB‡bi m¤úK©, ¯^vaxbZv I mv‡g¨i m¤úK©, bvMwiK AwaKvi I KZ©e¨ Ges AvšÍR©vwZK AvBb m¤ú‡K© Av‡jvPbv Kie| G BDwb‡Ui cvV¸‡jv n‡”Q:  cvV-1: AvB‡bi msÁv, Drm, Zvrch© I †kªYx wefvM  cvV-2: AvšÍR©vwZK AvBb  cvV-3: ¯^vaxbZv  cvV-4: mvg¨  cvV-5: bvMwiKZv 6 Gm Gm GBP Gj ivóªweÁvb : ivóªZË¡ c„ôv - 72 AvB‡bi msÁv, Drm, Zvrch© I †kªYxwefvM D‡Ïk¨ G cvVwU c‡o Avcwb   AvB‡bi D‡Ïk¨, msÁv I ˆewkó¨ m¤ú‡K© ej‡Z cvi‡eb;  AvB‡bi †kªYxwefvM Ki‡Z cvi‡eb;  AvBb I ˆbwZKZvi cvi¯úwiK m¤úK© I cv_©K¨ Av‡jvPbv Ki‡Z cvi‡eb;  AvBb †Kb gvb¨ Kiv nq-Zv ej‡Z cvi‡eb| gvby‡li evwn¨K AvPvi-AvPiY wbqš¿Y K‡i ivóª KZ©„K cÖewZ©Z Ggb wbqg-Kvbyb I wewa-weavb‡KB mvaviY A‡_© AvBb e‡j AwfwnZ Kiv nq| mgv‡Ri m`m¨ wn‡m‡e gvbyl †h me wewa-weavb †g‡b P‡j †m¸‡jv‡K mvgvwRK AvBb ejv hvq| cÖvK…wZK RM‡Zi NUbvejx †h AvB‡bi gva¨‡g wbqwš¿Z nq Zv‡K ejv P‡j cÖvK…wZK AvBb| Avevi mgvRe× gvby‡li AvPvi-AvPi‡Yi cÖK…wZ, e¨w³, mgvR I ivóª meB",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.8137496113777161,
+      "embedding_score_norm": 0.29425303533562275,
+      "embedding_rank": 8
+    },
+    {
+      "title": "Covid lockdown: Boris Johnson and Rishi Sunak to be fined",
+      "url": "https://www.cnbc.com/2022/04/12/covid-lockdown-boris-jonson-and-rishi-sunak-to-be-fined.html",
+      "snippet": "Apr 12, 2022 — U.K. Prime Minister Boris Johnson and Finance Minister Rishi Sunak were fined by police on Tuesday for breaching Covid-19 lockdown rules,",
+      "bm25_score_raw": 1.2557959840399302,
+      "bm25_score_norm": 0.26564425319458984,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.8129079341888428,
+      "embedding_score_norm": 0.2810035842293907,
+      "embedding_rank": 9
+    },
+    {
+      "title": "'আইনের অপব্যাখ্যা দিচ্ছে সরকার'; 'জুলাই সনদ, গণভোট এখনো বৈধ' # ...",
+      "url": "https://www.facebook.com/tv.ekhon/posts/%E0%A6%86%E0%A6%87%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%85%E0%A6%AA%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%A6%E0%A6%BF%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A7%87-%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%9C%E0%A7%81%E0%A6%B2%E0%A6%BE%E0%A6%87-%E0%A6%B8%E0%A6%A8%E0%A6%A6-%E0%A6%97%E0%A6%A3%E0%A6%AD%E0%A7%8B%E0%A6%9F-%E0%A6%8F%E0%A6%96%E0%A6%A8%E0%A7%8B-%E0%A6%AC%E0%A7%88%E0%A6%A7shishirmanir-jamaat-%E0%A6%8F%E0%A6%96%E0%A6%A8%E0%A6%9F%E0%A6%BF%E0%A6%AD/1140616892049777",
+      "snippet": "চার হাজারেরও বেশি মানুষ আইন শৃঙ্খলা বাহিনীর হাতে ঘুমের স্বীকার হয়েছেন. সাতশোরও বেশি মানুষ গমের শিকার হয়েছেন. চারশো হাজারও বেশি মানুষ বিচার বহির্ভূত হত্যাকাণ্ডের শিকার হয়েছেন. ষা লক্ষাধিক মানুষ. গায়েবি মামলার আসামি",
+      "bm25_score_raw": 1.1731287284048444,
+      "bm25_score_norm": 0.24815727149858027,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.8107529878616333,
+      "embedding_score_norm": 0.24708101109046895,
+      "embedding_rank": 10
+    },
+    {
+      "title": "বিভিন্ন দেশের আজব যত আইন - Roar Media Archive - Obsidian",
+      "url": "https://archive.roar.media/bangla/main/lifestyle/ridiculous-laws-around-the-world",
+      "snippet": "হংকংয়ে এমন আইন প্রচলিত আছে যে, যদি কারো স্ত্রী পরকীয়া করে, তবে স্বামী তাকে খুন করতে পারে। তবে শর্ত একটাই, খুন করতে হবে খালি হাতে। এক্ষেত্রে যে লোকের সাথে পরকীয়া করেছে, তাকে অস্ত্র দিয়ে খুন করা যাবে বৈকি!",
+      "bm25_score_raw": 1.5442871029851644,
+      "bm25_score_norm": 0.3266700956239773,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8058207035064697,
+      "embedding_score_norm": 0.16943834562480062,
+      "embedding_rank": 11
+    },
+    {
+      "title": "Law court news| আজকের আইন-আদালত খবর |Daily Adin",
+      "url": "https://dailyadin.com/law-crime",
+      "snippet": "ক্রীড়ালোক. #### আইভীর দুই মামলায় জামিন বহাল, কারামুক্তিতে বাধা নেইরিজার্ভ চুরির মামলার প্রতিবেদন পেছাল ৯৫. হত্যা মামলায় নারায়ণগঞ্জ সিটি করপোরেশনের সাবেক মেয়র ডা. সেলিনা হায়াৎ আইভীর জামিন বহাল রেখেছেন সুপ্রিম কোর্টের আপিল বিভাগ।. আইভীর দুই মামলায় জামিন বহাল, কারামুক্তিতে বাধা নেই. #### রিজার্ভ চুরির মামলার প্রতিবেদন পেছাল ৯৫কারাগারে বেরোবির সাবেক উপাচার্য. রিজার্ভ চুরির মামলার প্রতিবেদন পেছাল ৯৫. এক দশক আগে বাংলাদেশ ব্যাংক থেকে রিজার্ভ চুরির যে ঘটনা ঘটেছিল, সেই মামলার প্রতিবেদন দাখিলের দিন ৯৫ বা...কারাগারে বেরোবির সাবেক উপাচার্য. #### কারাগারে বেরোবির সাবেক উপাচার্য. হাসিবুর রশীদকে কারাগারে পাঠিয়েছেন ট্...ড. হাসিবুর রশীদকে গ্রেপ্তার করেছে মোহাম্মদপুর থানা পুলিশ।. দীপু মনি, সাংবাদিক মোজাম্মেল বাবু এবং ফারজানা রুপাকে গ্রেপ্তার দেখানো হয়েছে। আন্তর্জাতিক অপরাধ ট্রাইব্যুনাল-১ আজ বৃহস্পতিবার তাঁদের এই মামলায় গ্রেপ্তার দেখান। বিচারপতি মো. সাবেক প্রধানমন্ত্রী শেখ হাসিনাকে বিভিন্ন সিদ্ধান্তে প্ররোচনা দেওয়ার অভিযোগে দায়ের করা মামলায় জাতীয় সমাজতান্ত্রিক দলের (জাসদ) সভাপতি হাসানুল হক ইনুর বিরুদ্ধে রায় ঘোষণার প্রক্রিয়া চূড়ান্ত পর্যায়ে রয়েছে। আদালত উভয় পক্ষের যুক্তি-তর্ক শেষে মামলাটি রায়ের জন্য অপেক্ষমাণ (সিএভি) রেখেছেন। ফলে যে কোনো দিন এই ...",
+      "bm25_score_raw": 1.3980968645085854,
+      "bm25_score_norm": 0.29574580758833807,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.7950570583343506,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

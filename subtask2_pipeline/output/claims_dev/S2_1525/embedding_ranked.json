@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/1525",
+    "text": "'আমি যা বলেছি তার জন্য অনুতপ্ত নই', শো-কজের পরদিন বিধানসভায় এসে দাবি হামিদুলের - TMCMLA HAMIDUR RAHMAN",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "'Hamas has no regrets of Oct. 7,' Ghazi Hamad tells CNN - The Jerusalem Post",
+      "url": "https://www.jpost.com/middle-east/article-868714",
+      "snippet": "# 'Hamas has no regrets of Oct. 7,' terror group official tells CNN after surviving Doha strike ## Hamad falsely stated in the CNN interview that the terror organization only attacked military targets and that they \"never intended to kidnap civilians.\" Ghazi Hamad, member of Hamas Political Office, delivers remarks on the ongoing conflict between Israel and Hamas, during a press conference in Beirut, Lebanon, October 28, 2023. (photo credit: REUTERS/AMR ALFIKY) ByJERUSALEM POST STAFF Hamas| CNN| The October 7 Massacre| Gaza hostages| Ghazi Hamad| Israel-Hamas War| Interview",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.8399279117584229,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Bangladesh National Party claims victory in first election since student uprising - NPR",
+      "url": "https://www.npr.org/2026/02/13/nx-s1-5713306/bangladesh-national-party-claims-victory-first-election-since-student-uprising",
+      "snippet": "**Bangladesh National Party claims victory in first election since student uprising**. # Bangladesh National Party claims victory in first election since student uprising. Bangladesh Nationalist Party Chairperson Tarique Rahman waves as he comes out after casting his vote during the national parliamentary elections in Dhaka, Bangladesh, Thursday, Feb. 12, 2026. DHAKA, Bangladesh — The Bangladeshi Nationalist Party (BNP), led by Tarique Rahman, claimed victory Friday in the first elections held since the previous government was toppled in a student-led revolution in 2024. Rahman faced a tough challenge from Bangladesh's third-largest party, Jamaat-e-Islami, which contested the election as part of an 11-party alliance that included the National Citizen Party (NCP), formed by students who led the uprising. Security personnel guard near the chairman office of the Bangladesh Nationalist Party (BNP) before the national parliamentary election result is announced in Dhaka, Bangladesh, Thursday, Feb. 12, 2026. While abroad, Rahman was convicted in Bangladesh of multiple offences while the Awami League was in power, including corruption and money laundering - convictions he and his party rejected as politically motivated.",
+      "bm25_score_raw": 4.426808368955619,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8307844996452332,
+      "embedding_score_norm": 0.8858470628506794,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Prof Sayedur responds to Unicef’s measles vaccine shortage claim - The Daily Star",
+      "url": "https://www.thedailystar.net/health/disease/news/prof-sayedur-responds-unicefs-measles-vaccine-shortage-claim-4180506",
+      "snippet": "19 May 2026, 09:00 AM   MACRO MIRROR. 19 May 2026, 00:00 AM   Economy. 19 May 2026, 00:00 AM   Bangladesh. # Prof Sayedur responds to Unicef’s measles vaccine shortage claim. Former special assistant to the interim govt chief adviser says there was no indication anyone was turned away due to measles vaccine shortages in 2025. Professor Sayedur Rahman, former special assistant to the chief adviser of the interim government for the health ministry. Prof Sayedur Rahman, special assistant to the chief adviser of the interim government on health ministry affairs, today issued a written response to Unicef’s claim that it had repeatedly warned the interim government -- both in writing and in meetings with health ministry officials -- about a measles vaccine shortage that could lead to an outbreak. Decisions related to special campaigns are taken by the Inter-Agency Coordination Committee, where representatives of Unicef and WHO are present, he said, adding that in the communications made by Unicef, there was no mention of a “measles outbreak”.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.8262490034103394,
+      "embedding_score_norm": 0.8292226637496093,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Ilhan Omar Condemns Guest’s Arrest at Trump’s State of the Union - The New York Times - The New York Times",
+      "url": "https://www.nytimes.com/2026/02/25/us/politics/ilhan-omar-state-of-the-union-arrest.html",
+      "snippet": "Aliya Rahman, a U.S. citizen who was dragged from her vehicle after an ICE agent shattered its window during President Trump’s immigration crackdown in Minneapolis, attended the president’s speech on Tuesday night at the invitation of Ms. Omar. As Mr. Trump was speaking, Ms. Rahman was seen being escorted from the gallery above the House floor by Capitol Police officers. Ms. Rahman, 43, Ms. Omar and the U.S. Capitol Police said in separate statements that Ms. Rahman had been charged with unlawful conduct by disrupting Congress. After her arrest on Tuesday night, Ms. Rahman was taken to a hospital before being booked at Capitol Police headquarters, according to her and Ms. Omar’s statements. Ms. Rahman told Democracy Now that she had been standing “silent, arms by my side,” during Mr. Trump’s remarks before Capitol Police officers took her into custody. Both Ms. Rahman and Ms. Omar noted that other guests in the gallery above the House floor had stood up at times during Mr. Trump’s speech.",
+      "bm25_score_raw": 2.518611977078252,
+      "bm25_score_norm": 0.5689453364958844,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8150043487548828,
+      "embedding_score_norm": 0.688836302480987,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Hamas names Khalil al-Hayya as new head of political bureau, after Sinwar - The Jerusalem Post",
+      "url": "https://www.jpost.com/middle-east/article-903070",
+      "snippet": "# Hamas names Khalil al-Hayya, former wartime negotiator, as new head of political bureau. ## He is the first person appointed to the position since Yahya Sinwar's death in October 2024. HAMAS POLITIBURO member Khalil al-Hayya attends a news conference in Damascus, Syria October 19, 2022. (photo credit:  REUTERS/Yamam al Shaar). Hamas on Monday named Khalil al-Hayya, who served as chief negotiator for the terrorist organization during the Israel-Hamas war, as the new head of its political bureau. *This is a developing story.*.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.8125446438789368,
+      "embedding_score_norm": 0.6581275766099627,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Bangladesh National Party claims victory in first election since student uprising - WWNO",
+      "url": "https://www.wwno.org/npr-news/2026-02-13/bangladesh-national-party-claims-victory-in-first-election-since-student-uprising",
+      "snippet": "# Bangladesh National Party claims victory in first election since student uprising. DHAKA, Bangladesh — The Bangladeshi Nationalist Party (BNP), led by Tarique Rahman, claimed victory Friday in the first elections held since the previous government was toppled in a student-led revolution in 2024. Rahman faced a tough challenge from Bangladesh's third-largest party, Jamaat-e-Islami, which contested the election as part of an 11-party alliance that included the National Citizen Party (NCP), formed by students who led the uprising. While abroad, Rahman was convicted in Bangladesh of multiple offences while the Awami League was in power, including corruption and money laundering - convictions he and his party rejected as politically motivated. The BNP has already said it plans to deepen relations with China, Bangladesh's largest trading partner. The challenge for Rahman will be how far the BNP can go towards restoring relations with India without facing a public backlash.\".",
+      "bm25_score_raw": 4.2791831644598375,
+      "bm25_score_norm": 0.9666520002241231,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8103107810020447,
+      "embedding_score_norm": 0.6302384247890342,
+      "embedding_rank": 6
+    },
+    {
+      "title": "Hamas chief Hayya unlikely to change strategy, expert says - The Jerusalem Post",
+      "url": "https://www.jpost.com/middle-east/article-903211",
+      "snippet": "## Dr. Michael Milshtein tells the Post that Hamas’ new leader Khalil al-Hayya may allow a technocratic government to operate in Gaza while the group continues to hold real power. Little will change in Hamas now that Khalil al-Hayya has been named head of its political bureau, though the terror group will now enjoy not having the financial burden of administering the Gaza Strip, Dr. Michael Milshtein, the head of the Palestinian Studies Forum at the Moshe Dayan Center for Middle Eastern and African Studies at Tel Aviv University, told *The Jerusalem Post* on Tuesday. “If tomorrow the technocratic government ministers will enter Gaza from Cairo and start being active in Gaza and will sit in the governmental offices in Gaza, I think that the real boss in Gaza will be actually the political bureau, not in Gaza itself but outside, led by Hayya, and this will be the real government of Gaza.”.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.8082458972930908,
+      "embedding_score_norm": 0.6044589305115269,
+      "embedding_rank": 7
+    },
+    {
+      "title": "Minneapolis woman who Ilhan Omar took to State of the Union needed medical care after arrest - NBC News",
+      "url": "https://www.nbcnews.com/politics/congress/minneapolis-woman-ilhan-omar-brought-state-union-needed-medical-care-a-rcna260752",
+      "snippet": "Omar said Capitol Police \"aggressively handled\" her guest, Aliyah Rahman of Minneapolis, forcing her to seek medical care at a hospital. U.S. Capitol Police arrested Aliya Rahman after she stood and refused to sit down during President Donald Trump's State of the Union address. Rahman was Rep. Ilhan Omar’s guest to the event on Tuesday.Frank Thorp V / NBC News. Aliyah Rahman, a Minnesota woman who Rep. Ilhan Omar, D-Minn., brought as her guest for the State of the Union on Tuesday, needed hospital treatment after she was arrested during the speech, Rahman and Omar said. I was arrested so physically that two other attendees upstairs attempted to intervene in officers pulling on my shoulders after I told them I have a torn rotator cuff tendon and multiple cartilage tears in both of my shoulders,” Rahman said. Capitol Police said Rahman was arrested on a charge of unlawful conduct, disruption of Congress.",
+      "bm25_score_raw": 2.669618471984038,
+      "bm25_score_norm": 0.6030571575461847,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.7992740869522095,
+      "embedding_score_norm": 0.492448393386019,
+      "embedding_rank": 8
+    },
+    {
+      "title": "A.R. Rahman Brings His Immersive Music Experiences To Apple Vision Pro - UploadVR",
+      "url": "https://www.uploadvr.com/a-r-rahman-brings-his-immersive-music-experiences-to-apple-vision-pro/",
+      "snippet": "# A.R. Rahman Brings His Immersive Music Experiences To Apple Vision Pro. A.R. Rahman (Slumdog Millionaire, 127 Hours) launched ARR Immersive for Apple Vision Pro. With over 150 million records sold and 170 industry awards including multiple Academy Awards and Grammy Awards, Rahman is excited about immersive experiences because of how they “demand your full presence in a way no other medium does.”. More releases are currently in production for the app such as a “making-of” for a song from an Indian film called Peddi, live captures from his concerts, and also experiences tied to “carnivals”, “rituals” and “rare talents.” I’m looking forward to experiencing moments like these that we have not yet been able to visit through Apple Vision Pro videos. Some of the app’s experiences are 360-degree video, but Rahman explains that his preference for immersive storytelling is for 180-degree experiences because “with 360, you're constantly wondering if you missed something, you keep looking behind you.",
+      "bm25_score_raw": 2.5621353329764,
+      "bm25_score_norm": 0.5787771051812807,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.7825175523757935,
+      "embedding_score_norm": 0.2832477563959459,
+      "embedding_rank": 9
+    },
+    {
+      "title": "Celeste Rivas’ parents watched in horror during a hearing for their daughter’s accused killer D4vd as horrific images of her decapitated and mutilated corpse were displayed in a court. - facebook.com",
+      "url": "https://www.facebook.com/SkyNewsAustralia/posts/celeste-rivas-parents-watched-in-horror-during-a-hearing-for-their-daughters-acc/1495749272582666/",
+      "snippet": "## Sky News Australia's Post. ### **Sky News Australia**. Celeste Rivas’ parents watched in horror during a hearing for their daughter’s accused killer D4vd as horrific images of her decapitated and mutilated corpse were displayed in a court. Gruesome new photos of Celeste Rivas shown at D4vd murder trial. AshiQur RahMan Colourful butt wiping rags. Gail Campbell It is b'ut't wi'pin'g rags. AshiQur RahMan Sorry, no prize for 2nd place.",
+      "bm25_score_raw": 2.1836127568082166,
+      "bm25_score_norm": 0.4932702242368306,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.7812834978103638,
+      "embedding_score_norm": 0.2678409310770788,
+      "embedding_rank": 10
+    },
+    {
+      "title": "Hamden says it's close to completing one of two overdue audits after years of financial problems - Greenwich Time",
+      "url": "https://www.greenwichtime.com/news/article/officials-hamden-nears-completion-overdue-audits-22353929.php",
+      "snippet": "# Hamden says it's close to completing one of two overdue audits after years of financial problems. HAMDEN — Town officials believe they are close to completing one of Hamden’s two overdue annual audits, temporary town Finance Director Myron Hul told the Legislative Council on Monday. Hul said completing the audits has been challenging because of bookkeeping concerns from the past. For months, town officials have sought to get a handle on Hamden’s finances as the community experiences cascading effects from late audits. These include the loss of bond credit ratings, unclear financials and coming under a new level of oversight by the state’s Municipal Finance Advisory Commission. The town has been challenged financially for years by vacancies and understaffing in its finance department and what experts have described as historically poor financial strategy by underfunding the pension fund and restructuring bond payments. He said there are six people working on completing the town’s 2023-2024 audit at any moment in time and the town is “at a saturation point” where its resources are effectively maximized.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.7719977498054504,
+      "embedding_score_norm": 0.15191097021922578,
+      "embedding_rank": 11
+    },
+    {
+      "title": "'The car tax is the worst': Could CT finally ditch its most unpopular tax? - Greenwich Time",
+      "url": "https://www.greenwichtime.com/connecticut/article/car-tax-repeal-eliminate-proposals-22344582.php",
+      "snippet": "# 'The car tax is the worst': Could CT finally ditch its most unpopular tax? It's hard to find anyone in Connecticut who's too enthusiastic about the state's car tax system. Towns value the more than $1 billion in revenue car taxes bring in statewide but would be just as happy if the same money came from somewhere else. Does that mean the state could get rid of the tax in the near future? Don't count on it, says Fred Carstensen, director of the Connecticut Center for Economic Analysis at the University of Connecticut. \"The car tax is the worst. Rahman recites numerous arguments against the car tax: It's regressive, since lower-income people pay a higher percentage of their income to cars than wealthy people do; it's confusing, with a complex formula determining how much you pay; and it's unfair, with the same car taxed differently from one town to the next, depending on the mill rate there.",
+      "bm25_score_raw": 1.2888785831386866,
+      "bm25_score_norm": 0.2911530104120503,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.7598299980163574,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

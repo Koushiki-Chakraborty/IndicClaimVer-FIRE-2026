@@ -1,0 +1,131 @@
+{
+  "claim": {
+    "id": "S2/T/HI/1022",
+    "text": "Coronavirus India HIGHLIGHTS: भारत में 24 घंटे में 44,230 नए केस, 555 मौतें; लगातार तीसरे दिन घटे मामले, आधे संक्रमित अकेले महाराष्ट्र से",
+    "lang": "hindi"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "लगातार तीसरे दिन बढ़े मामले, आधे संक्रमित अकेले केरल से",
+      "url": "https://www.jansatta.com/national/centre-extends-covid-19-guidelines-31st-august-writes-states-uts-tough-regulation-amid-festival-period-coronavirus-lockdown-delhi-mp-bihar-maharashtra-today-latest-news/1785179",
+      "snippet": "Coronavirus India HIGHLIGHTS: भारत में पिछले 24 घंटे में कोरोना के 44 हजार 230 नए मामले सामने आए। ... बता दें कि महाराष्ट्र में इस वक्त कोरोना के 82 हजार से ज्यादा एक्टिव केस हैं।",
+      "bm25_score_raw": 15.729576445649174,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8965169787406921,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Maharashtra reports 40805 Covid-19 cases, 44 deaths",
+      "url": "https://timesofindia.indiatimes.com/city/mumbai/maharashtra-reports-40805-covid-19-cases-44-deaths/articleshow/89079951.cms",
+      "snippet": "Jan 23, 2022 — Maharashtra on Sunday reported 40805 Covid-19 cases, taking its tally to 75,07225, while 44 fatalities put the toll at 1,42115,",
+      "bm25_score_raw": 4.274646041252835,
+      "bm25_score_norm": 0.24620507150919002,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8678627610206604,
+      "embedding_score_norm": 0.6155433908999668,
+      "embedding_rank": 2
+    },
+    {
+      "title": "#Covid has resurfaced in #Maharashtra and the city ...",
+      "url": "https://www.facebook.com/TimesofIndia/posts/covid-has-resurfaced-in-maharashtra-and-the-city-recorded-a-significant-increase/1477436654430517",
+      "snippet": "In terms of deaths , India has had 1,59,589 deaths. The number 1 contributor is again Maharashtra with 53,208 deaths which is approximately ...Read more",
+      "bm25_score_raw": 1.745018690397158,
+      "bm25_score_norm": 0.07974222968216117,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8666344285011292,
+      "embedding_score_norm": 0.5990627261712924,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Coronavirus: With 44 new deaths, Maharashtra crosses ...",
+      "url": "https://www.thehindu.com/news/national/coronavirus-with-44-new-deaths-maharashtra-crosses-1000-fatalities-case-tally-soars-to-27524/article61657125.ece",
+      "snippet": "May 14, 2020 — With 44 new deaths, Maharashtra crosses 1,000 fatalities; case tally soars to 27,524 Mumbai city reports nearly 1,000 new cases … the total to",
+      "bm25_score_raw": 3.5233771242921907,
+      "bm25_score_norm": 0.1967676083779978,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8662924766540527,
+      "embedding_score_norm": 0.5944747227964668,
+      "embedding_rank": 4
+    },
+    {
+      "title": "India's Maharashtra state announces 15 days of tough new ...",
+      "url": "https://www.bbc.com/news/world-asia-india-56719311",
+      "snippet": "The state reported 51,751 new Covid-19 cases on Monday and 258 deaths. Prime Minister Narendra Modi has reportedly asked specialist teams to",
+      "bm25_score_raw": 0.5332279807815246,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.8642275929450989,
+      "embedding_score_norm": 0.5667699640525097,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Maharashtra, blaze in hospital under pressure from Covid: 13 dead | AsiaNews",
+      "url": "https://www.asianews.it/en/south-asia/india/maharashtra-blaze-in-hospital-under-pressure-from-covid-13-dead",
+      "snippet": "Criticism of Prime Minister Modi: It's pointless being the pharmacy of the world when you can't heal your own people\". Mumbai (AsiaNews) - In India struggling with the exponential growth of deaths and infections from Covid-19 and **the absence of oxygen in hospitals**, the situation is also worsened by accidents in health facilities under pressure: 13 patients who were in the intensive care unit of the Virar hospital, died in a fire. Maharashtra, the state of Mumbai, is by far the most affected by the pandemic in India and even this new wave is relentless. The Virar incident follows that of two days ago in Nashik, also in Maharashta, where in another hospital 24 Covid-19 patients died of suffocation due to an oxygen tank failure that left the intensive care unit without supplies with patients attached to artificial ventilators. It's pointless being the pharmacy of the world when you can't heal your own people”.",
+      "bm25_score_raw": 0.9955763641280045,
+      "bm25_score_norm": 0.030424965866989725,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.8635770082473755,
+      "embedding_score_norm": 0.5580410017313975,
+      "embedding_rank": 6
+    },
+    {
+      "title": "Maharashtra Reports 790 COVID-19 Cases In The Last 24 ...",
+      "url": "https://www.youtube.com/watch?v=nXtZu_kezIU",
+      "snippet": "Maharashtra Reports 790 COVID-19 Cases In The Last 24 Hours As Total Cases Cross 12000. India Today TV is India's leading English News Channel.",
+      "bm25_score_raw": 2.537794990178169,
+      "bm25_score_norm": 0.13191109785557967,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8609717488288879,
+      "embedding_score_norm": 0.5230859660838029,
+      "embedding_rank": 7
+    },
+    {
+      "title": "LIVE | Covid 19 India: Maharashtra Sees Rise in COVID ...",
+      "url": "https://www.youtube.com/watch?v=GhhcmVa-_QM",
+      "snippet": "Maharashtra followed with 485 active cases, including 30 from Mumbai and 10 from Thane. Delhi reported 375 active cases. risen since May 22.",
+      "bm25_score_raw": 0.7075695751635038,
+      "bm25_score_norm": 0.011472597827368765,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.8590909838676453,
+      "embedding_score_norm": 0.4978515476614138,
+      "embedding_rank": 8
+    },
+    {
+      "title": "One-Third Of India's COVID-19 Cases Are In Maharashtra ...",
+      "url": "https://swachhindia.ndtv.com/one-third-of-indias-covid-19-cases-are-in-maharashtra-heres-how-the-state-is-dealing-with-the-pandemic-46897",
+      "snippet": "Highlights · Mumbai accounts for half of the total COVID-19 cases in Maharashtra · There are 1,849 active containment zones in Maharashtra",
+      "bm25_score_raw": 4.096516578191746,
+      "bm25_score_norm": 0.23448321191424162,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.84563148021698,
+      "embedding_score_norm": 0.3172639921307385,
+      "embedding_rank": 9
+    },
+    {
+      "title": "Data interpretation leading to image processing - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8988943",
+      "snippet": "by M Sharma · 2022 — Deaths and recoveries per week. According to the data provided by the Health Ministry of India, Maharashtra is the most affected state with a total of 6817 ...Read more",
+      "bm25_score_raw": 1.0365889892781048,
+      "bm25_score_norm": 0.03312381324107549,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.8306810855865479,
+      "embedding_score_norm": 0.11667299779676672,
+      "embedding_rank": 10
+    },
+    {
+      "title": "India Situation Report",
+      "url": "https://www.who.int/india/home/emergencies/coronavirus-disease-(covid-19)/india-situation-report",
+      "snippet": "When autocomplete results are available use up and down arrows to review and enter to select. # India Situation Reports. The WHO India Weekly COVID-19 Situational Report provides a comprehensive summary of the COVID-19 situation in India. The report provides an epidemiological overview of India, highlights WHO India operational updates on risk communication and community engagement, infection prevention and control, clinical management, operation support and logistics. The WHO Situational Report summarizes the severity of public health and social measures implemented in India and provides an update on pandemic vaccine deployment in the country.",
+      "bm25_score_raw": 2.517042019864245,
+      "bm25_score_norm": 0.13054544278640942,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8219852447509766,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 11
+    }
+  ]
+}

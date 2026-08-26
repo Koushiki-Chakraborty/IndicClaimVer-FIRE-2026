@@ -1,0 +1,76 @@
+{
+  "claim": {
+    "id": "S2/1115",
+    "text": "BREAKING [Adipurush Row] 'Concerned About Sentiments Of Hindu Community; Sacred Texts Of Ramayana Shouldn't Be Touched Like This': Allahabad HC",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "US measles cases reach 35-year high, for second record-breaking year in a row - CNN",
+      "url": "https://www.cnn.com/2026/07/24/health/us-measles-cases-record",
+      "snippet": "# US measles cases reach 35-year high, for second record-breaking year in a row. Measles has continued its historic resurgence in the United States this year, with a second record-breaking year in a row. The disease was declared eliminated in the US in 2000, but more cases have been recorded in the past 18 months than there have been in the previous 25 years combined. Dozens of new cases are reported by the US Centers for Disease Control and Prevention each week, with new large outbreaks adding to others that have simmered since last year. South Carolina has reported more measles cases in 2026 than any other state. He said he felt insulated from it at first, but on the first Friday of 2026 – the day after New Year’s Day – the state health department reached out because there had been a connection: Contact tracing work showed that someone with measles had attended the church’s annual Christmas brunch, potentially exposing dozens of people who were there.",
+      "bm25_score_raw": 2.518564507436081,
+      "bm25_score_norm": 0.5669897377423032,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8160616755485535,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Case: Discrimination/Exhaustion of Remedies (N.D. Tex.) - Bloomberg Law News",
+      "url": "https://news.bloomberglaw.com/daily-labor-report/case-discrimination-exhaustion-of-remedies-n-d-tex-3",
+      "snippet": "Email&body=Here%20is%20a%20story%20that%20I%20thought%20would%20interest%20you.%0D%0A%0D%0Ahttps%3A%2F%2Fnews.bloomberglaw.com%2Fdaily-labor-report%2Fcase-discrimination-exhaustion-of-remedies-n-d-tex-3%3Futm_source%3DEmail_Share). # Case: Discrimination/Exhaustion of Remedies (N.D. Tex.). July 23, 2026, 2:27 PM UTC. A Texas federal district court denied Lockheed Martin’s motion to dismiss Title VII of the Civil Rights Act religious and national origin discrimination claims by a Muslim deployment technician of African descent, who alleged denial of training, coaching, preferential assignments, and heightened scrutiny, finding the technician’s EEOC charge allegations could reasonably trigger investigations into these discrimination claims. *This story was produced by Bloomberg Law Automation and edited by Bloomberg Law staff.*. ## Learn more about Bloomberg Law or Log In to keep reading:. ### See Breaking News in Context. Bloomberg Law provides trusted coverage of current events enhanced with legal analysis. ### Already a subscriber? Log in to keep reading or access research tools and resources. © 2026 Bloomberg Industry Group, Inc.",
+      "bm25_score_raw": 2.7748505942480444,
+      "bm25_score_norm": 0.6246859296482412,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8034108877182007,
+      "embedding_score_norm": 0.769571670055771,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Ranbir Kapoor opens up about self-doubt and fear while portraying Lord Rama in Nitesh Tiwari's Ramayana - WION",
+      "url": "https://www.wionews.com/entertainment/bollywood/ranbir-kapoor-opens-up-about-self-doubt-and-fear-while-portraying-lord-rama-in-nitesh-tiwari-s-ramayana-1784869047895",
+      "snippet": "*   /Ranbir Kapoor opens up about self-doubt and fear while portraying Lord Rama in Nitesh Tiwari's Ramayana. Image 3: Ranbir Kapoor opens up about self-doubt and fear while portraying Lord Rama in Nitesh Tiwari's Ramayana&imwidth=800&imheight=600&format=webp&quality=medium). ## Ranbir Kapoor as Lord Rama in Ramayana **Photograph: (Instagram)**. ## Ranbir Kapoor opens up about his experience while playing the iconic deity, Lord Rama, in the grand-scale mythological saga, Ramayana. The actor reveals that he often struggles with self-doubt and fear while portraying the character. As anticipation for the grand-scale drama continues to soar, the actor opened up about the immense responsibility that comes with stepping into the role of Lord Rama. ## Ranbir Kapoor on playing the role of Lord Rama. While the makers of the film have postponed the official trailer, the spotlight has shifted to Ranbir Kapoor, who recently spoke about the major responsibility that has come onto his shoulders by following in the footsteps of Lord Rama.",
+      "bm25_score_raw": 3.6774710893176996,
+      "bm25_score_norm": 0.8278876170655567,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.7996983528137207,
+      "embedding_score_norm": 0.7019495401638712,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Destiny XYZ Co-Founder Wins Court Challenge to Ouster by Ambush - Bloomberg Law News",
+      "url": "https://news.bloomberglaw.com/esg/destiny-xyz-co-founder-wins-court-challenge-to-ouster-by-ambush",
+      "snippet": "Email%3A%20Destiny%20XYZ%20Co-Founder%20Wins%20Court%20Challenge%20to%20Ouster%20by%20Ambush&body=Here%20is%20a%20story%20that%20I%20thought%20would%20interest%20you.%0D%0A%0D%0Ahttps%3A%2F%2Fnews.bloomberglaw.com%2Fesg%2Fdestiny-xyz-co-founder-wins-court-challenge-to-ouster-by-ambush%3Futm_source%3DEmail_Share). # Destiny XYZ Co-Founder Wins Court Challenge to Ouster by Ambush. July 24, 2026, 7:51 PM UTC. A co-founder of Destiny XYZ Inc., which manages funds invested in high-profile private ventures like SpaceX, won a legal ruling restoring his stake after he was ousted ahead of the company’s public listing. A Delaware Chancery Court judge ruled for Samvit Ramadurgam, blasting a transaction engineered by CEO Sohail Prasad that forced Ramadurgam out on unfair terms. The decision Thursday also ordered Prasad and his allies to pay Ramadurgam’s legal fees, referring to their actions as “glaringly egregious” and “unusually deplorable.”. After stacking the board with two “henchmen,” Archit Kumar and Carlos Licona, Prasad ambushed Ramadurgam and seized control ... ## Learn more about Bloomberg Law or Log In to keep reading:. Bloomberg Law provides trusted coverage of current events enhanced with legal analysis. ### Already a subscriber? Log in to keep reading or access research tools and resources. © 2026 Bloomberg Industry Group, Inc.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.7949116230010986,
+      "embedding_score_norm": 0.614761439991141,
+      "embedding_rank": 4
+    },
+    {
+      "title": "YSRCP accuses government of neglecting agriculture amid rainfall deficit - The Hindu",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/ysrcp-accuses-government-of-neglecting-agriculture-amid-rainfall-deficit/article71241615.ece",
+      "snippet": "Products you've access to. The View From India Looking at World Affairs from the Indian perspective.SEE ALL NEWSLETTERS. First Day First Show News and reviews from the world of cinema and streaming.SEE ALL NEWSLETTERS. Today's Cache Your download of the top 5 technology stories of the day.SEE ALL NEWSLETTERS. Science For All The weekly newsletter from science writers takes the jargon out of science and puts the fun in! The Hindu On Books Books of the week, reviews, excerpts, new titles and features.SEE ALL NEWSLETTERS. The YSR Congress Party (YSRCP) on Sunday accused the Andhra Pradesh government of neglecting the agriculture sector, alleging poor water management and inadequate support to farmers affected by deficient rainfall during the ongoing kharif season. If you are already a registered user of The Hindu and logged in, you may continue to engage with our articles.",
+      "bm25_score_raw": 4.441993108137644,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.7764251232147217,
+      "embedding_score_norm": 0.27803827860282776,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Christopher Nolan's The Odyssey Becomes the Biggest Hollywood Box Office Opening of 2026 in India - IGN India",
+      "url": "https://in.ign.com/the-odyssey-2026/266646/christopher-nolans-the-odyssey-becomes-the-biggest-hollywood-box-office-opening-of-2026-in-india",
+      "snippet": "[The Odyssey [2026]](https://in.ign.com/the-odyssey-2026 \"The Odyssey [2026]\"). # Christopher Nolan's The Odyssey Becomes the Biggest Hollywood Box Office Opening of 2026 in India. ### A record-setting voyage at the Indian box office. Updated: July 22, 2026, 3:02 p.m. Related reads:The Odyssey Isn't 100% Matt Damon's Bulging Biceps — for One Scene His Stunt Double Was a Woman Who Had 'The Greatest Arms I've Ever Seen'. Christopher Nolan's The Odyssey has become the biggest opening for a Hollywood film in India in 2026. According to Sacnilk, the film has surpassed Evil Dead Burn, which previously held the record with ₹12.65 crore collected during its opening three days. The Odyssey earned India gross of ₹73.19 crore and an India net collection of ₹61.30 crore in its first weekend. Here's the day-wise box office breakdown:. The film has also delivered Christopher Nolan's biggest opening weekend in India. Its ₹73 crore opening weekend has comfortably surpassed the opening weekend collection of Oppenheimer, which earned ₹42.40 crore during its first three days in July 2023.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.7611604928970337,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6
+    }
+  ]
+}

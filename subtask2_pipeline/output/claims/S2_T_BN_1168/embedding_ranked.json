@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/BN/1168",
+    "text": "বাড়ির বাইরে বের হলে মাস্কে মুখ ঢাকুন, নির্দেশিকায় বদল কেন্দ্রের",
+    "lang": "bengali"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "House - NBC.com",
+      "url": "https://www.nbc.com/house",
+      "snippet": "## If You Liked.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.8354212045669556,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Watch House, M.D.",
+      "url": "https://www.netflix.com/title/70136117",
+      "snippet": "# House, M.D. Endless entertainment starting at BRL 20.90. Endless entertainment starting at BRL 20.90. Dr. Gregory House and his elite team rush to save the life of a teacher after she starts to speak gibberish and passes out in front of her class. When a college student collapses after a round of raucous sex with his girlfriend, Dr. House and his team scramble to figure out why. When an epidemic of sick babies strikes the maternity ward, House spars with Cameron over his plan to sacrifice one baby for the good of the rest. 5. Damned If You Do. A nun who visits the clinic with swollen arms, a rash and bleeding in her palms causes the team to deal with questions about their own lives. When a student falls victim to a mysterious poisoning, House sends Cameron to the teen's home to find the hot new drug House is sure he's taking.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.8055808544158936,
+      "embedding_score_norm": 0.7287674810067672,
+      "embedding_rank": 2
+    },
+    {
+      "title": "House, M.D. | House Wiki - Fandom",
+      "url": "https://house.fandom.com/wiki/House,_M.D.",
+      "snippet": "For the character also called House, see Gregory House._. _**House**_ (also called _**House, M.D.**_) is an American television medical drama that originally ran on the Fox network for eight seasons, from November 16, 2004 to May 21, 2012. The show's main character is Dr. Gregory House (Hugh Laurie), a pain medication-dependent, unconventional, misanthropic medical genius who leads a team of diagnostic fellows at the fictional Princeton-Plainsboro Teaching Hospital (PPTH) in Princeton, New Jersey. The show's premise originated with Paul Attanasio, while David Shore, who is credited as creator, was primarily responsible for the conception of the title character. Bryan Singer, who directed the pilot episode and had a major role in casting the primary roles, has said that the \"title of the pilot was 'Everybody Lies', and that's the premise of the show\".Shore has said that the central storylines of several early episodes were based on the work of Berton Roueché, a staff writer for _The New Yorker_ between 1944 and 1994, who specialized in features about unusual medical cases.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.7927471399307251,
+      "embedding_score_norm": 0.612116011093359,
+      "embedding_rank": 3
+    },
+    {
+      "title": "House (TV series)",
+      "url": "https://en.wikipedia.org/wiki/House_(TV_series)",
+      "snippet": "# *House* (TV series). American TV medical drama (2004–2012). ***House*** (also known as ***House, M.D.*** and ***Dr. House*** in some international markets) is an American medical drama television series created by David Shore for Fox. It aired for eight seasons from November 16, 2004 to May 21, 2012. It focuses on Dr. Gregory House (Hugh Laurie), an unconventional and misanthropic medical genius who, despite his dependence on pain medication, leads a team of diagnosticians at the fictional Princeton–Plainsboro Teaching Hospital (PPTH) in New Jersey. Kutner dies late in season five \"House (season 5)\"); early in season six, Cameron departs the hospital, and Chase returns to the diagnostic team. In 2004, David Shore and Paul Attanasio, along with Attanasio's business partner Katie Jacobs, pitched the series (untitled at the time) to Fox as a *CSI*-style medical detective program, a hospital whodunit in which the doctors investigated symptoms and their causes; the main character would be loosely based on Arthur Conan Doyle's \"Sherlock Holmes\".",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.7921096086502075,
+      "embedding_score_norm": 0.6063211992269972,
+      "embedding_rank": 4
+    },
+    {
+      "title": "House M.D.",
+      "url": "https://www.youtube.com/@HouseM.D.",
+      "snippet": "The official YouTube channel for House M.D! Non-Stop Chaotic and Unconventional Clinic Duties … streaming now on Peacock. Non-Stop Chaotic and Unconventional",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.7788118124008179,
+      "embedding_score_norm": 0.485451479015207,
+      "embedding_rank": 5
+    },
+    {
+      "title": "গ্যাপে গ্যাপে মোহামেডান হবে না, মা*ইর হবে! দল বদল করেই ...",
+      "url": "https://www.facebook.com/cricfrenzyofficial/videos/%E0%A6%97%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AA%E0%A7%87-%E0%A6%97%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AA%E0%A7%87-%E0%A6%AE%E0%A7%8B%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A7%87%E0%A6%A1%E0%A6%BE%E0%A6%A8-%E0%A6%B9%E0%A6%AC%E0%A7%87-%E0%A6%A8%E0%A6%BE-%E0%A6%AE%E0%A6%BE%E0%A6%87%E0%A6%B0-%E0%A6%B9%E0%A6%AC%E0%A7%87-%E0%A6%A6%E0%A6%B2-%E0%A6%AC%E0%A6%A6%E0%A6%B2-%E0%A6%95%E0%A6%B0%E0%A7%87%E0%A6%87-%E0%A6%9A%E0%A6%BF%E0%A6%B0%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%AC%E0%A7%80-%E0%A6%86%E0%A6%AC%E0%A6%BE%E0%A6%B9%E0%A6%A8%E0%A7%80%E0%A6%95%E0%A7%87-%E0%A6%AF/4136963749853942",
+      "snippet": "গ্যাপে গ্যাপে মোহামেডান হবে না, মা*ইর হবে! দল বদল করেই চিরপ্রতিদ্বন্দ্বী আবাহনীকে যেন সতর্কবার্তাই দিয়ে রাখলেন এনামুল হক বিজয় #AnamulHaque #mohammedan",
+      "bm25_score_raw": 1.7526141128971287,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.7759509086608887,
+      "embedding_score_norm": 0.4594474232970291,
+      "embedding_rank": 6
+    },
+    {
+      "title": "House (TV Series 2004–2012)",
+      "url": "https://www.imdb.com/title/tt0412142",
+      "snippet": "What's on TV & streamingTop 250 TV showsMost popular TV showsBrowse TV shows by genreTV news. # House. Original title: House M.D. Image 3: Hugh Laurie in House (2004). Using a crack team of doctors and his wits, an antisocial maverick doctor specializing in diagnostic medicine does whatever it takes to solve puzzling cases that come his way.Using a crack team of doctors and his wits, an antisocial maverick doctor specializing in diagnostic medicine does whatever it takes to solve puzzling cases that come his way.Using a crack team of doctors and his wits, an antisocial maverick doctor specializing in diagnostic medicine does whatever it takes to solve puzzling cases that come his way. Image 7: Jennifer Morrison in House (2004). Clinic Cases: A woman who had a cold last week, man with a sore throat, woman whose leg hurts after running 6 miles, a boy and his MP3 Player. Image 13: Omar Epps, Hugh Laurie, and Jennifer Morrison in House (2004).",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.7652182579040527,
+      "embedding_score_norm": 0.36189347753183054,
+      "embedding_rank": 7
+    },
+    {
+      "title": "কতটা বদল হলো বিশ্ব? | Global Transformation | IRan | USA | War ...",
+      "url": "https://www.youtube.com/watch?v=MfRCng3dISo",
+      "snippet": "কতটা বদল হলো বিশ্ব? | Global Transformation | IRan ... ইরানে জেদে জ্বলছে মার্কিন ঘাঁটি | Iran | War | Channel 24.",
+      "bm25_score_raw": 1.7169274001910784,
+      "bm25_score_norm": 0.9796380090497737,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.7566201090812683,
+      "embedding_score_norm": 0.2837409909800091,
+      "embedding_rank": 8
+    },
+    {
+      "title": "ইরান ইস্যুতে যুক্তরাষ্ট্রের কৌশল বদল | Iran | US | Trump ...",
+      "url": "https://www.youtube.com/watch?v=kWUmSlysIPk",
+      "snippet": "#iran #alikhamenei #us #donaldtrump #somoytv ইরান ইস্যুতে যুক্তরাষ্ট্রের কৌশল বদল | Iran | US | Trump | Khamenei | Somoy International ইরানে সম্ভাব্য সামরিক",
+      "bm25_score_raw": 1.7169274001910784,
+      "bm25_score_norm": 0.9796380090497737,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.7563679814338684,
+      "embedding_score_norm": 0.2814492880822239,
+      "embedding_rank": 9
+    },
+    {
+      "title": "ইরানের ১০ দফা প্রস্তাব কি বদলে গেছে",
+      "url": "https://banglastream.net/explainer/bs355zk4zbma",
+      "snippet": "ইরানের ১০ দফা প্রস্তাব কি বদলে গেছে ... যুক্তরাষ্ট্র ও ইরানের মধ্যে যুদ্ধবিরতির নানা প্রস্তাব নিয়ে বিভ্রান্তি তৈরি হয়েছে। দুই সপ্তাহের এই ভঙ্গুর যুদ্ধবিরতির ভবিষ্যৎ নিয়ে অনিশ্চয়তা বাড়ছে। দুই পক্ষের কর্মকর্তারা",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.743912935256958,
+      "embedding_score_norm": 0.16823970670537097,
+      "embedding_rank": 10
+    },
+    {
+      "title": "ইরানে সরকার পরিবর্তন হলে ক্ষমতা দখলের লড়াইয়ে নামতে পারে ...",
+      "url": "https://www.prothomalo.com/world/middle-east/0aqzlx9yf5",
+      "snippet": "ইসরায়েল–যুক্তরাষ্ট্রের যৌথ হামলায় গতকাল শনিবার ইরানের সর্বোচ্চ নেতা আয়াতুল্লাহ আলী খামেনি নিহত হয়েছেন। আজ রোববার দেশটির সংবাদমাধ্যমে এ খবর জানানো হয়। আলী খামেনি নিহত হওয়ার পর ইরানে নেতৃত্বের শূন্যতা",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.7347825765609741,
+      "embedding_score_norm": 0.0852497224764044,
+      "embedding_rank": 11
+    },
+    {
+      "title": "মাত্র ১০ সেকেন্ডেই বদলে গেল ইরানের ভাগ্য! ইরানকে চমকে দিল ...",
+      "url": "https://www.youtube.com/watch?v=urBEc6ICvik",
+      "snippet": "নতুন করে উত্তপ্ত হয়েছে মধ্যপ্রাচ্য। আমেরিকা-ইরানের মধ্যে ক্ষনে ক্ষনে বদলাচ্ছে যুদ্ধের কৌশল। জানা যাচ্ছে মাত্র ১০ সেকেন্ডের কম সময়ের হামলায়, ইরানকে চমকে দিয়েছে আমেরিকা।",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.7254036068916321,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

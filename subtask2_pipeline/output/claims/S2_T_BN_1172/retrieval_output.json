@@ -1,0 +1,138 @@
+{
+  "claim": {
+    "id": "S2/T/BN/1172",
+    "text": "ফের বঙ্গ সফরে আসছেন প্রধানমন্ত্রী, তবে 3 দিনের বদলে 1 দিনের কর্মসূচি মোদির",
+    "lang": "bengali"
+  },
+  "generated_queries": {
+    "english_translation": "Prime Minister is visiting Bengal again, but Modi's program is 1 day instead of 3 days",
+    "native_query": "মোদির বঙ সফর আসছ রধ নমন তব বদল",
+    "english_query": "Bengal Modi Prime Minister visiting program day days"
+  },
+  "native_retrieval": [
+    {
+      "title": "ফের বঙ্গ সফরে আসছেন নরেন্দ্র মোদী। ৫ এপ্রিল কোচবিহারে প্রথম সভা ...",
+      "url": "https://www.facebook.com/RepublicBangla/videos/%E0%A6%AB%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%99%E0%A7%8D%E0%A6%97-%E0%A6%B8%E0%A6%AB%E0%A6%B0%E0%A7%87-%E0%A6%86%E0%A6%B8%E0%A6%9B%E0%A7%87%E0%A6%A8-%E0%A6%A8%E0%A6%B0%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0-%E0%A6%AE%E0%A7%8B%E0%A6%A6%E0%A7%80-%E0%A7%AB-%E0%A6%8F%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%B2-%E0%A6%95%E0%A7%8B%E0%A6%9A%E0%A6%AC%E0%A6%BF%E0%A6%B9%E0%A6%BE%E0%A6%B0%E0%A7%87-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A5%E0%A6%AE-%E0%A6%B8%E0%A6%AD%E0%A6%BEreels-pmmodi-naren/2165100297664365",
+      "snippet": "Video Transcript. সফরে আসছেন প্রধানমন্ত্রী নরেন্দ্র মোদী. পাঁচই এপ্রিল কোচবিহারে প্রথম সভা করবেন. দশ তারিখ মেগা রোড শো প্রধানমন্ত্রীর. দশই এপ্রিল শিলিগুড়িতে রোড"
+    },
+    {
+      "title": "PM Modi: 'উপড়ে ফেলুন তৃণমূল সরকারকে', বাংলায় বইছে ...",
+      "url": "https://bengali.news18.com/news/west-bengal/pm-modi-said-wind-of-change-in-bengal-urges-first-time-voters-to-root-out-tmc-govt-ank-2646691.html",
+      "snippet": "PM Modi: 'উপড়ে ফেলুন তৃণমূল সরকারকে', বাংলায় বইছে পরিবর্তনের হাওয়া! কাকদ্বীপের সভা থেকে বঙ্গে বদলের ডাক মোদির! ... PM Modi: বৃহস্পতিবার ফের পরিবর্তনের ডাক দিলেন প্রধানমন্ত্রী নরেন্দ্র মোদি৷"
+    },
+    {
+      "title": "বাংলা ভাষা খতম বঙ্গে! তোপ নমোর, কটাক্ষে বাম-তৃণমূল",
+      "url": "https://eisamay.com/west-bengal-news/kolkata-news/bangla-language-in-ruined-west-bengal-claimed-pm-narendra-modi/200493467.cms",
+      "snippet": "বাংলা উচ্চারণের এই বদলকে 'ভোটের ইস্যু' করতে একেবারে বুথ স্তরের কর্মীদের পরামর্শ দিয়েছেন মোদী। তাঁর কথায়, 'আপনারা ছোট ছোট ভিডিয়ো করুন। সেই ভিডিয়োতে বয়স্ক মানুষদের সঙ্গে বাংলায় কথা বলুন। তাঁদের বলার ধরন,"
+    },
+    {
+      "title": "Narendra Modi : আজ তিন মেট্রো রুটের উদ্বোধন, বঙ্গ সফরের আগেই ...",
+      "url": "https://www.youtube.com/watch?v=TRtoOpBseW8",
+      "snippet": "Narendra Modi : বঙ্গ সফরের আগেই ফের তৃণমূলকে নিশানা মোদির।আজ তিন মেট্রো রুটের উদ্বোধন। দমদমে রাজনৈতিক সভা। এক্স হ্যান্ডলে রাজ্যের শাসকদলকে তোপ প্রধানমন্ত্রীর।"
+    },
+    {
+      "title": "Narendra Modi : বঙ্গ সফরে প্রধানমন্ত্রী, কলকাতায় তিন মেট্রো ...",
+      "url": "https://www.youtube.com/watch?v=7U1y_-YGJyc",
+      "snippet": "সফরের আগেই TMC কে নিশানা। X হ্যান্ডলে TMC কে নিশানা মোদির। কাল দমদমে রাজনৈতিক সভা মোদির। তার আগেই হাওয়া গরম। সোশাল মিডিয়ায় প্রধানমন্ত্রীর তোপ, প্রতিদিনই TMC র বিরুদ্ধে বাংলার মানুষের ক্ষোভ বাড়ছে।"
+    },
+    {
+      "title": "Narendra Modi : বঙ্গ সফরের আগের দিন বাংলা নিয়ে একাধিক পোস্ট ...",
+      "url": "https://www.youtube.com/watch?v=BgvuMlK5Ei4",
+      "snippet": "সভার প্রস্তুতি খতিয়ে দেখেন রাজ্য সভাপতি Samik Bhattacharya। সফরের আগেই তৃণমূলকে নিশানা। X হ্যান্ডলে তৃণমূলকে নিশানা মোদির। তৃণমূলে মানুষ বীতশ্রদ্ধ বলে মন্তব্য। কাল দমদমে রাজনৈতিক সভা মোদির।"
+    }
+  ],
+  "english_retrieval": [
+    {
+      "title": "PM Modi to visit West Bengal for Paschim Banga Dibas ...",
+      "url": "https://www.thehindu.com/news/national/west-bengal/pm-modi-to-visit-west-bengal-for-paschim-banga-dibas-international-yoga-day-celebrations/article71123091.ece",
+      "snippet": "Jun 19, 2026 — 'I will be present in West Bengal for various programmes in the next two days, the 20th and 21st. Tomorrow, the 20th of June, is particularly"
+    },
+    {
+      "title": "PM to visit West Bengal on 20-21 June",
+      "url": "https://www.pmindia.gov.in/en/news_updates/pm-to-visit-west-bengal-on-20-21-june",
+      "snippet": "Jun 19, 2026 — Narendra Modi will visit West Bengal on 20-21 June 2026. On 20 June, at around 3:45 PM, the Prime Minister will participate in Paschimbanga"
+    },
+    {
+      "title": "Prime Minister Narendra Modi will visit West Bengal and ...",
+      "url": "https://www.facebook.com/TheCSRJournal/posts/prime-minister-narendra-modi-will-visit-west-bengal-and-odisha-on-june-20-21-eng/1331916575696394",
+      "snippet": "Prime Minister Narendra Modi is scheduled to hold a public rally in Nandigram on June 20, coinciding with the BJP's celebration of Bengal Day."
+    },
+    {
+      "title": "Prime Minister Narendra Modi is set to embark on a two ...",
+      "url": "https://www.facebook.com/IndiaToday/posts/prime-minister-narendra-modi-is-set-to-embark-on-a-two-state-visit-today-coverin/1618988703598005",
+      "snippet": "PM Modi to visit West Bengal on July 18, inaugurate development projects Prime Minister Narendra Modi will visit West Bengal on Friday, where he"
+    },
+    {
+      "title": "PM Modi's Odisha & Bengal Visit: ₹47600 Crore Projects ...",
+      "url": "https://www.youtube.com/watch?v=yNvexLp0fgs",
+      "snippet": "Prime Minister Narendra Modi is on a two-day Odisha and West Bengal visit, launching projects worth over ₹47,600 crore focused on energy,"
+    },
+    {
+      "title": "PM Narendra Modi will undertake a two-day visit to West ...",
+      "url": "https://www.facebook.com/IndiaToday/videos/pm-narendra-modi-will-undertake-a-two-day-visit-to-west-bengal-and-odisha-on-jun/28377325638523461",
+      "snippet": "PM Narendra Modi will undertake a two-day visit to West Bengal and Odisha on June 20 and 21 PM Modi to lead International Yoga Day celebrations"
+    }
+  ],
+  "merged_results": [
+    {
+      "title": "ফের বঙ্গ সফরে আসছেন নরেন্দ্র মোদী। ৫ এপ্রিল কোচবিহারে প্রথম সভা ...",
+      "url": "https://www.facebook.com/RepublicBangla/videos/%E0%A6%AB%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%99%E0%A7%8D%E0%A6%97-%E0%A6%B8%E0%A6%AB%E0%A6%B0%E0%A7%87-%E0%A6%86%E0%A6%B8%E0%A6%9B%E0%A7%87%E0%A6%A8-%E0%A6%A8%E0%A6%B0%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0-%E0%A6%AE%E0%A7%8B%E0%A6%A6%E0%A7%80-%E0%A7%AB-%E0%A6%8F%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%B2-%E0%A6%95%E0%A7%8B%E0%A6%9A%E0%A6%AC%E0%A6%BF%E0%A6%B9%E0%A6%BE%E0%A6%B0%E0%A7%87-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A5%E0%A6%AE-%E0%A6%B8%E0%A6%AD%E0%A6%BEreels-pmmodi-naren/2165100297664365",
+      "snippet": "Video Transcript. সফরে আসছেন প্রধানমন্ত্রী নরেন্দ্র মোদী. পাঁচই এপ্রিল কোচবিহারে প্রথম সভা করবেন. দশ তারিখ মেগা রোড শো প্রধানমন্ত্রীর. দশই এপ্রিল শিলিগুড়িতে রোড"
+    },
+    {
+      "title": "PM Modi: 'উপড়ে ফেলুন তৃণমূল সরকারকে', বাংলায় বইছে ...",
+      "url": "https://bengali.news18.com/news/west-bengal/pm-modi-said-wind-of-change-in-bengal-urges-first-time-voters-to-root-out-tmc-govt-ank-2646691.html",
+      "snippet": "PM Modi: 'উপড়ে ফেলুন তৃণমূল সরকারকে', বাংলায় বইছে পরিবর্তনের হাওয়া! কাকদ্বীপের সভা থেকে বঙ্গে বদলের ডাক মোদির! ... PM Modi: বৃহস্পতিবার ফের পরিবর্তনের ডাক দিলেন প্রধানমন্ত্রী নরেন্দ্র মোদি৷"
+    },
+    {
+      "title": "বাংলা ভাষা খতম বঙ্গে! তোপ নমোর, কটাক্ষে বাম-তৃণমূল",
+      "url": "https://eisamay.com/west-bengal-news/kolkata-news/bangla-language-in-ruined-west-bengal-claimed-pm-narendra-modi/200493467.cms",
+      "snippet": "বাংলা উচ্চারণের এই বদলকে 'ভোটের ইস্যু' করতে একেবারে বুথ স্তরের কর্মীদের পরামর্শ দিয়েছেন মোদী। তাঁর কথায়, 'আপনারা ছোট ছোট ভিডিয়ো করুন। সেই ভিডিয়োতে বয়স্ক মানুষদের সঙ্গে বাংলায় কথা বলুন। তাঁদের বলার ধরন,"
+    },
+    {
+      "title": "Narendra Modi : আজ তিন মেট্রো রুটের উদ্বোধন, বঙ্গ সফরের আগেই ...",
+      "url": "https://www.youtube.com/watch?v=TRtoOpBseW8",
+      "snippet": "Narendra Modi : বঙ্গ সফরের আগেই ফের তৃণমূলকে নিশানা মোদির।আজ তিন মেট্রো রুটের উদ্বোধন। দমদমে রাজনৈতিক সভা। এক্স হ্যান্ডলে রাজ্যের শাসকদলকে তোপ প্রধানমন্ত্রীর।"
+    },
+    {
+      "title": "Narendra Modi : বঙ্গ সফরে প্রধানমন্ত্রী, কলকাতায় তিন মেট্রো ...",
+      "url": "https://www.youtube.com/watch?v=7U1y_-YGJyc",
+      "snippet": "সফরের আগেই TMC কে নিশানা। X হ্যান্ডলে TMC কে নিশানা মোদির। কাল দমদমে রাজনৈতিক সভা মোদির। তার আগেই হাওয়া গরম। সোশাল মিডিয়ায় প্রধানমন্ত্রীর তোপ, প্রতিদিনই TMC র বিরুদ্ধে বাংলার মানুষের ক্ষোভ বাড়ছে।"
+    },
+    {
+      "title": "Narendra Modi : বঙ্গ সফরের আগের দিন বাংলা নিয়ে একাধিক পোস্ট ...",
+      "url": "https://www.youtube.com/watch?v=BgvuMlK5Ei4",
+      "snippet": "সভার প্রস্তুতি খতিয়ে দেখেন রাজ্য সভাপতি Samik Bhattacharya। সফরের আগেই তৃণমূলকে নিশানা। X হ্যান্ডলে তৃণমূলকে নিশানা মোদির। তৃণমূলে মানুষ বীতশ্রদ্ধ বলে মন্তব্য। কাল দমদমে রাজনৈতিক সভা মোদির।"
+    },
+    {
+      "title": "PM Modi to visit West Bengal for Paschim Banga Dibas ...",
+      "url": "https://www.thehindu.com/news/national/west-bengal/pm-modi-to-visit-west-bengal-for-paschim-banga-dibas-international-yoga-day-celebrations/article71123091.ece",
+      "snippet": "Jun 19, 2026 — 'I will be present in West Bengal for various programmes in the next two days, the 20th and 21st. Tomorrow, the 20th of June, is particularly"
+    },
+    {
+      "title": "PM to visit West Bengal on 20-21 June",
+      "url": "https://www.pmindia.gov.in/en/news_updates/pm-to-visit-west-bengal-on-20-21-june",
+      "snippet": "Jun 19, 2026 — Narendra Modi will visit West Bengal on 20-21 June 2026. On 20 June, at around 3:45 PM, the Prime Minister will participate in Paschimbanga"
+    },
+    {
+      "title": "Prime Minister Narendra Modi will visit West Bengal and ...",
+      "url": "https://www.facebook.com/TheCSRJournal/posts/prime-minister-narendra-modi-will-visit-west-bengal-and-odisha-on-june-20-21-eng/1331916575696394",
+      "snippet": "Prime Minister Narendra Modi is scheduled to hold a public rally in Nandigram on June 20, coinciding with the BJP's celebration of Bengal Day."
+    },
+    {
+      "title": "Prime Minister Narendra Modi is set to embark on a two ...",
+      "url": "https://www.facebook.com/IndiaToday/posts/prime-minister-narendra-modi-is-set-to-embark-on-a-two-state-visit-today-coverin/1618988703598005",
+      "snippet": "PM Modi to visit West Bengal on July 18, inaugurate development projects Prime Minister Narendra Modi will visit West Bengal on Friday, where he"
+    },
+    {
+      "title": "PM Modi's Odisha & Bengal Visit: ₹47600 Crore Projects ...",
+      "url": "https://www.youtube.com/watch?v=yNvexLp0fgs",
+      "snippet": "Prime Minister Narendra Modi is on a two-day Odisha and West Bengal visit, launching projects worth over ₹47,600 crore focused on energy,"
+    },
+    {
+      "title": "PM Narendra Modi will undertake a two-day visit to West ...",
+      "url": "https://www.facebook.com/IndiaToday/videos/pm-narendra-modi-will-undertake-a-two-day-visit-to-west-bengal-and-odisha-on-jun/28377325638523461",
+      "snippet": "PM Narendra Modi will undertake a two-day visit to West Bengal and Odisha on June 20 and 21 PM Modi to lead International Yoga Day celebrations"
+    }
+  ]
+}

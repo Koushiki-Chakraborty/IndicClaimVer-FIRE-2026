@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/HI/1132",
+    "text": "दिल्ली: कांग्रेस ने AAP नेता की राज्यसभा उम्मीदवारी रद्द करने की मांग की, बताया यह कारण",
+    "lang": "hindi"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "AAP News | Delhi CM Atishi Sets Deadline For Congress ...",
+      "url": "https://www.youtube.com/watch?v=s5QL_PPU4-8",
+      "snippet": "AAP alliance led to #Congress' decline, says Ajay Maken. We are setting a deadline for #Congress to act against Ajay Maken.",
+      "bm25_score_raw": 1.6740388683802059,
+      "bm25_score_norm": 0.3969688554721991,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.8671680688858032,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "AAP petitions Rajya Sabha chairman seeking termination of 7 MPs who ...",
+      "url": "https://www.facebook.com/WIONews/posts/aap-petitions-rajya-sabha-chairman-seeking-termination-of-7-mps-who-switched-to-/1324407466465091",
+      "snippet": "चड्ढा और उनकी टीम की राज्यसभा सदस्यता तुरंत समाप्त की जानी चाहिए। ऐसे लोगों को जनता के भरोसे के साथ विश्वासघात करने और संविधान, कानून व न्याय व्यवस्था का मज़ाक उड़ाने की बिल्कुल भी अनुमति नहीं दी जा सकती",
+      "bm25_score_raw": 1.2802118825444144,
+      "bm25_score_norm": 0.2434177139544445,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.8622279763221741,
+      "embedding_score_norm": 0.9201902392145459,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Watch | Delhi: During a press conference, AAP leader ...",
+      "url": "https://www.instagram.com/reel/DWLpf7CD1Ng?hl=hi",
+      "snippet": "Today, I want to tell the people of Delhi and the Bharatiya Janata Party (BJP) that you cannot suppress the voice of the people of Delhi. If you ...Read more",
+      "bm25_score_raw": 1.7569137647982265,
+      "bm25_score_norm": 0.42928135666138556,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8596887588500977,
+      "embedding_score_norm": 0.8791678623221202,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Congress seeks rejection of Rajya Sabha nominee, AAP calls ...",
+      "url": "https://www.newindianexpress.com/amp/story/india/2018/Jan/06/congress-seeks-rejection-of-rajya-sabha-nominee-aap-calls-objections-frivolous-1746315.html",
+      "snippet": "AAP leader Raghav Chadha dismissed the objection, saying Gupta had resigned from the post of trustee of the NPS on December 29, 2017.",
+      "bm25_score_raw": 2.63133759409384,
+      "bm25_score_norm": 0.7702147664776744,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8572241067886353,
+      "embedding_score_norm": 0.8393501283604338,
+      "embedding_rank": 4
+    },
+    {
+      "title": "'Congress AAP Alliance Was Huge Mistake' Says Delhi ...",
+      "url": "https://www.youtube.com/watch?v=hBSHcn3bV_I",
+      "snippet": "Delhi Congress President Devendra Yadav, in an exclusive interview with Times Now, launched a scathing attack on Chief Minister Arvind",
+      "bm25_score_raw": 1.4666975360937275,
+      "bm25_score_norm": 0.31612752310683484,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.8531553745269775,
+      "embedding_score_norm": 0.773617645756017,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Disqualify all seven defecting MPs, AAP says in petition to Rajya Sabha ...",
+      "url": "https://www.thehindu.com/news/national/aap-submits-petition-to-rajya-sabha-chairman-seeking-termination-of-seven-mps-who-quit-party/article70908172.ece/amp",
+      "snippet": "AAP petitions Rajya Sabha Chairman to disqualify seven MPs for defection after they joined BJP, claiming betrayal of voters.",
+      "bm25_score_raw": 2.2636792723455663,
+      "bm25_score_norm": 0.6268666541761767,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8518052697181702,
+      "embedding_score_norm": 0.7518060014521195,
+      "embedding_rank": 6
+    },
+    {
+      "title": "AAP Vs Congress, Alliance Tensions Escalate In Delhi",
+      "url": "https://www.youtube.com/watch?v=nZTE_ZmwNxc",
+      "snippet": "The India Bloc allies, AAP and Congress, are embroiled in a bitter dispute in Delhi. Congress has launched a scathing attack on AAP,",
+      "bm25_score_raw": 1.6912173296537572,
+      "bm25_score_norm": 0.40366665027281284,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8433681726455688,
+      "embedding_score_norm": 0.6155003168085725,
+      "embedding_rank": 7
+    },
+    {
+      "title": "Congress party has termed the rejection of party candidate ...",
+      "url": "https://www.facebook.com/dailyexcelsior/posts/congress-party-has-termed-the-rejection-of-party-candidate-meenakshi-natarajans-/1423354083162799",
+      "snippet": "Congress party has termed the rejection of party candidate Meenakshi Natarajan's nomination for one of the three Rajya Sabha seats from",
+      "bm25_score_raw": 0.6558956864018199,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.8412086963653564,
+      "embedding_score_norm": 0.5806128560726137,
+      "embedding_rank": 8
+    },
+    {
+      "title": "AAP removes Raghav Chadha as Rajya Sabha deputy leader ...",
+      "url": "https://m.economictimes.com/news/politics-and-nation/aap-removes-raghav-chadha-as-rajya-sabha-deputy-leader-replaces-him-with-ashok-mittal/amp_articleshow/129987993.cms",
+      "snippet": "The Aam Aadmi Party has removed Raghav Chadha as deputy leader in the Rajya Sabha. Ashok Mittal has been appointed to the position.",
+      "bm25_score_raw": 2.643706577858823,
+      "bm25_score_norm": 0.7750373704251844,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8353496789932251,
+      "embedding_score_norm": 0.4859573878025811,
+      "embedding_rank": 9
+    },
+    {
+      "title": "Delhi: Congress General Secretary (organisation) KC Venugopal says ...",
+      "url": "https://x.com/ANI/status/2064360462519791918",
+      "snippet": "Former CM, Deputy CMs and MPs are here...\" Congress leader Sachin Pilot says, \"There are no FIRs or chargesheet against our candidate (Meenakshi",
+      "bm25_score_raw": 0.6635176922494971,
+      "bm25_score_norm": 0.002971781367602415,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.8334718942642212,
+      "embedding_score_norm": 0.4556208003605262,
+      "embedding_rank": 10
+    },
+    {
+      "title": "आज दिल्ली विधानसभा चुनाव के लिए कांग्रेस का थीम सॉन्ग लॉन्च ...",
+      "url": "https://www.instagram.com/reel/DFKaGhpz_vE",
+      "snippet": "These are our country's students who want Dharmendra Pradhan's resignation and want changes in our education system. And the Delhi Police are ...Read more",
+      "bm25_score_raw": 3.150162845257677,
+      "bm25_score_norm": 0.9725020967767215,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8279201984405518,
+      "embedding_score_norm": 0.36593027129983957,
+      "embedding_rank": 11
+    },
+    {
+      "title": "राष्ट्रीय युवा कांग्रेस ने दिल्ली की बदहाल स्थिति जैसे प्रदूषण ...",
+      "url": "https://www.facebook.com/udaybhanuchib.in/videos/%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF-%E0%A4%AF%E0%A5%81%E0%A4%B5%E0%A4%BE-%E0%A4%95%E0%A4%BE%E0%A4%82%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8-%E0%A4%A8%E0%A5%87-%E0%A4%A6%E0%A4%BF%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80-%E0%A4%95%E0%A5%80-%E0%A4%AC%E0%A4%A6%E0%A4%B9%E0%A4%BE%E0%A4%B2-%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BF%E0%A4%A4%E0%A4%BF-%E0%A4%9C%E0%A5%88%E0%A4%B8%E0%A5%87-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A6%E0%A5%82%E0%A4%B7%E0%A4%A3-%E0%A4%AA%E0%A4%BE%E0%A4%A8%E0%A5%80-%E0%A4%9C%E0%A4%B2%E0%A4%AD%E0%A4%B0%E0%A4%BE%E0%A4%B5-%E0%A4%95%E0%A5%8B-%E0%A4%B8%E0%A5%81/26364620303210444",
+      "snippet": "इसके तहत 8 माँगें रखी गई हैं। हम अब मोहल्ला स्तर पर बैठकें और विरोध प्रदर्शन कर सरकार पर दबाव बनाएंगे ताकि दिल्ली को फिर से रहने लायक बनाया जा सके।Read more",
+      "bm25_score_raw": 3.2206892916011314,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.805269718170166,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

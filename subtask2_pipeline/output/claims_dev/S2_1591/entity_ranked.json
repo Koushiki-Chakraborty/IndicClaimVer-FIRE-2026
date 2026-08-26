@@ -1,0 +1,99 @@
+{
+  "claim": {
+    "id": "S2/1591",
+    "text": "Covid-19: More strict curbs in Kerala as 4 districts listed under 'C' category",
+    "lang": "dev"
+  },
+  "entity_ranked_evidence": [
+    {
+      "title": "Covid-19: More strict curbs in Kerala as four districts listed ...",
+      "url": "https://www.indiatoday.in/coronavirus-outbreak/story/covid-19-curbs-kerala-four-districts-c-category-1905161-2022-01-27",
+      "snippet": "While Thiruvananthapuram will continue to remain under the C category, four new districts--Idukki, Kottayam, Pathanamthitta and Kollam--have now",
+      "bm25_score_raw": 9.4708264990028,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9335950016975403,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 1,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 1
+    },
+    {
+      "title": "Kerala's new norms for imposing Covid-19 restrictions",
+      "url": "https://indianexpress.com/article/explained/explained-kerala-covid-19-restrictions-7734695",
+      "snippet": "At present, Ernakulam, Alappuzha, and Kollam districts are in A category. B Zone districts. A district would be declared B zone when more",
+      "bm25_score_raw": 1.459395909723687,
+      "bm25_score_norm": 0.15409382801779226,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8875228762626648,
+      "embedding_score_norm": 0.5556118973085314,
+      "embedding_rank": 2,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 1,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 2
+    },
+    {
+      "title": "Kerala imposes full Covid 19 lockdown on July 31, Aug 1 as ...",
+      "url": "https://www.facebook.com/tv9gujarati/posts/kerala-imposes-full-covid-19-lockdown-on-july-31-aug-1-as-cases-rise-kerala-lock/2964830073769818",
+      "snippet": "*Seven new hotspots – Ramapuram, Thalayazham, Trikkodithanam and Mutholi in Kottayam, Nayarambalam in Ernakulam and Pattanakkad and",
+      "bm25_score_raw": 2.918791819447374,
+      "bm25_score_norm": 0.3081876560355845,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8494359850883484,
+      "embedding_score_norm": 0.18824527059851615,
+      "embedding_rank": 3,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 1,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 3
+    },
+    {
+      "title": "COVID-19 pandemic in Kerala",
+      "url": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Kerala",
+      "snippet": "+ 3.2 COVID-19 testing in Kerala as on 11.11.2020. + 4.1 COVID-19 daily graph by total number of cases, recoveries and deaths. | COVID-19 pandemic in Kerala, India |. The first case of the COVID-19 pandemic in Kerala (which was also the first reported case in all of India) was confirmed in Thrissur on 30 January 2020. Initially, Kerala's success in containing COVID-19 was widely praised both nationally and internationally, Following high number of cases being reported in March, Kerala had, by April 30, reduced the rate of increase of new cases to less than 0.25% per day. There was a third surge in cases post-Onam, with a high number of new cases reported in late-October in Malappuram, Kozhikode, Ernakulam and Thrissur districts. As per the official reports from the Government of Kerala, up until September 9, 2022, there were 9,110 active COVID-19 cases, with a cumulative total of 6,767,856 confirmed cases, 6,686,948 recoveries, and 70,913 confirmed deaths.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.831027090549469,
+      "embedding_score_norm": 0.010682511347401525,
+      "embedding_rank": 5,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 1,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 4
+    },
+    {
+      "title": "Curbs on district based on TPR as 1470 new cases reported",
+      "url": "https://www.thehindu.com/news/national/kerala/curbs-on-district-based-on-tpr-as-1470-new-cases-reported/article35063351.ece",
+      "snippet": "Local bodies in the district have been classified into A (TPR below 6%), B (between 6 and 12%), C (12-18%) and D (TPR above 18%) categories.",
+      "bm25_score_raw": 1.3588213146688917,
+      "bm25_score_norm": 0.14347441744518963,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.840826153755188,
+      "embedding_score_norm": 0.1051992514595676,
+      "embedding_rank": 4,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 5
+    },
+    {
+      "title": "Covid - 19 Govt Proceedings - thiruvananthapuram",
+      "url": "https://trivandrum.nic.in/en/document-category/covid-19/page/2",
+      "snippet": "Divisions (2) Taluk (6) (5) Blocks (11) Villages (124) COVID 19 Outbreak in Thiruvananthapuram District – CFLTC – Order Issued 13/01/2022. Thiruvananthapuram",
+      "bm25_score_raw": 3.9283884100455233,
+      "bm25_score_norm": 0.4147883408548504,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8299195766448975,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 6
+    }
+  ]
+}

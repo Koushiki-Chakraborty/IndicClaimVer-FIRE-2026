@@ -1,0 +1,57 @@
+{
+  "claim": {
+    "id": "S2/1176",
+    "text": "Karnataka CM to hold meeting with all district collectors today on Covid, vaccinations",
+    "lang": "dev"
+  },
+  "ranked_evidence": [
+    {
+      "title": "Karnataka CM to hold meeting with all district collectors ...",
+      "url": "/goto?url=CAES1gEB7keqTWw3pp2T65wlbsmriXRV6amookCjYwLSFBOaXJr0b9hUagImzpkAjTlxDmFOzSlBqNy0HsN2dti-KyrT_UVqC95_xQT-fvTdEovq3R0SXw5gQIxmL5wyXzzd3qKYMIW0ghIDfs5K8W2u2_uPyey-yeX7u678wsVV-WBG0TBXTtwkLm5DlEkjeg24CU9YySyltnZ1KZBqkccYRKS6If_b-LUVdL-eHQxzwse3uSu7gapwZtK87aQfzQ2_b99_E5PFdmVdsbyIw6BqvdrRNt8sSvna",
+      "snippet": "Jan 18, 2022 — Karnataka Chief Minister Basavaraj Bommai will hold a meeting on Tuesday, January 18, at 4 pm with all the district collectors on the Covid",
+      "bm25_score_raw": 11.597970647591195,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Congress offers to hold mass vaccination drive in state",
+      "url": "/goto?url=CAESqQEB7keqTU0Z1x5zTc0ZYnJTrqM_xJGoRVAdXz7ql6PlDEWVrLw7ZxOxtxncVwqwNf7MmjJuvTyeqfQu_wBbbHJDDtm1qxelXEq5h1ZZ1w0N4Nv_cwe1BkI4JuGvij2IHdGbhxpNy5kjccdwM1EINUt88e8ZYAw-GRz-Pw-6t6FpGCdiCXMK0VxizAoIfVwb6L410Ef4_c0fMOMmg_dtdIkc-4GGMKei2830",
+      "snippet": "May 31, 2021 — Karnataka Covid cases drop to 20K; Congress offers to hold mass vaccination drive in state. As new Covid cases declined to 20,378 in a day ...Read more",
+      "bm25_score_raw": 2.743354575612075,
+      "bm25_score_norm": 0.20447780244654448,
+      "bm25_rank": 2
+    },
+    {
+      "title": "Karnataka Omicron Cases Live Updates",
+      "url": "/goto?url=CAES_gEB7keqTbPYC8Ud-dpt5cs7b7E0YXmuPq7LWNUu-fuqn_HscEsIUeyQFfPd9woRWTAJ6jw-1pXYTuD28HttYj93eVURkl6kqm1YlzzXwVPzQzNghA61huo3PcIk_La9NMJ966GPdSeNkjl5SO8gVCHEnmvfvgd9_8Rb3GGwYH6jDv0KRzrjodBo_CKOF9lqOlfnQwqEb0YW5oN-OjPd5j3oFvR8tr_DneSUoUTzQjFvsRMi-Uz27ueFBLUE9HWd8T917WhTdm-KtIQqV1YSjmuBbd_cL1oRjgcnnB32kMjNoHk17uaG2Gse9xPnGZ6gDe2C8-ruMSfHRqamEpzOFQ%3D%3D",
+      "snippet": "Dec 3, 2021 — Two dose vaccination must to enter malls, chaired a meeting with experts, of coronavirus detected in the state.",
+      "bm25_score_raw": 1.8560886784313624,
+      "bm25_score_norm": 0.12476348049269893,
+      "bm25_rank": 3
+    },
+    {
+      "title": "Karnataka State Disaster Management Authority - Covid-19 ...",
+      "url": "/goto?url=CAEScAHuR6pNcGPwHFQGeRl9JaFAcQw4I0IxicQLMd-Df1DwJC4CaOBIhycVIFE2n4a1-tXpGdFgeOo4Ddy1W-GJnfsxnZIHjX_48LzcWE4fw1DLGOmHVWM-QE93ASxPXbXmGH-yieN2MpmdFypnLOGHM2U%3D",
+      "snippet": "Nodal officer for Covid Vaccination 13-5-2021 English Karnataka. Covid restrictions on Marriage, Public meetings 16-4-2021",
+      "bm25_score_raw": 1.3921611469475623,
+      "bm25_score_norm": 0.08308300035088156,
+      "bm25_rank": 4
+    },
+    {
+      "title": "Karnataka issues new guidelines after Omicron cases",
+      "url": "/goto?url=CAESqwEB7keqTWO8geg0JZEKoXwsKqCIPcFiqG4Q7p-DyjDzwZsVISbaK-aUmwhAr8KvKIyLpwc-Ji8cE_6Rtbc8skeoX6LZZ6e8L5k48TIQAYBbOAlRTElJfgL-untoeTlPktJEKNdexg3YRn3ZalfjA_g0dHp43ocdxuCmA94uerECu1cBLamSwwpt0VPuEoCak2MbsNfDl-aFDQaAHQnlJiErxL7Te86C-rGz64A%3D",
+      "snippet": "Dec 3, 2021 — The Karnataka government has said that only those who are fully vaccinated — who have received both COVID-19 vaccine doses — will be allowed in ...Read more",
+      "bm25_score_raw": 0.6935005429718181,
+      "bm25_score_norm": 0.02031347827327667,
+      "bm25_rank": 5
+    },
+    {
+      "title": "Karnataka: Second dry run for Covid vaccine in all 30 ...",
+      "url": "/goto?url=CAEStwEB7keqTRNgx48f1o_mWh77BLFsohsXCJmx3LejrV8WEPW30yxSE7IFZsD46TO_HirGG3BJIpQ7URAy2F-KaaVIApWne0gX8E3ReGcpB7Kf0rF5O1LOCXbITkSdCD9qbRTaVqykzGy3CygEgvmhHGET8n2kMzUDYETg6rbli0fdT4aKLcLj7Cvu6k8anUdN8TGSppa2HwfYJSG7gs7CmyhZnysQug6zePz_CA5j616OIajRhJFUP30%3D",
+      "snippet": "Jan 7, 2021 — The first dry run for the vaccination was held on January 2 in five districts — Bengaluru, Kalaburagi, Shivamogga, Mysuru and Belagavi. This ...Read more",
+      "bm25_score_raw": 0.46739993666627505,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/HI/1064",
+    "text": "राजस्थान की मुख्यमंत्री वसुंधरा राजे अप्रैल में विधानसभा चुनावों की तैयारी के लिए कोई 'विकास यात्रा' शुरू नहीं करेंगी।",
+    "lang": "hindi"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Vasundhara Raje to launch State-wide Vikas Yatra in April",
+      "url": "https://www.thehindu.com/news/national/other-states/vasundhara-raje-to-launch-state-wide-vikas-yatra-in-april/article23309685.ece",
+      "snippet": "Mar 21, 2018 — Rajasthan Chief Minister Vasundhara Raje will launch a Vikas Yatra next month covering all 200 assembly constituencies in the State. The",
+      "bm25_score_raw": 6.817545057340394,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9098840355873108,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Vasundhara Raje to start 'Vikas Yatra' on 15 April - Mint",
+      "url": "https://www.livemint.com/Politics/qXVc3Mdl5o9WHqvIXnSB7M/Rajasthan-Elections-2018-Vasundhara-Raje-to-start-Vikas-Ya.html",
+      "snippet": "Mar 31, 2018 — Jaipur: Ahead of the Rajasthan elections due later this year, chief minister Vasundhara Raje will begin her state tour from Charbhuja Nath",
+      "bm25_score_raw": 1.9227626292565878,
+      "bm25_score_norm": 0.19842621914696396,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.896328330039978,
+      "embedding_score_norm": 0.901718511847477,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Rajasthan: Amit Shah, Vasundhara discuss campaign roadmap",
+      "url": "https://www.newindianexpress.com/india/2018/Jul/10/rajasthan-amit-shah-vasundhara-discuss-campaign-roadmap-1841254.html",
+      "snippet": "The chief minister will launch a \"Vikas Yatra\" next month, which would be flagged off by Prime Minister Narendra Modi, which would also be joined by the BJP",
+      "bm25_score_raw": 1.6617444297495778,
+      "bm25_score_norm": 0.155681654271137,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.886694073677063,
+      "embedding_score_norm": 0.8318682890550151,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Vasundhara Raje to launch state-wide Vikas Yatra in April",
+      "url": "https://indianexpress.com/article/india/vasundhara-raje-to-launch-state-wide-vikas-yatra-in-april-5105701",
+      "snippet": "Mar 21, 2018 — This would be Raje's third yatra since 2003 when she first took over BJP's reins in the state. She had earlier undertaken Parivartan Yatra",
+      "bm25_score_raw": 4.868344114643904,
+      "bm25_score_norm": 0.680797176945987,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8815200328826904,
+      "embedding_score_norm": 0.794355492155052,
+      "embedding_rank": 4
+    },
+    {
+      "title": "With Eye On Polls, Vasundhara Raje Starts 58-Day Yatra In ...",
+      "url": "https://www.ndtv.com/india-news/with-eye-on-polls-vasundhara-raje-to-begin-58-day-yatra-from-tomorrow-1894943",
+      "snippet": "Aug 3, 2018 — Rajasthan Chief Minister Vasundhara Raje will start a 58-day, 6000-km yatra today that will roll through 165 assembly constituencies of the",
+      "bm25_score_raw": 2.9280972418758013,
+      "bm25_score_norm": 0.36306068008562453,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.8690527081489563,
+      "embedding_score_norm": 0.703964975495206,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Vasundhara Raje - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Vasundhara_Raje",
+      "snippet": "# Vasundhara Raje. 11th Chief Minister of Rajasthan. | Minister of State for of Personnel, Public Grievances and Pensions, Government of India |. | Member \"Member of Legislative Assembly (India)\") of Rajasthan Legislative Assembly |. | Member of Parliament, Lok Sabha |. | Leader of the Opposition, Rajasthan Legislative Assembly |. **Vasundhara Raje Scindia** (born 8 March 1953) is an Indian politician, who has held the position of the chief minister of Rajasthan from 2003 to 2008 and 2013 to 2018. She was previously a minister in the Union Cabinet of Atal Bihari Vajpayee and for India's Minister of state External Affairs (India) and Minister of state Personnel, Public Grievances and Pensions. She is only woman to serve as the Chief Minister for the state of Rajasthan. A member of the Scindia dynasty, she is also the matriarch of the Bamraulia family of Dholpur. She was also elected as a member of the 8th Rajasthan Assembly from Dholpur.",
+      "bm25_score_raw": 1.3044439225560804,
+      "bm25_score_norm": 0.09716981586774567,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.8585624694824219,
+      "embedding_score_norm": 0.6279087153749054,
+      "embedding_rank": 6
+    },
+    {
+      "title": "Digital Rajasthan Yatra Report Launched By CM ...",
+      "url": "https://www.youtube.com/watch?v=GYAwi1txXkU",
+      "snippet": "On the occasion of Rajasthan IT Day 2018, Rajasthan's Honourable Chief Minister Vasundhara Raje launched Inc42's Digital Rajasthan Yatra",
+      "bm25_score_raw": 3.0551293533490185,
+      "bm25_score_norm": 0.38386356793189663,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8585228323936462,
+      "embedding_score_norm": 0.6276213388117822,
+      "embedding_rank": 7
+    },
+    {
+      "title": "Vasundhara Raje In Rajasthan Vidhansabha : 'दुश्मनी जम के करो ...",
+      "url": "https://www.youtube.com/watch?v=9vRC6pmxYwQ",
+      "snippet": "Vasundhara Raje In Rajasthan Vidhansabha : 'दुश्मनी जम के करो, लेकिन...' वसुंधरा राजे!|BJP |Breaking पूर्व मुख्यमंत्री ने सदन में गिरते भाषाई स्तर और बदलती कार्यशैली पर भी",
+      "bm25_score_raw": 4.31241296560064,
+      "bm25_score_norm": 0.589757413773708,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8337122201919556,
+      "embedding_score_norm": 0.4477395996693225,
+      "embedding_rank": 8
+    },
+    {
+      "title": "Vasundhara Raje: 'मैं खुद को नहीं बचा पाई', वसुंधरा राजे के बयान पर सियासी ...",
+      "url": "https://www.youtube.com/watch?v=892sMB684Ds",
+      "snippet": "राजस्थान की पूर्व मुख्यमंत्री वसुंधरा राजे ने एक जनसभा के दौरान \"अपना सब कुछ खो देने\" और \"खुद को न बचा पाने\" वाली टिप्पणी की है। वसुंधरा राजे के इस ताजा बयान ने राज्य के सियासी गलियारों में नई बहस छेड़ दी है।",
+      "bm25_score_raw": 6.4906924107398485,
+      "bm25_score_norm": 0.9464743294381757,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8234438896179199,
+      "embedding_score_norm": 0.3732922161573043,
+      "embedding_rank": 9
+    },
+    {
+      "title": "Vasundhra Raje Emotional: मंच पर क्यों भावुक हुई वसुंधरा राजे ? | Ajmer ...",
+      "url": "https://www.youtube.com/watch?v=mO3mvwiuUXA",
+      "snippet": "Vasundhra Raje Emotional: मंच पर क्यों भावुक हुई वसुंधरा राजे ? | Ajmer | Rajasthan News | BJP मोदी सरकार के पहले कार्यकाल में जल संसाधन राज्यमंत्री रहे प्रो.",
+      "bm25_score_raw": 5.5943377462814325,
+      "bm25_score_norm": 0.7996865185535026,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.7980584502220154,
+      "embedding_score_norm": 0.18924286863174616,
+      "embedding_rank": 10
+    },
+    {
+      "title": "8PM Show:Vasundhara Raje का वनवास खत्म, सरकार को भी दे दिया सख्त ...",
+      "url": "https://www.youtube.com/watch?v=YxKbywNR7VI",
+      "snippet": "8PM Show:Vasundhara Raje का वनवास खत्म, सरकार को भी दे दिया सख्त संदेश,बदलाव को लेकर शुरू हुई कवायद? @TV9.Rajasthan35 likes4.9K views10 months ago",
+      "bm25_score_raw": 0.7110798198238035,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.793417751789093,
+      "embedding_score_norm": 0.15559690705031942,
+      "embedding_rank": 11
+    },
+    {
+      "title": "वसुन्धरा राजे सिंधिया",
+      "url": "https://hi.wikipedia.org/wiki/%E0%A4%B5%E0%A4%B8%E0%A5%81%E0%A4%A8%E0%A5%8D%E0%A4%A7%E0%A4%B0%E0%A4%BE_%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A5%87_%E0%A4%B8%E0%A4%BF%E0%A4%82%E0%A4%A7%E0%A4%BF%E0%A4%AF%E0%A4%BE",
+      "snippet": "वसुन्धरा राजे सिंधिया भारत के राज्य राजस्थान की पूर्व मुख्यमंत्री हैं। वे राजस्थान की पहली महिला मुख्यमंत्री हैं। वसुन्धरा राजे सिंधिया. राजस्थान की 24वीं मुख्यमंत्री. कार्यकाल 13 दिसम्बर 2013 (2013-12-13) – 11 दिसम्बर 2018",
+      "bm25_score_raw": 4.3085950736638,
+      "bm25_score_norm": 0.5891321925060288,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.7719566822052002,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

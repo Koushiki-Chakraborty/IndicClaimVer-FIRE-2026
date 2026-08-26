@@ -1,0 +1,105 @@
+{
+  "claim": {
+    "id": "S2/1560",
+    "text": "জুনিয়র ডাক্তারদের নিয়ে তাঁর বক্তব্যকে বিকৃত করেছে সংবাদমাধ্যমের একাংশ ! সরব মুখ্যমন্ত্রী - Mamata on RG Kar Junior Doctors",
+    "lang": "dev"
+  },
+  "ranked_evidence": [
+    {
+      "title": "RG Kar Doctor Death: Junior doctors in Bengal reject ...",
+      "url": "https://www.youtube.com/watch?v=hN9jyfoS2Wk",
+      "snippet": "RG Kar Doctor Death: ব্যবস্থা নিতে পারি! মুখ্যমন্ত্রী মমতা বন্দ্যোপাধ্যায়ের মন্তব্যের পর কী বলছেন আর জি করের আন্দোলনকারী জুনিয়র চিকিৎসকরা? আন্দোলন ছেড়ে কাজে যোগ দেবেন তাঁরা? Junior doctors",
+      "bm25_score_raw": 5.139952025519063,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "RG Kar Protest: Junior doctors wants to meet Mamata ...",
+      "url": "https://www.sangbadpratidin.in/kolkata/rg-kar-protest-junior-doctors-wants-to-meet-mamata-banerjee/pid/984598",
+      "snippet": "Sep 14, 2024 — মুখ্যমন্ত্রী মমতা বন্দ্যোপাধ্যায় স্বাস্থ্যভবনের ধরনা মঞ্চ থেকে চলে যাওয়ার পর জুনিয়র চিকিৎসকরা বলেন, “৫ দফা দাবি নিয়ে আন্দোলন (RG Kar Protest) চলবে। দাবির সঙ্গে কোনও সমঝোতা করব না। মুখ্যমন্ত্রীর ...Read more",
+      "bm25_score_raw": 5.135283256905517,
+      "bm25_score_norm": 0.9990916707801226,
+      "bm25_rank": 2
+    },
+    {
+      "title": "Junior Doctors At RG Kar Hospital React To Supreme ...",
+      "url": "https://www.youtube.com/watch?v=yTiumzxO1tQ",
+      "snippet": "The junior doctors of Kolkata have declared that they would continue their protest against the horrific rape-murder of a young doctor at",
+      "bm25_score_raw": 4.37139170862015,
+      "bm25_score_norm": 0.8504732509013448,
+      "bm25_rank": 3
+    },
+    {
+      "title": "Mamata Banerjee calls junior doctors: \"Need 4 months to ...",
+      "url": "https://www.youtube.com/watch?v=myPBXTj9EWs",
+      "snippet": "West Bengal Chief Minister Mamata Banerjee appealed to junior doctors protesting over the R.G. Kar case to end their hunger strike, assuring",
+      "bm25_score_raw": 3.0214772991947725,
+      "bm25_score_norm": 0.5878415370792581,
+      "bm25_rank": 4
+    },
+    {
+      "title": "West Bengal CM Mamata Banerjee-Junior doctors meeting ...",
+      "url": "https://www.thehindu.com/news/national/rg-kar-rape-and-murder-kolkata-rape-case-junior-doctors-meet-west-bengal-cm-mamata-banerjee-live-updates/article68779003.ece",
+      "snippet": "Oct 21, 2024 — The talks between West Bengal Chief Minister Mamata Banerjee and agitating junior doctors to resolve the impasse stemming from the rape and murder of a medic ...Read more",
+      "bm25_score_raw": 2.7300283547879873,
+      "bm25_score_norm": 0.531138878579765,
+      "bm25_rank": 5
+    },
+    {
+      "title": "R G Kar rape-murder protests: Mamata announces removal ...",
+      "url": "https://www.deccanherald.com/india/west-bengal/rg-kar-rape-murder-protests-meeting-between-west-bengal-government-and-junior-doctors-over-both-sides-finalizing-minutes-of-the-meeting-3193291",
+      "snippet": "Sep 16, 2024 — R G Kar rape-murder protests: Mamata announces removal of Kolkata Police Commissioner Vineet Goyal after meeting with junior doctors. The ...Read more",
+      "bm25_score_raw": 2.2386773165915894,
+      "bm25_score_norm": 0.4355443991455376,
+      "bm25_rank": 6
+    },
+    {
+      "title": "428 Mamata Stock Videos, Footage, & 4K Video Clips",
+      "url": "https://www.gettyimages.com/videos/mamata",
+      "snippet": "Explore Authentic Mamata Stock Videos & Footage For Your Project Or Campaign. Less Searching, More Finding With Getty Images.",
+      "bm25_score_raw": 1.7408439125963533,
+      "bm25_score_norm": 0.3386887472788333,
+      "bm25_rank": 7
+    },
+    {
+      "title": "Mamata Banerjee: Latest News of Mamata Banerjee | Latest Updates, Photos & Videos",
+      "url": "https://timesofindia.indiatimes.com/topic/Mamata-Banerjee",
+      "snippet": "# Mamata Banerjee. Mamata Banerjee is an Indian politician and the current Chief Minister of the state of West Bengal. She is the founder and current chairperson of the All India Trinamool Congress (AITC or TMC), a regional political party. Banerjee was born in Calcutta (now Kolkata), West Bengal in 1955. She began her political career as a member of the Indian National Congress party, but later left the party to form her own party, the TMC, in 1997. Banerjee has held various positions in government throughout her career, including serving as a Member of Parliament and a Member of the Legislative Assembly in West Bengal. In 2011, she led the TMC to a historic victory in the West Bengal assembly elections, ending the 34-year-long rule of the Communist Party of India (Marxist) in the state. She has been the Chief Minister of West Bengal since 2011 and has been re-elected in the 2016 and 2021 assembly elections. Madan Mitra has left *Mamata Banerjee*'s Trinamool Congress faction for a rebel group.",
+      "bm25_score_raw": 1.4227811035962175,
+      "bm25_score_norm": 0.27680824578368246,
+      "bm25_rank": 8
+    },
+    {
+      "title": "Mamata Banerjee Marks July 21 Martyrs' Day, Calls for United Democratic Resistance",
+      "url": "https://www.youtube.com/watch?v=m0-NXBY2qlU",
+      "snippet": "Mamata Banerjee Marks July 21 Martyrs' Day, Calls for United Democratic Resistance\nThe Tribune\n2810000 subscribers\n655 likes\n39015 views\n21 Jul 2026\nMamata Banerjee Marks July 21 Martyrs' Day, Calls for United Democratic Resistance\n\nWest Bengal Chief Minister Mamata Banerjee paid tribute to the martyrs of the July 21 movement and thanked TMC workers for the massive turnout in Kolkata. Addressing the Martyrs' Day rally, she called for democratic resistance against the BJP, accused it of divisive politics, and urged people to unite against violence and injustice.\n\n#Kolkata #WestBengal #July21 #BJP #BreakingNews #IndiaNews #LatestNews #NewsUpdate #Politics #CurrentAffairs #BengalPolitics #TMCMartyrsDay\n#mamatabanerjee #MartyrsDay #TMC #Kolkata #WestBengal #July21 #BJP #BreakingNews #IndiaNews #LatestNews #NewsUpdate #Politics #CurrentAffairs #BengalPolitics #TMCMartyrsDay\n\n\nOfficial YouTube Channel of The Tribune, North India’s oldest and most trusted newspaper, published from Chandigarh, India. \n\nWith a legacy dating back to 1881, The Tribune has always stood for fearless, fair, and factual reporting. Founded in Lahore by Sardar Dyal Singh Majithia and now published from Chandigarh, The Tribune has evolved into a modern multimedia news platform—bringing the power of credible journalism to the digital generation.\n\nThis is where tradition meets technology. On our official YouTube channel, we bring the news to life through video—fast, direct, and engaging.\n\nWatch For:\n• Breaking News & Live Coverage\n• Digital Reports & Visual Explainers\n• Political, Business, Sports & Regional Highlights\n• In-depth Interviews & Editorial Perspectives\n• Special Features & On-the-Ground Stories\n\nFrom print to screen, our mission stays the same: to inform, engage, and uphold the values of responsible journalism.\n\nRead latest stories here: https://www.tribuneindia.com\nSubscribe for more videos: https://www.youtube.com/c/TheTribunechd\nLike us on Facebook: https://www.facebook.com/TheTribuneChd/\nFollow us on Twitter: https://twitter.com/thetribunechd\nDownload The Tribune App: https://goo.gl/YyBCw9\n137 comments\n",
+      "bm25_score_raw": 1.1785439750802664,
+      "bm25_score_norm": 0.22929085120424833,
+      "bm25_rank": 9
+    },
+    {
+      "title": "Mamata Banerjee",
+      "url": "https://en.wikipedia.org/wiki/Mamata_Banerjee",
+      "snippet": "[Jump to content](https://en.wikipedia.org/wiki/Mamata_Banerjee#bodyContent). *   [(Top)](https://en.wikipedia.org/wiki/Mamata_Banerjee#). *   [2.2.2 2001 West Bengal election](https://en.wikipedia.org/wiki/Mamata_Banerjee#2001_West_Bengal_election). *   [2.2.4 2004–2006 election setbacks](https://en.wikipedia.org/wiki/Mamata_Banerjee#2004%E2%80%932006_election_setbacks). *   [2.3.1 Singur protest](https://en.wikipedia.org/wiki/Mamata_Banerjee#Singur_protest). *   [3 Chief Minister of West Bengal (2011–2026)](https://en.wikipedia.org/wiki/Mamata_Banerjee#Chief_Minister_of_West_Bengal_(2011%E2%80%932026)). *   [9 See also](https://en.wikipedia.org/wiki/Mamata_Banerjee#See_also). *   [10 Notes](https://en.wikipedia.org/wiki/Mamata_Banerjee#Notes). *   [11 References](https://en.wikipedia.org/wiki/Mamata_Banerjee#References). *   [12 Further reading](https://en.wikipedia.org/wiki/Mamata_Banerjee#Further_reading). *   [Article](https://en.wikipedia.org/wiki/Mamata_Banerjee \"View the content page [c]\"). *   [Read](https://en.wikipedia.org/wiki/Mamata_Banerjee). *   [Read](https://en.wikipedia.org/wiki/Mamata_Banerjee). | **In office** 20 May 2011(2011-05-20)–8 May 2026(2026-05-08)[[1]](https://en.wikipedia.org/wiki/Mamata_Banerjee#cite_note-1) |. In 1975 she gained attention in the [press media](https://en.wikipedia.org/wiki/News_media \"News media\") when she danced on the car of socialist activist and politician [Jayaprakash Narayan](https://en.wikipedia.org/wiki/Jayaprakash_Narayan \"Jayaprakash Narayan\") as a protest against him, during the Emergency.[[36]](https://en.wikipedia.org/wiki/Mamata_Banerjee#cite_note-38)[[37]](https://en.wikipedia.org/wiki/Mamata_Banerjee#cite_note-39)[[38]](https://en.wikipedia.org/wiki/Mamata_Banerjee#cite_note-40) She quickly rose in the ranks of the local Congress group and remained the general secretary of [Mahila Congress](https://en.wikipedia.org/wiki/Mahila_Congress \"Mahila Congress\") (Indira), West Bengal, from 1976 to 1980.[[39]](https://en.wikipedia.org/wiki/Mamata_Banerjee#cite_note-41) In the [1984 general election](https://en.wikipedia.org/wiki/1984_Indian_general_election \"1984 Indian general election\"), Banerjee became one of India's youngest parliamentarians ever,[[40]](https://en.wikipedia.org/wiki/Mamata_Banerjee#cite_note-42) defeating veteran Communist politician [Somnath Chatterjee](https://en.wikipedia.org/wiki/Somnath_Chatterjee \"Somnath Chatterjee\"), to win the [Jadavpur parliamentary Constituency](https://en.wikipedia.org/wiki/Jadavpur_(Lok_Sabha_constituency) \"Jadavpur (Lok Sabha constituency)\") in West Bengal.",
+      "bm25_score_raw": 0.6940299060590481,
+      "bm25_score_norm": 0.13502653383014032,
+      "bm25_rank": 10
+    },
+    {
+      "title": "Biography – All India Trinamool Congress",
+      "url": "https://aitcofficial.org/biography",
+      "snippet": "Ms Mamata Banerjee, Hon’ble Chief Minister of West Bengal (15th, 16th and 17th Vidhan Sabha), and Chairperson, All India Trinamool Congress, daughter of Late Promileswar Banerjee and Mrs Gayatri Banerjee, was born in Kolkata. Her father was a freedom fighter and her mother who has supported her family through all its ups and downs, had instilled in Ms Banerjee the spirit of fair play, deep feeling for all human beings and the courage to stand for the downtrodden. In 1984, she was elected as a Member of Parliament from the Jadavpur Constituency and held the post of General Secretary of the Youth Congress (Indira) and became a member of the National Council in 1987 and a member of the Executive Committee of the Congress Parliamentary Party in 1988. She has served as a member of several Parliamentary Committees and was appointed as a Minister of State for Youth and Sports, Women and Child Development, Government of India in 1991.",
+      "bm25_score_raw": 0.6915108259093462,
+      "bm25_score_norm": 0.13453643584144412,
+      "bm25_rank": 11
+    },
+    {
+      "title": "MAMATA: WE FACILITATE CARE",
+      "url": "https://www.projectmamata.com",
+      "snippet": "We have an extensive pool of Medical Practitioners from all fields. Get Online Consultation, Any Doctor, Anywhere, Anytime as per mutual availability.Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12
+    }
+  ]
+}

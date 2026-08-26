@@ -1,0 +1,57 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1206",
+    "text": "President rule in AP a sad commentary on Congress' functioning: Venkaiah",
+    "lang": "english"
+  },
+  "ranked_evidence": [
+    {
+      "title": "Associated Press News: Breaking News, Latest Headlines ...",
+      "url": "https://apnews.com",
+      "snippet": "+ Search suspended for 3 missing after boat with family spreading ashes capsizes on San Francisco Bay. Our flagship newsletter breaks down the biggest headlines of the day. Test Your News I.Q. 2026 Elections Election Results Election calendar White House Congress Supreme Court The latest AP-NORC polls. 2026 Elections Election Results Election calendar White House Congress Supreme Court The latest AP-NORC polls. Your guide to the biggest stories in politics, policy and U.S. elections. Your home base for in-depth reporting from the world of sports. - The latest AP-NORC polls. Founded in 1846, AP today remains the most trusted source of fast, accurate, unbiased news in all formats and the essential provider of the technology and services vital to the news business. ap.org Careers Advertise with us AP News Values and Principles AP’s Role in Elections AP Leads AP Definitive Source Blog AP Images Spotlight Blog.",
+      "bm25_score_raw": 4.032414648497668,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "AP (@APNews)",
+      "url": "https://www.facebook.com/APNews",
+      "snippet": "News and discussion from The Associated Press, which has been separating fact from fiction since 1846.Read more",
+      "bm25_score_raw": 0.8932901782632043,
+      "bm25_score_norm": 0.22152736167546955,
+      "bm25_rank": 2
+    },
+    {
+      "title": "AP",
+      "url": "https://www.facebook.com/249655421622",
+      "snippet": "AP. 2005786 likes · 206871 talking about this. News and discussion from The Associated Press, which has been separating fact from fiction since 1846.",
+      "bm25_score_raw": 0.8541203287900309,
+      "bm25_score_norm": 0.21181361621832348,
+      "bm25_rank": 3
+    },
+    {
+      "title": "Associated Press",
+      "url": "https://en.wikipedia.org/wiki/Associated_Press",
+      "snippet": "# Associated Press. The **Associated Press** (**AP**) is an American not-for-profit news agency headquartered in New York City. Not to be confused with Australian Associated Press or Associated Press of Pakistan. Founded in 1846, it operates as a cooperative, unincorporated association, and produces news reports that are distributed to its members, major U.S. daily newspapers and radio and television broadcasters. As of 2025, the AP attracts more than 128 million monthly website visits, making it one of the top 10 news websites in the U.S. The Associated Press was formed in May 1846 by five daily newspapers in New York City to share the cost of transmitting news of the Mexican–American War. The venture was organized by Moses Yale Beach (1800–68), second publisher of *The Sun \"The Sun (New York)\")*, joined by the *New York Herald*, the *New York Courier and Enquirer*, *The Journal of Commerce*, and the *New York Evening Express*.",
+      "bm25_score_raw": 0.43964438240540143,
+      "bm25_score_norm": 0.10902757298761352,
+      "bm25_rank": 4
+    },
+    {
+      "title": "The Associated Press | Video, Photo, Text, Audio & Data News Agency",
+      "url": "https://www.ap.org",
+      "snippet": "News and services that expand the reach of factual reporting. Discover the latest world’s news in all formats and topics. Helping news, media, brands and institutions leverage our world-class content and cutting-edge services to drive value to their audiences and business. Coco Gauff of the United States plays a return during the third round women’s singles match against Claire Liu of the United States at the Wimbledon Tennis Championships in London, Friday, July 3, 2026.(AP Photo/Brian Inganga). Denmark’s Mads Pedersen celebrates as he crosses the finish line to win the fourth stage of the Tour de France cycling race with start in Carcassonne and finish in Foix, France, Tuesday, July 7, 2026. ### Highlights from the Tour de France in photos. Here is a look at some of the photo highlights so far in the 113th Tour de France. Read more](https://www.ap.org/news-highlights/elections/2026/donald-trump-ousts-election-commission-members-in-latest-push-to-reshape-us-voting-process/). Read more](https://www.ap.org/news-highlights/elections/2026/as-the-country-turns-250-retired-judges-hit-the-road-to-defend-judicial-independence/). Read more](https://www.ap.org/news-highlights/elections/2026/trump-will-let-bipartisan-housing-bill-become-law-without-signing-in-protest-over-gop-voter-id-law/). Read more](https://www.ap.org/news-highlights/elections/2026/epa-promised-a-make-america-healthy-again-agenda-it-has-yet-to-materialize-frustrating-activists/). Read more](https://www.ap.org/news-highlights/best-of-the-week/first-winner/2026/as-the-pentagon-stays-quiet-ap-reconstructs-a-us-strike-that-killed-over-100-iranian-children/). Read more](https://www.ap.org/news-highlights/best-of-the-week/second-winner/2026/ap-supreme-court-writers-lapped-the-field-in-delivering-the-courts-ruling-on-birthright-citizenship/). Read more](https://www.ap.org/news-highlights/best-of-the-week/honorable-mention/2026/exclusive-reporting-and-innovative-visual-storytelling-explain-complex-russian-security-threat-in-europe/). Read more](https://www.ap.org/news-highlights/best-of-the-week/honorable-mention/2026/ap-investigation-shows-how-ai-and-other-american-technologies-are-abused-to-fuel-scam-industry/). Read more](https://www.ap.org/news-highlights/best-of-the-week/honorable-mention/2026/ap-provides-in-depth-coverage-of-a-historic-schism-in-the-catholic-church/).",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 5
+    },
+    {
+      "title": "Newsroom - AP.org",
+      "url": "https://newsroom.ap.org",
+      "snippet": "Your ultimate destination for a wide array of multimedia content, offering seamless access to high-quality photo, video, text, graphics, audio and live video ...Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6
+    }
+  ]
+}

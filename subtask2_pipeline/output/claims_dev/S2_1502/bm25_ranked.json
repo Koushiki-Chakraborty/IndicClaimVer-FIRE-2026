@@ -1,0 +1,105 @@
+{
+  "claim": {
+    "id": "S2/1502",
+    "text": "COVID-19 in India: फिर डराने लगा कोरोना, महाराष्ट्र में JN.1 वेरिएंट के 5 नए मामले, अस्पतालों को दिया ये निर्देश",
+    "lang": "dev"
+  },
+  "ranked_evidence": [
+    {
+      "title": "महाराष्ट्र में एक बार फिर डराने लगा कोरोना, क्या कहते हैं डॉक्टर? ...",
+      "url": "https://www.youtube.com/watch?v=hUGldCGf5s8",
+      "snippet": "Corona virus in Mumbai : महाराष्ट्र में एक बार फिर डराने लगा कोरोना, क्या कहते हैं डॉक्टर?| Covid 19 Corona has once again started scaring people in Maharashtra.Read more",
+      "bm25_score_raw": 10.26134033010904,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "India में फिर बढ़े COVID-19 Cases, Maharashtra में लग सकता ...",
+      "url": "https://www.youtube.com/watch?v=3fLw9XlYG5M",
+      "snippet": "India में फिर बढ़े COVID-19 Cases, Maharashtra में लग सकता है Lockdown | Coronavirus Cases News. @ZeeNews6.1K likes1.6M ...Read more",
+      "bm25_score_raw": 7.124005266531484,
+      "bm25_score_norm": 0.667685753591405,
+      "bm25_rank": 2
+    },
+    {
+      "title": "महाराष्ट्र में कोरोना का बढ़ता ग्राफ पिछले 24 घंटों में इतनी मौत",
+      "url": "https://www.youtube.com/watch?v=HDVLuUsnz10",
+      "snippet": "Covid 19 Cases In India: महाराष्ट्र में कोरोना का बढ़ता ग्राफ पिछले 24 घंटों में इतनी मौत #coronavirus #covid19 #coronanews",
+      "bm25_score_raw": 5.754849863923446,
+      "bm25_score_norm": 0.5226614458226599,
+      "bm25_rank": 3
+    },
+    {
+      "title": "Why Is There a COVID-19 Scare in India Again? What ...",
+      "url": "https://www.youtube.com/watch?v=b_Ksep1RvyA",
+      "snippet": "India is reporting a small but noticeable uptick too — especially in Kerala, Maharashtra and Tamil Nadu. Are the new cases linked to the JN.1",
+      "bm25_score_raw": 3.521667870292514,
+      "bm25_score_norm": 0.2861173164045998,
+      "bm25_rank": 4
+    },
+    {
+      "title": "COVID-19 outbreak in India",
+      "url": "https://msf.org.au/issue/covid-19-outbreak-india",
+      "snippet": "Maharashtra accounted for more than 20 per cent of India's confirmed new cases of coronavirus in April. MSF is responding in Mumbai through dedicated treatment ...Read more",
+      "bm25_score_raw": 2.815166553639266,
+      "bm25_score_norm": 0.21128295925991533,
+      "bm25_rank": 5
+    },
+    {
+      "title": "A mixed-methods study of community perceptions on COVID ...",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0268133",
+      "snippet": "by S Ramani · 2022 · Cited by 22 — Corona was scary, lockdown was worse: A mixed-methods study of community perceptions on COVID-19 from urban informal settlements of Mumbai. Sudha Ramani, ...Read more",
+      "bm25_score_raw": 2.224662154523813,
+      "bm25_score_norm": 0.14873528092260566,
+      "bm25_rank": 6
+    },
+    {
+      "title": "Epidemiological findings for the first and second waves of ...",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8957319",
+      "snippet": "by P Shil · 2022 · Cited by 16 — In Maharashtra, the first wave of COVID-19 started on 9th March 2020 with the first case reported in Pune. The steady rise in the daily cases reached its peak ...Read more",
+      "bm25_score_raw": 1.4445052114509591,
+      "bm25_score_norm": 0.06609913866687435,
+      "bm25_rank": 7
+    },
+    {
+      "title": "कोरोना वायरस:देश में सबसे ज्यादा महाराष्ट्र में संक्रमित, हाजी ...",
+      "url": "https://www.amarujala.com/india-news/coronavirus-maximum-covid-19-cases-in-maharashtra-in-all-over-india-haji-ali-dargah-close",
+      "snippet": "Mar 19, 2020 — भारत में सबसे ज्यादा कोरोना वायरस संक्रमितों की संख्या महाराष्ट्र में है। प्रदेश में 49 लोग कोविड-19 संक्रमित हैं और एक व्यक्ति की मौत हो चुकी है। वहीं, दो मरीज वेंटिलेटर पर हैं।",
+      "bm25_score_raw": 1.3927235190750866,
+      "bm25_score_norm": 0.06061429445006716,
+      "bm25_rank": 8
+    },
+    {
+      "title": "India's Maharashtra tightens COVID curbs as hospitals ...",
+      "url": "https://www.aljazeera.com/news/2021/4/13/indias-richest-state-tightens-curbs-as-hospitals-struggle",
+      "snippet": "Apr 13, 2021 — India's Maharashtra state has announced tighter coronavirus restrictions including in the regional capital, Mumbai, as infections surge and oxygen supplies run ...Read more",
+      "bm25_score_raw": 1.2205902162115454,
+      "bm25_score_norm": 0.042381511637991184,
+      "bm25_rank": 9
+    },
+    {
+      "title": "महाराष्ट्रात कोविड-१९ महामारी",
+      "url": "https://mr.wikipedia.org/wiki/%E0%A4%AE%E0%A4%B9%E0%A4%BE%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%A4_%E0%A4%95%E0%A5%8B%E0%A4%B5%E0%A4%BF%E0%A4%A1-%E0%A5%A7%E0%A5%AF_%E0%A4%AE%E0%A4%B9%E0%A4%BE%E0%A4%AE%E0%A4%BE%E0%A4%B0%E0%A5%80",
+      "snippet": "या दिवशी भारताच्या महाराष्ट्र राज्यात कोरोना विषाणूच्या प्रादुर्भावामुळे होणाऱ्या साथीच्या आजाराची पहिली नोंद झाली. १७ मार्च २०२० रोजी महाराष्ट्रात पहिल्या कोरोनाबाधित व्यक्तीच्या मृत्यूची नोंद झाली. महाराष्ट्र हे देशातील कोरोनाचा सर्वाधिक प्रभाव झालेले राज्य ...Read more",
+      "bm25_score_raw": 1.2068101311749415,
+      "bm25_score_norm": 0.04092189113792145,
+      "bm25_rank": 10
+    },
+    {
+      "title": "दो दिन से फिर डरा रहे कोरोना संक्रमण के मामले, अकेले केरल से ...",
+      "url": "https://www.india.com/hindi-news/india-hindi/coronavirus-cases-in-india-covid-19-cases-increase-covid-19-in-kerala-coronavirus-cases-in-maharashtra-5002786",
+      "snippet": "Oct 1, 2021 — दो दिन से फिर डरा रहे कोरोना संक्रमण के मामले, अकेले केरल से आ रहे 60 प्रतिशत संक्रमित मरीज · बीते 24 घंटे में केरल से 15,914, महाराष्ट्र से 3,603, तमिलनाडु से 1,612, मिजोरम से 1,170, और आंध्रं ...Read more",
+      "bm25_score_raw": 1.1687709470873162,
+      "bm25_score_norm": 0.03689268719957566,
+      "bm25_rank": 11
+    },
+    {
+      "title": "India's Maharashtra state announces 15 days of tough new Covid measures",
+      "url": "https://www.bbc.com/news/world-asia-india-56719311",
+      "snippet": "# India's Maharashtra state announces 15 days of tough new Covid measures. EPA Health workers wearing personal protective equipment walk pass a quarantine centre in Mumbai, India, 12 April 2021.EPA. Health workers walk pass a quarantine centre in Mumbai, Maharashtra's and India's biggest city. **Maharashtra, the Indian state worst affected by the coronavirus, has announced sweeping new restrictions amid a wave of Covid-19 infections.**. Chief Minister Uddhav Thackeray stopped short of calling it a lockdown, but said for the next 15 days, only essential services would function. Maharashtra is India's richest state and home to its biggest city, Mumbai. EPA A man receives a shot of COVID-19 vaccine inside a vaccination centre in Mumbai, India, 12 April 2021.EPA. The country's mass inoculation drive, the largest in the world, has proceeded at a slower than expected rate - about 100 million doses of the Covishield and Covaxin vaccines have been administered so far, but the government has said it wants to vaccinate 250 million people by July.",
+      "bm25_score_raw": 0.8204719427812706,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12
+    }
+  ]
+}

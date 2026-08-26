@@ -1,0 +1,57 @@
+{
+  "claim": {
+    "id": "S2/1418",
+    "text": "Congress to finalize candidates' list for Delhi assembly poll next week",
+    "lang": "dev"
+  },
+  "ranked_evidence": [
+    {
+      "title": "Congress Releases 4th List for Delhi Assembly Polls",
+      "url": "https://www.youtube.com/watch?v=Y2gTTRaIZcg",
+      "snippet": "Congress has released its fourth list for the upcoming Delhi assembly elections naming the candidates in the five remaining constituencies.",
+      "bm25_score_raw": 3.260242385915917,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "List of party candidates to the Delhi Legislative Assembly",
+      "url": "https://inc.in/media/press-releases/list-of-party-candidates-to-the-delhi-legislative-assembly",
+      "snippet": "Dec 12, 2024 — The Central Election Committee has selected the following persons as Congress candidates for the ensuing elections to the Delhi Legislative Assembly.Read more",
+      "bm25_score_raw": 2.64158265900486,
+      "bm25_score_norm": 0.5829328293785435,
+      "bm25_rank": 2
+    },
+    {
+      "title": "Congress releases another candidate list for Delhi Assembly ...",
+      "url": "https://www.facebook.com/RepublicWorld/posts/congress-releases-another-candidate-list-for-delhi-assembly-polls-mp-cm-kamal-na/2826254524155076",
+      "snippet": "With barely weeks to go for the elections to the Delhi Assembly, Congress has released a list of its star campaigners, including Sonia Gandhi, Rahul Gandhi",
+      "bm25_score_raw": 2.3872364556891816,
+      "bm25_score_norm": 0.41146627553507575,
+      "bm25_rank": 3
+    },
+    {
+      "title": "Delhi Polls: Congress Releases List Of 15 Candidates ...",
+      "url": "https://www.ndtv.com/india-news/delhi-polls-congress-releases-list-of-15-candidates-replaces-gokalpur-nominee-7473706",
+      "snippet": "Jan 14, 2025 — The party also replaced its candidate in the Gokalpur (SC) constituency, fielding Ishwar Bagri in place of Pramod Kumar Jayant.Read more",
+      "bm25_score_raw": 1.8240471994688934,
+      "bm25_score_norm": 0.03179431791633231,
+      "bm25_rank": 4
+    },
+    {
+      "title": "Congress releases 4th list of candidates for Delhi ...",
+      "url": "https://newsonair.gov.in/congress-releases-4th-list-of-candidates-for-delhi-assembly-elections",
+      "snippet": "Sumesh Gupta has been fielded from the Rohini seat, Virender Bidhuri from Tughlakabad, and Arjun Bhadana from Badarpur. Earlier on Tuesday, the party had ...Read more",
+      "bm25_score_raw": 1.8001571803635525,
+      "bm25_score_norm": 0.01568894974551956,
+      "bm25_rank": 5
+    },
+    {
+      "title": "The Delhi Assembly election is just a few weeks away and ...",
+      "url": "https://www.facebook.com/thehindu/posts/the-delhi-assembly-election-is-just-a-few-weeks-away-and-the-main-contenders-the/2869379469822704",
+      "snippet": "*Candidate Selection*, Congress has announced two lists of 47 candidates so far, including Alka Lamba, who will contest against Chief Minister Atishi in the",
+      "bm25_score_raw": 1.7768848586638568,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1282",
+    "text": "Left Front has accused BJP of violating code of conduct: Mamata to EC",
+    "lang": "english"
+  },
+  "ranked_evidence": [
+    {
+      "title": "Mamata Has Violated Code of Conduct: Left Front to EC",
+      "url": "https://www.newindianexpress.com/india/2014/Mar/13/mamata-has-violated-code-of-conduct-left-front-to-ec-585528.html",
+      "snippet": "Left Front chairman in West Bengal Biman Bose Wednesday moved the Election Commission accusing Chief Minister Mamata Banerjee of violating",
+      "bm25_score_raw": 5.548962101338492,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Mamata Banerjee has violated code of conduct: Left Front ...",
+      "url": "https://www.ndtv.com/elections-news/mamata-banerjee-has-violated-code-of-conduct-left-front-to-election-commission-553792",
+      "snippet": "Left Front chairman in West Bengal Biman Bose Wednesday moved the Election Commission accusing Chief Minister Mamata Banerjee of violating",
+      "bm25_score_raw": 5.548962101338492,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 2
+    },
+    {
+      "title": "Mamata Banerjee Accuses Election Commission Of Illegal SIR ...",
+      "url": "https://www.youtube.com/watch?v=O8PUyu4csd4",
+      "snippet": "West Bengal Chief Minister Mamata Banerjee has accused the Election Commission of illegally using mobile applications linked to the BJP's IT",
+      "bm25_score_raw": 3.196458913540832,
+      "bm25_score_norm": 0.4215605260158939,
+      "bm25_rank": 3
+    },
+    {
+      "title": "The All India Trinamool Congress (AITC) has lodged ...",
+      "url": "https://www.instagram.com/p/DXNBZE0iSD1?hl=en",
+      "snippet": "... Election Commission, alleging serious violations of the Model Code of Conduct (MCC) by union Finance Minister Nirmala Sitharaman during her",
+      "bm25_score_raw": 3.0193288248862293,
+      "bm25_score_norm": 0.3780073287919422,
+      "bm25_rank": 4
+    },
+    {
+      "title": "BJP asks EC to debar Mamata Banerjee",
+      "url": "https://indianexpress.com/article/india/violations-of-model-code-of-conduct-bjp-asks-ec-to-debar-mamata-banerjee-10609323",
+      "snippet": "BJP petitions ECI against Mamata Banerjee, alleging repeated Model Code violations in West Bengal and seeking her debarment from",
+      "bm25_score_raw": 2.8158510586296193,
+      "bm25_score_norm": 0.32797569751023453,
+      "bm25_rank": 5
+    },
+    {
+      "title": "EC orders action over objectionable post targeting Mamata ...",
+      "url": "https://www.facebook.com/Outlookindia/posts/the-election-commission-on-monday-directed-the-police-to-take-stern-action-over-/1293991422865801",
+      "snippet": "Aniruddha Ghosh don't forget the vote chori that has already proved bjp as such to the people of west bengal, whatever bjp' delhi, ec and the",
+      "bm25_score_raw": 1.4819796535564103,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6
+    }
+  ]
+}

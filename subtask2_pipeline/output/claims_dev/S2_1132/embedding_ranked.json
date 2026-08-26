@@ -1,0 +1,76 @@
+{
+  "claim": {
+    "id": "S2/1132",
+    "text": "262 prisoners test Covid positive at Kannur Central Jail in Kerala",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Situation goes out of control as 83 more in Kannur jail turn ...",
+      "url": "https://www.newindianexpress.com/states/kerala/2021/Apr/26/situation-goes-out-of-control-as-83-more-in-kannur-jail-turn-covid-positive-2294820.html",
+      "snippet": "KANNUR: As many as 83 more prisoners have tested positive on Sunday, taking the total number of persons tested positive inside Kannur central",
+      "bm25_score_raw": 3.7399576043401916,
+      "bm25_score_norm": 0.4346466595207544,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.9033311605453491,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Kerala mulls releasing more prisoners as it fights second ...",
+      "url": "https://thefederal.com/states/south/kerala/kerala-mulls-releasing-more-prisoners-as-it-fights-second-covid-wave",
+      "snippet": "As many as 400 prisoners and 20-odd jail staffers have already tested coronavirus positive in two prisons — Central Jail (Poojappura,",
+      "bm25_score_raw": 2.4921020532120277,
+      "bm25_score_norm": 0.2657366734887567,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8978039622306824,
+      "embedding_score_norm": 0.8948879576427862,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Over 350 people in Kerala central jail have tested positive ...",
+      "url": "https://www.thenewsminute.com/kerala/over-350-people-kerala-central-jail-have-tested-positive-coronavirus-130871",
+      "snippet": "More than 350 inmates of the Poojappura central jail in Kerala's Thiruvananthapuram have tested positive for the coronavirus in the last week.",
+      "bm25_score_raw": 2.152892139948538,
+      "bm25_score_norm": 0.21982114932456082,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.893366813659668,
+      "embedding_score_norm": 0.8105056500088981,
+      "embedding_rank": 3
+    },
+    {
+      "title": "262 prisoners test Covid positive at Poojappura Central ...",
+      "url": "https://www.indiatoday.in/cities/thiruvananthapuram/story/262-prisoners-test-covid-positive-poojappura-central-jail-thiruvananthapuram-kerala-1903155-2022-01-22",
+      "snippet": "Antigen tests were done on 936 prisoners in the past three days, of which 262 samples came back positive. The prison superintendent has demanded",
+      "bm25_score_raw": 7.916615958525563,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8930026888847351,
+      "embedding_score_norm": 0.8035810027306393,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Kerala prisoner succumbs to COVID-19",
+      "url": "https://www.thehindu.com/news/national/kerala/kerala-prisoner-succumbs-to-covid-19/article32366558.ece",
+      "snippet": "The Poojappura Central Prison, which has been ravaged by COVID-19, reported its first casualty after an aged prisoner succumbed to the illness late Saturday.",
+      "bm25_score_raw": 0.5289204146293323,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8713655471801758,
+      "embedding_score_norm": 0.39210234286355533,
+      "embedding_rank": 5
+    },
+    {
+      "title": "escaped prisoners",
+      "url": "https://keralaprisons.gov.in/escaped_prisoners.html",
+      "snippet": "Details of prisoners who went on leave and did not return. Central Prison, Kannur 04/03/2020 District Hospital, Jail officers Recaptured on the same day 2.",
+      "bm25_score_raw": 3.1101611043943915,
+      "bm25_score_norm": 0.34939727475609084,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.850747287273407,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6
+    }
+  ]
+}

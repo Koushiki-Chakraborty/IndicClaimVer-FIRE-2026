@@ -1,0 +1,76 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1037",
+    "text": "DMDK cadres say no to alliance, Vijayakant to decide later",
+    "lang": "english"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "DMDK's shift to DMK sparks debate over Vijayakanth's ideological legacy",
+      "url": "https://www.youtube.com/watch?v=lDM97MbTty4",
+      "snippet": "In a dramatic political turn, DMDK has joined hands with the DMK-led alliance ahead of the 2026 Tamil Nadu Assembly elections.",
+      "bm25_score_raw": 1.4121094018698788,
+      "bm25_score_norm": 0.008078670634527416,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8670231699943542,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "DMDK Seeks Cadres' Views on Alliance",
+      "url": "https://www.chennaionline.com/news/dmdk-seeks-cadres-views-on-alliance",
+      "snippet": "DMDK general secretary Premalatha Vijayakanth on Monday said that the party has begun discussions to…",
+      "bm25_score_raw": 1.7189079482536036,
+      "bm25_score_norm": 0.12499402044621091,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.866807222366333,
+      "embedding_score_norm": 0.9902157504003629,
+      "embedding_rank": 2
+    },
+    {
+      "title": "DMDK to review AIADMK alliance after promised Rajya Sabha seat ...",
+      "url": "https://www.indiatoday.in/amp/india/tamil-nadu/story/dmdk-premalatha-vijayakanth-review-aiadmk-alliance-after-promised-rajya-sabha-seat-deferred-2734473-2025-06-02",
+      "snippet": "The regional party in Tamil Nadu founded by the late Captain Vijayakanth Desiya Murpokku Dravida Kazhagam (DMDK) indicated that it will take",
+      "bm25_score_raw": 1.3909100947525663,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.85929936170578,
+      "embedding_score_norm": 0.6500463151754441,
+      "embedding_rank": 3
+    },
+    {
+      "title": "DMDK leaves AIADMK alliance over seat-sharing differences, to decide way forward tomorrow even as Kamal Haasan invites it to his grouping - Frontline",
+      "url": "https://frontline.thehindu.com/dispatches/dmdk-leaves-aiadmk-alliance-over-seat-sharing-differences-to-decide-way-forward-tomorrow-even-as-kamal-haasan-invites-it-to-his-grouping/article34027415.ece",
+      "snippet": "Angered by the offer of “a meager number of seats” by the All India Anna Dravida Munentra Kazhagam (AIADMK), the Desiya Murpokku Dravida Kazhagam (DMDK) announced on March 9 that it was walking out the AIADMK-led alliance for the Assembly election scheduled for April 6. The DMDK will decide on the future course of action by March 10, the party said. On hearing the news of the break in alliance, actor Kamal Haasan invited the DMDK to be a part of the alliance led by his party, the Makkal Needi Maiam. After the party’s meeting of district secretaries and senior leaders, Sudheesh told presspersons at the party headquarters: “We will ensure that AIADMK candidates lose their deposits in all constituencies.” On hearing the news,, DMDK cadre burst crackers and danced, welcoming the decision to leave the alliance instead of swallowing the “humiliation” and staying on. In 2011, the party was initially unhappy with the offer of Assembly seats from the AIADMK, and announced that it would contest the election on its own.",
+      "bm25_score_raw": 4.015018450737369,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8573448657989502,
+      "embedding_score_norm": 0.5614911596077659,
+      "embedding_rank": 4
+    },
+    {
+      "title": "DMDK Seals Alliance With DMK Ahead Of Tamil Nadu Polls After ...",
+      "url": "https://www.youtube.com/watch?v=2fhc0zQ1r5o",
+      "snippet": "... (DMDK) has officially joined the DMK-led alliance. DMDK General Secretary Premalatha Vijayakanth met with Chief Minister MK Stalin at the DMK",
+      "bm25_score_raw": 1.58496316390454,
+      "bm25_score_norm": 0.07395009764341363,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8511819839477539,
+      "embedding_score_norm": 0.28226061265660063,
+      "embedding_rank": 5
+    },
+    {
+      "title": "'The alliance has taken shape,' DMDK officially joins DMK-led front in TN - The South First | News, Politics, Sports, Entertainment & Live Updates",
+      "url": "https://thesouthfirst.com/tamilnadu/the-alliance-has-taken-shape-dmdk-officially-joins-dmk-led-front-in-tn",
+      "snippet": "DMDK general secretary Premalatha Vijayakanth announced the alliance after meeting MK Stalin. > ***Synopsis:** It was earlier speculated that the DMDK would join the AIADMK-led NDA in Tamil Nadu. But the party’s general secretary Premalatha Vijayakath met MK Stalin on Thursday and announced the decision to join the SPA.*. Ending speculation of allying with the NDA before the Assembly elections in Tamil Nadu, the Desiya Murpokku Dravida Kazhagam (DMDK) sprang a surprise on Thursday, 19 February, and joined the DMK-led Secular Progressive Alliance (SPA). DMDK’s move came as a shot in the arm for DMK president and Chief Minister MK Stalin, seeking a re-election, and a blow to the AIADMK-BJP combine, which has been looking forward to consolidating anti-DMK votes. On Thursday, DMDK general secretary Premalatha Vijayakanth drove down to Anna Arivakalayam, the DMK headquarters, where she met Stalin. Stalin warmly welcomed DMDK and remarked that the alliance would contribute to Tamil Nadu’s progress.",
+      "bm25_score_raw": 1.5588781836396173,
+      "bm25_score_norm": 0.06400958577185513,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8449522256851196,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "ID": "S2/T/EN/1226",
+  "Evidence": "The government has set the maximum price for Covid-19 vaccines at private hospitals. Specifically, Covishield is priced at Rs 780 per dose and Covaxin at Rs 1,410 per dose (Source 1). Additionally, a recent announcement has revised the price of Covaxin for private hospitals to Rs 225 per dose (Source 2). However, there is no mention of Covishield being priced at Rs 375 per dose in any of the sources provided.",
+  "Prediction": "REFUTES",
+  "Justification": "The retrieved evidence directly contradicts the claim that Covishield and Covaxin will cost private hospitals Rs 375 per dose. Source 1 states that Covishield is priced at Rs 780 and Covaxin at Rs 1,410. Although Source 2 mentions a new price of Rs 225 for Covaxin, it does not support the claim regarding either vaccine being priced at Rs 375."
+}

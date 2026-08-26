@@ -1,0 +1,57 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1051",
+    "text": "Read Mani Shankar Aiyar's poem dedicated to his wife Suneet",
+    "lang": "english"
+  },
+  "ranked_evidence": [
+    {
+      "title": "Read Mani Shankar Aiyar's poem dedicated to his wife Suneet | National - India TV News",
+      "url": "https://www.indiatvnews.com/amp/politics/national/read-mani-shankar-aiyar-s-poem-dedicated-to-his-wife-suneet-14574.html",
+      "snippet": "4. Read Mani Shankar Aiyar's poem dedicated to his wife Suneet. Raj Singh Published : Jan 28, 2014, 01:36 PM IST Updated : Mar 08, 2014, 06:56 AM IST. ## New Delhi: Veteran Congress leader Mani Shankar Aiyar may be stubborn on his principles but there is another side to his persona which is soft and understanding. Mani loves to write poems and the one poem that he dedicated to his wife Suneet sums up the excitement of his life when he was 18. Mani loves to write poems and the one poem.",
+      "bm25_score_raw": 12.128723052868624,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "What Subhramaniam Swamy advised Mani shankar Aiyar's wife Suneet ...",
+      "url": "https://www.facebook.com/GCF202020/posts/what-subhramaniam-swamy-advised-mani-shankar-aiyars-wife-suneet-mani-aiyar-subra/1310123047801582",
+      "snippet": "What Subhramaniam Swamy advised Mani shankar Aiyar's wife Suneet Mani Aiyar . ... Befitting reply by Mani Shankar Aiyar A Must read - befitting",
+      "bm25_score_raw": 6.098498599084018,
+      "bm25_score_norm": 0.3707293998789332,
+      "bm25_rank": 2
+    },
+    {
+      "title": "Instagram",
+      "url": "https://www.instagram.com/p/DQJSdRCD3_l",
+      "snippet": "Photo by Mani Ki Baat, Suneet Ke Sath - Mani Shankar Aiyar's Podcast on October 23, 2025. In Mani Ki Baat, Suneet Ke Sath, Mani Shankar Aiyar joins his wife Suneet Aiyar for candid conversations that weave together politics, history, and personal anecdotes. Mani Shankar Aiyar is a veteran diplomat, politician, and author whose sharp wit and deep understanding of India’s politics and history have made him one of the country’s most compelling public intellectuals. In Mani Ki Baat, Suneet Ke Sath, she brings warmth, intellect, and perspective-anchoring thoughtful conversations with her husband, Mani Shankar Aiyar. Video by Mani Ki Baat, Suneet Ke Sath - Mani Shankar Aiyar's Podcast on May 26, 2026. Video by Mani Ki Baat, Suneet Ke Sath - Mani Shankar Aiyar's Podcast on April 24, 2026. May be an image of poster and magazine. Video by Mani Ki Baat, Suneet Ke Sath - Mani Shankar Aiyar's Podcast on March 19, 2026.",
+      "bm25_score_raw": 3.7679875979581987,
+      "bm25_score_norm": 0.12753413119423374,
+      "bm25_rank": 3
+    },
+    {
+      "title": "Mani Shankar Aiyar",
+      "url": "https://www.youtube.com/channel/UCFviYszELw0rDNYrSgizoBA",
+      "snippet": "Mani Shankar Aiyar engages in candid and insightful conversations with his wife, Suneet Vir Singh, herself a columnist and author",
+      "bm25_score_raw": 3.4987968938040237,
+      "bm25_score_norm": 0.09944333668926342,
+      "bm25_rank": 4
+    },
+    {
+      "title": "In his autobiography, A Maverick in Politics, Mani Shankar Aiyar writes ...",
+      "url": "https://www.facebook.com/theprintindia/posts/in-his-autobiography-a-maverick-in-politics-mani-shankar-aiyar-writes-that-his-w/621376297159255",
+      "snippet": "Mani Shankar Aiyar writes that his wife, Suneet, rebuked him for 'begging' Rahul Gandhi to work for Congress again.",
+      "bm25_score_raw": 2.6433723682327344,
+      "bm25_score_norm": 0.010177421516456257,
+      "bm25_rank": 5
+    },
+    {
+      "title": "What Subhramaniam Swamy advised Mani shankar Aiyar's wife Suneet ...",
+      "url": "https://www.instagram.com/reel/DSr747pE6mt?hl=en",
+      "snippet": "I said, Subramanyam, you are married to a Parsi lady, you are a Brahmin, a Tam Brahm, and you have children. And he said, Suneet, don't worry.",
+      "bm25_score_raw": 2.5458433622801273,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6
+    }
+  ]
+}

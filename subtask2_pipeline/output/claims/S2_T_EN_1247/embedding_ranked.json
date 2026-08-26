@@ -1,0 +1,76 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1247",
+    "text": "Gauhati High Court Asks State If It Would Pay Compensation U/S 357A CrPC To Kin For Natural Death Of Prisoners In Custody",
+    "lang": "english"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Gauhati High Court Asks State If It Would Compensate ...",
+      "url": "https://www.livelaw.in/high-court/gauhati-high-court/gauhati-high-court-foreign-nationals-prisoners-custodial-death-compensation-assam-government-233394",
+      "snippet": "Gauhati High Court Asks State If It Would Pay Compensation U/S 357A CrPC To Kin For Unnatural Death Of Prisoners In Custody",
+      "bm25_score_raw": 11.28273732733581,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9808429479598999,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Custodial Death Violates Article 21: Gauhati High Court ...",
+      "url": "https://supremetoday.ai/gauhati-hc-orders-compensation-for-custodial-death-case-20260609151",
+      "snippet": "The Gauhati High Court orders Rs. 25 lakh in compensation for a custodial death, affirming constitutional liability regardless of pending",
+      "bm25_score_raw": 2.4820413305175264,
+      "bm25_score_norm": 0.050293604310295704,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8855831623077393,
+      "embedding_score_norm": 0.2057420167628722,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Gauhati HC Awards ₹25 Lakh To Widow For Custodial ...",
+      "url": "https://www.livelaw.in/high-court/gauhati-high-court/gauhati-hc-awards-25-lakh-custodial-death-compensation-assam-police-pending-trial-537054",
+      "snippet": "The Gauhati High Court ordered the Assam Government to pay ₹25 Lakh compensation for a 2020 custodial death, ruling the widow need not wait",
+      "bm25_score_raw": 2.776572745160247,
+      "bm25_score_norm": 0.08207726872943423,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8738695979118347,
+      "embedding_score_norm": 0.10807654365776506,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Court calls businessman's custodial death 'barbaric' ...",
+      "url": "https://indianexpress.com/article/legal-news/businessman-custodial-death-barbaric-awards-widow-rs-25-lakh-10725301",
+      "snippet": "The Gauhati High Court has awarded Rs 25 lakh compensation to the widow of a businessman allegedly abducted, tortured and killed by police",
+      "bm25_score_raw": 2.123312410942898,
+      "bm25_score_norm": 0.011582217237949262,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8717374801635742,
+      "embedding_score_norm": 0.09029935120279696,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Gauhati High Court Grants ₹25 Lakh To Businessman's ...",
+      "url": "https://24law.in/story/pending-trial-against-policemen-no-bar-to-award-compensation-in-custodial-death-case-gauhati-high",
+      "snippet": "The Gauhati High Court has awarded ₹25 lakh compensation to the widow of a businessman who allegedly died after being illegally detained and",
+      "bm25_score_raw": 2.0159828474663097,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8700188994407654,
+      "embedding_score_norm": 0.07597015184985476,
+      "embedding_rank": 5
+    },
+    {
+      "title": "IN THE GAUHATI HIGH COURT (The High of Assam",
+      "url": "http://ghconline.gov.in/Judgment/MACAPP26005.pdf",
+      "snippet": "Motor Accident Claims Tribunal, Guwahati, assessing the compensation of Rs.12,85,600/- payable for the death of the claimants' predecessor in interest in a",
+      "bm25_score_raw": 2.094973626578926,
+      "bm25_score_norm": 0.008524104019828171,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8609073758125305,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "claim": {
+    "id": "S2/1139",
+    "text": "'Weathered Omicron storm': Ireland lifts most Covid curbs as cases fall",
+    "lang": "dev"
+  },
+  "entity_ranked_evidence": [
+    {
+      "title": "Ireland lifts most Covid curbs as Omicron cases fall",
+      "url": "https://www.gulf-times.com/story/708442/ireland-lifts-most-covid-curbs-as-omicron-cases-fall",
+      "snippet": "Ireland only fully reopened in October, after 18 months of rolling lockdowns that then returned in early December. Friday's decision means pubs,",
+      "bm25_score_raw": 9.541598309503016,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9131391048431396,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1,
+      "entity_overlap_raw": 2,
+      "entity_overlap_qid": 1,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 1
+    },
+    {
+      "title": "Ireland drops most COVID restrictions in wake of 'Omicron ...",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/ireland-set-rapidly-drop-almost-all-covid-19-restrictions-2022-01-21",
+      "snippet": "No restrictions on hospitality, events · Masks still required in shops, transport · Few fell seriously ill from Omicron wave.",
+      "bm25_score_raw": 0.6750574112690125,
+      "bm25_score_norm": 0.07074888183006874,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8984380960464478,
+      "embedding_score_norm": 0.8759047074219594,
+      "embedding_rank": 2,
+      "entity_overlap_raw": 2,
+      "entity_overlap_qid": 1,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 2
+    },
+    {
+      "title": "Taoiseach announces lifting of most Covid restrictions in Ireland",
+      "url": "https://www.youtube.com/watch?v=XDhPyqJIhBs",
+      "snippet": "Taoiseach Micheál Martin has confirmed the lifting of nearly all restrictions from 6am tomorrow. Ireland has weathered the Omicron storm, he",
+      "bm25_score_raw": 3.841727529850715,
+      "bm25_score_norm": 0.40262935047522613,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8859169483184814,
+      "embedding_score_norm": 0.7702102267095543,
+      "embedding_rank": 3,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 3
+    },
+    {
+      "title": "Ireland's Covid-19 response review to issue final report by end ...",
+      "url": "https://www.youtube.com/watch?v=7KeZSMT_4vY",
+      "snippet": "Ireland's Covid-19 response review to issue final report by end of 2026 · Comments.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8039156794548035,
+      "embedding_score_norm": 0.07801477317723939,
+      "embedding_rank": 5,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 4
+    },
+    {
+      "title": "Weather in Ireland",
+      "url": "https://www.weatherapi.com/",
+      "snippet": "{'location': {'name': 'Dublin', 'region': 'Dublin', 'country': 'Ireland', 'lat': 53.333, 'lon': -6.249, 'tz_id': 'Europe/Dublin', 'localtime_epoch': 1784708127, 'localtime': '2026-07-22 09:15'}, 'current': {'last_updated_epoch': 1784707200, 'last_updated': '2026-07-22 09:00', 'temp_c': 15.1, 'temp_f': 59.2, 'is_day': 1, 'condition': {'text': 'Overcast', 'icon': '//cdn.weatherapi.com/weather/64x64/day/122.png', 'code': 1009}, 'wind_mph': 8.9, 'wind_kph': 14.4, 'wind_degree': 330, 'wind_dir': 'NNW', 'pressure_mb': 1029.0, 'pressure_in': 30.39, 'precip_mm': 0.0, 'precip_in': 0.0, 'humidity': 82, 'cloud': 25, 'feelslike_c': 15.1, 'feelslike_f': 59.2, 'windchill_c': 13.0, 'windchill_f': 55.4, 'heatindex_c': 14.1, 'heatindex_f': 57.3, 'dewpoint_c': 11.0, 'dewpoint_f': 51.9, 'vis_km': 10.0, 'vis_miles': 6.0, 'uv': 1.7, 'gust_mph': 10.3, 'gust_kph': 16.6, 'will_it_rain': 0, 'chance_of_rain': 23, 'will_it_snow': 0, 'chance_of_snow': 0}}",
+      "bm25_score_raw": 0.370964813074838,
+      "bm25_score_norm": 0.03887868688680524,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.7946736216545105,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 5
+    },
+    {
+      "title": "Government to lift COVID-19 restrictions",
+      "url": "https://niso.ie/government-to-lift-covid-19-restrictions",
+      "snippet": "Phased return to the workplace to begin from 20 September. Indoor after-school activities and indoor sports to return on 20 September.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8104928135871887,
+      "embedding_score_norm": 0.13353418655702254,
+      "embedding_rank": 4,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 6
+    }
+  ]
+}

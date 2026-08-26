@@ -1,0 +1,138 @@
+{
+  "claim": {
+    "id": "S2/T/HI/1166",
+    "text": "कोविड हॉस्पिटल पर सरासर झूठ बोले प्रधानमंत्री, सपा प्रवक्ता ने कहा- एक बात अच्छी भी लगी",
+    "lang": "hindi"
+  },
+  "generated_queries": {
+    "english_translation": "Prime Minister blatantly lied on Covid hospital, SP spokesperson said - I liked one thing too",
+    "native_query": "कोविड हॉस्पिटल सपा सर रध नम रवक कह अच",
+    "english_query": "Covid SP Prime Minister blatantly lied hospital spokesperson"
+  },
+  "native_retrieval": [
+    {
+      "title": "COVID 19 drilled by Raja Sukh Dev Singh District Hospital ...",
+      "url": "https://www.youtube.com/watch?v=-TdSQklUyZM",
+      "snippet": "COVID 19 drilled by Raja Sukh Dev Singh District Hospital under the supervision of Supdtt. Doctor reveals undisclosed risks of COVID-19 vaccine"
+    },
+    {
+      "title": "23 COVID patients went 'missing' from Hindu Rao hospital",
+      "url": "https://www.youtube.com/watch?v=TqBIzlXqSL0",
+      "snippet": "Manish Sisodia, the Deputy Chief Minister, has ordered an investigation into the case of 23 COVID-19 patients who went \"missing\" from the Hindu"
+    },
+    {
+      "title": "कोरोना पर सपा सांसद का विवादित बयान: डॉ. एसटी हसन बोले",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/bareilly/news/samajwadi-party-mp-dr-st-hasan-said-due-to-the-injustice-done-to-muslims-the-sky-disaster-and-corona-came-in-the-country-the-above-is-doing-justice-128551904.html",
+      "snippet": "कोरोना पर सपा सांसद का विवादित बयान:डॉ. एसटी हसन बोले- मुसलमानों के साथ नाइंसाफी हुई उसकी वजह से देश में आसमानी आफत और कोरोना आया, ऊपर वाला इंसाफ कर रहा ... समाजवादी पार्टी से मुरादाबाद के सांसद डॉ. एसटी हसन का विवादित बयान"
+    },
+    {
+      "title": "लखनऊ: साढ़ामऊ अस्पताल को बना दिया कोविड अस्पताल, इलाज के ...",
+      "url": "https://hindi.newsclick.in/lucknow-hospital-converted-into-dedicated-COVID-hospital",
+      "snippet": "लखनऊ के साढ़ामऊ में स्थित सरकारी अस्पताल को पूरी तरह कोविड डेडिकेटेड कर दिया गया है। इसके चलते आसपास के सामान्य मरीज़ों, ख़ासकर गरीब ग्रामीणों को इलाज के लिए भटकना पड़ रहा है। साथ ही इसी अस्पताल के"
+    },
+    {
+      "title": "डोनाल्ड ट्रंप अस्पताल के बाहर मौजूद समर्थकों से मिलने पहुंचे",
+      "url": "https://www.bbc.com/hindi/international-54413481",
+      "snippet": "कई शोध में पाया गया है कि डेक्सामेथासोन अस्पताल में कोविड-19 से जूझ रहे मरीज़ों को बीमारी से लड़ने में मदद करता है. Play video, \"डोनाल्ड ट्रंप को कोरोना, सियासी असर क्या?\", अवधि 7,38. 07:38 ... सर"
+    },
+    {
+      "title": "COVID संक्रमित डोनाल्ड ट्रंप का अस्पताल में चल रहा इलाज, बोले",
+      "url": "https://ndtv.in/world-news/us-president-trump-was-taken-to-hospital-for-treatment-of-corona-officer-2304515",
+      "snippet": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्प (Donald Trump) को शुक्रवार को अस्पताल में भर्ती कराया गया और प्रायोगिक कोविड -19 उपचार दिया गया, लेकिन उन्होंने कहा कि वह \"कुशल\" हैं. ... अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप"
+    }
+  ],
+  "english_retrieval": [
+    {
+      "title": "COVID-19 Pandemic",
+      "url": "https://ourworldindata.org/coronavirus",
+      "snippet": "*   [![Image 40: A thumbnail of the \"Daily confirmed COVID-19 deaths by world region\" chart](https://ourworldindata.org/grapher/daily-covid-deaths-region.png)Daily confirmed COVID-19 deaths by world region](https://ourworldindata.org/grapher/daily-covid-deaths-region). *   [![Image 61: A thumbnail of the \"Cumulative confirmed COVID-19 cases and deaths\" chart](https://ourworldindata.org/grapher/cumulative-deaths-and-cases-covid-19.png)Cumulative confirmed COVID-19 cases and deaths](https://ourworldindata.org/grapher/cumulative-deaths-and-cases-covid-19). *   [![Image 63: A thumbnail of the \"Cumulative confirmed COVID-19 deaths by world region\" chart](https://ourworldindata.org/grapher/cumulative-covid-deaths-region.png)Cumulative confirmed COVID-19 deaths by world region](https://ourworldindata.org/grapher/cumulative-covid-deaths-region). *   [![Image 68: A thumbnail of the \"Daily and total confirmed COVID-19 deaths\" chart](https://ourworldindata.org/grapher/total-daily-covid-deaths.png)Daily and total confirmed COVID-19 deaths](https://ourworldindata.org/grapher/total-daily-covid-deaths). *   [![Image 78: A thumbnail of the \"Estimated daily excess deaths during COVID\" chart](https://ourworldindata.org/grapher/excess-deaths-daily-economist.png)Estimated daily excess deaths during COVID](https://ourworldindata.org/grapher/excess-deaths-daily-economist)Faceted Explorer version. *   [![Image 124: A thumbnail of the \"Total confirmed COVID-19 deaths and cases per million people\" chart](https://ourworldindata.org/grapher/total-covid-cases-deaths-per-million.png)Total confirmed COVID-19 deaths and cases per million people](https://ourworldindata.org/grapher/total-covid-cases-deaths-per-million). *   [![Image 133: A thumbnail of the \"Weekly confirmed COVID-19 deaths\" chart](https://ourworldindata.org/grapher/weekly-covid-deaths.png)Weekly confirmed COVID-19 deaths](https://ourworldindata.org/grapher/weekly-covid-deaths). *   [![Image 134: A thumbnail of the \"Weekly confirmed COVID-19 deaths per million people\" chart](https://ourworldindata.org/grapher/weekly-covid-deaths-per-million-people.png)Weekly confirmed COVID-19 deaths per million people](https://ourworldindata.org/grapher/weekly-covid-deaths-per-million-people)."
+    },
+    {
+      "title": "Covid-19",
+      "url": "https://en.wikipedia.org/wiki/COVID-19",
+      "snippet": "+ 13.1 Transmission and prevention research. - 13.2.1 Cytokine storm. # COVID-19. Contagious disease caused by SARS-CoV-2. For the virus that causes the disease, see SARS-CoV-2. For the global pandemic caused by the disease, see COVID-19 pandemic. | Coronavirus disease 2019 (COVID-19) |. | Transmission and life-cycle of SARS-CoV-2, which causes COVID-19 |. **Coronavirus disease 2019** (**COVID-19**) is a contagious disease caused by the coronavirus SARS-CoV-2. Starting in January 2020, the disease spread worldwide, resulting in the COVID-19 pandemic. In March 2020, the World Health Organization declared COVID-19 a global health emergency; they declared the end of the emergency in May 2023. The official names COVID‑19 and SARS-CoV-2 were issued by the WHO on 11 February 2020 with COVID-19 being shorthand for \"coronavirus disease 2019\". COVID‑19 is caused by infection with a coronavirus known as \"severe acute respiratory syndrome coronavirus 2\" (SARS-CoV-2)."
+    },
+    {
+      "title": "Coronavirus Disease 2019 (COVID-19)",
+      "url": "https://www.cdc.gov/coronavirus/2019-ncov/about/index.html",
+      "snippet": "Image 1An official website of the United States government. Here's how you know. A **.gov** website belongs to an official government organization in the United States. A **lock** (  ) or **https://** means you've safely connected to the .gov website. *   People with Certain Medical Conditions and COVID-19. *   How to Protect Yourself and Others. *   Containing COVID-19 in Non-U.S. Healthcare Settings. About COVID-19SymptomsPeople with Certain Medical Conditions and COVID-19COVID-19 VaccinesTestingTreatmentHow to Protect Yourself and OthersTools and ResourcesView Menu. # Coronavirus Disease 2019 (COVID-19). Learn how to protect yourself from COVID-19. Learn what you need to know about COVID-19 testing. Learn about the types of COVID-19 treatments, symptom management, and recovery. Information for healthcare workers about COVID-19. Guidance, tools, and resources for health departments to address COVID-19. Get information about the risk factors of COVID-19 for the general public. ## Covid. COVID-19 (coronavirus disease 2019) is a disease caused by a virus named SARS-CoV-2."
+    },
+    {
+      "title": "COVID-19",
+      "url": "https://www.hopkinsmedicine.org/health/conditions-and-diseases/coronavirus",
+      "snippet": "Image 1: Johns Hopkins MedicineJohns Hopkins Medicine  Menu. # COVID-19. *   COVID-19 can be severe, and has caused millions of deaths around the world as well as lasting health problems in some who have survived the illness. *   However, some with COVID-19 develop only mild symptoms—or experience no symptoms at all. ## What are symptoms of COVID-19? Some people infected with COVID-19 have mild illness, and others have no symptoms at all. If you have a fever or any of the symptoms listed above, call your doctor or a health care provider and explain your symptoms over the phone before going to the doctor’s office, urgent care facility or emergency room. These tests are recommended if you do not have symptoms or if you are taking the test as a risk-prevention measure, such as before going on a work trip or seeing a friend, and you want to be sure you don’t have the coronavirus that causes COVID-19."
+    },
+    {
+      "title": "COVID-19 cases | WHO COVID-19 dashboard - WHO Data",
+      "url": "https://data.who.int/dashboards/covid19/cases",
+      "snippet": "3 hours ago — This global summary of COVID-19 cases includes data on confirmed cases reported to WHO from the comprehensive COVID-19 case monitoring.Read more"
+    },
+    {
+      "title": "COVID-19 Response | United Nations",
+      "url": "https://www.un.org/en/coronavirus",
+      "snippet": "## Coronavirus global health emergency. ### WHO chief declares end to COVID-19 as a global health emergency. 5 May 2023 - The head of the UN World Health Organization (WHO) has declared “with great hope” an end to COVID-19 as a public health emergency, stressing that it does not mean the disease is no longer a global threat. For over 12 months, the pandemic “has been on a downward trend,” he said, with immunity increasing due to the highly effective vaccines developed in record time to fight the disease, and infections. ### WHO: Coronavirus disease (COVID-19) Pandemic. The World Health Organization (WHO) is working closely with global experts, governments and partners to rapidly expand scientific knowledge on this new virus, to track the spread and virulence of the virus, and to provide advice to countries and individuals on measures to protect health and prevent the spread of this outbreak. ### What is a Coronavirus?"
+    }
+  ],
+  "merged_results": [
+    {
+      "title": "COVID 19 drilled by Raja Sukh Dev Singh District Hospital ...",
+      "url": "https://www.youtube.com/watch?v=-TdSQklUyZM",
+      "snippet": "COVID 19 drilled by Raja Sukh Dev Singh District Hospital under the supervision of Supdtt. Doctor reveals undisclosed risks of COVID-19 vaccine"
+    },
+    {
+      "title": "23 COVID patients went 'missing' from Hindu Rao hospital",
+      "url": "https://www.youtube.com/watch?v=TqBIzlXqSL0",
+      "snippet": "Manish Sisodia, the Deputy Chief Minister, has ordered an investigation into the case of 23 COVID-19 patients who went \"missing\" from the Hindu"
+    },
+    {
+      "title": "कोरोना पर सपा सांसद का विवादित बयान: डॉ. एसटी हसन बोले",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/bareilly/news/samajwadi-party-mp-dr-st-hasan-said-due-to-the-injustice-done-to-muslims-the-sky-disaster-and-corona-came-in-the-country-the-above-is-doing-justice-128551904.html",
+      "snippet": "कोरोना पर सपा सांसद का विवादित बयान:डॉ. एसटी हसन बोले- मुसलमानों के साथ नाइंसाफी हुई उसकी वजह से देश में आसमानी आफत और कोरोना आया, ऊपर वाला इंसाफ कर रहा ... समाजवादी पार्टी से मुरादाबाद के सांसद डॉ. एसटी हसन का विवादित बयान"
+    },
+    {
+      "title": "लखनऊ: साढ़ामऊ अस्पताल को बना दिया कोविड अस्पताल, इलाज के ...",
+      "url": "https://hindi.newsclick.in/lucknow-hospital-converted-into-dedicated-COVID-hospital",
+      "snippet": "लखनऊ के साढ़ामऊ में स्थित सरकारी अस्पताल को पूरी तरह कोविड डेडिकेटेड कर दिया गया है। इसके चलते आसपास के सामान्य मरीज़ों, ख़ासकर गरीब ग्रामीणों को इलाज के लिए भटकना पड़ रहा है। साथ ही इसी अस्पताल के"
+    },
+    {
+      "title": "डोनाल्ड ट्रंप अस्पताल के बाहर मौजूद समर्थकों से मिलने पहुंचे",
+      "url": "https://www.bbc.com/hindi/international-54413481",
+      "snippet": "कई शोध में पाया गया है कि डेक्सामेथासोन अस्पताल में कोविड-19 से जूझ रहे मरीज़ों को बीमारी से लड़ने में मदद करता है. Play video, \"डोनाल्ड ट्रंप को कोरोना, सियासी असर क्या?\", अवधि 7,38. 07:38 ... सर"
+    },
+    {
+      "title": "COVID संक्रमित डोनाल्ड ट्रंप का अस्पताल में चल रहा इलाज, बोले",
+      "url": "https://ndtv.in/world-news/us-president-trump-was-taken-to-hospital-for-treatment-of-corona-officer-2304515",
+      "snippet": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्प (Donald Trump) को शुक्रवार को अस्पताल में भर्ती कराया गया और प्रायोगिक कोविड -19 उपचार दिया गया, लेकिन उन्होंने कहा कि वह \"कुशल\" हैं. ... अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप"
+    },
+    {
+      "title": "COVID-19 Pandemic",
+      "url": "https://ourworldindata.org/coronavirus",
+      "snippet": "*   [![Image 40: A thumbnail of the \"Daily confirmed COVID-19 deaths by world region\" chart](https://ourworldindata.org/grapher/daily-covid-deaths-region.png)Daily confirmed COVID-19 deaths by world region](https://ourworldindata.org/grapher/daily-covid-deaths-region). *   [![Image 61: A thumbnail of the \"Cumulative confirmed COVID-19 cases and deaths\" chart](https://ourworldindata.org/grapher/cumulative-deaths-and-cases-covid-19.png)Cumulative confirmed COVID-19 cases and deaths](https://ourworldindata.org/grapher/cumulative-deaths-and-cases-covid-19). *   [![Image 63: A thumbnail of the \"Cumulative confirmed COVID-19 deaths by world region\" chart](https://ourworldindata.org/grapher/cumulative-covid-deaths-region.png)Cumulative confirmed COVID-19 deaths by world region](https://ourworldindata.org/grapher/cumulative-covid-deaths-region). *   [![Image 68: A thumbnail of the \"Daily and total confirmed COVID-19 deaths\" chart](https://ourworldindata.org/grapher/total-daily-covid-deaths.png)Daily and total confirmed COVID-19 deaths](https://ourworldindata.org/grapher/total-daily-covid-deaths). *   [![Image 78: A thumbnail of the \"Estimated daily excess deaths during COVID\" chart](https://ourworldindata.org/grapher/excess-deaths-daily-economist.png)Estimated daily excess deaths during COVID](https://ourworldindata.org/grapher/excess-deaths-daily-economist)Faceted Explorer version. *   [![Image 124: A thumbnail of the \"Total confirmed COVID-19 deaths and cases per million people\" chart](https://ourworldindata.org/grapher/total-covid-cases-deaths-per-million.png)Total confirmed COVID-19 deaths and cases per million people](https://ourworldindata.org/grapher/total-covid-cases-deaths-per-million). *   [![Image 133: A thumbnail of the \"Weekly confirmed COVID-19 deaths\" chart](https://ourworldindata.org/grapher/weekly-covid-deaths.png)Weekly confirmed COVID-19 deaths](https://ourworldindata.org/grapher/weekly-covid-deaths). *   [![Image 134: A thumbnail of the \"Weekly confirmed COVID-19 deaths per million people\" chart](https://ourworldindata.org/grapher/weekly-covid-deaths-per-million-people.png)Weekly confirmed COVID-19 deaths per million people](https://ourworldindata.org/grapher/weekly-covid-deaths-per-million-people)."
+    },
+    {
+      "title": "Covid-19",
+      "url": "https://en.wikipedia.org/wiki/COVID-19",
+      "snippet": "+ 13.1 Transmission and prevention research. - 13.2.1 Cytokine storm. # COVID-19. Contagious disease caused by SARS-CoV-2. For the virus that causes the disease, see SARS-CoV-2. For the global pandemic caused by the disease, see COVID-19 pandemic. | Coronavirus disease 2019 (COVID-19) |. | Transmission and life-cycle of SARS-CoV-2, which causes COVID-19 |. **Coronavirus disease 2019** (**COVID-19**) is a contagious disease caused by the coronavirus SARS-CoV-2. Starting in January 2020, the disease spread worldwide, resulting in the COVID-19 pandemic. In March 2020, the World Health Organization declared COVID-19 a global health emergency; they declared the end of the emergency in May 2023. The official names COVID‑19 and SARS-CoV-2 were issued by the WHO on 11 February 2020 with COVID-19 being shorthand for \"coronavirus disease 2019\". COVID‑19 is caused by infection with a coronavirus known as \"severe acute respiratory syndrome coronavirus 2\" (SARS-CoV-2)."
+    },
+    {
+      "title": "Coronavirus Disease 2019 (COVID-19)",
+      "url": "https://www.cdc.gov/coronavirus/2019-ncov/about/index.html",
+      "snippet": "Image 1An official website of the United States government. Here's how you know. A **.gov** website belongs to an official government organization in the United States. A **lock** (  ) or **https://** means you've safely connected to the .gov website. *   People with Certain Medical Conditions and COVID-19. *   How to Protect Yourself and Others. *   Containing COVID-19 in Non-U.S. Healthcare Settings. About COVID-19SymptomsPeople with Certain Medical Conditions and COVID-19COVID-19 VaccinesTestingTreatmentHow to Protect Yourself and OthersTools and ResourcesView Menu. # Coronavirus Disease 2019 (COVID-19). Learn how to protect yourself from COVID-19. Learn what you need to know about COVID-19 testing. Learn about the types of COVID-19 treatments, symptom management, and recovery. Information for healthcare workers about COVID-19. Guidance, tools, and resources for health departments to address COVID-19. Get information about the risk factors of COVID-19 for the general public. ## Covid. COVID-19 (coronavirus disease 2019) is a disease caused by a virus named SARS-CoV-2."
+    },
+    {
+      "title": "COVID-19",
+      "url": "https://www.hopkinsmedicine.org/health/conditions-and-diseases/coronavirus",
+      "snippet": "Image 1: Johns Hopkins MedicineJohns Hopkins Medicine  Menu. # COVID-19. *   COVID-19 can be severe, and has caused millions of deaths around the world as well as lasting health problems in some who have survived the illness. *   However, some with COVID-19 develop only mild symptoms—or experience no symptoms at all. ## What are symptoms of COVID-19? Some people infected with COVID-19 have mild illness, and others have no symptoms at all. If you have a fever or any of the symptoms listed above, call your doctor or a health care provider and explain your symptoms over the phone before going to the doctor’s office, urgent care facility or emergency room. These tests are recommended if you do not have symptoms or if you are taking the test as a risk-prevention measure, such as before going on a work trip or seeing a friend, and you want to be sure you don’t have the coronavirus that causes COVID-19."
+    },
+    {
+      "title": "COVID-19 cases | WHO COVID-19 dashboard - WHO Data",
+      "url": "https://data.who.int/dashboards/covid19/cases",
+      "snippet": "3 hours ago — This global summary of COVID-19 cases includes data on confirmed cases reported to WHO from the comprehensive COVID-19 case monitoring.Read more"
+    },
+    {
+      "title": "COVID-19 Response | United Nations",
+      "url": "https://www.un.org/en/coronavirus",
+      "snippet": "## Coronavirus global health emergency. ### WHO chief declares end to COVID-19 as a global health emergency. 5 May 2023 - The head of the UN World Health Organization (WHO) has declared “with great hope” an end to COVID-19 as a public health emergency, stressing that it does not mean the disease is no longer a global threat. For over 12 months, the pandemic “has been on a downward trend,” he said, with immunity increasing due to the highly effective vaccines developed in record time to fight the disease, and infections. ### WHO: Coronavirus disease (COVID-19) Pandemic. The World Health Organization (WHO) is working closely with global experts, governments and partners to rapidly expand scientific knowledge on this new virus, to track the spread and virulence of the virus, and to provide advice to countries and individuals on measures to protect health and prevent the spread of this outbreak. ### What is a Coronavirus?"
+    }
+  ]
+}

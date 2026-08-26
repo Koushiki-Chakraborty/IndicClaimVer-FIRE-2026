@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/BN/1122",
+    "text": "করোনা আতঙ্কে রঙের ব্যবসা লাটে, এবার বসন্তে হটকেক হরেক আবির",
+    "lang": "bengali"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "econ lec 2 Flashcards",
+      "url": "https://quizlet.com/878737470/econ-lec-2-flash-cards",
+      "snippet": "Study with Quizlet and memorize flashcards containing terms like When a cold snap hits Florida, the price of orange juice rises in supermarkets throughout",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.8150535821914673,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Exponential",
+      "url": "https://mesamath.weebly.com/uploads/1/2/1/5/121563313/20220324120917500.pdf",
+      "snippet": "The flu is starting to hit Spring Branch. Currently, there are 120 people infected and is growing at a rate of 5% per day.",
+      "bm25_score_raw": 4.854276703574306,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.806228756904602,
+      "embedding_score_norm": 0.8819117320984484,
+      "embedding_rank": 2
+    },
+    {
+      "title": "শেষ বেলায় হি/জ/বু/ল্লা/হ/র গর্জন | Nagorik TV",
+      "url": "https://www.youtube.com/watch?v=Ch_zvwJVCqE",
+      "snippet": "শেষ বেলায় হি/জ/বু/ল্লা/হ/র গর্জন | Nagorik TV Thanks for your trust In Nagorik TV, subscribe to our official channel to stay updated.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.7855062484741211,
+      "embedding_score_norm": 0.6046161429412318,
+      "embedding_rank": 3
+    },
+    {
+      "title": "5_02___Determine_factors_affe...",
+      "url": "https://padletuploads.blob.core.windows.net/prod/166869118/88ccc5668bd230a1c80305fd91a5f53d/5_02___Determine_factors_affecting_business_risks.docx",
+      "snippet": "Affecting Business Risks Classify … economic human, or natural. A high unemployment rate causes a downturn in the retail sales for the year.",
+      "bm25_score_raw": 2.8743976760899375,
+      "bm25_score_norm": 0.5921371713263601,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.7818313241004944,
+      "embedding_score_norm": 0.5554406136991196,
+      "embedding_rank": 4
+    },
+    {
+      "title": "২০১৯-২০ অর্থবছরে জাতীয় রাজস্ব বোর্ডের আওতায় প্রত্যক্ষ কর বিষয়ক কার্যক্রম ...",
+      "url": "https://nbr.gov.bd/uploads/publications/4._chapter-_2_(19-20)_.pdf",
+      "snippet": "15 cÖZ¨¶ Ki welqK ch©v‡jvPbv 01| cÖZ¨¶ K‡ii `ßimg~n 2019-20 A_©eQ‡i RvZxq ivR¯^ †ev‡W©i AvIZvq cÖZ¨¶ Ki welqK Kvh©µg m¤cv`‡bi Kv‡R 40wU cÖkvmwbK `ßi m¤ú„³ wQj| Zb¥‡a¨ ivR¯^ msMÖ‡ni Kv‡R wb‡qvwRZ wQj wb‡gœv³ 31wU `ßi t 01| Ki AÂj-1, XvKv 02| Ki AÂj-2, XvKv 03| Ki AÂj-3, XvKv 04| Ki AÂj-4, XvKv 05| Ki AÂj-5, XvKv 06| Ki AÂj-6, XvKv 07| Ki AÂj-7, XvKv 08| Ki AÂj-8, XvKv 09| Ki AÂj-9, XvKv 10| Ki AÂj-10, XvKv 11| Ki AÂj-11, XvKv 12| Ki AÂj-12, XvKv 13| Ki AÂj-13, XvKv 14| Ki AÂj-14, XvKv 15| Ki AÂj-15, XvKv 16| e„nr Ki`vZv BDwbU (LTU), XvKv 17| †K›`ªxq Ki Rixc AÂj, XvKv 18| Ki AÂj-1, PÆMÖvg 19| Ki AÂj-2, PÆMÖvg 20| Ki AÂj-3, PÆMÖvg 21| Ki AÂj-4, PÆMÖvg 22| Ki AÂj- ivRkvnx 23| Ki AÂj- Lyjbv 24| Ki AÂj- ewikvj 25| Ki AÂj- iscyi 26| Ki AÂj- wm‡jU 27| Ki AÂj- bvivqYMÄ 28| Ki AÂj- Kzwgjøv 29| Ki AÂj- gqgbwmsn 30| Ki AÂj- MvRxcyi 31| Ki AÂj- e¸ov D‡jøL¨, †K›`ªxq Ki Rixc AÂj, XvKv ivR¯^ AvniY I Rixc Dfq cÖKvi KvRB m¤cv`b K‡i _v‡K| ivR¯^ msMÖnKvix 31wU cÖkvmwbK `ß‡ii g‡a¨ 17wU XvKvq, 4wU PÆMÖv‡g, 1wU ivRkvnx‡Z, 1wU Lyjbvq, 1wU 16 ewikv‡j, 1wU iscy‡i, 1wU wm‡j‡U, 1wU bvivqYM‡Ä, 1wU Kzwgjøvq, 1wU gqgbwms‡n, 1wU MvRxcy‡i Ges 1wU e¸ovq Aew¯’Z| wb‡gœv³ 9wU `ß‡ii g‡a¨ 7wU Avcxj Kvh©µg cwiPvjbvq, 1wU cÖwk¶Y msµvšÍ Ges 1wU cwi`k©b msµvšÍ Kv‡R wb‡qvwRZ i‡q‡Qt 32| Ki Avcxj AÂj-1, XvKv 33| Ki Avcxj AÂj-2, XvKv 34| Ki Avcxj AÂj-3, XvKv 35| Ki Avcxj AÂj-4, XvKv 36| Ki Avcxj AÂj- PÆMÖvg 37| Ki Avcxj AÂj- Lyjbv 38| Ki Avcxj AÂj- ivRkvnx 39| Ki cÖwk¶Y cwi`ßi, XvKv 40| Ki cwi`k©b cwi`ßi, XvKv GQvov, Af¨šÍixY m¤ú` wefv‡Mi Aaxb Ki AvcxjvZ UªvBey¨bvj cÖZ¨¶ Ki e¨e¯’vi mv‡_ m¤ú„³| eZ©gv‡b mviv‡`‡k Ki AvcxjvZ UªvBey¨bvj Gi †gvU 7wU ‣ØZ †eÂ Kvh©Ki Av‡Q| 02| ivR¯^ jÿ¨gvÎv I AvniY cÖZ¨ÿ Ki cÖZ¨ÿ K‡ii ivR‡¯^i g‡a¨ †h mKj Ki Lv‡Zi AvniYmg~n AšÍf©y³ i‡q‡Q, Zv",
+      "bm25_score_raw": 0.7439957682227648,
+      "bm25_score_norm": 0.1532660401651486,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.7803058624267578,
+      "embedding_score_norm": 0.5350278439335957,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Solved The following scenario was written by a reporter who",
+      "url": "https://www.chegg.com/homework-help/questions-and-answers/following-scenario-written-reporter-became-taco-bell-worker-hours-experience-s-like-work-d-q99481088",
+      "snippet": "The following scenario was written by a reporter who became a\nTaco Bell worker for a few hours to experience what it's like to\nwork in the drive-through",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.7780771851539612,
+      "embedding_score_norm": 0.5052050848079478,
+      "embedding_rank": 6
+    },
+    {
+      "title": "NYT Connections Hints Today: Thursday, January 22 Clues And Answers Explained (#956)",
+      "url": "https://www.forbes.com/sites/krisholt/2026/01/21/nyt-connections-hints-answers-today-january-22-2026-clues-956",
+      "snippet": "# NYT Connections Hints Today: Thursday, January 22 Clues And Answers Explained (#956). Find the links between the words to win today's game of Connections. Before today’s NYT Connections hints, here’s what you missed on Wednesday:*. ForbesNYT Connections Hints Today: Wednesday, January 21 Clues And Answers (#955)By Kris Holt. Today’s *NYT* *Connections* hints and answers for Thursday, January 22 are coming right up. *Connections* is a free *New York Times* daily word game that you can play on the *NYT*’s website or Games app. You don’t know how they hit together or what the category for each group is: that’s what you have to figure out. Be ready for curveballs – part of the fun of *Connections* is in how the *NYT* shakes things up to keep you on your toes. ## NYT Connections Hints – Today’s Word List. And the hints for today’s *Connections* groups are:. That’s all there is to it for today’s *Connections* clues and answers.",
+      "bm25_score_raw": 0.8540987486150984,
+      "bm25_score_norm": 0.17594768505598526,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.7776065468788147,
+      "embedding_score_norm": 0.4989072990826098,
+      "embedding_rank": 7
+    },
+    {
+      "title": "NYT Connections Answer for Today, January 22, 2026",
+      "url": "https://lifehacker.com/entertainment/nyt-connections-answer-today-january-22-2026",
+      "snippet": "If you're looking for the Connections answer for Thursday, January 22, 2026, read on—I'll share some clues, tips, and strategies,",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.7595179677009583,
+      "embedding_score_norm": 0.2568572964505565,
+      "embedding_rank": 8
+    },
+    {
+      "title": "বিশ্বের সবচেয়ে বেশি বেতনের চাকরি, মাসে ১৫ কোটি টাকা ! | Light house",
+      "url": "https://www.youtube.com/watch?v=aOi_vdjb3KQ",
+      "snippet": "বিশ্বের সবচেয়ে বেশি বেতনের চাকরি, মাসে ১৫ কোটি টাকা ! #internationalnews #15croresalary #job #lighthouse#challenge #boishakhinews #boishakhitvnews",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.7541579008102417,
+      "embedding_score_norm": 0.18513224871468065,
+      "embedding_rank": 9
+    },
+    {
+      "title": "৩০০০ হাজার বনাম ৪০০০ হাজার বনাম ৫০০০ হাজার: বাইরের আলোর জন্য কোনটি ...",
+      "url": "https://solarledlight.com/bn/3000k-%E0%A6%AC%E0%A6%A8%E0%A6%BE%E0%A6%AE-4000k-%E0%A6%AC%E0%A6%A8%E0%A6%BE%E0%A6%AE-5000k-%E0%A6%95%E0%A7%8B%E0%A6%A8-%E0%A6%B0%E0%A6%99%E0%A7%87%E0%A6%B0-%E0%A6%A4%E0%A6%BE%E0%A6%AA%E0%A6%AE%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE-%E0%A6%AC%E0%A6%BE%E0%A6%87%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%86%E0%A6%B2%E0%A7%8B%E0%A6%B0-%E0%A6%9C%E0%A6%A8%E0%A7%8D%E0%A6%AF-%E0%A6%B8%E0%A6%AC%E0%A6%9A%E0%A7%87%E0%A6%AF%E0%A6%BC%E0%A7%87-%E0%A6%AD%E0%A6%BE%E0%A6%B2%E0%A7%8B",
+      "snippet": "তিনটি ভিন্ন রঙের তাপমাত্রার বিকল্প রয়েছে উষ্ণ সাদা, ঠান্ডা সাদা এবং নিরপেক্ষ সাদা। উষ্ণ সাদার রঙ হলুদাভ এবং যেখানে এটি খুব বেশি উজ্জ্বল বা চোখের উপর কঠোর নয় সেখানে সবচেয়ে ভালো ব্যবহার করা হয়। ঠান্ডা সাদার রঙে উষ্ণ সাদার চেয়ে নীল",
+      "bm25_score_raw": 2.2459444423675947,
+      "bm25_score_norm": 0.4626733454880845,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.7540452480316162,
+      "embedding_score_norm": 0.18362480000382844,
+      "embedding_rank": 10
+    },
+    {
+      "title": "যুক্তরাষ্ট্রের সেরা ১০ সুখের চাকরি: মিলবে মোটা বেতন ও মানসিক শান্তি",
+      "url": "https://www.prothomalo.com/amp/story/chakri/employment/ixx0hfzgm2",
+      "snippet": "যুক্তরাষ্ট্রের ব্লিংয়ের গবেষণায় বার্ষিক এক লাখ ডলারের বেশি আয়ের ১০টি সুখী চাকরির তালিকা প্রকাশিত হয়েছে।",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.7462881207466125,
+      "embedding_score_norm": 0.0798237959951315,
+      "embedding_rank": 11
+    },
+    {
+      "title": "বিশ্বের সবচেয়ে বিপজ্জনক চাকরি হিসেবে লাইটহাউসের চাকরিকে ধরা হয়। বার্ষিক ...",
+      "url": "https://www.facebook.com/theindianews.Bengali/posts/%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%AC%E0%A6%9A%E0%A7%87%E0%A6%AF%E0%A6%BC%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%AA%E0%A6%9C%E0%A7%8D%E0%A6%9C%E0%A6%A8%E0%A6%95-%E0%A6%9A%E0%A6%BE%E0%A6%95%E0%A6%B0%E0%A6%BF-%E0%A6%B9%E0%A6%BF%E0%A6%B8%E0%A7%87%E0%A6%AC%E0%A7%87-%E0%A6%B2%E0%A6%BE%E0%A6%87%E0%A6%9F%E0%A6%B9%E0%A6%BE%E0%A6%89%E0%A6%B8%E0%A7%87%E0%A6%B0-%E0%A6%9A%E0%A6%BE%E0%A6%95%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%87-%E0%A6%A7%E0%A6%B0%E0%A6%BE-%E0%A6%B9%E0%A6%AF%E0%A6%BC%E0%A6%AC%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%B7%E0%A6%BF%E0%A6%95-%E0%A6%AC%E0%A7%87%E0%A6%A4%E0%A6%A8-%E0%A7%A9%E0%A7%A6-/1349463080638224",
+      "snippet": "বিশ্বের সবচেয়ে বিপজ্জনক চাকরি হিসেবে লাইটহাউসের চাকরিকে ধরা হয়। বার্ষিক বেতন ₹৩০ কোটি। কাজ? সমুদ্রের মাঝখানে একা থেকে শুধু সুইচ অন-অফ করা। তবুও,",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.7403228282928467,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

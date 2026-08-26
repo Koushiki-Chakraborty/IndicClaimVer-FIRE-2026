@@ -1,0 +1,99 @@
+{
+  "claim": {
+    "id": "S2/1479",
+    "text": "Swami Ramdev to actively campaign against Sonia and Rahul Gandhi",
+    "lang": "dev"
+  },
+  "entity_ranked_evidence": [
+    {
+      "title": "Swami Ramdev to actively campaign against Sonia and Rahul ...",
+      "url": "https://www.indiatvnews.com/politics/national/swami-ramdev-to-actively-campaign-against-sonia-and-rahul-gandhi-14079.html",
+      "snippet": "Lucknow: Swami Ramdev has announced that he will actively campaign against UPA chairperson Sonia Gandhi and her son Rahul Gandhi in upcoming parliamentary",
+      "bm25_score_raw": 8.275531446256739,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.937922477722168,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1,
+      "entity_overlap_raw": 3,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 1
+    },
+    {
+      "title": "Ramdev to campaign against Sonia and Rahul",
+      "url": "https://m.youtube.com/watch?v=rWGT1jt3jLM",
+      "snippet": "Baba Ramdev says that he will campaign against Sonia Gandhi and Rahul Gandhi in Amethi and Rae Bareli. For more news from Headlines Today",
+      "bm25_score_raw": 3.035773511591992,
+      "bm25_score_norm": 0.1920546565577707,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.9197158813476562,
+      "embedding_score_norm": 0.8102366450721515,
+      "embedding_rank": 2,
+      "entity_overlap_raw": 2,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.6666666666666666,
+      "entity_rank": 2
+    },
+    {
+      "title": "Ramdev to campaign against Sonia, Rahul",
+      "url": "https://www.thehindu.com/news/national/ramdev-to-campaign-against-sonia-rahul/article5496679.ece",
+      "snippet": "Yoga Guru Baba Ramdev will campaign against United Progressive Alliance (UPA) chairperson Sonia Gandhi and Congress vice-president Rahul Gandhi in the",
+      "bm25_score_raw": 2.984573262219838,
+      "bm25_score_norm": 0.1841598256172724,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.9166821241378784,
+      "embedding_score_norm": 0.778616460040207,
+      "embedding_rank": 3,
+      "entity_overlap_raw": 2,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.6666666666666666,
+      "entity_rank": 3
+    },
+    {
+      "title": "Baba Ramdev to campaign against Sonia, Rahul Gandhi",
+      "url": "https://www.indiatoday.in/india/north/story/baba-ramdev-to-campaign-against-sonia-rahul-gandhi-221819-2013-12-23",
+      "snippet": "Yoga Guru Baba Ramdev will campaign against UPA chairperson Sonia Gandhi and Congress vice president Rahul Gandhi in the forthcoming Lok",
+      "bm25_score_raw": 3.0173082591966103,
+      "bm25_score_norm": 0.1892074039032855,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.9148457050323486,
+      "embedding_score_norm": 0.7594758670732101,
+      "embedding_rank": 4,
+      "entity_overlap_raw": 2,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.6666666666666666,
+      "entity_rank": 4
+    },
+    {
+      "title": "Ramdev says he is on 'friendly terms' with this Opposition leader. Guess ...",
+      "url": "https://indianexpress.com/article/india/ramdev-rahul-gandhi-friend-yoga-narendra-modi-patanjali-5221267/lite",
+      "snippet": "While emphasing the importance of yoga, Ramdev said both Rahul and Sonia Gandhi practiced yoga regularly ... Yoga guru Baba Ramdev, known",
+      "bm25_score_raw": 1.7902438247687558,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.871782660484314,
+      "embedding_score_norm": 0.31063921255811755,
+      "embedding_rank": 5,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 5
+    },
+    {
+      "title": "Sonia Gandhi worried about making 'Rahul baba' PM: Amit Shah",
+      "url": "https://www.indiatvnews.com/amp/video/news/sonia-gandhi-worried-about-making-rahul-baba-pm-amit-shah-687944",
+      "snippet": "Ahead of assembly elections in Tamil Nadu, political parties have been actively campaigning in the state. Taking a jibe at Sonia Gandhi and",
+      "bm25_score_raw": 2.3379069515503472,
+      "bm25_score_norm": 0.08444700663190258,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8419787883758545,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 6
+    }
+  ]
+}

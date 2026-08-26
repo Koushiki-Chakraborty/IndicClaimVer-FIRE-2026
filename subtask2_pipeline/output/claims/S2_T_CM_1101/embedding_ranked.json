@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/CM/1101",
+    "text": "anwar khan bijli ki kemaat apne doer py na equal krna mhngay contract sign krna ipps ka tarekhe qarza or galt contract pakistani awam ke galy main dhalna yeah bhe likho bhai jan",
+    "lang": "codemix"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "PM Anwar Kakar ki Media talk / Army Bijli Bills deti hai? ...",
+      "url": "https://www.youtube.com/watch?v=q4hEoV0I6oY",
+      "snippet": "Anwar Kakar ki Media talk / Army Bijli Bills deti hai? Imran Khan's Memorable Viral Interview with Arshad Sharif 10 YEARS Ago | Shocking",
+      "bm25_score_raw": 4.076117306211083,
+      "bm25_score_norm": 0.48913753690853123,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8369218111038208,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "42 ہزار روپے بجلی کا بل دیکھ کر مزدور پھندے سے جھول ...",
+      "url": "https://www.instagram.com/p/Da1-rZXleLq",
+      "snippet": "\"بجلی کا بل 35 ہزار روپے آیا ہے جو سود پر قرض لے کر ادا کیا، اس پر 8 ہزار روپے سُود دوں گی ورنہ بجلی کا میٹر ہی کٹ جاتا، پہلے مانگ مانگ کر میٹر",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.8263859748840332,
+      "embedding_score_norm": 0.7874030900531848,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Anwar Khan Anwar Shayari, Urdu Ghazal, Nazam Collection",
+      "url": "https://www.urdupoint.com/poetry/anwar-khan-anwar.html",
+      "snippet": "اپنے کردار سے گرتے ہوئے بندے دیکھے. Anwar Khan Anwar - انور خاں انور. Apne Kirdar Se Girte Hue Bande Dekhe · انداز گفتگو کو بھی تکرار مت بتا. Anwar Khan Anwar -",
+      "bm25_score_raw": 8.333274383260669,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8243486285209656,
+      "embedding_score_norm": 0.7462925856523966,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Anwar (2007 film) - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Anwar_(2007_film)",
+      "snippet": "# *Anwar* (2007 film). * Edit&action=edit \"Edit this page [e]\"). * What links here \"List of all English Wikipedia pages containing links to this page [j]\"). | Music by | Mithoon Pankaj Awasthi |. ***Anwar*** is a 2007 Indian Hindi-language romantic thriller film written and directed by Manish Jha \"Manish Jha (director)\"), starring the siblings Siddharth Koirala and Manisha Koirala along with Rajpal Yadav and Nauheed Cyrusi. [edit&action=edit&section=1 \"Edit section: Plot\")]. Anwar is certain of Mehru's love for him, but Mehru has her heart set on settling in America. Anwar tells Mehru it is not possible for him to take her to the U.S. Even if he works all day, it is impossible and out of his financial reach. Anwar tells him that he should think once again before doing this because of the difference in their religion, as Mehru is a Muslim and Udit is a follower of Hinduism. [edit&action=edit&section=3 \"Edit section: Themes\")]. [edit&action=edit&section=4 \"Edit section: Production\")]. [edit&action=edit&section=5 \"Edit section: Soundtrack\")]. [edit&action=edit&section=6 \"Edit section: Reception\")].",
+      "bm25_score_raw": 1.3803698009160892,
+      "bm25_score_norm": 0.16564554788798086,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.8239173889160156,
+      "embedding_score_norm": 0.7375908361617527,
+      "embedding_rank": 4
+    },
+    {
+      "title": "TikTok - Make Your Day",
+      "url": "https://www.tiktok.com/@anwar?lang=en",
+      "snippet": "# Anwar Jibawi. ## anwar. Image 2: I run the streets created by Anwar Jibawi with Anwar Jibawi’s original sound Video 1 **21.2K**. Image 3: Broke Date 🍽️ created by Anwar Jibawi with Anwar Jibawi’s original sound **226.3K**. Image 4: Annoying Uber Driver 👨🏻 created by Anwar Jibawi with Anwar Jibawi’s original sound **127.3K**. Image 6: My greatest fear 😱 created by Anwar Jibawi with Anwar Jibawi’s original sound **197.2K**. Image 7: She has a boyfriend 😑 created by Anwar Jibawi with Anwar Jibawi’s original sound **205.5K**. Image 9: 😳🏈 created by Anwar Jibawi with Anwar Jibawi’s original sound **160.3K**. Image 10: Surprise!!!😂 created by Anwar Jibawi with Anwar Jibawi’s original sound **411.5K**. Image 11: Oops 😅 created by Anwar Jibawi with Anwar Jibawi’s original sound **337.4K**. Image 16: When she drives 👨🏻‍✈️ created by Anwar Jibawi with Anwar Jibawi’s original sound **2.4M**. Image 17: My dad was a magician 🥲 created by Anwar Jibawi with Anwar Jibawi’s original sound **1.7M**.",
+      "bm25_score_raw": 2.132630347290215,
+      "bm25_score_norm": 0.255917452037113,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8135805726051331,
+      "embedding_score_norm": 0.5290098407345311,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Anwar | Rotten Tomatoes",
+      "url": "https://www.rottentomatoes.com/m/anwar",
+      "snippet": "Continue   By joining, you agree to the Terms and Policies and the Privacy Policy and to receive email from Fandango Media Brands. Retry   By continuing, you agree to the Terms and Policies and the Privacy Policy and to receive email from Fandango Media Brands. By continuing, you agree to the Terms and Policies and the Privacy Policy and to receive email from Fandango Media Brands. username@email.com     Continue   Send email to verify  Forgot password  By continuing, you agree to the Terms and Policies and the Privacy Policy and to receive email from Fandango Media Brands. By clicking \"Sign Me Up,\" you are agreeing to receive occasional emails and communications from Fandango Media (Fandango and Rotten Tomatoes) and consenting to Fandango's Privacy Policy and Terms and Policies. * What to Watch: In Theaters and On Streaming. Link to What to Watch: In Theaters and On Streaming. Please write a review for your rating to count toward the Popcornmeter.",
+      "bm25_score_raw": 0.6269869671594024,
+      "bm25_score_norm": 0.07523896830024611,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.8093814849853516,
+      "embedding_score_norm": 0.44427873501699455,
+      "embedding_rank": 6
+    },
+    {
+      "title": "Dodh Nai Chini Pani Pilati Hoon Bijli Ky Bil Kha Sy Doon ...",
+      "url": "https://www.youtube.com/watch?v=N5y3nh7TU7w",
+      "snippet": "Dodh Nai Chini Pani Pilati Hoon Bijli Ky Bil Kha Sy Doon? 18K views6 days ago. Khan's Massive Street Movement in Chitral KP Pakistan Tehreek-e-",
+      "bm25_score_raw": 2.4153013268320516,
+      "bm25_score_norm": 0.28983820953786776,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8092255592346191,
+      "embedding_score_norm": 0.4411323940816076,
+      "embedding_rank": 7
+    },
+    {
+      "title": "Anwar Jibawi",
+      "url": "https://www.facebook.com/anwar",
+      "snippet": "Anwar Jibawi. 25858788 likes · 8552136 talking about this. anwar@madebyall.com. Contact info. I Built a Time Machine!",
+      "bm25_score_raw": 1.8220116624280234,
+      "bm25_score_norm": 0.21864294617347055,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.8004287481307983,
+      "embedding_score_norm": 0.2636263263101936,
+      "embedding_rank": 8
+    },
+    {
+      "title": "Anwar Khan",
+      "url": "https://music.apple.com/us/artist/anwar-khan/462232602?l=ru",
+      "snippet": "Топ-песни ; Jalalo Bilalo. Jalalo Bilalo - Single · 2023 ; ISHQ KA SAGAR TU (feat. Anwar Khan). ISHQ KA SAGAR TU (feat. Anwar Khan) - Single · 2026 ; Baisa Laadla",
+      "bm25_score_raw": 4.485773164923426,
+      "bm25_score_norm": 0.5382965877055663,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.7912818193435669,
+      "embedding_score_norm": 0.07905542419074331,
+      "embedding_rank": 9
+    },
+    {
+      "title": "Anwar Jibawi",
+      "url": "https://www.facebook.com/anwar/videos/a3b1555f/28110611028563935",
+      "snippet": "Anwar Jibawi. Reels󰞋11h󰞋󱟠. 󳄫... Juan García and 299K others · 󰍸. 299K ... Anwar Jibawi. 󱙿. Videos. 󱙿.Read more",
+      "bm25_score_raw": 1.9720785841835593,
+      "bm25_score_norm": 0.2366511041740016,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.7910722494125366,
+      "embedding_score_norm": 0.07482662651153058,
+      "embedding_rank": 10
+    },
+    {
+      "title": "Anwar Kamal Khan",
+      "url": "https://en.wikipedia.org/wiki/Anwar_Kamal_Khan",
+      "snippet": "Anwar Kamal Khan Marwat Mina Khel was a Pakistani Politician. He was a senior leader of the Pakistan Muslim League (Nawaz) He was the second son of the",
+      "bm25_score_raw": 5.1922526277473375,
+      "bm25_score_norm": 0.6230747229657038,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.7884926795959473,
+      "embedding_score_norm": 0.02277488989009456,
+      "embedding_rank": 11
+    },
+    {
+      "title": "Anwar (2007) ⭐ 6.5 | Drama, Romance, Thriller",
+      "url": "https://www.imdb.com/title/tt0953306",
+      "snippet": "Post her death, he is caught by the police, and a misunderstanding leads them to believe that he is a terrorist.Anwar, a middle-class Muslim, falls in love with Mehru, his next-door neighbour. Post her death, he is caught by the police, and a misunderstanding leads them to believe that he is a terrori...Read allAnwar, a middle-class Muslim, falls in love with Mehru, his next-door neighbour. Post her death, he is caught by the police, and a misunderstanding leads them to believe that he is a terrorist.",
+      "bm25_score_raw": 0.8547382336279454,
+      "bm25_score_norm": 0.10256931361157232,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.7873640060424805,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

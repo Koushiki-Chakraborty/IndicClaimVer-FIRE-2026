@@ -1,0 +1,46 @@
+version: "3.8"
+
+# Single shared Neo4j instance for both subtask1_pipeline and
+# subtask2_pipeline. Previously each pipeline had its own
+# docker-compose.yml, both defining the exact same container name and
+# host ports (7474/7687) -- meaning they could never actually run at the
+# same time anyway (the second `docker-compose up` would fail on a port
+# already in use). Merged here (2026-08) into one instance both
+# pipelines connect to via NEO4J_URI=bolt://localhost:7687.
+#
+# BUG FIX: subtask1_pipeline's old docker-compose.yml set
+# NEO4J_AUTH=neo4j/Nirnit@2005, which did NOT match its own
+# .env.example's NEO4J_PASSWORD=indicclaimver123 -- Neo4j auth would
+# fail until someone noticed and fixed one side or the other. This file
+# uses indicclaimver123 everywhere (matching both pipelines'
+# .env.example now) -- update ALL THREE together (this file and both
+# .env.example files) if you ever change it.
+#
+# The two pipelines use different Neo4j graph schemas (subtask1_pipeline
+# keys Entity nodes by `qid`; subtask2_pipeline keys them by
+# `normalized_text`) and are not designed to be queried as one merged
+# graph. If you need to run both pipelines' KG stages independently
+# without their data mixing, set NEO4J_DATABASE to a different value in
+# each pipeline's .env (e.g. NEO4J_DATABASE=subtask1 /
+# NEO4J_DATABASE=subtask2) -- Neo4jClient in both pipelines already
+# supports this.
+
+services:
+  neo4j:
+    image: neo4j:5.26-community
+    container_name: indicclaimver-neo4j
+    ports:
+      - "7474:7474"   # HTTP browser UI  -> http://localhost:7474
+      - "7687:7687"   # Bolt protocol (used by the Python driver)
+    environment:
+      - NEO4J_AUTH=neo4j/indicclaimver123
+      - NEO4J_PLUGINS=["apoc"]
+      - NEO4J_dbms_memory_heap_max__size=2G
+    volumes:
+      - neo4j_data:/data
+      - neo4j_logs:/logs
+    restart: unless-stopped
+
+volumes:
+  neo4j_data:
+  neo4j_logs:

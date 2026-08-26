@@ -1,0 +1,57 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1141",
+    "text": "Live reporting: Delhi police takes AAP leaders Ashutosh, Sanjay Singh for questioning",
+    "lang": "english"
+  },
+  "ranked_evidence": [
+    {
+      "title": "Watch Ground Report From Ashutosh Mishra As ED Raids ...",
+      "url": "https://www.youtube.com/watch?v=X20u7sVISrc",
+      "snippet": "Watch Ground Report From Ashutosh Mishra As ED Raids Underway At Residence Of AAP MP Sanjay Singh ... Teacher Confronted by Cops After ...Read more",
+      "bm25_score_raw": 5.150542290104538,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "The Cockroach Janta Party (CJP) on Monday claimed that ...",
+      "url": "https://www.facebook.com/oheraldogoa/posts/the-cockroach-janta-party-cjp-on-monday-claimed-that-its-founder-abhijeet-dipke-/1613823654080146",
+      "snippet": "AAP MP Sanjay Singh was arrested ... Dramatic scenes unfold outside CBI office as Delhi Police officials drag AAP MP Sanjay Singh to detain him.Read more",
+      "bm25_score_raw": 3.722622450392058,
+      "bm25_score_norm": 0.4394264304820124,
+      "bm25_rank": 2
+    },
+    {
+      "title": "WATCH: AAP Leaders Atishi, Sisodia, Sanjay Singh ...",
+      "url": "https://www.youtube.com/watch?v=ZPeQSJ2ZoEg",
+      "snippet": "AAP leaders Atishi, Manish Sisodia, and Sanjay Singh were seen in a confrontation with police officials after joining the CJP protest",
+      "bm25_score_raw": 2.7708088749694464,
+      "bm25_score_norm": 0.06576292455455955,
+      "bm25_rank": 3
+    },
+    {
+      "title": "AAP leader Sanjay Singh was stopped by security while ...",
+      "url": "https://www.instagram.com/reel/DbAWBQEFKU0",
+      "snippet": "AAP leader Sanjay Singh visited Jantar Mantar to express support for protesting students, where police stopped him from proceeding further.",
+      "bm25_score_raw": 2.7413738247214163,
+      "bm25_score_norm": 0.054207296060874634,
+      "bm25_rank": 4
+    },
+    {
+      "title": "AAP calls for nationwide protests against CBI arrest of Manish ...",
+      "url": "https://frontline.thehindu.com/news/aap-calls-for-nationwide-protests-against-cbi-arrest-of-manish-sisodia/article66559312.ece",
+      "snippet": "Feb 27, 2023 — The police detained several AAP members including its Rajya Sabha MP Sanjay Singh, Delhi Cabinet Minister Gopal Rai, and party MLAs Rohit ...Read more",
+      "bm25_score_raw": 2.7145571452327304,
+      "bm25_score_norm": 0.04367958902472938,
+      "bm25_rank": 5
+    },
+    {
+      "title": "Sanjay Singh Vs UP Police Fiery Exchange On Cam",
+      "url": "https://www.youtube.com/watch?v=HiMaN8fAqWY",
+      "snippet": "In a fiery exchange of words, AAP MP Sanjay Singh had a verbal spat with the officers of UP Police in Prayagraj for allegedly holding a",
+      "bm25_score_raw": 2.60329440444292,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6
+    }
+  ]
+}

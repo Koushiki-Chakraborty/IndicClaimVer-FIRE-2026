@@ -1,0 +1,15 @@
+{
+  "total_compared": 1134,
+  "matches": 1043,
+  "mismatches": 91,
+  "accuracy": 0.9197530864197531,
+  "f1_macro": 0.9074814391776127,
+  "precision_supports": 0.9032258064516129,
+  "recall_supports": 0.9824561403508771,
+  "f1_supports": 0.9411764705882353,
+  "support_supports": 741,
+  "precision_refutes": 0.9603658536585366,
+  "recall_refutes": 0.8015267175572519,
+  "f1_refutes": 0.8737864077669902,
+  "support_refutes": 393
+}

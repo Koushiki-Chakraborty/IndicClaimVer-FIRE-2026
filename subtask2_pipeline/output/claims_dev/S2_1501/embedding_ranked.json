@@ -1,0 +1,76 @@
+{
+  "claim": {
+    "id": "S2/1501",
+    "text": "AO Can Make Reference To TPO Only After Selecting Case For Scrutiny Assessment: Bombay High Court",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "AO Can Make Reference To TPO Only After Selecting ...",
+      "url": "https://www.livelawbiz.com/high-court/bombay-high-court/ao-reference-tpo-selecting-scrutiny-assessment-bombay-high-court-231333",
+      "snippet": "The Bombay High Court has held that the Assessing Officer (AO) can make reference to the Transfer Pricing Officer (TPO) under Section 92CA",
+      "bm25_score_raw": 1.562900441407857,
+      "bm25_score_norm": 0.5285101325911441,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.909079372882843,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Bombay High Court: Assessing Officer Can Make ...",
+      "url": "https://www.legaleraonline.com/from-the-courts/bombay-high-court-assessing-officer-can-make-reference-to-tpo-only-after-selecting-case-for-scrutiny-assessment-867133",
+      "snippet": "As per the Court, an Assessing Officer can make reference to the TPO under Section 92CA of the Act only after selecting the case for scrutiny",
+      "bm25_score_raw": 2.241189745407915,
+      "bm25_score_norm": 0.9623797978346897,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.9067440032958984,
+      "embedding_score_norm": 0.9643212607258863,
+      "embedding_rank": 2
+    },
+    {
+      "title": "AO Can Make Reference To TPO Only After Selecting ...",
+      "url": "https://www.livelaw.in/high-court/bombay-high-court/ao-reference-tpo-selecting-scrutiny-assessment-bombay-high-court-231333",
+      "snippet": "The Bombay High Court has held that the Assessing Officer (AO) can make reference to the Transfer Pricing Officer (TPO) under Section 92CA of the Income Tax",
+      "bm25_score_raw": 1.489507953159221,
+      "bm25_score_norm": 0.4815644206065366,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.9046591520309448,
+      "embedding_score_norm": 0.932469829105204,
+      "embedding_rank": 3
+    },
+    {
+      "title": "AO Can Refer case To TPO Only After Selecting ...",
+      "url": "https://taxguru.in/income-tax/ao-refer-case-tpo-selecting-case-scrutiny-assessment-bombay-hc.html",
+      "snippet": "The Court confirmed that an Assessing Officer (AO) can make a reference to the Transfer Pricing Officer (TPO) only after selecting the case for scrutiny",
+      "bm25_score_raw": 2.3000032158742725,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8918654918670654,
+      "embedding_score_norm": 0.7370139715396923,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Bombay HC Sets Aside Section 263 Revision, Confirms AO's ...",
+      "url": "https://news.vaquill.com/item/66249843-3c8b-4b2c-9852-bc76d5241531",
+      "snippet": "The Bombay High Court has set aside a Section 263 revision, affirming that the Assessing Officer (AO) conducted a proper inquiry.",
+      "bm25_score_raw": 0.7366551453902225,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8730908632278442,
+      "embedding_score_norm": 0.4501835341083867,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Reference to TPO Reference made by the AO to TPO is ...",
+      "url": "https://www.taxlok.com/view/latest/library/latest/details.html/id=XalClU7ueMQ=/key=E",
+      "snippet": "Reference made by the AO to TPO is quashed and set aside and matter is remanded to the AO to pass a speaking order as before making a reference to the TPO.",
+      "bm25_score_raw": 0.9949873610624889,
+      "bm25_score_norm": 0.1652429299332429,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8436238765716553,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6
+    }
+  ]
+}

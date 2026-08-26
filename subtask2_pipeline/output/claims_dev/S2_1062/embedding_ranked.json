@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/1062",
+    "text": "मालिक के जीवनकाल में संपत्ति का बंटवारा मुस्लिम लॉ में अस्वीकार्य : सुप्रीम कोर्ट",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Partition Of Property During Owner's Lifetime Impermissible In ...",
+      "url": "https://www.livelaw.in/amp/supreme-court/partition-of-property-during-owners-lifetime-impermissible-in-mohammedan-law-supreme-court-278955",
+      "snippet": "The Supreme Court reiterated that the partition of a property via gift deed during an owner's lifetime cannot be validated under Mohammedan Law.",
+      "bm25_score_raw": 3.7850478901303735,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.910428524017334,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "SC upholds widow's inheritance rights under Muslim law, flags poor quality ...",
+      "url": "https://m.economictimes.com/news/india/sc-upholds-widows-inheritance-rights-under-muslim-law-flags-poor-quality-of-translation-of-order/amp_articleshow/124629351.cms",
+      "snippet": "The Supreme Court ruled that an agreement to sell property does not transfer ownership, declaring all assets of a deceased person as ancestral",
+      "bm25_score_raw": 1.7970209851419225,
+      "bm25_score_norm": 0.4747683615384917,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8717756271362305,
+      "embedding_score_norm": 0.7621196503442634,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Can Muslims Dispose of Property During Lifetime in India?",
+      "url": "https://supremetoday.ai/issue/muslim-lifetime-property-disposition-rights-india",
+      "snippet": "Muslim individuals generally have the lawful right to dispose of their property during their lifetime through gifts or testamentary dispositions,",
+      "bm25_score_raw": 2.7218419988077174,
+      "bm25_score_norm": 0.7191037148842958,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8686026334762573,
+      "embedding_score_norm": 0.7425921918044393,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Muslim Woman Wants To Follow Secular Property Law, Court Seeks ...",
+      "url": "https://www.ndtv.com/india-news/muslim-woman-wants-to-follow-secular-property-law-court-seeks-centre-reply-7577616/amp/1",
+      "snippet": "The Supreme Court has asked the Centre if a person born in a Muslim family can follow secular laws in matters of property or is bound to abide by the Sharia.",
+      "bm25_score_raw": 2.0772691185641485,
+      "bm25_score_norm": 0.548809203704051,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8488720655441284,
+      "embedding_score_norm": 0.6211649566598559,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Rahisuddin vs Fatima & Others 1/24 on 19 October, 2020",
+      "url": "https://indiankanoon.org/doc/125844987",
+      "snippet": "The property which is left after death of a Muslim is heritable and can be movable. Muslim law does not recognize doctrine of representation and as such nearer",
+      "bm25_score_raw": 2.7154066121565372,
+      "bm25_score_norm": 0.7174035021424806,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8483242988586426,
+      "embedding_score_norm": 0.6177938527792349,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Instagram",
+      "url": "https://www.instagram.com/p/DP8YCVDAvZ9",
+      "snippet": "Photo by Ahmedabad Mirror on October 18, 2025. The Supreme Court has said that an agreement to sell a property does not transfer the ownership rights and ruled that all assets left behind by a deceased person form part of ancestral property to be distributed as per Muslim law. The verdict came on a case filed by a woman named Zoharbee against the Bombay High Court verdict. Video by Ahmedabad Mirror on July 14, 2026. May be an image of one or more people, people smiling and text. Photo by Ahmedabad Mirror on July 20, 2026. May be an image of one or more people, people standing, poster, signboard and text that says 'AhmedabadMirror Mirror BRANCH AVIEDABAD CLINE 国の UARMPOL POI UAR E C Police raid rooftop gambling den in Isanpur; 14 nabbed AhmedabadMirror'. May be an image of text that says 'AhmedabadMirror Mirror 18/0 CCTV footage emerges of Ahmedabad firecracker factory blast'.",
+      "bm25_score_raw": 1.0013064940380954,
+      "bm25_score_norm": 0.2645426222080392,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8398076295852661,
+      "embedding_score_norm": 0.5653799736621046,
+      "embedding_rank": 6
+    },
+    {
+      "title": "🔴LIVE | ପାକିସ୍ତାନର ଘନ ଘନ ରକେଟ ମାଡ଼ | Frequent Rocket Attacks ...",
+      "url": "https://www.youtube.com/watch?v=LXYZHFRK4RI",
+      "snippet": "LIVE | ପାକିସ୍ତାନର ଘନ ଘନ ରକେଟ ମାଡ଼ | Frequent Rocket Attacks Of Pakistan | OTV #Pakistan #RocketAttack #BreakingNews #SecurityAlert #Conflict",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.7792494297027588,
+      "embedding_score_norm": 0.19268848285652448,
+      "embedding_rank": 7
+    },
+    {
+      "title": "Super Prime Time With Vamsi | Mahaa Vamsi Analysis",
+      "url": "https://www.youtube.com/watch?v=NqIH7rps-ww",
+      "snippet": "Mahaa News Live is a 24-hour Telugu News Channel Covering Mainly News & Events In Andhra Pradesh & Telangana. Tune In For Current Political,",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.7744563817977905,
+      "embedding_score_norm": 0.1631907736665065,
+      "embedding_rank": 8
+    },
+    {
+      "title": "“'वनस्पति का सेवन' बयान वायरल: सपा प्रदेश अध्यक्ष विनीत ...",
+      "url": "https://www.facebook.com/maubtak24/videos/%E0%A4%B5%E0%A4%A8%E0%A4%B8%E0%A5%8D%E0%A4%AA%E0%A4%A4%E0%A4%BF-%E0%A4%95%E0%A4%BE-%E0%A4%B8%E0%A5%87%E0%A4%B5%E0%A4%A8-%E0%A4%AC%E0%A4%AF%E0%A4%BE%E0%A4%A8-%E0%A4%B5%E0%A4%BE%E0%A4%AF%E0%A4%B0%E0%A4%B2-%E0%A4%B8%E0%A4%AA%E0%A4%BE-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A6%E0%A5%87%E0%A4%B6-%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%95%E0%A5%8D%E0%A4%B7-%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A5%80%E0%A4%A4-%E0%A4%95%E0%A5%81%E0%A4%B6%E0%A4%B5%E0%A4%BE%E0%A4%B9%E0%A4%BE-%E0%A4%A8%E0%A5%87-%E0%A4%B8%E0%A4%B0%E0%A4%95%E0%A4%BE%E0%A4%B0-%E0%A4%AA%E0%A4%B0-%E0%A4%95%E0%A4%B8%E0%A4%BE-%E0%A4%A4%E0%A4%82%E0%A4%9Cs/1370385524924206",
+      "snippet": "'वनस्पति का सेवन' बयान वायरल: सपा प्रदेश अध्यक्ष विनीत कुशवाहा ने सरकार पर कसा तंज”..... Samajwadi Party Akhilesh Yadav BJP Uttar Pradesh Omprakash",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.7741507291793823,
+      "embedding_score_norm": 0.16130970503758102,
+      "embedding_rank": 9
+    },
+    {
+      "title": "वात पित्त कफ के दोष तीनों को संतुलित करे इस आयुर्वेदिक उपाय ...",
+      "url": "https://www.facebook.com/rakeshkumarMKP/posts/%E0%A4%B5%E0%A4%BE%E0%A4%A4-%E0%A4%AA%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%A4-%E0%A4%95%E0%A4%AB-%E0%A4%95%E0%A5%87-%E0%A4%A6%E0%A5%8B%E0%A4%B7-%E0%A4%A4%E0%A5%80%E0%A4%A8%E0%A5%8B%E0%A4%82-%E0%A4%95%E0%A5%8B-%E0%A4%B8%E0%A4%82%E0%A4%A4%E0%A5%81%E0%A4%B2%E0%A4%BF%E0%A4%A4-%E0%A4%95%E0%A4%B0%E0%A5%87-%E0%A4%87%E0%A4%B8-%E0%A4%86%E0%A4%AF%E0%A5%81%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%BF%E0%A4%95-%E0%A4%89%E0%A4%AA%E0%A4%BE%E0%A4%AF-%E0%A4%B8%E0%A5%87%E0%A4%85%E0%A4%82%E0%A4%A4-%E0%A4%A4%E0%A4%95-%E0%A4%9C%E0%A4%B0%E0%A5%81%E0%A4%B0-%E0%A4%AA%E0%A4%A2%E0%A4%BC%E0%A5%87%E0%A4%82%E0%A4%B5/1278048434107335",
+      "snippet": "वात पित्त कफ के दोष तीनों को संतुलित करे इस आयुर्वेदिक उपाय से...अंत तक जरुर पढ़ें। ❤❤❤वात पित्त और कफ के दोष:- पोस्ट को धयान से 2 बार पढ़े शरीर 3 दोषों",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.7489988207817078,
+      "embedding_score_norm": 0.006518078874293407,
+      "embedding_rank": 10
+    },
+    {
+      "title": "जानिये क्या है वात-पित्त-कफ और इनका हमारे स्वास्थ्य से संबंध",
+      "url": "https://www.1mg.com/hi/patanjali/what-is-tridosha",
+      "snippet": "Nov 12, 2018 — इसे ऐसे समझें कि अगर आप कफ दोष को बढ़ाने वाली चीजें ज्यादा खा रहे हैं तो आपको कफ दोष से जुड़े रोगों के होने की संभावना बढ़ जाती है। असल में हमारे शरीर का निर्माण दोष, धातु और मल इन तीनों से मिलकर हुआ है और",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.7482020854949951,
+      "embedding_score_norm": 0.0016147550905869536,
+      "embedding_rank": 11
+    },
+    {
+      "title": "विश्व पर्यावरण दिवस पर VNM TV की मुहिम \"PLANT A TREE.. ...",
+      "url": "https://www.youtube.com/watch?v=rsi8zGuQYvE",
+      "snippet": "विश्व पर्यावरण दिवस पर VNM TV की मुहिम \"PLANT A TREE..GET OXYGEN FREE\" 05-06-21 VNM TV, Vadodara's first news magazine is a news channel with a",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.7479397058486938,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

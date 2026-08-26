@@ -1,0 +1,6 @@
+{
+  "ID": "S2/T/EN/1042",
+  "Evidence": "Sputnik V consists of two doses, with the first dose based on adenovirus Ad26 and the second on Ad5. Sputnik Light, a single-dose vaccine derived from the first dose of Sputnik V, is intended for use as a booster for those who received Sputnik V at least six months prior (Source 1). This indicates that the first dose of Sputnik V can indeed be used as a booster in the form of Sputnik Light (Source 1). The vaccine has been registered in multiple countries and has undergone various trials to confirm its efficacy (Source 2, Source 3).",
+  "Prediction": "REFUTES",
+  "Justification": "The retrieved evidence indicates that the first dose of Sputnik V is not excluded from being used as a booster, as Sputnik Light, which is based on the first dose, is specifically intended for this purpose for those vaccinated with Sputnik V at least six months earlier. Therefore, the claim that the first dose will not be given as a booster is directly contradicted by the evidence."
+}

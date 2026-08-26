@@ -1,0 +1,6 @@
+{
+  "ID": "S2/T/EN/1285",
+  "Evidence": "The Calcutta High Court ruled that the power of a Court to hear an interim application under Section 9(1) of the Arbitration and Conciliation Act is not barred by the constitution of an arbitral tribunal if the Court has already entertained the application. The Court clarified that while Section 9(3) restricts the Court from taking up interim applications after the tribunal's constitution, it does not prevent the Court from continuing to hear applications it has already engaged with prior to that constitution (Source 1).",
+  "Prediction": "REFUTES",
+  "Justification": "The retrieved evidence directly contradicts the claim. It states that the Calcutta High Court held the Court can continue hearing an interim application under Section 9(1) even after the constitution of an arbitral tribunal, provided it had already entertained the application. This indicates that the hearing is not barred, which refutes the claim that it is barred by the constitution of the arbitral tribunal."
+}

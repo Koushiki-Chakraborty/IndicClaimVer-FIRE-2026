@@ -1,0 +1,98 @@
+{
+  "claim": {
+    "id": "S2/T/HI/1103",
+    "text": "विवाह समानता पर पुनर्विचार याचिकाओं की ओपन कोर्ट में सुनवाई की अनुमति सुप्रीम कोर्ट ने अस्वीकार कर दी।",
+    "lang": "hindi"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Supreme Court Denies Request to Revisit Same-Sex Marriage Decision",
+      "url": "https://www.nytimes.com/2025/11/10/us/politics/supreme-court-same-sex-marriage.html",
+      "snippet": "The Supreme Court on Monday turned down a request that it consider overturning its landmark decision to legalize same-sex marriage a decade ago.",
+      "bm25_score_raw": 1.905641714968208,
+      "bm25_score_norm": 0.44481569362139317,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8655490875244141,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Supreme Court declines to hear case on constitutionality of same-sex marriage | SCOTUSblog",
+      "url": "https://www.scotusblog.com/2025/11/supreme-court-declines-to-hear-case-on-constitutionality-of-same-sex-marriage",
+      "snippet": "# Supreme Court declines to hear case on constitutionality of same-sex marriage. Supreme,Court,In,Washington,Dc. The Supreme Court on Monday morning turned down a request from Kim Davis, a former county clerk in Kentucky, to reconsider its 2015 decision recognizing a constitutional right to same-sex marriage. In a brief, unsigned order, the justices rejected Davis’ petition for review of a ruling by a federal appeals court upholding an award of $100,000 to a gay couple to whom she had refused to issue a marriage license. As is generally the case when it denies petitions for review, the court did not provide any explanation for its decision not to hear Davis’ case. The dispute began more than a decade ago, when – in the wake of the court’s decision in *Obergefell* – Davis, whose job description included issuing licenses, refused to issue a marriage license to a gay couple, David Moore and David Ermold.",
+      "bm25_score_raw": 4.284115291557593,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8610444068908691,
+      "embedding_score_norm": 0.9728788354004836,
+      "embedding_rank": 2
+    },
+    {
+      "title": "The Supreme Court has turned away a petition that sought to revisit ...",
+      "url": "https://www.facebook.com/brutamerica/posts/the-supreme-court-has-turned-away-a-petition-that-sought-to-revisit-the-landmark/1286525950187243",
+      "snippet": "The Supreme Court has turned away a petition that sought to revisit the landmark ruling legalizing same-sex marriage, upholding the status",
+      "bm25_score_raw": 1.2604277222649678,
+      "bm25_score_norm": 0.2942095710516486,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8532712459564209,
+      "embedding_score_norm": 0.9260792519645763,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Supreme Court declines to revisit gay marriage decision : NPR",
+      "url": "https://www.npr.org/2025/11/10/nx-s1-5604293/scotus-rejects-gay-marriage-appeal",
+      "snippet": "**Supreme Court declines to revisit gay marriage decision** **The challenge to the court's 2015 ruling came from Kim Davis, the former Kentucky clerk who refused to issue same-sex licenses after the court's Obergefell v. # Supreme Court declines to revisit gay marriage decision. The challenge to the court's 2015 ruling came from Kim Davis, the former Kentucky clerk who refused to issue same-sex licenses after the court's Obergefell v. In the aftermath of her refusal, Davis was jailed for acting in contempt of court and lost her clerk re-election. \"If ever there was a case of exceptional importance, the first individual in the Republic's history who was jailed for following her religious convictions regarding the historic definition of marriage, this should be it,\" she argued in her petition before the court. The court's decision to not hear Davis's petition means that the constitutionality of same-sex marriage is reaffirmed, at least for now.",
+      "bm25_score_raw": 2.7066027614185146,
+      "bm25_score_norm": 0.631776359229227,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8500015139579773,
+      "embedding_score_norm": 0.9063932970789556,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Supreme Court Declines to Revisit Same-Sex Marriage Ruling | What It Means for LGBTQ+ Rights | APT",
+      "url": "https://www.youtube.com/watch?v=Liw_DuH9uRQ",
+      "snippet": "Supreme Court Declines to Revisit Same-Sex Marriage Ruling | What It Means for LGBTQ+ Rights | APT\nAPT\n1110000 subscribers\n70 likes\n3420 views\n10 Nov 2025\nThe U.S. Supreme Court has declined to revisit its 2015 Obergefell v. Hodges decision, leaving nationwide marriage equality in place.\n\nThe Court on November 10, rejected an appeal from former Kentucky county clerk Kim Davis, who became a national figure after refusing to issue marriage licenses to same-sex couples citing her religious beliefs.\n\nDavis had asked the Court to overturn Obergefell, the landmark ruling that recognized a constitutional right to same-sex marriage. The justices declined to hear her case, offering reassurance to LGBTQ+ advocates concerned that the Court’s conservative majority might reopen the issue.\n\nJustice Anthony Kennedy’s 2015 opinion in Obergefell affirmed that “no union is more profound than marriage,” a statement that continues to resonate with millions of Americans.\n\n#SupremeCourt #SameSexMarriage #KimDavis #ObergefellvHodges #LGBTQRights #MarriageEquality #BreakingNews #SCOTUS #LGBTQNews #EqualRights #NewsUpdate #SupremeCourtNews #CivilRights #LegalNews\n56 comments\n",
+      "bm25_score_raw": 2.8377258446704654,
+      "bm25_score_norm": 0.6623831646787316,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8271649479866028,
+      "embedding_score_norm": 0.76890202633598,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Supreme Court Passively Clears the Way for Same-Sex Marriage - Ogletree",
+      "url": "https://ogletree.com/insights-resources/blog-posts/supreme-court-passively-clears-the-way-for-same-sex-marriage",
+      "snippet": "* United States flag icon United States. Home > Insights & Resources > Blog Posts > Supreme Court Passively Clears the Way for Same-Sex Marriage. # Supreme Court Passively Clears the Way for Same-Sex Marriage. ## On October 6, 2014, the Supreme Court of the United States declined to review all seven same-sex marriage cases with petitions for certiorari pending before it. The Court’s refusal to hear the appeals means that the lower court decisions striking down same-sex marriage bans in Indiana, Wisconsin, Utah, Oklahoma, and….. The Court’s refusal to hear the appeals means that the lower court decisions striking down same-sex marriage bans in Indiana, Wisconsin, Utah, Oklahoma, and Virginia take effect right away. Indeed, the Court’s decision means same-sex marriages are constitutionally permitted and protected in all states within the Fourth Circuit (Maryland, Virginia, West Virginia, North Carolina, and South Carolina), the Seventh Circuit (Illinois, Indiana, and Wisconsin), and the Tenth Circuit (Colorado, Kansas, New Mexico, Oklahoma, Utah, and Wyoming).",
+      "bm25_score_raw": 3.210009631485979,
+      "bm25_score_norm": 0.7492818033659647,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.7983236312866211,
+      "embedding_score_norm": 0.5952581742808276,
+      "embedding_rank": 6
+    },
+    {
+      "title": "हे नाथ अब तो ऐसी कृपा हो... (भजन) | Swami Ramdev",
+      "url": "https://www.youtube.com/watch?v=5BNFmXskEnk",
+      "snippet": "हे नाथ अब तो ऐसी कृपा हो जीवन निरर्थक जाने न पाये यह मन न जाने क्या क्या दिखाए कुछ बन ना पाया मेरे बनाए संसार में ही आशक्त रह कर दिन-रात अपने ही मतलब की कहकर सुख के लिए लाखो दुःख सहकर ये",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.710774838924408,
+      "embedding_score_norm": 0.06815638809361639,
+      "embedding_rank": 7
+    },
+    {
+      "title": "How to Identify Parts of Speech?? || for Beginners || Basic English ...",
+      "url": "https://www.youtube.com/watch?v=alozPFBFquE",
+      "snippet": "How to Identify Parts of Speech?? || for Beginners || Basic English Grammar in Hindi || Rani Ma'am. @EnglishWithRaniMam201K likes8.8M views4",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.6994544267654419,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 8
+    }
+  ]
+}

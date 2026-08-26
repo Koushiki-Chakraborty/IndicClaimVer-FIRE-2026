@@ -1,0 +1,99 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1025",
+    "text": "Centre writes to 5 states amid Covid spike, asks to continue monitoring spread",
+    "lang": "english"
+  },
+  "entity_ranked_evidence": [
+    {
+      "title": "Centre — Collection 01",
+      "url": "https://www.centretx.com",
+      "snippet": "centre. Coming Soon. Collection 01. Join the list. Early access to Collection 01. Already have access? Enter password. Enter.Read more",
+      "bm25_score_raw": 0.9047044659980843,
+      "bm25_score_norm": 0.3388948179386786,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.7804330587387085,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 1
+    },
+    {
+      "title": "City of Centre, Alabama – Experience The Magic of Centre ...",
+      "url": "https://centreal.gov",
+      "snippet": "## CENTRE CITY HALL. Side-Image-Centre-Alabama-City-Hall-Cherokee-County. City Council meetings are every second and fourth Tuesday of the month. ## CENTRE, AL. Whether you are looking to get away for the weekend or wanting to become a new resident, centre, Alabama always welcomes you. ## We strive to make our city a better place to visit, live and work. ## *The city at the center of it all.*. Established in the foothills of the Appalachian mountains, lies a city in the center of captivating surroundings, thrilling adventures, and a compassionate and hard-working community that truly cares for one another. Centre, located in the northeast corner of the state, is the seat of Cherokee County. Centre, Alabama is positioned in the center of what we like to call the ABC Triangle. Explore the remarkable opportunities for those who live in and visit our city. Centre, Alabama is a growing city with remarkable opportunities for our citizens and those who visit. Come experience the magic of Centre, Alabama for yourself today!",
+      "bm25_score_raw": 0.7488295231964652,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.775714099407196,
+      "embedding_score_norm": 0.7756807833648307,
+      "embedding_rank": 2,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 2
+    },
+    {
+      "title": "Centre College (@centrecollege) · Danville, KY",
+      "url": "https://www.instagram.com/centrecollege?hl=en",
+      "snippet": "## centrecollege. Centre is a premier national liberal arts and sciences college. Learn more at CENTRE.edu. t.mtrbio.com/centre-college. May be an image of text. Photo by Centre Athletics on July 16, 2026. May be an image of track and field, pole and text that says '* 2026 USATF OUTDOOR CHAMPIONSHIPS USATF CHLUE HEIN EI SIEIN HEM 실전아 H LETT SME CHLOE HEIN LONG JUMP CENTRE COLONEL8 #ROLLKERNS SERENA MCNEILLY HIGH JUMP C'. May be an image of smiling and text. May be an image of monument, park and text that says '20 LAMO The Flame preparing for its Netflix documentary about everything thing it's seen in 57 years'. May be an image of microscope, beaker, hospital and text that says 'then I moved on to the sandblaster machine'. Photo by Centre College on June 30, 2026. Video by Centre College on June 25, 2026. May be an image of studying, glasses and text. Show more posts from centrecollege.",
+      "bm25_score_raw": 1.108391148966226,
+      "bm25_score_norm": 0.7817393194367391,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.7714763879776001,
+      "embedding_score_norm": 0.574238041134587,
+      "embedding_rank": 3,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 3
+    },
+    {
+      "title": "Centre College",
+      "url": "https://en.wikipedia.org/wiki/Centre_College",
+      "snippet": "# Centre College. Private liberal arts college in Danville, Kentucky, US. **Centre College**, formally **Centre College of Kentucky**, is a private liberal arts college in Danville, Kentucky, United States. Chartered by the Kentucky General Assembly in 1819, the college is a member of the Associated Colleges of the South and the Association of Presbyterian Colleges and Universities. Classes began in the fall of 1820 in Old Centre, the first building on campus and the oldest college administration building west of the Allegheny Mountains. In its early years, Centre navigated financial hardships, disputes within and outside the Presbyterian Church, and six wars, including the occupation of Old Centre by both Confederate and Union troops during the Civil War. A Centre alumnus, John Todd Stuart, played a formative role in American history by encouraging Abraham Lincoln to study for the bar, providing his first set of law books, and serving as Lincoln's professional and political mentor.",
+      "bm25_score_raw": 1.0711945927820379,
+      "bm25_score_norm": 0.7008685912143754,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.760796308517456,
+      "embedding_score_norm": 0.0665525770742253,
+      "embedding_rank": 4,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 4
+    },
+    {
+      "title": "Centre College (CC)",
+      "url": "https://www.princetonreview.com/college/centre-college-1022882",
+      "snippet": "##### This site uses various technologies, as described in our Privacy Policy, for personalization, measuring website use/performance, and targeted advertising, which may include storing and sharing information about your site visit with third parties. By continuing to use this website you consent to our Privacy Policy and Terms of Use. menuMenu;)  user iconAccount  user iconAccount. # Centre College (CC). Black Pinpoint  600 West Walnut Street |  Danville, KY | 40422. Centre College is a school that prides itself on fostering a \"tight knit community,\" one in which \"everyone genuinely cares.\" Undergrads appreciate the college's liberal arts education, which provides them with \"substantial freedom to pursue whatever academic experience and career they wish.\" Additionally, \"small class sizes\" are the norm at Centre, leading to a very personalized classroom experience and education. StudentsScroll to Top  Scroll To Top Arrow. Campus LifeScroll to Top  Scroll To Top Arrow. Tuition & CostScroll to Top  Scroll To Top Arrow. Student BodyScroll to Top  Scroll To Top Arrow.",
+      "bm25_score_raw": 0.9077583207356307,
+      "bm25_score_norm": 0.34553434271854716,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.7598092555999756,
+      "embedding_score_norm": 0.019632287732441016,
+      "embedding_rank": 5,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 5
+    },
+    {
+      "title": "Centre College | Your future, front and centre.",
+      "url": "https://www.centre.edu",
+      "snippet": "Aerial view of students near campus library with large sidewalks and statue of Abraham Lincoln. # Centre College. ## Your future, front and centre. Learn why Centre is the place for you. Take the next steps to begin your Centre journey. Here's everything you need to know about Commencement Weekend May 23rd and 24th. ## The Centre Experience. Becoming a Centre student includes study abroad, participation in hands-on research or internships locally and around the world, community engagement and the chance to engage with alumni and industry leaders as part of our career readiness program. The return on investment you get from Centre is a dividend that will pay you back for the rest of your life. Centre is a community of difference-makers, whether here on campus or around the world. Here's everything you need to know and do to begin your Centre journey. Living in a community with other bright and interesting students is the heart of the Centre experience.",
+      "bm25_score_raw": 1.2087803237124646,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.7593962550163269,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 6
+    }
+  ]
+}

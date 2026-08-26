@@ -1,0 +1,57 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1253",
+    "text": "Polling for last phase of LS polls in Maharashtra tomorrow",
+    "lang": "english"
+  },
+  "ranked_evidence": [
+    {
+      "title": "Lok Sabha Election: Polling For Phase 3 Begins Tomorrow ...",
+      "url": "https://www.youtube.com/watch?v=rh6-Ehp9JBE",
+      "snippet": "The third phase of the Lok Sabha polls is set for May 7, encompassing 93 constituencies across 12 states in India.",
+      "bm25_score_raw": 4.153511140665953,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "BMC, Other Maharashtra Civic Body Polls Tomorrow",
+      "url": "https://www.ndtv.com/india-news/bmc-polls-maharashtra-civic-body-polls-tomorrow-10-questions-answered-10747747",
+      "snippet": "Jan 14, 2026 — The campaigning for local body elections in Maharashtra's metropolitan cities has ended. Voting will be held tomorrow, on January 15,",
+      "bm25_score_raw": 2.4328467365832886,
+      "bm25_score_norm": 0.5857325655790148,
+      "bm25_rank": 2
+    },
+    {
+      "title": "First phase of Maharashtra local elections on December 2 ...",
+      "url": "https://www.thehindu.com/news/national/maharashtra/maharashtra-local-elections-on-december-2-amid-friendly-fights-alliance-strain-legal-tangles/article70344894.ece",
+      "snippet": "Dec 1, 2025 — As per the State Election Commission, 62,108 employees have been deployed at 12,316 polling stations across the electorates. Voting will begin ...Read more",
+      "bm25_score_raw": 1.1227856464274264,
+      "bm25_score_norm": 0.27032205004448473,
+      "bm25_rank": 3
+    },
+    {
+      "title": "Counting of votes is underway for the 2026 Maharashtra ...",
+      "url": "https://www.facebook.com/TheWeekMag/posts/counting-of-votes-is-underway-for-the-2026-maharashtra-civic-polls-including-the/1370625581776517",
+      "snippet": "Counting of votes is underway for the 2026 Maharashtra civic polls, including the BMC elections. The counting process began on Friday,",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 4
+    },
+    {
+      "title": "🚨The BMC Election 2026 is scheduled to be held on 15 ...",
+      "url": "https://www.facebook.com/UNINewsagency/posts/the-bmc-election-2026-is-scheduled-to-be-held-on-15-january-2026-polling-will-ru/1358904212916363",
+      "snippet": "The BMC Election 2026 is scheduled to be held on 15 January 2026. Polling will run from 7:30 AM to 5:30 PM across all 227 wards of Mumbai.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 5
+    },
+    {
+      "title": "On Going - Municipal Corporations",
+      "url": "https://mahasec.maharashtra.gov.in/Site/ViewPDFList?doctype=_iNojGYBQnXUE0Zk56f9UIrkagXDCcBpS0zaVjSGqN1mbyIW5sEhsy7XTFul8Qqn9kLwUhF_5WXerbEr9EH5fFvIweKERMaOiZ4ZmrCSXvo%3D",
+      "snippet": "Revised Voter List Program for the General Elections of 29 Municipal Corporations in the State-2025. Voter List, 26/12/2025, 0.46. 2, Election program for the ...Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6
+    }
+  ]
+}

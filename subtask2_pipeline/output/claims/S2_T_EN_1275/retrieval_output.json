@@ -1,0 +1,108 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1275",
+    "text": "Telangana is a perfect example of how BJP sows seeds of poison, says Modi",
+    "lang": "english"
+  },
+  "generated_queries": {
+    "english_translation": "Telangana is a perfect example of how BJP sows seeds of poison, says Modi",
+    "native_query": "Telangana BJP Modi perfect sows seeds poison",
+    "english_query": "Telangana BJP Modi perfect sows seeds poison"
+  },
+  "native_retrieval": [
+    {
+      "title": "Andhra Pradesh best example of Congress sowing seeds of poison",
+      "url": "https://www.dnaindia.com/india/report-andhra-pradesh-best-example-of-congress-sowing-seeds-of-poison-narendra-modi-1962665/amp",
+      "snippet": "Bharatiya Janata Party (BJP) prime ministerial candidate Narendra Modi on Sunday said that Andhra Pradesh was a perfect example of poisonous seeds sowed by"
+    },
+    {
+      "title": "Telangana issue perfect example of Congress sowing 'seeds of poison'",
+      "url": "https://www.ndtv.com/india-news/telangana-issue-perfect-example-of-congress-sowing-seeds-of-poison-narendra-modi-551005",
+      "snippet": "Accusing Congress of pursuing vote-bank politics, Narendra Modi said that the turmoil over the bifurcation of Andhra Pradesh was a perfect"
+    },
+    {
+      "title": "BJP sowing seeds of poison: Sonia",
+      "url": "https://www.youtube.com/watch?v=wwbrwBBCm0w",
+      "snippet": "Speaking at a rally, Sonia Gandhi accused the BJP of sowing seeds of poison. For more news from Headlines Today visit"
+    },
+    {
+      "title": "UPA: Sonia targets Modi, says BJP sowing 'seeds of poison'",
+      "url": "https://timesofindia.indiatimes.com/india/sonia-targets-modi-says-bjp-sowing-seeds-of-poison/articleshow/29729799.cms",
+      "snippet": "In a scathing attack on BJP and its prime ministerial candidate Narendra Modi, Congress president Sonia Gandhi on Saturday accused them of indulging in divisive"
+    },
+    {
+      "title": "BJP sowing seeds of poison in its hunger for power: Sonia Gandhi",
+      "url": "https://indianexpress.com/article/political-pulse/bjp-sowing-seeds-of-poison-in-its-hunger-for-power-sonia-gandhi/lite",
+      "snippet": "Attacking BJP and its PM candidate Narendra Modi, Congress President Sonia Gandhi on Saturday accused them of indulging in divisive politics"
+    },
+    {
+      "title": "BJP sowing seeds of poison in its hunger for power: Sonia Gandhi",
+      "url": "https://www.youtube.com/watch?v=8XWj90P6LhY",
+      "snippet": "Attacking BJP and its PM candidate Narendra Modi, Congress President Sonia Gandhi today accused them of indulging in divisive politics by"
+    }
+  ],
+  "english_retrieval": [
+    {
+      "title": "Andhra Pradesh best example of Congress sowing seeds of poison",
+      "url": "https://www.dnaindia.com/india/report-andhra-pradesh-best-example-of-congress-sowing-seeds-of-poison-narendra-modi-1962665/amp",
+      "snippet": "Bharatiya Janata Party (BJP) prime ministerial candidate Narendra Modi on Sunday said that Andhra Pradesh was a perfect example of poisonous seeds sowed by"
+    },
+    {
+      "title": "Telangana issue perfect example of Congress sowing 'seeds of poison'",
+      "url": "https://www.ndtv.com/india-news/telangana-issue-perfect-example-of-congress-sowing-seeds-of-poison-narendra-modi-551005",
+      "snippet": "Accusing Congress of pursuing vote-bank politics, Narendra Modi said that the turmoil over the bifurcation of Andhra Pradesh was a perfect"
+    },
+    {
+      "title": "BJP sowing seeds of poison: Sonia",
+      "url": "https://www.youtube.com/watch?v=wwbrwBBCm0w",
+      "snippet": "Speaking at a rally, Sonia Gandhi accused the BJP of sowing seeds of poison. For more news from Headlines Today visit"
+    },
+    {
+      "title": "UPA: Sonia targets Modi, says BJP sowing 'seeds of poison'",
+      "url": "https://timesofindia.indiatimes.com/india/sonia-targets-modi-says-bjp-sowing-seeds-of-poison/articleshow/29729799.cms",
+      "snippet": "In a scathing attack on BJP and its prime ministerial candidate Narendra Modi, Congress president Sonia Gandhi on Saturday accused them of indulging in divisive"
+    },
+    {
+      "title": "BJP sowing seeds of poison in its hunger for power: Sonia Gandhi",
+      "url": "https://indianexpress.com/article/political-pulse/bjp-sowing-seeds-of-poison-in-its-hunger-for-power-sonia-gandhi/lite",
+      "snippet": "Attacking BJP and its PM candidate Narendra Modi, Congress President Sonia Gandhi on Saturday accused them of indulging in divisive politics"
+    },
+    {
+      "title": "BJP sowing seeds of poison in its hunger for power: Sonia Gandhi",
+      "url": "https://www.youtube.com/watch?v=8XWj90P6LhY",
+      "snippet": "Attacking BJP and its PM candidate Narendra Modi, Congress President Sonia Gandhi today accused them of indulging in divisive politics by"
+    }
+  ],
+  "merged_results": [
+    {
+      "title": "Andhra Pradesh best example of Congress sowing seeds of poison",
+      "url": "https://www.dnaindia.com/india/report-andhra-pradesh-best-example-of-congress-sowing-seeds-of-poison-narendra-modi-1962665/amp",
+      "snippet": "Bharatiya Janata Party (BJP) prime ministerial candidate Narendra Modi on Sunday said that Andhra Pradesh was a perfect example of poisonous seeds sowed by"
+    },
+    {
+      "title": "Telangana issue perfect example of Congress sowing 'seeds of poison'",
+      "url": "https://www.ndtv.com/india-news/telangana-issue-perfect-example-of-congress-sowing-seeds-of-poison-narendra-modi-551005",
+      "snippet": "Accusing Congress of pursuing vote-bank politics, Narendra Modi said that the turmoil over the bifurcation of Andhra Pradesh was a perfect"
+    },
+    {
+      "title": "BJP sowing seeds of poison: Sonia",
+      "url": "https://www.youtube.com/watch?v=wwbrwBBCm0w",
+      "snippet": "Speaking at a rally, Sonia Gandhi accused the BJP of sowing seeds of poison. For more news from Headlines Today visit"
+    },
+    {
+      "title": "UPA: Sonia targets Modi, says BJP sowing 'seeds of poison'",
+      "url": "https://timesofindia.indiatimes.com/india/sonia-targets-modi-says-bjp-sowing-seeds-of-poison/articleshow/29729799.cms",
+      "snippet": "In a scathing attack on BJP and its prime ministerial candidate Narendra Modi, Congress president Sonia Gandhi on Saturday accused them of indulging in divisive"
+    },
+    {
+      "title": "BJP sowing seeds of poison in its hunger for power: Sonia Gandhi",
+      "url": "https://indianexpress.com/article/political-pulse/bjp-sowing-seeds-of-poison-in-its-hunger-for-power-sonia-gandhi/lite",
+      "snippet": "Attacking BJP and its PM candidate Narendra Modi, Congress President Sonia Gandhi on Saturday accused them of indulging in divisive politics"
+    },
+    {
+      "title": "BJP sowing seeds of poison in its hunger for power: Sonia Gandhi",
+      "url": "https://www.youtube.com/watch?v=8XWj90P6LhY",
+      "snippet": "Attacking BJP and its PM candidate Narendra Modi, Congress President Sonia Gandhi today accused them of indulging in divisive politics by"
+    }
+  ]
+}

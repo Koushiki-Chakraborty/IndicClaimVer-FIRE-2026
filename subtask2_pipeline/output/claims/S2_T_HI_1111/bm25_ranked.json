@@ -1,0 +1,105 @@
+{
+  "claim": {
+    "id": "S2/T/HI/1111",
+    "text": "राजस्थान की तीन सीटों पर मतगणना कल, अशोक गहलोत ने किया भाजपा की जीत का दावा",
+    "lang": "hindi"
+  },
+  "ranked_evidence": [
+    {
+      "title": "Counting of votes underway for Assembly elections held in 4 states",
+      "url": "https://www.odishanewstimes.com/2023/12/03/counting-of-votes-underway-for-assembly-elections-held-in-4-states-bjp-set-to-form-govt-in-mp-rajasthan-chhattisgarh-congress-poised-for-absolute-majority-in-telangana",
+      "snippet": "In Rajasthan, BJP has won the majority with 104 seats and still leading on 11 others. The Congress has taken 60 seats and is leading on 9. Bharat Adiwasi party",
+      "bm25_score_raw": 6.161083325003781,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Rajasthan election results 2018: Congress takes back the helm from ...",
+      "url": "https://www.livemint.com/Politics/Az0O1yTfwWUskWxNk9ADGO/Rajasthan-election-results-updates-Congress-BJP.html?facet=amp",
+      "snippet": "Rajasthan election result updates: Congress wins 99 seats, BJP 73 and BSP 6 seats out of the 199 seats that went to polls.",
+      "bm25_score_raw": 2.2497844223621097,
+      "bm25_score_norm": 0.2967163881107409,
+      "bm25_rank": 2
+    },
+    {
+      "title": "Rajasthan Election Results 2023 | BJP wins 115 seats, Congress 69",
+      "url": "https://www.thehindu.com/elections/rajasthan-assembly/rajasthan-election-results-december-3-2023-bjp-congress-live-updates/article67597833.ece/amp",
+      "snippet": "The BJP won 115 of the 199 seats contested while the Congress was at a distant second with 69 seats (68 wins and 1 lead).",
+      "bm25_score_raw": 2.148239660168926,
+      "bm25_score_norm": 0.27845780729109937,
+      "bm25_rank": 3
+    },
+    {
+      "title": "Rajasthan election result: Congress, BJP pin high hopes as EVMs ...",
+      "url": "https://www.financialexpress.com/india-news/rajasthan-election-result-congress-bjp-pin-high-hopes-as-evms-decide-fate-of-2000-candidates-tomorrow/1409013/lite",
+      "snippet": "Rajasthan election result: Keeping in the mind the 25 Lok Sabha seats that the state offers, BJP and Congress had banked on star campaigners",
+      "bm25_score_raw": 2.0987000800325526,
+      "bm25_score_norm": 0.26955018460180424,
+      "bm25_rank": 4
+    },
+    {
+      "title": "पोर्टल, राजस्थान सरकार",
+      "url": "https://igrs.rajasthan.gov.in/home/press-release/238079",
+      "snippet": "The government of Rajasthan is committed to public welfare as well being of its public is the priority of ... Rajasthan “जनकल्याण ही प्राथमिकता जनकल्याण ही प्रतिबद्धता”",
+      "bm25_score_raw": 1.6478414513698385,
+      "bm25_score_norm": 0.1884821065259516,
+      "bm25_rank": 5
+    },
+    {
+      "title": "BJP retains Rajasthan and Madhya Pradesh, clinches Chattisgarh",
+      "url": "https://www.facebook.com/dibrugarh24x7/posts/elections-bjp-retains-rajasthan-and-madhya-pradesh-clinches-chattisgarh-congress/857374123061176",
+      "snippet": "Elections | BJP retains Rajasthan and Madhya Pradesh, clinches Chattisgarh; Congress claims victory in Telangana in State Legislative",
+      "bm25_score_raw": 1.3876042516751195,
+      "bm25_score_norm": 0.14168932430579523,
+      "bm25_rank": 6
+    },
+    {
+      "title": "Rajasthan News: Rajasthan (राजस्थान) Samachar, Latest Rajasthan Breaking News Khabar in Hindi, राजस्थान न्यूज़ - Aaj Tak",
+      "url": "https://www.aajtak.in/rajasthan",
+      "snippet": "* इंडिया टुडे हिंदी. ## राजस्थान में फिर मेहरबान होगा मानसून! 24 जिलों में 3 दिन भारी बारिश का 'येलो अलर्ट'. बंगाल की खाड़ी से आ रही नम हवाओं के प्रभाव से राज्य के पूर्वी और उत्तर-पूर्वी हिस्सों में बारिश की गतिविधियों में तेजी आने की संभावना है. मौसम केंद्र जयपुर ने प्रदेश के 24 जिलों में 3 दिनों के लिए येलो अलर्ट जारी करते हुए मेघगर्जन, तेज हवाओं और वज्रपात की चेतावनी दी है. ## फूड पॉइज़निंग का मामला, लंगर खाने के बाद एडमिट हुए लोग. राजस्थान के झालावाड़ में लंगर का भोजन खाने के बाद 500 से ज़्यादा लोगों की तबीयत बिगड़ गई. प्रशासन ने भोजन के नमूने जांच के लिए भेजे हैं और मामले की जांच जारी है. ## लंगर खाते ही 500 से ज्यादा लोगों को उल्टी-दस्त, अस्पताल में बेड पड़े कम. झालावाड़ जिले के भवानीमंडी में ईदगाह परिसर में आयोजित लंगर खाने के बाद 500 से ज्यादा लोगों की तबीयत बिगड़ गई.",
+      "bm25_score_raw": 1.274201278833094,
+      "bm25_score_norm": 0.12129853998464467,
+      "bm25_rank": 7
+    },
+    {
+      "title": "राजस्थान : सामान्य जानकारी",
+      "url": "https://www.drishtiias.com/hindi/state-pcs-pages/rajastha-gk-state-pcs",
+      "snippet": "Aug 1, 2023 — राजस्थान जनगणना-2011 · जनसंख्या -6.85 करोड़ (देश में 8वाँ) · पुरुष जनसंख्या -3.55 करोड़ (51.86%) · महिला जनसंख्या -3.29 करोड़ (48.14%) · राजस्थान की दशकीय वृद्धि दर -21.3% · ग्रामीण ...Read more",
+      "bm25_score_raw": 1.160084026392329,
+      "bm25_score_norm": 0.10077932233517929,
+      "bm25_rank": 8
+    },
+    {
+      "title": "राजस्थान",
+      "url": "https://hi.wikipedia.org/wiki/%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BE%E0%A4%A8",
+      "snippet": "विकिपीडिया.",
+      "bm25_score_raw": 1.1261740935034605,
+      "bm25_score_norm": 0.09468203837027984,
+      "bm25_rank": 9
+    },
+    {
+      "title": "Rajasthan Assembly Elections 2023 Live Updates - The Times of India",
+      "url": "https://timesofindia.indiatimes.com/india/rajasthan-assembly-election-2023-live-updates-voting-today-ashok-gehlot-sachin-pilot-bjp-congress/amp_liveblog/105485383.cms",
+      "snippet": "Rajasthan Elections 2023 | Rajasthan Assembly Election News Live: After weeks of high-voltage campaigning, it's now over to the voters in",
+      "bm25_score_raw": 0.9115895376122437,
+      "bm25_score_norm": 0.05609797581732559,
+      "bm25_rank": 10
+    },
+    {
+      "title": "State Portal | Govt of Rajasthan",
+      "url": "https://rajasthan.gov.in",
+      "snippet": "[मुख्य विषयवस्तु में जाएं](https://rajasthan.gov.in/#SkipContent)[एसएसओ साइन इन करें](https://sso.rajasthan.gov.in/signin)[सेवाओं का लाभ उठाएं](https://emitra.rajasthan.gov.in/). [English](javascript:void(0) \" Language\")[हिन्दी](javascript:void(0) \"Hindi Language\"). [A+](javascript:void(0) \"Font Increase\")[A-](javascript:void(0) \"Font Reduce\")[A](javascript:void(0) \"Normal Font Size Button\"). [](javascript:void(0) \"White background\")[](javascript:void(0) \"Black background\")[](javascript:void(0) \"Blue background\"). [![Image 1: Gov. of rajasthan logo](https://rajasthan.gov.in/assets/images/raj-logo.png)](https://rajasthan.gov.in/). *   [होम](https://rajasthan.gov.in/). लोड हो रहा है... ### ![Image 2](https://rajasthan.gov.in/assets/images/flower_icon.png) राज्य स्तरीय तस्वीरें. लोड हो रहा है... [सभी देखें](https://rajasthan.gov.in/pages/sm/press-release/gallery/0/0/36/57). **वेबसाइट दर्शक :**22000900. [प्रतिक्रिया](https://rajasthan.gov.in/pages/feedback-form). नोडल अधिकारी. सूचना प्रौद्योगिकी एवं संचार विभाग. ###### oic[dot]website[at]rajasthan[dot]gov[dot]in. *   [](https://www.facebook.com/RajCMO/ \" Govt of rajasthan Facebook\"). *   [![Image 3: Govt of rajasthan Twitter ](https://rajasthan.gov.in/assets/images/twitter.png)](https://twitter.com/RajCMO). *   [नियम व शर्तें](https://rajasthan.gov.in/jankalyan-category-and-entry-type/0/51/88). *   [साइट मैप](https://rajasthan.gov.in/pages/sitemap). *   [स्क्रीन रीडर एक्सेस](https://rajasthan.gov.in/jankalyan-category-and-entry-type/0/50/92). *   [अभिगम्यताविवरण](https://rajasthan.gov.in/jankalyan-category-and-entry-type/0/50/89). *   [वेबसाइट नीति](https://rajasthan.gov.in/pages/website-policies). The Website is designed and developed through WebMyWay Tool (an emerging tool for website generation for GoR) by : RajCOMP Info Services Limited, Jaipur [![Image 4: Gov. of rajasthan](https://rajasthan.gov.in/assets/images/app-fix-icon.png) मोबाइल ऐप](https://rajasthan.gov.in/pages/grid-data/0/17). ![Image 5](blob:http://localhost/2ae2cc6f0544e8fcceb52fb6a599a7ea). [](https://rajasthan.gov.in/)[](https://rajasthan.gov.in/).",
+      "bm25_score_raw": 0.6948048616280794,
+      "bm25_score_norm": 0.017118313632619037,
+      "bm25_rank": 11
+    },
+    {
+      "title": "Rajasthan",
+      "url": "https://en.wikipedia.org/wiki/Rajasthan",
+      "snippet": "# Rajasthan. State in Northwest India, India. | The map of India showing Rajasthan Location of Rajasthan in India |. 'Land of Kings') is a state in northwestern India. It is the largest Indian state by area and the seventh largest by population. It is on India's northwestern side, where it comprises most of the wide and inhospitable Thar Desert (also known as the Great Indian Desert) and shares a border with the Pakistani provinces of Punjab to the northwest and Sindh to the west, along the Sutlej-Indus River valley. Its major features include the ruins of the Indus Valley civilisation at Kalibangan and Balathal, the Dilwara Temples, a Jain pilgrimage site at Rajasthan's only hill station, Mount Abu, in the ancient Aravalli mountain range and eastern Rajasthan, the Keoladeo National Park of Bharatpur, a World Heritage Site known for its bird life.",
+      "bm25_score_raw": 0.5996016744722245,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12
+    }
+  ]
+}

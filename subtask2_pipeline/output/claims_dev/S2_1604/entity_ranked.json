@@ -1,0 +1,99 @@
+{
+  "claim": {
+    "id": "S2/1604",
+    "text": "Man Deboards Train On Fire, Gets Hit On Adjacent Track: Bombay High Court Grants ₹8 Lakh Compensation To Kin",
+    "lang": "dev"
+  },
+  "entity_ranked_evidence": [
+    {
+      "title": "Man Deboards Train On Fire, Gets Hit On Adjacent Track",
+      "url": "https://www.livelaw.in/high-court/bombay-high-court/bombay-high-court-railway-compensation-man-deboard-train-fire-hit-by-another-train-231538",
+      "snippet": "Jun 29, 2023 — Man Deboards Train On Fire, Gets Hit On Adjacent Track: Bombay High Court Grants ₹8 Lakh Compensation To Kin · This is a premium contentRead more",
+      "bm25_score_raw": 7.070556535496662,
+      "bm25_score_norm": 0.9415111529072258,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.9591423273086548,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 1,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 1
+    },
+    {
+      "title": "Man Deboards Train On Fire, Gets Hit On Adjacent Track",
+      "url": "https://www.linkedin.com/posts/livelaw_man-deboards-train-on-fire-gets-hit-on-adjacent-activity-7080413887623294977-qAgZ",
+      "snippet": "Jun 29, 2023 — Man Deboards Train On Fire, Gets Hit On Adjacent Track: Bombay High Court Grants ₹8 Lakh Compensation To Kin. Man Deboards Train On Fire, ...Read more",
+      "bm25_score_raw": 7.427685266787991,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9464225769042969,
+      "embedding_score_norm": 0.8560130841991697,
+      "embedding_rank": 2,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 1,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 2
+    },
+    {
+      "title": "Bombay High Court Grants ₹8 Lakh Compensation in ...",
+      "url": "https://dailypioneer.com/news/bombay-high-court-awards-8-lakh-compensation-17-years-after-teen-dies-in-mumbai-train-fall-case",
+      "snippet": "May 6, 2026 — Bombay High Court awards ₹8 lakh compensation to parents of a teen who died in a Mumbai train fall in 2009, ruling it an accidental fall and",
+      "bm25_score_raw": 2.4654307505520836,
+      "bm25_score_norm": 0.18730552821641067,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.9018964767456055,
+      "embedding_score_norm": 0.35197993648171877,
+      "embedding_rank": 3,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 1,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 3
+    },
+    {
+      "title": "Court grants Rs 4 lakh compensation to parents of Mumbai ...",
+      "url": "https://www.indiatoday.in/india/law-news/story/bombay-high-court-grants-rs-4-lakh-compensation-to-parents-of-mumbai-train-accident-victim-2661921-2025-01-09",
+      "snippet": "Jan 9, 2025 — The Bombay High Court has overturned a decision by the Railway Claims Tribunal and awarded compensation of Rs 4 lakh to the parents of a passenger who died ...Read more",
+      "bm25_score_raw": 1.7842267681787334,
+      "bm25_score_norm": 0.07574117600101364,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8708027005195618,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 1,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 4
+    },
+    {
+      "title": "No Ticket Found After Fatal Fall from Bombay Local Train ...",
+      "url": "https://www.instagram.com/p/DZoqeCjE-No",
+      "snippet": "Body Found Away from Track Not Ground to Reject Claim; Jharkhand High Court Grants ₹8 Lakh Compensation to Family of Train Accident VictimRead more",
+      "bm25_score_raw": 2.167918074322627,
+      "bm25_score_norm": 0.13858031541925922,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8916756510734558,
+      "embedding_score_norm": 0.23628071922612143,
+      "embedding_rank": 4,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 5
+    },
+    {
+      "title": "Strict Liability Of Railway For Untoward Incident",
+      "url": "https://www.verdictum.in/court-updates/high-courts/man-hit-by-train-on-adjacent-track-after-fire-8-lakh-compensation-to-parents-1482836",
+      "snippet": "Jun 29, 2023 — Strict Liability Of Railway For Untoward Incident: Bombay HC Grants ₹8 Lakh Compensation To Kin Of Man Who Died In Train Accident. By Swasti ...Read more",
+      "bm25_score_raw": 1.3217565463114778,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8761632442474365,
+      "embedding_score_norm": 0.0606810773682893,
+      "embedding_rank": 5,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 6
+    }
+  ]
+}

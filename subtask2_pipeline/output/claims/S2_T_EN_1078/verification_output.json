@@ -1,0 +1,6 @@
+{
+  "ID": "S2/T/EN/1078",
+  "Evidence": "A UK study found that the AstraZeneca Covid booster shot is effective against severe disease. It reported a peak protection against hospitalisation of 82.3% after the AstraZeneca booster, compared to 90.9% for the Pfizer booster. The study indicated that the AstraZeneca booster provides significant protection against symptomatic disease and hospitalisation, especially in settings where booster doses have not been widely administered (Source 1). The effectiveness against symptomatic infection was 61.2% one week after the booster, and it supports the use of the AstraZeneca booster for severe disease protection (Source 1).",
+  "Prediction": "REFUTES",
+  "Justification": "The retrieved evidence directly contradicts the claim by stating that the AstraZeneca Covid booster shot is effective against severe disease, with a peak protection against hospitalisation of 82.3%. The study supports the AstraZeneca booster for protection against severe disease, which refutes the claim that it offers limited protection. This conclusion is drawn from the details provided in Source 1."
+}

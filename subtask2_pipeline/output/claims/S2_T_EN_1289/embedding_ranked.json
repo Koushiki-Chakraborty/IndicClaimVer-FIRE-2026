@@ -1,0 +1,76 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1289",
+    "text": "3 Covid vaccine doses do not protect kids under 5: Pfizer",
+    "lang": "english"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "COVID-19 Vaccines for Children: What Parents Need to ...",
+      "url": "https://www.nationwidechildrens.org/family-resources-education/health-wellness-and-safety-resources/covid-19/vaccine-qa-for-parents",
+      "snippet": "Moderna gives two doses four weeks apart. This is for children ages 6 months and older. Pfizer gives three doses for children ages 6 months to 4 years.",
+      "bm25_score_raw": 5.124729684369368,
+      "bm25_score_norm": 0.6596985206254727,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.863294780254364,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "COVID-19 vaccines for kids: What you need to know - Mayo Clinic",
+      "url": "https://www.mayoclinic.org/diseases-conditions/coronavirus/in-depth/covid-19-vaccines-for-kids/art-20513332",
+      "snippet": "Coronavirus disease 2019 (COVID-19) vaccines are available to children in the U.S. Here's what to know about the safety and effectiveness of the vaccine, the possible side effects, and the benefits of getting vaccinated. *   **Spikevax.** This vaccine is approved for children ages 6 months and older who have a risk of serious COVID-19 illness. *   **Mnexspike.** This vaccine is approved for children ages 12 years and older who have a risk of serious COVID-19 illness. *   **Comirnaty.** This vaccine is approved for children age 5 years and older who have a risk of serious COVID-19 illness. *   **Nuvaxovid.** This vaccine is approved for children age 12 years and older who have a risk of serious COVID-19 illness.",
+      "bm25_score_raw": 0.8249014655108682,
+      "bm25_score_norm": 0.018251442076699948,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8630461692810059,
+      "embedding_score_norm": 0.9893523872249069,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Pfizer-BioNTech COVID-19 Vaccine Demonstrates Strong Immune Response, High Efficacy and Favorable Safety in Children 6 Months to Under 5 Years of Age Following Third Dose | Pfizer",
+      "url": "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-biontech-covid-19-vaccine-demonstrates-strong-immune",
+      "snippet": "# Pfizer-BioNTech COVID-19 Vaccine Demonstrates Strong Immune Response, High Efficacy and Favorable Safety in Children 6 Months to Under 5 Years of Age Following Third Dose. * *The third 3-µg dose was well tolerated among 1,678 children under 5 years of age with a safety profile similar to placebo*. * *The 3-µg dose level, which is one-tenth the dose for adults, was selected for children under 5 years of age based on safety, tolerability and immunogenicity*. (NYSE: PFE) and BioNTech SE (Nasdaq: BNTX) today announced topline safety, immunogenicity and vaccine efficacy data from a Phase 2/3 trial evaluating a third 3-µg dose of the Pfizer-BioNTech COVID-19 Vaccine in children 6 months to under 5 years of age. * a first booster dose to individuals 12 years of age and older who have completed a primary series with Pfizer-BioNTech COVID-19 Vaccine or COMIRNATY® (COVID-19 Vaccine, mRNA). * a first booster dose to individuals 12 years of age and older who have completed a primary series with Pfizer-BioNTech COVID-19 Vaccine or COMIRNATY**®**.",
+      "bm25_score_raw": 1.1421846100985176,
+      "bm25_score_norm": 0.0655836460182205,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8524281978607178,
+      "embedding_score_norm": 0.534601550553824,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Answering Your Questions About COVID Vaccines for ...",
+      "url": "https://vaccinateyourfamily.org/answering-your-questions-about-covid-vaccines-for-babies-and-kids-under-5",
+      "snippet": "The 3-dose Pfizer vaccine was estimated to be around 80% effective at preventing infection, and is likely even more effective at preventing",
+      "bm25_score_raw": 3.045244982129705,
+      "bm25_score_norm": 0.3494816191017628,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8511958718299866,
+      "embedding_score_norm": 0.4818229856712897,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Study: Original Pfizer COVID vaccine 33% effective against ...",
+      "url": "https://www.cidrap.umn.edu/covid-19/study-original-pfizer-covid-vaccine-33-effective-against-emergency-urgent-care-young-kids",
+      "snippet": "Study: Original Pfizer COVID vaccine 33% effective against emergency, urgent care in young kids · 6% of infected patients were vaccinated · Newer",
+      "bm25_score_raw": 7.405881088541875,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8475440740585327,
+      "embedding_score_norm": 0.32542229233836484,
+      "embedding_rank": 5
+    },
+    {
+      "title": "COVID-19 vaccine and kids: What parents should know",
+      "url": "https://www.uchicagomedicine.org/forefront/coronavirus-disease-covid-19/2025/october/covid-19-vaccine-kids",
+      "snippet": "COVID-19 vaccination is recommended for: All children ages 6 to 23 months Children ages 2 to 17 who who are postpartum (after pregnancy), or",
+      "bm25_score_raw": 0.7025561180913948,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8399457931518555,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6
+    }
+  ]
+}

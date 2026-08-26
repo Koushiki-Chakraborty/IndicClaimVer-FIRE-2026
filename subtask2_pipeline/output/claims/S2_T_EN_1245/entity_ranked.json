@@ -1,0 +1,99 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1245",
+    "text": "Congress enjoys a strong political presence in Bengal : Pradipta Tapadar",
+    "lang": "english"
+  },
+  "entity_ranked_evidence": [
+    {
+      "title": "Congress fights for political existence in Bengal : Pradipta ...",
+      "url": "https://www.indiatvnews.com/politics/national/congress-fights-for-political-existence-in-bengal-pradipta-tap-16134.html",
+      "snippet": "Kolkata: Weakened and bruised by the migration of its leaders and workers to Mamata Banerjee's TMC, the Congress is fighting a battle for",
+      "bm25_score_raw": 2.761252568496342,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8587974309921265,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1,
+      "entity_overlap_raw": 2,
+      "entity_overlap_qid": 1,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 1
+    },
+    {
+      "title": "Press Trust of India (@PTI_News) on X",
+      "url": "https://x.com/PTI_News/status/2040030391286030812",
+      "snippet": "... Bengal's favourite food has become sharpest political hook of polls. By Pradipta Tapadar. Kolkata, Apr 3 (PTI) In West Bengal's election",
+      "bm25_score_raw": 1.7359752327659272,
+      "bm25_score_norm": 0.628691215201391,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8365824222564697,
+      "embedding_score_norm": 0.6497446663747136,
+      "embedding_rank": 2,
+      "entity_overlap_raw": 2,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 2
+    },
+    {
+      "title": "Pradipta Tapadar (@ptapadar) / Posts / X",
+      "url": "https://x.com/ptapadar",
+      "snippet": "Pradipta Tapadar (@ptapadar) - Posts - Chief Reporter @PTI_News Kolkata bureau, Ex @ians_india . Covers Politics, Investigating agencie.",
+      "bm25_score_raw": 2.5810348743765115,
+      "bm25_score_norm": 0.9347333539220684,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8284530639648438,
+      "embedding_score_norm": 0.5215722612015059,
+      "embedding_rank": 3,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 3
+    },
+    {
+      "title": "Pradipta Tapadar - Deputy Chief of Bureau at Press Trust ...",
+      "url": "https://in.linkedin.com/in/pradipta-tapadar-377b7119",
+      "snippet": "Seasoned journalist with over 15 years in a multimedia news agency setting, specializing in political, humanitarian, and socio-economic crises.",
+      "bm25_score_raw": 1.7099356042744387,
+      "bm25_score_norm": 0.6192608469733702,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8189378976821899,
+      "embedding_score_norm": 0.3715503647220463,
+      "embedding_rank": 4,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 4
+    },
+    {
+      "title": "Ahead of meet with Rahul, West Bengal Congress torn ...",
+      "url": "https://timesofindia.indiatimes.com/india/ahead-of-meet-with-rahul-west-bengal-congress-torn-between-opposing-views-pradipta-tapadar/articleshow/64865521.cms",
+      "snippet": "India News: KOLKATA: Ahead of its crucial meeting with party president Rahul Gandhi Friday, the Congress in West Bengal seems to be torn",
+      "bm25_score_raw": 1.6270911139159006,
+      "bm25_score_norm": 0.5892583432894528,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8117954134941101,
+      "embedding_score_norm": 0.2589376166480907,
+      "embedding_rank": 5,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 1,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 5
+    },
+    {
+      "title": "At 24, Trinamool Congress eyes national stage",
+      "url": "https://theprint.in/india/at-24-trinamool-congress-eyes-national-stage/792853",
+      "snippet": "Twenty-four years after Mamata Banerjee formed the Trinamool Congress on January 1, 1998 to unseat the Left Front from power in West Bengal.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.7953722476959229,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 6
+    }
+  ]
+}

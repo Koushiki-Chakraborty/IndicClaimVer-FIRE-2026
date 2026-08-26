@@ -1,0 +1,9 @@
+
+=== Gate 2: BM25 Baseline (dev set, n=1134) ===
+Overall:      Success@3 = 0.768   nDCG@3 = 0.563
+Hindi        Success@3 = 0.889   nDCG@3 = 0.607   (n=288)
+Bengali      Success@3 = 0.670   nDCG@3 = 0.488   (n=179)
+English      Success@3 = 0.796   nDCG@3 = 0.629   (n=398)
+Code-mixed   Success@3 = 0.662   nDCG@3 = 0.470   (n=269)
+
+Claims misrouted by language detection: 0 / 1134

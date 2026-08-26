@@ -1,0 +1,99 @@
+{
+  "claim": {
+    "id": "S2/1043",
+    "text": "Covid across world: Germany, New Zealand to ease curbs; disaster-hit Tonga goes into lockdown",
+    "lang": "dev"
+  },
+  "entity_ranked_evidence": [
+    {
+      "title": "Covid across world: Germany, New Zealand to ease curbs",
+      "url": "https://www.indiatoday.in/coronavirus-outbreak/story/covid-across-world-germany-new-zealand-to-ease-curbs-tonga-lockdown-france-us-uk-1908042-2022-02-03",
+      "snippet": "Feb 3, 2022 — Covid across world: Germany, New Zealand to ease curbs; disaster-hit Tonga. Many countries are easing their Covid-19 restrictions amid hopes ...Read more",
+      "bm25_score_raw": 9.283758207478925,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.936374306678772,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1,
+      "entity_overlap_raw": 3,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 1
+    },
+    {
+      "title": "COVID digest: New Zealand PM Jacinda Ardern tests positive",
+      "url": "https://www.dw.com/en/covid-digest-new-zealand-prime-minister-jacinda-ardern-tests-positive/a-61796042",
+      "snippet": "May 14, 2022 — Germany's health minister has warned the delta variant of the virus could return. New Zealand will fully reopen to the world in August, ending",
+      "bm25_score_raw": 1.5976235179523317,
+      "bm25_score_norm": 0.17208801460008924,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8636227250099182,
+      "embedding_score_norm": 0.288257288171569,
+      "embedding_rank": 2,
+      "entity_overlap_raw": 2,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.6666666666666666,
+      "entity_rank": 2
+    },
+    {
+      "title": "Some Countries Have Brought New Cases Down To ...",
+      "url": "https://www.npr.org/sections/goatsandsoda/2020/05/23/861577367/messaging-from-leaders-who-have-tamed-their-countrys-coronavirus-outbreaks",
+      "snippet": "May 27, 2020 — The greatest success story is New Zealand, which has stopped local transmission and has a plan to completely eliminate the virus from its territory.Read more",
+      "bm25_score_raw": 0.9129029012672578,
+      "bm25_score_norm": 0.0983333345036744,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8388496041297913,
+      "embedding_score_norm": 0.045897083331875525,
+      "embedding_rank": 4,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.3333333333333333,
+      "entity_rank": 3
+    },
+    {
+      "title": "Covid fears hit Tonga relief efforts",
+      "url": "https://www.thestandard.com.hk/world/article/38118/Covid-fears-hit-Tonga-relief-efforts",
+      "snippet": "Jan 18, 2022 — It is concerned about the risk of aid deliveries spreading Covid-19 to the island, which is Covid-free. \"We don't want to bring in another wave ...Read more",
+      "bm25_score_raw": 6.893840819388158,
+      "bm25_score_norm": 0.7425700524852674,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8358390927314758,
+      "embedding_score_norm": 0.016444671473938452,
+      "embedding_rank": 5,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.3333333333333333,
+      "entity_rank": 4
+    },
+    {
+      "title": "New Zealand's Covid-19 response the best in the world, say global business leaders | New Zealand | The Guardian",
+      "url": "https://www.theguardian.com/world/2020/oct/08/new-zealands-covid-19-response-the-best-in-the-world-say-global-business-leaders",
+      "snippet": "New Zealand performed best in terms of political stability during the Covid crisis, according to the Bloomberg survey. # New Zealand's Covid-19 response the best in the world, say global business leaders. New Zealand’s response to the coronavirus pandemic has been the best in the world and is the country that gives business leaders the most confidence for future investment, according to a Bloomberg Media survey. New Zealand ranked strongly for political stability, the economic recovery, virus control and social resilience in Bloomberg’s market crisis management index, published on Thursday. In a boost for Jacinda Ardern’s chances of winning a second term in the election on 17 October, New Zealand scored the highest ranking in each of the categories. More than half of the business leaders surveyed said they were still highly concerned by the Covid-19 pandemic, but more so in markets such as Japan, Malaysia and Thailand, and markedly more in the younger segment of executives.",
+      "bm25_score_raw": 1.2189038537048524,
+      "bm25_score_norm": 0.13129422659057544,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.834158182144165,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.3333333333333333,
+      "entity_rank": 5
+    },
+    {
+      "title": "German - COVID-19 recovery and increasing natural ...",
+      "url": "https://www.facebook.com/GermanEmbassyCanberra/photos/covid-19-recovery-and-increasing-natural-disasters-form-challenging-environment-/525045606329761",
+      "snippet": "German - COVID-19 recovery and increasing natural disasters form challenging environment as discussed with #Tonga #ForeignMinister ...Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8391905426979065,
+      "embedding_score_norm": 0.049232550897952185,
+      "embedding_rank": 3,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 6
+    }
+  ]
+}

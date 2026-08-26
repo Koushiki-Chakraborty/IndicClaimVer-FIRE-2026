@@ -1,0 +1,57 @@
+{
+  "claim": {
+    "id": "S2/1515",
+    "text": "Delhi polls: AAP to field Kumar Vishwas against Harsh Vardhan",
+    "lang": "dev"
+  },
+  "ranked_evidence": [
+    {
+      "title": "AAP may field Kumar Vishwas against Harsh Vardhan from ...",
+      "url": "https://www.youtube.com/watch?v=N_c32ZcjMks",
+      "snippet": "AAP may field Kumar Vishwas against Harsh Vardhan from Krishna Nagar. @ABPNews11 likes1.2K views12 years ago",
+      "bm25_score_raw": 17.858640477359486,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Delhi Election Results: AAP Leader Kumar Vishwas Could ...",
+      "url": "https://www.ndtv.com/delhi-news/delhi-election-results-aap-leader-kumar-vishwas-could-not-have-asked-for-a-better-birthday-gift-738611",
+      "snippet": "Aam Aadmi Party leader Kumar Vishwas could not have asked for a better birthday gift, with the party's landslide victory in the Delhi Assembly polls on Tuesday.",
+      "bm25_score_raw": 4.764200177640243,
+      "bm25_score_norm": 0.18765053739239168,
+      "bm25_rank": 2
+    },
+    {
+      "title": "Delhi Election Results: Ex-AAP Leader Kumar Vishwas ...",
+      "url": "https://www.youtube.com/watch?v=QLPIRgYeDUo",
+      "snippet": "Former AAP leader & poet Kumar Vishwas blasted Arvind Kejriwal while reacting to Delhi Election Results. Kumar said Arvind Kejriwal",
+      "bm25_score_raw": 2.6257565655664137,
+      "bm25_score_norm": 0.05498633187288627,
+      "bm25_rank": 3
+    },
+    {
+      "title": "Kumar Vishwas Reacts to Delhi Election Results: 'First Defeat ...",
+      "url": "https://www.youtube.com/watch?v=OuX4PLJrzOg",
+      "snippet": "Former AAP leader and poet Kumar Vishwas reacts to the results of the Delhi Assembly Elections 2025. He congratulates the BJP for their",
+      "bm25_score_raw": 2.3844244594606128,
+      "bm25_score_norm": 0.04001463379204404,
+      "bm25_rank": 4
+    },
+    {
+      "title": "Kumar Vishwas Demands Rajya Sabha Seat From Delhi ...",
+      "url": "https://www.india.com/news/india/kumar-vishwas-demands-rajya-sabha-seat-from-delhi-says-aap-may-remove-him-arvind-kejriwal-2586046",
+      "snippet": "New Delhi, Oct 31: Aam Aadmi Party (AAP) leader Kumar Vishwas said he wants a Rajya Sabha seat from Delhi to 'be an articulate voice against",
+      "bm25_score_raw": 1.8971483117428434,
+      "bm25_score_norm": 0.009785123581628813,
+      "bm25_rank": 5
+    },
+    {
+      "title": "'Justice has been delivered,' says former AAP leader Kumar ...",
+      "url": "https://www.youtube.com/watch?v=-AUv3twBGaA",
+      "snippet": "On #DelhiElectionResults, former AAP leader & poet Kumar Vishwas says, \"I congratulate the BJP for the victory, and I hope that they'll work",
+      "bm25_score_raw": 1.7394197448355433,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6
+    }
+  ]
+}

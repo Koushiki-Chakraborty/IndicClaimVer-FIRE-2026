@@ -1,0 +1,76 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1006",
+    "text": "Kerala High Court Denies Anticipatory Bail To Shajan Skaria In Priest Humiliation Case, Citing Religious Insult In Video",
+    "lang": "english"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Video Reflects Secular Views, FIR Appears Motivated: Kerala High Court Grants Anticipatory Bail To Shajan Skaria In Priest Humiliation Case",
+      "url": "https://www.livelaw.in/high-court/kerala-high-court/kerala-high-court-shajan-skaria-secular-motivated-fir-anticipatory-bail-marunadan-malayali-priest-case-section-153a-section-295a-ipc-234924",
+      "snippet": "# Video Reflects Secular Views, FIR Appears Motivated: Kerala High Court Grants Anticipatory Bail To Shajan Skaria In Priest Humiliation Case. ###### Navya Benny. 10 Aug 2023 9:51 PM IST. The Kerala High Court on Thursday allowed the anticipatory bail plea moved by Shajan Skaria in the case alleging that he interacted with a priest through his YouTube channel 'Marunadan Malayali' with the intention to insult a religion.The Single Bench of Justice K. Babu found \"force\" in Skaria's contention that he was implicated in criminal cases at the instigation of some influential... # This is a premium content Available exclusively to Our subscribers. ### INR 1099+GST. Your support helps us to bring you more content at. ##### Tags.",
+      "bm25_score_raw": 8.98612009189902,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9359359741210938,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Shajan Skaria vs. The State of Kerala and Ors. (23.08.2024",
+      "url": "https://clpr.org.in/wp-content/uploads/2024/12/33.-Shajan_Skaria_vs_The_State_of_Kerala_and_Ors_23082SC20242608241749045COM904620.pdf",
+      "snippet": "and Radha Shyam Jena, AOR Case Category: CRIMINAL MATTERS - CRIMINAL MATTERS RELATING TO BAIL/INTERIM BAIL/ANTICIPATORY BAIL AND AGAINST SUSPENSION OF SENTENCE Case Note: Criminal -Anticipatory bail -Bar thereto - Sections 3(1)(r),3(1)(u) and 18 of Scheduled Castes and Scheduled Tribes Act, 1989 and Sections 41A, 60 and 438 of Code of Criminal Procedure, 1973 - Appellant published video on online video sharing platform, levelling certain allegations against complainant -Complainant aggrieved by publication of said video, filed written complaint alleged that video was published by Appellant in order to publicise, abuse and insult complainant, who was member of Scheduled Caste - First Information Report was lodged by complainant (Respondent No. 2) for offence punishable under Sections 3(1)(r) and 3(1)(u) of Act - Apprehending his arrest, Appellant went before Court of Special Judge for Scheduled Castes and Scheduled Tribes for grant of anticipatory bail under Section 438 of Code which was rejected holding that bar of Section 18 of Act prohibit court from exercising powers under Section 438 of Code - Appellant challenged order passed by Special Judge before High Court wherein High Court refused to grant anticipatory bail to Appellant - Hence, present appeal - Whether Section 18 of Act, 1989 imposes absolute bar on grant of anticipatory bail in cases registered under said Act and averments in FIR/complaint disclose commission of any offence under Section 3(1)(r) and 3(1)(u) of Act. Facts: The Appellant published a video on an online video sharing platform, levelling certain allegations against the complainant.",
+      "bm25_score_raw": 3.0516721326484686,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8836431503295898,
+      "embedding_score_norm": 0.23915837454102065,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Apex Court Grants Anticipatory Bail To Shajan Skaria, ...",
+      "url": "https://lawchakra.in/supreme-court/apex-court-grants-anticipatory-bail-to-shajan-skaria",
+      "snippet": "A bench composed of Justices JB Pardiwala and Manoj Misra set aside the Kerala High Court's June 2023 ruling, which had denied Skaria anticipatory bail.",
+      "bm25_score_raw": 5.090756631574209,
+      "bm25_score_norm": 0.3436013784141856,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8832077383995056,
+      "embedding_score_norm": 0.23282328883307807,
+      "embedding_rank": 3
+    },
+    {
+      "title": "SHAJAN SKARIA v. THE STATE OF KERALA",
+      "url": "https://www.casemine.com/judgement/in/66c882c39ded974bea0c320e",
+      "snippet": "Aug 23, 2024 — The appeal is ALLOWED; the Kerala High Court's refusal of anticipatory bail is set aside. The appellant shall be released on bail if arrested,",
+      "bm25_score_raw": 4.564860787158546,
+      "bm25_score_norm": 0.25498389486276235,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8801929950714111,
+      "embedding_score_norm": 0.18895986651657876,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Casteist remarks against MLA: Kerala journalist Shajan ...",
+      "url": "https://maktoobmedia.com/public/post?id=93973&slug=casteist-remarks-against-mla-kerala-journalist-shajan-skaria-known-for-inciting-religious-hatred-arrested-released-on-bail",
+      "snippet": "Oct 21, 2024 — Both a trial court and the Kerala High Court had earlier denied him anticipatory bail. In addition to his role at Marunadan Malayali, Skaria",
+      "bm25_score_raw": 4.537777332159865,
+      "bm25_score_norm": 0.2504201249578526,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8795809149742126,
+      "embedding_score_norm": 0.18005432303473587,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Shajan Skaria, a Kerala-based journalist and the editor of ...",
+      "url": "https://www.instagram.com/p/DBYXrskzNWt?hl=en",
+      "snippet": "Both a trial court and the Kerala High Court had earlier denied him anticipatory bail. In addition to his role at Marunadan Malayali, Skaria is",
+      "bm25_score_raw": 4.363855210201337,
+      "bm25_score_norm": 0.22111291337679562,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8672057390213013,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6
+    }
+  ]
+}

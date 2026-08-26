@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/BN/1118",
+    "text": "‘সুরক্ষা দিন, কুসংস্কার নয়’, মোদির মোমবাতি প্রজ্জ্বলনের আহ্বানের প্রতিবাদে শামিল INTUC",
+    "lang": "bengali"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "India needs protection, not superstition: Kolkata Cong ...",
+      "url": "https://www.aninews.in/news/national/general-news/india-needs-protection-not-superstition-kolkata-cong-leaders20200405195250",
+      "snippet": "Apr 5, 2020 — Holding candles and placards, the leaders said: \"Food distribution is equal to virus distribution. We need protection, not superstition.\"\"We ...Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.8749232292175293,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "India joins Modi's candlelight vigil with lamps, crackers—and a ...",
+      "url": "https://qz.com/india/1833107/photos-of-india-during-modis-coronavirus-candlelight-vigil",
+      "snippet": "India joins Modi's candlelight vigil with lamps, crackers—and a breached lockdown. Millions of Indians lit up their homes, streets, and even skies last night ( ...Read more",
+      "bm25_score_raw": 2.81768957928842,
+      "bm25_score_norm": 0.6333831597756299,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8546422719955444,
+      "embedding_score_norm": 0.8082342637439682,
+      "embedding_rank": 2
+    },
+    {
+      "title": "BJP takes out candle march to protest comments against PM",
+      "url": "https://timesofindia.indiatimes.com/city/patna/bjp-takes-out-candle-march-to-protest-comments-against-pm/articleshow/123619107.cms",
+      "snippet": "Sep 1, 2025 — Patna: The BJP took out a candle march in the city in protest against the indecent comments made against Prime Minister Narendra Modi and ...Read more",
+      "bm25_score_raw": 4.448633557429219,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8453899621963501,
+      "embedding_score_norm": 0.7207494383833556,
+      "embedding_rank": 3
+    },
+    {
+      "title": "people light candles, diyas to mark fight against COVID-19",
+      "url": "https://www.youtube.com/watch?v=M6lsBnP24C0",
+      "snippet": "Millions respond to PM Modi's appeal; people light candles, diyas to mark fight against COVID-19. @TheEconomicTimes105 likes7.7K views6 years ...Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.8400263786315918,
+      "embedding_score_norm": 0.6700343000391131,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Nation to join PM Modi's call to light up diyas, candles and ...",
+      "url": "https://www.facebook.com/airnewsalerts/posts/nation-to-join-pm-modis-call-to-light-up-diyas-candles-and-torches-at-9-pm-today/1685947818213275",
+      "snippet": "PM Modi had urged all countrymen to switch off their lights for 9 minutes at 9 pm on Sunday and asked them to light diyas, candles or use the ...Read more",
+      "bm25_score_raw": 0.5580913946394308,
+      "bm25_score_norm": 0.12545231865803333,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8342983722686768,
+      "embedding_score_norm": 0.615873377285777,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Congress Workers Hold Candle March Over Pahalgam ...",
+      "url": "https://www.youtube.com/watch?v=6asJJIywAOM",
+      "snippet": "Congress workers in Delhi have come together to hold a candle march in protest against the recent Pahalgam Terror Attack.",
+      "bm25_score_raw": 3.7169917652234266,
+      "bm25_score_norm": 0.8355356127312508,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8253049254417419,
+      "embedding_score_norm": 0.5308362198493864,
+      "embedding_rank": 6
+    },
+    {
+      "title": "Modi: INDIA bloc performing 'mujra' for its vote bank - The HinduBusinessLine",
+      "url": "https://www.thehindubusinessline.com/news/elections/modi-says-india-bloc-performing-mujra-for-its-vote-bank/article68214884.ece/amp",
+      "snippet": "Prime Minister Modi addresses back-to-back rallies in Bihar, accusing opposition of scaremongering and promising development.",
+      "bm25_score_raw": 0.6975193168816402,
+      "bm25_score_norm": 0.15679405999102414,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8248454928398132,
+      "embedding_score_norm": 0.5264920742449877,
+      "embedding_rank": 7
+    },
+    {
+      "title": "TMC MP Derek O'Brien writes to Prime Minister Narendra Modi \"requesting ...",
+      "url": "https://x.com/Indsamachar/status/2078852067347816873",
+      "snippet": "IndSamachar News (@Indsamachar). 33 views. TMC MP Derek O'Brien writes to Prime Minister Narendra Modi \"requesting to Convene All-Party",
+      "bm25_score_raw": 0.9315891794208401,
+      "bm25_score_norm": 0.20941018571086528,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8073729276657104,
+      "embedding_score_norm": 0.36128097063587516,
+      "embedding_rank": 8
+    },
+    {
+      "title": "Narendra Modi: স্মোক-বম্ব হামলা ইস্যুতে কী বললেন প্রধানমন্ত্রী ...",
+      "url": "https://www.youtube.com/watch?v=VyrMbIiox2w",
+      "snippet": "Narendra Modi: স্মোক-বম্ব হামলা ইস্যুতে কী বললেন প্রধানমন্ত্রী নরেন্দ্র মোদী? @abpanandatv30 likes5.8K views2 years ago more.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.7887195348739624,
+      "embedding_score_norm": 0.18490460125500044,
+      "embedding_rank": 9
+    },
+    {
+      "title": "আপনার সরকার রোজই জরুরি অবস্থা মনে করাচ্ছে! মোদীকে খোঁচা মহুয়ার",
+      "url": "https://bangla.aajtak.in/amp/kolkata/story/tmc-mp-mahua-moitra-slams-pm-narendra-modi-emergency-which-was-declared-indira-gandhi-284202-2021-06-26",
+      "snippet": "প্রধানমন্ত্রী নরেন্দ্র মোদী (PM Narendra Modi), কেন্দ্রীয় স্বরাষ্ট্রমন্ত্রী অমিত শাহ দেশে জরুরি অবস্থা জারি করা নিয়ে কংগ্রেসের সমালোচনা করেছিলেন। এদিন তৃণমূল সাংসদ মহুয়া মৈত্র (TMC MP Mahua",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.7837321758270264,
+      "embedding_score_norm": 0.13774683798275641,
+      "embedding_rank": 10
+    },
+    {
+      "title": "মব করে হত্যা করা হচ্ছে, এ বিষয়ে সংসদে কোনো আলোচনা নেই: অনিক রায় | 24 ...",
+      "url": "https://www.youtube.com/watch?v=0gHo-N7aRPI",
+      "snippet": "মব করে হত্যা করা হচ্ছে, এ বিষয়ে সংসদে কোনো আলোচনা নেই: অনিক রায় | 24 Ghonta | Mob | Jamuna TV. @JamunaTVbd2 likes355 views3 months ago",
+      "bm25_score_raw": 2.6929005714301617,
+      "bm25_score_norm": 0.6053320725715916,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.778527021408081,
+      "embedding_score_norm": 0.08852971974963113,
+      "embedding_rank": 11
+    },
+    {
+      "title": "ডিলিমিটেশন-এফসিআরএ নিয়ে লুকোচুরির অভিযোগ, জোড়া বিল রুখতে মোদিকে ...",
+      "url": "https://www.etvbharat.com/amp/bn/bharat/tmc-rajya-sabha-mp-derek-o-brien-writes-to-pm-narendra-modi-requests-to-convene-all-party-meeting-on-delimitation-and-draconian-fcra-bill-wbn26071904335",
+      "snippet": "ডিলিমিটেশন ও এফসিআরএ বিল পাস রুখতে সর্বদলীয় বৈঠকের আহ্বান জানানোর দাবি জানালেন মমতাপন্থী তৃণমূলের রাজ্যসভা সাংসদ ডেরেক ও' ব্রায়েন ৷.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.7691642045974731,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

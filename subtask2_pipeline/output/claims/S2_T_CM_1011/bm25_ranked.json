@@ -1,0 +1,57 @@
+{
+  "claim": {
+    "id": "S2/T/CM/1011",
+    "text": "to rohingya s apne pe time hi time hai tum dekho kbtk bhagoge",
+    "lang": "codemix"
+  },
+  "ranked_evidence": [
+    {
+      "title": "Ranveer Singh – Apna Time Aayega Lyrics",
+      "url": "https://genius.com/Ranveer-singh-apna-time-aayega-lyrics",
+      "snippet": "Jan 13, 2019 — Apna Time Aayega Lyrics: कौन बोला मुझसे ना हो पायेगा / कौन बोला, कौन बोला / अपना time आएगा / उठ जा अपनी राख से तू / उठ जा अब तलाश में / परवाज़ देख परवाने की / असमान भी सर उठाएगा",
+      "bm25_score_raw": 4.9232605116479675,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Multi-stakeholder Pledge: Rohingya Refugees | UNHCR",
+      "url": "https://globalcompactrefugees.org/multi-stakeholder-pledge-rohingya-refugees-expanded-resilience-enhanced-solutions",
+      "snippet": "The Rohingya refugees multi-stakeholder pledge aims to ease the pressure on host countries through enhancing resilience and expanding solutions for Rohingya ...Read more",
+      "bm25_score_raw": 1.1395795836185514,
+      "bm25_score_norm": 0.15885806936864794,
+      "bm25_rank": 2
+    },
+    {
+      "title": "Rohingya Crisis Timeline & Summary of Events | Doctors Without Borders",
+      "url": "https://www.doctorswithoutborders.org/latest/timeline-rohingya-crisis",
+      "snippet": "* What is MSF’s mission? Learn how you can support MSF’s lifesaving care with a gift. + What We Do Discover how we bring lifesaving care to those who need it most. + Where We Work Explore our work in more than 70 countries. + Medical Issues Learn about the diseases and medical conditions we treat. + Who We Are A global movement providing lifesaving care. # A timeline of the Rohingya crisis. A Rohingya refugee family in Bangladesh in 1978. Uprooted from their homeland by a campaign of targeted violence launched by the Myanmar military in August 2017, some 700,000 ethnic Rohingya refugees sought safety just across the border in Bangladesh. Today there are nearly one million Rohingya living in overcrowded camps in Cox’s Bazar—now the largest refugee settlement in the world. Doctors Without Borders/Médecins Sans Frontières (MSF) has provided medical aid to the Rohingya in Myanmar and Bangladesh for decades. Rohingya camp in Bangladesh in 1978.",
+      "bm25_score_raw": 1.0635958699646089,
+      "bm25_score_norm": 0.14196629418592827,
+      "bm25_rank": 3
+    },
+    {
+      "title": "Rohingya Refugee Crisis Timeline",
+      "url": "https://www.unrefugees.org/news/rohingya-refugee-crisis-timeline",
+      "snippet": "Aug 25, 2019 — It's been two years since Rohingya Muslims were forced to flee Myanmar. In recognition of this anniversary, we're highlighting some of the",
+      "bm25_score_raw": 1.0374494769687845,
+      "bm25_score_norm": 0.1361537460609975,
+      "bm25_rank": 4
+    },
+    {
+      "title": "Myanmar Rohingya: What you need to know about the crisis",
+      "url": "https://www.bbc.com/news/world-asia-41566561",
+      "snippet": "Getty Images Rohingya refugees fleeing to Bangladesh. **In August 2017, a deadly crackdown by Myanmar's army on Rohingya Muslims sent hundreds of thousands fleeing across the border into Bangladesh.**. In January 2020, the UN's top court ordered the Buddhist-majority country to take measures to protect members of its Rohingya community from genocide. The country's leader Aung San Suu Kyi, once a human rights icon, has repeatedly denied allegations of genocide. Described by UN Secretary-General Antonio Guterres as \"one of, if not the, most discriminated people in the world\", the Rohingya are one of Myanmar's many ethnic minorities. The Rohingya, who numbered around one million in Myanmar at the start of 2017, are one of the many ethnic minorities in the country. They have their own language and culture and say they are descendants of Arab traders and other groups who have been in the region for generations.",
+      "bm25_score_raw": 0.9196433508799561,
+      "bm25_score_norm": 0.10996452074749684,
+      "bm25_rank": 5
+    },
+    {
+      "title": "Eight things you should know about the Rohingya crisis in Bangladesh | NRC",
+      "url": "https://www.nrc.no/feature/2025/eight-things-you-should-know-about-the-rohingya-crisis-in-bangladesh",
+      "snippet": "The Norwegian Refugee Council (NRC) is a global humanitarian organisation helping people forced to flee. We provide emergency assistance and protect people’s rights in the world’s most challenging crises. Families affected by conflict in the Middle East need support now. Map showing the countries we work in. We started our relief efforts after World War Two. Today, we work in both new and protracted crises, where we help save lives and rebuild futures. NRC works to protect the rights of displaced people during crisis. We specialise in five areas: education, shelter, legal assistance, protection from violence, and water, sanitation and hygiene. NORCAP works to better protect and empower people affected by crises and climate change. We collaborate with partners on finding solutions to meet the needs of people at risk. By the end of 2025, some **117.8 million people** around the world were displaced from their homes by conflict, violence or persecution. Phone: +47 800 33 503. SMS: +47 594 48 256.",
+      "bm25_score_raw": 0.4249935839852054,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6
+    }
+  ]
+}

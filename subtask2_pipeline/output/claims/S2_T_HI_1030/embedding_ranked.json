@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/HI/1030",
+    "text": "राजनीतिक चंदे में पारदर्शिता के लिए चुनावी बॉन्ड घातक: AAP",
+    "lang": "hindi"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Electoral Bonds were a method of funding political parties ...",
+      "url": "https://www.instagram.com/reel/Da-p980TGR3",
+      "snippet": "In February 2024, the Supreme Court of India struck down the Electoral Bond Scheme as unconstitutional, holding that anonymous political",
+      "bm25_score_raw": 2.1911938413159224,
+      "bm25_score_norm": 0.30769133391389636,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8596888184547424,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "💰 Money. Politics. Transparency. After the fall of electoral ...",
+      "url": "https://www.instagram.com/p/DSpTyU6EwaE",
+      "snippet": "After the fall of electoral bonds, electoral trusts are back in focus — quietly shaping how political funding flows in India. Who can donate ⁉️",
+      "bm25_score_raw": 0.4832302539551075,
+      "bm25_score_norm": 0.06785605117332048,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.8520433902740479,
+      "embedding_score_norm": 0.9135608788326618,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Written Submissions - Tushar Mehta",
+      "url": "https://www.scobserver.in/wp-content/uploads/2021/10/Written-Submissions-by-Solicitor-General-Tushar-Mehta-in-Electoral-Bonds-Constitution-Bench.pdf",
+      "snippet": "introduced the Electoral Bond Scheme regulating donations of political parties in India on the grounds of reasonableness, transparency and accountability.",
+      "bm25_score_raw": 7.121402521947859,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8503450751304626,
+      "embedding_score_norm": 0.8943597477766704,
+      "embedding_rank": 3
+    },
+    {
+      "title": "How Opaque Electoral Bonds Edge Out Transparent ...",
+      "url": "https://www.moneylife.in/article/how-opaque-electoral-bonds-edge-out-transparent-funding-routes-for-7-political-parties/59151.html",
+      "snippet": "Jan 13, 2020 — More and more big donors of political parties, including corporates, are using the electoral bond (EB) route for making large-sized",
+      "bm25_score_raw": 2.064283877380242,
+      "bm25_score_norm": 0.2898704112031594,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8383272886276245,
+      "embedding_score_norm": 0.7584867947999997,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Electoral Bonds | The Biggest Scam in History of India?",
+      "url": "https://www.facebook.com/DhruvRatheePage/posts/electoral-bonds-the-biggest-scam-in-history-of-india-explained-by-dhruv-rathee-/995540061937353",
+      "snippet": "Dhruv Rathee padh isko jhnatu Electoral Bonds - let's understand What is the purpose of electoral bonds? - An electoral bond is like a",
+      "bm25_score_raw": 1.9217022792992937,
+      "bm25_score_norm": 0.2698488497703492,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8320920467376709,
+      "embedding_score_norm": 0.6879912232642799,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Votes for Cash, Clout, and Control: The Capitalist ...",
+      "url": "https://papers.ssrn.com/sol3/Delivery.cfm/5215680.pdf?abstractid=5215680&mirid=1",
+      "snippet": "Aug 3, 2022 — To investigate the relationship between sectoral economic performance and political funding via electoral bonds, we employed a mixed-methods",
+      "bm25_score_raw": 0.49126363614969715,
+      "bm25_score_norm": 0.06898411297994231,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.8076727986335754,
+      "embedding_score_norm": 0.4119074911568862,
+      "embedding_rank": 6
+    },
+    {
+      "title": "विधानसभा में असली जन मुद्दों को दबाने के लिए कांग्रेस और 'AAP' की मिलीभगत : सुनील जाखड़ - sunil jakhar attacks congress and aap",
+      "url": "https://punjab.punjabkesari.in/punjab/news/sunil-jakhar-attacks-congress-and-aap-2306177",
+      "snippet": "Title: विधानसभा में असली जन मुद्दों को दबाने के लिए कांग्रेस और 'AAP' की मिलीभगत : सुनील जाखड़ - sunil jakhar attacks congress and aap\nजाखड़ ने मुख्यमंत्री पर आरोप लगाया कि वह उस पुराने मामले में भ्रष्टाचार के आरोप लगाते रहे हैं, लेकिन कांग्रेस के उस पूर्व मंत्री के खिलाफ कार्रवाई करने के बजाय वे उस फाइल का इस्तेमाल केवल उस नेता को ब्लैकमेल करने के लिए कर रहे हैं। उन्होंने कहा कि यह पुराने और नए लोगों की मिलीभगत से हुआ एक नया घोटाला प्रतीत होता है।. उन्होंने विपक्ष के नेता प्रताप बाजवा को चुनौती दी कि वे इस मुद्दे को विधानसभा में उठाएं। जाखड़ ने कहा कि एक तरफ सरकार राज्य में निवेश सम्मेलन आयोजित कर रही है और दूसरी तरफ जालंधर की उद्योग इकाइयों का उपयोग करने के बजाय बसों को पेंट कराने के लिए 500 किलोमीटर दूर राजस्थान भेज रही है। उन्होंने कहा कि सरकार को स्पष्ट करना चाहिए कि इसके पीछे किन लोगों के आर्थिक हित जुड़े हुए हैं।. जाखड़ ने मुख्यमंत्री पर आरोप लगाया कि वह उस पुराने मामले में भ्रष्टाचार के आरोप लगाते रहे हैं, लेकिन कांग्रेस के उस पूर्व मंत्री के खिलाफ कार्रवाई करने के बजाय वे उस फाइल का इस्तेमाल केवल उस नेता को ब्लैकमेल करने के लिए कर रहे हैं। उन्होंने कहा कि यह पुराने और नए लोगों की मिलीभगत से हुआ एक नया घोटाला प्रतीत होता है।. जाखड़ ने मुख्यमंत्री पर आरोप लगाया कि वह उस पुराने मामले में भ्रष्टाचार के आरोप लगाते रहे हैं, लेकिन कांग्रेस के उस पूर्व मंत्री के खिलाफ कार्रवाई करने के बजाय वे उस फाइल का इस्तेमाल केवल उस नेता को ब्लैकमेल करने के लिए कर रहे हैं। उन्होंने कहा कि यह पुराने और नए लोगों की मिलीभगत से हुआ एक नया घोटाला प्रतीत होता है।. जाखड़ ने मुख्यमंत्री पर आरोप लगाया कि वह उस पुराने मामले में भ्रष्टाचार के आरोप लगाते रहे हैं, लेकिन कांग्रेस के उस पूर्व मंत्री के खिलाफ कार्रवाई करने के बजाय वे उस फाइल का इस्तेमाल केवल उस नेता को ब्लैकमेल करने के लिए कर रहे हैं। उन्होंने कहा कि यह पुराने और नए लोगों की मिलीभगत से हुआ एक नया घोटाला प्रतीत होता है।.",
+      "bm25_score_raw": 1.2887040831443517,
+      "bm25_score_norm": 0.18096211794974665,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.7938771843910217,
+      "embedding_score_norm": 0.2559344386467492,
+      "embedding_rank": 7
+    },
+    {
+      "title": "AAP launches social media campaign -'Modi ka Sabse Bada Darr, Kejriwal'",
+      "url": "https://www.deccanherald.com/india/delhi/aap-launches-social-media-campaign-to-save-constitution-democracy-2951450",
+      "snippet": "Title: AAP launches social media campaign -'Modi ka Sabse Bada Darr, Kejriwal'\n# AAP launches social media campaign -'Modi ka Sabse Bada Darr, Kejriwal'. Launching the campaign, Delhi Minister Atishi said Kejriwal is the only leader in the country who can challenge Prime Minister Narendra Modi. Last Updated : 25 March 2024, 12:49IST. > मोदी का सबसे बड़ा डर - केजरीवाल 🔥. > मोदी ने साज़िश के तहत लोकसभा चुनाव के ठीक पहले दिल्ली के बेटे अरविंद केजरीवाल को जेल में बंद कर दिया है, दिल्लीवाले इस तानाशाही के खिलाफ अपना विरोध दर्ज़ कराएं 💪💪. > मोदी केजरीवाल से डरता है, इस संदेश को जन-जन तक पहुंचाएं. > 👉 कृपया अपनी… pic.twitter.com/ZS1XeSzXgF. > — AAP (@AamAadmiParty) March 25, 2024. Published 25 March 2024, 12:49IST. India NewsAAPDelhiIndian PoliticsDemocracyConstitutionAtishisocial media campaign. ## Follow us on :.",
+      "bm25_score_raw": 1.1646460804183858,
+      "bm25_score_norm": 0.16354167270126863,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.7927972078323364,
+      "embedding_score_norm": 0.24372423636536397,
+      "embedding_rank": 8
+    },
+    {
+      "title": "AAP GOVERNMENT",
+      "url": "https://m.punjab.punjabkesari.in/tags/aap-government",
+      "snippet": "Title: AAP GOVERNMENT\n* हिमाचल प्रदेशहिमाचल प्रदेश. * उत्तर प्रदेशउत्तर प्रदेश. * मध्य प्रदेशमध्य प्रदेश. ### स्कूलों-अस्पतालों के बाद अब PRTC बसों के रंग पर बवाल, बिक्रम मजीठिया ने घेरी AAP सरकार. ### पंजाब के कर्ज को लेकर परगट सिंह का AAP सरकार पर तीखा निशाना, बोले- 4 साल में सिर्फ बड़े दावे और मजाक. ### 'नजर लगी मेरे पंजाब को, कोई नजर उतारो'...बदलाव रैली के मंच से सुनील जाखड़ ने AAP सरकार को घेरा. ### कांग्रेस का ''युद्ध गप्प विरुद्ध'' पोस्टरों से AAP पर हमला, महिलाओं के लिए 48 हजार की मांग. ### पंजाब में बसों के रंग बदलने को लेकर हरसिमरत बादल का AAP सरकार पर हमला. ### भाजपा के तरुण चुघ का AAP सरकार पर हमला, बजट को बताया ''जुमलों का दस्तावेज''. ### अवैध माइनिंग को लेकर पंजाब में सियासी घमासान, तरुण चुघ ने AAP सरकार पर साधा निशाना. ### Punjab में आज : PRTC बसों को लेकर घिरी AAP सरकार तो वहीं छुट्टी का ऐलान, पढ़ें Top 10. ### कांग्रेस की आंधी में उड़ेंगे ''AAP'' सरकार के परखच्चे, राजा वड़िंग ने शायराना अंदाज में साधा निशाना. ### ''कित्थे है वादे मुताबिक नशा मुक्त पंजाब?'' प्रताप सिंह बाजवा का AAP सरकार को बड़ा सवाल? ### भदौड़ रैली में बिक्रम मजीठिया ने AAP सरकार पर साधा निशाना, जानें क्या कहा. ### Punjab में आज : अमित शाह ने 2027 की विधानसभा चुनावों का बजाया बिगुल तो वहीं सुखबीर बादल ने..., पढ़ें Top 10. ### Punjab में आज : Gurdas Maan–मूसेवाला के भाई शुभदीप की वायरल वीडियो ने जीता दिल तो वहीं और बिगड़ेगा मौसम! ### बजट सेशन से पहले सुखपाल खैहरा ने पंजाब सरकार पर बोला हमला, कहा- महिलाओं का मजाक उड़ा रहे... ### AAP के खिलाफ प्रदर्शन कर रही राजा वड़िंग की बेटी पुलिस हिरासत में. ### विधानसभा में असली जन मुद्दों को दबाने के लिए कांग्रेस और ''AAP'' की मिलीभगत : सुनील जाखड़. ### पंजाब को तबाह कर रही भगवंत मान सरकार, चार साल में डेढ़ लाख करोड़ का कर्ज़  : तरुण चुघ. ### बदलाव रैली: Moga रैली से पहले अमित शाह का AAP पर बड़ा हमला. ### Moga Rally : राणा गुरमीत सिंह सोढी ने घेरी AAP, बोले- मौजूदा सरकार कानून-व्यवस्था व विकास में पूरी तरह फेल.",
+      "bm25_score_raw": 1.717738817512424,
+      "bm25_score_norm": 0.24120793793335318,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.7883163690567017,
+      "embedding_score_norm": 0.19306392582364448,
+      "embedding_rank": 9
+    },
+    {
+      "title": "Punjab के मंत्री और AAP विधायक चुनाव प्रचार में सक्रिय | Punjab ministers and AAP MLAs actively campaigning | Punjab के मंत्री और AAP विधायक चुनाव प्रचार में सक्रिय",
+      "url": "https://jantaserishta.com/local/punjab/punjab-ministers-and-aap-mlas-actively-campaigning-4671896",
+      "snippet": "Title: Punjab के मंत्री और AAP विधायक चुनाव प्रचार में सक्रिय | Punjab ministers and AAP MLAs actively campaigning | Punjab के मंत्री और AAP विधायक चुनाव प्रचार में सक्रिय\n+ मध्य प्रदेश. + उत्तर प्रदेश. + हिमाचल प्रदेश. + अरुणाचल प्रदेश. + आंध्र प्रदेश. + मध्य प्रदेश. + उत्तर प्रदेश. + हिमाचल प्रदेश. + अरुणाचल प्रदेश. + आंध्र प्रदेश. ### Breaking. * Punjab के मंत्री और... **Amritsar.अमृतसर:** पंजाब के मंत्रियों और आम आदमी पार्टी (AAP) के विधायकों ने आगामी चुनावों के मद्देनजर जन संवाद का इस्तेमाल कर प्रचार को जल्दी बढ़ावा देने का कदम उठाया है। इस रणनीति का उद्देश्य नागरिकों के मुद्दों और अपेक्षाओं को सीधे सुनना और उन्हें आगामी चुनावी अभियान में शामिल करना बताया जा रहा है।. जन संवाद कार्यक्रम के तहत मंत्री और विधायक विभिन्न शहरों, कस्बों और ग्रामीण क्षेत्रों में जनता से मिले। उन्होंने सीधे संवाद करके लोगों के सवालों का जवाब दिया और उनकी चिंताओं को समझने की कोशिश की। कार्यक्रम में स्वास्थ्य, शिक्षा, सड़क और स्थानीय विकास जैसे महत्वपूर्ण मुद्दों पर चर्चा की गई।. राजनीतिक विश्लेषकों का कहना है कि इस तरह के जन संवाद कार्यक्रम चुनाव प्रचार में लोकप्रियता बढ़ाने और मतदाताओं की धारणा को प्रभावित करने का एक प्रभावी तरीका हैं। इससे जनता को यह भी संदेश जाता है कि पार्टी और उसके नेता उनकी समस्याओं को गंभीरता से सुनते हैं और उसका समाधान चाहते हैं।. साथ ही, मंत्रियों और विधायकों ने स्थानीय समस्याओं के समाधान के लिए स्थानीय अधिकारियों और प्रशासन से सहयोग का आश्वासन दिया। उन्होंने कहा कि जनता की समस्याओं का निराकरण प्राथमिकता होगी और चुनावी समय से पहले ही कार्यवाही सुनिश्चित की जाएगी।. जन संवाद कार्यक्रम में बड़ी संख्या में जनता ने भाग लिया और नेताओं के सवाल-जवाब सत्र ने सीधे संवाद और पारदर्शिता का माहौल तैयार किया। उपस्थित लोगों ने इस पहल की सराहना की और कहा कि इससे लोकतांत्रिक प्रक्रिया को मजबूत किया जा सकता है।. इस प्रकार, पंजाब के मंत्रियों और AAP विधायकों ने जन संवाद के माध्यम से चुनाव प्रचार को जल्दी बढ़ावा देने का रणनीतिक कदम उठाया है। यह पहल न केवल चुनावी रणनीति का हिस्सा है, बल्कि जनता के मुद्दों को सामने लाने और समाधान की दिशा में सक्रिय कदम भी माना जा रहा है।. TagsPunjab के मंत्रीAAP विधायकचुनाव प्रचारसक्रियPunjab MinisterAAP MLAelection campaignactiveजनता से रिश्ता न्यूज़जनता से रिश्ताजनता से रिश्ता.कॉमआज की ताजा न्यूज़हिंन्दी न्यूज़भारत न्यूज़खबरों का सिलसिलाआज की ब्रेंकिग न्यूज़आज की बड़ी खबरमिड डे अख़बारJanta Se Rishta NewsJanta Se RishtaToday's Latest NewsHindi NewsIndia NewsKhabron Ka SilsilaToday's Breaking NewsToday's Big NewsMid Day Newspaperजनताjantasamachar newssamacharहिंन्दी समाचार.",
+      "bm25_score_raw": 2.015889364017897,
+      "bm25_score_norm": 0.2830747676184589,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.7843946814537048,
+      "embedding_score_norm": 0.14872537186902554,
+      "embedding_rank": 10
+    },
+    {
+      "title": "Explainer: दिल्ली में 'सस्ते भोजन' की राजनीति!, 'जन आहार' से 'AAP कैंटीन' होते हुए अब 'अटल कैंटीन' तक, जानें सब कुछ",
+      "url": "https://www.etvbharat.com/hi/bharat/politics-on-cheap-food-in-delhi-from-jan-aahar-to-aap-canteen-and-now-atal-canteen-know-everything-hindi-news-dln25112102497",
+      "snippet": "# Explainer: दिल्ली में 'सस्ते भोजन' की राजनीति!, 'जन आहार' से 'AAP कैंटीन' होते हुए अब 'अटल कैंटीन' तक, जानें सब कुछ. ## दिल्ली सरकार अटल कैंटीन योजना के तहत ₹5 में भरपेट और पौष्टिक भोजन उपलब्ध कराएगी. **नई दिल्ली/आशुतोष झा:** दिल्ली में सत्ता बदलने के साथ ही जरूरतमंदों को सस्ती दरों पर भोजन उपलब्ध कराने की योजना का नाम और स्वरूप भी बदलता रहा है. कांग्रेस सरकार (1998-2013) के समय 'जन आहार', आम आदमी पार्टी (AAP) सरकार (2015-2025) के समय प्रस्तावित 'आप कैंटीन' के बाद अब बीजेपी की मुख्यमंत्री रेखा गुप्ता की सरकार 'अटल कैंटीन योजना' शुरू करने जा रही है. दिल्ली के तिमारपुर स्थित जेजे क्लस्टर की संजय बस्ती में पहले कैंटीन के निर्माण कार्य का शुक्रवार को मुख्यमंत्री रेखा गुप्ता ने शिलान्यास किया. यह योजनाएं दर्शाती हैं कि दिल्ली की राजनीति में सस्ता और पौष्टिक भोजन हमेशा से एक महत्वपूर्ण चुनावी और कल्याणकारी मुद्दा रहा है. दिल्ली की मुख्यमंत्री रेखा गुप्ता ने कहा, ''हमने अपने संकल्प पत्र में दिल्ली में अटल कैंटीन खोलने का जो वादा किया था, आज वह संकल्प सिद्धि की ओर एक महत्वपूर्ण कदम बढ़ा रहा है. दिल्ली विधानसभा चुनाव के दौरान बीजेपी ने अपने घोषणा पत्र में अटल कैंटीन योजना का ज़िक्र किया था. चुनाव जीतने और सरकार बनने के बाद मुख्यमंत्री रेखा गुप्ता ने घोषणा की है कि पूर्व प्रधानमंत्री अटल बिहारी वाजपेयी के जन्मदिन, 25 दिसंबर को 'अटल कैंटीन योजना' की शुरुआत की जाएगी. इस योजना के तहत राजधानी के गरीब, मजदूर, रिक्शा चालकों और कम आय वर्ग के लोगों को मात्र 5 रुपये में स्वच्छ, गर्म और पौष्टिक भोजन की थाली उपलब्ध कराई जाएगी. 'अटल कैंटीन योजना' से जुड़े कार्यक्रम के दौरान मंच पर सीएम रेखा गुप्ता सहित अन्य नेता (ETV Bharat). अटल कैंटीन योजना के लिए दिल्ली अर्बन शेल्टर इम्प्रूवमेंट बोर्ड ने स्थानों का चयन किया है. > *''दिल्ली में राजनीतिक दलों के नाम पर इन कैंटीन योजनाओं का आना महज़ एक संयोग नहीं है, बल्कि यह देश के कल्याणकारी राज्य के मॉडल को दर्शाता है. दिल्ली के तिमारपुर में पहले कैंटीन के निर्माण कार्य का मुख्यमंत्री रेखा गुप्ता ने शिलान्यास किया. दिल्ली सरकार का लक्ष्य है कि इस योजना के जरिए रोजाना एक लाख लोगों को सस्ता और अच्छा भोजन उपलब्ध कराया जाए.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.7720584273338318,
+      "embedding_score_norm": 0.009251827756561493,
+      "embedding_rank": 11
+    },
+    {
+      "title": "Prashant Kishor on Bihar Election: बिहार चुनाव में जन सुराज की कितनी सीटें आएंगी? | Rajat Sharma",
+      "url": "https://www.youtube.com/watch?v=JUJIMPFF47Y",
+      "snippet": "V Aap Ki Adalat\n3640000 subscribers\n1481 likes\n121751 views\n24 Oct 2025\nPrashant Kishor on Bihar Election: बिहार चुनाव में जन सुराज की कितनी सीटें आएंगी? | Rajat Sharma\n\n#prashantkishor #aapkiadalat #indiatv #rajatsharma \n\nIndia TV Aap Ki Adalat channel is an official YouTube Channel of India’s Longest Running News Show “Aap Ki Adalat”. Here you will get an Exclusive customised 24x7 stream of Aap Ki Adalat episodes along with all popular Aap Ki Adalat episode videos which are listed as per your convenience. Keep watching Aap Ki Adalat shows with your favourite guests and celebrities.\n\nNow Follow “India Tv Aap Ki Adalat” on Facebook, Instagram and Whatsapp. Click on the Link Below and Stay updated with the latest updates of your favourite show “Aap Ki Adalat”. \n\nFacebook: https://www.facebook.com/aapkiadalatindiatv \nInstagram: https://www.instagram.com/indiatvaapkiadalat/\nWhatsApp: https://whatsapp.com/channel/0029Va8WMxeB4hdVnFGzwg3y\n145 comments\n",
+      "bm25_score_raw": 2.2051663085450945,
+      "bm25_score_norm": 0.3096533725974436,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.7712401151657104,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/1109",
+    "text": "দেশ সমস্যায়, ২০ জন রক্ষিতার সঙ্গে সেল্‌ফ আইসোলেশনে থাইল্যান্ডের রাজা",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "World War II by country",
+      "url": "https://en.wikipedia.org/wiki/World_War_II_by_country",
+      "snippet": "Thailand was nominally an ally of Japan at the beginning of the war. Field Marshal Plaek Phibunsongkhram, a military dictator with nationalist leanings, ruled the country under the nominal rule of King Ananda Mahidol, who was just fourteen years old in 1939 and remained in Switzerland until the war ended. Thailand remained uninvolved when war broke out in Europe, but it took the opportunity of France's defeat to settle claims to parts of French Indochina, in the Franco-Thai War. The December [...] ## Bhutan\n\n[edit]\n\nAlthough Bhutan was under British suzerainty, it remained independent; and it remained under the reign of Jigme Wangchuck the kingdom continued to maintain almost complete isolation from the outside world with only limited relations with the British Raj in India. Despite his policy of neutrality, upon the outbreak of the war, the king sent the government of India a gift of 100,000 rupees as a gesture of friendship.\n\n## Bolivia\n\n[edit] [...] \"), Guam \"Battle of Guam (1941)\") and Wake Island; on the British colonies of Malaya, Singapore, and Hong Kong; and on the Kingdom of Thailand. During 1942 Japan launched offensives in the China, Southeast Asian, and Pacific Theatres of the war. By late 1942 Japan was on the defensive as the Allies reversed its earlier gains. The Atomic bombings of Hiroshima and Nagasaki by the United States convinced the Japanese government to surrender unconditionally on September 2, 1945. Many political and",
+      "bm25_score_raw": 4.781157760038602,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8215359449386597,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "King Rama IX of Thailand in key dates: 5 December 1927",
+      "url": "https://www.tiktok.com/@historyaddicte/video/7663498863084342561",
+      "snippet": "He intervened on several occasions to ease tensions and protect the harmony of the country, earning immense love and respect from all Thais.",
+      "bm25_score_raw": 2.570220690776786,
+      "bm25_score_norm": 0.5375728682828559,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8130267858505249,
+      "embedding_score_norm": 0.8230364934549782,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Newsline 09 July 2026 1. Mourners Gather at Grand ...",
+      "url": "https://www.facebook.com/nbtworld/posts/newsline-09-july-20261-mourners-gather-at-grand-palace-for-princess-bajrakitiyab/1438156451681814",
+      "snippet": "Soldiers in Thailand are being accused of torturing and killing a migrant from Myanmar. Thailand's healthcare system is in trouble due to an aging population",
+      "bm25_score_raw": 3.4372803431985006,
+      "bm25_score_norm": 0.718922176533817,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8075167536735535,
+      "embedding_score_norm": 0.7084453094010313,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Some twenty Iranian expats in Thailand gathered outside ...",
+      "url": "https://www.facebook.com/KhaosodEnglish/posts/some-twenty-iranian-expats-in-thailand-gathered-outside-the-us-embassy-on-saturd/1526910162814820",
+      "snippet": "คนเหล่านี้คือชาวอิหร่านตัวจริง พวกเขาออกมาเรียกร้องเสรีภาพให้กับอิหร่าน และเชื่อว่าระบอบนี้ต้องยุติลง เพราะมีรายงานและข้อกล่าวหาว่ามีผู้เสียชีวิตกว่ า 42,000 คนภายในสองคืนจากการปราบปรามผู้",
+      "bm25_score_raw": 0.5078539358798267,
+      "bm25_score_norm": 0.10621986585017568,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8053293824195862,
+      "embedding_score_norm": 0.662954928599762,
+      "embedding_rank": 4
+    },
+    {
+      "title": "The mother of a teenage backpacker facing years in a Thai ...",
+      "url": "https://www.facebook.com/VT/posts/the-mother-of-a-teenage-backpacker-facing-years-in-a-thai-prison-over-a-watch-wo/1392496926315725",
+      "snippet": "Susan Harryman O'Bryan I have travelled the world and one very smart thing not to do in a foreign country is break the law. Their court system is not always as",
+      "bm25_score_raw": 2.0122434640456284,
+      "bm25_score_norm": 0.42086949752299785,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.797781229019165,
+      "embedding_score_norm": 0.5059772907576359,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Yemen’s Houthis announce maritime blockade on Saudi Arabia - The Times of Israel",
+      "url": "https://www.timesofisrael.com/liveblog_entry/yemens-houthis-announce-maritime-blockade-on-saudi-arabia/",
+      "snippet": "Support ToI and remove all ads. *       *   About The Times of Israel. *   Advertise on The Times of Israel. *   © 2026 The Times of Israel , All Rights Reserved Terms and conditionsPrivacy policy. Lazar Berman is The Times of Israel's diplomatic reporter. Image 10: Houthi supporters raise a banner showing their leader Abdul Malik al-Houthi, during a rally against Israel and the United States' war with Iran, in Sanaa, Yemen, April 3, 2026. Houthi supporters raise a banner showing their leader Abdul Malik al-Houthi, during a rally against Israel and the United States' war with Iran, in Sanaa, Yemen, April 3, 2026. The Times of Israel Community. That’s why we started the Times of Israel - to provide discerning readers like you with must-read coverage of Israel and the Jewish world. But as the journalism we do is costly, we invite readers for whom The Times of Israel has become important to help support our work by joining **The Times of Israel Community.**.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.7920302748680115,
+      "embedding_score_norm": 0.38637569416898054,
+      "embedding_rank": 6
+    },
+    {
+      "title": "Iran says 4 killed in overnight US strikes in south - The Times of Israel",
+      "url": "https://www.timesofisrael.com/liveblog_entry/iran-says-4-killed-in-overnight-us-strikes-in-south/",
+      "snippet": "Support ToI and remove all ads. *       *   About The Times of Israel. *   Advertise on The Times of Israel. *   © 2026 The Times of Israel , All Rights Reserved Terms and conditionsPrivacy policy. “Following the missile attack by the terrorist US enemy on areas around the city of Ahvaz, four of our compatriots were martyred, and five others were injured,” Valiollah Hayati, deputy governor of the province, is quoted as saying by the official IRNA news agency. The war with Iran has been draining for all of us in Israel. The Times of Israel Community. That’s why we started the Times of Israel - to provide discerning readers like you with must-read coverage of Israel and the Jewish world. But as the journalism we do is costly, we invite readers for whom The Times of Israel has become important to help support our work by joining **The Times of Israel Community.**.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.7886160612106323,
+      "embedding_score_norm": 0.3153708845696152,
+      "embedding_rank": 7
+    },
+    {
+      "title": "Iranian foreign minister says talks stalled over US’s ‘domineering’ approach - The Times of Israel",
+      "url": "https://www.timesofisrael.com/liveblog_entry/iranian-foreign-minister-says-talks-stalled-over-uss-domineering-approach/",
+      "snippet": "*       *   About The Times of Israel. *   Advertise on The Times of Israel. *   © 2026 The Times of Israel , All Rights Reserved Terms and conditionsPrivacy policy. Image 10: Iranian Foreign Minister Abbas Araghchi arrives for a meeting during the two-day BRICS summit in New Delhi, India, on May 14, 2026. The war with Iran has been draining for all of us in Israel. The Times of Israel Community. That’s why we started the Times of Israel - to provide discerning readers like you with must-read coverage of Israel and the Jewish world. But as the journalism we do is costly, we invite readers for whom The Times of Israel has become important to help support our work by joining **The Times of Israel Community.**. For as little as $6 a month you can help support our quality journalism while enjoying The Times of Israel **AD-FREE**, as well as accessing **exclusive content** available only to Times of Israel Community members.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.7834721207618713,
+      "embedding_score_norm": 0.2083932467274891,
+      "embedding_rank": 8
+    },
+    {
+      "title": "CENTCOM says 2 US soldiers killed in Iran ballistic missile attack on Jordan, another MIA - The Times of Israel",
+      "url": "https://www.timesofisrael.com/liveblog_entry/centcom-says-2-us-soldiers-killed-in-iran-ballistic-missile-attack-on-jordan-another-mia/",
+      "snippet": "Support ToI and remove all ads. *       *   About The Times of Israel. *   Advertise on The Times of Israel. *   © 2026 The Times of Israel , All Rights Reserved Terms and conditionsPrivacy policy. # CENTCOM says 2 US soldiers killed in Iran ballistic missile attack on Jordan, another MIA. Emanuel (Mannie) Fabian is The Times of Israel's military correspondent. In a statement, CENTCOM says two service members were killed, one is missing in action, and four were wounded while defending against Iran’s attacks in Jordan on Friday. The war with Iran has been draining for all of us in Israel. The Times of Israel Community. That’s why we started the Times of Israel - to provide discerning readers like you with must-read coverage of Israel and the Jewish world. But as the journalism we do is costly, we invite readers for whom The Times of Israel has become important to help support our work by joining **The Times of Israel Community.**.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.7787604331970215,
+      "embedding_score_norm": 0.11040509718365728,
+      "embedding_rank": 9
+    },
+    {
+      "title": "US appeals court overturns order releasing pro-Palestinian protester Mahdawi - The Times of Israel",
+      "url": "https://www.timesofisrael.com/liveblog_entry/us-appeals-court-overturns-order-releasing-pro-palestinian-protester-mahdawi/",
+      "snippet": "*       *   About The Times of Israel. *   Advertise on The Times of Israel. *   © 2026 The Times of Israel , All Rights Reserved Terms and conditionsPrivacy policy. Image 10: Mohsen Mahdawi speaks outside the courthouse after a US judge released the Palestinian student activist on April 30, 2025 in Burlington, Vermont. *   Meeting Trump at White House, Lebanon’s Aoun says ending state of hostility with Israel will be achieved. The war with Iran has been draining for all of us in Israel. The Times of Israel Community. That’s why we started the Times of Israel - to provide discerning readers like you with must-read coverage of Israel and the Jewish world. But as the journalism we do is costly, we invite readers for whom The Times of Israel has become important to help support our work by joining **The Times of Israel Community.**.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.7773885726928711,
+      "embedding_score_norm": 0.08187475208250694,
+      "embedding_rank": 10
+    },
+    {
+      "title": "Episode 318:🚁🏹Rambo III🏹🚁 @talkhoops @darthamin ...",
+      "url": "https://www.instagram.com/reel/DbJPpq0Ck2O",
+      "snippet": "Rambo III is the ultimate peak-80s action spectacle, John Rambo as he leaves his peaceful retirement in Thailand to rescue his captured mentor",
+      "bm25_score_raw": 0.46989668669296086,
+      "bm25_score_norm": 0.09828094162054318,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.776603102684021,
+      "embedding_score_norm": 0.06553946846489488,
+      "embedding_rank": 11
+    },
+    {
+      "title": "Explosions, smoke near Iraq’s Erbil airport, which houses US troops - The Times of Israel",
+      "url": "https://www.timesofisrael.com/liveblog_entry/explosions-smoke-near-iraqs-erbil-airport-which-houses-us-troops/",
+      "snippet": "*       *   About The Times of Israel. *   Advertise on The Times of Israel. *   © 2026 The Times of Israel , All Rights Reserved Terms and conditionsPrivacy policy. Image 10: Smoke rises after explosions were heard and air defences activated near the airport in Erbil, on July 24, 2026. Smoke rises after explosions were heard and air defences activated near the airport in Erbil, on July 24, 2026. The war with Iran has been draining for all of us in Israel. The Times of Israel Community. That’s why we started the Times of Israel - to provide discerning readers like you with must-read coverage of Israel and the Jewish world. But as the journalism we do is costly, we invite readers for whom The Times of Israel has become important to help support our work by joining **The Times of Israel Community.**.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.7734516859054565,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

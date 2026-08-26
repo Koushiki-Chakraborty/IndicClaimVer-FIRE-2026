@@ -1,0 +1,105 @@
+{
+  "claim": {
+    "id": "S2/T/HI/1146",
+    "text": "चारा घोटाला: जानें, लालू के बरी होने पर राबड़ी और तेजप्रताप ने क्या कहा!",
+    "lang": "hindi"
+  },
+  "ranked_evidence": [
+    {
+      "title": "Fodder scam: Lalu Prasad convicted in fourth case",
+      "url": "https://www.gulf-times.com/story/585757/fodder-scam-lalu-prasad-convicted-in-fourth-case",
+      "snippet": "Mar 19, 2018 — Yadav's wife Rabri Devi, Tej Pratap Yadav expressed disappointment over the conviction, saying they had thought he would be acquitted.",
+      "bm25_score_raw": 3.282174571484144,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "In a major setback for the Rashtriya Janata Dal's (RJD ...",
+      "url": "https://www.facebook.com/etnow/posts/in-a-major-setback-for-the-rashtriya-janata-dals-rjd-family-just-weeks-ahead-of-/1224000759758826",
+      "snippet": "Rabri Devi and her elder son Tej Pratap Yadav on Monday expressed disappointment over the conviction of RJD leader Lalu Prasad in the fodder",
+      "bm25_score_raw": 3.1838913403232514,
+      "bm25_score_norm": 0.966632831442677,
+      "bm25_rank": 2
+    },
+    {
+      "title": "तेज प्रताप ने बताया किस 'शर्त' पर जाएंगे लालू से मिलने, मां राबड़ी ...",
+      "url": "https://www.abplive.com/states/bihar/tej-pratap-yadav-said-when-he-will-go-to-meet-lalu-prasad-yadav-also-reaction-on-rabri-devi-2971990",
+      "snippet": "Tej Pratap Yadav: तेज प्रताप यादव ने एबीपी न्यूज़ को इंटरव्यू दिया है. एक सवाल पर उन्होंने जवाब दिया कि अभी जो माहौल है वो संघर्ष का माहौल है. पढ़िए और क्या कुछ कहा है.",
+      "bm25_score_raw": 3.131720518490462,
+      "bm25_score_norm": 0.9489208312844909,
+      "bm25_rank": 3
+    },
+    {
+      "title": "'तेज प्रताप को मेरा आशीर्वाद; अब परिवार के साथ ही रहेगा', दही- ...",
+      "url": "https://www.jagran.com/bihar/patna-city-lalu-yadav-blesses-tej-pratap-at-dahichura-bhoj-in-patna-40107243.html",
+      "snippet": "लालू प्रसाद यादव ने तेजप्रताप यादव के दही-चूड़ा भोज में पहुंचकर कहा कि उनका आशीर्वाद हमेशा बेटे के साथ है। उन्होंने परिवार में मतभेद को सामान्य बताया और स्पष्ट किया कि तेजप्रताप अब परिवार के साथ ही रहेगा",
+      "bm25_score_raw": 2.72812302928587,
+      "bm25_score_norm": 0.8118994361539598,
+      "bm25_rank": 4
+    },
+    {
+      "title": "तेज प्रताप की लव स्टोरी पर बंटा लालू परिवार, जानिए राबड़ी-मीसा ...",
+      "url": "https://www.aajtak.in/bihar/story/lalu-yadav-family-divided-over-tej-pratap-yadav-love-story-know-who-rabri-and-misa-bharti-are-with-ntc-rpti-2250829-2025-05-28",
+      "snippet": "बिहार में चुनावी तैयारियों के बीच तेज प्रताप यादव के प्रेम प्रसंग ने एक बार फिर लालू परिवार के भीतर चल रही सियासी खींचतान को उजागर कर दिया है. जहां राबड़ी देवी और मीसा भारती भावनात्मक रूप से तेज प्रताप के",
+      "bm25_score_raw": 2.3495163622920012,
+      "bm25_score_norm": 0.6833624281079987,
+      "bm25_rank": 5
+    },
+    {
+      "title": "Fodder Scam - Lalu Yadav and the Chara Ghotala Case",
+      "url": "https://www.scribd.com/document/409932584/Fodder-Scam-docx",
+      "snippet": "Fodder Scam: RJD Chief Lalu Prasad Yadav is set to be sentenced in 22-year-old fodder. scam or 'Chara Ghotala'. The sentencing is a serious blow to Yadav at a ...Read more",
+      "bm25_score_raw": 2.0196711005198424,
+      "bm25_score_norm": 0.5713799228791177,
+      "bm25_rank": 6
+    },
+    {
+      "title": "Fodder scam: Rabri, son disappointed over Lalu conviction",
+      "url": "https://www.thestatesman.com/india/fodder-scam-rabri-son-disappointed-over-lalu-conviction-1502604392.html",
+      "snippet": "Mar 19, 2018 — A special CBI court in Ranchi on Monday convicted former Bihar Chief Minister Lalu Prasad in the fourth fodder scam case but acquitted another ...Read more",
+      "bm25_score_raw": 1.6351030632724683,
+      "bm25_score_norm": 0.4408190289298157,
+      "bm25_rank": 7
+    },
+    {
+      "title": "बेटे की पार्टी के पोस्टर पर लालू-राबड़ी क्यों नहीं, तेजप्रताप ने खुद ...",
+      "url": "https://www.livehindustan.com/bihar/tej-pratap-explains-why-lalu-and-rabri-photo-nor-on-jjd-posters-scathing-attack-on-tejashwi-201759055141766.html",
+      "snippet": "तेज प्रताप यादव ने बताया है कि उनकी पार्टी जनशक्ति जनता दल के पोस्टर में लालू-राबड़ी की तस्वीर क्यों नहीं लगाया।, Bihar Hindi News - Hindustan.",
+      "bm25_score_raw": 1.6325170568524108,
+      "bm25_score_norm": 0.43994107944556315,
+      "bm25_rank": 8
+    },
+    {
+      "title": "Lalu Yadav Sentenced Sentenced To Five Years In Jail",
+      "url": "https://www.youtube.com/watch?v=aSA-bi4rQtA",
+      "snippet": "court has sentenced him to five years in jail. Tej Pratap Yadav has called it a conspiracy against his father. Lalu Yadav has been found guilty",
+      "bm25_score_raw": 1.1192827445753328,
+      "bm25_score_norm": 0.2656979699662195,
+      "bm25_rank": 9
+    },
+    {
+      "title": "Lalu Prasad Yadav",
+      "url": "https://en.wikipedia.org/wiki/Lalu_Prasad_Yadav",
+      "snippet": "# Lalu Prasad Yadav. | Lalu as Union Minister of Railways \"Ministry of Railways (India)\"), addressing in New Delhi on 12 September 2004 |. **Lalu Prasad Yadav** (born 11 June 1948) is an Indian politician who served as the chief minister of Bihar from 1991 to 1997 and as the union minister for Railways \"Railway Minister (India)\") from 2004 to 2009. He is the founding president of the Rashtriya Janata Dal (RJD), a prominent political party in Bihar. He entered politics at Patna University as a student leader and, in 1977, was elected as one of the youngest members of the Lok Sabha for the Bharatiya Lok Dal of the Janata Alliance. He became the chief minister of Bihar in 1990. His party came to power in the 2015 Bihar Legislative Assembly election in coalition with Nitish Kumar of JD(U) \"Janata Dal (United)\"). Lalu was convicted in the Fodder Scam and was serving a term until 17 April 2021, when he was granted bail by the High Court.",
+      "bm25_score_raw": 0.6567019016665977,
+      "bm25_score_norm": 0.10865171930463137,
+      "bm25_rank": 10
+    },
+    {
+      "title": "लालू, राबड़ी; तेजस्वी या... तेज प्रताप के निशाने पर कौन? ...",
+      "url": "https://www.jagran.com/politics/national-tej-pratap-girlfriend-case-who-is-tej-pratap-next-target-lalu-yadav-rabri-yadav-tejashwi-yadav-23948665.html",
+      "snippet": "लालू प्रसाद ने बेटे तेज प्रताप यादव पर कार्रवाई की है लेकिन मामला शांत नहीं होगा। अब देखना है कि तेज प्रताप मुंह खोलकर किस-किस को निशाने पर लेते हैं क्योंकि उनके निशाने पर वे लोग होंगे जो पार्टी और परिवार",
+      "bm25_score_raw": 0.6432250485157994,
+      "bm25_score_norm": 0.10407632607230236,
+      "bm25_rank": 11
+    },
+    {
+      "title": "देखें वीडियो, लालू–राबड़ी–तेज प्रताप की सुरक्षा कम होते ही विधायक ...",
+      "url": "https://www.facebook.com/livecitiesnewsbihar/videos/lalurabritej-pratap-%E0%A4%95%E0%A5%80-%E0%A4%B8%E0%A5%81%E0%A4%B0%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%BE-%E0%A4%95%E0%A4%AE-%E0%A4%B9%E0%A5%8B%E0%A4%A4%E0%A5%87-%E0%A4%B9%E0%A5%80-rjd-mla-%E0%A4%A8%E0%A5%87-%E0%A4%96%E0%A5%8B%E0%A4%B2%E0%A4%BE-%E0%A4%AE%E0%A5%8B%E0%A4%B0%E0%A5%8D%E0%A4%9A%E0%A4%BE-yadav-%E0%A4%95%E0%A4%BE-%E0%A4%A8%E0%A4%BE%E0%A4%AE%E0%A4%96%E0%A5%81%E0%A4%B2/2887587368252013",
+      "snippet": "Lalu–Rabri–Tej Pratap की सुरक्षा कम होते ही RJD MLA ने खोला मोर्चा, Yadav का नाम,खुली चुनौती. देखें वीडियो, लालू–राबड़ी–तेज प्रताप की सुरक्षा कम होते ही विधायक का हल्ला बोल, नहीं जोड़े हाथ, यादवों",
+      "bm25_score_raw": 0.33666749340986635,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1290",
+    "text": "Government recommends mixing Covid vaccines based on available scientific data.",
+    "lang": "english"
+  },
+  "generated_queries": {
+    "english_translation": "Government recommends mixing Covid vaccines based on available scientific data.",
+    "native_query": "Government recommends mixing Covid vaccines based scientific data",
+    "english_query": "Government recommends mixing Covid vaccines based scientific data"
+  },
+  "native_retrieval": [
+    {
+      "title": "Mix-and-match COVID vaccines trigger potent immune response",
+      "url": "https://www.nature.com/articles/d41586-021-01359-3",
+      "snippet": "by E Callaway · 2021 · Cited by 103 — Preliminary results from a trial of more than 600 people are the first to show the benefits of combining different vaccines."
+    },
+    {
+      "title": "Mix-and-match trial finds additional dose of COVID-19 vaccine safe ...",
+      "url": "https://www.nih.gov/news-events/news-releases/mix-match-trial-finds-additional-dose-covid-19-vaccine-safe-immunogenic",
+      "snippet": "An additional booster dose of any of these vaccines was safe and prompted an immune response, according to preliminary clinical trial results."
+    },
+    {
+      "title": "Vaccine Effectiveness",
+      "url": "https://www.cdc.gov/covid/php/surveillance/vaccine-effectiveness.html",
+      "snippet": "A **.gov** website belongs to an official government organization in the United States. # Vaccine Effectiveness. Vaccine effectiveness measures how well vaccination works under real-world conditions to protect people against health outcomes such as symptomatic illness, hospitalization, and death. CDC’s COVID-19 vaccine effectiveness program protects public health through the data-driven science of conducting observational studies that provide timely evidence and inform policy recommendations to prevent illness, disability, and death from respiratory viruses. ## CDC’s COVID-19 vaccine effectiveness program. In collaboration with public health and academic partners, CDC conducts observational studies to evaluate the real-world effectiveness of FDA authorized and licensed COVID-19 vaccines. CDC's COVID-19 vaccine effectiveness program evaluates current COVID-19 vaccines by:. 3.   **Detecting changes in COVID-19 vaccine effectiveness** due to waning of vaccine-induced protection and emergence of new variants. ### Critical illness or death due to COVID-19, hospitalization for COVID-19, and medically attended COVID-19. CDC works with partners to evaluate vaccine effectiveness in preventing hospitalizations, emergency department visits, and urgent care visits for COVID-19 using the VISION network."
+    },
+    {
+      "title": "An evidence based approach to COVID vaccination",
+      "url": "https://www.youtube.com/watch?v=jbRGlEsbKQ4",
+      "snippet": "An evidence based approach to COVID vaccination\nU.S. Food and Drug Administration\n196000 subscribers\n\n24047 views\n20 May 2025\nFor Closed Captions:\nhttps://secure-web.cisco.com/1BXytnVDBbBM1fwxOYzMlCpjIdmaJhFVP-euR-j7Xs1BukyX1HBvZczvgu2cvcAsfv93jHU0MoqYCuGmsvpyCiEIWach3ZVzhU9k8N107L-2HrN8IFCUuo8J0rB6XHkihgpHHrdXgUEEOnShpiUSi3VLYv92vzk-9nAvQY4BrFRA3YteEvjG7De7PysPOChHsGJACPFadtVCh8h8V0ONSPVcMuAFyQPYk8UC36SfJmmI/https%3A%2F%2Fbit.ly%2F3ScmmPy\n\n"
+    },
+    {
+      "title": "COVID‐19 vaccines mix‐and‐match: The concept, the efficacy and ... - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8661746",
+      "snippet": "by R Rashedi · 2021 · Cited by 156 — The mix‐and‐match strategy, using heterologous vaccines in the first and second doses, might successfully solve the mentioned struggles."
+    },
+    {
+      "title": "CDC blocks publication of report showing COVID vaccine efficacy | CIDRAP",
+      "url": "https://www.cidrap.umn.edu/covid-19/cdc-blocks-publication-report-showing-covid-vaccine-efficacy",
+      "snippet": "The Centers for Disease Control and Prevention (CDC) has canceled publication of a scientific report showing the efficacy of the COVID-19 vaccine, according to media reports. The *Washington Post,* which first reported the news, says the report, initially scheduled to be published in the CDC’s *Morbidity and Mortality Weekly Report* on March 19, showed the COVID-19 vaccine cut the likelihood of emergency department visits and hospitalizations in half this past winter. But the same methodology has long been used by the CDC to evaluate vaccine effectiveness for respiratory viruses and was used in a study on the flu vaccine published last month in *MMWR.*. “Suppressing the standard of science on VE [vaccine efficacy] to wait for a perfect study in a system that cannot support it is not a hallmark of transparent scientific expertise,” Demetre Daskalakis, MD, MPH, the former director of the CDC’s National Center for Immunization and Respiratory Diseases, said in an email."
+    }
+  ],
+  "english_retrieval": [
+    {
+      "title": "Mix-and-match COVID vaccines trigger potent immune response",
+      "url": "https://www.nature.com/articles/d41586-021-01359-3",
+      "snippet": "by E Callaway · 2021 · Cited by 103 — Preliminary results from a trial of more than 600 people are the first to show the benefits of combining different vaccines."
+    },
+    {
+      "title": "Mix-and-match trial finds additional dose of COVID-19 vaccine safe ...",
+      "url": "https://www.nih.gov/news-events/news-releases/mix-match-trial-finds-additional-dose-covid-19-vaccine-safe-immunogenic",
+      "snippet": "An additional booster dose of any of these vaccines was safe and prompted an immune response, according to preliminary clinical trial results."
+    },
+    {
+      "title": "Vaccine Effectiveness",
+      "url": "https://www.cdc.gov/covid/php/surveillance/vaccine-effectiveness.html",
+      "snippet": "A **.gov** website belongs to an official government organization in the United States. # Vaccine Effectiveness. Vaccine effectiveness measures how well vaccination works under real-world conditions to protect people against health outcomes such as symptomatic illness, hospitalization, and death. CDC’s COVID-19 vaccine effectiveness program protects public health through the data-driven science of conducting observational studies that provide timely evidence and inform policy recommendations to prevent illness, disability, and death from respiratory viruses. ## CDC’s COVID-19 vaccine effectiveness program. In collaboration with public health and academic partners, CDC conducts observational studies to evaluate the real-world effectiveness of FDA authorized and licensed COVID-19 vaccines. CDC's COVID-19 vaccine effectiveness program evaluates current COVID-19 vaccines by:. 3.   **Detecting changes in COVID-19 vaccine effectiveness** due to waning of vaccine-induced protection and emergence of new variants. ### Critical illness or death due to COVID-19, hospitalization for COVID-19, and medically attended COVID-19. CDC works with partners to evaluate vaccine effectiveness in preventing hospitalizations, emergency department visits, and urgent care visits for COVID-19 using the VISION network."
+    },
+    {
+      "title": "An evidence based approach to COVID vaccination",
+      "url": "https://www.youtube.com/watch?v=jbRGlEsbKQ4",
+      "snippet": "An evidence based approach to COVID vaccination\nU.S. Food and Drug Administration\n196000 subscribers\n\n24047 views\n20 May 2025\nFor Closed Captions:\nhttps://secure-web.cisco.com/1BXytnVDBbBM1fwxOYzMlCpjIdmaJhFVP-euR-j7Xs1BukyX1HBvZczvgu2cvcAsfv93jHU0MoqYCuGmsvpyCiEIWach3ZVzhU9k8N107L-2HrN8IFCUuo8J0rB6XHkihgpHHrdXgUEEOnShpiUSi3VLYv92vzk-9nAvQY4BrFRA3YteEvjG7De7PysPOChHsGJACPFadtVCh8h8V0ONSPVcMuAFyQPYk8UC36SfJmmI/https%3A%2F%2Fbit.ly%2F3ScmmPy\n\n"
+    },
+    {
+      "title": "COVID‐19 vaccines mix‐and‐match: The concept, the efficacy and ... - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8661746",
+      "snippet": "by R Rashedi · 2021 · Cited by 156 — The mix‐and‐match strategy, using heterologous vaccines in the first and second doses, might successfully solve the mentioned struggles."
+    },
+    {
+      "title": "CDC blocks publication of report showing COVID vaccine efficacy | CIDRAP",
+      "url": "https://www.cidrap.umn.edu/covid-19/cdc-blocks-publication-report-showing-covid-vaccine-efficacy",
+      "snippet": "The Centers for Disease Control and Prevention (CDC) has canceled publication of a scientific report showing the efficacy of the COVID-19 vaccine, according to media reports. The *Washington Post,* which first reported the news, says the report, initially scheduled to be published in the CDC’s *Morbidity and Mortality Weekly Report* on March 19, showed the COVID-19 vaccine cut the likelihood of emergency department visits and hospitalizations in half this past winter. But the same methodology has long been used by the CDC to evaluate vaccine effectiveness for respiratory viruses and was used in a study on the flu vaccine published last month in *MMWR.*. “Suppressing the standard of science on VE [vaccine efficacy] to wait for a perfect study in a system that cannot support it is not a hallmark of transparent scientific expertise,” Demetre Daskalakis, MD, MPH, the former director of the CDC’s National Center for Immunization and Respiratory Diseases, said in an email."
+    }
+  ],
+  "merged_results": [
+    {
+      "title": "Mix-and-match COVID vaccines trigger potent immune response",
+      "url": "https://www.nature.com/articles/d41586-021-01359-3",
+      "snippet": "by E Callaway · 2021 · Cited by 103 — Preliminary results from a trial of more than 600 people are the first to show the benefits of combining different vaccines."
+    },
+    {
+      "title": "Mix-and-match trial finds additional dose of COVID-19 vaccine safe ...",
+      "url": "https://www.nih.gov/news-events/news-releases/mix-match-trial-finds-additional-dose-covid-19-vaccine-safe-immunogenic",
+      "snippet": "An additional booster dose of any of these vaccines was safe and prompted an immune response, according to preliminary clinical trial results."
+    },
+    {
+      "title": "Vaccine Effectiveness",
+      "url": "https://www.cdc.gov/covid/php/surveillance/vaccine-effectiveness.html",
+      "snippet": "A **.gov** website belongs to an official government organization in the United States. # Vaccine Effectiveness. Vaccine effectiveness measures how well vaccination works under real-world conditions to protect people against health outcomes such as symptomatic illness, hospitalization, and death. CDC’s COVID-19 vaccine effectiveness program protects public health through the data-driven science of conducting observational studies that provide timely evidence and inform policy recommendations to prevent illness, disability, and death from respiratory viruses. ## CDC’s COVID-19 vaccine effectiveness program. In collaboration with public health and academic partners, CDC conducts observational studies to evaluate the real-world effectiveness of FDA authorized and licensed COVID-19 vaccines. CDC's COVID-19 vaccine effectiveness program evaluates current COVID-19 vaccines by:. 3.   **Detecting changes in COVID-19 vaccine effectiveness** due to waning of vaccine-induced protection and emergence of new variants. ### Critical illness or death due to COVID-19, hospitalization for COVID-19, and medically attended COVID-19. CDC works with partners to evaluate vaccine effectiveness in preventing hospitalizations, emergency department visits, and urgent care visits for COVID-19 using the VISION network."
+    },
+    {
+      "title": "An evidence based approach to COVID vaccination",
+      "url": "https://www.youtube.com/watch?v=jbRGlEsbKQ4",
+      "snippet": "An evidence based approach to COVID vaccination\nU.S. Food and Drug Administration\n196000 subscribers\n\n24047 views\n20 May 2025\nFor Closed Captions:\nhttps://secure-web.cisco.com/1BXytnVDBbBM1fwxOYzMlCpjIdmaJhFVP-euR-j7Xs1BukyX1HBvZczvgu2cvcAsfv93jHU0MoqYCuGmsvpyCiEIWach3ZVzhU9k8N107L-2HrN8IFCUuo8J0rB6XHkihgpHHrdXgUEEOnShpiUSi3VLYv92vzk-9nAvQY4BrFRA3YteEvjG7De7PysPOChHsGJACPFadtVCh8h8V0ONSPVcMuAFyQPYk8UC36SfJmmI/https%3A%2F%2Fbit.ly%2F3ScmmPy\n\n"
+    },
+    {
+      "title": "COVID‐19 vaccines mix‐and‐match: The concept, the efficacy and ... - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8661746",
+      "snippet": "by R Rashedi · 2021 · Cited by 156 — The mix‐and‐match strategy, using heterologous vaccines in the first and second doses, might successfully solve the mentioned struggles."
+    },
+    {
+      "title": "CDC blocks publication of report showing COVID vaccine efficacy | CIDRAP",
+      "url": "https://www.cidrap.umn.edu/covid-19/cdc-blocks-publication-report-showing-covid-vaccine-efficacy",
+      "snippet": "The Centers for Disease Control and Prevention (CDC) has canceled publication of a scientific report showing the efficacy of the COVID-19 vaccine, according to media reports. The *Washington Post,* which first reported the news, says the report, initially scheduled to be published in the CDC’s *Morbidity and Mortality Weekly Report* on March 19, showed the COVID-19 vaccine cut the likelihood of emergency department visits and hospitalizations in half this past winter. But the same methodology has long been used by the CDC to evaluate vaccine effectiveness for respiratory viruses and was used in a study on the flu vaccine published last month in *MMWR.*. “Suppressing the standard of science on VE [vaccine efficacy] to wait for a perfect study in a system that cannot support it is not a hallmark of transparent scientific expertise,” Demetre Daskalakis, MD, MPH, the former director of the CDC’s National Center for Immunization and Respiratory Diseases, said in an email."
+    }
+  ]
+}

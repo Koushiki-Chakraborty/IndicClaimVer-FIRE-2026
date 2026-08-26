@@ -1,0 +1,105 @@
+{
+  "claim": {
+    "id": "S2/T/HI/1035",
+    "text": "सुप्रीम कोर्ट ने EVM-VVPAT मामले में फैसले की समीक्षा की मांग वाली याचिका खारिज की",
+    "lang": "hindi"
+  },
+  "ranked_evidence": [
+    {
+      "title": "VVPAT",
+      "url": "https://www.barandbench.com/topic/vvpat",
+      "snippet": "VVPAT · Supreme Court junks PIL seeking probe into EVM irregularities · Supreme Court dismisses review petition against EVM - VVPAT tally verdict · Supreme Court",
+      "bm25_score_raw": 2.440086350798039,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "SC Rejects Plea Seeking Review of Verdict on Petitions for ...",
+      "url": "https://www.etvbharat.com/en/!bharat/sc-rejects-plea-seeking-review-of-verdict-on-petitions-for-cross-verification-of-votes-cast-enn24073005659",
+      "snippet": "The Supreme Court, in its April 26 verdict, termed the suspicion raised about manipulation of the EVMs a \"unfounded\". The court heard a",
+      "bm25_score_raw": 1.8842408260032366,
+      "bm25_score_norm": 0.7722025187293019,
+      "bm25_rank": 2
+    },
+    {
+      "title": "Supreme Court rejects plea seeking review of VVPAT-EVM ...",
+      "url": "https://legal.economictimes.indiatimes.com/news/litigation/supreme-court-rejects-plea-seeking-review-of-vvpat-evm-verification-verdict/112130335",
+      "snippet": "VVPAT-EVM Verification: Supreme Court has dismissed a petition seeking review of its judgement rejecting plea for 100 per cent verification",
+      "bm25_score_raw": 1.0863955839332518,
+      "bm25_score_norm": 0.4452283352914712,
+      "bm25_rank": 3
+    },
+    {
+      "title": "Supreme Court rejects plea seeking review of VVPAT-EVM ...",
+      "url": "https://www.indiatvnews.com/news/india/supreme-court-rejects-plea-seeking-review-of-vvpat-evm-verification-verdict-of-april-26-2024-07-30-944310",
+      "snippet": "The Supreme Court on Tuesday dismissed a review petition seeking a reconsideration of its earlier judgement that rejected the demand for 100 per cent",
+      "bm25_score_raw": 1.0338515968912496,
+      "bm25_score_norm": 0.42369467644172704,
+      "bm25_rank": 4
+    },
+    {
+      "title": "SC rejects Opposition review plea seeking to increase VVPAT ...",
+      "url": "https://indianexpress.com/elections/sc-to-hear-opposition-review-plea-on-vvpat-slips-today-5714212",
+      "snippet": "The Supreme Court Tuesday dismissed a petition filed by 21 Opposition parties seeking to verify at least 50 per cent of Voter Verified Paper Audit Trail (VVPAT)",
+      "bm25_score_raw": 0.9861557521820417,
+      "bm25_score_norm": 0.4041478908562051,
+      "bm25_rank": 5
+    },
+    {
+      "title": "Supreme Court rejects review plea filed by 21 Opposition ...",
+      "url": "https://www.facebook.com/tv9gujarati/posts/supreme-court-rejects-review-plea-filed-by-21-opposition-parties-seeking-a-direc/2284907321762100",
+      "snippet": "Supreme Court rejects review plea filed by 21 Opposition parties seeking a direction to increase VVPAT verification from 5 to at least 50%",
+      "bm25_score_raw": 0.47165972269328027,
+      "bm25_score_norm": 0.19329632434484226,
+      "bm25_rank": 6
+    },
+    {
+      "title": "EVM/VVPAT | Election Commission of India",
+      "url": "https://www.eci.gov.in/evm-vvpat",
+      "snippet": "Electronic Voting Machine (also known as EVM) is voting using electronic means to either aid or take care of the chores of casting and counting votes.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 7
+    },
+    {
+      "title": "Module-II Election Procedure",
+      "url": "https://election.rajasthan.gov.in/PPTs/RTS%20Foundation_Module%202.pdf",
+      "snippet": "EVM consists of Ballot Unit,. Control Unit and VVPAT. • Polling Officer presses the Ballot. Button of Control Unit which enable the voter to cast his vote.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 8
+    },
+    {
+      "title": "Know Your EVM & VVPAT",
+      "url": "https://ceodelhi.gov.in/pdffolder/2018/Know-your-EVM-VVPAT-Engish.pdf",
+      "snippet": "Now EVMs enhanced with Voter Verifiable Paper Audit Trail (VVPAT) to strengthen the voter trust. VVPAT: An independent printer system attached with the",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 9
+    },
+    {
+      "title": "Electronic Voting Machine(EVM) and VVPAT(Voter Verifiable Paper Audit ...",
+      "url": "https://uaoa.gov.in/sites/default/files/2025-08/Election%20Electronic%20Voting%20Machine%20and%20Voter%20Verifiable%20Paper%20Audit%20Trail.pdf",
+      "snippet": "Replacement of particular BU, CU and VVPAT in case of non-functioning of any of these units Shredding of VVPAT slips during commissioning on daily basis in presence of RO/ARO Pasting of ‘Reserve’ stickers on reserve units Process flow in the commissioning/preparation When Preparation of EVM to be done Arrangements in the Premises of Preparation of EVM Manpower for preparation Additional tasks during preparation a) Checking of Balloting Units(BUs) b) Preparation of VVPAT c) Candidate Setting in CU d) Conduct of Higher Rate of Mock Poll Commissioning of EVMs/VVPATs to be done after the last date of withdrawal of Candidature RO draws schedule for Commissioning of EVMs/ VVPATs Written intimation to all the candidates about the schedule for their presence to oversee the commissioning and actively participate in the mock poll process and take their signatures on the register.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10
+    },
+    {
+      "title": "Know Your EVM",
+      "url": "https://www.youtube.com/watch?v=ZJReQ8ao0SU",
+      "snippet": "Know how Electronic Voting Machines (EVMs) and Voter Verifiable Paper Audit Trail (VVPATs) record and secure your vote.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11
+    },
+    {
+      "title": "ECI : How to cast your Vote using EVM - VVPAT machine, Lok Sabha ...",
+      "url": "https://www.youtube.com/watch?v=QtZIlxw871I",
+      "snippet": "Lok Sabha Elections 2019 uses EVM VVPAT combination for better verificatio. Candidates can see the name, symbol and serial number of the",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12
+    }
+  ]
+}

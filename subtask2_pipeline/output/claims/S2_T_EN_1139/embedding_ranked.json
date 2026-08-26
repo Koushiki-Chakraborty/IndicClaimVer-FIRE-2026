@@ -1,0 +1,76 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1139",
+    "text": "No evidence against me in the 2G scam: A Raja",
+    "lang": "english"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "TIMES NOW Exclusive - A Raja's first post 2G interview",
+      "url": "https://www.youtube.com/watch?v=9ZQj_RqGj-Y",
+      "snippet": "A Raja has firmly maintained that there is no evidence against him that proves his involvement in the multi-crore 2G scam.",
+      "bm25_score_raw": 2.2457950569547176,
+      "bm25_score_norm": 0.38900561760969565,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.9216192364692688,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Raja claims he's innocent, says no evidence against him in ...",
+      "url": "https://www.firstpost.com/india/raja-claims-hes-innocent-says-no-evidence-against-him-in-2g-scam-1434645.html",
+      "snippet": "Mar 14, 2014 — DMK leader A. Raja said on Friday that he was innocent and there was no evidence against him in the alleged irregularities in allocating the 2G spectrum.Read more",
+      "bm25_score_raw": 2.2645742585008977,
+      "bm25_score_norm": 0.39683391584295247,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.882227897644043,
+      "embedding_score_norm": 0.4922341935201327,
+      "embedding_rank": 2
+    },
+    {
+      "title": "2G Scam Case: How a Corruption Scandal Toppled ...",
+      "url": "https://www.newsgram.com/corruption-files/2025/09/06/2g-scam-case-how-corruption-scandal-toppled-upa",
+      "snippet": "Sep 6, 2025 — Saini ruled out that no proven evidence against Raja was submitted before the court. Judge Saini stated: “The prosecution has miserably failed",
+      "bm25_score_raw": 3.3647885957909835,
+      "bm25_score_norm": 0.8554692806976282,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8809067606925964,
+      "embedding_score_norm": 0.4752043542298771,
+      "embedding_rank": 3
+    },
+    {
+      "title": "A Raja, Kanimozhi acquitted in 2G spectrum scam case",
+      "url": "https://www.reddit.com/r/india/comments/7l7bwa/a_raja_kanimozhi_acquitted_in_2g_spectrum_scam",
+      "snippet": "A Raja, Kanimozhi acquitted in 2G spectrum scam case ... That and the lack of evidence clearly state that the scam didn't even happen.Read more",
+      "bm25_score_raw": 3.7115014350978788,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8743451833724976,
+      "embedding_score_norm": 0.3906237154630019,
+      "embedding_rank": 4
+    },
+    {
+      "title": "2G scam: Raja forged key documents",
+      "url": "https://www.ndtv.com/india-news/2g-scam-raja-forged-key-documents-450198",
+      "snippet": "Mar 16, 2011 — The agency also said that it has evidence that Mr Raja forged documents that allowed him to pull off the 2G spectrum scam.",
+      "bm25_score_raw": 2.432376255781268,
+      "bm25_score_norm": 0.46678385890185153,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8575935363769531,
+      "embedding_score_norm": 0.17469011685397057,
+      "embedding_rank": 5
+    },
+    {
+      "title": "2G spectrum case - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2G_spectrum_case",
+      "snippet": "# 2G spectrum case. The **2G spectrum case** was a political controversy in which politicians and private officials of the United Progressive Alliance (UPA) coalition government in India were allegedly involved in selling or allotting 122 2G spectrum licenses on conditions that provided an advantage to specific telecom operators. A. Raja, then Telecom Minister, was accused of selling 2G spectrum licenses at a very low cost which resulted in the loss of ₹1,760 billion (US$25 billion) in government revenue. Series of allegations were made on allotting 2G spectrum licenses including allegations from Central Bureau of Investigation after investigating the case alleging Raja for intentionally advancing the cut-off date (from 01/10/2007 to 25/09/2007) to favour specific firms (Unitech Wireless and Swan Telecom), which were allegedly ineligible for applying for telecom licenses, in return for bribes. On 21 December 2017, a special court in New Delhi acquitted all accused in the 2G spectrum case including the prime accused Raja and Kanimozhi.",
+      "bm25_score_raw": 1.3126146034234343,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8440414667129517,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6
+    }
+  ]
+}

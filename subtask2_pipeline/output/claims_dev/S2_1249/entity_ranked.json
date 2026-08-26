@@ -1,0 +1,99 @@
+{
+  "claim": {
+    "id": "S2/1249",
+    "text": "Delhi weekend curfew to stay for now, private offices allowed to open at 50% attendance",
+    "lang": "dev"
+  },
+  "entity_ranked_evidence": [
+    {
+      "title": "Delhi Weekend Curfew To stay In City, LG Allows Private ...",
+      "url": "https://www.youtube.com/watch?v=amCjtar6eu8",
+      "snippet": "Delhi Weekend Curfew To stay In City, LG Allows Private Offices To Run With 50% Capacity | T News",
+      "bm25_score_raw": 6.371176733941431,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9333275556564331,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 1
+    },
+    {
+      "title": "Delhi Mandates 50% WFH for private offices : r/IndiaTech",
+      "url": "https://www.reddit.com/r/IndiaTech/comments/1p4fdai/delhi_mandates_50_wfh_for_private_offices",
+      "snippet": "Delhi has ordered private offices to let 50% of employees work from home. This is just an advisory, not a mandate.",
+      "bm25_score_raw": 1.5279739741564031,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.9085007905960083,
+      "embedding_score_norm": 0.3931627293719997,
+      "embedding_rank": 3,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 2
+    },
+    {
+      "title": "Delhi Lieutenant Governor Allows Private Offices To Run With ...",
+      "url": "https://swachhindia.ndtv.com/delhi-lieutenant-governor-allows-private-offices-to-run-with-50-staff-weekend-curfew-to-continue-66171",
+      "snippet": "Jan 21, 2022 — Delhi Lieutenant Governor Allows Private Offices To Run With 50% Staff, Weekend Curfew To Continue. Third COVID wave: Delhi government has ...Read more",
+      "bm25_score_raw": 2.186382376044731,
+      "bm25_score_norm": 0.1359448353794612,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8963080048561096,
+      "embedding_score_norm": 0.09513611165745173,
+      "embedding_rank": 5,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 3
+    },
+    {
+      "title": "Lt Governor allows private offices in Delhi to run with 50 ...",
+      "url": "https://www.firstpost.com/india/lt-governor-allows-private-offices-in-delhi-to-run-with-50-staff-weekend-curfew-and-odd-even-rule-for-shops-to-stay-10307301.html",
+      "snippet": "Jan 21, 2022 — The weekend curfew imposed because of rise in COVID-19 cases will be in place from 10 pm Friday and continue till Monday 5 am. Read all the ...Read more",
+      "bm25_score_raw": 1.5303103257988442,
+      "bm25_score_norm": 0.00048239806556121985,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8924158215522766,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 4
+    },
+    {
+      "title": "Delhi Govt allows private offices to function with up to 50 ...",
+      "url": "https://www.thehindubusinessline.com/news/delhi-govt-allows-private-offices-to-function-with-up-to-50-per-cent-capacity/article64928821.ece",
+      "snippet": "Jan 21, 2022 — ... private offices can function with up to 50 per cent of attendance. ... While the Karnataka government lifted the weekend curfew from Friday ...Read more",
+      "bm25_score_raw": 1.86731259607413,
+      "bm25_score_norm": 0.07006492165378365,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.9192631244659424,
+      "embedding_score_norm": 0.6562250049170655,
+      "embedding_rank": 2,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 5
+    },
+    {
+      "title": "COVID-19: Private offices allowed to function with 50% staff in ...",
+      "url": "https://www.orissapost.com/covid-19-private-offices-allowed-to-function-with-50-staff-in-delhi-night-curfew-to-stay",
+      "snippet": "Jan 21, 2022 — all private offices shall be allowed to function with up to 50 per cent of attendance. The weekend curfew is implemented at 10 pm Friday and",
+      "bm25_score_raw": 5.1698381119720835,
+      "bm25_score_norm": 0.751953679919304,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8972316980361938,
+      "embedding_score_norm": 0.11771381950363134,
+      "embedding_rank": 4,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 6
+    }
+  ]
+}

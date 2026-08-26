@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/1200",
+    "text": "बिहार: लालू, राबड़ी आवास की सुरक्षा में कटौती का आदेश वापस लिया गया",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "\"Sorry, Dad, I Tried 50 Times For Government Job\": BTech Gold Medallist Kills Self In UP - NDTV",
+      "url": "https://www.ndtv.com/kanpur-news/kanpur-btech-gold-medallist-kills-self-sorry-dad-i-tried-50-times-for-government-job-11795218",
+      "snippet": "## The 23-year-old was found hanging in his room at his three-storey house in Kanpur when his family had gone to Bihar to finalise his elder brother's marriage. The man, identified as Anand Kumar, had topped his college in 2024. * He left a note apologising to his father for failing to secure a government job despite many attempts. A 23-year-old BTech gold medallist has allegedly killed himself at his home in Uttar Pradesh's Kanpur, leaving behind a suicide note apologising to his father for failing to secure a government job despite multiple attempts. The man, identified as Anand Kumar, had topped the BTech (Electrical Engineering) programme at a private engineering college, the Pranveer Singh Institute of Technology (PSIT), in Kanpur in 2024 and secured the third rank in Uttar Pradesh. He was found hanging in his room at his three-storey house in Govind Nagar when his family had gone to their hometown in Bihar to finalise his elder brother's marriage.",
+      "bm25_score_raw": 0.912462341312749,
+      "bm25_score_norm": 0.31279203249225657,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.7911487817764282,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Prince Harry and Meghan Markle Take Archie and Lilibet To Stay at Princess Diana’s Childhood Home During U.K. Trip - Yahoo",
+      "url": "https://www.yahoo.com/entertainment/celebrity/articles/prince-harry-meghan-markle-archie-141954430.html",
+      "snippet": "**Prince Harry** and **Meghan Markle** took their two children, **Archie** and **Lilibet**, to visit the childhood home of the Duke of Sussex's late mother, **Princess Diana**, during their recent European vacation, it has been revealed. Charles revealed shortly after his sister's death that the decision had been made to lay her to rest at her childhood home, noting in a statement at the time that he wanted to ensure her \"grave can be properly looked after by her family and visited in privacy by her sons,\" **Prince William** and Prince Harry. Harry has been locked in an ongoing legal battle over the removal of his taxpayer-funded security by the Executive Committee for the Protection of Royalty and Public Figures (RAVEC)—the government body tasked with deciding who does and doesn't meet the requirements for publicly funded security in the U.K. Further controversy then emerged on the morning of Harry's arrival in London, when a spokesperson for the father of two confirmed that Buckingham Palace had \"withdrawn\" an offer for him to stay at the historic property during his time in the city.",
+      "bm25_score_raw": 1.3762783603108146,
+      "bm25_score_norm": 0.47178813426687893,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.7859121561050415,
+      "embedding_score_norm": 0.9175613720003678,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Prince Harry and Meghan Markle Take Archie and Lilibet to Stay at Princess Diana's Childhood Home During U.K. Trip - Realtor.com",
+      "url": "https://www.realtor.com/news/celebrity-real-estate/prince-harry-meghan-markle-archie-lilibet-archie-princess-diana-home/",
+      "snippet": "# Prince Harry and Meghan Markle Take Archie and Lilibet to Stay at Princess Diana’s Childhood Home During U.K. Trip. **Prince Harry** and **Meghan Markle** took their two children, **Archie** and **Lilibet**, to visit the childhood home of the Duke of Sussex's late mother, **Princess Diana**, during their recent European vacation, it has been revealed. Harry has been locked in an ongoing legal battle over the removal of his taxpayer-funded security by the Executive Committee for the Protection of Royalty and Public Figures (RAVEC)—the government body tasked with deciding who does and doesn't meet the requirements for publicly funded security in the U.K. Further controversy then emerged on the morning of Harry's arrival in London, when a spokesperson for the father of two confirmed that Buckingham Palace had \"withdrawn\" an offer for him to stay at the historic property during his time in the city.",
+      "bm25_score_raw": 1.4665276437583605,
+      "bm25_score_norm": 0.5027255828852126,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.7848269939422607,
+      "embedding_score_norm": 0.9004779894042867,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Member of Vance’s Secret Service detail removed amid probe into alleged compromise of security information - NBC News",
+      "url": "https://www.nbcnews.com/politics/jd-vance/jd-vance-secret-service-removed-probe-travel-complaints-rcna588871",
+      "snippet": "# Member of Vance’s Secret Service detail removed amid probe into alleged compromise of security information. The Secret Service has removed a member of Vice President JD Vance's security detail amid an investigation into an allegation related to the compromise of operational and informational security, the agency announced.Aaron Schwartz / AFP via Getty Images file. A member of JD Vance’s protective detail has been removed pending an investigation into allegations of compromising the vice president’s security, a Secret Service spokesman said Thursday. The development was first reported by CNN, citing sources familiar with the matter who told the outlet that the agent was suspected of leaking information used in an MS Now report detailing alleged Secret Service complaints about Vance’s travel habits. Confirming the agent’s removal, Secret Service spokesman Anthony Guglielmi said in a statement shared with NBC News: “A member of the Vice Presidential Protective Division is the subject of an administrative investigation, and potential criminal inquiry, involving allegations of compromising operational and information security.”.",
+      "bm25_score_raw": 1.6583112203165304,
+      "bm25_score_norm": 0.5684689807157025,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.7763824462890625,
+      "embedding_score_norm": 0.7675380073828438,
+      "embedding_rank": 4
+    },
+    {
+      "title": "ED chargesheets self-styled godman Ashok Kharat in money laundering case - The New Indian Express",
+      "url": "https://www.newindianexpress.com/india/2026/Jul/18/ed-chargesheets-self-styled-godman-ashok-kharat-in-money-laundering-case",
+      "snippet": "# ED chargesheets self-styled godman Ashok Kharat in money laundering case. According to ED officials, the agency has so far attached, seized or frozen assets worth around Rs 37 crore. These include immovable properties worth Rs 19 crore and assets worth Rs 18 crore. NEW DELHI: The Enforcement Directorate (ED) has filed a chargesheet against self-styled godman Ashok Kharat, who also went by the aliases Captain and Bondhu Baba, his wife Kalpana Kharat and four others in a money laundering case, the agency said on Saturday. The agency has so far attached, seized or frozen assets worth around Rs 37 crore. These include immovable properties worth Rs 19 crore and assets worth Rs 18 crore, including bank lockers and vehicles seized during raids conducted in April and May at multiple locations linked to Kharat and his associates. ###### ED arrests self-styled godman Ashok Kharat Rs 70 crore money laundering case. ###### ED gets court nod to arrest 'godman' Ashok Kharat in Rs 70 crore money laundering case.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.767280638217926,
+      "embedding_score_norm": 0.6242509716490541,
+      "embedding_rank": 5
+    },
+    {
+      "title": "RVNL Wins ₹359 Crore Railway Contract for Bihar Rail Doubling - Whalesbook",
+      "url": "https://www.whalesbook.com/news/English/railway/RVNL-Wins-indian-rupee359-Crore-Railway-Contract-for-Bihar-Rail-Doubling/6a5defb7fe1c9287f476d1c3",
+      "snippet": "# RVNL Wins ₹359 Crore Railway Contract for Bihar Rail Doubling. Rail Vikas Nigam Ltd (RVNL) has emerged as the lowest bidder for a ₹358.97 crore rail doubling project in Bihar awarded by East Central Railway. Rail Vikas Nigam Ltd (RVNL) has been announced as the lowest bidder for a ₹358.97 crore engineering, procurement, and construction contract awarded by the East Central Railway. The project is focused on the doubling of a 41.04 km rail line between Kundawa Chainpur and Raxaul in Bihar, which is part of the broader Sitamarhi-Raxaul corridor. As an engineering and construction entity, the company’s revenue and profit growth depend significantly on its ability to execute these long-term projects within the stipulated timelines and budgets. One of the primary monitorables for shareholders is the pace of execution for the company’s large order book. While RVNL has a strong track record of project delivery, investors typically watch for quarterly updates on billing milestones to ensure that revenue recognition is proceeding as planned.",
+      "bm25_score_raw": 1.066472208857641,
+      "bm25_score_norm": 0.36558660527859643,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.7648571729660034,
+      "embedding_score_norm": 0.5860990847450629,
+      "embedding_rank": 6
+    },
+    {
+      "title": "From Banana Farms to Makhana Markets: The Highway Set to Power Bihar’s Agricultural Heartland - Global Agriculture",
+      "url": "https://www.global-agriculture.com/india-region/from-banana-farms-to-makhana-markets-the-highway-set-to-power-bihars-agricultural-heartland/",
+      "snippet": "Home » India Region » From Banana Farms to Makhana Markets: The Highway Set to Power Bihar’s Agricultural Heartland. # From Banana Farms to Makhana Markets: The Highway Set to Power Bihar’s Agricultural Heartland. ****20** July 2026, **New Delhi**:** Before dawn breaks over the fertile plains of Bihar, trucks loaded with bunches of bananas leave the farms of Khagaria, while sacks of makhana begin their journey from ponds and processing centres of Purnea, one of the country’s biggest makhana hubs. The proposed upgradation of the Khagaria–Purnea section of NH-31 and NH-231 to a four-lane highway by the Ministry of Road Transport and Highways, recently approved by Cabinet Committee on Economic Affairs (CCEA), seeks to address these longstanding challenges. The upgradation of the Khagaria-Purnea Section of NH-31 and NH-231 to 4-lane standard in Bihar at a cost of Rs.3936.05 crore is more of an investment in the people whose livelihoods depend on getting Bihar’s bananas and makhana to market efficiently, helping strengthen the economic backbone of the state’s agricultural heartland.",
+      "bm25_score_raw": 0.6288395799475112,
+      "bm25_score_norm": 0.21556616795864103,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.7634848356246948,
+      "embedding_score_norm": 0.5644947894087907,
+      "embedding_rank": 7
+    },
+    {
+      "title": "Kentucky Gov. Beshear says he’s found funds to again offset Medicaid cuts - WEKU",
+      "url": "https://www.weku.org/the-commonwealth/2026-07-22/kentucky-gov-beshear-says-hes-found-funds-to-again-offset-medicaid-cuts",
+      "snippet": "# Kentucky Gov. Beshear says he’s found funds to again offset Medicaid cuts. Kentucky Public Radio | By Sylvia Goodman. ## For the third time in as many months, Gov. Andy Beshear said he is undoing a cut to healthcare services using alternate funds. Kentucky Gov. Andy Beshear announced Wednesday he would reverse a 4% cut made to Medicaid reimbursement rates last month. Beshear said he is taking the funds from various sources including an oversized corporate tax payment in July and an unexpected budget surplus from the previous fiscal year. “My administration will apply $255 million from these funds to close the Medicaid gap and reverse the General Assembly's cuts,” Beshear said at a Wednesday press conference. “This means the providers and services that our families rely on will not be at risk this year. “These dollars weren't expected by anyone, including the General Assembly, but now we can provide relief for those who rely on Medicaid while still investing in our state,” Beshear said.",
+      "bm25_score_raw": 2.917153400751465,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.7440738677978516,
+      "embedding_score_norm": 0.25891374233612396,
+      "embedding_rank": 8
+    },
+    {
+      "title": "Dream Roads: A Village Boy’s Arduous Journey in Self-Making - ummid.com",
+      "url": "https://ummid.com/news/2026/7/20/dream-roads-a-village-boys-arduous-journey-in-self-making.html",
+      "snippet": "#### Published by *BlueRose One (New Delhi-London)* in March 2026, *Dream Roads* takes you to a memorable journey of a young boy born into a nondescript and distant village Dengatoli of the erstwhile Purnea district (now part of the Kishanganj district), in the State of Bihar in India. Published by *BlueRose One (New Delhi-London)* in March 2026, *Dream Roads* takes you to a memorable journey of a young boy born into a nondescript and distant village Dengatoli of the erstwhile Purnea district (now part of the Kishanganj district), in the State of Bihar in India, then infested with loot, crime, underdevelopment and the worst kind of illiteracy from where his wings slowly gather strength under the protective grooming of his parents, and with passage of time and equipped with higher literacy in the prestigious Aligarh Muslim University, which he repeatedly reverently refers to as the Oxford of the East that he literally flew over the seas to cross the national boundary, landingquite a challenging yet rewarding job at the Prince Mohammad bin Fahd University, in the Kingdom of Saudi Arabia.",
+      "bm25_score_raw": 0.8933861658301575,
+      "bm25_score_norm": 0.30625272075168186,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.7424302101135254,
+      "embedding_score_norm": 0.23303813218180489,
+      "embedding_rank": 9
+    },
+    {
+      "title": "Biggs wins big in Republican primary for governor - Axios",
+      "url": "https://www.axios.com/local/phoenix/2026/07/22/andy-biggs-republican-primary-win-schweikert-katie-hobbs",
+      "snippet": "Using some kinds of trackers (like cross-site or behavioral advertising cookies) may be considered a “sale” or “sharing” of personal data under certain state laws. Setting this to “off” disables targeted advertising and related trackers in your current browser. Because we can't link your Axios subscriber account (email) to browser cookies, you may also want to update your settings in the Privacy Center to ensure your account is fully opted out. See our Privacy Policy for more on how we use personal data and your rights. Review our Privacy Policy at axios.com/legal for more on how we use personal data and your rights. U.S. Rep. Andy Biggs cruised to an easy victory in the Republican primary for governor, setting up a showdown with Democratic Gov. Katie Hobbs. *   And despite big Democratic wins in recent years — the party controls the governor's, secretary of state's and attorney general's offices, and both U.S. Senate seats — Arizona is still a predominantly Republican state where the GOP has a substantial voter registration advantage.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.7417203187942505,
+      "embedding_score_norm": 0.22186252596850561,
+      "embedding_rank": 10
+    },
+    {
+      "title": "Cyclospora outbreak: 46 cases in New Jersey, 28 in Pennsylvania, including 5 cases in Bucks Co. - WFMZ.com",
+      "url": "https://www.wfmz.com/news/area/pennsylvania/cyclospora-outbreak-46-cases-in-new-jersey-28-in-pennsylvania-including-5-cases-in-bucks/article_3e6779c8-f397-4aa4-9e80-5f4c40485e1d.html",
+      "snippet": "You are the owner of this article. You have permission to edit this article. Mostly cloudy and humid with showers and thunderstorms, with the potential for evening severe/gusty storms. #### (1 of 4) Upper Bucks County: Flood Watch until WED 2:00 AM EDT. #### (2 of 4) Western Montgomery County: Flood Watch until WED 2:00 AM EDT. #### (4 of 4) Hunterdon County: Flood Watch until WED 2:00 AM EDT. The Flash Flood Watch is cancelled for portions of northern Delaware, including the following area, New Castle, New Jersey, including the following areas, Camden, Eastern Monmouth, Gloucester, Hunterdon, Mercer, Middlesex, Morris, Northwestern Burlington, Somerset and Western Monmouth, and southeast Pennsylvania, including the following areas, Delaware, Eastern Chester, Eastern Montgomery, Lower Bucks, Philadelphia, Upper Bucks, Western Chester and Western Montgomery. headline: Flood Watch until WED 2:00 AM EDT. Bucks County confirmed to 69 News it has five of those cases right now, and Dr. Patel said, if you unknowingly eat Cyclospora, the symptoms aren't pretty.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.7414842844009399,
+      "embedding_score_norm": 0.2181467072779376,
+      "embedding_rank": 11
+    },
+    {
+      "title": "Advancements in Agricultural Agriculture - Dr. Xulin Guo - Farms.com",
+      "url": "https://m.farms.com/videos/crops/advancements-in-agricultural-agriculture-dr-xulin-guo-244944.aspx",
+      "snippet": "# Advancements in Agricultural Agriculture - Dr. Xulin Guo. ## Video: Advancements in Agricultural Agriculture - Dr. Xulin Guo. Woody plant encroachment: Is it a threat to grassland ecosystems? Presentation by Dr. Xulin Guo (PhD), Professor and Head, Department of Geography and Planning, College of Arts and Science. ## Business News by Better Farming. Better Internet May Be Coming to Your Farm›. ## General News by Better Farming. Meet Manitoba Crop Alliance’s 2025-26 high school...›. Manitoba Crop Alliance awards 2025-26 high school...›. Friday Crop Report on a Thursday first days of June.›. ## Machinery News by Better Farming. ## Crop News by Better Farming. Meet Manitoba Crop Alliance’s 2025-26 h...›. ## Livestock News by Better Farming. We use these technologies for a variety of reasons, including to recognize new and past website users, to customize your experience, perform analytics and deliver personalized advertising on our sites, apps and newsletters and across the Internet based on your interests.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.7276272773742676,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

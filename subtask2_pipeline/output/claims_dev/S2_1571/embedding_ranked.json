@@ -1,0 +1,76 @@
+{
+  "claim": {
+    "id": "S2/1571",
+    "text": "Rajasthan High Court Sets Aside Police Constable's Compulsory Retirement, Citing His Honourable Acquittal In Abduction Case",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "LiveLaw's Post",
+      "url": "https://www.linkedin.com/posts/livelaw_rajasthan-high-court-refuses-to-interfere-activity-7079800941553598464-UtG4",
+      "snippet": "Rajasthan High Court Refuses To Interfere With Police Constable's Compulsory Retirement, Says His Acquittal In Abduction Case Not 'Honourable'",
+      "bm25_score_raw": 2.0942125358398544,
+      "bm25_score_norm": 0.7874706724044612,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.9640109539031982,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Rajasthan High Court Refuses To Interfere With Police Constable's ...",
+      "url": "https://www.livelaw.in/amp/high-court/rajasthan-high-court/rajasthan-high-court-petition-police-constable-compulsory-retirement-departmental-enquiry-231468",
+      "snippet": "Rajasthan High Court Refuses To Interfere With Police Constable's Compulsory Retirement, Says His Acquittal In Abduction Case Not 'Honourable'",
+      "bm25_score_raw": 2.4234541865943693,
+      "bm25_score_norm": 0.946001079265697,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.9513866901397705,
+      "embedding_score_norm": 0.8862000042983945,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Rajasthan HC Quashes Compulsory Retirement of Police Inspector, Says ...",
+      "url": "https://www.verdictum.in/amp/court-updates/high-courts/rajasthan-high-court/arvind-charan-v-the-state-of-rajasthan-2025rj-jd55263-retirement-blemish-police-service-pension-rules-1606521",
+      "snippet": "The Rajasthan High Court has set aside the compulsory retirement of a Police Inspector, holding that the State's power to retire an employee in",
+      "bm25_score_raw": 2.092931604826629,
+      "bm25_score_norm": 0.7868539019739205,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8986042141914368,
+      "embedding_score_norm": 0.4103983537148875,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Rajasthan high court upholds compulsory retirement of IPS officer ...",
+      "url": "https://legal.economictimes.indiatimes.com/amp/news/industry/rajasthan-high-court-upholds-compulsory-retirement-of-ips-officer-indu-kumar-bhusan/91199057",
+      "snippet": "Rajasthan high court upholds compulsory retirement of IPS officer Indu Kumar Bhusan. “Those who are not obeying the orders of the government",
+      "bm25_score_raw": 2.5356010873279686,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8864949345588684,
+      "embedding_score_norm": 0.3012406241268886,
+      "embedding_rank": 4
+    },
+    {
+      "title": "1580 days absent: Rajasthan High Court rejects ex-constable's 20-year ...",
+      "url": "https://indianexpress.com/article/legal-news/1580-days-absent-rajasthan-high-court-rejects-ex-constables-20-year-legal-battle-over-compulsory-retirement-10484196/lite",
+      "snippet": "Rajasthan High Court rejects ex-constable's 20-year legal battle over 'compulsory retirement' ement by the authority concerned in 2008. for as",
+      "bm25_score_raw": 1.9432344227909342,
+      "bm25_score_norm": 0.7147744578339881,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8761166334152222,
+      "embedding_score_norm": 0.20768660405338607,
+      "embedding_rank": 5
+    },
+    {
+      "title": "citedby: 501378",
+      "url": "https://indiankanoon.org/search?formInput=citedby%3A+501378&pagenum=11",
+      "snippet": "This Court, in order to meet the ends of justice, substituted the order of compulsory retirement in place of the order of dismissal from service on Dasayan,",
+      "bm25_score_raw": 0.45876512082026016,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8530771732330322,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6
+    }
+  ]
+}

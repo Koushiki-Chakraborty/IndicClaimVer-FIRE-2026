@@ -1,0 +1,99 @@
+{
+  "claim": {
+    "id": "S2/1128",
+    "text": "Have given support to AAP manifesto, not to party: DPCC chief",
+    "lang": "dev"
+  },
+  "entity_ranked_evidence": [
+    {
+      "title": "Andy Burnham will be bolder but stick to Labour manifesto, Lucy Powell says - BBC",
+      "url": "https://www.bbc.com/news/articles/cx2k76gydreo",
+      "snippet": "# Burnham will be bolder but stick to Labour manifesto, deputy leader says. Andy Burnham will stand by promises made in Labour's 2024 election manifesto but will be bolder and more ambitious, Labour's deputy leader Lucy Powell has said. Speaking to the BBC's Sunday with Laura Kuenssberg, Powell said Burnham's leadership would be a moment for \"clearing the decks of all the other things that might distract\" from the cost of living and the economy. Burnham was officially declared as the new Labour Party leader on Friday following a short contest in which he was the only candidate, having secured the backing of 379 MPs. Some opposition parties have urged Burnham to call a general election in order to ensure he has a mandate for his premiership. However, Powell insisted Burnham would stick to the promises made in Labour's manifesto in the 2024 general election.",
+      "bm25_score_raw": 1.9383227812548363,
+      "bm25_score_norm": 0.20042595593846982,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8018079996109009,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 1
+    },
+    {
+      "title": "'Liars' and 'Poison': Shin Bet Chief Shared His Anti-media Manifesto With Top Agents - Haaretz",
+      "url": "https://www.haaretz.com/israel-news/israel-politics/2026-07-23/ty-article/.premium/liars-poison-shin-bet-chief-shared-his-anti-media-manifesto-with-top-agents/0000019f-8b7f-d114-a59f-cfff479b0000",
+      "snippet": "# 'Liars' and 'Poison': Shin Bet Chief Shared His Anti-media Manifesto With Top Agents. According to several sources, David Zini convened senior Shin Bet officials and told them not to believe everything they read in the press, adding that the Israeli media was 'engaged in character assassination' against him. Share to FacebookShare to XComments:. Shortly after David Zini became head of the Shin Bet security service late last year, he convened all the security service's senior directors and shared with them his anti-media manifesto, several sources familiar with the talk told Haaretz. ## In the News. ### U.S. Military Completes 12th Night of Strikes on Iran. ### How Israel's 'Meaningful' Military Service Creates Lost Generation in West Bank. ### As Ground Invasion Looms, U.S. and Iran Want Wild-card Israel Out of the Fight. ### Between Messi and Milei: How Argentina Became Israel's Team at the World Cup. ### Democrats Rejected U.S. Aid to Israel, and AIPAC Couldn't Stop Them.",
+      "bm25_score_raw": 2.3767905286723776,
+      "bm25_score_norm": 0.45438138903321695,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.7884612083435059,
+      "embedding_score_norm": 0.6926301629353063,
+      "embedding_rank": 2,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 2
+    },
+    {
+      "title": "'Liars' and 'poison': Shin Bet chief shared his anti-media manifesto with top agents - Jewish Rhode Island",
+      "url": "https://www.jewishrhody.com/stories/liars-and-poison-shin-bet-chief-shared-his-anti-media-manifesto-with-top-agents,166017",
+      "snippet": "Serving the Jewish community of Rhode Island. + Letters to the editor Opinion. # 'Liars' and 'poison': Shin Bet chief shared his anti-media manifesto with top agents. Josh Breiner (via Haaretz.com). According to several sources, David Zini convened senior Shin Bet officials and told them not to believe everything they read in the press, adding that the Israeli media was 'engaged in character assassination' against him. Continue reading at Haaretz.com ». #### about jewish rhode island. * Where to find the paper. #### adding your voice. * Submit a letter to the editor. * Submit your We Are Read Photo. #### published by.",
+      "bm25_score_raw": 2.6514594614829297,
+      "bm25_score_norm": 0.6134664487677273,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.7860392928123474,
+      "embedding_score_norm": 0.6368546759824848,
+      "embedding_rank": 3,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 3
+    },
+    {
+      "title": "Burnham risks Labour backlash if he reverses ban on new oil and gas drilling - The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/jul/18/burnham-expected-to-reverse-ban-on-new-oil-and-gas-drilling",
+      "snippet": "# Burnham risks Labour backlash if he reverses ban on new oil and gas drilling. Party manifesto pledged to honour existing North Sea exploration licences but not issue new ones. Andy Burnham risks his first confrontation with Labour MPs if he announces new oil and gas drilling licences when he becomes prime minister, insiders have warned. Speculation is rife that Burnham will announce some new plans for drilling in the North Sea after he is installed in Downing Street on Monday. In the party’s 2024 manifesto, it pledged to honour existing exploration licences but not issue new ones. However, Mike Reader, an MP who is part of Labour’s environment campaign group, which backed Burnham for the leadership, said new licences, if approved, would have “zero impact” on household bills as they would generate a tiny proportion of the energy needed to power the UK. Experts have argued that new North Sea gas licences would have little influence on prices as the UK is “highly integrated” with the European and global markets.",
+      "bm25_score_raw": 1.5922765622256834,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.7716497182846069,
+      "embedding_score_norm": 0.30547006904503715,
+      "embedding_rank": 4,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 4
+    },
+    {
+      "title": "Court Grants Final Approval to Landmark $1.5 Billion Anthropic Settlement - Publishing Perspectives",
+      "url": "https://publishingperspectives.com/2026/07/court-grants-final-approval-to-landmark-1-5-billion-anthropic-settlement/",
+      "snippet": "# Court Grants Final Approval to Landmark $1.5 Billion Anthropic Settlement. By Andrew Richard Albanese, Editor-in-Chief. The checks will soon be in the mail after a federal judge this week granted final approval to the landmark $1.5 billion settlement in *Bartz v. “We applaud the court’s final approval of this settlement, which represents an important victory in the larger battle to hold big tech accountable for its unscrupulous appropriation of intellectual and creative properties that clearly belong to authors and publishers,” said AAP President and CEO in a statement. While it is “well established” that 25% of a common fund is a presumptively reasonable amount of attorney’s fees in U.S. class actions, the judge held, that percentage does not necessarily apply to so-called mega-funds—which would include the $1.5 billion settlement in this case. Andrew Richard Albanese is the editor-in-chief of 'Publishing Perspectives' and founder and editor of 'Words & Money,' a media site that centers the role of libraries in the 21st Century publishing business.",
+      "bm25_score_raw": 2.5060184773786065,
+      "bm25_score_norm": 0.5292287178844866,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.7696788907051086,
+      "embedding_score_norm": 0.2600829089511469,
+      "embedding_rank": 5,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 5
+    },
+    {
+      "title": "Trump Says Scots Are ‘Dancing in the Streets’ Over Burnham’s Oil Plans - Newsweek",
+      "url": "https://www.newsweek.com/trump-burnham-north-sea-oil-plans-12215765",
+      "snippet": "Burnham Allies Say Labour Will Stick to Existing Manifesto Trump's remarks arrived amid intense debate in Britain about whether the incoming government will pursue a more industry-friendly approach to North Sea oil and gas production. It's more a change of emphasis.\" Labour's 2024 manifesto pledged not to issue new North Sea oil and gas licenses, arguing they would do little to improve energy security or reduce bills while accelerating climate change. Burnham Faces Early Test on North Sea Drilling The future of North Sea oil and gas has emerged as one of the first major policy questions facing Burnham before he even enters Downing Street. Trump Has Long Pushed Oil and Gas Production Trump's intervention is consistent with his longstanding support for expanded oil and gas development. Trump's remarks arrived amid intense debate in Britain about whether the incoming government will pursue a more industry-friendly approach to North Sea oil and gas production.",
+      "bm25_score_raw": 3.3188304779040902,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.758385419845581,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 6
+    }
+  ]
+}

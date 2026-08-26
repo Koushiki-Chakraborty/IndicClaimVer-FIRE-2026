@@ -1,0 +1,6 @@
+{
+  "ID": "S2/1120",
+  "Evidence": "Bengaluru has several apartment complexes that have been declared as containment zones due to rising Covid-19 cases. The Bruhat Bengaluru Mahanagara Palike (BBMP) has set guidelines stating that if more than 3 cases are reported within an apartment complex, it will be declared a containment zone. This is a change from the previous guideline where 10 cases were required for such a declaration (Source 2, Source 3). Currently, there are 108 active micro-containment zones in Bengaluru (Source 1).",
+  "Prediction": "REFUTES",
+  "Justification": "The retrieved evidence indicates that the threshold for declaring an apartment complex a containment zone is now set at more than 3 cases, not 10 as stated in the claim. This directly contradicts the claim that complexes with over 10 Covid cases will be containment zones. Therefore, the evidence refutes the claim."
+}

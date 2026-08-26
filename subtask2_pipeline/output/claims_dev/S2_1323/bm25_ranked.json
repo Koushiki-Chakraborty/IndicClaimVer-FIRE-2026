@@ -1,0 +1,57 @@
+{
+  "claim": {
+    "id": "S2/1323",
+    "text": "Telangana effect: Union govt is ignoring majority's opinion, says Andhra CM",
+    "lang": "dev"
+  },
+  "ranked_evidence": [
+    {
+      "title": "Union govt is ignoring majority's opinion, says Andhra CM | National",
+      "url": "https://www.indiatvnews.com/amp/politics/national/telangana-union-govt-ignoring-majority-opinion-kiran-reddy-13180.html",
+      "snippet": "Telangana effect: Union govt is ignoring majority's opinion, says Andhra CM. India TV News Desk. Published: Oct 26, 2013, 02:11 PM IST",
+      "bm25_score_raw": 8.884774075784502,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "How hopeful are you that the Union Government will find a lasting ...",
+      "url": "https://www.quora.com/How-hopeful-are-you-that-the-Union-Government-will-find-a-lasting-solution-to-the-water-sharing-problem-between-Telangana-Andhra-Pradesh-and-Karnataka",
+      "snippet": "What is your opinion on the government of Telangana in comparison to the previous government of Andhra Pradesh? 2,052 Views.",
+      "bm25_score_raw": 5.367949919509242,
+      "bm25_score_norm": 0.5671072179649042,
+      "bm25_rank": 2
+    },
+    {
+      "title": "AP Reorganisation Act Promises Still a Mirage — a sordid saga of BJP's ...",
+      "url": "https://www.facebook.com/renukachowdhuryinc/posts/my-intervention-in-the-parliament-today-on-telangana-betrayed-ap-reorganisation-/1387547879594221",
+      "snippet": "The BJP-led NDA govt has adopted step-motherly attitude towards Telangana and banning the term Telangana' in the Union Budget document.",
+      "bm25_score_raw": 2.8614532450930916,
+      "bm25_score_norm": 0.2585776269662697,
+      "bm25_rank": 3
+    },
+    {
+      "title": "Telangana movement - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Telangana_movement",
+      "snippet": "Movement for the separate state of Telangana, in India. The **Telangana movement** refers to the movement for the separation of Telangana, from the pre-existing state of Andhra Pradesh \"Andhra Pradesh (1956–2014)\") in India. After decades of protests and agitation, the central government, under the United Progressive Alliance, decided to bifurcate the Andhra Pradesh state and on 2 June 2014, the Union Cabinet unilaterally cleared the bill for the creation of Telangana. In paragraph 386 it said \"After taking all these factors into consideration we have come to the conclusions that it will be in the interests of Andhra as well as Telangana, if for the present, the Telangana area is to constitute into a separate State, which may be known as the Hyderabad State with provision for its unification with Andhra after the general elections likely to be held in or about 1961 if by a two-thirds majority the legislature of the residuary Hyderabad State expresses itself in favor of such unification.\" The first movement was in Illandu, Khammam district Starting with Polikeka, 1965, 1966 from there Starting from and reaching 1967 Reaching out to universities and students.",
+      "bm25_score_raw": 2.7365935121648084,
+      "bm25_score_norm": 0.24320839758497187,
+      "bm25_rank": 4
+    },
+    {
+      "title": "A challenge to Indian federalism",
+      "url": "https://www.thehindu.com/opinion/lead/a-challenge-to-indian-federalism/article5278609.ece/amp",
+      "snippet": "The efforts of the Union government to divide Andhra Pradesh irrespective of the State legislature's views, pose a grave danger to federalism",
+      "bm25_score_raw": 1.5215333903058308,
+      "bm25_score_norm": 0.0936442644016617,
+      "bm25_rank": 5
+    },
+    {
+      "title": "Union Budget exposes selective federalism. States heading to polls ...",
+      "url": "https://www.facebook.com/KTRTRS/posts/union-budget-exposes-selective-federalism-states-heading-to-polls-get-special-me/1458588752291642",
+      "snippet": "Telangana, one of India's strongest economic engines, is deliberately ignored. This undermines cooperative federalism and deepens regional",
+      "bm25_score_raw": 0.7607666951529154,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6
+    }
+  ]
+}

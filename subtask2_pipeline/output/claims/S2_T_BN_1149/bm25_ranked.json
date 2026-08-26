@@ -1,0 +1,105 @@
+{
+  "claim": {
+    "id": "S2/T/BN/1149",
+    "text": "করোনা ঠেকাতে র‍্যাপিড টেস্টের প্রয়োজন নেই, গোষ্ঠী সংক্রমণ রোধে আইসিএমআরের এমন কোনো পরামর্শ নেই।",
+    "lang": "bengali"
+  },
+  "ranked_evidence": [
+    {
+      "title": "Why ICMR is now advising more rapid antigen tests amid surge in Covid ...",
+      "url": "https://www.youtube.com/watch?v=Y8Ly3_7tZz4",
+      "snippet": "Why ICMR is now advising more rapid antigen tests amid surge in Covid cases. @ThePrintIndia228 likes21K views5 years ago",
+      "bm25_score_raw": 2.3787158373841715,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "তড়িঘড়ি খারিজ নিজেদের রিপোর্ট",
+      "url": "https://www.anandabazar.com/amp/india/icmr-disapproves-the-recent-study-that-stated-corona-will-reach-it-s-peak-in-november-in-india-1.1163351",
+      "snippet": "ওই রিপোর্ট সংবাদমাধ্যমে আসার পরেই আজ আইসিএমআর-এর তরফে বলা হয়, তারা এই ধাঁচের কোনও সমীক্ষাই চালায়নি। ওই রিপোর্ট আইসিএমআরের সরকারি অবস্থান নয়। সূত্রের মতে, যে ভাবে সরকারের পরিকাঠামোগত খামতি তুলে ধরা",
+      "bm25_score_raw": 2.0368819272610397,
+      "bm25_score_norm": 0.8562947684835529,
+      "bm25_rank": 2
+    },
+    {
+      "title": "Advisory on Use of Rapid Antigen Detection Test for COVID-19",
+      "url": "https://health.delhi.gov.in/sites/default//files/Health/covid-19/ICMR_Circular_and_Guidelines/ICMR1406.pdf",
+      "snippet": "There are no reliable antigen detection tests available worldwide, which could be used as rapid point of care tests for quick detection of COVID",
+      "bm25_score_raw": 1.439691413136538,
+      "bm25_score_norm": 0.6052389236705714,
+      "bm25_rank": 3
+    },
+    {
+      "title": "Why Experts Are Calling ICMR's New Advisory on Antigen Tests ...",
+      "url": "https://science.thewire.in/health/icmr-antigen-tests-advisory-negative-results-rt-pcr-retest",
+      "snippet": "Several experts have raised questions about a new advisory on the use of a rapid diagnostic test to scale up COVID-19 testing in India.",
+      "bm25_score_raw": 0.9985288301111273,
+      "bm25_score_norm": 0.419776424917232,
+      "bm25_rank": 4
+    },
+    {
+      "title": "Media Update ICMR scales up its capacity to fight COVID-19",
+      "url": "https://www.icmr.gov.in/icmrobject/custom_data/1702893576_press_brief_6april2020.pdf",
+      "snippet": "ICMR has released advisory to start rapid antibody based blood test for COVID-19 as a strategy for areas reporting clusters (containment zone)",
+      "bm25_score_raw": 0.9342961945519362,
+      "bm25_score_norm": 0.3927733526924191,
+      "bm25_rank": 5
+    },
+    {
+      "title": "Use rapid test kits only for surveillance: ICMR to states",
+      "url": "https://timesofindia.indiatimes.com/india/use-rapid-test-kits-only-for-surveillance-icmr-to-states/amp_articleshow/75309158.cms",
+      "snippet": "ICMR said it has asked states to stop using rapid testing kits for Covid-19 for two days so that it can check complaints, they have been told",
+      "bm25_score_raw": 0.8921686106292538,
+      "bm25_score_norm": 0.3750631313786327,
+      "bm25_rank": 6
+    },
+    {
+      "title": "#ICMR issues new guidelines on #COVID testing. Check all the details ...",
+      "url": "https://www.facebook.com/MyGovIndia/posts/icmr-issues-new-guidelines-on-covid-testing-check-all-the-details-hereindiafight/3974171039363722",
+      "snippet": "ICMR having mandated states to stop using rapid testing kits for COVID-19 for two days for verifying complaints related to rapid antibody kits",
+      "bm25_score_raw": 0.6359887667199966,
+      "bm25_score_norm": 0.2673664322256253,
+      "bm25_rank": 7
+    },
+    {
+      "title": "Uchaton Mon Ghore Roy Na - Ajoy Chakraborty [Remastered]",
+      "url": "https://www.youtube.com/watch?v=EL9fPVQB9Ho",
+      "snippet": "Uchaton Mon Ghore Roy Na Artist: Ajoy Chakraborty Lyrics: Kazi Nazrul Islam Music: Kazi Nazrul Islam Genre: Nazrul Sangeet COPYRIGHT",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 8
+    },
+    {
+      "title": "Raman Kumar Roy",
+      "url": "https://music.apple.com/us/artist/raman-kumar-roy/1172753300",
+      "snippet": "Sign In. Search · Home · New · Radio. Install Apple Music Get it on Google Play. Raman Kumar Roy. Top Songs. Aji Bijon Ghore. Aji Bijon Ghore - Single · 2021",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 9
+    },
+    {
+      "title": "Uchaton Mon Ghore Roy Na - Susmita Debnath Suchi: Song Lyrics, Music ...",
+      "url": "https://www.shazam.com/song/1407174887/uchaton-mon-ghore-roy-na",
+      "snippet": "Music Video. Uchaton mon ghore roy na উচাটন মন ঘরে রয় না । Nazrul Sangeet। Susmita Debnath Suchi. Watch Uchaton mon ghore roy na উচাটন মন ঘরে রয় না ।",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10
+    },
+    {
+      "title": "Amar mon cheye roy আমার মন চেয়ে রয় I Rabindra Sangeet I Adity Mohsin",
+      "url": "https://www.youtube.com/watch?v=KzOyEvsVCk4",
+      "snippet": "আমার মন চেয়ে রয় মনে মনে হেরে মাধুরী। নয়ন আমার কাঙাল হয়ে মরে না ঘুরি॥",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11
+    },
+    {
+      "title": "চির আধুনিক, এদেশের জরা মুক্তির অন্যতম পথিকৃৎ রাজা রামমোহন রায়",
+      "url": "https://cpimwestbengal.org/rammohan-roy-the-history",
+      "snippet": "চির আধুনিক, এদেশের জরা মুক্তির অন্যতম পথিকৃৎ রাজা রামমোহন রায় ... চিরস্থায়ী বন্দোবস্তের' কুফলগুলির প্রতি তিনি সরকারের দৃষ্টি আকর্ষণ করেন। ... রাজা রামমোহন রায়ের জন্ম ১৭৭২ সালের ২২ শে মে। ... কোরান, বাইবেল",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12
+    }
+  ]
+}

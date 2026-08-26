@@ -1,0 +1,105 @@
+{
+  "claim": {
+    "id": "S2/1392",
+    "text": "বাতাসে করোনা মারতে মেশিন তৈরি করেছেন দিল্লির গবেষক।",
+    "lang": "dev"
+  },
+  "ranked_evidence": [
+    {
+      "title": "দিল্লির মুখ্যমন্ত্রীকে ক'ষে চ-ড় দিলেন যুবক | Delhi Chief ...",
+      "url": "https://www.youtube.com/watch?v=ZyMm_soVgSc",
+      "snippet": "দিল্লির মুখ্যমন্ত্রীকে ক'ষে চ-ড় দিলেন যুবক | Delhi Chief Minister | India News | Kalbela · Comments.Read more",
+      "bm25_score_raw": 2.5828748169306666,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "LG Delhi (@LtGovDelhi) / Posts / X",
+      "url": "https://x.com/LtGovDelhi",
+      "snippet": "LG Delhi (@LtGovDelhi) - Posts - Official Twitter Account of Lieutenant Governor of Delhi | X (formerly Twitter)",
+      "bm25_score_raw": 1.8357141033322968,
+      "bm25_score_norm": 0.7107251545058422,
+      "bm25_rank": 2
+    },
+    {
+      "title": "New Air Purifier May Offer Robust Protection Against COVID-19",
+      "url": "https://www.docwirenews.com/post/new-air-purifier-may-offer-protection-against-covid-19",
+      "snippet": "Hydroxyl Technologies have developed a new air decontamination technology that can potentially kill COVID-19 and variants in internal spaces",
+      "bm25_score_raw": 1.6577969073039565,
+      "bm25_score_norm": 0.641841755720079,
+      "bm25_rank": 3
+    },
+    {
+      "title": "Researchers create air filter that can kill the coronavirus",
+      "url": "https://www.sciencedaily.com/releases/2020/07/200707134206.htm",
+      "snippet": "Researchers have designed a 'catch and kill' air filter that can trap the virus responsible for COVID-19, killing it instantly.",
+      "bm25_score_raw": 1.636484912780825,
+      "bm25_score_norm": 0.6335904868690173,
+      "bm25_rank": 4
+    },
+    {
+      "title": "Wash U scientists build cyclone-fueled coronavirus detection machine",
+      "url": "https://www.stlpr.org/coronavirus/2023-07-12/wash-u-scientists-build-cyclone-fueled-coronavirus-detecting-machine",
+      "snippet": "A machine prototype built by scientists at Washington University has been shown to detect COVID-19 particles in the air within five minutes.",
+      "bm25_score_raw": 1.5502643533691918,
+      "bm25_score_norm": 0.6002088615395743,
+      "bm25_rank": 5
+    },
+    {
+      "title": "A new device can detect the coronavirus in the air in minutes",
+      "url": "https://www.sciencenews.org/article/new-device-detect-coronavirus-air",
+      "snippet": "Researchers have created a machine a little bigger than a toaster that can detect airborne SARS-CoV-2 coronavirus in minutes.",
+      "bm25_score_raw": 1.1101202497928049,
+      "bm25_score_norm": 0.42980025300335895,
+      "bm25_rank": 6
+    },
+    {
+      "title": "Meeting of Ms. Rita Kaushik, Sub Divisional Census Officer ...",
+      "url": "https://www.instagram.com/reel/DX6kMxSx4MJ?hl=bn",
+      "snippet": "Rita Kaushik, Sub Divisional Census Officer, Shahdara, District North East along with Charge Officer and DCO, Delhi Officials with RWAs of Ward ...Read more",
+      "bm25_score_raw": 1.0698922036086118,
+      "bm25_score_norm": 0.4142253416989088,
+      "bm25_rank": 7
+    },
+    {
+      "title": "Monitoring the Impact of Air Quality on the COVID-19 Fatalities in Delhi, India",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7711355",
+      "snippet": "by JK Sethi · 2020 · Cited by 45 — Various machine learning techniques: Decision Trees, Linear Regression, and Random Forest have been applied to correlate air pollutants and COVID-19 fatalities",
+      "bm25_score_raw": 0.9545859886702524,
+      "bm25_score_norm": 0.36958275422911324,
+      "bm25_rank": 8
+    },
+    {
+      "title": "দিল্লির মুখ্যমন্ত্রীকে ক-ষে চ-ড় দিলেন যুবক - Kalbela World",
+      "url": "https://www.facebook.com/kalbelaworld/videos/%E0%A6%A6%E0%A6%BF%E0%A6%B2%E0%A7%8D%E0%A6%B2%E0%A6%BF%E0%A6%B0-%E0%A6%AE%E0%A7%81%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80%E0%A6%95%E0%A7%87-%E0%A6%95-%E0%A6%B7%E0%A7%87-%E0%A6%9A-%E0%A7%9C-%E0%A6%A6%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%A8-%E0%A6%AF%E0%A7%81%E0%A6%AC%E0%A6%95/2034230823651854",
+      "snippet": "দিল্লির মুখ্যমন্ত্রীকে ক-ষে চ-ড় দিলেন যুবক #delhi #ChiefMinister #kalbela ... ভারতে আজ আর কি হয়েছে ? দেশে কি নিজস্ব খবরও নেই ? ... গণ বিধ্বস্ত গণতন্ত্র রাষ্ট্র ভারত?????? ... এমন করে ...Read more",
+      "bm25_score_raw": 0.8935649167965927,
+      "bm25_score_norm": 0.3459575008975664,
+      "bm25_rank": 9
+    },
+    {
+      "title": "দিল্লি",
+      "url": "https://bn.wikipedia.org/wiki/%E0%A6%A6%E0%A6%BF%E0%A6%B2%E0%A7%8D%E0%A6%B2%E0%A6%BF",
+      "snippet": "উইকিপিডিয়া একটি মুক্ত বিশ্বকোষ. * ৩ বাস্তু পরিবেশবিদ্যা. # দিল্লি. দিল্লি ও তার সংশ্লিষ্ট নগরাঞ্চলকে ১৯৯১ সালে ভারতীয় সংবিধানের ৬৯তম সংশোধনী বলে জাতীয় রাজধানী অঞ্চলের \"জাতীয় রাজধানী অঞ্চল (ভারত)\") স্বীকৃতি দেওয়া হয়েছে। জাতীয় রাজধানী অঞ্চলের অন্তর্ভুক্ত দিল্লির প্রতিবেশী শহরগুলি হচ্ছে ফরিদাবাদ, গুরুগ্রাম, নয়ডা, গাজিয়াবাদ, নেহারপার (বৃহত্তর ফরিদাবাদ), বৃহত্তর নয়ডা, বাহাদুরগড়, সোনিপথ, পানিপথ, কারনাল, রোহতক, ভিওয়ানি, রেওয়ারী, বাগপথ, মিরাট, মজঃফরনগর, আলোয়ার, ভরতপুর ইত্যাদি। কেন্দ্রশাসিত অঞ্চল হিসেবে দিল্লি জাতীয় রাজধানী রাজ্যক্ষেত্রের রাজনৈতিক প্রশাসন ভারতের ভারতের রাজ্যগুলির অনুরূপ। দিল্লির নিজস্ব বিধানসভা, উচ্চ আদালত ও মুখ্যমন্ত্রীর নেতৃত্বাধীন কার্যনির্বাহী মন্ত্রিপরিষদ রয়েছে। নয়াদিল্লির প্রশাসনিক দায়িত্ব যুক্তরাষ্ট্রীয় ভারত সরকার ও স্থানীয় দিল্লি সরকারের হাতে যুগ্মভাবে ন্যস্ত। নয়াদিল্লিই দিল্লির রাজধানী।.",
+      "bm25_score_raw": 0.7597920420473335,
+      "bm25_score_norm": 0.2941652599912778,
+      "bm25_rank": 10
+    },
+    {
+      "title": "বাড়িতে ঢুকে দিল্লির মুখ্যমন্ত্রী রেখা গুপ্তাকে সপাটে চড়, ...",
+      "url": "https://bengali.indianexpress.com/west-bengal/delhi-cm-rekha-gupta-attacked-man-slapped-her-9678921",
+      "snippet": "Aug 20, 2025 — অভিযুক্তের নাম রাজেশ ভাই কিমজি ভাই সাকারিয়া (৪১), তিনি গুজরাতের রাজকোটের বাসিন্দা। ঘটনাস্থলেই তাঁকে আটক করা হয় এবং বর্তমানে পুলিশ তাঁকে জিজ্ঞাসাবাদ করছে বলে জানিয়েছে দিল্লি পুলিশ। পুলিশ সূত্রে খবর, অভিযুক্ত লাইনে ...Read more",
+      "bm25_score_raw": 0.5889581812641438,
+      "bm25_score_norm": 0.2280242841827024,
+      "bm25_rank": 11
+    },
+    {
+      "title": "Coronavirus air purifier that kills over 99.9% of Covid-19 sees surge in ...",
+      "url": "https://www.cnbc.com/amp/2020/09/08/coronavirus-air-purifier-that-kills-over-99point9percent-of-covid-19-sees-surge-in-demand.html",
+      "snippet": "Hong Kong-based Aurabeat has created an air purifier that can eliminate over 99.9% of Covid-19. Air Purifier cleans the air up to 3.4 times in",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12
+    }
+  ]
+}

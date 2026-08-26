@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/HI/1095",
+    "text": "SARFAESI Act | DRT किसी ऐसे व्यक्ति को सुरक्षित संपत्ति का कब्जा वापस नहीं दिला सकता, जो उधारकर्ता या मालिक नहीं: सुप्रीम कोर्ट",
+    "lang": "hindi"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Supreme Court: DRT Cannot Return Secured Asset to Someone Who is ...",
+      "url": "https://courtbook.in/posts/supreme-courts-insights-on-sarfaesi-act-jurisdiction-and-borrowers-rights-a-landmark-judgement",
+      "snippet": "The Supreme Court affirmed that the DRT's authority under Section 17(3) of the SARFAESI Act is restricted to restoring possession to individuals",
+      "bm25_score_raw": 5.9111936354333565,
+      "bm25_score_norm": 0.642590428753931,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.9454587697982788,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "DRT Cannot Restore Possession Of Secured Asset To A Person Who Isn ...",
+      "url": "https://x.com/saurbhspeaks/status/1883021224218886437",
+      "snippet": "The Supreme Court noted that the Debt Recovery Tribunal (DRT) is not authorized under the SARFAESI Act to hand over possession of the secured asset.",
+      "bm25_score_raw": 7.011626371805528,
+      "bm25_score_norm": 0.8088734462783163,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.9421859979629517,
+      "embedding_score_norm": 0.9573800216717017,
+      "embedding_rank": 2
+    },
+    {
+      "title": "SARFAESI | DRT Cannot Restore Possession Of Secured Asset To A ...",
+      "url": "https://judgementsofindia.quora.com/SARFAESI-DRT-Cannot-Restore-Possession-Of-Secured-Asset-To-A-Person-Who-Isnt-The-Borrower-Or-Possessor-The-Court-rul",
+      "snippet": "SARFAESI | DRT Cannot Restore Possession Of Secured Asset To A Person Who Isn't The Borrower Or Possessor. The Court ruled that the suit of a third party",
+      "bm25_score_raw": 7.12236021672846,
+      "bm25_score_norm": 0.8256060981408604,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.9419667720794678,
+      "embedding_score_norm": 0.9545251320328243,
+      "embedding_rank": 3
+    },
+    {
+      "title": "DRT Cannot Restore Possession Of Secured Asset To A Person Who Isn't ...",
+      "url": "https://www.facebook.com/auctionlegals/posts/sarfaesi-drt-cannot-restore-possession-of-secured-asset-to-a-person-who-isnt-the/122195701586085132",
+      "snippet": "The Court clarified that under Section 17(3) of the SARFAESI Act, the DRT can only \"restore\" possession to the person who was in possession when",
+      "bm25_score_raw": 6.526779438474183,
+      "bm25_score_norm": 0.735609712433421,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.9390202760696411,
+      "embedding_score_norm": 0.916154111258418,
+      "embedding_rank": 4
+    },
+    {
+      "title": "DRT Cannot Restore Possession of Secured Assets to Non-Borrower or ...",
+      "url": "https://www.reedlaw.in/post/drt-cannot-restore-possession-of-secured-assets-to-non-borrower-or-non-possessor-civil-court-juris",
+      "snippet": "The Supreme Court held that the DRT could not restore possession of the secured asset to a person who was neither the borrower nor the possessor.",
+      "bm25_score_raw": 6.142078571574204,
+      "bm25_score_norm": 0.677478743699008,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.9272583723068237,
+      "embedding_score_norm": 0.7629836158209632,
+      "embedding_rank": 5
+    },
+    {
+      "title": "DRT and Sarfaesi Lawyer: Questions with Answers for Sarfaesi Act - MediumPulse.In",
+      "url": "https://mediumpulse.com/drt-and-sarfaesi-lawyer-questions-with-answers-for-sarfaesi-act",
+      "snippet": "Title: DRT and Sarfaesi Lawyer: Questions with Answers for Sarfaesi Act - MediumPulse.In\n**Answer**: The DRT acts as an adjudicating authority where borrowers can challenge actions taken by banks under the SARFAESI Act, such as improper seizure of property. **Answer**: Any person aggrieved by actions under Section 13(4) of the SARFAESI Act (e.g., possession, sale, or transfer of secured assets) can approach the DRT. **Answer**: Yes, under the SARFAESI Act, banks can auction secured assets without court or DRT approval, provided they follow due process (e.g., issuing notices and adhering to timelines). **Answer**: Generally, borrowers must exhaust remedies at the DRT and Debt Recovery Appellate Tribunal (DRAT) before approaching a High Court, as the SARFAESI Act bars civil court jurisdiction (Section 34). **A3:** Yes, an individual borrower can challenge actions taken under the SARFAESI Act by approaching the Debt Recovery Tribunal (DRT). **Answer:** Yes, a borrower can challenge the action taken under the SARFAESI Act before the **Debts Recovery Tribunal (DRT)**. **Answer:** Under the SARFAESI Act, a borrower must file an appeal against the action of a secured creditor within **45 days** from the date of receiving the notice of possession. **Answer:** The **DRT** is a forum created for the recovery of debts by banks and financial institutions, while the **SARFAESI Act** gives secured creditors the right to take possession of collateral and auction it to recover debts. Here are some common questions that a Debt Recovery Tribunal (DRT) lawyer and a Sarfaesi lawyer might ask each other regarding the Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002 (SARFAESI Act), along with their respective answers:. **Answer:** Under Section 17 of the SARFAESI Act, the DRT has the jurisdiction to entertain and decide any application from any person (including the borrower) aggrieved by any of the measures referred to in sub-section (4) of Section 13 taken by the secured creditor or his authorized officer. **Answer:** Yes, the DRT has the power to grant an interim or final order, including an order to restrain the secured creditor from further proceeding with the sale or auction of the secured asset, if it finds that the measures taken by the secured creditor are not in accordance with the provisions of the SARFAESI Act and the rules.",
+      "bm25_score_raw": 5.285780127253196,
+      "bm25_score_norm": 0.5480861106767042,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.9045535326004028,
+      "embedding_score_norm": 0.4673077102201634,
+      "embedding_rank": 6
+    },
+    {
+      "title": "Debt Recovery Tribunal (DRT) and SARFAESI Act - Ajay Gautam Associates",
+      "url": "https://jabalpuradvocate.com/debt-recovery-tribunal-drt-and-sarfaesi-act",
+      "snippet": "Title: Debt Recovery Tribunal (DRT) and SARFAESI Act - Ajay Gautam Associates\nThe Debt Recovery Tribunal (DRT) is a specialized judicial body established in India under the Recovery of Debts Due to Banks and Financial Institutions Act, 1993 (RDDBFI Act). The Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002 (SARFAESI Act) is a landmark legislation in India aimed at empowering banks and financial institutions to recover dues without court intervention. The Debt Recovery Tribunal (DRT) is a specialized quasi-judicial body established under the Recovery of Debts Due to Banks and Financial Institutions Act, 1993, commonly referred to as the RDDBFI Act. The primary function of the DRT is to facilitate the expeditious recovery of debts owed to banks and financial institutions, providing a faster alternative to the traditional court system. The SARFAESI Act (Securitization and Reconstruction of Financial Assets and Enforcement of Security Interest Act), enacted in 2002, complements the functioning of DRT by empowering banks and financial institutions to enforce their security interests without the intervention of courts. Under the SARFAESI Act, banks can take possession of secured assets, manage or sell them, and recover dues from defaulting borrowers, thereby reducing legal delays and improving financial discipline in the banking sector. The two most critical pillars of this framework are the Debt Recovery Tribunal (DRT), created under the Recovery of Debts and Bankruptcy Act (RDB Act), 1993, and the Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest (SARFAESI) Act, 2002. The Debt Recovery Tribunal (DRT) is a specialized quasi-judicial body established under the Recovery of Debts and Bankruptcy Act, 1993, to adjudicate matters related to debt recovery for banks and financial institutions. The SARFAESI Act, enacted in 2002, is a powerful legal framework empowering banks and financial institutions in India to recover their dues from Non-Performing Assets (NPAs) without resorting to lengthy court procedures. While SARFAESI provides statutory powers enabling banks and financial institutions to enforce their security interests more aggressively and bypass courts, the DRT offers a judicial mechanism for recovery, appeals, and resolution of disputes. The **Debt Recovery Tribunal (DRT)** plays a crucial role in implementing the provisions of the SARFAESI Act. DRTs were originally set up under the **Recovery of Debts Due to Banks and Financial Institutions Act, 1993**, to ensure speedy adjudication and recovery of debts.",
+      "bm25_score_raw": 4.17529543566301,
+      "bm25_score_norm": 0.38028417301260936,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.8935335874557495,
+      "embedding_score_norm": 0.323799440509937,
+      "embedding_rank": 7
+    },
+    {
+      "title": "sarfaesi+and+drt | Indian Case Law | Law | CaseMine",
+      "url": "https://www.casemine.com/search/in/sarfaesi%2Band%2Bdrt",
+      "snippet": "Title: sarfaesi+and+drt | Indian Case Law | Law | CaseMine\n...Authority observed that the date of mortgage is 18.11.2010, The Securitization *and* Reconstruction of Financial Assets *and* Enforcement of Securities Interest Act, 2002 (in short *SARFAESI*) *and* Debt Recovery Tribunal (in short *DRT*) started...OTS proposal dated 01.06.2016 *and* the amounts which have come from the Guarantor into the loan account of the Financial Creditor on 31.03.2017. The Hon'ble Apex Court also held that Section 13(10) of the *SARFAESI* Act shows that *SARFAESI* *and* *DRT* remedies are complementary *and* can be...permissibility of simultaneous *SARFAESI* *and* *DRT* proceedings, *and* extended its reasoning to arbitration. The Hon'ble Apex court relegated the petitioner to approach this court, *and* hence the present petition...*SARFAESI* Act. The Hon'ble Supreme Court held that the first *and* third provisos to Section 19(1) of the *DRT* Act are enabling provisions introduced to align the *DRT* Act, NPA Act, *and* Order XXIII CPC...Section 19(1) of the *DRT* Act. 18. The Hon'ble Apex Court also held that Section 13(10) of the *SARFAESI* Act shows that *SARFAESI* *and* *DRT* remedies are complementary *and* can... ...repeated pronouncement of this Court, the High Courts continue to ignore the availability of statutory remedies under the *DRT* Act *and* the *Sarfaesi* Act *and* exercise jurisdiction under Article 226 for...proceedings at the stage of Section 13(4) of the Securitisation *and* Reconstruction of Financial Assets *and* Enforcement of Security Interest Act, 2002 (hereinafter referred as “the *Sarfaesi* Act”), on...Section 13(2) of the *Sarfaesi* Act was issued to the respondent on 21-1-2015. ...*DRT* is entitled to consider whether the possession of the secured assets had been taken in accordance with the *Sarfaesi* Act *and* the Rules framed thereunder, once the liability stood crystallised it...Enforcement of Security Interest Act, 2002 (hereinafter referred to as “the *Sarfaesi* Act”) *and* issued separate demand notices to the respondent partnership firm *and* its sister concern under Section 13...*Sarfaesi* Act, were challenged by the respondent partnership firm *and* its sister concern by way of two separate writ petitions, being Writ Petitions Nos. 46328 *and* 46329 of 2002, in which an interim stay of... Therefore, the proceedings imitated (initiated) or pending in *DRT*, either initiated under *SARFAESI* or under Debts due to the Banks *and* Financial Institutions cannot be taken into account for the purpose...Debts Due to Banks *and* Financial Institutions Act, 1993 (in short RDDB Act of 1993) before the Debt Recovery Tribunal (*DRT*), Kolkata9 for recovery of Rs...",
+      "bm25_score_raw": 1.6586394395332493,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.8920303583145142,
+      "embedding_score_norm": 0.3042234979616802,
+      "embedding_rank": 8
+    },
+    {
+      "title": "DRT, Drat & Sarfaesi Act (2002 | PDF | Government Information - Scribd",
+      "url": "https://www.scribd.com/presentation/357635069/Drt-Drat-Sarfaesi-Act-2002",
+      "snippet": "It also summarizes a notable Indian Supreme Court case that upheld the constitutionality of the SARFAESI Act. Download now Download Download as pptx, pdf, or txt Save Drt, Drat & Sarfaesi Act(2002 For Later * Save Save Drt, Drat & Sarfaesi Act(2002 For Later * 0%0% found this document useful, undefined 0 ratings 0% found this document useful (0 votes) DRT, Drat & Sarfaesi Act (2002 The document discusses Debt Recovery Tribunals (DRTs), Debt Recovery Appellate Tribunals (DRATs), and the Securitization and Reconstruction of Financial Assets and Enforcement of Security In… AI-enhanced title and description ### Document Information click to expand document information The document discusses Debt Recovery Tribunals (DRTs), Debt Recovery Appellate Tribunals (DRATs), and the Securitization and Reconstruction of Financial Assets and Enforcement of Security Interest Act (SARFAESI Act 2002) in India. It also summarizes a notable Indian Supreme Court case that upheld the constitutionality of the SARFAESI Act. Download now Download Download as pptx, pdf, or txt Save Drt, Drat & Sarfaesi Act(2002 For Later * Save Save Drt, Drat & Sarfaesi Act(2002 For Later * 0%0% found this document useful, undefined Download as pptx, pdf, or txt You are on page 1/ 17 DRT, DRAT & SARFAESI ACT(2002) DEBT RECOVERY TRIBUNALS (DRT),DEBT RECOVERY APPELLATE TRIBUNALS(DRAT)THE SECURITIZATION AND RECONSTRUCTION OF FINANCIAL ASSETS AND ENFORCEMENT OF SECURITY INTEREST ACT(SARFAESI ACT 2002) adDownload to read ad-free WHA T ARE TRIBUNA L COUR TS? y 38 DRT's and 5 DRAT's are functioning in India adDownload to read ad-free adDownload to read ad-free adDownload to read ad-free adDownload to read ad-free adDownload to read ad-free adDownload to read ad-free adDownload to read ad-free adDownload to read ad-free adDownload to read ad-free adDownload to read ad-free adDownload to read ad-free adDownload to read ad-free * Share on Facebook, opens a new window * Share on LinkedIn, opens a new window * Share with Email, opens mail client * Dishonour of Cheques in India: A Guide along with Model Drafts of Notices and Complaint: book From Everand Dishonour of Cheques in India: A Guide along with Model Drafts of Notices and Complaint Pritish Prabhu 4/5 (1) * Ibc Charts: PDF Document 0% (1) Ibc Charts 7 pages * A Presentation On Sarfaesi Act and Case Study On Act: PDF Document No ratings yet A Presentation On Sarfaesi Act and Case Study On Act 22 pages * Sarfaesi Act Most Effective Tool To Recover Bad Loans: PDF Document No ratings yet Sarfaesi Act Most Effective Tool To Recover Bad Loans 5 pages * Introduction to Street Law in India: book From Everand Introduction to Street Law in India Siva Prasad Bose No ratings yet * Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002.",
+      "bm25_score_raw": 2.7817981557907117,
+      "bm25_score_norm": 0.16971707068058517,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.885994017124176,
+      "embedding_score_norm": 0.22561467838635862,
+      "embedding_rank": 9
+    },
+    {
+      "title": "drt+restoration+of+possession | Indian Case Law",
+      "url": "https://www.casemine.com/search/in/drt%2Brestoration%2Bof%2Bpossession",
+      "snippet": "DRT has issued a direction for restoration of the possession of the secured assets to the Respondent No. 1. Possession was delivered to the secured creditor",
+      "bm25_score_raw": 3.2116628924485306,
+      "bm25_score_norm": 0.23467261332868458,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.8791253566741943,
+      "embedding_score_norm": 0.13616690315109026,
+      "embedding_rank": 10
+    },
+    {
+      "title": "धारा 18 SARFAESI अधिनियम के तहत DRT के प्रक्रियात्मक आदेशों के विरुद्ध अपीलों में पूर्व-डिपॉजिट अनिवार्य नहीं: सुप्रीम कोर्ट - Law Trend",
+      "url": "https://lawtrend.in/supreme-court-sarfaesi-section18-predeposit-not-required-drt-procedural-orders",
+      "snippet": "Title: धारा 18 SARFAESI अधिनियम के तहत DRT के प्रक्रियात्मक आदेशों के विरुद्ध अपीलों में पूर्व-डिपॉजिट अनिवार्य नहीं: सुप्रीम कोर्ट - Law Trend\nLaw Trend- Legal News WebsiteLaw TrendThe Line of Law. Law Trend- Legal News WebsiteLaw TrendThe Line of Law. Law Trend- Legal News WebsiteLaw TrendThe Line of Law. # धारा 18 SARFAESI अधिनियम के तहत DRT के प्रक्रियात्मक आदेशों के विरुद्ध अपीलों में पूर्व-डिपॉजिट अनिवार्य नहीं: सुप्रीम कोर्ट. सुप्रीम कोर्ट ने एक महत्वपूर्ण निर्णय में स्पष्ट किया है कि Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest (SARFAESI) Act, 2002 की धारा 18 के तहत डेब्ट रिकवरी ट्रिब्यूनल (DRT) के किसी प्रक्रियात्मक आदेश के विरुद्ध अपील दायर करने पर पूर्व-डिपॉजिट (pre-deposit) की अनिवार्यता लागू नहीं होती। यह निर्णय न्यायमूर्ति जे.बी. ## To Read More Please Subscribe to **VIP Membership** for Unlimited Access to All the Articles, Download Available Copies of Judgments/Order, Acess to Central/State Bare Acts, Advertisement Free Content, Access to More than 4000 Legal Drafts( Readymade Editable Formats of Suits, Petitions, Writs, Legal Notices, Divorce Petitions, 138 Notices, Bail Applications etc.) in Hindi and English. ## **Click to Subscribe**. ## If you are already a VIP Member, **Click to Login Now**. READ ALSO  उपभोक्ता न्यायालय ने निम्न गुणवत्ता वाले फुटबॉल टर्फ स्थापित करने के लिए स्पोर्ट्स टेरेन पर जुर्माना लगाया. डॉक्टरों की सुरक्षा के लिए और दिशानिर्देशों की मांग वाली याचिकाएं सुप्रीम कोर्ट ने खारिज कीं. केवल यह कहकर अनुकंपा नियुक्ति नहीं मांगी जा सकती कि परिवार का कमाने वाला सदस्य सहयोग नहीं कर रहा है: छत्तीसगढ़ हाईकोर्ट. Legal News Website Providing Latest Judgments of Supreme Court and High Court. #### Related Articles. ### मसूरी-देहरादून कॉरिडोर में अनियंत्रित निर्माण और भूस्खलन के खतरों पर उत्तराखंड हाईकोर्ट सख्त, सरकार से मांगा जवाब. ### सरकारी ‘लालफीताशाही’ पर हाईकोर्ट सख्त: 11 विशेष अपीलें खारिज, PWD जूनियर इंजीनियरों को मिलेगा पुरानी पेंशन का लाभ. ### HAMA के तहत गोद लिए गए बच्चों के स्थानांतरण के लिए CARA ‘NOC’ देने से इनकार नहीं कर सकता: दिल्ली हाईकोर्ट. #### Latest Articles. ### दिल्ली हाईकोर्ट ने इशरत जहां की जमानत बरकरार रखी, पुलिस की याचिका खारिज. ### Service Inam Land Is Wakf Property, Cannot Be Alienated: Supreme Court Restores Tribunal Verdict. ### CBI Arrests Tis Hazari Courts Reader for Allegedly Accepting Bribe to Facilitate Bail. ### रिश्वत लेते तीस हजारी कोर्ट का रीडर गिरफ्तार; जमानत के बदले मांगे थे ₹30,000.",
+      "bm25_score_raw": 8.27646940650985,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8688816428184509,
+      "embedding_score_norm": 0.0027671782388792813,
+      "embedding_rank": 11
+    },
+    {
+      "title": "Can DRT condone delay in filing of Appeal u/s 17 of SARFAESI Act? - Law Trend",
+      "url": "https://lawtrend.in/whether-drt-can-condone-delay-in-filing-of-appeal-u-s-17-of-sarfaesi-act",
+      "snippet": "Title: Can DRT condone delay in filing of Appeal u/s 17 of SARFAESI Act? - Law Trend\nLaw Trend- Legal News WebsiteLaw TrendThe Line of Law. Law Trend- Legal News WebsiteLaw TrendThe Line of Law. Law Trend- Legal News WebsiteLaw TrendThe Line of Law. * Law Trend -हिन्दी. # Can DRT condone delay in filing of Appeal u/s 17 of SARFAESI Act? Recently, the Supreme Court issued a notice in an SLP (Special Leave Petition), which raised the issue of whether the Debt Recovery Tribunal has the power to condone the delay in filing application u/s 17 of SARFAESI (Securitization and Reconstruction of Financial Assets and Reinforcement of Security Interest) Act. The petition was filed against a. ## To Read More Please Subscribe to **VIP Membership** for Unlimited Access to All the Articles, Download Available Copies of Judgments/Order, Acess to Central/State Bare Acts, Advertisement Free Content, Access to More than 4000 Legal Drafts( Readymade Editable Formats of Suits, Petitions, Writs, Legal Notices, Divorce Petitions, 138 Notices, Bail Applications etc.) in Hindi and English. ## **Click to Subscribe**. ## If you are already a VIP Member, **Click to Login Now**. READ ALSO  अल्लू अर्जुन ने 'पुष्पा 2' की स्क्रीनिंग में हुई दुखद घटना पर कानूनी राहत मांगी. Bail Granted to Person Accused of Attacking his Advocate. RTI seeks information on Modi’s claim of being arrested during the Bangladesh freedom struggle. Legal News Website Providing Latest Judgments of Supreme Court and High Court. #### Related Articles. ### “Why Should Your License Not Be Revoked?” Supreme Court Initiates Suo Motu Contempt Against Lawyer Over Offensive Post On Women’s Quota. #### Latest Articles. ### ‘खुद को सुपर CJI न समझें’: ₹37,000 करोड़ के घोटाले में सुप्रीम कोर्ट ने अपनी ही रजिस्ट्री की आलोचना की. ### हाईकोर्ट वैकल्पिक उपचारों का उपयोग किए बिना अनुच्छेद 226 के तहत एफआईआर दर्ज करने का निर्देश नहीं दे सकता: सुप्रीम कोर्ट. ### Supreme Court Seeks Centre’s Response on Rising Vacancies in Armed Forces Tribunal; Only 3 Benches To Remain Functional. ### BNSS की धारा 168 के तहत पुलिस नहीं दे सकती ‘इंजेक्शन’ जैसा आदेश: इलाहाबाद हाईकोर्ट ने कंपनी परिसर में प्रवेश रोकने वाले नोटिस पर... ### ‘Cruel and Abhorrent’: Supreme Court Quashes Odisha Bail Orders Requiring Adivasis to Clean Police Stations.",
+      "bm25_score_raw": 6.9162538857694695,
+      "bm25_score_norm": 0.7944620022684258,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8686691522598267,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

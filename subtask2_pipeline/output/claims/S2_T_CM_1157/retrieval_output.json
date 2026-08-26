@@ -1,0 +1,128 @@
+{
+  "claim": {
+    "id": "S2/T/CM/1157",
+    "text": "bhai tum to pandit ho apne pitaji se puchlo ye sab pakahndi logan ke dharma granth me likha he padhle na sanskrit to ati hogi apko aur ye samajik bhedbhav yae kaha se inhi drama grantho se na",
+    "lang": "codemix"
+  },
+  "generated_queries": {
+    "english_translation": "Brother, you are a Pandit, ask your father, all these are written in the Dharma scriptures of Pakahni Logan, you must have studied Sanskrit and where did this social discrimination come from these drama scriptures?",
+    "native_query": "bhai tum pandit ho apne pitaji puchlo sab",
+    "english_query": "Pandit Pakahni Logan Brother father written Dharma scriptures studied"
+  },
+  "native_retrieval": [
+    {
+      "title": "Gopi Mandal | #ig_gopii",
+      "url": "https://www.instagram.com/reel/DaJujdYioY9",
+      "snippet": "Arre Jajman aap apne pitaji ka Shradh karane aaye hain, hum Pandit ji na hain. Aaye hain Jajman aap apne pitaji ka Shradh karane aaye hain, hum Pandit ji na"
+    },
+    {
+      "title": "Swami Pandita Tum Deho Mati - Bhai Avtar Singh & Bhai Gurcharan Singh",
+      "url": "https://www.youtube.com/watch?v=HRYFfqq0l_c",
+      "snippet": "Swami Pandita Tum Deho Mati - Bhai Avtar Singh & Bhai Gurcharan Singh likes217 views7 months ago. New Punjabi Kahaniyan/Emotional punjabi story"
+    },
+    {
+      "title": "My middle name is Yes! Full video out now on Youtube! Link in Bio [Indian ...",
+      "url": "https://www.instagram.com/reel/DagQU8mzx_D",
+      "snippet": "My middle name is Yes! Full video out now on Youtube! Link in Bio [Indian Comedy, Standup Comedy, Female Comedian, Women in Comedy, People"
+    },
+    {
+      "title": "The Most Special BhaiDooj for Me 😍 Reason is..",
+      "url": "https://www.youtube.com/watch?v=z7B02YW8CD0",
+      "snippet": "Iss heartfelt Bhai Dooj special mein, Neetu apne bhai ki emotional kahani share karti hai. Bhai-behen ka pyaar kabhi toot nahi sakta,"
+    },
+    {
+      "title": "AITJ matlab main apne family ko paise ya ghar dene se mana karne ke liye ...",
+      "url": "https://www.reddit.com/r/AmITheJerk/comments/1dx2oqm/aitj_for_refusing_to_give_my_family_money_or_the?tl=hi-latn",
+      "snippet": "Mai (35M) ek aise ghar mein bada hua jahaan meri maa ne meri behen (33F) ko mujhse zyada pyar kiya. Mere papa jab mai chhota tha tab hi chaley gaye,"
+    }
+  ],
+  "english_retrieval": [
+    {
+      "title": "I am the Father of this world",
+      "url": "https://www.dharmawheel.net/viewtopic.php?t=23750",
+      "snippet": "\"Father\" just means the provider, care-giver, protector. The scriptures often refer to Buddhist disciples as \"sons and daughters of the Sakyan"
+    },
+    {
+      "title": "Teach your kids dharma before someone teaches them adharma 🙏🚩",
+      "url": "https://www.facebook.com/TeamHinduUnited/posts/teach-your-kids-dharma-before-someone-teaches-them-adharma-/926952596147750",
+      "snippet": "Teach your kids Dharma because school studies can help your kids achieve success in securing good jobs, becoming a successful businessman or"
+    },
+    {
+      "title": "Chanting suttas from memory from past life",
+      "url": "https://www.dhammawheel.com/viewtopic.php?t=8532",
+      "snippet": "From the age of about two, before he could read or write , he spontaneously started to chant the ancient Buddhist scriptures in the original"
+    },
+    {
+      "title": "Praise and Blame: \"Book of Eights\" # 8 | Dharma Talk by Br Pháp Hải",
+      "url": "https://www.youtube.com/watch?v=ztz88cya3mc",
+      "snippet": "A talk offered for Mountain Spring Monastery in Australia and the Compassionate Ocean Sangha: Dharma Talk by Br Pháp"
+    },
+    {
+      "title": "Stories from the Pali Canon | Akashamitra",
+      "url": "https://www.youtube.com/watch?v=VXhNLh1HvCk",
+      "snippet": "Find out more about us and join classes, courses and retreats: https://www.londonbuddhistcentre.com/ Our Dharma Night class explores aspects"
+    },
+    {
+      "title": "A Father's Tears",
+      "url": "https://www.youtube.com/watch?v=bY-YO9OOO54",
+      "snippet": "A step-by-step, practical guide to achieve the ultimate bliss of Nibbāna. These \"English Dhamma Talks\" are held every Sunday from 8.00 to"
+    }
+  ],
+  "merged_results": [
+    {
+      "title": "Gopi Mandal | #ig_gopii",
+      "url": "https://www.instagram.com/reel/DaJujdYioY9",
+      "snippet": "Arre Jajman aap apne pitaji ka Shradh karane aaye hain, hum Pandit ji na hain. Aaye hain Jajman aap apne pitaji ka Shradh karane aaye hain, hum Pandit ji na"
+    },
+    {
+      "title": "Swami Pandita Tum Deho Mati - Bhai Avtar Singh & Bhai Gurcharan Singh",
+      "url": "https://www.youtube.com/watch?v=HRYFfqq0l_c",
+      "snippet": "Swami Pandita Tum Deho Mati - Bhai Avtar Singh & Bhai Gurcharan Singh likes217 views7 months ago. New Punjabi Kahaniyan/Emotional punjabi story"
+    },
+    {
+      "title": "My middle name is Yes! Full video out now on Youtube! Link in Bio [Indian ...",
+      "url": "https://www.instagram.com/reel/DagQU8mzx_D",
+      "snippet": "My middle name is Yes! Full video out now on Youtube! Link in Bio [Indian Comedy, Standup Comedy, Female Comedian, Women in Comedy, People"
+    },
+    {
+      "title": "The Most Special BhaiDooj for Me 😍 Reason is..",
+      "url": "https://www.youtube.com/watch?v=z7B02YW8CD0",
+      "snippet": "Iss heartfelt Bhai Dooj special mein, Neetu apne bhai ki emotional kahani share karti hai. Bhai-behen ka pyaar kabhi toot nahi sakta,"
+    },
+    {
+      "title": "AITJ matlab main apne family ko paise ya ghar dene se mana karne ke liye ...",
+      "url": "https://www.reddit.com/r/AmITheJerk/comments/1dx2oqm/aitj_for_refusing_to_give_my_family_money_or_the?tl=hi-latn",
+      "snippet": "Mai (35M) ek aise ghar mein bada hua jahaan meri maa ne meri behen (33F) ko mujhse zyada pyar kiya. Mere papa jab mai chhota tha tab hi chaley gaye,"
+    },
+    {
+      "title": "I am the Father of this world",
+      "url": "https://www.dharmawheel.net/viewtopic.php?t=23750",
+      "snippet": "\"Father\" just means the provider, care-giver, protector. The scriptures often refer to Buddhist disciples as \"sons and daughters of the Sakyan"
+    },
+    {
+      "title": "Teach your kids dharma before someone teaches them adharma 🙏🚩",
+      "url": "https://www.facebook.com/TeamHinduUnited/posts/teach-your-kids-dharma-before-someone-teaches-them-adharma-/926952596147750",
+      "snippet": "Teach your kids Dharma because school studies can help your kids achieve success in securing good jobs, becoming a successful businessman or"
+    },
+    {
+      "title": "Chanting suttas from memory from past life",
+      "url": "https://www.dhammawheel.com/viewtopic.php?t=8532",
+      "snippet": "From the age of about two, before he could read or write , he spontaneously started to chant the ancient Buddhist scriptures in the original"
+    },
+    {
+      "title": "Praise and Blame: \"Book of Eights\" # 8 | Dharma Talk by Br Pháp Hải",
+      "url": "https://www.youtube.com/watch?v=ztz88cya3mc",
+      "snippet": "A talk offered for Mountain Spring Monastery in Australia and the Compassionate Ocean Sangha: Dharma Talk by Br Pháp"
+    },
+    {
+      "title": "Stories from the Pali Canon | Akashamitra",
+      "url": "https://www.youtube.com/watch?v=VXhNLh1HvCk",
+      "snippet": "Find out more about us and join classes, courses and retreats: https://www.londonbuddhistcentre.com/ Our Dharma Night class explores aspects"
+    },
+    {
+      "title": "A Father's Tears",
+      "url": "https://www.youtube.com/watch?v=bY-YO9OOO54",
+      "snippet": "A step-by-step, practical guide to achieve the ultimate bliss of Nibbāna. These \"English Dhamma Talks\" are held every Sunday from 8.00 to"
+    }
+  ]
+}

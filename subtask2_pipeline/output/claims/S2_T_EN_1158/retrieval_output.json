@@ -1,0 +1,108 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1158",
+    "text": "Assam maintains strict Covid restrictions with night curfew and gathering limits still in place.",
+    "lang": "english"
+  },
+  "generated_queries": {
+    "english_translation": "Assam maintains strict Covid restrictions with night curfew and gathering limits still in place.",
+    "native_query": "Assam Covid maintains strict restrictions night curfew gathering",
+    "english_query": "Assam Covid maintains strict restrictions night curfew gathering"
+  },
+  "native_retrieval": [
+    {
+      "title": "assam state disaster management authority",
+      "url": "https://manupatra.com/covid_19/Assam/Govt/2020/June/04/Directives%20regarding%20relaxation%20for%20activities%20the%20state.pdf",
+      "snippet": "Jun 4, 2020 — Night curfew. Movement of individuals shall remain strictly prohibited between 9.00 pm to. 5.00 am throughout the State, except for essential ...Read more"
+    },
+    {
+      "title": "Night curfew in Assam from 6 pm to 5 am",
+      "url": "https://morungexpress.com/night-curfew-in-assam-from-6-pm-to-5-am",
+      "snippet": "The Assam government on Tuesday advanced the night curfew to 6 pm from the current 8 pm with restrictions imposed on the movement of people at public places"
+    },
+    {
+      "title": "Additional directives issued in addition to the Night Curfew ...",
+      "url": "https://www.facebook.com/DCItanagar/posts/additional-directives-issued-in-addition-to-the-night-curfew-6pm-to-5am-wef-5am-/1488001008221143",
+      "snippet": "Assam imposes night curfew from 8pm to 5am due to Covid-19. The night curfew is in effect from 9 pm to 4 am and applies to all provincial"
+    },
+    {
+      "title": "government of assam",
+      "url": "https://asdma.assam.gov.in/sites/default/files/swf_utility_folder/departments/asdma_revenue_uneecopscloud_com_oid_70/this_comm/order_15.06.2021.pdf",
+      "snippet": "Apr 25, 2021 — Night curfew: Movement of individuals shall be strictly prohibited during night hours, except for essential activities. Local administration ...Read more"
+    },
+    {
+      "title": "Assam lifts night curfew on Dec 31",
+      "url": "https://theprint.in/india/assam-lifts-night-curfew-on-dec-31/788048",
+      "snippet": "Dec 25, 2021 — ... night curfew on December 31. It urged all people to maintain COVID appropriate behaviour, including wearing of face masks, adding that fines ...Read more"
+    },
+    {
+      "title": "Chief secretary of Assam issues new order; Extends night ...",
+      "url": "https://www.barakbulletin.com/chief-secretary-of-assam-issues-new-order-extends-night-curfew-restrictions-till-may-7",
+      "snippet": "Apr 30, 2021 — Extends night curfew, restrictions till May 7 … effect from April 20 until May 2 throughout the state. operate from 6 pm. allow gathering of"
+    }
+  ],
+  "english_retrieval": [
+    {
+      "title": "assam state disaster management authority",
+      "url": "https://manupatra.com/covid_19/Assam/Govt/2020/June/04/Directives%20regarding%20relaxation%20for%20activities%20the%20state.pdf",
+      "snippet": "Jun 4, 2020 — Night curfew. Movement of individuals shall remain strictly prohibited between 9.00 pm to. 5.00 am throughout the State, except for essential ...Read more"
+    },
+    {
+      "title": "Night curfew in Assam from 6 pm to 5 am",
+      "url": "https://morungexpress.com/night-curfew-in-assam-from-6-pm-to-5-am",
+      "snippet": "The Assam government on Tuesday advanced the night curfew to 6 pm from the current 8 pm with restrictions imposed on the movement of people at public places"
+    },
+    {
+      "title": "Additional directives issued in addition to the Night Curfew ...",
+      "url": "https://www.facebook.com/DCItanagar/posts/additional-directives-issued-in-addition-to-the-night-curfew-6pm-to-5am-wef-5am-/1488001008221143",
+      "snippet": "Assam imposes night curfew from 8pm to 5am due to Covid-19. The night curfew is in effect from 9 pm to 4 am and applies to all provincial"
+    },
+    {
+      "title": "government of assam",
+      "url": "https://asdma.assam.gov.in/sites/default/files/swf_utility_folder/departments/asdma_revenue_uneecopscloud_com_oid_70/this_comm/order_15.06.2021.pdf",
+      "snippet": "Apr 25, 2021 — Night curfew: Movement of individuals shall be strictly prohibited during night hours, except for essential activities. Local administration ...Read more"
+    },
+    {
+      "title": "Assam lifts night curfew on Dec 31",
+      "url": "https://theprint.in/india/assam-lifts-night-curfew-on-dec-31/788048",
+      "snippet": "Dec 25, 2021 — ... night curfew on December 31. It urged all people to maintain COVID appropriate behaviour, including wearing of face masks, adding that fines ...Read more"
+    },
+    {
+      "title": "Chief secretary of Assam issues new order; Extends night ...",
+      "url": "https://www.barakbulletin.com/chief-secretary-of-assam-issues-new-order-extends-night-curfew-restrictions-till-may-7",
+      "snippet": "Apr 30, 2021 — Extends night curfew, restrictions till May 7 … effect from April 20 until May 2 throughout the state. operate from 6 pm. allow gathering of"
+    }
+  ],
+  "merged_results": [
+    {
+      "title": "assam state disaster management authority",
+      "url": "https://manupatra.com/covid_19/Assam/Govt/2020/June/04/Directives%20regarding%20relaxation%20for%20activities%20the%20state.pdf",
+      "snippet": "Jun 4, 2020 — Night curfew. Movement of individuals shall remain strictly prohibited between 9.00 pm to. 5.00 am throughout the State, except for essential ...Read more"
+    },
+    {
+      "title": "Night curfew in Assam from 6 pm to 5 am",
+      "url": "https://morungexpress.com/night-curfew-in-assam-from-6-pm-to-5-am",
+      "snippet": "The Assam government on Tuesday advanced the night curfew to 6 pm from the current 8 pm with restrictions imposed on the movement of people at public places"
+    },
+    {
+      "title": "Additional directives issued in addition to the Night Curfew ...",
+      "url": "https://www.facebook.com/DCItanagar/posts/additional-directives-issued-in-addition-to-the-night-curfew-6pm-to-5am-wef-5am-/1488001008221143",
+      "snippet": "Assam imposes night curfew from 8pm to 5am due to Covid-19. The night curfew is in effect from 9 pm to 4 am and applies to all provincial"
+    },
+    {
+      "title": "government of assam",
+      "url": "https://asdma.assam.gov.in/sites/default/files/swf_utility_folder/departments/asdma_revenue_uneecopscloud_com_oid_70/this_comm/order_15.06.2021.pdf",
+      "snippet": "Apr 25, 2021 — Night curfew: Movement of individuals shall be strictly prohibited during night hours, except for essential activities. Local administration ...Read more"
+    },
+    {
+      "title": "Assam lifts night curfew on Dec 31",
+      "url": "https://theprint.in/india/assam-lifts-night-curfew-on-dec-31/788048",
+      "snippet": "Dec 25, 2021 — ... night curfew on December 31. It urged all people to maintain COVID appropriate behaviour, including wearing of face masks, adding that fines ...Read more"
+    },
+    {
+      "title": "Chief secretary of Assam issues new order; Extends night ...",
+      "url": "https://www.barakbulletin.com/chief-secretary-of-assam-issues-new-order-extends-night-curfew-restrictions-till-may-7",
+      "snippet": "Apr 30, 2021 — Extends night curfew, restrictions till May 7 … effect from April 20 until May 2 throughout the state. operate from 6 pm. allow gathering of"
+    }
+  ]
+}

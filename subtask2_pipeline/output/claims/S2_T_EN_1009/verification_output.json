@@ -1,0 +1,6 @@
+{
+  "ID": "S2/T/EN/1009",
+  "Evidence": "Delhi logged 1,365 Covid-19 cases in 24 hours, with a positivity rate of 6.35%. This information is confirmed by Source 1, which states that the positivity rate fell from 7.64% the previous day. The report also mentions that there were zero deaths during this period. The data was shared by the city health department, indicating a total of 21,501 tests conducted on the previous day.",
+  "Prediction": "SUPPORTS",
+  "Justification": "The retrieved evidence from Source 1 directly corroborates the claim by stating that Delhi logged 1,365 Covid-19 cases in 24 hours and that the positivity rate is 6.35%. This aligns perfectly with the claim's core assertion, confirming both the number of cases and the positivity rate."
+}

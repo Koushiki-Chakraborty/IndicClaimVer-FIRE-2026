@@ -1,0 +1,57 @@
+{
+  "claim": {
+    "id": "S2/1627",
+    "text": "Karnataka High Court Quashes Case Against Sri Ram Sene's Pramod Muthalik For Delivering Allegedly 'Provocative Speech' On Cow Slaughter",
+    "lang": "dev"
+  },
+  "ranked_evidence": [
+    {
+      "title": "Karnataka High Court Quashes Case Against Sri Ram ...",
+      "url": "https://www.livelaw.in/high-court/karnataka-high-court/karnataka-high-court-quashes-proceedings-sri-ram-sene-founder-pramod-mutalik-231337",
+      "snippet": "Karnataka High Court Quashes Case Against Sri Ram Sene's Pramod Muthalik For Delivering Allegedly 'Provocative Speech' On Cow Slaughter",
+      "bm25_score_raw": 14.28835934036389,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Karnataka High Court quashes 2017 FIR against Sri Ram ...",
+      "url": "https://www.barandbench.com/news/litigation/karnataka-high-court-fir-sri-ram-sene-president-pramod-mutalik",
+      "snippet": "Karnataka High Court quashes 2017 FIR against Sri Ram Sene President Pramod Muthalik for allegedly provocative statements.",
+      "bm25_score_raw": 5.584098290316703,
+      "bm25_score_norm": 0.31308021937040126,
+      "bm25_rank": 2
+    },
+    {
+      "title": "Anti-Cow Slaughter Bill: Muthalik flays JDS",
+      "url": "https://www.newindianexpress.com/states/karnataka/2010/Aug/08/anti-cow-slaughter-bill-muthalik-flays-jds-176572.html",
+      "snippet": "Sri Ram Sene chief Pramod Muthalik today criticized the JDS for opposing the Anti-Cow Slaughter Bill, alleging it was a move to please minorities.",
+      "bm25_score_raw": 3.9203630072492763,
+      "bm25_score_norm": 0.1817821494826416,
+      "bm25_rank": 3
+    },
+    {
+      "title": "Karnataka HC quashes 2017 case against Sri Ram Sene's ...",
+      "url": "https://indianexpress.com/article/cities/bangalore/karnataka-hc-2017-case-sri-ram-sene-pramod-muthalik-inflammatory-statements-8689797",
+      "snippet": "The Kalaburagi bench of the Karnataka High Court has dismissed a case filed against Sri Ram Sene leader Pramod Muthalik for his alleged inflammatory statements.",
+      "bm25_score_raw": 3.6085665387203965,
+      "bm25_score_norm": 0.15717590657109878,
+      "bm25_rank": 4
+    },
+    {
+      "title": "Karnataka HC: Proceedings against Pramod Muthalik for ...",
+      "url": "https://sabrangindia.in/karnataka-hc-proceedings-against-pramod-muthalik-for-delivering-offensive-statement-quashed",
+      "snippet": "On June 14, the Karnataka High Court quashed the proceedings launched against Pramod Mutalik, the founder of the extremist Hindutva fringe",
+      "bm25_score_raw": 2.457137093386052,
+      "bm25_score_norm": 0.06630780674598606,
+      "bm25_rank": 5
+    },
+    {
+      "title": "Days after Pramod Muthalik's inflammatory speech, Rama ...",
+      "url": "https://www.thenewsminute.com/karnataka/days-after-pramod-muthaliks-inflammatory-speech-rama-sene-assaults-beef-traders",
+      "snippet": "Days after Pramod Muthalik's inflammatory speech, Rama Sene assaults beef traders. The Sri Rama Sene members of Doddaballapura threw the meat",
+      "bm25_score_raw": 1.616921866152176,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6
+    }
+  ]
+}

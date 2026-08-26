@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/1327",
+    "text": "महाभारत के समय इंटरनेट होने के बयान पर ट्विटर पर उड़ा बिप्लव देव का मजाक",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Minister ridiculed for saying ancient India invented internet",
+      "url": "https://www.bbc.co.uk/news/world-asia-india-43806078",
+      "snippet": "Biplap Deb cited the ancient Hindu epic Mahabharata but his statement has attracted ridicule. \"Tripura CM Biplap Deb\" is trending on Twitter,",
+      "bm25_score_raw": 2.1789668867396608,
+      "bm25_score_norm": 0.6920753055402965,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.9129980802536011,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Twitterati 'justify' how Tripura CM Biplab Deb's comment on 'Internet ...",
+      "url": "https://indianexpress.com/article/trending/trending-in-india/tripura-cm-biplab-das-internet-during-mahabharata-twitter-reactions-5142086/lite",
+      "snippet": "Chief minister of Tripura Biplab kumar Deb said that internet exist during Mahabharat times. So was he communication Minister there at time?",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.9070557951927185,
+      "embedding_score_norm": 0.9621408900413015,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Minister Ridiculed for Saying Internet Was Invented by Ancient India ...",
+      "url": "https://www.newsweek.com/minister-ridiculed-saying-internet-was-invented-ancient-india-5000-years-ago-890567",
+      "snippet": "\"Internet and satellite communication had existed in the days of Mahabharata,\" Biplab Deb said.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.9037909507751465,
+      "embedding_score_norm": 0.9413401202134495,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Tripura CM Biplab Deb and internet during Mahabharata",
+      "url": "https://www.facebook.com/groups/IndianLiberals/posts/449874965422896",
+      "snippet": "Tripura Chief Minister Biplab Deb has said that the Internet is nothing new to India and that it existed even in the days of Mahabharata.",
+      "bm25_score_raw": 1.047590180178301,
+      "bm25_score_norm": 0.33273167134390463,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8846371173858643,
+      "embedding_score_norm": 0.8193084308909375,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Tripura CM defends internet during Mahabharat comment, blasts critics",
+      "url": "https://www.hindustantimes.com/india-news/tripura-cm-biplab-deb-defends-internet-during-mahabharata-comment-blasts-narrow-minded-critics/story-PGdxXhbbVSv9OC13DSO5jO_amp.html",
+      "snippet": "Tripura chief minister Biplab Kumar Deb on Wednesday criticised “narrow-minded people” who ridiculed his statement that internet and satellites existed during",
+      "bm25_score_raw": 1.0894834433698304,
+      "bm25_score_norm": 0.34603765277014825,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8834421634674072,
+      "embedding_score_norm": 0.8116952162216764,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Tripura CM defends comment on Internet in Mahabharata era",
+      "url": "https://www.thehindu.com/news/national/other-states/tripura-cm-defends-comment-on-internet-in-mahabharata-era/article23593839.ece/amp",
+      "snippet": "Tripura Chief Minister Biplab Kumar Deb on Wednesday defended his statement saying only “narrow-minded people won't believe it”.",
+      "bm25_score_raw": 2.269733828280372,
+      "bm25_score_norm": 0.7209043617237699,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.872099757194519,
+      "embedding_score_norm": 0.7394311962559753,
+      "embedding_rank": 6
+    },
+    {
+      "title": "श्री राम-भरत-संवाद, पादुका प्रदान, भरतजी की ब - Hindu Travels - Weebly",
+      "url": "http://hindutravels.weebly.com/2358238123522368-235223662350-234923522340-23602306235723662342-234623662342236923252366-234623812352234223662344-23492352234023322368-23252368-2348.html",
+      "snippet": "चौपाई : * भोर न्हाइ सबु जुरा समाजू। भरत भूमिसुर तेरहुति राजू॥ भल दिन आजु जानि मन माहीं। रामु कृपाल कहत सकुचाहीं॥1॥ भावार्थ:-(अगले छठे दिन) सबेरे स्नान करके भरतजी, ब्राह्मण, राजा जनक और सारा समाज आ जुटा।",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.7841416597366333,
+      "embedding_score_norm": 0.179038140504216,
+      "embedding_rank": 7
+    },
+    {
+      "title": "तुलसीदास रामचरितमानस कविता - हिंदी समय",
+      "url": "https://www.hindisamay.com/content/966/4/-%E0%A4%95%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A4%BE-%E0%A4%B0%E0%A4%BE%E0%A4%AE%E0%A4%9A%E0%A4%B0%E0%A4%BF%E0%A4%A4%E0%A4%AE%E0%A4%BE%E0%A4%A8%E0%A4%B8-%E0%A4%85%E0%A4%B0%E0%A4%A3%E0%A5%8D%E0%A4%AF%E0%A4%95%E0%A4%BE%E0%A4%82%E0%A4%A1.cspx",
+      "snippet": "बोला चितइ राम की ओरा॥ बालि ने बार-बार भगवान की ओर देखकर चित्त को उनके चरणों में लगा दिया। प्रभु को पहचानकर उसने अपना जन्म सफल माना। उसके हृदय में प्रीति थी, पर मुख में कठोर वचन थे। ... समुद्र के तीर पर छोटे भाई जटायु की",
+      "bm25_score_raw": 2.9510346631467375,
+      "bm25_score_norm": 0.9372965824245219,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.7750134468078613,
+      "embedding_score_norm": 0.12088104883728348,
+      "embedding_rank": 8
+    },
+    {
+      "title": "श्रीहनुमान जी ने प्रभु श्रीराम जी के सामने किष्किंधा- राजसत्ता से विताडित ...",
+      "url": "https://www.facebook.com/groups/168253765160429/posts/970412751611189",
+      "snippet": "आनन्द रामायण के तेरहवाँ सर्ग से लब्ध वर्णन के अनुसार-- एक दिन मर्यादा पुरुषोत्तम भगवान श्रीराम जी ने \"अगस्त्य मुनि\" से \"बाली\" और \"सुग्रीव\" के जन्म- रहस्य को जानना चाहा तो, अगस्त्य मुनि कहा था-- \"हे",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.7715147733688354,
+      "embedding_score_norm": 0.09859052236799533,
+      "embedding_rank": 9
+    },
+    {
+      "title": "[PDF] 4-Kishkindha-Kand.pdf - HariOmGroup",
+      "url": "https://www.hariomgroup.org/hariombooks_shastra/Ramcharitmanas/Hindi-Meaning/4-Kishkindha-Kand.pdf",
+      "snippet": "सुंदर. स्फटिक मणि की एक अत्यंत उज्ज्वल शिला है, उस पर दोनों भाई सुखपूर्वक विराजमान हैं ॥3 ॥ कहत अनुज सन कथा अनेका। भगति बिरत नृपनीति बिबेका ॥ बरषा काल मेघ नभ छाए। गरजत लागत परम सुहाए || 4 ||. श्री राम छोटे भाई",
+      "bm25_score_raw": 0.8786576605795704,
+      "bm25_score_norm": 0.2790759568727594,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.764275074005127,
+      "embedding_score_norm": 0.052465408633069484,
+      "embedding_rank": 10
+    },
+    {
+      "title": "देव दनुज नर नाग खग प्रेत पितर गंधर्ब। बंदउँ किंनर रजनिचर कृपा करहु अब ...",
+      "url": "https://www.instagram.com/reel/DZOXCrMFPEg",
+      "snippet": "श्री रामचरितमानस चौपाई प्रभु की अपार कृपा सांसारिक दुःख दूर सबकी कृपा कपट-दम्भ रहित हृदय अर्थ: जिन पर राम की कृपा होती है, उन्हें कोई सांसारिक दुःख छु तक नहीं सकता। परमात्मा जिस पर कृपा करते हैं उस पर तो",
+      "bm25_score_raw": 3.148453454842696,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.7623867392539978,
+      "embedding_score_norm": 0.04043456994906802,
+      "embedding_rank": 11
+    },
+    {
+      "title": "YouTube",
+      "url": "https://www.youtube.com/watch?v=IYvXlVbcCw8",
+      "snippet": "Share your videos with friends, family, and the world.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.7560402154922485,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

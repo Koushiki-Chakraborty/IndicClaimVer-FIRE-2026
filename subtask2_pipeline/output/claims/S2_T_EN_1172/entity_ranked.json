@@ -1,0 +1,99 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1172",
+    "text": "Mumbai records two-fold rise in Covid-19 infections in 15 days",
+    "lang": "english"
+  },
+  "entity_ranked_evidence": [
+    {
+      "title": "Mumbai records two-fold rise in Covid-19 infections in 15 days",
+      "url": "https://www.indiatoday.in/amp/cities/mumbai/story/mumbai-covid-cases-two-fold-rise-in-coronavirus-1956871-2022-06-01",
+      "snippet": "The city recorded a two-fold rise in coronavirus cases with 4,114 new infections registered in the last 15 days. to 10,65,802.",
+      "bm25_score_raw": 10.575658732645412,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9323117136955261,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 1
+    },
+    {
+      "title": "India: New COVID cases jump nearly four times since start of year",
+      "url": "https://www.aljazeera.com/amp/news/2022/1/6/india-new-covid-cases-omicron-cities-elections",
+      "snippet": "Mumbai recorded a new daily infection peak of 15,166 on Wednesday, well up on its previous high of just over 11,000 hit last year.",
+      "bm25_score_raw": 1.4216235616237298,
+      "bm25_score_norm": 0.1344241146166526,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8776224851608276,
+      "embedding_score_norm": 0.46536350186839265,
+      "embedding_rank": 2,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 2
+    },
+    {
+      "title": "COVID-19 cases are on the rise again across India India has reported over ...",
+      "url": "https://www.facebook.com/WIONews/posts/covid-19-cases-are-on-the-rise-again-across-indiaindia-has-reported-over-600-new/1052228950349612",
+      "snippet": "Maharashtra has recorded a notable spike in cases this month, especially in Mumbai, which reported 95 cases out of the state's total 106 since",
+      "bm25_score_raw": 0.6551182019787258,
+      "bm25_score_norm": 0.061945853070738556,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8517806529998779,
+      "embedding_score_norm": 0.21273630228979346,
+      "embedding_rank": 4,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 3
+    },
+    {
+      "title": "Mumbai mayhem of COVID-19 pandemic reveals important factors that influence susceptibility to infection",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8068776",
+      "snippet": "A **.gov** website belongs to an official government organization in the United States. doi: 10.1016/j.eclinm.2021.100841. Data from 18,600 people screened for COVID-19 in Mumbai during the outbreak's initial phase, March 7 to June 30, 2020, were used to assess risk factors associated with COVID-19 using the odds ratio analysis. Males aged ≥60 years having both diabetes and hypertension were at the highest risk of COVID-19 infection (M vs _._ F OR=2.5, 95% CI=1.34–4.67, _p_=0.0049). People having both diabetes and hypertension in ≥20 years (OR=4.11, 95% CI=3.26–5.20, _p_<0.0001), diabetes and hypertension independently in 20–39 (OR=4.13, 95% CI=2.22–7.70, _p_<0.0001, OR=4.32, 95% CI=2.10–8.88, _p_=0.0001) and ≥60 years (OR=2.69, 95% CI=1.87–3.87, _p_<0.0001, OR=2.03, 95% CI=1.46–2.82, _p_<0.0001), chronic renal disease in 20–39 years (OR=5.38, 95% CI=1.91–15.09, _p_=0.0007) age groups had significantly higher risk of COVID-19 infection than those without comorbidity. When considering sex, age, and comorbidity together, we found that males aged ≥60 years and having both diabetes and hypertension had a significantly high risk of COVID-19 infection.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8403774499893188,
+      "embedding_score_norm": 0.10125971561274714,
+      "embedding_rank": 5,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 4
+    },
+    {
+      "title": "Covid cases rise 15-fold in just 10 days: Why the sudden surge ...",
+      "url": "https://www.youtube.com/watch?v=JnjLL20m8JQ",
+      "snippet": "In just 10 days, India has seen a massive 15-fold increase in active Covid-19 cases. Watch the video to know what's behind the sudden surge",
+      "bm25_score_raw": 2.050776036449511,
+      "bm25_score_norm": 0.193914732717224,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.854319155216217,
+      "embedding_score_norm": 0.23755244930458966,
+      "embedding_rank": 3,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 5
+    },
+    {
+      "title": "Covid-19: India reports record daily rise in new infections",
+      "url": "https://www.bbc.com/news/world-asia-india-56398212",
+      "snippet": "India recorded its highest single-day spike this year on Monday, with 26,291 new coronavirus cases reported in the last 24 hours. The western",
+      "bm25_score_raw": 2.1696616037799172,
+      "bm25_score_norm": 0.20515616649793264,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8300193548202515,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 6
+    }
+  ]
+}

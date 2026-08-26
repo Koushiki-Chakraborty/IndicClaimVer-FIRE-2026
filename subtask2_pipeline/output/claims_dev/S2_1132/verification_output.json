@@ -1,0 +1,6 @@
+{
+  "ID": "S2/1132",
+  "Evidence": "At Kannur Central Jail, 10 prisoners tested positive for Covid-19, as reported in Source 3. This is part of a broader context where 154 prisoners had tested positive in total, including 83 new cases reported on a specific day, as mentioned in Source 2. However, there is no evidence indicating that 262 prisoners tested positive at Kannur Central Jail; that number pertains to Poojappura Central Jail in Thiruvananthapuram, as stated in Source 3. Therefore, the claim about 262 prisoners testing positive at Kannur is incorrect.",
+  "Prediction": "REFUTES",
+  "Justification": "The retrieved evidence clearly states that only 10 prisoners tested positive at Kannur Central Jail, contradicting the claim of 262 prisoners testing positive there. The number 262 refers specifically to Poojappura Central Jail, as detailed in Source 3. Thus, the evidence directly refutes the claim regarding the number of positive cases at Kannur."
+}

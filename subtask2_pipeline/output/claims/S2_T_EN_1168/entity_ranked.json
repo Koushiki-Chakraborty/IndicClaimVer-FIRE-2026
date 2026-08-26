@@ -1,0 +1,99 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1168",
+    "text": "Karnataka govt allows Congress padyatra, no party leaders test Covid positive",
+    "lang": "english"
+  },
+  "entity_ranked_evidence": [
+    {
+      "title": "Karnataka govt stops Congress padyatra, 4 party leaders ...",
+      "url": "https://www.indiatoday.in/coronavirus-covid-19-outbreak/video/karnataka-govt-stops-congress-padyatra-4-party-leaders-test-covid-positive-1899426-2022-01-13",
+      "snippet": "Jan 12, 2022 — The Karnataka government has put a brake on the ongoing padayatra by Congress amid a rise in Covid-19 cases. A total of four leaders who",
+      "bm25_score_raw": 6.884032297040284,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8917751908302307,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1,
+      "entity_overlap_raw": 2,
+      "entity_overlap_qid": 1,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 1
+    },
+    {
+      "title": "Congress Calls Off 'Super Spreader' Padayatra After ...",
+      "url": "https://www.youtube.com/watch?v=viufeaz3GZo",
+      "snippet": "The Congress today called off its widely-criticised padyatra or 10-day march in Karnataka midway after five leaders tested positive.",
+      "bm25_score_raw": 4.645418562153489,
+      "bm25_score_norm": 0.6256694926434297,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8816166520118713,
+      "embedding_score_norm": 0.7884044044342309,
+      "embedding_rank": 2,
+      "entity_overlap_raw": 2,
+      "entity_overlap_qid": 1,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 2
+    },
+    {
+      "title": "Congress <i>Padyatra</i> In Karnataka Paused After 5 ...",
+      "url": "https://www.ndtv.com/india-news/karnataka-congress-rally-mekedatu-karnataka-congress-rally-covid-karnataka-congress-padyatra-congress-defers-karnataka-super-spreader-march-after-5-le-2705621",
+      "snippet": "Jan 13, 2022 — Karnataka Congress Rally: Frightening visuals of Congress workers marching in a huge crowd have been emerging from Karnataka, where 21,390 Covid ...Read more",
+      "bm25_score_raw": 2.634311378237555,
+      "bm25_score_norm": 0.28938156553403743,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8681315183639526,
+      "embedding_score_norm": 0.5075180548778898,
+      "embedding_rank": 4,
+      "entity_overlap_raw": 2,
+      "entity_overlap_qid": 1,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 3
+    },
+    {
+      "title": "2 KARNATAKA CONGRESS NETAS TEST COVID +VE",
+      "url": "https://www.facebook.com/MirrorNow/videos/2-karnataka-congress-netas-test-covid-ve/170730225271593",
+      "snippet": "2 #Congress leaders HM Revanna & CM Ibrahim have tested #positive. HM Revanna had participated in the Congress #Padayatra on Sunday & CM",
+      "bm25_score_raw": 2.9676345463533753,
+      "bm25_score_norm": 0.3451183050572603,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8611543774604797,
+      "embedding_score_norm": 0.36218885830598874,
+      "embedding_rank": 5,
+      "entity_overlap_raw": 2,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 4
+    },
+    {
+      "title": "Concerns over violation of COVID-19 norms during ...",
+      "url": "https://www.thehindu.com/news/national/karnataka/concerns-over-violation-of-covid-19-norms-during-congress-padayatra/article38206322.ece",
+      "snippet": "Jan 9, 2022 — ... Karnataka Government. Photo : KPN. Being held in the midst of a spike in COVID-19 cases across the State, the Congress padayatra on Sunday ...Read more",
+      "bm25_score_raw": 0.9037189352057569,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8437659740447998,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6,
+      "entity_overlap_raw": 2,
+      "entity_overlap_qid": 1,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 5
+    },
+    {
+      "title": "Two senior Congress leaders who participated in ' ...",
+      "url": "https://www.facebook.com/Timesnow/posts/two-senior-congress-leaders-who-participated-in-padayatra-in-karantaka-have-test/10166631559080311",
+      "snippet": "Jan 11, 2022 — Two senior Congress leaders who participated in 'padayatra' in #Karantaka have tested #Covid positive. Congress leader Brijesh Kalappa",
+      "bm25_score_raw": 1.536041685826139,
+      "bm25_score_norm": 0.10573404976665138,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8753769397735596,
+      "embedding_score_norm": 0.6584353556534704,
+      "embedding_rank": 3,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 1,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 6
+    }
+  ]
+}

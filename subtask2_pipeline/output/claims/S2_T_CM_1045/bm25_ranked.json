@@ -1,0 +1,105 @@
+{
+  "claim": {
+    "id": "S2/T/CM/1045",
+    "text": "bhaine apne hakka lyi tweet kro ehna gllan da koi faida ni",
+    "lang": "codemix"
+  },
+  "ranked_evidence": [
+    {
+      "title": "Hakka Mirchi - 2710 N Park Dr, Brampton",
+      "url": "https://www.instagram.com/reel/C96B0d6NGXH?hl=en",
+      "snippet": "Te bhaiyan ne poorian pipe-aan poope-aan laa ke ghaint kamm kita. Eh Fresh Air duct cleaning waale bhai ne. Tuhanu vi help chahidi ehna naal",
+      "bm25_score_raw": 5.042491398969561,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "5 STUNNING Benefits of Tweeting Every Day | Twitter Tips ...",
+      "url": "https://www.youtube.com/watch?v=yuhaHWpJeEI",
+      "snippet": "I want to share some stunning benefits that you can expect if you begin tweeting every single day.",
+      "bm25_score_raw": 2.4393171563247567,
+      "bm25_score_norm": 0.48375236828827,
+      "bm25_rank": 2
+    },
+    {
+      "title": "You know the benefits – but are you taking the right actions?",
+      "url": "https://channel-tools.co.uk/blog/twitter-you-know-the-benefits-but-are-you-taking-the-right-actions",
+      "snippet": "1. Extending customer reach and building your following. Using relevant hashtags when tweeting is a great way to get your company noticed.",
+      "bm25_score_raw": 1.7593247706465394,
+      "bm25_score_norm": 0.3488999051155664,
+      "bm25_rank": 3
+    },
+    {
+      "title": "Kaha tow Apne bhai ko bta 😂 . . . . #funnyreel #relatable # ...",
+      "url": "https://www.instagram.com/p/DW6H4bLjF3h?__d=1%E5%9B%9B%E9%80%9A%E4%B8%80%E8%BE%BE%E6%9F%A5%E8%AF%A2%E6%9F%A5%E8%AF%A2%E7%A7%BB%E5%8A%A8%E8%81%94%E9%80%9A%E7%94%B5%E4%BF%A1%E6%9C%BA%E4%B8%BB%E5%AE%9E%E5%90%8D%E4%BF%A1%E6%81%AF%E3%80%82%E6%9C%89%E5%94%AE%E5%90%8E%E7%9A%84%E7%8B%97%E7%8B%97%E5%85%8D%E8%B4%B9%E7%A4%BE%E5%B7%A52025%E7%A4%BE%E5%B7%A5%E5%BA%93%E6%9C%80%E6%96%B0%E6%95%B0%E6%8D%AE%E5%9C%A8%E7%BA%BF%E6%9F%A5%E8%AF%A2%E7%BD%91%E7%AB%99%E2%9C%94%EF%B8%8Fb5a06.com",
+      "snippet": "Apne bhai ko bata kya ho gaya? Brother, there is a problem. Apne bhai ko bata, batayega nahi kya? Yaar bata na, apne bhai ko batana yaar.",
+      "bm25_score_raw": 1.2241028872351734,
+      "bm25_score_norm": 0.24275755581562725,
+      "bm25_rank": 4
+    },
+    {
+      "title": "Apne Ku Bhai Bolte! - song and lyrics by Ruhaan Arshad",
+      "url": "https://open.spotify.com/track/0PwfxeluyQtmHGh6Z1Ejgd",
+      "snippet": "Listen to Apne Ku Bhai Bolte! on Spotify. Song · Ruhaan Arshad · Popular Tracks by Ruhaan Arshad Miya Bhai. Bhai Single • 2020 Miya Bhai (Remix Version)",
+      "bm25_score_raw": 1.0137091005213485,
+      "bm25_score_norm": 0.2010333821746332,
+      "bm25_rank": 5
+    },
+    {
+      "title": "11 benefits of marketing on Twitter for your business - Marq",
+      "url": "https://www.marq.com/blog/twitter-marketing-benefits",
+      "snippet": "# 11 benefits of marketing on Twitter for your business. In case you need more convincing, these 11 benefits of using Twitter for marketing can help you cross the divide. This might seem like a hurdle for marketers who want to connect with influencers or other important industry players, but reserving direct messaging for mutuals ensures your conversations are worthwhile, engaging, personalized and authentic. It’s the key to sending other users a notification that almost guarantees your tweet, or the tweet you wanted the *@* recipient to see, gets viewed. Also, it’s easy attribution for a quote or an article you share on the platform. The algorithm then guesses you might also want to see content similar to what’s already in your network. Your consistent brand voice is also archived for prospective customers who are using Twitter to research how you interact with your followers. This is an effective way to stay in the conversation, because you don’t have to use the main Twitter platform to search keywords one by one and possibly miss an important tweet.",
+      "bm25_score_raw": 1.008769332906202,
+      "bm25_score_norm": 0.20005375380756132,
+      "bm25_rank": 6
+    },
+    {
+      "title": "APNE KU BHAI BOLTE | RUHAAN ARSHAD| KHATRI | VINIT ...",
+      "url": "https://www.youtube.com/watch?v=h45_Uv-59-s",
+      "snippet": "Arshad presents \"APNE KU BHAI BOLTE\" Enjoy. Starring - Ruhaan Arshad Vocals / Lyrics - Ruhaan Arshad Music - KHATRI & SAHIL. Featuring - Ruhaan",
+      "bm25_score_raw": 0.7650243499060279,
+      "bm25_score_norm": 0.15171554879842958,
+      "bm25_rank": 7
+    },
+    {
+      "title": "Behind every great child is a truly amazing dad. Thank you ...",
+      "url": "https://www.instagram.com/p/DK7EUYVRbnn?hl=en",
+      "snippet": ";Behind every great child is a truly amazing dad. diyan gallan kar rahe ne. Jalonan bhai apne store da kaam start . They have four types of",
+      "bm25_score_raw": 0.7440417130339756,
+      "bm25_score_norm": 0.14755438416533967,
+      "bm25_rank": 8
+    },
+    {
+      "title": "Tere Utte Maan (Official Video) Navi Bawa | Jass Gill",
+      "url": "https://www.youtube.com/watch?v=FMNCguRpkFA",
+      "snippet": "Utte Maan aa Singer/Music - Navi Bawa Lyrics - Jass Gill Composer @eypcreations. Latest Punjabi Songs 2024",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 9
+    },
+    {
+      "title": "The Academic Benefits of Twitter",
+      "url": "https://savageminds.org/2013/05/08/the-academic-benefits-of-twitter",
+      "snippet": "#1: learning about new research, publications, conferences, conversations #2: community-building, following/connecting with colleagues around",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10
+    },
+    {
+      "title": "What are the benefits of using Twitter?",
+      "url": "https://www.quora.com/What-are-the-benefits-of-using-Twitter",
+      "snippet": "What are the benefits of using Twitter?",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11
+    },
+    {
+      "title": "Whose research benefits more from Twitter? On Twitter-worthiness of communication research and its role in reinforcing disparities of the field",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10045544",
+      "snippet": "Here's how you know. A **.gov** website belongs to an official government organization in the United States. A **lock** ( ) or **https://** means you've safely connected to the .gov website. Inclusion in an NLM database does not imply endorsement of, or agreement with, the contents by NLM or the National Institutes of Health. Findings show that publications from G12 countries, covering social media topics and published open access tend to be mentioned more on Twitter. Similar to prior studies, this study demonstrates that Twitter mentions are associated with peer citations. To examine the factors that make scholarly work more likely to be tweeted and how it is associated with citations, statistical analyses were conducted of 32187 studies published in communication journals. While drawing attention to questions related to power and equity in the field of communication studies and to Twitter, this study also provides methodological instruments that can be applied to different disciplines, or to other social media especially in regions where Twitter’s role in scholarly communication is not prominent.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12
+    }
+  ]
+}

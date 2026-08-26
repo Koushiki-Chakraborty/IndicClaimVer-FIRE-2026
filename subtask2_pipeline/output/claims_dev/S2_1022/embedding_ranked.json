@@ -1,0 +1,76 @@
+{
+  "claim": {
+    "id": "S2/1022",
+    "text": "Delhi High Court Agrees To Advance Hearing Of Plea Seeking Removal Of 'Objectionable Scenes' In Adipurush Movie",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "'Adipurush' mockery of 'Ramayana', says PIL by right-wing org in Delhi HC",
+      "url": "https://legal.economictimes.indiatimes.com/amp/news/litigation/adipurush-mockery-of-ramayana-says-pil-by-right-wing-org-in-delhi-hc/101052211",
+      "snippet": "A right-wing group on Friday moved the Delhi High Court, seeking directions for removal or correction of alleged objectionable scenes involving",
+      "bm25_score_raw": 2.234080222080351,
+      "bm25_score_norm": 0.16286831407714455,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8835747241973877,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Delhi High Court refuses urgent listing of Plea against film 'Adipurush'",
+      "url": "https://lawbeat.in/amp/news-updates/delhi-high-court-refuses-urgent-listing-plea-against-film-adipurush-be-heard-june-30",
+      "snippet": "The Delhi High Court on Wednesday refused urgent listing of a plea seeking a direction to cancel the certificate of movie 'Adipurush' and",
+      "bm25_score_raw": 2.0182142515881214,
+      "bm25_score_norm": 0.11208293949356428,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8752801418304443,
+      "embedding_score_norm": 0.549384435046726,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Delhi High Court Refuses plea for urgent listing against Adipurush",
+      "url": "https://www.thehansindia.com/amp/news/national/delhi-high-court-refuses-plea-for-urgent-listing-against-adipurush-804494",
+      "snippet": "The Delhi High Court on Wednesday refused an urgent hearing of a plea by a right-wing group seeking directions for the removal or correction",
+      "bm25_score_raw": 5.792353549652882,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8721657395362854,
+      "embedding_score_norm": 0.3801898828451341,
+      "embedding_rank": 3
+    },
+    {
+      "title": "'Adipurush' row: Delhi HC denies early hearing of plea seeking ban on movie",
+      "url": "https://www.aninews.in/news/national/general-news/adipurush-row-delhi-hc-denies-early-hearing-of-plea-seeking-ban-on-movie20230621135139",
+      "snippet": "The Delhi High Court on Wednesday refused to give an early hearing on a petition seeking cancellation of Censor board certification and an",
+      "bm25_score_raw": 1.7213786789619205,
+      "bm25_score_norm": 0.04224837635617624,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8717344403266907,
+      "embedding_score_norm": 0.35675890966317164,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Plea In Delhi Court Against 'Adipurush' Promo",
+      "url": "https://www.livelaw.in/amp/news-updates/hindu-gods-ramayana-free-speech-delhi-court-adipurush-movie-211145",
+      "snippet": "A plea has been moved in a Delhi Court seeking a stay on the release of upcoming movie 'Adipurush' in its present form, alleging that the promo released by its",
+      "bm25_score_raw": 1.5417996793261555,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8663314580917358,
+      "embedding_score_norm": 0.06323383696757355,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Delhi HC refuses to advance hearing of plea against 'Adipurush'",
+      "url": "https://indianexpress.com/article/cities/delhi/delhi-hc-refuses-urgent-hearing-plea-against-adipurush-8676832/lite",
+      "snippet": "The Delhi High Court Wednesday refused to advance the hearing of public interest litigation (PIL) against Prabhas starrer 'Adipurush' seeking",
+      "bm25_score_raw": 5.573968415803369,
+      "bm25_score_norm": 0.9486219583348732,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.865167498588562,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6
+    }
+  ]
+}

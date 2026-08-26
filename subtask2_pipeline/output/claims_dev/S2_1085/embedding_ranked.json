@@ -1,0 +1,21 @@
+{
+  "claim": {
+    "id": "S2/1085",
+    "text": "89% of Covid patients in Mumbai infected with Omicron, reveals survey",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Nearly 40% Covid patients on oxygen support in Hyderabad's Gandhi Hospital",
+      "url": "https://www.indiatoday.in/cities/hyderabad/story/nearly-40-covid-patients-oxygen-support-hyderabad-gandhi-hospital-1905836-2022-01-28",
+      "snippet": "The Gandhi Hospital in Hyderabad has been witnessing a gradual surge in admissions of Covid patients with 44 per cent of overall patients",
+      "bm25_score_raw": -1.7002333038911226,
+      "bm25_score_norm": 0.5,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8388431072235107,
+      "embedding_score_norm": 0.5,
+      "embedding_rank": 1
+    }
+  ]
+}

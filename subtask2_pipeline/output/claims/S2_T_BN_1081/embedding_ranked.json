@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/BN/1081",
+    "text": "সীমান্ত সমস্যা সমাধানের পরই চিনের সঙ্গে বৈঠকে বসছেন মোদী।",
+    "lang": "bengali"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "PM Modi: ৭ বছর পর চিনে মোদী, তিয়ানজিনে পা রেখেই বললেন...",
+      "url": "https://tv9bangla.com/world/pm-narendra-modi-arrives-in-china-for-sco-summit-first-visit-in-7-years-1236352.html",
+      "snippet": "Aug 30, 2025 — বেজিং: শুল্ক ইস্যুতে আমেরিকার সঙ্গে ভারতের কূটনৈতিক চাপানউতোরের মধ্যেই সাত বছর পর চিনের মাটিতে পা রাখলেন প্রধানমন্ত্রী নরেন্দ্র মোদী। ... সম্মেলনের মাঝে চিনের প্রেসিডেন্ট শি জিনপিংয়ের সঙ্গে দ্বিপাক্ষিক বৈঠক করার কথা ...Read more",
+      "bm25_score_raw": 2.204136499609644,
+      "bm25_score_norm": 0.7739018182031696,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8235504627227783,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "৭ বছর পর চিনে প্রধানমন্ত্রী মোদি, SCO সম্মেলন-জিনপিংয়ের সঙ্গে ...",
+      "url": "https://bengali.abplive.com/news/pm-narendra-modi-arrives-in-china-after-seven-years-receives-warm-welcome-to-have-sco-meet-and-bilateral-meeting-with-chinese-president-xi-jinping-1151009",
+      "snippet": "Aug 30, 2025 — PM Modi in China : ৭ বছর পর চিনে প্রধানমন্ত্রী মোদি, SCO সম্মেলন-জিনপিংয়ের সঙ্গে দ্বিপাক্ষিক আলোচনার সম্ভাবনা; নজরে আর কী ? India-China Relations: ভারত-চিন সম্পর্ক কোন খাতে এগোচ্ছে ...Read more",
+      "bm25_score_raw": 2.8480828546535344,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8212377429008484,
+      "embedding_score_norm": 0.9591936966402975,
+      "embedding_rank": 2
+    },
+    {
+      "title": "সাত বছর পর চীন সফরে মোদি, বৈঠক করবেন জিনপিংয়ের সঙ্গে",
+      "url": "https://www.somoynews.tv/news/2025-08-28/Qy9FV8XH",
+      "snippet": "Aug 28, 2025 — আগামী রোববার (৩১ আগস্ট) থেকে চীনের বন্দর শহর তিয়ানজ়িনে 'সাংহাই সহযোগিতা সংস্থা' বা এসসিও সম্মেলনে ২০টিরও বেশি দেশের সরকার প্রধানকে আমন্ত্রণ জানিয়েছে চীন। বৈঠকে রুশ প্রেসিডেন্ট ভ্লাদিমির পুতিন, ভারতের ...Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.8148642778396606,
+      "embedding_score_norm": 0.8467384194064729,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Modi, Xi Jinping: গালওয়ান সংঘর্ষের পর মোদীর প্রথম চিন সফর ...",
+      "url": "https://tv9bangla.com/videos/chinas-xi-and-indias-modi-vow-to-resolve-border-differences-at-meeting-in-tianjin-1237271.html",
+      "snippet": "Sep 1, 2025 — শনিবার বিকেল চারটেয় চিনের তিয়ানজিনে পৌঁছেছেন প্রধানমন্ত্রী নরেন্দ্র মোদী। গালওয়ান সংঘর্ষের পর এটাই তাঁর প্রথম চিন সফর। সাত বছর পর এসসিও (SCO) বৈঠকে যোগ দিতে চিনে গিয়েছেন তিনি।",
+      "bm25_score_raw": 1.6581196398947275,
+      "bm25_score_norm": 0.5821879925949119,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8145638704299927,
+      "embedding_score_norm": 0.8414379434153154,
+      "embedding_rank": 4
+    },
+    {
+      "title": "সাত বছর পর চীনে মোদি",
+      "url": "https://www.ittefaq.com.bd/749576/%E0%A6%B8%E0%A6%BE%E0%A6%A4-%E0%A6%AC%E0%A6%9B%E0%A6%B0-%E0%A6%AA%E0%A6%B0-%E0%A6%9A%E0%A7%80%E0%A6%A8%E0%A7%87-%E0%A6%AE%E0%A7%8B%E0%A6%A6%E0%A6%BF",
+      "snippet": "Aug 30, 2025 — চীনে মোদি সাংহাই কো-অপারেশন অর্গানাইজেশনের (এসসিও) সম্মেলনে অংশ নেবেন। সম্মেলনটি চীনের তিয়ানজিনে অনুষ্ঠিত হবে। এতে রুশ প্রেসিডেন্ট ভ্লাদিমির পুতিনসহ ২০টিরও বেশি দেশের রাষ্ট্রপ্রধানরা যোগ দেবেন।Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.8079769015312195,
+      "embedding_score_norm": 0.7252155421734896,
+      "embedding_rank": 5
+    },
+    {
+      "title": "সাত বছর পর চীনে মোদি, লাল গালিচা সংবর্ধনা | আন্তর্জাতিক নিউজ",
+      "url": "https://www.amaderbarta.net/bn/news/modi-in-china-after-seven-years-red-carpet-reception-341165",
+      "snippet": "Aug 30, 2025 — মোদি সাংহাই কো-অপারেশন অর্গানাইজেশনের (এসসিও) সম্মেলনে অংশ নেবেন। সম্মেলনটি চীনের তিয়ানজিনে অনুষ্ঠিত হবে। এতে রুশ প্রেসিডেন্ট ভ্লাদিমির পুতিনসহ ২০টিরও বেশি দেশের রাষ্ট্রপ্রধানরা যোগ দেবেন। মোদি এ সফরে চীনের ...Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.807329535484314,
+      "embedding_score_norm": 0.7137932267488941,
+      "embedding_rank": 6
+    },
+    {
+      "title": "Narendra Modi | Today's latest from Al Jazeera",
+      "url": "https://www.aljazeera.com/tag/narendra-modi",
+      "snippet": "# Narendra Modi. Protest by India’s Cockroach Janta Party has intensified after activist Sonam Wangchuk was forcibly hospitalised. Indian Prime Minister Narendra Modi, left, is welcomed by Australian Prime Minister Anthony Albanese in Melbourne, Australia on July 9, 2026. Indian Prime Minister Narendra Modi, left, and Australian Prime Minister Anthony Albanese walk together. ![US President Donald Trump attends a bilateral meeting with Indian Prime Minister Narendra Modi during the G7 Summit in Evian-les-Bains, France on June 17, 2026. Supporters of the Cockroach Janta Party hold placards during a protest. NEW DELHI, INDIA - JUNE 06: A supporter of the Cockroach Janta Party (CJP) holds placards featuring the group's logo and calling for the resignation of the Education Minister during a protest against alleged examination paper leaks on June 06, 2026 in New Delhi, India. India’s Gen Z Cockroach movement stages its first protest in the capital, demanding education minister’s resignation. Indian Prime Minister Narendra Modi.",
+      "bm25_score_raw": 1.5851168028853362,
+      "bm25_score_norm": 0.5565557196818853,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8038902282714844,
+      "embedding_score_norm": 0.6531090867406069,
+      "embedding_rank": 7
+    },
+    {
+      "title": "Narendra Modi",
+      "url": "https://live.worldbank.org/en/experts/n/narendra-modi",
+      "snippet": "Narendra Modi, Prime Minister of India. # Narendra Modi. ## Prime Minister of India. PM Narendra Modi was sworn-in as the Prime Minister of India on 30th May 2019, marking the start of his second term in office. The first ever Prime Minister to be born after Independence, Shri Modi has previously served as the Prime Minister of India from 2014 to 2019. He also has the distinction of being the longest serving Chief Minister of Gujarat with his term spanning from October 2001 to May 2014. With over 20 years in public life as a head of the national and state government, he has ushered in a paradigm shift in governance that has led to inclusive, development-oriented and corruption-free governance. In a first, a total of 177 Nations across the world came together and passed the resolution to declare 21st June as the ‘International Day of Yoga at the UN.’ India’s call to further popularise millets has gained recognition as the UN has declared 2023 as the ‘International Year of Millets.’.",
+      "bm25_score_raw": 0.5128232888971214,
+      "bm25_score_norm": 0.1800591187363844,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.7872602939605713,
+      "embedding_score_norm": 0.3596856733602704,
+      "embedding_rank": 8
+    },
+    {
+      "title": "Narendra Modi (@narendramodi)",
+      "url": "https://www.facebook.com/narendramodi",
+      "snippet": "Prime Minister of India. Prime Minister of the United Kingdom. India and the UK are bound by shared democratic values across trade, investment, technology,",
+      "bm25_score_raw": 0.6001876632134125,
+      "bm25_score_norm": 0.2107339195672468,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.7771438360214233,
+      "embedding_score_norm": 0.18118793763106583,
+      "embedding_rank": 9
+    },
+    {
+      "title": "Narendra Modi",
+      "url": "https://en.wikipedia.org/wiki/Narendra_Modi",
+      "snippet": "# Narendra Modi. Prime Minister of India since 2014. Modi was the chief minister of Gujarat from 2001 to 2014 and is the Member of Parliament (MP) for Varanasi \"Varanasi (Lok Sabha constituency)\").",
+      "bm25_score_raw": 0.7441191789356113,
+      "bm25_score_norm": 0.2612702006613963,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.7731920480728149,
+      "embedding_score_norm": 0.11146143798548258,
+      "embedding_rank": 10
+    },
+    {
+      "title": "Narendra Modi",
+      "url": "https://www.youtube.com/narendramodi",
+      "snippet": "Look back on PM Modi's most memorable engagements and tours! · Watch exclusive videos from Prime Minister Narendra Modi's visits across the country. · Inside PM ...Read more",
+      "bm25_score_raw": 0.5830333933756263,
+      "bm25_score_norm": 0.2047108258887193,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.7701087594032288,
+      "embedding_score_norm": 0.05705899303576349,
+      "embedding_rank": 11
+    },
+    {
+      "title": "Narendra Modi - Prime Minister of India",
+      "url": "https://in.linkedin.com/in/narendramodi",
+      "snippet": "Narendra Modi\nPrime Minister of India\nDelhi, India\nN/A connections, 5499691 followers\n\n\nAbout\nNone\n\n\nExperience\nPrime Minister of India\n[Government of India](N/A)  \nMay 2014 - Present\nN/A\n\n\n\nEducation\nGujarat University\nPolitical Science, Political Science and Government\nN/A - Present\nNone",
+      "bm25_score_raw": 0.6935221980384155,
+      "bm25_score_norm": 0.24350492363845982,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.7668749094009399,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

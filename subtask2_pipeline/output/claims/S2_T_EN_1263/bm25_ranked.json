@@ -1,0 +1,57 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1263",
+    "text": "North Korea's Kim Jong Un says Covid 'great turmoil' as 21 new deaths reported",
+    "lang": "english"
+  },
+  "ranked_evidence": [
+    {
+      "title": "North Korea 'in great turmoil' over Covid death toll, says ...",
+      "url": "https://www.theguardian.com/world/2022/may/15/north-korea-in-great-turmoil-over-covid-death-toll-says-kim-jong-un",
+      "snippet": "May 15, 2022 — North Korea's leader, Kim Jong-un, has warned his country has been thrown into “great turmoil” after reporting another 21 deaths.Read more",
+      "bm25_score_raw": 3.664956671635754,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "North Korea's Kim says COVID 'great turmoil' as 21 new ...",
+      "url": "https://www.stabroeknews.com/2022/05/14/news/world/north-koreas-kim-says-covid-great-turmoil-as-21-new-deaths-reported",
+      "snippet": "May 14, 2022 — 21 new deaths were reported for a day earlier among people with fevers. emergency meeting and heard reports of about 280,810 people being",
+      "bm25_score_raw": 3.2143007925495,
+      "bm25_score_norm": 0.647394646993868,
+      "bm25_rank": 2
+    },
+    {
+      "title": "North Korea's Kim says Covid has caused 'great turmoil' as ...",
+      "url": "https://www.the-independent.com/asia/east-asia/north-korea-covid-kim-jong-un-21-deaths-b2078977.html",
+      "snippet": "May 14, 2022 — The hermit kingdom, which closed its frontiers entirely when the pandemic began in 2020, reported 21 deaths and 174,000 new cases of “fever” on ...Read more",
+      "bm25_score_raw": 2.9543717194813586,
+      "bm25_score_norm": 0.4440191074323242,
+      "bm25_rank": 3
+    },
+    {
+      "title": "North Korea's Kim says epidemic a 'great turmoil' as 21 ...",
+      "url": "https://www.rnz.co.nz/news/world/467104/north-korea-s-kim-says-epidemic-a-great-turmoil-as-21-new-deaths-reported",
+      "snippet": "May 14, 2022 — 21 new deaths were reported for a day earlier among people with fevers. emergency meeting and heard reports of about 280,810 people being",
+      "bm25_score_raw": 2.708490094528642,
+      "bm25_score_norm": 0.25163467135226125,
+      "bm25_rank": 4
+    },
+    {
+      "title": "North Korea's Kim says Covid 'great turmoil' as 21 new ...",
+      "url": "https://www.tbsnews.net/coronavirus-chronicle/north-koreas-kim-says-covid-great-turmoil-21-new-deaths-reported-419430",
+      "snippet": "May 14, 2022 — The country's ruling Workers' Party met for an emergency meeting and heard reports of about 280,810 people being treated and 27 overall deaths ...Read more",
+      "bm25_score_raw": 2.4839365794780504,
+      "bm25_score_norm": 0.07593792552543677,
+      "bm25_rank": 5
+    },
+    {
+      "title": "COVID-19 pandemic in North Korea - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_North_Korea",
+      "snippet": "The **COVID-19 pandemic in North Korea** was part of a global pandemic of coronavirus disease 2019 (COVID-19), a novel infectious disease caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). North Korea confirmed its first case on 8 May 2022. In January 2020, the North Korean government began taking extensive measures to protect itself from the initial COVID-19 outbreak, including the establishment of quarantine facilities, and strict travel restrictions. Before May 2022, the government of North Korea had not reported any confirmed cases of COVID-19, although some foreign analysts believed that the virus had spread there by March 2020. *Daily NK*, a South Korean dissident-run news website, said that about 180 soldiers had possibly died from COVID-19 symptoms in January and February 2020. In May 2022, the Korean Central News Agency reported that an unspecified number of people in the capital Pyongyang tested positive for the virus, and announced the country's first confirmed deaths.",
+      "bm25_score_raw": 2.386882259990572,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6
+    }
+  ]
+}

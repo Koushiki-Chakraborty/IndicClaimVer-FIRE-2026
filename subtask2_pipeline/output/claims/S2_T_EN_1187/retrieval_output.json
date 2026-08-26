@@ -1,0 +1,108 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1187",
+    "text": "World was and remains well prepared for pandemic, says WHO chief",
+    "lang": "english"
+  },
+  "generated_queries": {
+    "english_translation": "World was and remains well prepared for pandemic, says WHO chief",
+    "native_query": "World WHO remains prepared pandemic chief",
+    "english_query": "World WHO remains prepared pandemic chief"
+  },
+  "native_retrieval": [
+    {
+      "title": "The world remains unprepared for another global pandemic, despite ...",
+      "url": "https://ippsecretariat.org/news/4th-implementation-report-launches-cape-town",
+      "snippet": "... world remains insufficiently prepared for 100 day response to a future pandemic. ... Dr Jeremy Farrar, Chief Scientist at WHO said: “The"
+    },
+    {
+      "title": "WHO Chief Says World Must Be Ready To Respond To Next Pandemic",
+      "url": "https://www.facebook.com/stluciatimes/posts/who-chief-says-world-must-be-ready-to-respond-to-next-pandemic/746927070769160",
+      "snippet": "Adhanom Ghebreyesus, the Director of the World Health Organization, emphasizes that the world is still ill-prepared for the next pandemic."
+    },
+    {
+      "title": "World must be ready to respond to next pandemic: WHO chief | UN News",
+      "url": "https://news.un.org/en/story/2023/05/1136912",
+      "snippet": "Although COVID-19 may no longer be a global public health emergency, countries must still strengthen response to the disease and prepare for future pandemics and other threats, the Director-General of the World Health Organization (WHO) said on Monday in Geneva. “The end of COVID-19 as a global health emergency is not the end of COVID-19 as a global health threat,” Tedros told Member States. Tedros said COVID-19 had significant implications for health-related targets under the Sustainable Development Goals (SDGs), which have a deadline of 2030. On protection, Tedros noted that with the end of COVID-19 and mpox as global public health emergencies, only polio now remains. He called for urgent and constructive negotiations on the new global pandemic accord and the International Health Regulations (IHR), the treaty that governs preparedness and response to health emergencies, “so the world will never again have to face the devastation of a pandemic like COVID-19”."
+    },
+    {
+      "title": "International Day of Epidemic Preparedness 2021 - UN Chief ...",
+      "url": "https://www.youtube.com/watch?v=mlOZv_aDOls",
+      "snippet": "António Guterres, Secretary-General of the United Nations, the world remains woefully unprepared to stop localized outbreaks from spilling"
+    },
+    {
+      "title": "Prepare for disease deadlier than COVID – WHO chief",
+      "url": "https://www.gavi.org/vaccineswork/prepare-disease-deadlier-covid-who-chief",
+      "snippet": "The world should be prepared to respond to disease outbreak of “even deadlier potential” than COVID-19, the head of the WHO said."
+    },
+    {
+      "title": "Six years after COVID19's global alarm: Is the world better prepared for ...",
+      "url": "https://www.linkedin.com/pulse/six-years-after-covid19s-global-alarm-world-c6ezf",
+      "snippet": "WHO Director-General Dr Tedros Adhanom Ghebreyesus told today's opening of the 158th session of the Executive Board."
+    }
+  ],
+  "english_retrieval": [
+    {
+      "title": "The world remains unprepared for another global pandemic, despite ...",
+      "url": "https://ippsecretariat.org/news/4th-implementation-report-launches-cape-town",
+      "snippet": "... world remains insufficiently prepared for 100 day response to a future pandemic. ... Dr Jeremy Farrar, Chief Scientist at WHO said: “The"
+    },
+    {
+      "title": "WHO Chief Says World Must Be Ready To Respond To Next Pandemic",
+      "url": "https://www.facebook.com/stluciatimes/posts/who-chief-says-world-must-be-ready-to-respond-to-next-pandemic/746927070769160",
+      "snippet": "Adhanom Ghebreyesus, the Director of the World Health Organization, emphasizes that the world is still ill-prepared for the next pandemic."
+    },
+    {
+      "title": "World must be ready to respond to next pandemic: WHO chief | UN News",
+      "url": "https://news.un.org/en/story/2023/05/1136912",
+      "snippet": "Although COVID-19 may no longer be a global public health emergency, countries must still strengthen response to the disease and prepare for future pandemics and other threats, the Director-General of the World Health Organization (WHO) said on Monday in Geneva. “The end of COVID-19 as a global health emergency is not the end of COVID-19 as a global health threat,” Tedros told Member States. Tedros said COVID-19 had significant implications for health-related targets under the Sustainable Development Goals (SDGs), which have a deadline of 2030. On protection, Tedros noted that with the end of COVID-19 and mpox as global public health emergencies, only polio now remains. He called for urgent and constructive negotiations on the new global pandemic accord and the International Health Regulations (IHR), the treaty that governs preparedness and response to health emergencies, “so the world will never again have to face the devastation of a pandemic like COVID-19”."
+    },
+    {
+      "title": "International Day of Epidemic Preparedness 2021 - UN Chief ...",
+      "url": "https://www.youtube.com/watch?v=mlOZv_aDOls",
+      "snippet": "António Guterres, Secretary-General of the United Nations, the world remains woefully unprepared to stop localized outbreaks from spilling"
+    },
+    {
+      "title": "Prepare for disease deadlier than COVID – WHO chief",
+      "url": "https://www.gavi.org/vaccineswork/prepare-disease-deadlier-covid-who-chief",
+      "snippet": "The world should be prepared to respond to disease outbreak of “even deadlier potential” than COVID-19, the head of the WHO said."
+    },
+    {
+      "title": "Six years after COVID19's global alarm: Is the world better prepared for ...",
+      "url": "https://www.linkedin.com/pulse/six-years-after-covid19s-global-alarm-world-c6ezf",
+      "snippet": "WHO Director-General Dr Tedros Adhanom Ghebreyesus told today's opening of the 158th session of the Executive Board."
+    }
+  ],
+  "merged_results": [
+    {
+      "title": "The world remains unprepared for another global pandemic, despite ...",
+      "url": "https://ippsecretariat.org/news/4th-implementation-report-launches-cape-town",
+      "snippet": "... world remains insufficiently prepared for 100 day response to a future pandemic. ... Dr Jeremy Farrar, Chief Scientist at WHO said: “The"
+    },
+    {
+      "title": "WHO Chief Says World Must Be Ready To Respond To Next Pandemic",
+      "url": "https://www.facebook.com/stluciatimes/posts/who-chief-says-world-must-be-ready-to-respond-to-next-pandemic/746927070769160",
+      "snippet": "Adhanom Ghebreyesus, the Director of the World Health Organization, emphasizes that the world is still ill-prepared for the next pandemic."
+    },
+    {
+      "title": "World must be ready to respond to next pandemic: WHO chief | UN News",
+      "url": "https://news.un.org/en/story/2023/05/1136912",
+      "snippet": "Although COVID-19 may no longer be a global public health emergency, countries must still strengthen response to the disease and prepare for future pandemics and other threats, the Director-General of the World Health Organization (WHO) said on Monday in Geneva. “The end of COVID-19 as a global health emergency is not the end of COVID-19 as a global health threat,” Tedros told Member States. Tedros said COVID-19 had significant implications for health-related targets under the Sustainable Development Goals (SDGs), which have a deadline of 2030. On protection, Tedros noted that with the end of COVID-19 and mpox as global public health emergencies, only polio now remains. He called for urgent and constructive negotiations on the new global pandemic accord and the International Health Regulations (IHR), the treaty that governs preparedness and response to health emergencies, “so the world will never again have to face the devastation of a pandemic like COVID-19”."
+    },
+    {
+      "title": "International Day of Epidemic Preparedness 2021 - UN Chief ...",
+      "url": "https://www.youtube.com/watch?v=mlOZv_aDOls",
+      "snippet": "António Guterres, Secretary-General of the United Nations, the world remains woefully unprepared to stop localized outbreaks from spilling"
+    },
+    {
+      "title": "Prepare for disease deadlier than COVID – WHO chief",
+      "url": "https://www.gavi.org/vaccineswork/prepare-disease-deadlier-covid-who-chief",
+      "snippet": "The world should be prepared to respond to disease outbreak of “even deadlier potential” than COVID-19, the head of the WHO said."
+    },
+    {
+      "title": "Six years after COVID19's global alarm: Is the world better prepared for ...",
+      "url": "https://www.linkedin.com/pulse/six-years-after-covid19s-global-alarm-world-c6ezf",
+      "snippet": "WHO Director-General Dr Tedros Adhanom Ghebreyesus told today's opening of the 158th session of the Executive Board."
+    }
+  ]
+}

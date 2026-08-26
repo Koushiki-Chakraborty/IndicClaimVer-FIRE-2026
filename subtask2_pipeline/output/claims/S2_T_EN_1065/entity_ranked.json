@@ -1,0 +1,99 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1065",
+    "text": "Severe Covid-19 linked with increased risk of long-term adverse mental health outcomes: Lancet study",
+    "lang": "english"
+  },
+  "entity_ranked_evidence": [
+    {
+      "title": "Risk Of Heart Attack, Stroke Increases In The First Two Weeks Following ...",
+      "url": "https://www.thehealthsite.com/diseases-conditions/risk-of-heart-attack-stroke-increases-in-the-first-two-weeks-following-covid-says-lancet-study-829499/amp",
+      "snippet": "Lancet Study \"We found a three-fold increased risk of acute myocardial infarction and stroke in the first two weeks following COVID-19,\" said",
+      "bm25_score_raw": 2.355476229251667,
+      "bm25_score_norm": 0.35459067858825893,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.877426266670227,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 1
+    },
+    {
+      "title": "The Lancet Commission on lessons for the future from the COVID-19 ...",
+      "url": "https://www.thelancet.com/article/S0140-6736(22)01585-9/fulltext",
+      "snippet": "by JD Sachs · 2022 · Cited by 1060 — Because the risk of severe disease and death from COVID-19 increases exponentially with age, ... More malaria cases and deaths in 2020 linked to COVID-19",
+      "bm25_score_raw": 4.3302027101378755,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8738165497779846,
+      "embedding_score_norm": 0.9084835663014733,
+      "embedding_rank": 2,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 2
+    },
+    {
+      "title": "Increased risk of severe clinical course of COVID-19 in carriers of HLA-C*04: ...",
+      "url": "https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(21)00379-5/fulltext",
+      "snippet": "by J Weiner · 2021 · Cited by 103 — We describe a potential association of HLA-C*04:01 with severe clinical course of COVID-19. Carriers of HLA-C*04:01 had twice the risk of",
+      "bm25_score_raw": 1.6108611343310995,
+      "bm25_score_norm": 0.11122455787368309,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8535297513008118,
+      "embedding_score_norm": 0.3941564034756328,
+      "embedding_rank": 3,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 3
+    },
+    {
+      "title": "COVID-19: rethinking risk",
+      "url": "https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(20)30276-X/fulltext",
+      "snippet": "by N Schwalbe · 2020 · Cited by 33 — Global, regional, and national estimates of the population at increased risk of severe COVID-19 due to underlying health conditions in 2020: a modelling study",
+      "bm25_score_raw": 1.528157809535515,
+      "bm25_score_norm": 0.08419423380021522,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.851847767829895,
+      "embedding_score_norm": 0.35151341140914244,
+      "embedding_rank": 4,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 4
+    },
+    {
+      "title": "Risk of severe COVID-19 outcomes after autumn 2022 ...",
+      "url": "https://www.thelancet.com/journals/lanepe/article/PIIS2666-7762(23)00235-1/fulltext",
+      "snippet": "by S Bedston · 2024 · Cited by 29 — We found an increased risk of COVID-19 hospitalisation or death among individuals being male, older, underweight, those with Northern Ireland,",
+      "bm25_score_raw": 1.497829966433721,
+      "bm25_score_norm": 0.0742820394656224,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8446771502494812,
+      "embedding_score_norm": 0.16971817151492255,
+      "embedding_rank": 5,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 5
+    },
+    {
+      "title": "Global, regional, and national estimates of the population at ...",
+      "url": "https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(20)30264-3/fulltext",
+      "snippet": "by A Clark · 2020 · Cited by 1291 — About one in five individuals worldwide could be at increased risk of severe COVID-19, should they become infected, due to underlying health",
+      "bm25_score_raw": 1.2705529415742989,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8379828929901123,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 6
+    }
+  ]
+}

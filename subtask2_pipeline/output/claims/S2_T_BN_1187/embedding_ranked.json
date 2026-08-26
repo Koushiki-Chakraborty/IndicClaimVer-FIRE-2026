@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/BN/1187",
+    "text": "ডিজিটাল রেশন কার্ড না থাকলেও মিলবে চাল-ডাল, অভিনব উদ্যোগ প্রশাসনের",
+    "lang": "bengali"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "annual administrative report 2023-24 - Ration Card",
+      "url": "https://food.wb.gov.in/food/UserAdministration/uploads_Notice/8992_20250529_151732_7080.pdf",
+      "snippet": "May 29, 2025 — issue of Digital Ration Cards to food items to Severely Malnourished Children. The Department distributes rice, atta, pulses, sugar and some",
+      "bm25_score_raw": 4.370731952421821,
+      "bm25_score_norm": 0.990566037735849,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8772186636924744,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Ration card services go digital! Citizens can now apply for ...",
+      "url": "https://www.facebook.com/goanewshub/posts/ration-card-services-go-digital-citizens-can-now-apply-for-name-changes-addition/1609894774483929",
+      "snippet": "Ration card services go digital! Citizens can now apply for name changes, additions, deletions, and new ration cards from home through the",
+      "bm25_score_raw": 1.2550821961836744,
+      "bm25_score_norm": 0.28444704723143455,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.8559845685958862,
+      "embedding_score_norm": 0.8489670376258611,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Ration card (India) - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ration_card_(India)",
+      "snippet": "# Ration card (India). * Edit&action=edit \"Edit this page [e]\"). **Ration cards** are an official document issued by state governments in India to households that are eligible to purchase subsidised food grain from the Public Distribution System under the National Food Security Act (NFSA). Under the NFSA, all state governments in India have to identify households that are eligible to receive subsidised food grain from the Public Distribution System and provide them with ration cards. **\"One Nation, One Ration Card\"** is an Aadhaar-based national ration card portability scheme to ensure food security for all, including internal migrants within India, under which beneficiaries can purchase subsidised food anywhere in India. [edit&action=edit&section=1 \"Edit section: History\")]. [edit&action=edit&section=2 \"Edit section: National ration card portability\")]. *\"One Nation, One Ration Card\"*, introduced in 2018, is the Aadhaar-based national ration card portability scheme to ensure food security for all including internal migrants within India.",
+      "bm25_score_raw": 1.3020242468283394,
+      "bm25_score_norm": 0.2950858147459961,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.84625244140625,
+      "embedding_score_norm": 0.7797447800741918,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Government has said that 100 per cent ration cards have ...",
+      "url": "https://www.facebook.com/airnewsalerts/posts/government-has-said-that-100-per-cent-ration-cards-have-been-digitised-and-that-/1274062671584098",
+      "snippet": "Government has said that 100 per cent ration cards have been digitised and that more than 99 per cent of ration cards are linked to Aadhaar.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.8224101066589355,
+      "embedding_score_norm": 0.6101600423953365,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Distribution of Food Grains (PD)",
+      "url": "https://dfpd.gov.in/distribution-of-food-grains/en",
+      "snippet": "End-to-End Computerisation of TPDS Operations · Component 1 - Digitization of Ration Cards & Beneficiaries Data: · Component 2 - Aadhaar Seeding with Ration Cards ...Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.8119432926177979,
+      "embedding_score_norm": 0.5357121356650768,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Securing Every Plate",
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2179514&reg=3&lang=1",
+      "snippet": "Oct 15, 2025 — One Nation, One Ration Card (ONORC): This initiative allows beneficiaries to access PDS benefits anywhere in the country, ensuring portability ...Read more",
+      "bm25_score_raw": 4.4123579710163146,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.81192946434021,
+      "embedding_score_norm": 0.5356137784843668,
+      "embedding_rank": 6
+    },
+    {
+      "title": "ভূমিকা | PDF",
+      "url": "https://www.scribd.com/document/718016544/%E0%A6%AD%E0%A7%82%E0%A6%AE%E0%A6%BF%E0%A6%95%E0%A6%BE",
+      "snippet": "কন বম কন বম উশদগ মনশ এশক অশনশক ক দ মশ দশ,  কশন কউ  ভ কন কজ কশ উদ হয় ন, আও স কশদ বমহশ নই। একক ষ  মহশসশব   ন, ব  মন, মধ অথব মবত হক ন কন, জবন ধশনপশয়জনয় সক মকছ  শক সহ কশ শ ন। ব শক পমমনয় মবমভ পশয়জশন ননন শক ধ হশ হয়।1. গঠশন প ভশব উশদগ নন এব মচন কশন  ২৭ বছ বয়স আশদ মপয় নব হ   হদ (স)। এই সব মবষয় শই ভমবশয়   শশছ আজশক শগ সবয় উশদশদ।2.  ও উশ: আশদ সগঠন ব সমম অশনক  সৎ উশ মনশয় গমঠ হশয়শছ। আশদ মকছ মম উশ আমনভ   অজ  ন ক. জবন ন উয়ন, সগমঠ ও ঐকব ক, সমজক বন  ক, মন  দ  কশন সহশগ ক এছও আশদ    উশ দদ সজ গঠশন  সহশগ ক।5. সবয় সমম একম আথ সমজক অথ  নমক ও সমজক সগঠন। দ  . ও মচন এব ববসময়ক ক  কশ অ হন  কই এ     এব পধন কজ বশ মবশবমচ হশব। ন ও ব সজ দ   সঞয় ও ববস মচন ধশ   নফ অজ  ন কশ আমনভ   জবন গঠশন জ আ. সমম ক   ও অমবচ থ চ জ এ একম সমবধমনক মনয় কন পশয়জন হশয় শ, স শ সমম সক সদগ মনশ ধ/মনয়/সমবধন পনয়  কশন।১।. ফ ৯। সমম সদ দ শভ জ মনজ ফশ আশবদন   ব  ক ভম হশ হশব এব ফ  ববদ ২০০ ক মশধ কশ হশব। সদ থশক নয় ভম  . হশব।১২। কন সদ সমমশ একমধক সদদ শ শবন ন। ১৩। সমম  কন পশয়জশন মচন কমম মদ মনশ সদশক আহন কশ মকব মম এ ক দন হশ পশক সদশ উমম বধ  ক।১৪।. হশব।১৬। সমম  কন শদ সদ থশক সমবধশন প নম ম কন কজ পক শ শক সময়ক বম মকব য় বম শকন ধশ মস হন ক অমধক শব সমম ক   ।এছও ন  ন কন স দ মদশ মবভগয় মচন কমম সভ আহন কশ সক  মবভশগ শ মভমতশ সধন মদশ শবন। শব 60% এ অমধক সথ  ন থকশ  হশব।. ## Share this document. * Share on Facebook, opens a new window. * Share on LinkedIn, opens a new window.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.7976979613304138,
+      "embedding_score_norm": 0.4343885532591415,
+      "embedding_rank": 7
+    },
+    {
+      "title": "Who is she? - Star Wars: Episode IX The Rise of Skywalker | Clip.Cafe",
+      "url": "https://clip.cafe/star-wars-episode-iv-a-new-hope-1977/star-wars-episode-iii-revenge-of-the-sith-2005/star-wars-episode-ix-the-rise-of-skywalker-2019/at-last",
+      "snippet": "Title: Who is she? - Star Wars: Episode IX The Rise of Skywalker | Clip.Cafe\nSnoke trained you well.Kylo Ren:I killed Snoke. I'll kill you.Emperor Palpatine:My boy, I made Snoke. I have been every voice...Snoke:..you have ever heard..Darth Vader:...inside your head.Emperor Palpatine:The First Order was just the beginning. I will give you so much more.Kylo Ren:You'll die first.Emperor Palpatine:I've died before. The dark side of the Force is a pathway to many abilities some consider to be... Kill the girl, end the Jedi and become what your grandfather Vader could not. She is not who you think she is.Kylo Ren:Who is she? The dark side of the Force is a pathway. فتصبح ما عجز جد ك فايدر عن أن يصبح عليه. স ন ক ত ম ক ভ ল ই প রশ ক ষণ দ য় ছ. আম ত ম ক ও খ ন করব. স ন ক আম র হ ত ই গড়. ফ র স ট অর ড র ত ক বল শ র. ব ভ ন ন অত প র ক ত ক ক ষমত অর জন র. ত ম আম ক ক দ ত প রব. ফ ইন ল অর ড র শ ঘ রই ত র ক ষমত প রদর শন র জন য প রস ত ত হয় য ব. আম র কথ মত চলল ত ম ই হব এসবক ছ র ম ল ক. ত ম র ন ন ড র থ ভ ড র য হত প র ন ত ই হয় দ খ ও. ত ম প র গ য ল ক স শ সন করত প রব. Le côté obscur de la Force mène. Les forces du Dernier Ordre seront bientôt prêtes. Elles seront à toi si tu fais ce que je te demande. et deviens ce que ton grand père Vader n'a pas pu devenir. Tu régneras sur toute la galaxie. elle n'est pas celle que tu crois. Du wirst über die Galaxis herrschen. Aku adalah setiap suara yang pernah kau dengar. ltu akan jadi milikmu jika kau melakukan seperti yang kuminta. Она не та кем тебе кажется. a muchas habilidades algunos consideran que es. y convertirse en lo que tu abuelo Vader no podía. ella no es quién crees que es. ### Want This Clip in HD?",
+      "bm25_score_raw": 3.4236488173548967,
+      "bm25_score_norm": 0.7759227242766785,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.7817379236221313,
+      "embedding_score_norm": 0.32086868044515104,
+      "embedding_rank": 8
+    },
+    {
+      "title": "-অভিযোগ-দাখিল-(অনলাইনে-আবেদন) - জাতীয় সাইবার নিরাপত্তা এজেন্সি",
+      "url": "https://ncsa.gov.bd/site/page/df41f738-dd03-4c4e-9fee-760a2567d0b5/-%E0%A6%85%E0%A6%AD%E0%A6%BF%E0%A6%AF%E0%A7%8B%E0%A6%97-%E0%A6%A6%E0%A6%BE%E0%A6%96%E0%A6%BF%E0%A6%B2-(%E0%A6%85%E0%A6%A8%E0%A6%B2%E0%A6%BE%E0%A6%87%E0%A6%A8%E0%A7%87-%E0%A6%86%E0%A6%AC%E0%A7%87%E0%A6%A6%E0%A6%A8)",
+      "snippet": "র ২০২২ ২০২২ --২৩ ২৩ অথ ) বছেরর অথ ) বছেরর অিভেযাগ অিভেযাগ \u0003িতকার \u0003িতকার +ব,ার +ব,ার কম) কম) --পিরকUনার পিরকUনার ১ম ১ম XV মািসেকর XV মািসেকর এএ পয )Y পয )Y অ[গিত অ[গিত :: L িমক L িমক ন ং ন ং কায ) L েমর কায ) L েমর ন াম ন াম কম)সe াদ ন কম)সe াদ ন Pচেকর Pচেকর ন াম ন াম একক একক ল AOমা ল AOমা বাZবায়ন বাZবায়ন অ[গ িত অ[গ িত বাZবায়ন কারী বাZবায়ন কারী দ ািয়:\u0003াc দ ািয়:\u0003াc শ াখা শ াখা //+ি\u0019 +ি\u0019 //প দ প দ [১.১ ] অিভেযাগ (অিনক ) ও আিপল ওেয়বসাইেট এবং [১.১.১ অিনক ও আিপল হালনাগাদsত এবং সংtা ৪ ১০০ % হালনাগাদ সহকারী পিরচালক [১.২ ] িনিদ )F সমেয় অনলাইেন /অফলাই \u0015ন \u0003াc অিভেযাগ [২.১.১ ] অিভেযাগ অিভেযাগ িন`ি িডিজটাল িনরাপ\u001fা [১.৩ ] অিভেযাগ [১.৩ ] \u0003িতেবদন \u0015\u0003িরত % ৯০ % ১০০ % িন`ি সহকারী পিরচালক অিভেযাগ \u0003িতকার সংtা ২ ২য় ও ৩য় \u0015কায়াট )াের \u0003িশAণ আেয়াজন করা হেব । সহকারী পিরচালক িভি\u001fেত পিরবীAণ পিরবীAণ \u0003িতেবদন ঊx)তন কy)পেAর [২.৩.১ ] XVমািসক সংtা ৪ কায )Lম চলমান অিভেযাগ িন`ি িডিজটাল িনরাপ\u001fা [২.৩ ] অিভেযাগ \u0015/কেহা1ারগেণর [২.৩.১ ] অবিহতকরণ সংtা ২ ১| সভা আেয়াজন সহকারী পিরচালক অত :পর সভায় আর \u0015কােনা আেলাচনা না থাকায় সকলেক ধQবাদ জািনেয় সভাপিত সভার সমািc \u0015যাষণা কেরন । \u0015মাঃ খায়6ল আমীন মহাপিরচালক (অিতির\u0019 দািয়: ) }ারক ন~র : ৫৬.০৫.০০০০.০০৬.৯৯.০০৭.২২.২৫ তািরখ : অSিলিপঃসদয় অবগিত ও কায )ােথ ) \u0015\u0003রণ করা হেলা (\u0015জOতার LমাSসাের নয় )- ১) গভন )র , বাংলােদশ +াংক [িF আকষ )ণ : িনব )াহী পিরচালক , জনাব \u0015দবলাল রায় , বাংলােদশ +াংক ] ২) \u0015চয়ারান , বাংলােদশ \u0015টিলেযাগােযাগ িনয়\u0007ণ কিমশন [িF আকষ )ণ : জনাব \u0015তৗিসফ শাহিরয়ার , িসিনয়র সহকারী পিরচালক , িসে/মস এ সািভ)েসস িবভাগ , বাংলােদশ \u0015টিলেযাগােযাগ িনয়\u0007ণ কিমশন ] ৩) \u0015চয়ারান , জাতীয় রাজH \u0015বাড ) [িF আকষ )ণ : জনাব কাজী হাদ িজয়াউল হক , িসিনয়র িসে/ম এনািল/ , জাতীয় ৪) িসিনয়র সিচব , ত\u0013 ও \u0015যাগােযাগ \u0003\u0017ি\u0019 িবভাগ ৫) িসিনয়র সিচব , িবান ও \u0003\u0017ি\u0019 ম\u0007ণালয় ৬) সিচব , িবOৎ িবভাগ ৭) সিচব , \u0015স িবভাগ ৮) সিচব , ডাক ও \u0015টিলেযাগােযাগ িবভাগ ৯) সিচব , \u0015বসামিরক িবমান পিরবহন ও পয )টন ম\u0007ণালয় ১০ ) সিচব , পিরকUনা িবভাগ ১১ ) সিচব , রAা \u0015সবা িবভাগ , Hরা ম\u0007ণালয় ১২ ) সিচব , আিথ )ক \u0003িতান িবভাগ ১৩ ) সিচব , ,ানীয় সরকার িবভাগ ১৪ ) \u0015চয়ারান ও \u0003ধান িনব )াহী কম)কত)া , বাংলােদশ ােটলাইট \u0015কাeািন িলিমেটড ১৫ ) \u0015চয়ারান , বাংলােদশ িসিকউির|জ এ এেচ কিমশন [িF আকষ )ণ : জনাব \u0015মা : ফারহানা ফা6কী , পিরচালক , বাংলােদশ িসিকউির|জ এ এেচ কিমশন ] ১৬ ) দcর / সং,ার \u0003ধান (সকল ), ত\u0013 ও \u0015যাগােযাগ \u0003\u0017ি\u0019 িবভাগ , আগারাও , ঢাকা । ১৭ ) মহাপিরচালক , জাতীয় পিরচয় িনবন অSিবভাগ ,বাংলােদশ িনব )াচন কিমশন ১৮ ) মহাপিরচালক (িসিপ|ইউ ), বাZবায়ন পিরবীAণ ও Wায়ন িবভাগ [িF আকষ )ণ : জনাব \u0015মাঃ আিজজ তােহর খান , পিরচালক (\u0017সিচব ), িসিপ|ইউ ] ১৯ ) মহাপিরচালক , ইিমে[শন ও পাসেপাট ) অিধদcর [িF আকষ )ণ : জনাব \u0015সিলনা বাS , অিতির\u0019 মহাপিরচালক , ইিমে[শন ও পাসেপাট ) অিধদcর ] ২০ ) \u0015রিজার \u0015জনােরল , \u0015রিজার \u0015জনােরেলর কায )ালয় , জ ও O িনবন [[ িF আকষ )ণ : জনাব িমজ)া তািরক িহকমত , উপ -\u0015রিজার \u0015জনােরল (\u0017 সিচব ), \u0015রিজার \u0015জনােরেলর কায )ালয় , জ ও O িনবন ] ২১ ) অিতির\u0019 মহাপিরদশ)ক , ইিমে[শন িলশ ২২ ) উপসিচব , কম)সeাদন ও \u0015কৗশল শাখা , ত\u0013 ও \u0015যাগােযাগ \u0003\u0017ি\u0019 িবভাগ ২৩ ) +ব,াপনা পিরচালক , বাংলােদশ sিষ +াংক ২৪ ) িসইও এ ােনিজং িডেরর , \u0015সানালী +াংক িলিমেটড ২৫ ) ােনিজং িডেরর এ িসইও , অ[ণী +াংক িলিমেটড ২৬ ) ােনিজং িডেরর এ িসইও , জনতা +াংক িলিমেটড ২৭ ) মহা+ব,াপক , পালী +াংক িলিমেটড [িF আকষ )ণ : জনাব \u0015মাঃ রহমাহ সরকার , উপ -মহা+ব,াপক , পালী ২৮ ) +ব,াপনা পিরচালক , বাংলােদশ ডাটা \u0015সRার \u0015কাeািন িলিমেটড +ব,াপনা পিরচালক ও িসইও , িবমান বাংলােদশ এয়ারলাই!",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.7742434740066528,
+      "embedding_score_norm": 0.26756248012718603,
+      "embedding_rank": 9
+    },
+    {
+      "title": "Last name শন around the world",
+      "url": "https://mondonomo.ai/surname/%E0%A6%B6%E0%A6%A8",
+      "snippet": "Title: Last name শন around the world\n# Surname শন. Surname শন (শন) , throughout the world, is an extremely rare last name. ## Translations, transliterations and names similar to the name শন. ## Last names said to be same. Džons, Evan, Gian, Giannis, Giovanni, Giuàn, Hanns, Hans, Honsa, Honza, Huans, Ian, Ieuan, Ifan, Ioan, Ioann, Ioannes, Ioannis, Ion, Ivan, Ivano, Ivans, Ivo, Iván, Iwan, Jaan, Jack, Jan, Janos, Jean, Joan, Joannes, Jogvan, Johan, Johann, Johannes, Johano, John, Johnny, Jon, João, Juan, János, Jógvan, Jóhan, Jóhann, Jóhannes, Jón, Sean, Seann, Seán, Shana, Shawn, Sion, Siôn, Xoan, Xoán, Yann, Yannis, Yohannan, Žan, Žans, Γιάννης, Ιωάννης, Τζαν, Τζοβάννι, Τζον, Τζων, Χουάν, Айан, Айван, Айвен, Ванечка, Ваня, Ганс, Джавані, Джан, Джаннис, Джек, Джоанн, Джованни, Джованні, Джон, Джонни, Джонні, Джоні, Джуан, Джэк, Еван, Жаан, Жан, Жоан, Жоао, Жуан, Иан, Иэн, Иван, Ивано, Иво, Иоан, Иоанн, Иоаннес, Иоаннис, Иоганн, Иоганн, Йоханн, Джоханн, Джоанн, Юханн, Иоганнес, Иоганнес, Йоханнес, Юханнес, Ион, Ифан, Иэн, Йен, Йоан, Йоаннес, Йоган, Йоганн, Йоганнес, Йон, Йохан, Йохан, Юхан, Йоан, Йоханес, Йоханн, Йоханнес, Син, Ханнс, Ханс, Хоан, Хонза, Хуан, Шен, Шон, Шонн, Эван, Юган, Юн, Юхан, Юханн, Яан, Яган, Ян, Ян, Жан, Янаш, Янка, Янн, Яннис, Янош, Ясь, Ён, Ёхан, Іван, Іво, אוון, איאן, איבו, איבן, איוו, איוואן, איוון, ג'אן, ג'ובאני, ג'ון, ג'וני, ג'יאן, ג'ק, האנס, הנס, ז'אן, חואן, יאן, יאנוש, יואן, יואניס, יוהאן, יוהנס, יון, שון, إيان, إيفان, إيفو, إيوان, ایان, ایوان, جاك, جان, جانوس, جاک, جوان, جواو, جون, جوني, جيان, جيوفاني, جک, خوان, شوان, شون, هانس, يان, يانوس, يوحنا, يوهان, يوهانس, ژان, یوحنا, ইভান, ইয়ান, জন, জনি, জ্যাক, ജോണി, ജോൺ, จอห์น, แจ็ก, ივანე, ჯონი, アイバン, イアン, イオン, イバン, イワン, エヴァン, ショーン, ジャック, ジャン, ジュアン, ジョアン, ジョニー, ジョン, ジョーン, ジーン, ハンス, ファン, フアン, ヤン, ユン, ユーハン, ヨハネス, ヨハン, ヨン, 乔恩, 乔瓦尼, 伊万, 伊凡, 伊安, 伊恩, 伊昂, 吉安, 喬, 埃文, 夏恩, 尚恩, 延, 強, 揚, 杰克, 汉斯, 海斯, 琼, 璜, 瓊, 简安, 約翰, 约翰, 约翰内斯, 约翰尼, 肖恩, 胡安, 艾恩, 艾沃, 若昂, 西恩, 让, 锡安, 雅安, 요한, 이안, 장, 존, and 주안.",
+      "bm25_score_raw": 2.160938088273497,
+      "bm25_score_norm": 0.48974677541309286,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.749972939491272,
+      "embedding_score_norm": 0.09493206147323795,
+      "embedding_rank": 10
+    },
+    {
+      "title": "লিন সনে নতুন গ্রামীণ এলাকা গড়ে তোলার পথে বাধা অতিক্রম করা",
+      "url": "https://www.vietnam.vn/bn/go-kho-de-xay-dung-nong-thon-moi-o-linh-son",
+      "snippet": "Title: লিন সনে নতুন গ্রামীণ এলাকা গড়ে তোলার পথে বাধা অতিক্রম করা\n### পূর্বতন লাং চ্যান জেলার অন্তর্গত লাং চ্যান শহর এবং ত্রি নাং কমিউনকে একীভূত করে প্রতিষ্ঠিত লিন সন কমিউনটি একটি বিশাল এলাকা এবং প্রচুর উন্নয়ন সম্ভাবনা নিয়ে গঠিত। তবে, পুরনো শহরের গতিশীল ও কেন্দ্রীভূত চরিত্রের সাথে পার্বত্য কমিউনটির বিশাল পরিসর এবং জটিল ভূখণ্ডের সংমিশ্রণ বহুবিধ প্রতিবন্ধকতা সৃষ্টি করে। একীভূত এলাকাগুলোর মধ্যে অবকাঠামো এবং শিক্ষার স্তরের বৈষম্যের কারণে স্থানীয় গ্রামীণ উন্নয়ন কর্মপরিকল্পনাটি উল্লেখযোগ্য বাধার সম্মুখীন হচ্ছে।. লিন সন কম্যুন পিপলস কমিটির অর্থনৈতিক বিভাগের প্রধান জনাব লে ভান মানহ বলেন: \"যদিও লিন সন ‘নব গ্রামীণ উন্নয়ন’ কর্মসূচির মানদণ্ড পূরণকারী একটি শহর ও কম্যুনকে একীভূত করে গঠিত হয়েছে এবং এটিকে এই অঞ্চলের একটি কেন্দ্রীয় এলাকা ও অর্থনৈতিক চালিকাশক্তি হিসেবে বিবেচনা করা হয়, কিন্তু নব গ্রামীণ উন্নয়ন কর্মসূচি বাস্তবায়নের প্রক্রিয়াটি অনেক বাধার সম্মুখীন হচ্ছে। কারণ, একীভূতকরণের পরেও অবকাঠামো, আয়, পরিবেশগত স্যানিটেশন ইত্যাদির ক্ষেত্রে গ্রামগুলোর মধ্যে এখনও একটি উল্লেখযোগ্য ব্যবধান বিদ্যমান।\". ২০২৬-২০৩০ সময়কালের নব্য গ্রামীণ উন্নয়নের ১০টি মানদণ্ডের অধীনে থাকা সূচকগুলোর পর্যালোচনা ও তুলনার মাধ্যমে দেখা গেছে যে, লিন সন কম্যুনের অর্জিত সূচকের সংখ্যা এখনও খুবই সীমিত। তবে, আঞ্চলিক কেন্দ্রে একটি এলাকার অগ্রণী ভূমিকা ও গতিশীলতাকে উৎসাহিত করার জন্য, লিন সন কম্যুন তার সম্ভাবনা ও শক্তিকে কাজে লাগানোর ওপর নিবিড়ভাবে মনোযোগ দিয়েছে এবং নব্য গ্রামীণ উন্নয়ন বাস্তবায়নের জন্য সমস্ত সম্পদ একত্রিত করেছে।. ২০২২ সাল থেকে বিনিয়োগ শুরু করে, জনাব নাম ভিয়েটগ্যাপ (VietGAP) মান অনুযায়ী ১১ হেক্টরের একটি ফলের বাগান তৈরিতে কয়েক হাজার কোটি ভিয়েতনামী ডং (VND) ব্যয় করেছেন, যেখানে আম, আনারস এবং পেয়ারা চাষ করা হয় এবং পণ্যের উৎপাদন নিশ্চিত করার জন্য একটি সংযোগ ব্যবস্থা রয়েছে। জনাব নাম বলেন: “সাবেক লাং চান জেলায় শস্য বিন্যাস পুনর্গঠন এবং ভূমি একত্রীকরণের নীতি এবং কৃষির প্রতি আমার অনুরাগ দ্বারা চালিত হয়ে, আমি স্থানীয়দের কাছ থেকে কম অর্থনৈতিকভাবে দক্ষ পাহাড়ি জমি পুনরায় ইজারা নেওয়ার জন্য মূলধন সংগ্রহ করি। নিরাপত্তা মান অনুযায়ী উচ্চ প্রযুক্তির কৃষিতে বিনিয়োগ করা এমনিতেই কঠিন, এবং পাহাড়ি এলাকায় বিনিয়োগ করা আরও বেশি চ্যালেঞ্জিং। আজকের মতো একটি স্থিতিশীল উৎপাদন এলাকা প্রতিষ্ঠা করতে, আমাকে অর্থায়ন, প্রযুক্তি, শ্রম এবং পণ্যের উৎপাদনের সমস্যাগুলো সমাধান করতে হয়েছিল।”.",
+      "bm25_score_raw": 2.9758537143948214,
+      "bm25_score_norm": 0.6744361481870842,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.739600419998169,
+      "embedding_score_norm": 0.02115484896661367,
+      "embedding_rank": 11
+    },
+    {
+      "title": "বাংলা সন ও পঞ্জিকার ইতিহাস ও সংস্কার : শামসুজ্জামান খান",
+      "url": "https://pagefournews.com/history-and-reform-of-bengali-year-and-calendar",
+      "snippet": "Title: বাংলা সন ও পঞ্জিকার ইতিহাস ও সংস্কার : শামসুজ্জামান খান\nপাকিস্তান প্রতিষ্ঠার পর নব উদ্ভূত শিক্ষিত নগরবাসী বাঙালি মুসলমান ধর্মভিত্তিক পাকিস্তান রাষ্ট্র-কাঠামোর মধ্যেও তার সাংস্কৃতিক ঐতিহ্য ও নানা গোষ্ঠীর আচার অনুষ্ঠান, ক্রিয়াকরণকে (Rituals) জাতীয় আধারে বিন্যস্ত করে নতুন এক সাংস্কৃতিক ও নৃতাত্ত্বিক জাতিগঠনমূলক কর্মকা-ে শামিল হতে প্রয়াসী হয়। কিন্তু দ্বিজাতিতত্ত্বের ভিত্তিতে গড়ে ওঠা পাকিস্তান রাষ্ট্রের নিয়ন্ত্রণকারী পশ্চিম পাকিস্তানি শাসক এবং পূর্ব বাংলায় তার অনুসারীরা বাঙালির সমন্বিত সংস্কৃতির উত্তরাধিকারকে অস্বীকার করেছে, একে নানা কৌশলে বিচ্ছিন্ন করে দিয়েছে। কারণ এর মধ্যে তারা দ্বিজাতিতত্ত্বের মৃত্যুবীজের অঙ্কুরোদগম লক্ষ করেছে। তাই এর বিরুদ্ধে শুরু করেছে বাঙালিকে জাতিগত নিপীড়ন তার আবহমান সাংস্কৃতিক ঐতিহ্যের সঙ্গে সম্পর্কচ্ছেদ করে দেওয়ার কূটকৌশল। এই ধারাতেই বাধা এসেছে বাঙালির নববর্ষ উদযাপনেও। ১৯৫৪ সালের পূর্ব বাংলার সাধারণ নির্বাচনে মুসলিম লীগ উৎখাত হয়ে যাওয়ার পরই শুধু যুক্তফ্রন্ট সরকার ও তার মুখ্যমন্ত্রী এ কে ফজলুল হক বাংলা নববর্ষে ছুটি ঘোষণা করে বাঙালির জাতিগঠন ও বাঙালি জাতীয়তাবাদকে একটি সুস্পষ্ট পথনির্দেশ দান করেন এবং সে বছর বিপুল উৎসাহে বাঙালি তার নববর্ষ উদযাপন করে।. বাংলা ও বিহারের (বাংলার বিজ্ঞানী মেঘনাদ সাহা ও নোবেল বিজয়ী অর্থনীতিবিদ অধ্যাপক অমর্ত্য সেন এবং বিহারের ঐতিহাসিক অধ্যাপক কাশীপ্রসাদ জয়সোয়াল প্রমুখ) প্রখ্যাত বিজ্ঞানী-ঐতিহাসিক মনে করেন বাংলা সনের উদ্ভাবক সম্রাট আকবর। তিনি তাঁর রাজ্য শাসনের ২৯ বছরে (হিজরি ৯৯২ এবং ১৫৮৪ সালে) পঞ্জিকা সংস্কারে হাত দেন। তিনি তার নবরতœসভার জ্যোতির্বিজ্ঞানী ফতেউল্লাহ সিরাজির নেতৃত্বে ভারতের বিভিন্ন অঞ্চলের সনকে সৌর ও চান্দ্র বৈশিষ্ট্যে সমন্বিত করেন। তিনি একটি কেন্দ্রীয় ইলাহি সন করেছিলেন, কিন্তু বিভিন্ন অঞ্চলের ঋতু ও কৃষি উৎপাদনের দিকে লক্ষ্য রেখে প্রজাদের খাজনা দেওয়ার সুবিধার্থে নানা আঞ্চলিক সনের প্রবর্তন করেন বা আঞ্চলিক সনের কাঠামো নির্দেশ করে দেন। সেই কাঠমো-সূত্র অবলম্বন করেই কোনো কর্তৃপক্ষ বা আঞ্চলিক অধিপতি বাংলা সন চালু করেন। আমরা মনে করি নবাব মুরশিদ কুলি খান বাংলা সনে প্রবর্তক। আকবর অন্য যে আঞ্চলিক সন প্রবর্তন করেন তা হলো উড়িষ্যার আমলি সন, বিলায়েতি সন, সুরাসানি সন ইত্যাদি। এই সনগুলোকে বলা হয় ‘ফসলি সন’। বাংলা সনও তেমনি ফসলি সন। “আইন-ই-আকবরি থেকে জানা যায়, সম্রাট এমন একটি ত্রুটিমুক্ত এবং বিজ্ঞানসম্মত সৌর সনের প্রতিষ্ঠা করতে চেয়েছিলেন, যা জাতি-ধর্ম নির্বিশেষে সবার জন্যই আদর্শ হবে। বাংলা সনের মধ্যে তার সে আকাক্সক্ষা পূর্ণ হয়েছিল বলে লক্ষ করি। কেননা বাংলা সন যেমন হিজরি সন নয়, তেমনি এটি ইলাহি সনের উপজাত হলেও মূল ইলাহি সন থেকে ভিন্ন। হিজরি সন নয়, তেমনি এটি ইলাহি সনের উপজাত হলেও মূল ইলাহি সন থেকে ভিন্ন। হিজরি সনের ওপর ভিত্তি করা হলেও এর গঠন-পদ্ধতি ভারতীয় শকাব্দের মতো, তবে এটি শকাব্দের সমগোত্রীয় নয়। শকাব্দের সঙ্গে এর সম্পর্ক এইটুকু যে, এর মাস ও দিনের নাম শকাব্দ থেকে নেওয়া হয়েছে।”.",
+      "bm25_score_raw": 3.134250238606576,
+      "bm25_score_norm": 0.7103345329628032,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.7366262078285217,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

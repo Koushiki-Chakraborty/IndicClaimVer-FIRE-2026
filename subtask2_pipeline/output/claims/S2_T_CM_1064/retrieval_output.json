@@ -1,0 +1,133 @@
+{
+  "claim": {
+    "id": "S2/T/CM/1064",
+    "text": "ind mamta lost on her favourite turf yeh lok sabha election mein combined ho kar apne paron par kulhadi marenge",
+    "lang": "codemix"
+  },
+  "generated_queries": {
+    "english_translation": "ind mamta lost on her favorite turf yeh lok sabha election mein ho kar ke apne paron par kulhadi marenge",
+    "native_query": "ind mamta lost favourite turf yeh lok sabha",
+    "english_query": "ind mamta lost favorite turf yeh lok sabha"
+  },
+  "native_retrieval": [
+    {
+      "title": "Mamata Banerjee loses her own seat of Bhabanipur. : r/unitedstatesofindia",
+      "url": "https://www.reddit.com/r/unitedstatesofindia/comments/1t3lpc7/mamata_banerjee_loses_her_own_seat_of_bhabanipur",
+      "snippet": "362 votes, 88 comments. https://x.com/i/status/2051326638214754383."
+    },
+    {
+      "title": "Mamata Banerjee Loses Her 'Safe Seat' Bhabanipur, Suvendu ...",
+      "url": "https://timesofindia.indiatimes.com/videos/the-narrative-election-special/news/mamata-banerjee-loses-her-safe-seat-bhabanipur-suvendu-adhikari-wins-by-15000-votes/amp_videoshow/130806384.cms",
+      "snippet": "West Bengal Chief Minister Mamata Banerjee has reportedly lost the Bhabanipur assembly seat by over 15000 votes, with BJP leader Suvendu"
+    },
+    {
+      "title": "Why Mamata Lost Bhabanipur ? BJP's Campaign Pays Off In Bengal !",
+      "url": "https://www.youtube.com/watch?v=VP9-ZSVEcWg",
+      "snippet": "A major political upset in West Bengal as Mamata Banerjee faces defeat in Bhabanipur. What went wrong in one of her strongholds?"
+    },
+    {
+      "title": "Mafia, Scams and Shifting Votes: How Mamata Banerjee Lost The Plot",
+      "url": "https://www.ndtv.com/opinion/mafia-scams-and-shifting-votes-how-mamata-banerjee-lost-the-plot-11457416/amp/1",
+      "snippet": "West Bengal has a population of roughly ten crore, with around six crore voters - figures that can be verified - but the larger point remains:"
+    },
+    {
+      "title": "Bengal Shocker 2026: How Mamata Banerjee Lost Her Fortress ...",
+      "url": "https://www.youtube.com/watch?v=lu0kjOnGPaI",
+      "snippet": "WestBengalPollResults2026 #TMCvsBJP #MamataBanerjee WhatsApp: https://whatsapp.com/channel/0029VaRVu9ICxoB1dyrmQB41 Bengal Shocker 2026: How"
+    },
+    {
+      "title": "Mamata Banerjee is still in denial mode: \"BJP looted more than 100 seats\"",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1t3jp6y/mamata_banerjee_is_still_in_denial_mode_bjp",
+      "snippet": "891 votes, 93 comments. Full quote: More than 100 seats BJP looted. The Election Commission is the BJP's commission."
+    }
+  ],
+  "english_retrieval": [
+    {
+      "title": "Mamata Banerjee loses her own seat of Bhabanipur.",
+      "url": "https://www.reddit.com/r/unitedstatesofindia/comments/1t3lpc7/mamata_banerjee_loses_her_own_seat_of_bhabanipur",
+      "snippet": "362 votes, 88 comments. https://x.com/i/status/2051326638214754383."
+    },
+    {
+      "title": "Mamata Banerjee has lost the prestige battle from ...",
+      "url": "https://x.com/Milan_reports/status/2051345411995320405",
+      "snippet": "#WATCH | Kolkata | West Bengal CM Mamata Banerjee says, \"More than 100 seats BJP looted. The Election Commission is the BJP's commission.Read more"
+    },
+    {
+      "title": "How Mamata Banerjee Lost Her Fortress ? | Explained",
+      "url": "https://www.instagram.com/reel/DX7E92Mito3?hl=en",
+      "snippet": "There has been a sudden stir in the politics of West Bengal. BJP claims that Mamata Banerjee's government no longer has a full majority. BJP ...Read more"
+    },
+    {
+      "title": "Why Mamata lost her safe seat Bhabanipur to BJP's ...",
+      "url": "https://www.youtube.com/watch?v=bxGpJFD3iCQ",
+      "snippet": "West Bengal Election Results Live update: BJP leader Suvendu Adhikari defeated Mamata Banerjee in Bhabanipur, the safe seat that sent the"
+    },
+    {
+      "title": "West Bengal Assembly elections: Mamata Banerjee loses ...",
+      "url": "https://indianexpress.com/article/cities/kolkata/west-bengal-assembly-elections-mamata-banerjee-loses-her-seat-says-loot-loot-loot-an-immoral-victory-10672922",
+      "snippet": "May 5, 2026 — BJP looted more than 100 seats. The Election Commission is the BJP's commission,” she said, adding that she had complained to the chief"
+    },
+    {
+      "title": "Mamata Slams BJP, EC After Falta Loss, Says INDIA Bloc ...",
+      "url": "https://www.youtube.com/watch?v=wpVqWCnpC1I",
+      "snippet": "Former West Bengal Chief Minister Mamata Banerjee alleged large-scale EVM rigging and vote-looting in the Falta assembly constituency after"
+    }
+  ],
+  "merged_results": [
+    {
+      "title": "Mamata Banerjee loses her own seat of Bhabanipur. : r/unitedstatesofindia",
+      "url": "https://www.reddit.com/r/unitedstatesofindia/comments/1t3lpc7/mamata_banerjee_loses_her_own_seat_of_bhabanipur",
+      "snippet": "362 votes, 88 comments. https://x.com/i/status/2051326638214754383."
+    },
+    {
+      "title": "Mamata Banerjee Loses Her 'Safe Seat' Bhabanipur, Suvendu ...",
+      "url": "https://timesofindia.indiatimes.com/videos/the-narrative-election-special/news/mamata-banerjee-loses-her-safe-seat-bhabanipur-suvendu-adhikari-wins-by-15000-votes/amp_videoshow/130806384.cms",
+      "snippet": "West Bengal Chief Minister Mamata Banerjee has reportedly lost the Bhabanipur assembly seat by over 15000 votes, with BJP leader Suvendu"
+    },
+    {
+      "title": "Why Mamata Lost Bhabanipur ? BJP's Campaign Pays Off In Bengal !",
+      "url": "https://www.youtube.com/watch?v=VP9-ZSVEcWg",
+      "snippet": "A major political upset in West Bengal as Mamata Banerjee faces defeat in Bhabanipur. What went wrong in one of her strongholds?"
+    },
+    {
+      "title": "Mafia, Scams and Shifting Votes: How Mamata Banerjee Lost The Plot",
+      "url": "https://www.ndtv.com/opinion/mafia-scams-and-shifting-votes-how-mamata-banerjee-lost-the-plot-11457416/amp/1",
+      "snippet": "West Bengal has a population of roughly ten crore, with around six crore voters - figures that can be verified - but the larger point remains:"
+    },
+    {
+      "title": "Bengal Shocker 2026: How Mamata Banerjee Lost Her Fortress ...",
+      "url": "https://www.youtube.com/watch?v=lu0kjOnGPaI",
+      "snippet": "WestBengalPollResults2026 #TMCvsBJP #MamataBanerjee WhatsApp: https://whatsapp.com/channel/0029VaRVu9ICxoB1dyrmQB41 Bengal Shocker 2026: How"
+    },
+    {
+      "title": "Mamata Banerjee is still in denial mode: \"BJP looted more than 100 seats\"",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1t3jp6y/mamata_banerjee_is_still_in_denial_mode_bjp",
+      "snippet": "891 votes, 93 comments. Full quote: More than 100 seats BJP looted. The Election Commission is the BJP's commission."
+    },
+    {
+      "title": "Mamata Banerjee has lost the prestige battle from ...",
+      "url": "https://x.com/Milan_reports/status/2051345411995320405",
+      "snippet": "#WATCH | Kolkata | West Bengal CM Mamata Banerjee says, \"More than 100 seats BJP looted. The Election Commission is the BJP's commission.Read more"
+    },
+    {
+      "title": "How Mamata Banerjee Lost Her Fortress ? | Explained",
+      "url": "https://www.instagram.com/reel/DX7E92Mito3?hl=en",
+      "snippet": "There has been a sudden stir in the politics of West Bengal. BJP claims that Mamata Banerjee's government no longer has a full majority. BJP ...Read more"
+    },
+    {
+      "title": "Why Mamata lost her safe seat Bhabanipur to BJP's ...",
+      "url": "https://www.youtube.com/watch?v=bxGpJFD3iCQ",
+      "snippet": "West Bengal Election Results Live update: BJP leader Suvendu Adhikari defeated Mamata Banerjee in Bhabanipur, the safe seat that sent the"
+    },
+    {
+      "title": "West Bengal Assembly elections: Mamata Banerjee loses ...",
+      "url": "https://indianexpress.com/article/cities/kolkata/west-bengal-assembly-elections-mamata-banerjee-loses-her-seat-says-loot-loot-loot-an-immoral-victory-10672922",
+      "snippet": "May 5, 2026 — BJP looted more than 100 seats. The Election Commission is the BJP's commission,” she said, adding that she had complained to the chief"
+    },
+    {
+      "title": "Mamata Slams BJP, EC After Falta Loss, Says INDIA Bloc ...",
+      "url": "https://www.youtube.com/watch?v=wpVqWCnpC1I",
+      "snippet": "Former West Bengal Chief Minister Mamata Banerjee alleged large-scale EVM rigging and vote-looting in the Falta assembly constituency after"
+    }
+  ]
+}

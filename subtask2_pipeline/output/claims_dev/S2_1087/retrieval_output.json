@@ -1,0 +1,108 @@
+{
+  "claim": {
+    "id": "S2/1087",
+    "text": "Covid worry: Bombay HC principal bench to conduct virtual hearings for 3 hours from today",
+    "lang": "dev"
+  },
+  "generated_queries": {
+    "english_translation": "Covid worry: Bombay HC principal bench to conduct virtual hearings for 3 hours from today",
+    "native_query": "Covid Bombay HC worry principal bench conduct virtual hearings",
+    "english_query": "Covid Bombay HC worry principal bench conduct virtual hearings"
+  },
+  "native_retrieval": [
+    {
+      "title": "Covid worry: Bombay HC to conduct virtual hearings for 3 hours ...",
+      "url": "https://www.indiatoday.in/coronavirus-outbreak/story/covid-worry-bombay-hc-to-conduct-virtual-hearings-for-3-hours-1898489-2022-01-11",
+      "snippet": "The principal bench of the Bombay High Court will sit for only three hours for virtual hearing of mostly urgent cases without a lunch break."
+    },
+    {
+      "title": "Bombay HC bench to revert to virtual hearings from Apr 5 ...",
+      "url": "https://legal.economictimes.indiatimes.com/news/industry/bombay-hc-bench-to-revert-to-virtual-hearings-from-apr-5-amid-covid-19-surge/81909417",
+      "snippet": "A division bench of the Bombay High Court on Saturday decided to revert to virtual hearings from April 5 in view of the surge in COVID-19 cases"
+    },
+    {
+      "title": "COVID-19 spike in Maharashtra: Bombay Bar Association ...",
+      "url": "https://www.newindianexpress.com/india/2021/Mar/29/covid-19-spike-in-maharashtra-bombay-bar-associationseeks-online-court-hearings-2283045.html",
+      "snippet": "all benches of Bombay HC had stopped physical hearings, and hearings were being conducted in urgent cases through video conferencing. permit"
+    },
+    {
+      "title": "State courts revert to virtual hearings amid Covid-19 surge",
+      "url": "https://sabrangindia.in/article/state-courts-revert-virtual-hearings-amid-covid-19-surge",
+      "snippet": "Bombay High Court On April 6, the High Court switched to virtual hearings and ordered for physical hearing only for “extremely urgent” criminal"
+    },
+    {
+      "title": "Bombay HC Objects to Lawyers Appearing from Cars, Tells ...",
+      "url": "https://lawbeat.in/news-updates/bombay-hc-objects-to-lawyers-appearing-from-cars-tells-state-to-create-virtual-hearing-cubicles-1546453",
+      "snippet": "Bombay High Court directed the Maharashtra Government to set up virtual hearing cubicles after lawyers appeared from their cars during"
+    },
+    {
+      "title": "SC Adjourns Hearing On Bombay HC's Reduced Working ...",
+      "url": "https://www.bwlegalworld.com/article/sc-adjourns-hearing-on-bombay-hcs-reduced-working-hours-in-view-of-covid-19-418913",
+      "snippet": "It stated that courts can be made functional through a virtual hearing without reducing the working hours. The plea said that the fundamental"
+    }
+  ],
+  "english_retrieval": [
+    {
+      "title": "Covid worry: Bombay HC to conduct virtual hearings for 3 hours ...",
+      "url": "https://www.indiatoday.in/coronavirus-outbreak/story/covid-worry-bombay-hc-to-conduct-virtual-hearings-for-3-hours-1898489-2022-01-11",
+      "snippet": "The principal bench of the Bombay High Court will sit for only three hours for virtual hearing of mostly urgent cases without a lunch break."
+    },
+    {
+      "title": "Bombay HC bench to revert to virtual hearings from Apr 5 ...",
+      "url": "https://legal.economictimes.indiatimes.com/news/industry/bombay-hc-bench-to-revert-to-virtual-hearings-from-apr-5-amid-covid-19-surge/81909417",
+      "snippet": "A division bench of the Bombay High Court on Saturday decided to revert to virtual hearings from April 5 in view of the surge in COVID-19 cases"
+    },
+    {
+      "title": "COVID-19 spike in Maharashtra: Bombay Bar Association ...",
+      "url": "https://www.newindianexpress.com/india/2021/Mar/29/covid-19-spike-in-maharashtra-bombay-bar-associationseeks-online-court-hearings-2283045.html",
+      "snippet": "all benches of Bombay HC had stopped physical hearings, and hearings were being conducted in urgent cases through video conferencing. permit"
+    },
+    {
+      "title": "State courts revert to virtual hearings amid Covid-19 surge",
+      "url": "https://sabrangindia.in/article/state-courts-revert-virtual-hearings-amid-covid-19-surge",
+      "snippet": "Bombay High Court On April 6, the High Court switched to virtual hearings and ordered for physical hearing only for “extremely urgent” criminal"
+    },
+    {
+      "title": "Bombay HC Objects to Lawyers Appearing from Cars, Tells ...",
+      "url": "https://lawbeat.in/news-updates/bombay-hc-objects-to-lawyers-appearing-from-cars-tells-state-to-create-virtual-hearing-cubicles-1546453",
+      "snippet": "Bombay High Court directed the Maharashtra Government to set up virtual hearing cubicles after lawyers appeared from their cars during"
+    },
+    {
+      "title": "SC Adjourns Hearing On Bombay HC's Reduced Working ...",
+      "url": "https://www.bwlegalworld.com/article/sc-adjourns-hearing-on-bombay-hcs-reduced-working-hours-in-view-of-covid-19-418913",
+      "snippet": "It stated that courts can be made functional through a virtual hearing without reducing the working hours. The plea said that the fundamental"
+    }
+  ],
+  "merged_results": [
+    {
+      "title": "Covid worry: Bombay HC to conduct virtual hearings for 3 hours ...",
+      "url": "https://www.indiatoday.in/coronavirus-outbreak/story/covid-worry-bombay-hc-to-conduct-virtual-hearings-for-3-hours-1898489-2022-01-11",
+      "snippet": "The principal bench of the Bombay High Court will sit for only three hours for virtual hearing of mostly urgent cases without a lunch break."
+    },
+    {
+      "title": "Bombay HC bench to revert to virtual hearings from Apr 5 ...",
+      "url": "https://legal.economictimes.indiatimes.com/news/industry/bombay-hc-bench-to-revert-to-virtual-hearings-from-apr-5-amid-covid-19-surge/81909417",
+      "snippet": "A division bench of the Bombay High Court on Saturday decided to revert to virtual hearings from April 5 in view of the surge in COVID-19 cases"
+    },
+    {
+      "title": "COVID-19 spike in Maharashtra: Bombay Bar Association ...",
+      "url": "https://www.newindianexpress.com/india/2021/Mar/29/covid-19-spike-in-maharashtra-bombay-bar-associationseeks-online-court-hearings-2283045.html",
+      "snippet": "all benches of Bombay HC had stopped physical hearings, and hearings were being conducted in urgent cases through video conferencing. permit"
+    },
+    {
+      "title": "State courts revert to virtual hearings amid Covid-19 surge",
+      "url": "https://sabrangindia.in/article/state-courts-revert-virtual-hearings-amid-covid-19-surge",
+      "snippet": "Bombay High Court On April 6, the High Court switched to virtual hearings and ordered for physical hearing only for “extremely urgent” criminal"
+    },
+    {
+      "title": "Bombay HC Objects to Lawyers Appearing from Cars, Tells ...",
+      "url": "https://lawbeat.in/news-updates/bombay-hc-objects-to-lawyers-appearing-from-cars-tells-state-to-create-virtual-hearing-cubicles-1546453",
+      "snippet": "Bombay High Court directed the Maharashtra Government to set up virtual hearing cubicles after lawyers appeared from their cars during"
+    },
+    {
+      "title": "SC Adjourns Hearing On Bombay HC's Reduced Working ...",
+      "url": "https://www.bwlegalworld.com/article/sc-adjourns-hearing-on-bombay-hcs-reduced-working-hours-in-view-of-covid-19-418913",
+      "snippet": "It stated that courts can be made functional through a virtual hearing without reducing the working hours. The plea said that the fundamental"
+    }
+  ]
+}

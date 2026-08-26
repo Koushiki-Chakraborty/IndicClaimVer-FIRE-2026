@@ -1,0 +1,105 @@
+{
+  "claim": {
+    "id": "S2/1467",
+    "text": "अमित शाह 12 जुलाई को पटना दौरे पर, सीएम नीतीश कुमार के साथ करेंगे ब्रेकफास्ट और डिनर",
+    "lang": "dev"
+  },
+  "ranked_evidence": [
+    {
+      "title": "नीतीश कुमार से मिलेंगे अमित शाह, 12 जुलाई को पटना में होगी ...",
+      "url": "https://www.abplive.com/news/states/amit-shah-will-meet-nitish-kumar-in-patna-on-12-july-899367",
+      "snippet": "पटना: बिहार में एनडीए के भविष्य पर उठ रहे सवालों के बीच नीतीश कुमार और अमित शाह 12 जुलाई को पटना में मुलाकात करेंगे. 'समर्थन के लिए संपर्क' अभियान के तहत अमित शाह बिहार जाएंगे और वहां नीतीश के अलावा",
+      "bm25_score_raw": 9.169262065839042,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Amit Shah to meet Nitish Kumar for breakfast, dinner today",
+      "url": "https://www.firstpost.com/politics/amit-shah-to-meet-nitish-kumar-for-breakfast-dinner-on-thursday-spokespersons-barred-from-speaking-about-seat-sharing-issue-4712521.html",
+      "snippet": "Amit Shah will hold discussions with JD(U) leader and Bihar Chief Minister Nitish Kumar over breakfast and dinner during his visit to Patna on",
+      "bm25_score_raw": 7.125494161725515,
+      "bm25_score_norm": 0.7459647015266849,
+      "bm25_rank": 2
+    },
+    {
+      "title": "नीतीश कुमार ने कुछ इस अंदाज में किया गृह मंत्री अमित शाह का ...",
+      "url": "https://www.youtube.com/watch?v=DAYGJ7Q-gSY",
+      "snippet": "Amit Shah Welcomed in Patna : नीतीश कुमार ने कुछ इस अंदाज में किया गृह मंत्री अमित शाह का स्वागत अमित शाह पटना पहुंच चुके हैं। नीतीश कुमार के नामांकन में शामिल होंगे।",
+      "bm25_score_raw": 4.512641107859933,
+      "bm25_score_norm": 0.421193525665815,
+      "bm25_rank": 3
+    },
+    {
+      "title": "Bihar Politics: नीतीश के नाम पर नहीं लगी मुहर! अमित शाह ने ...",
+      "url": "https://www.jagran.com/bihar/patna-city-nda-to-decide-bihar-cm-amit-shahs-bihar-visit-nitish-kumar-news-40012051.html",
+      "snippet": "Oct 17, 2025 — केंद्रीय मंत्री अमित शाह तीन दिवसीय बिहार दौरे पर पहुंचे। उन्होंने कहा कि एनडीए विधानमंडल दल ही मुख्यमंत्री का चुनाव करेगा। शाह ने स्पष्ट किया कि एनडीए नीतीश कुमार के नेतृत्व में चुनाव लड़ रहा है।",
+      "bm25_score_raw": 3.1513956320498115,
+      "bm25_score_norm": 0.25199407789737355,
+      "bm25_rank": 4
+    },
+    {
+      "title": "अमित शाह से मिले नीतीश कुमार, बंद कमरे में 20 मिनट तक हुई ...",
+      "url": "https://www.abplive.com/states/bihar/bihar-cm-nitish-kumar-met-amit-shah-in-closed-room-discussed-on-seat-sharing-ann-3014605",
+      "snippet": "Sep 18, 2025 — Nitish Kumar Met Amit Shah: बिहार में विधानसभा चुनाव होना है तो उस लिहाज से यह मीटिंग अहम मानी जा रही है. सूत्रों की मानें तो मुलाकात के दौरान दोनों नेताओं के बीच बिहार विधानसभा चुनाव पर चर्चा हुई",
+      "bm25_score_raw": 2.3852075136711504,
+      "bm25_score_norm": 0.15675878873010662,
+      "bm25_rank": 5
+    },
+    {
+      "title": "Amit Shah meets Nitish over breakfast, seat sharing on ...",
+      "url": "https://www.indiatoday.in/india/story/amit-shah-meets-nitish-kumar-over-45-minute-breakfast-1283477-2018-07-12",
+      "snippet": "National President Amit Shah on Thursday (July 12) met JD(U) national president and Bihar Chief Minister Nitish Kumar over breakfast in Patna.",
+      "bm25_score_raw": 2.30549471447732,
+      "bm25_score_norm": 0.14685068483308836,
+      "bm25_rank": 6
+    },
+    {
+      "title": "बेगूसराय में गरजे अमित शाह, बोले- लालू यादव के घोटालों की लिस्ट ...",
+      "url": "https://www.etvbharat.com/hi/!bharat/live-blog--amit-shah-bihar-visit-cm-nitish-kumar-meets-amit-shah-in-patna-hindi-news-brn25091801560",
+      "snippet": "Sep 18, 2025 — पटना: मुख्यमंत्री नीतीश कुमार और केंद्रीय गृह मंत्री अमित शाह की मुलाकात पटना के होटल मौर्या में हुई. दोनों नेताओं के बीच यह मुलाकात बंद कमरे में चली, जिससे इसकी अहमियत और भी बढ़ गई.",
+      "bm25_score_raw": 1.947676363184919,
+      "bm25_score_norm": 0.10237474826179688,
+      "bm25_rank": 7
+    },
+    {
+      "title": "गृहमंत्री अमित शाह ने कहा कि वे पटना आए हैं ताकि भाजपा के ...",
+      "url": "https://www.instagram.com/reel/DVgDdkSiLih?hl=hi",
+      "snippet": "हम सब एनडीए के सदस्य भाजपा के करोड़ों कार्यकर्ता नितिन नवीन जी का राष्ट्रीय राजनीति में और संसद में स्वागत करते हैं. आज बिहार के यशस्वी मुख्यमंत्री श्री नीतीश कुमार जी ने भी राज्यसभा में अपना नामांकन किया है।Read more",
+      "bm25_score_raw": 1.7354073886449157,
+      "bm25_score_norm": 0.07599023943603402,
+      "bm25_rank": 8
+    },
+    {
+      "title": "Amit Shah in Bihar, breakfasts with Nitish; dinner due",
+      "url": "https://www.tribuneindia.com/news/archive/nation/amit-shah-in-bihar-breakfasts-with-nitish-dinner-due-619371",
+      "snippet": "PATNA: BJP President Amit Shah arrived here on Thursday and met JDU chief and Bihar Chief Minister Nitish Kumar at breakfast.",
+      "bm25_score_raw": 1.4187224186768068,
+      "bm25_score_norm": 0.03662708048538217,
+      "bm25_rank": 9
+    },
+    {
+      "title": "Amid Strain, Amit Shah-Nitish Kumar Meetings Over ...",
+      "url": "https://www.ndtv.com/india-news/amit-shah-meets-nitish-kumar-seat-sharing-talks-over-dinner-tonight-1881977",
+      "snippet": "BJP chief Amit Shah met Bihar Chief Minister NItish Kumar in Patna. The two leaders are expected to meet again for dinner tonight.",
+      "bm25_score_raw": 1.4046044657218433,
+      "bm25_score_norm": 0.03487225383137324,
+      "bm25_rank": 10
+    },
+    {
+      "title": "Nitish Kumar hosts dinner for BJP chief Amit Shah eight ...",
+      "url": "https://timesofindia.indiatimes.com/india/nitish-kumar-hosts-dinner-for-bjp-chief-amit-shah-eight-years-after-he-cancelled-a-similar-feast-for-narendra-modi/articleshow/64965663.cms",
+      "snippet": "After breakfast, Shah and three union ministers accompanied Nitish upto the portico to see him off. Nitish came out smiling. Though the CM",
+      "bm25_score_raw": 1.183720893519677,
+      "bm25_score_norm": 0.007416971810703828,
+      "bm25_rank": 11
+    },
+    {
+      "title": "केंद्रीय गृहमंत्री अमित शाह से मिले मुख्यमंत्री नीतीश कुमार ...",
+      "url": "https://ddnews.gov.in/chief-minister-nitish-kumar-met-union-home-minister-amit-shah-and-discussed-election-strategy",
+      "snippet": "Sep 18, 2025 — कयास लगाए जा रहे हैं कि दोनों नेताओं के बीच बिहार में इस साल होने वाले विधानसभा चुनाव की रणनीतियों को लेकर चर्चा हुई। बिहार विधानसभा चुनाव के मद्देनजर तमाम राजनीतिक दल अब चुनावी समर में उतरने से पहले की अंतिम ...Read more",
+      "bm25_score_raw": 1.1240497807903427,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12
+    }
+  ]
+}

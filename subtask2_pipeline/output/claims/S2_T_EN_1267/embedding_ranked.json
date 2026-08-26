@@ -1,0 +1,76 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1267",
+    "text": "Sonia to file nomination from Rae Bareli on April 2",
+    "lang": "english"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Rahul Gandhi To File Nomination From Amethi On April 10 ...",
+      "url": "https://www.ndtvprofit.com/india/rahul-to-file-nomination-from-amethi-on-april-10-sonia-from-rae-bareli-on-april-11-10356255",
+      "snippet": "The family will be together on both days with Rahul Gandhi accompanying his mother in Rae Bareli and Sonia Gandhi present while he files his",
+      "bm25_score_raw": 5.1278402108894,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8845462799072266,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Sonia Gandhi files nomination papers for Rae Bareli Lok ...",
+      "url": "https://timesofindia.indiatimes.com/elections/news/sonia-gandhi-files-nomination-papers-for-rae-bareli-lok-sabha-seat/articleshow/68830079.cms",
+      "snippet": "News News: UPA chairperson Sonia Gandhi on Thursday filed her nomination papers from the Rae Bareli Lok Sabha constituency.",
+      "bm25_score_raw": 2.3867752869442898,
+      "bm25_score_norm": 0.22290242413058226,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8771141767501831,
+      "embedding_score_norm": 0.613527318712109,
+      "embedding_rank": 2
+    },
+    {
+      "title": "In Rae Bareli to file nomination, Sonia Gandhi sticks to 52 ...",
+      "url": "https://www.hindustantimes.com/lok-sabha-elections/in-rae-bareli-to-file-nomination-sonia-gandhi-sticks-to-52-yr-old-tradition/story-bT6517tj9Ozi9JxWJZdgbP.html",
+      "snippet": "Sonia Gandhi, UPA chairperson, on Thursday filed her nomination papers for Rae Bareli Lok Sabha seat following a road show in the constituency.",
+      "bm25_score_raw": 3.24349074187904,
+      "bm25_score_norm": 0.46578302773243674,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8765525817871094,
+      "embedding_score_norm": 0.5843241299792955,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Don't forget 2004, says Sonia after filing nomination from ...",
+      "url": "https://www.thestatesman.com/elections-2019/dont-forget-2004-says-sonia-filing-nomination-rae-bareli-1502744772.html",
+      "snippet": "UPA chairperson Sonia Gandhi filed her nomination papers from the Rae Bareli Lok Sabha constituency on Thursday. “Don't forget 2004” said",
+      "bm25_score_raw": 1.9230267645773602,
+      "bm25_score_norm": 0.09142875876927908,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8749422430992126,
+      "embedding_score_norm": 0.5005857994768098,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Sonia Gandhi files nomination from Rae Bareli Lok Sabha ...",
+      "url": "https://indianexpress.com/article/political-pulse/sonia-gandhi-files-nomination-from-rae-bareli-lok-sabha-seat",
+      "snippet": "Gandhi, 67, who will be seeking re-election from the seat, was accompanied by party's vice president and her son Rahul Gandhi while presenting",
+      "bm25_score_raw": 1.600529086699618,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8684525489807129,
+      "embedding_score_norm": 0.16311880881240778,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Four time MP from Rae Bareli, UPA Chairperson Smt. ...",
+      "url": "https://www.facebook.com/RameshSharmaOfficial/posts/four-time-mp-from-rae-bareli-upa-chairperson-smt-sonia-gandhi-files-her-nominati/2271310926223702",
+      "snippet": "Four time MP from Rae Bareli, UPA Chairperson Smt. Sonia Gandhi files her nomination for the 2019 Lok Sabha elections.",
+      "bm25_score_raw": 1.6128331869380836,
+      "bm25_score_norm": 0.003488237868807746,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8653156757354736,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6
+    }
+  ]
+}

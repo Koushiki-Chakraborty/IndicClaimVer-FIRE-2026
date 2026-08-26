@@ -1,0 +1,76 @@
+{
+  "claim": {
+    "id": "S2/1624",
+    "text": "Statewide night curfew in Uttar Pradesh to curb Covid spread; physical classes suspended",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Statewide night curfew in Uttar Pradesh to curb Covid spread",
+      "url": "https://www.indiatoday.in/amp/india/uttar-pradesh/story/statewide-night-curfew-uttar-pradesh-covid-spread-physical-classes-suspended-1898009-2022-01-09",
+      "snippet": "\"In view of the developing situation due to Covid-19, night curfew has been imposed in every district of Uttar Pradesh between 10 pm to 6 am.",
+      "bm25_score_raw": 10.097455401566092,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9176670908927917,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "UP Government imposes state-wide Night curfew to prevent spread of ...",
+      "url": "https://ehealth.eletsonline.com/2021/12/up-government-imposes-state-wide-night-curfew-to-prevent-spread-of-covid-19",
+      "snippet": "The Uttar Pradesh government on Friday decided to impose a night curfew across the state from December 25. The restrictions will be in place from 11 pm to 5 am.",
+      "bm25_score_raw": 3.138104393365416,
+      "bm25_score_norm": 0.20894131818034054,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8938765525817871,
+      "embedding_score_norm": 0.44456180194321754,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Uttar Pradesh govt imposes weekend lockdown in the entire state. Details ...",
+      "url": "https://www.livemint.com/news/india/uttar-pradesh-govt-imposes-weekend-lockdown-in-the-entire-state-details-here/amp-11618904420759.html",
+      "snippet": "According to the new order, districts with more than 500 active Covid-19 cases will also remain under night curfew, effective between 8 PM to 7",
+      "bm25_score_raw": 1.2999399098048567,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8910048604011536,
+      "embedding_score_norm": 0.3775163442350564,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Several states impose lockdown, night curfew to curb Covid-19; all you need ...",
+      "url": "https://timesofindia.indiatimes.com/india/several-states-impose-lockdown-night-curfew-to-curb-covid-19/amp_articleshow/82008208.cms",
+      "snippet": "With rising cases in UP, the Yogi Adityanath government has acted promptly to impose night curfew in all districts with more than 500 active",
+      "bm25_score_raw": 2.4085799904389225,
+      "bm25_score_norm": 0.12601740589968766,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8883323669433594,
+      "embedding_score_norm": 0.3151215832964562,
+      "embedding_rank": 4
+    },
+    {
+      "title": "U.P. extends night curfew as cases rise",
+      "url": "https://www.thehindu.com/news/national/other-states/uttar-pradesh-extends-night-curfew-as-coronavirus-omicron-cases-rise/article38119348.ece/amp",
+      "snippet": "Uttar Pradesh government on Tuesday extended the night curfew to 10 p.m. to 6 a.m from the earlier schedule of 11 p.m. to 5 a.m.",
+      "bm25_score_raw": 2.220257003918207,
+      "bm25_score_norm": 0.1046110228478956,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8771796226501465,
+      "embedding_score_norm": 0.05473822783682762,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Uttar Pradesh imposes night curfew in 10 dists with more than ...",
+      "url": "https://indianexpress.com/article/cities/lucknow/uttar-pradesh-imposes-night-curfew-in-10-dists-with-more-than-2000-active-cases-7275574/lite",
+      "snippet": "Uttar Pradesh imposes night curfew in 10 dists with more than 2,000 active cases. The decision came on the day when 22,439 people tested",
+      "bm25_score_raw": 2.5023577100780803,
+      "bm25_score_norm": 0.13667697447072108,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8748350739479065,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6
+    }
+  ]
+}

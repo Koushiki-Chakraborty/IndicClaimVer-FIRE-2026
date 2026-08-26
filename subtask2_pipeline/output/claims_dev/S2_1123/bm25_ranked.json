@@ -1,0 +1,97 @@
+{
+  "claim": {
+    "id": "S2/1123",
+    "text": "कर्नाटक के कांग्रेस नेता दिनेश गुंडु राव ने खोया आपा, CM योगी के खिलाफ किया अपशब्दों का इस्तेमाल",
+    "lang": "dev"
+  },
+  "ranked_evidence": [
+    {
+      "title": "कर्नाटक कांग्रेस अध्यक्ष ने कहा- योगी आदित्यनाथ यहां आए तो ...",
+      "url": "https://www.jansatta.com/rajya/karnataka/karnataka-president-dinesh-gundu-rao-said-up-cm-yogi-aditya-nath-should-be-beaten-with-slippers-if-he-come-to-state/632131",
+      "snippet": "Apr 15, 2018 — एक वीडियो शेयर करते हुए कर्नाटक के बीजेपी सीएम उम्मीदवार बीएस येदयुरप्पा ने अपने ट्विटर हैंडल पर लिखा, \"दिनेश गुंडु राव द्वारा जिस प्रकार के शब्दों का इस्तेमाल सीएम योगी आदित्य नाथ जी के लिए किया गया है",
+      "bm25_score_raw": 5.3714579460405805,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "'RSS और उसके सहयोगियों को आवंटित जमीन की होगी समीक्षा ...",
+      "url": "https://www.abplive.com/news/india/karnataka-siddaramaiah-minister-dinesh-gundu-rao-says-land-allotted-to-rss-and-its-affiliates-will-be-reviewed-2427914",
+      "snippet": "Jun 9, 2023 — Karnataka Politics: कर्नाटक सरकार के मंत्री दिनेश गुंडु राव ने राज्य में पूर्व की बीजेपी सरकार के दौरान आरएसएस और उसके सहयोगियों को आवंटित की गई जमीन को लेकर बयान दिया है.",
+      "bm25_score_raw": 4.312052748854581,
+      "bm25_score_norm": 0.6343466921941986,
+      "bm25_rank": 2
+    },
+    {
+      "title": "Karnataka Congress leader Dinesh Gundu Rao apologises ...",
+      "url": "https://www.indiatvnews.com/politics/national-karnataka-congress-leader-dinesh-gundu-rao-apologises-for-his-yogi-is-dhongi-remark-437650",
+      "snippet": "Apr 15, 2018 — A day after he used derogatory words against Uttar Pradesh Chief Minister Yogi Adityanath while criticising him over the Unnao rape case,",
+      "bm25_score_raw": 4.129011413343668,
+      "bm25_score_norm": 0.571170043662989,
+      "bm25_rank": 3
+    },
+    {
+      "title": "Dinesh Gundu Rao: कर्नाटक चुनाव में सबसे कम वोटों से जीतने ...",
+      "url": "https://www.jagran.com/politics/national-karnataka-election-results-congress-dinesh-gundu-rao-biography-in-hindi-23411550.html",
+      "snippet": "May 13, 2023 — दिनेश गुंडू राव ने मुस्‍ल‍िम महिला से शादी की है। द‍िनेश की पत्नी का नाम तबस्सुम राव है। द‍िनेश और तबस्सुम दो साल पहले उस वक्‍त चर्चा में आए थे जब केंद्रीय मंत्री अनंत कुमार हेगड़े उनके खि‍लाफ",
+      "bm25_score_raw": 3.992051624365851,
+      "bm25_score_norm": 0.5238984236925134,
+      "bm25_rank": 4
+    },
+    {
+      "title": "FIR against Dinesh Gundu Rao over Yogi remarks",
+      "url": "https://www.thehindu.com/elections/karnataka-2018/fir-against-dinesh-gundu-rao-over-yogi-remarks/article23576126.ece",
+      "snippet": "Apr 17, 2018 — The city police have booked a case against Karnataka Pradesh Congress Committee working president Dinesh Gundu Rao for his controversial ...Read more",
+      "bm25_score_raw": 3.9613313748346344,
+      "bm25_score_norm": 0.5132953410499645,
+      "bm25_rank": 5
+    },
+    {
+      "title": "BJP Protests Against Congress Leader's 'Slipper Rant' On ...",
+      "url": "https://www.youtube.com/watch?v=UBO3dnXACls",
+      "snippet": "The BJP's Karnataka unit is holding a massive protest against Congress leader Dinesh Gundu Rao over his 'slipper rant' against Uttar Pradesh",
+      "bm25_score_raw": 3.9324959772578585,
+      "bm25_score_norm": 0.503342814354938,
+      "bm25_rank": 6
+    },
+    {
+      "title": "'Hit Yogi with slippers', says Karnataka Congress' Working ...",
+      "url": "https://www.facebook.com/IndiaToday/videos/hit-yogi-with-slippers/10157017742682119",
+      "snippet": "'Hit Yogi with slippers', says Karnataka Congress' Working President Dinesh Gundu Rao #ITVideo More videos: http://bit.ly/it_videos.",
+      "bm25_score_raw": 3.526896272930005,
+      "bm25_score_norm": 0.3633502280183089,
+      "bm25_rank": 7
+    },
+    {
+      "title": "Congress MLA Dinesh Gundu Rao says, \"They are making ...",
+      "url": "https://x.com/ians_india/status/2077762839549526127",
+      "snippet": "IANS (@ians_india). 851 views. Bengaluru, Karnataka: Congress MLA Dinesh Gundu Rao says, \"They are making these allegations now because they",
+      "bm25_score_raw": 3.2924743118719295,
+      "bm25_score_norm": 0.2824395757854421,
+      "bm25_rank": 8
+    },
+    {
+      "title": "Need to ensure Bengaluru gets special treatment: Congress ...",
+      "url": "https://www.youtube.com/watch?v=9_dpzxU3yuA",
+      "snippet": "Former Karnataka Pradesh Congress Committee president Dinesh Gundu Rao was elected to the Karnataka Legislative Assembly for five terms",
+      "bm25_score_raw": 3.2830931392977423,
+      "bm25_score_norm": 0.27920166757811965,
+      "bm25_rank": 9
+    },
+    {
+      "title": "Dinesh Gundu Rao's remarks on Yogi mean nothing: GVR ...",
+      "url": "https://www.facebook.com/IndiaToday/videos/dinesh-gundu-raos-remarks/10157018776027119",
+      "snippet": "Dinesh Gundu Rao's remarks on Yogi mean nothing: GVR Shastri, Political analyst Shazia Ilmi joins in debate with Pooja Shali #ITVideo.",
+      "bm25_score_raw": 2.7232244883445142,
+      "bm25_score_norm": 0.08596321197907923,
+      "bm25_rank": 10
+    },
+    {
+      "title": "Karnataka Congress Leader Directs Slipper Assault On ...",
+      "url": "https://www.ndtv.com/karnataka-news/karnataka-congress-leader-directs-slipper-assault-on-yogi-adityanath-says-sorry-1837913",
+      "snippet": "... Congress of instigating violence. As his comments stoked a major political row, Mr Rao said it was an \"emotional outburst\" and \"all I said",
+      "bm25_score_raw": 2.4741637753868577,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11
+    }
+  ]
+}

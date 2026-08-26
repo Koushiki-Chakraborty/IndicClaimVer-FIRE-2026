@@ -1,0 +1,108 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1259",
+    "text": "With 2,568 new patients, India's Covid case count dips 18.7%",
+    "lang": "english"
+  },
+  "generated_queries": {
+    "english_translation": "With 2,568 new patients, India's Covid case count dips 18.7%",
+    "native_query": "India Covid 568 patients count dips 18",
+    "english_query": "India Covid 568 patients count dips 18"
+  },
+  "native_retrieval": [
+    {
+      "title": "Sharpest 15-day decline of 18% in India's Covid cases",
+      "url": "https://timesofindia.indiatimes.com/india/sharpest-15-day-decline-of-18-in-indias-covid-cases/articleshow/78711458.cms",
+      "snippet": "The number was 18.4% less than the case count in the second half of September. In the sharpest fortnightly dip in Covid-19 cases and deaths"
+    },
+    {
+      "title": "India Sees A Dip In Total Number Of Covid Cases | Covid ...",
+      "url": "https://www.youtube.com/watch?v=A_WMrusE8Mw",
+      "snippet": "India sees a decrease in the number of covid cases than before with 3.68 lakh cases in a day. But 3417 deaths in the last 24 hours."
+    },
+    {
+      "title": "India COVID cases cross 18 million, gravediggers work ...",
+      "url": "https://www.reuters.com/world/india/indias-coronavirus-infections-cross-18-million-2021-04-29",
+      "snippet": "India's total COVID-19 cases passed 18 million on Thursday. India reported 379,257 new infections and 3,645 new deaths on Thursday, the"
+    },
+    {
+      "title": "India COVID cases dip from peak as nationwide lockdown ...",
+      "url": "https://www.aljazeera.com/news/2021/5/10/india-to-hire-ex-army-medics-as-covid-surge-sparks-lockdown-calls",
+      "snippet": "Health ministry reports 366,161 new infections and 3,754 deaths, off a little from recent peaks, amid calls to impose a nationwide lockdown."
+    },
+    {
+      "title": "Hospital fire kills 18 virus patients as India steps up jabs | PBS News Weekend",
+      "url": "https://www.pbs.org/newshour/world/hospital-fire-kills-18-virus-patients-as-india-steps-up-jabs",
+      "snippet": "NEW DELHI — A fire in a COVID-19 hospital ward in western India killed 18 patients early Saturday, as the country grappling with the worst outbreak yet stepped up a vaccination drive for all adults even as some states said they don't have enough jabs. The fire broke out in a COVID-19 ward on the ground floor of the Welfare Hospital in Bharuch, a town in Gujarat state, and was extinguished within an hour, police said. Separately, 12 COVID-19 patients, including a doctor, on high-flow oxygen died Saturday at a hospital in New Delhi after it ran out of the supply for 80 minutes, said S.C.L. Gupta, director of Batra Hospital. Faced with an unprecedented COVID-19 surge that has filled hospitals and crematoriums, Prime Minister Narendra Modi's government described the pandemic as a \"once-in-a-century crisis.\" Modi held a Cabinet meeting Friday that discussed steps to save the country's crumbling health system by adding hospital beds, resolving issues in production, storage and transport of oxygen and tackling the shortage of essential medicines."
+    },
+    {
+      "title": "India's COVID-19 cases top 25 million as deaths soar",
+      "url": "https://www.cidrap.umn.edu/indias-covid-19-cases-top-25-million-deaths-soar",
+      "snippet": "India's COVID-19 total topped 25 million cases, and though cases dropped below 300,000 for 2 days in a row, the country today reported a daily"
+    }
+  ],
+  "english_retrieval": [
+    {
+      "title": "Sharpest 15-day decline of 18% in India's Covid cases",
+      "url": "https://timesofindia.indiatimes.com/india/sharpest-15-day-decline-of-18-in-indias-covid-cases/articleshow/78711458.cms",
+      "snippet": "The number was 18.4% less than the case count in the second half of September. In the sharpest fortnightly dip in Covid-19 cases and deaths"
+    },
+    {
+      "title": "India Sees A Dip In Total Number Of Covid Cases | Covid ...",
+      "url": "https://www.youtube.com/watch?v=A_WMrusE8Mw",
+      "snippet": "India sees a decrease in the number of covid cases than before with 3.68 lakh cases in a day. But 3417 deaths in the last 24 hours."
+    },
+    {
+      "title": "India COVID cases cross 18 million, gravediggers work ...",
+      "url": "https://www.reuters.com/world/india/indias-coronavirus-infections-cross-18-million-2021-04-29",
+      "snippet": "India's total COVID-19 cases passed 18 million on Thursday. India reported 379,257 new infections and 3,645 new deaths on Thursday, the"
+    },
+    {
+      "title": "India COVID cases dip from peak as nationwide lockdown ...",
+      "url": "https://www.aljazeera.com/news/2021/5/10/india-to-hire-ex-army-medics-as-covid-surge-sparks-lockdown-calls",
+      "snippet": "Health ministry reports 366,161 new infections and 3,754 deaths, off a little from recent peaks, amid calls to impose a nationwide lockdown."
+    },
+    {
+      "title": "Hospital fire kills 18 virus patients as India steps up jabs | PBS News Weekend",
+      "url": "https://www.pbs.org/newshour/world/hospital-fire-kills-18-virus-patients-as-india-steps-up-jabs",
+      "snippet": "NEW DELHI — A fire in a COVID-19 hospital ward in western India killed 18 patients early Saturday, as the country grappling with the worst outbreak yet stepped up a vaccination drive for all adults even as some states said they don't have enough jabs. The fire broke out in a COVID-19 ward on the ground floor of the Welfare Hospital in Bharuch, a town in Gujarat state, and was extinguished within an hour, police said. Separately, 12 COVID-19 patients, including a doctor, on high-flow oxygen died Saturday at a hospital in New Delhi after it ran out of the supply for 80 minutes, said S.C.L. Gupta, director of Batra Hospital. Faced with an unprecedented COVID-19 surge that has filled hospitals and crematoriums, Prime Minister Narendra Modi's government described the pandemic as a \"once-in-a-century crisis.\" Modi held a Cabinet meeting Friday that discussed steps to save the country's crumbling health system by adding hospital beds, resolving issues in production, storage and transport of oxygen and tackling the shortage of essential medicines."
+    },
+    {
+      "title": "India's COVID-19 cases top 25 million as deaths soar",
+      "url": "https://www.cidrap.umn.edu/indias-covid-19-cases-top-25-million-deaths-soar",
+      "snippet": "India's COVID-19 total topped 25 million cases, and though cases dropped below 300,000 for 2 days in a row, the country today reported a daily"
+    }
+  ],
+  "merged_results": [
+    {
+      "title": "Sharpest 15-day decline of 18% in India's Covid cases",
+      "url": "https://timesofindia.indiatimes.com/india/sharpest-15-day-decline-of-18-in-indias-covid-cases/articleshow/78711458.cms",
+      "snippet": "The number was 18.4% less than the case count in the second half of September. In the sharpest fortnightly dip in Covid-19 cases and deaths"
+    },
+    {
+      "title": "India Sees A Dip In Total Number Of Covid Cases | Covid ...",
+      "url": "https://www.youtube.com/watch?v=A_WMrusE8Mw",
+      "snippet": "India sees a decrease in the number of covid cases than before with 3.68 lakh cases in a day. But 3417 deaths in the last 24 hours."
+    },
+    {
+      "title": "India COVID cases cross 18 million, gravediggers work ...",
+      "url": "https://www.reuters.com/world/india/indias-coronavirus-infections-cross-18-million-2021-04-29",
+      "snippet": "India's total COVID-19 cases passed 18 million on Thursday. India reported 379,257 new infections and 3,645 new deaths on Thursday, the"
+    },
+    {
+      "title": "India COVID cases dip from peak as nationwide lockdown ...",
+      "url": "https://www.aljazeera.com/news/2021/5/10/india-to-hire-ex-army-medics-as-covid-surge-sparks-lockdown-calls",
+      "snippet": "Health ministry reports 366,161 new infections and 3,754 deaths, off a little from recent peaks, amid calls to impose a nationwide lockdown."
+    },
+    {
+      "title": "Hospital fire kills 18 virus patients as India steps up jabs | PBS News Weekend",
+      "url": "https://www.pbs.org/newshour/world/hospital-fire-kills-18-virus-patients-as-india-steps-up-jabs",
+      "snippet": "NEW DELHI — A fire in a COVID-19 hospital ward in western India killed 18 patients early Saturday, as the country grappling with the worst outbreak yet stepped up a vaccination drive for all adults even as some states said they don't have enough jabs. The fire broke out in a COVID-19 ward on the ground floor of the Welfare Hospital in Bharuch, a town in Gujarat state, and was extinguished within an hour, police said. Separately, 12 COVID-19 patients, including a doctor, on high-flow oxygen died Saturday at a hospital in New Delhi after it ran out of the supply for 80 minutes, said S.C.L. Gupta, director of Batra Hospital. Faced with an unprecedented COVID-19 surge that has filled hospitals and crematoriums, Prime Minister Narendra Modi's government described the pandemic as a \"once-in-a-century crisis.\" Modi held a Cabinet meeting Friday that discussed steps to save the country's crumbling health system by adding hospital beds, resolving issues in production, storage and transport of oxygen and tackling the shortage of essential medicines."
+    },
+    {
+      "title": "India's COVID-19 cases top 25 million as deaths soar",
+      "url": "https://www.cidrap.umn.edu/indias-covid-19-cases-top-25-million-deaths-soar",
+      "snippet": "India's COVID-19 total topped 25 million cases, and though cases dropped below 300,000 for 2 days in a row, the country today reported a daily"
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/1364",
+    "text": "করোনা নিয়ে ভুয়ো পোস্ট সোশ্যাল মিডিয়ায়, পুরুলিয়ায় পুলিশের জালে ৩ যুবক",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Barrick Mining, company that has been extracting gold from Balochistan, seeks $3.5b funding from G7 nations to exploit region's natural resources - OpIndia",
+      "url": "https://www.opindia.com/2025/08/pakistan-balochistan-barrick-mining-gold-us-g7-copper-mining/",
+      "snippet": "News Reports  ### Congress ecosystem targets a Hindu priest over ‘Guru-Shishya’ tradition: Read how 2023 fake claim was revived to amplify Rahul Gandhi’s ‘vote chori’ narrative   Fact-Check  ### Air India debunks Congress leader KC Venugopal’s ‘harrowing journey’ claim over Air India Thiruvananthapuram-Delhi flight diversion   News Reports  ### All voters have been verified and checked: Muzaffarpur district administration fact checks ‘journalist’ Rajdeep Sardesai who was trying to claim Bihar SIR is done... News Reports  ### New York Times finally admits their image of ‘starving child in Gaza’ was fake, in a deceptive, whitewashed post   News Reports  ### How western media outlets like NYT and BBC use such carefully curated photographs and videos to peddle pro-Hamas agenda   News Reports  ### The US Justice Department told Trump that his name emerged in the Epstein files, claims Wall Street Journal after Trump sued the publication   News Reports  ### Cover-up to protect Boeing?",
+      "bm25_score_raw": 0.6025937906378498,
+      "bm25_score_norm": 0.11796985936263239,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8127684593200684,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Fake apartment ad scams growing on social media - NBC News",
+      "url": "https://www.nbcnews.com/video/fake-apartment-ad-scams-growing-on-social-media-248299077911",
+      "snippet": "Fake apartment ad scams growing on social media ## Fake apartment ad scams growing on social media ## ICE director says Dallas facility shooting was his 'worst nightmare' * ## ‘Anti-ICE’ message found on bullets after deadly shooting at Dallas ICE facility * ## FBI says fake apartment ads on social media a growing scam * ## Special Report: Dallas ICE facility shooting leaves two dead, including the suspect # Fake apartment ad scams growing on social media ## Fake apartment ad scams growing on social media ## ICE director says Dallas facility shooting was his 'worst nightmare' * ## FBI says fake apartment ads on social media a growing scam ## Fake apartment ad scams are growing on social media",
+      "bm25_score_raw": 0.6634067877055452,
+      "bm25_score_norm": 0.12987522716256003,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.811508059501648,
+      "embedding_score_norm": 0.9846335182020068,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Fake Truth Social Post from Trump on Alex Pretti Death Is Going Viral - Newsweek",
+      "url": "https://www.newsweek.com/fake-truth-social-post-trump-alex-pretti-death-viral-11416060",
+      "snippet": "# Fake Truth Social Post from Trump on Alex Pretti Death Is Going Viral. A social media post attributed to President Donald Trump saying \"only criminals carry guns\" has been fact-checked as fake by the National Rifle Association. This latest intervention regarding the fake social media post suggests the NRA is keeping a close eye on Trump’s response to the shooting. In the post shared to X, the NRA urged social media users to be vigilant of \"fake news\" online in the wake of Pretti’s death. Though the remarks in the fake social-media post have been debunked, Trump has been critical of Pretti’s decision to carry a gun to the Minneapolis protest he was killed at. **The NRA urged caution on social media in response to a fake Trump Truth Social post:** \"As bad actors among us attempt to further the divide our country, it is now more important than ever to be vigilant against AI-generated content meant to mislead Americans.",
+      "bm25_score_raw": 1.8685322537756432,
+      "bm25_score_norm": 0.36580278558650253,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8114169836044312,
+      "embedding_score_norm": 0.9835231434650668,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Fake apartment ad scams are growing on social media - NBC News",
+      "url": "https://www.nbcnews.com/video/shorts/fake-apartment-ad-scams-are-growing-on-social-media-248300613720",
+      "snippet": "Fake apartment ad scams are growing on social media * ## ICE director calls Dallas shooting 'worst nightmare' ## Fake apartment ad scams are growing on social media * ## Anime pirate flag used as global symbol of rebellion * ## Cruz after ICE office shooting: ‘This needs to stop’ * ## Zelenskyy calls for global rules around AI and weapons # Fake apartment ad scams are growing on social media Fake apartment ad scams are growing on social mediaSept. * ## ICE director calls Dallas shooting 'worst nightmare' ## Fake apartment ad scams are growing on social media ## ICE director calls Dallas shooting 'worst nightmare' ## Fake apartment ad scams are growing on social media",
+      "bm25_score_raw": 0.6517266589571251,
+      "bm25_score_norm": 0.12758860694310833,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8019498586654663,
+      "embedding_score_norm": 0.8681023056262862,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Viral Tweets That Were Completely Fake in 2025 - Gizmodo",
+      "url": "https://gizmodo.com/viral-tweets-that-were-completely-fake-in-2025-2000695941",
+      "snippet": "Fake tweets from Rob Reiner, Elon Musk, and Donald Trump all made the rounds this year. But fans of President Donald Trump took the opportunity to spread a tweet that appeared to come from Reiner calling Trump supporters “assholes.” The tweet is fake. The fake post looks like it was probably modified from an authentic Reiner tweet that read: “Until Trump is Indicted for leading a Deadly Insurrection to Overthrow the United States Government, our Democracy will not be restored.”. And that’s when he promoted the fake tweet he saw—a post made to look like it was from the president on Truth Social. The funny thing about this fake tweet is that it’s extremely close to things Trump would actually write on social media about the case. At the end of the day, all of these fake tweets go viral because it’s impossible to tell which screeds from President Trump are authentic.",
+      "bm25_score_raw": 1.1916981085193372,
+      "bm25_score_norm": 0.23329888301028062,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.7900270223617554,
+      "embedding_score_norm": 0.722742044252212,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Ja Morant Teases 7 Upcoming Nike Ja 3 Colorways - Sports Illustrated",
+      "url": "https://www.si.com/fannation/sneakers/news/ja-morant-teases-7-upcoming-nike-ja-3-colorways",
+      "snippet": "# Ja Morant Teases 7 Upcoming Nike Ja 3 Colorways Ja Morant leaked seven upcoming colorways of the Nike Ja 3 on social media. The Nike Ja 3 has dropped in several exciting styles, and Morant just teased seven upcoming colorways. Morant shared a picture of seven incredible colorways of the Nike Ja 3 on X with the caption, \"Might as well, it's Friday @nikebasketball.\" Nike co-signed the leaked image as the brand reposted Morant's post on its official X account. Morant intentionally spoiled the unveiling of his unreleased sneakers on social media because he has been vocal about his frustration with fans leaking pictures of his basketball shoes before they hit shelves. Additionally, Morant has had to issue a warning to potential buyers about pictures of fake Nike Ja 3s circulating on social media.",
+      "bm25_score_raw": 5.108031779418436,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.7750259041786194,
+      "embedding_score_norm": 0.5398521341286174,
+      "embedding_rank": 6
+    },
+    {
+      "title": "Salmonella outbreak has had an outsize impact on Texas - Houston Chronicle",
+      "url": "https://www.houstonchronicle.com/news/houston-texas/trending/article/egg-recall-salmonella-texans-22359455.php",
+      "snippet": "# Salmonella outbreak has sickened more than 70 Texans. More than 70 Texans have fallen ill during a multistate salmonella outbreak that led a poultry company to recall eggs, according to the Centers for Disease Control and Prevention. Midwest Poultry Services recalled 1.6 million white and brown cage-free eggs produced and distributed from Texas farms from June 6 to July 3, according to an FDA news release. **READ MORE**: More than 19 million eggs sold at Kroger, other stores recalled over salmonella risk. The recalled eggs were sold at grocery stores in Texas, Oklahoma, Arkansas, Louisiana, Mississippi and New Mexico. Kroger and Brookshire grocery stores sold the eggs in Texas. The FDA investigated and found that Midwest Poultry Services was the source of the eggs, the release said. Some tested positive for salmonella, and the firm’s third-party lab found they matched the strain of salmonella in the outbreak, the FDA said.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.773442804813385,
+      "embedding_score_norm": 0.5205513795388748,
+      "embedding_rank": 7
+    },
+    {
+      "title": "ED chargesheets self-styled godman Ashok Kharat in money laundering case - The New Indian Express",
+      "url": "https://www.newindianexpress.com/india/2026/Jul/18/ed-chargesheets-self-styled-godman-ashok-kharat-in-money-laundering-case",
+      "snippet": "# ED chargesheets self-styled godman Ashok Kharat in money laundering case. According to ED officials, the agency has so far attached, seized or frozen assets worth around Rs 37 crore. These include immovable properties worth Rs 19 crore and assets worth Rs 18 crore. NEW DELHI: The Enforcement Directorate (ED) has filed a chargesheet against self-styled godman Ashok Kharat, who also went by the aliases Captain and Bondhu Baba, his wife Kalpana Kharat and four others in a money laundering case, the agency said on Saturday. The agency has so far attached, seized or frozen assets worth around Rs 37 crore. These include immovable properties worth Rs 19 crore and assets worth Rs 18 crore, including bank lockers and vehicles seized during raids conducted in April and May at multiple locations linked to Kharat and his associates. ###### ED arrests self-styled godman Ashok Kharat Rs 70 crore money laundering case. ###### ED gets court nod to arrest 'godman' Ashok Kharat in Rs 70 crore money laundering case.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.7703008651733398,
+      "embedding_score_norm": 0.482245631169556,
+      "embedding_rank": 8
+    },
+    {
+      "title": "Bepza Economic Zone in Mirsarai draws nearly $130m before completion, eyes $2.9b potential - The Business Standard",
+      "url": "https://www.tbsnews.net/economy/industry/bepza-economic-zone-mirsarai-draws-nearly-130m-completion-eyes-29b-potential?amp",
+      "snippet": "# Bepza Economic Zone in Mirsarai draws nearly $130m before completion, eyes $2.9b potential. * *Bepza Economic Zone attracted $130 million investment before project completion*. **Bepza Economic Zone in Mirsarai, Chittagong, had attracted $130 million in investment as of mid-July – even before the site's development project was completed – generating $52.82 million in exports and creating jobs for 5,074 Bangladeshi citizens, according to the Bangladesh Export Processing Zones Authority (Bepza).**. On 16 July, Chinese company Huarun Tex Co Ltd signed a land lease agreement with Bepza authorities to invest $30 million in a textile manufacturing plant in the Bepza EZ. With this, at least 63 local and foreign companies had signed lease agreements to invest in the zone, with proposed investment totalling $1.49 billion, Bepza data showed. Kaixi Lingerie Bangladesh is the zone's largest exporter and employer, with an investment of $18.91 million, cumulative exports of $34.56 million and a workforce of 3,651 Bangladeshis – more than half of the zone's total employment.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.7680219411849976,
+      "embedding_score_norm": 0.45446155545478856,
+      "embedding_rank": 9
+    },
+    {
+      "title": "Openers, Mahedi And Rishad Help Bangladesh Keep Series Alive - Telecom Asia Sport",
+      "url": "https://www.telecomasia.net/blog/openers-mahedi-and-rishad-help-bangladesh-keep-series-alive/",
+      "snippet": "# Openers, Mahedi And Rishad Help Bangladesh Keep Series Alive. Saif Hassan and Tanzid Hasan laid the platform before Mohammad Saifuddin's late onslaught and a spin squeeze sealed a 34-run win to level the series. Bangladesh kept the three-match T20I series alive with a commanding 34-run victory over Zimbabwe in Bulawayo, setting up a winner-takes-all decider. Their innings had two contrasting halves: a record opening stand of 120 between Saif Hassan and Tanzid Hasan, followed by a dramatic collapse, before Mohammad Saifuddin's extraordinary final-over assault lifted them to 186 for 5. Mahedi Hasan and Rishad Hossain dominated the middle overs, sharing seven wickets as Bangladesh bowled the hosts out for 152. Sikandar Raza broke the opening stand by bowling Saif, Richard Ngarava removed Tanzid and Towhid Hridoy in quick succession, and Brad Evans dismissed Parvez Hossain Emon and Nurul Hasan as Bangladesh lost five wickets for just 21 runs. 1.Openers Cash In On Zimbabwe's Generosity2.Collapse Checks Bangladesh Before Saifuddin Explodes3.Mahedi And Rishad Choke Zimbabwe4.Burl Fights, But Zimbabwe Fall Short.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.733937680721283,
+      "embedding_score_norm": 0.038914710430546354,
+      "embedding_rank": 10
+    },
+    {
+      "title": "Flood-hit Agriculture Needs Urgent Climate Action - daily-sun.com",
+      "url": "https://www.daily-sun.com/opinion/887386",
+      "snippet": "Bangladesh’s agriculture is currently facing one of the most severe consequences of climate change. According to the latest data from the Ministry of Agriculture, floods have affected 43 districts across the country, damaging crops on 114,723 hectares of land. Of this, 107,845 hectares-- nearly 90 per cent of the total affected area-- are located in 16 districts. The worst-affected crops are Aus rice, Aman seedbeds and seasonal vegetables. Approximately 79,500 hectares of Aus rice, 10,504 hectares of Aman seedbeds, and 17,800 hectares of seasonal vegetables have been damaged. According to preliminary information from the Department of Agricultural Extension (DAE), Cumilla, crops on 19,899 hectares have been affected in Cumilla district alone. Of these, 19,477 hectares were standing crops, while crops on 2,671 hectares have already been damaged. A crop-wise assessment shows that transplanted Aman rice has suffered the largest overall impact, with 66 hectares damaged out of 16,200 hectares cultivated. A comprehensive recovery of agriculture, fisheries, and livestock is essential for restoring the rural economy.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.7331119179725647,
+      "embedding_score_norm": 0.028847215924285234,
+      "embedding_rank": 11
+    },
+    {
+      "title": "Blake Burke's three-homer performance - MLB.com",
+      "url": "https://www.mlb.com/video/blake-burke-s-three-homer-performance?t=mlb-pipeline",
+      "snippet": "# Blake Burke's three-homer performance. July 25, 2026 | 00:00:31. Brewers No. 18 prospect Blake Burke delivers a three-homer performance for Double-A Biloxi.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.730745792388916,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

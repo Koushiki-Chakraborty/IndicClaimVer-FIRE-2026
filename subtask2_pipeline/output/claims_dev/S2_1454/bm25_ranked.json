@@ -1,0 +1,105 @@
+{
+  "claim": {
+    "id": "S2/1454",
+    "text": "भाजपा सांसद सरोज पांडे ने कांग्रेस अध्यक्ष सोनिया गांधी को 'मंदबुद्धि' कहने का कारण उनके हालिया बयानों को बताया।",
+    "lang": "dev"
+  },
+  "ranked_evidence": [
+    {
+      "title": "Sonia Gandhi, Chairperson of the Congress Parliamentary ...",
+      "url": "https://www.facebook.com/cnbctv18india/posts/sonia-gandhi-chairperson-of-the-congress-parliamentary-party-reached-the-mandir-/1536211071872986",
+      "snippet": "cites Emergency 35 reactions. This is the reason why, the BJP is trying to divert from its failures and is misusing investigative agencies,",
+      "bm25_score_raw": 6.273121716851685,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Saroj Pandey Row: 'चार्मिंग फेस' पर सरोज पांडे ने सोनिया गांधी को लिखी चिट्ठी, ...",
+      "url": "https://navbharattimes.indiatimes.com/state/chhattisgarh/saroj-pandey-wrote-letter-to-sonia-gandhi-on-charming-face-remarks-by-chhattisgarh-home-minister/amp_articleshow/94636207.cms",
+      "snippet": "Chhattisgarh Saroj Pandey Row: छत्तीसगढ़ से राज्यसभा सांसद सरोज पांडेय ने कांग्रेस अध्यक्ष सोनिया गांधी को चिट्ठी लिखी है। उन्होंने अमर्यादित टिप्पणी के मामले में गृहमंत्री ताम्रध्वज साहू के खिलाफ",
+      "bm25_score_raw": 5.967016165656538,
+      "bm25_score_norm": 0.9288218118789212,
+      "bm25_rank": 2
+    },
+    {
+      "title": "BJP सांसद सरोज पांडेय ने सोनिया गांधी को लिखी चिट्ठी, छत्तीसगढ़ के गृहमंत्री का ...",
+      "url": "https://www.abplive.com/states/chhattisgarh/bjp-mp-saroj-pandey-wrote-a-letter-to-sonia-gandhi-asking-for-tamradhwaj-sahu-resignation-ann-2229745/amp",
+      "snippet": "छत्तीसगढ़ (Chhattisgarh) की खराब सड़कों पर चल रही राजनीति (Bad Road Politics ) दिल्ली (Delhi) तक पहुंच गई है. बीजेपी सांसद सरोज पांडेय ने सोनिया गांधी (Sonia Gandhi) को पत्र लिखा",
+      "bm25_score_raw": 3.735926079187777,
+      "bm25_score_norm": 0.41003033857922017,
+      "bm25_rank": 3
+    },
+    {
+      "title": "बीजेपी सांसद सरोज पांडेय ने प्रियंका गांधी के 'लड़की हूं लड़ सकती हूं',कैंपेन का क्यों किया ...",
+      "url": "https://hindi.news18.com/amp/news/chhattisgarh/raipur-bjp-mp-saroj-pandey-complains-chhattisgarh-home-minister-tamradhwaj-sahu-to-sonia-gandhi-mpsg-4686481.html",
+      "snippet": "बीजेपी सासंद सरोज पाण्डेय ने छत्तीसगढ़ के गृह और पीडब्ल्यूडी मंत्री ताम्रध्वज साहू की शिकायत कांग्रेस अध्यक्ष सोनिया गांधी सेक की है. उन्होंने सोनिया गांधी को पत्र लिखा है. बीजेपी नेता की मांग है कि ताम्रध्वज साहू पर",
+      "bm25_score_raw": 3.1735103808390916,
+      "bm25_score_norm": 0.2792528004946862,
+      "bm25_rank": 4
+    },
+    {
+      "title": "Press Release : BJP National General Secretary & Maharashtra State ...",
+      "url": "https://www.bjp.org/pressreleases/press-release-bjp-national-general-secretary-maharashtra-state-incharge-sushree-saroj",
+      "snippet": "महाराष्ट्र के स्थानीय निकाय चुनावों में भाजपा को मिली शानदार सफलता पर भाजपा की राष्ट्रीय महासचिव एवं महाराष्ट्र प्रदेश प्रभारी सुश्री सरोज पांडेय द्वारा जारी प्रेस विज्ञप्ति.",
+      "bm25_score_raw": 3.0779375836815683,
+      "bm25_score_norm": 0.257029425228293,
+      "bm25_rank": 5
+    },
+    {
+      "title": "बीजेपी सांसद सरोज पांडे ने सोनिया गाँधी को पत्र लिखकर की गृह मंत्री ताम्रध्वज साहू ...",
+      "url": "https://www.patrika.com/amp/raipur-news/saroj-pandey-letter-to-sonia-gandhi-complaining-about-tamradhwaj-sahu-7802245",
+      "snippet": "सरोज पाण्गृडेय ने गृह मंत्री ताम्रध्वज साहू द्वारा की निजी टिप्पणियों पर सख्त आपत्ति जताते हुए उनके खिलाफ सख्त कार्रवाई करने की मांग की है.",
+      "bm25_score_raw": 2.9130341565204163,
+      "bm25_score_norm": 0.21868471989884197,
+      "bm25_rank": 6
+    },
+    {
+      "title": "BJP MP Saroj Pandey calls Rahul Gandhi 'slow-witted'; Congress condemns statement, says it reflects BJP's 'mentality' – Firstpost",
+      "url": "https://www.firstpost.com/politics/bjp-mp-saroj-pandey-calls-rahul-gandhi-slow-witted-congress-condemns-statement-says-it-reflects-bjps-mentality-4575861.html",
+      "snippet": "# BJP MP Saroj Pandey calls Rahul Gandhi 'slow-witted'; Congress condemns statement, says it reflects BJP's 'mentality'. ## Senior BJP leader and Rajya Sabha MP from Chhattisgarh Saroj Pandey called Rahul Gandhi “mand buddhi” (slow-witted), which drew a sharp rebuke from the opposition Congress. BJP MP Saroj Pandey calls Rahul Gandhi 'slow-witted'; Congress condemns statement, says it reflects BJP's 'mentality' \"BJP MP Saroj Pandey calls Rahul Gandhi 'slow-witted'; Congress condemns statement, says it reflects BJP's 'mentality'\"). **Raipur:** Senior BJP leader and Rajya Sabha MP from Chhattisgarh Saroj Pandey called Rahul Gandhi “mand buddhi” (slow-witted), which drew a sharp rebuke from the opposition Congress. The Chhattisgarh Congress condemned Pandey’s statement and said it reflects the BJP’s mentality. “Saroj Pandey is suffering from mental bankruptcy and it is not her fault but that of the RSS-nurtured culture of the BJP,” state Congress spokesperson Shushil Anand Shukla said in a statement. #### China seizes 60,000 maps mislabelling Taiwan, omitting South China Sea islands.",
+      "bm25_score_raw": 2.873753891575228,
+      "bm25_score_norm": 0.209550948633348,
+      "bm25_rank": 7
+    },
+    {
+      "title": "BJP MP Saroj Pandey Calls Rahul Gandhi A 'Joker' | ABP News",
+      "url": "https://www.youtube.com/watch?v=Dd4I5DwdebY",
+      "snippet": "BJP MP Saroj Pandey Calls Rahul Gandhi A 'Joker' | ABP News\nABP NEWS\n51100000 subscribers\n82 likes\n5900 views\n29 Jan 2019\nBJP MP Saroj Pandey on Monday landed herself in a controversy after she called Congress president Rahul Gandhi a 'joker.'Addressing the BJP's state executive committee meeting here, Pandey said: \"The Congress party couldn't find a woman worker in so many years who could be made a general secretary?\"\"What they found is a homely woman from Gandhi family. They call her an ace. So this means that they were playing with a joker till now,\" she added.\n\nबीजेपी सांसद सरोज पांडेय ने सोमवार को कांग्रेस अध्यक्ष राहुल गांधी को 'जोकर' कहने के बाद खुद को एक विवाद में उतारा। यहां भाजपा की राज्य कार्यकारिणी की बैठक की अध्यक्षता करते हुए पांडे ने कहा, \"कांग्रेस पार्टी इतने सालों में एक महिला कार्यकर्ता नहीं ढूंढ पाई। उन्हें एक महासचिव बनाया जा सकता है? \"\" उन्होंने जो पाया वह गांधी परिवार की एक घरेलू महिला है। वे उसे इक्का कहते हैं। तो इसका मतलब है कि वे अब तक एक जोकर के साथ खेल रहे थे, \"उन्होंने कहा।\n#SarojPandey  #RahulGandhi\n\nTo Subscribe our YouTube channel here: https://www.youtube.com/user/abpnewstv \n\nDownload ABP App for Android: https://play.google.com/store/apps/details?id=com.winit.starnews.hin&hl=en\nDownload ABP App for Apple: https://itunes.apple.com/in/app/abp-live-abp-news-abp-ananda/id811114904?mt=8\n\nAbout Channel:\nABP News is a news hub which provides you with the comprehensive up-to-date news coverage from all over India and World. Get the latest top stories, current affairs, sports, business, entertainment, politics, astrology, spirituality, and many more here only on ABP News.\nABP News is a popular Hindi News Channel made its debut as STAR News in March 2004 and was rebranded to ABP News from 1st June 2012.\n\nThe vision of the channel is 'Aapko Rakhe Aagey' -the promise of keeping each individual ahead and informed. ABP News is best defined as a responsible channel with a fair and balanced approach that combines prompt reporting with insightful analysis of news and current affairs.\n\nABP News maintains the repute of being a people's channel. Its cutting-edge formats, state-of-the-art newsrooms commands the attention of 48 million Indians weekly.\n\nWatch Live on http://abpnews.abplive.in/live-tv\nABP Hindi: http://abpnews.abplive.in/\nABP English: http://www.abplive.in/\n\nSocial Media Handles:\nInstagram: https://www.instagram.com/abpnewstv/?hl=en\nFacebook ABP News (English): https://www.facebook.com/abplive/?ref=br_rs\nFacebook: https://www.facebook.com/abpnews/\nTwitter: https://twitter.com/abpnewstv\nGoogle+: https://plus.google.com/u/1/+abpnews 🔴Watch ABP News Live 24/7 https://www.youtube.com/watch?v=nyd-xznCpJc\n20 comments\n",
+      "bm25_score_raw": 2.859440108147016,
+      "bm25_score_norm": 0.20622258962254347,
+      "bm25_rank": 8
+    },
+    {
+      "title": "Maharashtra: BJP state in-charge calls Rahul Gandhi a ...",
+      "url": "https://indianexpress.com/article/cities/mumbai/maharashtra-bjp-state-in-charge-saroj-pandey-calls-rahul-gandhi-joker-priyanka-gharelu-mahila-5558630",
+      "snippet": "Jan 29, 2019 — Rajya Sabha MP Saroj Pandey on Monday called Congress national president Rahul Gandhi a joker and his sister Priyanka Gandhi Vadra a “gharelu mahila”.Read more",
+      "bm25_score_raw": 2.423275788746232,
+      "bm25_score_norm": 0.10480206373923676,
+      "bm25_rank": 9
+    },
+    {
+      "title": "BJP MP Saroj Pandey calls Congress president Rahul ...",
+      "url": "https://www.indiatvnews.com/news/india-bjp-mp-saroj-pandey-calls-congress-president-rahul-gandhi-mand-buddhi-448751",
+      "snippet": "Jun 22, 2018 — A Bharatiya Janata Party (BJP) MP from Chhattisgarh has called Congress president Rahul Gandhi him 'mand-buddhi' (mentally weak).Read more",
+      "bm25_score_raw": 2.3374215433612355,
+      "bm25_score_norm": 0.08483852630861131,
+      "bm25_rank": 10
+    },
+    {
+      "title": "MP Saroj Pandey lashes out at Rahul Gandhi - The Hitavada",
+      "url": "https://www.thehitavada.com/Encyc/2019/11/15/MP-Saroj-Pandey-lashes-out-at-Rahul-Gandhi.html",
+      "snippet": "Nov 15, 2019 — Saroj Pandey said that the Congress had tried to malign the image of NDA government and PM Modi by highlighting the Rafale deal issue.Read more",
+      "bm25_score_raw": 1.9841982982535675,
+      "bm25_score_norm": 0.002704143280113978,
+      "bm25_rank": 11
+    },
+    {
+      "title": "Saroj Pandey (@sarojpandeybjp)",
+      "url": "https://www.instagram.com/sarojpandeybjp?hl=hi",
+      "snippet": "BJP Karyakarta. Member of Parliament, Rajya Sabha. Limca Book record holder for holding elected positions of MP, MLA, and Mayor at the same time. Follow.",
+      "bm25_score_raw": 1.9725689874896875,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12
+    }
+  ]
+}

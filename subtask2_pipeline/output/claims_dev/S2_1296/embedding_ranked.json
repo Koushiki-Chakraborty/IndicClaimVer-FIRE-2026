@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/1296",
+    "text": "বিধানসভায় ধরনা তৃণমূল-বিজেপির, আম্বেদকরের মূর্তির নীচে সায়ন্তিকারা, সিঁড়িতে অগ্নিমিত্রারা - WB state assembly",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Who are India’s Cockroach Janta party and why are they staging protests? - The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/20/who-are-indias-cockroach-janta-party-and-why-are-they-staging-protests-",
+      "snippet": "# Who are India’s Cockroach Janta party and why are they staging protests? Explosion of anger over education system and youth unemployment has led to movement’s rapid rise. * **Tens of thousands of Cockroach party protesters defy police with Delhi march**. Explore more on these topics. ## More on this story. * ### Tens of thousands of Cockroach movement protesters defy police with Delhi march. * ### Indian activist linked to Cockroach party moved to hospital after 20-day hunger strike. * ### ‘I’m sorry but I’m unable to speak’: hero of India’s Cockroach party weakens on 19th day of hunger strike. * ### ‘What if all cockroaches came together?’ The youth movement threatening to shake up India’s politics. * ### Tensions high in West Bengal after BJP aide shot dead and hundreds arrested. * ### ‘Defeated by conspiracy’: West Bengal chief minister refuses to resign after election loss. * ### Narendra Modi’s BJP wins election in West Bengal for the first time.",
+      "bm25_score_raw": 2.8699595874764547,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.829009473323822,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Police clash with youth-led Cockroach Janta Party protesters in New Delh - The Jerusalem Post",
+      "url": "https://www.jpost.com/international/article-903028",
+      "snippet": "## The months-old movement and the planned protest are seen as the biggest public challenge to Prime Minister Narendra Modi in his third term in office, drawing millions of supporters. A police officer monitors CCTV footage from a mobile command-and-control vehicle at the Jantar Mantar protest site, where CJP supporters have gathered ahead of a planned march to Parliament on the opening day of the Monsoon Session, demanding the resignation of Education Minister Dharmendra Pradhan. Supporters of India's youth-led \"cockroach\" movement were caned by police on Monday as they sought to march on parliament in the capital, New Delhi, despite authorities denying permission for the protest. A police decision to forcibly move hunger-striking activist Sonam Wangchuk to hospital on Saturday has galvanized the movement, with thousands of supporters arriving through the night at the protest site of Jantar Mantar in the heart of New Delhi for the march on the opening day of parliament's monsoon session.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.8218449950218201,
+      "embedding_score_norm": 0.8815774047323718,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Cockroach movement supporters stage protests in cities across India – in pictures - The Guardian",
+      "url": "https://www.theguardian.com/world/gallery/2026/jul/20/india-cockroach-party-supporters-march-on-parliament-new-delhi",
+      "snippet": "# Cockroach movement supporters stage protests in cities across India – in pictures. Tens of thousands of protesters defy police orders and descend on Delhi as demonstrators gather in other cities to demand the resignation of India’s education minister. Police use batons to disperse supporters of the Cockroach Janta party as they attempt to march towards India's parliament in New Delhi. Mon 20 Jul 2026 17.41 BSTLast modified on Mon 20 Jul 2026 19.23 BST. Explore more on these topics. ## Most viewed.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.8168765306472778,
+      "embedding_score_norm": 0.799453009776268,
+      "embedding_rank": 3
+    },
+    {
+      "title": "CJP's parliament march from Jantar Mantar: India's 'cockroach' protest continues a day after police crackdown - BBC",
+      "url": "https://www.bbc.com/news/articles/c98v349r9lro",
+      "snippet": "# India's 'cockroach' protest continues a day after police crackdown. Thousands have gathered again in the Indian capital Delhi a day after a police crackdown on supporters of India's Cockroach Janta Party (CJP), a youth-led movement seeking education reforms and resignation of Education Minister Dharmendra Pradhan. Tens of thousands of young men and women had turned up for Monday's protest and tried to march on parliament, defying a police ban. Police said 118 of their personnel were also injured and 70 protesters have been detained. Police and Prime Minister Narendra Modi's government have not commented on the use of sticks and tear gas against protesters. The meeting took place against the backdrop of tens of thousands of people turning up from all over the country to participate in the CJP's call to march to parliament on the opening day of the monsoon session.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.8160516619682312,
+      "embedding_score_norm": 0.7858186479134668,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Google founder Sergey Brin tells Stanford engineering students: I made the mistake of thinking I am the n - Times of India",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/google-founder-sergey-brin-tells-stanford-engineering-students-i-made-the-mistake-of-thinking-i-am-the-next-steve-jobs-and-can-make-/articleshow/126208276.cms",
+      "snippet": "Ex-US Army Officer Reveals Why Zelensky Will ‘FLOP’ In Trump’s MeetingTrump Tells Pam Bondi-led DOJ To Release Names Of All Dems In Epstein Files & ‘EMBARRASS’ Them‘Congress Propaganda Baseless’: Sudhanshu Trivedi Hits Back At Rahul Gandhi Over MGNREGA RowSaudi-Led Coalition Warns UAE-Backed Separatists As Southern Yemen Faces New FlashpointPM Modi Attends Patriotic Performance At Veer Baal Diwas EventUkraine’s Zelensky To Present 20-point Peace Plan To Trump in FloridaA bear was caught on CCTV breaking into a shop along the Kedarnath pilgrimage route at LincholiBJP MP Sudhanshu Trivedi Cites Barack Obama, Criticises Rahul Gandhi’s Foreign VisitsAir India brings the holiday spirit to Bengaluru’s Kempegowda International AirportKochi Christmas tree illuminates the city, claimed to be Asia’s largest, enchanting visitors with festive cheePowerful Storm Hits Southern California Triggering Floods, Mudslides & EvacuationsIndian Army Steps Up Counter Terror Ops During Chillai Kalan‘Destroyed Single-Handedly By PM Modi’: Rahul Gandhi Hits Out Over VB–G RAM G Act | MGNREGA RowTrump’s Nigeria Bombing Under Fire: Officials Ask, ‘Was ISIS Really Hit?’Border Clashes End: Thailand & Cambodia Agree To 72-hour CeasefireCongress Announces Nationwide ‘MGNREGA Bachao Abhiyan’ Against VB-G RAM G Act. East Coast Railway infra upgrades on track in Bhubaneswar, Puri and VisakhapatnamSecurity forces arrest 8 militants in ManipurIt is time to bring cricket back to Bengaluru: Venkatesh PrasadAaron Boone and Laura Cover net worth in 2025: Yankees manager’s salary, MLB success, acting career, and more1,018 students receive degrees at NIT Patna’s 14th convocationNHL Injury Status: Islanders center Bo Horvat to make his comeback after missing five games due to injuryBarak Valley infra projects miss ’25 deadline‘Friend of poor’ Jorhat doc loses Rs 49 lakh in ‘digital arrest’ scamIdentity at stake: Sarma claims possible annexation attempt if Bangladeshi population exceeds 50%; Calls for a 'civilizational battle' in AssamMinor attempts suicide after videos of ‘forced’ sexual acts get ‘leaked’Cabinet clears landmark land, governance, policing reformsKheroni violence left 173 security personnel injured, 2 dead: PoliceSR-driven draft rolls show Assam’s voter",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8089747428894043,
+      "embedding_score_norm": 0.6688433304532275,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Farmers call off Delhi march after assurance of talks with Union agriculture minister Shivraj Singh Chouh - The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/farmers-call-off-delhi-march-after-assurance-of-talks-with-union-agriculture-minister-shivraj-singh-chouhan/articleshow/132550030.cms",
+      "snippet": "BATHINDA/PATIALA: Haryana Police showed up in force to intercept hundreds of farmers on Tuesday to prevent them from gathering at New Delhi’s Kisan Ghat.Organised under the banner of Desh Bachao Morcha, a coalition of farmer groups, the protesters were marching to oppose a proposed India-US trade agreement.Police erected multi-layer barricades along the Amritsar–Delhi national highway at Shambhu and Khanauri borders, mirroring the heavy blockades seen during the Feb 2024 “Delhi Chalo-2” protests over a legal guarantee for minimum support price.Prevented from marching forward, farmers held a protest at the Shambhu border. Villagers from Ghagga, Patran, and nearby areas in Patiala district supported them.Women prepared langar at the local gurdwara and sent tractor-trailers loaded with food to the stranded protesters.The standoff ended when Haryana agriculture minister Shyam Singh Rana reached Shambhu and said all detained activists would be released and the farmers will get a formal meeting with Union agriculture minister Shivraj Singh Chouhan.The Desh Bachao Morcha is demanding that the Centre make all documents related to the proposed India-US trade agreement public.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.8076367378234863,
+      "embedding_score_norm": 0.6467272703985876,
+      "embedding_rank": 6
+    },
+    {
+      "title": "WB Group to start 155 mm shell production in 2026 - Janes",
+      "url": "https://www.janes.com/osint-insights/defence-news/weapons/wb-group-to-start-155-mm-shell-production-in-2026",
+      "snippet": "# WB Group to start 155 mm shell production in 2026. Three 155 mm artillery shells seen at WB Group premises in Poland in December 2025, at the announcement that the company would start manufacturing them. Poland's WB Group has begun developing 155 mm artillery ammunition, the company announced on 11 December. The group's CEO, Piotr Wojciechowski, said at the announcement that projectiles have already undergone initial trials, which have proved promising, adding that the company will be ready for serial production by December 2026. *Janes*  has learnt that WB Group had already mastered production from the initial processing of steel forgings from local suppliers, and is currently testing inert rounds. Wojciechowski said the certification process is being conducted along two parallel tracks, in Poland and abroad, with the intention that WB Group will be able to offer its ammunition globally. ### WB Group to start 155 mm shell production in 2026. ## See how Janes delivers verified defence intelligence for faster, safer decisions.",
+      "bm25_score_raw": 2.6059028557897226,
+      "bm25_score_norm": 0.9079928745899463,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.7912508249282837,
+      "embedding_score_norm": 0.3758823813384906,
+      "embedding_rank": 7
+    },
+    {
+      "title": "WB Group reveals Lanca cruise missile with payload capacity of hundreds of kilograms - Janes",
+      "url": "https://www.janes.com/osint-insights/defence-news/weapons/wb-group-reveals-lanca-cruise-missile-with-payload-capacity-of-hundreds-of-kilograms",
+      "snippet": "# WB Group reveals Lanca cruise missile with payload capacity of hundreds of kilograms A demonstrator of WB Group's Lanca cruise missile displayed during MSPO 2025. Poland's WB Group revealed a demonstrator of its Lanca (Lance) cruise missile at the MSPO 2025 defence exhibition in Kielce, Poland, in September 2025. The Lanca is designed to be built with Polish-made components and delivered by WB Group and local partners, WB Group spokesperson Remigiusz Wilk told *Janes* on 8 October. *Janes* has learnt that it could navigate in a GPS-denied environment, and that the missile is equipped with an electro-optical sensor, which will be used for navigation (waypoint recognition) and target identification. ### WB Group reveals Lanca cruise missile with payload capacity of hundreds of kilograms",
+      "bm25_score_raw": 2.6829599524311485,
+      "bm25_score_norm": 0.9348424152516606,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.7869808673858643,
+      "embedding_score_norm": 0.305303696814511,
+      "embedding_rank": 8
+    },
+    {
+      "title": "\"India Is Now A Solar Superpower Backed By Skilled Workforce\": UN Climate Chief - Cobrapost",
+      "url": "https://cobrapost.com/blog/india-is-now-a-solar-superpower-backed-by-skilled-workforce-un-climate-chief",
+      "snippet": "#### \"India Is Now A Solar Superpower Backed By Skilled Workforce\": UN Climate Chief. Climate action is proving to be a game-changer for the Indian economy, Simon Stiell, Executive Secretary of the United Nations Framework Convention on Climate Change (UNFCCC), told reporters in Delhi. New Delhi 22 July 2026. As per news report of NDTV,India has officially transformed into a \"solar superpower\", driven by a historic boom in green energy and backed by a highly skilled workforce, the United Nations climate chief said in Delhi on Tuesday. If you like the story and if you wish more such stories, support our effort Make a donation. 'Ready For Debate On NEET Paper Leak, Students Our Top Priority':... Wed Jul 22 2026 | By Newsdesk. After Dharna And Detention, Rahul Gandhi's Five Demands To The Ce... 3 Of Hyderabad Family Die In Road Accident In US. \"India Is Now A Solar Superpower Backed By Skilled Workforce\": UN...",
+      "bm25_score_raw": 2.035082738199763,
+      "bm25_score_norm": 0.709098046913338,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.7847131490707397,
+      "embedding_score_norm": 0.2678202853373714,
+      "embedding_rank": 9
+    },
+    {
+      "title": "Netflix to Buy WB for $82.7B, Apple's Leadership Shake-Up, and Why AI Will Make Your Next Device Pricier | Tech Today - CNET",
+      "url": "https://www.cnet.com/videos/netflix-to-buy-wb-for-82-7b-apples-leadership-shake-up-and-why-ai-will-make-your-next-device-pricier-tech-today/",
+      "snippet": "Netflix to Buy WB for $82.7B, Apple's Leadership Shake-Up, and Why AI Will Make Your Next Device Pricier | Tech Today. # Netflix to Buy WB for $82.7B, Apple's Leadership Shake-Up, and Why AI Will Make Your Next Device Pricier | Tech Today. Netflix to Buy WB for $82.7B, Apple's Leadership Shake-Up, and Why AI Will Make Your Next Device Pricier | Tech Today. ### Netflix to Buy WB for $82.7B, Apple's Leadership Shake-Up, and Why AI Will Make Your Next Device Pricier | Tech Today. ### Give Your Old Phone a Second Life: The Right Way to Recycle and Reuse It. Hidden Details in Unitree's Latest WILD Humanoid Robot Demos. Netflix to Buy WB for $82.7B, Apple's Leadership Shake-Up, and Why AI Will Make Your Next Device Pricier | Tech Today. ### Netflix to Buy WB for $82.7B, Apple's Leadership Shake-Up, and Why AI Will Make Your Next Device Pricier | Tech Today.",
+      "bm25_score_raw": 2.603881615424703,
+      "bm25_score_norm": 0.9072885997374921,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.7841650247573853,
+      "embedding_score_norm": 0.25876026715034056,
+      "embedding_rank": 10
+    },
+    {
+      "title": "'Zero grief': Candace Owens leaks Erika Kirk's giggling audio after Charlie Kirk's death - Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/us/zero-grief-candace-owens-leaks-erika-kirks-giggling-audio-after-charlie-kirks-death/articleshow/127703636.cms",
+      "snippet": "Ajit Pawar FuneralIndia EU FTABudget Economic SurveyBudget 2026 Stock MarketCISCE Class 10th Admit CardYuvraj SinghNovak DjokovicSunil GavaskarDelhi PoliceSwat Commando MurderMLB Trade RumorsTaylor FritzList of all new match Types in WWE 2k26UGC Bill ProtestAjit Pawar Plane CCTV FootageEquestrian Federation of IndiaUGC Regulation 2026Delhi School Bomb ThreatAjit Pawar Personal Security OfficerBharat bandhGold price predictionIndian rupeeNew UGC RegulationsUGC NET December Result 2025UGC RulesDelhi Girl Sexually AssaultedDalal StreetKerala Budget 2026Aryna Sabalenkas CoachIShowSpeed Ghanaian PassportT20 World Cup 2026 Schedule.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.7743352651596069,
+      "embedding_score_norm": 0.09628289010245229,
+      "embedding_rank": 11
+    },
+    {
+      "title": "After ‘Suicide Squad,’ WB Is Making Another Live-Service DC Game - Forbes",
+      "url": "https://www.forbes.com/sites/paultassi/2025/07/29/after-suicide-squad-wb-is-making-another-live-service-dc-game/",
+      "snippet": "After ‘Suicide Squad,’ WB Is Making Another Live-Service DC Game *   Forbes 400  *   Forbes EQ| Paid Program  *   Best Car Insurance  *   Best LLC Services *   Best VoIP Service *   Best Home Appliance Insurance *   Best Home Security Companies *   Forbes Games  *   More From Forbes  More From Forbes  *   Forbes 101  After ‘Suicide Squad,’ WB Is Making Another Live-Service DC Game More From Forbes  After ‘Suicide Squad,’ WB Is Making Another Live-Service DC Game After _Marvel’s Avengers_ had tried and failed to make a live-service superhero game, _Suicide Squad_ was an even worse attempt and reportedly lost WB $200 million. It’s not impossible this could be the plan, however, as WB desperately wants to get the DCU off the ground, and a good live-service game could bolster that.",
+      "bm25_score_raw": 2.6077396617499007,
+      "bm25_score_norm": 0.9086328856786715,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.7685102224349976,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

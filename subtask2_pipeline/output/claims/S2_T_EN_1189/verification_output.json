@@ -1,0 +1,6 @@
+{
+  "ID": "S2/T/EN/1189",
+  "Evidence": "The retrieved evidence indicates that there is an increased risk of developing Parkinson's disease in the first year following COVID-19 infection, as stated in Source 1 and Source 3. Source 2 discusses the possibility that COVID-19 may increase the risk of Parkinson's, citing emerging evidence and theoretical mechanisms, but does not provide definitive conclusions. It mentions that research is still in its early stages and that monitoring of COVID-19 survivors is necessary. Overall, the evidence suggests a transient increase in risk rather than a lack of association between COVID-19 and Parkinson's disease.",
+  "Prediction": "REFUTES",
+  "Justification": "The evidence directly contradicts the claim that COVID does not increase the risk of developing Parkinson's disease. Source 1 and Source 3 clearly state that there is an increased risk in the first year after COVID-19 infection. Source 2 also supports the idea that COVID-19 may increase Parkinson's risk, although it emphasizes the need for further research. Therefore, the claim is refuted by the retrieved evidence."
+}

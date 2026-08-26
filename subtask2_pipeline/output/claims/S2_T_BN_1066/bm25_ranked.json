@@ -1,0 +1,105 @@
+{
+  "claim": {
+    "id": "S2/T/BN/1066",
+    "text": "পাকিস্তান থেকে চট্টগ্রামে বিস্ফোরক আসার কোনো প্রমাণ নেই, হাসিনার দলের পোস্টে বিভ্রান্তি ছড়িয়েছে",
+    "lang": "bengali"
+  },
+  "ranked_evidence": [
+    {
+      "title": "Sheikh Hasina authorised deadly Bangladesh crackdown ...",
+      "url": "https://www.bbc.com/news/articles/cn4l1z5qd1vo",
+      "snippet": "In the audio, which was leaked online in March, Hasina says she authorised her security forces to \"use lethal weapons\" against protesters and",
+      "bm25_score_raw": 1.452197668755948,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Explosion Rocks Anti-Sheikh Hasina NCP Rally, Three ...",
+      "url": "https://www.facebook.com/firstpostin/posts/explosion-rocks-anti-sheikh-hasina-ncp-rally-three-injuredat-least-three-people-/1546441584183490",
+      "snippet": "At least three people were injured after a reported bomb explosion struck a rally organised by Bangladesh's newly formed National Citizen Party",
+      "bm25_score_raw": 1.3419688116164779,
+      "bm25_score_norm": 0.9240951424788475,
+      "bm25_rank": 2
+    },
+    {
+      "title": "Bomb blast at anti-Sheikh Hasina rally in Bangladesh ...",
+      "url": "https://timesofindia.indiatimes.com/world/south-asia/bomb-blast-at-anti-sheikh-hasina-rally-in-bangladesh-three-injured/articleshow/132228465.cms",
+      "snippet": "At least three people were injured after a reported bomb explosion struck a rally organised by Bangladesh's student-led National Citizen Party",
+      "bm25_score_raw": 1.3419688116164779,
+      "bm25_score_norm": 0.9240951424788475,
+      "bm25_rank": 3
+    },
+    {
+      "title": "পাকিস্তানের খবর: Pakistan News Bangla, আন্তর্জাতিক আপডেট",
+      "url": "/goto?url=CAESawHuR6pN3N_o4auwMqXrI4ARjFytjjlX2p9jMLu3rTDiHIdGhcRyh1nt4WybHvOkdUFBi3YK9TPdzRDTIDweRkRrrkIH04OLaXbTEHwuhvAberASCyvi4gYBV3SmJViOXtgip03u5uFYrX82",
+      "snippet": "পাকিস্তান - Pakistan update news : বিশ্বের দ্বিতীয় বৃহত্তম মুসলিম রাষ্ট্র পাকিস্তানের রাজনীতি অর্থনীতিসহ নানা বিষয়ে সর্বশেষ সংবাদ, ছবি ও ভিডিও দেখতে ভিজিট করুন আজকের পত্রিকা ডটকম.",
+      "bm25_score_raw": 0.8883208509589176,
+      "bm25_score_norm": 0.6117079444976069,
+      "bm25_rank": 4
+    },
+    {
+      "title": "আজকের পাকিস্তানের খবর | Pakistan News | Prothom Alo",
+      "url": "/goto?url=CAESYQHuR6pN-wXbxoAPhcXq7f4pyhHAnABaGVQs3hvgO4HbdgWZPXPzxH-t78eGkdoINWfh96OdC_nDvZsN0AOMffLqH6cQIjh38dfZMMa5gNUSPkfjaQxhW4IoVU6pvDOwPHM%3D",
+      "snippet": "পাকিস্তান সম্পর্কিত সকল সংবাদ শিরোনাম, প্রতিবেদন, বিশ্লেষণ, রাজনীতি, কাশ্মীর, অর্থনীতি, ব্যবসায়-বাণিজ্য, ছবি, ভিডিও দেখতে ভিজিট করুন প্রথম আলো.",
+      "bm25_score_raw": 0.6818959339251969,
+      "bm25_score_norm": 0.46956137487078853,
+      "bm25_rank": 5
+    },
+    {
+      "title": "পাকিস্তান ভেঙে জন্ম নিচ্ছে বাংলাদেশের মত আরেক রাষ্ট্র",
+      "url": "/goto?url=CAESYwHuR6pNzj7dwP2BZ1FbpIsJc8cIConX9zLOyDNTv79zCugFewEDarIGPaU1poUvhgVr6sawi6M4WExj_158SViS-6gx2lOVyUdP4AfjD3l3S5WQtRbs4nU4uIpysCb1KX5GBw%3D%3D",
+      "snippet": "পাকিস্তান ভেঙে জন্ম নিচ্ছে বাংলাদেশের মত আরেক রাষ্ট্র | Pakistan Crisis | Balochistan | Ekattor TV #pakistancrisis #balochistan #ekattortv আরও বিস্তারিত জানতে ভিজিট",
+      "bm25_score_raw": 0.6428219130397101,
+      "bm25_score_norm": 0.44265455514082697,
+      "bm25_rank": 6
+    },
+    {
+      "title": "পাকিস্তান সম্পর্কিত খবর | Pakistan News Update",
+      "url": "/goto?url=CAESWQHuR6pNJORCk6-vUzyrOkuJR5xJDrik9lunsklA_F4WMCkl8DDT9gxTOc2wt_tqauXIzif9mJX3yWaWU9osX61KSkQLhVZmFgucaCw04FZacgzMGGHck6Aa",
+      "snippet": "পাকিস্তান দক্ষিণ এশিয়ার একটি গুরুত্বপূর্ণ রাষ্ট্র, যার রাজনৈতিক অস্থিরতা, সামরিক প্রভাব, জঙ্গিবাদবিরোধী লড়াই ও ভারত-পাকিস্তান সম্পর্ক বিশ্ব রাজনীতিতে আলোচনার কেন্দ্রবিন্দু। অর্থনীতি, নির্বাচন, নিরাপত্তা সংকট ও আন্তর্জাতিক সম্পর্ক—সব ...Read more",
+      "bm25_score_raw": 0.5998557250162612,
+      "bm25_score_norm": 0.41306754439988785,
+      "bm25_rank": 7
+    },
+    {
+      "title": "A bomb exploded during a National Citizen Party rally ...",
+      "url": "https://www.facebook.com/etnow/posts/a-bomb-exploded-during-a-national-citizen-party-rally-in-bangladeshs-savar-injur/1446654520826781",
+      "snippet": "A bomb exploded during a National Citizen Party rally in Bangladesh's Savar, injuring at least three people.",
+      "bm25_score_raw": 0.4654614581339746,
+      "bm25_score_norm": 0.32052210807687137,
+      "bm25_rank": 8
+    },
+    {
+      "title": "Bangladesh on edge ahead of verdict in ousted PM ...",
+      "url": "https://www.reuters.com/world/asia-pacific/bangladesh-edge-ahead-verdict-ousted-pm-hasinas-trial-2025-11-14",
+      "snippet": "Police have detained dozens of activists from Hasina's Awami League party in recent days over allegations of involvement in explosions and",
+      "bm25_score_raw": 0.31348727333535703,
+      "bm25_score_norm": 0.2158709382889395,
+      "bm25_rank": 9
+    },
+    {
+      "title": "At least three people were injured after a reported bomb ...",
+      "url": "https://www.facebook.com/TimesofIndia/videos/bomb-blast-at-anti-sheikh-hasina-rally-in-bangladesh-three-injured/1839666120346795",
+      "snippet": "At least three people were injured after a reported bomb explosion struck a rally organised by Bangladesh's student-led National Citizen Party",
+      "bm25_score_raw": 0.3090598344024135,
+      "bm25_score_norm": 0.2128221529698332,
+      "bm25_rank": 10
+    },
+    {
+      "title": "পাকিস্তান",
+      "url": "/goto?url=CAESpwEB7keqTcLj7yDA3k_UEUXzCKy6dVcvAfZ9saqKqiQuPDTFC_C_ppjGzn_vfPrStOWb6F21ibbRNBLX_58426pqmfgXEVItRhg0F9x1-jd6PIaESrbgm7-WY4Eh5wRPPZax9l0ARqJYgawcSOoA_TgBxDz5pAsk6dreV_8KAvZCYojS4gk3qLiMP_Nhit9I-fLOLu3tEi1FoQ2MHyBH-WmWocXROUgU6Q%3D%3D",
+      "snippet": "19 hours ago — পাকিস্তান, সরকারিভাবে ইসলামী প্রজাতন্ত্রী পাকিস্তান, দক্ষিণ এশিয়ার একটি রাষ্ট্র। ২৪কোটির অধিক জনসংখ্যা নিয়ে এটি জনসংখ্যার দিক থেকে বিশ্বের ৫ম বৃহত্তম রাষ্ট্র এবং আয়তনের দিক থেকে ৩৩তম বৃহত্তম রাষ্ট্র।Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11
+    },
+    {
+      "title": "অভিশপ্ত পাকিস্তান কি আবার ভেঙ্গে যাচ্ছে ! বেলুনচিস্তান ...",
+      "url": "/goto?url=CAESYwHuR6pNHUEngwCfKmzxMxzmVS1fwkE0VlbufDPP5Z5NhtLeoV2MUrke5WDn-G4I7e_TDM7fgBvO5gWANdZA6xIMAXyzG7l_JbvfQVMbd5vKsxr18jAqjsPxgf_bOWRRvAO2Aw%3D%3D",
+      "snippet": "আবার ভেঙ্গে যাচ্ছে পাকিস্তান ! বেলুনচিস্তান কাশ্মীর খাইবার পাখতুন হাতছাড়া হবার আশংকা ! I humbly request you to subscribe to my channel and share my contents on your ...Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12
+    }
+  ]
+}

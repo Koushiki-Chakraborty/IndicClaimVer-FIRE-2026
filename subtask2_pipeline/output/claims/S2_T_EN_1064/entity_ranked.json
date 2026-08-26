@@ -1,0 +1,99 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1064",
+    "text": "Modi hopes to brew success with 'chai pe charcha' from Feb 12",
+    "lang": "english"
+  },
+  "entity_ranked_evidence": [
+    {
+      "title": "Modi hopes to brew success with 'chai pe charcha' from Feb 12 | National",
+      "url": "https://www.indiatvnews.com/amp/politics/national/modi-hopes-to-brew-success-with-chai-pe-charcha-from-feb-12-14698.html",
+      "snippet": "New Delhi: Using the 'tea-seller' jibe hurled at Narendra Modi by rivals to reach out to voters, BJP today announced the launch of a| page",
+      "bm25_score_raw": 4.835220240919966,
+      "bm25_score_norm": 0.6413290699414843,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.9441608190536499,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 1
+    },
+    {
+      "title": "Modi hopes to brew success with 'Chai Pe Charcha' campaign - Rediff.com",
+      "url": "https://m.rediff.com/amp/news/report/modi-hopes-to-brew-success-with-chai-pe-charcha-campaign/20140204.htm",
+      "snippet": "Using the 'tea-seller' jibe hurled at Narendra Modi by rivals to reach out to voters, the Bharatiya Janata Party on Tuesday announced the launch of a campaign that will allow people to engage with its prime ministerial candidate over a cup of tea. The Gujarat chief minister will launch \"*Chai pe charcha* with NaMo\" (a discussion over tea with Modi) on February 12 by participating in the first such meet at Ahmedabad where he will interact with public at tea stalls and answer queries on good governance, Leader of Opposition in Lok Sabha Sushma Swaraj said on Tuesday. Swaraj said BJP leaders including Modi will address people gathered at tea-stalls at selected locations and later answer their questions concerning the nation. Explaining the campaign, Swaraj said BJP leaders including Modi will address people gathered at tea-stalls at selected locations and later answer their questions concerning the nation.",
+      "bm25_score_raw": 1.0688638823336687,
+      "bm25_score_norm": 0.1417708905480325,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8855614066123962,
+      "embedding_score_norm": 0.3534924369659483,
+      "embedding_rank": 3,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 2
+    },
+    {
+      "title": "Modi connects with the people through his 'chai pe charcha' campaign | India News - Times of India",
+      "url": "https://timesofindia.indiatimes.com/india/modi-connects-with-the-people-through-his-chai-pe-charcha-campaign/articleshow/30292508.cms",
+      "snippet": "* Modi connects with the people through his 'chai pe charcha' campaign. AHMEDABAD: In a bid to cash in on the \"chaiwala\" jibe, BJP prime ministerial candidate Narendra Modi on Wednesday connected with the common people over a cup of tea under the party's ambitious 'chai pe charcha with NaMo' campaign. Under the drive, Modi visited a tea stall and interacted with common people over the brew through DTH, satellite service and social media. \"Of these 1,000 locations, direct interaction will take place with people from 30 locations in which people can share, ask and and suggest their views on the ongoing election campaign,\" BJP spokesperson Harshad Patel had said earlier. The campaign strategy stems from Congress leader Mani Shankar Aiyar's remark on humble beginnings of Modi as a tea vendor. Turning the taunt to Modi's advantage, BJP poll managers have decided to use Modi's background to reach out to the maximum number of voters by inviting them to talk to the leader as part of the initiative.",
+      "bm25_score_raw": 1.7974528652300783,
+      "bm25_score_norm": 0.2384087418740484,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8697442412376404,
+      "embedding_score_norm": 0.17898698350612816,
+      "embedding_rank": 4,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 3
+    },
+    {
+      "title": "Narendra Modi hopes to brew success with 'chai pe charcha' from February 12",
+      "url": "https://m.economictimes.com/news/politics-and-nation/narendra-modi-hopes-to-brew-success-with-chai-pe-charcha-from-february-12/articleshow/29868724.cms",
+      "snippet": "BJP today announced the launch of a campaign that will allow people to engage with its prime ministerial candidate over a cup of tea.",
+      "bm25_score_raw": 1.2792145876236283,
+      "bm25_score_norm": 0.1696711754292601,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.9254322052001953,
+      "embedding_score_norm": 0.7933735169522176,
+      "embedding_rank": 2,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 4
+    },
+    {
+      "title": "'Chai Pe Charcha' with PM Keir Starmer at Chequers...brewing ...",
+      "url": "https://www.instagram.com/p/DMfs0Hihnqb?hl=en",
+      "snippet": "966K likes, 5688 comments - narendramodi on July 24, 2025: \"'Chai Pe Charcha' with PM Keir Starmer at Chequers...brewing stronger India-UK",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8569753170013428,
+      "embedding_score_norm": 0.03811174693526474,
+      "embedding_rank": 5,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 5
+    },
+    {
+      "title": "Chai Pe Charcha (@chaipecharchawithnamho)",
+      "url": "https://www.facebook.com/chaipecharchawithnamho",
+      "snippet": "During the event Chai Pe Charcha Shri. Narendra Modi will seek your suggestions on the most pressing issues that our country faces today.",
+      "bm25_score_raw": 7.539374819484072,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8535208702087402,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 6
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "claim": {
+    "id": "S2/1621",
+    "text": "In a prime location of Delhi, Mayawati has 4 bungalows",
+    "lang": "dev"
+  },
+  "generated_queries": {
+    "english_translation": "In a prime location of Delhi, Mayawati has 4 bungalows",
+    "native_query": "Delhi Mayawati prime location bungalows",
+    "english_query": "Delhi Mayawati prime location bungalows"
+  },
+  "native_retrieval": [
+    {
+      "title": "In a prime location of Delhi, Mayawati has 4 bungalows",
+      "url": "https://www.indiatvnews.com/amp/politics/national/in-a-prime-location-of-delhi-mayawati-has-4-bungalows-13325.html",
+      "snippet": "Mayawati has combined three. Three Type VIII government bungalows, on Gurudwara Rakab Ganj Road, next to Parliament House."
+    },
+    {
+      "title": "In prime location of Delhi, Mayawati has 4 bungalows",
+      "url": "https://m.economictimes.com/news/politics-and-nation/in-prime-location-of-delhi-mayawati-has-4-bungalows/articleshow/25389135.cms",
+      "snippet": "Mayawati has combined three bungalows into one in the prime location of the Lutyen's zone of Delhi. Three Type VIII government bungalows, on"
+    },
+    {
+      "title": "In prime location of Delhi, Mayawati has 3 bungalows",
+      "url": "https://timesofindia.indiatimes.com/india/in-prime-location-of-delhi-mayawati-has-3-bungalows/articleshow/25393445.cms",
+      "snippet": "Mayawati has combined three bungalows into one in the prime location of the Lutyen's zone of Delhi … on Gurudwara Rakab Ganj Road, next to"
+    },
+    {
+      "title": "Mayawati allotted three bungalows in Delhi's VIP zone- TV5",
+      "url": "https://www.youtube.com/watch?v=Lr956PLmRj0",
+      "snippet": "Mayawati allotted three bungalows in Delhi's VIP zone- TV5 ... SumanTV Prime Life. New. 15K views · 10:00 · Go to channel SumanTV Online"
+    },
+    {
+      "title": "Mayawati joins three official residences to create ...",
+      "url": "https://www.indiatoday.in/india/north/story/mayawati-three-bungalow-lutyens-zone-cpwd-216644-2013-11-07",
+      "snippet": "Mayawati has not only been allotted three contiguous bungalows in one of Delhi's toniest localities but they have been amalgamated into one superbungalow."
+    },
+    {
+      "title": "In poll season, Mayawati allowed three-in-one bungalow in Delhi",
+      "url": "https://www.youtube.com/watch?v=xavNoBGrnMo",
+      "snippet": "Mayawati to merge three sprawling bungalows allotted to her in the heart of Delhi and turn them into one large 'super-bungalow'."
+    }
+  ],
+  "english_retrieval": [
+    {
+      "title": "In a prime location of Delhi, Mayawati has 4 bungalows",
+      "url": "https://www.indiatvnews.com/amp/politics/national/in-a-prime-location-of-delhi-mayawati-has-4-bungalows-13325.html",
+      "snippet": "Mayawati has combined three. Three Type VIII government bungalows, on Gurudwara Rakab Ganj Road, next to Parliament House."
+    },
+    {
+      "title": "In prime location of Delhi, Mayawati has 4 bungalows",
+      "url": "https://m.economictimes.com/news/politics-and-nation/in-prime-location-of-delhi-mayawati-has-4-bungalows/articleshow/25389135.cms",
+      "snippet": "Mayawati has combined three bungalows into one in the prime location of the Lutyen's zone of Delhi. Three Type VIII government bungalows, on"
+    },
+    {
+      "title": "In prime location of Delhi, Mayawati has 3 bungalows",
+      "url": "https://timesofindia.indiatimes.com/india/in-prime-location-of-delhi-mayawati-has-3-bungalows/articleshow/25393445.cms",
+      "snippet": "Mayawati has combined three bungalows into one in the prime location of the Lutyen's zone of Delhi … on Gurudwara Rakab Ganj Road, next to"
+    },
+    {
+      "title": "Mayawati allotted three bungalows in Delhi's VIP zone- TV5",
+      "url": "https://www.youtube.com/watch?v=Lr956PLmRj0",
+      "snippet": "Mayawati allotted three bungalows in Delhi's VIP zone- TV5 ... SumanTV Prime Life. New. 15K views · 10:00 · Go to channel SumanTV Online"
+    },
+    {
+      "title": "Mayawati joins three official residences to create ...",
+      "url": "https://www.indiatoday.in/india/north/story/mayawati-three-bungalow-lutyens-zone-cpwd-216644-2013-11-07",
+      "snippet": "Mayawati has not only been allotted three contiguous bungalows in one of Delhi's toniest localities but they have been amalgamated into one superbungalow."
+    },
+    {
+      "title": "In poll season, Mayawati allowed three-in-one bungalow in Delhi",
+      "url": "https://www.youtube.com/watch?v=xavNoBGrnMo",
+      "snippet": "Mayawati to merge three sprawling bungalows allotted to her in the heart of Delhi and turn them into one large 'super-bungalow'."
+    }
+  ],
+  "merged_results": [
+    {
+      "title": "In a prime location of Delhi, Mayawati has 4 bungalows",
+      "url": "https://www.indiatvnews.com/amp/politics/national/in-a-prime-location-of-delhi-mayawati-has-4-bungalows-13325.html",
+      "snippet": "Mayawati has combined three. Three Type VIII government bungalows, on Gurudwara Rakab Ganj Road, next to Parliament House."
+    },
+    {
+      "title": "In prime location of Delhi, Mayawati has 4 bungalows",
+      "url": "https://m.economictimes.com/news/politics-and-nation/in-prime-location-of-delhi-mayawati-has-4-bungalows/articleshow/25389135.cms",
+      "snippet": "Mayawati has combined three bungalows into one in the prime location of the Lutyen's zone of Delhi. Three Type VIII government bungalows, on"
+    },
+    {
+      "title": "In prime location of Delhi, Mayawati has 3 bungalows",
+      "url": "https://timesofindia.indiatimes.com/india/in-prime-location-of-delhi-mayawati-has-3-bungalows/articleshow/25393445.cms",
+      "snippet": "Mayawati has combined three bungalows into one in the prime location of the Lutyen's zone of Delhi … on Gurudwara Rakab Ganj Road, next to"
+    },
+    {
+      "title": "Mayawati allotted three bungalows in Delhi's VIP zone- TV5",
+      "url": "https://www.youtube.com/watch?v=Lr956PLmRj0",
+      "snippet": "Mayawati allotted three bungalows in Delhi's VIP zone- TV5 ... SumanTV Prime Life. New. 15K views · 10:00 · Go to channel SumanTV Online"
+    },
+    {
+      "title": "Mayawati joins three official residences to create ...",
+      "url": "https://www.indiatoday.in/india/north/story/mayawati-three-bungalow-lutyens-zone-cpwd-216644-2013-11-07",
+      "snippet": "Mayawati has not only been allotted three contiguous bungalows in one of Delhi's toniest localities but they have been amalgamated into one superbungalow."
+    },
+    {
+      "title": "In poll season, Mayawati allowed three-in-one bungalow in Delhi",
+      "url": "https://www.youtube.com/watch?v=xavNoBGrnMo",
+      "snippet": "Mayawati to merge three sprawling bungalows allotted to her in the heart of Delhi and turn them into one large 'super-bungalow'."
+    }
+  ]
+}

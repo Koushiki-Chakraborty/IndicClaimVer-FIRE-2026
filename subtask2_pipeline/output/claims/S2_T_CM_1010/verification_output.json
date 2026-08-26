@@ -1,0 +1,6 @@
+{
+  "ID": "S2/T/CM/1010",
+  "Evidence": "Source 2 ke mutabik, PM Modi ne Yogi Adityanath ke pita ji, Anand Singh Bisht, ki sehat ke baare mein pucha tha. Anand Singh Bisht ka inteqal AIIMS, Delhi mein hua. Source 1 aur Source 3 mein sirf social media posts hain jo kisi specific baat ko nahi batate. Source 2 se yeh pata chalta hai ki Modi ne Yogi ke pita ji se sambandhit baat ki thi, lekin yeh nahi kehta ki Yogi ne apne papa se koi sawaal kiya hai.",
+  "Prediction": "REFUTES",
+  "Justification": "Retrieved evidence se yeh saaf hai ki PM Modi ne Yogi Adityanath ke pita ji ki sehat ke baare mein pucha, lekin yeh claim ki Yogi ne apne papa se koi sawaal kiya hai, uska koi saboot nahi hai. Source 2 mein sirf Modi ka inquiry hai, aur baaki sources mein sirf social media posts hain jo claim ko support nahi karte. Isliye, claim ko refute kiya jaata hai."
+}

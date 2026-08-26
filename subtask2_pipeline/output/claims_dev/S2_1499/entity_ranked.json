@@ -1,0 +1,99 @@
+{
+  "claim": {
+    "id": "S2/1499",
+    "text": "Modi speaking about Lokpal,  is like Asaram speaking about virginity : Jairam Ramesh",
+    "lang": "dev"
+  },
+  "entity_ranked_evidence": [
+    {
+      "title": "Modi speaking about Lokpal, is like Asaram ...",
+      "url": "https://www.indiatvnews.com/politics/national/narendra-modi-lokpal-asaram-virginity-jairam-ramesh-13945.html",
+      "snippet": "Modi speaking about Lokpal, is like Asaram speaking about virginity : Jairam Ramesh · New Delhi: The Bharatiya Janata Party today strongly",
+      "bm25_score_raw": 3.1007900652807927,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9609225988388062,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1,
+      "entity_overlap_raw": 4,
+      "entity_overlap_qid": 1,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 1
+    },
+    {
+      "title": "Modi on Lokayukta is Asaram talking about virginity: Jairam ...",
+      "url": "https://indianexpress.com/article/cities/delhi/modi-on-lokayukta-is-asaram-talking-about-virginity-jairam-ramesh",
+      "snippet": "Jairam Ramesh on Monday said Modi speaking about the Lokayukta was akin to self-styled godman Asaram Bapu “talking about virginity”.",
+      "bm25_score_raw": 2.0880714270009686,
+      "bm25_score_norm": 0.5658603179298184,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.9302535653114319,
+      "embedding_score_norm": 0.7601035225839058,
+      "embedding_rank": 2,
+      "entity_overlap_raw": 3,
+      "entity_overlap_qid": 1,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 2
+    },
+    {
+      "title": "Modi on Lokayukta is Asaram talking about virginity: Jairam ...",
+      "url": "https://www.youtube.com/watch?v=Nco1212gmkM",
+      "snippet": "Modi on Lokayukta is Asaram talking about virginity: Jairam Ramesh @ABPNews8 likes1.3K views12 years ago",
+      "bm25_score_raw": 2.21497713873606,
+      "bm25_score_norm": 0.6202631927886689,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.9217471480369568,
+      "embedding_score_norm": 0.6935654121554647,
+      "embedding_rank": 4,
+      "entity_overlap_raw": 3,
+      "entity_overlap_qid": 1,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 3
+    },
+    {
+      "title": "Narendra Modi on Lokayukta is like Asaram talking about ...",
+      "url": "https://timesofindia.indiatimes.com/india/narendra-modi-on-lokayukta-is-like-asaram-talking-about-virginity-jairam-ramesh/articleshow/27475585.cms",
+      "snippet": "Narendra Modi speaking about Lokayukta is like Asaram \"talking about virginity\", Union minister Jairam Ramesh on Monday said, For 10 years he",
+      "bm25_score_raw": 1.8729729619926225,
+      "bm25_score_norm": 0.47365032427242426,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.9279760122299194,
+      "embedding_score_norm": 0.7422882575252489,
+      "embedding_rank": 3,
+      "entity_overlap_raw": 2,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 4
+    },
+    {
+      "title": "Modi on Lokayukta is like Asaram talking about virginity",
+      "url": "https://www.business-standard.com/article/politics/modi-on-lokayukta-is-like-asaram-talking-about-virginity-ramesh-113121600630_1.html",
+      "snippet": "For 10 years he didn't appoint a Lokayukta and he is giving 'updesh' (sermon' on Lokayukta. This is like Asaram talking about virginity,\" Ramesh",
+      "bm25_score_raw": 2.4347130897410256,
+      "bm25_score_norm": 0.7144612180869115,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.9071906208992004,
+      "embedding_score_norm": 0.5797026919415194,
+      "embedding_rank": 5,
+      "entity_overlap_raw": 2,
+      "entity_overlap_qid": 1,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 5
+    },
+    {
+      "title": "\"Sheer hypocrisy\": Jairam Ramesh blasts PM Modi's ...",
+      "url": "https://www.aninews.in/news/national/politics/sheer-hypocrisy-jairam-ramesh-blasts-pm-modis-distress-address-over-legislative-defeat20260418223503",
+      "snippet": "He said that the PM's address to the nation was a \"pathetic, partisan and polemical attack\" and a \"distress address\" instead. His talking of",
+      "bm25_score_raw": 0.768087757464316,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8330798149108887,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6,
+      "entity_overlap_raw": 2,
+      "entity_overlap_qid": 1,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 6
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "claim": {
+    "id": "S2/1564",
+    "text": "Covid-19 in China: चीन में फिर कोरोना का खौफ, 6 महीने बाद हुई पहली मौत",
+    "lang": "dev"
+  },
+  "ranked_evidence": [
+    {
+      "title": "Corona Return: चीन से निकला कोरोना का नया वैरियंट | Covid 19",
+      "url": "https://www.youtube.com/watch?v=aAyIdGaqpsw",
+      "snippet": "कोरोना के केस एक बार फिर बढ़ रहे हैं. भारत में लगातार इसके केस आ रहे हैं. हालांकि, बताया जा रहा है कि नया वैरियंट काफी कमजो है.लेकिन, दुनिया की नजर एक बार फिर चीन की तरफ चली गई है.",
+      "bm25_score_raw": 13.281398318511119,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "China Covid Deaths: चीन में विकराल हुआ कोरोना, 1 साल बाद ...",
+      "url": "https://navbharattimes.indiatimes.com/world/asian-countries/china-has-confirmed-its-first-covid-19-deaths-in-over-a-year-sustained-outbreaks-in-two-thirds-of-its-provinces/articleshow/90317841.cms",
+      "snippet": "Mar 19, 2022 — चीन में एक साल से ज्‍यादा समय बाद पहली बार दो लोगों की कोरोना वायरस संक्रमण से मौत हो गई; चीन के दो तिहाई प्रांत कोरोना के बेहद संक्रामक गुप्‍त ओमीक्रोन वेरिएंट की चपेट में आ गए हैं ...Read more",
+      "bm25_score_raw": 6.415253704199859,
+      "bm25_score_norm": 0.4258461391545885,
+      "bm25_rank": 2
+    },
+    {
+      "title": "China's first Covid deaths in 6 months tests its coronavirus ...",
+      "url": "https://www.youtube.com/watch?v=Fe0tdHFxwVw",
+      "snippet": "China's first Covid deaths in 6 months tests its coronavirus policy easing · Comments.",
+      "bm25_score_raw": 3.937988303467974,
+      "bm25_score_norm": 0.21869473555549024,
+      "bm25_rank": 3
+    },
+    {
+      "title": "Pandemic panic? Results of a 14-month longitudinal study ...",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0165032722012551",
+      "snippet": "by G Mertens · 2023 · Cited by 75 — This longitudinal study tracked fear levels of COVID-19 over a 14-month period. Fear peaked in April 2020 and then declined until June 2021.",
+      "bm25_score_raw": 3.6776146793915183,
+      "bm25_score_norm": 0.1969220334172023,
+      "bm25_rank": 4
+    },
+    {
+      "title": "Death Anxiety During COVID-19 and its Related Factors ...",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10014449",
+      "snippet": "by D Yang · 2023 · Cited by 5 — This study aimed at investigating death anxiety and its related factors in Chinese elderly people during COVID-19.",
+      "bm25_score_raw": 2.6448594006613857,
+      "bm25_score_norm": 0.11056200695410337,
+      "bm25_rank": 5
+    },
+    {
+      "title": "Estimate of COVID-19 Deaths, China, December 2022–February 2023 - Volume 29, Number 10—October 2023 - Emerging Infectious Diseases journal - CDC",
+      "url": "https://wwwnc.cdc.gov/eid/article/29/10/23-0585_article",
+      "snippet": "We estimate that the ensuing wave of SARS-CoV-2 infections caused 1.41 million deaths in China during December 2022–February 2023, substantially higher than that reported through official channels. We used those data to estimate a plausible range for the total number of COVID-19–related deaths during December 2022–January 2023. We estimated COVID-19–related deaths by using an individual-based simulation that incorporated daily test positivity reports from the China CDC sentinel household surveillance system during December 16, 2022–January 19, 2023. We built a stochastic model to generate COVID-19 death reports from infections occurring during December 8, 2022–January 19, 2023, in a population of 1 million persons whose ages were randomly assigned according to the national age distribution in China. A) Estimated cumulative infection and mortality rates (per 1 million population) during December 8, 2022–February 7, 2023, based on test positivity data from the Chinese Center for Disease Control and Prevention sentinel community surveillance system, reported on January 26, 2023 (5).",
+      "bm25_score_raw": 2.3170136065811118,
+      "bm25_score_norm": 0.08314721466429655,
+      "bm25_rank": 6
+    },
+    {
+      "title": "चीन का दावा, कहा- पहले हमने बनाई कोविड-19 की वैक्सीन, अप्रैल में ही हुआ था ट्रायल - China Claimed That First We Made The Vaccine Of Covid-19, Trial Was Done In April - Amar Ujala Hindi News Live",
+      "url": "https://www.amarujala.com/world/china-claimed-that-first-we-made-the-vaccine-of-covid-19-trial-was-done-in-april",
+      "snippet": "## * क्लिनिकल ट्रायल के तीसरे चरण के बाद लोगों के लिए उपलब्ध होगी चीनी वैक्सीन * रूसी वैक्सीन की खबर के बाद हरकत में आया चीन, पहले बनाने की होड़ में लगा. चीन बार बार ये श्रेय लेने की कोशिश कर रहा है कि वह दुनिया का पहला देश है जिसने कोविड-19 की वैक्सीन बनाई। साथ ही इस काम में उसकी पीपुल्स लिबरेशन आर्मी (पीएलए) की मेडिकल टीम जनवरी से ही लगी है। अब वहां बन रही वैक्सीन के तीसरे चरण का क्लिनिकल ट्रायल हो रहा है।. पीपुल्स लिबरेशन आर्मी के मेजर जनरल शेन वी के नेतृत्व में बन रही इस वैक्सीन को लेकर चीन दावा कर रहा है कि उसने रूस या दुनिया के किसी भी देश से पहले कोविड-19 की वैक्सीन बना ली थी और इसका क्लिनिकल ट्रायल 16 मार्च को ही हो गया था। इसके क्लिनिकल ट्रायल का दूसरा चरण 12 अप्रैल को ही पूरा हो गया था।.",
+      "bm25_score_raw": 2.1772978384998813,
+      "bm25_score_norm": 0.0714640427867891,
+      "bm25_rank": 7
+    },
+    {
+      "title": "COVID-19 pandemic in mainland China - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_mainland_China",
+      "snippet": "The **COVID-19 pandemic in mainland China** is part of the worldwide pandemic of coronavirus disease 2019 (COVID-19) caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). China was where the first COVID outbreak occurred, the first where authorities imposed drastic measures in response (including lockdowns and face mask mandates), and was one of the first countries to bring the outbreak under control, at least temporarily. The 2019–2020 COVID-19 outbreak in mainland China was the first wave of the disease, and was first manifested as a cluster of mysterious pneumonia cases, mostly related to the Huanan Seafood Market in Wuhan, the capital of Hubei province. On 8 January 2020, a new coronavirus (SARS-CoV-2) was identified as the cause of the pneumonia by Chinese scientists. Infection rates increased in 2022, and on 3 April of that year, China reported 13,146 new cases of COVID-19 in the past 24 hours, which was the highest single-day total of new cases since the height of the 2020 outbreak.",
+      "bm25_score_raw": 2.0573662292734602,
+      "bm25_score_norm": 0.06143524200516442,
+      "bm25_rank": 8
+    },
+    {
+      "title": "COVID-19 pandemic",
+      "url": "https://en.wikipedia.org/wiki/COVID-19_pandemic",
+      "snippet": "# COVID-19 pandemic. | Medical professionals treating a COVID-19 patient in critical condition in an intensive care unit in São Paulo \"COVID-19 pandemic in São Paulo (state)\") in May 2020 |. | Dates | Described as a pandemic by the WHO: 11 March 2020 (6 years and 4 months ago)   ---   Public health emergency of international concern: 30 January 2020 – 5 May 2023 (3 years, 3 months and 5 days) |. | * COVID-19 (disease) * SARS-CoV-2 (virus)  * Cases * Deaths |. The global **COVID-19 pandemic** (also known as the **coronavirus pandemic**), caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), began with an outbreak in Wuhan, China, in December 2019. The World Health Organization (WHO) declared the outbreak a public health emergency of international concern (PHEIC) on 30 January 2020 and assessed it as having become a pandemic on 11 March. The WHO declared that the public health emergency caused by COVID-19 had ended in May 2023, while noting that COVID-19 continued to be a global health threat.",
+      "bm25_score_raw": 1.794245574373817,
+      "bm25_score_norm": 0.03943283040959141,
+      "bm25_rank": 9
+    },
+    {
+      "title": "China suggests Covid-19 originated in US in response to Trump allegation | CNN",
+      "url": "https://www.cnn.com/2025/04/30/china/china-covid-origin-white-paper-us-intl-hnk",
+      "snippet": "China restated its case that Covid-19 may have originated in the United States in a white paper on its pandemic response released on Wednesday, after President Donald Trump’s administration blamed a lab leak in China. The White House launched a Covid-19 website on April 18 in which it said the coronavirus came from a lab leak in China while criticizing former President Joe Biden, former top US health official Anthony Fauci and the World Health Organization (WHO). In the white paper, released by the official Xinhua news agency, China accused the US of politicizing the matter of the origins of Covid-19. The CIA said in January the pandemic was more likely to have emerged from a lab in China than from nature, after the agency had for years said it could not reach a conclusion on the matter. Scan the QR code to download the CNN app on Google Play. Scan the QR code to download the CNN app from the Apple Store.",
+      "bm25_score_raw": 1.6307414957389827,
+      "bm25_score_norm": 0.02576045627746303,
+      "bm25_rank": 10
+    },
+    {
+      "title": "Study estimates 1.4 million deaths shortly after 'zero COVID' ended in China | CIDRAP",
+      "url": "https://www.cidrap.umn.edu/covid-19/study-estimates-14-million-deaths-shortly-after-zero-covid-ended-china",
+      "snippet": "# Study estimates 1.4 million deaths shortly after 'zero COVID' ended in China. Person with urn in cemetaryBy December 2022, China had ended its strict zero-COVID policy, which resulted in a wave of infections. A new analysis published in *Emerging Infectious Diseases* estimates that 1.41 million COVID-19 deaths occurred in the 35 days following the relaxation of China's policy. The number comes from a model researchers in the US and Hong Kong developed using daily test positivity reports from the Chinese Center for Disease Control and Prevention (China CDC) sentinel household surveillance system from December 16, 2022, to January 19, 2023. According to the researchers, the sentinel surveillance report from China CDC suggests that roughly 90% of China’s population were infected during the study’s 35-day period. Masked pregnant women with doulaYesterday in *JAMA**,* researchers analyzed data from the Pennington Biomedical Research Center and Woman's Hospital in Baton Rouge, Louisiana, to show that more women exceeded the recommended gestational weight gain (GWG) during the pandemic.",
+      "bm25_score_raw": 1.3626088268582,
+      "bm25_score_norm": 0.003338935073874408,
+      "bm25_rank": 11
+    },
+    {
+      "title": "China COVID - Coronavirus Statistics - Worldometer",
+      "url": "https://www.worldometers.info/coronavirus/country/china",
+      "snippet": "**NOTE:** As of April 13, 2024, the **Coronavirus Tracker is no longer being updated** due to the unfeasibility of providing statistically valid global totals, as **the majority of countries have now stopped reporting**. However, historical data remain accessible. Worldometer delivered the **most accurate and timely global statistics** to users and institutions around the world at a time when this was extremely challenging. **We thank everyone** who participated in this extraordinary collaborative effort. Last updated: April 13, 2024, 01:00 GMT. # Coronavirus Cases:. # Deaths:. # Recovered:. Daily Cases Graph - Daily Deaths Graph. Cases which had an outcome:. **Learn more about Worldometer's COVID-19 data**. ### Total Coronavirus Cases in China. ### Daily New Cases in China. See also: Daily Deaths Graph. ### Active Cases in China. ### Total Coronavirus Deaths in China. ### Daily New Deaths in China. See also: Daily Cases Graph. ### Newly Infected vs. ### Outcome of Cases (Recovery or Death) in China.",
+      "bm25_score_raw": 1.3226794409593383,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12
+    }
+  ]
+}

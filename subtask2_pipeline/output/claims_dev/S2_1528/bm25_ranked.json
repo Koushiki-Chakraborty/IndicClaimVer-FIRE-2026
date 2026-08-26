@@ -1,0 +1,57 @@
+{
+  "claim": {
+    "id": "S2/1528",
+    "text": "Bombay High Court Orders Inspection Of Taloja Prison After Plea Claims Inmates Get Only 1.5 Buckets Water",
+    "lang": "dev"
+  },
+  "ranked_evidence": [
+    {
+      "title": "Bombay High Court Orders Inspection Of Taloja Prison ...",
+      "url": "https://www.livelaw.in/high-court/bombay-high-court/bombay-high-court-taloja-prison-water-shortage-inspection-prisoners-rights-230791",
+      "snippet": "Bombay High Court Orders Inspection Of Taloja Prison After Plea Claims Inmates Get Only 1.5 Buckets ・ with just 1.5 buckets of water each day.",
+      "bm25_score_raw": 11.55019678788783,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Bombay High Court orders inspection of Taloja jail after ...",
+      "url": "https://www.barandbench.com/news/litigation/bombay-high-court-inspection-taloja-jail-prison-inmates-15-bucket-water",
+      "snippet": "Bombay High Court orders inspection of Taloja jail after prisoner alleges that inmates get only get 1.5 buckets of water a day barandbench",
+      "bm25_score_raw": 2.528223774517855,
+      "bm25_score_norm": 0.1730581318971145,
+      "bm25_rank": 2
+    },
+    {
+      "title": "Bombay High Court orders inspection of Taloja jail after ...",
+      "url": "https://www.facebook.com/barandbench/posts/bombay-high-court-orders-inspection-of-taloja-jail-after-prisoner-alleges-that-i/646624974180286",
+      "snippet": "Bombay High Court orders inspection of Taloja jail after prisoner alleges that inmates get only get 1.5 buckets of water a day #BombayHighCourt.",
+      "bm25_score_raw": 2.528223774517855,
+      "bm25_score_norm": 0.1730581318971145,
+      "bm25_rank": 3
+    },
+    {
+      "title": "1.5 L water for one inmate inadequate; Bombay High Court ...",
+      "url": "https://www.scconline.com/blog/post/2023/06/23/bombay-high-court-orders-inspection-taloja-jail-over-1-5-l-water-to-one-inmate",
+      "snippet": "The Petitioner alleged that the inmates were getting only one and half buckets of water daily, which was grossly inadequate.",
+      "bm25_score_raw": 1.6886085957301435,
+      "bm25_score_norm": 0.0961001379632686,
+      "bm25_rank": 4
+    },
+    {
+      "title": "Bombay HC Directs DLSA Secretary To Visit Taloja Jail To ...",
+      "url": "https://www.verdictum.in/court-updates/high-courts/plea-by-prisoner-inspection-of-water-supply-in-taloja-jail-ordered-1481763",
+      "snippet": "to visit the Taloja Jail to verify the water supply made available to the inmates of the said jail. getting only 1.5 buckets of water … the",
+      "bm25_score_raw": 1.3704395685657502,
+      "bm25_score_norm": 0.06693719441357128,
+      "bm25_rank": 5
+    },
+    {
+      "title": "Clean drinking water first priority, basic right of inmates, HC ...",
+      "url": "https://indianexpress.com/article/cities/mumbai/clean-drinking-water-bombay-hc-taloja-prison-8680335",
+      "snippet": "The petitioner told the court that the prisoners are being provided 1 to 1.5 buckets of water a day for drinking, washing, bathing purposes",
+      "bm25_score_raw": 0.6401517637223709,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "ID": "S2/T/EN/1294",
+  "Evidence": "Delhi recorded 606 new Covid cases with a positivity rate of 16.98% and one death on a recent Thursday, according to Source 1. The positivity rate was significantly higher than the claim's stated 3.35%. Previous days showed 521 cases and one death, and 429 cases with one death, indicating a rising trend in cases. Source 2 and Source 3 do not provide relevant data for the claim about 393 cases and 2 deaths. Overall, the evidence indicates a higher number of cases and deaths than the claim suggests.",
+  "Prediction": "REFUTES",
+  "Justification": "The retrieved evidence from Source 1 shows that Delhi recorded 606 new Covid cases and one death, which contradicts the claim of 393 new cases and 2 deaths. The positivity rate of 16.98% is also significantly higher than the claimed 3.35%. Therefore, the evidence directly refutes the claim's core assertion regarding the number of cases and deaths."
+}

@@ -1,0 +1,105 @@
+{
+  "claim": {
+    "id": "S2/1618",
+    "text": "'এখন কেন্দ্র-রাজ্য ঝামেলার সময় নয়', ঘাটালে গিয়ে দাবি দেবের - TMC MP Dev on Flood",
+    "lang": "dev"
+  },
+  "ranked_evidence": [
+    {
+      "title": "'এখন কেন্দ্র-রাজ্য ঝামেলার সময় নয়', ঘাটালে গিয়ে দাবি দেবের",
+      "url": "https://www.etvbharat.com/bn/!state/actor-turned-tmc-mp-dev-visits-ghatal-flood-area-stresses-on-saving-lives-west-bengal-news-wbs24092202901",
+      "snippet": "'এখন কেন্দ্র-রাজ্য ঝামেলার সময় নয়', ঘাটালে গিয়ে দাবি দেবের - TMC MP Dev on Flood ... নয়, দেব যেদিন ঘাটালে গিয়ে এ কথা বলছেন",
+      "bm25_score_raw": 5.6878758637391,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "TMC accuses Centre of not releasing funds for Ghatal flood ...",
+      "url": "https://www.thehindu.com/news/national/west-bengal/tmc-accuses-centre-of-not-releasing-funds-for-ghatal-flood-management-plan/article69728304.ece",
+      "snippet": "West Bengal blames Union Government for lack of funds in completing Ghatal Master Plan amid severe flooding crisis.",
+      "bm25_score_raw": 4.231513836284401,
+      "bm25_score_norm": 0.7302104977204503,
+      "bm25_rank": 2
+    },
+    {
+      "title": "Dev on Ghatal Flood: এখন রাজ্য-কেন্দ্র ঝামেলা করে কোনও লাভ ...",
+      "url": "https://www.youtube.com/watch?v=BsCbU-lx5o8",
+      "snippet": "Dev on Ghatal Flood: ঘাটাল সহ একাধিক এলাকায় বন্যা হয়েছে। এবার বন্যা কবলিত এলাকায় এলেন দেব। ত্রান বিলি করলেন গ্রামবাসিদের মধ্যে। ঘাটালবাসিদের উদ্দেশে কী বললেন দেব, জেনে নিন এই ভিডিয়োয়।",
+      "bm25_score_raw": 3.7514914492221676,
+      "bm25_score_norm": 0.6412868657888359,
+      "bm25_rank": 3
+    },
+    {
+      "title": "Residents of Bengal's Ghatal Still Await Their Flood Master ...",
+      "url": "https://m.thewire.in/article/environment/a-century-of-broken-promises-residents-of-bengals-ghatal-still-await-their-flood-master-plan",
+      "snippet": "“For the past 10 years, I have raised the demand for the Ghatal Master Plan in every Lok Sabha session. Yet, despite repeated efforts, the Union",
+      "bm25_score_raw": 3.261568433820794,
+      "bm25_score_norm": 0.5505291530850527,
+      "bm25_rank": 4
+    },
+    {
+      "title": "TMC slams absence of budgetary allocations for flood ...",
+      "url": "https://theprint.in/india/tmc-slams-absence-of-budgetary-allocations-for-flood-control-in-bengal/2187388",
+      "snippet": "Ghatal MP and Bengal film star Deepak Adhikari aka Dev described the non-allocation of funds for the Ghatal Master Plan in the Union Budget",
+      "bm25_score_raw": 2.8826104971419944,
+      "bm25_score_norm": 0.4803276021010967,
+      "bm25_rank": 5
+    },
+    {
+      "title": "TMC MP Dev Pushes For Ghatal Master Plan Funds",
+      "url": "https://www.rediff.com/news/report/tmc-mp-dev-discusses-ghatal-master-plan-with-bengal-cm/20260609.htm",
+      "snippet": "Trinamool Congress MP Dev is actively pushing for the long-awaited Ghatal Master Plan, a critical flood-management initiative in West Bengal",
+      "bm25_score_raw": 2.760642712176761,
+      "bm25_score_norm": 0.45773320086048,
+      "bm25_rank": 6
+    },
+    {
+      "title": "Dev in Ghatal: বন্যা বিধ্বস্ত ঘাটালে প্রশাসনিক বৈঠকে দেব",
+      "url": "https://www.youtube.com/watch?v=Yk0HBw1-XBA",
+      "snippet": "Dev in Ghatal: নিয়ন্ত্রণে বন্যা পরিস্থিতি, দাবি তৃণমূল সাংসদের TMC MP Dev attends an administrative meeting in flood-hit Ghatal.",
+      "bm25_score_raw": 2.637194224957014,
+      "bm25_score_norm": 0.4348645011166487,
+      "bm25_rank": 7
+    },
+    {
+      "title": "MP Dev | Ghatal | জলমগ্ন ঘাটালে ত্রাণবিলি কর্মসূচি সাংসদ ...",
+      "url": "https://www.youtube.com/watch?v=ChX9NNYddPQ",
+      "snippet": "MP Dev | Ghatal | জলমগ্ন ঘাটালে ত্রাণবিলি কর্মসূচি সাংসদ দেবের, কী বলছেন তিনি? | Zee 24 Ghanta Dev | All India Trinamool Congress | Kamalakshya Bhattacharjee",
+      "bm25_score_raw": 2.5754595325909433,
+      "bm25_score_norm": 0.42342821562386357,
+      "bm25_rank": 8
+    },
+    {
+      "title": "Ghatal Flood Situation: ঘাটালে ত্রাণ নিয়ে হাজির দেব, নৌকো ...",
+      "url": "https://tv9bangla.com/west-bengal/paschim-medinipur/ghatal-dev-visit-flood-situation-in-ghatal-paschim-medinipur-1121581.html",
+      "snippet": "DEV: সংবাদমাধ্যমের মুখোমুখি হয়ে দেব জানান, \"বছরের পর বছর বন্যার সময় ঘাটালের মানুষ খুবই কষ্টে থাকে।এখনও জলে ডুবে রয়েছে বাড়ি ঘর। সেখানে বাচ্চা সহ মানুষ রয়েছেন। · Short Videos · সর্বশেষ সংবাদ · ভিডিয়ো.",
+      "bm25_score_raw": 1.2411328094650709,
+      "bm25_score_norm": 0.17624562247455855,
+      "bm25_rank": 9
+    },
+    {
+      "title": "Centre's inaction led to 'man-made' floods in Ghatal, says ...",
+      "url": "https://timesofindia.indiatimes.com/city/kolkata/didi-centres-inaction-led-to-man-made-floods-in-ghatal/articleshow/85222853.cms",
+      "snippet": "Local MP Dev said implementation of the master plan would provide residents much-needed relief from annual floods. “There are a few opposition",
+      "bm25_score_raw": 0.9576802570802798,
+      "bm25_score_norm": 0.12373634141247765,
+      "bm25_rank": 10
+    },
+    {
+      "title": "The Ghatal Master Plan, a long-standing promise made ...",
+      "url": "https://www.facebook.com/IndiaWantsMB/posts/the-ghatal-master-plan-a-long-standing-promise-made-by-mp-dev-is-being-fulfilled/997084962603903",
+      "snippet": "The Ghatal Master Plan, a long-standing promise made by MP Dev, is being fulfilled by Mamata Banerjee 's government in a big way.",
+      "bm25_score_raw": 0.6773259273468764,
+      "bm25_score_norm": 0.07180100277083319,
+      "bm25_rank": 11
+    },
+    {
+      "title": "Actor Dev: ঘাটালে ফের বন্যা, রাস্তায় চলছে নৌকা! পরিস্থিতি ...",
+      "url": "https://bengali.news18.com/news/south-bengal/actor-dev-flood-again-in-ghatal-boats-are-running-on-the-road-actor-mp-dev-to-inspect-the-situation-sal-1857105.html",
+      "snippet": "Actor Dev: পশ্চিম মেদিনীপুর জেলার দাসপুরের রাজনগরে বন্যা পরিদর্শনে ঘাটাল লোকসভা কেন্দ্রের তৃণমূল সাংসদ অভিনেতা দীপক অধিকারী ওরফে দেব। ... ম্যারিনেশনের সময় মাখিয়ে নিন ১টা জিনিস,মাংস মুখে দিলেই গলে যাবে.",
+      "bm25_score_raw": 0.2897339228949766,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12
+    }
+  ]
+}

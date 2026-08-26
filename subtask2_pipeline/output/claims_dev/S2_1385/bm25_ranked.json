@@ -1,0 +1,105 @@
+{
+  "claim": {
+    "id": "S2/1385",
+    "text": "ফের খেলার মাঠে করোনার প্রভাব! এবার স্থগিত সুলতান আজলান শাহ ট্রফি",
+    "lang": "dev"
+  },
+  "ranked_evidence": [
+    {
+      "title": "সুলতান আজলান শাহ কাপ",
+      "url": "https://bn.wikipedia.org/wiki/%E0%A6%B8%E0%A7%81%E0%A6%B2%E0%A6%A4%E0%A6%BE%E0%A6%A8_%E0%A6%86%E0%A6%9C%E0%A6%B2%E0%A6%BE%E0%A6%A8_%E0%A6%B6%E0%A6%BE%E0%A6%B9_%E0%A6%95%E0%A6%BE%E0%A6%AA",
+      "snippet": "সুলতান আজলান শাহ কাপ মালয়শিয়ায় অনুষ্ঠিত আন্তর্জাতিক পর্যায়ের পুরুষ হকির একটি বাৎসরিক প্রতিযোগিতা। ১৯৮৩ সালে এটি একটি দ্বি-বার্ষিক প্রতিযোগিতা হিসেবে চালু হয় এবং ক্রমবর্ধমান জনপ্রিয়তার কারণে ১৯৯৮ সাল থেকে এটি বাৎসরিক",
+      "bm25_score_raw": 11.207053244902557,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Sultan Azlan Shah Cup Hockey Tournament in Malaysia ...",
+      "url": "https://www.news18.com/news/hockey/sultan-azlan-shah-cup-hockey-tournament-in-malaysia-postponed-due-to-coronavirus-2522359.html",
+      "snippet": "Mar 2, 2020 — Sultan Azlan Shah Cup Hockey Tournament in Malaysia Postponed Due to Coronavirus. Agency: PTI. Sultan Azlan Shah Cup, which was schedule to be ...Read more",
+      "bm25_score_raw": 2.121083169501497,
+      "bm25_score_norm": 0.15384705752145555,
+      "bm25_rank": 2
+    },
+    {
+      "title": "BULATAN SULTAN AZLAN SHAH",
+      "url": "https://www.youtube.com/watch?v=ftEFZKWTx4o",
+      "snippet": "Share your videos with friends, family, and the world. BULATAN SULTAN AZLAN SHAH @Farennas-Channel4 likes175 views4 years ago",
+      "bm25_score_raw": 2.1177344433103045,
+      "bm25_score_norm": 0.15353519929424173,
+      "bm25_rank": 3
+    },
+    {
+      "title": "Sultan Azlan Shah",
+      "url": "https://soundcloud.com/sultan-azlan-shah-320879569",
+      "snippet": "Play Sultan Azlan Shah on SoundCloud and discover followers on SoundCloud | Stream tracks, albums, playlists on desktop and mobile.",
+      "bm25_score_raw": 2.0939322453836193,
+      "bm25_score_norm": 0.15131856203416003,
+      "bm25_rank": 4
+    },
+    {
+      "title": "Sultan Azlan Shah (1928 2014)",
+      "url": "https://www.youtube.com/watch?v=Qx5AvHiZmoI",
+      "snippet": "Share your videos with friends, family, and the world. Sultan Azlan Shah (1928 2014) @nstonlinetv115 likes20K views12 years ago",
+      "bm25_score_raw": 2.070659148491428,
+      "bm25_score_norm": 0.14915119858782525,
+      "bm25_rank": 5
+    },
+    {
+      "title": "31st Sultan Azlan Shah Cup 2025 (M)",
+      "url": "https://fih.altiusrt.com/competitions/1765",
+      "snippet": "31st Sultan Azlan Shah Cup 2025 (M) 23 - 30 Nov 2025. FINAL Summary Matches Statistics Teams Pool Standings Officials Locations Reports Standings Final",
+      "bm25_score_raw": 1.9211873337048795,
+      "bm25_score_norm": 0.13523127425947407,
+      "bm25_rank": 6
+    },
+    {
+      "title": "Sultan Azlan Shah Cup cancelled due to Covid-19 surge",
+      "url": "https://www.malaymail.com/news/sports/2021/05/08/sultan-azlan-shah-cup-cancelled-due-to-covid-19-surge/1972712",
+      "snippet": "May 8, 2021 — The 2021 Sultan Azlan Shah Hockey Cup tournament scheduled for June 18-27 has been cancelled following a surge in Covid-19 cases in Malaysia.",
+      "bm25_score_raw": 1.8269858300091895,
+      "bm25_score_norm": 0.12645853135183321,
+      "bm25_rank": 7
+    },
+    {
+      "title": "Sultan Azlan Shah Cup postponed due to Coronavirus",
+      "url": "https://www.sportskeeda.com/hockey/sultan-azlan-shah-cup-postponed-due-to-coronavirus",
+      "snippet": "Mar 2, 2020 — The organizers of the Sultan Azlan Shah Cup hockey tournament have decided to postpone the event in the wake of the rapidly spreading ...Read more",
+      "bm25_score_raw": 1.8092433185766752,
+      "bm25_score_norm": 0.12480621705506635,
+      "bm25_rank": 8
+    },
+    {
+      "title": "Sultan Azlan Shah Cup 2025: Why was India vs Korea match ...",
+      "url": "https://sportstar.thehindu.com/hockey/india-vs-korea-match-delayed-reason-weather-rain-sultan-azlan-shah-cup-2025-malaysia/article70313787.ece",
+      "snippet": "Nov 24, 2025 — Sultan Azlan Shah Cup 2025 between India and Korea was delayed on Sunday due to heavy rain in Ipoh. postponement on social",
+      "bm25_score_raw": 1.7918421004444924,
+      "bm25_score_norm": 0.12318568652249055,
+      "bm25_rank": 9
+    },
+    {
+      "title": "Sultan Azlan Shah",
+      "url": "https://www.sultanazlanshah.com",
+      "snippet": "Sultan Azlan Shah. Judge, Jurist and Upholder of the Rule of Law Toggle. LECTURES & SPEECHES. Judge, Jurist and Upholder of the Rule of Law",
+      "bm25_score_raw": 1.7907571073105075,
+      "bm25_score_norm": 0.12308464391226054,
+      "bm25_rank": 10
+    },
+    {
+      "title": "Azlan Shah Cup Hockey Tournament Postponed",
+      "url": "https://sports.ndtv.com/hockey/coronavirus-azlan-shah-cup-hockey-tournament-postponed-2188516",
+      "snippet": "Mar 2, 2020 — The tournament was postponed from April to September in the wake of the deadly disease which is spreading across the world. The hockey ...Read more",
+      "bm25_score_raw": 0.848433267800599,
+      "bm25_score_norm": 0.0353284568511015,
+      "bm25_rank": 11
+    },
+    {
+      "title": "Kh Azlaan Shah - Player profile",
+      "url": "https://www.transfermarkt.com/kh-azlaan-shah/profil/spieler/1460330",
+      "snippet": "Date of birth/Age: 05/05/2009 (17) Place of birth: ---, Manipur India Citizenship: India Position: Attack Current club: Minerva Academy FC II Joined:",
+      "bm25_score_raw": 0.46907714239500176,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12
+    }
+  ]
+}

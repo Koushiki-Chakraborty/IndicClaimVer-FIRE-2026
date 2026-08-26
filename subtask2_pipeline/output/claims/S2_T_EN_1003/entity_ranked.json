@@ -1,0 +1,99 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1003",
+    "text": "India TV expose: Why is Congress silent on AK-47 purchase by its Lucknow candidate, asks BJP",
+    "lang": "english"
+  },
+  "entity_ranked_evidence": [
+    {
+      "title": "Congress Silent Latest News, Photos and Videos - India TV News",
+      "url": "https://www.indiatvnews.com/topic/congress-silent",
+      "snippet": "# Congress Silent. * india tv expose why is congress silent on ak 47 purchase by. ### India TV expose: Why is Congress silent on AK-47 purchase by its Varanasi candidate , asks BJP. New Delhi:  Responding to the expose of India TV in which it was revealed that the Congress candidate Ajay Rai had purchased a few AK-47 rifles, the BJP general secretary Amit Shah today asked Congress. * congress silent on poll alliances in jaipur declaration. National | Jan 21, 2013, 06:56 PM IST. Jaipur, Jan 21: The issue of alliances in the 2014 general elections did not find mention in the Jaipur Declaration, adopted by the Congress Sunday, though the issue was discussed by a sub-group on emerging.",
+      "bm25_score_raw": 16.24378782139244,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.911394476890564,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1,
+      "entity_overlap_raw": 3,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 1
+    },
+    {
+      "title": "India's Agenda: BJP Leader Brandishes AK-47 In J&K",
+      "url": "https://www.youtube.com/watch?v=ZchPz1dXqKs",
+      "snippet": "India's Agenda: BJP Leader Brandishes AK-47 In J&K\nIndia Today\n11300000 subscribers\n4 likes\n511 views\n13 Dec 2017\nA photograph of a BJP's J&K vice-president Ashish Sareen displaying an AK-47 surfaced yesterday. The occurrence revealed whereby some political leaders are in totally disregarding any rule or law. \n\n___\nAbout Channel:\n\nIndia Today TV is India's leading English News Channel.\n\nIndia Today YouTube channel offers latest news videos on Politics, Business, Cricket, Bollywood, Lifestyle, Auto, Technology, Travel, Entertainment and a lot more.\n\nStay tuned for latest updates and in-depth analysis of News from India and around the World!\n\n___\nSubscribe To India Today : https://www.youtube.com/channel/UCYPvAwZP8pZhSMW8qs7cVCw\n\n_\n\nFollow us:\n\nOfficial Website: http://indiatoday.intoday.in/\nTwitter: https://twitter.com/IndiaToday\nFacebook: https://www.facebook.com/IndiaToday\n3 comments\n",
+      "bm25_score_raw": 4.136533569303884,
+      "bm25_score_norm": 0.25465326282187883,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8605999946594238,
+      "embedding_score_norm": 0.46081021144561124,
+      "embedding_rank": 2,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.3333333333333333,
+      "entity_rank": 2
+    },
+    {
+      "title": "J-K: BJP leader Ashish Sareen poses with AK-47, Facebook picture makes party disown him",
+      "url": "https://indianexpress.com/article/india/j-k-bjp-leader-ashish-sareen-poses-with-ak-47-party-says-not-an-active-member-4981229/lite",
+      "snippet": "3.   J-K: BJP leader Ashish Sareen poses with AK-47, Facebook picture makes party disown him. # Opinion J-K: BJP leader Ashish Sareen poses with AK-47, Facebook picture makes party disown him. ## Sources said that the photograph showing him brandishing an AK rifle was recent one when he visited Kashmir Valley at Lal Chowk to unfurl tricolour and was provided to a PSO for protection. Image 10Image 11: Ashish had also unfurled the National flag at Lal Chowk “Don is Don” was the caption of the picture posted on Facebook. The photograph of a BJP former youth wing leader Ashish Sareen holding an AK-47, with a caption “Don is Don”, appeared on Facebook Wednesday, forcing the party to distance itself from him. After the photograph on Facebook started circulating and the BJP distanced itself from Sareen saying he was not an “active” member of the party any more, the leader took his photograph off the social networking site.",
+      "bm25_score_raw": 1.0049055063945567,
+      "bm25_score_norm": 0.06186398871026467,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8551265001296997,
+      "embedding_score_norm": 0.4027083817093441,
+      "embedding_rank": 3,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.3333333333333333,
+      "entity_rank": 3
+    },
+    {
+      "title": "Using AK 47 to Kill a Tiny Bird! My Message to PM Modi | Madhu Kishwar",
+      "url": "https://www.youtube.com/watch?v=36tuzeaq-UE",
+      "snippet": "In this video, I am raising direct and critical questions to Prime Minister Narendra Modi regarding the weaponization of state machinery. a BJP",
+      "bm25_score_raw": 2.477145037661375,
+      "bm25_score_norm": 0.15249799276490614,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8357423543930054,
+      "embedding_score_norm": 0.1969432477423298,
+      "embedding_rank": 4,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.3333333333333333,
+      "entity_rank": 4
+    },
+    {
+      "title": "PM Modi Says Some Opposition Leaders Fire Off Lies Like AK-47",
+      "url": "https://www.ndtv.com/india-news/pm-modi-says-some-opposition-leaders-fire-off-lies-like-ak-47-1942443",
+      "snippet": "# \"Some Opposition Leaders Fire Off Lies Like AK-47\": PM Modi. ## PM Modi's comments targeting the alliance of opposition parties came after a BJP worker sought his response during a video interaction on the coming together of \"anti-national\" forces. Prime Minister Narendra Modi said on Saturday that while the opposition parties were joining hands to protect their ruling dynasties, the BJP worked to change the country's destiny. He dubbed some opposition leaders as \"lying machines who fire off lies like AK-47\". PM Modi asked the BJP workers not to be concerned with the \"alliance\" of opposition parties, saying people do not accept them and even \"hate\" them for their negative works, refusal to recognise the country's good works and \"abuses and insults\" for the Army. PM Modi's comments targeting the alliance of opposition parties came after a BJP worker sought his response during a video interaction on the coming together of \"anti-national\" forces like the communists and Congress whenever he takes a step to \"protect\" Indian values.",
+      "bm25_score_raw": 1.8604840151323307,
+      "bm25_score_norm": 0.11453510939622993,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8247408866882324,
+      "embedding_score_norm": 0.08016129062873102,
+      "embedding_rank": 5,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.3333333333333333,
+      "entity_rank": 5
+    },
+    {
+      "title": "जहांगीर खान बना रहा था AK-47, मकसद हिन्दुओं का नरसंहार, DGP विक्रम सिंह ...",
+      "url": "https://www.youtube.com/watch?v=7m2D6d-LliE",
+      "snippet": "Jahangir Khan का AK-47 Factory EXPOSED! Ex Dgp Vikram Singh का खुलासा | CWSJ-3277 | DGP Vikram Singh Bengal Police in Panic!",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8171892762184143,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 6
+    }
+  ]
+}

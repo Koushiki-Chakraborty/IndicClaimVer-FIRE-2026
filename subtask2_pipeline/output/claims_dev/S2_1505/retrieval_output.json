@@ -1,0 +1,108 @@
+{
+  "claim": {
+    "id": "S2/1505",
+    "text": "Delhi polls: AAP candidates cleared of wrongdoing in sting CD",
+    "lang": "dev"
+  },
+  "generated_queries": {
+    "english_translation": "Delhi polls: AAP candidates cleared of wrongdoing in sting CD",
+    "native_query": "Delhi AAP polls candidates cleared wrongdoing sting",
+    "english_query": "Delhi AAP polls candidates cleared wrongdoing sting"
+  },
+  "native_retrieval": [
+    {
+      "title": "Arvind Kejriwal's Aam Aadmi Party rejects sting, complains to Election ...",
+      "url": "https://www.ndtv.com/delhi-news/arvind-kejriwals-aam-aadmi-party-rejects-sting-complains-to-election-commission-542048",
+      "snippet": "... candidate found guilty of wrongdoing from the December 4 Delhi election. The party said it would file a defamation suit against the website"
+    },
+    {
+      "title": "AAP leader offers to opt out of poll after sting operation",
+      "url": "https://www.thehindu.com/news/cities/Delhi/aap-leader-offers-to-opt-out-of-poll-after-sting-operation/article5379068.ece/amp",
+      "snippet": "Aam Aadmi Party leader Shazia Ilmi on Friday offered to withdraw her candidature from the Delhi assembly elections after a media portal"
+    },
+    {
+      "title": "'Cash For Ticket' Sting: AAP Workers Rise Up Against Party Leadership",
+      "url": "https://swarajyamag.com/amp/story/commentary%2Fcash-for-ticket-sting-aap-workers-rise-up-against-party-leadership",
+      "snippet": "In an India Today feature on the Municipal Corporation of Delhi (MCD) polls, the reporter speaks to candidates put up by BJP and AAP in"
+    },
+    {
+      "title": "AAP leaders raising funds through illegal means,shows sting; Kejriwal ...",
+      "url": "https://indianexpress.com/article/political-pulse/aap-leaders-raising-funds-through-illegal-means-shows-sting-kejriwal-cries-foul/lite",
+      "snippet": "The sting showed Shazia Ilmi and Kumar Vishwas allegedly involved in raising money illegally."
+    },
+    {
+      "title": "'Public Lost Their Faith In Aam Aadmi Party', Says, Savio Rodrigues ...",
+      "url": "https://www.youtube.com/watch?v=6GB2sEGEB8g",
+      "snippet": "'Public Lost Their Faith In Aam Aadmi Party', Says, Savio Rodrigues | Delhi Election Results Debate With Arnab LIVE: How Arvind Kejriwal's"
+    },
+    {
+      "title": "INDIA Bloc Rift Widens: AAP and Congress Trade Accusations After ...",
+      "url": "https://www.youtube.com/watch?v=hO719Y-Zerw",
+      "snippet": "The INDIA bloc alliance faces internal strife following Delhi election results. AAP and Congress trade accusations over vote-splitting."
+    }
+  ],
+  "english_retrieval": [
+    {
+      "title": "Arvind Kejriwal's Aam Aadmi Party rejects sting, complains to Election ...",
+      "url": "https://www.ndtv.com/delhi-news/arvind-kejriwals-aam-aadmi-party-rejects-sting-complains-to-election-commission-542048",
+      "snippet": "... candidate found guilty of wrongdoing from the December 4 Delhi election. The party said it would file a defamation suit against the website"
+    },
+    {
+      "title": "AAP leader offers to opt out of poll after sting operation",
+      "url": "https://www.thehindu.com/news/cities/Delhi/aap-leader-offers-to-opt-out-of-poll-after-sting-operation/article5379068.ece/amp",
+      "snippet": "Aam Aadmi Party leader Shazia Ilmi on Friday offered to withdraw her candidature from the Delhi assembly elections after a media portal"
+    },
+    {
+      "title": "'Cash For Ticket' Sting: AAP Workers Rise Up Against Party Leadership",
+      "url": "https://swarajyamag.com/amp/story/commentary%2Fcash-for-ticket-sting-aap-workers-rise-up-against-party-leadership",
+      "snippet": "In an India Today feature on the Municipal Corporation of Delhi (MCD) polls, the reporter speaks to candidates put up by BJP and AAP in"
+    },
+    {
+      "title": "AAP leaders raising funds through illegal means,shows sting; Kejriwal ...",
+      "url": "https://indianexpress.com/article/political-pulse/aap-leaders-raising-funds-through-illegal-means-shows-sting-kejriwal-cries-foul/lite",
+      "snippet": "The sting showed Shazia Ilmi and Kumar Vishwas allegedly involved in raising money illegally."
+    },
+    {
+      "title": "'Public Lost Their Faith In Aam Aadmi Party', Says, Savio Rodrigues ...",
+      "url": "https://www.youtube.com/watch?v=6GB2sEGEB8g",
+      "snippet": "'Public Lost Their Faith In Aam Aadmi Party', Says, Savio Rodrigues | Delhi Election Results Debate With Arnab LIVE: How Arvind Kejriwal's"
+    },
+    {
+      "title": "INDIA Bloc Rift Widens: AAP and Congress Trade Accusations After ...",
+      "url": "https://www.youtube.com/watch?v=hO719Y-Zerw",
+      "snippet": "The INDIA bloc alliance faces internal strife following Delhi election results. AAP and Congress trade accusations over vote-splitting."
+    }
+  ],
+  "merged_results": [
+    {
+      "title": "Arvind Kejriwal's Aam Aadmi Party rejects sting, complains to Election ...",
+      "url": "https://www.ndtv.com/delhi-news/arvind-kejriwals-aam-aadmi-party-rejects-sting-complains-to-election-commission-542048",
+      "snippet": "... candidate found guilty of wrongdoing from the December 4 Delhi election. The party said it would file a defamation suit against the website"
+    },
+    {
+      "title": "AAP leader offers to opt out of poll after sting operation",
+      "url": "https://www.thehindu.com/news/cities/Delhi/aap-leader-offers-to-opt-out-of-poll-after-sting-operation/article5379068.ece/amp",
+      "snippet": "Aam Aadmi Party leader Shazia Ilmi on Friday offered to withdraw her candidature from the Delhi assembly elections after a media portal"
+    },
+    {
+      "title": "'Cash For Ticket' Sting: AAP Workers Rise Up Against Party Leadership",
+      "url": "https://swarajyamag.com/amp/story/commentary%2Fcash-for-ticket-sting-aap-workers-rise-up-against-party-leadership",
+      "snippet": "In an India Today feature on the Municipal Corporation of Delhi (MCD) polls, the reporter speaks to candidates put up by BJP and AAP in"
+    },
+    {
+      "title": "AAP leaders raising funds through illegal means,shows sting; Kejriwal ...",
+      "url": "https://indianexpress.com/article/political-pulse/aap-leaders-raising-funds-through-illegal-means-shows-sting-kejriwal-cries-foul/lite",
+      "snippet": "The sting showed Shazia Ilmi and Kumar Vishwas allegedly involved in raising money illegally."
+    },
+    {
+      "title": "'Public Lost Their Faith In Aam Aadmi Party', Says, Savio Rodrigues ...",
+      "url": "https://www.youtube.com/watch?v=6GB2sEGEB8g",
+      "snippet": "'Public Lost Their Faith In Aam Aadmi Party', Says, Savio Rodrigues | Delhi Election Results Debate With Arnab LIVE: How Arvind Kejriwal's"
+    },
+    {
+      "title": "INDIA Bloc Rift Widens: AAP and Congress Trade Accusations After ...",
+      "url": "https://www.youtube.com/watch?v=hO719Y-Zerw",
+      "snippet": "The INDIA bloc alliance faces internal strife following Delhi election results. AAP and Congress trade accusations over vote-splitting."
+    }
+  ]
+}

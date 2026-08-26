@@ -1,0 +1,6 @@
+{
+  "ID": "S2/1487",
+  "Evidence": "The Jammu and Kashmir government lifted the weekend COVID curfew in all districts as COVID positive cases showed a declining trend. However, a night curfew will continue in all districts. The decision was made after a review meeting, and it was noted that while there has been significant improvement, some COVID containment measures must remain due to uneven trends in daily cases. The government reported 166 new positive cases on the day of the announcement, indicating ongoing COVID activity. Source 1 confirms the lifting of the weekend curfew and the continuation of the night curfew.",
+  "Prediction": "REFUTES",
+  "Justification": "The retrieved evidence directly contradicts the claim that the Jammu and Kashmir government lifted the weekend curfew despite rising COVID cases. Source 1 states that the weekend curfew was lifted due to a declining trend in COVID cases, not rising cases. Additionally, the evidence mentions ongoing COVID activity with new cases reported, but this does not support the claim of lifting the curfew despite rising cases."
+}

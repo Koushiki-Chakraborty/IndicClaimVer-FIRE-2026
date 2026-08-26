@@ -1,0 +1,8 @@
+=== KG-boosted retrieval -- per-language Success@3 / nDCG@3 (data/ train+dev) ===
+Language      Success@3   nDCG@3      n     
+--------------------------------------------
+Hindi         0.8827      0.5682      1432  
+Bengali       0.7556      0.5465      978   
+English       0.8887      0.6349      1967  
+Code-mixed    0.7804      0.5122      1293  
+Overall       0.8395      0.5748      5670  

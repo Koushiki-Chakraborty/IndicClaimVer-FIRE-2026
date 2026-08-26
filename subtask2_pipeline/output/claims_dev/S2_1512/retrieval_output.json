@@ -1,0 +1,98 @@
+{
+  "claim": {
+    "id": "S2/1512",
+    "text": "চিকিৎসকদের আন্দোলন ও দাবি অযৌক্তিক, 'চাপে' ভিডিয়ো বার্তা মহুয়ার !",
+    "lang": "dev"
+  },
+  "generated_queries": {
+    "english_translation": "The doctors' movement and demands are unreasonable, 'under pressure' video message!",
+    "native_query": "মহুয়ার ৎসকদ আন লন অয",
+    "english_query": "doctors movement demands unreasonable pressure video message"
+  },
+  "native_retrieval": [
+    {
+      "title": "Mahua - Ek Nari Shaktir Kahini (মহুয়া - এক নারী শক্তির কাহিনী ...",
+      "url": "https://www.youtube.com/watch?v=n0eQBELYIrw",
+      "snippet": "Mahua - Ek Nari Shaktir Kahini (মহুয়া - এক নারী শক্তির কাহিনী) l Full Episode 795 | Enterr10 Bangla সংক্ষিপ্তসার : গ্রামের একটি প্রথা অনুসারে, দরিদ্র পরিবারগুলোর মেয়েদের ছোট"
+    },
+    {
+      "title": "Mahua - Ek Nari Shaktir Kahini | মহুয়া - এক নারী শক্তির কাহিনী ...",
+      "url": "https://www.youtube.com/watch?v=FJs6vef5PGE",
+      "snippet": "Mahua - Ek Nari Shaktir Kahini | মহুয়া , Mythology Serial & Movies to its viewers. Full Episode 164 | Enterr10 Bangla Enterr10 Bangla•1M views 2:"
+    }
+  ],
+  "english_retrieval": [
+    {
+      "title": "Doctors are protesting but their demands are unclear!! ...",
+      "url": "https://www.facebook.com/Kadzathecomedian/posts/doctors-are-protesting-but-their-demands-are-unclear-nobody-knows-what-they-want/1490363769369524",
+      "snippet": "In this video we will try and understand what makes doctors go on strike? What are their demands?"
+    },
+    {
+      "title": "Doctors rally at HCMC demanding ICE out of hospitals [FULL]",
+      "url": "https://www.fox9.com/video/fmc-nfi5613g72i5u1kh",
+      "snippet": "Doctors, healthcare workers, and other union members rallied at Hennepin County Medical Center to demand that ICE be out of Minnesota hospitals,"
+    },
+    {
+      "title": "“Healthcare, not warfare!” Hundreds of US doctors staged a ...",
+      "url": "https://www.facebook.com/trtworld/videos/us-doctors-protest-outside-congressmp4/1478429573687558",
+      "snippet": "Hundreds of US doctors staged a protest on Capitol Hill in Washington, DC, demanding that Congress stop funding Israel's genocide in Gaza and"
+    },
+    {
+      "title": "LIVE | Doctors rally at HCMC demanding ICE out of hospitals",
+      "url": "https://www.youtube.com/watch?v=T2mAjzxRsg0",
+      "snippet": "Resident physicians, medical personnel, and union members are rallying at Hennepin County Medical Center to demand ICE out of Minnesota"
+    },
+    {
+      "title": "“Healthcare, not warfare!“: US doctors protest outside Congress",
+      "url": "https://www.youtube.com/shorts/oErK9o_Hpy4",
+      "snippet": "Hundreds of US doctors staged a protest on Capitol Hill in Washington, DC, demanding that Congress stop funding Israel's genocide in Gaza and"
+    },
+    {
+      "title": "TRT World on Instagram: \"“Healthcare, not warfare!” Hundreds ...",
+      "url": "https://www.instagram.com/reel/DXLOgFsDKrF?hl=en",
+      "snippet": "Hundreds of US doctors staged a protest on Capitol Hill in Washington, DC, demanding that Congress stop funding Israel's genocide in Gaza and"
+    }
+  ],
+  "merged_results": [
+    {
+      "title": "Mahua - Ek Nari Shaktir Kahini (মহুয়া - এক নারী শক্তির কাহিনী ...",
+      "url": "https://www.youtube.com/watch?v=n0eQBELYIrw",
+      "snippet": "Mahua - Ek Nari Shaktir Kahini (মহুয়া - এক নারী শক্তির কাহিনী) l Full Episode 795 | Enterr10 Bangla সংক্ষিপ্তসার : গ্রামের একটি প্রথা অনুসারে, দরিদ্র পরিবারগুলোর মেয়েদের ছোট"
+    },
+    {
+      "title": "Mahua - Ek Nari Shaktir Kahini | মহুয়া - এক নারী শক্তির কাহিনী ...",
+      "url": "https://www.youtube.com/watch?v=FJs6vef5PGE",
+      "snippet": "Mahua - Ek Nari Shaktir Kahini | মহুয়া , Mythology Serial & Movies to its viewers. Full Episode 164 | Enterr10 Bangla Enterr10 Bangla•1M views 2:"
+    },
+    {
+      "title": "Doctors are protesting but their demands are unclear!! ...",
+      "url": "https://www.facebook.com/Kadzathecomedian/posts/doctors-are-protesting-but-their-demands-are-unclear-nobody-knows-what-they-want/1490363769369524",
+      "snippet": "In this video we will try and understand what makes doctors go on strike? What are their demands?"
+    },
+    {
+      "title": "Doctors rally at HCMC demanding ICE out of hospitals [FULL]",
+      "url": "https://www.fox9.com/video/fmc-nfi5613g72i5u1kh",
+      "snippet": "Doctors, healthcare workers, and other union members rallied at Hennepin County Medical Center to demand that ICE be out of Minnesota hospitals,"
+    },
+    {
+      "title": "“Healthcare, not warfare!” Hundreds of US doctors staged a ...",
+      "url": "https://www.facebook.com/trtworld/videos/us-doctors-protest-outside-congressmp4/1478429573687558",
+      "snippet": "Hundreds of US doctors staged a protest on Capitol Hill in Washington, DC, demanding that Congress stop funding Israel's genocide in Gaza and"
+    },
+    {
+      "title": "LIVE | Doctors rally at HCMC demanding ICE out of hospitals",
+      "url": "https://www.youtube.com/watch?v=T2mAjzxRsg0",
+      "snippet": "Resident physicians, medical personnel, and union members are rallying at Hennepin County Medical Center to demand ICE out of Minnesota"
+    },
+    {
+      "title": "“Healthcare, not warfare!“: US doctors protest outside Congress",
+      "url": "https://www.youtube.com/shorts/oErK9o_Hpy4",
+      "snippet": "Hundreds of US doctors staged a protest on Capitol Hill in Washington, DC, demanding that Congress stop funding Israel's genocide in Gaza and"
+    },
+    {
+      "title": "TRT World on Instagram: \"“Healthcare, not warfare!” Hundreds ...",
+      "url": "https://www.instagram.com/reel/DXLOgFsDKrF?hl=en",
+      "snippet": "Hundreds of US doctors staged a protest on Capitol Hill in Washington, DC, demanding that Congress stop funding Israel's genocide in Gaza and"
+    }
+  ]
+}

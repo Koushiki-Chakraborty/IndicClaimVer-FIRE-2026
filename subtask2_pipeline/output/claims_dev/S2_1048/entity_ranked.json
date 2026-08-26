@@ -1,0 +1,99 @@
+{
+  "claim": {
+    "id": "S2/1048",
+    "text": "LIVE: Anna Hazare to break his fast once parliament passes Lokpal Bill",
+    "lang": "dev"
+  },
+  "entity_ranked_evidence": [
+    {
+      "title": "Anna Hazare breaks his fast after Parliament passes ...",
+      "url": "https://m.facebook.com/cnnnews18/photos/a.10150159865694202/10152464376134202?type=3",
+      "snippet": "Anna Hazare breaks his fast after Parliament passes Lokpal Bill. Public know IAC movement, youth and aam aadmi protests on road, shows that",
+      "bm25_score_raw": 4.611504559291434,
+      "bm25_score_norm": 0.6806660484153795,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.927086353302002,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 1
+    },
+    {
+      "title": "Lokpal Bill passed by Parliament; Anna Hazare breaks fast ...",
+      "url": "https://timesofindia.indiatimes.com/india/lokpal-bill-passed-by-parliament-anna-hazare-breaks-fast-cold-shoulders-aap/articleshow/27589124.cms",
+      "snippet": "Anna Hazare on Wednesday broke his nine-day fast shortly after Lok Sabha passed the Lokpal Bill, and announced he would form watchdog bodies.",
+      "bm25_score_raw": 2.920465697918725,
+      "bm25_score_norm": 0.22540632081172035,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.9208318591117859,
+      "embedding_score_norm": 0.882348522306948,
+      "embedding_rank": 2,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 2
+    },
+    {
+      "title": "Lok Sabha passes Lokpal Bill, Anna Hazare ends 9-day fast",
+      "url": "https://www.indiatoday.in/india/north/story/lok-sabha-passes-lokpal-bill-anna-hazare-ends-fast-221182-2013-12-17",
+      "snippet": "Anti-corruption crusader Anna Hazare broke his nine-day fast shortly after Lok Sabha passed the Lokpal Bill. Live TV.",
+      "bm25_score_raw": 5.797654111169705,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9102044105529785,
+      "embedding_score_norm": 0.6824386672452089,
+      "embedding_rank": 3,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 3
+    },
+    {
+      "title": "India passes 'lokpal' anti-corruption bill",
+      "url": "https://www.theguardian.com/world/2013/dec/18/india-parliament-anit-corruption-bill",
+      "snippet": "Bill spurred by Anna Hazare empowers watchdog to look into and prosecute corruption cases involving politicians and bureaucrats.",
+      "bm25_score_raw": 2.201387470164315,
+      "bm25_score_norm": 0.03181682646535579,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8739251494407654,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 4
+    },
+    {
+      "title": "Lokpal Bill passed in Lok Sabha, Anna ends fast",
+      "url": "https://www.youtube.com/watch?v=sTZPhx04-8Q",
+      "snippet": "The historic Lokpal Bill today took a giant step towards enactment after a 46-year wait, with the Lok Sabha passing it a day after the",
+      "bm25_score_raw": 2.0832055033963064,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8765143752098083,
+      "embedding_score_norm": 0.04870517559763067,
+      "embedding_rank": 4,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 5
+    },
+    {
+      "title": "Lokpal bill: Indian lower house passes anti-corruption bill",
+      "url": "https://www.bbc.com/news/world-asia-india-25426284",
+      "snippet": "The bill was first introduced in parliament in 2011 after a 12-day fast by Mr Hazare. The lower house passed it but the upper house did not.",
+      "bm25_score_raw": 2.977451811372204,
+      "bm25_score_norm": 0.2407480631457565,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8754377365112305,
+      "embedding_score_norm": 0.02845283704284239,
+      "embedding_rank": 5,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 6
+    }
+  ]
+}

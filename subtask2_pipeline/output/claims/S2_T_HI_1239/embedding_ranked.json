@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/HI/1239",
+    "text": "PM मोदी ने इस काम के लिए की नीतीश कुमार की तारीफ, बिहार के CM बोले ‘धन्यवाद’",
+    "lang": "hindi"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "BIG PRAISE! PM Modi Hails Nitish Kumar After Rajya Sabha ...",
+      "url": "https://www.youtube.com/watch?v=D4uWCsNxkhk",
+      "snippet": "Praising him as an experienced leader, Modi highlighted Kumar's commitment to good governance and his contribution to Bihar, expressing delight",
+      "bm25_score_raw": 2.6765493403436285,
+      "bm25_score_norm": 0.19401535452128676,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.9134058952331543,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Bihar Assembly: Nitish Kumar Praises PM Modi, Urges MLAs",
+      "url": "https://www.deccanherald.com/india/bihar/nitish-kumar-hails-pm-modi-in-bihar-assembly-prompts-mlas-to-echo-praise-3819749",
+      "snippet": "Nitish Kumar hails PM Modi in Bihar assembly, prompts MLAs to echo praise “The state is now tipped to progress a lot. Economy will be",
+      "bm25_score_raw": 3.8240802015258932,
+      "bm25_score_norm": 0.48141970952852564,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.9103717803955078,
+      "embedding_score_norm": 0.9661678196839963,
+      "embedding_rank": 2
+    },
+    {
+      "title": "PM Modi Bihar Visit | Nitish Kumar's Gaffe At PM Modi's Bihar ...",
+      "url": "https://www.youtube.com/watch?v=RsyQBGKXZM4",
+      "snippet": "Bihar Chief Minister Nitish Kumar addressed a large crowd at a rally, praising the Prime Minister for giving a green light for a caste census",
+      "bm25_score_raw": 3.610257350585087,
+      "bm25_score_norm": 0.42786679810866396,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.9039318561553955,
+      "embedding_score_norm": 0.8943588441602204,
+      "embedding_rank": 3
+    },
+    {
+      "title": "PM Modi writes to Nitish Kumar on Bihar Diwas",
+      "url": "https://morungexpress.com/pm-modi-writes-to-nitish-kumar-on-bihar-diwas-cm-responds-with-heartfelt-gratitude",
+      "snippet": "The Prime Minister praised the people of Bihar for their contributions across sectors, saying, “Biharis have created a distinct identity across India and",
+      "bm25_score_raw": 4.73962889923264,
+      "bm25_score_norm": 0.7107230701989549,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.9021679759025574,
+      "embedding_score_norm": 0.8746905329844484,
+      "embedding_rank": 4
+    },
+    {
+      "title": "On Bihar Diwas, PM Modi praises Nitish for state's ...",
+      "url": "https://indianexpress.com/article/india/on-bihar-diwas-pm-modi-praises-nitish-for-states-development-10595751",
+      "snippet": "In a three-page letter to Nitish, PM Modi said: “Under your leadership, Bihar has witnessed a profound transformation. Your personal commitment",
+      "bm25_score_raw": 3.052484448445234,
+      "bm25_score_norm": 0.2881700225336161,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.8996771574020386,
+      "embedding_score_norm": 0.846916429117847,
+      "embedding_rank": 5
+    },
+    {
+      "title": "PM lauds Nitish's governance record, praises people of Bihar",
+      "url": "https://timesofindia.indiatimes.com/city/patna/pm-lauds-nitishs-governance-record-praises-people-of-bihar/articleshow/129737085.cms",
+      "snippet": "In the letter, Modi praised Nitish, whose JD(U) is an ally of the BJP-led govt at the Centre, and credited him with bringing major change to the",
+      "bm25_score_raw": 2.934531503643944,
+      "bm25_score_norm": 0.2586281677839383,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.8983556628227234,
+      "embedding_score_norm": 0.8321809806307711,
+      "embedding_rank": 6
+    },
+    {
+      "title": "5 लाख नौजवानों को तोहफा! Nitish Kumar",
+      "url": "https://www.youtube.com/watch?v=PPUo6u-RTGc",
+      "snippet": "पीएम मोदी ने प्रधानमंत्री बिहार युवा आयोग का भी उद्घाटन किया, जो 18 से 45 वर्ष की आयु के युवाओं की समस्याओं को समझकर उन्हें सही दिशा में मार्गदर्शन देगा। इन योजनाओं के माध्यम से बिहार के बेरोजगार युवा ...Read more",
+      "bm25_score_raw": 2.253127818323536,
+      "bm25_score_norm": 0.08796749685670824,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.8652216792106628,
+      "embedding_score_norm": 0.4627174078477844,
+      "embedding_rank": 7
+    },
+    {
+      "title": "Bihar में महिलाओं को PM Modi और CM Nitish Kumar की बहुत ...",
+      "url": "https://www.youtube.com/watch?v=2JiomAM7nyc",
+      "snippet": "Bihar में महिलाओं को PM Modi और CM Nitish Kumar की बहुत बड़ी सौगात, आज खटाखट आएंगे 10 10 हजार रुपए | Bihar Chunav | Bihar Election 2025 | Mukhyamantri Mahila",
+      "bm25_score_raw": 5.894636464676086,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8638861775398254,
+      "embedding_score_norm": 0.4478257719810475,
+      "embedding_rank": 8
+    },
+    {
+      "title": "देखें वीडियो, बिहार की जीविका दीदियों को PM ने दी 105 करोड़ की ...",
+      "url": "https://www.facebook.com/livecitiesnewsbihar/videos/bihar-%E0%A4%95%E0%A5%80-%E0%A4%9C%E0%A5%80%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A4%BE-%E0%A4%A6%E0%A5%80%E0%A4%A6%E0%A4%BF%E0%A4%AF%E0%A5%8B%E0%A4%82-%E0%A4%95%E0%A5%8B-pm-modi-%E0%A4%A8%E0%A5%87-%E0%A4%A6%E0%A5%80-105-%E0%A4%95%E0%A4%B0%E0%A5%8B%E0%A4%A1%E0%A4%BC-%E0%A4%95%E0%A5%80-%E0%A4%B8%E0%A5%8C%E0%A4%97%E0%A4%BE%E0%A4%A4-%E0%A4%AB%E0%A4%BF%E0%A4%B0-nitish-kumar-%E0%A4%90%E0%A4%B8%E0%A4%BE/1021484396618449",
+      "snippet": "देखें वीडियो, बिहार की जीविका दीदियों को PM ने दी 105 करोड़ की सौगात, फिर नीतीश कुमार ऐसा बोले #PMModi #NitishKumar #BiharNews #BiharGovernment #LiveCities.",
+      "bm25_score_raw": 3.635016426781958,
+      "bm25_score_norm": 0.43406782203372474,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8416348099708557,
+      "embedding_score_norm": 0.19970982378740437,
+      "embedding_rank": 9
+    },
+    {
+      "title": "PM Modi ने युवाओं को दी 62 हजार करोड़ रुपए की योजनाओं की ...",
+      "url": "https://www.youtube.com/watch?v=FTwTes7GME0",
+      "snippet": "PM Modi ने युवाओं को दी 62 हजार करोड़ रुपए की योजनाओं की सौगात | Bihar News | Nitish Kumar | News18 प्रधानमंत्री मोदी ने बिहार के युवाओं को बड़ी सौगात दी है।",
+      "bm25_score_raw": 3.767574457194756,
+      "bm25_score_norm": 0.46726758730415,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.839923083782196,
+      "embedding_score_norm": 0.18062306136568915,
+      "embedding_rank": 10
+    },
+    {
+      "title": "पीएम मोदी के सामने 'इधर-उधर' पर क्या बोले सीएम नीतीश, क्यों ...",
+      "url": "https://hindi.news18.com/news/bihar/bhagalpur-pm-narendra-modi-cm-nitish-kumar-presence-shows-nda-unity-bihar-politics-9055955.html",
+      "snippet": "Feb 24, 2025 — बिहार के भागलपुर से किसान सम्मान निधि की 19वीं किस्त जारी करने के दौरान पीएम मोदी के साथ सीएम नीतीश की उपस्थिति ने सारी सियासी कयासबाजियों को खारिज कर दिया और एनडीए की एकजुटता का संदेश दे दिया. इसके बाद सीएम ...Read more",
+      "bm25_score_raw": 1.901896475912305,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.8384304046630859,
+      "embedding_score_norm": 0.16397880371101214,
+      "embedding_rank": 11
+    },
+    {
+      "title": "PM Modi के बाद अब CM नीतीश की बारी, जून तक 25 हजार किसानों ...",
+      "url": "https://www.jagran.com/bihar/patna-city-after-pm-modi-now-cm-nitish-kumar-turn-25-thousand-farmers-get-another-good-news-by-june-23890288.html",
+      "snippet": "Feb 24, 2025 — पीएम मोदी के बाद अब बिहार के मुख्यमंत्री नीतीश कुमार की बारी है। सीएम नीतीश बिहार के 25 हजार किसानों को एक और बड़ी खुशखबरी देने वाले हैं। विभाग की तरफ से इस संबंध में नोटिफिकेशन भी जारी कर दिया गया है।",
+      "bm25_score_raw": 5.5012518860395385,
+      "bm25_score_norm": 0.9014750322476305,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8237245678901672,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

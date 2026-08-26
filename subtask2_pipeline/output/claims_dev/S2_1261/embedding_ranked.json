@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/1261",
+    "text": "अखिलेश यादव और मुलायम सिंह यादव ने LDA में अपने नक्शे दाखिल किए",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Akhilesh Yadav, Wife Dimple Yadav Apply For Hotel ...",
+      "url": "https://www.ndtv.com/india-news/akhilesh-yadav-wife-dimple-yadav-apply-for-hotel-construction-in-lucknow-1877961",
+      "snippet": "Akhilesh Yadav, Wife Dimple Yadav Apply For Hotel Construction In Lucknow Both have applied to the LDA for approval of map for their proposed",
+      "bm25_score_raw": 5.575737790635921,
+      "bm25_score_norm": 0.8509488980547991,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8846404552459717,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Akhilesh Yadav, Mulayam Singh Yadav Start Vacating Official ...",
+      "url": "https://www.youtube.com/watch?v=B4o0MDRdM5g",
+      "snippet": "Former Uttar Pradesh chief minister Akhilesh Yadav and his father Mulayam Singh Yadav have begun vacating their official bungalows in Lucknow",
+      "bm25_score_raw": 3.8694424067906645,
+      "bm25_score_norm": 0.5446264223213466,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.879481852054596,
+      "embedding_score_norm": 0.951237830163166,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Akhilesh Yadav, Dimple seek LDA nod to build hotel on ...",
+      "url": "https://indianexpress.com/article/cities/lucknow/akhilesh-dimple-seek-lda-nod-to-build-hotel-on-posh-vikramaditya-marg-5246114",
+      "snippet": "Akhilesh Yadav, Dimple seek LDA nod to build hotel on posh Vikramaditya Marg. Samajwadi Party founder Mulayam Singh Yadav submits plans for",
+      "bm25_score_raw": 6.405990962876038,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.874795138835907,
+      "embedding_score_norm": 0.9069362435770305,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Akhilesh Yadav Challenges Yogi to Reveal District-Wise ...",
+      "url": "https://www.instagram.com/p/DamthD2SiZN",
+      "snippet": "Akhilesh Yadav on Monday took a sharp swipe at Uttar Pradesh accusing him of being more interested in land matters than public welfare. Mulayam",
+      "bm25_score_raw": 3.1135390108787764,
+      "bm25_score_norm": 0.4089229551237509,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8640246391296387,
+      "embedding_score_norm": 0.805127107184711,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Akhilesh Yadav lays foundation of memorial in Mulayam's ...",
+      "url": "https://www.thehindu.com/news/national/other-states/akhilesh-lays-foundation-of-memorial-in-mulayams-memory-on-sp-founders-birth-anniversary/article67561991.ece",
+      "snippet": "Akhilesh Yadav laid foundation stone of grand memorial in Saifai, Etawah to honour Mulayam Singh Yadav on his 85th birth anniversary.",
+      "bm25_score_raw": 3.741299328684102,
+      "bm25_score_norm": 0.5216215514734587,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8602230548858643,
+      "embedding_score_norm": 0.7691922834219779,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Mulayam Singh Yadav - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mulayam_Singh_Yadav",
+      "snippet": "# Mulayam Singh Yadav. | 21st Minister of Defence \"Minister of Defence (India)\") |. | 15th Chief Minister of Uttar Pradesh |. **Mulayam Singh Yadav** (22 November 1939 – 10 October 2022) was an Indian politician, schoolmaster, lecturer and a socialist figure and the founder of the Samajwadi Party. Over the course of his political career spanning more than six decades, he served for three terms as the Chief Minister of Uttar Pradesh, and also as the Union Minister of Defence \"Minister of Defence (India)\") in the Government of India. A long-time parliamentarian, he was a seven-time Member of Parliament representing Mainpuri, Azamgarh, Sambhal and Kannauj constituencies in the Lok Sabha, a ten-time member of the Legislative Assembly \"Member of the Legislative Assembly (India)\"), member of the Legislative Council and the Leader of Opposition several times as well.",
+      "bm25_score_raw": 0.9428369368100344,
+      "bm25_score_norm": 0.019227923592926514,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.8427498936653137,
+      "embedding_score_norm": 0.6040256242675561,
+      "embedding_rank": 6
+    },
+    {
+      "title": "Akhilesh Yadav की सरकार रही हो या मुलायम सिंह यादव या फिर ...",
+      "url": "https://www.facebook.com/opindia.in/videos/akhilesh-yadav-%E0%A4%95%E0%A5%80-%E0%A4%B8%E0%A4%B0%E0%A4%95%E0%A4%BE%E0%A4%B0-%E0%A4%B0%E0%A4%B9%E0%A5%80-%E0%A4%B9%E0%A5%8B-%E0%A4%AF%E0%A4%BE-%E0%A4%AE%E0%A5%81%E0%A4%B2%E0%A4%BE%E0%A4%AF%E0%A4%AE-%E0%A4%B8%E0%A4%BF%E0%A4%82%E0%A4%B9-%E0%A4%AF%E0%A4%BE%E0%A4%A6%E0%A4%B5-%E0%A4%AF%E0%A4%BE-%E0%A4%AB%E0%A4%BF%E0%A4%B0-%E0%A4%AE%E0%A4%BE%E0%A4%AF%E0%A4%BE%E0%A4%B5%E0%A4%A4%E0%A5%80-%E0%A4%95%E0%A4%BE-%E0%A4%B0%E0%A4%BE%E0%A4%9C-uttar-p/1418367183370369",
+      "snippet": "Akhilesh Yadav की सरकार रही हो या मुलायम सिंह यादव या फिर मायावती का राज, Uttar Pradesh में Govt. Jobs पाना आसान नहीं रहा। UPPSC, PCS-J या फिर UDA, LDA",
+      "bm25_score_raw": 5.65634445327769,
+      "bm25_score_norm": 0.8654197995732651,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8323338031768799,
+      "embedding_score_norm": 0.5055665735148291,
+      "embedding_rank": 7
+    },
+    {
+      "title": "What Prateek Yadav said when Akhilesh Yadav replaced his ...",
+      "url": "https://www.youtube.com/watch?v=ATw7id19FpI&vl=hi",
+      "snippet": "Prateek Yadav on Mulayam singh Yadav and Akhilesh Yadav: मुलायम सिंह यादव के बेटे और अखिलेश यादव के भाई,,अपर्णा यादव के पति प्रतीक यादव पंचतत्व में विलीन हो गए.",
+      "bm25_score_raw": 5.573707549467564,
+      "bm25_score_norm": 0.850584419250651,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8276058435440063,
+      "embedding_score_norm": 0.46087510141530696,
+      "embedding_rank": 8
+    },
+    {
+      "title": "अखिलेश यादव - विकिपीडिया",
+      "url": "https://hi.wikipedia.org/wiki/%E0%A4%85%E0%A4%96%E0%A4%BF%E0%A4%B2%E0%A5%87%E0%A4%B6_%E0%A4%AF%E0%A4%BE%E0%A4%A6%E0%A4%B5",
+      "snippet": "विकिपीडिया. **अखिलेश यादव** (जन्म: 1 जुलाई 1973) एक भारतीय राजनीतिज्ञ हैं जो उत्तर प्रदेश के सबसे युवा मुख्यमंत्री रह चुके हैं। इससे पूर्व वे लगातार तीन बार सांसद भी रह चुके हैं। समाजवादी पार्टी के संस्थापक मुलायम सिंह यादव के पुत्र अखिलेश ने 2012 के उत्तर प्रदेश विधान सभा चुनाव में अपनी पार्टी का नेतृत्व किया। उनकी पार्टी को राज्य में स्पष्ट बहुमत मिलने के बाद, 15 मार्च 2012 को उन्होंने उत्तर प्रदेश के मुख्यमंत्री पद की शपथ ग्रहण की। 2022 विधान सभा चुनाव में करहल सीट से मोदी सरकार में कैबिनेट मंत्री प्रो.सत्यपाल सिंह बघेल को हराकर पहली बार विधायक बने और आजमगढ़ लोकसभा सदस्य से इस्तीफा दे दिया।. अखिलेश यादव 2024 के लोकसभा चुनाव में उत्तर प्रदेश की कन्नौज लोकसभा सीट से सांसद चुने गए हैं। उन्होंने बीजेपी के उम्मीदवार सुब्रत पाठक को लगभग 1.7 लाख वोटों के अंतर से हराया। इस सीट पर अखिलेश यादव का पुराना जुड़ाव है, और यह समाजवादी पार्टी का एक प्रमुख गढ़ माना जाता है।संक्षिप्त जीवनी.",
+      "bm25_score_raw": 1.5726408971820147,
+      "bm25_score_norm": 0.1322934046312169,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.823862612247467,
+      "embedding_score_norm": 0.4254918642387091,
+      "embedding_rank": 9
+    },
+    {
+      "title": "मुलायम सिंह यादव ने अखिलेश को दी नसीहत; कहा",
+      "url": "https://www.bhaskar.com/uttar-pradesh/lucknow/news/mulayam-singh-yadav-advice-to-akhilesh-yadav-said-too-many-responsibilities-on-his-should-01467423.html",
+      "snippet": "पार्टी मुख्यालय पहुंचे थे मुलायम सिंह यादव; कार्यकर्ताओं ने अखिलेश जिंदाबाद के लगाए नारे तो नाराज हुए मुलायम सिंह यादव. लखनऊ. समाजवादी पार्टी के संरक्षक मुलायम सिंह यादव ने नए साल पर पार्टी के वरिष्ठ नेताओं को आइना दिखाया है।",
+      "bm25_score_raw": 1.050098781171845,
+      "bm25_score_norm": 0.038484093437681735,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.8049432635307312,
+      "embedding_score_norm": 0.24665498512575498,
+      "embedding_rank": 10
+    },
+    {
+      "title": "अखिलेश यादव ने मुलायम सिंह यादव से क्या सीखा है? सुनिए ...",
+      "url": "https://www.instagram.com/reel/DYzNvxrMW9O",
+      "snippet": "22K likes, 223 comments - aajtakradio on May 26, 2026: \"अखिलेश यादव ने मुलायम सिंह यादव से क्या सीखा है? सुनिए 'रिपोर्टर्स ऑफ एयर' में आजतक रेडियो के यूट्यूब चैनल पर.",
+      "bm25_score_raw": 0.8357324313734558,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.7901761531829834,
+      "embedding_score_norm": 0.10706752005769404,
+      "embedding_rank": 11
+    },
+    {
+      "title": "मुलायम का अखिलेश पर वार, जो पिता का न हुआ, किसी और का क्या ...",
+      "url": "https://www.aajtak.in/india/uttar-pradesh/story/mulayam-singh-yadav-on-akhilesh-yadav-samajwadi-party-441736-2017-04-01",
+      "snippet": "मुलायम ने अपने गृहजिले मैनपुरी में पार्टी के एक कार्यक्रम में अखिलेश के बारे में कहा कि जो अपने पिता का नहीं हो सका, वो किसी का क्या होगा. मुलायम ने कहा कि उन्होंने चुनाव जीतने पर अखिलेश यादव को मुख्यमंत्री बनाया.",
+      "bm25_score_raw": 1.5288018636694267,
+      "bm25_score_norm": 0.12442320735677145,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.7788493633270264,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

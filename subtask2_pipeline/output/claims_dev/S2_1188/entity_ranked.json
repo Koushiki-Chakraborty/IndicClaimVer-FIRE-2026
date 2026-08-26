@@ -1,0 +1,99 @@
+{
+  "claim": {
+    "id": "S2/1188",
+    "text": "Most people who have symptoms and are close to Covid-19 patients will test positive for the virus.",
+    "lang": "dev"
+  },
+  "entity_ranked_evidence": [
+    {
+      "title": "COVID-19 Positive | UCLA Health",
+      "url": "https://www.uclahealth.org/treatment-options/covid-19-info/covid-19-positive",
+      "snippet": "# COVID-19 Positive. If your test results for COVID-19 are positive, this means that COVID-19 (coronavirus) was found in your test and you have been diagnosed with a COVID-19 infection. You must stay in isolation for at least 5 days even if you do not have any symptoms. If you don’t have symptoms, day 0 is the date of your positive test. If you meet the above conditions and end your home isolation, you must continue to wear a mask outside of your home for an additional 5 days. If your test results for COVID-19 are negative, this means that COVID-19 (coronavirus) was not detected in your test specimen. If you have been in close contact with someone who has either tested positive for COVID-19 or is experiencing COVID-19 symptoms and your original COVID-19 test was negative, you do not have to quarantine. If that test is positive or you develop symptoms, you need to isolate at home.",
+      "bm25_score_raw": 2.7249185225742187,
+      "bm25_score_norm": 0.6644983425240815,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8486952781677246,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 1
+    },
+    {
+      "title": "COVID-19 symptoms and what to do",
+      "url": "https://www.nhs.uk/conditions/covid-19/covid-19-symptoms-and-what-to-do",
+      "snippet": "# COVID-19 symptoms and what to do. ## Symptoms of COVID-19. For some people, it can be a more serious illness and their symptoms can last longer. Try to stay at home and avoid contact with other people if you or your child have symptoms and either:. You can go back to your normal activities when you feel better or do not have a high temperature. Most people do not need to take a COVID-19 rapid lateral flow test if they have symptoms. * try to stay at home and avoid contact with other people for 3 days after the day the test was taken if you or your child are under 18 years old – children and young people tend to be infectious for less time than adults. * try to stay at home and avoid contact with other people for 5 days after the day you took your test if you are 18 years old or over. But there are things you can do to help ease some of the symptoms, such as a high temperature, a cough and breathlessness.",
+      "bm25_score_raw": 2.965002339421627,
+      "bm25_score_norm": 0.7230451566912975,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8479059338569641,
+      "embedding_score_norm": 0.9566814518239388,
+      "embedding_rank": 2,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 2
+    },
+    {
+      "title": "COVID-19 Exposure, But No Symptoms",
+      "url": "https://www.seattlechildrens.org/conditions/a-z/covid-19-exposure-but-no-symptoms",
+      "snippet": "* Exposure (close contact) to a person with diagnosed or suspected COVID-19. * Confirmed patients have a positive COVID-19 test. * Suspected patients are those whom a doctor suspects of having COVID-19, based on symptoms. * You or your child have no symptoms of COVID-19. * To meet the high demand for COVID-19 information, when possible, find your answers online. * Always follow the most current CDC recommendations if they are different than those in this care guide. * The most common symptoms are sore throat, headache, cough and fever. Some can have no symptoms, but still spread the disease. * **Incubation period:** average 5 days (range 2 to 14 days) after coming in contact with the secretions of a person who has COVID-19. Check the CDC website to see if you and your child are current on your vaccines. * If your child becomes sick and develops more than mild symptoms, you may need to get a COVID-19 test or see your doctor.",
+      "bm25_score_raw": 4.100715303854152,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8400872349739075,
+      "embedding_score_norm": 0.527597869890616,
+      "embedding_rank": 3,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 3
+    },
+    {
+      "title": "Steps to Take if You Test Positive for COVID-19",
+      "url": "https://www.lung.org/lung-health-diseases/lung-disease-lookup/covid-19/covid-19-testing/if-you-test-covid-positive-steps",
+      "snippet": "Rest up and stay hydrated. Difficulty breathing Persistent pain or pressure in the chest New confusion Inability to wake or stay awake Pale,",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8393423557281494,
+      "embedding_score_norm": 0.4867195268749673,
+      "embedding_rank": 4,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 4
+    },
+    {
+      "title": "The Association Between Symptoms and COVID-19 Test ...",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7668333",
+      "snippet": "by CA Sacks · 2020 · Cited by 5 — Symptoms include fevers, myalgias, cough, shortness of breath, runny nose, sore throat, nausea/vomiting/diarrhea, and anosmia.",
+      "bm25_score_raw": 0.9378402970891958,
+      "bm25_score_norm": 0.2287016355921478,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8335748314857483,
+      "embedding_score_norm": 0.17020267441251896,
+      "embedding_rank": 5,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 5
+    },
+    {
+      "title": "Symptoms of COVID-19",
+      "url": "https://www.cdc.gov/covid/signs-symptoms/index.html",
+      "snippet": "Image 1An official website of the United States government. A **.gov** website belongs to an official government organization in the United States. A **lock** (  ) or **https://** means you've safely connected to the .gov website. About COVID-19SymptomsPeople with Certain Medical Conditions and COVID-19COVID-19 VaccinesTestingTreatmentHow to Protect Yourself and OthersTools and ResourcesView Menu. # Symptoms of COVID-19. *   People with COVID-19 have a wide range of symptoms ranging from mild symptoms to severe illness. *   Symptoms may start as mild, and some people will progress to more severe symptoms. Symptoms may change with new COVID-19 variants and can vary depending on vaccination status. Notify the operator that you are seeking care for someone who has or may have COVID-19. COVID-19 is caused by infection with a coronavirus named SARS-CoV-2, and flu is caused by infection with one of the influenza viruses. You cannot tell the difference between flu and COVID-19 by symptoms alone because some of the symptoms are the same.",
+      "bm25_score_raw": 2.5430138082251315,
+      "bm25_score_norm": 0.6201390781347395,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8304734230041504,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 6
+    }
+  ]
+}

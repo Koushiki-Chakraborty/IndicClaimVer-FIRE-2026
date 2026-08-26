@@ -1,0 +1,131 @@
+{
+  "claim": {
+    "id": "S2/1269",
+    "text": "जानें, भाजपा सांसद सरोज पांडे ने कांग्रेस अध्यक्ष राहुल गांधी को क्यों कहा 'मंदबुद्धि'",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "BJP MP Saroj Pandey Calls Rahul Gandhi A 'Joker'",
+      "url": "https://www.youtube.com/watch?v=Dd4I5DwdebY",
+      "snippet": "This content isn't available.Read more",
+      "bm25_score_raw": 2.05311098650812,
+      "bm25_score_norm": 0.13742536891081586,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.9206773042678833,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "BJP MP Saroj Pandey calls Rahul Gandhi 'slow-witted'",
+      "url": "https://www.firstpost.com/politics/bjp-mp-saroj-pandey-calls-rahul-gandhi-slow-witted-congress-condemns-statement-says-it-reflects-bjps-mentality-4575861.html",
+      "snippet": "Jun 23, 2018 — Senior BJP leader and Rajya Sabha MP from Chhattisgarh Saroj Pandey called Rahul Gandhi \"mand buddhi\" (slow-witted), which drew a sharp",
+      "bm25_score_raw": 2.372134377843939,
+      "bm25_score_norm": 0.23157542280033644,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8934321403503418,
+      "embedding_score_norm": 0.7138290479499653,
+      "embedding_rank": 2
+    },
+    {
+      "title": "BJP MP Saroj Pandey Calls Rahul Gandhi 'Mand-buddhi'",
+      "url": "https://www.outlookindia.com/national/bjp-mp-saroj-pandey-calls-rahul-gandhi-mentally-unstable-heres-why-news-312748",
+      "snippet": "Jan 18, 2024 — A Bharatiya Janata Party (BJP) MP from Durg in Chhattisgarh has called Congress president Rahul Gandhi \"Man Buddhi\"",
+      "bm25_score_raw": 4.103738887003859,
+      "bm25_score_norm": 0.7426058433914378,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8878369331359863,
+      "embedding_score_norm": 0.6550595070400491,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Chhattisgarh BJP leader calls Rahul Gandhi 'mand buddhi' ...",
+      "url": "https://timesofindia.indiatimes.com/india/chhattisgarh-bjp-leader-calls-rahul-gandhi-mand-buddhi-congress-hits-back/articleshow/64703510.cms",
+      "snippet": "Jun 22, 2018 — India News: RAIPUR: Senior BJP leader and Rajya Sabha MP from Chhattisgarh Saroj Pandey called Rahul Gandhi \"mand buddhi\" (slow-witted),",
+      "bm25_score_raw": 2.228924434390658,
+      "bm25_score_norm": 0.18931136235892337,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.8801280856132507,
+      "embedding_score_norm": 0.57408923864796,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Lok Sabha Election 2024 : Saroj Pandey का Rahul Gandhi ...",
+      "url": "https://www.youtube.com/watch?v=nnJYj-TFqak",
+      "snippet": "Lok Sabha Election 2024 : Saroj Pandey का Rahul Gandhi की Bharat Jodo Nyay Yatar पर हमला | CG News. @News18MPChhattisgarhNo likes181 views2 ...Read more",
+      "bm25_score_raw": 1.5874510592504,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.8610959649085999,
+      "embedding_score_norm": 0.37418439982720736,
+      "embedding_rank": 5
+    },
+    {
+      "title": "जानें, भाजपा सांसद सरोज पांडे ने कांग्रेस अध्यक्ष राहुल गांधी को ...",
+      "url": "https://www.indiatv.in/india/politics-bjp-minister-saroj-pandey-call-rahul-gandhi-feeble-minded-588365",
+      "snippet": "Jun 22, 2018 — भाजपा की एक नेता सरोज पांडे ने कांग्रेस अध्यक्ष राहुल गांधी पर निशाना साधा। सरोज ने राहुल गांधी पर तंज कसते हुए कहा कि वह 'मंदबुद्धि' हैं। सरोज ने कहा कि राहुल सीखने की कोशिश कर रहे हैं लेकिन उन्हें",
+      "bm25_score_raw": 4.975907870015204,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8563968539237976,
+      "embedding_score_norm": 0.3248270508173218,
+      "embedding_rank": 6
+    },
+    {
+      "title": "सरोज पांडेय ने राहुल गांधी के बारे में दिया विवादास्पद बयान-कहा ...",
+      "url": "https://www.abplive.com/news/india/bjp-leadr-saroj-pandeya-says-rahul-gandhi-is-mandbuddhi-894960",
+      "snippet": "Jun 22, 2018 — छत्तीसगढ़ में भारतीय जनता पार्टी (बीजेपी) की वरिष्ठ नेता और राज्यसभा सांसद सरोज पांडेय ने कांग्रेस अध्यक्ष राहुल गांधी पर विवादास्पद टिप्पणी करते हुए उन्हें 'मंद बुद्धि' कह दिया.",
+      "bm25_score_raw": 4.5750514607735555,
+      "bm25_score_norm": 0.881699419048764,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8560305237770081,
+      "embedding_score_norm": 0.32097928366170203,
+      "embedding_rank": 7
+    },
+    {
+      "title": "BJP leader calls Rahul Gandhi 'mentally unstable'",
+      "url": "https://www.aninews.in/news/national/general-news/bjp-leader-calls-rahul-gandhi-mentally-unstable201806221229460006",
+      "snippet": "Jun 22, 2018 — Durg (Chhattisgarh) [India], Jun 22 (ANI): A Bharatiya Janata Party (BJP) MP from Durg in Chhattisgarh has called Congress president Rahul",
+      "bm25_score_raw": 3.4857571328277177,
+      "bm25_score_norm": 0.5602273186857747,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8512767553329468,
+      "embedding_score_norm": 0.2710478372743835,
+      "embedding_rank": 8
+    },
+    {
+      "title": "Person Who Learns After Age of 40 is Called 'Mand-buddhi'",
+      "url": "https://www.india.com/news/india/chhattisgarh-bjp-leader-saroj-pandey-takes-a-dig-at-rahul-gandhi-says-a-person-who-learns-after-age-of-40-is-called-mand-buddhi-3124748",
+      "snippet": "Jun 22, 2018 — A Bharatiya Janata Party (BJP) leader from Chhattisgarh has called Congress President Rahul Gandhi 'mand-buddhi'. - Chhattisgarh BJP Leader",
+      "bm25_score_raw": 3.354260243278083,
+      "bm25_score_norm": 0.5214200099628534,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8447629809379578,
+      "embedding_score_norm": 0.20263007969748761,
+      "embedding_rank": 9
+    },
+    {
+      "title": "बीजेपी सांसद सरोज पांडेय ने राहुल को 'जोकर' और प्रियंका गांधी को ...",
+      "url": "https://navbharattimes.indiatimes.com/state/chhattisgarh/raipur/bjp-mp-saroj-pandey-calls-priyanka-gandhi-a-homely-women/articleshow/67725122.cms",
+      "snippet": "Jan 28, 2019 — बीजेपी सांसद सरोज पांडेय ने प्रियंका गांधी को कांग्रेस महासचिव बनाए जाने पर तंज कसते हुए कहा है कि प्रियंका को लोग इक्का बता रहे है, इसका मतलब है कि अभी तक वे जोकर से काम चला रहे थे।",
+      "bm25_score_raw": 2.333058284144289,
+      "bm25_score_norm": 0.22004330187274798,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.835889995098114,
+      "embedding_score_norm": 0.10943222583250381,
+      "embedding_rank": 10
+    },
+    {
+      "title": "BJP सांसद ने राहुल गांधी को बताया 'मंदबुद्धि', कहा- 40 साल बाद ...",
+      "url": "https://www.jansatta.com/rajya/chhattisgarh-bjp-leader-saroj-pandey-calls-rahul-gandhi-retarded/693223",
+      "snippet": "Jun 22, 2018 — सरोज पांडे मौजूदा समय में भारतीय जनता पार्टी की राज्यसभा सांसद हैं। वह दुर्ग से बीजेपी की मेयर भी रह चुकी हैं। पांडे के नाम लगातार 10 सालों तक दुर्ग का मेयर रहने का रिकॉर्ड भी दर्ज है।",
+      "bm25_score_raw": 3.703269127305554,
+      "bm25_score_norm": 0.6244193702966498,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8254714012145996,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 11
+    }
+  ]
+}

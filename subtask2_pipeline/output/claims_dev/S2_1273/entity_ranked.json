@@ -1,0 +1,99 @@
+{
+  "claim": {
+    "id": "S2/1273",
+    "text": "Punjab & Haryana High Court Directs Chandigarh Admin To Allow Candidate To Apply Under Transgender Category In Online Form For Police Constable Post",
+    "lang": "dev"
+  },
+  "entity_ranked_evidence": [
+    {
+      "title": "Punjab & Haryana High Court Directs Chandigarh Admin To Allow Candidate To Apply Under Transgender Category In Online Form For Police Constable Post",
+      "url": "https://www.livelaw.in/high-court/punjab-and-haryana-high-court/punjab-haryana-high-court-transgender-chandigarh-police-recruitment-231114",
+      "snippet": "# Punjab & Haryana High Court Directs Chandigarh Admin To Allow Candidate To Apply Under Transgender Category In Online Form For Police Constable Post. ###### Aiman J. 22 Jun 2023 4:06 PM IST. The Punjab and Haryana High Court has issued a notice to the Chandigarh Administration on a transgender person's plea seeking directions to allow the petitioner to apply for the post of Constable (Executive) in the Union Territory under the transgender category. The plea said there was no option to apply under the transgender category.While issuing the notice, Justice Vikram Aggarwal ordered... # This is a premium content Available exclusively to Our subscribers. ### INR 1099+GST. Your support helps us to bring you more content at. ##### Tags. Chishti is a Principal Correspondent with LiveLaw, covering Punjab And Haryana High Court.",
+      "bm25_score_raw": 14.455369589313184,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.962786078453064,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1,
+      "entity_overlap_raw": 2,
+      "entity_overlap_qid": 1,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 1
+    },
+    {
+      "title": "HC relief for transgender candidate unable to apply online ...",
+      "url": "https://indianexpress.com/article/cities/chandigarh/hc-relief-for-transgender-candidate-unable-to-apply-online-for-chandigarh-constable-job-8680224",
+      "snippet": "The Punjab and Haryana High Court has ordered the Chandigarh administration and police to allow a 24-year-old transgender person to apply for the post of",
+      "bm25_score_raw": 4.738675699300934,
+      "bm25_score_norm": 0.24561832972862435,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.9309826493263245,
+      "embedding_score_norm": 0.6619451051153031,
+      "embedding_rank": 2,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 1,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 2
+    },
+    {
+      "title": "Accept form of transgender category candidate: HC - The Tribune",
+      "url": "https://www.tribuneindia.com/news/chandigarh/accept-form-of-transgender-category-candidate-hc-519423",
+      "snippet": "Subscribe To Print Edition About The Tribune Code Of Ethics Download App Careers Advertise with us Classifieds. * Advertise with us Tribune Classifieds Subscribe To Print Edition. Home **/** Chandigarh **/** Accept form of transgender category candidate: HC. # Accept form of transgender category candidate: HC. Acting on a petition filed by a transgender category candidate for Constable-Executive’s post in the Chandigarh Police, the Punjab and Haryana High Court has directed the acceptance of online application form. “It is ordered that in case the petitioner submits an online application form mentioning his category as a transgender, the same shall be accepted and thereafter considered by the appropriate authority in accordance with its own rules,” asserted Justice Vikram Aggarwal of the High Court. Justice Aggarwal’s Bench, during the course of hearing, was told that the UT Administration issued an advertisement for recruitment to the post of constable (executive). The notice of motion issued by Justice Aggarwal to the respondents was accepted on the UT’s behalf by an advocate present in the court.",
+      "bm25_score_raw": 4.718572695727258,
+      "bm25_score_norm": 0.2440575789645224,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.9257258176803589,
+      "embedding_score_norm": 0.6060675561119693,
+      "embedding_rank": 3,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 1,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 3
+    },
+    {
+      "title": "chandigarh adminstration - notification",
+      "url": "https://chdsw.gov.in/uploads/media/1617354248-Adopt_and_implement_the_Transgender_Persons_(Protection_of_Rights)_Rules,_2020_framed_under_Section_22_of_the_Transgender_Persons_(Protection_of_Rights)_Act,_2019_1.pdf",
+      "snippet": "The Administrator, U.T. Chandigarh is pleased to adopt and implement the Transgender Persons (Protection of Rights) Rules, 2020. The District and Session Judge",
+      "bm25_score_raw": 1.5750276179648628,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8687083721160889,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 1,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 4
+    },
+    {
+      "title": "The Punjab and Haryana High Court has upheld ...",
+      "url": "https://www.instagram.com/p/DZRUfT2vjAv?hl=en",
+      "snippet": "The Punjab and Haryana High Court has upheld a decision directing the Chandigarh Administration to appoint a low-vision candidate as a clerk",
+      "bm25_score_raw": 4.799874851699799,
+      "bm25_score_norm": 0.2503696905647729,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8823517560958862,
+      "embedding_score_norm": 0.14502249800742795,
+      "embedding_rank": 4,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 5
+    },
+    {
+      "title": "Punjab and Haryana High Court grants relief in trans ...",
+      "url": "https://www.facebook.com/indianexpress/posts/granting-relief-in-trans-womans-name-change-plea-punjab-and-haryana-high-court-l/1544894836994313",
+      "snippet": "The Court cited the Transgender Persons Act, enacted to provide equality and dignity, ruling the petitioner must apply to the District",
+      "bm25_score_raw": 3.5423340691813845,
+      "bm25_score_norm": 0.15273712884275098,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8757761120796204,
+      "embedding_score_norm": 0.07512661860840543,
+      "embedding_rank": 5,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 6
+    }
+  ]
+}

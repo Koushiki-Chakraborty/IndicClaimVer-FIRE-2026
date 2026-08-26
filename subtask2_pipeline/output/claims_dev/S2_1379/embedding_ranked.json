@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/1379",
+    "text": "নিজের বেতনের টাকায় চাল-ডাল বিলি, করোনা আবহে দুঃস্থদের ত্রাতা পুলিশ আধিকারিক",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "A brave police officer saved a man whose car caught fire while driving on the highway, pulling him free seconds before the vehicle went up in flames, harrowing video shows. - facebook.com",
+      "url": "https://www.facebook.com/SkyNewsAustralia/posts/a-brave-police-officer-saved-a-man-whose-car-caught-fire-while-driving-on-the-hi/1493691509455109/",
+      "snippet": "## Sky News Australia's Post. ### **Sky News Australia**. A brave police officer saved a man whose car caught fire while driving on the highway, pulling him free seconds before the vehicle went up in flames, harrowing video shows. Cop saves driver from burning car moments before it goes up in flames: video.",
+      "bm25_score_raw": 1.4706226939800473,
+      "bm25_score_norm": 0.8869783787822381,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.848689615726471,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Texas officer pulls driver from burning car in dramatic bodycam rescue - Fox News",
+      "url": "https://www.foxnews.com/video/6401649582112",
+      "snippet": "Log in to comment on videos and join in on the fun. Watch the live stream of Fox News and full episodes. Reduce eye strain and focus on the content that matters. # Texas officer pulls driver from burning car in dramatic bodycam rescue. A police officer saves a man's life from a burning car on the side of a Texas road. The officer pulls the driver out moments before the car is engulfed in flames. This heroic act was captured on bodycam. A police officer in Southlake, Texas, conducted a heroic rescue, pulling a driver from a burning car just moments before it was fully engulfed in flames. The dramatic bodycam footage shows the officer reacting quickly to save the man's life from the roadside inferno. The driver sustained no serious injuries due to the officer's swift action. * AMERICA 250: ALL-AMERICAN HEROES. ## Live Now.",
+      "bm25_score_raw": 1.164794244652224,
+      "bm25_score_norm": 0.7025237098309924,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8257758617401123,
+      "embedding_score_norm": 0.8243903575469677,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Southlake officer saves driver from burning car in split‑second rescue - CBS News",
+      "url": "https://www.cbsnews.com/texas/video/southlake-officer-saves-driver-from-burning-car-in-split-second-rescue/",
+      "snippet": "# Southlake officer saves driver from burning car in split‑second rescue. Southlake police officer Joshua Swisher was writing a speeding ticket when he spotted smoke from a nearby vehicle. Moments later, the car erupted into flames, and Swisher smashed the window after the door handle broke to pull the trapped driver out.",
+      "bm25_score_raw": 1.6580141400956288,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8201623558998108,
+      "embedding_score_norm": 0.7813687839492836,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Texas officer saves driver from burning car in dramatic video - Fox News",
+      "url": "https://www.foxnews.com/video/6401723311112",
+      "snippet": "Log in to comment on videos and join in on the fun. Watch the live stream of Fox News and full episodes. Reduce eye strain and focus on the content that matters. # Texas officer saves driver from burning car in dramatic video. Southlake Police Corporal Joshua Swisher is hailed a hero after dramatic dashcam video captures him pulling a driver from a burning car. The officer describes the harrowing moments as he rescued the driver from the engulfed vehicle. Southlake Police Corporal Joshua Swisher is hailed a hero for saving a driver from a burning car in Texas. Dramatic dashcam video shows Swisher pulling the man to safety moments before the vehicle was engulfed in flames. Swisher recounts his quick actions and training, expressing relief for the positive outcome and the pride his kids feel seeing him on television. ## Live Now.",
+      "bm25_score_raw": 1.450830191534003,
+      "bm25_score_norm": 0.8750409037225243,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8140909671783447,
+      "embedding_score_norm": 0.7348380232889059,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Wisconsin police officer shoots and kills man on city street in Madison - Chicago Tribune",
+      "url": "https://www.chicagotribune.com/2026/07/22/fatal-madison-police-shooting/",
+      "snippet": "Crime and Public Safety |   Wisconsin police officer shoots and kills man…. # Wisconsin police officer shoots and kills man on city street in Madison. * Protesters march after a Madison police officer shot and killed a man Wednesday, July 22, 2026, in Madison, Wis. * Protesters march after a Madison police officer shot and killed a man Wednesday, July 22, 2026, in Madison, Wis. Protesters march after a Madison police officer shot and killed a man Wednesday, July 22, 2026, in Madison, Wis. By Scott Bauer | Associated Press. — A Madison police officer shot and killed a man who had injured him with a knife while resisting arrest, the city’s police chief said Wednesday. The dead man was in his 30s, Patterson said, but police did not release his name. The race of the officer who fired his gun on Wednesday and that of the man killed were not released by police.",
+      "bm25_score_raw": 0.9312014076740093,
+      "bm25_score_norm": 0.5616365899149091,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.7992668151855469,
+      "embedding_score_norm": 0.6212266075132782,
+      "embedding_rank": 5
+    },
+    {
+      "title": "‘Won’t back down’: Indian student protesters return after police crackdown - Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/21/wont-back-down-indian-student-protesters-return-after-police-crackdown",
+      "snippet": "*More than 100 students injured in police action against thousands of demonstrators during march on parliament. The heart of New Delhi – Parliament Street and Connaught Place, a colonial-era square – bears the imprint of Monday’s police crackdown on thousands of protesters, most of them students, who had shut down the capital, demanding that Education Minister Dharmendra Pradhan resign. After dark on Monday, Abhijeet Dipke – the leader of the Cockroach Janta Party (CJP), a political pressure group that called the march – returned to a torn-down stage at the CJP’s main protest site near Jantar Mantar, an 18th-century observatory that is now an important location for protests. This is where more than 100 protesters from student unions have been sleeping for nearly a month to join Sonam Wangchuk, a prominent activist, on a hunger strike to seek the minister’s resignation.",
+      "bm25_score_raw": 0.7134051029336899,
+      "bm25_score_norm": 0.4302768508913579,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.7874044179916382,
+      "embedding_score_norm": 0.5303139036805351,
+      "embedding_rank": 6
+    },
+    {
+      "title": "India's 'Cockroach' protests take on Modi with unlikely weapons: sharp, irreverent humor and memes - The Sun Chronicle",
+      "url": "https://www.thesunchronicle.com/news/nation_world/indias-cockroach-protests-take-on-modi-with-unlikely-weapons-sharp-irreverent-humor-and-memes/article_ade99a9a-8b48-5106-a252-6a6bc421489e.html",
+      "snippet": "A protestor holds a placard with the message \"Every Joke is a Tiny Revolution\" during a demonstration demanding educational reforms as part of the Cockroach Janta Party's ongoing protest movement in New Delhi, India, Thursday, July 23, 2026. A protestor holds a placard with a portrait of Prime Minister Narendra Modi along with the text \"Can't See Your Democracy, My Lashes are Too Long\" during a demonstration demanding educational reforms as part of the Cockroach Janta Party's ongoing protest movement in New Delhi, India, Thursday, July 23, 2026. A protestor holds a placard with a portrait of Indian Prime Minister Narendra Modi draped in a saree, a traditional garment for women in India, during a demonstration demanding educational reforms as part of the Cockroach Janta Party's ongoing protest movement in New Delhi, India, Thursday, July 23, 2026. 8 E92E D2>6 A=2E7@C> E@ >@4< 9:D 25>:?:DEC2E:@?[ C:5:4F=6 AC@\\8@G6C?>6?",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.7844504117965698,
+      "embedding_score_norm": 0.5076745765746917,
+      "embedding_rank": 7
+    },
+    {
+      "title": "Rising CO2 may already be showing up in human blood — a \"potentially toxic atmosphere in 50 years\" - Boing Boing",
+      "url": "https://boingboing.net/2026/07/20/co2-in-human-blood.html",
+      "snippet": "# Rising CO2 may already be showing up in human blood — a \"potentially toxic atmosphere in 50 years\". For most of human evolution, the air held about 300 parts per million of carbon dioxide. A new open-access study in Air Quality, Atmosphere & Health argues that shift may already be showing up in our blood. Average blood bicarbonate — the compound that carries CO2 out of the body — rose about 7%, closely tracking atmospheric CO2. An international team including Yale researchers has described a new species of Colobus monkey living high in the forest canopy of the Democratic Republic of Congo — only the fifth… READ THE REST. TL;DR: This Grade A refurbished 2020 MacBook Pro has 16GB of RAM, a 1TB SSD, and a 13.3-inch… READ THE REST. TL;DR: FileJump is offering 2TB of cloud storage in an easy-to-use package for only $59 (MSRP $467)… READ THE REST.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.7732725143432617,
+      "embedding_score_norm": 0.42200783788487656,
+      "embedding_rank": 8
+    },
+    {
+      "title": "PM urges eco-friendly brick production to curb air pollution - Bangladesh Post",
+      "url": "https://bangladeshpost.net/posts/pm-urges-eco-friendly-brick-production-to-curb-air-pollution-171329",
+      "snippet": "# PM urges eco-friendly brick production to curb air pollution. Prime Minister Tarique Rahman on Saturday directed authorities to promote environmentally friendly brick production technologies as part of a broader drive to curb air pollution and improve environmental management. He issued the directive while chairing a meeting on environmental pollution at his Tejgaon office in Dhaka, Prime Minister's Assistant Press Secretary Gazi Shahriar Pamy said. The meeting reviewed a series of measures to tackle air and noise pollution, with particular focus on emissions from brick kilns, one of the country's major sources of air pollution. The Prime Minister stressed the need to accelerate the adoption of alternative, environment-friendly technologies in brick manufacturing to reduce pollution and improve air quality. The meeting also discussed measures to curb excessive use of vehicle horns in the capital. He also instructed the relevant agencies to install automatic traffic signal systems at at least 50 additional intersections across the capital as soon as possible to improve traffic management and reduce congestion.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.7681089639663696,
+      "embedding_score_norm": 0.38243469609352837,
+      "embedding_rank": 9
+    },
+    {
+      "title": "Wisconsin Police Officer Shoots, Kills Man On Street Near State Capitol In Madison - HuffPost",
+      "url": "https://www.huffpost.com/entry/wisconsin-police-officer-shoots-kills-man-on-street-near-state-capitol-in-madison_n_6a614c12e4b063cecec847af",
+      "snippet": "# Wisconsin Police Officer Shoots, Kills Man On Street Near State Capitol In Madison. A white police officer shot and killed Tony Robinson, who was biracial, on the same street in 2015. (AP) — A Madison police officer shot and killed a man who had injured him with a knife while resisting arrest, the city’s police chief said Wednesday. The dead man was in his 30s, Patterson said, but police did not release his name. A white police officer shot and killed Tony Robinson, who was biracial, on the same street in 2015, a shooting that spurred large protests. The race of the officer who fired his gun on Wednesday and that of the man killed were not released by police. The same officer who was injured by the knife fired his weapon and the man who was shot died later at the hospital, the chief said.",
+      "bm25_score_raw": 0.8940619155992344,
+      "bm25_score_norm": 0.5392366047901545,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.7680777311325073,
+      "embedding_score_norm": 0.38219532951960866,
+      "embedding_rank": 10
+    },
+    {
+      "title": "Heat advisory Monday for North Texas with triple-digit highs across the extended forecast - CBS News",
+      "url": "https://www.cbsnews.com/texas/video/heat-advisory-monday-for-north-texas-with-triple-digit-highs-across-the-extended-forecast/",
+      "snippet": "# Heat advisory Monday for North Texas with triple-digit highs across the extended forecast. First Alert meteorologist Michael Autovino has the latest forecast.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.7197550535202026,
+      "embedding_score_norm": 0.01185321347341455,
+      "embedding_rank": 11
+    },
+    {
+      "title": "Stretch of heat index in the triple digits continues for North Texas - CBS News",
+      "url": "https://www.cbsnews.com/texas/video/stretch-of-heat-index-in-the-triple-digits-continues-for-north-texas/",
+      "snippet": "# Stretch of heat index in the triple digits continues for North Texas. First Alert meteorologist Michael Autovino has the latest forecast.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.7182084321975708,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

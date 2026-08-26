@@ -1,0 +1,57 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1014",
+    "text": "BJP welcomes PC comparing Modi with Abraham Lincoln and George Washington.",
+    "lang": "english"
+  },
+  "ranked_evidence": [
+    {
+      "title": "Abraham Lincoln vs George Washington",
+      "url": "https://www.diffen.com/difference/Abraham_Lincoln_vs_George_Washington",
+      "snippet": "Abraham Lincoln vs George Washington comparison. Abraham Lincoln and George Washington are two of the most famous presidents in United States history.",
+      "bm25_score_raw": 3.5219666663304245,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Modi's Washington DC Tour Offers Him a Propaganda ...",
+      "url": "https://countercurrents.org/2023/06/modis-washington-dc-tour-offers-him-a-propaganda-bonanza",
+      "snippet": "Jun 15, 2023 — From marches to political summits to diaspora events, Modi's visit enables sympathizers of the BJP — and the fascist Rashtriya Swayamsevak Sangh ...Read more",
+      "bm25_score_raw": 2.825031005245751,
+      "bm25_score_norm": 0.6217841352692445,
+      "bm25_rank": 2
+    },
+    {
+      "title": "Trump likens himself to George Washington and Abraham ...",
+      "url": "https://www.youtube.com/watch?v=uB2bY9dl6BA",
+      "snippet": "I would say I'm far superior to George Washington and Abraham Lincoln now you know I'm only kidding right.",
+      "bm25_score_raw": 2.7884174017133843,
+      "bm25_score_norm": 0.6019145167461356,
+      "bm25_rank": 3
+    },
+    {
+      "title": "George Washington and Abraham Lincoln didn't just lead ...",
+      "url": "https://www.instagram.com/p/DXZnhsTgWDN",
+      "snippet": "Abraham Lincoln believed that George Washington's name would forever be linked to the powerful idea of freedom for all people.",
+      "bm25_score_raw": 2.7559976701364883,
+      "bm25_score_norm": 0.5843208456264639,
+      "bm25_rank": 4
+    },
+    {
+      "title": "George Washington or Abraham Lincoln? : r/Presidents",
+      "url": "https://www.reddit.com/r/Presidents/comments/16wbt7m/whos_the_better_president_george_washington_or",
+      "snippet": "My cop out answer is that Washington is the greater president, and that Lincoln had the greater presidency.Read more",
+      "bm25_score_raw": 2.4146167200210154,
+      "bm25_score_norm": 0.3990588502084339,
+      "bm25_rank": 5
+    },
+    {
+      "title": "On Presidents' Day, George Washington's poetry vs. ...",
+      "url": "https://www.washingtonpost.com/news/retropolis/wp/2018/02/19/washington-and-lincoln-were-great-presidents-but-only-one-was-a-great-poet",
+      "snippet": "Feb 19, 2018 — When it comes to ranking the presidents, there are only two contenders for the top spot: George Washington and Abraham Lincoln.Read more",
+      "bm25_score_raw": 1.6792738390985253,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6
+    }
+  ]
+}

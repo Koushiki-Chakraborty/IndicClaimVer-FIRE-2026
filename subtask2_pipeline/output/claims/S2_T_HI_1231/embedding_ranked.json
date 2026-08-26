@@ -1,0 +1,131 @@
+{
+  "claim": {
+    "id": "S2/T/HI/1231",
+    "text": "शमशान में नहीं मिल रही जगह, ऐंकर बोले, कांग्रेस प्रवक्ता ने कहा- दीदी…दीदी चिल्ला रहे मोदी, मंत्री चिल्ला रहे योगी…योगी",
+    "lang": "hindi"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Godi anchors are crying for PM Modi",
+      "url": "https://www.youtube.com/watch?v=xv8TI0zm_XY",
+      "snippet": "This video is about the Indian godi media who always praise narendra modi and now crying any. Godi anchors are crying for PM Modi",
+      "bm25_score_raw": 0.8965168160627947,
+      "bm25_score_norm": 0.2579451251628883,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8545652627944946,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "'योगी-मोदी देश का नाश कर देंगे'” एक युवक का बयान सोशल मीडिया ...",
+      "url": "https://www.instagram.com/reel/DZhtwiDtBgB",
+      "snippet": "योगी जी से खुश नहीं है, मोदी जी से खुश नहीं है? मोदी जी से। योगी जी से खुश है जनता? हाँ। तो योगी जी से क्यों खुश है और मोदी जी से क्यों खुश नहीं है जनता? देखो ऐसा है, मोदी जी ने जो भी कहा है वो अभी पूर्ण नहीं हो पाया",
+      "bm25_score_raw": 3.2878869623622844,
+      "bm25_score_norm": 0.9459882947344125,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8313702940940857,
+      "embedding_score_norm": 0.437451301540859,
+      "embedding_rank": 2
+    },
+    {
+      "title": "LIVE: CM Yogi Adityanath Addresses Media on PM Modi's ...",
+      "url": "https://www.youtube.com/watch?v=6z0E4NLl9GQ",
+      "snippet": "LIVE: CM Yogi Adityanath Addresses Media on PM Modi's 12 Years of Service to the Nation | Speech #cmyogi #bjp #uttarpradesh #pmmodi",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.8309442400932312,
+      "embedding_score_norm": 0.4271181932383771,
+      "embedding_rank": 3
+    },
+    {
+      "title": "मोदी ने योगी को दिखाया आईना! दिया कड़ा संदेश! टेंशन में ...",
+      "url": "https://www.youtube.com/watch?v=p2QJ2_Me4UY",
+      "snippet": "मोदी ने योगी को दिखाया आईना! दिया कड़ा संदेश! टेंशन में योगी! Did the Prime Minister Send a Message to Yogi Adityanath? Political Signals Spark Debate A recent",
+      "bm25_score_raw": 3.1439540122922045,
+      "bm25_score_norm": 0.904576017624052,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8303242325782776,
+      "embedding_score_norm": 0.4120811209716707,
+      "embedding_rank": 4
+    },
+    {
+      "title": "\"Congress Dying, Pakistan Crying\": PM Modi On BJP's Anti ...",
+      "url": "https://www.ndtv.com/india-news/congress-dying-pakistan-crying-pm-narendra-modi-on-bjps-anti-terror-stand-5570483",
+      "snippet": "May 2, 2024 — \"The weak Congress government used to give dossiers to the masters of terror. But, Modi's strong government elimanates terrorists on their soil.Read more",
+      "bm25_score_raw": 1.8855693704372902,
+      "bm25_score_norm": 0.5425145614074999,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8293044567108154,
+      "embedding_score_norm": 0.3873484475039645,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Yogi ने ललकारा विरोधियों में मची हाहाकार! मोदी- शाह चुप! RSS ...",
+      "url": "https://www.facebook.com/filmitics/videos/yogi-%E0%A4%A8%E0%A5%87-%E0%A4%B2%E0%A4%B2%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%BE-%E0%A4%B5%E0%A4%BF%E0%A4%B0%E0%A5%8B%E0%A4%A7%E0%A4%BF%E0%A4%AF%E0%A5%8B%E0%A4%82-%E0%A4%AE%E0%A5%87%E0%A4%82-%E0%A4%AE%E0%A4%9A%E0%A5%80-%E0%A4%B9%E0%A4%BE%E0%A4%B9%E0%A4%BE%E0%A4%95%E0%A4%BE%E0%A4%B0-%E0%A4%AE%E0%A5%8B%E0%A4%A6%E0%A5%80-%E0%A4%B6%E0%A4%BE%E0%A4%B9-%E0%A4%9A%E0%A5%81%E0%A4%AA-rss-%E0%A4%B2%E0%A5%87%E0%A4%97%E0%A4%BE-%E0%A4%95%E0%A4%A0%E0%A5%8B%E0%A4%B0-%E0%A4%A8%E0%A4%BF%E0%A4%B0%E0%A5%8D%E0%A4%A3%E0%A4%AF-%E0%A4%AE%E0%A4%9A%E0%A4%BE-%E0%A4%A4/1501754241700656",
+      "snippet": "हम जैसे अनेक समर्थकों को उम्मीद थी कि 75 वर्ष की आयु के बाद मोदी जी सक्रिय राजनीति से संन्यास लेकर मार्गदर्शक मंडल में जाएंगे और Yogi Adityanath जी जैसे नए नेतृत्व को आगे बढ़ाएंगे, लेकिन ऐसा होता दिखाई",
+      "bm25_score_raw": 0.7775055700089994,
+      "bm25_score_norm": 0.22370330146352413,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8281711339950562,
+      "embedding_score_norm": 0.35986191682917557,
+      "embedding_rank": 6
+    },
+    {
+      "title": "Slogans like “Modi teri kabar khudegi” were allegedly ...",
+      "url": "https://www.instagram.com/reel/DSPZAMDEZ7G?hl=en",
+      "snippet": "Slogans like “Modi teri kabar khudegi” were allegedly shouted by Congress workers ahead of their rally at Delhi's Ramlila Maidan, triggering",
+      "bm25_score_raw": 1.4870104486623434,
+      "bm25_score_norm": 0.42784149658589865,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8266633749008179,
+      "embedding_score_norm": 0.3232941625455181,
+      "embedding_rank": 7
+    },
+    {
+      "title": "अब Sky News Anchor ने PM Modi का उड़ाया ऐसा मजाक! Video ...",
+      "url": "https://www.youtube.com/watch?v=KQ7bQ2YNC9c",
+      "snippet": "PM Modi has returned after concluding his foreign tour, but a video is viral on social media in which a Sky News female anchor mocked PM Modi's",
+      "bm25_score_raw": 3.4756106187184517,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8242242932319641,
+      "embedding_score_norm": 0.2641389967864438,
+      "embedding_rank": 8
+    },
+    {
+      "title": "Dr. Manish Kumar - Yogi Adityanath Oath-Taking Ceremony",
+      "url": "https://www.youtube.com/watch?v=TdyRA7yUsiw",
+      "snippet": "Yogi Adityanath on Thursday staked a claim to form the government in Uttar Pradesh for the second time, a day ahead of his swearing-in as chief",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.8207755088806152,
+      "embedding_score_norm": 0.1804954630021814,
+      "embedding_rank": 9
+    },
+    {
+      "title": "In a shocking and bizarre moment caught on camera, a live ...",
+      "url": "https://www.instagram.com/reel/DUOXnIWDViA?hl=en",
+      "snippet": "The clip shows the representative getting increasingly agitated by the moderator's questions before suddenly breaking into a loud, rhythmic ...Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.8160055875778198,
+      "embedding_score_norm": 0.06481033079535155,
+      "embedding_rank": 10
+    },
+    {
+      "title": "Prof Abhay Dubey on Yogi vs Amit Shah",
+      "url": "https://www.youtube.com/watch?v=KZnTD906iQ0",
+      "snippet": "Prof Abhay Dubey on Yogi vs Amit Shah: Brahmin Face Pathak Meets PM Modi a Day after Lucknow Visit … s231K views6 months ago",
+      "bm25_score_raw": 0.5546663479925694,
+      "bm25_score_norm": 0.15958817279626375,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.8133333325386047,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 11
+    }
+  ]
+}

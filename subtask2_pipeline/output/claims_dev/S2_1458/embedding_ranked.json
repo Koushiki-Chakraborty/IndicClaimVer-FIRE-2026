@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/1458",
+    "text": "তৃণমূল ছাত্র পরিষদের সদস্যদের বিরুদ্ধে বিজেপি ছাত্রীর শ্লীলতাহানির অভিযোগ উঠেছে।",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Accused have TMC links, Mamata should apologise, resign",
+      "url": "https://www.thehindu.com/news/cities/kolkata/kolkata-student-gang-rape-case-accused-tmc-links-mamata-apologise-resign-says-bjp/article69748072.ece",
+      "snippet": "BJP demands accountability from Mamata Banerjee over gang-rape incident in Kolkata, accusing all accused of TMC affiliation.",
+      "bm25_score_raw": 0.7138649422367308,
+      "bm25_score_norm": 0.16239867758843127,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.8576317429542542,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "BJP Alleges It's Women Poll Agents Gang-Raped ...",
+      "url": "https://www.youtube.com/watch?v=",
+      "snippet": "BJP has made an explosive allegation at TMC after poll results in the state of West Bengal. BJP has alleged that two of it's women poll",
+      "bm25_score_raw": 1.0520114938225507,
+      "bm25_score_norm": 0.239324366972425,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8550118207931519,
+      "embedding_score_norm": 0.9735046284770843,
+      "embedding_rank": 2
+    },
+    {
+      "title": "𝐌𝐢𝐧𝐨𝐫 𝐬𝐞𝐱𝐮𝐚𝐥𝐥𝐲 𝐚𝐬𝐬𝐚𝐮𝐥𝐭𝐞𝐝 𝐢𝐧 𝐚𝐛𝐚𝐧𝐝𝐨𝐧𝐞𝐝 ...",
+      "url": "https://www.facebook.com/IndiaToday/posts/%F0%9D%90%8C%F0%9D%90%A2%F0%9D%90%A7%F0%9D%90%A8%F0%9D%90%AB-%F0%9D%90%AC%F0%9D%90%9E%F0%9D%90%B1%F0%9D%90%AE%F0%9D%90%9A%F0%9D%90%A5%F0%9D%90%A5%F0%9D%90%B2-%F0%9D%90%9A%F0%9D%90%AC%F0%9D%90%AC%F0%9D%90%9A%F0%9D%90%AE%F0%9D%90%A5%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%9D-%F0%9D%90%A2%F0%9D%90%A7-%F0%9D%90%9A%F0%9D%90%9B%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%9D%F0%9D%90%A8%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%9D-%F0%9D%90%81%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%A0%F0%9D%90%9A%F0%9D%90%A5-%F0%9D%90%9F%F0%9D%90%9A%F0%9D%90%9C%F0%9D%90%AD%F0%9D%90%A8%F0%9D%90%AB%F0%9D%90%B2-%F0%9D%90%81%F0%9D%90%89%F0%9D%90%8F-%F0%9D%90%93%F0%9D%90%AB%F0%9D%90%A2%F0%9D%90%A7%F0%9D%90%9A%F0%9D%90%A6%F0%9D%90%A8%F0%9D%90%A8%F0%9D%90%A5-%F0%9D%90%AD%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%9D%F0%9D%90%9E-%F0%9D%90%9B%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%9B%F0%9D%90%ACa-/1462766489220228?locale=",
+      "snippet": "Minor sexually assaulted in abandoned Bengal factory; BJP, Trinamool trade barbs A 16-year-old girl was allegedly sexually assaulted inside",
+      "bm25_score_raw": 2.7316068274903005,
+      "bm25_score_norm": 0.6214191371914238,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8529363870620728,
+      "embedding_score_norm": 0.9525156889610354,
+      "embedding_rank": 3
+    },
+    {
+      "title": "The Trinamool Congress (TMC) has released a video ...",
+      "url": "https://www.facebook.com/taazabengal/posts/the-trinamool-congress-tmc-has-released-a-video-making-serious-allegations-in-co/1369158601985938",
+      "snippet": "The Trinamool Congress (TMC) has released a video making serious allegations in connection with the Baruipur rape-murder case.",
+      "bm25_score_raw": 4.395755881989917,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8506556749343872,
+      "embedding_score_norm": 0.9294507612860758,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Reacting to TMC chief Mamata Banerjee's plan to visit the ...",
+      "url": "https://www.facebook.com/thestatesman1875/posts/-reacting-to-tmc-chief-mamata-banerjees-plan-to-visit-the-family-of-the-11-year-/1473872981446123",
+      "snippet": "Reacting to TMC chief Mamata Banerjee's plan to visit the family of the 11-year-old girl allegedly raped and murdered in Baruipur,",
+      "bm25_score_raw": 1.01233337614953,
+      "bm25_score_norm": 0.23029790628210595,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8254032135009766,
+      "embedding_score_norm": 0.6740716674030678,
+      "embedding_rank": 5
+    },
+    {
+      "title": "11-year-old girl's 'rape-murder' rocks West Bengal, mob ...",
+      "url": "https://www.deccanherald.com/india/west-bengal/tmc-alleges-mamata-s-house-arrest-after-rape-and-murder-4063158",
+      "snippet": "After a girl was found dead in the South 24 Parganas district of West Bengal, triggering protests and the lynching of one of the men accused",
+      "bm25_score_raw": 0.9850957068360896,
+      "bm25_score_norm": 0.22410155005926902,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8100926876068115,
+      "embedding_score_norm": 0.5192357421989199,
+      "embedding_rank": 6
+    },
+    {
+      "title": "সরকারি বাংলো ছাড়ার নোটিস পদত্যাগী বিজেপি সাংসদদের - Dainik Statesman",
+      "url": "https://www.dainikstatesmannews.com/features/notice-to-vacate-government-bungalow-to-resigned-bjp-mps/67563/amp",
+      "snippet": "দিল্লি, ৮ ডিসেম্বর – সদ্য সমাপ্ত তিন রাজ্যের বিধানসভা নির্বাচনে যে ১০ সাংসদ বিজেপির টিকিটে দাঁড়ান এবং জয়ী হন, তাঁরা চলতি সপ্তাহেই সাংসদ পদ থেকে ইস্তফা দিয়েছেন। এবার তাঁদেরই সরকারি বাংলো ছাড়তে বলা হল।",
+      "bm25_score_raw": 1.2478995872081065,
+      "bm25_score_norm": 0.2838873724359766,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.784635066986084,
+      "embedding_score_norm": 0.26178186572503764,
+      "embedding_rank": 7
+    },
+    {
+      "title": "সাত সাংসদ AAP ছেড়ে বিজেপিতে যোগ দিয়েছেন !",
+      "url": "https://www.youtube.com/watch?v=JlUyZ8St1PM",
+      "snippet": "Stay ahead with PB24 News, your go-to source for breaking news and in-depth coverage from Tripura and beyond. From politics and current",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.7840229272842407,
+      "embedding_score_norm": 0.25559127385743796,
+      "embedding_rank": 8
+    },
+    {
+      "title": "BJP Government: দরজা খুলে দিল বিজেপি! সরাসরি ঢুকে পড়লেন তৃণমূলের ...",
+      "url": "https://www.youtube.com/watch?v=FUr-SiSUgyQ",
+      "snippet": "ABP Ananda LIVE : দরজা খুলে দিল বিজেপি! সরাসরি ঢুকে পড়লেন তৃণমূলের সদ্য় পদত্য়াগী তিন সাংসদ! দুপুরে ঢুকলেন, রাতেই বিজেপির রাজ্য়সভার প্রার্থী করা হল! দরজা খুলে দিয়ে তৃণমূলের সদ্য় প্রাক্তন তিন",
+      "bm25_score_raw": 0.566467727442912,
+      "bm25_score_norm": 0.1288669668313058,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.7802932262420654,
+      "embedding_score_norm": 0.2178726666984133,
+      "embedding_rank": 9
+    },
+    {
+      "title": "নুরপুরে তৃণমূল-বিজেপি-সিপিআইএম একজোট, প্রধান বিজেপির, উপপ্রধান ...",
+      "url": "https://www.youtube.com/watch?v=Ete67Jm7wWA",
+      "snippet": "নুরপুরে তৃণমূল-বিজেপি-সিপিআইএম একজোট, প্রধান বিজেপির, উপপ্রধান সিপিআইএম-এর News Today is the local News channel of Dinajpur. We cover all types of news all over",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.7788206934928894,
+      "embedding_score_norm": 0.2029808875271328,
+      "embedding_rank": 10
+    },
+    {
+      "title": "BJP Joining: বিজেপিতে যোগ দিলেন ৩ প্রাক্তন তৃণমূল সাংসদ",
+      "url": "https://www.youtube.com/watch?v=4cwIesiltf4",
+      "snippet": "ABP Ananda LIVE : সল্টলেকে বিজেপি অফিসে সুখেন্দুশেখর রায়, সুস্মিতা দেব। বিজেপি অফিসে আসছেন প্রকাশ চিক বরাইকও। বিজেপিতে যোগ দিলেন ৩ প্রাক্তন তৃণমূল সাংসদ।",
+      "bm25_score_raw": 2.6861095171333145,
+      "bm25_score_norm": 0.6110688557885381,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.7740142345428467,
+      "embedding_score_norm": 0.154372987078119,
+      "embedding_rank": 11
+    },
+    {
+      "title": "জুলাই সনদ প্রশ্নে বিএনপি–জামায়াত মুখোমুখি, সমঝোতার নতুন উদ্যোগ ৯ দলের",
+      "url": "https://www.prothomalo.com/amp/story/politics/wofiydasv4",
+      "snippet": "জুলাই জাতীয় সনদ বাস্তবায়নের পদ্ধতি নিয়ে বিএনপি ও জামায়াতে ইসলামী কার্যত মুখোমুখি অবস্থানে। সংস্কার প্রশ্নে তাদের মিত্র দলগুলোর অবস্থানও প্রায় একই রকম। এ কারণে যে রাজনৈতিক সংকট সামনে আসছে,",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.7587494850158691,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

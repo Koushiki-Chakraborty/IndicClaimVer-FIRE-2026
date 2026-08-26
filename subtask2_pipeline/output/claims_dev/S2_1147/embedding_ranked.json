@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/1147",
+    "text": "আক্রান্তের সংখ্যা ছাড়াল ১ লক্ষ, ইউরোপের পর করোনার ভরকেন্দ্র আমেরিকা",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Ebola death toll in DR Congo surpasses 1,000 - NPR",
+      "url": "https://www.npr.org/2026/07/23/nx-s1-5902980/ebola-congo-outbreak-deaths",
+      "snippet": "**DR Congo Ebola Death Toll Tops 1,000 as Outbreak Accelerates** **Congo's Ebola outbreak has crossed the grim 1,000-death threshold, marking the fastest fatal surge in recorded history of the virus.**. # Ebola death toll in DR Congo surpasses 1,000. #### Over 1,000 people have died in Congo's Ebola outbreak. KINSHASA, Democratic Republic of Congo—More than 1,000 people have died of Ebola in eastern Democratic Republic of Congo, according to official figures released Thursday, with the outbreak showing no sign of slowing. Funding is also a problem, as the severely degraded local health system in eastern Congo, as well as NGOs, struggles to cope as Ebola spreads in remote rural areas. In mid-July, the WHO said its joint $518 million plan to fight the disease, with the Africa Centers for Disease Control, faced a funding shortfall of over $400 million. According to official figures, four people have died of Ebola in its capital Kisangani, a major trading center of over 1 million people, with direct links to Congo's capital Kinshasa.",
+      "bm25_score_raw": 3.890066280180235,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8521199822425842,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Congo’s Ebola outbreak has killed more than 1,000 people - Los Angeles Times",
+      "url": "https://www.latimes.com/world-nation/story/2026-07-23/congos-ebola-outbreak-has-killed-more-than-1-000-people",
+      "snippet": "# Congo’s Ebola outbreak has killed more than 1,000 people. BUNIA, Congo — More than 1,000 people have died in the Ebola outbreak in Congo, according to Africa’s top health body, a grim toll as conflict, community resistance and an uneven response fuel its spread. Speaking at a health summit in Ghana on Wednesday, Dr. Jean Kaseya, director-general of the Africa Centres for Disease Control and Prevention, said 1,031 deaths have been confirmed in the fastest Ebola outbreak in history. It has also killed more people at a faster rate than any outbreak on record, including the 2013-2016 outbreak that is considered the worst — with over 11,000 deaths out of at least 28,000 cases. Officials have warned that 80% of new cases have emerged outside known chains of transmission, a sign the outbreak is spreading faster than health officials can track it even as they step up their response in Ituri province, the epicenter of the outbreak, and four other provinces where cases have been recorded.",
+      "bm25_score_raw": 1.3667471669422118,
+      "bm25_score_norm": 0.3513428997098958,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8390008211135864,
+      "embedding_score_norm": 0.8874023864639153,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Congo's Ebola outbreak has killed nearly 1,000 people - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://abcnews.com/Health/wireStory/congos-ebola-outbreak-killed-1000-people-134975874",
+      "snippet": "# Congo's Ebola outbreak has killed nearly 1,000 people. At least 999 people have died from the Ebola outbreak in eastern Congo, according to official data published overnight into Wednesday, a grim toll in what’s already been declared the fastest Ebola outbreak in history. BUNIA, Congo -- At least 999 people have died from the Ebola outbreak in Congo, according to official data published overnight into Wednesday, a grim toll in what’s already been declared the fastest Ebola outbreak in history. The latest update from Congo’s Ministry of Health shows that as of Monday, 2,473 cases have been recorded in the latest outbreak, and 999 people have died. It has also killed more people at a quicker rate than any outbreak on record, including the 2013-2016 outbreak that is considered the worst on record with over 11,000 deaths out of at least 28,000 cases.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.8248780965805054,
+      "embedding_score_norm": 0.7661915054162244,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Ebola Deaths Surpass 1,000 in Congo as Virus Outpaces Response - Bloomberg Law News",
+      "url": "https://news.bloomberglaw.com/health-law-and-business/ebola-deaths-surpass-1-000-in-congo-as-virus-outpaces-response",
+      "snippet": "# Ebola Deaths Surpass 1,000 in Congo as Virus Outpaces Response. Confirmed Ebola deaths in Democratic Republic of Congo have surpassed 1,000, prompting Africa’s top public health official to warn the outbreak could become one of the worst on record unless transmission is rapidly brought under control. The number of fatal cases has doubled in just over two weeks, with the National Institute of Public Health reporting 2,536 cases and 1,033 deaths on Thursday. The death toll has climbed from 506 on July 4, with the epidemic spreading into two new provinces beyond its original epicenter in Ituri. A priest conducts a blessing ceremony for an orphan who died from Ebola virus disease in Bunia, Democratic Republic of Congo on June 19. ## Learn more about Bloomberg Law or Log In to keep reading:. Bloomberg Law provides trusted coverage of current events enhanced with legal analysis. Log in to keep reading or access research tools and resources. © 2026 Bloomberg Industry Group, Inc.",
+      "bm25_score_raw": 1.3776811442777497,
+      "bm25_score_norm": 0.354153642907575,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8217486143112183,
+      "embedding_score_norm": 0.7393321482011996,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Thieves hit Corona collectible card shop for nearly $20k in stolen goods, owner says - CBS News",
+      "url": "https://www.cbsnews.com/losangeles/video/thieves-hit-corona-collectible-card-shop-for-nearly-20k-in-stolen-goods-owner-says/",
+      "snippet": "# Thieves hit Corona collectible card shop for nearly $20k in stolen goods, owner says. Up to $20,000 in stolen memorabilia was taken from a card shop in Corona over the weekend, the store's owner says.",
+      "bm25_score_raw": 2.875494039540758,
+      "bm25_score_norm": 0.7391889578312095,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8082666397094727,
+      "embedding_score_norm": 0.6236206212991265,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Why No Brit Or European Can Ignore August’s Total Solar Eclipse - Forbes",
+      "url": "https://www.forbes.com/sites/jamiecartereurope/2026/07/21/why-no-brit-or-european-can-ignore-augusts-total-solar-eclipse/",
+      "snippet": "Europe’s biggest skywatching event of 2026 arrives on Aug. 12, when a total solar eclipse crosses Greenland, Iceland and Spain. To experience a total solar eclipse, you *must* be within its narrow path of totality. However, millions outside the path of totality will still see a deep partial eclipse, including a rare eclipsed sunset across much of central and eastern Europe. For many, it will be the deepest solar eclipse since 1999 — and it occurs on the same day as the peak of the annual Perseid meteor shower. Aug. 12’s total solar eclipse will be the first since 2015 and the first visible from mainland Europe since 1999, but it will only be visible from a narrow 180-mile (290-kilometer) path of totality through eastern Greenland, western Iceland and northern Spain. To experience totality — a brief opportunity to see the sun’s beautiful corona with the naked eye — you must be inside the path of totality.",
+      "bm25_score_raw": 2.3807087172395702,
+      "bm25_score_norm": 0.6119969547483564,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8055908679962158,
+      "embedding_score_norm": 0.6006553183870267,
+      "embedding_rank": 6
+    },
+    {
+      "title": "Rio Tinto resumes Pilbara port operations after cyclone Narelle - Mining.com",
+      "url": "https://www.mining.com/web/rio-tinto-resumes-pilbara-port-operations-after-cyclone-narelle/",
+      "snippet": "Brent Crude Oil $ 112.19 / bbl  4.20%. Palladium $ 1445.2 / ozt  -1.32%. Crude Oil $ 98.32 / bbl  3.49%. Silver Futures $ 69.664 / ozt  -4.35%. Aluminum Futures $ 3126.75 / ton  -1.30%. Micro Gold Futures $ 4574.9 / ozt  -1.69%. Micro Silver Futures $ 69.664 / ozt  -4.44%. Platinum $ 1970.5 / ozt  -0.10%. Gold Futures $ 4574.9 / ozt  -1.70%. (*Image courtesy of Rio Tinto.*). Rio Tinto (ASX: RIO)said on Monday operations at three of its four Pilbara iron ore port terminals have resumed after Tropical Cyclone Narelle swept through Western Australia’s Pilbara region, disrupting shipments but leaving its annual guidance unchanged. South32 (ASX: S32) also suspended operations at its Gemco manganese mine, co-owned by Anglo American (LON: AAL). Rio’s guidance for its Pilbara iron ore shipments for 2026 remained unchanged at 323 million tons to 338 million tons. They plan to choose a US site by June for the refinery and be in commercial production before President Donald Trump's term ends in 2029. March 29, 2026 | 04:39 pm.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.7652754783630371,
+      "embedding_score_norm": 0.25464107122303076,
+      "embedding_rank": 7
+    },
+    {
+      "title": "Citigroup picks London gold vault for precious metals push - Mining.com",
+      "url": "https://www.mining.com/web/citigroup-picks-london-gold-vault-for-precious-metals-push/",
+      "snippet": "Brent Crude Oil $ 112.19 / bbl  4.20%. Palladium $ 1445.2 / ozt  -1.32%. Crude Oil $ 98.32 / bbl  3.49%. Silver Futures $ 69.664 / ozt  -4.35%. Aluminum Futures $ 3126.75 / ton  -1.30%. Micro Gold Futures $ 4574.9 / ozt  -1.69%. Micro Silver Futures $ 69.664 / ozt  -4.44%. Platinum $ 1970.5 / ozt  -0.10%. Gold Futures $ 4574.9 / ozt  -1.70%. # Citigroup picks London gold vault for precious metals push. Bloomberg News | March 27, 2026 | 7:50 am  Markets Europe Gold. A 2012 profile of the company’s high security facility described how at that time it had capacity for more than 300 tons of gold — an amount worth approximately $43 billion at current prices — and 1,000 tons of silver. ## More News. March 27, 2026 | 07:38 am. March 27, 2026 | 07:18 am. ## Your Rankings. The new Mining Power Rankings are live. Vote for the sector’s leaders in each of the Large-, Small-, and Micro-Cap leagues.",
+      "bm25_score_raw": 0.9611507455615128,
+      "bm25_score_norm": 0.24707824400281958,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.7551747560501099,
+      "embedding_score_norm": 0.16794976403933956,
+      "embedding_rank": 8
+    },
+    {
+      "title": "Judge upholds US government approval of ioneer’s Nevada lithium mine - Mining.com",
+      "url": "https://www.mining.com/web/judge-upholds-us-government-approval-of-ioneers-nevada-lithium-mine/",
+      "snippet": "Brent Crude Oil $ 112.19 / bbl  4.20%. Palladium $ 1445.2 / ozt  -1.32%. Crude Oil $ 98.32 / bbl  3.49%. Silver Futures $ 69.664 / ozt  -4.35%. Aluminum Futures $ 3126.75 / ton  -1.30%. Micro Gold Futures $ 4574.9 / ozt  -1.69%. Micro Silver Futures $ 69.664 / ozt  -4.44%. Platinum $ 1970.5 / ozt  -0.10%. Gold Futures $ 4574.9 / ozt  -1.70%. Reuters | March 30, 2026 | 12:41 pm  Battery Metals Regulatory Issues USA Lithium. A federal judge rejected claims by environmentalists that the US government in 2024 improperly approved Australia-based ioneer’s Rhyolite Ridge lithium and boron mine project in Nevada in a ruling on Monday that boosts efforts to increase US critical minerals production. Shares of ioneer gained about 24% in afternoon trading on the New York Stock Exchange. “Rhyolite Ridge will create hundreds of new American jobs, reduce reliance on foreign materials and processing and provide a domestic source of two critical minerals,” said spokesperson Chad Yeftich. The Interior Department declined to comment. ## Your Rankings. The new Mining Power Rankings are live.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.7529850006103516,
+      "embedding_score_norm": 0.14915578519266923,
+      "embedding_rank": 9
+    },
+    {
+      "title": "US bets billions on unproven rare earth players: report - Mining.com",
+      "url": "https://www.mining.com/us-bets-billions-on-unproven-rare-earth-players-report/",
+      "snippet": "Brent Crude Oil $ 112.19 / bbl  4.20%. Palladium $ 1445.2 / ozt  -1.32%. Crude Oil $ 98.32 / bbl  3.49%. Silver Futures $ 69.664 / ozt  -4.35%. Aluminum Futures $ 3126.75 / ton  -1.30%. Micro Gold Futures $ 4574.9 / ozt  -1.69%. Micro Silver Futures $ 69.664 / ozt  -4.44%. Platinum $ 1970.5 / ozt  -0.10%. Gold Futures $ 4574.9 / ozt  -1.70%. Staff Writer | March 30, 2026 | 5:16 am  Critical Minerals Markets USA Rare Earth. The group is also fighting a lawsuit over $45 million in financing tied to a West Virginia authority, allegations it denies, adding legal risk to its funding challenges. Other projects highlight both political scrutiny and reliance on state support. March 29, 2026 | 05:39 pm. Vote for the sector’s leaders in each of the Large-, Small-, and Micro-Cap leagues.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.745659351348877,
+      "embedding_score_norm": 0.08628205292169175,
+      "embedding_rank": 10
+    },
+    {
+      "title": "Savannah Resources shifts Barroso timeline to July - Mining.com",
+      "url": "https://www.mining.com/savannah-resources-shifts-barroso-timeline-to-july/",
+      "snippet": "Brent Crude Oil $ 112.19 / bbl  4.20%. Palladium $ 1445.2 / ozt  -1.32%. Crude Oil $ 98.32 / bbl  3.49%. Silver Futures $ 69.664 / ozt  -4.35%. Aluminum Futures $ 3126.75 / ton  -1.30%. Micro Gold Futures $ 4574.9 / ozt  -1.69%. Micro Silver Futures $ 69.664 / ozt  -4.44%. Platinum $ 1970.5 / ozt  -0.10%. Gold Futures $ 4574.9 / ozt  -1.70%. MINING.COM Editor | March 23, 2026 | 5:43 am  Battery Metals Critical Minerals Europe Lithium. Savannah Resources (LON: SAV) said Monday it now expects to complete key studies and environmental compliance for its Barroso lithium project in Portugal in July. Chief executive Emanuel Proença said the company can meet required standards without waiting for additional geotechnical and resource data from outstanding fieldwork, which will instead feed into future engineering studies. The company is advancing a tender for detailed engineering and expects to select a partner in the coming weeks.",
+      "bm25_score_raw": 0.9985288301111273,
+      "bm25_score_norm": 0.256686842380707,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.7390755414962769,
+      "embedding_score_norm": 0.02977529383177092,
+      "embedding_rank": 11
+    },
+    {
+      "title": "ION Minerals expands lithium footprint in Texas, Saskatchewan - Mining.com",
+      "url": "https://www.mining.com/ion-minerals-expands-lithium-footprint-in-texas-saskatchewan/",
+      "snippet": "Brent Crude Oil $ 104.4 / bbl  -4.21%. Palladium $ 1496.5 / ozt  5.39%. Crude Oil $ 101.85 / bbl  -3.06%. Silver Futures $ 75.495 / ozt  7.47%. Aluminum Futures $ 3314.25 / ton  -1.21%. Micro Gold Futures $ 4713.1 / ozt  3.80%. Micro Silver Futures $ 75.48 / ozt  7.54%. Platinum $ 1973.85 / ozt  4.22%. Gold Futures $ 4713.3 / ozt  3.84%. Staff Writer | April 1, 2026 | 4:14 pm  Battery Metals News Canada USA Lithium. The privately-held, Houston-based company said it has strategically expanded its acreage footprint through disciplined acquisitions, targeted leasing, and focused geological evaluation. “With this portfolio expansion, we have materially strengthened our position as a scaled, diversified, lithium developer, and advanced our mission to responsibly unlock lithium resources that will help fuel the North American battery supply chain,” ION Minerals CEO Justin Love said in a news release. April 01, 2026 | 02:21 pm.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.73560631275177,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

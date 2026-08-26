@@ -1,0 +1,105 @@
+{
+  "claim": {
+    "id": "S2/1107",
+    "text": "BREAKING| सुप्रीम कोर्ट ने रिसॉल्यूशन योजना के विफल होने पर जेट एयरवेज के परिसमापन का आदेश दिया",
+    "lang": "dev"
+  },
+  "ranked_evidence": [
+    {
+      "title": "Supreme Court of India orders for liquidation of Jet Airways ...",
+      "url": "https://www.lexology.com/library/detail.aspx?g=2d8debf7-e1ec-429a-b8f9-65f37b8f41f5",
+      "snippet": "Nov 21, 2024 — ... resolution applicant failed to implement the Plan. Supreme Court held that PBG had to be kept alive till the implementation of the plan and ...Read more",
+      "bm25_score_raw": 7.336968250465704,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Supreme Court Orders Liquidation of Jet Airways, Setting a ...",
+      "url": "https://knallp.com/supreme-court-orders-liquidation-of-jet-airways-setting-a-precedent-for-non-implementation-of-resolution-plans",
+      "snippet": "Nov 7, 2024 — The Supreme Court of India has ordered the liquidation of Jet Airways, after the Jalan-Kalrock Consortium failed to implement the approved resolution plan.Read more",
+      "bm25_score_raw": 5.957054683108566,
+      "bm25_score_norm": 0.7534279470969661,
+      "bm25_rank": 2
+    },
+    {
+      "title": "Factual Analysis of Jet Airways Liquidation",
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6107027",
+      "snippet": "by I Sharma · 2025 — This paper primarily aims to analyze the legal complications regarding the failure to revive Jet Airways, explore why implementation fails in ...Read more",
+      "bm25_score_raw": 5.952927808859276,
+      "bm25_score_norm": 0.7526905300008585,
+      "bm25_rank": 3
+    },
+    {
+      "title": "कभी थी भारत की शान, अब हो गई बर्बाद... कैसे अर्श से फर्श पर ...",
+      "url": "https://www.aajtak.in/business/news/story/jet-airways-story-how-started-this-airlines-by-naresh-goyal-and-why-sudden-ruined-tutd-dskc-2092357-2024-11-09",
+      "snippet": "Nov 9, 2024 — अब सुप्रीम कोर्ट के इस फैसले के बाद जेट एयरवेज (Jet Airways) पूरी तरह से खत्‍म हो जाएगी, जबकि कभी ये देश की सबसे अच्‍छी एयरलाइन मानी जाती थी. फिर ये जानने की दिलचस्‍पी और बढ़ जाती है कि आखिर ...Read more",
+      "bm25_score_raw": 5.111327179171379,
+      "bm25_score_norm": 0.6023077814754769,
+      "bm25_rank": 4
+    },
+    {
+      "title": "Rise & Fall of Jet Airways | जानिए कैसे औंधे मुंह गिरी जेट एयरवेज",
+      "url": "https://www.youtube.com/watch?v=zMbooUK3Ps0",
+      "snippet": "मई 2018 में जेट एयरवेज की बदहाली के पहले संकेत मिले थे, जब एयरलाइन कंपनी ने वित्तीय वर्ष 2018 में 1 हजार 36 करोड़ का अनुमानित घाटा दिखाया था, जबकि ठीक एक साल पहले वित्तीय वर्ष 2017 की चौथी ...Read more",
+      "bm25_score_raw": 4.644365238762822,
+      "bm25_score_norm": 0.5188679436495164,
+      "bm25_rank": 5
+    },
+    {
+      "title": "Jet Airways Flight: जेट एयरवेज की फ्लाइट फिर से भरेगी उड़ानें ...",
+      "url": "https://navbharattimes.indiatimes.com/business/business-news/jet-airways-close-to-re-operations-gets-security-clearance-from-ministry-of-home-affairs/articleshow/91423866.cms",
+      "snippet": "May 9, 2022 — वित्तीय संकट ने दो दशकों से अधिक समय तक उड़ानें संचालित करने वाली जेट एयरवेज को 17 अप्रैल, 2019 को परिचालन निलंबित करने के लिए मजबूर किया था। इसके बाद भारतीय स्टेट बैंक (SBI) के नेतृत्व में ऋणदाताओं ...Read more",
+      "bm25_score_raw": 4.626670709527141,
+      "bm25_score_norm": 0.5157061685195344,
+      "bm25_rank": 6
+    },
+    {
+      "title": "3 साल बाद Jet Airways ने फिर भरी उड़ान! | BIZ Tak",
+      "url": "https://www.youtube.com/watch?v=z2LRHnS0mkE",
+      "snippet": "बुज़ुर्गों, ये 5 फल तुरंत बंद करें – ये आपकी सेहत खराब कर रहे हैं! ... | Big Breaking. Qvive •4.6M views · 14:15. Go to channel Rajnikant Sharma · Who Killed Jet ...Read more",
+      "bm25_score_raw": 4.23100324345916,
+      "bm25_score_norm": 0.4450056973572897,
+      "bm25_rank": 7
+    },
+    {
+      "title": "The Supreme Court's Judgment in the Jet Airways ...",
+      "url": "https://www.linkedin.com/pulse/supreme-courts-judgment-jet-airways-insolvency-case-mukesh-chand-cpzmf",
+      "snippet": "The Court highlighted the failure of all stakeholders, including the SRA, CoC, and tribunals, in ensuring timely implementation.",
+      "bm25_score_raw": 3.417164443321759,
+      "bm25_score_norm": 0.2995836155479548,
+      "bm25_rank": 8
+    },
+    {
+      "title": "17210_2024_1_1506_57037_Ju...",
+      "url": "https://api.sci.gov.in/supremecourt/2024/17210/17210_2024_1_1506_57037_Judgement_07-Nov-2024.pdf",
+      "snippet": "Whether the Performance Bank Guarantee (PBG) could have been adjusted against the first tranche payment which was to be made under the Resolution Plan, within 180 days from the Effective Date, in contravention of the order of this Court dated 18.01.2024, the terms of the Resolution Plan and the provisions of law? Whether Respondent No.1/SRA could be said to have failed to implement the Resolution Plan on account of the non-payment of workmen and employees’ dues as per the terms of the Resolution Plan and the order of the NCLT dated 21.10.2022 which was confirmed by the order dated 31.01.2023 of this Court?",
+      "bm25_score_raw": 3.2068659204191814,
+      "bm25_score_norm": 0.2620060891425319,
+      "bm25_rank": 9
+    },
+    {
+      "title": "Civil Appeal Nos. 5023-5024 of 2024",
+      "url": "https://www.jetairways.com/liquidationproceedings/Documents/SC_Order_dt_07-11-2024.pdf",
+      "snippet": "Whether the Performance Bank Guarantee (PBG) could have been adjusted against the first tranche payment which was to be made under the Resolution Plan, within 180 days from the Effective Date in contravention of the order of this Court dated 18.01.2024, the terms of the Resolution Plan and the provisions of law? Whether Respondent No.1/SRA could be said to have failed to implement the Resolution Plan on account of the non-payment of workmen and employees’ dues as per the terms of the Resolution Plan and the order of the NCLT dated 21.10.2022 which was confirmed y the order dated 31.01.2023 of this Court?",
+      "bm25_score_raw": 3.170955110918172,
+      "bm25_score_norm": 0.25558930896909515,
+      "bm25_rank": 10
+    },
+    {
+      "title": "Who Killed Jet Airways? The Dark Truth Behind India’s Biggest Airline Collapse, Business Case Study",
+      "url": "https://www.youtube.com/watch?v=_tbQffBV-bQ",
+      "snippet": "Who Killed Jet Airways? The Dark Truth Behind India’s Biggest Airline Collapse, Business Case Study\nRajnikant Sharma\n289000 subscribers\n1401 likes\n83516 views\n15 Mar 2026\nWho Killed Jet Airways? The Dark Truth Behind India’s Biggest Airline Collapse, Business Case Study, Rajnikant Sharma\n\nFor Promotion & Video Making \nEmail Id:- business.rajnikantsharma@gmail.com\n------------------------------------------\n✈️ Why did Jet Airways — once India’s most premium airline — suddenly collapse?\n\nFor years, Jet Airways wasn’t just another airline. It represented the golden era of Indian aviation. Known for its five-star service, punctual flights, iconic yellow-jacket cabin crew, and premium in-flight experience, Jet Airways became the preferred airline for corporate leaders, celebrities, and millions of Indian travellers.\n\nBut in April 2019, the airline that once ruled India’s skies suddenly stopped flying.\n\nMore than 20,000 employees lost their jobs, hundreds of flights were cancelled overnight, and Indian banks were left with thousands of crores in unpaid loans.\n\nSo what really happened?\n\nIn this business case study, we explore the rise, dominance, and dramatic collapse of Jet Airways, uncovering the real business decisions, industry changes, financial pressures, and competitive shifts that transformed India’s most admired airline into one of the biggest corporate collapses in Indian aviation history.\n\n🔍 What you’ll learn in this video\n\nThe Rise of Jet Airways\n• How Jet Airways entered India’s aviation market in the 1990s\n• Why it quickly became India’s most respected private airline\n• The premium service that changed air travel for Indian passengers\n• How the airline dominated corporate and international travel\n\nThe Golden Era of Indian Aviation\n• Why Jet Airways was once considered India’s best airline\n• The five-star passenger experience that made it iconic\n• How Jet Airways built trust among business travellers and global flyers\n• Its role in shaping modern Indian aviation standards\n\nThe Competitive Aviation War\n• The arrival of low-cost airlines like IndiGo\n• How the aviation market shifted from luxury to affordability\n• Why pricing wars changed the economics of flying in India\n• The new strategies that disrupted traditional airlines\n\nThe Business Decisions That Changed Everything\n• The high-stakes acquisition of Air Sahara\n• How expanding too fast increased financial pressure\n• The challenge of managing premium and low-cost airline models together\n• Operational complexity that increased airline costs\n\nThe Debt Crisis\n• How rising fuel prices and heavy loans created financial strain\n• Why mounting debt became difficult to manage\n• The struggle to maintain premium service while competing with budget airlines\n• The financial pressures that pushed the airline toward shutdown\n\nThe Final Shutdown in 2019\n• What happened on the night Jet Airways stopped flying\n• The impact on employees, passengers, and India’s aviation industry\n• Why revival plans failed to save the airline in time\n• The legacy Jet Airways left behind\n\n🌍 Why this story matters\n\n• Case Study in Aviation Economics: Jet Airways shows how even premium airlines can struggle when the industry shifts toward low-cost models.\n• Changing Airline Industry: Similar to airline collapses around the world, the story reflects how fuel prices, debt, and competition can reshape entire aviation markets.\n• Cultural Moment in Indian Aviation: For millions of travellers, Jet Airways symbolized comfort, service, and prestige. Its disappearance marked the end of an era in Indian aviation history.\n\n📢 Watch this video if you want to know\n• Why Jet Airways suddenly shut down in 2019\n• The real story behind India’s most iconic airline collapse\n• How competition changed the aviation industry\n• The rise and fall of Jet Airways explained\n• What businesses can learn from the Jet Airways case study\n\n#JetAirways #AviationHistory #BusinessCaseStudy #IndianAviation #RiseAndFall #CorporateCollapse #AirlineIndustry #BusinessDocumentary\n\nAur agar aapko ye business case study pasand aayi toh Google, Xiaomi & Canva wali case studies ke link niche diye gaye hai do check out….\n\nGoogle AI Overview Case Study: https://youtu.be/ZUiKZSJEMOg\nXiaomi Business Case Study: https://youtu.be/nmkeSz5DsKk\nCanva Inspiring Case Study: https://youtu.be/h9jGdqWOMs8\nPatanjali Business Case Study: https://youtu.be/bFuFhB7QBqk\n________________________________________\n\njet airways, jet airways collapse, jet airways shutdown, why jet airways failed, jet airways history, indian aviation industry, rise and fall of jet airways, jet airways case study, jet airways bankruptcy, indian airline failures, aviation business case study, jet airways documentary, airline industry india, aviation economics india, jet airways shutdown 2019, jet airways bankruptcy explained, indian aviation history, jet airways business case study, jet airways crisis, why jet airways stopped flying, jet airways financial crisis, jet airways aviation industry analysis, jet airways aviation collapse, jet airways corporate case study, jet airways business story, jet airways aviation economics\n110 comments\n",
+      "bm25_score_raw": 1.8980559389647937,
+      "bm25_score_norm": 0.02813929369876529,
+      "bm25_rank": 11
+    },
+    {
+      "title": "Jet Airways temporarily suspends all flights",
+      "url": "https://www.bbc.com/news/business-47963536",
+      "snippet": "Apr 17, 2019 — Troubled Indian airline Jet Airways has temporarily suspended all its domestic and international flights after failing to find fresh funding.Read more",
+      "bm25_score_raw": 1.740577454709956,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12
+    }
+  ]
+}

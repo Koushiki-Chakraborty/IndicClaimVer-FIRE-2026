@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/1136",
+    "text": "ভ্যাকসিনের ট্রায়ালে অংশ নেওয়ার পরই করোনা আক্রান্ত হরিয়ানার স্বাস্থ্যমন্ত্রী অনিল ভিজ",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Haryana health minister Anil Vij, who took trial shot ...",
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/haryana-health-minister-anil-vij-who-took-trial-shot-of-bharat-biotechs-vaccine-tests-positive-for-covid-19/articleshow/79578170.cms",
+      "snippet": "Haryana health minister, Anil Vij, who was recently given a trial dose of corona vaccine, Covaxin, has been tested positive for the Covid-19.",
+      "bm25_score_raw": 2.1471199657721605,
+      "bm25_score_norm": 0.4962426579183441,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.9298228025436401,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Haryana Health Minister Anil Vij who took trial COVID-19 ...",
+      "url": "https://www.thehindu.com/news/national/other-states/coronavirus-haryana-health-minister-anil-vij-tests-positive/article33255876.ece",
+      "snippet": "Haryana Health Minister Anil Vij being administered the coronavirus vaccine Covaxin in Ambala on November 20, 2020. Haryana Health Minister Anil",
+      "bm25_score_raw": 1.295833057319323,
+      "bm25_score_norm": 0.2994931120913582,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.9210464954376221,
+      "embedding_score_norm": 0.9464252902378847,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Haryana Health Minister tests positive weeks after getting ...",
+      "url": "https://www.deccanchronicle.com/nation/current-affairs/051220/haryana-health-minister-tests-positive-weeks-after-getting-covaxin-vac.html",
+      "snippet": "Haryana health minister Anil Vij, who had received one shot of the two-dose trial of Covid-19 vaccine Covaxin a fortnight ago after he offered to be a",
+      "bm25_score_raw": 0.3149102849558573,
+      "bm25_score_norm": 0.07278210780184251,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.9199279546737671,
+      "embedding_score_norm": 0.9395971908953339,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Haryana health minister Anil Vij tests positive for COVID-19 ...",
+      "url": "https://www.nationalheraldindia.com/india/haryana-health-minister-anil-vij-tests-positive-for-covid-19-15-days-after-getting-covaxin-vaccine-shot",
+      "snippet": "Haryana health minister Anil Vij tests positive for COVID-19 15 days after getting Covaxin vaccine shot. On November 20, Vij was administered",
+      "bm25_score_raw": 1.4298515330818224,
+      "bm25_score_norm": 0.33046748039994533,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.9047069549560547,
+      "embedding_score_norm": 0.846681043783013,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Haryana Health Minister Anil Vij Administered Trial Dose Of ...",
+      "url": "https://swachhindia.ndtv.com/haryana-health-minister-anil-vij-administered-trial-dose-of-covaxin-53284",
+      "snippet": "Haryana Health Minister Anil Vij was administered a trial dose of Bharat Biotech's COVID-19 vaccine 'Covaxin' at a hospital in Ambala on Friday.",
+      "bm25_score_raw": 1.2700841474156417,
+      "bm25_score_norm": 0.29354202053951395,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.9001679420471191,
+      "embedding_score_norm": 0.8189727723808002,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Will Not Take Second Dose of COVID-19 Vaccine Candidate",
+      "url": "https://science.thewire.in/health/haryana-health-minister-anil-vij-second-dose-covaxin-antibodies",
+      "snippet": "Haryana health minister Anil Vij on Monday said that he did not need another dose of vaccination against coronavirus as he has a “high antibody count”.",
+      "bm25_score_raw": 0.9725795830186381,
+      "bm25_score_norm": 0.22478272523571613,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.8944477438926697,
+      "embedding_score_norm": 0.7840539902319538,
+      "embedding_rank": 6
+    },
+    {
+      "title": "ভ্যাকসিনের ট্রায়ালে অংশ নেওয়ার পরই করোনা আক্রান্ত ...",
+      "url": "https://www.sangbadpratidin.in/india/days-after-getting-corona-vaccine-haryana-health-minister-anil-vij-test-covid-positive/pid/493532",
+      "snippet": "Nov 20, 2025 — তারপর থেকে সুস্থও ছিলেন। কিন্তু, শনিবার আচমকা নিজেই টুইট করে করোনা আক্রান্ত হওয়ার খবর দিলেন হরিয়ানার স্বাস্থ্যমন্ত্রী অনিল ভিজ। আম্বালা ক্যান্টনমেন্টের সিভিল হাসপাতালে ভরতি করা হয়েছে তাঁকে।Read more",
+      "bm25_score_raw": 4.32675412222515,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8685147762298584,
+      "embedding_score_norm": 0.625746948440682,
+      "embedding_rank": 7
+    },
+    {
+      "title": "ভ্যাকসিন নেওয়ার পরেও করোনায় আক্রান্ত মন্ত্রী",
+      "url": "https://www.ittefaq.com.bd/204175/%E0%A6%AD%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%95%E0%A6%B8%E0%A6%BF%E0%A6%A8-%E0%A6%A8%E0%A7%87%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A6%B0-%E0%A6%AA%E0%A6%B0%E0%A7%87%E0%A6%93-%E0%A6%95%E0%A6%B0%E0%A7%8B%E0%A6%A8%E0%A6%BE%E0%A7%9F-%E0%A6%86%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A4-%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80",
+      "snippet": "Dec 5, 2020 — জানা গেছে, গত ২০ নভেম্বর হরিয়ানার স্বরাষ্ট্রমন্ত্রী অনিল ভিজ ভারতের তৈরি কোভ্যাকসিনের তৃতীয় পর্যায়ের ট্রায়ালে ভ্যাকসিন গ্রহণ করেন। এখনও পর্যন্ত ১ম ও ২য় পর্যায়ের ক্লিনিকাল ট্রায়ালে এক হাজার অংশগ্রহণকারীদের ...Read more",
+      "bm25_score_raw": 2.328143755728199,
+      "bm25_score_norm": 0.538080900823384,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.867499589920044,
+      "embedding_score_norm": 0.6195497733366468,
+      "embedding_rank": 8
+    },
+    {
+      "title": "কোভ্যাক্সিন নেওয়ার পর করোনা ধরা পড়ল হরিয়ানার ...",
+      "url": "https://www.anandabazar.com/india/haryana-minister-anil-vij-who-got-trial-dose-of-covid-vaccine-tested-positive-dgtl-1.1238923",
+      "snippet": "Dec 5, 2020 — হরিয়ানার স্বরাষ্ট্রমন্ত্রী অনিল ভিজ করোনার সম্ভাব্য টিকা কোভ্যাক্সিনের প্রথম ডোজ নিয়েছিলেন দিন ১৫ আগে। শনিবার তাঁর করোনা ধরা পড়ল। এ কথা টুইট করে নিজেই জানিয়েছেন অনিল। তিনি আবার হরিয়ানার স্বাস্থ্যমন্ত্রীও ...Read more",
+      "bm25_score_raw": 2.2501296304974683,
+      "bm25_score_norm": 0.5200502656111825,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8450925350189209,
+      "embedding_score_norm": 0.48276656276186175,
+      "embedding_rank": 9
+    },
+    {
+      "title": "💉🩹👧👦 ভাই-বোন দু'জনেই হাসিমুখে ভ্যাকসিন নিল! 😊💪✨❤️👏 # ...",
+      "url": "https://www.facebook.com/100064149755332/videos/-%E0%A6%AD%E0%A6%BE%E0%A6%87-%E0%A6%AC%E0%A7%8B%E0%A6%A8-%E0%A6%A6%E0%A7%81%E0%A6%9C%E0%A6%A8%E0%A7%87%E0%A6%87-%E0%A6%B9%E0%A6%BE%E0%A6%B8%E0%A6%BF%E0%A6%AE%E0%A7%81%E0%A6%96%E0%A7%87-%E0%A6%AD%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%95%E0%A6%B8%E0%A6%BF%E0%A6%A8-%E0%A6%A8%E0%A6%BF%E0%A6%B2-%EF%B8%8F%E0%A6%9F%E0%A6%BF%E0%A6%95%E0%A6%BE%E0%A6%95%E0%A6%B0%E0%A6%A3-%E0%A6%AD%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%95%E0%A6%B8%E0%A6%BF%E0%A6%A8-%E0%A6%B6%E0%A6%BF%E0%A6%B6%E0%A7%81%E0%A6%B0_%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A7%8D%E0%A6%AF-childhea/3929050020562030",
+      "snippet": "এটা ম্যাজিস্ট্রেট দিলাম. এবার তোকে কিন্তু ভ্যাকসিন দেবো. তুই কি রাইস বলবি বল. ওই মায়ের দিকে তাকিয়ে বল. মায়ের দিকে তাকিয়ে বল. মায়ের দিকে তাকিয়ে বল. মায়ের দিকে. হ্যাঁ ভাইস কি বলবি বল. কর. বল. ভ্যাকসিন নিয়ে ...Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.805155336856842,
+      "embedding_score_norm": 0.2389711059257758,
+      "embedding_rank": 10
+    },
+    {
+      "title": "করোনা ভ্যাকসিন: যে চারটি গুরুত্বপূর্ণ প্রশ্নের জবাব এখনও ...",
+      "url": "https://www.bbc.com/bengali/news-55831831",
+      "snippet": "Jan 28, 2021 — প্রথম কারণটি হচ্ছে, আপনি যে ধরনের ভ্যাকসিনই নেন না কেন, বেশিরভাগ ভ্যাকসিনের ক্ষেত্রে প্রথম ডোজ নেয়ার দুই থেকে তিন সপ্তাহ পর সেটি কাজ করতে শুরু করে। \"টিকা নেয়ার পরের দিন বা এক সপ্তাহ পর যদি ভাইরাস ...Read more",
+      "bm25_score_raw": 1.2306624130538653,
+      "bm25_score_norm": 0.2844308639430992,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.7882570028305054,
+      "embedding_score_norm": 0.13581572063809946,
+      "embedding_rank": 11
+    },
+    {
+      "title": "খুব সহজেই ভ্যাক্সিনের প্রকারভেদ কিভাবে মনে রাখা যায়? ...",
+      "url": "https://www.facebook.com/brotherssuggestion/videos/%E0%A6%96%E0%A7%81%E0%A6%AC-%E0%A6%B8%E0%A6%B9%E0%A6%9C%E0%A7%87%E0%A6%87-%E0%A6%AD%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%95%E0%A7%8D%E0%A6%B8%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%AD%E0%A7%87%E0%A6%A6-%E0%A6%95%E0%A6%BF%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A7%87-%E0%A6%AE%E0%A6%A8%E0%A7%87-%E0%A6%B0%E0%A6%BE%E0%A6%96%E0%A6%BE-%E0%A6%AF%E0%A6%BE%E0%A7%9F-%E0%A6%9C%E0%A6%BE%E0%A6%A8%E0%A6%A4%E0%A7%87-%E0%A6%B9%E0%A6%B2%E0%A7%87-%E0%A6%B8%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A7%82%E0%A6%B0%E0%A7%8D%E0%A6%A3-%E0%A6%AD%E0%A6%BF%E0%A6%A1%E0%A6%BF%E0%A6%93%E0%A6%9F%E0%A6%BF-%E0%A6%A6/1716210592374172",
+      "snippet": "খুব সহজেই ভ্যাক্সিনের প্রকারভেদ কিভাবে মনে রাখা যায়? জানতে হলে সম্পূর্ণ ভিডিওটি দেখো। #brothers_suggestion_shorts.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.7660084366798401,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

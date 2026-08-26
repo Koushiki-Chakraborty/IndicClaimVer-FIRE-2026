@@ -1,0 +1,57 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1079",
+    "text": "Gauhati High Court Upholds Conviction Of Man Accused Of Murdering His Wife In 2010",
+    "lang": "english"
+  },
+  "ranked_evidence": [
+    {
+      "title": "'Couples quarrel': Why Gauhati High Court acquitted a man convicted of ...",
+      "url": "https://indianexpress.com/article/legal-news/gauhati-high-court-acquits-man-wifes-murder-burning-alive-10702874/lite",
+      "snippet": "The Gauhati High Court was hearing a plea for acquittal filed by a man accused of murdering his wife by setting her ablaze. · 'Beaten and burned'.",
+      "bm25_score_raw": 8.216732187692541,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Gauhati High Court Upholds Conviction Of Man Who Killed ...",
+      "url": "https://www.livelaw.in/amp/news-updates/gauhati-high-court-upholds-conviction-man-killed-daughter-dispute-wife-alleged-illicit-relation-214519",
+      "snippet": "The Gauhati High Court recently upheld the conviction of a man who 'brutally' killed his 2.5 years old baby girl with a sharp weapon due to",
+      "bm25_score_raw": 4.279709005315405,
+      "bm25_score_norm": 0.3807258258306221,
+      "bm25_rank": 2
+    },
+    {
+      "title": "A Case Of Corpus Delicti: Supreme Court Upholds Conviction In Minor’s Murder Case Despite Non-Recovery Of Her Body",
+      "url": "https://www.verdictum.in/amp/supreme-court/debojit-pankika-charaideo-sonari-v-the-state-of-assam-2026-insc-687-1617858",
+      "snippet": "# A Case Of Corpus Delicti: Supreme Court Upholds Conviction In Minor’s Murder Case Despite Non-Recovery Of Her Body. ## The Apex Court dismissed the appeal against a concurrent conviction for murder and disappearance of evidence, holding that the prosecution had established the child’s death, the accused’s role, and the disposal of the body through reliable circumstantial evidence. The Supreme Court has upheld the life sentence of a man convicted in a minor girl’s murder case, holding that non-recovery of the dead body was not fatal where the prosecution had established reliable circumstances showing that the offence had been committed and that the accused was responsible. The Court was hearing an appeal against a Gauhati High Court judgment which had affirmed the Trial Court’s conviction of the accused under Sections 302 and 201 of the Indian Penal Code. The prosecution's case was that the minor girl had been living with the accused and his mother for several years.",
+      "bm25_score_raw": 4.133154995754681,
+      "bm25_score_norm": 0.35767360870165643,
+      "bm25_rank": 3
+    },
+    {
+      "title": "Gauhati High Court Upholds Life Sentence | Child Witness Deemed ...",
+      "url": "https://24law.in/story/gauhati-high-court-upholds-life-sentence-child-witness-deemed-clear-specific-cogent-and-reliable-in",
+      "snippet": "The incident, reported on 10 November 2013, involved the appellant hacking his wife to death with a dao in their home, as alleged in the FIR",
+      "bm25_score_raw": 3.1617369677214153,
+      "bm25_score_norm": 0.20487438217530374,
+      "bm25_rank": 4
+    },
+    {
+      "title": "The Tripura High Court has acquitted a man and his mother who were ...",
+      "url": "https://www.facebook.com/nenownews/posts/the-tripura-high-court-has-acquitted-a-man-and-his-mother-who-were-convicted-by-/1378777224241941",
+      "snippet": "The Gauhati High Court at Kohima recently overturned a rape and murder conviction, ruling that the trial court had erred in convicting and",
+      "bm25_score_raw": 2.231907001859716,
+      "bm25_score_norm": 0.05861675107868659,
+      "bm25_rank": 5
+    },
+    {
+      "title": "GUWAHATI | Gauhati HC Acquits Man on Death Row for Rape-Murder of 11 ...",
+      "url": "https://www.instagram.com/p/DZpvbJzCa4O",
+      "snippet": "The Gauhati High Court on Tuesday acquitted a man on death row for the rape and murder of a minor, reversing a lower court's order in the case.",
+      "bm25_score_raw": 1.8592521786839322,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6
+    }
+  ]
+}

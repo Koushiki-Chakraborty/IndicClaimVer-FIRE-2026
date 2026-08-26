@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/HI/1212",
+    "text": "सुप्रीम कोर्ट ने दिव्यांग व्यक्तियों के रिक्त पदों को न भरने के लिए केंद्र की आलोचना की, CSE 2008 पास करने वाले दृष्टिबाधित उम्मीदवार की नियुक्ति का निर्देश दिया",
+    "lang": "hindi"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "The Supreme Court on Sept 12 flagged concern ...",
+      "url": "https://x.com/barandbench/status/1966401515331183014",
+      "snippet": "The Court expressed concern that lower-scoring persons with disabilities may lose out on reserved seats.",
+      "bm25_score_raw": 1.778136297807917,
+      "bm25_score_norm": 0.4469567127734892,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8692729473114014,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "The Supreme Court on Sept 12 flagged concern ...",
+      "url": "https://www.instagram.com/p/DOflvWNDw54",
+      "snippet": "The Court expressed concern that lower-scoring persons with disabilities may lose out on reserved seats.",
+      "bm25_score_raw": 1.778136297807917,
+      "bm25_score_norm": 0.4469567127734892,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8692729473114014,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Supreme Court asks Centre why disabled candidates are ...",
+      "url": "https://www.thehindu.com/news/national/sc-asks-centre-why-disabled-candidates-are-allocated-reserved-seats-even-when-they-score-above-cut-off-marks/article70040783.ece",
+      "snippet": "Sep 12, 2025 — Supreme Court questions lack of upward mobility for disabled candidates despite scoring above cut-off marks.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.8682791590690613,
+      "embedding_score_norm": 0.9898707923053743,
+      "embedding_rank": 3
+    },
+    {
+      "title": "unreserved vacancies for candidates with disabilities open ...",
+      "url": "https://www.nationalheraldindia.com/national/sc-unreserved-vacancies-for-candidates-with-disabilities-open-for-all-categories",
+      "snippet": "The Supreme Court on Tuesday, 7 April, ruled that “unreserved” vacancies for Persons with Disabilities (PWD) form an open pool where merit is paramount, and ...Read more",
+      "bm25_score_raw": 1.7719348599473739,
+      "bm25_score_norm": 0.44539790410171615,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8462294340133667,
+      "embedding_score_norm": 0.7651285029695656,
+      "embedding_rank": 4
+    },
+    {
+      "title": "ADA Requires Employers to Fill Vacant Positions with ...",
+      "url": "https://natlawreview.com/article/ada-requires-employers-fill-vacant-positions-qualified-employees-disabilities",
+      "snippet": "Supreme Court ruled that reasonable accommodation under the ADA sometimes requires that employers give preference to disabled employees.",
+      "bm25_score_raw": 2.1099175342146226,
+      "bm25_score_norm": 0.5303540603036414,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.842859148979187,
+      "embedding_score_norm": 0.7307768014230586,
+      "embedding_rank": 5
+    },
+    {
+      "title": "UPSC 2008 IAS Service Allocation List | PDF | Government Of India",
+      "url": "https://www.scribd.com/document/857721557/2008",
+      "snippet": "(Info) Rank Wise Service Allocation (CSE - 2008). Rank Wise Service Allocation (CSE - 2008). Total number of candidates selected = 765. Roll Disability Rank",
+      "bm25_score_raw": 1.282206105069498,
+      "bm25_score_norm": 0.32229847988957144,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8374112248420715,
+      "embedding_score_norm": 0.6752487193444598,
+      "embedding_rank": 6
+    },
+    {
+      "title": "UPSC Exam- CSE 2008 Service Allocation -Part 1",
+      "url": "http://indianexaminations.blogspot.com/2012/04/upsc-exam-cse-2008-service-allocation_8341.html",
+      "snippet": "UPSC Exam- CSE 2008 Service Allocation -Part 1. UPSC Exam- Civil Services Exam 2008 Service Allocation-Part 1",
+      "bm25_score_raw": 3.978318810280514,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8125669360160828,
+      "embedding_score_norm": 0.42202277963004364,
+      "embedding_rank": 7
+    },
+    {
+      "title": "Good News for Minnesota Employees with Disabilities",
+      "url": "https://www.halunenlaw.com/good-news-for-minnesota-employees-with-disabilities-recent-minnesota-supreme-court-decision-requires-thorough-communication-about-accommodations",
+      "snippet": "May 21, 2019 — Minnesota Supreme Court provides additional support to employees with disabilities—it clarifies that employers cannot terminate disabled",
+      "bm25_score_raw": 0.6587931448095582,
+      "bm25_score_norm": 0.16559586504408536,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.8080332279205322,
+      "embedding_score_norm": 0.3758128639054405,
+      "embedding_rank": 8
+    },
+    {
+      "title": "UPSC CSE/IAS 2021/22 I Swadeep Kumar",
+      "url": "https://www.youtube.com/watch?v=N-K8ADLThko",
+      "snippet": "It is a Strategy session and also is relevant for the preparation of UPSC CSE/IAS 2021/22, especially for Hindi aspirants.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.8075993061065674,
+      "embedding_score_norm": 0.37139010663219185,
+      "embedding_rank": 9
+    },
+    {
+      "title": "UPSC CSE Prelims 2021 - Part-9 I Prince Jaiswal",
+      "url": "https://www.youtube.com/watch?v=6qPL2qC3QVU",
+      "snippet": "This is the latest Session from the Current Affairs Series by Prince Jaiswal. the entire video lecture for a better understanding to crack UPSC",
+      "bm25_score_raw": 0.9440636211959749,
+      "bm25_score_norm": 0.23730215355199455,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.7887624502182007,
+      "embedding_score_norm": 0.1793950542881305,
+      "embedding_rank": 10
+    },
+    {
+      "title": "L12: Marathon on Current Affairs Part-1 | UPSC CSE Prelims 2020 I ...",
+      "url": "https://www.youtube.com/watch?v=TgGl2Qt_xCw",
+      "snippet": "In this video lecture, Shrawan Kumar is discussing Marathon on Current Affairs for UPSC CSE Prelims 2020. Current Affairs are a significant",
+      "bm25_score_raw": 1.3416924849038403,
+      "bm25_score_norm": 0.3372511226191137,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.7729246020317078,
+      "embedding_score_norm": 0.017967451422572587,
+      "embedding_rank": 11
+    },
+    {
+      "title": "Marathon Session [UPSC CSE/IAS 2020/21/22 Hindi] Rinku Singh",
+      "url": "https://www.youtube.com/watch?v=DrdJT7QJRL4",
+      "snippet": "In this Marathon Session, Rinku ma'am has discussed ''Indian Year Book\". History is one of the very important subjects for UPSC CSE/IAS",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.7711617946624756,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

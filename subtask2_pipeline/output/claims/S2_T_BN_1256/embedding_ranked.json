@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/BN/1256",
+    "text": "করোনার সংক্রমণ থেকে প্রবীণদের সুরক্ষিত রাখতে চান? জেনে নিন কী করতে হবে",
+    "lang": "bengali"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "How to protect older adults from coronavirus",
+      "url": "https://www.washingtonpost.com/health/2020/03/11/coronavirus-seniors-help",
+      "snippet": "Seniors are the most vulnerable to coronavirus. You can help protect them. · Respect the rules · Rethink your care plans · Check on your neighbors",
+      "bm25_score_raw": 1.9771264128372799,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.901498019695282,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "What to do when older people get COVID-19 | Ada Health",
+      "url": "https://ada.com/covid/covid-19-in-elderly",
+      "snippet": "3. COVID-19 in older people. * Older individuals are at risk of severe illness due to COVID-19. * Having underlying health conditions increases your risk of severe symptoms and complications. This is because they’re at a higher risk of experiencing severe symptoms due to the infection, which may lead to hospitalization or death. In this article, we'll guide you through the symptoms and complications of COVID-19 in older people and what to do if an older person gets COVID-19. ## COVID-19 in older patients. Older adults are one of the groups of people who are at **risk of severe symptoms and complications** due to COVID-19. The risk of getting very sick from COVID-19 increases for those aged 50 years and older and continues to grow with age. ## COVID-19 symptoms in older people. The **signs of COVID-19 in older people** are pretty similar to those that other age groups may experience. Older people are often eligible for antiviral treatment, as they're at risk of severe symptoms or hospitalization.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.8596241474151611,
+      "embedding_score_norm": 0.6782451224522229,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Common Questions and Answers About COVID-19 for ...",
+      "url": "https://acl.gov/sites/default/files/common/AOA%20-%20Alliance%20for%20Aging%20Rsch%20-%20Natl%20Fdn%20for%20ID%20-%203-12-20.pdf",
+      "snippet": "The novel coronavirus (COVID-19) has now been detected in more than 100 countries, including the U.S. WHY ARE OLDER ADULTS AND PEOPLE WITH CHRONIC HEALTH CONDITIONS AT HIGHER RISK? Older adults and people who have chronic medical conditions including heart disease, lung disease, diabetes, cancer, and hypertension are at higher risk for more serious COVID-19 illness and death. CDC recently issued an advisory for older adults and adults with underlying health issues to avoid:  Crowded places,  Non-essential air travel, and  Cruise ships This is an important advisory to follow, because there is currently no vaccine available to prevent COVID-19 and no specific antiviral medication to treat it. Facemasks should be used by people who show symptoms of COVID-19 to help prevent the spread of the disease to others. Businesses, schools, and local and federal government should all work together to mitigate community spread of COVID-19 and help protect older adults and those with pre-existing medical conditions.",
+      "bm25_score_raw": 1.1691747306105575,
+      "bm25_score_norm": 0.5913505191267616,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8558152914047241,
+      "embedding_score_norm": 0.6489782328023475,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Division of Aging, Brigham and Women's Hospital",
+      "url": "https://www.brighamandwomens.org/assets/BWH/medicine/division-of-aging/pdfs/COVIDAgingFAQ.pdf",
+      "snippet": "one of the critical steps older adults can take to protect themselves from getting infected is to avoid being in situations where they are around other people",
+      "bm25_score_raw": 1.6318455617993297,
+      "bm25_score_norm": 0.8253622789134388,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8545624613761902,
+      "embedding_score_norm": 0.6393516052546849,
+      "embedding_rank": 4
+    },
+    {
+      "title": "COVID-19 Safety For Older Adults",
+      "url": "https://www.ncoa.org/article/covid-19-has-not-gone-away-how-older-adults-can-stay-safe",
+      "snippet": "Getting vaccinated, wearing a mask, and washing your hands are still the top defenses against COVID in 2026. Talk to your doctor about getting",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.849155604839325,
+      "embedding_score_norm": 0.5978058305697064,
+      "embedding_rank": 5
+    },
+    {
+      "title": "How to take care of an aging loved one who has COVID-19",
+      "url": "https://www.convivacarecenters.com/en/resources/take-care-of-loved-one-covid-19",
+      "snippet": "Wipe down or clean surfaces that are heavily used including countertops, bathrooms, and doorknobs. Clean the home using household cleaners and disinfectants.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.8485591411590576,
+      "embedding_score_norm": 0.5932226600159475,
+      "embedding_rank": 6
+    },
+    {
+      "title": "Actually, Mr. Filch, your timing is impeccable. Could you please escort Miss Parkinson,... - Harry Potter and the Deathly Hallows: Part 2 | Clip.Cafe",
+      "url": "https://clip.cafe/shooter-2007/shooter-2007/harry-potter-the-deathly-hallows-part-2-2011/students-out-of-bed-s1",
+      "snippet": "Title: Actually, Mr. Filch, your timing is impeccable. Could you please escort Miss Parkinson,... - Harry Potter and the Deathly Hallows: Part 2 | Clip.Cafe\nTo watch in HD, get ClipCafe PRO. FILCH Students out of bedStudents out of bedStudents in the corridorThey are supposed to be out of bed you blithering idiotChSorry ma'amAs it happens Mr Filch your arrival is most opportuneIf you. Please log in to add to collections. Harry Potter and the Deathly Hallows: Part 2. # Actually, Mr. Filch, your timing is impeccable. Could you please escort Miss Parkinson,... Join the conversation Log in or create an account to leave a comment. Argus Filch:Students out of bed! Minerva McGonagall:They are supposed to be out of bed you blithering idiot.Argus Filch:...Right, I'm sorry Ma'am.Minerva McGonagall:Actually, Mr. Filch, your timing is impeccable. Could you please escort Miss Parkinson, and the rest of Slytherin House from the Hall. FILCH Students out of bed. They are supposed to be out of bed you blithering idiot. As it happens Mr Filch your arrival is most opportune. to lead Miss Parkinson and the rest of Slytherin House from the hall. من المفترض أن يكونوا خارج الفراش أيها الأحمق. ক ছ ক ষণ র মধ য ই ত মর ত ম দ র সহপ ঠ দ র সঙ গ দ খ করত প রব. ক ন ত ত র আগ ত ম দ রক য র য র হ উজ শ ম ল কর হব. র য ভ নক ল ও স ল দ র ন. ### Want This Clip in HD? ...to lead Miss Parkinson and the restof Slytherin House... Exactly where is it I'll be leading them to ma'amThe dungeons would do - Harry Potter and the Deathly Hallows: Part 2  00:07. - Harry Potter and the Deathly Hallows: Part 2  00:07. Do what you have to do I'll secure the castle - Harry Potter and the Deathly Hallows: Part 2  00:06. Do what you have to do I'll secure the castle. Why don't you confer with Mr FinniganAs I recall he has a particular proclivity for pyrotechnicsI can bring it downThat's the spirit Now away you go - Harry Potter and the Deathly Hallows: Part 2  00:12. You do realize of course we can't keep out You Know Who...",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.7769505381584167,
+      "embedding_score_norm": 0.04298892152368094,
+      "embedding_rank": 7
+    },
+    {
+      "title": "Actually, Mr. Filch, your timing is impeccable. Could you please escort Miss Parkinson,... - Harry Potter and the Deathly Hallows: Part 2 | Clip.Cafe",
+      "url": "https://clip.cafe/east-of-eden-1955/shrek-2001/shrek-2001/harry-potter-the-deathly-hallows-part-2-2011/students-out-of-bed-s1",
+      "snippet": "Title: Actually, Mr. Filch, your timing is impeccable. Could you please escort Miss Parkinson,... - Harry Potter and the Deathly Hallows: Part 2 | Clip.Cafe\nTo watch in HD, get ClipCafe PRO. FILCH Students out of bedStudents out of bedStudents in the corridorThey are supposed to be out of bed you blithering idiotChSorry ma'amAs it happens Mr Filch your arrival is most opportuneIf you. Please log in to add to collections. Harry Potter and the Deathly Hallows: Part 2. # Actually, Mr. Filch, your timing is impeccable. Could you please escort Miss Parkinson,... Join the conversation Log in or create an account to leave a comment. Argus Filch:Students out of bed! Minerva McGonagall:They are supposed to be out of bed you blithering idiot.Argus Filch:...Right, I'm sorry Ma'am.Minerva McGonagall:Actually, Mr. Filch, your timing is impeccable. Could you please escort Miss Parkinson, and the rest of Slytherin House from the Hall. FILCH Students out of bed. They are supposed to be out of bed you blithering idiot. As it happens Mr Filch your arrival is most opportune. to lead Miss Parkinson and the rest of Slytherin House from the hall. من المفترض أن يكونوا خارج الفراش أيها الأحمق. ক ছ ক ষণ র মধ য ই ত মর ত ম দ র সহপ ঠ দ র সঙ গ দ খ করত প রব. ক ন ত ত র আগ ত ম দ রক য র য র হ উজ শ ম ল কর হব. র য ভ নক ল ও স ল দ র ন. ### Want This Clip in HD? ...to lead Miss Parkinson and the restof Slytherin House... Exactly where is it I'll be leading them to ma'amThe dungeons would do - Harry Potter and the Deathly Hallows: Part 2  00:07. - Harry Potter and the Deathly Hallows: Part 2  00:07. Do what you have to do I'll secure the castle - Harry Potter and the Deathly Hallows: Part 2  00:06. Do what you have to do I'll secure the castle. Why don't you confer with Mr FinniganAs I recall he has a particular proclivity for pyrotechnicsI can bring it downThat's the spirit Now away you go - Harry Potter and the Deathly Hallows: Part 2  00:12. You do realize of course we can't keep out You Know Who...",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.7769505381584167,
+      "embedding_score_norm": 0.04298892152368094,
+      "embedding_rank": 8
+    },
+    {
+      "title": "Actually, Mr. Filch, your timing is impeccable. Could you please escort Miss Parkinson,... - Harry Potter and the Deathly Hallows: Part 2 | Clip.Cafe",
+      "url": "https://clip.cafe/the-amazing-spider-man-2012/the-amazing-spider-man-2012/harry-potter-the-deathly-hallows-part-2-2011/students-out-of-bed-s1",
+      "snippet": "Title: Actually, Mr. Filch, your timing is impeccable. Could you please escort Miss Parkinson,... - Harry Potter and the Deathly Hallows: Part 2 | Clip.Cafe\nPlease log in to add to collections. # Actually, Mr. Filch, your timing is impeccable. Could you please escort Miss Parkinson,... Harry Potter and the Deathly Hallows: Part 2 • 2011. Join the conversation Log in or create an account to leave a comment. Argus Filch:Students out of bed! Minerva McGonagall:They are supposed to be out of bed you blithering idiot.Argus Filch:...Right, I'm sorry Ma'am.Minerva McGonagall:Actually, Mr. Filch, your timing is impeccable. Could you please escort Miss Parkinson, and the rest of Slytherin House from the Hall. FILCH Students out of bed. As it happens Mr Filch your arrival is most opportune. to lead Miss Parkinson and the rest of Slytherin House from the hall. من المفترض أن يكونوا خارج الفراش أيها الأحمق. ক ছ ক ষণ র মধ য ই ত মর ত ম দ র সহপ ঠ দ র সঙ গ দ খ করত প রব. ক ন ত ত র আগ ত ম দ রক য র য র হ উজ শ ম ল কর হব. স গ ল হল গ র ফ ন ডর হ ফলপ ফ. র য ভ নক ল ও স ল দ র ন. FILCH Schüler außerhalb der Betten. Aber zufällig Mr Filch sind Sie genau zum passenden Zeitpunkt erschienen. auf der Stelle Miss Parkinson. und die anderen Slytherin Schüler hinauszuführen. FILCH Students out of bed. As it happens Mr Filch your arrival is most opportune. to lead Miss Parkinson and the rest of Slytherin House from the hall. Ups maaf Bu Kedatanganmu tepat sekali Tn Filch. Tolong kamu kawal Nn Parkinson seluruh anggota asrama Slytherin keluar dari aula besar. Hay estudiantes en el corredor. Si me hace el favor quisiera. que se lleve a la Srta Parkinson y al resto de Slytherin de aquí. ### Want This Clip in HD? Harry, Ron and Hermione continue their quest to vanquish the evil Voldemort once and for all. Just as things begin to look hopeless for the young wizards, Harry discovers a trio of magical objects that endow him with powers to rival Voldemort's formidable skills. ...to lead Miss Parkinson and the restof Slytherin House... You do realize, of course, we can't keep... You do realize of course we can't keep out You Know Who...",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.7713558673858643,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 9
+    },
+    {
+      "title": "Actually, Mr. Filch, your timing is impeccable. Could you please escort Miss Parkinson,... - Harry Potter and the Deathly Hallows: Part 2 | Clip.Cafe",
+      "url": "https://clip.cafe/star-wars-episode-v-the-empire-strikes-back-1980/star-wars-episode-v-the-empire-strikes-back-1980/harry-potter-the-deathly-hallows-part-2-2011/students-out-of-bed-s1",
+      "snippet": "Title: Actually, Mr. Filch, your timing is impeccable. Could you please escort Miss Parkinson,... - Harry Potter and the Deathly Hallows: Part 2 | Clip.Cafe\nPlease log in to add to collections. # Actually, Mr. Filch, your timing is impeccable. Could you please escort Miss Parkinson,... Harry Potter and the Deathly Hallows: Part 2 • 2011. Join the conversation Log in or create an account to leave a comment. Argus Filch:Students out of bed! Minerva McGonagall:They are supposed to be out of bed you blithering idiot.Argus Filch:...Right, I'm sorry Ma'am.Minerva McGonagall:Actually, Mr. Filch, your timing is impeccable. Could you please escort Miss Parkinson, and the rest of Slytherin House from the Hall. FILCH Students out of bed. As it happens Mr Filch your arrival is most opportune. to lead Miss Parkinson and the rest of Slytherin House from the hall. من المفترض أن يكونوا خارج الفراش أيها الأحمق. ক ছ ক ষণ র মধ য ই ত মর ত ম দ র সহপ ঠ দ র সঙ গ দ খ করত প রব. ক ন ত ত র আগ ত ম দ রক য র য র হ উজ শ ম ল কর হব. স গ ল হল গ র ফ ন ডর হ ফলপ ফ. র য ভ নক ল ও স ল দ র ন. FILCH Schüler außerhalb der Betten. Aber zufällig Mr Filch sind Sie genau zum passenden Zeitpunkt erschienen. auf der Stelle Miss Parkinson. und die anderen Slytherin Schüler hinauszuführen. FILCH Students out of bed. As it happens Mr Filch your arrival is most opportune. to lead Miss Parkinson and the rest of Slytherin House from the hall. Ups maaf Bu Kedatanganmu tepat sekali Tn Filch. Tolong kamu kawal Nn Parkinson seluruh anggota asrama Slytherin keluar dari aula besar. Hay estudiantes en el corredor. Si me hace el favor quisiera. que se lleve a la Srta Parkinson y al resto de Slytherin de aquí. ### Want This Clip in HD? Harry, Ron and Hermione continue their quest to vanquish the evil Voldemort once and for all. Just as things begin to look hopeless for the young wizards, Harry discovers a trio of magical objects that endow him with powers to rival Voldemort's formidable skills. ...to lead Miss Parkinson and the restof Slytherin House... You do realize, of course, we can't keep... You do realize of course we can't keep out You Know Who...",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.7713558673858643,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 10
+    },
+    {
+      "title": "Actually, Mr. Filch, your timing is impeccable. Could you please escort Miss Parkinson,... - Harry Potter and the Deathly Hallows: Part 2 | Clip.Cafe",
+      "url": "https://clip.cafe/guardians-of-the-galaxy-vol-2-2017/guardians-of-the-galaxy-vol-2-2017/harry-potter-the-deathly-hallows-part-2-2011/students-out-of-bed-s1",
+      "snippet": "Title: Actually, Mr. Filch, your timing is impeccable. Could you please escort Miss Parkinson,... - Harry Potter and the Deathly Hallows: Part 2 | Clip.Cafe\nPlease log in to add to collections. # Actually, Mr. Filch, your timing is impeccable. Could you please escort Miss Parkinson,... Harry Potter and the Deathly Hallows: Part 2 • 2011. Join the conversation Log in or create an account to leave a comment. Argus Filch:Students out of bed! Minerva McGonagall:They are supposed to be out of bed you blithering idiot.Argus Filch:...Right, I'm sorry Ma'am.Minerva McGonagall:Actually, Mr. Filch, your timing is impeccable. Could you please escort Miss Parkinson, and the rest of Slytherin House from the Hall. FILCH Students out of bed. As it happens Mr Filch your arrival is most opportune. to lead Miss Parkinson and the rest of Slytherin House from the hall. من المفترض أن يكونوا خارج الفراش أيها الأحمق. ক ছ ক ষণ র মধ য ই ত মর ত ম দ র সহপ ঠ দ র সঙ গ দ খ করত প রব. ক ন ত ত র আগ ত ম দ রক য র য র হ উজ শ ম ল কর হব. স গ ল হল গ র ফ ন ডর হ ফলপ ফ. র য ভ নক ল ও স ল দ র ন. FILCH Schüler außerhalb der Betten. Aber zufällig Mr Filch sind Sie genau zum passenden Zeitpunkt erschienen. auf der Stelle Miss Parkinson. und die anderen Slytherin Schüler hinauszuführen. FILCH Students out of bed. As it happens Mr Filch your arrival is most opportune. to lead Miss Parkinson and the rest of Slytherin House from the hall. Ups maaf Bu Kedatanganmu tepat sekali Tn Filch. Tolong kamu kawal Nn Parkinson seluruh anggota asrama Slytherin keluar dari aula besar. Hay estudiantes en el corredor. Si me hace el favor quisiera. que se lleve a la Srta Parkinson y al resto de Slytherin de aquí. ### Want This Clip in HD? Harry, Ron and Hermione continue their quest to vanquish the evil Voldemort once and for all. Just as things begin to look hopeless for the young wizards, Harry discovers a trio of magical objects that endow him with powers to rival Voldemort's formidable skills. ...to lead Miss Parkinson and the restof Slytherin House... You do realize, of course, we can't keep... You do realize of course we can't keep out You Know Who...",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.7713558673858643,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 11
+    },
+    {
+      "title": "Actually, Mr. Filch, your timing is impeccable. Could you please escort Miss Parkinson,... - Harry Potter and the Deathly Hallows: Part 2 | Clip.Cafe",
+      "url": "https://clip.cafe/harry-potter-the-prisoner-of-azkaban-2004/harry-potter-the-prisoner-of-azkaban-2004/harry-potter-the-deathly-hallows-part-2-2011/students-out-of-bed-s1",
+      "snippet": "Title: Actually, Mr. Filch, your timing is impeccable. Could you please escort Miss Parkinson,... - Harry Potter and the Deathly Hallows: Part 2 | Clip.Cafe\nPlease log in to add to collections. # Actually, Mr. Filch, your timing is impeccable. Could you please escort Miss Parkinson,... Harry Potter and the Deathly Hallows: Part 2 • 2011. Join the conversation Log in or create an account to leave a comment. Argus Filch:Students out of bed! Minerva McGonagall:They are supposed to be out of bed you blithering idiot.Argus Filch:...Right, I'm sorry Ma'am.Minerva McGonagall:Actually, Mr. Filch, your timing is impeccable. Could you please escort Miss Parkinson, and the rest of Slytherin House from the Hall. FILCH Students out of bed. As it happens Mr Filch your arrival is most opportune. to lead Miss Parkinson and the rest of Slytherin House from the hall. من المفترض أن يكونوا خارج الفراش أيها الأحمق. ক ছ ক ষণ র মধ য ই ত মর ত ম দ র সহপ ঠ দ র সঙ গ দ খ করত প রব. ক ন ত ত র আগ ত ম দ রক য র য র হ উজ শ ম ল কর হব. স গ ল হল গ র ফ ন ডর হ ফলপ ফ. র য ভ নক ল ও স ল দ র ন. FILCH Schüler außerhalb der Betten. Aber zufällig Mr Filch sind Sie genau zum passenden Zeitpunkt erschienen. auf der Stelle Miss Parkinson. und die anderen Slytherin Schüler hinauszuführen. FILCH Students out of bed. As it happens Mr Filch your arrival is most opportune. to lead Miss Parkinson and the rest of Slytherin House from the hall. Ups maaf Bu Kedatanganmu tepat sekali Tn Filch. Tolong kamu kawal Nn Parkinson seluruh anggota asrama Slytherin keluar dari aula besar. Hay estudiantes en el corredor. Si me hace el favor quisiera. que se lleve a la Srta Parkinson y al resto de Slytherin de aquí. ### Want This Clip in HD? Harry, Ron and Hermione continue their quest to vanquish the evil Voldemort once and for all. Just as things begin to look hopeless for the young wizards, Harry discovers a trio of magical objects that endow him with powers to rival Voldemort's formidable skills. ...to lead Miss Parkinson and the restof Slytherin House... You do realize, of course, we can't keep... You do realize of course we can't keep out You Know Who...",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.7713558673858643,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

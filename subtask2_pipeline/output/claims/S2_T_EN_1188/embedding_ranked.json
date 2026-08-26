@@ -1,0 +1,76 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1188",
+    "text": "China battles 'severe and complex' Covid outbreak, cases shoot up in UK | Top points",
+    "lang": "english"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "China continues to battle 'severe and complex' Covid ...",
+      "url": "https://www.indiatoday.in/coronavirus-outbreak/story/china-covid-outbreak-severe-uk-cases-coronavirus-us-korea-india-1929972-2022-03-27",
+      "snippet": "Mar 27, 2022 — China continues to battle 'severe and complex' Covid outbreak, cases shoot up in UK | Top points. Even as the Covid-19 situation in India ...Read more",
+      "bm25_score_raw": 6.672568529094958,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9446003437042236,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "China continues 'severe and complex' fight against COVID- ...",
+      "url": "https://www.the-independent.com/news/china-ap-hong-kong-covid-taipei-b2043891.html",
+      "snippet": "Mar 25, 2022 — China continues to battle its worst COVID-19 outbreak, driven by the omicron variant, with health officials calling the situation “severe",
+      "bm25_score_raw": 0.8063901636883364,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8980847001075745,
+      "embedding_score_norm": 0.5698972199396293,
+      "embedding_rank": 2
+    },
+    {
+      "title": "China battles world's largest COVID outbreak: How bad is it? | DW News",
+      "url": "https://www.youtube.com/watch?v=FCr6QcHLXCk",
+      "snippet": "China battles world's largest COVID outbreak: How bad is it? | DW News\nDW News\n6340000 subscribers\n2526 likes\n318850 views\n25 Dec 2022\nChina is battling a surge in COVID cases, and new media reports could reveal the vast scale of the outbreak. Bloomberg and the Financial Times have reported around 250 million people were infected during the first weeks of December, citing a leaked government document. \nBut Chinese authorities appear to be downplaying the severity of the current wave: Despite the surging cases, they're continuing to report no new deaths, even as hospitals and morgues fill up.\n\nSubscribe: https://www.youtube.com/user/deutschewelleenglish?sub_confirmation=1\n\nFor more news go to: http://www.dw.com/en/\nFollow DW on social media:\n►Facebook: https://www.facebook.com/deutschewellenews/\n►Twitter: https://twitter.com/dwnews\n►Instagram: https://www.instagram.com/dwnews\n►Twitch: https://www.twitch.tv/dwnews_hangout\nFür Videos in deutscher Sprache besuchen Sie: https://www.youtube.com/dwdeutsch\n\n#China #Covid19 #DeathToll\n1359 comments\n",
+      "bm25_score_raw": 1.0276596771669575,
+      "bm25_score_norm": 0.037719533859295384,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8577114939689636,
+      "embedding_score_norm": 0.19658994398875257,
+      "embedding_rank": 3
+    },
+    {
+      "title": "China battles multiple COVID outbreaks, driven by stealth ...",
+      "url": "https://www.npr.org/2022/03/14/1086394167/china-battles-multiple-outbreaks-driven-by-stealth-omicron",
+      "snippet": "Mar 14, 2022 — Chinese authorities reported 1,337 locally transmitted cases of COVID-19 across dozens of mainland cities Monday as the fast-spreading variant",
+      "bm25_score_raw": 1.20727069282387,
+      "bm25_score_norm": 0.0683375963301017,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8568147420883179,
+      "embedding_score_norm": 0.18829820712202053,
+      "embedding_rank": 4
+    },
+    {
+      "title": "China battles multiple COVID-19 outbreaks, driven by ...",
+      "url": "https://www.kuow.org/stories/china-battles-multiple-covid-19-outbreaks-driven-by-stealth-omicron",
+      "snippet": "Mar 14, 2022 — Chinese authorities reported 1,337 locally transmitted cases of COVID-19 across dozens of mainland cities Monday as the fast-spreading variant",
+      "bm25_score_raw": 1.2198756072501051,
+      "bm25_score_norm": 0.07048634013587608,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8537764549255371,
+      "embedding_score_norm": 0.16020495387876374,
+      "embedding_rank": 5
+    },
+    {
+      "title": "China battles coronavirus outbreak: All the latest updates",
+      "url": "https://www.aljazeera.com/news/2020/1/29/china-battles-coronavirus-outbreak-all-the-latest-updates-7",
+      "snippet": "Jan 29, 2020 — The death toll in China from the new coronavirus has risen to 170, evacuate their citizens from Wuhan, More than 8,100 people are now confirmed",
+      "bm25_score_raw": 1.3587067218691347,
+      "bm25_score_norm": 0.09415270449972309,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8364502787590027,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6
+    }
+  ]
+}

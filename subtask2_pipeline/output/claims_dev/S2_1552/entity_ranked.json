@@ -1,0 +1,99 @@
+{
+  "claim": {
+    "id": "S2/1552",
+    "text": "Kerala records 59 new Omicron cases, taking state tally to 480",
+    "lang": "dev"
+  },
+  "entity_ranked_evidence": [
+    {
+      "title": "Kerala logs 59 new Omicron cases in last 24 hours ...",
+      "url": "https://www.aninews.in/news/national/general-news/kerala-logs-59-new-omicron-cases-in-last-24-hours-13468-new-covid-19-cases-registered20220113184903",
+      "snippet": "As many as 59 more Omicron cases were confirmed in Kerala on Thursday taking the total Omicron tally to 480 in the state, informed the Kerala",
+      "bm25_score_raw": 4.4534460353069765,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.931463360786438,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 1,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 1
+    },
+    {
+      "title": "Kerala records 59 new Omicron cases, taking state tally to ...",
+      "url": "https://www.indiatoday.in/coronavirus-outbreak/story/kerala-records-59-new-omicron-cases-taking-state-tally-to-480-1899636-2022-01-13",
+      "snippet": "Kerala confirmed 59 new Omicron cases on Thursday, January 13. This takes the total Omicron tally in the state to 480.",
+      "bm25_score_raw": 3.313496472065694,
+      "bm25_score_norm": 0.6644619657924153,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.9284831881523132,
+      "embedding_score_norm": 0.8896912174803205,
+      "embedding_rank": 2,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 1,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 2
+    },
+    {
+      "title": "Kerala logs 59 new Omicron cases, total infections of ...",
+      "url": "https://english.mathrubhumi.com/news/kerala/kerala-latest-news-d45735dd",
+      "snippet": "Kerala on Thursday reported 59 fresh Omicron cases, taking the total number of people infected with the new variant of COVID-19 to 480, the",
+      "bm25_score_raw": 1.4878193424291835,
+      "bm25_score_norm": 0.1270837036926557,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.9247671365737915,
+      "embedding_score_norm": 0.752144445621095,
+      "embedding_rank": 3,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 1,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 3
+    },
+    {
+      "title": "76 new Omicron cases in Kerala, total tally rises to 421",
+      "url": "https://timesofindia.indiatimes.com/city/thiruvananthapuram/76-new-omicron-cases-in-kerala/articleshow/88865582.cms",
+      "snippet": "Among the new cases, 59 people had come from low-risk countries, seven from high-risk countries and nine people were infected through contacts.",
+      "bm25_score_raw": 1.056067952868671,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.920299768447876,
+      "embedding_score_norm": 0.586788273500653,
+      "embedding_rank": 4,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 1,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 4
+    },
+    {
+      "title": "Kerala records 4 more Omicron cases, tally reaches 15",
+      "url": "https://www.hindustantimes.com/india-news/kerala-records-4-more-omicron-cases-tally-reaches-15-101639988326329.html",
+      "snippet": "Kerala on Monday recorded four new cases of the Omicron variant of coronavirus, which took the statewide tally to 15. in patients aged 41 and",
+      "bm25_score_raw": 2.6659788760877943,
+      "bm25_score_norm": 0.4738686375652623,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.9186307191848755,
+      "embedding_score_norm": 0.525009707367009,
+      "embedding_rank": 5,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 1,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 5
+    },
+    {
+      "title": "Kerala Reports 4 More Omicron Cases, New Variant Tally ...",
+      "url": "https://www.ndtv.com/kerala-news/omicron-cases-in-india-kerala-reports-4-more-omicron-cases-new-variant-tally-now-15-2660783",
+      "snippet": "Four more new cases of the Omicron variant of coronavirus were detected from Kerala on Monday, taking the overall tally to 15, the state health",
+      "bm25_score_raw": 1.4739313139950991,
+      "bm25_score_norm": 0.12299583707990684,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.9044467210769653,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 1,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 6
+    }
+  ]
+}

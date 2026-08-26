@@ -1,0 +1,76 @@
+{
+  "claim": {
+    "id": "S2/1163",
+    "text": "Delhi logs 12,306 new Covid-19 cases, 34 deaths in 24 hours",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Coronavirus Deaths: At 24 in a week, Delhi logs India's highest Covid deaths | India News - Times of India",
+      "url": "https://timesofindia.indiatimes.com/india/at-24-in-a-week-delhi-logs-indias-highest-covid-deaths/articleshow/99541031.cms",
+      "snippet": "* At 24 in a week, Delhi logs India's highest Covid deaths. Rajasthan, with a four-fold rise in cases, reported 14 fatalities from the virus, the third highest during the week after Delhi and Maharashtra (19). In the last seven days, Delhi reported 24 deaths linked to Covid, the highest in the country and logged the second highest number of cases at 7,664. (With Sunday's data from Delhi coming in, the seven-day count of cases in the capital has risen to 8,599 and the seven-day toll stands at 23.). The count of active cases in the country had risen to 58,710 by last Sunday night and is likely to cross 60,000 when the day's cases are reported from all states. Meanwhile, the number of states reporting over 2,000 fresh cases in the past seven days has risen to 10, up from four in the preceding week.",
+      "bm25_score_raw": 5.597708758112954,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.872115969657898,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Delhi records 2 more Covid deaths; active case count at 562",
+      "url": "https://theprint.in/india/delhi-records-2-more-covid-deaths-active-case-count-at-562/2648337",
+      "snippet": "Delhi recorded two fresh Covid-linked fatalities, including a five-month-old baby, officials said on Thursday.",
+      "bm25_score_raw": 1.8298579233433614,
+      "bm25_score_norm": 0.26766785748725047,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8514528274536133,
+      "embedding_score_norm": 0.7886319640271321,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Coronavirus Crisis: Delhi Reports 240 Deaths, Highest Single ...",
+      "url": "https://www.youtube.com/watch?v=12TOERQrGa4",
+      "snippet": "Delhi has recorded its highest single-day death count with 240 deaths. Delhi Reports 240 Deaths, Highest Single Day Death Count",
+      "bm25_score_raw": 1.084632560956779,
+      "bm25_score_norm": 0.12282335322630107,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8310875296592712,
+      "embedding_score_norm": 0.5803106470543403,
+      "embedding_rank": 3
+    },
+    {
+      "title": "COVID-19 pandemic in India",
+      "url": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_India",
+      "snippet": "| Health checks during the COVID-19 pandemic in India, June 2020 |. The **COVID-19 pandemic in India** is a part of the COVID-19 pandemic. As of 14 July 2026, according to Indian government figures, India has the second-highest number of confirmed cases in the world (after the United States) with 45,056,221 reported cases of COVID-19 infection and the third-highest number of COVID-19 deaths (after the United States and Brazil) at 533,849 deaths. The first cases of COVID-19 in India were reported on 30 January 2020 in three towns of Kerala, among three Indian medical students who had returned from Wuhan, the epicenter of the pandemic. Main articles: Timeline of the COVID-19 pandemic in India (January–May 2020) \"Timeline of the COVID-19 pandemic in India (January–May 2020)\"), Timeline of the COVID-19 pandemic in India (June–December 2020) \"Timeline of the COVID-19 pandemic in India (June–December 2020)\"), and Timeline of the COVID-19 pandemic in India (2021) \"Timeline of the COVID-19 pandemic in India (2021)\").",
+      "bm25_score_raw": 0.45270607962681025,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8253402709960938,
+      "embedding_score_norm": 0.521520615806722,
+      "embedding_rank": 4
+    },
+    {
+      "title": "India suffers worst day of pandemic with record number of cases and deaths | India | The Guardian",
+      "url": "https://www.theguardian.com/world/2021/apr/28/covid-india-suffers-worst-day-of-pandemic-with-record-number-of-cases-and-deaths",
+      "snippet": "Crematoriums in Delhi forced to build makeshift pyres as India's Covid crisis intensifies – video. # India suffers worst day of pandemic with record number of cases and deaths. Crematoriums in Delhi forced to build makeshift funeral pyres on spare patches of land as Covid death toll surges. India has suffered its worst day yet of the pandemic, as both new Covid-19 cases and deaths break previous records and crematoriums in Delhi become so overloaded with bodies that they are being forced to build makeshift funeral pyres on spare patches of land. The city’s crematoriums and graveyards struggled to cope with the sheer number of bodies, running out of both space and wood for funeral pyres. Many believe the real death toll in the capital and across India is far higher than official figures, as authorities have been accused of skewing the data to downplay the tragedy.",
+      "bm25_score_raw": 2.1484326042752993,
+      "bm25_score_norm": 0.32958710240116657,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8119339346885681,
+      "embedding_score_norm": 0.38438411706424813,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Is India counting all COVID deaths?",
+      "url": "https://www.dw.com/en/india-coronavirus-death-toll/a-57338733",
+      "snippet": "3. Skip to more DW sites. Coronavirus infections in India have been hitting record peaks for the past few days and the death toll has been on the rise. At least 195,123 people have died and 17.3 million have been infected with the virus in India, according to official dataImage: Altaf Qadri/AP/dpa/picture alliance. These numbers are staggering, but experts and epidemiological modelers believe that the real number of COVID fatalities could be much higher than the deaths recorded by health departments nationwide. \"There appears to be a wide discrepancy between official records of deaths attributed to COVID-19 and reports of cremations and burials that are many multiples of what might normally have been expected,\" Gautam Menon, a professor of physics and biology at Ashoka University, told DW. \"Because death registration is poor in India, the government will have little data to respond to the impact of COVID-19 on large sections of the population who live in rural areas,\" Jacob John, a renowned virologist, told DW.",
+      "bm25_score_raw": 1.325756688804987,
+      "bm25_score_norm": 0.16968904852641623,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.7743569016456604,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6
+    }
+  ]
+}

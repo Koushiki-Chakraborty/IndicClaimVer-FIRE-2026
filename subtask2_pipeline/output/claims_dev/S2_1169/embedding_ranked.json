@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/1169",
+    "text": "কালিয়াগঞ্জের বিধায়ক সৌমেন রায়ের পদ খারিজের আবেদন প্রত্যাহারের জন্য বিজেপি কোনো চিঠি জমা দেয়নি।",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "BJP MLA Soumen Roy joins TMC",
+      "url": "https://www.thehindu.com/news/national/other-states/bjp-mla-soumen-roy-joins-tmc/article36290496.ece/amp",
+      "snippet": "He is the fourth BJP MLA to have quit the party and joined TMC since the April-May assembly poll.",
+      "bm25_score_raw": 3.4842108963166156,
+      "bm25_score_norm": 0.5605427724883324,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8702167272567749,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "MLA Soumen Roy | কালিয়াগঞ্জের বিধায়ক সৌমেন রায়কে নিয়ে ...",
+      "url": "https://www.youtube.com/watch?v=QLZ6Tb--Mbc",
+      "snippet": "MLA Soumen Roy | কালিয়াগঞ্জের বিধায়ক সৌমেন রায়কে নিয়ে বিড়ম্বনায় বিজেপি! দেখুন দলত্যাগ আইন নিয়ে কী জটিলতার মুখোমুখি বঙ্গ-বিজেপি... | Zee 24 Ghanta BJP West Bengal Soumen Roy,",
+      "bm25_score_raw": 5.766000868118804,
+      "bm25_score_norm": 0.9276390577281926,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8533105254173279,
+      "embedding_score_norm": 0.85074490992252,
+      "embedding_rank": 2
+    },
+    {
+      "title": "LIVE! Waive GST on 'The Kashmir Files': Chh'garh CM to PM",
+      "url": "https://m.rediff.com/news/commentary/2022/mar/16/liveupdates.htm",
+      "snippet": "BJP MLAs Krishna Kalyani (Raiganj), Tanmoy Ghosh (Bishnupur), Soumen Roy (Kaliaganj) and Biswajit Das (Bagda), who continue to occupy the opposition benches",
+      "bm25_score_raw": 2.91177828460361,
+      "bm25_score_norm": 0.46844933360621405,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8467550277709961,
+      "embedding_score_norm": 0.792870208023305,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Kaliyaganj MLA | বিজেপিতে ফিরলেন কালিয়াগঞ্জের বিধায়ক সৌমেন রায়",
+      "url": "https://www.youtube.com/watch?v=S8CkuzTxeDQ",
+      "snippet": "Kaliyaganj MLA | বিজেপিতে ফিরলেন কালিয়াগঞ্জের বিধায়ক সৌমেন রায়. @KOLKATATV8 likes726 views2",
+      "bm25_score_raw": 2.2266991305969666,
+      "bm25_score_norm": 0.35823322448181705,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8350534439086914,
+      "embedding_score_norm": 0.6895636835890387,
+      "embedding_rank": 4
+    },
+    {
+      "title": "সৌমেন রায়ের বিধায়ক পদ খারিজের আবেদন প্রত্যাহার করে নিচ্ছে বিজেপি ...",
+      "url": "https://www.anandabazar.com/amp/west-bengal/bjp-is-withdrawing-the-plea-of-disqualification-of-soumen-roys-mla-post-dgtl/cid/1531216",
+      "snippet": "লোকসভা ভোটের রেশ কাটতে না কাটতেই সৌমেনের বিধায়ক পদ খারিজের আবেদন প্রত্যাহার করে নিল বিজেপি পরিষদীয় দল। রাজ্যের প্রাক্তন মন্ত্রী তথা তৎকালীন তৃণমূল মহাসচিব পার্থ চট্টোপাধ্যায়ের হাত ধরে শাসকদলে গিয়েছিলেন",
+      "bm25_score_raw": 6.215780610014267,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8334221839904785,
+      "embedding_score_norm": 0.675162232077644,
+      "embedding_rank": 5
+    },
+    {
+      "title": "এ বার বিজেপি-র গ্রুপ ছাড়লেন কালিয়াগঞ্জের বিধায়ক, গুঞ্জন শুরু",
+      "url": "https://drishtibhongi.in/bjp-mla-of-kaliaganj-leaves-whatsapp-group-might-join-tmc",
+      "snippet": "এবার উত্তর দিনাজপুরের কালিয়াগঞ্জের (Kaliaganj) বিজেপি (BJP) বিধায়ক সৌমেন রায় (Soumen Roy) তৃণমূলে (TMC) যোগ দিতে পারেন বলে জল্পনা ছড়াল। রবিবার সন্ধ্যায় জেলা বিজেপি-র হোয়াটসঅ্যাপ গ্রুপ থেকে বেরিয়ে",
+      "bm25_score_raw": 2.481225356478076,
+      "bm25_score_norm": 0.39918161726631163,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8272737264633179,
+      "embedding_score_norm": 0.6208810522615668,
+      "embedding_rank": 6
+    },
+    {
+      "title": "বিক্ষুব্ধ নেতাকে পাশে নিয়ে কালিয়াগঞ্জে প্রচার শুরু বিজেপি ...",
+      "url": "https://www.bengallive.in/raiganj/bjp-candidate-soumen-roy-in-kaliaganj/amp",
+      "snippet": "ক্ষোভ - বিক্ষোভ কতটা প্রশমিত হয়েছে তা জানা নেই। তবে বিক্ষুব্ধ নেতাকে পাশে নিয়েই কালিয়াগঞ্জে সাংবাদিকদের মুখোমুখি সৌমেন রায়। প্রার্থী বদলের দাবিতে কালি.",
+      "bm25_score_raw": 1.058872574473222,
+      "bm25_score_norm": 0.17035230824705563,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8210240602493286,
+      "embedding_score_norm": 0.5657063594132492,
+      "embedding_rank": 7
+    },
+    {
+      "title": "2021 West Bengal Legislative Assembly election - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2021_West_Bengal_Legislative_Assembly_election",
+      "snippet": "| |  | Majority party | Minority party | | --- | --- | --- | |  |  |  | | Leader | Mamata Banerjee | Dilip Ghosh \"Dilip Ghosh (politician)\") | | Party | AITC | BJP | | Alliance | AITC+ | NDA | | Leader since | 1998 | 2015 | | Leader's seat | Nandigram *(lost)* Bhabanipur *(By-elected)* | *Did not contest* | | Last election | 44.91% votes  211 seats | 10.16% votes  3 seats | | Seats won | **215** | 77 | | Seat change | Increase 4 | Increase 74 | | Popular vote | **28,968,281** | 22,905,474 | | Percentage | **48.02%** | 37.97% | | Swing | Increase 3.11 pp | Increase 27.81 pp | |. For the first time in the history of West Bengal, no members from the Indian National Congress and Communist Party of India (Marxist) \"Communist Party of India (Marxist)\") were elected.",
+      "bm25_score_raw": 0.2752440091720011,
+      "bm25_score_norm": 0.044281487143956536,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.8140875101089478,
+      "embedding_score_norm": 0.5044675651612007,
+      "embedding_rank": 8
+    },
+    {
+      "title": "পদ্ম থেকে ঘাস হয়ে আবার পদ্মে সৌমেন! কালিয়াচকের বিধায়ককে তৃণমূলে নেন ...",
+      "url": "https://www.anandabazar.com/amp/west-bengal/kaliaganj-mla-soumen-roy-left-tmc-and-returned-to-bjp-holding-suvendu-adhikaris-hand-dgtl/cid/1499512",
+      "snippet": "বিজেপি সূত্রে খবর, দলের রাজ্যসভার সাংসদ অনন্ত মহারাজের পরামর্শেই আবার পুরনো দলে ফিরেছেন রাজবংশী বিধায়ক সৌমেন। গত তিন মাস ধরে তিনি শুভেন্দুর সঙ্গে যোগাযোগ রাখছিলেন।",
+      "bm25_score_raw": 0.6714290054783466,
+      "bm25_score_norm": 0.10802006177576552,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.7971566915512085,
+      "embedding_score_norm": 0.354995148297905,
+      "embedding_rank": 9
+    },
+    {
+      "title": "Ward 39 Councillor Md Jasimuddin Denied Bail! A major legal setback ...",
+      "url": "https://www.facebook.com/DailyPrimeNewskol/posts/-ward-39-councillor-md-jasimuddin-denied-baila-major-legal-setback-for-ward-39-c/1047771477779728",
+      "snippet": "Relevant Locations. Ward 39, Jorasanko, Kolkata, Bankshall, West Bengal, India. Kolkata. West Bengal. India. Recent Posts.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.7940465807914734,
+      "embedding_score_norm": 0.32753777697325354,
+      "embedding_rank": 10
+    },
+    {
+      "title": "Election commission of india voter list 2021 west bengal",
+      "url": "https://advik.net/userfiles/file/04d4e267-c23c-47f0-a0aa-9ded0e9eb241.pdf",
+      "snippet": "Indian state election2021 West Bengal Legislative Assembly election201627 March 29 April 2021 (292 seats) 30 September 2021 (2 remaining seats)2026outgoing",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.7883151769638062,
+      "embedding_score_norm": 0.276938523356578,
+      "embedding_rank": 11
+    },
+    {
+      "title": "15_page1_LC_Layout 1",
+      "url": "https://www.yumpu.com/en/document/view/8376924/15-page1-lc-layout-1",
+      "snippet": "other parts of the city. Kolkata Thursday September <strong>15</strong>, 2011<br />. www.thebengalpost.com CITY 3<br />. BRIEFLY<",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.7569462060928345,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

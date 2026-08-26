@@ -1,0 +1,99 @@
+{
+  "claim": {
+    "id": "S2/1226",
+    "text": "AIIMS-Bhubaneswar shuts OPDs after over 250 staff members, faculty test positive for Covid",
+    "lang": "dev"
+  },
+  "entity_ranked_evidence": [
+    {
+      "title": "AIIMS-Bhubaneswar shuts OPDs after over 250 staff ...",
+      "url": "/goto?url=CAESvAEB7keqTTvAch-dDNHHb-i6gBQcCsGstJQUztzPlfF1CPKboRzrktUh-YLXpZ6OKiYHzot6c10t8qoYq1usj7Tw8k_C9iGb21RlPktEvcY_DnaorfJr46MiEHMJRmpHBq6O-XdrpM-6e2qnx2-efW9MhWAAm6synwSQIRYL5QGhdzS8g8EOpx2IaFv2P5W4FWtVsNWMugD61slgBOudmWtndPHD2p4yAdiqOAB1Sp5-dUhs8ZW4hC0mratB6w%3D%3D",
+      "snippet": "Jan 17, 2022 — AIIMS-Bhubaneswar shuts OPDs after over 250 staff members, faculty test positive for Covid · The AIIMS Bhubaneswar administration has suspended ...Read more",
+      "bm25_score_raw": 12.70508792149188,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9428831338882446,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1,
+      "entity_overlap_raw": 2,
+      "entity_overlap_qid": 1,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 1
+    },
+    {
+      "title": "Staff crunch forces AIIMS-Bhubaneswar to shut OPD service",
+      "url": "/goto?url=CAESugEB7keqTaSxdN7DEKcSDMeYCNIPr8tunn7N4llgSVUv8iU7jdmcLLc14GLeHEt9gWlsQDmbZ896Mp5WSTgrBFs79d6jaULUI7k1YCToT5AuWy4Ta69oXtwrA63ImrABIlh-gok-5tUk9WKqPZdq4ztNpHhZiYu_cvOWjqL_eIrX1dUrnRopalaAYA-BnGfVJBGF8mUZw39dSgbVCJ8u6CEZ2hb2cC88_R8mKxN7gQypc90pS0AruVBKIws%3D",
+      "snippet": "Jul 9, 2020 — About 31 staff members, including 11 doctors, have tested positive since March . Only seven of them have recovered. Many colleagues. About 250-",
+      "bm25_score_raw": 2.1519582588843282,
+      "bm25_score_norm": 0.16937767547787555,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.914551317691803,
+      "embedding_score_norm": 0.41280290751685017,
+      "embedding_rank": 2,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 2
+    },
+    {
+      "title": "Over 200 test COVID-19 at AIIMS-Bhubaneswar: OPD ...",
+      "url": "/goto?url=CAESugEB7keqTeFG2mRbrE37FTdQ14hlt5QfYoJXmN0OWtWuT5Lq882U2ipMH0clDKLqE0XTigHYvmABsU8WevoBhyEL1QOrsS0eRNACXOIQwETrifa7lQx7VBDfn0HjGMyiUJhkHs6R6HSSHA7fp-jR1d1-uIBDNOoWQtDLKsnngA30BiKzAM9mRdFhaKjzS4tKosbYRegseWIDOI8tWE_bwVnLT4QIlfHbIXYAKqkX4x7arEc1cQIz2SATinw%3D",
+      "snippet": "Jan 15, 2022 — As many as 250 including doctors, medical students, paramedical staff besides service providers and stakeholders have tested positive recently ...Read more",
+      "bm25_score_raw": 0.8367929668395464,
+      "bm25_score_norm": 0.06586282377660925,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.9049009084701538,
+      "embedding_score_norm": 0.21279129523847173,
+      "embedding_rank": 3,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 3
+    },
+    {
+      "title": "OPD services resume at AIIMS Bhubaneswar as Covid ...",
+      "url": "/goto?url=CAEStgEB7keqTTLVmIyuz0kcoIsAESPh_p78Ji0t56C7p_PIKqHopFS7_PmJG1nAi0qlGSPeoqut7vn11gpGLvJjv09CAFRKjujDmekBCU7XWd84a2mlqReLVsylkBwbWT2H5kD-_3HSTt4jcykHrDCbSFakwfBqloEBT0ckMyQmfEEqSG_GrGSMPAe0C2b-R-uqqejlFx2sJDBV9_Odi8tz2CNEy4D0xjFQwTKhlyLCiQO20f584zTTsw%3D%3D",
+      "snippet": "Feb 8, 2022 — The hospital had shut its walk-in OPD services from January 17 after 250 hospital staff, including doctors and students, were infected with ...Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8946338891983032,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 1,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 4
+    },
+    {
+      "title": "Covid surge: OPD services suspended in Odisha AIIMS",
+      "url": "/goto?url=CAESvgEB7keqTd060ScblMIpZ1lJhl_NqfUgE1Nh7NCrA-1i-AsZRBGkDhtnLW6Uqzc8sF9fRFAMpYvcguLZfbenViIjPH9NhC5D3RyWzEU-rW3SAIeU951Nv-M14VsdfUxkpZBNVnJH69VKlc3aBhoUC12EX0RkLzFAke8K8lrkACum9MmhH5kA94e5X5Mvf9u3gYhX-rH2ZND1t_mCf-p40R7xhX0f5SLsYA9lXXKtJmq_Dg-zqeOGPA5nn6kWNeRG",
+      "snippet": "Jan 16, 2022 — At AIIMS-Bhubaneswar, many faculties, residents, staff and students have tested Covid positive within a week. The number is gradually ...Read more",
+      "bm25_score_raw": 0.8367929668395464,
+      "bm25_score_norm": 0.06586282377660925,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.9037479162216187,
+      "embedding_score_norm": 0.18889470875417547,
+      "embedding_rank": 4,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 5
+    },
+    {
+      "title": "Staff crunch: AIIMS suspends OPD services from July 10",
+      "url": "/goto?url=CAESiQEB7keqTRBB1tiTw-yOy6jyRWHd5l0jdM3nT0iX4DPX3_qFxmXavJByrkQFLNyXYO9K0FL31WMYf53hTOtSdMN25vH1DAdqDrhKN35N4yutOcykvaxsjNaMpKUXftU7EIXcwbWcYLCin11rZLzUfJnVlv4jSXH7EgZA7Dwgi4sGHtkMQrnI2QYiBQ%3D%3D",
+      "snippet": "Jul 9, 2020 — Bhubaneswar: After some employees of AIIMS, Bhubaneswar tested positive for COVID-19, the facility is facing a staff crunch.Read more",
+      "bm25_score_raw": 1.0252496218163116,
+      "bm25_score_norm": 0.0806959879499931,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8989149332046509,
+      "embedding_score_norm": 0.08872768960132825,
+      "embedding_rank": 5,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 6
+    }
+  ]
+}

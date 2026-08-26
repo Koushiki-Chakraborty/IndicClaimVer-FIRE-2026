@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/1134",
+    "text": "পোল্যান্ডে পৌঁছলেন মোদি, দেখা করলেন প্রবাসী ভারতীয়দের সঙ্গে - PM Modi Poland Visit",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "PM Modi Poland Visit Live Updates",
+      "url": "https://timesofindia.indiatimes.com/india/pm-modi-poland-visit-live-updates-deputy-pm-janusz-piechocinski-warsaw-donald-tusk-president-andrzej-duda-tanmaya-lal/liveblog/112667605.cms",
+      "snippet": "Aug 23, 2024 — Narendra Modi reached Poland on Monday on a two-day visit and received a warm and enthusiastic welcome from the members of the Indian community",
+      "bm25_score_raw": 1.711850519671267,
+      "bm25_score_norm": 0.47094209377583907,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.9006121158599854,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Indian PM Modi Receives Warm Welcome from ...",
+      "url": "https://indiandiaspora.org/index.php/news/indian-pm-modi-receives-warm-welcome-indian-diaspora-poland-historic-visit",
+      "snippet": "Aug 21, 2024 — Modi was greeted with enthusiasm by members of the Indian diaspora as he arrived in Poland on Monday, marking the first visit by an Indian",
+      "bm25_score_raw": 3.6349490569982486,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8911519050598145,
+      "embedding_score_norm": 0.9254807579443965,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Historic visit of the Indian Prime Minister to Poland",
+      "url": "https://www.gov.pl/web/primeminister/historic-visit-of-the-indian-prime-minister-to-poland",
+      "snippet": "Aug 22, 2024 — The main objective of the meeting was to elevate Polish-Indian relations to the level of a Strategic Partnership.",
+      "bm25_score_raw": 0.7453626310603781,
+      "bm25_score_norm": 0.20505449165108816,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8803642392158508,
+      "embedding_score_norm": 0.8405049895157723,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Embassy of India, Poland : India and Poland",
+      "url": "https://www.indianembassywarsaw.gov.in/page/pol-relat",
+      "snippet": "## Embassy of India, Poland. # Embassy of India, Poland Embassy of India. Diplomatic relations were established in 1954, leading to the opening of the Indian Embassy in Warsaw in 1957. The President of India, Smt. Pratibha Patil, visited Poland in April 2009, and Polish PM Donald Tusk paid a state visit to India in September 2010. Krzysztof Szczerski, Secretary of State and Chief of the Cabinet of the President of the Republic of Poland visited India in January 2019. Prime Minister of India Shri Narendra Modi paid a historic visit to Poland in August 2024. Secretary of State for Foreign Affairs W.T. Bartoszewski visited India to participate in the 2025 Edition of the Raisina Dialogue held in New Delhi. Visit of Prime Minister to Poland: Prime Minister Shri Narendra Modi paid an official visit to Poland on 21-22 August 2024 on the occasion of the 70th anniversary of the establishment of diplomatic relations between India and Poland.",
+      "bm25_score_raw": 1.3321819758051,
+      "bm25_score_norm": 0.3664926123903424,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8766124248504639,
+      "embedding_score_norm": 0.8109514870888591,
+      "embedding_rank": 4
+    },
+    {
+      "title": "PM Narendra Modi sets foot in the historic city of Warsaw. ...",
+      "url": "https://www.facebook.com/MEAINDIA/posts/pm-narendra-modi-sets-foot-in-the-historic-city-of-warsaw-accorded-a-ceremonial-/963923192440094",
+      "snippet": "Prime Minister Narendra Modi has landed in Warsaw, Poland, marking a historic visit as the first Indian Prime Minister to visit the country in ...Read more",
+      "bm25_score_raw": 0.6988193112231095,
+      "bm25_score_norm": 0.19225009766717238,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8648439645767212,
+      "embedding_score_norm": 0.7182498805089147,
+      "embedding_rank": 5
+    },
+    {
+      "title": "PM Modi Arrives In Warsaw, 1st Visit By Indian Prime ...",
+      "url": "https://www.ndtv.com/india-news/pm-modi-arrives-in-warsaw-1st-visit-by-indian-prime-minister-in-45-years-6386050",
+      "snippet": "Aug 21, 2024 — PM Modi landed in Warsaw this evening on the first leg of his two-nation visit during which he will also travel to Ukraine's capital Kyiv.Read more",
+      "bm25_score_raw": 0.6836398088876116,
+      "bm25_score_norm": 0.18807411002677527,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8548272252082825,
+      "embedding_score_norm": 0.6393467945870773,
+      "embedding_rank": 6
+    },
+    {
+      "title": "PM Narendra Modi নেদারল্যান্ডস থেকে ফিরল চোল যুগের ...",
+      "url": "https://bengali.news18.com/news/national/pm-narendra-modi-mann-ki-baat-on-chola-copper-plates-ganga-dolphin-and-kerala-river-school-rc-2731415.html",
+      "snippet": "মোদির কথায়, এই ঘটনা শুধু দেশের মানুষের মধ্যেই নয়, বিশ্বের বিভিন্ন প্রান্তে বসবাসকারী ভারতীয়দের মধ্যেও গর্ব ও আনন্দের সঞ্চার করেছে। বিশেষ করে বিশ্বজুড়ে তামিল সম্প্রদায়ের মধ্যে এই ঐতিহাসিক সম্পদ প্রত্যাবর্তন",
+      "bm25_score_raw": 0.4957784611711209,
+      "bm25_score_norm": 0.13639213463435335,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.8336166143417358,
+      "embedding_score_norm": 0.4722682084225017,
+      "embedding_rank": 7
+    },
+    {
+      "title": "নেদারল্যান্ডস থেকে ফিরল চোল যুগের ঐতিহাসিক তাম্রলিপি, মন ...",
+      "url": "https://www.facebook.com/News18Bangla/posts/pm-narendra-modi-%E0%A6%A8%E0%A7%87%E0%A6%A6%E0%A6%BE%E0%A6%B0%E0%A6%B2%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A1%E0%A6%B8-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A6%AB%E0%A6%BF%E0%A6%B0%E0%A6%B2-%E0%A6%9A%E0%A7%8B%E0%A6%B2-%E0%A6%AF%E0%A7%81%E0%A6%97%E0%A7%87%E0%A6%B0-%E0%A6%90%E0%A6%A4%E0%A6%BF%E0%A6%B9%E0%A6%BE%E0%A6%B8%E0%A6%BF%E0%A6%95-%E0%A6%A4%E0%A6%BE%E0%A6%AE%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A6%BF%E0%A6%AA%E0%A6%BF-%E0%A6%AE%E0%A6%A8-%E0%A6%95%E0%A6%BF-%E0%A6%AC%E0%A6%BE%E0%A6%A4%E0%A7%87/1147621014284814",
+      "snippet": "PM Narendra Modi | নেদারল্যান্ডস থেকে ফিরল চোল যুগের ঐতিহাসিক তাম্রলিপি, মন কি বাতে মোদি শোনালেন অনুপ্রেরণার গল্প #PMNarendraModi #NarendraModi",
+      "bm25_score_raw": 2.9971493015695003,
+      "bm25_score_norm": 0.8245368104400767,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8335874080657959,
+      "embedding_score_norm": 0.4720381470007972,
+      "embedding_rank": 8
+    },
+    {
+      "title": "নেদারল্যান্ড থেকে ফিরল ১০০০ বছরের পুরনো চোল যুগের তাম্মলিপি ...",
+      "url": "https://www.instagram.com/reel/DYgd87tMmmU",
+      "snippet": "ফরেন‌ কন্ট্রিবিউশন রেগুলেশন সংশোধনী বিল বা এফসিআরএ আইন সংক্রান্ত কোনও জটিলতায় পড়তে হবে না স্বর্ণমন্দির তথা শ্রী হরমন্দির কর্তৃপক্ষকে। অকল্যান্ড সফরে গিয়ে বড়সড় ঘোষণা করলেন প্রধানমন্ত্রী নরেন্দ্র মোদি।",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.8082258105278015,
+      "embedding_score_norm": 0.27226172914164554,
+      "embedding_rank": 9
+    },
+    {
+      "title": "PM Modi Receives Sweden's Top Honour Royal Order Of ...",
+      "url": "https://www.sangbadpratidin.in/world/pm-modi-receives-swedens-top-honour-royal-order-of-polar-star/pid/1199837",
+      "snippet": "পালটা নিজের এক্স হ্যান্ডেলে অ্যাকাউন্টে বাঙালি সংস্কৃতিকে প্রশংসা ভরালেন মোদি। তাঁর কথায়, “গোটা বিশ্বেই বাঙালি সংস্কৃতি অত্যন্ত জনপ্রিয়।” এদিনই মোদিকে সুইডেনের সর্বোচ্চ রাষ্ট্রীয় সম্মান 'রয়্যাল অর্ডার অফ পোলার স্টার'-",
+      "bm25_score_raw": 0.4957784611711209,
+      "bm25_score_norm": 0.13639213463435335,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.801628053188324,
+      "embedding_score_norm": 0.2202903844655016,
+      "embedding_rank": 10
+    },
+    {
+      "title": "দেশের দীর্ঘমেয়াদি প্রধানমন্ত্রী হিসেবে রেকর্ড গড়লেন নরেন্দ্র ...",
+      "url": "https://www.youtube.com/watch?v=UBAtvhYnQjE",
+      "snippet": "দেশের দীর্ঘমেয়াদি প্রধানমন্ত্রী হিসেবে রেকর্ড গড়লেন নরেন্দ্র মোদী। 'এই দিন জীবনে কখনও আসবে ভাবিনি। এটা আমার জীবনের পরম সৌভাগ্য বলে মনে করি', ভারতমণ্ডপমে এনিয়ে বক্তব্য রাখতে গিয়ে আবেগতাড়িত",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.7878262996673584,
+      "embedding_score_norm": 0.11157227731697675,
+      "embedding_rank": 11
+    },
+    {
+      "title": "মজা নিন আমাদের RAP গানের, মমতার 'নন্দলাল' মোদির 'দিদি ও দিদি ...",
+      "url": "https://www.youtube.com/watch?v=yeQ7x0bsP_I",
+      "snippet": "প্রধানমন্ত্র নরেন্দ্র মোদি। মতা বন্দ্যোপাধ্যায়ের বিরুদ্ধে আক্রমণ শানিয়েছেন। likes9.8K views3 years ago",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.7736622095108032,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

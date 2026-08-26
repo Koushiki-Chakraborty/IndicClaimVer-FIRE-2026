@@ -1,0 +1,99 @@
+{
+  "claim": {
+    "id": "S2/1342",
+    "text": "Sonia: Media should also look at corruption in non-Congress ruled states",
+    "lang": "dev"
+  },
+  "entity_ranked_evidence": [
+    {
+      "title": "National Herald case: BJP's 'Congress model of corruption' dig at Sonia, Rahul Gandhi",
+      "url": "https://timesofindia.indiatimes.com/india/national-herald-case-bjps-congress-model-of-corruption-dig-at-sonia-rahul-gandhi/articleshow/120409654.cms",
+      "snippet": "India News: NEW DELHI: BJP on Friday challenged Congress leaders facing corruption charges to demand a quick and time-bound trial,",
+      "bm25_score_raw": 2.345987107694518,
+      "bm25_score_norm": 0.6563112688775756,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8366168737411499,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 1
+    },
+    {
+      "title": "India's Gandhis bailed over National Herald case",
+      "url": "https://www.bbc.com/news/world-asia-india-35129365",
+      "snippet": "The top leaders of India's opposition Congress party, Sonia and Rahul Gandhi, have appeared in court in connection with corruption allegations.",
+      "bm25_score_raw": 3.2084331309799756,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8028734922409058,
+      "embedding_score_norm": 0.4777163143075396,
+      "embedding_rank": 4,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 2
+    },
+    {
+      "title": "Sonia Gandhi stable in hospital, reports Indian press",
+      "url": "https://www.csmonitor.com/World/Latest-News-Wires/2013/0826/Sonia-Gandhi-stable-in-hospital-reports-Indian-press",
+      "snippet": "Sonia Gandhi, India's most powerful politician and the leader of the ruling Congress party alliance, was in stable condition after falling",
+      "bm25_score_raw": 1.7424595460085681,
+      "bm25_score_norm": 0.41580274280996843,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.7952068448066711,
+      "embedding_score_norm": 0.3590511212880513,
+      "embedding_rank": 5,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 3
+    },
+    {
+      "title": "Why the Gandhis Are Convinced They Can Rule India Again",
+      "url": "https://www.nbcnews.com/news/world/why-gandhis-are-convinced-they-can-rule-india-again-n109816",
+      "snippet": "Despite a drubbing from new Prime Minister Narendra Modi, India’s 'first family' is clinging to its Congress dynasty. Sonia Gandhi, center, and her two children, Rahul and Priyanka, look back from the burning pyre after the body of the former Indian Prime Minister Rajiv Gandhi was set on fire during his funeral in New Delhi on May 24, 1991. The Gandhi family’s heirs — matriarch Sonia Gandhi, her son Rahul and daughter Priyanka — seem determined to follow the same path with their own empire, the Congress Party. Father Rajiv led Congress to its biggest ever election win in 1984, after Indira Gandhi’s assassination. Congress party vice-president Rahul Gandhi smiles as he speaks to the media in New Delhi on May 16, as his mother Sonia Gandhi stands next to him. India's Nehru-Gandhi dynasty, the towering force of Indian politics for the best part of a century, faces a fight for its very survival after an election drubbing at the hands of opposition leader Narendra Modi.ANINDITO MUKHERJEE / Reuters.",
+      "bm25_score_raw": 3.1757640740103352,
+      "bm25_score_norm": 0.9869812296263024,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.7720094919204712,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 4
+    },
+    {
+      "title": "Anurag Thakur on National Herald case: Sonia Gandhi, Rahul eyed ₹2,000 crore properties without investing a penny",
+      "url": "https://www.thehindu.com/news/national/sonia-gandhi-rahul-eyed-2000-crore-properties-without-investing-a-penny-anurag-thakur/article69463808.ece",
+      "snippet": "At a press conference, BJP MP Anurag Thakur alleged that the Chief Ministers of Congress-ruled States had funnelled money to the National Herald through",
+      "bm25_score_raw": 0.6990519811562168,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8218920826911926,
+      "embedding_score_norm": 0.7720881014676197,
+      "embedding_rank": 2,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 5
+    },
+    {
+      "title": "India's Sonia Gandhi Takes to TV to Appeal for Stop of ‘Divisive’ BJP",
+      "url": "https://www.voanews.com/a/reu-indias-sonia-gandhi-takes-to-tv-to-appeal-for-stop-of-divisive-bjp/1893521.html",
+      "snippet": "NEW DELHI —  Sonia Gandhi, president of India's ruling Congress party, has issued a rare direct appeal to the nation not to return an opposition she said was motivated by “hatred and falsehood” in the country's general election. The three-minute TV address was aired at prime time on Hindi-language channels just as an opinion poll showed for the first time that an alliance led by the Hindu nationalist Bharatiya Janata Party (BJP) could win an outright majority. A senior Modi aide has, however, been banned from campaigning by the election authorities for statements directed at minority Muslims in Uttar Pradesh that promoted “hatred and ill-will.” The northern state, India's most populous, is a must-win territory for any party staking a claim on power. India's five-week general election, which kicked off on April 7, has seen a high turnout so far in what some analysts say is evidence of a “Modi wave” that could propel the BJP to power for the first time in a decade.",
+      "bm25_score_raw": 0.9151634532843891,
+      "bm25_score_norm": 0.08612142166739015,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8129337430000305,
+      "embedding_score_norm": 0.6334299568607625,
+      "embedding_rank": 3,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 6
+    }
+  ]
+}

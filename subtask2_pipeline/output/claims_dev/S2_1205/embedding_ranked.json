@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/1205",
+    "text": "Corona Updates: जून में आ सकती है कोरोना की चौथी लहर, आईआईटी कानपुर की स्टडी में दावा",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "IIT Kanpur experts predict Covid fourth wave around June 22",
+      "url": "https://timesofindia.indiatimes.com/city/hyderabad/iit-k-experts-predict-4th-wave-around-june-22/articleshow/89859495.cms",
+      "snippet": "IIT Kanpur experts predict Covid fourth wave around June 22 The curve will reach peak from August 15 to 31 and thereafter decline, according to",
+      "bm25_score_raw": 3.1572923379114233,
+      "bm25_score_norm": 0.42699136332877125,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.9204643368721008,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "IIT Kanpur Says Covid Fourth Wave Is Likely To Begin ...",
+      "url": "https://www.youtube.com/watch?v=iQtV7HPvXhc",
+      "snippet": "IIT Kanpur Says Covid Fourth Wave Is Likely To Begin From June End and May Go On Till October",
+      "bm25_score_raw": 3.155705757861327,
+      "bm25_score_norm": 0.42653298266535733,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.9184480905532837,
+      "embedding_score_norm": 0.9700425976602283,
+      "embedding_rank": 2
+    },
+    {
+      "title": "IIT Kanpur study says fourth wave in June 2022. Should India ...",
+      "url": "https://www.youtube.com/watch?v=KFeZrJEBqi4",
+      "snippet": "IIT Kanpur study says fourth wave in June 2022. Should India prepare for 4th wave of Covid-19 | UPSC @StudyIQEducationLtd2.7K likes109K views4",
+      "bm25_score_raw": 4.814298006209219,
+      "bm25_score_norm": 0.9057187729346332,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.9152264595031738,
+      "embedding_score_norm": 0.9221755802934899,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Please add this to the annals of ridiculousness",
+      "url": "https://x.com/MenonBioPhysics/status/1498884715189014535",
+      "snippet": "A recent study by IIT Kanpur says that India may witness the fourth wave Covid-19 pandemic in mid or late June.",
+      "bm25_score_raw": 3.243935470137372,
+      "bm25_score_norm": 0.4520235301126523,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.9135504961013794,
+      "embedding_score_norm": 0.8972741039878849,
+      "embedding_rank": 4
+    },
+    {
+      "title": "COVID 4th wave: 'Prepared for unpredictable virus but ... - Mint",
+      "url": "https://www.livemint.com/news/india/covid-4th-wave-prepared-for-unpredictable-coronavirus-but-centre-on-iit-kanpur-study-on-pandemic-11646388316046.html",
+      "snippet": "A recent study by a team of IIT Kanpur scientists has suggested that the fourth covid wave is likely to hit the country in mid to late June, and",
+      "bm25_score_raw": 2.8596703052631884,
+      "bm25_score_norm": 0.3410050402537953,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.9108072519302368,
+      "embedding_score_norm": 0.8565149623174544,
+      "embedding_rank": 5
+    },
+    {
+      "title": "जून में आ सकती है Corona की चौथी लहर, IIT कानपुर के ...",
+      "url": "https://www.aajtak.in/india/news/story/india-might-ge-fourth-wave-of-covid-in-june-warns-iit-kanpur-scientists-ntc-1419630-2022-02-28",
+      "snippet": "Feb 28, 2022 — जून में आ सकती है Corona की चौथी लहर, IIT कानपुर के वैज्ञानिकों ने दी चेतावनी · कोरोना के मामले तेजी से कम हो रहे हैं, लेकिन इसका मतलब ये नहीं कि हमें कोविड से हमेशा के लिए छुटकारा मिल गया है. हालिया शोध से ...Read more",
+      "bm25_score_raw": 5.140630955872587,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9084027409553528,
+      "embedding_score_norm": 0.8207887209189051,
+      "embedding_rank": 6
+    },
+    {
+      "title": "Next COVID-19 wave can't be predicted: experts",
+      "url": "https://www.thehindu.com/news/national/experts-denounce-study-that-forecasts-fourth-covid-wave-in-june/article65184027.ece",
+      "snippet": "Indian Institute of Technology, Kanpur that predicts a fourth COVID wave in India around June. to begin precisely on June 22, 2022, reaching",
+      "bm25_score_raw": 2.0820327345051006,
+      "bm25_score_norm": 0.11633687708230436,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.9071497917175293,
+      "embedding_score_norm": 0.8021723921110196,
+      "embedding_rank": 7
+    },
+    {
+      "title": "There's a Problem With the Way We Use COVID Models",
+      "url": "https://science.thewire.in/health/iit-kanpur-model-fourth-wave-prediction-problems",
+      "snippet": "The IIT Kanpur study, released on February 24, said India will have its fourth wave between June 22 and October 24, and probably peak in August.",
+      "bm25_score_raw": 2.243858746558806,
+      "bm25_score_norm": 0.16309021597516465,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.8968468308448792,
+      "embedding_score_norm": 0.6490909251928407,
+      "embedding_rank": 8
+    },
+    {
+      "title": "भारत में जून में दस्तक देने वाली है कोरोना की चौथी लहर, जानें क्या ...",
+      "url": "https://navbharattimes.indiatimes.com/india/coronavirus-fourth-wave-in-india-around-june-22-predicts-by-iit-kanpur-experts/articleshow/89862119.cms",
+      "snippet": "Feb 27, 2022 — कोरोना की चौथी लहर में बूस्टर डोज के साथ ही वैक्सीनेशन की स्थिति काफी महत्वपूर्ण रहेगी। आईआईटी कानपुर के रिसर्चर्स ने कहा है कि कोविड -19 की चौथी लहर कम से कम चार महीने तक चलेगी। यह सांख्यिकीय भविष्यवाणी ...Read more",
+      "bm25_score_raw": 3.9387666323895862,
+      "bm25_score_norm": 0.6527679987541753,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8840615749359131,
+      "embedding_score_norm": 0.45912750073062514,
+      "embedding_rank": 9
+    },
+    {
+      "title": "Corona Alert In UP: IIT Kanpur के विशेषज्ञों ने किया कोरोना पर ...",
+      "url": "https://www.jagran.com/uttar-pradesh/kanpur-city-coronavirus-news-update-in-up-iit-kanpur-research-on-coronavirus-cases-in-india-and-also-told-horrefic-truth-about-corona-21525611.html",
+      "snippet": "Apr 4, 2021 — आइआइटी के विशेषज्ञों ने मैथमेटिकल मॉडलिंग के माध्यम से कोविड-19 की भयावहता का आकलन किया है। उनकी रिपोर्ट में संक्रमण की लहर पिछले वर्ष के मुकाबले कहीं ज्यादा तेज है। अधिक से अधिक लोगों को चपेट में ले सकता है ...Read more",
+      "bm25_score_raw": 4.348476473372998,
+      "bm25_score_norm": 0.7711377391941752,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8727401494979858,
+      "embedding_score_norm": 0.29091367995961637,
+      "embedding_rank": 10
+    },
+    {
+      "title": "IIT कानपुर के प्रोफेसर का दावा बढ़ा सकता है टेंशन, हर रोज इतने ...",
+      "url": "https://www.abplive.com/news/india/coronavirus-updates-iit-kanpur-professor-manindra-aggarwal-said-in-coming-days-15-to-20-thousand-new-cases-will-come-everyday-2376810",
+      "snippet": "Apr 6, 2023 — Coronavirus Updates: IIT कानपुर के प्रोफेसर का दावा बढ़ा सकता है टेंशन, हर रोज इतने केस आने का जताया अनुमान · Coronavirus News: देश के कई राज्यों में कोरोना के मामलों में लगातार बढ़ोतरी दर्ज की ...Read more",
+      "bm25_score_raw": 1.6793591860735386,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.8561756014823914,
+      "embedding_score_norm": 0.044797506132823225,
+      "embedding_rank": 11
+    },
+    {
+      "title": "IIT कानपुर के एक प्रोफेसर का दावा- अगस्त से बढ़ेंगे कोरोना केस, ...",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/kanpur/news/uttar-pradesh-covid-iit-kanpurpro-claim-in-ranjans-study-corona-patients-will-start-increasing-from-august-padmashree-prof-aggarwal-said-the-third-wave-will-be-weak-vaccination-is-happening-128627975.html",
+      "snippet": "2. अनलॉक के बाद लोग सोशल डिस्टेंसिंग का पालन नहीं करते, मास्क नहीं लगाते। 3. सितंबर से हालात खराब होना शुरू होंगे और अक्टूबर तक तीसरी लहर का पीक आ सकता है।Read more",
+      "bm25_score_raw": 2.319418082760482,
+      "bm25_score_norm": 0.18492015052724484,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.853160560131073,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

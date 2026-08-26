@@ -1,0 +1,99 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1088",
+    "text": "Lucknow sees spike in Covid-19 cases with 169 infections in 24 hours",
+    "lang": "english"
+  },
+  "entity_ranked_evidence": [
+    {
+      "title": "Sudden spike in Covid cases, 200 test positive in 24 hours in Lucknow",
+      "url": "https://timesofindia.indiatimes.com/city/lucknow/sudden-spike-in-covid-cases-200-test-positive-in-24-hours/amp_articleshow/99504936.cms",
+      "snippet": "In the highest spike in one-year-and-two-months, 200 Covid-19 cases were recorded in Lucknow on Friday, taking the number of active cases to 571",
+      "bm25_score_raw": 6.47147405782249,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9188680648803711,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 1
+    },
+    {
+      "title": "Lucknow sees 6 fresh Covid cases in last 24 hours, active tally stands at 82",
+      "url": "https://www.indiatoday.in/amp/cities/lucknow/story/lucknow-news-covid-cases-coronavirus-latest-update-uttar-pradesh-1953828-2022-05-25",
+      "snippet": "Uttar Pradesh's capital, Lucknow, logged six fresh cases of Covid-19 in the last 24 hours even as the state reported 124 coronavirus infections.",
+      "bm25_score_raw": 2.7231234215327453,
+      "bm25_score_norm": 0.320104045771544,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8907263278961182,
+      "embedding_score_norm": 0.5405052943008408,
+      "embedding_rank": 2,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 2
+    },
+    {
+      "title": "Parts Of Lucknow Under Lockdown, 8-Fold Rise In Covid Cases In A Month",
+      "url": "https://www.ndtv.com/india-news/coronavirus-large-parts-of-lucknow-made-containment-zones-for-a-week-amid-covid-spike-2265701",
+      "snippet": "Lucknow is seeing a surge in COVID-19 cases with many parts of the sprawling city declared \"large containment zones\" for a week, starting this",
+      "bm25_score_raw": 1.1390112233872554,
+      "bm25_score_norm": 0.03276927400932956,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.881542444229126,
+      "embedding_score_norm": 0.39055200872002493,
+      "embedding_rank": 3,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 3
+    },
+    {
+      "title": "Uttar Pradesh COVID-19 Spike: 225 Active Cases, Community ...",
+      "url": "https://www.freepressjournal.in/amp/india/uttar-pradesh-covid-19-spike-225-active-cases-community-transmission-feared-in-lucknow",
+      "snippet": "Uttar Pradesh reported 225 active COVID-19 cases as three new infections emerged in Lucknow within 24 hours, exposing gaps in containment efforts.",
+      "bm25_score_raw": 2.2519479241434266,
+      "bm25_score_norm": 0.23463970545473928,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8687762022018433,
+      "embedding_score_norm": 0.18210643101837434,
+      "embedding_rank": 4,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 4
+    },
+    {
+      "title": "Record Single-day 332 Covid Deaths in UP, Over 34k New Cases",
+      "url": "https://www.news18.com/amp/news/india/record-single-day-332-covid-deaths-in-up-over-34k-new-cases-only-7-dists-to-give-jabs-to-18-tomorrow-3692834.html",
+      "snippet": "Lucknow: A record single-day 332 COVID-19 deaths were reported in ... A total of 32,494 people recovered from coronavirus in the past 24 hours.",
+      "bm25_score_raw": 0.9583501555875339,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.860886812210083,
+      "embedding_score_norm": 0.053289473684210525,
+      "embedding_rank": 5,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 5
+    },
+    {
+      "title": "Covid in Uttar Pradesh: Coronavirus overwhelms India's most populous ...",
+      "url": "https://www.bbc.com/news/world-asia-india-56799303",
+      "snippet": "Lucknow city India is reeling under a severe second wave of Covid-19. With a total of 851,620 infections and 9,830 deaths since the pandemic",
+      "bm25_score_raw": 2.164188587191,
+      "bm25_score_norm": 0.21872144595093057,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8576231002807617,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 6
+    }
+  ]
+}

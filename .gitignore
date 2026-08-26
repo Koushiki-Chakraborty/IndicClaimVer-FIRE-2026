@@ -1,0 +1,36 @@
+# --- Secrets -----------------------------------------------------------
+# Real API keys/passwords live in these -- .env.example files (which
+# hold only placeholders) are intentionally NOT ignored and stay tracked.
+.env
+*/.env
+**/.env
+
+# --- Paper (draft manuscript, not part of the shipped codebase) --------
+paper/
+
+# --- Python --------------------------------------------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+venv/
+.venv/
+env/
+ENV/
+
+# --- Caches / regenerable artifacts (large, deterministic to rebuild) ---
+cache/
+**/cache/
+*.pkl
+integrated_candidate_cache*.json
+integrated_type_cache*.json
+llm_alias_cache*.json
+semantic_embed_cache*.pkl
+gpt_justification_cache.json
+wikidata_qid_cache.json
+
+# --- IDE / OS ------------------------------------------------------------
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

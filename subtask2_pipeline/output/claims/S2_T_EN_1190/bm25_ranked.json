@@ -1,0 +1,57 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1190",
+    "text": "LIVE: Modi praises 'mother-son' govt for developing India at Daman rally",
+    "lang": "english"
+  },
+  "ranked_evidence": [
+    {
+      "title": "LIVE: PM Shri Narendra Modi lays foundation stone ...",
+      "url": "https://www.youtube.com/watch?v=vCy5dhGXgg4",
+      "snippet": "PM Modi also praised Daman as a true \"Mini India,\" where people from different regions of the country live together, reflecting India's Unity",
+      "bm25_score_raw": 3.7586003665484826,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Great energy in #Daman during my recent visit. Narendra ...",
+      "url": "https://www.facebook.com/youth4Modi2019/posts/great-energy-in-daman-during-my-recent-visitnarendra-modi-modihaitomumkinhai/1445436314291137",
+      "snippet": "Prime Minister Narendra Modi with his mother as she visited 7 Race Course for the first time. Absolutely stunning and refreshing, Just so",
+      "bm25_score_raw": 3.0180195369161384,
+      "bm25_score_norm": 0.7758472182440472,
+      "bm25_rank": 2
+    },
+    {
+      "title": "LIVE: PM Modi inaugurates NAMO Hospital in Daman",
+      "url": "https://www.youtube.com/watch?v=HE5KFAr6mn4",
+      "snippet": "PM Modi Live: Prime Minister Narendra Modi inaugurates Namo Hospital in Daman ... | Modi Government. Times Now Navbharat•235K views · 40:14.",
+      "bm25_score_raw": 1.6139975763591892,
+      "bm25_score_norm": 0.35088965046373505,
+      "bm25_rank": 3
+    },
+    {
+      "title": "PM Visits Daman, Says It Has Become Mini-India",
+      "url": "https://www.ndtv.com/india-news/pm-narendra-modi-daman-visit-live-updates-pm-to-visit-daman-will-launch-number-of-development-projec-1816605",
+      "snippet": "Prime Minister Narendra Modi arrived at Daman today where he launched a number of development projects and handed over certificates to beneficiaries.",
+      "bm25_score_raw": 1.0025852366960797,
+      "bm25_score_norm": 0.16583250173435365,
+      "bm25_rank": 4
+    },
+    {
+      "title": "LIVE: PM Modi lays foundation stone, inaugurates various ...",
+      "url": "https://www.youtube.com/watch?v=D2-vKxLjrqo",
+      "snippet": "PM Modi Live: Prime Minister Narendra Modi lays foundation stone and inaugurates various development works in Daman.",
+      "bm25_score_raw": 0.8559107298460975,
+      "bm25_score_norm": 0.12143829463689497,
+      "bm25_rank": 5
+    },
+    {
+      "title": "I am honoured by the special welcome in Daman. The NDA ...",
+      "url": "https://www.facebook.com/narendramodi/posts/i-am-honoured-by-the-special-welcome-in-daman-the-nda-government-has-devoted-sig/1798679514959606",
+      "snippet": "I am honoured by the special welcome in Daman. The NDA Government has devoted significant resources for the development of Daman and Diu. Various projects",
+      "bm25_score_raw": 0.4546894187082072,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6
+    }
+  ]
+}

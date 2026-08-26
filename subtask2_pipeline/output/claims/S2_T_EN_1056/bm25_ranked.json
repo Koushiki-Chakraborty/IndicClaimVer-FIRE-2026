@@ -1,0 +1,57 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1056",
+    "text": "Delhi logs 648 new Covid cases, 3 deaths in last 24 hours",
+    "lang": "english"
+  },
+  "ranked_evidence": [
+    {
+      "title": "Delhi logs 648 fresh COVID cases, 5 fatalities",
+      "url": "https://theprint.in/india/delhi-logs-648-fresh-covid-cases-5-fatalities/1023328?amp=",
+      "snippet": "## New Delhi [India], July 3 (ANI): Delhi reported 648 new COVID-19 cases and five deaths in the last 24 hours, as per the Delhi government’s health bulletin on Sunday. The active cases stand in the city at 3,268 with a daily positivity rate of 4.29 per cent. As many as 785 COVID patients recovered in the last 24 hours, taking the total number of recoveries from the disease since the beginning of the pandemic to 19,07,474. Meanwhile, India reported 16,103 new COVID cases in the last 24 hours with a daily case positivity rate of 4.27 per cent, as per the Union Ministry of Health and Family Welfare on Sunday. According to the Ministry, 13,929 COVID patients recovered from the disease in the last 24 hours taking the total number of recoveries in the country to 4,28,65,519. As many as 31 patients succumbed to the virus in the last 24 hours, taking the death toll to 5,25,199.",
+      "bm25_score_raw": 6.9336676045842625,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Delhi reports 699 fresh COVID cases and 4 deaths in the last 24 hours. ...",
+      "url": "https://x.com/ANI/status/1645088033442787329",
+      "snippet": "Delhi reports 699 fresh COVID cases and 4 deaths in the last 24 hours. Positivity rate stands at 21.15%",
+      "bm25_score_raw": 3.7771060961269782,
+      "bm25_score_norm": 0.4443428364263277,
+      "bm25_rank": 2
+    },
+    {
+      "title": "Coronavirus Deaths: At 24 in a week, Delhi logs India's highest Covid deaths | India News - Times of India",
+      "url": "https://timesofindia.indiatimes.com/india/at-24-in-a-week-delhi-logs-indias-highest-covid-deaths/amp_articleshow/99541031.cms",
+      "snippet": "During this period (April 9-15), neighbouring Haryana registered 4,554 fresh cases, the fourth highest in the country, followed at number 5 by Uttar Pradesh with 3,332. Rajasthan, with a four-fold rise in cases, reported 14 fatalities from the virus, the third highest during the week after Delhi and Maharashtra (19).Read Less. In the last seven days, Delhi reported 24 deaths linked to Covid, the highest in the country and logged the second highest number of cases at 7,664. (With Sunday's data from Delhi coming in, the seven-day count of cases in the capital has risen to 8,599 and the seven-day toll stands at 23.). Rajasthan, with a four-fold rise in cases, reported 14 fatalities from the virus, the third highest during the week after Delhi and Maharashtra (19). Meanwhile, the number of states reporting over 2,000 fresh cases in the past seven days has risen to 10, up from four in the preceding week.",
+      "bm25_score_raw": 3.3603794665839875,
+      "bm25_score_norm": 0.37098543903772296,
+      "bm25_rank": 3
+    },
+    {
+      "title": "India reports 43654 new Covid cases and 640 deaths in last 24 hours",
+      "url": "https://www.youtube.com/watch?v=Gw8QsyaT07A",
+      "snippet": "India recorded 43,654 new Covid cases and 640 deaths in the last 24 hours. The country witnessed 41,678 recoveries.",
+      "bm25_score_raw": 2.856168163428385,
+      "bm25_score_norm": 0.282227902774742,
+      "bm25_rank": 4
+    },
+    {
+      "title": "300 Deaths, 13287 New Covid Cases In 24 Hours In Delhi",
+      "url": "https://www.youtube.com/watch?v=C5n2czLD7vg",
+      "snippet": "Delhi registered 13, 287 new coronavirus cases on Wednesday, with 300 fatalities reported over the past 24 hours, said the health bulletin.",
+      "bm25_score_raw": 2.6417613504812687,
+      "bm25_score_norm": 0.244485352466799,
+      "bm25_rank": 5
+    },
+    {
+      "title": "India COVID - Coronavirus Statistics - Worldometer",
+      "url": "https://www.worldometers.info/coronavirus/country/india",
+      "snippet": "**NOTE:** As of April 13, 2024, the **Coronavirus Tracker is no longer being updated** due to the unfeasibility of providing statistically valid global totals, as **the majority of countries have now stopped reporting**. However, historical data remain accessible. Worldometer delivered the **most accurate and timely global statistics** to users and institutions around the world at a time when this was extremely challenging. **We thank everyone** who participated in this extraordinary collaborative effort. Last updated: April 13, 2024, 01:00 GMT. # India. # Coronavirus Cases:. # Deaths:. # Recovered:. Daily Cases Graph - Daily Deaths Graph. Cases which had an outcome:. **Learn more about Worldometer's COVID-19 data**. ### Total Coronavirus Cases in India. ### Daily New Cases in India. See also: Daily Deaths Graph. ### Total Coronavirus Deaths in India. ### Daily New Deaths in India. See also: Daily Cases Graph. ### Newly Infected vs. ### Outcome of Cases (Recovery or Death) in India.",
+      "bm25_score_raw": 1.2528958708841735,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6
+    }
+  ]
+}

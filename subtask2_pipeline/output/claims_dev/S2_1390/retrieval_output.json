@@ -1,0 +1,138 @@
+{
+  "claim": {
+    "id": "S2/1390",
+    "text": "দেশে ফের দৈনিক করোনা আক্রান্ত ৩০ হাজারের কম, কিছুটা বেড়েছে অ্যাকটিভ কেস",
+    "lang": "dev"
+  },
+  "generated_queries": {
+    "english_translation": "Daily corona infected in the country is less than 30 thousand, active cases have increased slightly",
+    "native_query": "কর আক ৩০ কম কট",
+    "english_query": "Daily corona infected country 30 active increased"
+  },
+  "native_retrieval": [
+    {
+      "title": "Find the Exact Value cot(30)",
+      "url": "https://www.mathway.com/popular-problems/Trigonometry/300362",
+      "snippet": "The exact value of cot(30) cot ( 30 ) is √3 3. √3 3 The result can be shown in multiple forms. Exact Form: √3 3 Decimal Form: 1.73205080."
+    },
+    {
+      "title": "Find Value of cot 30 Degrees",
+      "url": "https://www.cuemath.com/trigonometry/cot-30-degrees",
+      "snippet": "The value of cot 30 degrees is 1.7320508. Cot 30 degrees in radians is written as cot (30° × π/180°), ie, cot (π/6) or cot (0.523598)."
+    },
+    {
+      "title": "What is cot(30)?",
+      "url": "https://www.mathcelebrity.com/search.php?q=cot%2830%29",
+      "snippet": "cot(30) = √3. Using our unit circle measurements, we look up cot(30)cot(30) = 1.7320508099621. Write cot(30) in terms of tan. Since 30° is less than 90."
+    },
+    {
+      "title": "Trigonometry: Find cot (30°)",
+      "url": "https://www.youtube.com/watch?v=S1zOHUvxhuE",
+      "snippet": "Erin from SVSU Micro Math helps you evaluate cotangent of an angle by using the unit circle. The angle is given in degree measure. Find cot (30"
+    },
+    {
+      "title": "What is the value of cot 30?",
+      "url": "https://www.quora.com/What-is-the-value-of-cot-30",
+      "snippet": "What is the value of cot 30?"
+    },
+    {
+      "title": "what is the value of cot 30 degree",
+      "url": "https://www.youtube.com/watch?v=sptFvhT5Nb4",
+      "snippet": "Hello students ssc maton में स्वागत है . ssc mathon से जुड़े रहें और आप अपनी RRB NTPC, GROUP-D,SSC CGL ,CHSL,CPO के Mathematics preparation को strong करें."
+    }
+  ],
+  "english_retrieval": [
+    {
+      "title": "COVID-19 pandemic by country and territory",
+      "url": "https://en.wikipedia.org/wiki/COVID-19_pandemic_by_country_and_territory",
+      "snippet": "Image 1Image 2: WikipediaImage 3: The Free Encyclopedia. | Image 5 Confirmed deaths per 100,000 population, as of 20 December 2023 * 555+ * 100–555 * 18–100 * 3.3–18 * 0.6–3.3 * 0.1–0.6 * <0.1 * No deaths or no data |. | Date | First case of COVID-19: 17 November 2019;6 years ago(17 November 2019) * * * Public health emergency of international concern: 30 January 2020 – 5 May 2023 (3 years, 3 months and 5 days) |. This is a general overview and status of places affected by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), the virus which causes coronavirus disease 2019 (COVID-19) and is responsible for the COVID-19 pandemic. The first human cases of COVID-19 were identified in Wuhan, the capital of the province of Hubei in China in December 2019. While in several high-income countries the ratio of total estimated cases and deaths to reported cases and deaths is low and close to 1, for some countries it may be more than 10 or even more than 100."
+    },
+    {
+      "title": "Coronavirus (COVID-19) Cases",
+      "url": "https://ourworldindata.org/covid-cases",
+      "snippet": "# Explore the global data on confirmed COVID-19 cases[](https://ourworldindata.org/covid-cases#explore-the-global-data-on-confirmed-covid-19-cases). # [Daily new confirmed COVID-19 cases per million people](https://ourworldindata.org/explorers/covid?zoomToSelection=true&time=40..latest&facet=none&country=IND~USA~GBR~CAN~DEU~FRA&pickerSort=desc&pickerMetric=new_cases_smoothed_per_million&Metric=Confirmed+cases&Interval=7-day+rolling+average&Relative+to+population=true). # Confirmed cases[](https://ourworldindata.org/covid-cases#confirmed-cases). *   [Our World in Data will rely on data from the WHO to track confirmed COVID-19 cases and deaths](https://ourworldindata.org/covid-jhu-who). ## What is the **daily** number of **confirmed cases**?[](https://ourworldindata.org/covid-cases#what-is-the-daily-number-of-confirmed-cases). ## **What is the cumulative number of confirmed cases?**[](https://ourworldindata.org/covid-cases#what-is-the-cumulative-number-of-confirmed-cases). *   [![Image 6](https://ourworldindata.org/grapher/covid-19-total-confirmed-cases-vs-total-tests-conducted.png)#### Tests conducted vs. See them plotted against each other.](https://ourworldindata.org/grapher/covid-19-total-confirmed-cases-vs-total-tests-conducted?country=IND~USA~GBR~CAN~DEU~FRA). # Confirmed deaths and cases: our data source[](https://ourworldindata.org/covid-cases#confirmed-deaths-and-cases-our-data-source). In this document, the many linked charts, our [COVID-19 Data Explorer](https://ourworldindata.org/coronavirus-data-explorer), and the Complete COVID-19 dataset, we report and visualize the data on confirmed cases and deaths from the [World Health Organization](https://data.who.int/dashboards/covid19/) (WHO). *   **Confirmed case:**A confirmed case is “a person with laboratory confirmation of COVID-19 infection”, as the World Health Organization (WHO) explains.[2](https://ourworldindata.org/covid-cases#note-2). Countries may have slightly different criteria for how cases are defined and reported.[3](https://ourworldindata.org/covid-cases#note-3). ### The number of actual cases is higher than the number of confirmed cases[](https://ourworldindata.org/covid-cases#the-number-of-actual-cases-is-higher-than-the-number-of-confirmed-cases)."
+    },
+    {
+      "title": "New COVID-19 Cases Worldwide",
+      "url": "https://coronavirus.jhu.edu/data/new-cases",
+      "snippet": "Daily confirmed new COVID-19 cases for the most affected countries over time. country has reported 103,802,702 cases, and 1,123,836 deaths. country has"
+    },
+    {
+      "title": "Coronavirus cases around the world have climbed to all",
+      "url": "https://www.facebook.com/News8WROC/posts/coronavirus-cases-around-the-world-have-climbed-to-all-time-highs-of-more-than-3/10159334365594386",
+      "snippet": "Oct 15, 2020 — Coronavirus cases around the world have climbed to all-time highs of more than 330000 per day as the scourge comes storming back across"
+    },
+    {
+      "title": "COVID-19 cases | WHO COVID-19 dashboard - WHO Data",
+      "url": "https://data.who.int/dashboards/covid19/cases",
+      "snippet": "Number of COVID-19 cases reported to WHO ; Thailand · 8k 6k ; Brazil · 40k 30k ; Colombia · 800 600 ; United Kingdom of Great Britain And Northern Ireland · 15k 10k ...Read more"
+    },
+    {
+      "title": "COVID - Coronavirus Statistics",
+      "url": "https://www.worldometers.info/coronavirus",
+      "snippet": "**NOTE:** As of April 13, 2024, the **Coronavirus Tracker is no longer being updated** due to the unfeasibility of providing statistically valid global totals, as **the majority of countries have now stopped reporting**. Worldometer delivered the **most accurate and timely global statistics** to users and institutions around the world at a time when this was extremely challenging. The charts above are updated after the close of the day in GMT+0. * As of April 13, 2024, the **Coronavirus Tracker is no longer being updated** due to the unfeasibility of providing statistically valid global totals, as **the majority of countries have now stopped reporting**. As a number of major countries had transitioned to weekly updates, there was no need anymore for immediate updates throughout the day as soon as a new report is released. On January 29, 2020, Worldometer started tracking the coronavirus, delivering the **most accurate and timely global statistics** to users and institutions around the world at a time when this was extremely challenging."
+    }
+  ],
+  "merged_results": [
+    {
+      "title": "Find the Exact Value cot(30)",
+      "url": "https://www.mathway.com/popular-problems/Trigonometry/300362",
+      "snippet": "The exact value of cot(30) cot ( 30 ) is √3 3. √3 3 The result can be shown in multiple forms. Exact Form: √3 3 Decimal Form: 1.73205080."
+    },
+    {
+      "title": "Find Value of cot 30 Degrees",
+      "url": "https://www.cuemath.com/trigonometry/cot-30-degrees",
+      "snippet": "The value of cot 30 degrees is 1.7320508. Cot 30 degrees in radians is written as cot (30° × π/180°), ie, cot (π/6) or cot (0.523598)."
+    },
+    {
+      "title": "What is cot(30)?",
+      "url": "https://www.mathcelebrity.com/search.php?q=cot%2830%29",
+      "snippet": "cot(30) = √3. Using our unit circle measurements, we look up cot(30)cot(30) = 1.7320508099621. Write cot(30) in terms of tan. Since 30° is less than 90."
+    },
+    {
+      "title": "Trigonometry: Find cot (30°)",
+      "url": "https://www.youtube.com/watch?v=S1zOHUvxhuE",
+      "snippet": "Erin from SVSU Micro Math helps you evaluate cotangent of an angle by using the unit circle. The angle is given in degree measure. Find cot (30"
+    },
+    {
+      "title": "What is the value of cot 30?",
+      "url": "https://www.quora.com/What-is-the-value-of-cot-30",
+      "snippet": "What is the value of cot 30?"
+    },
+    {
+      "title": "what is the value of cot 30 degree",
+      "url": "https://www.youtube.com/watch?v=sptFvhT5Nb4",
+      "snippet": "Hello students ssc maton में स्वागत है . ssc mathon से जुड़े रहें और आप अपनी RRB NTPC, GROUP-D,SSC CGL ,CHSL,CPO के Mathematics preparation को strong करें."
+    },
+    {
+      "title": "COVID-19 pandemic by country and territory",
+      "url": "https://en.wikipedia.org/wiki/COVID-19_pandemic_by_country_and_territory",
+      "snippet": "Image 1Image 2: WikipediaImage 3: The Free Encyclopedia. | Image 5 Confirmed deaths per 100,000 population, as of 20 December 2023 * 555+ * 100–555 * 18–100 * 3.3–18 * 0.6–3.3 * 0.1–0.6 * <0.1 * No deaths or no data |. | Date | First case of COVID-19: 17 November 2019;6 years ago(17 November 2019) * * * Public health emergency of international concern: 30 January 2020 – 5 May 2023 (3 years, 3 months and 5 days) |. This is a general overview and status of places affected by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), the virus which causes coronavirus disease 2019 (COVID-19) and is responsible for the COVID-19 pandemic. The first human cases of COVID-19 were identified in Wuhan, the capital of the province of Hubei in China in December 2019. While in several high-income countries the ratio of total estimated cases and deaths to reported cases and deaths is low and close to 1, for some countries it may be more than 10 or even more than 100."
+    },
+    {
+      "title": "Coronavirus (COVID-19) Cases",
+      "url": "https://ourworldindata.org/covid-cases",
+      "snippet": "# Explore the global data on confirmed COVID-19 cases[](https://ourworldindata.org/covid-cases#explore-the-global-data-on-confirmed-covid-19-cases). # [Daily new confirmed COVID-19 cases per million people](https://ourworldindata.org/explorers/covid?zoomToSelection=true&time=40..latest&facet=none&country=IND~USA~GBR~CAN~DEU~FRA&pickerSort=desc&pickerMetric=new_cases_smoothed_per_million&Metric=Confirmed+cases&Interval=7-day+rolling+average&Relative+to+population=true). # Confirmed cases[](https://ourworldindata.org/covid-cases#confirmed-cases). *   [Our World in Data will rely on data from the WHO to track confirmed COVID-19 cases and deaths](https://ourworldindata.org/covid-jhu-who). ## What is the **daily** number of **confirmed cases**?[](https://ourworldindata.org/covid-cases#what-is-the-daily-number-of-confirmed-cases). ## **What is the cumulative number of confirmed cases?**[](https://ourworldindata.org/covid-cases#what-is-the-cumulative-number-of-confirmed-cases). *   [![Image 6](https://ourworldindata.org/grapher/covid-19-total-confirmed-cases-vs-total-tests-conducted.png)#### Tests conducted vs. See them plotted against each other.](https://ourworldindata.org/grapher/covid-19-total-confirmed-cases-vs-total-tests-conducted?country=IND~USA~GBR~CAN~DEU~FRA). # Confirmed deaths and cases: our data source[](https://ourworldindata.org/covid-cases#confirmed-deaths-and-cases-our-data-source). In this document, the many linked charts, our [COVID-19 Data Explorer](https://ourworldindata.org/coronavirus-data-explorer), and the Complete COVID-19 dataset, we report and visualize the data on confirmed cases and deaths from the [World Health Organization](https://data.who.int/dashboards/covid19/) (WHO). *   **Confirmed case:**A confirmed case is “a person with laboratory confirmation of COVID-19 infection”, as the World Health Organization (WHO) explains.[2](https://ourworldindata.org/covid-cases#note-2). Countries may have slightly different criteria for how cases are defined and reported.[3](https://ourworldindata.org/covid-cases#note-3). ### The number of actual cases is higher than the number of confirmed cases[](https://ourworldindata.org/covid-cases#the-number-of-actual-cases-is-higher-than-the-number-of-confirmed-cases)."
+    },
+    {
+      "title": "New COVID-19 Cases Worldwide",
+      "url": "https://coronavirus.jhu.edu/data/new-cases",
+      "snippet": "Daily confirmed new COVID-19 cases for the most affected countries over time. country has reported 103,802,702 cases, and 1,123,836 deaths. country has"
+    },
+    {
+      "title": "Coronavirus cases around the world have climbed to all",
+      "url": "https://www.facebook.com/News8WROC/posts/coronavirus-cases-around-the-world-have-climbed-to-all-time-highs-of-more-than-3/10159334365594386",
+      "snippet": "Oct 15, 2020 — Coronavirus cases around the world have climbed to all-time highs of more than 330000 per day as the scourge comes storming back across"
+    },
+    {
+      "title": "COVID-19 cases | WHO COVID-19 dashboard - WHO Data",
+      "url": "https://data.who.int/dashboards/covid19/cases",
+      "snippet": "Number of COVID-19 cases reported to WHO ; Thailand · 8k 6k ; Brazil · 40k 30k ; Colombia · 800 600 ; United Kingdom of Great Britain And Northern Ireland · 15k 10k ...Read more"
+    },
+    {
+      "title": "COVID - Coronavirus Statistics",
+      "url": "https://www.worldometers.info/coronavirus",
+      "snippet": "**NOTE:** As of April 13, 2024, the **Coronavirus Tracker is no longer being updated** due to the unfeasibility of providing statistically valid global totals, as **the majority of countries have now stopped reporting**. Worldometer delivered the **most accurate and timely global statistics** to users and institutions around the world at a time when this was extremely challenging. The charts above are updated after the close of the day in GMT+0. * As of April 13, 2024, the **Coronavirus Tracker is no longer being updated** due to the unfeasibility of providing statistically valid global totals, as **the majority of countries have now stopped reporting**. As a number of major countries had transitioned to weekly updates, there was no need anymore for immediate updates throughout the day as soon as a new report is released. On January 29, 2020, Worldometer started tracking the coronavirus, delivering the **most accurate and timely global statistics** to users and institutions around the world at a time when this was extremely challenging."
+    }
+  ]
+}

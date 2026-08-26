@@ -1,0 +1,108 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1060",
+    "text": "Doctors say there is no evidence that people develop long COVID after an Omicron infection.",
+    "lang": "english"
+  },
+  "generated_queries": {
+    "english_translation": "Doctors say there is no evidence that people develop long COVID after an Omicron infection.",
+    "native_query": "Doctors evidence people develop COVID Omicron infection",
+    "english_query": "Doctors evidence people develop COVID Omicron infection"
+  },
+  "native_retrieval": [
+    {
+      "title": "What patients may ask about the COVID-19 Omicron variant",
+      "url": "https://www.ama-assn.org/public-health/infectious-diseases/what-patients-may-ask-about-covid-19-omicron-variant",
+      "snippet": "While research is ongoing, preliminary evidence suggests that there might be an increased risk of reinfection with the COVID-19 Omicron variant."
+    },
+    {
+      "title": "Emerging evidence on Omicron (B.1.1.529) SARS‐CoV‐2 variant",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9015596",
+      "snippet": "by V Sharma · 2022 · Cited by 92 — Omicron is unlike any other variant in the market at the moment. More than 300 million people have been infected and over 5.5 million people have died as a"
+    },
+    {
+      "title": "Straight answers on Omicron, the fast-moving COVID-19 variant",
+      "url": "https://utswmed.org/medblog/omicron-spread-covid-test",
+      "snippet": "If you have had prior infections with other variants such as Delta, it remains possible to be infected with Omicron. After infection with"
+    },
+    {
+      "title": "COVID-19 breakthrough infections and the omicron variant",
+      "url": "https://www.mdanderson.org/cancerwise/covid-19-breakthrough-infections-and-the-omicron-variant--what-t.h00-159466368.html",
+      "snippet": "Many are now due to the omicron variant, as opposed to the delta variant, which still accounted for more than 90% of all documented COVID-19"
+    },
+    {
+      "title": "Catching omicron on purpose puts community at risk, UCSF doctor says",
+      "url": "https://abc7news.com/amp/post/getting-covid-on-purpose-intentionally-catching-omicron-variant-over-with/11459958",
+      "snippet": "Dr. Chin-Hong says it's a bad idea to get omicron on purpose because of what it can do to yourself, to others and to the virus."
+    },
+    {
+      "title": "WHO EMRO - The Omicron variant: what we need to know",
+      "url": "https://www.emro.who.int/health-topics/corona-virus/omicron-voc-questions-and-answers.html",
+      "snippet": "# The Omicron variant: what we need to know. Although the Omicron variant of concern (VOC) is associated with milder disease than previous SARS-CoV-2 VOCs and may have symptoms similar to influenza (the flu), hospitalization due to Omicron continues to overwhelm health systems, and deaths are increasing. Due to the health emergency risks that the Omicron VOC poses, it is important to avoid the trap of confusing Omicron with the flu. The flu is a different disease from COVID-19. The only way to confirm whether symptoms are due to COVID-19 (from the Omicron VOC or another variant) or to the flu is to get tested. WHO does not recognize ‘flurona’ as a medical term and confirms that it is not a new disease; instead, it is the co-infection with influenza and COVID-19. The most effective way to prevent severe disease, hospitalization or death from COVID-19 and from influenza is vaccination with both vaccines, as well as following public health and social measures."
+    }
+  ],
+  "english_retrieval": [
+    {
+      "title": "What patients may ask about the COVID-19 Omicron variant",
+      "url": "https://www.ama-assn.org/public-health/infectious-diseases/what-patients-may-ask-about-covid-19-omicron-variant",
+      "snippet": "While research is ongoing, preliminary evidence suggests that there might be an increased risk of reinfection with the COVID-19 Omicron variant."
+    },
+    {
+      "title": "Emerging evidence on Omicron (B.1.1.529) SARS‐CoV‐2 variant",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9015596",
+      "snippet": "by V Sharma · 2022 · Cited by 92 — Omicron is unlike any other variant in the market at the moment. More than 300 million people have been infected and over 5.5 million people have died as a"
+    },
+    {
+      "title": "Straight answers on Omicron, the fast-moving COVID-19 variant",
+      "url": "https://utswmed.org/medblog/omicron-spread-covid-test",
+      "snippet": "If you have had prior infections with other variants such as Delta, it remains possible to be infected with Omicron. After infection with"
+    },
+    {
+      "title": "COVID-19 breakthrough infections and the omicron variant",
+      "url": "https://www.mdanderson.org/cancerwise/covid-19-breakthrough-infections-and-the-omicron-variant--what-t.h00-159466368.html",
+      "snippet": "Many are now due to the omicron variant, as opposed to the delta variant, which still accounted for more than 90% of all documented COVID-19"
+    },
+    {
+      "title": "Catching omicron on purpose puts community at risk, UCSF doctor says",
+      "url": "https://abc7news.com/amp/post/getting-covid-on-purpose-intentionally-catching-omicron-variant-over-with/11459958",
+      "snippet": "Dr. Chin-Hong says it's a bad idea to get omicron on purpose because of what it can do to yourself, to others and to the virus."
+    },
+    {
+      "title": "WHO EMRO - The Omicron variant: what we need to know",
+      "url": "https://www.emro.who.int/health-topics/corona-virus/omicron-voc-questions-and-answers.html",
+      "snippet": "# The Omicron variant: what we need to know. Although the Omicron variant of concern (VOC) is associated with milder disease than previous SARS-CoV-2 VOCs and may have symptoms similar to influenza (the flu), hospitalization due to Omicron continues to overwhelm health systems, and deaths are increasing. Due to the health emergency risks that the Omicron VOC poses, it is important to avoid the trap of confusing Omicron with the flu. The flu is a different disease from COVID-19. The only way to confirm whether symptoms are due to COVID-19 (from the Omicron VOC or another variant) or to the flu is to get tested. WHO does not recognize ‘flurona’ as a medical term and confirms that it is not a new disease; instead, it is the co-infection with influenza and COVID-19. The most effective way to prevent severe disease, hospitalization or death from COVID-19 and from influenza is vaccination with both vaccines, as well as following public health and social measures."
+    }
+  ],
+  "merged_results": [
+    {
+      "title": "What patients may ask about the COVID-19 Omicron variant",
+      "url": "https://www.ama-assn.org/public-health/infectious-diseases/what-patients-may-ask-about-covid-19-omicron-variant",
+      "snippet": "While research is ongoing, preliminary evidence suggests that there might be an increased risk of reinfection with the COVID-19 Omicron variant."
+    },
+    {
+      "title": "Emerging evidence on Omicron (B.1.1.529) SARS‐CoV‐2 variant",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9015596",
+      "snippet": "by V Sharma · 2022 · Cited by 92 — Omicron is unlike any other variant in the market at the moment. More than 300 million people have been infected and over 5.5 million people have died as a"
+    },
+    {
+      "title": "Straight answers on Omicron, the fast-moving COVID-19 variant",
+      "url": "https://utswmed.org/medblog/omicron-spread-covid-test",
+      "snippet": "If you have had prior infections with other variants such as Delta, it remains possible to be infected with Omicron. After infection with"
+    },
+    {
+      "title": "COVID-19 breakthrough infections and the omicron variant",
+      "url": "https://www.mdanderson.org/cancerwise/covid-19-breakthrough-infections-and-the-omicron-variant--what-t.h00-159466368.html",
+      "snippet": "Many are now due to the omicron variant, as opposed to the delta variant, which still accounted for more than 90% of all documented COVID-19"
+    },
+    {
+      "title": "Catching omicron on purpose puts community at risk, UCSF doctor says",
+      "url": "https://abc7news.com/amp/post/getting-covid-on-purpose-intentionally-catching-omicron-variant-over-with/11459958",
+      "snippet": "Dr. Chin-Hong says it's a bad idea to get omicron on purpose because of what it can do to yourself, to others and to the virus."
+    },
+    {
+      "title": "WHO EMRO - The Omicron variant: what we need to know",
+      "url": "https://www.emro.who.int/health-topics/corona-virus/omicron-voc-questions-and-answers.html",
+      "snippet": "# The Omicron variant: what we need to know. Although the Omicron variant of concern (VOC) is associated with milder disease than previous SARS-CoV-2 VOCs and may have symptoms similar to influenza (the flu), hospitalization due to Omicron continues to overwhelm health systems, and deaths are increasing. Due to the health emergency risks that the Omicron VOC poses, it is important to avoid the trap of confusing Omicron with the flu. The flu is a different disease from COVID-19. The only way to confirm whether symptoms are due to COVID-19 (from the Omicron VOC or another variant) or to the flu is to get tested. WHO does not recognize ‘flurona’ as a medical term and confirms that it is not a new disease; instead, it is the co-infection with influenza and COVID-19. The most effective way to prevent severe disease, hospitalization or death from COVID-19 and from influenza is vaccination with both vaccines, as well as following public health and social measures."
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "ID": "S2/T/EN/1277",
+  "Evidence": "Ahmedabad reported 131 new Covid-19 cases, the highest single-day rise in the city, according to Source 1. The total number of active cases in Ahmedabad is 646. Source 2 mentions a different day with 202 new cases, but does not specify a recent count of 117 new infections. Source 3 indicates a rise in cases but lacks specific numbers. Therefore, the claim of 117 new infections is not directly supported by the evidence, as the reported figures vary.",
+  "Prediction": "REFUTES",
+  "Justification": "The retrieved evidence does not corroborate the claim of 117 new Covid-19 infections in Ahmedabad. Source 1 states there were 131 new cases, which contradicts the claim. Source 2 reports 202 new cases on a different day, and Source 3 does not provide specific numbers. Thus, the evidence fails to substantiate the claim's core assertion."
+}

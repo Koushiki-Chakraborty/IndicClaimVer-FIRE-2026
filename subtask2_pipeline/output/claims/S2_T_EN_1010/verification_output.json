@@ -1,0 +1,6 @@
+{
+  "ID": "S2/T/EN/1010",
+  "Evidence": "The retrieved evidence indicates that various polls predict different seat counts for the NDA and UPA. Source 1 suggests NDA may get 270-282 seats, while UPA is estimated to receive 92-102 seats. Source 2 does not provide specific numbers for NDA or UPA. Source 3 mentions that the NDA may win between 263 and 283 seats, while the UPA is estimated to have between 115 and 135 seats. Therefore, the claim that NDA may get 192 seats and UPA 136 seats is not supported by the evidence, as the numbers differ significantly.",
+  "Prediction": "REFUTES",
+  "Justification": "The claim states that NDA may get 192 seats and UPA 136 seats. However, the retrieved evidence from Source 1 indicates NDA may get 270-282 seats and UPA 92-102 seats, while Source 3 suggests NDA could win between 263 and 283 seats and UPA between 115 and 135 seats. These figures directly contradict the claim, thus refuting it based on the retrieved evidence."
+}

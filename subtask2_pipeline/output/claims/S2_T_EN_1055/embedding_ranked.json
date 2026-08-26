@@ -1,0 +1,76 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1055",
+    "text": "Hindu Succession Act | Daughters Do Not Get Equal Coparcenary Rights As Sons If Father Died Before 2005 Amendment : Orissa High Court",
+    "lang": "english"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Hindu Succession Act | Daughters Get Equal Coparcenary Rights As Sons Even If Father Died Before 2005 Amendment : Orissa High Court",
+      "url": "https://www.livelaw.in/high-court/orissa-high-court/orissa-high-court-daughter-equal-coparcenary-rights-ancestral-property-inheritance-hindu-succession-act-232712",
+      "snippet": "# Hindu Succession Act | Daughters Get Equal Coparcenary Rights As Sons Even If Father Died Before 2005 Amendment : Orissa High Court. ###### Jyoti Prakash Dutta. 14 July 2023 10:42 AM IST. The Orissa High Court has reiterated daughters’ entitlement to inherit ancestral property in view of their equal coparcenary rights, as were conferred on them by the Hindu Succession (Amendment) Act, 2005, irrespective of date of death of their fathers.Following the conclusion reached by the Supreme Court in its landmark decision in Vineeta Sharma v. Rakesh Sharma & Ors., the Division... # This is a premium content Available exclusively to Our subscribers. ### INR 1099+GST. Your support helps us to bring you more content at. ##### Tags.",
+      "bm25_score_raw": 4.260228230211542,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9547991752624512,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Hindu Succession Act – Daughters Get Equal Coparency…",
+      "url": "https://ksandk.com/newsletter/hindu-succession-act-get-equal-coparency-rights-as-the-sons",
+      "snippet": "# Hindu Succession Act – Daughters Get Equal Coparency Rights As The Sons If The Father Died Before The 2005 Amendment: Odisha High Court. The Odisha High Court has reaffirmed daughters’ right to inherit ancestral property based on their equal coparcenary rights under the Hindu Succession (Amendment) Act, 2005, regardless of the date of the passing of their fathers:. Rakesh Sharma & Ors., a Division Bench of Justices Bidyut Ranjan Sarangi and Murahari Sri Raman held that – The amendment is that even in a joint family that follows Mitakshara law, a coparcener’s daughter is made as good as a coparcener as a son.” She has the same rights to the coparcenary property as if she had been a son. In Vineeta Sharma (supra), the Supreme Court said that a daughter should stay as coparcener throughout her life, regardless of whether her father was alive when the legislation was revised in 2005 or not, emphasising that the rule is retroactive.",
+      "bm25_score_raw": 3.562813192721293,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.9347808361053467,
+      "embedding_score_norm": 0.6809801265623189,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Case Comment: Yagnaseni Patel v. The",
+      "url": "https://journals.christuniversity.in/index.php/culj/article/download/4598/2543/11597",
+      "snippet": "Coparcenary Rights as Sons in Even If Father Died Before 2005. Amendment: Orissa High Court, Daughters Get Equal Coparcenary. Rights as Sons",
+      "bm25_score_raw": 3.883195792384845,
+      "bm25_score_norm": 0.45938584980400793,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.9245660901069641,
+      "embedding_score_norm": 0.5181940457577306,
+      "embedding_rank": 3
+    },
+    {
+      "title": "The Orrissa High Court rejects son's 'shared household' ...",
+      "url": "https://www.instagram.com/p/DVGUsbDkZ5D?hl=en",
+      "snippet": "EQUAL LEGACY. Under the Hindu Succession (Amendment) Act, 2005, daughters have the same rights and liabilities as sons in a Hindu coparcenary.",
+      "bm25_score_raw": 4.197980925119787,
+      "bm25_score_norm": 0.9107456797665837,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.9240549802780151,
+      "embedding_score_norm": 0.5100488049530664,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Daughters as Coparceners: Orissa High Court Establishes ...",
+      "url": "https://www.casemine.com/commentary/in/daughters-as-coparceners%3A-orissa-high-court-establishes-new-precedent-under-hindu-succession-%28amendment%29-act%2C-2005/view",
+      "snippet": "The amendment grants equal coparcenary rights to daughters alongside sons, aimed at eliminating gender-based discrimination in ancestral",
+      "bm25_score_raw": 3.804134479184939,
+      "bm25_score_norm": 0.34602248803248714,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.9055570363998413,
+      "embedding_score_norm": 0.2152585294681989,
+      "embedding_rank": 5
+    },
+    {
+      "title": "The Orrissa High Court rejects son's 'shared household' ...",
+      "url": "https://www.facebook.com/100063504413203/posts/the-orrissa-high-court-rejects-sons-shared-household-claim-reiterates-section-14/1570589758401156",
+      "snippet": "This judgment reaffirmed that daughters are coparceners by birth, with rights equal to sons in Hindu joint family property. Crucially, the",
+      "bm25_score_raw": 4.058413323049311,
+      "bm25_score_norm": 0.710624382450238,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8920496702194214,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/HI/1225",
+    "text": "...और मंदिर के पुजारी की यह बात सुनकर राहुल गांधी हुए भावुक",
+    "lang": "hindi"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "\"Working For Noble Cause\": Ram Temple Chief Priest On ...",
+      "url": "https://www.ndtv.com/india-news/bharat-jodo-yatra-working-for-noble-cause-ram-janmabhoomi-temple-chief-priest-on-rahul-gandhis-yatra-3658568",
+      "snippet": "The Ayodhya temple's chief priest Acharya Satyendra Das extended his support to Rahul Gandhi over his move to unite the country.",
+      "bm25_score_raw": 1.9851627357391846,
+      "bm25_score_norm": 0.3972826039349406,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8518208861351013,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Congress leader and Leader of Opposition Rahul Gandhi ...",
+      "url": "https://www.facebook.com/countrysabsepahle/posts/congress-leader-and-leader-of-opposition-rahul-gandhi-may-soon-visit-the-ram-man/1282596600567687",
+      "snippet": "Her visit to the inner core of the temple, which is accessible only to male Brahmin priests, put off the hearings to January 2019.",
+      "bm25_score_raw": 1.0838979181160993,
+      "bm25_score_norm": 0.08639426351203172,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.8496631383895874,
+      "embedding_score_norm": 0.9674676122965434,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Ram Temple priest writes to Rahul Gandhi, wishes 'Bharat ...",
+      "url": "https://www.youtube.com/watch?v=3PQevUWLnTc",
+      "snippet": "The Ram temple chief priest has wished success to Rahul Gandhi on his 'Bharat Jodo Yatra.' Acharya Satyendra Das wrote to Rahul, saying that",
+      "bm25_score_raw": 2.2541125984352295,
+      "bm25_score_norm": 0.4900559762397167,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8475402593612671,
+      "embedding_score_norm": 0.9354609406453097,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Video | \"Working For Noble Cause\": Ram Temple Chief Priest ...",
+      "url": "https://www.ndtv.com/video/working-for-noble-cause-ram-temple-chief-priest-on-rahul-gandhi-s-yatra-674750",
+      "snippet": "In a letter to Mr Gandhi, the chief priest Acharya Satyendra Das extended his support to the former Congress chief over his move to unite the",
+      "bm25_score_raw": 0.8334410819352003,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.8456504344940186,
+      "embedding_score_norm": 0.9069680292747455,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Gujarat election: Rahul Gandhi's temple run brought seat ...",
+      "url": "https://timesofindia.indiatimes.com/india/rahul-gandhis-temple-run-brought-seat-blessings-to-congress-in-gujarat/articleshow/62129925.cms",
+      "snippet": "1x1 polls Gandhi remained undeterred by controversies and mockery. In fact, he even made a temple priest talk with his mother, Sonia Gandhi.",
+      "bm25_score_raw": 1.965525328688272,
+      "bm25_score_norm": 0.3905087448328309,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8424476385116577,
+      "embedding_score_norm": 0.8586794372232127,
+      "embedding_rank": 5
+    },
+    {
+      "title": "BJP Labels Rahul Gandhi 'Chunavi Hindu', Cites Temple Visit ...",
+      "url": "https://www.youtube.com/watch?v=1Ff2cFBinpo",
+      "snippet": "The BJP alleges Gandhi, during a temple visit, asked the priest to apply only a small 'tilak' on his forehead, thereby labeling him a 'Chunavi",
+      "bm25_score_raw": 1.9089272295237445,
+      "bm25_score_norm": 0.37098541631019266,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.836800217628479,
+      "embedding_score_norm": 0.7735332072813021,
+      "embedding_rank": 6
+    },
+    {
+      "title": "'सर मैं आपका नौकर रहना चाहता हूँ'... Rahul Gandhi ने पढ़ी Savarkar की वो ...",
+      "url": "https://www.youtube.com/watch?v=Q7Avxh6EzQI",
+      "snippet": "'सर मैं आपका नौकर रहना चाहता हूँ'... Rahul Gandhi ने पढ़ी Savarkar की वो चिट्ठी जो अंग्रेजों को लिखी. @IndianNationalCongress59K views3 years ago",
+      "bm25_score_raw": 1.4217608349108823,
+      "bm25_score_norm": 0.20293896761996558,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.8330109119415283,
+      "embedding_score_norm": 0.7164018016334043,
+      "embedding_rank": 7
+    },
+    {
+      "title": "Shri Rahul Gandhi - Indian National Congress",
+      "url": "https://inc.in/leadership/past-party-presidents/shri-rahul-gandhi",
+      "snippet": "*Party President of the Indian National Congress from 2017-19 - 84th AICC Plenary Session, New Delhi*. Rahul Gandhi is a four-term Member of Parliament in the Lok Sabha, and has represented the people of Wayanad, Kerala since 2019. Previously, he was the Member of Parliament from Amethi, Uttar Pradesh from 2004 to 2019. He is also a member of the Parliamentary Standing Committee on Defence and a trustee of the Rajiv Gandhi Charitable Trust and the Rajiv Gandhi Foundation. * General Secretary - All-India Congress Committee (AICC). Rahul Gandhi's political journey is rooted in pro-people policies, justice for the marginalised, equitable growth and his deep belief in truth and the power of love. On September 24th, 2007, Rahul Gandhi was appointed General Secretary of the All India Congress Committee (AICC). In his new role he was incharge of the party’s two important frontals - Indian Youth Congress and the National Students Union of India - the cradle of leadership and the nursery of Congress’ foundation.",
+      "bm25_score_raw": 1.1768428105692528,
+      "bm25_score_norm": 0.11845529907065143,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.8296486139297485,
+      "embedding_score_norm": 0.6657083956404211,
+      "embedding_rank": 8
+    },
+    {
+      "title": "Rahul Gandhi (@RahulGandhi) / Posts and Replies / X",
+      "url": "https://x.com/RahulGandhi/with_replies?lang=hi",
+      "snippet": "छात्रों पर हमला हर भारतीय परिवार पर हमला है। प्रधानमंत्री मोदी को लगता है कि वो बिना जवाब दिए, बिना किसी नतीजे का सामना किए बच निकलेंगे - नहीं कर पाएंगे, इस बार तो बिल्कुल नहीं।",
+      "bm25_score_raw": 0.9609669911992823,
+      "bm25_score_norm": 0.043989643794808894,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.8013808727264404,
+      "embedding_score_norm": 0.2395153347328464,
+      "embedding_rank": 9
+    },
+    {
+      "title": "Rahul Gandhi - राहुल गांधी",
+      "url": "https://www.youtube.com/c/rahulgandhi",
+      "snippet": "Rahul Gandhi. @rahulgandhi. 10.6M subscribers•3.7K videos. Leader ... 7:07. Ferrari जैसी तकनीक, मगर BJP ने Local Bus Builders को धकेला बंद होने की कगार पर | Rahul Gandhi.",
+      "bm25_score_raw": 3.732439533910186,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8005797266960144,
+      "embedding_score_norm": 0.22743644677057573,
+      "embedding_rank": 10
+    },
+    {
+      "title": "राहुल गांधी | Leader of the Opposition, India",
+      "url": "https://rahulgandhi.in?lang=hi",
+      "snippet": "'आवाज़ भारत की' एक ऐसा मंच है जहाँ नागरिक अपनी समस्याएँ उठा सकते हैं, अपने विचार साझा कर सकते हैं और लोकतांत्रिक प्रक्रिया में भागीदारी कर सकते हैं। असल बदलाव तब शुरू होता है जब हर भारतीय, राष्ट्रीय संवाद का हिस्सा बनता है।",
+      "bm25_score_raw": 1.9747303074992728,
+      "bm25_score_norm": 0.39368397205819555,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.7882521152496338,
+      "embedding_score_norm": 0.04157290648185426,
+      "embedding_rank": 11
+    },
+    {
+      "title": "'एक आज्ञाकारी नौकर की तरह सुनते हैं', अमेरिकी हमले को लेकर राहुल गांधी का ...",
+      "url": "https://navbharattimes.indiatimes.com/india/they-listen-like-an-obedient-servant-rahul-gandhi-launches-a-scathing-attack-on-pm-narendra-modi-regarding-the-us-strike/amp_articleshow/131717066.cms",
+      "snippet": "राहुल गांधी ने पीएम मोदी पर हमला बोलते हुए उन्हें अमेरिका का 'आज्ञाकारी नौकर' बताया। उन्होंने कहा कि अमेरिका खुले आम लोगों को मारने का आदेश दे रहा है और पीएम मोदी चुप हैं। राहुल ने अमेरिकी हमलों में 3 भारतीय",
+      "bm25_score_raw": 2.9846421947861526,
+      "bm25_score_norm": 0.7420497625258868,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.7854947447776794,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

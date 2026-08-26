@@ -1,0 +1,76 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1228",
+    "text": "Bombay High Court Quashes Review Order Which Disallowed Deductions, Being Contra To Natural Justice",
+    "lang": "english"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Bombay High Court quashes AI-based tax order",
+      "url": "https://mumbaimirror.indiatimes.com/mumbai/cover-story/bombay-high-court-quashes-ai-based-tax-order/articleshow/124831945.html",
+      "snippet": "Bombay High Court has quashed an income tax assessment citing serious violations of natural justice and improper reliance on non-existent, AI-",
+      "bm25_score_raw": 3.3150104825316613,
+      "bm25_score_norm": 0.26013497844970096,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.9080280065536499,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Bombay High Court Quashes Review Order Which ...",
+      "url": "https://www.livelaw.in/high-court/bombay-high-court/bombay-high-court-review-order-deductions-natural-justice-234967",
+      "snippet": "The Bombay High Court has quashed the review order against Kalpataru Power Transmission, disallowing works-contract deductions beyond Show",
+      "bm25_score_raw": 9.160422184373015,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9015504717826843,
+      "embedding_score_norm": 0.8728249765075814,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Bombay High Court Quashes Assessment Order for Breach ...",
+      "url": "https://www.instagram.com/p/DZHEglrEkGB",
+      "snippet": "The Bombay High Court set aside an income tax assessment for natural justice violations, cautioning authorities against the unverified use of",
+      "bm25_score_raw": 3.233579927062748,
+      "bm25_score_norm": 0.24982815615044668,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8954620361328125,
+      "embedding_score_norm": 0.7532892311689102,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Bombay High Court Quashes Assessment Order for Breach ...",
+      "url": "https://rawlaw.in/bombay-high-court-quashes-assessment-order-for-breach-of-natural-justice-emphasizes-right-to-personal-hearing-in-tax-proceedings-and-directs-reassessment",
+      "snippet": "The Bombay High Court quashed the assessment order dated 26 March 2024, along with all consequential notices, on the grounds of a breach of natural justice.",
+      "bm25_score_raw": 2.6327709031742392,
+      "bm25_score_norm": 0.17378260040852023,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8746850490570068,
+      "embedding_score_norm": 0.3453695652937108,
+      "embedding_rank": 4
+    },
+    {
+      "title": "natural justice doctypes - Bombay High Court",
+      "url": "https://indiankanoon.org/search?formInput=natural+justice+++++doctypes%3A+bombay&pagenum=11",
+      "snippet": "principles of natural justice has been denied. Bombay High Court Cites 13 … there was violation of principles of natural justice before the Appellate Authority",
+      "bm25_score_raw": 3.310949476787173,
+      "bm25_score_norm": 0.25962096912821636,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8665698766708374,
+      "embedding_score_norm": 0.18604240220659052,
+      "embedding_rank": 5
+    },
+    {
+      "title": "GST SCN & Section 74 Order Quashed for Natural Justice ...",
+      "url": "https://taxguru.in/goods-and-service-tax/gst-scn-section-74-order-quashed-natural-justice-breach-bombay-hc.html",
+      "snippet": "Bombay HC quashed the GST show cause notice and Section 74 order for lack of effective service and personal hearing, remanding the matter.",
+      "bm25_score_raw": 1.2597760778805234,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8570939898490906,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6
+    }
+  ]
+}

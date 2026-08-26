@@ -1,0 +1,99 @@
+{
+  "claim": {
+    "id": "S2/1154",
+    "text": "'Marunadan Malayali' Editor Shajan Skaria Moves Kerala High Court After Grant Of Anticipatory Bail In MLA's Complaint; Order Reserved",
+    "lang": "dev"
+  },
+  "entity_ranked_evidence": [
+    {
+      "title": "Trump Barred From Transferring States’ Public Health Grant Case - Bloomberg Law News",
+      "url": "https://news.bloomberglaw.com/health-law-and-business/trump-barred-from-transferring-states-public-health-grant-case",
+      "snippet": "# Trump Barred From Transferring States’ Public Health Grant Case. July 21, 2026, 9:17 PM UTC. A federal judge rejected a Trump administration request to transfer litigation over plans to slash hundreds of millions in health grants to a court that handles monetary disputes. Illinois, California, Colorado and Minnesota’s lawsuit against the Trump administration’s directive to cut over $600 million in public health grants will stay with the US District Court for the Northern District of Illinois, Judge Manish S. In Shah’s view, the Court of Federal Claims — a preferred Trump administration destination for federal grant disputes— wouldn’t be able to offer the states their desired remedy for the case. ## Learn more about Bloomberg Law or Log In to keep reading:. ### See Breaking News in Context. Bloomberg Law provides trusted coverage of current events enhanced with legal analysis. ### Already a subscriber? Log in to keep reading or access research tools and resources. © 2026 Bloomberg Industry Group, Inc.",
+      "bm25_score_raw": 1.7930541301087637,
+      "bm25_score_norm": 0.49867330761813794,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.81136155128479,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 1
+    },
+    {
+      "title": "USDA Workers Seek Injunction Over Religious Messaging - Law360",
+      "url": "https://www.law360.com/employment-authority/labor/articles/2504850/usda-workers-seek-injunction-over-religious-messaging",
+      "snippet": "## US Coverage. # Law360 | The Practice of Law. # State Specific Coverage. # Law360 Authority | Deep News & Analysis. # Employment Authority. # Tax Authority. # Insurance Authority. # Real Estate Authority. # Healthcare Authority. # Bankruptcy Authority. ## Global Coverage. # Law360 UK. # Law360 Canada. # Law360 Pulse | The Business of Law. Mealey's California Section 17200. Mealey's Construction Defects Insurance. Mealey's Cyber Tech & E-Commerce. Mealey's Emerging Insurance Disputes. Mealey's Insurance Bad Faith. By **Katherine Smith** · July 23, 2026, 1:49 PM EDT. The National Federation of Federal Employees and a group of federal workers urged a California federal court to halt the secretary of the U.S. Department of Agriculture from sending \"proselytizing\" religious... ### Case Information. #### Case Title. #### Case Number. ### Recent Articles By Katherine. Says NLRB Can Transfer Anheuser-Busch Arb. Case. Medical Pot Dispensary Can't Halt NLRB Union Firing Case. Longshoreman Union Asks Fla. Court To Toss Harassment Suit.",
+      "bm25_score_raw": 0.7763582134338805,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8101372718811035,
+      "embedding_score_norm": 0.9718232188200047,
+      "embedding_rank": 2,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 2
+    },
+    {
+      "title": "Kimora Lee Simmons and Tim Leissner’s Custody Battle Takes a Stunning Turn - Yahoo",
+      "url": "https://www.yahoo.com/entertainment/celebrity/articles/kimora-lee-simmons-tim-leissner-180046474.html",
+      "snippet": "# Kimora Lee Simmons and Tim Leissner’s Custody Battle Takes a Stunning Turn. * Kimora Lee Simmons has requested that her estranged husband, Tim Leissner, receive primary custody of their 11-year-old son, Wolfe, in their divorce proceedings. * This request is in contrast to Leissner's original filing, where he asked for joint legal and physical custody and spousal support. * The couple's legal dispute also involves major disagreements over money, with Simmons asking the court to block Leissner from collecting spousal support and requesting support for herself. **Kimora Lee Simmons** has taken an unexpected position in her divorce from **Tim Leissner**. ## A surprising court filing has shifted the focus of Kimora Lee Simmons and Tim Leissner's legal dispute. However, she rejected Leissner's custody proposal and instead asked the court to grant him primary legal and physical custody of Wolfe. Simmons asked the court to block Leissner from collecting spousal support. She also requested spousal support for herself and asked that he pay her legal fees.",
+      "bm25_score_raw": 1.5004420816256454,
+      "bm25_score_norm": 0.3551517141182628,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8029131293296814,
+      "embedding_score_norm": 0.8055596328513284,
+      "embedding_rank": 3,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 3
+    },
+    {
+      "title": "GovExec hires Heckman as senior reporter - Talking Biz News",
+      "url": "https://talkingbiznews.com/media-news/govexec-hires-heckman-as-senior-reporter/",
+      "snippet": "## Media News. # GovExec hires Heckman as senior reporter. ## July 20, 2026. ## Posted by Chris Roush. **Jory Heckman**has been hired by GovExec as a senior correspondent. He will be covering stories related to the federal workforce. Heckman has spent the last 12 years at Federal News Network as web editor and then senior reporter. He holds a bachelor’s degree from Hofstra University. ###### OLD Media Moves. ### WSJ seeks a Congress accountability editor. ###### Full-Time. ### WSJ seeks a national policy editor. ### How BINJE got World Cup credentials. ### Wagner named Big Tech team leader at Bloomberg. ## Subscribe to TBN. Receive updates about new stories in the industry daily or weekly. Talking Biz News is a division of Vested LLC. ###### Quicklinks. ###### Follow.",
+      "bm25_score_raw": 2.815159771774806,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.778506875038147,
+      "embedding_score_norm": 0.2438498756462895,
+      "embedding_rank": 4,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 4
+    },
+    {
+      "title": "Trump administration admits grants for clean energy were canceled based on politics - The Washington Post",
+      "url": "https://www.washingtonpost.com/business/2026/07/24/trump-clean-energy-grants-chris-wright/e14d89a6-87bc-11f1-9cec-0fb26676f07e_story.html",
+      "snippet": "The Trump administration has again acknowledged in court documents that it terminated $7.6 billion in grants for hundreds of clean energy projects “based solely on the political identity of the grant recipient’s state,” in this case, 16 states that voted for Democrat Kamala Harris in the 2024 presidential election. WASHINGTON — The Trump administration has acknowledged in court documents that it canceled $7.6 billion in grants for hundreds of clean energy projects “based solely on the political identity of the grant recipient’s state” — in this case, 16 states that voted for Democrat Kamala Harris in the 2024 presidential election. “This administration has now admitted in court what has long been obvious: it terminated nearly 300 cost-cutting energy projects for no reason other than the fact that the states they were in did not vote for the president in the 2024 election,” said Rep. Marcy Kaptur of Ohio and Sen. Patty Murray of Washington state.",
+      "bm25_score_raw": 1.6737692682501109,
+      "bm25_score_norm": 0.44016596472807223,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.7750548124313354,
+      "embedding_score_norm": 0.16440068096174185,
+      "embedding_rank": 5,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 5
+    },
+    {
+      "title": "Tesla Says Cybertruck Texas Supplier is Holding Parts for Ransom - Bloomberg Law News",
+      "url": "https://news.bloomberglaw.com/us-law-week/tesla-says-cybertruck-texas-supplier-is-holding-parts-for-ransom-1?utm_source=rss&utm_medium=LWNW&utm_campaign=0000019f-94b3-dc84-a5df-f4f7dcd70001",
+      "snippet": "# Tesla Says Cybertruck Texas Supplier is Holding Parts for Ransom. July 24, 2026, 7:21 PM UTC. Tesla Inc. is trying to retrieve equipment used to make parts for its Cybertruck that it says a Texas supplier is refusing to relinquish unless the electric vehicle maker pays it $250,000 a day. The Elon Musk company is seeking an emergency federal court order compelling Angstrom Automotive Group LLC to grant it access to its central Texas facility so that it can reclaim the multi-ton equipment and end what’s turned out to be a contentious partnership. “Tesla requests the Court to grant it one thing: retrieval of Tesla’s Tooling. It does not seek to litigate any other disputes between ... ## Learn more about Bloomberg Law or Log In to keep reading:. Bloomberg Law provides trusted coverage of current events enhanced with legal analysis. Log in to keep reading or access research tools and resources. © 2026 Bloomberg Industry Group, Inc.",
+      "bm25_score_raw": 1.5379837365650373,
+      "bm25_score_norm": 0.3735653036045988,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.7679116129875183,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 6
+    }
+  ]
+}

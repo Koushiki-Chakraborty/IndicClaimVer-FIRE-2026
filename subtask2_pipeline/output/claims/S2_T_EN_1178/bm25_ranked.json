@@ -1,0 +1,57 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1178",
+    "text": "Bowled over by grace and dignity shown by Sidhu, says Jaitley",
+    "lang": "english"
+  },
+  "ranked_evidence": [
+    {
+      "title": "Jaitley said he was \"ashamed\" to see Rahul, \"sitting in ...",
+      "url": "https://x.com/IndiaToday/status/910086882230439938",
+      "snippet": "Jaitley said he was \"ashamed\" to see Rahul, \"sitting in America, calling the dynasty culture an Indian phenomenon,\"",
+      "bm25_score_raw": 1.697578815601788,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Jaitley is a genius, Badal man of power. I am ...",
+      "url": "https://timesofindia.indiatimes.com/news/jaitley-is-a-genius-badal-man-of-power-i-am-man-of-character-sidhu/articleshow/33756013.cms",
+      "snippet": "I am man of character: Cricketer, commentator, TV personality, politician ・ it was a matter of self-esteem ・ his high winnability factor",
+      "bm25_score_raw": 1.1249505548365917,
+      "bm25_score_norm": 0.6626794258373206,
+      "bm25_rank": 2
+    },
+    {
+      "title": "Supreme Court has championed the right to dignity through ...",
+      "url": "https://www.thehindu.com/news/national/cji-upholds-dignity-as-the-soul-of-the-constitution-and-a-cohesive-force/article70009374.ece",
+      "snippet": "Chief Justice Gavai emphasizes human dignity as the core of the Constitution, championed by the Supreme Court for societal betterment.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 3
+    },
+    {
+      "title": "Dignity | Ajit George | TEDxCollegeofWilliam&Mary",
+      "url": "https://www.youtube.com/watch?v=pYB5qgWcbSs",
+      "snippet": "I'd like to talk about what we as individuals can do to uphold the dignity of others and how that can help us heal.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 4
+    },
+    {
+      "title": "Dalit Journeys for Dignity | Event",
+      "url": "https://sofheyman.org/events/dalit-journeys-for-dignity",
+      "snippet": "Dalit Journeys for Dignity is a facilitated discussion about the radical, field-shifting subfield of Dalit Studies within South Asian Studies.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 5
+    },
+    {
+      "title": "A Decade of Dignity: How Ujjwala Transformed Women's ...",
+      "url": "https://www.youtube.com/shorts/m1_S-8wYclo",
+      "snippet": "Her day looks different now. And so does her future. PM Ujjwala Yojana has made clean cooking a reality, giving women better health,",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6
+    }
+  ]
+}

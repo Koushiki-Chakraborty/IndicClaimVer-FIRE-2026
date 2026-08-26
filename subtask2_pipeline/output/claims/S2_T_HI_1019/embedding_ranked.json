@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/HI/1019",
+    "text": "अयोग्यता याचिकाओं पर निर्णय लेने में महाराष्ट्र विधानसभा स्पीकर की निष्पक्षता पर सवाल उठाते हुए उद्धव सेना ने सुप्रीम कोर्ट का दरवाजा खटखटाया",
+    "lang": "hindi"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Uddhav Thackeray - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Uddhav_Thackeray",
+      "snippet": "# Uddhav Thackeray. 19th Chief Minister of Maharashtra from 2019 to 2022 (born 1960). | 19th Chief Minister of Maharashtra |. **Uddhav Bal Thackeray** (Marathi pronunciation: , born 27 July 1960) is an Indian politician who served as the 19th Chief Minister of Maharashtra from 2019 to 2022 and the Leader of the House, Maharashtra Legislative Assembly from 2019 to 2022. He is a member of Maharashtra Legislative Council since 2020, the president of Maha Vikas Aghadi since 2019 and the president of Shiv Sena (UBT) \"Shiv Sena (UBT)\") since 2022. He was also the leader (*pramukh*) of Shiv Sena \"Shiv Sena (1966–2022)\") from 2013 to 2022, working President from 2003 to 2013 and the editor-in-chief of *Saamana* from 2006 to 2019. After the death of his father Bal Thackeray in 2012, he led the party and was elected as Shiv Sena president in 2013, and under his leadership Shiv Sena joined the NDA government in Maharashtra in 2014.",
+      "bm25_score_raw": 4.0387900343833625,
+      "bm25_score_norm": 0.7206117031437403,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8751949071884155,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Maharashtra: Uddhav गुट ने Supreme Court से तत्काल सुनवाई की मांग की",
+      "url": "https://www.youtube.com/watch?v=JftlaNXKDHI",
+      "snippet": "Maharashtra: Uddhav गुट ने Supreme Court से तत्काल सुनवाई की मांग की #uddhavthackeray #supremecourt #news24 News24 motto of 'Think First' is reflected",
+      "bm25_score_raw": 5.323320503301485,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8621474504470825,
+      "embedding_score_norm": 0.8915943797455316,
+      "embedding_rank": 2
+    },
+    {
+      "title": "उद्धव ठाकरे सुप्रीम कोर्ट पहुंचे: महाराष्ट्र विधानसभा स्पीकर के फैसले को चुनौती दी, ...",
+      "url": "https://www.bhaskar.com/amp/national/news/uddhav-reached-supreme-court-against-the-decision-of-maharashtra-assembly-speaker-132446348.html",
+      "snippet": "महाराष्ट्र के पूर्व मुख्यमंत्री उद्धव ठाकरे ने विधानसभा स्पीकर के फैसले को सुप्रीम कोर्ट में चुनौती दी है। 10 जनवरी को स्पीकर राहुल नार्वेकर ने विधानसभा में फैसला देते हुए कहा था कि असली शिवसेना महाराष्ट्र के मुख्यमंत्री एकनाथ शिंदे",
+      "bm25_score_raw": 3.6668453096315545,
+      "bm25_score_norm": 0.6397128800425642,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8562430739402771,
+      "embedding_score_norm": 0.8425374937848765,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Maharashtra: Supreme Court पहुंचा उद्धव गुट, Shivsena की अपील पर तुंरत ...",
+      "url": "https://www.youtube.com/watch?v=hKxGjqCcL_Y",
+      "snippet": "Maharashtra: सुप्रीम कोर्ट में उद्धव गुट की नई अर्जी, कोर्ट ने तुरंत सुनवाई से किया इनकार..सुप्रीम कोर्ट ने 11 जुलाई को ही होगी सुनवाई, शक्ति परीक्षण पर रोक नहीं.",
+      "bm25_score_raw": 4.512511942929787,
+      "bm25_score_norm": 0.8236472950699903,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8468238115310669,
+      "embedding_score_norm": 0.7642769558077481,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Shiv Sena Symbol Row: सुप्रीम कोर्ट ने उद्धव गुट की नई याचिका सुनने की तारीख ...",
+      "url": "https://www.abplive.com/states/maharashtra/supreme-court-to-hear-plea-by-uddhav-thackeray-faction-on-august-1-2176877/amp",
+      "snippet": "Shiv Sena Symbol Row: सुप्रीम कोर्ट ने उद्धव गुट की नई याचिका सुनने की तारीख की तय, इस मामले में अदालत पहुंचा है ठाकरे खेमा. Maharashtra News: शिवसेना के सिंबल की लड़ाई के बीच उद्धव ठाकरे",
+      "bm25_score_raw": 3.263748561548425,
+      "bm25_score_norm": 0.5520384210551528,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8461957573890686,
+      "embedding_score_norm": 0.7590587282124017,
+      "embedding_rank": 5
+    },
+    {
+      "title": "5017 Uddhav Thackeray Photos & High Res Pictures",
+      "url": "https://www.gettyimages.com/photos/uddhav-thackeray",
+      "snippet": "Shiv Sena President Uddhav Thackeray interacts with the media during a press conference held at Worli to announce his upcoming photo exhibition.Read more",
+      "bm25_score_raw": 1.1185352987187065,
+      "bm25_score_norm": 0.08544966010482144,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.8390616774559021,
+      "embedding_score_norm": 0.6997847734921764,
+      "embedding_rank": 6
+    },
+    {
+      "title": "'असली शिवसेना' पर अभी भी सियासी जंग जारी, उद्धव गुट की याचिका पर सुप्रीम कोर्ट ने ...",
+      "url": "https://www.jagran.com/news/national-supreme-court-issues-notice-on-uddhav-thackeray-faction-plea-against-maharashtra-speaker-order-23635556.html",
+      "snippet": "सुप्रीम कोर्ट ने सोमवार को उद्धव ठाकरे गुट की याचिका पर नोटिस जारी किया है। शीर्ष कोर्ट ने यह नोटिस महाराष्ट्र के मुख्यमंत्री एकनाथ शिंदे के नेतृत्व वाले गुट को असली शिवसेना घोषित करने के स्पीकर के आदेश के",
+      "bm25_score_raw": 2.743367181032922,
+      "bm25_score_norm": 0.43885428791396935,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8355345726013184,
+      "embedding_score_norm": 0.6704795995380505,
+      "embedding_rank": 7
+    },
+    {
+      "title": "तीर कमान की लड़ाई... उद्धव ठाकरे गुट की याचिका पर निकाय चुनाव के पहले सुनवाई से ...",
+      "url": "https://www.aajtak.in/amp/legal-news/story/supreme-court-refuses-urgent-hearing-uddhav-thackeray-faction-plea-shiv-sena-symbol-municipal-elections-ntcpbt-rptc-2234665-2025-05-07",
+      "snippet": "उद्धव ठाकरे गुट की याचिका पर निकाय चुनाव के पहले सुनवाई से सुप्रीम कोर्ट का इनकार. सुप्रीम कोर्ट ने शिवसेना के चुनाव निशान तीर कमान को लेकर शीघ्र सुनवाई से इनकार कर दिया है. उद्धव ठाकरे गुट की ओर से",
+      "bm25_score_raw": 1.3581334152692228,
+      "bm25_score_norm": 0.13756279508510447,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8354952335357666,
+      "embedding_score_norm": 0.6701527484217052,
+      "embedding_rank": 8
+    },
+    {
+      "title": "Uddhav Thackeray | Indian politician",
+      "url": "https://www.britannica.com/biography/Uddhav-Thackeray",
+      "snippet": "Indian journalist and politician, founder of the Shiv Sena (“Army of Shiva”) political party, and advocate of a strong pro-Hindu policy in India.Read more",
+      "bm25_score_raw": 0.9484634516136541,
+      "bm25_score_norm": 0.048458646769109326,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.824408769607544,
+      "embedding_score_norm": 0.5780401610880774,
+      "embedding_rank": 9
+    },
+    {
+      "title": "Latest News, Photos, Videos on Uddhav Thackeray",
+      "url": "https://www.ndtv.com/topic/uddhav-thackeray",
+      "snippet": "Uddhav Thackeray Asks Party Officials To Take Ram Temple Campaign To District Level ... On Sunday, Thackeray launched the Ram Raksha Andolan against the alleged ...Read more",
+      "bm25_score_raw": 0.7256674041131876,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.8159081935882568,
+      "embedding_score_norm": 0.5074125871355363,
+      "embedding_rank": 10
+    },
+    {
+      "title": "Latest News, Videos and Photos of Uddhav Thackeray",
+      "url": "https://timesofindia.indiatimes.com/topic/uddhav-thackeray",
+      "snippet": "Uddhav Thackeray is an Indian politician born on July 27, 1960 as the youngest son of politician and Shiv Sena founder Bal Thackeray and his wife Meena ...Read more",
+      "bm25_score_raw": 1.0651858868170685,
+      "bm25_score_norm": 0.07384604174765207,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.7970409393310547,
+      "embedding_score_norm": 0.35065281082055477,
+      "embedding_rank": 11
+    },
+    {
+      "title": "Uddhav",
+      "url": "https://en.wikipedia.org/wiki/Uddhav",
+      "snippet": "Uddhav (also spelled Uddhava, Udhav) is a Hindu male name found in India. Nepali asylum seeker who self-immolated in the UK … a Hindu Vaishnava sect",
+      "bm25_score_raw": 0.7632404852384235,
+      "bm25_score_norm": 0.008172230552120005,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.754837155342102,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/1614",
+    "text": "আরজি কর আবহে প্রতিবাদীদের প্রতি নম্র এবং সহানুভূতিশীল হওয়ার নির্দেশ অভিষেকের - RG KAR DOCTOR RAPE AND MURDER",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Chaos In India As Protesters Demand Justice For Raped ...",
+      "url": "https://thewhistler.ng/chaos-in-india-as-protesters-demand-justice-for-raped-murdered-doctor",
+      "snippet": "Police personnel stay vigil outside the RG Kar Hospital, where the alleged sexual assault and murder of a postgraduate trainee doctor",
+      "bm25_score_raw": 4.01755153047674,
+      "bm25_score_norm": 0.6299683123517261,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8740640878677368,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "No let-up in protests over Kolkata rape and murder",
+      "url": "https://www.thehindu.com/news/cities/kolkata/no-let-up-in-protests-over-kolkata-rape-and-murder-resident-doctors-open-abhaya-clinics/article68593963.ece",
+      "snippet": "Three weeks after the rape and murder of a doctor at RG Kar Medical College and Hospital, there has been no let-up in the protests with thousands of people",
+      "bm25_score_raw": 3.504409373347237,
+      "bm25_score_norm": 0.5083753965067406,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8647105097770691,
+      "embedding_score_norm": 0.8650635871948545,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Thousands protest against rape and murder of RG Kar victim",
+      "url": "https://www.thestatesman.com/bengal/reclaim-the-night-thousands-protest-against-rape-and-murder-of-rg-kar-victim-1503341112.html",
+      "snippet": "A night before the crucial hearing on Monday at the Supreme Court, thousands of protesters gathered West Bengal to protest against the rape",
+      "bm25_score_raw": 4.069117715578786,
+      "bm25_score_norm": 0.6421873099890175,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8621107339859009,
+      "embedding_score_norm": 0.8275587504406821,
+      "embedding_rank": 3
+    },
+    {
+      "title": "India police tear-gas protesters over doctor's rape and murder",
+      "url": "https://www.bbc.com/news/articles/cyvpgd6rlqyo",
+      "snippet": "# Tear gas fired at protesters angry at Indian doctor's murder. AFP Police use water canons to disperse activists carrying India's national flag as they march towards the state secretariat demanding the resignation of Mamata Banerjee, chief minister of the country's West Bengal state amid protests against the rape and murder of a doctor near Howrah bridge in Kolkata on August 27, 2024. Police in the eastern Indian city of Kolkata have fired tear gas and water cannons to disperse thousands of protesters demanding justice for the rape and murder of a trainee doctor at a state-run hospital earlier this month. On Tuesday, thousands marched to a government building in Kolkata, demanding the resignation of West Bengal's Chief Minister, Mamata Banerjee. A hospital volunteer has been arrested in connection with the crime, which has now been handed over to India's Central Bureau of Investigation (CBI) after criticism of the local police's slow progress.",
+      "bm25_score_raw": 1.3589813623304818,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.8521436452865601,
+      "embedding_score_norm": 0.6837717224004058,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Rape Threat To Abhishek Banerjee's Daughter, Bengal ...",
+      "url": "https://www.ndtv.com/india-news/kolkata-doctor-rape-murder-rg-kar-medical-college-rape-threat-to-abhishek-banerjees-daughter-bengal-child-panel-takes-note-6420547",
+      "snippet": "Amid a social media storm over the rape and murder of a 31-year-old doctor in Kolkata, the West Bengal child rights body has taken note of a",
+      "bm25_score_raw": 3.3477488380346667,
+      "bm25_score_norm": 0.4712534975907558,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8493896722793579,
+      "embedding_score_norm": 0.6440424086605845,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Police fire teargas at Indians protesting rape and killing of trainee doctor | PBS News",
+      "url": "https://www.pbs.org/newshour/world/police-fire-teargas-at-indians-protesting-rape-and-killing-of-trainee-doctor",
+      "snippet": "Doctors protest following the rape and murder of a trainee medic in New Delhi. KOLKATA, India (AP) — Police in India fired tear gas and water cannons to disperse thousands of protesters demanding the resignation of a top elected official in the country's east, accusing her of mishandling an investigation into a rape and killing of a resident doctor earlier this month. The Aug. 9 killing of the 31-year-old physician while on duty at Kolkata city's R.G. Kar Medical College and Hospital triggered protests across India, focusing on the chronic issue of violence against women in the country. India's top court last week set up a national task force of doctors to make recommendations on the safety of health care workers at the workplace. Doctors shout slogans during a protest demanding justice following the rape and murder of a trainee medic at a hospital in Kolkata, in New Delhi, India, August 19, 2024.",
+      "bm25_score_raw": 1.494738867493608,
+      "bm25_score_norm": 0.032168767799094014,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.8422953486442566,
+      "embedding_score_norm": 0.5416984101051617,
+      "embedding_rank": 6
+    },
+    {
+      "title": "R G Kar | আরজি কর আবহে সব হাসপাতালের নিরাপত্তায় নজর",
+      "url": "https://www.facebook.com/Zee24Ghanta/videos/r-g-kar-%E0%A6%86%E0%A6%B0%E0%A6%9C%E0%A6%BF-%E0%A6%95%E0%A6%B0-%E0%A6%86%E0%A6%AC%E0%A6%B9%E0%A7%87-%E0%A6%B8%E0%A6%AC-%E0%A6%B9%E0%A6%BE%E0%A6%B8%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A6%BE%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A7%9F-%E0%A6%A8%E0%A6%9C%E0%A6%B0-zee-24-ghanta-hospital-rgkarin/1316391089525247",
+      "snippet": "Sep 3, 2024 — R G Kar | আরজি কর আবহে সব হাসপাতালের নিরাপত্তায় নজর | Zee 24 Ghanta #hospital #rgkarincident #LatestNews #Zee24Ghanta · Khairul Ali and 117 others.Read more",
+      "bm25_score_raw": 2.9793249838059013,
+      "bm25_score_norm": 0.38395267835360664,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.8411580324172974,
+      "embedding_score_norm": 0.5252912800846109,
+      "embedding_rank": 7
+    },
+    {
+      "title": "R G Kar | আরজি করের আবহে বিস্ফোরক কুণাল | Zee 24 Ghanta",
+      "url": "https://www.youtube.com/watch?v=8PXrXFdTRq4",
+      "snippet": "R G Kar | আরজি করের আবহে বিস্ফোরক কুণাল | Zee 24 Ghanta #rgkarmedicalcollege #rgkarincident #zee24ghanta Zee 24 Ghanta is a news hub which provides ...Read more",
+      "bm25_score_raw": 1.4195947936245432,
+      "bm25_score_norm": 0.01436281106125256,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.8384705185890198,
+      "embedding_score_norm": 0.4865207185052065,
+      "embedding_rank": 8
+    },
+    {
+      "title": "RG Kar Case Update: আরজি কর কাণ্ডে বিস্ফোরক অভিযোগ ...",
+      "url": "https://www.facebook.com/TheWallBangla/videos/rg-kar-case-update-%E0%A6%86%E0%A6%B0%E0%A6%9C%E0%A6%BF-%E0%A6%95%E0%A6%B0-%E0%A6%95%E0%A6%BE%E0%A6%A3%E0%A7%8D%E0%A6%A1%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%AB%E0%A7%8B%E0%A6%B0%E0%A6%95-%E0%A6%85%E0%A6%AD%E0%A6%BF%E0%A6%AF%E0%A7%8B%E0%A6%97-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A6%BF%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A6%AE%E0%A6%BE-%E0%A6%AC%E0%A6%BE%E0%A6%AC%E0%A6%BE%E0%A6%B0-rgkarcase/983215367814043",
+      "snippet": "RG Kar Case Update: আরজি কর কাণ্ডে বিস্ফোরক অভিযোগ নির্যাতিতার মা-বাবার #RGKarCase #KolkataNews #WestBengalNews #Forensic #CrimeNews #TheWallBangla.",
+      "bm25_score_raw": 5.5791462754220404,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8311285972595215,
+      "embedding_score_norm": 0.38060483073510065,
+      "embedding_rank": 9
+    },
+    {
+      "title": "RG Kar | আরজি করের নিরাপত্তায় থাকা জওয়ানের বিরুদ্ধে ধ/ ...",
+      "url": "https://www.youtube.com/watch?v=aY3knoGqTek",
+      "snippet": "RG Kar | আরজি করের নিরাপত্তায় থাকা জওয়ানের বিরুদ্ধে ধ/র্ষ/ণের অভিযোগ @KOLKATATV115 likes11K views1 month ago",
+      "bm25_score_raw": 3.861759423055906,
+      "bm25_score_norm": 0.5930521939939946,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8306432962417603,
+      "embedding_score_norm": 0.3736037902955364,
+      "embedding_rank": 10
+    },
+    {
+      "title": "RG Kar হাসপাতাল প্রসঙ্গে বিস্ফোরক অভয়ার মা সবিস্তারে ...",
+      "url": "https://www.instagram.com/p/DWI_y6lE2A6?hl=bn",
+      "snippet": "আরজি কর কাণ্ডের দু'বছরের মাথায় শনিবার সকালে আচমকা সেই হাসপাতালে পরিদর্শনে গেলেন স্বাস্থ্যমন্ত্রী শারদ্বত মুখোপাধ্যায়। হাসপাতালের পরিকাঠামো ও নিরাপত্তা ব্যবস্থা খতিয়ে দেখে প্রশাসনিক স্তরে পেশাদারিত্ব ফেরানোর নির্দেশ ...Read more",
+      "bm25_score_raw": 3.8182566936054876,
+      "bm25_score_norm": 0.5827438931701413,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8230721950531006,
+      "embedding_score_norm": 0.26438171233995716,
+      "embedding_rank": 11
+    },
+    {
+      "title": "RG Kar: স্ট্রেচার নেই, হেঁটে শৌচালয়ে যেতে গিয়ে মৃত্যু ...",
+      "url": "https://www.thewall.in/west-bengal/rg-kar-elderly-man-dies-after-alleged-negligence/tid/189913",
+      "snippet": "Mar 22, 2026 — কয়েকদিন আগে এই হাসপাতালেই লিফট বিপর্যয়ে (RG Kar Lift Accident) এক ব্যক্তির মৃত্যুর ঘটনার রেশ এখনও কাটেনি। এরমধ্যেই ফের অব্যস্থার অভিযোগ আরজি করের বিরুদ্ধে। জানা গিয়েছে, বুকে ব্যথা, শ্বাসকষ্ট ...Read more",
+      "bm25_score_raw": 2.4817139721139023,
+      "bm25_score_norm": 0.26603998490687947,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.8047456741333008,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

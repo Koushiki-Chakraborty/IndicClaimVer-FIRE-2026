@@ -1,0 +1,138 @@
+{
+  "claim": {
+    "id": "S2/1582",
+    "text": "देश में तेजी से H3N2 Influenza, COVID 19 cases में निरंतर इजाफा चिंता का विषय,Deaths की बढ़ी संख्या",
+    "lang": "dev"
+  },
+  "generated_queries": {
+    "english_translation": "Rapid increase in H3N2 Influenza, COVID 19 cases in the country is a matter of concern, increased number of deaths",
+    "native_query": "COVID H3N2 Influenza 19 तर इज षय Deaths",
+    "english_query": "COVID Rapid increase H3N2 Influenza 19 country matter"
+  },
+  "native_retrieval": [
+    {
+      "title": "Excess Deaths during Influenza and Coronavirus Disease and Infection-Fatality Rate for Severe Acute Respiratory Syndrome Coronavirus 2, the Netherlands",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7853586",
+      "snippet": "A **.gov** website belongs to an official government organization in the United States. Find articles by Liselotte van Asten. Since the 2009 influenza pandemic, the Netherlands has used a weekly death monitoring system to estimate deaths in excess of expectations. We present estimates of excess deaths during the ongoing coronavirus disease (COVID-19) epidemic and 10 previous influenza epidemics. The estimated 9,554 excess deaths (41% in excess) during the COVID-19 epidemic weeks 12–19 of 2020 appeared comparable to the 9,373 excess deaths (18%) during the severe influenza epidemic of 2017–18. To estimate excess deaths during influenza and COVID-19 epidemics and their relationship with reported COVID-19 deaths, we used the following resources. First, weekly number of deaths are monitored at the National Institute for Public Health and the Environment (Bilthoven, the Netherlands [RIVM]) by using death registrations from Statistics Netherlands with a 100% coverage of the country (total 2019 population 17.3 million). Total, excess, and reported COVID-19 deaths during 25 weeks of the COVID-19 epidemic, the Netherlands*."
+    },
+    {
+      "title": "Flu Deaths vs. COVID-19 Deaths",
+      "url": "https://familiesfightingflu.org/flu-deaths-vs-covid-19-deaths",
+      "snippet": "According to the World Health Organization, 290,000 to 650,000 people die of flu-related causes every year worldwide. But how do flu and COVID-19 deaths compare in the United States? On average in the United States, as shown in the graph below, people are less like to die from the flu than COVID-19. In this graph, you can see the difference in flu and COVID-19 mortality rates from 2014 to December 2021:. **COVID-19 Prevention is Also Flu Prevention**It’s important to note that when COVID-19 started spreading and the country went on lockdown in March 2020, the same measures that were used to “flatten the curve” stopped the flu entirely. In fact, the CDC stopped tracking flu activity early for the 2019-2020 season because COVID-19 precautions wiped out the flu. Now that flu and COVID-19 are spreading at the same time, flu deaths may sadly rise again. Your tax-deductible donations help us continue our education and advocacy programs in an effort to save lives."
+    },
+    {
+      "title": "Does H3N2 Influenza Have a Relationship With COVID-19?",
+      "url": "https://www.icliniq.com/articles/infectious-diseases/h3n2-influenza-and-covid-19",
+      "snippet": "Oct 3, 2024 — H3N2 influenza and COVID-19 are respiratory illnesses that are not directly related. They have similar symptoms but are caused by different"
+    },
+    {
+      "title": "How coronavirus (COVID-19) compares with flu and pneumonia as a cause of death - Office for National Statistics",
+      "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/howcoronaviruscovid19compareswithfluasacauseofdeath/2022-05-23",
+      "snippet": "# How coronavirus (COVID-19) compares with flu and pneumonia as a cause of death. The number of deaths with coronavirus (COVID-19) as the underlying cause has fallen from previous peaks, but it remains higher than the number caused by flu and pneumonia. **Notice, 30 May 2022:** The number of deaths due to flu and pneumonia has been corrected for the winter periods 2020/21 and 2021/22 in the wording of the section titled 'With coronavirus restrictions now lifted, is flu coming back?' and in the final chart. Coronavirus (COVID-19) has been the underlying cause of death in more than four times as many deaths as flu and pneumonia in England and Wales since March 2020. Annually, deaths due to COVID-19 have been higher than those due to flu and pneumonia in any year since 1929. There were 148,606 deaths where COVID-19 was identified as the underlying cause of death in England and Wales between the weeks ending 13 March 2020 and 1 April 2022, compared with 35,007 deaths due to flu and pneumonia."
+    },
+    {
+      "title": "COVID and Influenza Deaths - Which is More? Sad But ...",
+      "url": "https://www.youtube.com/watch?v=chmKugZuDlw",
+      "snippet": "The flu is becoming more deadly relative to COVID or COVID is becoming less deadly compared to um the flu and and pneumonia is put in there too."
+    },
+    {
+      "title": "Hospital COVID patients 35% more likely to die than flu ...",
+      "url": "https://www.cidrap.umn.edu/covid-19/hospital-covid-patients-35-more-likely-die-flu-patients-last-winter-study-suggests",
+      "snippet": "May 15, 2024 — COVID-19 patients were more likely to die than those with flu by 30 days (adjusted death rate, 5.70% vs 4.24%; adjusted hazard ratio [HR], 1.35) ...Read more"
+    }
+  ],
+  "english_retrieval": [
+    {
+      "title": "Is H3N2 Influenza flare-up and troubling like COVID?",
+      "url": "https://pdfs.semanticscholar.org/e9f7/cb920e552d03370af248c4d40b9a9396e5ac.pdf",
+      "snippet": "by R Rao · 2023 · Cited by 2 — COVID and H3N2 influenza instances are on ascent in India. Both COVID-19 and H3N2 are the infectious viruses. They promulgate through droplets. COVID is ...Read more"
+    },
+    {
+      "title": "Seasonal influenza - Global situation",
+      "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2025-DON586",
+      "snippet": "Seasonal influenza (‘the flu’) is an acute respiratory infection caused by influenza viruses that circulate globally and year-round. Seasonal influenza activity has increased globally in recent months, with an increased proportion of seasonal influenza A(H3N2) viruses being detected. This rise coincides with the onset of winter in the northern hemisphere and an increase in acute respiratory infections caused by influenza and other respiratory viruses typically observed at this time of year. Since August 2025, there has been a rapid increase of A(H3N2) J.2.4.1 alias K subclade viruses detected from several countries based on available genetic sequence data. Even if there are some genetic differences between the circulating influenza viruses and the strains included in the vaccines, the seasonal influenza vaccine may still provide protection against drifted viruses and the other virus strains included in the vaccine. Globally, influenza activity has increased since October 2025 with influenza A viruses predominant among the viruses detected globally."
+    },
+    {
+      "title": "Last November, experts feared that the H3N2 'subclade K' ...",
+      "url": "https://www.facebook.com/GAVI/posts/last-november-experts-feared-that-the-h3n2-subclade-k-flu-could-become-a-real-he/1492467582909581",
+      "snippet": "The World Health Organization has reported a rapid increase since August 2025 in detections of influenza A(H3N2) J.2.4.1, commonly referred to"
+    },
+    {
+      "title": "Experts Warn About Severe Flu Variant H3N2 as Cases Rise",
+      "url": "https://www.youtube.com/watch?v=Lmh_hT96pvw",
+      "snippet": "Cases of the dominant flu virus called H3N2 are on the rise in 39 states, a mutated strain is spreading rapidly in several countries including"
+    },
+    {
+      "title": "Human seasonal influenza under COVID-19 and the potential consequences of influenza lineage elimination | Nature Communications",
+      "url": "https://www.nature.com/articles/s41467-022-29402-5",
+      "snippet": "# Human seasonal influenza under COVID-19 and the potential consequences of influenza lineage elimination. Yet, global influenza circulation has been heavily suppressed by public health measures and travel restrictions since the onset of the COVID-19 pandemic. Notably, the influenza B/Yamagata lineage has not been conclusively detected since April 2020, and A(H3N2), A(H1N1), and B/Victoria viruses have since circulated with considerably less genetic diversity. Travel restrictions have largely confined regional outbreaks of A(H3N2) to South and Southeast Asia, B/Victoria to China, and A(H1N1) to West Africa. ### Disruption of seasonal influenza circulation and evolution during the 2009 H1N1 and COVID-19 pandemics in Southeastern Asia. However, the pace of antigenic selection varies over time for influenza A virus (IAV) subtypes and influenza B virus (IBV) lineages due mainly to population-level fluctuations in immune pressure. However, the genetic and antigenic diversity of seasonal influenza has been severely impacted by dramatic changes in global migration and travel since the onset of the COVID-19 pandemic in March 2020 (Fig. 1)."
+    },
+    {
+      "title": "Global Virus Network Experts: New Flu Strain Underscores Urgent Need for Vigilance, Vaccination, and Investment in Virus Science - Global Virus Network",
+      "url": "https://gvn.org/global-virus-network-experts-new-flu-strain-underscores-urgent-need-for-vigilance-vaccination-and-investment-in-virus-science",
+      "snippet": "# Global Virus Network Experts: New Flu Strain Underscores Urgent Need for Vigilance, Vaccination, and Investment in Virus Science. *Tampa, FL, USA, November 20, 2025*: The Global Virus Network (GVN), a coalition of leading human and animal virologists in more than 40 countries dedicated to advancing pandemic preparedness through research, education and training, and global health solutions, today issued a statement on the emergence of a new influenza A (H3N2) variant known as H3N2 subclade K that is spreading rapidly and may contribute to a more intense flu season worldwide. **Peter Palese, PhD**, pioneering influenza virologist, GVN Center of Excellence director at the Icahn School of Medicine at Mount Sinai, and National Academy of Sciences member, explained that *“this new H3N2 subclade K variant is not an entirely new virus but a further evolved form of the influenza strains we confront every year."
+    }
+  ],
+  "merged_results": [
+    {
+      "title": "Excess Deaths during Influenza and Coronavirus Disease and Infection-Fatality Rate for Severe Acute Respiratory Syndrome Coronavirus 2, the Netherlands",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7853586",
+      "snippet": "A **.gov** website belongs to an official government organization in the United States. Find articles by Liselotte van Asten. Since the 2009 influenza pandemic, the Netherlands has used a weekly death monitoring system to estimate deaths in excess of expectations. We present estimates of excess deaths during the ongoing coronavirus disease (COVID-19) epidemic and 10 previous influenza epidemics. The estimated 9,554 excess deaths (41% in excess) during the COVID-19 epidemic weeks 12–19 of 2020 appeared comparable to the 9,373 excess deaths (18%) during the severe influenza epidemic of 2017–18. To estimate excess deaths during influenza and COVID-19 epidemics and their relationship with reported COVID-19 deaths, we used the following resources. First, weekly number of deaths are monitored at the National Institute for Public Health and the Environment (Bilthoven, the Netherlands [RIVM]) by using death registrations from Statistics Netherlands with a 100% coverage of the country (total 2019 population 17.3 million). Total, excess, and reported COVID-19 deaths during 25 weeks of the COVID-19 epidemic, the Netherlands*."
+    },
+    {
+      "title": "Flu Deaths vs. COVID-19 Deaths",
+      "url": "https://familiesfightingflu.org/flu-deaths-vs-covid-19-deaths",
+      "snippet": "According to the World Health Organization, 290,000 to 650,000 people die of flu-related causes every year worldwide. But how do flu and COVID-19 deaths compare in the United States? On average in the United States, as shown in the graph below, people are less like to die from the flu than COVID-19. In this graph, you can see the difference in flu and COVID-19 mortality rates from 2014 to December 2021:. **COVID-19 Prevention is Also Flu Prevention**It’s important to note that when COVID-19 started spreading and the country went on lockdown in March 2020, the same measures that were used to “flatten the curve” stopped the flu entirely. In fact, the CDC stopped tracking flu activity early for the 2019-2020 season because COVID-19 precautions wiped out the flu. Now that flu and COVID-19 are spreading at the same time, flu deaths may sadly rise again. Your tax-deductible donations help us continue our education and advocacy programs in an effort to save lives."
+    },
+    {
+      "title": "Does H3N2 Influenza Have a Relationship With COVID-19?",
+      "url": "https://www.icliniq.com/articles/infectious-diseases/h3n2-influenza-and-covid-19",
+      "snippet": "Oct 3, 2024 — H3N2 influenza and COVID-19 are respiratory illnesses that are not directly related. They have similar symptoms but are caused by different"
+    },
+    {
+      "title": "How coronavirus (COVID-19) compares with flu and pneumonia as a cause of death - Office for National Statistics",
+      "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/howcoronaviruscovid19compareswithfluasacauseofdeath/2022-05-23",
+      "snippet": "# How coronavirus (COVID-19) compares with flu and pneumonia as a cause of death. The number of deaths with coronavirus (COVID-19) as the underlying cause has fallen from previous peaks, but it remains higher than the number caused by flu and pneumonia. **Notice, 30 May 2022:** The number of deaths due to flu and pneumonia has been corrected for the winter periods 2020/21 and 2021/22 in the wording of the section titled 'With coronavirus restrictions now lifted, is flu coming back?' and in the final chart. Coronavirus (COVID-19) has been the underlying cause of death in more than four times as many deaths as flu and pneumonia in England and Wales since March 2020. Annually, deaths due to COVID-19 have been higher than those due to flu and pneumonia in any year since 1929. There were 148,606 deaths where COVID-19 was identified as the underlying cause of death in England and Wales between the weeks ending 13 March 2020 and 1 April 2022, compared with 35,007 deaths due to flu and pneumonia."
+    },
+    {
+      "title": "COVID and Influenza Deaths - Which is More? Sad But ...",
+      "url": "https://www.youtube.com/watch?v=chmKugZuDlw",
+      "snippet": "The flu is becoming more deadly relative to COVID or COVID is becoming less deadly compared to um the flu and and pneumonia is put in there too."
+    },
+    {
+      "title": "Hospital COVID patients 35% more likely to die than flu ...",
+      "url": "https://www.cidrap.umn.edu/covid-19/hospital-covid-patients-35-more-likely-die-flu-patients-last-winter-study-suggests",
+      "snippet": "May 15, 2024 — COVID-19 patients were more likely to die than those with flu by 30 days (adjusted death rate, 5.70% vs 4.24%; adjusted hazard ratio [HR], 1.35) ...Read more"
+    },
+    {
+      "title": "Is H3N2 Influenza flare-up and troubling like COVID?",
+      "url": "https://pdfs.semanticscholar.org/e9f7/cb920e552d03370af248c4d40b9a9396e5ac.pdf",
+      "snippet": "by R Rao · 2023 · Cited by 2 — COVID and H3N2 influenza instances are on ascent in India. Both COVID-19 and H3N2 are the infectious viruses. They promulgate through droplets. COVID is ...Read more"
+    },
+    {
+      "title": "Seasonal influenza - Global situation",
+      "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2025-DON586",
+      "snippet": "Seasonal influenza (‘the flu’) is an acute respiratory infection caused by influenza viruses that circulate globally and year-round. Seasonal influenza activity has increased globally in recent months, with an increased proportion of seasonal influenza A(H3N2) viruses being detected. This rise coincides with the onset of winter in the northern hemisphere and an increase in acute respiratory infections caused by influenza and other respiratory viruses typically observed at this time of year. Since August 2025, there has been a rapid increase of A(H3N2) J.2.4.1 alias K subclade viruses detected from several countries based on available genetic sequence data. Even if there are some genetic differences between the circulating influenza viruses and the strains included in the vaccines, the seasonal influenza vaccine may still provide protection against drifted viruses and the other virus strains included in the vaccine. Globally, influenza activity has increased since October 2025 with influenza A viruses predominant among the viruses detected globally."
+    },
+    {
+      "title": "Last November, experts feared that the H3N2 'subclade K' ...",
+      "url": "https://www.facebook.com/GAVI/posts/last-november-experts-feared-that-the-h3n2-subclade-k-flu-could-become-a-real-he/1492467582909581",
+      "snippet": "The World Health Organization has reported a rapid increase since August 2025 in detections of influenza A(H3N2) J.2.4.1, commonly referred to"
+    },
+    {
+      "title": "Experts Warn About Severe Flu Variant H3N2 as Cases Rise",
+      "url": "https://www.youtube.com/watch?v=Lmh_hT96pvw",
+      "snippet": "Cases of the dominant flu virus called H3N2 are on the rise in 39 states, a mutated strain is spreading rapidly in several countries including"
+    },
+    {
+      "title": "Human seasonal influenza under COVID-19 and the potential consequences of influenza lineage elimination | Nature Communications",
+      "url": "https://www.nature.com/articles/s41467-022-29402-5",
+      "snippet": "# Human seasonal influenza under COVID-19 and the potential consequences of influenza lineage elimination. Yet, global influenza circulation has been heavily suppressed by public health measures and travel restrictions since the onset of the COVID-19 pandemic. Notably, the influenza B/Yamagata lineage has not been conclusively detected since April 2020, and A(H3N2), A(H1N1), and B/Victoria viruses have since circulated with considerably less genetic diversity. Travel restrictions have largely confined regional outbreaks of A(H3N2) to South and Southeast Asia, B/Victoria to China, and A(H1N1) to West Africa. ### Disruption of seasonal influenza circulation and evolution during the 2009 H1N1 and COVID-19 pandemics in Southeastern Asia. However, the pace of antigenic selection varies over time for influenza A virus (IAV) subtypes and influenza B virus (IBV) lineages due mainly to population-level fluctuations in immune pressure. However, the genetic and antigenic diversity of seasonal influenza has been severely impacted by dramatic changes in global migration and travel since the onset of the COVID-19 pandemic in March 2020 (Fig. 1)."
+    },
+    {
+      "title": "Global Virus Network Experts: New Flu Strain Underscores Urgent Need for Vigilance, Vaccination, and Investment in Virus Science - Global Virus Network",
+      "url": "https://gvn.org/global-virus-network-experts-new-flu-strain-underscores-urgent-need-for-vigilance-vaccination-and-investment-in-virus-science",
+      "snippet": "# Global Virus Network Experts: New Flu Strain Underscores Urgent Need for Vigilance, Vaccination, and Investment in Virus Science. *Tampa, FL, USA, November 20, 2025*: The Global Virus Network (GVN), a coalition of leading human and animal virologists in more than 40 countries dedicated to advancing pandemic preparedness through research, education and training, and global health solutions, today issued a statement on the emergence of a new influenza A (H3N2) variant known as H3N2 subclade K that is spreading rapidly and may contribute to a more intense flu season worldwide. **Peter Palese, PhD**, pioneering influenza virologist, GVN Center of Excellence director at the Icahn School of Medicine at Mount Sinai, and National Academy of Sciences member, explained that *“this new H3N2 subclade K variant is not an entirely new virus but a further evolved form of the influenza strains we confront every year."
+    }
+  ]
+}

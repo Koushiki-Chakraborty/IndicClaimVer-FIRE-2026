@@ -1,0 +1,99 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1082",
+    "text": "Biological E's Corbevax price reduced to Rs 250 per dose for private centres",
+    "lang": "english"
+  },
+  "entity_ranked_evidence": [
+    {
+      "title": "Biological E reduces CORBEVAX price to Rs 250 per dose",
+      "url": "https://biospectrumindia.com/news/95/21246/biological-e-reduces-corbevax-price-to-rs-250-per-dose.html",
+      "snippet": "Biological E (BE) has reduced the price of its COVID-19 Vaccine CORBEVAX, from Rs 840 to Rs 250 a dose inclusive of GST, for private COVID-19",
+      "bm25_score_raw": 2.048443895970852,
+      "bm25_score_norm": 0.9564252326086936,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.9427233934402466,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 1
+    },
+    {
+      "title": "Biological E's Corbevax price cut to Rs 250 per dose for ...",
+      "url": "https://www.firstpost.com/health/biological-es-corbevax-price-cut-to-rs-250-per-dose-for-private-centres-10680671.html",
+      "snippet": "Biological E today said it has reduced the price of its COVID-19 vaccine Corbevax to Rs 250 from Rs 840 a dose, inclusive of goods and services",
+      "bm25_score_raw": 0.8834583009148205,
+      "bm25_score_norm": 0.2070387849605559,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.9317470788955688,
+      "embedding_score_norm": 0.8186480737414323,
+      "embedding_rank": 2,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 2
+    },
+    {
+      "title": "Biological E. cuts price of its COVID-19 vaccine to Rs 250 ...",
+      "url": "https://thefederal.com/from-the-wires/biological-e-cuts-price-of-its-covid-19-vaccine-to-rs-250-per-dose",
+      "snippet": "Biological E. Ltd (BE) on Monday said it has reduced the price of its COVID-19 vaccine Corbevax to Rs 250 from Rs 840 a dose, inclusive of GST,",
+      "bm25_score_raw": 0.8300317482621848,
+      "bm25_score_norm": 0.17267172096220734,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.9311906099319458,
+      "embedding_score_norm": 0.8094540297801938,
+      "embedding_rank": 3,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 3
+    },
+    {
+      "title": "Biological E Slashes Price Of Corbevax Vaccine",
+      "url": "https://www.pratidintime.com/health/biological-e-slashes-price-of-corbevax-vaccine",
+      "snippet": "Biological E announced that it has reduced the prices of its Covid-19 vaccine Corbevax from Rs 840 to Rs 250 for a single dose.",
+      "bm25_score_raw": 0.8319882505539985,
+      "bm25_score_norm": 0.17393025695484093,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.9306678771972656,
+      "embedding_score_norm": 0.8008173796580793,
+      "embedding_rank": 4,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 4
+    },
+    {
+      "title": "Biological E. cuts price of Corbevax Covid-19 vaccine to ₹ ...",
+      "url": "https://www.hindustantimes.com/business/biological-e-cuts-price-of-corbevax-covid-19-vaccine-to-250-per-dose-101652689615837.html",
+      "snippet": "Biological E. Ltd (BE) on Monday said it has reduced the price of its Covid-19 vaccine Corbevax to ₹250 from ₹840 a dose, inclusive of GST, for",
+      "bm25_score_raw": 0.5615987278548588,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.9239976406097412,
+      "embedding_score_norm": 0.690610966674545,
+      "embedding_rank": 5,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 5
+    },
+    {
+      "title": "Covid Vaccine To Cost Rs 250 Per Dose In Private Hospitals ...",
+      "url": "https://www.youtube.com/watch?v=qcFlpqdHzCM",
+      "snippet": "... price at the private hospitals is currently been fixed at Rs 250 per dose, inclusive of Rs 100 service charge. According to the latest",
+      "bm25_score_raw": 2.1161846143653547,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8821984529495239,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 6
+    }
+  ]
+}

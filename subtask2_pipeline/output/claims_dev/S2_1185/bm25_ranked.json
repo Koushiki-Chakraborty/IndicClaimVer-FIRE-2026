@@ -1,0 +1,105 @@
+{
+  "claim": {
+    "id": "S2/1185",
+    "text": "করোনা মোকাবিলায় উদ্যোগ, দুর্গাপুর ইস্পাত কারখানার আইসোলেশন ওয়ার্ড অধিগ্রহণ রাজ্যের",
+    "lang": "dev"
+  },
+  "ranked_evidence": [
+    {
+      "title": "Initiative to fight COVID pandemic in Durgapur Steel Plant ...",
+      "url": "https://www.facebook.com/OfficialPageofDSP/posts/initiative-to-fight-covid-pandemic-in-durgapur-steel-plantthe-second-wave-of-cov/4146482705404444",
+      "snippet": "Quarantine facilities and isolation wards have been prepared at SAIL hospitals, the steel PSU said. The company has restricted travel of its",
+      "bm25_score_raw": 3.972189633902155,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Railways manufactures prototype of isolation ward in non- ...",
+      "url": "https://timesofindia.indiatimes.com/india/railways-manufactures-prototype-of-isolation-ward-in-non-ac-coaches/articleshow/74859556.cms",
+      "snippet": "The railways has manufactured a prototype of an isolation ward for treating coronavirus patients by converting non-air-conditioned train coaches",
+      "bm25_score_raw": 3.953749011642585,
+      "bm25_score_norm": 0.9953575674982429,
+      "bm25_rank": 2
+    },
+    {
+      "title": "M/S. Corona Steel Industry Private ... vs The ...",
+      "url": "https://indiankanoon.org/doc/30294814",
+      "snippet": "04.12.2020 ss W.P.A. 7707 of 2020 (Through Video Conference) , M/s. Corona Steel Industry Private Limited Vs. The State of W.B. & ors.",
+      "bm25_score_raw": 3.692662167842974,
+      "bm25_score_norm": 0.9296288717755447,
+      "bm25_rank": 3
+    },
+    {
+      "title": "দুর্গাপুর ইস্পাত কারখানার নিখোঁজ আধিকারিকের দেহ উদ্ধার। ...",
+      "url": "https://www.youtube.com/watch?v=uvidhUuvOUs",
+      "snippet": "ইস্পাত কারখানার নিখোঁজ আধিকারিকের দেহ উদ্ধার। ১৬ ঘণ্টা পর মিলল দেহ। দুর্গাপুর ইস্পাত কারখানা থেকে নিখোঁজ হন আধিকারিক। #WestBengalNews #Durgapur #DurgapurNews #RepublicBangla ...Read more",
+      "bm25_score_raw": 2.2578607240990074,
+      "bm25_score_norm": 0.5684171533071939,
+      "bm25_rank": 4
+    },
+    {
+      "title": "ASC Engineered Solutions Acquires Ward Manufacturing | ASC Engineered Solutions",
+      "url": "https://www.asc-es.com/news/2024/asc-acquires-ward-manufacturing",
+      "snippet": "**Oak Brook, IL and Blossburg, P.A., February 2, 2024 –** ASC Engineered Solutions (“ASC”), a leading provider of flow management solutions, including precision engineered pipe joining systems, flow control products, support solutions and related services, announced today that it has acquired Ward Manufacturing (“Ward”) from Proterial America, Ltd., a subsidiary of Proterial, Ltd. Ward is a leader in the manufacturing of pipe joining components including fittings, nipples and the WARDFlex® corrugated stainless steel tubing system. “Ward has a well-earned, strong reputation for rigorous quality control and reliable customer service – key attributes that we greatly value at ASC,” said Jason Hild, Chief Executive Officer of ASC. “The addition of Ward’s complementary products strengthens ASC’s core portfolio and enables us to bring the productivity-enhancing WARDFlex® solutions to our customers. Building on nearly a century of quality manufacturing, using only the best, most durable materials and advanced technology and techniques, Ward has become a fixture in the global pipe fittings industry.",
+      "bm25_score_raw": 1.8037356760830439,
+      "bm25_score_norm": 0.4540910284565418,
+      "bm25_rank": 5
+    },
+    {
+      "title": "COVID-19 Tata Steel Update",
+      "url": "https://www.tatasteel.com/newsroom/press-releases/india/2020/covid-19-tata-steel-update",
+      "snippet": "Tata Steel has also been working closely with the Government of Jharkhand and Odisha to create modern and well-equipped isolation centres with",
+      "bm25_score_raw": 1.7435259949011943,
+      "bm25_score_norm": 0.43893322212525104,
+      "bm25_rank": 6
+    },
+    {
+      "title": "দুর্গাপুর ইস্পাত কারখানায় দগ্ধ হয়ে কর্মরত শ্রমিকের মৃত্যু ...",
+      "url": "https://m.sangbadpratidin.in/article/bengal/a-worker-dies-in-durgapur-steel-plant/1243018",
+      "snippet": "Jul 11, 2026 — নিরাপত্তার গাফিলতির অভিযোগ তুলে ক্ষোভে ফেটে পড়েন সহকর্মীরা। কারখানার বাইরে বিক্ষোভে শামিল হয়ে তাঁরা ক্ষতিপূরণের দাবি তোলেন। দুর্গাপুর ইস্পাত কারখানায় দগ্ধ হয়ে কর্মরত শ্রমিকের মৃত্যু, প্রশ্নের মুখে নিরাপত্তা.Read more",
+      "bm25_score_raw": 1.477091017037795,
+      "bm25_score_norm": 0.371858131955988,
+      "bm25_rank": 7
+    },
+    {
+      "title": "Pandemic Brings Loss, Structural Changes to ArcelorMittal",
+      "url": "https://www.steelmarketupdate.com/2020/07/30/pandemic-brings-loss-structural-changes-to-arcelormittal",
+      "snippet": "ArcelorMittal reported a net loss of $559 million in the second quarter as steel shipments suffered a 23.7 percent decline due to the",
+      "bm25_score_raw": 0.36441002714013015,
+      "bm25_score_norm": 0.09174033989463518,
+      "bm25_rank": 8
+    },
+    {
+      "title": "দূর্গাপুর ইস্পাত কারখানা",
+      "url": "https://bn.wikipedia.org/wiki/%E0%A6%A6%E0%A7%82%E0%A6%B0%E0%A7%8D%E0%A6%97%E0%A6%BE%E0%A6%AA%E0%A7%81%E0%A6%B0_%E0%A6%87%E0%A6%B8%E0%A7%8D%E0%A6%AA%E0%A6%BE%E0%A6%A4_%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%96%E0%A6%BE%E0%A6%A8%E0%A6%BE",
+      "snippet": "দুর্গাপুর ইস্পাত কারখানা হল ভারতের পশ্চিমবঙ্গ রাজ্যের শিল্প শহর দূর্গাপুর এ অবস্থিত একটি বৃহৎ ইস্পাত করখানা। ... ভারত স্বাধীনতা অর্জনের পর প্রথম পঞ্চবার্ষিকী পরিকল্পনায় দুর্গাপুর ইস্পাত কারখানা গড়ে ওঠে।Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 9
+    },
+    {
+      "title": "Alor - Q.1290. দুর্গাপুর ইস্পাত কারখানা _____ এর সহায়তায় ...",
+      "url": "https://www.facebook.com/alorabhas/photos/q1290-%E0%A6%A6%E0%A7%81%E0%A6%B0%E0%A7%8D%E0%A6%97%E0%A6%BE%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%87%E0%A6%B8%E0%A7%8D%E0%A6%AA%E0%A6%BE%E0%A6%A4-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%96%E0%A6%BE%E0%A6%A8%E0%A6%BE-_____-%E0%A6%8F%E0%A6%B0-%E0%A6%B8%E0%A6%B9%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A6%A4%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%B7%E0%A7%8D%E0%A6%A0%E0%A6%BF%E0%A6%A4-%E0%A6%B9%E0%A6%AF%E0%A6%BC/1343308811138015",
+      "snippet": "দুর্গাপুর ইস্পাত কারখানা ১৯৫৯ সালে ইংল্যান্ডের (ব্রিটিশ) সহযোগিতায় গড়ে উঠেছে। এটি স্টিল অথরিটি অফ ইন্ডিয়া লিমিটেড (SAIL)-এর অধীনে থাকা অন্যতম সমন্বিত ইস্পাত কারখানা।Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10
+    },
+    {
+      "title": "» দুর্গাপুর ইস্পাত কারখানায় মৃত্যুমিছিল – দুর্ঘটনার প্রধান ...",
+      "url": "https://www.groundxero.in/2022/12/06/workers-death-due-to-accidents-a-regular-feature-at-durgapur-steel-plant",
+      "snippet": "Dec 6, 2022 — স্টিল অথরিটি অব ইন্ডিয়া লিমিটেডের দুর্গাপুর ইস্পাত কারখানা আজ আক্ষরিক অর্থে মৃত্যুপুরী। এই কারখানায় দুর্ঘটনা নিয়মিত বিষয় হয়ে দাঁড়িয়েছে। এই নিয়মিত তালিকার সাম্প্রতিক উদাহরণ ১ ডিসেম্বর (২০২২) নাইটি শিফটে ...Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11
+    },
+    {
+      "title": "দুর্গাপুর ইস্পাত কারখানায় ম.র্মা.ন্তি.ক দু.র্ঘ.ট.না, মৃ*ত ...",
+      "url": "https://www.instagram.com/reel/DapZI3LEcNJ",
+      "snippet": "দুর্গাপুর ইস্পাত কারখানায় মর্মান্তিক দুর্ঘটনা, ব্লাস্ট ফার্নেসে ঝলসে ঠিকা শ্রমিকের মৃত্যু দুর্গাপুর: দুর্গাপুর ইস্পাত কারখানায় (ডিএসপি) এক ঠিকা শ্রমিকের মর্মান্তিক মৃত্যু হয়েছে। শুক্রবার রাতে ব্লাস্ট ফার্নেস এলাকায় ...Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12
+    }
+  ]
+}

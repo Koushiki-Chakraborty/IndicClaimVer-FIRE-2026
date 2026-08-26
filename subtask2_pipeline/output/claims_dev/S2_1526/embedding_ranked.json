@@ -1,0 +1,76 @@
+{
+  "claim": {
+    "id": "S2/1526",
+    "text": "Covid-19 cases are rising in parts of the United States hit hardest by the Omicron variant, suggesting the virus is not yet in retreat.",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "United Airlines",
+      "url": "https://en.wikipedia.org/wiki/United_Airlines",
+      "snippet": "# United Airlines. Airline of the United States. This article is about the airline based in the United States. **United Airlines, Inc.** is a major airline in the United States headquartered in Chicago, Illinois. Regional service is provided by independent carriers operating under the United Express brand, and the Star Alliance, of which United was one of the five founding airlines, extends its network throughout the world. United Airlines was formed in 1931 as a subsidiary of United Aircraft and Transport Corporation to manage a group of airlines controlled by William Boeing, including Boeing Air Transport, National Air Transport, Pacific Air Transport and Varney Air Lines, all of which held U.S. Air Mail contracts. The 1934 Air Mail scandal led to the dissolution of the parent corporation, resulting in the separation of Boeing, United Aircraft (now RTX), and United Air Lines, all of which continued as independent major American companies.",
+      "bm25_score_raw": 3.2025968886973493,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.7876965403556824,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "United Airlines",
+      "url": "https://www.united.com",
+      "snippet": "Find the latest travel deals on flights, hotels and rental cars. Book airline tickets and MileagePlus award tickets to worldwide destinations.",
+      "bm25_score_raw": 0.878873060373354,
+      "bm25_score_norm": 0.08339866989356938,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.7807663679122925,
+      "embedding_score_norm": 0.8788189251301507,
+      "embedding_rank": 2
+    },
+    {
+      "title": "United Airlines (@united) / Posts / X",
+      "url": "https://x.com/united?lang=en",
+      "snippet": "*                [![Image 6: user avatar](https://pbs.twimg.com/profile_images/1605596728966713345/6eXslF13_normal.jpg)](https://x.com/united)  [United Airlines](https://x.com/united)    [@united](https://x.com/united)  [Jul 14](https://x.com/united/status/2077036456795648104)   Let’s zoooooom in on the all-new A321XLR with the United Elevated interior: ✨ Lie-flat United Polaris business class seats with all-aisle access 💺United Premium Plus seats with a retractable divider (for the first time on a single-aisle plane 💅) 💪 A row in Economy Plus will Show more  [Video 2](https://video.twimg.com/amplify_video/2077035697895051264/pl/_T08lCfqddPWkbux.m3u8?tag=28)![Image 7](https://pbs.twimg.com/amplify_video_thumb/2077035697895051264/img/U9A_IXfbhs6d4FJD.jpg) 00:00         [](https://x.com/united/status/2077036456795648104/photo/1)  [Video 3](https://video.twimg.com/amplify_video/2077035711924973568/pl/0stX03mCbC7E7YEO.m3u8?tag=28)![Image 8](https://pbs.twimg.com/amplify_video_thumb/2077035711924973568/img/IaO-quVC0qr9s2Bq.jpg) 00:00         [](https://x.com/united/status/2077036456795648104/photo/2)  [Video 4](https://video.twimg.com/amplify_video/2077035724054966272/pl/PDOVyjPzzc34wI8M.m3u8?tag=28)![Image 9](https://pbs.twimg.com/amplify_video_thumb/2077035724054966272/img/JQnOAVslXOZHRlYg.jpg) 00:00         [](https://x.com/united/status/2077036456795648104/photo/3)           225 0 2 2 5 38 0 3 8 325 0 3 2 5 [](https://x.com/united/status/2077036456795648104/quotes)[47K 0 4 7 K](https://x.com/united/status/2077036456795648104/quotes). *                [![Image 14: user avatar](https://pbs.twimg.com/profile_images/1605596728966713345/6eXslF13_normal.jpg)](https://x.com/united)  [United Airlines](https://x.com/united)    [@united](https://x.com/united)  [Jun 17](https://x.com/united/status/2067281084815925398)   We've been telling you for months how game-changing the world's fastest, most reliable high-speed inflight Wi-Fi from [@Starlink](https://x.com/Starlink) is. *                [![Image 27: user avatar](https://pbs.twimg.com/profile_images/1605596728966713345/6eXslF13_normal.jpg)](https://x.com/united)  [United Airlines](https://x.com/united)    [@united](https://x.com/united)  [May 14](https://x.com/united/status/2054897703247601890)   A United bear in a little shirt can only mean one thing – new routes!",
+      "bm25_score_raw": 0.9304427125130548,
+      "bm25_score_norm": 0.10374050706381033,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.7785561680793762,
+      "embedding_score_norm": 0.8401713454894134,
+      "embedding_rank": 3
+    },
+    {
+      "title": "United Airlines",
+      "url": "https://www.reddit.com/r/unitedairlines",
+      "snippet": "Image 7: r/unitedairlines - United Flight Attendants Built A Black Market Selling The Best Trips — Now They’re Getting Fired. Whether you’re new to options or just want a simple method to explore strategies, the Options Wizard can help. Answer a few questions to define your forecast, and the wizard will find some common strategies that align with your projections.Image 10: Whether you’re new to options or just want a simple method to explore strategies, the Options Wizard can help. Image 9: Whether you’re new to options or just want a simple method to explore strategies, the Options Wizard can help. Advertisement: Whether you’re new to options or just want a simple method to explore strategies, the Options Wizard can help. *   Image 11: r/unitedairlines - Somehow the only person on my flight and the pilot was such a goofy gooberImage 12: r/unitedairlines - Somehow the only person on my flight and the pilot was such a goofy goober.",
+      "bm25_score_raw": 0.6674447434847982,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.7734021544456482,
+      "embedding_score_norm": 0.7500482039469913,
+      "embedding_rank": 4
+    },
+    {
+      "title": "United",
+      "url": "https://www.youtube.com/united",
+      "snippet": "This is the story of an airline starring 100,000+ hero characters on a mission to make the world a safer, greener, more inclusive, more fascinating place.Read more",
+      "bm25_score_raw": 0.8472167468326915,
+      "bm25_score_norm": 0.07091172168399423,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.7685478925704956,
+      "embedding_score_norm": 0.6651665250947142,
+      "embedding_rank": 5
+    },
+    {
+      "title": "United",
+      "url": "https://www.facebook.com/United",
+      "snippet": "United. 1713358 likes · 15124 talking about this. This is the story of an airline on a mission to do good in the air and beyond.",
+      "bm25_score_raw": 0.8533642480862477,
+      "bm25_score_norm": 0.07333662595065342,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.7305079698562622,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6
+    }
+  ]
+}

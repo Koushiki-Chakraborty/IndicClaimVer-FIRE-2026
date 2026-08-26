@@ -1,0 +1,88 @@
+{
+  "claim": {
+    "id": "S2/1540",
+    "text": "শেষবার 2019 সালে হয়েছিল ছাত্র নির্বাচন।",
+    "lang": "dev"
+  },
+  "generated_queries": {
+    "english_translation": "The last student election was held in 2019.",
+    "native_query": "2019 ষব হয় চন",
+    "english_query": "2019. student election held"
+  },
+  "native_retrieval": [
+    {
+      "title": "প্ৰজ্ঞাৰ সাধনাৰে জিলিকি উঠা কলিয়াবৰৰ সু-সন্তানসকললৈ ...",
+      "url": "https://www.instagram.com/reel/DaUssKwT6LJ",
+      "snippet": "সদৌ বাক্সা জিলা ছাত্ৰ সন্থাৰ বিশেষ অভিনন্দন অনুষ্ঠান মুছলপুৰত অনুষ্ঠিত হয়। উপস্থিত থাকে সদৌ অসম ছাত্ৰ সন্থাৰ শিক্ষা সম্পাদক টুটুমণি কলিতা। অভিনন্দন প্ৰাপ্ত সকলোলৈকে আন্তৰিক শুভেচ্ছা আৰু অভিনন্দন জনালোঁ।"
+    }
+  ],
+  "english_retrieval": [
+    {
+      "title": "House Republican calls for yanking student visas of Chinese nationals - Fox News",
+      "url": "https://www.foxnews.com/politics/house-republican-calls-yanking-student-visas-chinese-nationals",
+      "snippet": "\"I write today to urge the immediate suspension and cancellation of all F-1 and J-1 student visas held by Chinese nationals currently studying at institutions of higher education across the United States, considering recently declassified intelligence detailing the Chinese Communist Party's efforts to interfere in American elections,\" she wrote in a July 20 letter to Secretary of State Marco Rubio. President Donald Trump delivered an address to the nation last week in which he said that documents \"show that over a period of years, starting during the 2020 election cycle, the People’s Republic of China carried out what is believed to be the largest compromise of election data in history — resulting in China’s illicit acquisition of 220 million U.S. voter files. \"We urge the Department of State to immediately review and revoke all active Chinese national student visas, and to halt the issuance of new visas to Chinese nationals pending a full accounting of the extent of this infiltration and a comprehensive review of vetting procedures at our institutions of higher education,\" she wrote."
+    },
+    {
+      "title": "Trump Administration Called on To Cancel 250,000 Chinese Student Visas - Newsweek",
+      "url": "https://www.newsweek.com/trump-administration-called-cancel-250000-chinese-student-visas-12221874",
+      "snippet": "Promoting the measure on July 20, the congressman from West Virginia wrote on social media that \"China is our greatest adversary\" and questioned why the United States was \"training and educating our enemies to work to destroy us.\" Moore said the bill would \"end student visas for Chinese nationals tied to the CCP.\" On Monday, Representative Mary Miller of Illinois wrote on social media that China was \"buying our land, infiltrating our institutions, and undermining our national security.\" She then called to \"end the student visas.\" What Trump Said About Chinese Espionage In his remarks at the White House on Thursday, Trump accused China of illegally obtaining 220 million files containing sensitive voter data in an effort to influence the 2020 election, describing it as \"the largest compromise of election data of all time.\" Trump did not provide evidence for the claim or explain how the alleged acquisition of voter information may have affected the outcome of the election."
+    },
+    {
+      "title": "Trump administration opens investigation into Harvard's financial aid for international students - AP News",
+      "url": "https://apnews.com/article/trump-harvard-china-scholarship-475fd560a0d93ad8326edfec78bc8bc7",
+      "snippet": "Test Your News I.Q. 2026 Elections Election Results Election calendar White House Congress Supreme Court The latest AP-NORC polls. Your guide to the biggest stories in politics, policy and U.S. elections. Your home base for in-depth reporting from the world of sports. The Justice Department is investigating whether Harvard University is allowing Chinese donors to create scholarships that exclude American students, adding to the barrage of federal inquiries the Trump administration has opened in its battle against the Ivy League school. The investigation is aimed at Harvard’s “China-based financial aid programs,” the Justice Department said. Unlike the vast majority of U.S. universities, Harvard and a small number of other schools provide need-based scholarships to international students on the same basis as U.S. students. Grants and other aid from the federal government are reserved for American students, but Harvard “has its own job and scholarship money available to foreign students,” according to a Harvard financial aid website."
+    },
+    {
+      "title": "Thousands of student-loan borrowers are getting long-awaited debt cancellation from a $23 billion settlement - Business Insider",
+      "url": "https://www.businessinsider.com/student-loan-forgiveness-defrauded-borrowers-sweet-vs-mcmahon-settlement-debt-2026-7",
+      "snippet": "# Thousands of student-loan borrowers are getting long-awaited debt cancellation from a $23 billion settlement. Student-loan forgiveness is finally here for thousands of borrowers. A federal courtdenied the Department of Education's request to delay student-debt relief for borrowers entitled to relief under the Sweet vs. The settlement has allowed for $23 billion in relief for over 500,000 borrowers defrauded by their schools. The court's latest decision led to automatic relief for an additional 170,000 borrowers, according to the Project on Predatory Student Lending, an advocacy group representing borrowers in this case. Student-loan borrowers filed a case against the Department of Education in 2019, accusing the department of failing to process their borrower defense to repayment applications. Look out for an alert in your inbox the next time publishes a story! Every time a new story is published, you’ll get an alert straight to your inbox! Look out for an alert in your inbox the next time a new story is published!"
+    },
+    {
+      "title": "India protest movement holds capital sit-in as police crack down on demonstrators - AP News",
+      "url": "https://apnews.com/article/india-cockroach-party-youth-movement-protest-modi-d226d142657cd297c3d4232716a8a626",
+      "snippet": "Test Your News I.Q. 2026 Elections Election Results Election calendar White House Congress Supreme Court The latest AP-NORC polls. A protestor sits on the hood of a police car during a demonstration demanding educational reforms as part of the Cockroach Janta Party’s ongoing protest movement in New Delhi, India, Wednesday, July 22, 2026. A protestor holds a piece of paper with “Democracy?” written on it during a demonstration demanding educational reforms as part of the Cockroach Janta Party’s ongoing protest movement in New Delhi, India, Wednesday, July 22, 2026. Protesters shout slogans as they carry posters asking for the resignation of India’s Minister of Education Dharmendra Pradhan at a protest led by Cockroach Janta Party in New Delhi, India, Wednesday, July 22, 2026. NEW DELHI (AP) — Thousands of young protesters were camped on the streets of India’s capital New Delhi on Thursday, defying new restrictions in the latest show of strength for a movement that has become one of the biggest challenges to Prime Minister Narendra Modi’s government."
+    },
+    {
+      "title": "A wave of student loan borrowers have entered default since pandemic-era protections lapsed - AP News",
+      "url": "https://apnews.com/article/student-loan-debt-default-save-fba5642407fc33b579acdbf774a492d3",
+      "snippet": "+ Trump celebrates the World Cup as a US victory as he presents trophy to the winner, Spain. Test Your News I.Q. 2026 Elections Election Results Election calendar White House Congress Supreme Court The latest AP-NORC polls. ## Many of the states with the most defaults are in the South. Many of the states with the highest concentrations of defaulted borrowers are in the South, an AP analysis found. “And why I bring that up is, you know, there’s a lot of misconceptions and tropes about who student loan borrowers are, and who are the ones who are falling behind.”. Thirty-three percent of those borrowers were 90 days or more behind on their student loan payments, a rate more than double that of borrowers who attended public schools, according to data by the Office of Federal Student Aid released this year to help schools understand and identify default risks."
+    }
+  ],
+  "merged_results": [
+    {
+      "title": "প্ৰজ্ঞাৰ সাধনাৰে জিলিকি উঠা কলিয়াবৰৰ সু-সন্তানসকললৈ ...",
+      "url": "https://www.instagram.com/reel/DaUssKwT6LJ",
+      "snippet": "সদৌ বাক্সা জিলা ছাত্ৰ সন্থাৰ বিশেষ অভিনন্দন অনুষ্ঠান মুছলপুৰত অনুষ্ঠিত হয়। উপস্থিত থাকে সদৌ অসম ছাত্ৰ সন্থাৰ শিক্ষা সম্পাদক টুটুমণি কলিতা। অভিনন্দন প্ৰাপ্ত সকলোলৈকে আন্তৰিক শুভেচ্ছা আৰু অভিনন্দন জনালোঁ।"
+    },
+    {
+      "title": "House Republican calls for yanking student visas of Chinese nationals - Fox News",
+      "url": "https://www.foxnews.com/politics/house-republican-calls-yanking-student-visas-chinese-nationals",
+      "snippet": "\"I write today to urge the immediate suspension and cancellation of all F-1 and J-1 student visas held by Chinese nationals currently studying at institutions of higher education across the United States, considering recently declassified intelligence detailing the Chinese Communist Party's efforts to interfere in American elections,\" she wrote in a July 20 letter to Secretary of State Marco Rubio. President Donald Trump delivered an address to the nation last week in which he said that documents \"show that over a period of years, starting during the 2020 election cycle, the People’s Republic of China carried out what is believed to be the largest compromise of election data in history — resulting in China’s illicit acquisition of 220 million U.S. voter files. \"We urge the Department of State to immediately review and revoke all active Chinese national student visas, and to halt the issuance of new visas to Chinese nationals pending a full accounting of the extent of this infiltration and a comprehensive review of vetting procedures at our institutions of higher education,\" she wrote."
+    },
+    {
+      "title": "Trump Administration Called on To Cancel 250,000 Chinese Student Visas - Newsweek",
+      "url": "https://www.newsweek.com/trump-administration-called-cancel-250000-chinese-student-visas-12221874",
+      "snippet": "Promoting the measure on July 20, the congressman from West Virginia wrote on social media that \"China is our greatest adversary\" and questioned why the United States was \"training and educating our enemies to work to destroy us.\" Moore said the bill would \"end student visas for Chinese nationals tied to the CCP.\" On Monday, Representative Mary Miller of Illinois wrote on social media that China was \"buying our land, infiltrating our institutions, and undermining our national security.\" She then called to \"end the student visas.\" What Trump Said About Chinese Espionage In his remarks at the White House on Thursday, Trump accused China of illegally obtaining 220 million files containing sensitive voter data in an effort to influence the 2020 election, describing it as \"the largest compromise of election data of all time.\" Trump did not provide evidence for the claim or explain how the alleged acquisition of voter information may have affected the outcome of the election."
+    },
+    {
+      "title": "Trump administration opens investigation into Harvard's financial aid for international students - AP News",
+      "url": "https://apnews.com/article/trump-harvard-china-scholarship-475fd560a0d93ad8326edfec78bc8bc7",
+      "snippet": "Test Your News I.Q. 2026 Elections Election Results Election calendar White House Congress Supreme Court The latest AP-NORC polls. Your guide to the biggest stories in politics, policy and U.S. elections. Your home base for in-depth reporting from the world of sports. The Justice Department is investigating whether Harvard University is allowing Chinese donors to create scholarships that exclude American students, adding to the barrage of federal inquiries the Trump administration has opened in its battle against the Ivy League school. The investigation is aimed at Harvard’s “China-based financial aid programs,” the Justice Department said. Unlike the vast majority of U.S. universities, Harvard and a small number of other schools provide need-based scholarships to international students on the same basis as U.S. students. Grants and other aid from the federal government are reserved for American students, but Harvard “has its own job and scholarship money available to foreign students,” according to a Harvard financial aid website."
+    },
+    {
+      "title": "Thousands of student-loan borrowers are getting long-awaited debt cancellation from a $23 billion settlement - Business Insider",
+      "url": "https://www.businessinsider.com/student-loan-forgiveness-defrauded-borrowers-sweet-vs-mcmahon-settlement-debt-2026-7",
+      "snippet": "# Thousands of student-loan borrowers are getting long-awaited debt cancellation from a $23 billion settlement. Student-loan forgiveness is finally here for thousands of borrowers. A federal courtdenied the Department of Education's request to delay student-debt relief for borrowers entitled to relief under the Sweet vs. The settlement has allowed for $23 billion in relief for over 500,000 borrowers defrauded by their schools. The court's latest decision led to automatic relief for an additional 170,000 borrowers, according to the Project on Predatory Student Lending, an advocacy group representing borrowers in this case. Student-loan borrowers filed a case against the Department of Education in 2019, accusing the department of failing to process their borrower defense to repayment applications. Look out for an alert in your inbox the next time publishes a story! Every time a new story is published, you’ll get an alert straight to your inbox! Look out for an alert in your inbox the next time a new story is published!"
+    },
+    {
+      "title": "India protest movement holds capital sit-in as police crack down on demonstrators - AP News",
+      "url": "https://apnews.com/article/india-cockroach-party-youth-movement-protest-modi-d226d142657cd297c3d4232716a8a626",
+      "snippet": "Test Your News I.Q. 2026 Elections Election Results Election calendar White House Congress Supreme Court The latest AP-NORC polls. A protestor sits on the hood of a police car during a demonstration demanding educational reforms as part of the Cockroach Janta Party’s ongoing protest movement in New Delhi, India, Wednesday, July 22, 2026. A protestor holds a piece of paper with “Democracy?” written on it during a demonstration demanding educational reforms as part of the Cockroach Janta Party’s ongoing protest movement in New Delhi, India, Wednesday, July 22, 2026. Protesters shout slogans as they carry posters asking for the resignation of India’s Minister of Education Dharmendra Pradhan at a protest led by Cockroach Janta Party in New Delhi, India, Wednesday, July 22, 2026. NEW DELHI (AP) — Thousands of young protesters were camped on the streets of India’s capital New Delhi on Thursday, defying new restrictions in the latest show of strength for a movement that has become one of the biggest challenges to Prime Minister Narendra Modi’s government."
+    },
+    {
+      "title": "A wave of student loan borrowers have entered default since pandemic-era protections lapsed - AP News",
+      "url": "https://apnews.com/article/student-loan-debt-default-save-fba5642407fc33b579acdbf774a492d3",
+      "snippet": "+ Trump celebrates the World Cup as a US victory as he presents trophy to the winner, Spain. Test Your News I.Q. 2026 Elections Election Results Election calendar White House Congress Supreme Court The latest AP-NORC polls. ## Many of the states with the most defaults are in the South. Many of the states with the highest concentrations of defaulted borrowers are in the South, an AP analysis found. “And why I bring that up is, you know, there’s a lot of misconceptions and tropes about who student loan borrowers are, and who are the ones who are falling behind.”. Thirty-three percent of those borrowers were 90 days or more behind on their student loan payments, a rate more than double that of borrowers who attended public schools, according to data by the Office of Federal Student Aid released this year to help schools understand and identify default risks."
+    }
+  ]
+}

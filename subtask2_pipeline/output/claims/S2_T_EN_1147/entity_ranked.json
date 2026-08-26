@@ -1,0 +1,99 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1147",
+    "text": "Facemasks can reduce Covid severity, pressure on health systems, study confirms",
+    "lang": "english"
+  },
+  "entity_ranked_evidence": [
+    {
+      "title": "Facemasks can reduce Covid severity, pressure on health systems",
+      "url": "https://m.economictimes.com/industry/healthcare/biotech/facemasks-can-reduce-covid-severity-pressure-on-health-systems/effective-masking/slideshow/91485975.cms",
+      "snippet": "The study, published in the Journal of the Royal Society Interface, suggests effective masking could drastically slow the spread of COVID-19,",
+      "bm25_score_raw": 4.851979279460643,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9394919872283936,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 1
+    },
+    {
+      "title": "Facemasks can reduce Covid severity, pressure on health systems ...",
+      "url": "https://health.economictimes.indiatimes.com/news/diagnostics/facemasks-can-reduce-covid-severity-pressure-on-health-systems-study-confirms/91488913",
+      "snippet": "The study, published in the Journal of the Royal Society Interface, suggests effective masking could drastically slow the spread of COVID-19,",
+      "bm25_score_raw": 4.802987716055468,
+      "bm25_score_norm": 0.9899027673896783,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.9378405809402466,
+      "embedding_score_norm": 0.9742852475692292,
+      "embedding_rank": 2,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 2
+    },
+    {
+      "title": "[PDF] Hidden benefit: Facemasks may reduce severity of COVID-19 and ...",
+      "url": "https://medicalxpress.com/pdf570856599.pdf",
+      "snippet": "Facemasks may reduce severity of COVID-19 and pressure on health systems, A new mathematical model suggests effective masking could drastically",
+      "bm25_score_raw": 4.239700704883656,
+      "bm25_score_norm": 0.8738084935422377,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.9219139814376831,
+      "embedding_score_norm": 0.726285366369789,
+      "embedding_rank": 3,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 3
+    },
+    {
+      "title": "Hidden benefit: Facemasks may reduce severity of COVID-19 and ...",
+      "url": "https://www.sciencedaily.com/releases/2022/05/220503201655.htm",
+      "snippet": "The model suggests effective masking could drastically slow the spread of COVID-19, reduce the magnitude of the pandemic peak by \"flattening",
+      "bm25_score_raw": 2.9201041874810443,
+      "bm25_score_norm": 0.601837728335404,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8959407806396484,
+      "embedding_score_norm": 0.3218455666972331,
+      "embedding_rank": 4,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 4
+    },
+    {
+      "title": "Face masks for respiratory viral illness prevention in healthcare settings: a concise systemic review and meta-analysis",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10183070",
+      "snippet": "A **.gov** website belongs to an official government organization in the United States. Image 5: PMC search open iconSearch. Image 9: Close Search  Image 10: Search. Image 11: PMC search open iconImage 12: PMC search close ison. Inclusion in an NLM database does not imply endorsement of, or agreement with, the contents by NLM or the National Institutes of Health. # Face masks for respiratory viral illness prevention in healthcare settings: a concise systemic review and meta-analysis. Data was pooled from in vivo randomized control, case-control and observational studies dealing with the relationship between face mask use and no use by patients or health personnel and RVI prevention in healthcare setups. The results revealed that wearing a face mask significantly reduced the risk of contracting a respiratory viral illness in hospital settings, with pooled OR (95% CI) of 0.11 (0.04 to 0.33) (probability value (P) <0.08). Masks largely succeeded in stopping respiratory virus transmission, as evidenced by the meta-analysis of 6 studies (a total of 927 individuals).",
+      "bm25_score_raw": 0.24541946049178773,
+      "bm25_score_norm": 0.05058130844265871,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8768506050109863,
+      "embedding_score_norm": 0.024584290853470647,
+      "embedding_rank": 5,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 5
+    },
+    {
+      "title": "High-quality studies confirm face masks significantly curb COVID-19 ...",
+      "url": "https://www.news-medical.net/news/20231101/Masking-up-matters-High-quality-studies-confirm-face-masks-significantly-curb-COVID-19-spread.aspx",
+      "snippet": "Masking up matters: High-quality studies confirm face masks significantly curb COVID-19 spread. News-Medical. Retrieved on July 20, 2026 from",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8752717971801758,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 6
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1150",
+    "text": "If came to power, will check 'misuse' of anti-rape law: SP",
+    "lang": "english"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Anti-rape device - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Anti-rape_device",
+      "snippet": "| See also  * Anti-rape movement * Bodily integrity * Date rape drug * Sexual violence statistics * History of rape * Military sexual trauma * Preventive measures * Rape by gender   + Rape of males * Anti-rape device * Rape crisis centre * Rape myth * Rape pornography * Rape and revenge films * Rape fantasy * Rape schedule * Rape statistics * Rape threat * Sex and the law * Sex trafficking * Sexual harassment * Sexual predator * Sexual trauma therapy * Sexual violence |. An **anti-rape device** is one of a variety of devices invented for the purpose of preventing or deterring rape. Some of the most well-known anti-rape devices were proposed in South Africa, a country with a high incidence of rape and a low rate of successful convictions. An early prototypical anti-rape female tampon was invented in late 2000 by Jaap Haumann, a South African man, for the purpose of preventing rape.",
+      "bm25_score_raw": 0.4008313566288337,
+      "bm25_score_norm": 0.08978821823680534,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8146141767501831,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Legislative Memo: The Rape Shield Reform Bill - NYCLU",
+      "url": "https://www.nyclu.org/resources/policy/legislations/legislative-memo-rape-shield-reform-bill",
+      "snippet": "New York’s current “rape shield law” generally prevents a defendant in a rape trial from raising evidence about the victim’s prior sexual conduct. The law allows for certain exceptions including evidence (1) of the victim’s prior sexual conduct with the defendant; (2) as mentioned above, that the victim has been convicted of a prostitution offense within three years prior; (3) that rebuts of the victim’ failure to engage in certain sexual conduct during a given period of time; (4) rebuts evidence that the accused is the cause of pregnancy or disease of the victim, or the source of semen found in the victim; (5) is determined by the court to be relevant and admissible in the interests of justice. Categorically denying sex workers the protection of the “rape shield law”(1) is an unconstitutional infringement on the right to sexual privacy, (2) promotes the idea that convictions for prostitution are somehow relevant to the credibility of the complainant, and (3) serves to further institutionalizes the popular misconception that sex workers cannot be raped, ignoring the fact that they are actually at greater risk of sexual assault than the general population.",
+      "bm25_score_raw": 0.35201134802746453,
+      "bm25_score_norm": 0.07885229340425413,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8081195950508118,
+      "embedding_score_norm": 0.8504876669923268,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Investigating and Prosecuting Law Enforcement Sexual Misconduct ...",
+      "url": "https://evawintl.org/resource_library/investigating-and-prosecuting-law-enforcement-sexual-misconduct-cases",
+      "snippet": "Those who commit crimes involving sexual misconduct exploit the disparate power dynamic between victim and offender, be it teacher and student,",
+      "bm25_score_raw": 4.464186554762569,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8007494807243347,
+      "embedding_score_norm": 0.6808196208437161,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Evidence: Rape Shield Law, Part 1",
+      "url": "https://www.youtube.com/watch?v=mTwrAHDnGs4",
+      "snippet": "Rule 412 generally is a broad ban on the introduction of evidence of any other sexual behavior or sexual predisposition.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.7934670448303223,
+      "embedding_score_norm": 0.5131700275530479,
+      "embedding_rank": 4
+    },
+    {
+      "title": "The anti-rape condom - Can someone explain to me why it isn't available in ...",
+      "url": "https://www.reddit.com/r/Feminism/comments/1h0j2uk/the_antirape_condom_can_someone_explain_to_me_why",
+      "snippet": "I know that women can have access to an amazing whistle to counter rape, but shouldn't they have access to any weapon imaginable to do so?",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.7911715507507324,
+      "embedding_score_norm": 0.4603252576923499,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Army Regulation 600–52",
+      "url": "https://home.army.mil/hawaii/download_file/view/51ac4a75-36bf-4105-9fcc-89633399837f/707",
+      "snippet": "This regulation applies and law to assist victims of sexual harassment, sexual as- sault, and associated retaliatory behaviors in accordance",
+      "bm25_score_raw": 0.8629170827624576,
+      "bm25_score_norm": 0.19329772001617268,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.771175742149353,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6
+    }
+  ]
+}

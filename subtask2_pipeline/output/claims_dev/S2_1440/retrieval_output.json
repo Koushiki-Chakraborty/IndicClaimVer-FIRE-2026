@@ -1,0 +1,108 @@
+{
+  "claim": {
+    "id": "S2/1440",
+    "text": "Sonia Gandhi comes out in support of gay rights, disappointed over SC verdict",
+    "lang": "dev"
+  },
+  "generated_queries": {
+    "english_translation": "Sonia Gandhi comes out in support of gay rights, disappointed over SC verdict",
+    "native_query": "Sonia Gandhi SC support gay rights disappointed verdict",
+    "english_query": "Sonia Gandhi SC support gay rights disappointed verdict"
+  },
+  "native_retrieval": [
+    {
+      "title": "Sonia disappointed over SC verdict on gay rights",
+      "url": "https://www.youtube.com/watch?v=hyp0PsgdFJE",
+      "snippet": "Congress supremo Sonia Gandhi expressed her disappointed over the Supreme Court verdict on gay rights issue. Ms Gandhi hopes that the"
+    },
+    {
+      "title": "Sonia disappointed over SC verdict on homosexuality",
+      "url": "https://www.thehindu.com/news/national/sonia-disappointed-over-sc-verdict-on-homosexuality/article5451372.ece",
+      "snippet": "Ms. Gandhi said that she was “disappointed” that the Supreme Court has reversed a previous Delhi High Court ruling on the issue of gay rights"
+    },
+    {
+      "title": "Sonia Gandhi disappointed over SC verdict on gay rights ...",
+      "url": "https://www.deccanchronicle.com/131212/news-politics/article/sonia-disappointed-over-sc-verdict-gay-rights-issue",
+      "snippet": "Sonia Gandhi expressed her disappointment that the apex court had reversed a previous Delhi High Court judgement decriminalising homosexuality."
+    },
+    {
+      "title": "Sonia Gandhi disappointed over SC verdict on gay rights ...",
+      "url": "https://m.economictimes.com/news/politics-and-nation/sonia-gandhi-disappointed-over-sc-verdict-on-gay-rights-issue/articleshow/27238847.cms",
+      "snippet": "Gandhi said that she was \"disappointed\" that the Supreme Court has reversed a previous Delhi High Court ruling on the issue of gay rights but"
+    },
+    {
+      "title": "Disappointed over Court Ruling on Gay Rights: Sonia Gandhi",
+      "url": "https://www.newindianexpress.com/india/2013/Dec/12/disappointed-over-court-ruling-on-gay-rights-sonia-gandhi-549804.html",
+      "snippet": "\"I am disappointed that the Supreme Court reversed the previous Delhi High Court ruling on the issue of gay rights,\" Gandhi said in a statement."
+    },
+    {
+      "title": "Disappointed over court ruling on gay rights: Sonia Gandhi",
+      "url": "https://www.business-standard.com/article/politics/disappointed-over-court-ruling-on-gay-rights-sonia-gandhi-113121200300_1.html",
+      "snippet": "\"I am disappointed that the Supreme Court reversed the previous Delhi High Court ruling on the issue of gay rights,\" Gandhi said in a statement."
+    }
+  ],
+  "english_retrieval": [
+    {
+      "title": "Sonia disappointed over SC verdict on gay rights",
+      "url": "https://www.youtube.com/watch?v=hyp0PsgdFJE",
+      "snippet": "Congress supremo Sonia Gandhi expressed her disappointed over the Supreme Court verdict on gay rights issue. Ms Gandhi hopes that the"
+    },
+    {
+      "title": "Sonia disappointed over SC verdict on homosexuality",
+      "url": "https://www.thehindu.com/news/national/sonia-disappointed-over-sc-verdict-on-homosexuality/article5451372.ece",
+      "snippet": "Ms. Gandhi said that she was “disappointed” that the Supreme Court has reversed a previous Delhi High Court ruling on the issue of gay rights"
+    },
+    {
+      "title": "Sonia Gandhi disappointed over SC verdict on gay rights ...",
+      "url": "https://www.deccanchronicle.com/131212/news-politics/article/sonia-disappointed-over-sc-verdict-gay-rights-issue",
+      "snippet": "Sonia Gandhi expressed her disappointment that the apex court had reversed a previous Delhi High Court judgement decriminalising homosexuality."
+    },
+    {
+      "title": "Sonia Gandhi disappointed over SC verdict on gay rights ...",
+      "url": "https://m.economictimes.com/news/politics-and-nation/sonia-gandhi-disappointed-over-sc-verdict-on-gay-rights-issue/articleshow/27238847.cms",
+      "snippet": "Gandhi said that she was \"disappointed\" that the Supreme Court has reversed a previous Delhi High Court ruling on the issue of gay rights but"
+    },
+    {
+      "title": "Disappointed over Court Ruling on Gay Rights: Sonia Gandhi",
+      "url": "https://www.newindianexpress.com/india/2013/Dec/12/disappointed-over-court-ruling-on-gay-rights-sonia-gandhi-549804.html",
+      "snippet": "\"I am disappointed that the Supreme Court reversed the previous Delhi High Court ruling on the issue of gay rights,\" Gandhi said in a statement."
+    },
+    {
+      "title": "Disappointed over court ruling on gay rights: Sonia Gandhi",
+      "url": "https://www.business-standard.com/article/politics/disappointed-over-court-ruling-on-gay-rights-sonia-gandhi-113121200300_1.html",
+      "snippet": "\"I am disappointed that the Supreme Court reversed the previous Delhi High Court ruling on the issue of gay rights,\" Gandhi said in a statement."
+    }
+  ],
+  "merged_results": [
+    {
+      "title": "Sonia disappointed over SC verdict on gay rights",
+      "url": "https://www.youtube.com/watch?v=hyp0PsgdFJE",
+      "snippet": "Congress supremo Sonia Gandhi expressed her disappointed over the Supreme Court verdict on gay rights issue. Ms Gandhi hopes that the"
+    },
+    {
+      "title": "Sonia disappointed over SC verdict on homosexuality",
+      "url": "https://www.thehindu.com/news/national/sonia-disappointed-over-sc-verdict-on-homosexuality/article5451372.ece",
+      "snippet": "Ms. Gandhi said that she was “disappointed” that the Supreme Court has reversed a previous Delhi High Court ruling on the issue of gay rights"
+    },
+    {
+      "title": "Sonia Gandhi disappointed over SC verdict on gay rights ...",
+      "url": "https://www.deccanchronicle.com/131212/news-politics/article/sonia-disappointed-over-sc-verdict-gay-rights-issue",
+      "snippet": "Sonia Gandhi expressed her disappointment that the apex court had reversed a previous Delhi High Court judgement decriminalising homosexuality."
+    },
+    {
+      "title": "Sonia Gandhi disappointed over SC verdict on gay rights ...",
+      "url": "https://m.economictimes.com/news/politics-and-nation/sonia-gandhi-disappointed-over-sc-verdict-on-gay-rights-issue/articleshow/27238847.cms",
+      "snippet": "Gandhi said that she was \"disappointed\" that the Supreme Court has reversed a previous Delhi High Court ruling on the issue of gay rights but"
+    },
+    {
+      "title": "Disappointed over Court Ruling on Gay Rights: Sonia Gandhi",
+      "url": "https://www.newindianexpress.com/india/2013/Dec/12/disappointed-over-court-ruling-on-gay-rights-sonia-gandhi-549804.html",
+      "snippet": "\"I am disappointed that the Supreme Court reversed the previous Delhi High Court ruling on the issue of gay rights,\" Gandhi said in a statement."
+    },
+    {
+      "title": "Disappointed over court ruling on gay rights: Sonia Gandhi",
+      "url": "https://www.business-standard.com/article/politics/disappointed-over-court-ruling-on-gay-rights-sonia-gandhi-113121200300_1.html",
+      "snippet": "\"I am disappointed that the Supreme Court reversed the previous Delhi High Court ruling on the issue of gay rights,\" Gandhi said in a statement."
+    }
+  ]
+}

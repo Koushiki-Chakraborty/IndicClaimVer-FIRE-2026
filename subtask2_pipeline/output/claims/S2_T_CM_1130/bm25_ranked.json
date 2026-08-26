@@ -1,0 +1,105 @@
+{
+  "claim": {
+    "id": "S2/T/CM/1130",
+    "text": "Ruchi ji ne Kejriwal ka pair nahi, balki Raga ka pair chhuna tha, jo ek maa ke pyaar ka praman hai.",
+    "lang": "codemix"
+  },
+  "ranked_evidence": [
+    {
+      "title": "Delhi Elections 2025: Arvind Kejriwal Takes His Mother On ...",
+      "url": "https://www.youtube.com/watch?v=aKcnCO0DFEs",
+      "snippet": "Delhi Elections 2025: Arvind Kejriwal Takes His Mother On Wheelchair To Vote, Along With Father Today in Delhi, Aam Aadmi Party convenor",
+      "bm25_score_raw": 4.199313465520297,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Ruchi kejriwal (ruchi_kejriwal) – Profile",
+      "url": "https://in.pinterest.com/ruchi_kejriwal",
+      "snippet": "See what Ruchi kejriwal (ruchi_kejriwal) has discovered on Pinterest, the world's biggest collection of ideas.",
+      "bm25_score_raw": 2.491751889403342,
+      "bm25_score_norm": 0.5933712521969619,
+      "bm25_rank": 2
+    },
+    {
+      "title": "Ruchi Kejriwal in people",
+      "url": "https://www.facebook.com/public/Ruchi-Kejriwal",
+      "snippet": "View the profiles of people named Ruchi Kejriwal. Join Facebook to connect with Ruchi Kejriwal and others you may know. Facebook gives people the power",
+      "bm25_score_raw": 2.4019921581027015,
+      "bm25_score_norm": 0.5719963936545741,
+      "bm25_rank": 3
+    },
+    {
+      "title": "Ruchi Kejriwal (@ruchikejriwal)",
+      "url": "https://www.instagram.com/ruchikejriwal",
+      "snippet": "An Indian in NYC/NJ area, loves to eat (vegetarian only), travels sometimes and tries to click good pictures! 😅",
+      "bm25_score_raw": 1.7806686237089804,
+      "bm25_score_norm": 0.4240380334380098,
+      "bm25_rank": 4
+    },
+    {
+      "title": "Ruchi Kejriwal (@ruchikejriwal)",
+      "url": "https://www.instagram.com/ruchikejriwal/reels",
+      "snippet": "986 followers · 850 following · 296 posts · @ruchikejriwal: “An Indian in NYC/NJ area, loves to eat (vegetarian only), travels sometimes and tries to click",
+      "bm25_score_raw": 1.595727631879884,
+      "bm25_score_norm": 0.3799972650248849,
+      "bm25_rank": 5
+    },
+    {
+      "title": "Ruchi Kejriwal - Sr Manager, Internal controls",
+      "url": "https://www.linkedin.com/in/ruchi-kejriwal",
+      "snippet": "Experienced accounting and audit professional with 7+ years across insurance, healthcare media, financial services and retail in the United States and 3 years",
+      "bm25_score_raw": 1.5723976489039768,
+      "bm25_score_norm": 0.3744415990410366,
+      "bm25_rank": 6
+    },
+    {
+      "title": "Arvind Kejriwal Big Action on Raghav Chadha: केजरीवाल ने ...",
+      "url": "https://www.youtube.com/watch?v=r3LXRjqffkA",
+      "snippet": "Arvind Kejriwal Big Action on Raghav Chadha: केजरीवाल ने राघव चड्ढा की फंसाया! | AAP | BJP #raghavchadha #arvindkejriwal #raghavchadhajoinsbjp",
+      "bm25_score_raw": 1.3338777494245466,
+      "bm25_score_norm": 0.31764186226552116,
+      "bm25_rank": 7
+    },
+    {
+      "title": "Arvind Kejriwal ने Delhi Vidhansabha में सुनाई चौथी पास राजा की ...",
+      "url": "https://www.youtube.com/watch?v=P1AJWUtB1L8",
+      "snippet": "Arvind Kejriwal ने Delhi Vidhansabha में सुनाई चौथी पास राजा की कहानी | Anpadh Raja | Aam Aadmi Party | Latest Speech | AAP | Narendra Modi",
+      "bm25_score_raw": 1.2198971628363569,
+      "bm25_score_norm": 0.29049919060643664,
+      "bm25_rank": 8
+    },
+    {
+      "title": "लगे रहो केजरीवाल | Lage Raho Kejriwal | Official Song",
+      "url": "https://www.youtube.com/watch?v=HQsg9wYqxjc",
+      "snippet": "केजरीवाल के कोर्ट से बरी होने के बाद कौन कौन यहाँ मेरी तरह ये song सुनने आया है ? 26:07.",
+      "bm25_score_raw": 0.9392398962544712,
+      "bm25_score_norm": 0.22366510715772417,
+      "bm25_rank": 9
+    },
+    {
+      "title": "Arvind Kejriwal on Raghav Chadha: AAP छोड़ने पर अरविंद ...",
+      "url": "https://www.youtube.com/watch?v=eGoWP5B7H4A",
+      "snippet": "Politics in Delhi and Punjab witnessed a major upheaval on Friday, April 24, 2026, when senior AAP leader Raghav Chadha left the party along",
+      "bm25_score_raw": 0.8873468619557208,
+      "bm25_score_norm": 0.21130760283592642,
+      "bm25_rank": 10
+    },
+    {
+      "title": "राघव चड्ढा को बहुत पहले ही अपनी चुप्पी तोड़ देनी चाहिए थी; अरविंद ...",
+      "url": "https://www.instagram.com/reel/DWql3WYiIr6?hl=en",
+      "snippet": "10K likes, 99 comments - bjp4delhi on April 3, 2026: \"राघव चड्ढा को बहुत पहले ही अपनी चुप्पी तोड़ देनी चाहिए थी; अरविंद केजरीवाल में एक खासियत है—वह पहले लोगों का इस्तेमाल करते",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11
+    },
+    {
+      "title": "Kejriwal- क्या करें क्या ना करें, ये कैसी मुश्किल हाय? | Delhi, Aam ...",
+      "url": "https://www.youtube.com/watch?v=7LgCfjtKbpM",
+      "snippet": "This content isn't available. देश-दुनिया की खबरों पर चर्चा करता LIVE शो। COMMENT I LIKE I SHARE I SUBSCRIBE I JOIN",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12
+    }
+  ]
+}

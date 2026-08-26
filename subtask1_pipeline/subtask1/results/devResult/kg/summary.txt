@@ -1,0 +1,2 @@
+=== KG-boosted retrieval (data/ train+dev) ===
+n=5670  Success@3=0.8395  nDCG@3=0.5748

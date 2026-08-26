@@ -1,0 +1,76 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1298",
+    "text": "Orissa High Court Acquits Father Accused Of Raping Minor Daughter, Citing Lack Of Evidence",
+    "lang": "english"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Orissa HC upholds father's conviction for raping minor ...",
+      "url": "https://www.scconline.com/blog/post/2023/08/16/orissa-hc-uphold-father-conviction-for-raping-minor-daughter-legal-news",
+      "snippet": "Orissa High Court: In a jail criminal appeal against the judgment and order of the Special Judge, Protection of Children from Sexual",
+      "bm25_score_raw": 4.609866285626276,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9081701040267944,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "“Orissa High Court Commutes Death Sentence in Child ...",
+      "url": "https://jgu.edu.in/child-rights-clinic/orissa-high-court-commutes-death-sentence-in-child-rape-and-murder-case-citing-principles-of-justice-and-rehabilitation",
+      "snippet": "In a distressing case involving the rape and murder of a six-year-old girl, the Orissa High Court recently commuted the death sentence of one of the convicted",
+      "bm25_score_raw": 4.554621408748846,
+      "bm25_score_norm": 0.9858111082678483,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.871461033821106,
+      "embedding_score_norm": 0.4906621897665341,
+      "embedding_rank": 2
+    },
+    {
+      "title": "A POCSO court in Odisha's Jajpur has sentenced a man to ...",
+      "url": "https://www.facebook.com/argusnews.in/posts/a-pocso-court-in-odishas-jajpur-has-sentenced-a-man-to-20-years-of-rigorous-impr/1589598216544867",
+      "snippet": "POCSO Court Sentences Man to 20 Yrs of of Rigorous Imprisonment for Raping Daughter in Jaj... Jajpur POCSO court convicts father of raping 12-",
+      "bm25_score_raw": 4.409483449021715,
+      "bm25_score_norm": 0.9485344065501001,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8569360375404358,
+      "embedding_score_norm": 0.2891280795917861,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Odisha Pocso court awards father 20 years imprisonment ...",
+      "url": "https://www.hindustantimes.com/india-news/odisha-pocso-court-awards-father-20-years-imprisonment-for-raping-minor-daughter-101782443001447.html",
+      "snippet": "According to the prosecution, the abuse began in 2017 when the minor, then about 12, was staying at her maternal uncle's house in Jajpur",
+      "bm25_score_raw": 1.6630158560042805,
+      "bm25_score_norm": 0.24314173439973918,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8568837642669678,
+      "embedding_score_norm": 0.2884027886897624,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Man accused of sexually assaulting minor acquitted in ...",
+      "url": "https://www.thehindu.com/news/national/odisha/man-accused-of-sexually-assaulting-minor-acquitted-in-odisha/article68731607.ece",
+      "snippet": "Man acquitted of raping minor due to lack of corroborating evidence in a rare outcome by POCSO court.",
+      "bm25_score_raw": 2.812769157983912,
+      "bm25_score_norm": 0.5384401592051342,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8515962958335876,
+      "embedding_score_norm": 0.21503924179395784,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Odisha Court Sentences Parents To Life For Murdering ...",
+      "url": "https://www.instagram.com/reel/DI3RH1ZvwmR?hl=en",
+      "snippet": "This video covers a tragic case from Odisha where a court sentenced parents to life imprisonment for murdering and burning their minor daughter.",
+      "bm25_score_raw": 0.7163361974203132,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8360979557037354,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6
+    }
+  ]
+}

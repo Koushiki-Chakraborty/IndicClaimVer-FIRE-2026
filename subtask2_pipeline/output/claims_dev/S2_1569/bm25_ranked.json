@@ -1,0 +1,57 @@
+{
+  "claim": {
+    "id": "S2/1569",
+    "text": "Dissidence in Congress is less compared to rivals, says Sidhu",
+    "lang": "dev"
+  },
+  "ranked_evidence": [
+    {
+      "title": "Dissidence in Congress is less compared to rivals, says Sidhu",
+      "url": "https://www.indiatoday.in/amp/india/story/dissidence-in-congress-is-less-compared-to-rivals-says-sidhu-1907377-2022-02-01",
+      "snippet": "We will settle all disputes. We will give respect to all leaders, Sidhu said over the alleged clashes that erupted in the party after it",
+      "bm25_score_raw": 6.43348862789178,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Punjab Congress's Sidhu dilemma continues as the party fails to rein in ...",
+      "url": "https://indianexpress.com/article/political-pulse/punjab-congress-navjot-singh-sidhu-dilemma-9106742/lite",
+      "snippet": "Former Punjab Congress chief Navjot Singh Sidhu said the Congress cannot stand back on its feet without the workers, who are the party's foundation.",
+      "bm25_score_raw": 1.3892051980505864,
+      "bm25_score_norm": 0.08665504460573167,
+      "bm25_rank": 2
+    },
+    {
+      "title": "From Amarinder vs Sidhu to Channi vs Warring: Is Punjab Congress ...",
+      "url": "https://www.moneycontrol.com/news/india/from-amarinder-vs-sidhu-to-channi-vs-warring-is-punjab-congress-repeating-mistakes-that-cost-it-dear-during-2022-polls-13976956.html/amp",
+      "snippet": "The latest rebellion has revived memories of the bitter infighting that crippled the Congress government before the 2022 Assembly elections,",
+      "bm25_score_raw": 1.2427828452009007,
+      "bm25_score_norm": 0.06014302972943232,
+      "bm25_rank": 3
+    },
+    {
+      "title": "Capt Amarinder Vs Sidhu: Where Punjab Congress Infighting Headed ...",
+      "url": "https://www.youtube.com/watch?v=OAGv507vRPE",
+      "snippet": "As Punjab nears its election season, the chasm in Congress between Capt Amarinder Singh and Navjot Singh Sidhu is only deepening with both",
+      "bm25_score_raw": 1.2292961295858864,
+      "bm25_score_norm": 0.05770105281771898,
+      "bm25_rank": 4
+    },
+    {
+      "title": "Navjot Sidhu v Charanjit Singh Channi: Is the Congress party feud in Punjab ...",
+      "url": "https://www.bbc.com/news/world-asia-india-60284331",
+      "snippet": "India's main opposition Congress party has named its chief ministerial candidate for upcoming polls in Punjab state: incumbent CM Charanjit",
+      "bm25_score_raw": 1.216107537983084,
+      "bm25_score_norm": 0.05531305583525083,
+      "bm25_rank": 5
+    },
+    {
+      "title": "Navjot Singh Sidhu may be a great competitor, but he is yet to know who ...",
+      "url": "https://www.firstpost.com/politics/navjot-singh-sidhu-may-be-a-great-competitor-but-he-is-yet-to-know-who-he-is-fighting-against-10283561.html/amp",
+      "snippet": "The Punjab Congress president is waging a campaign against the BJP, Badals and the man he loves to hate, Amarinder Singh. But it seems he is",
+      "bm25_score_raw": 0.910620843875059,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6
+    }
+  ]
+}

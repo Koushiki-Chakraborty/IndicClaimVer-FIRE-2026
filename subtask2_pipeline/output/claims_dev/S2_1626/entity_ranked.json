@@ -1,0 +1,99 @@
+{
+  "claim": {
+    "id": "S2/1626",
+    "text": "Odisha BJP MLA Sukanta Nayak tests Covid positive for third time",
+    "lang": "dev"
+  },
+  "entity_ranked_evidence": [
+    {
+      "title": "Odisha BJP MLA Sukanta Nayak tests COVID +ve 3rd time ...",
+      "url": "https://inshorts.com/en/news/odisha-bjp-mla-sukanta-nayak-tests-covid-+ve-3rd-time-in-18-months-1642070237123",
+      "snippet": "Odisha BJP MLA Sukanta Nayak on Thursday said he has tested positive for COVID19 for the third time in the last 18 months. The MLA from Nilagiri in Balasore",
+      "bm25_score_raw": 0.585687738680719,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9533814191818237,
+      "embedding_score_norm": 0.840161346895826,
+      "embedding_rank": 4,
+      "entity_overlap_raw": 3,
+      "entity_overlap_qid": 1,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 1
+    },
+    {
+      "title": "Odisha BJP MLA tests COVID-19 positive for third time",
+      "url": "https://www.devdiscourse.com/article/health/1881904-odisha-bjp-mla-tests-covid-19-positive-for-third-time?amp=",
+      "snippet": "Sukanta Nayak has tested COVID-19 positive for the third time in a span of 18 months, the lawmaker said Thursday.Nayak",
+      "bm25_score_raw": 0.5405942318726719,
+      "bm25_score_norm": 0.620263716030989,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.9596286416053772,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1,
+      "entity_overlap_raw": 2,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 2
+    },
+    {
+      "title": "Odisha BJP MLA tests positive for third time",
+      "url": "https://www.rediff.com/news/commentary/2022/jan/13/odisha-bjp-mla-tests-positive-for-third-time/74027bc53e42b3f8a3f189c543f2c11d",
+      "snippet": "Sukanta Nayak has tested Covid-19 positive for the third time in a span of 18 months, the lawmaker said Thursday.",
+      "bm25_score_raw": 0.5479991114527725,
+      "bm25_score_norm": 0.6826208413473908,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.9575726985931396,
+      "embedding_score_norm": 0.9473975569212938,
+      "embedding_rank": 2,
+      "entity_overlap_raw": 2,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 3
+    },
+    {
+      "title": "Odisha BJP MLA tests COVID-19 positive for third time",
+      "url": "https://theprint.in/india/odisha-bjp-mla-tests-covid-19-positive-for-third-time/802418",
+      "snippet": "Sukanta Nayak has tested COVID-19 positive for the third time in a span of 18 months, the lawmaker said Thursday.",
+      "bm25_score_raw": 0.5405942318726719,
+      "bm25_score_norm": 0.620263716030989,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.9565427899360657,
+      "embedding_score_norm": 0.9210467722995745,
+      "embedding_rank": 3,
+      "entity_overlap_raw": 2,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 4
+    },
+    {
+      "title": "Odisha MLA tests positive for Covid for third time",
+      "url": "https://sambadenglish.com/odisha-mla-tests-positive-for-covid-for-third-time",
+      "snippet": "Bhubaneswar: Sukanta Nayak, BJP MLA from Nilagiri tested positive for Covid-19 for third time within a period of 18 months. Advertisment.",
+      "bm25_score_raw": 0.49850490398558067,
+      "bm25_score_norm": 0.2658258801218716,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.9397783875465393,
+      "embedding_score_norm": 0.49212023241273084,
+      "embedding_rank": 5,
+      "entity_overlap_raw": 2,
+      "entity_overlap_qid": 1,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 5
+    },
+    {
+      "title": "Odisha MLA Tests Covid +Ve; Speaker Suspends All ...",
+      "url": "https://www.ndtv.com/india-news/odisha-mla-tests-coronavirus-positive-speaker-suspends-all-scheduled-meetings-2258114",
+      "snippet": "BJP MLA Sukanta Kumar Nayak tested positive for coronavirus on Monday, becoming the first legislator in Odisha to get infected by COVID-19",
+      "bm25_score_raw": 0.46693820456528257,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.9205440878868103,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6,
+      "entity_overlap_raw": 2,
+      "entity_overlap_qid": 1,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 6
+    }
+  ]
+}

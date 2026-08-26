@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/1080",
+    "text": "पश्चिम बंगाल शिक्षक भर्ती घोटाला | देखेंगे कि क्या पूरा चयन रद्द किया जाए या गलत नियुक्तियों की पहचान की जाए: सुप्रीम कोर्ट",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "How a hiring scam and a court order drove thousands of Bengal's ...",
+      "url": "https://www.facebook.com/scroll.in/posts/the-supreme-court-cancelled-the-appointment-of-25753-teaching-and-non-teaching-s/1162322752608335",
+      "snippet": "The Supreme Court cancelled the appointment of 25,753 teaching and non-teaching staff, citing extensive fraud in the recruitment process of 2016",
+      "bm25_score_raw": 4.553595480491625,
+      "bm25_score_norm": 0.623477934298865,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.9004603028297424,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Bengal Teachers Recruitment Scam: Supreme Court Upholds Cancellation Of 25,753 Teacher Appointments",
+      "url": "https://www.youtube.com/watch?v=jtTDwmdl6bY",
+      "snippet": "Bengal Teachers Recruitment Scam: Supreme Court Upholds Cancellation Of 25,753 Teacher Appointments\nIndia Today\n11300000 subscribers\n86 likes\n11519 views\n4 Apr 2025\nThe Supreme Court has upheld the Calcutta High Court's order cancelling 25,753 teaching and non-teaching staff appointments in Bengal's 2016 job-for-cash scam. The top court stated the entire selection process was tainted by manipulation and fraud. While the BJP demands Mamata Banerjee's resignation, the Chief Minister accuses the BJP government of targeting Bengal and stands with the affected teachers. \n\n#mamatabanerjee #westbengal #supremecourt #itwebvideos #indiatoday #jobsscam #teacherhiring #bjp #leftfront #highcourt\n\nSubscribe to India Today for NEW VIDEOS EVERY DAY and make sure to enable Push Notifications so you'll never miss a new video.\n\nAll you need to do is PRESS THE BELL ICON next to the Subscribe button!\n\nIndia Today TV is India's leading English News Channel. India Today YouTube channel offers latest news videos on Politics, Business, Cricket, Bollywood, Lifestyle, Auto, Technology, Travel, Entertainment and a lot more.\n\nStay tuned for latest updates and in-depth analysis of news from India and around the world!\n\nWhatsApp Channel: https://whatsapp.com/channel/0029Va2AnW3JENxxg7OuJv00\n\nDownload App: https://indiatoday.link/wHaj\n\nFollow us: Official website: https://www.indiatoday.in/\n\nTwitter: https://twitter.com/IndiaToday\n\nFacebook: https://www.facebook.com/IndiaToday\n23 comments\n",
+      "bm25_score_raw": 3.74278594721803,
+      "bm25_score_norm": 0.4950432318409555,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8983529210090637,
+      "embedding_score_norm": 0.9788089853833783,
+      "embedding_rank": 2
+    },
+    {
+      "title": "West Bengal: SC canceled 26000 fraudulent teacher jobs",
+      "url": "https://organiser.org/2025/08/20/309047/bharat/west-bengal-sc-canceled-26000-fraudulent-teacher-jobs-youth-betrayed-by-mamata-govt/amp",
+      "snippet": "The SC has delivered a final blow to Mamata Banerjee's govt and upholding the cancellation of over 26000 fraudulent teacher recruitments.",
+      "bm25_score_raw": 3.9049311307685537,
+      "bm25_score_norm": 0.5207275233418395,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8935982584953308,
+      "embedding_score_norm": 0.9309979423929975,
+      "embedding_rank": 3
+    },
+    {
+      "title": "पश्चिम बंगाल शिक्षक भर्ती घोटाला | देखेंगे कि क्या पूरा चयन ...",
+      "url": "https://hindi.livelaw.in/supreme-court/west-bengal-teacher-recruitment-scam-selection-process-wrong-appointments-278181",
+      "snippet": "Dec 12, 2024 — सुप्रीम कोर्ट ने कलकत्ता हाईकोर्ट के उस आदेश को चुनौती देने वाली याचिकाओं की सुनवाई अगले बृहस्पतिवार तक के लिए स्थगित कर दी जिसमें सरकारी स्कूलों में 24000 से अधिक शिक्षण और गैर-शिक्षण पदों पर",
+      "bm25_score_raw": 3.805509341238209,
+      "bm25_score_norm": 0.5049788087151036,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8927689790725708,
+      "embedding_score_norm": 0.9226590300058198,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Supreme Court upholds Calcutta HC verdict cancelling the entire ...",
+      "url": "https://www.scconline.com/blog/post/2025/04/09/supreme-court-verdict-west-bengal-ssc-teacher-recruitment-scam",
+      "snippet": "Supreme Court upheld the Calcutta HC's decision to cancel the entire selection process in the West Bengal SSC teacher recruitment,",
+      "bm25_score_raw": 6.930582965306297,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8919704556465149,
+      "embedding_score_norm": 0.9146293879982714,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Supreme Court quashes 'tainted' selection of 25752 Bengal school staff",
+      "url": "https://timesofindia.indiatimes.com/india/supreme-court-quashes-tainted-selection-of-25752-bengal-school-staff/amp_articleshow/119956682.cms",
+      "snippet": "The process was found to be tainted with manipulation and fraud. Non-tainted candidates won't have to refund salaries. They can apply to their",
+      "bm25_score_raw": 2.542518397611872,
+      "bm25_score_norm": 0.3049171920284297,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.8915615081787109,
+      "embedding_score_norm": 0.910517170799362,
+      "embedding_rank": 6
+    },
+    {
+      "title": "West Bengal शिक्षक भर्ती घोटाला पर बंगाल में BJP का विरोध ...",
+      "url": "https://www.youtube.com/watch?v=auZVz11pRtc",
+      "snippet": "#mamatabanerjee #westbengal #teacherrecruitmentscam #bjp पश्चिम बंगाल में 25,753 teachers की nominations रद्द होने के बाद मुख्यमंत्री Mamata Banerjee कोलकाता के ...Read more",
+      "bm25_score_raw": 3.1793145904839464,
+      "bm25_score_norm": 0.4057876507508936,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.882758617401123,
+      "embedding_score_norm": 0.821998713770863,
+      "embedding_rank": 7
+    },
+    {
+      "title": "25000 People Lost Their Jobs Overnight—IDK BUT this doesn't feel ...",
+      "url": "https://www.reddit.com/r/kolkata/comments/1jqecc0/25000_people_lost_their_jobs_overnightidk_but",
+      "snippet": "The Supreme Court just canceled 25,753 teaching and non-teaching jobs in Bengal over recruitment irregularities in the 2016 SSC exam. Yes, the",
+      "bm25_score_raw": 4.296099782948843,
+      "bm25_score_norm": 0.5826898306309478,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.874036967754364,
+      "embedding_score_norm": 0.7342971860590982,
+      "embedding_rank": 8
+    },
+    {
+      "title": "West Bengal के Falta Seat पर पूरा चुनाव रद्द, अब 285 बूथों पर ...",
+      "url": "https://www.facebook.com/thelallantop/videos/west-bengal-%E0%A4%95%E0%A5%87-falta-seat-%E0%A4%AA%E0%A4%B0-%E0%A4%AA%E0%A5%82%E0%A4%B0%E0%A4%BE-%E0%A4%9A%E0%A5%81%E0%A4%A8%E0%A4%BE%E0%A4%B5-%E0%A4%B0%E0%A4%A6%E0%A5%8D%E0%A4%A6-%E0%A4%85%E0%A4%AC-285-%E0%A4%AC%E0%A5%82%E0%A4%A5%E0%A5%8B%E0%A4%82-%E0%A4%AA%E0%A4%B0-%E0%A4%AB%E0%A4%BF%E0%A4%B0-%E0%A4%B8%E0%A5%87-%E0%A4%B5%E0%A5%8B%E0%A4%9F%E0%A4%BF%E0%A4%82%E0%A4%97-%E0%A4%95%E0%A5%8D%E0%A4%AF%E0%A5%8B%E0%A4%82/977206634682951",
+      "snippet": "Nafees Khan bhai jo pehle IAS nhe ban pae mamta ki government me ab wo bjp me bhi nhe ban paenge aur badlao kyu chahiye bhai 15 saal me ...Read more",
+      "bm25_score_raw": 0.8428781349469805,
+      "bm25_score_norm": 0.03568899173889387,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.8525007367134094,
+      "embedding_score_norm": 0.5177371956968263,
+      "embedding_rank": 9
+    },
+    {
+      "title": "रिजल्ट से पहले बंगाल में चुनाव रद्द! | Mamata Banerjee | BJP",
+      "url": "https://www.youtube.com/watch?v=9rxM5qREnAU",
+      "snippet": "... अनियमितताओं के चलते सभी 285 बूथों पर 21 मई को दोबारा मतदान का आदेश दिया है. बता दें कि BJP ने EVM में छेड़छाड़ के आरोप लगाए थे जबकि TMC ने इन आरोपों को सिरे से खारिज किया था. जानकारी के अनुसार, बाकी सीटों ...Read more",
+      "bm25_score_raw": 0.6175731809038867,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.8367472887039185,
+      "embedding_score_norm": 0.3593266296780891,
+      "embedding_rank": 10
+    },
+    {
+      "title": "कुछ घंटे बाक़ी…नतीजों की पहली झांकी | West Bengal Election",
+      "url": "https://www.facebook.com/news24channel/videos/%E0%A4%95%E0%A5%81%E0%A4%9B-%E0%A4%98%E0%A4%82%E0%A4%9F%E0%A5%87-%E0%A4%AC%E0%A4%BE%E0%A4%95%E0%A4%BC%E0%A5%80%E0%A4%A8%E0%A4%A4%E0%A5%80%E0%A4%9C%E0%A5%8B%E0%A4%82-%E0%A4%95%E0%A5%80-%E0%A4%AA%E0%A4%B9%E0%A4%B2%E0%A5%80-%E0%A4%9D%E0%A4%BE%E0%A4%82%E0%A4%95%E0%A5%80-west-bengal-election-mamata-vs-modi-bjp-vs-tm/838847945940534",
+      "snippet": "सारी ताकतें लगाने के बाद भी बीजेपी बंगाल में 55 सीट से बाहर नहीं जा रही हैं बीजेपी ने कानून का उल्लंघन किया लोकतंत्र की धज्जियां उड़ाई केंद्र सरकार ने पूरा जोर लगाया उसके बाद भी टीएमसी की सरकार बनेगी एक बार ...Read more",
+      "bm25_score_raw": 1.4234698885152728,
+      "bm25_score_norm": 0.12765649589242198,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.8269410133361816,
+      "embedding_score_norm": 0.2607185261947816,
+      "embedding_rank": 11
+    },
+    {
+      "title": "पश्चिम बंगाल: निर्वाचन आयोग ने फाल्टा विधानसभा क्षेत्र में ...",
+      "url": "https://newsonair.gov.in/hi/west-bengal-election-commission-cancels-entire-polling-process-in-falta-assembly-constituency",
+      "snippet": "May 3, 2026 — कई केन्‍द्रों पर इलेक्ट्रॉनिक वोटिंग मशीनों के बटन को जानबूझकर काले टेप से ढक दिया गया था जिससे मतदान में बाधा आई। अनधिकृत लोगों को भी मतदान केंद्रों में प्रवेश करते और दूसरों की ओर से वोट डालते हुए पाया गया।Read more",
+      "bm25_score_raw": 0.9931443127528288,
+      "bm25_score_norm": 0.05949161250737609,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.8010133504867554,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

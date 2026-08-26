@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/HI/1192",
+    "text": "सुप्रीम कोर्ट 29 जुलाई से स्पेशल लोक अदालत का आयोजन करेगा",
+    "lang": "hindi"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Supreme Court to organise special Lok Adalat",
+      "url": "https://www.thehindu.com/news/national/supreme-court-to-organise-special-lok-adalat/article68303001.ece/amp",
+      "snippet": "The Supreme Court will organise a special Lok Adalat from July 29 to August 3 to facilitate amicable settlement of suitable pending cases.",
+      "bm25_score_raw": 3.0861894676079173,
+      "bm25_score_norm": 0.4877949748622409,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.9358561635017395,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Supreme Court to Organize a Special Lok Adalat from July 29 to August 3",
+      "url": "https://www.freelaw.in/supremecourtupdates/Supreme-Court-to-Organize-a-Special-Lok-Adalat-from-July-29-to-August-3",
+      "snippet": "The Supreme Court (SC) of India is all set to organize a Special Lok Adalat from July 29, 2024, to August 03, 2024, to facilitate amicable",
+      "bm25_score_raw": 6.326816852673593,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9329438209533691,
+      "embedding_score_norm": 0.9823347003233269,
+      "embedding_rank": 2
+    },
+    {
+      "title": "SC to organise special Lok Adalat from July 29 to August 3 to facilitate ...",
+      "url": "https://newsonair.gov.in/sc-to-organise-special-lok-adalat-from-july-29-to-august-3-to-facilitate-amicable-settlement-of-pending-cases",
+      "snippet": "The Supreme Court will organise a special Lok Adalat from July 29 to August 3 to facilitate amicable settlement of pending cases.",
+      "bm25_score_raw": 3.3030463898340017,
+      "bm25_score_norm": 0.522070808551728,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.9264521598815918,
+      "embedding_score_norm": 0.9429584469026885,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Supreme Court's week-long Special Lok Adalat begins",
+      "url": "https://www.scobserver.in/journal/supreme-courts-week-long-special-lok-adalat-begins/amp",
+      "snippet": "From the 29th of July to the 3rd of August 2024, the Supreme Court is organising a special Lok Adalat. Lok Adalat will be held from 2 to 5pm.",
+      "bm25_score_raw": 1.8225920112452298,
+      "bm25_score_norm": 0.2880740906029289,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.9163528680801392,
+      "embedding_score_norm": 0.8816995073268278,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Supreme Court Begins 5-Day Special Lok Adalat For Resolving Disputes ...",
+      "url": "https://www.ndtv.com/india-news/supreme-court-begins-5-day-special-lok-adalat-for-resolving-disputes-amicably-6214705/amp/1",
+      "snippet": "Organising the Lok Adalat to commemorate the 75th year of its establishment, the top court is organising Lok Adalat from July 29 to August 3.",
+      "bm25_score_raw": 2.81776618730226,
+      "bm25_score_norm": 0.4453686984967054,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8993357419967651,
+      "embedding_score_norm": 0.7784792896135153,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Supreme Court's Special Lok Adalat: Clear Pending Cases from July 29 - August 3, 2024",
+      "url": "https://www.youtube.com/watch?v=m2Kvb1uAH1k",
+      "snippet": "Supreme Court's Special Lok Adalat: Clear Pending Cases from July 29 - August 3, 2024\nNEWS ON AIR OFFICIAL\n784000 subscribers\n71 likes\n2440 views\n24 Jul 2024\nIn a landmark initiative to address pending cases and encourage amicable resolutions, the #SupremeCourt is hosting a Special #LokAdalat from July 29th to August 3rd, 2024. Celebrating the Supreme Court's 75th year of establishment, Chief Justice of India D.Y. Chandrachud urges citizens with pending cases before the Apex Court to seize this opportunity for a swift resolution. Don't miss this historic event aimed at expediting justice and fostering settlement.\n\nSubscribe to \nAkashvani All India Radio News Whatsapp Channel : https://www.whatsapp.com/channel/0029Va8tVXhGJP8FfNiRyb1E \n\nNews On AIR YouTube Channel : @NEWSONAIROFFICIAL\n\nVisit Akashvani website : https://newsonair.gov.in\n\nFollow us on :\nTwitter English : https://twitter.com/airnewsalerts\nTwitter Hindi : https://twitter.com/AIRNewsHindi\nFacebook : https://www.facebook.com/airnewsalerts\nInstagram : https://www.instagram.com/airnewsalerts\nKoo : https://www.kooapp.com/profile/airnewsalerts\nPublic:https://public.app/user/profile/b58Z4b0kf9W8mhj2y9lnRJ0tCOq1\n5 comments\n",
+      "bm25_score_raw": 1.9508114257369202,
+      "bm25_score_norm": 0.3083401133877527,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.8817312121391296,
+      "embedding_score_norm": 0.6716960762940218,
+      "embedding_rank": 6
+    },
+    {
+      "title": "पुराने केस खुद सुप्रीम कोर्ट करेगी ख़त्म 29 July को | New Law Is ...",
+      "url": "https://www.youtube.com/watch?v=HOy2e4qiOLs",
+      "snippet": "पुराने केस खुद सुप्रीम कोर्ट करेगी ख़त्म 29 July को | New Law Is Coming | Adda247 Judiciary #newcriminallaws #criminallaws Welcome to Adda247 Judiciary.",
+      "bm25_score_raw": 4.272919608657868,
+      "bm25_score_norm": 0.6753664138155371,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8482400178909302,
+      "embedding_score_norm": 0.468549649286262,
+      "embedding_rank": 7
+    },
+    {
+      "title": "Supreme Court:केवल इनकम के आधार पर Obc क्रीमी लेयर का ...",
+      "url": "https://www.amarujala.com/india-news/supreme-court-obc-creamy-layer-issue-only-salary-of-parents-cannot-decide-justice-narsimha-and-mahadevan-bench-2026-03-12",
+      "snippet": "सरकार ने उनके माता-पिता की सैलरी को आधार मानकर उन्हें गलत तरीके से क्रीमी लेयर की श्रेणी में डाल दिया था। अदालत ने साफ किया कि अधिकारियों ने उम्मीदवारों को आरक्षण से बाहर करने के लिए गलत पैमाना अपनाया। जस्टिस",
+      "bm25_score_raw": 0.4936807426895686,
+      "bm25_score_norm": 0.07802987729618702,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.7927283048629761,
+      "embedding_score_norm": 0.13183409130596532,
+      "embedding_rank": 8
+    },
+    {
+      "title": "नवीनतम आदेश | भारत का सर्वोच्च न्यायालय",
+      "url": "https://www.sci.gov.in/hi/%E0%A4%A8%E0%A4%B5%E0%A5%80%E0%A4%A8%E0%A4%A4%E0%A4%AE-%E0%A4%86%E0%A4%A6%E0%A5%87%E0%A4%B6",
+      "snippet": "STATE OF MADHYA PRADESH - वि.अनु.या.(दा.) सं 11949/2026 - डायरी संख्या 38040 / 2026 - 10-Jul-2026 (अपलोड ऑन 10-07-2026 17:00:03)](https://www.sci.gov.in/view-pdf/?diary_no=380402026&type=o&order_date=2026-07-10&from=latest_judgements_order). THE STATE OF MADHYA PRADESH - वि.अनु.या.(दा.) सं 12008/2026 - डायरी संख्या 37248 / 2026 - 10-Jul-2026 (अपलोड ऑन 10-07-2026 16:59:58)](https://www.sci.gov.in/view-pdf/?diary_no=372482026&type=o&order_date=2026-07-10&from=latest_judgements_order). STATE OF UTTAR PRADESH - वि.अनु.या.(दा.) सं 11989/2026 - डायरी संख्या 36311 / 2026 - 10-Jul-2026 (अपलोड ऑन 10-07-2026 16:48:07)](https://www.sci.gov.in/view-pdf/?diary_no=363112026&type=o&order_date=2026-07-10&from=latest_judgements_order). STATE OF PUNJAB - वि.अनु.या.(दा.) सं 11978-11979/2026 - डायरी संख्या 38240 / 2026 - 10-Jul-2026 (अपलोड ऑन 10-07-2026 16:47:51)](https://www.sci.gov.in/view-pdf/?diary_no=382402026&type=o&order_date=2026-07-10&from=latest_judgements_order). THE STATE OF UTTAR PRADESH - वि.अनु.या.(दा.) सं 11831-11832/2026 - डायरी संख्या 33297 / 2026 - 10-Jul-2026 (अपलोड ऑन 10-07-2026 16:43:16)](https://www.sci.gov.in/view-pdf/?diary_no=332972026&type=o&order_date=2026-07-10&from=latest_judgements_order). STATE OF HIMACHAL PRADESH - वि.अनु.या.(दा.) सं 11889/2026 - डायरी संख्या 36267 / 2026 - 10-Jul-2026 (अपलोड ऑन 10-07-2026 16:37:36)](https://www.sci.gov.in/view-pdf/?diary_no=362672026&type=o&order_date=2026-07-10&from=latest_judgements_order). THE STATE OF MADHYA PRADESH - वि.अनु.या.(दा.) सं 11952/2026 - डायरी संख्या 32961 / 2026 - 10-Jul-2026 (अपलोड ऑन 10-07-2026 16:37:31)](https://www.sci.gov.in/view-pdf/?diary_no=329612026&type=o&order_date=2026-07-10&from=latest_judgements_order). THE STATE OF NCT DELHI - वि.अनु.या.(दा.) सं 12187/2026 - डायरी संख्या 37253 / 2026 - 10-Jul-2026 (अपलोड ऑन 10-07-2026 16:10:27)](https://www.sci.gov.in/view-pdf/?diary_no=372532026&type=o&order_date=2026-07-10&from=latest_judgements_order).",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.7900874614715576,
+      "embedding_score_norm": 0.11581561506776561,
+      "embedding_rank": 9
+    },
+    {
+      "title": "SC ने जनजातीय आयकर छूट में 'क्रीमी लेयर' लागू करने की मांग ...",
+      "url": "https://hindi.livelaw.in/supreme-court/supreme-court-st-tax-exemption-creamy-layer-income-tax-act-2025-538189",
+      "snippet": "सुप्रीम कोर्ट ने अनुसूचित जनजातियों (ST) को आयकर अधिनियम, 2025 के तहत मिलने वाली आयकर छूट में \"क्रीमी लेयर\" व्यवस्था लागू करने की मांग वाली याचिका पर सुनवाई करने से इनकार कर दिया।",
+      "bm25_score_raw": 1.4354300942386118,
+      "bm25_score_norm": 0.22688029820746686,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.7887526154518127,
+      "embedding_score_norm": 0.10771888380440438,
+      "embedding_rank": 10
+    },
+    {
+      "title": "OBC क्रीमी लेयर पर सुप्रीम कोर्ट का ऐतिहासिक फैसला: केवल माता ...",
+      "url": "https://www.facebook.com/NDTVIndia/videos/obc-%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AE%E0%A5%80-%E0%A4%B2%E0%A5%87%E0%A4%AF%E0%A4%B0-%E0%A4%AA%E0%A4%B0-%E0%A4%B8%E0%A5%81%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AE-%E0%A4%95%E0%A5%8B%E0%A4%B0%E0%A5%8D%E0%A4%9F-%E0%A4%95%E0%A4%BE-%E0%A4%90%E0%A4%A4%E0%A4%BF%E0%A4%B9%E0%A4%BE%E0%A4%B8%E0%A4%BF%E0%A4%95-%E0%A4%AB%E0%A5%88%E0%A4%B8%E0%A4%B2%E0%A4%BE-%E0%A4%95%E0%A5%87%E0%A4%B5%E0%A4%B2-%E0%A4%AE%E0%A4%BE%E0%A4%A4%E0%A4%BE-%E0%A4%AA%E0%A4%BF%E0%A4%A4%E0%A4%BE-%E0%A4%95%E0%A5%80-%E0%A4%86%E0%A4%AF-%E0%A4%86%E0%A4%A7%E0%A4%BE%E0%A4%B0-%E0%A4%A8%E0%A4%B9%E0%A5%80/1507716411028486",
+      "snippet": "OBC की राष्ट्रीय सूची न होने से राज्यों में असंगति और भ्रम पैदा होता है, जिससे कानूनी स्थिति स्पष्ट नहीं रहती। इसी कारण 29 जनवरी को सर्वोच्च न्यायालय ने इस पर रोक लगाई।",
+      "bm25_score_raw": 2.4839846424173064,
+      "bm25_score_norm": 0.392612067056694,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.7777756452560425,
+      "embedding_score_norm": 0.0411362394795821,
+      "embedding_rank": 11
+    },
+    {
+      "title": "सुप्रीम कोर्ट ने सामाजिक-आर्थिक स्थिति का हवाला देकर ₹18.9 ...",
+      "url": "https://www.instagram.com/p/DZ_ng_KSRyD",
+      "snippet": "याचिकाकर्ता ने कहा कि इतनी ऊँची फीस के कारण EWS छात्र प्राइवेट कॉलेज में एडमिशन नहीं ले पाते, इसलिए प्राइवेट कॉलेजों को सरकारी कॉलेजों जैसी कम फीस लेने के लिए बाध्य किया जाए। सुप्रीम कोर्ट का फैसला सुप्रीम कोर्ट ने",
+      "bm25_score_raw": 2.2245684468397946,
+      "bm25_score_norm": 0.3516094267688078,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.7709938287734985,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

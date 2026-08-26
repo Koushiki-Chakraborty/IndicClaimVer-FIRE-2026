@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/1473",
+    "text": "‘দায়িত্বজ্ঞানহীনদের জন্য মহামারি হলে প্রশাসন লাশ তোলার সম্পূর্ণ দায়িত্ব নেবে’, মন্তব্য ফিরহাদের",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Strict action to be taken if found illegally filling up water- ...",
+      "url": "https://theprint.in/india/strict-action-to-be-taken-if-found-illegally-filling-up-water-bodies-bengal-minister/865816",
+      "snippet": "Firhad Hakim on Wednesday said conservation of water-bodies is part of national duty and illegal filling up of these would be dealt with",
+      "bm25_score_raw": 0.645649056060041,
+      "bm25_score_norm": 0.33022519899322056,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.8495920896530151,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Hakim hits out at Bangladesh govt's 'inaction' on minority ...",
+      "url": "https://timesofindia.indiatimes.com/city/kolkata/kolkata-mayor-criticizes-bangladesh-government-for-inaction-on-minority-attacks/articleshow/115847694.cms",
+      "snippet": "Kolkata Mayor Firhad Hakim condemns the Bangladeshi government's failure to protect minorities, emphasizing the implications for communal",
+      "bm25_score_raw": 0.6884053053461509,
+      "bm25_score_norm": 0.35209341175708525,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.8197450637817383,
+      "embedding_score_norm": 0.7514624381944286,
+      "embedding_rank": 2
+    },
+    {
+      "title": "WB LoP Suvendu Adhikari Says Mayor Firhad Hakim Should ...",
+      "url": "https://www.youtube.com/shorts/z8eE7bp5fZk",
+      "snippet": "Adhikari called Hakim “the main culprit” and highlighted the widespread public anger",
+      "bm25_score_raw": 0.7181277699569225,
+      "bm25_score_norm": 0.36729533406849696,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.8108646869659424,
+      "embedding_score_norm": 0.6775151306391846,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Minister Agnimitra Paul says, \"Why hasn't Firhad Hakim, ...",
+      "url": "https://x.com/ians_india/status/2058112954839765003",
+      "snippet": "Kolkata, West Bengal: Minister Agnimitra Paul says, \"Why hasn't Firhad Hakim, the mayor of Kolkata Municipal Corporation, seen this for the",
+      "bm25_score_raw": 0.8661578686389152,
+      "bm25_score_norm": 0.4430071597661114,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.7997632622718811,
+      "embedding_score_norm": 0.5850730549050867,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Firhad Hakim | ক্ষমতা হারাতেই বদলে গেল ববিও! ফিরহাদের পা কোন নৌকায়? | Zee ...",
+      "url": "https://www.facebook.com/Zee24Ghanta/posts/firhad-hakim-%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%AE%E0%A6%A4%E0%A6%BE-%E0%A6%B9%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A6%A4%E0%A7%87%E0%A6%87-%E0%A6%AC%E0%A6%A6%E0%A6%B2%E0%A7%87-%E0%A6%97%E0%A7%87%E0%A6%B2-%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%93-%E0%A6%AB%E0%A6%BF%E0%A6%B0%E0%A6%B9%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%BE-%E0%A6%95%E0%A7%8B%E0%A6%A8-%E0%A6%A8%E0%A7%8C%E0%A6%95%E0%A6%BE%E0%A7%9F-zee-24-ghantafir/1505680621589347",
+      "snippet": "দুর্নীতিপরায়ণ নেতা-নেত্রী, যে দল বা মতেরই হোন না কেন, তাঁদের সঠিক ও নিরপেক্ষ বিচার হওয়া উচিত। আইনের চোখে সবাই সমান—কাউকে কোনো বিশেষ ছাড় নয়। গণতন্ত্রে জবাবদিহিতা, স্বচ্ছতা ও ন্যায়বিচারই জনগণের সবচেয়ে",
+      "bm25_score_raw": 1.3707223724639757,
+      "bm25_score_norm": 0.70107291873634,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.7933998107910156,
+      "embedding_score_norm": 0.5320843007644485,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Firhad Hakim | ক্ষমতা হারাতেই বদলে গেল ববিও! ফিরহাদের পা কোন নৌকায়? | Zee ...",
+      "url": "https://www.youtube.com/watch?v=Vj2FHIzTS5w",
+      "snippet": "Firhad Hakim | ক্ষমতা হারাতেই বদলে গেল ববিও! ফিরহাদের পা কোন নৌকায়? | Zee 24 Ghanta #FirhadHakim #Zee24Ghanta #LatestNews",
+      "bm25_score_raw": 1.9551780361658468,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.7848120927810669,
+      "embedding_score_norm": 0.46057397659106225,
+      "embedding_rank": 6
+    },
+    {
+      "title": "Firhad Hakim: এত জল আগে কলকাতায় কখনও হয়নি, বিরোধী রাজ্যরা ভেসে যাচ্ছে ...",
+      "url": "https://www.youtube.com/watch?v=YYJIhRdMt5Q",
+      "snippet": "যদি বৃষ্টি না হয়, গঙ্গ পুরো ভর্তি হয়ে গেছে। ... Firhad Hakim: এত জল আগে কলকাতায় কখনও হয়নি, বিরোধী রাজ্যরা ভেসে যাচ্ছে কেন?: ফিরহাদ হাকিম.",
+      "bm25_score_raw": 0.8315163652132789,
+      "bm25_score_norm": 0.4252893341845755,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.780792772769928,
+      "embedding_score_norm": 0.42710491337541556,
+      "embedding_rank": 7
+    },
+    {
+      "title": "ভাসছে খোদ ফিরহাদের পাড়াও! নজিরবিহীন বৃষ্টি এবং প্রাকৃতিক দুর্যোগে ...",
+      "url": "https://www.anandabazar.com/amp/west-bengal/kolkata/even-firhad-hakims-own-neighborhood-is-submerged-and-the-people-are-holding-kolkatas-mayor-accountable-dgtl/cid/1635195",
+      "snippet": "ভাসছে খোদ ফিরহাদের পাড়াও! নজিরবিহীন বৃষ্টি এবং প্রাকৃতিক দুর্যোগে বিপর্যস্ত কলকাতা শহরে জনতার কাঠগড়ায় মেয়র হাকিম ... মঙ্গলবার ভোর থেকে জলবন্দি হয়ে পড়ে গোটা কলকাতা। পোর্টেবল পাম্প চালিয়ে প্রাথমিক ভাবে পরিস্থিতি",
+      "bm25_score_raw": 1.0685377008238552,
+      "bm25_score_norm": 0.5465168291882434,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.7765092849731445,
+      "embedding_score_norm": 0.391436112817937,
+      "embedding_rank": 8
+    },
+    {
+      "title": "66 comments | Welcome to our News Bulletin.\n\nPolitical tensions within the Trinamool Congress have reached a boiling point following the high-profile resignation of Firhad Hakim as Kolkata Mayor. Meanwhile, India’s economic growth showed remarkable resilience, expanding by a robust 7.7% despite challenging global headwinds. \n\nOn the political and structural front, Karnataka’s newly expanded cabinet is already facing severe internal turmoil, even as Arunachal Pradesh Chief Minister Pema Khandu sharply dismissed China’s latest territorial claims over the state as meaningless. Over in Tamil Nadu, former BJP chief K. Annamalai shook up the regional dynamic by launching a new political movement called 'We the Leaders.'\n\nFt @__aakankshaa__yadav__\n\n#NewsBulletin #FirhadHakim #ManipurViolence #Annamalai | The CSR Journal",
+      "url": "https://www.facebook.com/TheCSRJournal/posts/welcome-to-our-news-bulletinpolitical-tensions-within-the-trinamool-congress-hav/1320400876847964",
+      "snippet": "Welcome to our News Bulletin.…. On the political and structural front, Karnataka’s newly expanded cabinet is already facing severe internal turmoil, even as Arunachal Pradesh Chief Minister Pema Khandu sharply dismissed China’s latest territorial claims over the state as meaningless. ## **The CSR Journal**. Image 4 The CSR Journal 1K. Jammu and Kashmir Chief Minister Omar Abdullah opted for an unconventional auto-rickshaw ride to navigate through Delhi and reach the protest site at Jantar Mantar. Nationally, Parliament's Monsoon Session began on a stormy note, while Delhi Police lathi-charged CJP's Chalo Sansad March, and Shashi Tharoor hit out at the Centre over denied debates. Speaking to reporters at Jantar Mantar in New Delhi, Angmo addressed gathering crowds on the eve of a planned \"Chalo Sansad\" march to Parliament. A massive sea of protesters successfully breached the towering ten-foot barricades set up by the Delhi Police at Jantar Mantar during today's intense demonstrations. #JantarMantar #DelhiProtests #DelhiPolice #ProtestMarch #IndiaNews.",
+      "bm25_score_raw": 0.22859240077501797,
+      "bm25_score_norm": 0.11691641198225272,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.7765032649040222,
+      "embedding_score_norm": 0.39138598342454234,
+      "embedding_rank": 9
+    },
+    {
+      "title": "What Firhad Hakim's Resignation As Kolkata Mayor Means For Trinamool",
+      "url": "https://www.ndtv.com/india-news/what-firhad-hakims-resignation-as-kolkata-mayor-means-for-trinamool-11590831",
+      "snippet": "Analysis: What Firhad Hakim's Resignation As Kolkata Mayor Means For Trinamool. NewsIndia NewsAnalysis: What Firhad Hakim's Resignation As Kolkata Mayor Means For Trinamool. ## Bobby Hakim's resignation has raised questions whether Mamata Banerjee's hold over minority leadership is beginning to erode. Image 21: Analysis: What Firhad Hakim's Resignation As Kolkata Mayor Means For Trinamool. *   Firhad Hakim resigned as Kolkata Mayor after seeking Mamata Banerjee's reluctant consent. Recently, Firhad Hakim, popularly known as Bobby Hakim, resigned from the post of the Mayor of Kolkata Municipal Corporation. Political observers are now reading Bobby Hakim's resignation not merely as an administrative move but as a symptom of a much deeper crisis brewing inside the TMC. Inside the TMC, there is now a feeling that the party has moved from a \"war room\" situation to an \"ICU\" condition. The resignation has also exposed another uncomfortable reality for the Trinamool Congress: sections of the Muslim leadership, once considered firmly loyal to Mamata Banerjee, are no longer politically united behind her.",
+      "bm25_score_raw": 0.8167711561725303,
+      "bm25_score_norm": 0.417747714563242,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.7750282287597656,
+      "embedding_score_norm": 0.3791032893816018,
+      "embedding_rank": 10
+    },
+    {
+      "title": "Firhad Hakim,'জনাব নয় শ্রী', মঞ্চ থেকে বাংলা ভাষার ক্লাস ফিরহাদের",
+      "url": "https://eisamay.com/amp/story/west-bengal-news/kolkata-news/firhad-hakim-teaches-proper-bengali-word-from-in-a-programme/87894344.cms",
+      "snippet": "পরিবহণ দফতরের এক অনুষ্ঠান মঞ্চ থেকে সঞ্চালকের বাংলা ভাষার ভুল শোধরালেন Firhad Hakim। শুধু তাই নয়, উর্দু ও বাংলা ভাষা নিয়ে নিজের বিস্তারিত পর্যবেক্ষণও জানান তিনি",
+      "bm25_score_raw": 1.675559757970341,
+      "bm25_score_norm": 0.8569857716160497,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.7748808860778809,
+      "embedding_score_norm": 0.37787636007000247,
+      "embedding_rank": 11
+    },
+    {
+      "title": "ফিরহাদ হাকিম - উইকিপিডিয়া",
+      "url": "https://bn.wikipedia.org/wiki/%E0%A6%AB%E0%A6%BF%E0%A6%B0%E0%A6%B9%E0%A6%BE%E0%A6%A6_%E0%A6%B9%E0%A6%BE%E0%A6%95%E0%A6%BF%E0%A6%AE",
+      "snippet": "বিষয়বস্তুতে চলুন. উইকিপিডিয়া একটি মুক্ত বিশ্বকোষ. আন্তঃউইকি সংযোগ সম্পাদনা. * ইতিহাস দেখুন. * সংযোগকারী পৃষ্ঠাসমূহ. * স্থায়ী সংযোগ. * পাতার তথ্য. * সংক্ষিপ্ত ইউআরএল নিন. * পূর্বের পার্সারে স্যুইচ করুন. উইকিপিডিয়া, মুক্ত বিশ্বকোষ থেকে. | **দায়িত্বাধীন** |. | **অধিকৃত কার্যালয়**  ২৮ ডিসেম্বর, ২০২১ - ৩ জুন, ২০২৬ |. | পূর্বসূরী | নিজেই (প্রশাসক বোর্ডের চেয়ারম্যান হিসাবে) |. | উত্তরসূরী | নিজেই (প্রশাসক বোর্ডের চেয়ারম্যান হিসাবে) |. | ক্যাবিনেট মন্ত্রী, পশ্চিমবঙ্গ সরকার |. | পূর্বসূরী | শুভেন্দু অধিকারী (পরিবহন)  চন্দ্রিমা ভট্টাচার্য (আবাসন) |. | অন্যান্য রাজনৈতিক দল | ভারতের জাতীয় কংগ্রেস (১৯৯৮ পর্যন্ত) |. | সন্তান | প্রিয়দর্শিনী হাকিম  সাবা হাকিম  আসফা হাকিম |. **ফিরহাদ হাকিম** (জন্ম ১লা জানুয়ারি, ১৯৫৯) একজন ভারতীয় বাঙালি রাজনৈতিক, যিনি সর্বভারতীয় তৃণমূল কংগ্রেস দলের সঙ্গে যুক্ত। ফিরহাদ হাকিম বর্তমানে কলকাতা পৌরসভার মেয়র  এবং পশ্চিমবঙ্গ রাজ্য সরকারের একজন গুরুত্বপূর্ণ মন্ত্রী।. * হেরম্ব চন্দ্র কলেজের প্রাক্তন শিক্ষার্থী. * কলকাতা বিশ্ববিদ্যালয়ের প্রাক্তন শিক্ষার্থী. * পশ্চিমবঙ্গের তৃণমূল কংগ্রেসের রাজনীতিবিদ. * পশ্চিমবঙ্গের ভারতীয় জাতীয় কংগ্রেসের রাজনীতিবিদ. * ২১শ শতাব্দীর ভারতের বিভিন্ন স্থানের মেয়র.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.729501485824585,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

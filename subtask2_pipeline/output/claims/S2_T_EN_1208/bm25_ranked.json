@@ -1,0 +1,57 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1208",
+    "text": "Congress demands FIR against Modi for \"violation\" of model code",
+    "lang": "english"
+  },
+  "ranked_evidence": [
+    {
+      "title": "Congress demands FIR against Modi for model code &quot;violation&quot;",
+      "url": "https://www.thehindu.com/news/national/congress-demands-fir-against-modi-for-model-code-violation/article5943903.ece/amp",
+      "snippet": "The Congress demanded registration of an FIR against BJP prime ministerial candidate Narendra Modi for “flagrant violation” of the model",
+      "bm25_score_raw": 10.331488243392213,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "👉The violation of the Model Code of Conduct by the Prime Minister ...",
+      "url": "https://www.facebook.com/IndianNationalCongress/posts/the-violation-of-the-model-code-of-conduct-by-the-prime-minister-in-the-middle-o/1587661066054739",
+      "snippet": "This is not Women's Reservation Bill; it's delimitation. That is why all opposition parties opposed it. : Congress President Shri Mallikarjun",
+      "bm25_score_raw": 2.111222576620867,
+      "bm25_score_norm": 0.10890425688309378,
+      "bm25_rank": 2
+    },
+    {
+      "title": "Opposition slams Narendra Modi over speech, alleges poll code violation",
+      "url": "https://www.youtube.com/watch?v=ekopUwB2HXY",
+      "snippet": "Opposition leaders led by Mallikarjun Kharge have accused PM Modi of violating the Model Code of Conduct by politicising his April 18",
+      "bm25_score_raw": 1.8552040956288225,
+      "bm25_score_norm": 0.08115126351045107,
+      "bm25_rank": 3
+    },
+    {
+      "title": "PM Modi violates Model Code of Conduct but nobody expects ECI to act",
+      "url": "https://www.nationalheraldindia.com/amp/story/politics/pm-narendra-modi-violates-model-code-of-conduct-but-nobody-expects-election-commission-to-act",
+      "snippet": "Prime Minister Narendra Modi delivering a vitriolic political speech on Door Darshan and resorting to opposition-bashing on 18 April 2026, amounted to a",
+      "bm25_score_raw": 1.5768020913265435,
+      "bm25_score_norm": 0.05097184462478209,
+      "bm25_rank": 4
+    },
+    {
+      "title": "Over 700 concerned citizens have signed a complaint to the Election ...",
+      "url": "https://www.instagram.com/p/DXWj6NwjOEP?hl=en",
+      "snippet": "... Modi violated the Model Code of Conduct through his national address on April 18. Modi's was an extraordinary public speech targeting",
+      "bm25_score_raw": 1.4112955754749963,
+      "bm25_score_norm": 0.03303055687180967,
+      "bm25_rank": 5
+    },
+    {
+      "title": "Narendra Modi repeatedly violating code of conduct, why no action",
+      "url": "https://indianexpress.com/elections/narendra-modi-repeatedly-violating-code-of-conduct-why-no-action-congress-to-poll-panel-5691388/lite",
+      "snippet": "The party said Modi's road show in Ahmedabad after he cast his vote was a blatant violation of the code and asked why the poll panel is",
+      "bm25_score_raw": 1.106592119415445,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/1103",
+    "text": "‘शिकंजी बेचने वाले’ ने कोका-कोला कंपनी बनाई, हिंदुस्तान में कोई ढाबा वाला नहीं, जिसने ऐसी कंपनी खोली हो: राहुल",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Coca-Cola was founded by 'shikanji' seller, claims Rahul Gandhi",
+      "url": "https://www.business-standard.com/article/current-affairs/coca-cola-was-founded-by-shikanji-seller-claims-rahul-118061100616_1.html",
+      "snippet": "Congress president Rahul Gandhi on Monday claimed that the founder of international aerated drink brand Coca-Cola once used to sell 'shikanji' (lemonade).",
+      "bm25_score_raw": 3.8523565305312717,
+      "bm25_score_norm": 0.7765637807389522,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.9058107137680054,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "No, Rahul Gandhi, Coca-Cola was not started by a ‘shikanji’ seller by Rahul Gandhi – Alt News",
+      "url": "https://www.altnews.in/rahul-gandhi-coca-cola-shikhanji-seller",
+      "snippet": "# No, Rahul Gandhi, Coca-Cola was not started by a ‘shikanji’ seller. *“Is there anyone here who has not heard the name of Coca-Cola company? The person who started the Coca-Cola company was a lemonade seller. This is what Congress President Rahul Gandhi said at the party’s national OBC convention in Delhi on June 11. Attacking the Modi government for failing to provide opportunities to skilled members of the OBC community, Gandhi referred to the *Coca-Cola* company whose founder, he claimed, was a ‘shikanji’ seller in the USA. ## **The truth to Rahul Gandhi’s alternative fact**. In 1865, Pemberton, also a lieutenant colonel in the American army, suffered a saber wound during the Battle of Columbus and became addicted to morphine after he started using it as a painkiller. Pemberton, who is described as a ‘failed pharmacist’ in a documentary on *Coca-Cola*’s history available on YouTube, had now begun selling his formula in Georgia’s pharmacies.",
+      "bm25_score_raw": 4.495099576038265,
+      "bm25_score_norm": 0.9061288834252668,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.9019461870193481,
+      "embedding_score_norm": 0.9748025938917781,
+      "embedding_rank": 2
+    },
+    {
+      "title": "The world 'according to Congress chief Rahul Gandhi' - Coca-Cola founder as 'shikanji' seller, McDonald's founder as 'dhaba wala'",
+      "url": "https://www.newindianexpress.com/amp/story/nation/2018/jun/11/the-world-according-to-congress-chief-rahul-gandhi---coca-cola-founder-as-shikanji-seller-mcdon-1826655.html",
+      "snippet": "Congress president Rahul Gandhi today cited the examples of successful American entrepreneurs to attack Prime Minister Narendra Modi's",
+      "bm25_score_raw": 0.8105672268088183,
+      "bm25_score_norm": 0.16339535170358088,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.9008948802947998,
+      "embedding_score_norm": 0.9679478858756017,
+      "embedding_rank": 3
+    },
+    {
+      "title": "An Ode to Shikanji, The 'Desi' Street Drink That Is Also a Cultural Gem!",
+      "url": "https://thebetterindia.com/144991/shikanji-street-drink-rahul-gandhi",
+      "snippet": "The explosion of humour on Twitter after Rahul Gandhi's comment that Coca-Cola was started by a shikanji seller tickled the neurons of my brains,",
+      "bm25_score_raw": 4.960772863840621,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8929625749588013,
+      "embedding_score_norm": 0.9162278352911366,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Someone actually edited Coca-Cola founder's Wikipedia page to say he sold 'shikanji'",
+      "url": "https://www.dnaindia.com/india/report-someone-actually-edited-coca-cola-founder-s-wikipedia-page-to-say-he-sold-shikanji-2624553",
+      "snippet": "Rahul Gandhi had claimed that the Coca-Cola foudner was a lemonade seller!",
+      "bm25_score_raw": 0.6888847968435234,
+      "bm25_score_norm": 0.13886642580732675,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.8910285234451294,
+      "embedding_score_norm": 0.9036174732484508,
+      "embedding_rank": 5
+    },
+    {
+      "title": "#AccordingToRahulGandhi: Rahul Gandhi's funny memes go viral on Twitter for saying Coca-Cola owner sold 'Shikanji'",
+      "url": "https://www.ibtimes.co.in/photos/accordingtorahulgandhi-rahul-gandhis-funny-memes-go-viral-twitter-saying-coca-cola-owner-sold-16929-slide-90559",
+      "snippet": "Congress President Rahul Gandhi was trolled on Twitter on Monday after he said the maker of Coca-Cola was a \"shikanji\" (lemonade) seller in the United States.",
+      "bm25_score_raw": 2.1984040394683015,
+      "bm25_score_norm": 0.44315756834839265,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8857306241989136,
+      "embedding_score_norm": 0.8690742218985341,
+      "embedding_rank": 6
+    },
+    {
+      "title": "India student protests give opposition a rare opening against Modi - Reuters",
+      "url": "https://www.reuters.com/world/india/india-student-protests-give-opposition-rare-opening-against-modi-2026-07-21/",
+      "snippet": "## Browse World. ## Browse Business. ## Browse Legal. Image 2: Indian opposition leader Rahul Gandhi is detained by police during a sit-in protest outside Prime Minister Narendra Modi's residence in New Delhi. Item 1 of 6 Indian opposition leader Rahul Gandhi is detained by police during a sit-in protest outside Prime Minister Narendra Modi's residence, demanding accountability for police action against students, in New Delhi, India, July 21, 2026. **[1/6]**Indian opposition leader Rahul Gandhi is detained by police during a sit-in protest outside Prime Minister Narendra Modi's residence, demanding accountability for police action against students, in New Delhi, India, July 21, 2026. Yet CJP leaders turned to opposition lawmakers and appealed directly for their support on Monday after police used batons and tear gas, opens new tab to ‌disperse protesters marching on parliament to demonstrate against damaging exam leaks and corruption. Get the latest news from India and how it matters to the world with the Reuters India File newsletter.",
+      "bm25_score_raw": 2.764631720562654,
+      "bm25_score_norm": 0.5572985896440099,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8239251375198364,
+      "embedding_score_norm": 0.4660913862615142,
+      "embedding_rank": 7
+    },
+    {
+      "title": "A protest movement is challenging India's establishment. What to know about the 'Cockroaches' - AP News",
+      "url": "https://apnews.com/article/india-cockroach-party-youth-movement-protest-modi-59d045fbd485635def01b01f3898307b",
+      "snippet": "Test Your News I.Q. 2026 Elections Election Results Election calendar White House Congress Supreme Court The latest AP-NORC polls. People from all over India have been ordering food through delivery apps for protesters of the youth-led ‘Cockroach’ movement in New Delhi who have called for the resignation of India’s Education Minister Dharmendra Pradhan over examination paper leaks. A protestor, left, receives a food package from a supporter at the site where thousands have assembled to join a protest led by Cockroach Janta Party in New Delhi, India, Wednesday, July 22, 2026. A protestor receives a food package from a supporter at the site where thousands have assembled to join a protest called by Cockroach Janta Party in New Delhi, India, Wednesday, July 22, 2026. NEW DELHI (AP) — What began as an online joke has evolved into one of the most significant protest movements in India being led by young people hoping to change the established political structure and the damage they believe the government has caused.",
+      "bm25_score_raw": 1.7085992061919035,
+      "bm25_score_norm": 0.34442197881019476,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8037025332450867,
+      "embedding_score_norm": 0.3342363867706234,
+      "embedding_rank": 8
+    },
+    {
+      "title": "Indian activist Wangchuk ends 26-day hunger strike as 'Cockroach' protesters vow to press on - AP News",
+      "url": "https://apnews.com/article/india-cockroach-protests-sonam-wangchuk-e2f114b6cf6568bb8f5d739fe36349ed",
+      "snippet": "Thousands of young protesters were camped on the streets of India’s capital New Delhi and Mumbai on Thursday, defying new restrictions in the latest show of strength for a movement that has become one of the biggest challenges to Prime Minister Narendra Modi’s government. A protestor carries a placard saying “In the exam attempt all questions, in a democracy answer all questions” during a demonstration demanding educational reforms as part of the Cockroach Janta Party’s ongoing protest movement in New Delhi, India, Friday, July 24, 2026. A protestor carries a placard saying ‘When the education is taxed, why should Pradhan be not held accountable’ referring to India’s Minister of Education Dharmendra Pradhan, during a demonstration demanding educational reforms as part of the Cockroach Janta Party’s ongoing protest movement in New Delhi, India, Friday, July 24, 2026.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.7985079884529114,
+      "embedding_score_norm": 0.30036702496034,
+      "embedding_rank": 9
+    },
+    {
+      "title": "India's 'Cockroach' protests take on Modi with unlikely weapons: sharp, irreverent humor and memes - The Sun Chronicle",
+      "url": "https://www.thesunchronicle.com/news/nation_world/indias-cockroach-protests-take-on-modi-with-unlikely-weapons-sharp-irreverent-humor-and-memes/article_ade99a9a-8b48-5106-a252-6a6bc421489e.html",
+      "snippet": "A protestor holds a placard with the message \"Every Joke is a Tiny Revolution\" during a demonstration demanding educational reforms as part of the Cockroach Janta Party's ongoing protest movement in New Delhi, India, Thursday, July 23, 2026. A protestor holds a placard with a portrait of Prime Minister Narendra Modi along with the text \"Can't See Your Democracy, My Lashes are Too Long\" during a demonstration demanding educational reforms as part of the Cockroach Janta Party's ongoing protest movement in New Delhi, India, Thursday, July 23, 2026. A protestor holds a placard with a portrait of Indian Prime Minister Narendra Modi draped in a saree, a traditional garment for women in India, during a demonstration demanding educational reforms as part of the Cockroach Janta Party's ongoing protest movement in New Delhi, India, Thursday, July 23, 2026. 8 E92E D2>6 A=2E7@C> E@ >@4< 9:D 25>:?:DEC2E:@?[ C:5:4F=6 AC@\\8@G6C?>6?",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.7880839109420776,
+      "embedding_score_norm": 0.23240017379665637,
+      "embedding_rank": 10
+    },
+    {
+      "title": "India's 'Cockroach' protests take on Modi with unlikely weapons: Sharp, irreverent humor and memes - Greenwich Time",
+      "url": "https://www.greenwichtime.com/news/world/article/india-s-cockroach-protests-take-on-modi-with-22359856.php",
+      "snippet": "# India's 'Cockroach' protests take on Modi with unlikely weapons: Sharp, irreverent humor and memes. NEW DELHI (AP) — India's young protesters are mocking their government. And the jokes are landing. As thousands of demonstrators take to the streets in the Indian capital, they are waging a parallel campaign online, flooding social media with memes, parody videos and self-deprecating jokes. In doing so, they are also beating Narendra Modi — the powerful but image-conscious prime minister — at his own game. Now protesters are using that same platform to mock his administration, ridicule pro-government television news coverage, transform confrontation with police into viral content and seize control of the online narrative. The campaign has taken the protests demanding accountability and education reforms beyond the streets, broadening its reach and intensifying pressure on a government wary of appearing to yield to a rapidly growing youth movement. So we’re definitely not going to tolerate this,” she said, referring to Monday’s police crackdown on protesters in the capital.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.7806656360626221,
+      "embedding_score_norm": 0.1840316937945422,
+      "embedding_rank": 11
+    },
+    {
+      "title": "China Hopes 'Straw Checkerboards' Will Keep Desert at Bay - Newser",
+      "url": "https://www.newser.com/story/392693/china-hopes-straw-checkerboards-will-keep-desert-at-bay.html",
+      "snippet": "Image 1: Newser - Current News - Breaking StoriesImage 2: Newser - Current News - Breaking Stories. Image 8: Newser - Current News - Breaking Stories. Image 45: China Hopes 'Straw Checkerboards' Will Keep Desert at Bay. A highway cuts through a desertification control site near Ordos, in northern China's Inner Mongolia region, on June 12. The widespread lattice it has created across the sand has become the iconic image of China's decades-long campaign against the spreading of desert conditions, known as the Three-North Protective Forest Program, or the \"Green Great Wall,\" per the AP. The Chinese government said the initiative launched in 1978 has played a crucial role in transforming vast regions covering nearly half of China from \"the desertification advancing and people retreating\" to \"greenery advancing and the desertification retreating.\" Forests planted by the program now cover a cumulative 200,000 square miles.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.7524406909942627,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

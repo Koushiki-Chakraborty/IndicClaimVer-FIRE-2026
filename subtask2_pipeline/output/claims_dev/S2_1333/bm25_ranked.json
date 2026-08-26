@@ -1,0 +1,105 @@
+{
+  "claim": {
+    "id": "S2/1333",
+    "text": "इन लक्षणों से करें पहचान, कहीं आप भी तो नहीं हो रहे लॉन्ग कोविड सिंड्रोम का शिकार",
+    "lang": "dev"
+  },
+  "ranked_evidence": [
+    {
+      "title": "12 Key Symptoms of Long COVID: Understanding Post-COVID Syndrome",
+      "url": "https://www.qualityinsights.org/quality-quest/12-key-symptoms-of-long-covid-understanding-post-covid-syndrome",
+      "snippet": "WOman dealing with sleep issues because of long covid.png? # 12 Key Symptoms of Long COVID: Understanding Post-COVID Syndrome. If you've had COVID-19 and continue experiencing symptoms weeks or months after your initial infection, you might be dealing with long COVID. Here's a comprehensive breakdown of the 12 most common symptoms to watch for. ## **What Is Long COVID?**. Long COVID describes ongoing symptoms that persist for at least four weeks after the initial COVID-19 infection. These symptoms may be entirely new, or continuations of symptoms from the acute phase. ## **The 12 Most Common Long COVID Symptoms**. **What it feels like:** Overwhelming tiredness that doesn't improve with rest and may worsen after even minor physical or mental activities. Many long COVID patients describe this fatigue as \"hitting a wall\" suddenly during the day or feeling completely drained after simple tasks like showering or preparing a meal. **What it feels like:** Sharp or dull pain in the chest, or a racing, pounding, or fluttering heart that may come and go.",
+      "bm25_score_raw": 1.7219909930124482,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Long COVID Symptoms 101",
+      "url": "https://www.nomihealth.com/blog/long-covid-symptoms-101",
+      "snippet": "Jul 8, 2022 — The most common physical symptoms are: Fatigue (13 to 87 percent of long COVID patients); Dyspnea (10 to 71 percent of long COVID patients) ...Read more",
+      "bm25_score_raw": 0.6050898062660183,
+      "bm25_score_norm": 0.35138964647397786,
+      "bm25_rank": 2
+    },
+    {
+      "title": "Long COVID Signs and Symptoms",
+      "url": "https://www.cdc.gov/long-covid/signs-symptoms/index.html",
+      "snippet": "A **.gov** website belongs to an official government organization in the United States. A **lock** (  ) or **https://** means you've safely connected to the .gov website. *   Health Care Provider Long COVID Resources. # Long COVID Signs and Symptoms. *   Long COVID can include a wide range of ongoing symptoms and conditions that can last months or even years. *   Long COVID symptoms and conditions can sometimes result in disability. Long COVID symptoms can last months or even years. People with Long COVID can have a wide variety of symptoms that can range from mild to severe and may be similar to symptoms from other chronic illnesses. Some people can experience health problems from different types and combinations of symptoms that may:. Some people with Long COVID have symptoms that are hard to explain or difficult to manage. Talk to your healthcare provider if you are experiencing symptoms that are hard to explain or that persist, or if you think you or your loved one might have Long COVID.",
+      "bm25_score_raw": 0.5748589673913818,
+      "bm25_score_norm": 0.3338338990877789,
+      "bm25_rank": 3
+    },
+    {
+      "title": "Post COVID-19 condition (long COVID): Symptoms and treatment - Canada.ca",
+      "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/symptoms/post-covid-19-condition.html",
+      "snippet": "# Post COVID-19 condition (long COVID): Symptoms and treatment. ## About long COVID condition. Long COVID occurs when a person has symptoms, or develops new symptoms, 3 months after being infected with COVID-19. You can show symptoms of long COVID even if you:. Long COVID can affect both adults and children and is **not** COVID-19. As of June 2023, 19% of adults in Canada who got COVID-19 experienced longer-term symptoms 3 or more months after infection. However, there are several tools available to help you make informed decisions about testing and diagnosis of long COVID. If you're diagnosed with long COVID and are unable to work, you may be eligible for disability benefits or employment insurance (EI). * Diagnosis of post COVID-19 condition. * Testing, identification, and diagnosis related to post COVID-19 condition (PDF). Depending on your long COVID symptoms and medical history, you and your health care provider can decide together about what treatments are right for you.",
+      "bm25_score_raw": 0.5342695198259003,
+      "bm25_score_norm": 0.31026266803594027,
+      "bm25_rank": 4
+    },
+    {
+      "title": "Long COVID Patient Symptoms and its Evaluation and ... - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9107834",
+      "snippet": "by DS Shrestha · 2021 · Cited by 12 — Fatigue and pain/ache are the most common persistent symptoms, but practically all of the symptoms inquired about have been more common in COVID-infected ...Read more",
+      "bm25_score_raw": 0.385770723491231,
+      "bm25_score_norm": 0.2240259821663552,
+      "bm25_rank": 5
+    },
+    {
+      "title": "Abhishek Kumar & Isha Malviya - Ni Tu Baar Baar (LYRICS)",
+      "url": "https://www.youtube.com/watch?v=GYeCOIDCK9g",
+      "snippet": "Singer,, Lyrics and Composer: Akhil Sachdeva Music production: Ishaan. Ni Tu Baar Baar (LYRICS)- Akhil Sachdeva | Full song |Abhishek Kumar &",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6
+    },
+    {
+      "title": "Ni Lyrics",
+      "url": "https://www.jiosaavn.com/lyrics/ni-lyrics/KAAIdxhhUWk",
+      "snippet": "Ni is a chinese song released in 2021. song from the album Ni. Ni is composed by 胡宸. Ni is sung by 十豆彡. The duration of the song Ni is 3:28 minutes. You",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 7
+    },
+    {
+      "title": "Ishaan Arora - Ni Tu Baar Baar (LYRICS)- Akhil Sachdeva",
+      "url": "https://www.youtube.com/watch?v=gftwkiwB1GY",
+      "snippet": "Ni Tu Baar Baar featuring Abhishek kumar &amp; Isha malviya. ,Lyrics and Composer : Akhil Sachdeva Music production : Ishaan Arora Guitars and",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 8
+    },
+    {
+      "title": "Ni Tu Baar Baar - Akhil Sachdeva | Abhishek Kumar & Isha ...",
+      "url": "https://www.dailymotion.com/video/x9ohfko",
+      "snippet": "Aug 9, 2025 — Baar Baar - Akhil Sachdeva | Abhishek Kumar & Isha. Top album music Romantic song Sad song Broken heart song Heart touching song. Romantic Song",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 9
+    },
+    {
+      "title": "Kudiye Ni Video Song | Feat. Aparshakti Khurana & Sargun ...",
+      "url": "https://www.youtube.com/watch?v=uP7uhlDrlD4",
+      "snippet": "-Series Presents latest Hindi Video Song of 2019 \"Kudiye Ni\", In the voice of \"Aparshakti Khurana & Neeti Mohan\", the song composed and are",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10
+    },
+    {
+      "title": "Akhil Sachdeva | Abhishek kumar & Isha malviya| Ishaan ...",
+      "url": "https://www.youtube.com/watch?v=mdea6erCVdc",
+      "snippet": "Ni Tu Baar Baar featuring Abhishek kumar &amp; Isha malviya. Composer : Akhil Sachdeva Singer : Akhil Sachdeva. Music production : Ishaan Arora",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11
+    },
+    {
+      "title": "Symptoms of COVID-19",
+      "url": "https://www.cdc.gov/covid/signs-symptoms/index.html",
+      "snippet": "Image 1An official website of the United States government. A **.gov** website belongs to an official government organization in the United States. A **lock** (  ) or **https://** means you've safely connected to the .gov website. About COVID-19SymptomsPeople with Certain Medical Conditions and COVID-19COVID-19 VaccinesTestingTreatmentHow to Protect Yourself and OthersTools and ResourcesView Menu. # Symptoms of COVID-19. *   People with COVID-19 have a wide range of symptoms ranging from mild symptoms to severe illness. *   Symptoms may start as mild, and some people will progress to more severe symptoms. Symptoms may change with new COVID-19 variants and can vary depending on vaccination status. Notify the operator that you are seeking care for someone who has or may have COVID-19. COVID-19 is caused by infection with a coronavirus named SARS-CoV-2, and flu is caused by infection with one of the influenza viruses. You cannot tell the difference between flu and COVID-19 by symptoms alone because some of the symptoms are the same.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12
+    }
+  ]
+}

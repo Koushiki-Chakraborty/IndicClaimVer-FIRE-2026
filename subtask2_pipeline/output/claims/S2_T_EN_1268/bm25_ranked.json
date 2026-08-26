@@ -1,0 +1,57 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1268",
+    "text": "Genital Reconstructive Surgery Without Consent Does Not Violate Child's Rights : Kerala High Court Permits Sex Selective Surgeries Without Regulation",
+    "lang": "english"
+  },
+  "ranked_evidence": [
+    {
+      "title": "'Would violate child's dignity, privacy': Kerala HC refuses to ...",
+      "url": "https://indianexpress.com/article/cities/thiruvananthapuram/herala-high-court-genital-reconcstructive-surgery-7-year-old-8883600",
+      "snippet": "The Kerala High Court directed the government to form a state-level multidisciplinary committee to examine the child within two months,",
+      "bm25_score_raw": 4.139161189198305,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Child's gender reconstruction surgery without their consent ...",
+      "url": "https://theprint.in/judiciary/childs-gender-reconstruction-surgery-without-their-consent-infringes-right-to-privacy-kerala-hc/1707720",
+      "snippet": "HC disposes of writ petition filed by couple seeking nod for genital reconstructive surgery on 7-year-old who suffers from genetic disorder,",
+      "bm25_score_raw": 2.5291680640636534,
+      "bm25_score_norm": 0.6110339627903006,
+      "bm25_rank": 2
+    },
+    {
+      "title": "Kerala High Court to government",
+      "url": "https://www.scconline.com/blog/post/2023/08/09/kerala-high-court-scope-genital-reconstructive-surgery-children",
+      "snippet": "“Issue an order to regulate sex-selective surgeries on infants and children within 3 months”; Kerala High Court to government. In the meantime,",
+      "bm25_score_raw": 2.150467726320718,
+      "bm25_score_norm": 0.5195419139347971,
+      "bm25_rank": 3
+    },
+    {
+      "title": "'Genital Reconstructive Surgery Without Consent Violates ...",
+      "url": "https://www.vidhikritlegal.com/genital-reconstructive-surgery-without-consent-violates-childs-rights-kerala-high-court-calls-for-regulating-sex-selective-surgeries",
+      "snippet": "HomeUncategorized'Genital Reconstructive Surgery Without Consent Violates Child's Rights' : Kerala High Court Calls For Regulating Sex Selective Surgeries.",
+      "bm25_score_raw": 1.5593277394088403,
+      "bm25_score_norm": 0.3767255412710466,
+      "bm25_rank": 4
+    },
+    {
+      "title": "'CR' IN THE HIGH COURT OF KERALA AT ERNAKULAM ...",
+      "url": "https://images.assettype.com/barandbench/2023-08/9b31321b-ab58-498e-8778-ec33d7b9cf60/xxxx___Anr__v_The_Health_Secretary___Ors_.pdf",
+      "snippet": "The child is undergoing treatment and the doctors have advised genital. Neutral Citation Number :2023:KER:45848. Page 3. W.P.(C) No.19610 of",
+      "bm25_score_raw": 1.4363667319204096,
+      "bm25_score_norm": 0.3470187959021265,
+      "bm25_rank": 5
+    },
+    {
+      "title": "'Genital Reconstructive Surgery Without Consent Violates ...",
+      "url": "https://www.livelaw.in/high-court/kerala-high-court/genital-reconstructive-surgery-sex-selective-surgery-on-children-state-committee-234662",
+      "snippet": "The Committee is to comprise of a Pediatrician/Pediatric Endocrinologist, Pediatric Surgeon and Child Psychiatrist/Child Psychologist. The",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6
+    }
+  ]
+}

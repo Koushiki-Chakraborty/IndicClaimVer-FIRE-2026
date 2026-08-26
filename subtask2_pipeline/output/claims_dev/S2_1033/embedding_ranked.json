@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/1033",
+    "text": "আন্দোলনের নামে ধুন্ধুমার! অন্তঃসত্ত্বা মহিলাকে হাসপাতালে ঢুকতে সাহায্য করল বিজেপি - Barasat BJP Squabble",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Bharatiya Janata Party - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bharatiya_Janata_Party",
+      "snippet": "# Bharatiya Janata Party. | Lok Sabha Leader | Narendra Modi (Leader of the House in Lok Sabha) |. The **Bharatiya Janata Party** (**BJP**) is a right-wing to far-right political party in India and one of the two major Indian political parties alongside the Indian National Congress. The party's origins lie in the Bharatiya Jana Sangh, which was founded in 1951 by Indian politician Shyama Prasad Mukherjee, after he left the Hindu Mahasabha to form a party as the political wing of the RSS. Following victories in several state elections and better performances in national elections, the BJP became the largest political party in the Parliament in 1996; however, it lacked a majority in the lower house of Parliament, and its government, under its then-leader Atal Bihari Vajpayee, lasted for only 13 days. Modi has since led the NDA government as India's prime minister, including being re-elected with a sole majority in the 2019 general election and with a coalition in the 2024 general election.",
+      "bm25_score_raw": 0.172243109158673,
+      "bm25_score_norm": 0.08407739972697191,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.8231545686721802,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Bharatiya Janata Party (BJP)",
+      "url": "https://www.bjp.org",
+      "snippet": "BJP is devoutly committed to building a strong and developed India which is unimaginable without the trust and the unflinching support of the people of India.",
+      "bm25_score_raw": 0.40242834961113333,
+      "bm25_score_norm": 0.19643821675647657,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8131756782531738,
+      "embedding_score_norm": 0.7900235539646665,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Who was Dhundhumar? - Indian Mythology",
+      "url": "https://open.spotify.com/episode/1msLPH1VSkBm6K2hPY17HO",
+      "snippet": "Listen to this episode from Indian Mythology on Spotify. It's a lovely story from epic Mahabharat. It has several byplay which makes it more interesting.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.8126236200332642,
+      "embedding_score_norm": 0.7784071098357243,
+      "embedding_rank": 3
+    },
+    {
+      "title": "বিজেপি | BJP Politics News | প্রথম আলো",
+      "url": "https://www.prothomalo.com/topic/%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%87%E0%A6%AA%E0%A6%BF",
+      "snippet": "খুঁজুন#### ই-পেপারEng. # বিজেপি. ### উত্তাল দিল্লি. ### মতামত দম্ভের কারণেই কি ‘ককরোচদের’ বুঝছে না মোদি সরকার? ### ককরোচ জনতা পার্টির সংসদ অভিমুখী মার্চে পুলিশের লাঠিপেটা. ### বিজেপির ‘ডাবল ইঞ্জিন’ সরকার ফিরিয়ে আনবে সোনার বাংলা: অমিত শাহ. ### বিজেপির জালে কি এবার শারদ পাওয়ারের এনসিপি. ### মতামত রামমন্দিরের কেলেঙ্কারি: বিজেপির হিন্দুত্ববাদী রাজনীতি কি সংকটের মুখে. ### আমির খানের বিয়ে ঘিরে রাজনৈতিক বিতর্ক, বিজেপির পর কটাক্ষ শিবসেনা মন্ত্রীর. ### নারীদের দান-খয়রাতের প্রতিশ্রুতি থেকে রাজ্যে রাজ্যে হঠাৎ কেন পিছিয়ে যাচ্ছে বিজেপি. ### পূর্ণাঙ্গ রাজ্যের দাবি কি ট্রাম্পের কাছে জানাব: মোদি সরকারকে ওমর আবদুল্লাহর প্রশ্ন. ### গণপিটুনিতে এক ব্যক্তিকে হত্যার ঘটনায় গোরক্ষকদের সাজা দিয়ে বিপাকে বিচারক. ### পশ্চিমবঙ্গে সোমবার থেকে কার্যকর হচ্ছে ‘গুন্ডা দমন আইন’: শুভেন্দু. ### শুভেন্দুর সঙ্গে প্রসেনজিৎ চট্টোপাধ্যায়ের দুই ঘণ্টার বৈঠক, রাজনৈতিক মহলে গুঞ্জন. ### পশ্চিমবঙ্গে ‘এনকাউন্টার’ শুরু করে কি যোগী হতে চলেছেন শুভেন্দু. ### শিশুকে ধর্ষণ–হত্যা তৃণমূলের বিক্ষোভে বিজেপির বাধা, সংঘর্ষে আহত ১৫. ### শুভেন্দুকে শুভেচ্ছা জানিয়ে মমতা বললেন, ‘অত্যাচার করবেন না, এটা একদিন ফিরে আসতে পারে’.",
+      "bm25_score_raw": 0.9853132520093691,
+      "bm25_score_norm": 0.48096307916247893,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8122968673706055,
+      "embedding_score_norm": 0.7715315595534028,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Bjp News, বিজেপির খবর, Bhartiya Janta Party, ভারতীয় জনতা ...",
+      "url": "https://bengali.oneindia.com/topic/bjp",
+      "snippet": "BJP News- রাজ্য ও কেন্দ্রীয় বিজেপির সমস্ত লেটেস্ট আপডেট, অন্দরের খবর, এক্সক্লুসিভ খবর পড়ুন। ভারতীয় জনতা পার্টি সম্পর্কিত সমস্ত সাম্প্রতিক আপডেট খবর জানতে চোখ রাখুন এখানে।Read more",
+      "bm25_score_raw": 0.5075325323264255,
+      "bm25_score_norm": 0.24774294776310066,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8113195896148682,
+      "embedding_score_norm": 0.7509676189425047,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Feludar Goyendagiri - Dhundhumar Darjeeling",
+      "url": "https://www.imdb.com/title/tt20765882/fullcredits",
+      "snippet": "\"Feludar Goyendagiri\" Dhundhumar Darjeeling (TV Episode 2022) - Cast and crew credits, including actors, actresses, directors, writers and more.",
+      "bm25_score_raw": 1.7726935815735092,
+      "bm25_score_norm": 0.865308734726173,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.7995253801345825,
+      "embedding_score_norm": 0.5027931139143981,
+      "embedding_rank": 6
+    },
+    {
+      "title": "BJP - Bharatiya Janata Party (@bjp4india)",
+      "url": "https://www.instagram.com/bjp4india?hl=bn",
+      "snippet": "9M followers · 4 following · 19632 posts · @bjp4india: “Bharatiya Janata Party, the world's largest political party, on a mission to empower 1.4 Billion",
+      "bm25_score_raw": 0.39862321375419035,
+      "bm25_score_norm": 0.19458080759786164,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.7964481115341187,
+      "embedding_score_norm": 0.438041032561663,
+      "embedding_rank": 7
+    },
+    {
+      "title": "Dhundar Meaning",
+      "url": "https://www.instagram.com/popular/dhundar-meaning",
+      "snippet": "Watch short videos about dhundar meaning from people around the world.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.7957714796066284,
+      "embedding_score_norm": 0.42380330056514465,
+      "embedding_rank": 8
+    },
+    {
+      "title": "‎Dhundhumar Darjeeling - Feludar Goyendagiri (Series 1, ...",
+      "url": "https://tv.apple.com/gb/episode/dhundhumar-darjeeling/umc.cmc.3viqq12kj8df8j527a7n9oidr",
+      "snippet": "Dhundhumar Darjeeling. Feluda, Topshe and Lalmohan reach Darjeeling on Pulak Ghoshal's invitation. The trio umdar during a stroll in the Darjeeling Mall.",
+      "bm25_score_raw": 1.2955986588325392,
+      "bm25_score_norm": 0.6324233628646566,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.7800197601318359,
+      "embedding_score_norm": 0.09235461885972723,
+      "embedding_rank": 9
+    },
+    {
+      "title": "\"Feludar Goyendagiri\" Dhundhumar Darjeeling (TV ...",
+      "url": "https://www.imdb.com/title/tt20765882",
+      "snippet": "Dhundhumar Darjeeling Episode aired Jun 17, 2022. Feluda, Topshe and Lalmohan reach Darjeeling on Pulak Ghoshal's invitation. The trio meet Birupakkho Majumdar",
+      "bm25_score_raw": 1.7275666736630937,
+      "bm25_score_norm": 0.8432808400059782,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.7797713279724121,
+      "embedding_score_norm": 0.08712709358123108,
+      "embedding_rank": 10
+    },
+    {
+      "title": "Dhundhar - Extended Timeline Wiki - Fandom",
+      "url": "https://extended-timeline.fandom.com/wiki/Dhundhar",
+      "snippet": "Dhundhar, at its start, is a Hindu Rajasthani rajput kingdom located in the Jaipur area, Western India region, India subcontinent of the Asia continent.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.778700590133667,
+      "embedding_score_norm": 0.06459655996729034,
+      "embedding_rank": 11
+    },
+    {
+      "title": "ভারতীয় জনতা পার্টি - উইকিপিডিয়া",
+      "url": "https://bn.wikipedia.org/wiki/%E0%A6%AD%E0%A6%BE%E0%A6%B0%E0%A6%A4%E0%A7%80%E0%A6%AF%E0%A6%BC_%E0%A6%9C%E0%A6%A8%E0%A6%A4%E0%A6%BE_%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%9F%E0%A6%BF",
+      "snippet": "উইকিপিডিয়া একটি মুক্ত বিশ্বকোষ. - ১.৩.২ বাবরি মসজিদ ধ্বংস ও হিন্দুত্ব আন্দোলন. + ৩.১ সামাজিক নীতি ও হিন্দুত্ব. বিজেপির উৎস ১৯৫১ সালে শ্যামাপ্রসাদ মুখোপাধ্যায় কর্তৃক প্রতিষ্ঠিত ভারতীয় জনসংঘ দলটি। ১৯৭৭ সালে জরুরি অবস্থার পর জনসংঘ একাধিক রাজনৈতিক দলের সঙ্গে মিশে জনতা পার্টি গঠন করে। ১৯৭৭ সালের সাধারণ নির্বাচনে জনতা পার্টি ক্ষমতাসীন ভারতীয় জাতীয় কংগ্রেসকে পরাজিত করে সরকার গঠন করে। ১৯৮০ সালে জনতা পার্টি অবলুপ্ত হলে জনসংঘের প্রাক্তন সদস্যরা বিজেপি গঠন করেন। প্রথম দিকে বিজেপি রাজনৈতিক ক্ষেত্রে ব্যর্থ হয়েছিল। ১৯৮৪ সালের সাধারণ নির্বাচনে বিজেপি মাত্র দুটি আসনে জয় লাভ করেছিল। কিন্তু রাম জন্মভূমি আন্দোলনের সময় আবার এই দলের শক্তি বৃদ্ধিপায়। একাধিক রাজ্য নির্বাচনে জয় লাভ এবং জাতীয় স্তরের নির্বাচনে ভাল ফল করার পর অবশেষে ১৯৯৬ সালে বিজেপি সংসদে বৃহত্তম দলে পরিণত হয়। যদিও সংসদের নিম্নকক্ষ লোকসভায় সংখ্যাগরিষ্ঠতা অর্জন করতে না পারায় এই দলের সরকার মাত্র ১৩ দিন স্থায়ী হয়েছিল।.",
+      "bm25_score_raw": 2.048625548815797,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.7756307125091553,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

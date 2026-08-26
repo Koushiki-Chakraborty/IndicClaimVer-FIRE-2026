@@ -1,0 +1,6 @@
+{
+  "ID": "S2/T/EN/1077",
+  "Evidence": "India logged 3,275 new coronavirus infections in a day, as reported by Source 1. However, the evidence does not specify that 82% of these new infections are from three states, nor does it provide information about the distribution of cases across states. Source 2 reports a different number of fresh infections (9,355) and does not mention the claim about the three states. Source 3 does not provide relevant data regarding the number of cases or their distribution.",
+  "Prediction": "REFUTES",
+  "Justification": "The retrieved evidence confirms that India logged 3,275 new Covid cases, but it does not substantiate the claim that 82% of these infections are from three states. Source 1 provides the total number of cases but lacks details on state distribution. Therefore, the claim is not supported by the evidence."
+}

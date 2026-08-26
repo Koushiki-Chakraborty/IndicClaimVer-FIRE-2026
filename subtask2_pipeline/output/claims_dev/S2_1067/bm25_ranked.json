@@ -1,0 +1,57 @@
+{
+  "claim": {
+    "id": "S2/1067",
+    "text": "Delhi sees sharp decline in daily Covid cases with 50% fall in 4 days amid low testing",
+    "lang": "dev"
+  },
+  "ranked_evidence": [
+    {
+      "title": "Indian students skipping US? Arrivals down 50% in July-August",
+      "url": "https://www.indiatoday.in/world/us-news/story/indian-student-arrivals-us-universities-plunge-nearly-50-per-cent-july-august-optional-practical-training-programme-immigration-2797236-2025-10-03",
+      "snippet": "Immigration data showed a sharp decline of nearly 50% in the number of students arriving from India to US universities in July and August",
+      "bm25_score_raw": 3.3915959409860124,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Sensex sinks 1,680 points; Nifty closes below 23,900. 5 key factors behind today’s market mayhem",
+      "url": "https://m.economictimes.com/markets/stocks/news/why-is-market-falling-today-sensex-crashes-1300-points-nifty-slips-below-24k-key-factors-behind-this-meltdown/articleshow/132258210.cms",
+      "snippet": "The Indian stock market extended its losses on Wednesday, with the Sensex and Nifty plunging over 2% each to log the worst single-day fall",
+      "bm25_score_raw": 3.0932265829761256,
+      "bm25_score_norm": 0.8935584155752597,
+      "bm25_rank": 2
+    },
+    {
+      "title": "Post-Covid health & lifestyle changes drain Bengaluru’s blood banks",
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/post-covid-health-lifestyle-changes-drain-bengalurus-blood-banks/articleshow/130093936.cms",
+      "snippet": "Bengaluru: There has been a sharp decline of at least 50% in voluntary blood donations after the Covid-19 pandemic in the city over the past",
+      "bm25_score_raw": 2.8758300268013066,
+      "bm25_score_norm": 0.8160034211814888,
+      "bm25_rank": 3
+    },
+    {
+      "title": "Stock market crash: IRCTC, LG Electronics, Colgate among 145 stocks that hit 52-week low on NSE",
+      "url": "https://upstox.com/news/market-news/stocks/stock-market-crash-irctc-lg-electronics-colgate-among-145-stocks-that-hit-52-week-low-on-nse/article-187424",
+      "snippet": "NIFTY50 and SENSEX saw a sharp decline today amid renewed concerns around US tariffs and rising geopolitical concerns.",
+      "bm25_score_raw": 1.4116573772252614,
+      "bm25_score_norm": 0.2936680924743096,
+      "bm25_rank": 4
+    },
+    {
+      "title": "HDFC Bank stock crash: A look at its five biggest falls since 2020",
+      "url": "https://upstox.com/news/market-news/stocks/hdfc-bank-stock-crash-a-look-at-its-five-biggest-falls-since-2020/article-190937",
+      "snippet": "HDFC Bank shares saw a sharp decline today, falling over 8.5% to hit a 52-week low of ₹770 apiece. HDFC Bank, which has the highest",
+      "bm25_score_raw": 1.3612160218107607,
+      "bm25_score_norm": 0.27567342362941766,
+      "bm25_rank": 5
+    },
+    {
+      "title": "Coronavirus: Is the epidemic finally coming to an end in India?",
+      "url": "https://www.bbc.com/news/world-asia-india-56037565",
+      "snippet": "# Coronavirus: Is the epidemic finally coming to an end in India? Reuters A man walks past a graffiti of a girl wearing a protective mask amidst the spread of the coronavirus disease (COVID-19) on a street in Navi Mumbai, India January 21, 2021.Reuters. Case numbers and deaths have been swiftly dropping in India. **Is the sharp drop in India's coronavirus cases as** dramatic **and** curious **as some believe?**. Is the epidemic firmly in retreat in a country where many early modellers had predicted millions of deaths due to Covid-19? Cases had hit a record peak in the middle of September - there were more than a million active cases. So far, India has recorded more than 10 million infections - the second-highest in the world after the US. It is also clear that the decline in cases is not because of lower testing. Also, it has seen a high proportion of cases and deaths of people above the age of 65 living in densely packed cities, hewing to infection trends around the world.",
+      "bm25_score_raw": 0.5884682008042659,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/BN/1134",
+    "text": "লকডাউনে অসুস্থ শিশুকে হাসপাতাল নিয়ে যেতে নাজেহাল বাবা-মা, পাশে দাঁড়াল কলকাতা পুলিশ",
+    "lang": "bengali"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Police raid home to take unvaccinated child to the hospital; lawmaker says, ' ...",
+      "url": "https://myfox8.com/news/police-raid-home-to-take-unvaccinated-child-to-the-hospital-lawmaker-says-that-was-excessive/amp",
+      "snippet": "The incident took place last month when a couple would not take their sick child to the hospital and they refused to let police check the child",
+      "bm25_score_raw": 6.9976477892823095,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8781694769859314,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "3 Chilling Calls To Kolkata Doctor's Parents | Kolkata RG Kar Rape Case",
+      "url": "https://www.youtube.com/watch?v=ApHoE5cuvaU",
+      "snippet": "Their voices capture the shock and confusion two elderly parents endured long before reaching the hospital to find their daughter's brutalised",
+      "bm25_score_raw": 2.6913663514902284,
+      "bm25_score_norm": 0.38461014794319326,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.862673282623291,
+      "embedding_score_norm": 0.8731059210208417,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Parents taken from their six-year-old's hospital bedside by police call for ...",
+      "url": "https://www.youtube.com/watch?v=Vs93sB7SQlk",
+      "snippet": "The couple who were taken from their daughter's hospital bedside by police, after they were told her life support would end, have told this",
+      "bm25_score_raw": 3.349443689581242,
+      "bm25_score_norm": 0.4786527974030494,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8522992730140686,
+      "embedding_score_norm": 0.788156005972221,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Why is Police not ready for Medical Examination of 3 yo victim at AIIMS ? ...",
+      "url": "https://www.facebook.com/saurabh.bharadwaj1/posts/why-is-police-not-ready-for-medical-examination-of-3-yo-victim-at-aiims-who-is-s/10161983281456626",
+      "snippet": "“Police denied entry inside hospitals, even after Junior doctors requested them” Shame on Kolkata Police. They should be suspended.",
+      "bm25_score_raw": 0.7136677673949325,
+      "bm25_score_norm": 0.10198680883710604,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8484296798706055,
+      "embedding_score_norm": 0.7564689706606587,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Abhishek Banerjee",
+      "url": "https://www.facebook.com/AbhishekBanerjeeOfficial/posts/there-are-some-feelings-you-dont-need-words-for-when-you-see-relief-on-a-mothers/1510540350434491",
+      "snippet": "a family's young daughter, who has been battling thalassemia, fell seriously ill. Hospital, Kolkata, anxious parents sit by the bedsides of",
+      "bm25_score_raw": 1.2897761060423514,
+      "bm25_score_norm": 0.18431566504644456,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8454678654670715,
+      "embedding_score_norm": 0.7322154860922316,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Mom refuses to take unvaccinated toddler with fever to hospital, causing ...",
+      "url": "https://www.washingtonpost.com/nation/2019/03/29/mom-refused-take-her-unvaccinated-toddler-hospital-fever-armed-police-officers-tore-down-door",
+      "snippet": "Police removed a sick child, whose mother didn't want to take him to the emergency room because he was unvaccinated, after a doctor contacted authorities.",
+      "bm25_score_raw": 2.274280681413603,
+      "bm25_score_norm": 0.32500645215338236,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8425378799438477,
+      "embedding_score_norm": 0.7082226394815745,
+      "embedding_rank": 6
+    },
+    {
+      "title": "কলকাতায় সব থেকে কম দামের ডোর লক একমাত্র এখানেই/Hardware item ...",
+      "url": "https://www.youtube.com/watch?v=HmCw27GTvNU",
+      "snippet": "অল্প দামে হার্ডওয়ার উপকরনের সেরা ঠিকানা/Wholesale hardware market in Kolkata/Door lock/Hasbolt &middot; All Types of Handles for Furniture, Door, Window & Wardrobe",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.7859707474708557,
+      "embedding_score_norm": 0.2450099301109566,
+      "embedding_rank": 7
+    },
+    {
+      "title": "কলকাতার সেরা দরজার লক প্রস্তুতকারক/Top Hardware Item ...",
+      "url": "https://www.youtube.com/watch?v=tlgvCY-gwNo",
+      "snippet": "কলকাতার সেরা দরজার লক প্রস্তুতকারক/Top Hardware Item Manufacturer in Kolkata/Home security locks De_ সুপ্রিয় দর্শক বন্ধু আজ আমাদের উপস্থাপনা কলকাতার চাঁদনীচকের অন্তর্গত",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.7851231098175049,
+      "embedding_score_norm": 0.23806885820562967,
+      "embedding_rank": 8
+    },
+    {
+      "title": "হার্ডওয়্যার আইটেম ম্যানুফ্যাকচারার কলকাতা/Hardware item ...",
+      "url": "https://www.youtube.com/watch?v=PZ9szyhaZ8s",
+      "snippet": "হার্ডওয়্যার আইটেম ম্যানুফ্যাকচারার কলকাতা/Hardware item wholsaler in Kolkata/Modern Door Lock সুপ্রিয় দর্শক বন্ধু আজ আমাদের উপস্থাপনা কলকাতায় সব থেকে সস্তায় পাইকারি হার্ডওয়ারের",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.7792675495147705,
+      "embedding_score_norm": 0.19011928335299508,
+      "embedding_rank": 9
+    },
+    {
+      "title": "Ramson লক ডিলাররা - কোলকাটা",
+      "url": "https://www.justdial.com/bn/Kolkata/Lock-Dealers-Ramson/nct-10303052",
+      "snippet": "মানুষজন প্রায়শই ব্যবহার করুন আ বৈচিত্র্য থেকে শর্তাবলী ভেন খোঁজাখুঁজি এর জন্য রামসন লক ডিলাররা এর মধ্যে কলকাতা, নির্ভরশীল উপর থেইর পরিচিতি অথবা পছন্দ. এর জন্য উদাহরণ, কিছু কিছু হতে পারে ব্যবহার করুন দ্য অফিসিয়াল অথবা ...Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.7609582543373108,
+      "embedding_score_norm": 0.040189494533192045,
+      "embedding_rank": 10
+    },
+    {
+      "title": "বাজেট বিবৃতি",
+      "url": "https://www.kmcgov.in/KMCPortal/downloads/KMC_Budget_Bengali_2018_2019.pdf",
+      "snippet": "Mar 10, 2018 — নাগরিকদের যথাযথ পরিষেবা দেওয়া ও কলকাতা শহরের পরিকাঠামোর উন্নয়নের লক্ষ্যে ... • ১ নম্বর বরোর ৬ ওয়ার্ডে লক গেট রোডে বি টি রোড ক্রসিং থেকে ২৫ লক গেট.Read more",
+      "bm25_score_raw": 2.285664548719093,
+      "bm25_score_norm": 0.32663326556958855,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.7592852711677551,
+      "embedding_score_norm": 0.026489894910189726,
+      "embedding_rank": 11
+    },
+    {
+      "title": "ONLY - Kolkata - City Centre Salt Lake, Sector 1, Bidhannagar | Contact store - Official",
+      "url": "https://stores.only.in/only-kolkata-city-centre-salt-lake-clothing-accessories-store-sector-1-bidhannagar-kolkata-480768/Contact-Us",
+      "snippet": "# ONLY - Kolkata - City Centre Salt Lake. Ground Floor, City Centre, DC Block, Salt Lake. Opens at 10:30 AM. * Tue 10:30 AM - 10:30 PM. ## Contact Us. ### Discover More With Us. Tell us about your experience. Tell us about your experience. Scan this QR code to discover more with us. Click on QR code to enlarge. ONLY India Wearable moodboards Not just jeans Elevated casualwear Live in denim Weekend denim looks Effortlessly cool outfits Jeans for every moment Denim for bold expression “Only thing I want is everything” ONLY Studio Everyday dresses Co-ord sets Y2K inspired denim Denim street style Off-duty looks Instagram-worthy outfits Edgy tops Graphic t-shirts Everyday essentials Not your basic shirtS Statement denim pieces The ONLY Fit Cool girl outfits Travel style Festival-ready denim Concert outfit ideas Casual fits Trendy outfits Denim for Gen Z. ### Discover more with us. ### Scan the QR code to rate us on. Thank you for banking with us.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.7560503482818604,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

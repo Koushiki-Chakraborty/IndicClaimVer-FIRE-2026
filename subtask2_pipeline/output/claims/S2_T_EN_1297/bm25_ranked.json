@@ -1,0 +1,57 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1297",
+    "text": "Video shows Congress worker in Amethi telling Priyanka he would shoot Kumar Vishwas, Police files FIR",
+    "lang": "english"
+  },
+  "ranked_evidence": [
+    {
+      "title": "Video shows Congress worker in Amethi telling Priyanka ...",
+      "url": "https://www.indiatvnews.com/politics/national/video-shows-congress-worker-in-amethi-telling-priyanka-he-would-16753.html",
+      "snippet": "Apr 18, 2014 — Amethi: Aam Aadmi Party workers sat on a dharna outisde the Gauriganj police station today after local police refused to file an FIR",
+      "bm25_score_raw": 3.519201342841887,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Kumar Vishwas says he feels a 'threat to his life' from the Congress",
+      "url": "https://www.business-standard.com/article/news-ani/kumar-vishwas-says-he-feels-a-threat-to-his-life-from-the-congress-114041800739_1.html",
+      "snippet": "Aam Aadmi Party (AAP) leader Kumar Vishwas on Friday said that he fears there is a threat to his life after a Congress worker was seen in a video telling",
+      "bm25_score_raw": 3.390570636726201,
+      "bm25_score_norm": 0.9250737528243075,
+      "bm25_rank": 2
+    },
+    {
+      "title": "Kumar Vishwas, Congress worker booked in Amethi",
+      "url": "https://indianexpress.com/article/cities/lucknow/vishwas-cong-worker-booked",
+      "snippet": "Apr 19, 2014 — AAP leader sat on protest outside Gauriganj police station, sought FIRs against Priyanka, Rahul Gandhi.",
+      "bm25_score_raw": 2.689851553722209,
+      "bm25_score_norm": 0.5169110924509519,
+      "bm25_rank": 3
+    },
+    {
+      "title": "AAP's Kumar Vishwas alleges 'death threat' in Amethi, FIR ...",
+      "url": "https://www.ndtv.com/elections-news/aaps-kumar-vishwas-alleges-death-threat-in-amethi-fir-filed-against-congress-worker-557808",
+      "snippet": "Apr 18, 2014 — Aam Aadmi Party's Kumar Vishwas says he fears a \"threat to his life\" after a Congress worker was seen on a video talking to Priyanka Gandhi",
+      "bm25_score_raw": 2.215415924839613,
+      "bm25_score_norm": 0.24055654016666195,
+      "bm25_rank": 4
+    },
+    {
+      "title": "AAP's Kumar Vishwas alleges threat to life; files application for ...",
+      "url": "https://m.economictimes.com/news/politics-and-nation/aaps-kumar-vishwas-alleges-threat-to-life-files-application-for-fir-against-priyanka-gandhi/articleshow/33903491.cms",
+      "snippet": "When asked about it, Vishwas said that on April 15 during Priyanka Gandhi's tour, a video of Congress worker Vinod Mishra had been \"leaked\" in which he",
+      "bm25_score_raw": 2.0926850688003347,
+      "bm25_score_norm": 0.169066903412177,
+      "bm25_rank": 5
+    },
+    {
+      "title": "Kumar Vishwas and AAP workers attacked in Jagdishpur ...",
+      "url": "https://www.facebook.com/AamAadmiParty/posts/kumar-vishwas-and-aap-workers-attacked-in-jagdishpur-amethia-group-of-congress-w/482567418509690",
+      "snippet": "Kumar Vishwas and AAP workers attacked in Jagdishpur-Amethi A group of Congress workers attacked Dr. Kumar Vishwas and Aaam Aadmi Party",
+      "bm25_score_raw": 1.8024370450910139,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6
+    }
+  ]
+}

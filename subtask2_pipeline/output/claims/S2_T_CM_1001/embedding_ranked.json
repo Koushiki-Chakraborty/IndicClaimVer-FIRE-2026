@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/CM/1001",
+    "text": "Public dusre parties ko sirf promises dekh ke vote kar deti hai, opposition ko mehnat karne ki zarurat nahi lagti, isliye woh aaram se power mein aa sakte hain.",
+    "lang": "codemix"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Why do we vote on promises instead of results? : r/Politiek",
+      "url": "https://www.reddit.com/r/Politiek/comments/1kgufyr/waarom_stemmen_we_op_beloften_in_plaats_van?tl=en",
+      "snippet": "Why do we vote on promises instead of results? \n\nI wondered: shouldn't we hold political parties more accountable for what they actually do? \n\nHere's",
+      "bm25_score_raw": 3.7988146062709083,
+      "bm25_score_norm": 0.7313343050488611,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8499477505683899,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Election promise - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Election_promise",
+      "snippet": "| The examples and perspective in this article **deal primarily with the United States and do not represent a worldwide view of the subject**. An **election promise** or **campaign promise** is a promise or guarantee made to the public by a candidate or political party that is trying to win an election. A 2017 study in the *American Journal of Political Science* found that for 12 countries (Austria, Bulgaria, Canada, Germany, Ireland, Italy, the Netherlands, Portugal, Spain, Sweden, the United Kingdom, and the United States) found that political parties fulfill their promises to voters to a considerable extent:. We found the highest percentages of pledge fulfillment for governing parties in the United Kingdom, Sweden, Portugal, Spain, and Canada, most of which governed in single-party executives. Other research on the United States suggests that Democratic and Republican congresspeople voted in line with their respective party platforms 74% and 89% of the time, respectively.",
+      "bm25_score_raw": 2.7871453243214876,
+      "bm25_score_norm": 0.48254375815784917,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8446120023727417,
+      "embedding_score_norm": 0.8979031825776541,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Politicians make many promises to gain votes, especially ...",
+      "url": "https://www.facebook.com/PNMTT/posts/politicians-make-many-promises-to-gain-votes-especially-targeting-young-people-w/1193794236110277",
+      "snippet": "Politicians make many promises to gain votes, especially targeting young people with offers of houses and jobs. It is important to question",
+      "bm25_score_raw": 1.5819491398679892,
+      "bm25_score_norm": 0.18616091527527004,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.8437116146087646,
+      "embedding_score_norm": 0.8806747224297307,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Public Right to a  Vote of No Confidence - Hansard - UK Parliament",
+      "url": "https://hansard.parliament.uk/commons/2026-03-02/debates/DC5D1535-7685-45F4-BFBE-3E1EFAD284C3/PublicRightToAVoteOfNoConfidence",
+      "snippet": "## Our use of cookies. We use essential cookies to make our site work. We'd like to use additional cookies to understand how you use the site and improve our services. You can find details of these and all other cookies on our cookie policy. *   Public Right to a Vote of No Confidence. I thank the more than 120,000 people across the United Kingdom who have signed this petition and secured today’s debate. Whatever views Members have on this proposal, the fact that so many people have taken the time to sign the petition demands that it is treated with seriousness and respect. The petition calls for the introduction of a mechanism that would allow the public to remove a Government who no longer command public support. “We voted for a party based on promises made before the general election, yet we feel none have been delivered—in fact, the opposite has happened.”.",
+      "bm25_score_raw": 4.891303183880447,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8393523693084717,
+      "embedding_score_norm": 0.7972627893317215,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Evaluating political parties' performance on campaign ...",
+      "url": "https://www.facebook.com/groups/809326172529351/posts/27283321538036454",
+      "snippet": "The question you, as a voter in the upcoming elections, have to ask yourself is whether the party you voted for delivered on its promises to",
+      "bm25_score_raw": 1.191411282552291,
+      "bm25_score_norm": 0.09011952226589497,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.8343052268028259,
+      "embedding_score_norm": 0.7006882944326276,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Every vote writes the country's next chapter. Not just ...",
+      "url": "https://www.instagram.com/reel/DX6Zbv_tNea",
+      "snippet": "Not just promises, but priorities. Not just slogans, but real choices. From dignity to development, from survival to growth the direction is ...Read more",
+      "bm25_score_raw": 0.8249538205639853,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.8308794498443604,
+      "embedding_score_norm": 0.6351378014495811,
+      "embedding_rank": 6
+    },
+    {
+      "title": "When the political parties make big promises but ...",
+      "url": "https://www.instagram.com/reel/Da2oTkNJ9fe",
+      "snippet": "Tum kuch bhi bol lo, is landslide ki wajah sirf BJP hi hai. Haan yaar sahi keh raha hai, jaise abhi tere Congress ruling state Kerala mein ...Read more",
+      "bm25_score_raw": 4.841580847167398,
+      "bm25_score_norm": 0.9877722418143394,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8203818798065186,
+      "embedding_score_norm": 0.43427215857573803,
+      "embedding_rank": 7
+    },
+    {
+      "title": "Dim Views of Republican, Democratic Parties Ahead of Midterms | Pew Research Center",
+      "url": "https://www.pewresearch.org/politics/2025/10/30/a-year-ahead-of-the-midterms-americans-dim-views-of-both-parties",
+      "snippet": "## Democrats’ frustration with their own party is up sharply, as many say it hasn’t pushed back hard enough against Trump and the GOP. * How Americans feel about the Republican and Democratic parties (Chapter 1). Pew Research Center conducted this study to better understand how Americans feel about the Republican and Democratic parties. This analysis seeks to examine the public’s feelings about the behavior of party leaders, party issues and how well each of the major parties represent Americans. * 39% of Americans describe the Republican Party as governing ethically and honestly – and about the same share (42%) say this about the Democratic Party. In contrast, Republican frustration with the GOP is far lower than in 2021: 40% of Republicans and Republican leaners say they are frustrated with their party. Today, 38% of Americans say they agree with the Republican Party on policies to deal with the economy, while nearly as many (35%) agree with the Democratic Party – a narrow 3 percentage point advantage. How Americans feel about the Republican and Democratic parties.",
+      "bm25_score_raw": 3.8751781454389693,
+      "bm25_score_norm": 0.7501136897856856,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8139077425003052,
+      "embedding_score_norm": 0.3103928467561202,
+      "embedding_rank": 8
+    },
+    {
+      "title": "From Pledge to Poll: Investigating the Impact of Campaign ...",
+      "url": "https://journals.sagepub.com/doi/10.1177/00104140251342928",
+      "snippet": "May 24, 2025 — Political parties regularly make campaign promises to attract voters prior to elections. This paper explores whether such electoral pledges",
+      "bm25_score_raw": 2.382822565104582,
+      "bm25_score_norm": 0.3831123706670445,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8135493993759155,
+      "embedding_score_norm": 0.3035361340320824,
+      "embedding_rank": 9
+    },
+    {
+      "title": "What's your take on Campaign promises? How do you ...",
+      "url": "https://www.facebook.com/JoyfmRadioZambia/posts/whats-your-take-on-campaign-promises-how-do-you-decide-if-a-campaign-promises-is/1615980250543573",
+      "snippet": "... promises made to beguile and lure the voting public to love the promise makers. ... Its campaign season were political parties make campaign ...Read more",
+      "bm25_score_raw": 4.8710460513122715,
+      "bm25_score_norm": 0.9950183491977055,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8097068071365356,
+      "embedding_score_norm": 0.2300100934643393,
+      "embedding_rank": 10
+    },
+    {
+      "title": "Making Policies Matter: Voter Responses to Campaign Promises",
+      "url": "https://academic.oup.com/ej/article/134/661/1875/7595779",
+      "snippet": "by C Cruz · 2024 · Cited by 111 — Voters who received information about candidate policy promises were more likely to vote for candidates who were closer to their own preferences.Read more",
+      "bm25_score_raw": 2.2764321278122517,
+      "bm25_score_norm": 0.3569487462986849,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.7986034750938416,
+      "embedding_score_norm": 0.01755350391478151,
+      "embedding_rank": 11
+    },
+    {
+      "title": "Why all these promises? How parties strategically use ...",
+      "url": "https://www.cambridge.org/core/journals/european-journal-of-political-research/article/why-all-these-promises-how-parties-strategically-use-commitments-to-gain-credibility-in-an-increasingly-competitive-political-landscape/C214B941C18DCDE91D52CDB2B8C5CC62",
+      "snippet": "by MB Vestergaard · 2025 · Cited by 3 — Abstract. Political parties face inherent risks when making election promises, as voters tend to penalize them for unfulfilled commitments.Read more",
+      "bm25_score_raw": 1.5136123538649922,
+      "bm25_score_norm": 0.1693554763182832,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.7976861000061035,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

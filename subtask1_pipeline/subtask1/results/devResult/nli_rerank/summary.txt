@@ -1,0 +1,4 @@
+=== Dense retrieval + GPT-4o-mini veracity (data/ train+dev, NLI-reranked) ===
+Retrieval -- n=10  Success@3=0.4000  nDCG@3=0.2631
+Veracity  -- n=10  macro_F1=0.6970
+Confusion matrix ['REFUTES', 'SUPPORTS']: [[3, 1], [2, 4]]

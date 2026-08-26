@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/HI/1040",
+    "text": "कोविड-19 का थायरॉइड पर कोई असर नहीं पड़ता है, और इससे संबंधित कोई लक्षण सामने नहीं आए हैं।",
+    "lang": "hindi"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "COVID-19 infection and thyroid function",
+      "url": "https://www.thyroid.org/patient-thyroid-information/ct-for-patients/october-2020/vol-13-issue-10-p-3-5",
+      "snippet": "In the COVID-19 group, 13 of 85 (15%) patients had thyroid function tests showing hyperthyroidism, as compared with 1 of 78 (1%) in the control group. More men",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.8682914972305298,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Frontiers | Thyroid function during COVID-19 and post-COVID complications in adults: a systematic review",
+      "url": "https://www.frontiersin.org/journals/endocrinology/articles/10.3389/fendo.2024.1477389/full",
+      "snippet": "# Thyroid function during COVID-19 and post-COVID complications in adults: a systematic review. Emerging evidence suggests interactions between thyroid function, the acute phase of COVID-19, and the prolonged symptoms known as post-COVID sequalae or long COVID. Several studies have reported that COVID-19 can induce thyroid dysfunction, leading to conditions such as thyroiditis and alterations in thyroid hormone levels. The mechanisms through which SARS-CoV-2 affects the thyroid include direct viral infection of thyroid cells, leading to viral thyroiditis, which causes inflammation and transient or sustained thyroid dysfunction, as well as an excessive systemic immune response (cytokine storm). The involvement of the thyroid gland in long COVID, or postacute sequelae of SARS-CoV-2 infection, is an area not well defined, with potential implications for understanding and managing this condition. This review was designed to systematically capture recent literature on COVID-19-related thyroid dysfunction in the adult population, the prognostic consequences of thyroid dysfunction during COVID-19, and the effects of thyroid dysfunction on patients with long COVID.",
+      "bm25_score_raw": 1.4783273982359009,
+      "bm25_score_norm": 0.27191622398629783,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8651056885719299,
+      "embedding_score_norm": 0.9783742207796674,
+      "embedding_rank": 2
+    },
+    {
+      "title": "COVID-19 and thyroid function: What do we know so far? - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9806267",
+      "snippet": "by CL Rossetti · 2022 · Cited by 102 — In fact, abnormal thyroid function has been reported during SARS-CoV-2 infection or even several weeks after its resolution. Indeed, a variety of thyroid",
+      "bm25_score_raw": 1.7284410410861188,
+      "bm25_score_norm": 0.31792088940239277,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8632928133010864,
+      "embedding_score_norm": 0.9660681332011082,
+      "embedding_rank": 3
+    },
+    {
+      "title": "This Thyroid Disorder May Be A Marker For Covid-19 Infection",
+      "url": "https://www.forbes.com/sites/robertglatter/2020/05/25/this-thyroid-disorder-may-be-a-marker-for-covid-19-infection",
+      "snippet": "# This Thyroid Disorder May Be A Marker For Covid-19 Infection. While this case represents the first report of the condition known as subacute thyroiditis (SAT) as a possible marker of Covid-19 infection, the association of this particular illness in relation to SARS-CoV-2, the virus that causes Covid-19, makes clinical sense. SAT typically develops after an upper respiratory tract viral infection leading to neck pain, swelling of the thyroid gland (small butterfly-shaped gland in the front of your neck), along with systemic symptoms such as fever, fatigue, loss of appetite and muscle aches. In the case described by the authors, a 18 year old woman developed fever, neck pain radiating to the jaw, and palpitations 15 days after she tested positive for SARS-CoV-2, the virus that causes Covid-19.",
+      "bm25_score_raw": 0.7084198647406795,
+      "bm25_score_norm": 0.13030324327820567,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8583948612213135,
+      "embedding_score_norm": 0.9328200503248782,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Can COVID Cause Thyroid Issues? Exploring the Link\n– Blue Horizon Blood Tests",
+      "url": "https://bluehorizonbloodtests.co.uk/blogs/thyroid-health/can-covid-cause-thyroid-issues-exploring-the-link-and-your-recovery",
+      "snippet": "# Can COVID Cause Thyroid Issues? The question of whether COVID-19 can cause thyroid issues is one of growing importance for those experiencing \"mystery symptoms\" during their recovery. Because the symptoms of thyroid dysfunction—such as brain fog, weight changes, and temperature sensitivity—overlap significantly with what is commonly called \"Long COVID,\" it can be difficult to know where the virus ends and a hormonal imbalance begins. In this article, we will explore the scientific link between COVID-19 and the thyroid gland, the specific conditions that can be triggered by the virus, and how you can differentiate between post-viral fatigue and a thyroid condition. If you need a clearer next step, our thyroid blood tests collection can help you compare the available tiers. This begins with consulting your GP to rule out urgent concerns, followed by careful symptom tracking, and finally, considering structured blood testing if you need more data to guide your recovery.",
+      "bm25_score_raw": 2.692777288955968,
+      "bm25_score_norm": 0.4952961254203354,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8557806015014648,
+      "embedding_score_norm": 0.9150740368053777,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Manifestations of thyroid disease post COVID-19 illness",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2214624521000174",
+      "snippet": "by K Feghali · 2021 · Cited by 93 — We present three cases of thyroid dysfunction such as Hashimoto thyroiditis, Graves' disease and subacute thyroiditis which developed few weeks after",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.8497452139854431,
+      "embedding_score_norm": 0.8741048600852667,
+      "embedding_rank": 6
+    },
+    {
+      "title": "[video] How to Recover Suspended YouTube Channel",
+      "url": "https://support.google.com/youtube/community-video/291374467/how-to-recover-suspended-youtube-channel-suspended-youtube-channel-back?hl=hi",
+      "snippet": "Nov 14, 2023 — फ़ोरम की सेटिंग की वजह से इमेज नहीं दिख रही है. ouTube channel neural ID nahin mil raha hai iske liye YouTube channel mujhe wapas karva dijiye kajal _2024",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.7776412963867188,
+      "embedding_score_norm": 0.38465192363792466,
+      "embedding_rank": 7
+    },
+    {
+      "title": "Reel by Save_Ishmeet (@save_ishmeet_) · August 19, 2025",
+      "url": "https://www.instagram.com/reel/DNimkBrT1jH",
+      "snippet": "ॐ कृष्णाय वासुदेवाय हरये परमात्मने प्रणतः क्लेशनाशाय गोविंदाय नमो नमः म । मेरे पास अभी पैसा तो नही हे पर मेरे कृष्णा मेरी बात जरूर मानते हे वो इस बच्चे के साथ कुछ भी नही होने देंगे मुझे विस्वास हे वो ठीक हो",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.7748984098434448,
+      "embedding_score_norm": 0.366032770647948,
+      "embedding_rank": 8
+    },
+    {
+      "title": "Aadhar को Lock ना करना पड़ सकता है महंगा, तुरंत करें ये काम",
+      "url": "https://www.instagram.com/reel/DUnt_ngDCxG",
+      "snippet": "✓ Aadhaar Biometric Lock रखें। ✓ OTP कभी किसी के साथ शेयर न करें। ✓ केवल Official UIDAI Website या mAadhaar App का ही उपयोग करें। आज ही",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.7662864923477173,
+      "embedding_score_norm": 0.30757369592493106,
+      "embedding_rank": 9
+    },
+    {
+      "title": "Cough Syrup Deaths: MP-Rajasthan में 19 बच्चों की मौत ...",
+      "url": "https://www.youtube.com/watch?v=YVHufX71wTM",
+      "snippet": "Children in Madhya Pradesh and Rajasthan died after consuming a cough syrup, echoing past tragedies in Gambia and Uzbekistan. Toxic cough syrup",
+      "bm25_score_raw": 5.4367017037953405,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.7501176595687866,
+      "embedding_score_norm": 0.19781707040263544,
+      "embedding_rank": 10
+    },
+    {
+      "title": "हालात ऐसे कि पब्लिक उबल पड़ी! Iran US War का लंबा असर ...",
+      "url": "https://www.facebook.com/thelallantop/videos/%E0%A4%B9%E0%A4%BE%E0%A4%B2%E0%A4%BE%E0%A4%A4-%E0%A4%90%E0%A4%B8%E0%A5%87-%E0%A4%95%E0%A4%BF-%E0%A4%AA%E0%A4%AC%E0%A5%8D%E0%A4%B2%E0%A4%BF%E0%A4%95-%E0%A4%89%E0%A4%AC%E0%A4%B2-%E0%A4%AA%E0%A4%A1%E0%A4%BC%E0%A5%80-iran-us-war-%E0%A4%95%E0%A4%BE-%E0%A4%B2%E0%A4%82%E0%A4%AC%E0%A4%BE-%E0%A4%85%E0%A4%B8%E0%A4%B0-hormuz-%E0%A4%95%E0%A5%80-%E0%A4%87%E0%A4%A4%E0%A4%A8%E0%A5%80-%E0%A4%AC%E0%A4%A1%E0%A4%BC%E0%A5%80-%E0%A4%95%E0%A5%80%E0%A4%AE%E0%A4%A4-tr/1318194356873093",
+      "snippet": "इजरायली सेना ने दक्षिणी लेबिनन के दर्जन भर से ज्यादा गांवों को धमकियां दी है और वहां रहने वाले लोगों को कहा गया है कि उत्तर की ओर चले जाएं, उत्तर की ओर चले जाएं, अपना घर छोड़कर दूसरी तरफ अमेरिका, ईरान के",
+      "bm25_score_raw": 2.2662516919285483,
+      "bm25_score_norm": 0.4168431183830606,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.7231024503707886,
+      "embedding_score_norm": 0.01443350525036809,
+      "embedding_rank": 11
+    },
+    {
+      "title": "मुँह से इतना ज़हर निकला 1000 लोगो की मौत, भारत में इस सांप के ...",
+      "url": "https://www.youtube.com/watch?v=-yLyIkdJ2Cw",
+      "snippet": "मुँह से इतना ज़हर निकला 1000 लोगो की मौत, भारत में इस सांप के काटने सबसे ज्यादा मौत होती है | Snake About this video मुँह से इतना ज़हर निकला 1000 लोगो की मौत तुरंत हो जाये,",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.7209761738777161,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

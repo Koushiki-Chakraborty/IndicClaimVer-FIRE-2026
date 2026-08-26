@@ -1,0 +1,99 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1105",
+    "text": "Karnataka HC Refuses To Quash Criminal Case Against Company For Not Furnishing Statistical Data, Says It Impacts Nation's Economic Policy",
+    "lang": "english"
+  },
+  "entity_ranked_evidence": [
+    {
+      "title": "Karnataka HC Refuses To Quash Criminal Case Against ...",
+      "url": "https://www.livelaw.in/high-court/karnataka-high-court/karnataka-high-court-dismisses-plea-masturlal-statistical-data-collection-of-statistics-act-economic-policy-233986",
+      "snippet": "Jul 30, 2023 — Karnataka HC Refuses To Quash Criminal Case Against Company For Not Furnishing Statistical Data, Says It Impacts Nation's Economic Policy ...Read more",
+      "bm25_score_raw": 3.803840312255474,
+      "bm25_score_norm": 0.8598887227187992,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.956853985786438,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 1
+    },
+    {
+      "title": "Data theft case: Karnataka HC rejects director plea ...",
+      "url": "https://www.deccanherald.com/india/karnataka/karnataka-high-court-rejects-company-directors-plea-against-crime-for-data-theft-3951346",
+      "snippet": "Mar 31, 2026 — Karnataka HC ruling: Court refuses to quash probe against ex-director in data theft case, says company alone owns proprietary data,",
+      "bm25_score_raw": 4.050809036631989,
+      "bm25_score_norm": 0.9627475204726691,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8894143104553223,
+      "embedding_score_norm": 0.2747840600555329,
+      "embedding_rank": 4,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 2
+    },
+    {
+      "title": "Karnataka HC Refuses to Quash ₹200 Crore Fraud Case ...",
+      "url": "https://news.vaquill.com/item/ddc487b9-a6bd-4457-b201-9fdebbb6109e",
+      "snippet": "Oct 7, 2026 — The Karnataka High Court has declined to quash criminal proceedings. The petitioner is accused of defrauding the public of ₹200 crores in a",
+      "bm25_score_raw": 1.8712658429016982,
+      "bm25_score_norm": 0.055000221191376285,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8804836273193359,
+      "embedding_score_norm": 0.17874750986439816,
+      "embedding_rank": 5,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 3
+    },
+    {
+      "title": "Karnataka High Court Refuses to Quash Criminal Case ...",
+      "url": "https://lawtrend.in/karnataka-high-court-refuses-to-quash-criminal-case-against-company-for-not-providing-statistical-data",
+      "snippet": "Aug 1, 2023 — Karnataka High Court of Justice M Nagaprasanna refused to quash criminal proceedings against a company for its failure to furnish statistical",
+      "bm25_score_raw": 1.9332058368636944,
+      "bm25_score_norm": 0.08079730674501058,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.9072729349136353,
+      "embedding_score_norm": 0.4668276762067383,
+      "embedding_rank": 2,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 4
+    },
+    {
+      "title": "Failure of companies to give data impacts policies",
+      "url": "https://www.thehindu.com/business/failure-of-companies-to-give-data-will-impact-planning-of-indias-economic-policies-karnataka-high-court/article67134451.ece",
+      "snippet": "Jul 29, 2023 — Karnataka High Court Court refuses to interfere with prosecution of Bengaluru-based company for not furnishing data even after being convicted",
+      "bm25_score_raw": 4.140253960640748,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9071972966194153,
+      "embedding_score_norm": 0.4660142960062968,
+      "embedding_rank": 3,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 5
+    },
+    {
+      "title": "No Statistical Data: Hc Refuses To Quash Proceedings ...",
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/no-statistical-data-hc-refuses-to-quash-proceedings-against-firm/articleshow/102259754.cms",
+      "snippet": "Jul 31, 2023 — No statistical data: HC refuses to quash proceedings against firm. TNN / Updated: Jul 31, 2023, 12:31 IST.Read more",
+      "bm25_score_raw": 1.7392077714029057,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8638614416122437,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 6
+    }
+  ]
+}

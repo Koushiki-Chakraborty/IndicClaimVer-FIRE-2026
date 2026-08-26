@@ -1,0 +1,57 @@
+{
+  "claim": {
+    "id": "S2/1304",
+    "text": "JDS flays BJP and Congress for \"knocking doors\" of corrupt leaders",
+    "lang": "dev"
+  },
+  "ranked_evidence": [
+    {
+      "title": "PM Modi breaks silence on NEET-UG",
+      "url": "https://dailypioneer.com/uploads/2026/epaper/july/ranchi-english-edition-2026-07-22.pdf",
+      "snippet": "Vol.19 Issue 198 PIONEER NEWS SERVICE n New Delhi Amidst massive public outrage on NEET-UG paper leak, Prime Minister Narendra Modi on Tuesday broke his silence over the issue and asserted that strong action has been taken against those involved in paper leaks so that no one plays with the future of the youth, while terming the leaks ghor paap (grave sin). PM Modi said all State Governments and the Union Government must join hands on the issue as it is “not a matter of party politics but a matter of national interest”. Sources said PM Modi also told NDA leaders that there is a need to “win the trust of the youth” while suggesting a national outreach by MPs among students on the issue. PIONEER NEWS SERVICE n New Delhi The Delhi Police on Tuesday forcibly removed and detained Congress leaders Rahul Gandhi, Priyanka Gandhi Vadra as well as SP chief Akhilesh Yadav from outside Prime Minister Narendra Modi’s residence for protesting against the police action on students on Monday and demanding the PM’s resignation.",
+      "bm25_score_raw": 3.277326517019729,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "CENTRAL ORGAN OF CPI(ML) JULY 2026 Rs. 25 - Liberation",
+      "url": "https://liberation.org.in/uploads/libsection/pdf/1782441057_6a3de46108eb3.pdf",
+      "snippet": "Those making such statements to protect their party or leadership are damaging the credibility of CPI(ML) and all those legislators who voted in good faith for the Congress candidate. This is not merely an attempt to malign CPI(ML), but an effort that harms the image of the entire INDIA alliance. 12 Communists and Struggle for Democracy 14 FEATURE Digital Explosion of Anger and NEET 16 IN FOCUS BJP Terror in WB 19 Sangh Brigade's Myth-Making 21 ARTICLE World Cup and the Politics of Football 23 WORKING CLASS 26 REPORTS 32 TRIBUTE Nand Kishore Prasad 35 LIBERATION - CENTRAL ORGAN OF CPI(ML) | JULY 2026 | 3 The U.S. Retreats From Iran, the World Will Now Have to Stop Israel A fter fifteen weeks of Operation Epic Fury, Donald Trump has staged an Operation Epic Retreat by signing a fourteen-point 'peace deal' with Iran.",
+      "bm25_score_raw": 2.5851829229351257,
+      "bm25_score_norm": 0.7888084722440133,
+      "bm25_rank": 2
+    },
+    {
+      "title": "Ever since DK Shivakumar assumed office as Chief ...",
+      "url": "https://www.facebook.com/RAshokaBJP/posts/ever-since-dk-shivakumar-assumed-office-as-chief-minister-karnataka-has-been-wit/1557288722421331",
+      "snippet": "Instead of providing leadership, it is presiding over paralysis. A Chief Minister who cannot secure the confidence of his own cabinet on a major policy",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 3
+    },
+    {
+      "title": "ऐसे लोग हैं हमारे Lawmakers! | Dr. Purushottam Meghwal ...",
+      "url": "https://www.facebook.com/purushottammeghwalbhopal/posts/%E0%A4%90%E0%A4%B8%E0%A5%87-%E0%A4%B2%E0%A5%8B%E0%A4%97-%E0%A4%B9%E0%A5%88%E0%A4%82-%E0%A4%B9%E0%A4%AE%E0%A4%BE%E0%A4%B0%E0%A5%87-lawmakers-dr-purushottam-meghwalthis-hard-hitting-video-expose/1637968931069266",
+      "snippet": "ऐसे लोग हैं हमारे Lawmakers! | Dr. Purushottam Meghwal This hard-hitting video exposes the harsh reality of many current politicians and lawmakers in",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 4
+    },
+    {
+      "title": "Alakshendra C",
+      "url": "https://www.facebook.com/alakshc/posts/look-at-this-image-closely-honestly-as-someone-who-genuinely-supported-and-belie/3491007554405866",
+      "snippet": "Look at this image closely. Honestly, as someone who genuinely supported and believed in this vision, it just breaks my heart to see where things have",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 5
+    },
+    {
+      "title": "Viral SIR Form-Filling Video in Bengaluru Sparks Political ...",
+      "url": "https://www.facebook.com/GulbargaKiAwaaz/posts/viral-sir-form-filling-video-in-bengaluru-sparks-political-row-karnataka-home-mi/1571275815009612",
+      "snippet": "Viral SIR Form-Filling Video in Bengaluru Sparks Political Row; Karnataka Home Minister Priyank Kharge Responds.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6
+    }
+  ]
+}

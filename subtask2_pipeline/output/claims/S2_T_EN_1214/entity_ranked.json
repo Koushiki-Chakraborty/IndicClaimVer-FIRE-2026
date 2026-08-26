@@ -1,0 +1,99 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1214",
+    "text": "Biological E’s Corbevax vaccine has not received EUA for the 12-18 years age group.",
+    "lang": "english"
+  },
+  "entity_ranked_evidence": [
+    {
+      "title": "Welcome to EUA - Laravel",
+      "url": "https://www.eua.am",
+      "snippet": "Welcome to EUA. European University of Armenia - Empowering students with quality education and innovative learning experiences. Apply Now. Why Choose EUA?Read more",
+      "bm25_score_raw": 0.6468874780930086,
+      "bm25_score_norm": 0.6966213045518536,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8088948726654053,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 1
+    },
+    {
+      "title": "EUA (@EUA) / X",
+      "url": "https://x.com/EUA",
+      "snippet": "We believe great design is about more than elevating the environment. We believe great design is about elevating people’s potential. Don't miss what's happening. People on X are the first to know. ## @EUA hasn’t posted. When they do, their posts will show up here.",
+      "bm25_score_raw": 0.5109404061587106,
+      "bm25_score_norm": 0.5502223869532986,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.7962562441825867,
+      "embedding_score_norm": 0.668484956504881,
+      "embedding_rank": 2,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 2
+    },
+    {
+      "title": "European University Association - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/European_University_Association",
+      "snippet": "# European University Association. The **European University Association** (**EUA**) represents more than 800 institutions of higher education in 48 countries, providing them with a forum for cooperation and the exchange of information on higher education and research policies. Members of the Association are European universities involved in teaching and research, national associations of rectors \"Rector (academia)\"), and other organisations active in higher education and research. EUA is the result of a merger between the Association of European Universities and the Confederation of European Union Rectors' Conferences. 2. ↑ \"European University Association (EUA)\".",
+      "bm25_score_raw": 0.34514702449078655,
+      "bm25_score_norm": 0.3716825237856785,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.7931824922561646,
+      "embedding_score_norm": 0.5878595148308662,
+      "embedding_rank": 3,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 3
+    },
+    {
+      "title": "European University Association (EUA)",
+      "url": "https://www.youtube.com/c/EuropeanUniversityAssociationEUA",
+      "snippet": "EUA is a community of over 900 members and affiliates. It represents universities and national rectors' conferences in 48 European countries.Read more",
+      "bm25_score_raw": 0.6637059296178149,
+      "bm25_score_norm": 0.7147327876745306,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.7887225151062012,
+      "embedding_score_norm": 0.47087296673608375,
+      "embedding_rank": 4,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 4
+    },
+    {
+      "title": "European University Association",
+      "url": "https://www.facebook.com/EuropeanUniversityAssociation/photos/-eua-is-the-most-comprehensive-body-representing-universities-in-europe-but-afte/1175377868493244",
+      "snippet": "EUA is the most comprehensive body representing universities in Europe. Since 2001, EUA has supported university communities across the",
+      "bm25_score_raw": 0.92860708374281,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.7733292579650879,
+      "embedding_score_norm": 0.06710318130366534,
+      "embedding_rank": 5,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 5
+    },
+    {
+      "title": "E.U.A.",
+      "url": "https://en.wiktionary.org/wiki/E.U.A.",
+      "snippet": "E.U.A. m pl (plural only). alternative spelling of EUA: initialism of Estados Unidos da América (= United States of America): a country in North America: ...Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.7707710266113281,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 6
+    }
+  ]
+}

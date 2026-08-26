@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/HI/1117",
+    "text": "कोविड के दौरान गंगा में शव पर सवाल, जवाब में योगी आदित्यनाथ ने गंगा में लाशें बहने की घटना से इनकार किया।",
+    "lang": "hindi"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "\"No Mention Of Ganga Bodies, But Claims Covid Down\": ...",
+      "url": "https://www.ndtv.com/india-news/no-mention-of-ganga-bodies-but-claims-covid-down-congress-shreds-yogi-adityanath-2441250",
+      "snippet": "Ypgi Adityanath made no mention of the bodies that have found floating in the Ganga over the past few days. the Chief Minister claimed that",
+      "bm25_score_raw": 2.8864038500216713,
+      "bm25_score_norm": 0.7499638477243686,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.9245619773864746,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Yogi Adityanath Takes Cognisance of Bodies Dumped in ...",
+      "url": "https://www.news18.com/news/india/up-cm-yogi-adityanath-takes-cognizance-of-bodies-dumped-in-ganga-3732584.html",
+      "snippet": "Chief Minister Yogi Adityanath on Wednesday took cognisance of bodies found floating in the Ganga in Ballia district and said the last rites",
+      "bm25_score_raw": 3.0821172049536103,
+      "bm25_score_norm": 0.800815339179627,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8945326209068298,
+      "embedding_score_norm": 0.7721655284191067,
+      "embedding_rank": 2
+    },
+    {
+      "title": "The Ganges Is Returning the Dead. It Does Not Lie.",
+      "url": "https://www.nytimes.com/2021/06/17/opinion/india-covid-ganges.html",
+      "snippet": "Mr. Adityanath's response in April to grave shortages of oxygen, ventilators and beds … was to issue denials and threats.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.8865330219268799,
+      "embedding_score_norm": 0.7114721063775328,
+      "embedding_rank": 3
+    },
+    {
+      "title": "No information on number of Covid bodies dumped in ...",
+      "url": "https://www.indiatoday.in/india/story/no-information-on-number-of-covid-bodies-dumped-in-ganges-govt-tells-rajya-sabha-1909904-2022-02-07",
+      "snippet": "The government has said that it had no information on how many Covid-related dead bodies were dumped in River Ganges last year.",
+      "bm25_score_raw": 2.3283297336863673,
+      "bm25_score_norm": 0.6049614733687985,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.87158203125,
+      "embedding_score_norm": 0.5980380718258178,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Covid transmission through water is not a concern, say ... - Mint",
+      "url": "https://www.livemint.com/news/india/coronavirus-transmission-through-water-is-not-a-concern-say-experts-after-dead-bodies-found-floating-in-ganga-11620831842922.html",
+      "snippet": "Covid transmission through water is not a concern, say experts after dead bodies found floating in Ganga · Dumping of bodies primarily leads to",
+      "bm25_score_raw": 3.5786962034435366,
+      "bm25_score_norm": 0.9298396600153349,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8691400289535522,
+      "embedding_score_norm": 0.5795104585821695,
+      "embedding_rank": 5
+    },
+    {
+      "title": "SP & NCP Take On Yogi Led BJP Govt Over Dead Bodies Of ...",
+      "url": "https://www.youtube.com/watch?v=OUlCHpnGwCw",
+      "snippet": "The Samajwadi Party and the NCP have taken on the Yogi Adityanath led Uttar Pradesh govt over dead bodies of covid patients floating in the",
+      "bm25_score_raw": 3.8487239868694316,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8666414618492126,
+      "embedding_score_norm": 0.5605536848560164,
+      "embedding_rank": 6
+    },
+    {
+      "title": "उत्तर प्रदेश के मुख्यमंत्री योगी आदित्यनाथ जब भी गाजियाबाद ...",
+      "url": "https://www.instagram.com/reel/Da7KwaNRWOv",
+      "snippet": "मुख्यमंत्री योगी आदित्यनाथ पहुंचे अपनी बहन के घर राजनगर एक्सटेंशन ... लखनऊ में मुख्यमंत्री सीधा घटनास्थल अलीगंज के सेक्टर डी में काम्पलेक्स पहुंचे सीएम योगी आदित्यनाथ मौके पर पहुंचे और घटना स्थल का जायजा लिया।Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.8384511470794678,
+      "embedding_score_norm": 0.34667212953139653,
+      "embedding_rank": 7
+    },
+    {
+      "title": "UP के CM Yogi Adityanath की बहन Shashi ने बताया कि योगी ...",
+      "url": "https://www.facebook.com/Timesnownavbharat/videos/up-%E0%A4%95%E0%A5%87-cm-yogi-adityanath-%E0%A4%95%E0%A5%80-%E0%A4%AC%E0%A4%B9%E0%A4%A8-shashi-%E0%A4%A8%E0%A5%87-%E0%A4%B8%E0%A4%BE%E0%A4%9D%E0%A4%BE-%E0%A4%95%E0%A5%80-%E0%A4%AF%E0%A5%8B%E0%A4%97%E0%A5%80-%E0%A4%B8%E0%A5%87-%E0%A4%9C%E0%A5%81%E0%A4%A1%E0%A4%BC%E0%A5%80-%E0%A4%AF%E0%A4%BE%E0%A4%A6%E0%A5%87%E0%A4%82/1384535525340104?locale=ms_MY",
+      "snippet": "UP के CM Yogi Adityanath की बहन Shashi ने बताया कि योगी आदित्यनाथ ही शादी के बाद उनकी डोली को लेकर उनके साथ आए थे.साथ ही उन्होंने बताय कि योगी को खाने",
+      "bm25_score_raw": 1.330867881016799,
+      "bm25_score_norm": 0.3457945764771073,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8199343681335449,
+      "embedding_score_norm": 0.20618425229752352,
+      "embedding_rank": 8
+    },
+    {
+      "title": "यूपी सीएम योगी आदित्यनाथ जी की बहन ने की अपने भाई से अपील, ...",
+      "url": "https://www.facebook.com/khulasaindia/videos/%E0%A4%AF%E0%A5%82%E0%A4%AA%E0%A5%80-%E0%A4%B8%E0%A5%80%E0%A4%8F%E0%A4%AE-%E0%A4%AF%E0%A5%8B%E0%A4%97%E0%A5%80-%E0%A4%86%E0%A4%A6%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%AF%E0%A4%A8%E0%A4%BE%E0%A4%A5-%E0%A4%9C%E0%A5%80-%E0%A4%95%E0%A5%80-%E0%A4%AC%E0%A4%B9%E0%A4%A8-%E0%A4%A8%E0%A5%87-%E0%A4%95%E0%A5%80-%E0%A4%85%E0%A4%AA%E0%A4%A8%E0%A5%87-%E0%A4%AD%E0%A4%BE%E0%A4%88-%E0%A4%B8%E0%A5%87-%E0%A4%85%E0%A4%AA%E0%A5%80%E0%A4%B2-%E0%A4%9C%E0%A4%BF%E0%A4%B8%E0%A5%87-%E0%A4%B8%E0%A5%81%E0%A4%A8%E0%A4%95%E0%A4%B0-%E0%A4%B8%E0%A4%AC-%E0%A4%B9%E0%A5%8B-%E0%A4%97%E0%A4%8F-%E0%A4%B9%E0%A5%88/3907079029425315",
+      "snippet": "यूपी सीएम योगी आदित्यनाथ जी की बहन ने की अपने भाई से अपील, जिसे सुनकर सब हो गए हैरान... ... लेकिन जब एक टीवी चैनल ने पहली बार योगी आदित्यनाथ की बहन की तस्वीर दिखाई।Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.8086814880371094,
+      "embedding_score_norm": 0.1208079974892529,
+      "embedding_rank": 9
+    },
+    {
+      "title": "Yogi Adityanath की बहन शशि सिंह ने News18 India से की अपने ...",
+      "url": "https://www.youtube.com/watch?v=Xhw6bagsO7Y",
+      "snippet": "... के बचपन के बारे में बताया कि वो कैसे थे और कैसे लोगों को नशे से दूर रहने की सलाह देते थे. साथ ही योगी आदित्यनाथ के बारे में बात करते-करते वो कई बार भावुक भी हो गई थीं. देखें पूरा वीडियो, योगी आदित्यनाथ की बहन",
+      "bm25_score_raw": 0.8024108735072466,
+      "bm25_score_norm": 0.20848750813121597,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.7996053695678711,
+      "embedding_score_norm": 0.051946959563043175,
+      "embedding_rank": 10
+    },
+    {
+      "title": "योगी पौड़ी गढ़वाल में अपनी बड़ी बहन से मिले: 5 दिन पहले बहनोई ...",
+      "url": "https://www.bhaskar.com/local/uttarakhand/pauri-garhwal-pauri/news/yogi-adityanath-met-elder-sister-pauri-garhwal-update-136607574.html",
+      "snippet": "Dec 7, 2025 — यूपी के CM योगी आदित्यनाथ रविवार को उत्तराखंड के पौड़ी गढ़वाल पहुंचे। यहां उन्होंने कोटद्वार में अपनी बड़ी बहन कौशल्या देवी को ढांढस बंधाया और बहनोई ओम प्रकाश सिंह रावत के निधन पर शोक संवेदना जताई।Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.798751950263977,
+      "embedding_score_norm": 0.0454720177416481,
+      "embedding_rank": 11
+    },
+    {
+      "title": "योगी की बहन की भावुक अपील ने सबको चौंका दिया, दिल से निकली ...",
+      "url": "https://www.facebook.com/100092549364492/videos/%E0%A4%AF%E0%A5%8B%E0%A4%97%E0%A5%80-%E0%A4%95%E0%A5%80-%E0%A4%AC%E0%A4%B9%E0%A4%A8-%E0%A4%95%E0%A5%80-%E0%A4%AD%E0%A4%BE%E0%A4%B5%E0%A5%81%E0%A4%95-%E0%A4%85%E0%A4%AA%E0%A5%80%E0%A4%B2-%E0%A4%A8%E0%A5%87-%E0%A4%B8%E0%A4%AC%E0%A4%95%E0%A5%8B-%E0%A4%9A%E0%A5%8C%E0%A4%82%E0%A4%95%E0%A4%BE-%E0%A4%A6%E0%A4%BF%E0%A4%AF%E0%A4%BE-%E0%A4%A6%E0%A4%BF%E0%A4%B2-%E0%A4%B8%E0%A5%87-%E0%A4%A8%E0%A4%BF%E0%A4%95%E0%A4%B2%E0%A5%80-%E0%A4%AC%E0%A4%BE%E0%A4%A4-%E0%A4%B8%E0%A5%81%E0%A4%A8%E0%A4%95%E0%A4%B0-%E0%A4%AA%E0%A5%82%E0%A4%B0%E0%A4%BE-%E0%A4%A6%E0%A5%87%E0%A4%B6-%E0%A4%B0%E0%A4%B9-/1588378009193229",
+      "snippet": "लेकिन जब एक टीवी channel ने पहली बार योगी आदित्यनाथ की बहन की तस्वीर दिखाई। वह तस्वीर जिसमें वह बहन अपने छोटे से stall पर चाय बेच रही थी तो मुख्यमंत्री आदित्यनाथ भी भावुक हो उठे थे। उनका चेहरा ...Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.792758584022522,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/BN/1127",
+    "text": "করোনা মোকাবিলায় আর্থিক অনুদান দিলেই কর ছাড় পাওয়া যাবে, জানাল কেন্দ্র",
+    "lang": "bengali"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "COVID-19 Pandemic: List of Nonprofits, Funds & Resources - Center for High Impact Philanthropy - University of Pennsylvania",
+      "url": "https://www.impact.upenn.edu/covid-19/nonprofits-to-give-to",
+      "snippet": "Center for High Impact Philanthropy – University of Pennsylvania. » **COVID-19 Pandemic: List of Nonprofits, Funds & Resources**. Urgent Needs & Nonprofits to Give to. List of Nonprofits, Funds & Resources. High Impact Giving in the Age of COVID   Supporting Mental Health During COVID   India's 2nd Wave: How Can I Help? ###### This section provides additional information on the nonprofits we mention in Urgent Needs to Address Now, listed in the order in which they appear. We also provide information on the major, relevant national and global COVID-19 relief funds, as well as public sources of information you can use to conduct additional research. **Candid** is compiling a list of funds specifically established in the wake of coronavirus, with a focus on funds hosted at US-based foundations that serve nonprofits. ###### **COVID-19 Response Funds**. **COVID-19 Relief Funds.** To fund nonprofits answering COVID-19 needs, many local, state, and international foundations have opened COVID-19 response funds to fill critical gaps.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.8288495540618896,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "How did the major COVID-19 pandemic relief bills affect taxes?",
+      "url": "https://taxpolicycenter.org/briefing-book/how-did-major-covid-19-pandemic-relief-bills-affect-taxes",
+      "snippet": "#### The Coronavirus Aid, Relief, and Economic Security Act of 2020. The Coronavirus Aid, Relief, and Economic Security (CARES) Act (Pub. L. The CARES Act provided about $2 trillion in aid to fight the COVID-19 pandemic and provide economic relief to households and businesses. _**Individual Income Tax Relief**_. Under the CARES Act, individuals were eligible for one-time tax rebate checks of up to $1,200, as well as $500 checks for each child under 17 years of age. Other individual income tax relief measures put in place by the CARES Act were expanded deductions for charitable contributions (including a $300 per person above-the-line deduction), a temporary waiver of penalties for early retirement account withdrawals meant to cover COVID-19 related hardships, and making student loan debts paid off by an employer tax-free for 2020.",
+      "bm25_score_raw": 2.148044781148258,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8264479637145996,
+      "embedding_score_norm": 0.9767441323550462,
+      "embedding_rank": 2
+    },
+    {
+      "title": "CARES Act tax deduction can help American Legion ...",
+      "url": "https://www.legion.org/information-center/news/donate/2020/april/cares-act-tax-deduction-can-help-american-legion-programs-and-services",
+      "snippet": "Apr 14, 2020 — A qualified taxpayer who does not itemize may be eligible to donate up to $300 to certain nonprofit organizations and have that amount deducted",
+      "bm25_score_raw": 1.9918510938406986,
+      "bm25_score_norm": 0.9272856466129795,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8164417147636414,
+      "embedding_score_norm": 0.8798483393283434,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Nonprofit Assistance During the Covid-19 Pandemic | Baker Institute",
+      "url": "https://www.bakerinstitute.org/research/nonprofit-assistance-during-covid-19-pandemic",
+      "snippet": "Rice University’s Baker Institute for Public Policy, Houston, Texas. This issue brief explores the federal government’s key nonprofit aid policies during the Covid-19 pandemic and discusses different approaches to help these entities financially. The federal government’s pandemic relief packages include several provisions that are applicable to nonprofit entities. There are several loan-based programs from the Coronavirus Aid, Relief and Economic Security Act (also known as the CARES Act) that benefit nonprofit entities, although these programs are not written exclusively for nonprofits. For instance, the Families First Coronavirus Response Act (also known as the FFCRA), the second Covid-19 relief package, authorized $400 million to the Commodity Assistance Program to provide funds for emergency food assistance. In light of this, lawmakers responded by including two provisions regarding charitable contribution deduction for nonprofit entities in the CARES Act. First, the TCJA increased the annual charitable contribution deduction limit for donors who claim itemized deductions from 50% to 60% of the adjusted gross income (AGI).",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.8145577907562256,
+      "embedding_score_norm": 0.8616053082389447,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Jackson County's COVID relief funds allocation sparks ...",
+      "url": "https://www.facebook.com/groups/613550184082905/posts/1198898648881386",
+      "snippet": "New charitable deduction allowance New this year, taxpayers who don't itemize deductions can take a charitable deduction of up to $300 for cash ...Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.8094469904899597,
+      "embedding_score_norm": 0.8121147301783728,
+      "embedding_rank": 5
+    },
+    {
+      "title": "S.Hrg. 116-281 — SUPPORTING CHARITABLE GIVING DURING THE COVID-19 CRISIS",
+      "url": "https://www.congress.gov/event/116th-congress/senate-event/LC65501/text",
+      "snippet": "- [x] Aging (Special) (95th-119th) - [x] Aging (Special) (95th-119th) - [x] Agriculture, Nutrition, and Forestry (95th-119th) - [x] Agriculture, Nutrition, and Forestry (95th-119th) - [x] Appropriations (93rd-119th) - [x] Appropriations (93rd-119th) - [x] Armed Services (93rd-119th) - [x] Armed Services (93rd-119th) - [x] Banking, Housing, and Urban Affairs (93rd-119th) - [x] Banking, Housing, and Urban Affairs (93rd-119th) - [x] Budget (94th-119th) - [x] Budget (94th-119th) - [x] Caucus on International Narcotics Control (99th-119th) - [x] Caucus on International Narcotics Control (99th-119th) - [x] Commerce, Science, and Transportation (95th-119th) - [x] Commerce, Science, and Transportation (95th-119th) - [x] Energy and Natural Resources (95th-119th) - [x] Energy and Natural Resources (95th-119th) - [x] Environment and Public Works (95th-119th) - [x] Environment and Public Works (95th-119th) - [x] Ethics (Select) (95th-119th) - [x] Ethics (Select) (95th-119th) - [x] Finance (93rd-119th) - [x] Finance (93rd-119th) - [x] Foreign Relations (93rd-119th) - [x] Foreign Relations (93rd-119th) - [x] Health, Education, Labor, and Pensions (106th-119th) - [x] Health, Education, Labor, and Pensions (106th-119th) - [x] Homeland Security and Governmental Affairs (109th-119th) - [x] Homeland Security and Governmental Affairs (109th-119th) - [x] Indian Affairs (103rd-119th) - [x] Indian Affairs (103rd-119th) - [x] Intelligence (Select) (94th-119th) - [x] Intelligence (Select) (94th-119th) - [x] Judiciary (93rd-119th) - [x] Judiciary (93rd-119th) - [x] Rules and Administration (93rd-119th) - [x] Rules and Administration (93rd-119th) - [x] Small Business and Entrepreneurship (107th-119th) - [x] Small Business and Entrepreneurship (107th-119th) - [x] Veterans' Affairs (93rd-119th) - [x] Veterans' Affairs (93rd-119th).",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.8001967668533325,
+      "embedding_score_norm": 0.7225399295374684,
+      "embedding_rank": 6
+    },
+    {
+      "title": "কর অঞ্চল-কুষ্টিয়া – Taxes Zone Kushtia",
+      "url": "https://taxeszonekushtia.gov.bd",
+      "snippet": "## কর অঞ্চল-কুষ্টিয়া এ আপনাকে স্বাগতম।. ## নোটিশ বোর্ড. ##### আয়কর বিভাগে নিয়োগের ব্যাপারে সক্রিয় প্রতারক চক্র থেকে সাবধান থাকতে অনুরোধ করা হল।. ##### রাসেল আহমেদ, নোটিশ সার্ভার, কর অঞ্চল-কুষ্টিয়া এর বিদেশ ভ্রমণের ছুটি মঞ্জুর. ##### মোঃ আব্দুল্লা আবু সাঈদ, কর পরিদর্শক, কর অঞ্চল-কুষ্টিয়া এর পাসপোর্ট করার জন্য বিভাগীয় অনাপত্তিপত্র. ##### রিটার্ন নিরীক্ষার তালিকা, ২০২৩-২০২৪. ##### নিয়োগ বিজ্ঞপ্তি. #### আমাদের বিষয়ে. ###### সকল প্রকার ই-সেবা. ###### কী সেবা কীভাবে পাবেন. ###### সিটিজেন চার্টার. ###### সেবাকুঞ্জ. #### সেবাসমূহ. ###### নির্দেশিকাসমূহ. ###### অনলাইনে অভিযোগ দাখিল. ###### অভিযোগ প্রতিকার ব্যবস্থা. ###### অনিক ও আপিল কর্মকর্তা. #### তথ্য অধিকার. ###### তথ্য আইন ও বিধিমালা. ###### কর্মকর্তা ও আবেদনকারীর নির্দেশিকা. #### বিভিন্ন গুরুত্বপুর্ণ ওয়েবসাইট. ###### নিয়ন্ত্রণকারী মন্ত্রণালয় (অভ্যন্তরীণ সম্পদ বিভাগ, অর্থ মন্ত্রণালয়). ###### জাতীয় রাজস্ব বোর্ডের ওয়েবসাইট. ###### অর্থ মন্ত্রণালয়. ###### সুপ্রিম কোর্টের মামলা সার্চ. **ভিডিও গ্যালারি**. ##### মাননীয় অর্থমন্ত্রী. ###### আমীর খসরু মাহমুদ চৌধুরী. ##### চেয়ারম্যান, এনবিআর. ###### মোঃ আবদুর রহমান খান. ###### মোঃ মহিদুল ইসলাম. ###### পরিকল্পনা ও বাস্তবায়নঃ কর কমিশনারের কার্যালয়, কর অঞ্চল-কুষ্টিয়া।.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.7781740427017212,
+      "embedding_score_norm": 0.5092822610807641,
+      "embedding_rank": 7
+    },
+    {
+      "title": "কর অঞ্চল-সিলেট: হোম",
+      "url": "http://tax.sylhetdiv.gov.bd",
+      "snippet": "জরুরি সেবা নম্বরসমূহ · ৩৩৩. সরকারি তথ্য ও সেবা · ৯৯৯. জরুরি সেবা · ১০২. ফায়ার সার্ভিস হটলাইন · ১৬১০৭. বিআরটিএ সার্ভিস পোর্টাল (বিএসপি) · ১০৩. সুপ্রীম কোর্ট হেল্পলাইন · ১০৯. নারী ও শিশু নির্যাতন প্রতিরোধ · ১০৬. দুদক.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.7729681134223938,
+      "embedding_score_norm": 0.4588704985478069,
+      "embedding_rank": 8
+    },
+    {
+      "title": "কর অঞ্চল-৯: Home",
+      "url": "https://www.taxeszone9dhaka.gov.bd",
+      "snippet": "কর্মকর্তাগণের বদলী/পদস্থ/অতিরিক্ত দায়িত্ব প্রদান সম্পর্কিত অফিস আদেশ। কর অঞ্চল-৯, ঢাকা এর ২০২৩-২০২৪ করবর্ষের স্বাভাবিক করদাতাগণের অডিটের জন্য নির্বাচিত (৩য় পর্যায়) তালিকা। জনাব মোঃ আফতাব উদ্দিন, প্রধান সহকারী এর",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.772962212562561,
+      "embedding_score_norm": 0.4588133574057229,
+      "embedding_rank": 9
+    },
+    {
+      "title": "কর কমিশনারের কার্যালয়, কর অঞ্চল-১, ঢাকা: হোম",
+      "url": "http://taxeszone1.dhaka.gov.bd",
+      "snippet": "জরুরি সেবা নম্বরসমূহ · ৩৩৩. সরকারি তথ্য ও সেবা · ৯৯৯. জরুরি সেবা · ১০২. ফায়ার সার্ভিস হটলাইন · ১৬১০৭. বিআরটিএ সার্ভিস পোর্টাল (বিএসপি) · ১০৩. সুপ্রীম কোর্ট হেল্পলাইন · ১০৯. নারী ও শিশু নির্যাতন প্রতিরোধ · ১০৬. দুদক.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.7701499462127686,
+      "embedding_score_norm": 0.43158069714502073,
+      "embedding_rank": 10
+    },
+    {
+      "title": "হোম",
+      "url": "https://taxeszone-narayanganj.gov.bd",
+      "snippet": "অনলাইন ও অফলাইন উভয় পদ্ধতিতে কর প্রদানকারী করদাতাগণ যেন সহজেই তার আয়কর অধিক্ষেত্র জেনে নিজেই নিজের আয়কর রিটার্ন পূরণ এবং কর নির্ধারণে সক্ষম হন সে লক্ষ্যে এই ওয়েবসাইটে নির্দেশনামূলক তথ্যের পাশাপাশি প্রয়োজনীয় ফর্মগুলো",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.7656500935554504,
+      "embedding_score_norm": 0.3880062474315345,
+      "embedding_rank": 11
+    },
+    {
+      "title": "কর অঞ্চল-২১, ঢাকা",
+      "url": "https://taxzone21dhaka.gov.bd",
+      "snippet": "কর অঞ্চল-২১, ঢাকা সম্পর্কিত তথ্যাদি. কর অঞ্চল-২১, ঢাকা এর আওতায় ২২টি উপ কর কমিশনারের কার্যালয় (সার্কেল অফিস) আয়কর নির্ধারণ ও কর আদায় কাজে নিয়োজিত। অতিরিক্ত কর কমিশনারের পরিচালনায় ২টি রেঞ্জ এবং যুগ্ম কর",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.7255814075469971,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "claim": {
+    "id": "S2/T/CM/1003",
+    "text": "plz pahle mjhe insaf dye apne hafiz muzafer kareem k khelf ap ka apna hi mjhe insaf nh mile ga",
+    "lang": "codemix"
+  },
+  "generated_queries": {
+    "english_translation": "Plz first give me justice to your Hafiz Muzafer, I will take care of you for my own sake.",
+    "native_query": "plz pahle mjhe insaf dye apne hafiz muzafer",
+    "english_query": "Hafiz Muzafer Plz justice care sake"
+  },
+  "native_retrieval": [
+    {
+      "title": "Yakeenan mera khuda insaaf krega 🤲🥺",
+      "url": "https://www.instagram.com/reel/DLR8Jh3SZIm",
+      "snippet": "اللہ پہ یقین کچھ اس طرح کا بن گیا نا کہ اب میری زندگی میں کچھ بھی ہوتا ہے چھوٹے سے چھوٹے میں سے کچھ بھی ہوتا ہے میرے لیے یقین پکا ہے کہ یہ"
+    },
+    {
+      "title": "Naushad's Deedar film song tribute",
+      "url": "https://www.facebook.com/groups/553565775247114/posts/776113962992293",
+      "snippet": "Tribute to Naushad ji... Film - Deedar (1951) Director - Nitin Bose Lyrics - Shakeel Badayuni Music - Naushad Singer - Md. Rafi,"
+    }
+  ],
+  "english_retrieval": [
+    {
+      "title": "Hafiz Muzaffar Ahmad Archives",
+      "url": "https://www.reviewofreligions.org/authors/hafiz-muzaffar-ahmad",
+      "snippet": "Hafiz Muzaffar Ahmad A Glimpse into the Life of the Holy Prophet Muhammad (sa) – The Holy Prophets (sa) Compassion for the General Public 7th"
+    },
+    {
+      "title": "Humility and modesty of the Holy Prophet (saw) - part 1/4",
+      "url": "https://www.youtube.com/watch?v=reZk552KnNM",
+      "snippet": "A speech delivered by Hafiz Muzaffar Ahmad about the humility and modesty of the Holy Prophet (saw), on the occasion of Jalsa Salana United"
+    },
+    {
+      "title": "Islam and World Peace - Explanations of a Sufi - Justice ...",
+      "url": "https://bmf.org/iswp/justice.html",
+      "snippet": "Help your brothers, take care of them, and take care of your relatives. That justice and truth is the strength of Islam. That compassion and peace is any"
+    },
+    {
+      "title": "How Can Justice and Peace Be Restored in Society?",
+      "url": "https://www.youtube.com/shorts/V6qBy-pz3Tg?vl=en-US",
+      "snippet": "Hafiz Tahir Qadri. How Can Justice and Peace Be Restored in Society? | Hafiz Tahir Qadri. Authentic Islamic Content. Connect with Hafiz Tahir"
+    },
+    {
+      "title": "Justice, Peace and the Holy Prophet Muhammad...",
+      "url": "https://www.facebook.com/Ahlulbayt/posts/justice-peace-and-the-holy-prophet-muhammad/10165602735805082",
+      "snippet": "He is revered for his unwavering commitment to justice, fairness, and equality throughout his prophetic mission. Yet, his sense of justice ...Read more"
+    },
+    {
+      "title": "Equity, Justice and Good Conscience",
+      "url": "https://www.alislam.org/friday-sermon/2016-11-25.html",
+      "snippet": "Nov 25, 2016 — All Ahmadis are responsible to found exemplary models in their relationships, fulfill the demands of justice, and take their conducts to a higher level.Read more"
+    }
+  ],
+  "merged_results": [
+    {
+      "title": "Yakeenan mera khuda insaaf krega 🤲🥺",
+      "url": "https://www.instagram.com/reel/DLR8Jh3SZIm",
+      "snippet": "اللہ پہ یقین کچھ اس طرح کا بن گیا نا کہ اب میری زندگی میں کچھ بھی ہوتا ہے چھوٹے سے چھوٹے میں سے کچھ بھی ہوتا ہے میرے لیے یقین پکا ہے کہ یہ"
+    },
+    {
+      "title": "Naushad's Deedar film song tribute",
+      "url": "https://www.facebook.com/groups/553565775247114/posts/776113962992293",
+      "snippet": "Tribute to Naushad ji... Film - Deedar (1951) Director - Nitin Bose Lyrics - Shakeel Badayuni Music - Naushad Singer - Md. Rafi,"
+    },
+    {
+      "title": "Hafiz Muzaffar Ahmad Archives",
+      "url": "https://www.reviewofreligions.org/authors/hafiz-muzaffar-ahmad",
+      "snippet": "Hafiz Muzaffar Ahmad A Glimpse into the Life of the Holy Prophet Muhammad (sa) – The Holy Prophets (sa) Compassion for the General Public 7th"
+    },
+    {
+      "title": "Humility and modesty of the Holy Prophet (saw) - part 1/4",
+      "url": "https://www.youtube.com/watch?v=reZk552KnNM",
+      "snippet": "A speech delivered by Hafiz Muzaffar Ahmad about the humility and modesty of the Holy Prophet (saw), on the occasion of Jalsa Salana United"
+    },
+    {
+      "title": "Islam and World Peace - Explanations of a Sufi - Justice ...",
+      "url": "https://bmf.org/iswp/justice.html",
+      "snippet": "Help your brothers, take care of them, and take care of your relatives. That justice and truth is the strength of Islam. That compassion and peace is any"
+    },
+    {
+      "title": "How Can Justice and Peace Be Restored in Society?",
+      "url": "https://www.youtube.com/shorts/V6qBy-pz3Tg?vl=en-US",
+      "snippet": "Hafiz Tahir Qadri. How Can Justice and Peace Be Restored in Society? | Hafiz Tahir Qadri. Authentic Islamic Content. Connect with Hafiz Tahir"
+    },
+    {
+      "title": "Justice, Peace and the Holy Prophet Muhammad...",
+      "url": "https://www.facebook.com/Ahlulbayt/posts/justice-peace-and-the-holy-prophet-muhammad/10165602735805082",
+      "snippet": "He is revered for his unwavering commitment to justice, fairness, and equality throughout his prophetic mission. Yet, his sense of justice ...Read more"
+    },
+    {
+      "title": "Equity, Justice and Good Conscience",
+      "url": "https://www.alislam.org/friday-sermon/2016-11-25.html",
+      "snippet": "Nov 25, 2016 — All Ahmadis are responsible to found exemplary models in their relationships, fulfill the demands of justice, and take their conducts to a higher level.Read more"
+    }
+  ]
+}

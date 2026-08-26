@@ -1,0 +1,109 @@
+{
+  "claim": {
+    "id": "S2/T/CM/1139",
+    "text": "constable yaha ne apne aap ko kabhi pm se compare nahi kiya, usne bas apni duty ki baat ki thi",
+    "lang": "codemix"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Constable - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Constable",
+      "snippet": "# Constable. *Constable* is commonly the rank of an officer within a police service. The title was imported to the monarchies of medieval Europe, and in many countries developed into a high military rank and great officer of state (e.g. the Constable of France, in French *Connétable de France*, who was the commander-in-chief of all royal armed forces (second to the king) until Prime Minister Cardinal Richelieu abolished the charge in 1627). In the United Kingdom, the Commonwealth of Nations and some Continental European countries, a constable is the lowest rank of police officer (it is also, when preceded by the term *sworn*, used to describe any police officer with arrest and other powers), while in the United States a constable is generally an elected peace officer with lesser jurisdiction than a sheriff; however, in the Channel Islands a constable is an elected office-holder at the parish level. In Australia, as in the United Kingdom, constable is the lowest rank in most police services.",
+      "bm25_score_raw": 1.424510333637615,
+      "bm25_score_norm": 0.057110480457111125,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8123605251312256,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Arranged For You - Thirty",
+      "url": "https://www.wattpad.com/amp/1555644346",
+      "snippet": "Ek head constable ke hisab se? Hume toh nahi lagta. Aap ne humesha thane ko apna ghar samjha hai, aap kabhi personal or professional life ko alag rakh hi nahi",
+      "bm25_score_raw": 10.0216252601355,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8114407062530518,
+      "embedding_score_norm": 0.9860296607177452,
+      "embedding_rank": 2
+    },
+    {
+      "title": "CONSTABLE Definition & Meaning - Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/constable",
+      "snippet": "**:** a high officer of a royal court or noble household especially in the Middle Ages. **:** the warden or governor of a royal castle or a fortified town. ## Examples of *constable* in a Sentence. **:** a high officer of a royal court or noble household in the Middle Ages. Middle English *conestable* \"chief military or police officer of a court or royal domain,\" from early French *conestable* (same meaning), from Latin *comes stabuli,* literally, \"officer of the stables,\" from *comes* \"companion, member of a royal court\" and *stabuli,* genitive of *stabulum* \"stable\" — related to count entry 3, stable entry 1. A constable in the Middle Ages was a very important official in a court, even though the title meant \"officer of the stable.\" Early French *conestable* came from the Latin phrase *comes stabuli,* meaning \"officer of the stable.\" Being in charge of a ruler's horses in those days was something like being in charge of all the vehicles—tanks, trucks, airplanes, helicopters—of a modern army.",
+      "bm25_score_raw": 0.9037861620132188,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.7921552658081055,
+      "embedding_score_norm": 0.6931196622205162,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Mujhe pehle kabhi papers nahi mile… : r/Scams",
+      "url": "https://www.reddit.com/r/Scams/comments/1hc3bxu/ive_never_been_served_before?tl=hi-latn",
+      "snippet": "Mujhe kisi case ka pata nahi hai aur main soch rahi thi ki aise toh papers nahi dete, milne ke liye. Unhone number chhoda hai par main call",
+      "bm25_score_raw": 2.7636436835195966,
+      "bm25_score_norm": 0.20398007702169205,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.7813647985458374,
+      "embedding_score_norm": 0.5292325185175797,
+      "embedding_rank": 4
+    },
+    {
+      "title": "What is a Constable?",
+      "url": "https://www.uaex.uada.edu/business-communities/ced-blog/posts/2022/may/what-is-a-constable.aspx",
+      "snippet": "May 11, 2022 — A constable has the same law enforcement authority as a sheriff in their township. They have arrest power, can write citations, and respond to accidents.Read more",
+      "bm25_score_raw": 1.1151636695848706,
+      "bm25_score_norm": 0.023182851254216874,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.77509605884552,
+      "embedding_score_norm": 0.4340220128803776,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Last Moment Tip No. 1 SSC CPO & DP Constable 2026 Physicals . . . . . . . . . . ...",
+      "url": "https://www.instagram.com/reel/Da4wl1wSryD",
+      "snippet": "CPO aur constable walo, tumhein agar running aa nahi. Subah shaam ye nahi ki speed workout, ek time heavy ek time slow. Constable ka result aa",
+      "bm25_score_raw": 2.299168151519556,
+      "bm25_score_norm": 0.15303867226541656,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.772707462310791,
+      "embedding_score_norm": 0.39774367070845695,
+      "embedding_rank": 6
+    },
+    {
+      "title": "Constable | Definition, Duties & Job Description - Video | Study.com",
+      "url": "https://study.com/learn/lesson/video/constable-powers-duties.html",
+      "snippet": "# Video: Constable | Definition, Duties & Job Description. ## You must cCreate an account to continue watching. Are you a student or a teacher? As a member, you'll also get unlimited access to over 88,000 lessons in math, English, science, history, and more. Get unlimited access to over 88,000 lessons. Over 30,000 video lessons & teaching resources—all in one place. It’s like **a teacher waved a magic wand and did the work for me.** I feel like it’s a lifeline. Contributors: Maggie Drury, Vericia Miller. #### Role and Definition of a Constable. A constable is a peace officer whose responsibilities overlap with those of police and sheriffs. #### Duties and Limitations of Constables. Constables oversee smaller towns and communities, where they are responsible for maintaining peace and enforcing laws. Both constables and deputy sheriffs have the authority to make arrests and provide security. The requirements to be a constable vary by state. Read Constable | Definition, Duties & Job Description Lesson.",
+      "bm25_score_raw": 1.3374859309753104,
+      "bm25_score_norm": 0.0475660695801714,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.7656326293945312,
+      "embedding_score_norm": 0.2902901072399165,
+      "embedding_rank": 7
+    },
+    {
+      "title": "Constable Precinct 2 | What is the Role of a Constable?",
+      "url": "https://www.dallascounty.org/departments/constable/precinct2/constable-role.php",
+      "snippet": "# What is the Role of a Constable? Garland Government Center - 140 N. ### What is a Constable? A constable is a licensed peace officer and performs various law enforcement functions. ### What does a Constable do in Texas:. A county constable in Texas has the following duties:. * Serves as a licensed peace officer and performs various law enforcement functions, including issuing traffic citations. ### Primary Function of a Dallas County Constable. A primary task of many constables is to serve legal documents as required by the local civil court system. Constables serve subpoenas issued by the court and they help to enforce temporary restraining orders. Since the constable is an officer of the local court, any legal documents to be served outside of the home jurisdiction passes to constables in the jurisdiction where they are to be served. Constables are like any other law enforcement officer in that they have the power to enforce traffic laws.",
+      "bm25_score_raw": 1.3437520118195112,
+      "bm25_score_norm": 0.04825330268187104,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.747764527797699,
+      "embedding_score_norm": 0.01890685173081206,
+      "embedding_rank": 8
+    },
+    {
+      "title": "Constable responsibilities and requirements | What to know",
+      "url": "https://www.youtube.com/watch?v=l5W8rMuoaR4",
+      "snippet": "Constable responsibilities and requirements | What to know\nTHV11\n216000 subscribers\n199 likes\n19015 views\n20 Sep 2025\nJefferson County Sheriff Lafayette Woods talks with THV11 about an incident involving a constable and what constables are required to do\n125 comments\n",
+      "bm25_score_raw": 1.499359564355263,
+      "bm25_score_norm": 0.06531957801982885,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.7465196847915649,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 9
+    }
+  ]
+}

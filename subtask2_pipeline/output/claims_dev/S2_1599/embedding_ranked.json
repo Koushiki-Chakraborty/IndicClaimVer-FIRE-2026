@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/1599",
+    "text": "বাগদা বিধানসভা উপনির্বাচনে তৃণমূল কংগ্রেসের প্রার্থী আবারও বিশ্বজিৎ দাস হয়েছেন।",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "BJP MLA Biswajit Das today joined the ruling Trinamool Congress in ...",
+      "url": "https://www.facebook.com/ndtv/posts/bjp-mla-biswajit-das-today-joined-the-ruling-trinamool-congress-in-bengal-becomi/10160001564055798",
+      "snippet": "When you don't elect the law maker's on the issues of education,health and security,this is bound to happen. Politics has become easy way to",
+      "bm25_score_raw": 3.4252510779486003,
+      "bm25_score_norm": 0.6345097990115292,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8845847249031067,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "রাজ্যে আরও কমল বিজেপি বিধায়কের সংখ্যা, সোমবার তন্ময় ঘোষের পর এবার ...",
+      "url": "https://bengali.oneindia.com/news/west-bengal/bagda-s-bjp-mla-biswajit-das-joins-tmc-143303.html",
+      "snippet": "Bagdas BJP MLA Biswajit Das joins TMC. It is to be mentioned that on Monday Bishnupur MLA Tanmoy Ghosh joined BJP. বাগদার বিজেপি বিধায়ক বিশ্বজিৎ দাস যোগ",
+      "bm25_score_raw": 1.7634659813790812,
+      "bm25_score_norm": 0.23481941031148792,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8563766479492188,
+      "embedding_score_norm": 0.7210788771558418,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Press bite of Sirsanya Bandopadhyay, Advocate and All India Trinamool ...",
+      "url": "https://www.facebook.com/KalyanBanerjeeAITC/posts/press-bite-of-sirsanya-bandopadhyay-advocate-and-all-india-trinamool-congress-ca/1519707219508466",
+      "snippet": "Press bite of Sirsanya Bandopadhyay, Advocate and All India Trinamool Congress candidate from Uttarpara Assembly Constituency.",
+      "bm25_score_raw": 3.9722833386981478,
+      "bm25_score_norm": 0.7660812864329787,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8349320888519287,
+      "embedding_score_norm": 0.509035336857373,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Trinamool Congress candidate Sangita Roy has won the Sitai ...",
+      "url": "https://www.facebook.com/thejamiatimes/posts/trinamool-congress-candidate-sangita-roy-has-won-the-sitai-assembly-constituency/974440295503357",
+      "snippet": "Trinamool Congress candidate Sangita Roy has won the Sitai Assembly constituency in West Bengal, defeating Bharatiya Janata Party's Ashutosh",
+      "bm25_score_raw": 4.724694983941293,
+      "bm25_score_norm": 0.9470503561222432,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8238277435302734,
+      "embedding_score_norm": 0.39923570497787797,
+      "embedding_rank": 4
+    },
+    {
+      "title": "West Bengal Assembly election results: Full list of winning candidates ...",
+      "url": "https://www.thestatesman.com/bengal/west-bengal-assembly-election-results-full-list-of-winning-candidates-across-seats-1503589915.html/amp",
+      "snippet": "The TMC retained Sitai through Sangita Roy. In the Jalpaiguri and Darjeeling belt, BJP candidates like Bishal Lama, Ananta Deb Adhikary, Bharat",
+      "bm25_score_raw": 1.2859020295450738,
+      "bm25_score_norm": 0.11995635014101359,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.8088209629058838,
+      "embedding_score_norm": 0.2508488401492992,
+      "embedding_rank": 5
+    },
+    {
+      "title": "বিজেপিতে যাওয়া মস্ত বড় ভুল ছিল, বিধায়ক পদ থেকে ইস্তফা দিয়ে দাবি ...",
+      "url": "https://www.etvbharat.com/bn/!politics/tmcs-biswajit-das-resigned-as-bagdah-bjp-mla-wbs24041906199",
+      "snippet": "Biswajit Das: উত্তর 24 পরগনার বাগদার বিধায়ক বিশ্বজিৎ দাস ৷ 2021 সালে জিতেছিলেন বিজেপির টিকিটে ৷ পরে তিনি তৃণমূলে যোগ দেন ৷ কিন্তু ইস্তফা দেননি বিধায়ক পদ থেকে ৷ এবার তিনি বনগাঁ লোকসভায়",
+      "bm25_score_raw": 0.7871618032625428,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.8015015125274658,
+      "embedding_score_norm": 0.17847420356957838,
+      "embedding_rank": 6
+    },
+    {
+      "title": "'ভুল তো আমারও ছিল,' বাগদায় বিশ্বজিৎ ফিরতেই ব্যান্ড বাজিয়ে অভ্যর্থনা ...",
+      "url": "https://tv9bangla.com/west-bengal/north-24-parganas/tmc-welcomes-bagda-mla-biswajit-das-as-he-returns-408922.html/amp",
+      "snippet": "Biswajit Das: বিশ্বজিৎ দাস ফের তৃণমূলে ফিরতে তাঁকে বুকে টেনে নিলেন তৃণমূল জেলা শঙ্কর আঢ্য। বললেন, 'ভুল তো আমারও ছিল। আসলে রাজনীতিতে চিরশত্রু বলে কিছু হয় না।",
+      "bm25_score_raw": 1.4533875055440633,
+      "bm25_score_norm": 0.16023973885465587,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.7997369766235352,
+      "embedding_score_norm": 0.1610264939498222,
+      "embedding_rank": 7
+    },
+    {
+      "title": "Bagda Assembly Election Results 2026",
+      "url": "https://www.indiatoday.in/amp/elections/assembly/west-bengal/bagda-constituency-result-19094",
+      "snippet": "Bagda Assembly Election Result 2026: Latest updates on Bagda constituency Seat including election results, MLA's, party-wise candidates votes,",
+      "bm25_score_raw": 4.060861389190692,
+      "bm25_score_norm": 0.7873859638577205,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.7992628812789917,
+      "embedding_score_norm": 0.15633864493227254,
+      "embedding_rank": 8
+    },
+    {
+      "title": "'জনসংযোগে খামতি ছিল...', স্বীকার করলেন বাগদার তৃণমূল নেতা বিশ্বজিৎ দাস",
+      "url": "https://www.youtube.com/watch?v=VTpqlaOwMLM",
+      "snippet": "This content isn't available. Madhuparna Thakur, Bagda Bye Election: রানাঘাট মতুয়া-গড়, সেখানেও চমকপ্রদ ফল মুকুটমণি অধিকারীর। 'বাগদায়",
+      "bm25_score_raw": 2.085043568527989,
+      "bm25_score_norm": 0.3121648330560415,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.7981534004211426,
+      "embedding_score_norm": 0.14536811166439859,
+      "embedding_rank": 9
+    },
+    {
+      "title": "Bagda Assembly Election Results 2026",
+      "url": "https://timesofindia.indiatimes.com/elections/assembly-elections/west-bengal/constituency-show/bagda",
+      "snippet": "Bagda Election Result 2026: Know all about West Bengal Assembly Election Constituency Bagda Results, candidate list, last winner, winner name, runner up and",
+      "bm25_score_raw": 4.9448427071600145,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.7978911995887756,
+      "embedding_score_norm": 0.14277547301363153,
+      "embedding_rank": 10
+    },
+    {
+      "title": "আরও বড় ধাক্কা, মমতা তৃণমূল ত্যাগ প্রাক্তন তৃণমূল বিধায়ক বিশ্বজিৎ দাসের",
+      "url": "https://bengali.news18.com/amp/videos/kolkata/tmc-news-bangla-news-2810703.html",
+      "snippet": "২০২১-এর বিধানসভা ভোটে বাগদায় জয়ী হন। এরপরে তৃণমূলে যোগ দেন বিশ্বজিৎ দাস। ২০২৪ সালে লোকসভা ভোটে তৃণমূলের টিকিটে লড়াই। এবার বনগাঁ উত্তরে তৃণমূলের টিকিটে লড়ে পরাজিত।Biswajit Das has returned",
+      "bm25_score_raw": 1.7325161882619544,
+      "bm25_score_norm": 0.22737540635050238,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.787956953048706,
+      "embedding_score_norm": 0.04454576369681157,
+      "embedding_rank": 11
+    },
+    {
+      "title": "এবার ঋতব্রত শিবিরে বাগদার প্রাক্তন তৃণমূল বিধায়ক বিশ্বজিৎ দাস | Ritabrata",
+      "url": "https://www.youtube.com/watch?v=n2uEDNuX6w0",
+      "snippet": "This content isn't available.",
+      "bm25_score_raw": 1.240684039938329,
+      "bm25_score_norm": 0.10908057812966063,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.7834519147872925,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

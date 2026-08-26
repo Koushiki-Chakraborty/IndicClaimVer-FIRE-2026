@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/CM/1035",
+    "text": "sayyeduna maula ali al murtaza se kaha apne kalam ye shahadat likhkar dedo ke aapne ye suna hai to sayyeduna maula ali al murtaza ne kagaz lekar likha bismilla hir rehma ni raheem allah ka naam leke likhta hun aur zamanat ke saath likhta hun ispar ke",
+    "lang": "codemix"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Sayyeduna Kareemun Sallalaho-Alayhi-Wasallam",
+      "url": "https://www.tumblr.com/peacebeuponhim786/102530456350/sayyeduna-kareemun-sallalaho-alayhi-wasallam",
+      "snippet": "Recite this Durood/Salawat as much as you can and see miracles happen in your life. There is no limit to this zikr; recite as much as you can.Read more",
+      "bm25_score_raw": 6.542447303836316,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8368481397628784,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "The first thing Allah created was the pen. He said to it Write. ...",
+      "url": "https://www.facebook.com/groups/1272540949815834/posts/1740303969706194",
+      "snippet": "I heard the Messenger of Allah (ﷺ) say: The first thing Allah created was the pen. He said to it Write. It asked: What should I write, my Lord?Read more",
+      "bm25_score_raw": 2.3849560172028275,
+      "bm25_score_norm": 0.3645357626043626,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8264738321304321,
+      "embedding_score_norm": 0.7359347619950692,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Hadith of pen and paper",
+      "url": "https://en.wikipedia.org/wiki/Hadith_of_pen_and_paper",
+      "snippet": "The hadith of pen and paper was when the Islamic prophet Muhammad wished to issue a written statement, shortly before his death, but was prevented from ...Read more",
+      "bm25_score_raw": 5.158939751189244,
+      "bm25_score_norm": 0.7885336345260557,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8261536955833435,
+      "embedding_score_norm": 0.7277860800303433,
+      "embedding_rank": 3
+    },
+    {
+      "title": "The Prophet said, “The first thing created by Allah was the ...",
+      "url": "https://www.reddit.com/r/religion/comments/mivkik/the_prophet_said_the_first_thing_created_by_allah",
+      "snippet": "The Prophet said, “The first thing created by Allah was the pen, then, He ordered it to write, so it wrote everything that will happen till the Day of Judgment ...Read more",
+      "bm25_score_raw": 1.7509426780164092,
+      "bm25_score_norm": 0.267628090330923,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8259843587875366,
+      "embedding_score_norm": 0.7234758202161957,
+      "embedding_rank": 4
+    },
+    {
+      "title": "'Sayyiduna' Muhammad ﷺ—the Preeminent",
+      "url": "https://www.youtube.com/watch?v=8Hvm5D8mrUw",
+      "snippet": "“It's just even a honor to be able to enunciate the name of the Prophet Muhammad ﷺ.” On October 16, 2021, Al-Maqasid held its Annual Loving ...Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.8255720138549805,
+      "embedding_score_norm": 0.712980087236867,
+      "embedding_rank": 5
+    },
+    {
+      "title": "The life and character of Sayyiduna Muhammad",
+      "url": "https://www.facebook.com/groups/378371256226063/posts/1787917391938102",
+      "snippet": "He is a companion of The Beloved Prophet صلى الله عليه وسلم and a great military commander who participated in many battles for the cause of",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.8172640800476074,
+      "embedding_score_norm": 0.5015118528351982,
+      "embedding_rank": 6
+    },
+    {
+      "title": "Sayyiduna Umar ibn al-Khattab…the man who shattered ...",
+      "url": "https://www.instagram.com/reel/DRAMamUEly9?hl=en",
+      "snippet": "A man who ruled half the world. A man whose strategy and sword built an empire. But when it came to the Beloved ﷺ, he was just a lover. Just a ...Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.8149348497390747,
+      "embedding_score_norm": 0.44222416081926796,
+      "embedding_rank": 7
+    },
+    {
+      "title": "The Multiverse Tablet. According to Islamic tradition, the pen…",
+      "url": "https://tariqali.me/the-multiverse-tablet-d6cfb54d0c05",
+      "snippet": "Oct 16, 2023 — The pen was the first thing Allah created. Allah commanded the pen to write, and it wrote everything that would happen until the Day of Judgment.Read more",
+      "bm25_score_raw": 3.8341802875725737,
+      "bm25_score_norm": 0.5860467970944623,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8105793595314026,
+      "embedding_score_norm": 0.33136051583538784,
+      "embedding_rank": 8
+    },
+    {
+      "title": "The first thing created by Allah (swt) ...",
+      "url": "https://www.instagram.com/reel/CrRWXqULRJ_?hl=en",
+      "snippet": "The first thing created by Allah (swt) was the pen, and He told it to write all that would exist. Everything is written. 1st Al-Muharram SHAHR",
+      "bm25_score_raw": 0.45678192680977825,
+      "bm25_score_norm": 0.06981820496161024,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8091276288032532,
+      "embedding_score_norm": 0.29440849611227005,
+      "embedding_rank": 9
+    },
+    {
+      "title": "Sayyiduna Meaning & Definition | Slough Islamic Dictionary",
+      "url": "https://www.sloughislamictrust.org.uk/dictionary/meaning/sayyiduna",
+      "snippet": "Feb 23, 2026 — Sayyiduna is an honorific title meaning \"Our Master\" or \"Our Leader.\" It is used as a mark of deep respect before the names of the Prophets,",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.8072163462638855,
+      "embedding_score_norm": 0.245759150388773,
+      "embedding_rank": 10
+    },
+    {
+      "title": "The first thing created by Allah (swt) was the pen, and He ...",
+      "url": "https://www.facebook.com/YaqeenInstitute/videos/the-first-thing-created-by-allah-swt-was-the-pen-and-he-told-it-to-write-all-tha/978876603481454",
+      "snippet": "The first thing created by Allah (swt) was the pen, and He told it to write all that would exist. When you experience loss, pain, ...Read more",
+      "bm25_score_raw": 0.43378311650886625,
+      "bm25_score_norm": 0.06630288275375293,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8058578968048096,
+      "embedding_score_norm": 0.21118149061255453,
+      "embedding_rank": 11
+    },
+    {
+      "title": "Sayyid - Wikipedia, Njikotá édémédé nke onyobulạ",
+      "url": "https://ig.wikipedia.org/wiki/Sayyid",
+      "snippet": "Ọ bụ ezie na n'oge mmalite nke Islam, a na-etinye aha Al-Sayyid na ndị niile sitere na banu hashim, agbụrụ nke onye amụma Islam Muhammad. Mana ka e mesịrị, e ...Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.7975612282752991,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

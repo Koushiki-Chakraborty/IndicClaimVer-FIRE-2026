@@ -1,0 +1,99 @@
+{
+  "claim": {
+    "id": "S2/1325",
+    "text": "Serum Institute urges govt to reduce gap between second, precaution dose of Covishield",
+    "lang": "dev"
+  },
+  "entity_ranked_evidence": [
+    {
+      "title": "Modi govt could reduce gap between Covishield doses amid reports of ...",
+      "url": "https://theprint.in/health/modi-govt-could-reduce-gap-between-covishield-doses-amid-reports-of-infections-among-vaccinated/722750?amp=",
+      "snippet": "a dose gap of 12-16 weeks increases efficacy. Modi government is looking at reducing the dose gap for Serum Institute's Covishield. Covishield",
+      "bm25_score_raw": 4.600357314530676,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9064159989356995,
+      "embedding_score_norm": 0.5213279975614799,
+      "embedding_rank": 2,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 1
+    },
+    {
+      "title": "SII asks Centre to reduce gap between second and precaution COVID-19 ...",
+      "url": "https://www.firstpost.com/india/sii-asks-centre-to-reduce-gap-between-second-and-precaution-covid-19-dose-what-is-the-global-mandate-for-booster-shot-10349511.html/amp",
+      "snippet": "The maker of Covishield vaccine, Serum Institute of India, has asked the government to reduce the gap between the second vaccine dose and the",
+      "bm25_score_raw": 4.195892044185136,
+      "bm25_score_norm": 0.897613308988961,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.9442309141159058,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 2
+    },
+    {
+      "title": "Govt's 4-week gap for Serum jab may lead to lower efficacy - Mint",
+      "url": "https://www.livemint.com/companies/news/govts-4-week-gap-for-serum-jab-may-lead-to-lower-efficacy/amp-11610583794996.html",
+      "snippet": "The government's decision to administer the second dose of Covishield vaccine just four weeks after the first may lead to efficacy of just",
+      "bm25_score_raw": 1.3802557895092447,
+      "bm25_score_norm": 0.18486069376270103,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.894203782081604,
+      "embedding_score_norm": 0.3667422668278263,
+      "embedding_rank": 3,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 3
+    },
+    {
+      "title": "Covid-19: Serum Institute of India halts vaccine production over millions ...",
+      "url": "https://timesofindia.indiatimes.com/india/covid-19-serum-institute-of-india-halts-vaccine-production-over-millions-of-unused-doses/amp_articleshow/91007867.cms",
+      "snippet": "He said that the government is also expected to cut the recommended time gap for a booster shot to six months after the second dose, from nine",
+      "bm25_score_raw": 0.8979481612132295,
+      "bm25_score_norm": 0.06276892042348799,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8868139982223511,
+      "embedding_score_norm": 0.2732002710137514,
+      "embedding_rank": 4,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 4
+    },
+    {
+      "title": "Serum Institute of India cuts Covishield vaccine price for States to ₹300 per ...",
+      "url": "https://www.thehindu.com/news/national/serum-institute-of-india-cuts-covishield-vaccine-price-for-states-to-300-per-dose/article34431403.ece/amp",
+      "snippet": "“As a philanthropic gesture on behalf of SII, I hereby reduce the price to the states from ₹400 to ₹300 per dose, effective immediately; this",
+      "bm25_score_raw": 0.8872346833728595,
+      "bm25_score_norm": 0.060056901306597014,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8735123872756958,
+      "embedding_score_norm": 0.10482467854841655,
+      "embedding_rank": 5,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 5
+    },
+    {
+      "title": "The gap between 2 doses of the #Covishield vaccine should be ...",
+      "url": "https://x.com/mygovindia/status/1373998037593321473?lang=en",
+      "snippet": "The gap between 2 doses of the #Covishield vaccine should be increased from 28 days to 6-8 weeks for better results, the government has written",
+      "bm25_score_raw": 0.6499877269254714,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8652312755584717,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 6
+    }
+  ]
+}

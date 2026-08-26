@@ -1,0 +1,108 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1106",
+    "text": "Read third list of Congress candidates, Azharuddin from Rajasthan, no ticket for Kalmadi",
+    "lang": "english"
+  },
+  "generated_queries": {
+    "english_translation": "Read third list of Congress candidates, Azharuddin from Rajasthan, no ticket for Kalmadi",
+    "native_query": "Congress Azharuddin Rajasthan Kalmadi Read list candidates ticket",
+    "english_query": "Congress Azharuddin Rajasthan Kalmadi Read list candidates ticket"
+  },
+  "native_retrieval": [
+    {
+      "title": "Read third list of Congress candidates, Azharuddin from ...",
+      "url": "https://www.indiatvnews.com/politics/national/read-third-list-of-congress-candidates-azharuddin-from-rajastha-15684.html",
+      "snippet": "Read third list of Congress candidates, Azharuddin from Rajasthan, no ticket for Kalmadi · New Delhi: The Congress central election committee today released its"
+    },
+    {
+      "title": "Ex Cricketer Azharuddin In Congress' 2nd List Of 45 Candidates For ...",
+      "url": "https://www.ndtv.com/india-news/ex-cricketer-azharuddin-in-congress-2nd-list-of-45-candidates-for-telangana-4521332/amp/1",
+      "snippet": "The party has now declared candidates for 100 out of 119 seats for the Assembly polls, which will be held on November 30."
+    },
+    {
+      "title": "Congress third list out; Azhar to fight from Sawai Madhopur ...",
+      "url": "https://indianexpress.com/article/cities/delhi/congs-third-list-out-azhar-to-fight-from-sawai-madhopur-kalmadi-wont-get-pune",
+      "snippet": "Scam-tainted Suresh Kalmadi was denied ticket by Congress which fielded young leader Vishwajeet Kadam in his place as it released the third list of 58"
+    },
+    {
+      "title": "Jogi, Pilot in Congress list; no ticket for Kalmadi",
+      "url": "https://thepeninsulaqatar.com/article/19/03/2014/jogi-pilot-in-congress-list-no-ticket-for-kalmadi",
+      "snippet": "New Delhi: The Congress yesterday declared its third list of party candidates fielding former Chhattisgarh chief minister Ajit Jogi from"
+    },
+    {
+      "title": "Suresh Kalmadi denied ticket as Congress names 58 candidates in ...",
+      "url": "https://www.livemint.com/Politics/hB10mzOUgliy9IKL79cPcI/Congress-names-58-candidates-in-third-list-Suresh-Kalmadi-d.html?facet=amp",
+      "snippet": "Senior Congress leader Suresh Kalmadi, accused of irregularities in the preparations for the 2010 Delhi Commonwealth Games, has been denied a party ticket to"
+    },
+    {
+      "title": "Former Indian cricketer Azharuddin's hopes dashed as Congress denies ...",
+      "url": "https://www.thenewsminute.com/amp/story/telangana/former-indian-cricketer-azharuddin-s-hopes-dashed-congress-denies-mp-ticket-98589",
+      "snippet": "In a major disappointment for former Indian cricket captain and politician Mohammed Azharuddin, the Congress party has denied him seats in both Secunderabad"
+    }
+  ],
+  "english_retrieval": [
+    {
+      "title": "Read third list of Congress candidates, Azharuddin from ...",
+      "url": "https://www.indiatvnews.com/politics/national/read-third-list-of-congress-candidates-azharuddin-from-rajastha-15684.html",
+      "snippet": "Read third list of Congress candidates, Azharuddin from Rajasthan, no ticket for Kalmadi · New Delhi: The Congress central election committee today released its"
+    },
+    {
+      "title": "Ex Cricketer Azharuddin In Congress' 2nd List Of 45 Candidates For ...",
+      "url": "https://www.ndtv.com/india-news/ex-cricketer-azharuddin-in-congress-2nd-list-of-45-candidates-for-telangana-4521332/amp/1",
+      "snippet": "The party has now declared candidates for 100 out of 119 seats for the Assembly polls, which will be held on November 30."
+    },
+    {
+      "title": "Congress third list out; Azhar to fight from Sawai Madhopur ...",
+      "url": "https://indianexpress.com/article/cities/delhi/congs-third-list-out-azhar-to-fight-from-sawai-madhopur-kalmadi-wont-get-pune",
+      "snippet": "Scam-tainted Suresh Kalmadi was denied ticket by Congress which fielded young leader Vishwajeet Kadam in his place as it released the third list of 58"
+    },
+    {
+      "title": "Jogi, Pilot in Congress list; no ticket for Kalmadi",
+      "url": "https://thepeninsulaqatar.com/article/19/03/2014/jogi-pilot-in-congress-list-no-ticket-for-kalmadi",
+      "snippet": "New Delhi: The Congress yesterday declared its third list of party candidates fielding former Chhattisgarh chief minister Ajit Jogi from"
+    },
+    {
+      "title": "Suresh Kalmadi denied ticket as Congress names 58 candidates in ...",
+      "url": "https://www.livemint.com/Politics/hB10mzOUgliy9IKL79cPcI/Congress-names-58-candidates-in-third-list-Suresh-Kalmadi-d.html?facet=amp",
+      "snippet": "Senior Congress leader Suresh Kalmadi, accused of irregularities in the preparations for the 2010 Delhi Commonwealth Games, has been denied a party ticket to"
+    },
+    {
+      "title": "Former Indian cricketer Azharuddin's hopes dashed as Congress denies ...",
+      "url": "https://www.thenewsminute.com/amp/story/telangana/former-indian-cricketer-azharuddin-s-hopes-dashed-congress-denies-mp-ticket-98589",
+      "snippet": "In a major disappointment for former Indian cricket captain and politician Mohammed Azharuddin, the Congress party has denied him seats in both Secunderabad"
+    }
+  ],
+  "merged_results": [
+    {
+      "title": "Read third list of Congress candidates, Azharuddin from ...",
+      "url": "https://www.indiatvnews.com/politics/national/read-third-list-of-congress-candidates-azharuddin-from-rajastha-15684.html",
+      "snippet": "Read third list of Congress candidates, Azharuddin from Rajasthan, no ticket for Kalmadi · New Delhi: The Congress central election committee today released its"
+    },
+    {
+      "title": "Ex Cricketer Azharuddin In Congress' 2nd List Of 45 Candidates For ...",
+      "url": "https://www.ndtv.com/india-news/ex-cricketer-azharuddin-in-congress-2nd-list-of-45-candidates-for-telangana-4521332/amp/1",
+      "snippet": "The party has now declared candidates for 100 out of 119 seats for the Assembly polls, which will be held on November 30."
+    },
+    {
+      "title": "Congress third list out; Azhar to fight from Sawai Madhopur ...",
+      "url": "https://indianexpress.com/article/cities/delhi/congs-third-list-out-azhar-to-fight-from-sawai-madhopur-kalmadi-wont-get-pune",
+      "snippet": "Scam-tainted Suresh Kalmadi was denied ticket by Congress which fielded young leader Vishwajeet Kadam in his place as it released the third list of 58"
+    },
+    {
+      "title": "Jogi, Pilot in Congress list; no ticket for Kalmadi",
+      "url": "https://thepeninsulaqatar.com/article/19/03/2014/jogi-pilot-in-congress-list-no-ticket-for-kalmadi",
+      "snippet": "New Delhi: The Congress yesterday declared its third list of party candidates fielding former Chhattisgarh chief minister Ajit Jogi from"
+    },
+    {
+      "title": "Suresh Kalmadi denied ticket as Congress names 58 candidates in ...",
+      "url": "https://www.livemint.com/Politics/hB10mzOUgliy9IKL79cPcI/Congress-names-58-candidates-in-third-list-Suresh-Kalmadi-d.html?facet=amp",
+      "snippet": "Senior Congress leader Suresh Kalmadi, accused of irregularities in the preparations for the 2010 Delhi Commonwealth Games, has been denied a party ticket to"
+    },
+    {
+      "title": "Former Indian cricketer Azharuddin's hopes dashed as Congress denies ...",
+      "url": "https://www.thenewsminute.com/amp/story/telangana/former-indian-cricketer-azharuddin-s-hopes-dashed-congress-denies-mp-ticket-98589",
+      "snippet": "In a major disappointment for former Indian cricket captain and politician Mohammed Azharuddin, the Congress party has denied him seats in both Secunderabad"
+    }
+  ]
+}

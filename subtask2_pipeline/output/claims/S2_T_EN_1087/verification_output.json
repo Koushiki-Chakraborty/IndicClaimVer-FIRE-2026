@@ -1,0 +1,6 @@
+{
+  "ID": "S2/T/EN/1087",
+  "Evidence": "Noida recorded 45 fresh Covid-19 cases in a 24-hour period, but the active cases were reported as 323, not 511, according to Source 1. Source 2 reported 12 fresh cases with active cases at 77, while Source 3 mentioned a different context with 655 new cases and 6,300 active cases. The claim's assertion of 511 active cases is not supported by the evidence, which shows a lower number of active cases. Therefore, the claim is inconsistent with the retrieved data.",
+  "Prediction": "REFUTES",
+  "Justification": "The retrieved evidence from Source 1 states that Noida recorded 45 fresh Covid-19 cases, leading to an active case count of 323, which directly contradicts the claim of 511 active cases. Source 2 also indicates a lower active case count of 77. Thus, the evidence refutes the claim's core assertion regarding the number of active cases."
+}

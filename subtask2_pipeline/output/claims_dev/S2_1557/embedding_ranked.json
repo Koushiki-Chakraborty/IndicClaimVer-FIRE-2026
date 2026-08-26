@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/1557",
+    "text": "मालिक के जीवनकाल में संपत्ति का बंटवारा मुस्लिम लॉ में स्वीकार्य है : सुप्रीम कोर्ट",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Pa. Justices Reject Prior Case, End 'Open Fields Doctrine' - Law360",
+      "url": "https://www.law360.com/real-estate-authority/commercial/articles/2503898/pa-justices-reject-prior-case-end-open-fields-doctrine-",
+      "snippet": "## US Coverage. # Law360 | The Practice of Law. # State Specific Coverage. # Law360 Authority | Deep News & Analysis. # Employment Authority. # Tax Authority. # Insurance Authority. # Real Estate Authority. # Healthcare Authority. # Bankruptcy Authority. ## Global Coverage. # Law360 UK. # Law360 Canada. # Law360 Pulse | The Business of Law. Mealey's California Section 17200. Mealey's Construction Defects Insurance. Mealey's Cyber Tech & E-Commerce. Mealey's Emerging Insurance Disputes. Mealey's Insurance Bad Faith. By **Parker Quinlan** · July 21, 2026, 9:26 PM EDT. The Pennsylvania Supreme Court on Tuesday issued stronger protections for private property owners, holding that the state's charter protects against an \"open fields doctrine\" that allows state game authorities to search... ### Recent Articles By Parker. NY AG Scores 1st Conviction Under Revised Home Equity Law. LA Developer Agrees To Tear Down Homes In Laurel Canyon. Ga. Developer Says Insurer Shorted Roof Repair Coverage.",
+      "bm25_score_raw": 0.3163810867158867,
+      "bm25_score_norm": 0.06322445180470078,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8122562170028687,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "NJ Justices Call Land Swap An Abuse Of Eminent Domain - Law360",
+      "url": "https://www.law360.com/real-estate-authority/commercial/articles/2503317/nj-justices-call-land-swap-an-abuse-of-eminent-domain",
+      "snippet": "## US Coverage. # Law360 | The Practice of Law. # State Specific Coverage. # Law360 Authority | Deep News & Analysis. # Employment Authority. # Tax Authority. # Insurance Authority. # Healthcare Authority. # Bankruptcy Authority. ## Global Coverage. # Law360 UK. # Law360 Canada. # Law360 Pulse | The Business of Law. Mealey's Construction Defects Insurance. Mealey's Emerging Insurance Disputes. Mealey's Insurance Bad Faith. # NJ Justices Call Land Swap An Abuse Of Eminent Domain. By **Carla Baranauckas** · July 20, 2026, 6:31 PM EDT. The New Jersey Supreme Court ruled unanimously Monday that a municipality violated state law and constitutional limits when it condemned two privately owned parcels of land to trade them to a... ### Recent Articles By Carla. NJ Justices Revamp Test For Certain Zoning Variances. NJ, ICE Pause Fight Over Planned Immigrant Detention Center. ICE Says 'Speculative' Harms Can't Block NJ Detention Center. NJ, Town Sue DHS To Stop Planned ICE Facility At Warehouse.",
+      "bm25_score_raw": 0.9972205233021303,
+      "bm25_score_norm": 0.1992809417548793,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8074243664741516,
+      "embedding_score_norm": 0.9246674317787927,
+      "embedding_rank": 2
+    },
+    {
+      "title": "State Supreme Court rules warrantless searches by Pa. game officials are unconstitutional - Pennsylvania Capital-Star",
+      "url": "https://penncapital-star.com/rural-issues/state-supreme-court-rules-warrantless-searches-by-pa-game-officials-are-unconstitutional/",
+      "snippet": "Property owners have a greater right to privacy on their land under the Pennsylvania Constitution than under the U.S. Constitution, the state Supreme Court ruled Tuesday. They challenged the constitutionality of two provisions in the Game and Wildlife Code that permitted state game wardens to enter private land, but not homes or buildings, without warrants. “Today, the Pennsylvania Supreme Court affirmed that private land is not public property. The Pennsylvania Game Commission said it’s disappointed but respects the court’s ruling. After that and other interactions with wildlife officials, members of the Pitch Pine Hunting Club and the nearby Punxsutawney Hunting Club in Clearfield County sued the Pennsylvania Game Commission, asking the Commonwealth Court to find the laws unconstitutional. The Game and Wildlife Code provisions allowing warrantless searches are enabled by a 1924 U.S. Supreme Court decision establishing that Fourth Amendment protection against warrantless searches does not extend to “open fields,” such as farmland or woodland well away from dwellings.",
+      "bm25_score_raw": 0.3081336434705776,
+      "bm25_score_norm": 0.061576312583144506,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8073660135269165,
+      "embedding_score_norm": 0.9237576608013233,
+      "embedding_rank": 3
+    },
+    {
+      "title": "New Jersey Justices Reject Land-Swap Eminent Domain Powers - Bloomberg Law News",
+      "url": "https://news.bloomberglaw.com/us-law-week/new-jersey-justices-reject-land-swap-eminent-domain-powers",
+      "snippet": "# New Jersey Justices Reject Land-Swap Eminent Domain Powers. July 20, 2026, 3:19 PM UTC. Public land swap deals in which the government takes property from one private owner to trade land with a different private owner violates property ownership rights, the New Jersey Supreme Court ruled Monday. Even though New Jersey aligns with a broad federal understanding of eminent domain powers, the condemnation of land without applying that specific land for a public use violates the federal and state constitutions, Chief Justice Stuart Rabner wrote for the unanimous court. “Why didn’t the town condemn the developer’s land outright or exchange land the town already owned?” Rabner wrote. If “it were permissible for a town ... ## Learn more about Bloomberg Law or Log In to keep reading:. Bloomberg Law provides trusted coverage of current events enhanced with legal analysis. ### Already a subscriber? Log in to keep reading or access research tools and resources. © 2026 Bloomberg Industry Group, Inc.",
+      "bm25_score_raw": 5.0040937910095655,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8010990619659424,
+      "embedding_score_norm": 0.8260506739646593,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Supreme Court to Hear Case of Plane Seized Over Passenger’s Beer - Newsweek",
+      "url": "https://www.newsweek.com/supreme-court-alaska-plane-seizure-passenger-beer-12219244",
+      "snippet": "Why the Decision Could Matter Beyond Alaska The case arrives at a time when scrutiny of civil and criminal forfeiture laws remains high across the political spectrum. Why a Six-Pack Became a Supreme Court Case One reason the case has attracted attention is the apparent mismatch between the value of the property at stake and the amount of alcohol involved. In court filings, they wrote that the constitutional protection against excessive fines was \"built for cases like this.\" The Alaska Supreme Court assumed for purposes of its constitutional analysis that Jouppi's culpability extended only to a six-pack. The Constitutional Question The Supreme Court is not being asked whether alcohol should be allowed in dry villages or whether Jouppi was properly convicted. What's Driving \"Dry Villages\" in Alaska In urging the Supreme Court to reject Jouppi's appeal, Alaska painted a broader picture of the challenges faced by remote communities.",
+      "bm25_score_raw": 0.3189421088538957,
+      "bm25_score_norm": 0.06373623720380944,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.79552161693573,
+      "embedding_score_norm": 0.7390936673806681,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Metro acquires 300 acres of forest to expand Beaman Park - Axios",
+      "url": "https://www.axios.com/local/nashville/2026/07/24/300-acres-forest-expansion-beaman-park",
+      "snippet": "We use cookies and similar tracking technologies to remember preferences, analyze traffic, and deliver ads. Setting this to “off” disables targeted advertising and related trackers in your current browser. Because we can&amp;#x27;t link your Axios subscriber account (email) to browser cookies, you may also want to update your settings in the Privacy Center to ensure your account is fully opted out. See our Privacy Policy for more on how we use personal data and your rights. Review our Privacy Policy at axios.com/legal for more on how we use personal data and your rights. Mayor Freddie O'Connell's administration finalized a deal to acquire 300 acres of lush forest land that will be added to Beaman Park. **The big picture:**Beaman Park is one of the more unique park offerings in Metro, featuring a vast, untouched forest that is about 15 miles from downtown Nashville. *   Under the deal, The Conservation Fund will temporarily take ownership of the land and convey it to Metro at a later date.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.7948905229568481,
+      "embedding_score_norm": 0.7292543873914478,
+      "embedding_rank": 6
+    },
+    {
+      "title": "SK Hynix Billionaire Ordered To Pay $645 Million Divorce Settlement—Korea’s Largest Ever - Forbes",
+      "url": "https://www.forbes.com/sites/siladityaray/2026/07/24/sk-hynix-billionaire-ordered-to-pay-645-million-divorce-settlement-koreas-largest-ever/",
+      "snippet": "# SK Hynix Billionaire Ordered To Pay $645 Million Divorce Settlement—Korea’s Largest Ever. South Korean billionaire and SK Group chair Chey Tae-won was ordered to pay his ex-wife around $645 million, in the country’s largest-ever divorce settlement, putting a significant dent in the billionaire’s personal fortune, which has soared this year amid an AI-driven boom in the prices of advanced memory chips sold by his company SK Hynix. According to South Korea’s Yonhap News Agency, a Seoul appeals court ruled that Chey must pay his former wife, Roh Soh-yeong, a property division settlement of KRW 944 billion ($645.7 million). The payout is Korea’s largest-ever divorce settlement but is lower than the KRW 1.38 trillion (around $945 million) that a court had initially granted to Roh in 2024—but later overturned by the country’s Supreme Court. The court dismissed Chey’s argument that his holdings of SK Inc.’s shares should not be part of the settlement, as he had inherited them, and ruled that Roh was entitled to one-third of the couple’s joint property.",
+      "bm25_score_raw": 2.2667426199035714,
+      "bm25_score_norm": 0.45297764481873565,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.7890188694000244,
+      "embedding_score_norm": 0.6377104251948016,
+      "embedding_rank": 7
+    },
+    {
+      "title": "Diezani Alison-Madueke UK Acquittal: \"British Law and Jurisdiction Are Different from Nigeria\" – Legal Expert Watch full interview: https://youtu.be/dyqjFe3wLNo #trusttvnews #Tinubu #AntiCorruption #SundayPolitics - instagram.com",
+      "url": "https://www.instagram.com/reel/Da_VatrGKeQ/",
+      "snippet": "May be an image of one or more people, poster and text that says 'Trust> I am a farmer, I farm grains,'. Image 5: Video by Trust TV on May 21, 2026. May be an image of lumberyard and text that says 'NT Frust>'. May be an image of one or more people, television, newsroom and text that says 'Trust> 00 D0 00 ao Sunday POLITICS 00 CORRUPTION FIGHT 00 ANALYSIS OF MALAMI, OTHERS' ASSET FORFEITURES AND THE TINUBU MODEL'. May be an image of text that says 'Trust> 00 00 O D0 00 do Sunday POLITICS 00 CORRUPTION FIGHT ANALYSIS ANAL OF MALAMI, OTHERS' ASSET FORFEITURES AND THE TINUBU MODELO 00'. May be an image of one or more people, television, newspaper, newsroom and text that says 'Trust> Sunday POLITICS Supday DPLITIES GOVERNANCE ADC, ATIKU CHALLENGE TINUBU GOVERNMENT OVER ECONOMY AND PUBLIC FINANCES'. May be an image of screen and text that says 'Trust~ !!!!!",
+      "bm25_score_raw": 0.9742437454931493,
+      "bm25_score_norm": 0.19468934560009468,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.7851662039756775,
+      "embedding_score_norm": 0.5776441671042055,
+      "embedding_rank": 8
+    },
+    {
+      "title": "TELUS consolidates telecom businesses to drive sustainable growth – Company Announcement - Financial Times",
+      "url": "https://markets.ft.com/data/announce/detail?dockey=600-202607220645PR_NEWS_USPRX____MO09852-1",
+      "snippet": "*Senior telecom executive David Fuller rejoins the company to lead consolidated consumer and business telecom portfolio as of September 1*  *st*. VANCOUVER, BC , July 22, 2026 /PRNewswire/ -- TELUS Corporation (TSX: T) (NYSE: TU) today announced changes to its executive leadership as a first step in a transformation of the company's core telecom business to drive sustainable growth. * Navin Arora will assume the role of EVP and Group President, Global Platform Businesses, with oversight of TELUS Health, TELUS Agriculture & Consumer Goods, and TELUS Digital Solutions. * Zainul Mawji, Executive Vice President, TELUS Consumer Solutions, will transition from the company on September 1st following more than two decades of significant contributions. In addition to his leadership of our Health and Agriculture and Consumer Goods Business today, Navin will take on the leadership of Digital Solutions pursuing business opportunities across all three of our global platform businesses.\".",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.7794320583343506,
+      "embedding_score_norm": 0.4882440676706053,
+      "embedding_rank": 9
+    },
+    {
+      "title": "Vitol sells Delaware basin producer VTX Energy Partners to Verde Operating - World Oil",
+      "url": "https://worldoil.com/news/2026/7/24/vitol-sells-delaware-basin-producer-vtx-energy-partners-to-verde-operating/",
+      "snippet": "World Oil Events Gulf Energy Information Excellence Awards Women's Global Leadership Conference World Oil Forecast Breakfast Deepwater Development Conference (MCEDD) Pumps and Valves Innovation Conference Middle East Gas Conference. # Vitol sells Delaware basin producer VTX Energy Partners to Verde Operating. (WO) — **Vitol** has agreed to sell its U.S. upstream company, **VTX Energy Partners**, to Houston-based **Verde Operating Company** for an undisclosed amount, the companies announced. Formed in 2022 by Vitol and the former ATX Energy management team led by Gene Shepherd and Erik Hoover, VTX has grown into a significant producer in the southern Delaware basin. Shepherd said the transaction marks the next stage of the company's growth. \"I would like to thank Vitol for the opportunity of building VTX into the successful business it is today,\" Shepherd said. \"It is a great time for U.S. energy, and I am really excited by the next chapter for VTX with Verde.\".",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.7720794081687927,
+      "embedding_score_norm": 0.37361013665150383,
+      "embedding_rank": 10
+    },
+    {
+      "title": "WATCH | Small tractor, big versatility: Mahindra targets smallholder farmers with new OJA range - African Farming",
+      "url": "https://www.africanfarming.com/2026/07/22/watch-small-tractor-big-versatility-mahindra-targets-smallholder-farmers-with-new-oja-range/",
+      "snippet": "### WATCH | Small tractor, big versatility: Mahindra targets smallholder farmers with new OJA range. ### What RMIS and Biogénesis Bagó’s new FMD partnership means for livestock producers. ### New Holland tractor options for emerging and small-scale farmers. ### WATCH | Young inventor’s livestock dipping innovation earns Nampo recognition. *Small farms, vineyards and tight spaces where bigger machines won’t fit – that’s what Mahindra’s new OJA compact tractor range was built for.*. The OJA series compact tractors represent a premium, high-tech range specifically developed to function as efficient “mini TLBs” (tractor-loader-backhoes) when fitted with front-end loader and rear backhoe attachments, says Michele Cicognani, regional sales manager at Mahindra. Launched at the Nampo Harvest Day 2026, the tractors are ideally suited for vineyards, orchards and smallholder farming operations. The Mahindra OJA series compact tractors represent a premium, high-tech range specifically developed to function as efficient “mini TLBs” (tractor-loader-backhoes) when fitted with front-end loader and rear backhoe attachments.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.7686538696289062,
+      "embedding_score_norm": 0.32020314191590893,
+      "embedding_rank": 11
+    },
+    {
+      "title": "VIT Partners With Thinkuvate, ValleyNXT to Fund Startups With ₹10 Crore - Whalesbook",
+      "url": "https://www.whalesbook.com/news/English/startupsvc/VIT-Partners-With-Thinkuvate-ValleyNXT-to-Fund-Startups-With-indian-rupee10-Crore/6a5f6f2dfe1c9287f4795b9f",
+      "snippet": "# VIT Partners With Thinkuvate, ValleyNXT to Fund Startups With ₹10 Crore. Vellore Institute of Technology (VIT) has signed a pact with venture capital firms Thinkuvate and ValleyNXT to invest up to ₹10 crore in student-led startups. This initiative aims to support early-stage ventures in sectors like deep tech, fintech, and healthcare. Vellore Institute of Technology (VIT) has officially partnered with venture capital firms Thinkuvate and ValleyNXT to launch a new funding initiative for student-led startups. Under this agreement, a total of ₹10 crore has been earmarked to support early-stage companies founded by students on campus. While this initiative provides a platform for student-led companies, the actual financial impact on the broader startup ecosystem will depend on the successful commercialization of these ventures. The key monitorable will be the success rate of the ventures funded under this specific ₹10 crore pool and how it influences the future pipeline of technology-driven businesses coming out of the VIT campus.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.7481159567832947,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

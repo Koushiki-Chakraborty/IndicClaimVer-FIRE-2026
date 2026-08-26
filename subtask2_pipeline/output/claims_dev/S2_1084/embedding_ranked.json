@@ -1,0 +1,76 @@
+{
+  "claim": {
+    "id": "S2/1084",
+    "text": "Why Candidates Apprehending Violence Not Approaching Election Commission? Calcutta High Court Asks In Plea Seeking Fresh Election Process",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Why Candidates Apprehending Violence Not Approaching ...",
+      "url": "https://www.livelaw.in/high-court/calcutta-high-court/calcutta-high-court-wb-panchayat-elections-2023-nomination-violence-spurious-nominations-231416",
+      "snippet": "The Calcutta High Court on Tuesday asked why the candidates apprehending violence amidst the 2023 Panchayat Elections have been hesitant to",
+      "bm25_score_raw": 11.90315577042067,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9352074861526489,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "High Court rejects plea against ECI police observer amid ...",
+      "url": "https://www.indiatoday.in/elections/assembly/video/high-court-rejects-plea-against-eci-police-observer-amid-bengal-poll-violence-concerns-2902747-2026-04-28",
+      "snippet": "The Calcutta High Court has refused to entertain a plea filed against an Election Commission of India police observer deployed in West",
+      "bm25_score_raw": 3.91601688517909,
+      "bm25_score_norm": 0.20976986667461062,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8809995055198669,
+      "embedding_score_norm": 0.31489712070557857,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Despite assurances of fairness, violence mars West Bengal ...",
+      "url": "https://frontline.thehindu.com/news/violence-in-west-bengal-panchayat-election-calcutta-high-court-election-commission/article66976241.ece",
+      "snippet": "Calcutta High Court asks State Election Commission to deploy central forces. Published : Jun 16, 2023 17:36 IST - 4 MINS READ. Suhrid Sankar Chattopadhyay.",
+      "bm25_score_raw": 1.7957977383614787,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8746898174285889,
+      "embedding_score_norm": 0.2351526729633184,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Calcutta High Court Orders Deployment of Central Forces ...",
+      "url": "https://lawstreet.co/judiciary/calcutta-high-court-orders-deployment-of-central-forces-for-west-bengal-rural-polls-refuses-to-quash-election-notification-read-judgment",
+      "snippet": "Amid ongoing violence during the filing of nomination papers for the July 8 panchayat elections in West Bengal, the Calcutta High Court has",
+      "bm25_score_raw": 1.9826700918457953,
+      "bm25_score_norm": 0.018488743833114694,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8597831130027771,
+      "embedding_score_norm": 0.046755577116908906,
+      "embedding_rank": 4
+    },
+    {
+      "title": "WB counting controversy heats up  Is the vote count being ...",
+      "url": "https://www.instagram.com/reel/DXwtaKMMY4M?hl=en",
+      "snippet": "Election Commission of India faces tough questions in the Calcutta High Court after Trinamool Congress challenges the move to use only central",
+      "bm25_score_raw": 1.820913790646255,
+      "bm25_score_norm": 0.0024849275354757827,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8592653274536133,
+      "embedding_score_norm": 0.04021158919394521,
+      "embedding_rank": 5
+    },
+    {
+      "title": "The Supreme Court today rejected a plea filed against ...",
+      "url": "https://www.facebook.com/UNINewsagency/posts/the-supreme-court-today-rejected-a-plea-filed-against-the-calcutta-high-courts-d/1440799918060125",
+      "snippet": "The Supreme Court today rejected a plea filed against the Calcutta High Court's dismissal of the petition challenging the Election",
+      "bm25_score_raw": 3.805578599470537,
+      "bm25_score_norm": 0.1988433431104648,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8560836315155029,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6
+    }
+  ]
+}

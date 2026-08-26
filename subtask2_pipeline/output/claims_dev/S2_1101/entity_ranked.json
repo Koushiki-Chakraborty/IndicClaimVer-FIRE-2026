@@ -1,0 +1,99 @@
+{
+  "claim": {
+    "id": "S2/1101",
+    "text": "Arun Jaitley writes on AAP, Congress tie-up: 'Both parties trust each other completely'",
+    "lang": "dev"
+  },
+  "entity_ranked_evidence": [
+    {
+      "title": "Congress-AAP 'tie-up' opportunism: Arun Jaitley | Delhi News",
+      "url": "https://timesofindia.indiatimes.com/city/delhi/congress-aap-tie-up-opportunism-jaitley/articleshow/68455811.cms",
+      "snippet": "Mar 18, 2019 — NEW DELHI: The Congress-AAP alliance has yet to become a reality in Delhi, but BJP has already turned it into a major poll issue in the",
+      "bm25_score_raw": 1.0150454060524803,
+      "bm25_score_norm": 0.011818627413808493,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.884426474571228,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1,
+      "entity_overlap_raw": 3,
+      "entity_overlap_qid": 1,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 1
+    },
+    {
+      "title": "Jaitley targeted by Congress, AAP on Panama Papers leaks",
+      "url": "https://www.theindianpanorama.news/jaitley-targeted-congress-aap-panama-papers-leaks",
+      "snippet": "India | NEW DELHI (TIP): Congress and AAP on April 7 targeted finance minister Arun Jaitley on the Panama Papers issue, demanding a judicial probe into the.",
+      "bm25_score_raw": 2.952497428337689,
+      "bm25_score_norm": 0.6586383177487689,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8449557423591614,
+      "embedding_score_norm": 0.3860681453242799,
+      "embedding_rank": 5,
+      "entity_overlap_raw": 3,
+      "entity_overlap_qid": 1,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 2
+    },
+    {
+      "title": "'AAP - a party of pathological liars', writes Arun Jaitley",
+      "url": "https://www.ndtv.com/india-news/aap-a-party-of-pathological-liars-writes-arun-jaitley-549780",
+      "snippet": "Feb 4, 2014 — Senior BJP leader Arun Jaitley has been accused of offering bribes to an Aam Aadmi Party MLA to bring down the Delhi government led by",
+      "bm25_score_raw": 3.974995493085582,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8575234413146973,
+      "embedding_score_norm": 0.5815474358356294,
+      "embedding_rank": 2,
+      "entity_overlap_raw": 2,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 3
+    },
+    {
+      "title": "DELHI is paying the price for the Congress Party's ...",
+      "url": "https://mobile.twitter.com/arunjaitley/status/425265073225875456",
+      "snippet": "Jan 20, 2014 — Arun Jaitley (@arunjaitley). 85 likes 153 replies. DELHI is paying the price for the Congress Party's misjudgment in supporting AAP.",
+      "bm25_score_raw": 1.0664280654636205,
+      "bm25_score_norm": 0.02897276360227506,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8488537669181824,
+      "embedding_score_norm": 0.44669842282289857,
+      "embedding_rank": 4,
+      "entity_overlap_raw": 2,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 4
+    },
+    {
+      "title": "Congress and AAP has a self defeating relationship",
+      "url": "https://www.arunjaitley.com/congress-and-aap-has-a-self-defeating-relationship",
+      "snippet": "Mar 9, 2014 — After an electoral contest in Delhi in December, 2013 Assembly elections, the AAP and the Congress have a cozy relationship.Read more",
+      "bm25_score_raw": 1.7375134986573257,
+      "bm25_score_norm": 0.2530150970865756,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8201347589492798,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6,
+      "entity_overlap_raw": 2,
+      "entity_overlap_qid": 1,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 5
+    },
+    {
+      "title": "Article : Shri Arun Jaitley on \"The Congress-AAP Paradox\"",
+      "url": "https://www.bjp.org/pressreleases/article-shri-arun-jaitley-congress-aap-paradox",
+      "snippet": "Dec 24, 2013 — The relationship between the two merits some other comments. The BJP as the largest single party in Delhi got only 32 seats. It was clear that ...Read more",
+      "bm25_score_raw": 0.979644468317173,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8533889651298523,
+      "embedding_score_norm": 0.5172393652724366,
+      "embedding_rank": 3,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 6
+    }
+  ]
+}

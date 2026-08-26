@@ -1,0 +1,105 @@
+{
+  "claim": {
+    "id": "S2/T/BN/1220",
+    "text": "'সিপিএম কালকেউটের জাত নয়, ওঁদের বিশ্বাস করতে পারেন', ফের স্বমহিমায় পার্থ ভৌমিক",
+    "lang": "bengali"
+  },
+  "ranked_evidence": [
+    {
+      "title": "No Vote To CPIM | সিপিএম কে একটা ভোটও নয়",
+      "url": "https://www.youtube.com/watch?v=yJlzD4j4X0Y",
+      "snippet": "novotetocpim #drsoumikdas #election2026 #westbengalpolitics দেখবেন ভুল করেও কোন সিপিএম ক‍্যান্ডিডেট কে যেন ভোট দিয়ে ফেলবেন না। ওগুলো আবার প্রার্থী নাকি- একটাও জেলে যায়না,",
+      "bm25_score_raw": 1.4477752275172253,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Partha Bhowmick , AITC candidate bio",
+      "url": "https://www.thehindu.com/elections/candidates/LokSabha2024/partha-bhowmick-7118",
+      "snippet": "Partha Bhowmick is contesting 2024 Lok Sabha Elections on as AITC candidate from , BARRACKPUR constituency , WEST BENGAL.",
+      "bm25_score_raw": 0.9973938146010339,
+      "bm25_score_norm": 0.6889148229946261,
+      "bm25_rank": 2
+    },
+    {
+      "title": "Partha Bhowmick",
+      "url": "https://en.wikipedia.org/wiki/Partha_Bhowmick",
+      "snippet": "Partha Bhowmick (born 22 January 1964) is an Indian politician and theatre artist who has served as Member of Parliament (MP) in Lok Sabha for Barrackpore",
+      "bm25_score_raw": 0.9677709714503568,
+      "bm25_score_norm": 0.6684538822438462,
+      "bm25_rank": 3
+    },
+    {
+      "title": "সিপিএম-এর হল টা কী?",
+      "url": "https://www.newswaveindia.com/news/what-happened-to-the-cpm",
+      "snippet": "Apr 5, 2026 — শ্যামল মুখোপাধ্যায়: শেষ মুহূর্তেও কংগ্রেসের সঙ্গে জোট হলো না সিপিএম তথা বামেদের। দক্ষিণ ২৪ পরগনার একদা তৃণমূল কংগ্রেসের জঙ্গি নেতা আরাবুল ইসলামকে হই-হই করে আইএসএফ দল অর্থাৎ নওশাদ সিদ্দিকী তাঁদের",
+      "bm25_score_raw": 0.9560259879942735,
+      "bm25_score_norm": 0.6603414465336256,
+      "bm25_rank": 4
+    },
+    {
+      "title": "Partha Bhowmick",
+      "url": "https://prsindia.org/mptrack/18-lok-sabha/partha-bhowmick",
+      "snippet": "Partha Bhowmick ... State ... West Bengal ( 41 more MPs ) ... Constituency ... Barrackpur ... Party ... All India Trinamool Congress ( 28 more MPs ) ... Nature of membership",
+      "bm25_score_raw": 0.9135081359826898,
+      "bm25_score_norm": 0.630973730327777,
+      "bm25_rank": 5
+    },
+    {
+      "title": "TV9 - সিপিএম ছাড়তে হল! কী এমন ঘটল? #CPIM #politics",
+      "url": "https://www.facebook.com/TV9BanglaLive/photos/%E0%A6%B8%E0%A6%BF%E0%A6%AA%E0%A6%BF%E0%A6%8F%E0%A6%AE-%E0%A6%9B%E0%A6%BE%E0%A6%A1%E0%A6%BC%E0%A6%A4%E0%A7%87-%E0%A6%B9%E0%A6%B2-%E0%A6%95%E0%A7%80-%E0%A6%8F%E0%A6%AE%E0%A6%A8-%E0%A6%98%E0%A6%9F%E0%A6%B2-cpim-politics/1386760400144766",
+      "snippet": "TV9 Bangla প্রতিকুর রহমানের চিঠি?জাল চিঠি ও? কি জানি হতেও পারে কারণ,,,, তবে অনেকেরই ক্ষোভ থাকতেই পারে জ্যোতি বসুর নৃপেন চক্রবর্তীর অচ্যু তানন্দন এনাদের ও ক্ষোভ ছিল,,,,বঙ্গে জাল CM জানতাম ...Read more",
+      "bm25_score_raw": 0.9106460048261023,
+      "bm25_score_norm": 0.628996813536974,
+      "bm25_rank": 6
+    },
+    {
+      "title": "Partha bhowmick - DPM in HCC (NH-44)",
+      "url": "https://in.linkedin.com/in/partha-bhowmick-0637a772",
+      "snippet": "DPM in HCC (NH-44) · Experience: Hindustan Construction Company · Education: B-TECH · Location: Budge Budge-I · 65 connections on LinkedIn. View Partha",
+      "bm25_score_raw": 0.6763237365504129,
+      "bm25_score_norm": 0.4671469187314618,
+      "bm25_rank": 7
+    },
+    {
+      "title": "CPIM News: সিপিএমে ক্লোজড প্রতীক উর, যোগদান তবে ২১ তারিখ?",
+      "url": "https://www.facebook.com/newsrplus/videos/cpim-news-%E0%A6%B8%E0%A6%BF%E0%A6%AA%E0%A6%BF%E0%A6%8F%E0%A6%AE%E0%A7%87-%E0%A6%95%E0%A7%8D%E0%A6%B2%E0%A7%8B%E0%A6%9C%E0%A6%A1-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A7%80%E0%A6%95-%E0%A6%89%E0%A6%B0-%E0%A6%AF%E0%A7%8B%E0%A6%97%E0%A6%A6%E0%A6%BE%E0%A6%A8-%E0%A6%A4%E0%A6%AC%E0%A7%87-%E0%A7%A8%E0%A7%A7-%E0%A6%A4%E0%A6%BE%E0%A6%B0%E0%A6%BF%E0%A6%96-cpim-west-bengal-election/1429069179014304",
+      "snippet": "5. সেনার মৃত্যু কমেছে কী? 6. 90 টা রাফালের পয়সা কে খেল ? 7. নওয়াজ শরিফের নাতনির বিয়েতে কে গিয়েছিল? 8. চাষিদের সব্জি পাকিস্তানে রপ্তানি বন্ধ হলেও আদানি-আম্বানির কোম্পানির বিদ্যুৎ রপ্তানি বন্ধ হলনা কেন? 9.Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 8
+    },
+    {
+      "title": "যে সিপিএমকে হা'রিয়ে ক্ষমতায় এসেছিলেন মমতা, আজ কেন সেই ...",
+      "url": "https://www.facebook.com/m.storybangla/videos/%E0%A6%AF%E0%A7%87-%E0%A6%B8%E0%A6%BF%E0%A6%AA%E0%A6%BF%E0%A6%8F%E0%A6%AE%E0%A6%95%E0%A7%87-%E0%A6%B9%E0%A6%BE%E0%A6%B0%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A7%87-%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%AE%E0%A6%A4%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A6%8F%E0%A6%B8%E0%A7%87%E0%A6%9B%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%A8-%E0%A6%AE%E0%A6%AE%E0%A6%A4%E0%A6%BE-%E0%A6%86%E0%A6%9C-%E0%A6%95%E0%A7%87%E0%A6%A8-%E0%A6%B8%E0%A7%87%E0%A6%87-%E0%A6%B8%E0%A6%BF%E0%A6%AA%E0%A6%BF%E0%A6%8F%E0%A6%AE%E0%A7%87%E0%A6%B0-%E0%A6%A6%E0%A6%B0%E0%A6%9C%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A6%A4%E0%A7%83%E0%A6%A3%E0%A6%AE%E0%A7%82%E0%A6%B2-%E0%A6%AE%E0%A6%B9%E0%A6%BE/1333280458738034",
+      "snippet": "যে সিপিএমকে হা'রিয়ে ক্ষমতায় এসেছিলেন মমতা, আজ কেন সেই সিপিএমের দরজায় তৃণমূল? মহাজোট শুরু হওয়ার আগেই ভা ঙ ন? মহম্মদ সেলিমের ক ড়া বার্তায় চাপে তৃণমূল",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 9
+    },
+    {
+      "title": "CPIM | সিপিএম-এর 'ব্যাক টু বেসিক', গ্রাম বাংলার মানুষকে পাশে ...",
+      "url": "https://www.facebook.com/Zee24Ghanta/videos/cpim-%E0%A6%B8%E0%A6%BF%E0%A6%AA%E0%A6%BF%E0%A6%8F%E0%A6%AE-%E0%A6%8F%E0%A6%B0-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%95-%E0%A6%9F%E0%A7%81-%E0%A6%AC%E0%A7%87%E0%A6%B8%E0%A6%BF%E0%A6%95%E0%A6%B8-%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%B0-%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A7%81%E0%A6%B7%E0%A6%95%E0%A7%87-%E0%A6%AA%E0%A6%BE%E0%A6%B6%E0%A7%87-%E0%A6%AA%E0%A7%87%E0%A6%A4%E0%A7%87-%E0%A6%A8%E0%A7%9F%E0%A6%BE-%E0%A6%95%E0%A7%8C%E0%A6%B6%E0%A6%B2-zee-24-gh/1249930166082005",
+      "snippet": "CPIM | সিপিএম-এর 'ব্যাক টু বেসিক', গ্রাম বাংলার মানুষকে পাশে পেতে নয়া কৌশল! | Zee 24 Ghanta CPIM West Bengal | Md Salim মহঃ সেলিম | Moumita Chakraborty",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10
+    },
+    {
+      "title": "Partha Bhowmick:'সিপিএম কালকেউটের জাত, ওঁদের বিশ্বাস করবেন না', ফের ...",
+      "url": "https://durantbarta.com/west-bengal/cpm-calcutta-caste-dont-trust-them-says-partha-bhowmick-again",
+      "snippet": "দুরন্ত বার্তা ডিজিটাল ডেস্কঃ ফের স্বমহিমায় সাংসদ পার্থ ভৌমিক। তবে,এবার নিজের দলের নেতা,কাউন্সিলরদের উদ্দেশ্যে নয়!বিরোধী সিপিএমকে তিনি আক্রমণ করেছেন 'কালকেউটে'-র জাত বলে। শুধু তাই নয়, সুযোগ পেলেই মার্কসবাদী কমিউনিস্ট পার্টি তাঁর",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11
+    },
+    {
+      "title": "Bhowmick, Shri Partha",
+      "url": "https://dspstg.sansad.in/ls/members/biography/5660?from=members",
+      "snippet": "Bhowmick, Shri Partha. All India Trinamool Congress Barrackpur , West Bengal. Email ID. testing[at]mailinator[dot]com dummy. Contacts & Social Media. cake.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12
+    }
+  ]
+}

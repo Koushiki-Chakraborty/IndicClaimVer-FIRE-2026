@@ -1,0 +1,76 @@
+{
+  "claim": {
+    "id": "S2/1445",
+    "text": "Kejriwal agrees to take BJP and Congress support without setting any conditions.",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Kejriwal sets conditions for BJP and Congress before taking their support",
+      "url": "https://www.indiatvnews.com/amp/politics/national/kejriwal-sets-conditions-bjp-and-congress-before-taking-support-13889.html",
+      "snippet": "New Delhi: Smarting over the dramatic decisions of Congress and BJP to support AAP for forming government in Delhi, Arvind Kejriwal today",
+      "bm25_score_raw": 9.268666270091733,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8667923212051392,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Arvind Kejriwal to form Delhi government on Saturday - BBC News",
+      "url": "https://www.bbc.com/news/world-asia-india-25517447",
+      "snippet": "# Arvind Kejriwal to form Delhi government on Saturday. Arvind Kejriwal (C), leader of the Aam Aadmi Party, at his party office in Delhi. The Aam Aadmi (Common Man's) Party is led by Arvind Kejriwal - a former civil servant. **The leader of a new anti-corruption party in India will be sworn in as the chief minister of Delhi on Saturday.**. Arvind Kejriwal's Aam Aadmi Party (AAP), or Common Man's party, won 28 of the 70 seats in the assembly polls. Reports say at least six ministers belonging to AAP will be also sworn in on Saturday - many say Mr Kejriwal's cabinet will be the most youthful in the country with one of the ministers only 26 years old. Though the Congress party has decided to give outside support to the AAP government, Mr Kejriwal said he was not seeking an alliance with any party. Delhi's Lieutenant-Governor Najeeb Jung has asked Mr Kejriwal to prove the majority of his government in the assembly by 3 January.",
+      "bm25_score_raw": 1.0944934803047202,
+      "bm25_score_norm": 0.11808532623905638,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8375613689422607,
+      "embedding_score_norm": 0.6378950073172064,
+      "embedding_rank": 2
+    },
+    {
+      "title": "CJP కి AAP మద్దతు..Arvind Kejriwal Sensational Allegation On ...",
+      "url": "https://www.youtube.com/watch?v=o3mC2x75VUY",
+      "snippet": "CJP కి AAP మద్దతు..Arvind Kejriwal Sensational Allegation On Congress | CJP | TV5 News Watch TV5 News LIVE",
+      "bm25_score_raw": 1.6380338543930573,
+      "bm25_score_norm": 0.17672810808591616,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.815245509147644,
+      "embedding_score_norm": 0.36145227719438666,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Despite the Aam Aadmi Party (AAP) national convener Arvind Kejriwal's ...",
+      "url": "https://www.facebook.com/thewire.in/posts/despite-the-aam-aadmi-party-aap-national-convener-arvind-kejriwals-tough-stance-/630124403018925",
+      "snippet": "Kejriwal-AAP is the B Team of BJP.What happened in Haryana after being released from jail?He went alone ,why?Was there any agreement before",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8081192374229431,
+      "embedding_score_norm": 0.27317398411922544,
+      "embedding_rank": 4
+    },
+    {
+      "title": "From Chennai, Arvind Kejriwal's Fresh Message To Congress On Delhi Bill",
+      "url": "https://www.ndtv.com/india-news/from-chennai-arvind-kejriwals-fresh-message-to-congress-on-delhi-bill-4086015/amp/1",
+      "snippet": "Delhi Chief Minister Arvind Kejriwal sent a third message to Congress on Thursday, seeking support against the Centre's proposed law to",
+      "bm25_score_raw": 1.5722629534020838,
+      "bm25_score_norm": 0.1696320600597612,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.7976095676422119,
+      "embedding_score_norm": 0.14298308698984452,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Why Arvind Kejriwal's 'comeback' sets off alarm bells in BJP, Congress",
+      "url": "https://indianexpress.com/article/political-pulse/liquorgate-clean-chit-to-aap-why-kejriwal-comeback-sets-off-alarm-bells-in-bjp-congress-10561828/lite",
+      "snippet": "February 27 was a big day for ex-Delhi chief minister Arvind Kejriwal, his deputy Manish Sisodia and their Aam Aadmi Party (AAP). In some ways,",
+      "bm25_score_raw": 0.6474237059687854,
+      "bm25_score_norm": 0.06985079482879879,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.7860672473907471,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6
+    }
+  ]
+}

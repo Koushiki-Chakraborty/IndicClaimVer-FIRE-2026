@@ -1,0 +1,76 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1109",
+    "text": "Hong Kong rules out lockdown as daily Covid cases top 34,000",
+    "lang": "english"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Hong Kong considers lockdown as daily Covid-19 ...",
+      "url": "https://www.courthousenews.com/hong-kong-considers-lockdown-as-daily-covid-19-infections-top-34000",
+      "snippet": "Feb 28, 2022 — Hong Kong considers lockdown as daily Covid-19 infections top 34,000. Health authorities said the government could implement measures that ...Read more",
+      "bm25_score_raw": 4.004537846249169,
+      "bm25_score_norm": 0.6392002908638681,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8962883949279785,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Hong Kong locks down to curb record COVID infections",
+      "url": "https://www.youtube.com/watch?v=vU8KQ7XhETk",
+      "snippet": "Hong Kong will go back into a strict lockdown from Thursday, as the city grapples with a surge in COVID cases. Most venues including schools",
+      "bm25_score_raw": 2.8995671472215165,
+      "bm25_score_norm": 0.35667804240973894,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8881368041038513,
+      "embedding_score_norm": 0.8860693375808488,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Hong Kong rules out citywide lockdown despite surging ...",
+      "url": "https://www.youtube.com/watch?v=EJAwZf8gYnA",
+      "snippet": "Hong Kong leader Carrie Lam says there won't be a widespread city lockdown to fight a fifth wave of Covid-19; and that she can't 'preclude'",
+      "bm25_score_raw": 5.415658949081022,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8523076176643372,
+      "embedding_score_norm": 0.38530291872294625,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Carrie Lam calls for calm as Hong Kong residents brace ...",
+      "url": "https://www.abc.net.au/news/2022-03-01/hong-kong-covid-mass-testing-covid-lockdown/100872180",
+      "snippet": "Mar 1, 2022 — Hong Kong's daily COVID cases have spiked from 100 to 34,000 since the start of February. Local media reported that compulsory COVID testing ...Read more",
+      "bm25_score_raw": 4.091454028756029,
+      "bm25_score_norm": 0.6614232831391348,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8422915935516357,
+      "embedding_score_norm": 0.2453140151351063,
+      "embedding_rank": 4
+    },
+    {
+      "title": "COVID-19 pandemic in Hong Kong - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Hong_Kong",
+      "snippet": "- 5.7.3 Mainland China and Macau. The virus was first confirmed to have spread to Hong Kong on 23 January 2020. After a much smaller second wave in late March and April 2020 caused by overseas returnees rushing to beat mandatory quarantine, Hong Kong saw a substantial uptick in COVID cases in July, with more than a hundred cases being reported several days in a row until early August. Measures taken in response included a suspension of school classroom teaching until the end of the year, and an order for restaurants to seat only two persons per table and close at 10:00 p.m. taking effect on 2 December; a further tightening of restrictions saw, among other measures, a 6 pm closing time of restaurants starting from 10 December, and a mandate for authorities to order partial lockdowns in locations with multiple cases of COVID-19 until all residents were tested.",
+      "bm25_score_raw": 1.8590387185575268,
+      "bm25_score_norm": 0.09063258843952882,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8347495198249817,
+      "embedding_score_norm": 0.1399022649343379,
+      "embedding_rank": 5
+    },
+    {
+      "title": "COVID-19 Timeline of Events - OT&P Healthcare",
+      "url": "https://www.otandp.com/covid-19-timeline",
+      "snippet": "* The interior of a clinic examination room at OT&P surrounded by state-of-the-art healthcare equipmentCentral Specialist Clinic. ## A timeline of COVID-19 and OT&P updates. The Hong Kong Government announced the end of isolation requirements for COVID-19 patients. OT&P published a blog titled, \"What are the risks of a new Covid variant from China and what do we know about the XBB.1.5 variant?\". OT&P published a blog titled, \"What next for China? OT&P published a blog titled, \"Questions and Answers about the New COVID-19 Bivalent Booster\". * China also announced that entry to public venues will no longer require a health pass and people with COVID-19 are allowed to home quarantine. The Hong Kong Government announced today that uninfected individuals aged 18 to 59 who are at higher risk of COVID-19 exposure or with personal needs may choose to receive a fourth dose of COVID-19 vaccine from now on, no matter they have received the BioNTech or the Sinovac vaccine for their previous doses.",
+      "bm25_score_raw": 1.5045662649696045,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8247396945953369,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1129",
+    "text": "Live: What Modi achieved in Gujarat in 11 years, we could not do in 49 days, says Kejriwal at Mathura rally",
+    "lang": "english"
+  },
+  "entity_ranked_evidence": [
+    {
+      "title": "Arvind Kejriwal Speech LIVE | Kejriwal's Massive Claim On ...",
+      "url": "https://www.youtube.com/watch?v=mcQEdXB5RHA",
+      "snippet": "Arvind Kejriwal Speech LIVE | Kejriwal's Massive Claim On Gujarat Elections, Challenge To PM Modi #arvindkejriwal #gujaratelections",
+      "bm25_score_raw": 1.883802252163766,
+      "bm25_score_norm": 0.8625244033745554,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8846564292907715,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1,
+      "entity_overlap_raw": 3,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 1
+    },
+    {
+      "title": "Modi vs Kejriwal vs Rahul Gandhi I What a new survey tells us about ...",
+      "url": "https://www.youtube.com/watch?v=WiOPPVEOklI",
+      "snippet": "Arvind Kejriwal has challenged PM Modi on his home turf in Gujarat with a focused campaign ahead of this years assembly polls.",
+      "bm25_score_raw": 1.8857978005440037,
+      "bm25_score_norm": 0.864022831200384,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8328138589859009,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6,
+      "entity_overlap_raw": 3,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 2
+    },
+    {
+      "title": "PM Modi attends celebrations of 20 years of Gujarat Urban Growth Story ...",
+      "url": "https://www.bjp.org/live-pm-modi-attends-celebrations-20-years-gujarat-urban-growth-story-gandhinagar",
+      "snippet": "LIVE: PM Shri Narendra Modi launches multiple development projects in Chandigarh · प्रधानमंत्री श्री नरेन्द्र मोदी के 17 जुलाई, 2026 को हरियाणा,…",
+      "bm25_score_raw": 1.2109896347374158,
+      "bm25_score_norm": 0.35731933919057324,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8598282337188721,
+      "embedding_score_norm": 0.5210847875425111,
+      "embedding_rank": 2,
+      "entity_overlap_raw": 2,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 3
+    },
+    {
+      "title": "AAP Townhall In Gujarat LIVE | Manish Sisodia, Arvind Kejriwal ...",
+      "url": "https://www.youtube.com/watch?v=sk_FySihJJA",
+      "snippet": "AAP Townhall In Gujarat LIVE | Manish Sisodia, Arvind Kejriwal Dare PM Modi In Gujarat | LIVE News #aap #kejriwal #modi #sisodia Subscribe",
+      "bm25_score_raw": 2.0668869489635,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.84672611951828,
+      "embedding_score_norm": 0.26835591774414963,
+      "embedding_rank": 5,
+      "entity_overlap_raw": 2,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 4
+    },
+    {
+      "title": "Arvind Kejriwal After Massive Victory In Gujarat, Punjab LIVE | Gopal ...",
+      "url": "https://www.youtube.com/watch?v=CmD9NssbXeg",
+      "snippet": "Arvind Kejriwal After Massive Victory In Gujarat, Punjab LIVE | Gopal Italia | Sanjeev Arora | AAP #ArvindKejriwal #AAP #BhagwantMann",
+      "bm25_score_raw": 0.735125521525928,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8518489599227905,
+      "embedding_score_norm": 0.36717124218475145,
+      "embedding_rank": 3,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 5
+    },
+    {
+      "title": "PM Modi LIVE: PM Modi's Big Message From Janjatiya Gaurav ...",
+      "url": "https://www.youtube.com/watch?v=t_lJBAjCU7k",
+      "snippet": "PM Modi LIVE: PM Modi's Big Message From Janjatiya Gaurav Diwas In Gujarat | WION PM Modi Live: Prime Minister Narendra Modi attends the",
+      "bm25_score_raw": 1.4110287175452223,
+      "bm25_score_norm": 0.5075257340346555,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8509161472320557,
+      "embedding_score_norm": 0.3491780623472304,
+      "embedding_rank": 4,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 6
+    }
+  ]
+}

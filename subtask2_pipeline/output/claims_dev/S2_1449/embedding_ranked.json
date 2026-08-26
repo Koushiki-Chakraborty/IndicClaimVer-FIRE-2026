@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/1449",
+    "text": "'নির্যাতিতার পরিবারকে টাকা দেওয়ার কথা বলিনি', স্পষ্ট করলেন মমতা বন্দ্যোপাধ্যায় - RG Kar Rape Murder Case",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Kirandeep Kaur's family 'devastated by her death', sister says - BBC",
+      "url": "https://www.bbc.com/news/articles/cd0xzy2r1m7o",
+      "snippet": "# Kirandeep Kaur: 'The big sister who was my world'. The sister of a 24-year-old mother who was stabbed and killed as she lay in bed with her husband and baby in west London on Sunday has said \"she was my world\". Kirandeep Kaur, who was fatally attacked at her home in Hayes, was originally from India. Speaking through a translator, her sister Gursharan told BBC London: \"She is everything for me, she video calls me and my mum. Gursharan, who is 21, said her sister came to London looking for a better job so she could support her family. \"She was the top of her class here in India when she was studying, she's a very hard worker. \"My sister meant the world to me, she supported me and she loved me. Gusharan added: \"We are grateful to the people in London who are coming to the gatherings and vigils in London for my sister.",
+      "bm25_score_raw": 1.0247875028307192,
+      "bm25_score_norm": 0.20866789662537585,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8340659141540527,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Rimon Buchshtab-Kirscht is a true symbol of Israeli resilience - The Jerusalem Post",
+      "url": "https://www.jpost.com/opinion/article-903232",
+      "snippet": "# 'If you need to stab a terrorist, you do': What we can learn from a former hostage - editorial. ## “I just spoke to him the way they deserve, like the sons of b\\*\\*\\*\\*\\* they are,” Buchshtab-Kirscht told Ynet. Rimon Buchshtab-Kirscht speaks to a Hamas terrorist as she is being released to the Red Cross in Gaza, November 28, 2023. That’s why Rimon Buchshtab-Kirscht’s decision to come forward and tell her story for the first time about her and her husband’s abduction by Hamas and her consequent captivity and release is so important. “I just spoke to him the way they deserve, like the sons of b\\*\\*\\*\\*\\* they are,” she told Ynet. “If you need to stab a terrorist, you stab a terrorist,” she said. In her interview, Buchshtab-Kirscht also recounted what she said to her fellow captive Tal as they began their short walk to the awaiting Red Cross and their freedom: “Keep your head up.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.8314498066902161,
+      "embedding_score_norm": 0.934699810456719,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Calcutta High Court Orders Arrest of Cricketer Abishek Porel in Rape and Blackmail Case With Private Photos - Republic World",
+      "url": "http://www.republicworld.com/sports/cricket/calcutta-high-court-orders-arrest-of-cricketer-abishek-porel-in-rape-and-blackmail-case-with-private-photos-2026-07-20-132925",
+      "snippet": "* Calcutta High Court Orders Arrest of Cricketer Abishek Porel in Rape and Blackmail Case With Private Photos. ## The Calcutta High Court has ordered the immediate arrest of Delhi Capitals cricketer Abishek Porel over rape and blackmail allegations. Abishek Porel Arrest Ordered by Calcutta High Court in Rape Case | Image: iplt20.com. In a major legal development, the Calcutta High Court has ordered the immediate arrest of Bengal and Delhi Capitals cricketer Abishek Porel. The orders come in light of serious allegations leveled by a medical student, who has accused the duo of rape, physical assault, and criminal intimidation. To protect the complainant's privacy and secure critical evidence, the Calcutta High Court has ordered the immediate seizure of electronic devices belonging to Porel and the co-accused. While Porel has previously denied the allegations, police confirmed to the court that efforts to locate and arrest the accused are currently underway.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.8211906552314758,
+      "embedding_score_norm": 0.678622969551077,
+      "embedding_rank": 3
+    },
+    {
+      "title": "I was ashamed of my $100,000 debt. When I finally told my friends, they helped me come up with a plan. - Bundle",
+      "url": "https://www.bundle.app/en/finans/i-was-ashamed-of-my-100000-debt-when-i-finally-told-my-friends-they-helped-me-come-up-with-a-plan-af3f574a-8417-4a8f-b691-c4fdcb660c40",
+      "snippet": "My deeply southern family raised me to never talk about money. Now, as a single mother of three kids with significant medical needs, I've worked several jobs to pay for their childcare and healthcare. Still, I ended up with $100,000 in debt. I was ashamed until I started talking about it with people in my life. \"Always broke but never poor\" was spoken so often while I was growing up that it was almost a motto. The only thing I knew about financial well-being was that more money was better than less. Up to the day I opened that medical bill, my way of dealing with debt had always been to sacrifice whatever I had to in order to pay it off as soon as possible. She said that after talking to me about how I was carrying my debt without sacrificing my joy to pay it off, she felt more confident about entering a payment plan for a necessary medical procedure that insurance refused to cover.",
+      "bm25_score_raw": 4.911093270233769,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8192003965377808,
+      "embedding_score_norm": 0.6289444789940221,
+      "embedding_rank": 4
+    },
+    {
+      "title": "‘I started cursing him in Arabic’: Ex-hostage reveals words to Hamas captor upon release - The Times of Israel",
+      "url": "https://www.timesofisrael.com/i-started-cursing-him-in-arabic-ex-hostage-reveals-words-to-hamas-captor-upon-release/",
+      "snippet": "Hostage Rimon Buchshtab-Kirscht speaks to her Hamas captor as she's being released to the Red Cross in Gaza, November 28, 2023. In her first long-form interview more than two years after her release from captivity, freed hostage Rimon Buchshtab-Kirscht shared this week what she told her Hamas captor as she was handed off to Red Cross personnel in Gaza. Buchshtab-Kirscht was 36 when she was abducted by the Hamas terror group during its October 7, 2023, onslaught, and then returned to Israel as part of a hostage-prisoner exchange and ceasefire deal that November. She was referring to her husband Yagev Buchshtab, who was kidnapped alongside her from their home in Kibbutz Nirim and then killed in captivity. She added, “And then the terrorists in the car gave me a speech about going out.” She recounted that they told her, in English: “Smile and wave.” She continued: “And when you go out to that audience, who are barking and raging and screaming at you, they start telling you, ‘Don’t be afraid.’”.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.8122804164886475,
+      "embedding_score_norm": 0.4562160971937477,
+      "embedding_rank": 5
+    },
+    {
+      "title": "India's cockroach protests: Modi breaks silence and hunger strike ends | BBC News - Modern Ghana",
+      "url": "https://www.modernghana.com/amp/videonews/688043",
+      "snippet": "# India's cockroach protests: Modi breaks silence and hunger strike ends | BBC News. Thousands of people continue to protest demanding the Indian education minister's resignation after representatives of the Cockroach Janta Party (CJP) held talks with the government. The meeting came after activist Sonam Wangchuk ended his hunger strike after 26 days of fasting in solidarity with the protests. A CJP spokesperson told reporters that the government has asked for a day to decide on their biggest demand - minister Dharmendra Pradhan's resignation. Prime Minister Narendra Modi has also spoken, posted a video promising a tough new law on examination paper leaks, the issue at the core of the protests. In this video… 00:36 Latest on protests 01:46 Modi breaks his silence 02:52 Hunger strike ends 04:00 Protests spread 06:04 Role of social media (or Viral protest image) 07:19 Verifying protest videos. Subscribe to our channel here: https://bbc.in/bbcnews. For the latest news download the BBC News app or visit BBC.com/news.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.807024359703064,
+      "embedding_score_norm": 0.32502060576485325,
+      "embedding_rank": 6
+    },
+    {
+      "title": "Protesters in India reject Modi’s promise of fast-track courts for exam leaks - NBC News",
+      "url": "https://www.nbcnews.com/world/asia/protesters-india-reject-modis-promise-fast-track-courts-exam-leaks-rcna588841",
+      "snippet": "# Protesters in India reject Modi’s promise of fast-track courts for exam leaks. Opposition groups disrupted parliament for the fourth day this week as protesters from India’s “cockroach” movement continued to demand education reforms. NEW DELHI — Indian Prime Minister Narendra Modi said Thursday that “fast-track” courts would be set up to prosecute those behind exam paper leaks, his first public response after days of youth protests demanding the resignation of the education minister. However, the protesters and opposition parties swiftly rejected Modi’s proposal and insisted that Education Minister Dharmendra Pradhan quit first, with opposition groups disrupting parliament for the fourth day this week. Opposition parties have echoed the demands of the youth movement and have disrupted the monsoon session of parliament that began this week. “We have decided to set up fast-track courts to ensure swift and stringent punishment for those involved in paper leaks,” he said, adding that those who try to harm the future of young people will not be spared.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8043254017829895,
+      "embedding_score_norm": 0.25765240083196705,
+      "embedding_rank": 7
+    },
+    {
+      "title": "FBI says Mexican man shot dead by ICE had drugs in his car. His family’s lawyer says it was salt - The Independent",
+      "url": "https://www.independent.co.uk/news/world/americas/us-politics/fbi-search-drugs-houston-ice-shooting-b3017438.html",
+      "snippet": "His family’s lawyer says it was salt. A “crystal-like” substance that federal authorities alleged was methamphetamine inside the van of a Mexican national killed by immigration authorities in Texas was actually salt for homemade energy drinks, his family’s attorney says. Speaking to *The New York Times*, Powers clarified that Salgado Araujo and his brother mixed salt and lemon into water to stay hydrated while working outside in the extreme Texas heat. “Even though it was the day of the visitation of Lorenzo, and the family was otherwise detained with the family and the public viewing, was because of the impact on public opinion and just wanting to clear my client’s name.”. According to a video statement released by Aaron Reitz, the U.S. attorney for the Southern District of Texas, ICE agents were initially pursuing a different suspect when they attempted to pull over Salgado Araujo’s white van.",
+      "bm25_score_raw": 3.5192668067273223,
+      "bm25_score_norm": 0.7165953919176543,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8039655685424805,
+      "embedding_score_norm": 0.24867066780531494,
+      "embedding_rank": 8
+    },
+    {
+      "title": "Indian police forcibly hospitalize a prominent Cockroach Party activist on hunger strike - NBC News",
+      "url": "https://www.nbcnews.com/world/india/indian-police-forcibly-hospitalize-prominent-cockroach-party-activist-rcna588140",
+      "snippet": "# Indian police forcibly hospitalize a prominent Cockroach Party activist on hunger strike. Police said activist Sonam Wangchuk was taken to hospital after his health worsened during the hunger strike, and that a brief commotion occurred when some protesters tried to block the move. NEW DELHI — Police forcibly transferred a prominent activist to a hospital in New Delhi on Saturday after his health deteriorated during a 20-day hunger strike tied to India’s viral Cockroach Janta Party movement for education reform. Authorities tightened security around New Delhi’s Jantar Mantar, a designated public protest ground enclosed by police barricades, where activist Sonam Wangchuk has been camped along with students and Cockroach Party activists who demand the resignation of Education Minister Dharmendra Pradhan, after allegations that exam papers were leaked in advance. Delhi Police said Wangchuk was taken to hospital after his health worsened during the hunger strike, and that a brief commotion occurred when some protesters tried to block the move.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.8026318550109863,
+      "embedding_score_norm": 0.21538008337523917,
+      "embedding_rank": 9
+    },
+    {
+      "title": "NYC UWS suspected stabber Raul Morales mother cries out in court after Allahu Akbar rampage - New York Post",
+      "url": "https://nypost.com/2026/07/25/us-news/nyc-uws-suspected-stabber-raul-morales-mother-cries-out-in-court-after-allahu-akbar-rampage/",
+      "snippet": "# UWS stabbing suspect’s mom cries out in court, prosecutors reveal son yelled ‘Allahu Akbar’ 3 times during alleged hate-filled rampage. The mother of the maniac accused of knifing a Jewish and Asian man in separate attacks on Upper West Side cried out in court Friday as new details were revealed about her son’s alleged hate-filled rampage. Raul Morales, 51, looked back into the courtroom gallery and mouthed “I love you, mom” after a judge held him without bail for Thursday’s bloodshed during which he yelled ‘‘Allahu Akbar” three times, according to prosecutors. His mom then buried her head in her hands and wept as her son was ushered out of the courtroom. The madman then allegedly walked to the nearby synagogue and “shouted justice for Islam and Allahu Akbar” before confronting the second victim four blocks away. Morales allegedly “plunged a screwdriver” in the chest of the second victim, a Jewish man wearing a kippah, the ADA said.",
+      "bm25_score_raw": 2.032148217296044,
+      "bm25_score_norm": 0.4137873392902012,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.797582745552063,
+      "embedding_score_norm": 0.08935016707779012,
+      "embedding_rank": 10
+    },
+    {
+      "title": "Photo shows severity of Puka Nacua's alleged bite, lawyer says | Exclusive - USA Today",
+      "url": "https://www.usatoday.com/story/sports/nfl/2026/07/21/puka-nacua-bite-photo-lawsuit/90989294007/",
+      "snippet": "# Photo shows severity of Puka Nacua's alleged bite, lawyer says | Exclusive. A color photo of the bite mark Rams wide receiver Puka Nacua allegedly left on a woman’s shoulder shows the incident was not horseplay, according to an attorney representing the woman. Joseph Kar, the attorney, addressed the matter in a Case Management Conference statement filed Monday, July 20, as part of the woman’s civil lawsuit against Nacua. After the lawsuit was filed March 25 with the Los Angeles County Superior Court, Nacua “engaged the crisis management team to besmirch and falsely portray the Plaintiff 'as horseplaying,'\" according to the filing. “Puka denies these allegations in the strongest possible terms,” McCathern said in a March statement to USA TODAY Sports. The bite caused a micropuncture and the woman had to get a tetanus shot, according to Kar. At the request of USA TODAY Sports, Kar provided the color photo of the bite mark.",
+      "bm25_score_raw": 2.0742178485346634,
+      "bm25_score_norm": 0.4223535849148982,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.7974762916564941,
+      "embedding_score_norm": 0.08669299046927584,
+      "embedding_rank": 11
+    },
+    {
+      "title": "Salman Rushdie Testifies At Terrorism Trial Of The Man Convicted Of Stabbing Him - HuffPost",
+      "url": "https://www.huffpost.com/entry/salman-rushdie-testifies-terrorism-trial-man-convicted-stabbing-him_n_6a623f2de4b0f1b7fc51d1e7",
+      "snippet": "# Salman Rushdie Testifies At Terrorism Trial Of The Man Convicted Of Stabbing Him. (AP) — Four years after being stabbed on an amphitheater stage, Salman Rushdie sat across a courtroom from his convicted attacker Thursday and told jurors for a second time about the ambush that nearly killed him. Then “I was on the stage, lying down, with an enormous pool of blood all around me,” Rushdie testified. A Buffalo federal court jury watched Rushdie fixedly as he testified — and at one point removed his glasses to show his unseeing right eye — at Hadi Matar’s terrorism trial. Matar already was convicted of a state-level attempted murder charge in the 2022 attack at a cultural institution where Rushdie was poised to speak about threats to writers and artists. Matar’s attorneys have argued that prosecutors can’t prove his intent or mindset at the time of the attack — a key element in their claim that it was an act of terrorism motivated by allegiance to Iran’s government and the Iranian-backed Hezbollah militant group.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.7940031290054321,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

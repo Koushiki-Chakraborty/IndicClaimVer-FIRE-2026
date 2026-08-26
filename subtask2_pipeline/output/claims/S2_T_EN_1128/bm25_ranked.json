@@ -1,0 +1,57 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1128",
+    "text": "Modi was an adult when he got married, clarifies brother Damodardas",
+    "lang": "english"
+  },
+  "ranked_evidence": [
+    {
+      "title": "Modi was minor when he got married, clarifies brother ...",
+      "url": "https://www.indiatvnews.com/politics/national/modi-marriage-jasodaben-damodardas-elections-latest-news-16490.html",
+      "snippet": "Apr 10, 2014 — According to Damodardas, the marriage took place 45 years back when Modi was a minor and the family was poor and uneducated that time.",
+      "bm25_score_raw": 3.579097783498611,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Brother Somabhai issues clarification on Narendra Modi's ...",
+      "url": "https://www.youtube.com/watch?v=kSE0vcAx9Q0",
+      "snippet": "His brother Somabhai Damodardas Modi has issued a clarification on his marriage saying Modi was married to Jashodaben over 45 years back",
+      "bm25_score_raw": 1.7791555388601683,
+      "bm25_score_norm": 0.2659541123513011,
+      "bm25_rank": 2
+    },
+    {
+      "title": "Narendra Modi Family Tree",
+      "url": "https://myorigins.ai/Celebraties_details/23/23-family-tree-details.html",
+      "snippet": "Damodardas married Hiraben Modi, Damodardas Modi is the younger brother of PM Narendra Modi, born on November 12, 1953. He is 69 years old. He was is married",
+      "bm25_score_raw": 1.7427701238431053,
+      "bm25_score_norm": 0.2511155449788067,
+      "bm25_rank": 3
+    },
+    {
+      "title": "Modi was married as a child, walked away to serve country",
+      "url": "https://www.rediff.com/news/report/ls-election-brother-clarifies-modi-was-married-as-a-child-walked-away-to-serve-country/20140410.htm",
+      "snippet": "Apr 10, 2014 — Brother clarifies: Modi was married as a child, walked away to serve country. Source: PTI. April 10, 2014 16:28 IST •. Share this ArticleRead more",
+      "bm25_score_raw": 1.6113112475800937,
+      "bm25_score_norm": 0.1975044650659808,
+      "bm25_rank": 4
+    },
+    {
+      "title": "In poll affidavit, Narendra Modi says he is married, brother ...",
+      "url": "https://www.ndtv.com/elections-news/in-poll-affidavit-narendra-modi-says-he-is-married-brother-gives-clarification-556834",
+      "snippet": "Apr 10, 2014 — Mr Modi's older brother Somabhai Damodar Modi, explained in a statement that their family had married him off very young, but he walked away",
+      "bm25_score_raw": 1.4415962571114282,
+      "bm25_score_norm": 0.12829191605395052,
+      "bm25_rank": 5
+    },
+    {
+      "title": "Narendra Damodardas Modi got engaged to Jashodaben ...",
+      "url": "https://www.facebook.com/groups/1772819439616930/posts/2501950166703850",
+      "snippet": "In the 2019 affidavit, he stated he was married. It is said Modi left home at the age of 18 years, whereas his brother Prahald Modi says he ran ...Read more",
+      "bm25_score_raw": 1.12701369049452,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6
+    }
+  ]
+}

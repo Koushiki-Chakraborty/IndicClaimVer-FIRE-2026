@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/BN/1062",
+    "text": "দীর্ঘদিন পরও রাজ্যপাল সিভি আনন্দ বোস বিধানসভায় যাচ্ছেন না, এবং শপথগ্রহণে তার উপস্থিতি নিয়ে অনিশ্চয়তা রয়েছে।",
+    "lang": "bengali"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "West Bengal Governor stops address midway, walks out of assembly ...",
+      "url": "https://www.hindustantimes.com/cities/kolkata-news/west-bengal-governor-stops-address-midway-walks-out-of-assembly-budget-session-101770291152299-amp.html",
+      "snippet": "West Bengal Governor CV Ananda Bose on Thursday abruptly stopped reading out a written speech in the state assembly during the budget",
+      "bm25_score_raw": 2.980470806446871,
+      "bm25_score_norm": 0.7964306355796396,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8714374303817749,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Concept of 'passive governor' is gone: West Bengal's Anand Bose",
+      "url": "https://thefederal.com/category/states/east/west-bengal/concept-of-passive-governor-is-gone-west-bengal-governor-anand-bose-137116",
+      "snippet": "Bose, who was in Delhi to attend the Governors' Conference, said the governor is a custodian of the Constitution, guardian of federalism, and \"",
+      "bm25_score_raw": 2.361053575778277,
+      "bm25_score_norm": 0.6309122021686185,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.871364176273346,
+      "embedding_score_norm": 0.9992929878082104,
+      "embedding_rank": 2
+    },
+    {
+      "title": "CV Ananda Bose says decision to resign as West Bengal Governor was conscious, reasons to remain confidential till right time comes",
+      "url": "https://firstindia.co.in/news/india/cv-ananda-bose-says-decision-to-resign-as-west-bengal-governor-was-conscious-reasons-to-remain-confidential-till-right-time-comes",
+      "snippet": "**Kolkata :** Former West Bengal Governor CV Ananda Bose on Sunday said that his decision to resign from the post was a \"conscious\" one and that the reasons behind it would remain confidential for now. The reasons for this will remain confidential till the right time comes,\" Bose said while speaking to reporters in Kolkata. There is a time to stop, I thought this is the right time for me to go to the exit,\" he said. According to a statement shared by Lok Bhavan in Kolkata, Bose is set to return to his home state of Kerala, where he plans to contribute towards the goal of \"Viksit Bharat\" under the guidance of the national leadership. I will work under the guidance of the national leadership for achieving the goals of this great mission and do my best to further the cause of our dear Keralam, which is my home state,\" the statement said.",
+      "bm25_score_raw": 3.2693529558117147,
+      "bm25_score_norm": 0.8736246793289004,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.855970561504364,
+      "embedding_score_norm": 0.8507214803420121,
+      "embedding_rank": 3
+    },
+    {
+      "title": "\"Have Lot Of Work To Do\": Bengal Governor Dismisses Talks Over His ...",
+      "url": "https://www.ndtv.com/india-news/have-lot-of-work-to-do-west-bengal-governor-c-v-ananda-bose-dismisses-talks-over-his-removal-8567501/amp/1",
+      "snippet": "West Bengal Governor CV Ananda Bose on Monday dismissed speculations over his removal from the gubernatorial post, asserting that he will move forward with",
+      "bm25_score_raw": 0.5618668386923216,
+      "bm25_score_norm": 0.15014002569087914,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.8527395725250244,
+      "embedding_score_norm": 0.819537582961754,
+      "embedding_rank": 4
+    },
+    {
+      "title": "C. V. Ananda Bose - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/C._V._Ananda_Bose",
+      "snippet": "* 4 Governor of West Bengal. **Chithira Velayudhan Ananda Bose** (born 2 January 1951) is an Indian retired Indian Administrative Service officer of the batch of 1977 and politician, who served as the 21st Governor of West Bengal from 2022 until his resignation in 2026. Ananda Bose was born at Mannanam in the Kottayam district of Kerala to freedom fighter P. On 17 November 2022, Bose was appointed Governor of West Bengal by President Droupadi Murmu.. On 5 March 2026, he resigned from his post as the Governor of West Bengal via a letter to the President of India. On 2 May 2024 Bose was accused of sexual harassment by a woman contractual staff of Raj Bhavan, Kolkata. V. Ananda Bose has been appointed as next West Bengal Governor\". 2. ↑ \"West Bengal governor CV Ananda Bose resigns\". Archived from the original on 5 March 2026. 8. ↑ \"Former bureaucrat C V Ananda Bose governor of West Bengal\".",
+      "bm25_score_raw": 0.778571318245062,
+      "bm25_score_norm": 0.20804701340900245,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.8395101428031921,
+      "embedding_score_norm": 0.6918537123317539,
+      "embedding_rank": 5
+    },
+    {
+      "title": "In oath tussle with West Bengal govt, governor CV Ananda Bose blinks first",
+      "url": "https://timesofindia.indiatimes.com/city/kolkata/in-oath-tussle-with-bengal-govt-governor-cv-ananda-bose-blinks-first/amp_articleshow/111502318.cms",
+      "snippet": "Governor CV Ananda Bose on Thursday blinked first, authorising assembly deputy speaker Ashish Banerjee to administer oath to Sayantika Banerjee and Reyat",
+      "bm25_score_raw": 2.5338424969840796,
+      "bm25_score_norm": 0.677084233124061,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8327531814575195,
+      "embedding_score_norm": 0.6266388847501094,
+      "embedding_rank": 6
+    },
+    {
+      "title": "C. V. Ananda Bose: পশ্চিমবঙ্গের রাজ্যপাল সিভি আনন্দ বোস ...",
+      "url": "https://www.facebook.com/Zee24Ghanta/videos/c-v-ananda-bose-%E0%A6%AA%E0%A6%B6%E0%A7%8D%E0%A6%9A%E0%A6%BF%E0%A6%AE%E0%A6%AC%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%87%E0%A6%B0-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A7%8D%E0%A6%AF%E0%A6%AA%E0%A6%BE%E0%A6%B2-%E0%A6%B8%E0%A6%BF%E0%A6%AD%E0%A6%BF-%E0%A6%86%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6-%E0%A6%AC%E0%A7%8B%E0%A6%B8-%E0%A6%AA%E0%A6%A6%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%97-%E0%A6%95%E0%A6%B0%E0%A6%B2%E0%A7%87%E0%A6%A8-zee-24-ghanta/1665983637899417",
+      "snippet": "রাজ্যপাল সিবিআই আনন্দ বোস. তাঁর পদত্যাগ নিয়ে জল্পনা তুঙ্গে. CPIM নেতা সুজন চক্রবর্তী এই মুহূর্তে আমাদের সঙ্গে রয়েছেন টেলিফোন লাইনে. সুজন বাবু. রাজ্যপাল পদত্যাগ করলেন. হঠাৎই তার এই সিদ্ধান্ত.",
+      "bm25_score_raw": 1.5104929615584866,
+      "bm25_score_norm": 0.4036284693043988,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.8225007057189941,
+      "embedding_score_norm": 0.5276870921664315,
+      "embedding_rank": 7
+    },
+    {
+      "title": "C V Ananda Bose Resign | পদত্যাগ করলেন রাজ্যপাল সিভি আনন্দ ...",
+      "url": "https://www.youtube.com/watch?v=vW8aqEC_3xc",
+      "snippet": "C V Ananda Bose Resign | পশ্চিমবঙ্গের রাজ্যপালের পদত্যাগ। পদত্যাগ করলেন রাজ্যপাল সিভি আনন্দ বোস। পশ্চিমবঙ্গের রাজ্যপাল হতে পারেন আর এন রবি | তামিলনাড়ুর রাজ্যপাল আর এন রবি",
+      "bm25_score_raw": 1.761734147420575,
+      "bm25_score_norm": 0.4707642308448607,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.8091399669647217,
+      "embedding_score_norm": 0.3987358921153471,
+      "embedding_rank": 8
+    },
+    {
+      "title": "CV Anand Bose: পদত্যাগের ৪ দিন পর মুখ খুললেন আনন্দ বোস ...",
+      "url": "https://www.thewall.in/west-bengal/anand-bose-opens-up-4-days-after-resigning-adds-to-speculation-by-revealing-reason/tid/188667",
+      "snippet": "পদত্যাগের কারণ নিয়ে প্রশ্ন করা হলে সি ভি আনন্দ বোস (CV anand Bose News ) সোজাসাপ্টা উত্তরে বলেন, “কারণটা কনফিডেনশিয়াল, ঠিক সময় এলে বলা হবে।” তাঁর এই রহস্যময় মন্তব্য ঘিরে নতুন করে রাজনৈতিক",
+      "bm25_score_raw": 3.742285483879829,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.807003915309906,
+      "embedding_score_norm": 0.3781197847783554,
+      "embedding_rank": 9
+    },
+    {
+      "title": "মুখ খুললেও রহস্য জিইয়ে রাখলেন সি ভি আনন্দ বোস...! C. V. Ananda ...",
+      "url": "https://www.facebook.com/Zee24Ghanta/videos/%E0%A6%AE%E0%A7%81%E0%A6%96-%E0%A6%96%E0%A7%81%E0%A6%B2%E0%A6%B2%E0%A7%87%E0%A6%93-%E0%A6%B0%E0%A6%B9%E0%A6%B8%E0%A7%8D%E0%A6%AF-%E0%A6%9C%E0%A6%BF%E0%A6%87%E0%A7%9F%E0%A7%87-%E0%A6%B0%E0%A6%BE%E0%A6%96%E0%A6%B2%E0%A7%87%E0%A6%A8-%E0%A6%B8%E0%A6%BF-%E0%A6%AD%E0%A6%BF-%E0%A6%86%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6-%E0%A6%AC%E0%A7%8B%E0%A6%B8c-v-ananda-bose-governor-news-polit/775282052304559",
+      "snippet": "রহস্য জিইয়ে রাখলেন সিভিক আনন্দ বোস. মেয়াদ শেষের আগেই আচমকা তিনি কি কারণে পদত্যাগ করেছিলেন সেই নিয়ে জোর জল্পনা শুরু হয়ে যায়. যে তার এই আচমকা পদত্যাগের ঠিক কারণ কি একদম নির্বাচন সামনে.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.7966992259025574,
+      "embedding_score_norm": 0.27866405185293,
+      "embedding_rank": 10
+    },
+    {
+      "title": "Bengal Governor: বাংলার নতুন রাজ্যপাল সিভি আনন্দ বোস ...",
+      "url": "https://tv9bangla.com/kolkata/the-president-of-india-is-pleased-to-appoint-dr-c-v-ananda-bose-as-regular-governor-of-west-bengal-au14-688568.html",
+      "snippet": "পশ্চিমবঙ্গের স্থায়ী রাজ্যপাল হিসাবে বাংলার দায়িত্বে ড. সিভি আনন্দ বোস (Dr. C.V. Ananda Bose)। বৃহস্পতিবারই রাষ্ট্রপতি ভবন থেকে নতুন রাজ্যপালের নাম ঘোষণা করা হয়। জগদীপ ধনখড়ের পর এই পদে আসেন লা",
+      "bm25_score_raw": 2.035841726200644,
+      "bm25_score_norm": 0.544010267247163,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.7857412695884705,
+      "embedding_score_norm": 0.17290331191203365,
+      "embedding_rank": 11
+    },
+    {
+      "title": "সি. ভি. আনন্দ বোস",
+      "url": "https://bn.wikipedia.org/wiki/%E0%A6%B8%E0%A6%BF._%E0%A6%AD%E0%A6%BF._%E0%A6%86%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6_%E0%A6%AC%E0%A7%8B%E0%A6%B8",
+      "snippet": "সিভি আনন্দ বোস ইন্ডিয়ান অ্যাডমিনিস্ট্রেটিভ সার্ভিসের (আইএএস) একজন প্রাক্তন কর্মকর্তা। তিনি পশ্চিমবঙ্গের ২২তম রাজ্যপাল। সিভি আনন্দ বোস. পশ্চিমবঙ্গের ২২তম রাজ্যপাল. কাজের মেয়াদ ২৩ নভেম্বর ২০২২ – ১১ মার্চ ২০২৬.",
+      "bm25_score_raw": 2.124997512854626,
+      "bm25_score_norm": 0.5678341542910634,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.7678266167640686,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

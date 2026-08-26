@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/BN/1242",
+    "text": "করোনা সংক্রমণের আশঙ্কায় জামিনের আবেদন, কলকাতা হাই কোর্টের দ্বারস্থ ৩ চিটফান্ড কর্তা",
+    "lang": "bengali"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Calcutta High Court: অনুমতি থাকা সত্ত্বেও ভাঙা হচ্ছে রুফ টপ ...",
+      "url": "https://tv9bangla.com/kolkata/calcutta-high-court-rooftop-restaurant-being-demolished-despite-permission-owners-file-counter-suit-in-high-court-1192036.html",
+      "snippet": "Calcutta High Court: হাইকোর্টে মামলা দায়ের করার আবেদন রেস্তোরাঁ মালিক সংগঠনের। সোমবার কলকাতা হাইকোর্টের বিচারপতি গৌরাঙ্গ কান্ত মামলা দায়ের করার অনুমতি দিয়েছেন। ... কলকাতা: সব অনুমতি থাকা সত্ত্বেও পুরসভা",
+      "bm25_score_raw": 2.2993325268145974,
+      "bm25_score_norm": 0.487413521341682,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8161219358444214,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "CALCUTTA Definition & Meaning | Dictionary.com",
+      "url": "https://www.dictionary.com/browse/calcutta",
+      "snippet": "# Calcutta. 1. former name of Kolkata (but sometimes still used). *(sometimes lowercase)* a form of betting pool for a competition or tournament, as golf or auto racing, in which gamblers bid for participating contestants in an auction, the proceeds from which are put into a pool for distribution, according to a prearranged scale of percentages, to those who selected winners. 1. the former official name (still widely used) of Kolkata. Calcutta is one of the largest cities in the world and suffers from poverty, overcrowding, and unemployment. > In **Calcutta,** political changes led to the British government’s tea-tax strategy for bailing out the East India Co. and its unintended riling up of American tax protesters. > Logo link to The Wall Street Journal. > But from an Irish perspective, there is no better way to flip the narrative than a big win over the English, who are wounded from last week's **Calcutta** Cup defeat by Scotland. > From Barron's ● Feb. 20, 2026.",
+      "bm25_score_raw": 0.6052834806243681,
+      "bm25_score_norm": 0.1283082587057499,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.8047767877578735,
+      "embedding_score_norm": 0.799612363519217,
+      "embedding_rank": 2
+    },
+    {
+      "title": "https://www.facebook.com/thekolkatabuzz/posts/calc...",
+      "url": "https://www.facebook.com/thekolkatabuzz/posts/calcutta-high-court-halts-rooftop-restaurant-demolitions-and-slams-authorities-f/1235378091578578",
+      "snippet": "No information is available for this page.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.7926356792449951,
+      "embedding_score_norm": 0.5851657982921675,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Calcutta High Court",
+      "url": "https://www.calcuttahighcourt.gov.in",
+      "snippet": "The Calcutta High Court is the oldest High Court in India. It was established on 1st July, 1862 under the High Court's Act, 1861.",
+      "bm25_score_raw": 2.9794136783894603,
+      "bm25_score_norm": 0.6315774232660505,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.7845790386199951,
+      "embedding_score_norm": 0.44286257223440534,
+      "embedding_rank": 4
+    },
+    {
+      "title": "কলকাতা হাইকোর্ট পেল তিন নতুন বিচারপতি, কলেজিয়ামের ...",
+      "url": "https://www.thewall.in/west-bengal/kolkata/central-government-cleared-the-appointment-of-three-lawyers-as-additional-judges-to-the-calcutta-high-court/tid/152818",
+      "snippet": "দিন কয়েক আগে কলকাতা হাইকোর্টে নতুন বিচারপতি নিয়োগের জন্য পাঁচজনের নাম সুপারিশ করেছিল সুপ্রিম কোর্টের কলেজিয়াম। তাঁরা ছিলেন স্মিতা দাস দে, ঋতব্রত কুমার মিত্র, তলয় মাসুদ সিদ্দিকি, কৃষ্ণরাজ ঠাকুর, এবং আইনজীবী ওম",
+      "bm25_score_raw": 4.717416374673655,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.7844691276550293,
+      "embedding_score_norm": 0.44092123146698614,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Kolkata - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kolkata",
+      "snippet": "# Kolkata. Capital of West Bengal, India. Megacity in West Bengal, India. | Kolkata skyline with CBD on left and Kolkata maidan \"Maidan (Kolkata)\") on right  Durga Puja in Kolkata  High rises across EM Bypass  Vintage trams  Science City Kolkata  Jorasanko Thakur Bari  Birla Planetarium  and The 42 \"The 42 (Kolkata)\")  Eden Gardens during a match  Howrah Bridge |. | Nicknames:  City of Joy, City of Castles, Gateway of Eastern India, Cultural Capital of India |. | Kolkata is located in West Bengal Kolkata  Kolkata  Location in West Bengal Show map of West Bengal  Kolkata is located in India Kolkata  Kolkata  Location in India Show map of India  Kolkata is located in Asia Kolkata  Kolkata  Location in Asia Show map of Asia |. **Kolkata**, also known as **Calcutta** (its official name until 2001), is the capital and largest city of the Indian state of West Bengal. Kolkata is regarded by many sources as the cultural capital of India and a historically and culturally significant city in the historic region of Bengal.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.7838331460952759,
+      "embedding_score_norm": 0.4296879852693926,
+      "embedding_rank": 6
+    },
+    {
+      "title": "This Is Kolkata (Calcutta), India - Raw, Real and Unforgettable 🇮🇳 | 4K UHD",
+      "url": "https://www.youtube.com/watch?v=lZGd0x_MdWY&vl=en",
+      "snippet": "This Is Kolkata (Calcutta), India - Raw, Real and Unforgettable 🇮🇳 | 4K UHD\nAlberto Carvalho\n2520 subscribers\n1337 likes\n41744 views\n13 Feb 2026\nKolkata is not a city you simply visit — it’s a city you feel.\nIn this immersive walking documentary, I explore Kolkata mostly on foot, moving through its streets, markets, temples, monuments, and everyday life. From moments of deep silence to overwhelming chaos, this journey captures the soul, contradictions, poverty, joy, faith, and culture of one of India’s most intense cities.\n\nThis video is not a guide.\nIt’s a real, raw, emotional walk through Kolkata.\n\nWe begin at Mother House, a place of calm and service, before diving into the colors and labor of Malik Ghat Flower Market and crossing the iconic Howrah Bridge. We walk through colonial landmarks like Victoria Memorial, St. Paul’s Cathedral and the Calcutta High Court.\n\nOn College Street, books, ideas, and conversations fill the air, followed by a stop at the legendary Indian Coffee House. In Kumartuli, artisans shape gods from clay, reminding us of the impermanence of life and devotion.\n\nWe taste tradition at Chittaranjan Mistanna Bhandar in Shyambazar, visit Jain temples, and walk through the vast openness of the Maidan, where pilgrims rest during the Gangasagar pilgrimage.\n\nThe pace rises again along Chowringhee Road, New Market, and near Eden Gardens, before slowing down at Millennium Park by the Hooghly River. And the journey ends in deep spirituality at the Dakshineswar Kali Temple.\n\nThis is Kolkata as it is:\nmessy, intense, beautiful, human.\n\n🎥 Filmed on location\n🚶 Mostly on foot\n❤️ Honest and unscripted\n\nIf you enjoy immersive travel, real street life, and cities with soul, this video is for you.\n\n________________________________________\n⏱️ CHAPTERS / LOCATIONS\n0:00 – Introduction\n1:00 – Mother House\n2:14 – Malik Ghat Flower Market\n3:31 – Howrah Bridge\n5:00 – St. Paul’s Cathedral\n5:17 – Victoria Memorial Hall\n5:51 – Calcutta High Court\n6:00 – College Street\n7:04 – Indian Coffee House\n7:47 – Girish Ch. Dey & Nakur Ch. Nandy\n8:20 – Kumartuli\n10:28 – Chittaranjan Mistanna Bhandar,\n11:12 – Parashnath Jain Temple\n12:24 – Sree Sree Chanda Prabhujee’s Temple, Jain Temple\n12:52 – Eden Gardens\n13:15 – Gangasagar pilgrims\n15:11 – Maidan\n15:39 – Chowringhee Road\n16:20 – New Market\n17:11 – Millennium Park\n17:25 – Kolkata’s iconic yellow taxi\n18:07 – Dakshineswar Kali Temple\n19:37 – Kolkata metro\n\nThis tour took place on January 14, 2025.\n\nSpecial thanks to Malini, the local guide who showed us Kolkata.\n________________________________________\n👍 If this video moved you, consider liking, subscribing, and sharing — it helps the channel grow and allows me to keep walking the world.\n\n________________________________________\n\n🎵 Soundtrack (royalty-free music):\n• \"India Music Track 12\" by kalsstockmedia – Pixabay Music (https://pixabay.com/music/)\n• \"India Music Track 9\" by kalsstockmedia – Pixabay Music (https://pixabay.com/music/)\n• \"India Music Track 7\" by kalsstockmedia – Pixabay Music (https://pixabay.com/music/)\n• \"Hindi Free Song\" by VibeDepot – Pixabay Music (https://pixabay.com/music/)\n\n\n#kolkata   #calcutta   #indiatravel   #streetlifeindia    #kolkatadiaries   #incredibleindia   #streetphotography   #travelvlog   #indianculture   #walkingtour   #indiavlog   #immersivetravel   #4ktravel   #relaxingwalk\n276 comments\n",
+      "bm25_score_raw": 0.7260980840902833,
+      "bm25_score_norm": 0.15391859153846982,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.779935359954834,
+      "embedding_score_norm": 0.36084197759878045,
+      "embedding_rank": 7
+    },
+    {
+      "title": "THE 15 BEST Things to Do in Kolkata (Calcutta) (2026)",
+      "url": "https://www.tripadvisor.com/Attractions-g304558-Activities-Kolkata_Calcutta_Kolkata_District_West_Bengal.html",
+      "snippet": "Kolkata (Calcutta)Things to DoHotelsRestaurantsCruisesForums. # Top Things to Do in Kolkata (Calcutta), India - Kolkata (Calcutta) Attractions. Things to Do in Kolkata (Calcutta). ## Must-do experiences in Kolkata (Calcutta). *   Image 4     ### Bengali Nights Kolkata Food Tour with 13+ Tastings5.0 5 of 5 bubbles(333)     Rail Tours English       from $39   per adult Reserve. *   Image 5     ### Private Custom Full Day Sightseeing Tour of Kolkata5.0 5 of 5 bubbles(128)     Private and Luxury English       from $75   per adult (price varies by group size) Reserve. *   Image 8     ### Cycle the Kolkata Wetlands and Amazing Views5.0 5 of 5 bubbles(16)     Eco Tours English +1       from $39   per adult Reserve. *   Image 9     ### Full Day Pilgrimage Tour of Ganga Sagar from Kolkata5.0 5 of 5 bubbles(4)     Day Trips English       from $100   per adult (price varies by group size) Reserve. *   Image 10     ### Private Full Day Trip to Mayapur from Kolkata with Guide5.0 5 of 5 bubbles(1)     Day Trips English +1       from $160   per adult (price varies by group size) Reserve.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.7775321006774902,
+      "embedding_score_norm": 0.3183935720985957,
+      "embedding_rank": 8
+    },
+    {
+      "title": "Calcutta High Court - Vernacular Judgment",
+      "url": "https://calcuttahighcourt.gov.in/show_judgements_hc",
+      "snippet": "স্থানীয় ভাষায় অনূদিত রায়টি মামলাকারীর নিজস্ব ভাষায় বোঝার জন্যে সীমাবদ্ধ এবং অন্য কোন উদ্দেশ্যে ব্যাবহার করা যাবে না । সমস্ত ব্যাবহারিক এবং সরকারী কার্যে রায়ের ইংরেজি সংস্করণটি নির্বাহ এবং বাস্তবায়নের উদ্দেশ্যে প্রামান্য হিসাবে বিবেচ্য হবে।",
+      "bm25_score_raw": 2.0998777971968954,
+      "bm25_score_norm": 0.4451330199450886,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.7697588205337524,
+      "embedding_score_norm": 0.18109529940759628,
+      "embedding_rank": 9
+    },
+    {
+      "title": "Calcutta High Court: কলকাতা হাইকোর্টে বিজেপির জয়জয়কার ...",
+      "url": "https://tv9bangla.com/kolkata/bjps-victory-in-calcutta-high-court-big-win-in-5-seats-in-bar-association-polls-1015924.html",
+      "snippet": "সভাপতি হচ্ছেন তৃণমূলের অশোককুমার ঢনঢনিয়া। সহ-সভাপতির পদ বিজেপির দখলে। বিজেপির কৃষ্ণেন্দু ভট্টাচার্য জিতেছেন এই পদে। সহ-সম্পাদক পদে জয়ী হয়েছেন ফাল্গুনী বন্দ্যোপাধ্যায়। কমিটির সদস্য হিসাবে জয়ী হয়েছেন বিজেপির",
+      "bm25_score_raw": 2.169740754150409,
+      "bm25_score_norm": 0.4599426003180626,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.7649734020233154,
+      "embedding_score_norm": 0.09657117530075517,
+      "embedding_rank": 10
+    },
+    {
+      "title": "Visit Calcutta on a trip to India",
+      "url": "https://www.audleytravel.com/us/india/places-to-go/calcutta",
+      "snippet": "Flower markets, imperious British colonial buildings, a medley of street food and the sacred Hugli River in West Bengal's capital city.Read more",
+      "bm25_score_raw": 0.7308953134641216,
+      "bm25_score_norm": 0.15493551033317132,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.760379433631897,
+      "embedding_score_norm": 0.015428605719375191,
+      "embedding_rank": 11
+    },
+    {
+      "title": "Kolkata | History, Population, Government, & Facts",
+      "url": "https://www.britannica.com/place/Kolkata",
+      "snippet": "Image 3: Kolkata: Victoria Memorial HallImage 4: Kolkata, IndiaImage 5: Kolkata: Victoria Memorial HallImage 6: Kolkata: bastiImage 7: Kolkata: Victoria Memorial HallImage 8: Children in colorful traditional clothing and floral headpieces dance and flower garlands on a street.Image 9: Howrah bridgeImage 10: Mother Teresa, 1975Image 11: Presidency College: Henry Louis Vivian Derozio statueImage 12: Kolkata, India: Asiatic Society of Bengal headquarters. Remains an Important Traffic Route with 40,000 Crossings Every Day. Guess the City by Its River Quiz. Kolkata: Victoria Memorial HallVictoria Memorial Hall in Kolkata, India.(more). # Kolkata. Kolkata is the capital of West Bengal state, India, and was formerly the capital of British India from 1772 to 1911. As one of India’s largest cities, Kolkata is a major port located on the east bank of the Hugli (Hooghly) River, a channel of the Ganges (Ganga) River, roughly 96 miles (154 km) inland from the Bay of Bengal. *   What is Kolkata's role in India?",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.7595059275627136,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

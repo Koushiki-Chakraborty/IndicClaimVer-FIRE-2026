@@ -1,0 +1,76 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1149",
+    "text": "Kerala High Court Publishes Fewer Than 200 Judgments Translated To Malayalam",
+    "lang": "english"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Kerala High Court Publishes More Than 300 Judgments ...",
+      "url": "https://www.linkedin.com/posts/livelaw_kerala-high-court-publishes-more-than-300-activity-7083138189107871744-ocaE",
+      "snippet": "Kerala High Court Publishes More Than 300 Judgments Translated To Malayalam.",
+      "bm25_score_raw": 2.602466702704033,
+      "bm25_score_norm": 0.9503639924362234,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.9313352108001709,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Kerala High Court Publishes More Than 300 Judgments ...",
+      "url": "https://www.livelaw.in/high-court/kerala-high-court/kerala-high-court-translated-judgment-malayalam-317-transparency-access-justice-232198",
+      "snippet": "The Kerala High Court has translated more than 317 of its judgments in Malayalam and published the same on its website.",
+      "bm25_score_raw": 2.6439989753690054,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9148086309432983,
+      "embedding_score_norm": 0.7823576831811713,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Judgments of Kerala High Court, district courts being ...",
+      "url": "https://www.thehindu.com/news/cities/Kochi/judgements-of-kerala-high-court-district-courts-being-translated-into-malayalam-using-ai-tool/article67053794.ece",
+      "snippet": "As many as 317 judgments of the Kerala High Court have thus been translated into Malayalam. The translated judgments have been made available on",
+      "bm25_score_raw": 2.3090270677329165,
+      "bm25_score_norm": 0.5996687136483094,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8929958343505859,
+      "embedding_score_norm": 0.4950999669537219,
+      "embedding_rank": 3
+    },
+    {
+      "title": "In a first, Kerala HC publishes judgments in Malayalam",
+      "url": "https://www.manoramayearbook.in/current-affairs/india/2023/02/22/kerala-hc-publishes-judgments-in-malayalam.html",
+      "snippet": "Kerala High Court has published two of its recent judgments in Malayalam on February 21, thereby becoming the first High Court in the country …",
+      "bm25_score_raw": 2.3478229440189686,
+      "bm25_score_norm": 0.646034401948384,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8722620010375977,
+      "embedding_score_norm": 0.22205136537644893,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Kerala HC becomes first in India to publish judgment in ...",
+      "url": "https://www.youtube.com/watch?v=eXy7AkIUy9M",
+      "snippet": "The Kerala High Court has scripted history by publishing a judgment in Malayalam on Tuesday on International Mother Language Day. Judgments",
+      "bm25_score_raw": 1.8072622049587697,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8652147054672241,
+      "embedding_score_norm": 0.12924391528535578,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Translation of court judgments into Malayalam using AI tool ...",
+      "url": "https://www.newindianexpress.com/states/kerala/2023/Jul/08/translation-of-court-judgments-into-malayalam-using-ai-tool-gathers-pace-in-kerala-2592503.html",
+      "snippet": "The High Court started providing judgments translated into the Malayalam language to the litigants in February 2023.",
+      "bm25_score_raw": 2.236242353162533,
+      "bm25_score_norm": 0.5126823194269836,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8554006218910217,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6
+    }
+  ]
+}

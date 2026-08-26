@@ -1,0 +1,131 @@
+{
+  "claim": {
+    "id": "S2/1098",
+    "text": "Covid Vaccine के डाटा लीक पर बवाल, भाजपा ने कांग्रेस सरकार पर उठाए सवाल, जानें क्या है पूरा मामला",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "India's Modi under pressure as youth protest leaders set for more talks - Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/indias-modi-under-pressure-youth-protest-leaders-set-more-talks-2026-07-25/",
+      "snippet": "## Browse World. Item 1 of 6 A man holds a poster as he participates in a demonstration held in solidarity with Cockroach Janta Party (CJP) protests held at Jantar Mantar in New Delhi, which demand the resignation of India's Education Minister Dharmendra Pradhan over exam paper leaks, in Kolkata, India, July 24, 2026. **[1/6]**A man holds a poster as he participates in a demonstration held in solidarity with Cockroach Janta Party (CJP) protests held at Jantar Mantar in New Delhi, which demand the resignation of India's Education Minister Dharmendra Pradhan over exam paper leaks, in Kolkata, India, July 24, 2026.... NEW DELHI, July 25 (Reuters) - The Indian government was set to begin a fresh round of talks on Saturday with leaders of a Gen-Z protest that led to disruptions ​in the capital this week, as demonstrators press a demand for the education minister ‌to resign.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.837868332862854,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Rane: Healthcare Workforce Expansion to Boost Goa Model of Healthcare - Goemkarponn",
+      "url": "https://goemkarponn.com/rane-healthcare-workforce-expansion-to-boost-goa-model-of-healthcare/",
+      "snippet": "Facebook   X (Twitter)   Instagram   WhatsApp. * Opposition Rallies Behind Students Over Paper Leak Protest FIRs. * AAP Urges Congress to Pursue Legal Action Against BJP Over ‘Termites’ Remark. * Government Reaffirms Zero Tolerance on Paper Leaks: CM Sawant. * Goa to Launch ‘Ekadasha Teertha Yatra’ to Boost Spiritual Tourism. Facebook   Twitter   LinkedIn   Pinterest   Email. PANAJI: Health Minister Vishwajit Rane has said that the Goa government’s decision to expand the healthcare workforce marks another major step towards strengthening the state’s “Goa Model of Healthcare.”. He said the decisions reaffirm the government’s commitment to delivering accessible, affordable and quality healthcare while empowering healthcare professionals serving the people of Goa. #JustCasual With Babu Azgaonkar \"The Show Must Goa On\". #JustCasual With Neha Gawas “Always thought of helping needy students”. #JustCasual With Dattaprasad Naik: \"Will Do Anything To Defeat CM Sawant In Goa\". #JustCasual With Sunil Kauthankar: No Front or Back Door Entry for Defectors. #### FDA Cracks Down on Food Safety Violations in Anjuna; Six Establishments Shut. #### CM Reviews Implementation of Goa Sustainable Agriculture Action Plan.",
+      "bm25_score_raw": 4.039790916199788,
+      "bm25_score_norm": 0.9180038613489019,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8222634196281433,
+      "embedding_score_norm": 0.795192551403887,
+      "embedding_rank": 2
+    },
+    {
+      "title": "9th Circ. Won't Reopen Vax Bias Suit Against Wash. Officials - Law360",
+      "url": "https://www.law360.com/healthcare-authority/policy-compliance/articles/2503986/9th-circ-won-t-reopen-vax-bias-suit-against-wash-officials",
+      "snippet": "## US Coverage. # Law360 | The Practice of Law. # State Specific Coverage. # Law360 Authority | Deep News & Analysis. # Employment Authority. # Tax Authority. # Insurance Authority. # Real Estate Authority. # Healthcare Authority. # Bankruptcy Authority. ## Global Coverage. # Law360 UK. # Law360 Canada. # Law360 Pulse | The Business of Law. Mealey's California Section 17200. Mealey's Construction Defects Insurance. Mealey's Emerging Insurance Disputes. Mealey's Insurance Bad Faith. By **Patrick Hoff** · July 22, 2026, 1:40 PM EDT. The Ninth Circuit upheld a Washington state agency's win in a suit alleging it unlawfully fired over a dozen employees rather than accommodate their religious objections to the COVID-19 vaccine, ruling... ### Case Information. #### Case Title. #### Case Number. #### Nature of Suit. ### Recent Articles By Patrick. Justices Turn Away NY Healthcare Workers' Vax Bias Suit. High Court Turns Away Health Workers' Vaccine Mandate Case. Arkansas Hospital Must Face EEOC's Male Bias Suit.",
+      "bm25_score_raw": 0.3364852234954523,
+      "bm25_score_norm": 0.07646304991107046,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.8184800744056702,
+      "embedding_score_norm": 0.7455378515975806,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Moderna Hits CureVac With Countersuit In COVID Vax Fight - Law360",
+      "url": "https://www.law360.com/articles/2503616",
+      "snippet": "# Law360 Authority. ## The Practice of Law. # Law360 Pulse | The Business of Law. ## Business of Law. # Law360 Authority | Deep News & Analysis. ## Employment Authority. ## Insurance Authority. ## Bankruptcy Authority. ## Healthcare Authority. ## Global Coverage. ## US Coverage. # Law360 | The Practice of Law. # Law360 Pulse. Mealey's Construction Defects Insurance. Mealey's Emerging Insurance Disputes. Mealey's Insurance Bad Faith. Click here to take the Law360 survey. By Rae Ann Varona ( July 20, 2026, 11:48 PM EDT) -- Moderna has filed a countersuit in Delaware federal court against a BioNTech subsidiary's claims that Moderna's COVID-19 vaccine infringed several patents, saying the rival biotech company was trying to \"take credit\" for Moderna's own innovations in mRNA vaccines. ### Case Information. #### Case Title. #### Case Number. Explore our analysis of these and other findings in the 2026 Law360 Lawyer Satisfaction survey. * 6Circuit-By-Circuit Guide To The US Supreme Court's Term.",
+      "bm25_score_raw": 3.0413513396024716,
+      "bm25_score_norm": 0.6911180136273288,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.816926121711731,
+      "embedding_score_norm": 0.7251429233017395,
+      "embedding_rank": 4
+    },
+    {
+      "title": "MAHA voters feel betrayed — Republicans proceed at their own risk - The Hill",
+      "url": "https://thehill.com/opinion/healthcare/5978536-cdc-awarded-pfizer-vaccine-contract/",
+      "snippet": "On June 1, the agency awarded Pfizer contracts worth roughly $1.24 billion for COVID-19 vaccines for the remainder of fiscal 2026 and fiscal 2027, including hundreds of millions for pediatric doses and additional funds for adults. For those “Make America Healthy Again” voters essential to President Trump’s 2024 coalition, the optics are hard to ignore: The government that promised health reform has committed massive public funds to Pfizer, even as trust in and use of their product collapses. This is not a bureaucratic footnote for the millions who backed Trump in 2024 as part of his coalition: It is a gut punch. Kennedy’s endorsement of President Trump in 2024 marked a historic political realignment, bringing millions of health-freedom voters into the Republican coalition: parents of vaccine-injured children, families affected by chronic disease, physicians and scientists alienated by captured regulators, and citizens who had lost faith in both parties.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.8148497343063354,
+      "embedding_score_norm": 0.6978912750291792,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Covid-19 waking up, Cyclospora marches on, and measles is close to hitting a milestone - Your Local Epidemiologist",
+      "url": "https://yourlocalepidemiologist.substack.com/p/covid-19-waking-up-cyclospora-marches",
+      "snippet": "# Covid-19 waking up, Cyclospora marches on, and measles is close to hitting a milestone. Here’s your disease “weather” report, covering where Covid-19 is waking up and how measles is about to make headlines (again). There is also a spotlight on the ongoing *Cyclospora* outbreak, which deserves an award for the most opaque and confusing outbreak ever, leaving consumers in the dark. Here’s what’s going on and, most importantly, what it means for you. **What this means for you:** If you’re over 65 and never got your spring Covid-19 vaccine, the time is now. As of July 19, 2026, the U.S. has reported 2,278 measles cases this year—already nearing the total for all of 2025 with five months still to go. Either the contaminated food works its way out of circulation, or it takes a few weeks, the temperatures get cool, and the parasites no longer mature on produce (basically killing themselves off.) It’s hard to tell from the data alone if this outbreak is coming to a close given that it’s significantly delayed.",
+      "bm25_score_raw": 1.8579701190860145,
+      "bm25_score_norm": 0.42220594554836827,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.811966061592102,
+      "embedding_score_norm": 0.660044371153118,
+      "embedding_rank": 6
+    },
+    {
+      "title": "One crucial detail about anti-vaccine bills revealed in new study - Newsweek",
+      "url": "https://www.newsweek.com/republican-lawmakers-drove-86-of-anti-vaccine-bills-study-finds-12217870",
+      "snippet": "\"As a physician, that's deeply concerning because viruses, bacteria, and disease do not recognize party affiliation, but only biology.\" Vaccine Hesitancy in the U.S. The findings, published in American Journal of Public Health, come amid a fraught national reckoning over vaccine safety. Boston's researchers suggest the surge in sponsorships is at least partly strategic, driven by election-minded Republican lawmakers courting anti-vaccine constituents who fashion themselves as champions of \"medical freedom.\" \"Our work shows that state lawmakers affiliated with the Republican party are responsible for the overwhelming majority of anti-vaccine bills introduced in recent years,\" study corresponding author Dr. Matt Motta said in a statement. \"While the majority of these bills do not actually pass, it's important to remember that we live in an increasingly connected world—one in which low vaccine coverage in one part of the country can get people sick thousands of miles away.\" The team now plan to expand the SVPP dataset to cover a longer time span and to examine how public experiences with vaccination shape legislation, and vice versa.",
+      "bm25_score_raw": 0.547958042896173,
+      "bm25_score_norm": 0.12451822623262634,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.8112497329711914,
+      "embedding_score_norm": 0.6506428810583991,
+      "embedding_rank": 7
+    },
+    {
+      "title": "White House admits it used keywords to kill billions worth of California research grants - AP News",
+      "url": "https://apnews.com/article/california-research-grants-terminated-keywords-lawsuit-a0ddb01413ecb68d9668490a20be6207",
+      "snippet": "Test Your News I.Q. 2026 Elections Election Results Election calendar White House Congress Supreme Court The latest AP-NORC polls. Federal agencies that terminated more than a thousand research grants at the University of California last year admitted that they used keywords related to diversity, gender, vaccine hesitancy and COVID-19 to screen for projects that ran afoul of the Trump administration’s priorities. It’s an admission that lawyers for the research professors say is proof that the agencies illegally cancelled nearly $2 billion in grants. And that’s a major development in a lawsuit filed by UC researchers against the Trump administration to permanently get their grants back. CalMatters emailed the U.S. Department of Justice, which acts as the legal defense for the federal agencies, on July 16 to ask whether it agrees that the federal grant-making agency stipulations mean the Trump administration violated the constitutional rights of researchers.",
+      "bm25_score_raw": 1.2563201018512005,
+      "bm25_score_norm": 0.2854867314951433,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8086041212081909,
+      "embedding_score_norm": 0.6159204198049296,
+      "embedding_rank": 8
+    },
+    {
+      "title": "A member of Vance’s Secret Service detail is being investigated over a suspected news leak - AP News",
+      "url": "https://apnews.com/article/vance-secret-service-investigation-travel-d4364b9715854764030a77ee1f39621c",
+      "snippet": "+ AP Exclusive: A boater's photo may be 'the last picture' of group drowned in an Ohio river. Test Your News I.Q. 2026 Elections Election Results Election calendar White House Congress Supreme Court The latest AP-NORC polls. 2026 Elections Election Results Election calendar White House Congress Supreme Court The latest AP-NORC polls. Your guide to the biggest stories in politics, policy and U.S. elections. AP’s entertainment, media, fashion and culture coverage, personalized to your interests. Founded in 1846, AP today remains the most trusted source of fast, accurate, unbiased news in all formats and the essential provider of the technology and services vital to the news business. - AP’s Role in Elections. # A member of Vance’s Secret Service detail is being investigated over a suspected news leak. WASHINGTON (AP) — A member of Vice President JD Vance ’s security detail is being investigated over allegations tied to a suspected news leak, the U.S. Secret Service said Thursday.",
+      "bm25_score_raw": 2.589456132897965,
+      "bm25_score_norm": 0.5884291484644663,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.806766152381897,
+      "embedding_score_norm": 0.5917979078594517,
+      "embedding_rank": 9
+    },
+    {
+      "title": "First person gets new experimental vaccine for Ebola - BBC",
+      "url": "https://www.bbc.com/news/articles/c8jn007gmpzo",
+      "snippet": "​​The first volunteer in the world - a 37-year-old UK man called Ed Hunt - has received an experimental vaccine against the Ebola virus. Hunt said he wanted to help after seeing news reports of the deadly Ebola outbreak in Democratic Republic of Congo. ​​The vaccine, designed using the same technology as one of the UK's Covid vaccines, was given in Oxford where scientists developed it in just eight weeks. ​​He told the BBC what motivated him to take part: \"I had wanted to volunteer for the Covid vaccine trial but was unable to because of work commitments. \"The aim of the phase one clinical study is to look for the safety of the vaccine, and also to see if we're getting a strong immune response that could be protective against the Bundibugyo species of Ebola.\". ​​There are four vaccines in development against the Bundibugyo species which has triggered the outbreak, but this is the first to enter human trials.",
+      "bm25_score_raw": 4.400625189379679,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.7980543971061707,
+      "embedding_score_norm": 0.477460048751944,
+      "embedding_rank": 10
+    },
+    {
+      "title": "Greater Monroe Kennel Club – Sunday, July 19, 2026 - Canine Chronicle |",
+      "url": "https://caninechronicle.com/show-wins-gallery/greater-monroe-kennel-club-11/",
+      "snippet": "# Greater Monroe Kennel Club – Sunday, July 19, 2026. Show Name: **Greater Monroe Kennel Club**. Show Date: Sunday, July 19, 2026. Reserve Dog Reg: **GCHG Pizzazz Kurly Kreek Raise A Ruckus [Dog]**. Reserve Owner: S & M Shifflett. **Sporting** Judge’s Name:  **Mr. Edmund Dziuk**. Dog Reg: **GCHG Pizzazz Kurly Kreek Raise A Ruckus [Dog]**. Dog Reg: GCHG Kinloch So There! Owner: G Kincer, A Lima, C Meddaugh & J Wulffenstein. Breeder: A Lima, A Brito & A Lee. Dog Reg: GCHB Foxwood’s Watermark [Dog]. Owner: K & J Lyons & H Roy. **Hound** Judge’s Name:  **Mr. Edmund Dziuk**. Dog Reg: GCHG Lost Heritage Time Bandit At Kiarry [Dog]. Breeder: S Grossman, K Lawless & C Vanover. Dog Reg: **GCHG Excelsia’s Outside Of Tiffany’s Box [Dog]**. Owner: J & M Palumbo & D & K Musto. Dog Reg: GCHG Meraki Intrigued By The Bees [Dog]. Owner: M E Pereira, S Peck & D Stout. Breeder: M E Pereira, D Stout & S Peck.",
+      "bm25_score_raw": 2.7682312879196793,
+      "bm25_score_norm": 0.6290540931775866,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.761675238609314,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 11
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1070",
+    "text": "Bombay High Court Upholds Reopening Income Tax Assessment After 4 Years On The Change Of Opinion",
+    "lang": "english"
+  },
+  "entity_ranked_evidence": [
+    {
+      "title": "Bombay High Court Quashes Reopening Income Tax ...",
+      "url": "https://www.livelaw.in/high-court/bombay-high-court/bombay-high-court-reopening-income-tax-assessment-change-of-opinion-232944",
+      "snippet": "Jul 17, 2023 — Bombay High Court has quashed the reopening of income tax assessments after 4 years merely on the change of opinion of the Assessing Officer (",
+      "bm25_score_raw": 6.695447060625436,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9300639629364014,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 1
+    },
+    {
+      "title": "Change of Opinion Not Permitted for Reopening Assessments under Section 148: Direct Information Pvt Ltd v. ITO: Bombay High Court | CaseMine",
+      "url": "https://www.casemine.com/commentary/in/change-of-opinion-not-permitted-for-reopening-assessments-under-section-148%3A-direct-information-pvt-ltd-v.-ito/view",
+      "snippet": "# Change of Opinion Not Permitted for Reopening Assessments under Section 148: Direct Information Private Limited v. Income-Tax Officer And Others**, adjudicated by the Bombay High Court on September 29, 2011, addresses the contentious issue of whether an Assessing Officer (AO) can reopen assessments based solely on a change of opinion. The case of **Direct Information Private Limited v. The petitioner, Direct Information Private Limited, challenged the validity of notices seeking to reopen its income tax assessments for the years 2006-07 and 2007-08 under Section 148 of the Income Tax Act, 1961. The Bombay High Court held that the Assessing Officer's decision to reopen the assessments was impermissible as it was based solely on a change of opinion without any new or tangible material. The court dissected the legal framework surrounding Section 148, emphasizing that the power to reopen an assessment is not a discretionary tool for the AO to reassess based on subjective changes in opinion.",
+      "bm25_score_raw": 5.721199371269086,
+      "bm25_score_norm": 0.6394951824961873,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8967858552932739,
+      "embedding_score_norm": 0.5292390609638258,
+      "embedding_rank": 2,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 2
+    },
+    {
+      "title": "Direct Tax Alert",
+      "url": "https://www.dhruvaadvisors.com/wp-content/uploads/2024/05/Bombay-High-Court-quashes-reassessment-proceedings-for-AY2015-16-on-various-grounds.pdf",
+      "snippet": "2 [2022] 138 taxmann.com 64 (SC) • The taxpayer filed a writ before the Bombay High Court challenging validity of the notice issued under section 148 and re-assessment proceedings. High Court ruling • Based on the Faceless Assessment Scheme introduced by the CBDT6, FAO is required to issue the notice under section 148 and not the JAO. Issue 4 - Whether re-assessment proceedings can be initiated based on change of opinion High Court ruling • The claim of deduction under Section 80JJAA was disclosed in the Tax audit report of the taxpayer. Tata 2020 (‘TOLA’) are applicable to AYs 2015-16 and onwards High Court ruling • TOLA provisions are applicable only to the AYs for which the time limit for issue of notice under section 148 was expiring on or before March 31, 2021.",
+      "bm25_score_raw": 4.0361526977968865,
+      "bm25_score_norm": 0.01597053866887304,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.859373927116394,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 3
+    },
+    {
+      "title": "Reopening Income Tax Assessment Based On Internal ...",
+      "url": "https://www.verdictum.in/court-updates/high-courts/bombay-high-court-reopening-tax-assessment-under-section-148-of-income-tax-act-is-not-permissible-based-on-internal-audit-reports-1504786",
+      "snippet": "Nov 16, 2023 — Reopening Income Tax Assessment Based On Internal Audit Report Impermissible As It Amounts To 'Change Of Opinion': Bombay HC. By Jayanti Pahwa.Read more",
+      "bm25_score_raw": 4.269263055837734,
+      "bm25_score_norm": 0.10222930838613524,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8943510055541992,
+      "embedding_score_norm": 0.494795030615979,
+      "embedding_rank": 3,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 4
+    },
+    {
+      "title": "Completed Tax Assessment Cannot Be Reopened Under Another Section: Supreme Court Ruling - BDO",
+      "url": "https://www.bdo.in/en-gb/insights/alerts-updates/completed-assessment-cannot-be-reponed-to-tax-the-income-under-another-section",
+      "snippet": "* Completed assessment cannot be reopened to tax the income under another section, as it amounts to ch. ## **Direct Tax Alert** - Completed assessment cannot be reopened to tax the income under another section, as it amounts to change of opinion. Section 148 of the Income-tax Act, 1961 (IT Act) grants powers to the tax officer to reopen a concluded matter if there is an income which has escaped assessment. An income is offered to tax by the taxpayer under a particular head of income/section. In this regard, recently, the Bombay High Court1 had an occasion to delve into whether a completed assessment wherein the income is taxed under one particular section can be reopened where the tax officer is of the view that the income is taxable under another section. The taxpayer offered the gains to tax under section 45 of the IT Act read with first proviso to section 48 of the IT Act after setting off a loss for FY 2013-14 and paid taxes on the balance amount under section 112(1)(i)(c)(ii) of the IT Act. During assessment proceedings, the taxpayer submitted the following:.",
+      "bm25_score_raw": 3.9929930515440004,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8924198150634766,
+      "embedding_score_norm": 0.46747589761058767,
+      "embedding_rank": 4,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 5
+    },
+    {
+      "title": "Pankaj Wadhawa, Mumbai vs Income Tax Officer-1(3)(4) ...",
+      "url": "https://indiankanoon.org/doc/175698200",
+      "snippet": "4) The learned CIT(A) further erred in not appreciating that the reopening of assessment amounted to change of opinion and hence the reopening of assessment was ...Read more",
+      "bm25_score_raw": 4.562457479205756,
+      "bm25_score_norm": 0.2107212280942079,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8687744140625,
+      "embedding_score_norm": 0.13298178218556436,
+      "embedding_rank": 5,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 6
+    }
+  ]
+}

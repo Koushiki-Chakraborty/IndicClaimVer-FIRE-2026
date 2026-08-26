@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/BN/1217",
+    "text": "ভোটে টিকিট পাওয়া নিয়ে সংশয়ে সৌগত, প্রার্থী হলে জয় সম্বন্ধেও সন্দিহান নেতা",
+    "lang": "bengali"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "President Trump's endorsement of the GOP candidate ...",
+      "url": "https://www.facebook.com/CBSMinnesota/posts/president-trumps-endorsement-of-the-gop-candidate-for-governor-in-minnesota-mypi/1484942573673042",
+      "snippet": "Maybe the endorsement will help put an end to the democrats dominance in the Twin Cities.|With the weak list of candidates running in",
+      "bm25_score_raw": 1.9085346458086923,
+      "bm25_score_norm": 0.956685650116307,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8218652009963989,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "The top Senate races to watch in the midterms : NPR",
+      "url": "https://www.npr.org/2026/05/02/nx-s1-5806271/2026-midterm-elections-control-senate-race",
+      "snippet": "**The top Senate races to watch in the midterms** **Democrats could have a narrow path to winning the Senate, with these specific states on the table.**. # 2026 Senate races to watch: From most likely to flip to Democratic long shots. The national political environment is a difficult one for Republicans. Because Trump is in the White House, and a vice president breaks ties in the Senate, Democrats need to pick up a net of four seats to take control. They expect, given history and the national environment, that it's possible Democrats could pick up anywhere from one to three seats, though they remain on offense in multiple states. Tier 1 is most likely, Tier 2 is competitive but less likely, and so on. The former senator is another big Democratic recruiting win and is a main reason why this state is a Toss-Up. Democrats contend that incumbent Republican Sen. John Husted is untested since he was appointed, not elected, to hold this seat.",
+      "bm25_score_raw": 1.2053071970444356,
+      "bm25_score_norm": 0.6041808577730708,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8132761120796204,
+      "embedding_score_norm": 0.9131960905380782,
+      "embedding_rank": 2
+    },
+    {
+      "title": "The polls are closed, and ballots are now being counted in ...",
+      "url": "https://www.facebook.com/wtoc11/posts/the-polls-are-closed-and-ballots-are-now-being-counted-in-the-democratic-race-fo/1464982659002430",
+      "snippet": "So Much For “Made in America”: Trump's Gold Phone Exposed As A Chinese Knockoff, His $60M Birthday Flopped, and Georgia Democrats Outvoted",
+      "bm25_score_raw": 1.2943169418530598,
+      "bm25_score_norm": 0.6487985154959378,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8119087219238281,
+      "embedding_score_norm": 0.8993768353839435,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Latest U.S. opinion polls | Ipsos",
+      "url": "https://www.ipsos.com/en-us/latest-us-opinion-polls",
+      "snippet": "| June 2026May 2026April 2026 March 2026 February 2026 January 2026 December 2025 November 2025 October 2025 September 2025 |. **Washington DC, June 24, 2026**--A new Reuters/Ipsos poll conducted June 18-22 finds that 63% of Americans think it is unlikely that the preliminary agreement between the U.S. and Iran will lead to lasting peace between the two countries. ## June 2026 LSEG/Ipsos Primary Consumer Sentiment Index. **Washington DC, June 12, 2026**--The LSEG/Ipsos Primary Consumer Sentiment Index for June 2026 is at 49.1. ## Reuters/Ipsos June 2026 Poll. **Washington, D.C., June 8, 2026** – A new Reuters/Ipsos poll conducted June 3-8 covers Americans’ views towards President Donald Trump’s handling of the presidency, Trump’s approval rating on the cost of living, views towards the war in Iran, and more. **Washington, D.C., May 19, 2026** – The latest wave of the Reuters/Ipsos Core Political conducted May 15-18 finds that a rising majority of Americans feel that their cost of living is off on the wrong track and disapprove of President Donald Trump’s handling of the issue.",
+      "bm25_score_raw": 0.5818989843324484,
+      "bm25_score_norm": 0.2916868233703047,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.7982627153396606,
+      "embedding_score_norm": 0.7614661988163185,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Democrats polled at the party's state convention favored ...",
+      "url": "https://www.facebook.com/WBAYTV/posts/democrats-polled-at-the-partys-state-convention-favored-this-candidate-over-more/1403107631849284",
+      "snippet": "Relevant Locations. Madison. Wisconsin. United States. Recent Posts. . Which Democratic presidential candidate has a clear positive",
+      "bm25_score_raw": 1.9949443639890136,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.7811232209205627,
+      "embedding_score_norm": 0.5882493260846648,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Election highlights: Polls close in California as key midterm ...",
+      "url": "https://www.nbcnews.com/politics/2026-election/live-blog/primary-elections-ca-nj-trump-iran-war-live-updates-rcna347951",
+      "snippet": "Follow the latest Trump administration news and primary coverage as election races unfold in New Jersey, California, Iowa and other states.",
+      "bm25_score_raw": 1.3279544399809489,
+      "bm25_score_norm": 0.6656598870384648,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.7774019837379456,
+      "embedding_score_norm": 0.5506413866843366,
+      "embedding_rank": 6
+    },
+    {
+      "title": "বগুড়ায় বৃদ্ধ বাবার ওপর হামলা ও প্রাণনাশের আশঙ্কার অভিযোগে বগুড়া ...",
+      "url": "https://www.facebook.com/bogurasadarnews2015/videos/%E0%A6%AC%E0%A6%97%E0%A7%81%E0%A7%9C%E0%A6%BE%E0%A7%9F-%E0%A6%AC%E0%A7%83%E0%A6%A6%E0%A7%8D%E0%A6%A7-%E0%A6%AC%E0%A6%BE%E0%A6%AC%E0%A6%BE%E0%A6%B0-%E0%A6%93%E0%A6%AA%E0%A6%B0-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE-%E0%A6%93-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A3%E0%A6%A8%E0%A6%BE%E0%A6%B6%E0%A7%87%E0%A6%B0-%E0%A6%86%E0%A6%B6%E0%A6%99%E0%A7%8D%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%85%E0%A6%AD%E0%A6%BF%E0%A6%AF%E0%A7%8B%E0%A6%97%E0%A7%87-%E0%A6%AC%E0%A6%97%E0%A7%81%E0%A7%9C%E0%A6%BE-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B8%E0%A6%95%E0%A7%8D%E0%A6%B2%E0%A6%BE%E0%A6%AC%E0%A7%87-%E0%A6%B8%E0%A6%82%E0%A6%AC%E0%A6%BE/4474707582857811",
+      "snippet": "বগুড়ায় বৃদ্ধ বাবার ওপর হামলা ও প্রাণনাশের আশঙ্কার অভিযোগে বগুড়া প্রেসক্লাবে সংবাদ সম্মেলনে।",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.7755529284477234,
+      "embedding_score_norm": 0.5319542791741337,
+      "embedding_rank": 7
+    },
+    {
+      "title": "শেখ হাসিনা - উইকিপিডিয়া",
+      "url": "https://bn.wikipedia.org/wiki/%E0%A6%B6%E0%A7%87%E0%A6%96_%E0%A6%B9%E0%A6%BE%E0%A6%B8%E0%A6%BF%E0%A6%A8%E0%A6%BE",
+      "snippet": "উইকিপিডিয়া একটি মুক্ত বিশ্বকোষ. + ১.১ শিক্ষা এবং বিবাহ. + ১.২ পারিবারিক হত্যা, নির্বাসন ও প্রত্যাবর্তন. + ২.১ সামরিক শাসনের বিরুদ্ধে আন্দোলন (১৯৮১-১৯৯১)). * ৩ প্রধানমন্ত্রী হিসেবে প্রথম মেয়াদকাল, (১৯৯৬–২০০১)). * ৫ প্রধানমন্ত্রী হিসেবে দ্বিতীয় মেয়াদকাল (২০০৯-২০২৪)). নব্বইয়ের গণঅভ্যুত্থানে হুসেইন মুহম্মদ এরশাদের স্বৈরাচারী শাসনের অবসান ঘটলে, বাংলাদেশ আওয়ামী লীগের নেত্রী শেখ হাসিনা ১৯৯১ সালের নির্বাচনে খালেদা জিয়ার কাছে পরাজিত হন, যার সাথে তিনি এরশাদের বিরুদ্ধে অন্দোলনে সহযোগিতা করেছিলেন। এরপর বিরোধীদলীয় নেত্রী হিসেবে শেখ হাসিনা, খালেদা জিয়ার বাংলাদেশ জাতীয়তাবাদী দলকে (বিএনপি) নির্বাচনি অসততার জন্য অভিযুক্ত করে সংসদ বর্জন করেন, যার ফলে দেশে সহিংস বিক্ষোভ এবং রাজনৈতিক অস্থিরতা দেখা দেয়। খালেদা জিয়া একটি তত্ত্বাবধায়ক সরকারের কাছে পদত্যাগ করতে বাধ্য হন, তারপরে ১৯৯৬ সালের জুনের নির্বাচনে শেখ হাসিনা প্রথমবারের মতো দেশের প্রধানমন্ত্রী নির্বাচিত হন। এরপর বাংলাদেশে অর্থনৈতিক প্রবৃদ্ধি এবং দারিদ্র্য হ্রাস পেতে শুরু করলেও, তার প্রথম মেয়াদে রাজনৈতিক অস্থিরতা সৃষ্টি হয়, যা ২০০১ সালের জুলাইয়ের নির্বাচনে খালেদার কাছে তার নির্বাচনি পরাজয়ের মাধ্যমে শেষ হয়েছিল। স্বাধীন দেশ হওয়ার পর এটিই ছিল বাংলাদেশের কোনো প্রধানমন্ত্রীর প্রথম পূর্ণ পাঁচ বছরের মেয়াদ।.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.7499619722366333,
+      "embedding_score_norm": 0.27332439799406655,
+      "embedding_rank": 8
+    },
+    {
+      "title": "Mayukh Ranjan Ghosh Official | কবে ঠিক বুঝেছিলাম এবার বাংলায় ১০০% হিন্দু ...",
+      "url": "https://www.instagram.com/p/DaZ95kKk2XQ",
+      "snippet": "495 likes, 21 comments - mayukhrghosh on July 5, 2026: \"কবে ঠিক বুঝেছিলাম এবার বাংলায় ১০০% হিন্দু consolidation হতে চলেছে? ২০২৫ সালের ডিসেম্বর মাসে।",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.7493375539779663,
+      "embedding_score_norm": 0.2670138397361565,
+      "embedding_rank": 9
+    },
+    {
+      "title": "Joy Satyer O Joy (জয় সত্যের ও জয়) - Audio Song | Shimul Yusuf | Bangla ...",
+      "url": "https://www.youtube.com/watch?v=SdvgoEPNXFQ",
+      "snippet": "Joy Satyer O Joy (জয় সত্যের ও জয়) - Audio Song | Shimul Yusuf | Bangla Gaan | FFR Bengali. @SanataniBanglaOfficial11 likes770 views2 years ago",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.7470276355743408,
+      "embedding_score_norm": 0.24366911133533123,
+      "embedding_rank": 10
+    },
+    {
+      "title": "Joy Joy Sachimata | জয় জয় শচীমাতা | Sudip Bhowmick | Rs Music | New ...",
+      "url": "https://www.youtube.com/watch?v=qEmGeZS3thM",
+      "snippet": "Presenting New Bengali Song Joy Joy Sachimata By Rs Music ✽ Song - Joy Joy Sachimata ✽ Album - Hari Namer Dhoom ✽ Singer - Sudip Bhowmik",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.7304137349128723,
+      "embedding_score_norm": 0.07576404680511423,
+      "embedding_rank": 11
+    },
+    {
+      "title": "জয় প্রভু যীশু, জয় জয় সত্য সনাতন।Bengali Christian Song।Bangla ...",
+      "url": "https://www.youtube.com/watch?v=b0nKqaqALts",
+      "snippet": "গানঃ জয় প্রভু যীশু, জয় জয় সত্য সনাতন Song: Joy Probhu Jishu Joy Joy Shotto Shonaton শিল্পীঃ সমবেত। Artist: Choir। কথা ও সুরঃ গগনচন্দ্র দত্ত।১৮৫৬ Lyrics & Tune:",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.7229170203208923,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

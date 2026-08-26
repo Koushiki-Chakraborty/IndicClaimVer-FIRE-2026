@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/HI/1252",
+    "text": "'कानून प्रवर्तन एजेंसियों में कड़े मानदंड': सुप्रीम कोर्ट ने आपराधिक मामले को दबाने के लिए सीआरपीएफ कांस्टेबल की नियुक्ति समाप्त की",
+    "lang": "hindi"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Supreme Court Terminates CRPF Constable's Appointment For ...",
+      "url": "https://www.livelaw.in/amp/supreme-court/stringent-yardsticks-in-law-enforcement-agencies-supreme-court-terminates-crpf-constables-appointment-for-suppressing-criminal-case-264345",
+      "snippet": "'Stringent Yardsticks In Law Enforcement Agencies' : Supreme Court Terminates CRPF Constable's Appointment For Suppressing Criminal Case",
+      "bm25_score_raw": 7.5442508455523285,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9321973919868469,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Follow law to appoint DGP, or abide by norms laid down by court, says SC",
+      "url": "https://dailypioneer.com/news/follow-law-to-appoint-dgp-or-abide-by-norms-laid-down-by-court-says-sc",
+      "snippet": "The Supreme Court ruled that states with a separate law for appointing DGPs must follow it, while others must adhere to the Prakash Singh",
+      "bm25_score_raw": 4.3339205786033865,
+      "bm25_score_norm": 0.5744666590929205,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8476442694664001,
+      "embedding_score_norm": 0.5019134272063752,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Supreme Court orders cadre review in all Central Armed Police Forces ...",
+      "url": "https://newsonair.gov.in/supreme-court-orders-cadre-review-in-all-central-armed-police-forces-within-6-months",
+      "snippet": "The Supreme Court has directed cadre review in all the Central Armed Police Forces (CAPFs), including ITBP, BSF, CRPF, CISF and SSB, within six months.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.8417866230010986,
+      "embedding_score_norm": 0.4674071314532742,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Instagram",
+      "url": "https://www.instagram.com/p/DUZ6IsdktLB?hl=en",
+      "snippet": "Photo by Bureaucrats Magazine on February 05, 2026. The Supreme Court has criticized the frequent use of acting Director General of Police (DGP) appointments, stating it violates the Prakash Singh guidelines and reflects poorly on state compliance with the law. The court noted that many states fail to regularize DGP appointments, prompting it to empower the Union Public Service Commission (UPSC) to urge states to timely recommend DGP candidates. If states do not comply, the UPSC is instructed to file an application in the Prakash Singh case, emphasizing accountability for non-compliance. Photo by Bureaucrats Magazine on July 21, 2026. May be an image of text. May be a meme of one or more people, poster and text. May be an image of one or more people, crowd, stadium and text. May be an image of one or more people, crowd and text. May be an image of flag, office and text. May be an image of one or more people and text.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.8301811218261719,
+      "embedding_score_norm": 0.3990413025700914,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Supreme Court Tightens DGP Appointment Rules",
+      "url": "https://theprayasindia.com/supreme-court-tightens-dgp-appointment-rules",
+      "snippet": "Supreme Court 2026 rulings on DGP appointments: No acting DGPs, 3-month advance UPSC panels, 6-month service rule.",
+      "bm25_score_raw": 1.84878893437484,
+      "bm25_score_norm": 0.24505931367125516,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8279879689216614,
+      "embedding_score_norm": 0.3861218504995205,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Supreme Court Empowers UPSC to Act Against States Delaying DGP ...",
+      "url": "https://thelawdaily.com/sc-upsc-contempt-dgp-appointment-rules",
+      "snippet": "Supreme Court allows UPSC to seek contempt against States delaying DGP appointments, reinforcing binding police reform rules.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.8230987787246704,
+      "embedding_score_norm": 0.3573205488282958,
+      "embedding_rank": 6
+    },
+    {
+      "title": "CRPF Tradesman Recruitment Age Relaxation Official Notice ...",
+      "url": "https://www.youtube.com/watch?v=ki6avRABCsw&vl=hi",
+      "snippet": "CRPF भर्ती Age मे छूट मिल गया Official Notice जारी /✓ CRPF Tradesman Age Relaxation Notice out BEST BOOKS FOR CRPF CONSTABLE TRADESMAN BHARTI",
+      "bm25_score_raw": 0.9057970376550076,
+      "bm25_score_norm": 0.12006454400823845,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8164170384407043,
+      "embedding_score_norm": 0.31795967108504086,
+      "embedding_rank": 7
+    },
+    {
+      "title": "CRPF 2026 Age Limit Changed | CRPF Constable Age ...",
+      "url": "https://www.youtube.com/watch?v=Jb6GjAoXNZY",
+      "snippet": "CRPF 2026 Age Limit Changed | CRPF Constable Age Relaxation Official Notice Welcome to Chirag Classes! In this video, we are discussing. CRPF",
+      "bm25_score_raw": 0.9447262081206379,
+      "bm25_score_norm": 0.1252246548346939,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8122362494468689,
+      "embedding_score_norm": 0.2933314279233618,
+      "embedding_rank": 8
+    },
+    {
+      "title": "Thinking of applying for CRPF Constable Tradesman ...",
+      "url": "https://www.instagram.com/reel/DXO38BljqFh",
+      "snippet": "Doston CRPF Technical and Tradesman recruitment mein age limit bahut ... अंतिम तिथि 30 जुलाई 2026 वेतन (लगभग) ₹85,500/- आयु सीमा 52 वर्ष MAX.",
+      "bm25_score_raw": 0.7393722416892301,
+      "bm25_score_norm": 0.0980047266224085,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8111414313316345,
+      "embedding_score_norm": 0.2868820599213983,
+      "embedding_rank": 9
+    },
+    {
+      "title": "🚨(CRPF) has released a massive recruitment for Constable ...",
+      "url": "https://www.instagram.com/reel/DW5tLnJxFtx?hl=hi",
+      "snippet": "3 days ago. OCR. CRPF भर्ती 2026 COMMANDANT पद पर भर्ती अब होगा सपना साकार बनें CRPF के अफसर! अंतिम तिथि 30 जुलाई 2026 वेतन (लगभग) ₹85,500/- आयु सीमा 52 वर्ष MAX.",
+      "bm25_score_raw": 0.69100628039157,
+      "bm25_score_norm": 0.09159375722494022,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8095568418502808,
+      "embedding_score_norm": 0.2775475407395495,
+      "embedding_rank": 10
+    },
+    {
+      "title": "CRPF की सिमरन बाला इतिहास रचने को तैयार! जम्मू-कश्मीर के ...",
+      "url": "https://www.instagram.com/p/DTuNvqKgSjc?hl=hi",
+      "snippet": "सहायक कमांडेंट सिमरन बाला अप्रैल 2025 में CRPF में शामिल हुईं। उन्होंने जम्मू के गांधी नगर स्थित सरकारी महिला कॉलेज से राजनीतिक विज्ञान में स्नातक की पढ़ाई की है। उनकी पहली तैनाती छत्तीसगढ़ की बस्तरिया बटालियन",
+      "bm25_score_raw": 0.6621308003055614,
+      "bm25_score_norm": 0.08776627578547669,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.7626348733901978,
+      "embedding_score_norm": 0.0011390325456429372,
+      "embedding_rank": 11
+    },
+    {
+      "title": "10 वी पास के लिए CRPF में बम्फर भर्ती",
+      "url": "https://www.instagram.com/reel/DXa42yVEsKs",
+      "snippet": "इसमें हाइट 170 सेंटीमीटर लड़कों के लिए, लड़कियों के लिए हाइट 157 सेंटीमीटर ली जाएगी। उम्र 18 से लेकर 23 वर्ष के बीच में। नजदीकी किसी भी दुकान पे जाइए और CRPF ट्रेड्समैन के पदों पर आप सभी लोग फॉर्म",
+      "bm25_score_raw": 0.6530345557678776,
+      "bm25_score_norm": 0.086560557056884,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.7624415159225464,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

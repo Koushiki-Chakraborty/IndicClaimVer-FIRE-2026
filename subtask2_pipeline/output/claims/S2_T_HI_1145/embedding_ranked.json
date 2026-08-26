@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/HI/1145",
+    "text": "सेल डीड के बारे में जानकारी उसके पंजीकरण की तारीख से नहीं मानी जा सकती, सीमा अवधि जानकारी की तारीख से शुरू होती है: सुप्रीम कोर्ट",
+    "lang": "hindi"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Knowledge About Sale Deed Can't Be Presumed From ...",
+      "url": "https://www.livelaw.in/top-stories/supreme-court-ruling-registered-sale-deed-cancellation-limitation-period-begins-from-date-of-knowledge-280518",
+      "snippet": "The Supreme Court recently reiterated that the period of limitation in such cases begins from the date when knowledge of fraud (underlying the challenged sale",
+      "bm25_score_raw": 3.68236577860163,
+      "bm25_score_norm": 0.5814654485697758,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.923930287361145,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Supreme Court Upholds Sale Deed Registration as ...",
+      "url": "https://courtbook.in/posts/supreme-court-upholds-sale-deed-registration-as-constructive-notice-dismisses-45-year-old-partition-suit",
+      "snippet": "The Supreme Court ruled that the limitation period for a partition suit begins from the sale deed registration date, dismissing a 45-year",
+      "bm25_score_raw": 5.773373922663768,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9023298621177673,
+      "embedding_score_norm": 0.7527417794377118,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Limitation Period Begins from Knowledge of Sale, Not ...",
+      "url": "https://www.lexology.com/library/detail.aspx?g=27de6a32-9ef5-4778-b0fc-78af7cc1e4b5",
+      "snippet": "under the Limitation Act, 1963, the period for challenging a sale deed begins when the plaintiff becomes aware of the transaction, not when the",
+      "bm25_score_raw": 3.4528220455670873,
+      "bm25_score_norm": 0.5355201548548525,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.884401261806488,
+      "embedding_score_norm": 0.5475146248705356,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Supreme Court sets 4 month registration deadline for ...",
+      "url": "https://www.facebook.com/groups/1483012951993684/posts/3662246757403615",
+      "snippet": "sale deeds must be registered within four months of execution or become legally invalid, with no exceptions for subsequent validation attempts.",
+      "bm25_score_raw": 2.5704114949934076,
+      "bm25_score_norm": 0.3588975505812093,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8837451934814453,
+      "embedding_score_norm": 0.5400046668586174,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Supreme Court Establishes Strict 4 Month Registration ...",
+      "url": "https://www.theedulaw.in/content/judgements/139/Supreme-Court-Establishes-Strict-4-Month-Registration-Deadline-for-Property-Sale-Deeds",
+      "snippet": "This judgment unequivocally establishes that sale deeds must be registered within four months of execution or become legally invalid.",
+      "bm25_score_raw": 2.675115206884011,
+      "bm25_score_norm": 0.37985496349882775,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.879517674446106,
+      "embedding_score_norm": 0.49161261798487227,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Supreme Court Law- अब संपत्ति को कोर्ट केस के बीच में बेचना नहीं ...",
+      "url": "https://www.facebook.com/TheLegalChamberbylawandverdict/videos/supreme-court-law-%E0%A4%85%E0%A4%AC-%E0%A4%B8%E0%A4%82%E0%A4%AA%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%BF-%E0%A4%95%E0%A5%8B-%E0%A4%95%E0%A5%8B%E0%A4%B0%E0%A5%8D%E0%A4%9F-%E0%A4%95%E0%A5%87%E0%A4%B8-%E0%A4%95%E0%A5%87-%E0%A4%AC%E0%A5%80%E0%A4%9A-%E0%A4%AE%E0%A5%87%E0%A4%82-%E0%A4%AC%E0%A5%87%E0%A4%9A%E0%A4%A8%E0%A4%BE-%E0%A4%A8%E0%A4%B9%E0%A5%80%E0%A4%82-%E0%A4%B9%E0%A5%8B%E0%A4%97%E0%A4%BE-%E0%A4%85%E0%A4%B5%E0%A5%88%E0%A4%A7-sale-o/1472692164196394",
+      "snippet": "Supreme Court Law- अब संपत्ति को कोर्ट केस के बीच में बेचना नहीं होगा अवैध !! Sale Of Property ... क्या 2021 ED के द्वारा रोक लगी हो तो क्या इस संपत्ति को बेच सकते है? ये संपति 2006 मेरे",
+      "bm25_score_raw": 1.4849290788433898,
+      "bm25_score_norm": 0.14162824083755343,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.8694003820419312,
+      "embedding_score_norm": 0.37580083703247835,
+      "embedding_rank": 6
+    },
+    {
+      "title": "संपत्ति को \"कोर्ट केस के बीच में\" बेचने के लिए नया फैसला ! Supreme ...",
+      "url": "https://www.youtube.com/watch?v=s_YnAEsyFMo",
+      "snippet": "सुप्रीम कोर्ट का नया कानून! अब कोर्ट केस के बीच में संपत्ति बेचना नहीं होगा अवैध !! ... Supreme Court 2026- अब रजिस्टर्ड दस्तावेज नहीं होंगे Challenge || Sale Deed Cancellation Law.",
+      "bm25_score_raw": 1.667530875699669,
+      "bm25_score_norm": 0.1781776733945816,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8680605888366699,
+      "embedding_score_norm": 0.3604643387866441,
+      "embedding_rank": 7
+    },
+    {
+      "title": "Sale Deeds Must Be Registered Within 4 Months",
+      "url": "https://www.linkedin.com/pulse/supreme-courts-landmark-ruling-sale-deeds-must-registered-pralay-kar-8kuwc",
+      "snippet": "once a sale agreement is executed the sale deed must be registered within four months, failing which the document becomes legally ineffective.",
+      "bm25_score_raw": 0.7773511644071192,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.8583304286003113,
+      "embedding_score_norm": 0.2490840266529481,
+      "embedding_rank": 8
+    },
+    {
+      "title": "Sale Deed Without Payment Invalid: Supreme Court पैसे दिए ...",
+      "url": "https://www.instagram.com/reel/DOnpFJOD60K?hl=hi",
+      "snippet": "सुप्रीम कोर्ट ने दिया बड़ा फैसला! सुप्रीम कोर्ट ने कहा कि रजिस्टर्ड बिक्री विलेख, रजिस्टर्ड सेल डीड को कानून वैध मानता है। अगर कई साल बाद गवाह की गवाही में नाम, पता या",
+      "bm25_score_raw": 2.6234210355310466,
+      "bm25_score_norm": 0.36950789867260525,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.857490062713623,
+      "embedding_score_norm": 0.23946443021340644,
+      "embedding_rank": 9
+    },
+    {
+      "title": "सुप्रीम कोर्ट के ऐतिहासिक फैसले के अनुसार, यदि किसी एग्रीमेंट टू ...",
+      "url": "https://www.facebook.com/vipinporia.advocate/videos/%E0%A4%B8%E0%A5%81%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AE-%E0%A4%95%E0%A5%8B%E0%A4%B0%E0%A5%8D%E0%A4%9F-%E0%A4%95%E0%A5%87-%E0%A4%90%E0%A4%A4%E0%A4%BF%E0%A4%B9%E0%A4%BE%E0%A4%B8%E0%A4%BF%E0%A4%95-%E0%A4%AB%E0%A5%88%E0%A4%B8%E0%A4%B2%E0%A5%87-%E0%A4%95%E0%A5%87-%E0%A4%85%E0%A4%A8%E0%A5%81%E0%A4%B8%E0%A4%BE%E0%A4%B0-%E0%A4%AF%E0%A4%A6%E0%A4%BF-%E0%A4%95%E0%A4%BF%E0%A4%B8%E0%A5%80-%E0%A4%8F%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AE%E0%A5%87%E0%A4%82%E0%A4%9F-%E0%A4%9F%E0%A5%82-%E0%A4%B8%E0%A5%87%E0%A4%B2-agreement-to/27705539469057349",
+      "snippet": "सुप्रीम कोर्ट के ऐतिहासिक फैसले के अनुसार, यदि किसी एग्रीमेंट टू सेल (Agreement to Sell) में 'बयाना/रकम वापसी का क्लॉज' (Refund Clause) शामिल है, तो यह खरीदार (purchaser) को संपत्ति",
+      "bm25_score_raw": 1.384572139960827,
+      "bm25_score_norm": 0.1215408745987371,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.8438255786895752,
+      "embedding_score_norm": 0.08304825013270527,
+      "embedding_rank": 10
+    },
+    {
+      "title": "Can a New Law Cancel an Old Sale Deed? Latest Supreme ...",
+      "url": "https://www.youtube.com/watch?v=JSOFIf86SfQ",
+      "snippet": "स्त्रीधन पर सुप्रीम कोर्ट का नया कानून ? ... का ये बंटवारा नहीं चलेगा अब. Live Cities Media Private Limited•136K views &middot; 16:31. Go to",
+      "bm25_score_raw": 1.2097166988880712,
+      "bm25_score_norm": 0.08654194654466008,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.8422408699989319,
+      "embedding_score_norm": 0.0649082252700842,
+      "embedding_rank": 11
+    },
+    {
+      "title": "️ सुप्रीम कोर्ट का अहम फैसला! बिना मूल्य भुगतान के किया गया ...",
+      "url": "https://www.instagram.com/p/DOnM0JeAfjq",
+      "snippet": "धारा 68 — मुख्य निर्णय सुप्रीम कोर्ट ने क्या कहा? सेल डीड - अटेस्टेशन अनिवार्य नहीं। वसीयत / गिफ्ट डीड - अटेस्टेशन अनिवार्य। कानूनी स्पष्टीकरण किन दस्तावेजों पर धारा 68 लागू होती है? ट्रांसफर ऑफ प्रॉपर्टी ...Read more",
+      "bm25_score_raw": 1.2671598891966567,
+      "bm25_score_norm": 0.09803973049963752,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.8365705013275146,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

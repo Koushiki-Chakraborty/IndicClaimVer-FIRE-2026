@@ -1,0 +1,99 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1209",
+    "text": "Kejriwal is a special person, should stop using Aam Aadmi tag, says transgender candidate",
+    "lang": "english"
+  },
+  "entity_ranked_evidence": [
+    {
+      "title": "Says Transgender Candidate Latest News, Photos and Videos",
+      "url": "https://www.indiatvnews.com/topic/-says-transgender-candidate",
+      "snippet": "Kejriwal is a special person, should stop using Aam Aadmi tag, says transgender candidate · Politics | April 03, 2014 11:41 IST.",
+      "bm25_score_raw": 11.221228295761732,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9648258686065674,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1,
+      "entity_overlap_raw": 3,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 1
+    },
+    {
+      "title": "Sheet1",
+      "url": "https://www.acleddata.com/wp-content/uploads/2016/08/ACLED-Asia-July-2016-Complete.xlsx",
+      "snippet": "AAP: Aam Aadmi Party, 6, 0, 60, India, Haryana, Rohtak, Rohtak, Rohtak, 28.8944, 76.5891, 2, Hindustan Times, Aam Aadmi Party (AAP) activists on Saturday held a",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8101065158843994,
+      "embedding_score_norm": 0.15140015574358406,
+      "embedding_rank": 2,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.3333333333333333,
+      "entity_rank": 2
+    },
+    {
+      "title": "BJP Rekha Gupta is Delhi New CM but why Aatishi ...",
+      "url": "https://www.facebook.com/groups/aap.bjp.cong/posts/8696382727128334",
+      "snippet": "The BJP Delhi failed to make an effective presence in the political drama of Arvind Kejriwal at Lt.Governor's house.",
+      "bm25_score_raw": 1.1785033104102303,
+      "bm25_score_norm": 0.10502444824648582,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.800249457359314,
+      "embedding_score_norm": 0.09733647087130755,
+      "embedding_rank": 3,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 3
+    },
+    {
+      "title": "🤣 Tag some 🪳 Cockroaches . @cockroachjantaparty . # ...",
+      "url": "https://www.instagram.com/reel/DZQmGsJz10n",
+      "snippet": "Hello bhai, please jo ye Cockroach Janta Party ke follower hain na, woh please gaali mat dena. But mujhe ye nahi pata followers hain kaun?",
+      "bm25_score_raw": 2.423810565602445,
+      "bm25_score_norm": 0.21600225053062333,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.7997291088104248,
+      "embedding_score_norm": 0.0944824795006267,
+      "embedding_rank": 4,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 4
+    },
+    {
+      "title": "Aam Aadmi Party Jammu Kashmir announced following ...",
+      "url": "https://www.facebook.com/AAPMehrajMalikk/posts/aam-aadmi-party-jammu-kashmir-announced-following-observers-for-different-assemb/1343035081156273",
+      "snippet": "Aam Aadmi Party Jammu Kashmir announced following observers for different assemblies in Jammu Division More lists will be released soon.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.7945140600204468,
+      "embedding_score_norm": 0.06587914376335867,
+      "embedding_rank": 5,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 5
+    },
+    {
+      "title": "Transgenders",
+      "url": "https://centreforequitystudies.org/wp-content/uploads/2020/05/Transcending-the-Binaries-Transgender-Exclusions-in-Law-and-Policy.pdf",
+      "snippet": "by S Chacko · Cited by 1 — Shubha Chacko is a social activist at Aneka, an NGO that primarily focuses on working-class collectives of sex workers and sexual minorities.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.7825027704238892,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 6
+    }
+  ]
+}

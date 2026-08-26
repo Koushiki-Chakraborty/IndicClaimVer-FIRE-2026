@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/T/CM/1160",
+    "text": "jab bandon ke dil main ishq e rasul marta hy to woh har had ko paar kar jata hy jaese hamne is world record tweeter mein apne nabi se ishaq karne sari hadein paar kar di hamsab ne deewanawar tweet kiye hamain apna hosh hi hain tha",
+    "lang": "codemix"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "We Believe in Prophet Muhammad ﷺ ❤️ ...",
+      "url": "https://www.facebook.com/groups/1541300966090945/posts/4071244309763252",
+      "snippet": "Tears in my eyes, pride in my heart — our love for the Messenger of Allah will never fade. Share this message so it reaches every corner.",
+      "bm25_score_raw": 1.9852805361006585,
+      "bm25_score_norm": 0.3531132366683265,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8576141595840454,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "From The Chaplain's Desk: Expressing Love For The Prophet",
+      "url": "https://muslimmatters.org/2023/09/30/from-the-chaplains-desk-expressing-love-for-the-prophet",
+      "snippet": "Sep 30, 2023 — I will end by sharing three practical steps we can take to nurture, cultivate, and develop love for the Prophet ﷺ in our hearts. 1. Learn ...Read more",
+      "bm25_score_raw": 3.236195225809425,
+      "bm25_score_norm": 0.5756080059701003,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8571834564208984,
+      "embedding_score_norm": 0.9955727027038619,
+      "embedding_rank": 2
+    },
+    {
+      "title": "I LOVE PROPHET MUHAMMAD ﷺ",
+      "url": "https://x.com/HonAbdullahiM12/status/2078943950245650614",
+      "snippet": "GOVERNOR TWETTER (@HonAbdullahiM12). 15 likes. I LOVE PROPHET MUHAMMAD صلى الله عليه وسلم. Image on X 💬2 🔄2",
+      "bm25_score_raw": 1.5356076201050823,
+      "bm25_score_norm": 0.2731318658132246,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8436787128448486,
+      "embedding_score_norm": 0.8567543242122186,
+      "embedding_rank": 3
+    },
+    {
+      "title": "This is what love looked like in the home of the Prophet ﷺ. ...",
+      "url": "https://x.com/piousdeenn/status/2071195898458087544",
+      "snippet": "This is what love looked like in the home of the Prophet ﷺ. A disagreement. No raised voices. No lasting anger. No pride too heavy to let go ...Read more",
+      "bm25_score_raw": 1.2699915369447465,
+      "bm25_score_norm": 0.22588788536292007,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.8399499654769897,
+      "embedding_score_norm": 0.818425668766355,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Heart Touching Naat E Rasool ﷺ | Dil Main Ishq E Nabi | Mazharul Islam",
+      "url": "https://www.youtube.com/watch?v=9rnFIfv1fJc",
+      "snippet": "Heart Touching Naat E Rasool صلى الله عليه وسلم | Dil Main Ishq E Nabi | Mazharul Islam @mazharvocal249 likes18K views8 months ago",
+      "bm25_score_raw": 5.622220664487296,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8307252526283264,
+      "embedding_score_norm": 0.7236027147064572,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Lord give me a tender heart. A heart that doesn't keep ...",
+      "url": "https://x.com/addpet/status/887478531176968192",
+      "snippet": "Lord give me a tender heart. A heart that doesn't keep a record of wrongdoings, and one that is full of compassion, love, and grace.Read more",
+      "bm25_score_raw": 3.41407712601203,
+      "bm25_score_norm": 0.6072470878948271,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8153538107872009,
+      "embedding_score_norm": 0.5655961135853572,
+      "embedding_rank": 6
+    },
+    {
+      "title": "Mere Dil Mein Rasool Allah ﷺ Jo Rehte Hain | Zaheer Usmani | Naat ...",
+      "url": "https://www.youtube.com/watch?v=H61WqLCt7wQ",
+      "snippet": "Mere Dil Mein Rasool Allah ﷺ Jo Rehte Hain | Zaheer Usmani | Naat Ishq E Rasool ﷺ - Beautiful Naat Credits: Vocalist : Zaheer Usmani Lyrics",
+      "bm25_score_raw": 1.159075785585925,
+      "bm25_score_norm": 0.2061597818291296,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.8076180815696716,
+      "embedding_score_norm": 0.486078766189565,
+      "embedding_rank": 7
+    },
+    {
+      "title": "Naat O Manqabat | Dil Mai Jab Ishq E Nabi Ko Na Basa Paoge | SYED ...",
+      "url": "https://www.youtube.com/watch?v=S7tUceSEXTI",
+      "snippet": "Naat O Manqabat | Dil Mai Jab Ishq E Nabi Ko Na Basa Paoge | SYED MUHAMMAD ASHRAF Ashrafi Al Jilani. @SufiChannel54 likes657 views3 years ago",
+      "bm25_score_raw": 4.0373155146273305,
+      "bm25_score_norm": 0.7180997964254581,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.7924414873123169,
+      "embedding_score_norm": 0.3300750483871857,
+      "embedding_rank": 8
+    },
+    {
+      "title": "Jo Maza Hai Ishq - E - Rasool Mein",
+      "url": "https://www.youtube.com/watch?v=E1lRpxRTJco",
+      "snippet": "Provided to YouTube by Super Cassettes Industries Private Limited Jo Maza Hai Ishq - E - Rasool Mein · Haji Tasleem Aarif · Raju Khan",
+      "bm25_score_raw": 0.45368407065721184,
+      "bm25_score_norm": 0.08069481753409342,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.7923991680145264,
+      "embedding_score_norm": 0.3296400385504492,
+      "embedding_rank": 9
+    },
+    {
+      "title": "Rahat Fateh Ali Khan - Mere Dil Mein Ishq e Rasool - Super Hit Kalams ...",
+      "url": "https://www.youtube.com/watch?v=fanip3Hcbkk",
+      "snippet": "Rahat Fateh Ali Khan - Mere Dil Mein Ishq e Rasool - Super Hit Kalams - Heera Stereo @heeradigitalnaat132 likes12K views5 years ago",
+      "bm25_score_raw": 1.3245409666257963,
+      "bm25_score_norm": 0.23559035578099005,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.7919710278511047,
+      "embedding_score_norm": 0.3252390869204796,
+      "embedding_rank": 10
+    },
+    {
+      "title": "We love you hear Mark and most importantly Jesus ...",
+      "url": "https://x.com/SGV_UK/status/2078851828226396651",
+      "snippet": "Shaun (@SGV_UK). 59 views. @birdtrees We love you hear Mark and most importantly Jesus loves you too.",
+      "bm25_score_raw": 0.48410134251042686,
+      "bm25_score_norm": 0.08610500572634021,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.7833768725395203,
+      "embedding_score_norm": 0.23689777942795595,
+      "embedding_rank": 11
+    },
+    {
+      "title": "Official : Ishq-E-Rasool Full (HD) Video Song | T-Series Islamic Music ...",
+      "url": "https://www.youtube.com/watch?v=Yv6-S_fsFaE",
+      "snippet": "Song : JO MAZA HAI ISHQ-E-RASOOL MEIN Singer : TASLIM,AARIF KHAN Album : NAAT-E-RASOOL Lyricist : SHAUK WAZIR GANJVI & OTHER'S. Hasar Me Aisa",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.7603306174278259,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1042",
+    "text": "1st dose of Sputnik V will not be given as a booster to those vaccinated with the Russian vaccine.",
+    "lang": "english"
+  },
+  "entity_ranked_evidence": [
+    {
+      "title": "Sputnik V COVID-19 vaccine - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sputnik_V_COVID-19_vaccine",
+      "snippet": "**Sputnik V** (Russian: Спутник V, the brand name from the Russian Direct Investment Fund or RDIF) or **Gam-COVID-Vac** (Russian: Гам-КОВИД-Вак, the name under which it is legally registered and produced) is an adenovirus viral vector vaccine for COVID-19 developed by the Gamaleya Research Institute of Epidemiology and Microbiology in Russia. It is the world's first registered combination vector vaccine for the prevention of COVID-19, having been registered on 11 August 2020 by the Russian Ministry of Health \"Ministry of Health (Russia)\"). Gam-COVID-Vac was initially approved for distribution in Russia and then in 59 other countries (as of April 2021) on the preliminary results of Phase I–II studies eventually published on 4 September 2020. In early 2022, as a result of the 2022 Russian invasion of Ukraine, the United States and other countries placed the Russian Direct Investment Fund (RDIF) on the list of sanctioned Russian entities and people, significantly reducing Sputnik V's future commercial prospects.",
+      "bm25_score_raw": 5.9045527115369,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8675136566162109,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 1
+    },
+    {
+      "title": "About Sputnik V | Official website vaccine against COVID-19 Sputnik V.",
+      "url": "https://sputnikvaccine.com/about-vaccine",
+      "snippet": "Sputnik V is the world's first registered vaccine based on a well-studied human adenovirus vector platform. The vaccine’s efficacy is 97.6%, based on the analysis of data on the incidence of coronavirus among Russians vaccinated with both vaccine components between December 5, 2020 and March 31, 2021. The Sputnik V vaccine is based on a proven well-studied human adenovirus vector platform; these vectors cause the common cold and have plagued humanity for millennia. Sputnik V was the first coronavirus vaccine to use a heterogeneous boosting approach based on 2 different vectors for 2 vaccine shots. Sputnik V is effective against new strains of coronavirus, according to a study by the Gamaleya Research Institute for Epidemiology and Microbiology published in the leading international magazine Vaccines. On 12.07.2021, a study on the efficacy of Sputnik V against new strains of coronavirus was published in the leading international magazine Vaccines by the Gamaleya Research Institute for Epidemiology and Microbiology.",
+      "bm25_score_raw": 3.9359326457001473,
+      "bm25_score_norm": 0.5961676946834803,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.861402153968811,
+      "embedding_score_norm": 0.7047750123809414,
+      "embedding_rank": 2,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 2
+    },
+    {
+      "title": "The Sputnik V Vaccine and Russia's Race to Immunity",
+      "url": "https://www.newyorker.com/magazine/2021/02/08/the-sputnik-v-vaccine-and-russias-race-to-immunity",
+      "snippet": "... vaccines. In the first dose, the vector would be adenovirus-26; for the second shot, which is meant to help induce long-lasting immunity by",
+      "bm25_score_raw": 1.4914013447687624,
+      "bm25_score_norm": 0.09470947640919121,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8603606224060059,
+      "embedding_score_norm": 0.6544623216280651,
+      "embedding_rank": 3,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 3
+    },
+    {
+      "title": "Sputnik V: The Story Of Russia's Controversial COVID-19 ...",
+      "url": "https://www.rferl.org/a/sputnik-v-vaccine/31133608.html",
+      "snippet": "Sputnik V vaccine was 91.6 percent effective. about 1.5 percent of Russia's population has received at least one dose of the Sputnik V vaccine",
+      "bm25_score_raw": 5.715302888616735,
+      "bm25_score_norm": 0.9611782925528044,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8545619249343872,
+      "embedding_score_norm": 0.37434784110933234,
+      "embedding_rank": 4,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 4
+    },
+    {
+      "title": "Sputnik V Effectiveness against Hospitalization with COVID-19 ...",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9227631",
+      "snippet": "by AS Shkoda · 2022 · Cited by 45 — One-shot immunization with Sputnik Light (the first component of Sputnik V vaccine) is effective against SARS-CoV-2 Delta variant: Efficacy",
+      "bm25_score_raw": 1.0297072870388064,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8521324992179871,
+      "embedding_score_norm": 0.25699091296486115,
+      "embedding_rank": 5,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 5
+    },
+    {
+      "title": "Clinical Trials | Official website vaccine against COVID-19 Sputnik V.",
+      "url": "https://sputnikvaccine.com/about-vaccine/clinical-trials",
+      "snippet": "# Clinical trials. Before the start of clinical trials the vaccine had gone through all stages of pre-clinical trials with experiments on different types of animals, including 2 types of primates. Phase 1 and 2 clinical trials of the vaccine have been completed on August 1, 2020. The high efficacy of the vaccine was confirmed by high precision tests for antibodies in the blood serum of volunteers (including an analysis for antibodies that neutralize the coronavirus), as well as the ability of the immune cells of the volunteers to activate in response to the spike S protein of the coronavirus, which indicates the formation of both antibody and cellular immune vaccine response. In Phase III clinical trials, Sputnik V showed strong efficacy, immunogenicity and safety results. The figure is based on the analysis of data on 19,866 volunteers, who received both the first and second doses of the Sputnik V vaccine or placebo at the final control point of 78 confirmed COVID-19 cases.",
+      "bm25_score_raw": 1.6739493302821902,
+      "bm25_score_norm": 0.13215640438685577,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8468124866485596,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 6
+    }
+  ]
+}

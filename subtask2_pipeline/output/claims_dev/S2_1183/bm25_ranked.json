@@ -1,0 +1,57 @@
+{
+  "claim": {
+    "id": "S2/1183",
+    "text": "'Uttarakhand High Court Praises State For Successfully Implementing Tourism Development Plan For Doon Valley'",
+    "lang": "dev"
+  },
+  "ranked_evidence": [
+    {
+      "title": "Prepare master plan, tourism development plan for Doon ...",
+      "url": "https://government.economictimes.indiatimes.com/news/governance/prepare-master-plan-tourism-development-plan-for-doon-valley-high-court-asks-state-govt/103489029",
+      "snippet": "Sep 8, 2023 — The Uttarakhand High Court has asked the state government to prepare a master plan and a tourism development plan for Doon valley within four",
+      "bm25_score_raw": 3.8040828092637886,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "IN THE HIGH COURT OF UTTARAKHAND AT NAINITAL",
+      "url": "https://lawbeat.in/sites/default/files/2023-09/Akash%20Vashishtha%20v%20State%20of%20Uttarakhand.pdf",
+      "snippet": "Sep 6, 2023 — The objective of the statutory direction to the State Government, to prepare a Tourism Development Plan for the Doon Valley and to get the same",
+      "bm25_score_raw": 3.233694131842576,
+      "bm25_score_norm": 0.7616285684885948,
+      "bm25_rank": 2
+    },
+    {
+      "title": "Uttarakhand High Court Raps State For Failing To Prepare ...",
+      "url": "https://www.livelaw.in/high-court/uttarakhand-high-court/uttarakhand-high-court-state-inaction-doon-valley-tourism-development-plan-230716",
+      "snippet": "Jun 15, 2023 — The Uttarakhand High Court has directed the State to explain its inaction in preparing the Tourism Development Plan (TDP) for Doon Valley.Read more",
+      "bm25_score_raw": 2.4290822743230316,
+      "bm25_score_norm": 0.4253728048659425,
+      "bm25_rank": 3
+    },
+    {
+      "title": "Uttarakhand High Court directs state government to file an ...",
+      "url": "https://lawinsider.in/news/uttarakhand-high-court-directs-state-government-to-file-an-affidavit-explaining-its-inaction-in-tourism-development-plan-for-doon-valley",
+      "snippet": "Jun 16, 2023 — Uttarakhand High Court directs state government to file an affidavit explaining its inaction in Tourism Development Plan for Doon Valley. Jun ...Read more",
+      "bm25_score_raw": 2.4290822743230316,
+      "bm25_score_norm": 0.4253728048659425,
+      "bm25_rank": 4
+    },
+    {
+      "title": "High Court asks state govt to prepare master plan, tourism ...",
+      "url": "https://hospitality.economictimes.indiatimes.com/news/travel/high-court-asks-state-govt-to-prepare-master-plan-tourism-development-plan-for-doon-valley/103470727",
+      "snippet": "Sep 7, 2023 — High Court asks state govt to prepare master plan, tourism development plan for Doon valley. The court has fixed October 9 as the next date ...Read more",
+      "bm25_score_raw": 2.1044894202224502,
+      "bm25_score_norm": 0.2897220348679426,
+      "bm25_rank": 5
+    },
+    {
+      "title": "Preserving Doon Valley: Past Regulations & Present ...",
+      "url": "https://www.sdcuk.in/preserving-doon-valley-past-regulations-and-present-challenges",
+      "snippet": "Feb 9, 2024 — Tourism activities should align with the Tourism Development Plan (TDP) prepared by the State Department of Tourism and approved by MoEFCC.Read more",
+      "bm25_score_raw": 1.411226107415599,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6
+    }
+  ]
+}

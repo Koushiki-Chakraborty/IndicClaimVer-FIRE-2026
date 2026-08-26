@@ -1,0 +1,57 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1199",
+    "text": "Karnataka Congress agrees to postpone padayatra headed for Bengaluru amid Covid scare",
+    "lang": "english"
+  },
+  "ranked_evidence": [
+    {
+      "title": "Karnataka govt contemplates stopping Congress-led ...",
+      "url": "https://www.indiatoday.in/india/story/karnataka-govt-contemplates-stopping-congress-led-padayatra-before-they-enter-bengaluru-1899113-2022-01-12",
+      "snippet": "Jan 12, 2022 — Not heeding to postpone the Padayatra programme, the Congress leaders are precipitating the Covid crisis in the state, said Karnataka home ...Read more",
+      "bm25_score_raw": 4.648941892806048,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Karnataka Covid 19 surge: After HC rap, Congress ...",
+      "url": "https://m.economictimes.com/news/india/after-hc-rap-congress-suspends-its-padayatra-in-karnataka-over-covid-19-surge/articleshow/88874086.cms",
+      "snippet": "Jan 13, 2022 — The Congress party on Thursday announced it was suspending its padayatra or march from Mekedatu to Bengaluru mid-way in view of the steep surge",
+      "bm25_score_raw": 4.423672989260536,
+      "bm25_score_norm": 0.9320225549450268,
+      "bm25_rank": 2
+    },
+    {
+      "title": "\"Covid Numbers Created\": Karnataka Congress Leader DK ...",
+      "url": "https://www.ndtv.com/karnataka-news/covid-numbers-created-karnataka-congress-leader-dk-shivakumar-defends-padayatra-2706686",
+      "snippet": "Jan 13, 2022 — Hours after Karnataka Congress leaders called off a padayatra that appeared to defy Covid rules, its state chief DK Shivakumar defended the",
+      "bm25_score_raw": 2.158370005386013,
+      "bm25_score_norm": 0.24844170248135775,
+      "bm25_rank": 3
+    },
+    {
+      "title": "Karnataka: BBMP Cancels Permission For Congress ...",
+      "url": "https://news.abplive.com/karnataka/bbmp-cancels-permission-for-congress-mekedatu-padayatra-in-bengaluru-1506073",
+      "snippet": "Jan 13, 2022 — Karnataka: BBMP Cancels Permission For Congress' Mekedatu Padayatra In Bengaluru. Karnataka recorded 15,617 Covid cases in the last 24 hours ...Read more",
+      "bm25_score_raw": 1.8037041436447583,
+      "bm25_score_norm": 0.14141725858371187,
+      "bm25_rank": 4
+    },
+    {
+      "title": "Congress resumes Mekedatu padayatra after halting in Jan ...",
+      "url": "https://www.thenewsminute.com/karnataka/congress-resumes-mekedatu-padayatra-after-halting-jan-due-covid-19-161386",
+      "snippet": "Feb 27, 2022 — Congress resumes Mekedatu padayatra after halting in Jan due to COVID-19. The five-day padayatra with the theme Namma Neeru Namma Hakku' that ...Read more",
+      "bm25_score_raw": 1.3400133514024861,
+      "bm25_score_norm": 0.0014933061160433342,
+      "bm25_rank": 5
+    },
+    {
+      "title": "DK Shivakumar says no Covid in Karnataka, but what ... - Dailyo",
+      "url": "https://www.dailyo.in/politics/karnataka-congress-padayatra-mekedatu-dam-bjp-35151",
+      "snippet": "Jan 10, 2022 — Congress is taking out a massive 'padayatra' in Karnataka amid Covid-19 restrictions, demanding progress over the proposed Mekedatu",
+      "bm25_score_raw": 1.3350647183500546,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6
+    }
+  ]
+}

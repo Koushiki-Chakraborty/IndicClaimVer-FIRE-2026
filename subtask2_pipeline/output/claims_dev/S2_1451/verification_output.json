@@ -1,0 +1,6 @@
+{
+  "ID": "S2/1451",
+  "Evidence": "According to Source 2, as of July 2026, India has reported 45,056,221 confirmed COVID-19 cases and 42,604,881 recoveries, indicating that approximately 94.9% of those infected have recovered. The claim that only 2% of those infected have recovered is not supported by the evidence, as the recovery rate is significantly higher. Source 3 discusses the mental health impact of the pandemic but does not provide specific statistics on recovery rates. Overall, the evidence indicates a much higher recovery percentage than the claim suggests.",
+  "Prediction": "REFUTES",
+  "Justification": "The retrieved evidence from Source 2 shows that out of 45,056,221 confirmed cases, 42,604,881 have recovered, which is approximately 94.9%. This directly contradicts the claim that only 2% of those infected have recovered. Therefore, the evidence refutes the claim's core assertion regarding the recovery rate in India."
+}

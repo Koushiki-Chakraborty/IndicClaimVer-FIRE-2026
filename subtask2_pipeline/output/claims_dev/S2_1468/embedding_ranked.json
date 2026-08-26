@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/1468",
+    "text": "आईएएस अधिकारियों का आरोप, राजनीतिक फायदे के लिए उन्हें निशाना बनाया जा रहा है",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Farage clippings found in home of man charged with killing Ann Widdecombe - Ynetnews",
+      "url": "https://www.ynetnews.com/article/rycwsx34mx",
+      "snippet": "# Farage clippings found in home of man charged with killing Ann Widdecombe. ## British media say Joshua Kerry, 28, displayed articles about Reform UK and its immigration policies; counterterrorism officers now view the former minister’s killing as a planned, targeted attack. British investigators are increasingly examining a possible political motive in the killing of former minister Ann Widdecombe after newspaper clippings about Nigel Farage and Reform UK were reportedly found displayed on the walls of the suspect’s home. British media reported that the clippings focused on Reform UK, the right-wing party Widdecombe had represented in recent years, and on Farage personally. A source told The Sun that the material included articles about the party’s hard-line immigration policies and suggested that the suspect appeared to harbor a “deep dislike” of the party, its leader and its platform. The discovery is expected to intensify suspicions that Widdecombe’s killing was politically motivated, contrary to the initial police assessment that it may have been a robbery that went wrong.",
+      "bm25_score_raw": 3.9956830476652225,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8157888650894165,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Trump Admin IRS Audit Warning Issued by Senate Democrats: Full List - Newsweek",
+      "url": "https://www.newsweek.com/trump-admin-irs-audit-warning-issued-by-senate-democrats-full-list-12235040",
+      "snippet": "“It's whether the law protecting taxpayers from a weaponized IRS still means anything.” What To Know According to the Senate Finance Committee, the lawmakers requested an investigation into \"alarming reports about White House officials potentially violating a federal law prohibiting senior officials from influencing federal tax audits.\" The letter raises a concern that Alex Beene, a financial literacy instructor for the University of Tennessee at Martin, said “should matter regardless of politics, which is that Americans should expect the IRS to enforce the tax code impartially and free from any outside pressure.” “These particular allegations involve potential violations of longstanding legal safeguards designed to insulate tax audits from any type of political interference, although whether one is ultimately opened will depend on actual evidence that is available to investigators,” Beene told Newsweek. What the Democrats Are Alleging In the letter, Democrats asked TIGTA to investigate whether White House officials attempted to influence IRS audits or investigations and whether Kies was removed after objecting to such efforts.",
+      "bm25_score_raw": 0.9915667655867945,
+      "bm25_score_norm": 0.2481595145956814,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8142025470733643,
+      "embedding_score_norm": 0.9661974907854061,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Sen. Gary Peters wants ICE to explain why it bought spyware that can covertly take control of phones - CBS News",
+      "url": "https://www.cbsnews.com/news/senate-ice-graphite-spyware-phones/",
+      "snippet": "Nicole Sganga is CBS News' homeland security and justice correspondent. *Washington* — The ranking member of the Senate Homeland Security and Governmental Affairs Committee is demanding that U.S. Immigration and Customs Enforcement explain why it has purchased commercial spyware capable of covertly taking control of phones as well as collecting messages, photographs, location information and other personal data. Democratic Sen. Gary Peters of Michigan called the purchase \"one of the most significant expansions of DHS and ICE's surveillance ambitions to date,\" flagging potential civil liberties concerns and risks to U.S. national security. While the senator from Michigan does not allege that ICE has used Graphite against journalists, protesters or other Americans, Peters demanded the agency disclose whether the software has been deployed domestically, who has been targeted and legal authority supporting use of the tool. Peters also asked ICE for the number of U.S. and non-U.S. people who have been targeted, where they were located and why the software was procured.",
+      "bm25_score_raw": 2.9914930928180303,
+      "bm25_score_norm": 0.7486812785528708,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8128781914710999,
+      "embedding_score_norm": 0.9379770822696224,
+      "embedding_rank": 3
+    },
+    {
+      "title": "DHS surveilled peaceful protesters and then yanked their Global Entry, federal lawsuit alleges - Los Angeles Times",
+      "url": "https://www.latimes.com/california/story/2026-07-24/federal-lawsuit-alleges-dhs-unlawfully-surveilled",
+      "snippet": "April Walker, a San Diego resident, was observing federal immigration agents in a Target parking lot in April when she said they boxed her in and pointed a camera at her face and license plate. It was only reinstated, she said, after she contacted a reporter who then reached out to the Department of Homeland Security to inquire about the revocation. Walker laid out her story in a federal lawsuit, filed Friday in the Southern District of California, alleging that agents working for the Department of Homeland Security deployed facial recognition technology and license plate information to surveil people observing and documenting federal immigration enforcement. According to the lawsuit, Homeland Security adopted “a secret Protester Surveillance Policy enabling its agents to first collect records on Americans engaging in First Amendment exercise and then maintain them in DHS systems, where they can be used to retaliate against those Americans.” As a result of that policy, the lawsuit alleges, the department has recorded and retaliated against three women, in Minnesota, South Carolina and California.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.8051466941833496,
+      "embedding_score_norm": 0.7732282704505562,
+      "embedding_rank": 4
+    },
+    {
+      "title": "India youth group says will not march again because police will 'hurt youth' - Reuters",
+      "url": "https://www.reuters.com/world/india/india-youth-group-says-protest-continue-after-delhi-clashes-injure-180-2026-07-21/",
+      "snippet": "## Browse World. ## Browse Business. Item 1 of 8 Tear gas spreads around protesters as supporters of India's Cockroach Janta Party demonstrate on the opening day of the Indian parliament's monsoon session, demanding the resignation of Education Minister Dharmendra Pradhan over exam paper leaks, in New Delhi, India, 20 July, 2026. **[1/8]**Tear gas spreads around protesters as supporters of India's Cockroach Janta Party demonstrate on the opening day of the Indian parliament's monsoon session, demanding the resignation of Education Minister Dharmendra Pradhan over exam paper leaks, in New Delhi, India, 20 July, 2026.... NEW DELHI, July 21 (Reuters) - India's youth-led \"cockroach\" movement said on Tuesday it would continue ​its protest but will not march again, a day after ‌scores of supporters were injured in clashes with police who tried to stop their march on parliament. Get the latest news from India and how it matters to the world with the Reuters India File newsletter. *   About Reuters, opens new tab.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8035310506820679,
+      "embedding_score_norm": 0.7388008707823069,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Congress Rejects Stiffer Penalties For Meddling In IRS Audits - Forbes",
+      "url": "https://www.forbes.com/sites/kellyphillipserb/2026/07/23/congressional-republicans-reject-stiffer-penalties-for-meddling-in-irs-audits/",
+      "snippet": "The proposed amendment targeted violations of section 7217, which bars the president and other senior officials from directing audits or investigations of particular taxpayers. Republicans on the House Ways and Means Committee voted Tuesday against a proposal that would have significantly increased the criminal penalties for political interference in IRS audits. The amendment, offered by Rep. Brad Schneider (D-Ill.) during a House Ways and Means Committee markup, would have amended tax code section 7217. It’s a little-known provision, enacted in the wake of the Watergate scandal, that prohibits certain executive branch officials from directing the IRS to open or close an audit or investigation involving a particular taxpayer. Congress enacted section 7217 in the aftermath of Watergate in an effort to separate IRS enforcement decisions from political influence. Finally, Congress enacted section 7217, making it a crime for certain Executive Branch officials to request that the IRS initiate—or terminate—an audit or investigation of a particular taxpayer.",
+      "bm25_score_raw": 2.4736277268085036,
+      "bm25_score_norm": 0.619075061084714,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.8026418089866638,
+      "embedding_score_norm": 0.7198522108675054,
+      "embedding_rank": 6
+    },
+    {
+      "title": "India's Modi under pressure as youth protest leaders set for more talks - Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/indias-modi-under-pressure-youth-protest-leaders-set-more-talks-2026-07-25/",
+      "snippet": "## Browse World. Item 1 of 6 A man holds a poster as he participates in a demonstration held in solidarity with Cockroach Janta Party (CJP) protests held at Jantar Mantar in New Delhi, which demand the resignation of India's Education Minister Dharmendra Pradhan over exam paper leaks, in Kolkata, India, July 24, 2026. **[1/6]**A man holds a poster as he participates in a demonstration held in solidarity with Cockroach Janta Party (CJP) protests held at Jantar Mantar in New Delhi, which demand the resignation of India's Education Minister Dharmendra Pradhan over exam paper leaks, in Kolkata, India, July 24, 2026.... NEW DELHI, July 25 (Reuters) - The Indian government was set to begin a fresh round of talks on Saturday with leaders of a Gen-Z protest that led to disruptions ​in the capital this week, as demonstrators press a demand for the education minister ‌to resign.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.7967520952224731,
+      "embedding_score_norm": 0.5943495677841029,
+      "embedding_rank": 7
+    },
+    {
+      "title": "Donald Trump weighs cutting ties with UNCHR as officials urge US to maintain bond - The Jerusalem Post",
+      "url": "https://www.jpost.com/international/article-903141",
+      "snippet": "## The sources said that the agency had informed supporters that it could be placed on a US blacklist, ending funding, and that Washington could also withdraw from its governing Executive Committee. The Trump administration has in recent weeks weighed cutting ties with the UN refugee agency (UNHCR), prompting a campaign by diplomats and UN officials to persuade the United States to maintain support, sources familiar with the matter told *Reuters*. Eight sources, including diplomats, aid sources and a congressional source, told *Reuters* that Washington, historically UNHCR's largest donor, has been considering disengaging from the agency. They said that the agency had informed supporters that it could be placed on a US blacklist, ending funding, and that Washington could also withdraw from its governing Executive Committee. “People have been alerted by UNHCR to call friends in the administration,\" a source at an aid group involved in the talks told *Reuters*, saying that many had done so.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.7882659435272217,
+      "embedding_score_norm": 0.41351998760379916,
+      "embedding_rank": 8
+    },
+    {
+      "title": "Kashmiri activist Khurram Parvez and journalist Irfan Mehraj freed on bail, under tight curbs - Greenwich Time",
+      "url": "https://www.greenwichtime.com/news/world/article/kashmiri-activist-khurram-parvez-and-journalist-22356946.php",
+      "snippet": "NEW DELHI (AP) — A prominent Kashmiri human rights activist and a renowned journalist have been released on bail after years of imprisonment on allegations of financing terrorism in the Indian-controlled portion of Kashmir. Rights activist Khurram Parvez and independent journalist Irfan Mehraj were arrested in 2021 and 2023 respectively, under India's terror laws. Despite their release from a New Delhi jail late Wednesday, both remain under tight court-imposed restrictions as the country’s federal counterterror agency seeks to reverse the ruling. Last week, a lower court in India allowed the two men to be released on bail, but India’s National Investigation Agency appealed the decision. Following their release, the Paris-based International Federation for Human Rights and the World Organization Against Torture said in a statement the two men were arrested on “trumped-up charges.” They also called on Indian authorities to drop all charges against them “as they are part of politically motivated proceedings aimed at discrediting their legitimate work and the JKCCS.”.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.7869051694869995,
+      "embedding_score_norm": 0.38452354643113884,
+      "embedding_rank": 9
+    },
+    {
+      "title": "US strikes Iran for 10th consecutive night as Tehran strikes tanker in the Strait of Hormuz - AP News",
+      "url": "https://apnews.com/article/iran-us-hormuz-strait-war-july-21-2026-1664f6a4dad005a99771b2ad15213585",
+      "snippet": "Test Your News I.Q. 2026 Elections Election Results Election calendar White House Congress Supreme Court The latest AP-NORC polls. Your home base for in-depth reporting from the world of sports. + US gas prices back up to an average of $4 a gallon again as the US and Iran launch attacks. # Iranian official meets mediators in Pakistan as Iran and US keep up a 10th day of attacks. ISLAMABAD (AP) — An Iranian official began meetings Tuesday with mediators in Pakistan as diplomats sought to salvage the collapsed interim deal between Iran and the United States, even as both countries continued to launch attacks for a 10th day of renewed fighting. “Iran and groups supportive of Iran may target other U.S. interests overseas or at locations associated with the United States and Americans throughout the world,” the U.S. State Department said in a new warning to Americans. Gambrell is the news director for the Gulf and Iran for The Associated Press.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.783110499382019,
+      "embedding_score_norm": 0.3036637378101908,
+      "embedding_rank": 10
+    },
+    {
+      "title": "Sex work or starve: Aid workers in Nepal left jobless by USAID cuts turn to sex work to survive - AP News",
+      "url": "https://apnews.com/article/usaid-nepal-sex-workers-trump-budget-cuts-d8ea21ca4d43f1598ea54499123d46e0",
+      "snippet": "Princy Tamang, a former HIV outreach worker who turned to sex work to survive after losing her job amid the U.S. foreign aid cuts, poses for a portrait, Friday, May 15, 2026, in Hetauda, Nepal. Rubi Lama, who is transgender and former aid worker who turned to sex work to survive after losing her job amid the U.S. foreign aid cuts, applies make up before going to work in the streets in Hetauda, Nepal, Friday, May 15, 2026. Sujata Chaudhary, who is transgender and a former aid worker who turned to sex work to survive after losing her job amid the U.S. foreign aid cuts, poses for a photo in Kathmandu, Nepal, Friday, May 22, 2026. Bharati Thapa, a former HIV outreach worker who turned to sex work to survive after losing her job amid the U.S. foreign aid cuts, poses for a portrait outside the office of her former NGO, Wednesday, May 20, 2026, in Hetauda, Nepal.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.7747570276260376,
+      "embedding_score_norm": 0.12566140590191252,
+      "embedding_rank": 11
+    },
+    {
+      "title": "ICE detains Chicago Public Schools custodian at immigration appointment: ‘Everyone’s just devastated’ - Chicago Tribune",
+      "url": "https://www.chicagotribune.com/2026/07/21/ice-arrests-chicago-public-schools-employee/",
+      "snippet": "Immigration |   ICE detains Chicago Public Schools custodian at…. # ICE detains Chicago Public Schools custodian at immigration appointment: ‘Everyone’s just devastated’. “He was the one translating because my English is bad,” said the boy’s mother, the wife of Pire Hidalgo. CPS said in a statement to the Tribune that the district ensures that all new hires hold legal authorization to work in the U.S. in accordance with federal, state and municipal laws, as well as “provides support and resources to international employees when immigration issues arise.” According to CPS records, Pire Hidalgo has worked as a custodian in the district since July 2025, most recently at Farnsworth Elementary School in Jefferson Park. Pire Hidalgo’s wife said the family arrived downtown the morning of July 17 for what they believed would be a routine ICE appointment for their asylum case, an appointment they had waited more than three years to attend.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.76885986328125,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/1559",
+    "text": "सिविल विवादों को आपराधिक मामलों में बदलने की गलत प्रथा कई राज्यों में बड़े पैमाने पर: सुप्रीम कोर्ट",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Supreme Court to Hear Case of Plane Seized Over Passenger’s Beer - Newsweek",
+      "url": "https://www.newsweek.com/supreme-court-alaska-plane-seizure-passenger-beer-12219244",
+      "snippet": "Why the Decision Could Matter Beyond Alaska The case arrives at a time when scrutiny of civil and criminal forfeiture laws remains high across the political spectrum. Why a Six-Pack Became a Supreme Court Case One reason the case has attracted attention is the apparent mismatch between the value of the property at stake and the amount of alcohol involved. In court filings, they wrote that the constitutional protection against excessive fines was \"built for cases like this.\" The Alaska Supreme Court assumed for purposes of its constitutional analysis that Jouppi's culpability extended only to a six-pack. The Constitutional Question The Supreme Court is not being asked whether alcohol should be allowed in dry villages or whether Jouppi was properly convicted. What's Driving \"Dry Villages\" in Alaska In urging the Supreme Court to reject Jouppi's appeal, Alaska painted a broader picture of the challenges faced by remote communities.",
+      "bm25_score_raw": 1.670570823362445,
+      "bm25_score_norm": 0.4972177359197514,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8217346668243408,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Elena Kagan Thinks The Supreme Court Gets 'A Bad Rap, Which Is Either A Lie Or Dangerously Naive - Above the Law",
+      "url": "https://abovethelaw.com/2026/07/elena-kagan-thinks-the-supreme-court-gets-a-bad-rap-which-is-either-a-lie-or-dangerously-naive/",
+      "snippet": "# Elena Kagan Thinks The Supreme Court Gets ‘A Bad Rap, Which Is Either A Lie Or Dangerously Naive. Speaking at a Ninth Circuit event yesterday, Justice Kagan told the assembled judges that she thinks “that is a bad rap” when critics point out that the Supreme Court majority is a Trump administration validation machine. “Does it do a bunch of things that are out of the playbook of the conservative legal movement that I think are deeply wrong? > “I don’t see this as a court that is just going to rubber-stamp what the current administration does — quite the opposite,” she said. Look at the *NY Times* headline: “Kagan Says Supreme Court Has Stood Up to Trump in Key Cases.” The AP wrote, “Liberal Justice Elena Kagan says the Supreme Court is not a rubber stamp for Trump.” SCOTUSBlog wrote, “Justice Kagan says court gets a ‘bad rap.'” Volokh Conspiracy sneeringly bragged about “Justice Elena Kagan rejected this common narrative,” referring to the idea that the majority bent over backward for the administration.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.8092095851898193,
+      "embedding_score_norm": 0.8271873786982638,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Texas appeals court reverses injunction that closed clinics owned by midwife accused of performing abortions - CBS News",
+      "url": "https://www.cbsnews.com/news/texas-court-reverses-injunction-midwife-clinics/",
+      "snippet": "# Texas appeals court reverses injunction that closed clinics owned by midwife accused of performing abortions. An injunction that stopped a Texas midwife charged with performing illegal abortions from operating her Houston-area clinics was reversed Thursday, but her attorney says the \"damage is done.\". The 15th Court of Appeals determined the state did not provide sufficient evidence for the injunction issued in Waller County, Texas, in March 2025 against Maria Rojas. \"We conclude that the trial court improperly admitted probable-cause affidavits from a related but separate criminal case and that the remaining evidence is insufficient to reasonably support the existence of a probable right of recovery,\" a memorandum opinion from the court stated. She trained to be a midwife, for decades as a midwife, and as a result of the criminal charges against her and the civil case that we're talking about here today, she can't practice as a midwife anymore,\" Hudson said. She has pleaded not guilty in the criminal case.",
+      "bm25_score_raw": 3.359837557427894,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8085833787918091,
+      "embedding_score_norm": 0.8185474055408989,
+      "embedding_rank": 3
+    },
+    {
+      "title": "Bonus 239: The Fifth Circuit's \"Precedential Stay\" in Sosnava Rodriguez - One First | Steve Vladeck | Substack",
+      "url": "https://www.stevevladeck.com/p/bonus-239-the-fifth-circuits-precedential",
+      "snippet": "The October 2025 Term of the Supreme Court will end up as the third term in a row in which the most-reversed lower court (by total number of cases, anyway) was the U.S. Court of Appeals for the Fifth Circuit. And one recurring theme of the disconnect between the Fifth Circuit and the Supreme Court is the former’s *procedural* behavior, especially when it comes to emergency applications (see, e.g., the Supreme Court’s stays earlier this term in the Louisiana mifepristone litigation). That behavior was on display again late Tuesday, when the en banc Fifth Circuit granted the Trump administration’s unprecedented request for a “precedential stay” of three consolidated district court decisions in the latest dispute over the government’s novel and controversial immigration detention policies. As a result, in its unsigned, unexplained order, the Fifth Circuit acted in a way that seems at least outwardly intended to deter district courts in cases ***other*** than the three under full court review from providing bond hearings to any of the tens of thousands of other noncitizens currently in immigration detention in Louisiana, Mississippi, and Texas.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.8065406084060669,
+      "embedding_score_norm": 0.7903626387362909,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Hawaii liberal judge blasts SCOTUS conservatives, says state will defy high court - New York Post",
+      "url": "https://nypost.com/2026/07/18/us-news/hawaii-supreme-court-justice-todd-eddins-blasts-scotus-conservatives-says-state-will-defy-high-court/",
+      "snippet": "A Hawaii Supreme Court justice used a ruling overturning a decades-old criminal conviction to deliver a blistering rebuke of Chief Justice John Roberts’ Supreme Court, accusing the nation’s highest court of weakening constitutional rights, damaging democracy and advancing a political agenda. But in roughly eight pages of the opinion, Eddins argued Hawaii’s courts should not look to the Roberts court when interpreting the state constitution, using the case to deliver an unusually sharp critique of the nation’s highest court. Eddins argued that Hawaii’s Constitution provides stronger protections than the federal Constitution as interpreted by the US Supreme Court and said the court has abandoned landmark civil rights principles. Eddins accused the Roberts court of adopting a “colorblind” approach to the equal protection clause that, in his view, ignores the amendment’s original purpose of protecting formerly enslaved Black Americans. Eddins has served on the Hawaii Supreme Court since 2020 after being appointed by former Democratic Gov. David Ige. Hawaii Supreme Court Associate Justice Todd Eddins used a ruling to deliver a blistering rebuke of Chief Justice John Roberts' Supreme Court.",
+      "bm25_score_raw": 1.4995884094653271,
+      "bm25_score_norm": 0.4463276524039243,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8044637441635132,
+      "embedding_score_norm": 0.7617074679105509,
+      "embedding_rank": 5
+    },
+    {
+      "title": "4th Circ. Overturns Class Cert. In Boeing Investor Case - Law360",
+      "url": "https://www.law360.com/articles/2503319",
+      "snippet": "# Law360 Authority. ## The Practice of Law. # Law360 Pulse | The Business of Law. ## Business of Law. # Law360 Authority | Deep News & Analysis. ## Employment Authority. ## Insurance Authority. ## Healthcare Authority. ## Global Coverage. # Law360 | The Practice of Law. # Law360 Pulse. Mealey's Construction Defects Insurance. Mealey's Emerging Insurance Disputes. Mealey's Insurance Bad Faith. Click here to take the Law360 survey. By Katryna Perera ( July 20, 2026, 7:48 PM EDT) -- The Fourth Circuit on Monday reversed class certification granted in an investor lawsuit against Boeing over the company's alleged concealment of safety issues with its 737 Max fleet, finding that neither the plaintiffs nor the lower court met the standards for certification set in a 2013 Supreme Court ruling. ### Case Information. #### Case Title. * U.S. Court of Appeals for the Fourth Circuit. Explore our analysis of these and other findings in the 2026 Law360 Lawyer Satisfaction survey.",
+      "bm25_score_raw": 1.7592053835367027,
+      "bm25_score_norm": 0.5235983447019543,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.7839354276657104,
+      "embedding_score_norm": 0.47847161457134024,
+      "embedding_rank": 6
+    },
+    {
+      "title": "Launch of Why are we this Way. | Ami Ganatra",
+      "url": "https://www.linkedin.com/posts/ami-ganatra-910a7b4_being-hindu-ft-ami-ganatra-pankaj-saxena-activity-7476879033620811776-xJzl",
+      "snippet": "Here's the recording of the discussion on and around 'Why are we this way', during the Book launch event organised by Nation First Group in Pune.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.7684603929519653,
+      "embedding_score_norm": 0.26495753205655376,
+      "embedding_rank": 7
+    },
+    {
+      "title": "LIVE | Day 06| Shrimad Bhagwat Katha | Hitendra Krishna Ji ...",
+      "url": "https://www.youtube.com/watch?v=KT783yq7YyQ",
+      "snippet": "लकड़हारे की बदलती किस्मत | Hindi Kahaniyan | Moral Stories in Hindi | Family Emotional Kahani ... माँ महागौरी की संपूर्ण कथा ~ आषाढ़ गुप्त नवरात्रि आठवें दिन | Gupt Navratri ki katha.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.7613555192947388,
+      "embedding_score_norm": 0.16692928149897696,
+      "embedding_rank": 8
+    },
+    {
+      "title": "Watch LIVE: Golden Era of Maharashtra Launch | Honoured ...",
+      "url": "https://www.brahmakumaris.com/bktube/watch/176495",
+      "snippet": "आज की मुरली 07-07-2026 with TEXT | Aaj Ki Murli | BK Usha | DAILY MURLI In Hindi | BRAHMA KUMARIS. Peace of Mind TV. “मेरे साथ ही ऐसा क्यों होता है?” Stop Saying This! 1:51",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.7612720727920532,
+      "embedding_score_norm": 0.16577794298571683,
+      "embedding_rank": 9
+    },
+    {
+      "title": "वो जो कहते थे कि बिछड़ेंगे तो मर जाएंगे, वो आज भी ज़िंदा हैं, बस ...",
+      "url": "https://www.facebook.com/groups/481245022456078/posts/2120412775205953",
+      "snippet": "अहंकार से भरे जन्मेजय के शब्द सुन कर भी, व्यास जी शांत रहे। उन्होंने कहा, पुत्र अपने पूर्वजों की क्षमता पर शंका न करो। यह विधि द्वारा निश्चित था,जो बदला नहीं जा सकता था, यदि ऐसा हो सकता तो श्रीकृष्ण में ही इतनी सामर्थ्य थी कि वे",
+      "bm25_score_raw": 2.5379769261557006,
+      "bm25_score_norm": 0.7553867955743181,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.7514482140541077,
+      "embedding_score_norm": 0.030234971742863347,
+      "embedding_rank": 10
+    },
+    {
+      "title": "Supreme immortal yoddha episode 4611 se 4630",
+      "url": "https://www.youtube.com/watch?v=od6uTwUuQDs",
+      "snippet": "Supreme immortal yoddha episode 4611 se 4630. @singh0_0_15 likes122 views1 day ago more. Subscribe. Comments. Comment.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.7505617141723633,
+      "embedding_score_norm": 0.01800364480877912,
+      "embedding_rank": 11
+    },
+    {
+      "title": "(1-4) He Activated the Villainous System... And Became the ...",
+      "url": "https://www.youtube.com/watch?v=KZhtio0xP6I",
+      "snippet": "After activating the mysterious Villainous System, his fate changes forever. Once mocked and powerless, he begins gaining incredible abilities by completing",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.7492568492889404,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

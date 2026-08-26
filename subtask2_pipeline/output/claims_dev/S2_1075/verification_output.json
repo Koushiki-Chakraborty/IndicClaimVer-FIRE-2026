@@ -1,0 +1,6 @@
+{
+  "ID": "S2/1075",
+  "Evidence": "India has issued new rules for international arrivals, effective from 1 December 2021. All international passengers must submit a self-declaration form and a negative RT-PCR test result taken within 72 hours prior to departure. Passengers from at-risk countries must take a COVID-19 test on arrival and isolate at home for seven days if negative, followed by another test on the eighth day. Those who test positive will be sent to isolation facilities. Additionally, passengers seated near a COVID-positive individual must quarantine, either at home or in an institution, monitored by state authorities (Source 1).",
+  "Prediction": "SUPPORTS",
+  "Justification": "The retrieved evidence confirms that international passengers landing in India must undergo home quarantine if they test negative after arrival, as well as quarantine if they have been in contact with a COVID-positive individual. This directly supports the claim regarding home quarantine requirements for international passengers."
+}

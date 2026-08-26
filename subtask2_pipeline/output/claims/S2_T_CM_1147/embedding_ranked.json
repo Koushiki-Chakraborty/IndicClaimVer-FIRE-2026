@@ -1,0 +1,109 @@
+{
+  "claim": {
+    "id": "S2/T/CM/1147",
+    "text": "Rahulbaba ne apne speech mein khandan aur bap ka naam uncha karne ki baat ki thi, aur unhone pilot aur cycle tractor chalak ki tulna karke deshbhakti ko saraha tha.",
+    "lang": "codemix"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Rahul Baba goes abroad and speaks because...",
+      "url": "https://www.youtube.com/watch?v=UerG1ybuSKc",
+      "snippet": "Rahul Baba disrespected and defamed the country wherever and whenever he got a chance. He goes abroad and speaks because there are a very few",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8305661082267761,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "What Rahul baba learnt from Dedh Ishqiya before his big ...",
+      "url": "https://vivekkaul.com/2014/01/18/what-rahul-baba-learnt-from-dedh-ishqiya-before-his-big-speech",
+      "snippet": "Jan 18, 2014 — Rahul baba was getting ready to make the big speech. Along with his mother and a speech writer, an executive from the recently hired advertising ...Read more",
+      "bm25_score_raw": 4.766610834817959,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8244787454605103,
+      "embedding_score_norm": 0.8971683513447386,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Rahul Baba के साथ रह-रहकर Kharge जी की भी भाषा बिगड़ने लगी है",
+      "url": "https://www.instagram.com/reel/DXde8HIjL9N",
+      "snippet": "Yeh Rahul Baba ke saath reh rehkar Kharge ji ki bhi bhasha bigadne lagi hai. Rahul Baba, Modi ji ko jitni gaaliyan doge, jitna gaali ka keechad banaoge, kamal",
+      "bm25_score_raw": 1.006313473284091,
+      "bm25_score_norm": 0.21111718748537672,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8230080604553223,
+      "embedding_score_norm": 0.8723245939504635,
+      "embedding_rank": 3
+    },
+    {
+      "title": "\"Rahul Baba is born in Pakistan, not India\" HM Amit Shah ...",
+      "url": "https://www.youtube.com/shorts/OP2Qf2AMLJQ",
+      "snippet": "\"Rahul Baba is born in Pakistan, not India\" HM Amit Shah targets Rahul. Mumbai में दो गुटों में भारी बवाल के बाद BMC ने आरोपियों के ठिकानों पर चलाया Bulldozer!Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.8119441866874695,
+      "embedding_score_norm": 0.6854265194071087,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Reel by Rahul baba (@rahul_baba.196544) · July 17, 2026",
+      "url": "https://www.instagram.com/reel/Da4rGCtTWID",
+      "snippet": "Aur mere shauq toh tujhe hi poore karne padenge laadle kyunki aadhar card par baap ki jagah tera naam hai. ... Hoga koi bhosdike apne ghar ka ...Read more",
+      "bm25_score_raw": 4.391591308712544,
+      "bm25_score_norm": 0.9213236534088194,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8103553652763367,
+      "embedding_score_norm": 0.6585871258308019,
+      "embedding_rank": 5
+    },
+    {
+      "title": "Rahul Baba Hooda 👑 (@rahulbabaahooda)",
+      "url": "https://www.instagram.com/rahulbabaahooda",
+      "snippet": "38K followers · 0 following · 164 posts · @rahulbabaahooda: Rahul baba ❤️. Rahul baba❤️ Parveen dada❤️ #Azadgroup #Rahulbabahooda",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8022816777229309,
+      "embedding_score_norm": 0.5222012008051012,
+      "embedding_rank": 6
+    },
+    {
+      "title": "Rahul Baba in people",
+      "url": "https://www.facebook.com/public/Rahul-Baba",
+      "snippet": "View the profiles of people named Rahul Baba. Join Facebook to connect with Rahul Baba and others you may know. Facebook gives people the power to share",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.8015996217727661,
+      "embedding_score_norm": 0.5106794728379014,
+      "embedding_rank": 7
+    },
+    {
+      "title": "rahulbaba",
+      "url": "https://www.youtube.com/hashtag/rahulbaba",
+      "snippet": "Who Is Gangster Rahul Hooda Baba? This Is How He took Revenge For The Attack On Him In Jail. Bishnoi Official • 187K views • 1 year ago.Read more",
+      "bm25_score_raw": 3.7026834221064946,
+      "bm25_score_norm": 0.776795830500793,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.7889050841331482,
+      "embedding_score_norm": 0.29623517495043633,
+      "embedding_rank": 8
+    },
+    {
+      "title": "Rohtak Police और गैंगस्टर Rahul Baba की मुठभेड़, दीपक की ...",
+      "url": "https://www.youtube.com/watch?v=P5UQlnVFrWE",
+      "snippet": "Rohtak Police और गैंगस्टर Rahul Baba की मुठभेड़, दीपक की गई जान. @dainiksaveraharyana118 likes16K views1 year ago more. Subscribe. Comments.Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.7713687419891357,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 9
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "ID": "S2/T/EN/1099",
+  "Evidence": "Delhi reported 965 new Covid cases with a positivity rate of 4.71% according to Source 1. The claim states 1,076 cases and a positivity rate of 4.62%, which does not match the reported figures. Source 2 and Source 3 do not provide relevant data for the specific claim about 1,076 cases or the 4.62% positivity rate. Source 1 indicates a slight decline in cases and a positivity rate that is higher than the claim. Therefore, the evidence does not support the claim's assertion about the number of cases and the positivity rate.",
+  "Prediction": "REFUTES",
+  "Justification": "The retrieved evidence from Source 1 states that Delhi saw 965 new Covid cases and a positivity rate of 4.71%, which contradicts the claim of 1,076 cases and a 4.62% positivity rate. Since the reported figures do not align with the claim, it is clear that the evidence refutes the assertion made in the claim. No other sources provided corroborating data for the claim, further supporting the conclusion drawn from the retrieved evidence."
+}

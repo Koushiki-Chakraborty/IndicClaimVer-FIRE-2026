@@ -1,0 +1,108 @@
+{
+  "claim": {
+    "id": "S2/1271",
+    "text": "Covid-19 test at Argentina, Chile border causes minimal delays, no supply chain concerns",
+    "lang": "dev"
+  },
+  "generated_queries": {
+    "english_translation": "Covid-19 test at Argentina, Chile border causes minimal delays, no supply chain concerns",
+    "native_query": "Argentina Chile Covid 19 border minimal delays supply",
+    "english_query": "Argentina Chile Covid 19 border minimal delays supply"
+  },
+  "native_retrieval": [
+    {
+      "title": "Chile, Argentina reach agreement to unblock truck queue at border crossing",
+      "url": "https://www.batimes.com.ar/news/amp/latin-america/chile-argentina-reach-agreement-to-unblock-truck-queue-at-border-crossing.phtml",
+      "snippet": "both countries reached an agreement to relax Covid-19 health controls that had delayed some 3,000 vehicles for almost two weeks."
+    },
+    {
+      "title": "Covid tests spark Argentine supply chain fears over border queues",
+      "url": "https://www.france24.com/en/live-news/20220118-covid-tests-spark-argentine-supply-chain-fears-over-border-queues",
+      "snippet": "Up to 2,000 trucks are backed up at Argentina's main border crossing with Chile due to tougher Covid-19 testing requirements, Argentine haulers"
+    },
+    {
+      "title": "Cross border e-commerce in Argentina and Chile grows despite COVID-19 and logistics disruption",
+      "url": "https://americasmi.com/insights/cross-border-ecommerce-logistics-argentina-chile",
+      "snippet": "# Cross border e-commerce in Argentina and Chile grows despite COVID-19 and logistics disruption. Both Argentina and Chile have experienced sustained growth in cross-border e-commerce purchase volumes since the pandemic despite economic difficulties and global logistics disruption. AMI figures show that by the end of 2019 (pre-pandemic), cross-border e-commerce in Argentina was worth US$150 million. Post-pandemic, it is estimated that the market will be worth USD 1 billion by the end of 2025, growing with a compound annual growth rate (CAGR) of 32% between 2021 and 2025. This growth will be fueled by the boom in domestic e-commerce and the number of users that have started buying online thanks to major improvements in international marketplaces such as mobile apps and Spanish-language websites. As a result of this, a new kind of business model in Argentina has appeared, in which local companies manage the buying and logistics process involved in buying from abroad."
+    },
+    {
+      "title": "Argentine truckers stranded at Chilean border by slow COVID testing",
+      "url": "https://www.reuters.com/world/americas/argentine-truckers-stranded-chilean-border-by-slow-covid-testing-2022-01-29",
+      "snippet": "Thousands of truck drivers from Argentina were stuck at the Chilean border on Saturday due to slow COVID-19 testing, as Chile faced its second"
+    },
+    {
+      "title": "Chile Extends Border Restrictions Related to COVID-19",
+      "url": "https://www.mobilework.law/2022/01/chile-extends-border-restrictions-related-to-covid-19",
+      "snippet": "On December 31, 2021, the Chilean government extended and modified various border restrictions related to the COVID-19 pandemic."
+    },
+    {
+      "title": "COVID-19 – Cargo Entry Point Update Background Overview",
+      "url": "https://logcluster.org/sites/default/files/public/logisticsclustercovid-19cargoentrypointsupdate_200612.pdf",
+      "snippet": "COVID-19 – Cargo Entry Point Update 12 June 2020 https://logcluster.org/COVID-19 Background In an effort to have an overview of the impact of COVID-19 on Humanitarian Supply Chains in the world, the Logistics Cluster is compiling updates on entry point for cargo. The border with China is closed. The border with Iran is open with screening measures in place. Algeria 5-Jun WFP ; Agility ; North P&I ; Bollore Logistics ; Wilhelmsen ; DP World All commercial borders are still open to cargo movements, but operating at reduced capacity, delays to be expected. Angola 4-May WFP ; Agility ; North P&I ; Bimco ; Bollore Logistics ; Wilhelmsen All commercial borders are still open to cargo movements. Argentina 15-May GEODIS ; Bimco ; Wilhelmsen All commercial borders are still open to cargo movements. Bahrain 9-Jun GEODIS ; Bimco ; Wilhelmsen ; Agility ; Bollore Logistics All commercial borders are still open to cargo movements."
+    }
+  ],
+  "english_retrieval": [
+    {
+      "title": "Chile, Argentina reach agreement to unblock truck queue at border crossing",
+      "url": "https://www.batimes.com.ar/news/amp/latin-america/chile-argentina-reach-agreement-to-unblock-truck-queue-at-border-crossing.phtml",
+      "snippet": "both countries reached an agreement to relax Covid-19 health controls that had delayed some 3,000 vehicles for almost two weeks."
+    },
+    {
+      "title": "Covid tests spark Argentine supply chain fears over border queues",
+      "url": "https://www.france24.com/en/live-news/20220118-covid-tests-spark-argentine-supply-chain-fears-over-border-queues",
+      "snippet": "Up to 2,000 trucks are backed up at Argentina's main border crossing with Chile due to tougher Covid-19 testing requirements, Argentine haulers"
+    },
+    {
+      "title": "Cross border e-commerce in Argentina and Chile grows despite COVID-19 and logistics disruption",
+      "url": "https://americasmi.com/insights/cross-border-ecommerce-logistics-argentina-chile",
+      "snippet": "# Cross border e-commerce in Argentina and Chile grows despite COVID-19 and logistics disruption. Both Argentina and Chile have experienced sustained growth in cross-border e-commerce purchase volumes since the pandemic despite economic difficulties and global logistics disruption. AMI figures show that by the end of 2019 (pre-pandemic), cross-border e-commerce in Argentina was worth US$150 million. Post-pandemic, it is estimated that the market will be worth USD 1 billion by the end of 2025, growing with a compound annual growth rate (CAGR) of 32% between 2021 and 2025. This growth will be fueled by the boom in domestic e-commerce and the number of users that have started buying online thanks to major improvements in international marketplaces such as mobile apps and Spanish-language websites. As a result of this, a new kind of business model in Argentina has appeared, in which local companies manage the buying and logistics process involved in buying from abroad."
+    },
+    {
+      "title": "Argentine truckers stranded at Chilean border by slow COVID testing",
+      "url": "https://www.reuters.com/world/americas/argentine-truckers-stranded-chilean-border-by-slow-covid-testing-2022-01-29",
+      "snippet": "Thousands of truck drivers from Argentina were stuck at the Chilean border on Saturday due to slow COVID-19 testing, as Chile faced its second"
+    },
+    {
+      "title": "Chile Extends Border Restrictions Related to COVID-19",
+      "url": "https://www.mobilework.law/2022/01/chile-extends-border-restrictions-related-to-covid-19",
+      "snippet": "On December 31, 2021, the Chilean government extended and modified various border restrictions related to the COVID-19 pandemic."
+    },
+    {
+      "title": "COVID-19 – Cargo Entry Point Update Background Overview",
+      "url": "https://logcluster.org/sites/default/files/public/logisticsclustercovid-19cargoentrypointsupdate_200612.pdf",
+      "snippet": "COVID-19 – Cargo Entry Point Update 12 June 2020 https://logcluster.org/COVID-19 Background In an effort to have an overview of the impact of COVID-19 on Humanitarian Supply Chains in the world, the Logistics Cluster is compiling updates on entry point for cargo. The border with China is closed. The border with Iran is open with screening measures in place. Algeria 5-Jun WFP ; Agility ; North P&I ; Bollore Logistics ; Wilhelmsen ; DP World All commercial borders are still open to cargo movements, but operating at reduced capacity, delays to be expected. Angola 4-May WFP ; Agility ; North P&I ; Bimco ; Bollore Logistics ; Wilhelmsen All commercial borders are still open to cargo movements. Argentina 15-May GEODIS ; Bimco ; Wilhelmsen All commercial borders are still open to cargo movements. Bahrain 9-Jun GEODIS ; Bimco ; Wilhelmsen ; Agility ; Bollore Logistics All commercial borders are still open to cargo movements."
+    }
+  ],
+  "merged_results": [
+    {
+      "title": "Chile, Argentina reach agreement to unblock truck queue at border crossing",
+      "url": "https://www.batimes.com.ar/news/amp/latin-america/chile-argentina-reach-agreement-to-unblock-truck-queue-at-border-crossing.phtml",
+      "snippet": "both countries reached an agreement to relax Covid-19 health controls that had delayed some 3,000 vehicles for almost two weeks."
+    },
+    {
+      "title": "Covid tests spark Argentine supply chain fears over border queues",
+      "url": "https://www.france24.com/en/live-news/20220118-covid-tests-spark-argentine-supply-chain-fears-over-border-queues",
+      "snippet": "Up to 2,000 trucks are backed up at Argentina's main border crossing with Chile due to tougher Covid-19 testing requirements, Argentine haulers"
+    },
+    {
+      "title": "Cross border e-commerce in Argentina and Chile grows despite COVID-19 and logistics disruption",
+      "url": "https://americasmi.com/insights/cross-border-ecommerce-logistics-argentina-chile",
+      "snippet": "# Cross border e-commerce in Argentina and Chile grows despite COVID-19 and logistics disruption. Both Argentina and Chile have experienced sustained growth in cross-border e-commerce purchase volumes since the pandemic despite economic difficulties and global logistics disruption. AMI figures show that by the end of 2019 (pre-pandemic), cross-border e-commerce in Argentina was worth US$150 million. Post-pandemic, it is estimated that the market will be worth USD 1 billion by the end of 2025, growing with a compound annual growth rate (CAGR) of 32% between 2021 and 2025. This growth will be fueled by the boom in domestic e-commerce and the number of users that have started buying online thanks to major improvements in international marketplaces such as mobile apps and Spanish-language websites. As a result of this, a new kind of business model in Argentina has appeared, in which local companies manage the buying and logistics process involved in buying from abroad."
+    },
+    {
+      "title": "Argentine truckers stranded at Chilean border by slow COVID testing",
+      "url": "https://www.reuters.com/world/americas/argentine-truckers-stranded-chilean-border-by-slow-covid-testing-2022-01-29",
+      "snippet": "Thousands of truck drivers from Argentina were stuck at the Chilean border on Saturday due to slow COVID-19 testing, as Chile faced its second"
+    },
+    {
+      "title": "Chile Extends Border Restrictions Related to COVID-19",
+      "url": "https://www.mobilework.law/2022/01/chile-extends-border-restrictions-related-to-covid-19",
+      "snippet": "On December 31, 2021, the Chilean government extended and modified various border restrictions related to the COVID-19 pandemic."
+    },
+    {
+      "title": "COVID-19 – Cargo Entry Point Update Background Overview",
+      "url": "https://logcluster.org/sites/default/files/public/logisticsclustercovid-19cargoentrypointsupdate_200612.pdf",
+      "snippet": "COVID-19 – Cargo Entry Point Update 12 June 2020 https://logcluster.org/COVID-19 Background In an effort to have an overview of the impact of COVID-19 on Humanitarian Supply Chains in the world, the Logistics Cluster is compiling updates on entry point for cargo. The border with China is closed. The border with Iran is open with screening measures in place. Algeria 5-Jun WFP ; Agility ; North P&I ; Bollore Logistics ; Wilhelmsen ; DP World All commercial borders are still open to cargo movements, but operating at reduced capacity, delays to be expected. Angola 4-May WFP ; Agility ; North P&I ; Bimco ; Bollore Logistics ; Wilhelmsen All commercial borders are still open to cargo movements. Argentina 15-May GEODIS ; Bimco ; Wilhelmsen All commercial borders are still open to cargo movements. Bahrain 9-Jun GEODIS ; Bimco ; Wilhelmsen ; Agility ; Bollore Logistics All commercial borders are still open to cargo movements."
+    }
+  ]
+}

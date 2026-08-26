@@ -1,0 +1,76 @@
+{
+  "claim": {
+    "id": "S2/1551",
+    "text": "Delhi likely to record 15k Covid cases today, situation remains critical: Satyendar Jain",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "MAP UPDATE: 50 buildings in Manhattan outbreak zone test positive for live bacteria - NBC New York",
+      "url": "https://www.nbcnewyork.com/news/health/nyc-legionnaires-building-list-upper-east-side-positive-test-live-bacteria/6529530/",
+      "snippet": "# MAP UPDATE: 50 buildings in Manhattan outbreak zone test positive for live bacteria. ## Mayor Mamdani declared earlier this week that the source of the bacteria making people sick had been remediated, cases were down, and the outbreak was over. More than a dozen Upper East Side buildings have been added to the list of addresses that tested positive for the live bacteria causing the Legionnaires' outbreak, the health department said in its latest update. The addendum comes two days after health officials released a preliminary list of 33 buildings with cooling towers that yielded positive results for live Legionella. With another seven remaining hospitalized as of Wednesday night, according to the health department, more fatalities are possible. Zip codes highlighted below have been identified as part of the Legionnaires' disease community cluster on the Upper East Side. The cooling towers that tested positive for the live bacteria have been fully cleaned, the Health Department said. These are the addresses that tested positive for live Legionella bacteria:.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8003983497619629,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "India court allows activist Wangchuk to be moved to private hospital, legal website says - Reuters",
+      "url": "https://www.reuters.com/world/india/india-court-allows-activist-wangchuk-be-moved-private-hospital-legal-website-2026-07-21/",
+      "snippet": "Exclusive news, data and analytics for financial market professionals Learn more about Refinitiv. ## Browse World. ## Browse Business. ## Browse Legal. Sonam Wangchuk, an Indian education reformer, who has been on hunger strike, rests on stage before being taken to the hospital by the authorities during a sit-in protest called by Cockroach Janta Party (CJP) demanding the resignation of Indian Education Minister Dharmendra Pradhan, at Jantar Mantar in New Delhi, India, July 18,... NEW DELHI, July 21 (Reuters) - The Delhi High Court on Tuesday allowed ​activist Sonam Wangchuk to be ‌shifted from a government hospital to a private hospital, after his wife ​petitioned the court alleging ​he was being held in \"illegal detention\", ⁠legal news website Bar ​and Bench said. Get the latest news from India and how it matters to the world with the Reuters India File newsletter. *   #### World-Check, opens new tab. *   About Reuters, opens new tab. *   Media Center, opens new tab.",
+      "bm25_score_raw": 1.1870231806144522,
+      "bm25_score_norm": 0.18162353402837897,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.7907102704048157,
+      "embedding_score_norm": 0.7130982892405019,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Wife of Indian activist Wangchuk asks court to move him to private hospital - Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/wife-indian-activist-wangchuk-asks-court-move-him-private-hospital-2026-07-19/",
+      "snippet": "## Browse World. Abhijeet Dipke, head of the Cockroach Janta Party (CJP) reacts as he holds a picture of Sonam Wangchuk, an Indian education reformer who had been on a hunger strike, after Wangchuk was taken to a hospital by authorities during a sit-in protest called by the CJP to demand the resignation of Indian Education Minister Dharmendra... NEW DELHI, July 19 (Reuters) - Social activist Sonam Wangchuk's wife has approached an Indian court seeking permission to transfer him from a government hospital to a private ​facility, alleging he was being held in “illegal detention,” she said on ‌Sunday. “Despite repeated requests, the hospital has refused to discharge him or allow us to shift him to a private hospital of our choice,” Gitanjali Angmo said in a post ​on social media website X, a day after Wangchuk was moved to state-run ​Safdarjung Hospital against his wishes by security personnel. *   About Reuters, opens new tab. *   Media Center, opens new tab.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.7877461910247803,
+      "embedding_score_norm": 0.6253203702526954,
+      "embedding_rank": 3
+    },
+    {
+      "title": "FBI boss details how agency secured record-shattering FIFA World Cup and more top headlines - Fox News",
+      "url": "https://www.foxnews.com/us/fbi-boss-details-agency-secured-record-shattering-fifa-world-cup-more-top-headlines",
+      "snippet": "©2026 FOX News Network, LLC. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided by Factset. Mutual Fund and ETF data provided by LSEG. * #### Bulldog's drowning sparks police probe at dog resort marketed as the 'Disneyland for dogs'. * #### Lindsay Clancy’s husband could testify for her at trial over deaths of their three children. * #### California man admits targeting 3 Subway restaurants for robberies in less than a week, FBI says. * #### BREAKING: US launches 9th night of strikes on Iran. * #### CENTCOM recovers remains after Iran attack in Jordan, reports US death in Iraq. * #### CENTCOM recovers remains after Iran attack in Jordan, one US troop dead in Iraq. * #### US strikes Iran after deadly attack on US troops. # FBI boss details how agency secured record-shattering FIFA World Cup and more top headlines. ### **Good morning and welcome to Fox News’ morning newsletter, Fox News First.",
+      "bm25_score_raw": 2.8599532391281652,
+      "bm25_score_norm": 0.4375944993571954,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.7869660258293152,
+      "embedding_score_norm": 0.6022166444260871,
+      "embedding_rank": 4
+    },
+    {
+      "title": "Red Sox fall to Orioles, ending historic winning streak at 15 games, one shy of new franchise record - CBS Sports",
+      "url": "https://www.cbssports.com/mlb/news/red-sox-winning-streak-ends-orioles/",
+      "snippet": "# Red Sox fall to Orioles, ending historic winning streak at 15 games, one shy of new franchise record. ## Boston's 15-game winning streak was the second-longest of the decade. In Game 1 of the twin bill, the Red Sox beat the Orioles 6-3, extending their winning streak to 15 games and tying a franchise record. In the nightcap, the Orioles jumped out to a 4-0 lead in the top of the first inning and never looked back, eventually toppling the Red Sox, 5-1. The 15-game winning streak is over. In terms of history, the Red Sox tied the franchise record set in 1946 with a lineup that included the likes of Ted Williams, Johnny Pesky, Bobby Doerr and Dom DiMaggio. Red Sox extend winning streak to 15 games, tying franchise record set in 1946. * ### Red Sox winning streak ends at 15, one shy of new franchise record.",
+      "bm25_score_raw": 6.535624289906053,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.7843993902206421,
+      "embedding_score_norm": 0.5262085813334463,
+      "embedding_rank": 5
+    },
+    {
+      "title": "India’s Cockroach movement supporters gather to attempt a march to Parliament - AP News",
+      "url": "https://apnews.com/article/india-cockroach-janta-party-sonam-wangchuk-hunger-strike-cbeb4773e89d67250f0bcad1670fcd38",
+      "snippet": "+ Trump celebrates the World Cup as a US victory as he presents trophy to the winner, Spain. Test Your News I.Q. 2026 Elections Election Results Election calendar White House Congress Supreme Court The latest AP-NORC polls. Your guide to the biggest stories in politics, policy and U.S. elections. Your home base for in-depth reporting from the world of sports. + Performers take to the stage at the World Cup final, in photos. Founded in 1846, AP today remains the most trusted source of fast, accurate, unbiased news in all formats and the essential provider of the technology and services vital to the news business. NEW DELHI (AP) — Thousands of supporters of the youth-led Cockroach movement gathered Monday to march to India’s Parliament, demanding the resignation of the education minister despite police denying permission for the protest. Scores of police surrounded the barricaded protest site of Jantar Mantar in the heart of New Delhi, raising the prospect of a confrontation just a few kilometers from Parliament if demonstrators pressed ahead with the march.",
+      "bm25_score_raw": 2.298137431801316,
+      "bm25_score_norm": 0.35163242711957526,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.7666304111480713,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6
+    }
+  ]
+}

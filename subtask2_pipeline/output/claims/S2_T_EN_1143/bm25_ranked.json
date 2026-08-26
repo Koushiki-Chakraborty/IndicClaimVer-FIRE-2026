@@ -1,0 +1,57 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1143",
+    "text": "Tribunal Failed To Consider Roles & Responsibilities: Bombay High Court Holds Abbott's Business Manager Not 'Workman' Under Industrial Disputes Act",
+    "lang": "english"
+  },
+  "ranked_evidence": [
+    {
+      "title": "Bombay High Court Holds Abbott's Business Manager Not ...",
+      "url": "https://www.livelaw.in/high-court/bombay-high-court/bombay-high-court-ruling-therapy-business-manager-not-workman-industrial-disputes-act-233106",
+      "snippet": "Jul 19, 2023 — Tribunal Failed To Consider Roles & Responsibilities: Bombay High Court Holds Abbott's Business Manager Not 'Workman' Under Industrial Disputes ...Read more",
+      "bm25_score_raw": 17.8327523003741,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Bombay High Court Quashes Tribunal's Decision ...",
+      "url": "https://rawlaw.in/bombay-high-court-quashes-tribunals-decision-invalidating-district-information-officer-recruitment-upholds-selection-committees-discretion-and-rejects-post-participation-challenges",
+      "snippet": "Jan 11, 2025 — The Bombay High Court overturned the Maharashtra Administrative Tribunal's (MAT) judgment, which had invalidated the recruitment process for District ...Read more",
+      "bm25_score_raw": 2.104181397697493,
+      "bm25_score_norm": 0.07069368532576707,
+      "bm25_rank": 2
+    },
+    {
+      "title": "Bombay High Court quells recovery of Rs.14 lakh from ...",
+      "url": "https://www.legaleraonline.com/from-the-courts/bombay-high-court-quells-recovery-of-rs14-lakh-from-company-director-854036",
+      "snippet": "Feb 21, 2023 — The Bombay High Court has quashed the recovery of Rs.1404.42 lakh from the director of a company while observing there was no proof of negligence or breach of ...Read more",
+      "bm25_score_raw": 1.898585869092551,
+      "bm25_score_norm": 0.05854628654531936,
+      "bm25_rank": 3
+    },
+    {
+      "title": "Bombay High Court: MSME Director Lacks Locus to ...",
+      "url": "https://www.reedlaw.in/post/bombay-high-court-msme-director-lacks-locus-to-challenge-recovery-sarfaesi-and-ibc-actions-stand-d",
+      "snippet": "Jun 28, 2025 — The Bombay High Court held that the director of an MSME lacks the legal locus to challenge recovery actions and upheld the proceedings initiated under SARFAESI ...Read more",
+      "bm25_score_raw": 1.7460200751453943,
+      "bm25_score_norm": 0.04953209469053024,
+      "bm25_rank": 4
+    },
+    {
+      "title": "Mere non-performance of statutory duties will not ...",
+      "url": "https://www.barandbench.com/news/mere-non-performance-statutory-duties-not-automatically-disqualify-sarpanch-bombay-high-court",
+      "snippet": "Feb 27, 2023 — Mere non-performance of statutory duties will not automatically disqualify Sarpanch: Bombay High Court. Justice Arun Pednekar said that an ...Read more",
+      "bm25_score_raw": 0.9884928154986498,
+      "bm25_score_norm": 0.00477438146384491,
+      "bm25_rank": 5
+    },
+    {
+      "title": "Bombay High Court: Director of Company is Liable only if ...",
+      "url": "https://www.legaleraonline.com/from-the-courts/bombay-high-court-director-of-company-is-liable-only-if-non-recovery-of-taxes-is-attributable-to-their-breach-of-duty-867138",
+      "snippet": "Jun 26, 2023 — The Director can be held liable only if the non-recovery of taxes can be attributed to their gross neglect, misfeasance, or breach of duty.Read more",
+      "bm25_score_raw": 0.907686093124409,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6
+    }
+  ]
+}

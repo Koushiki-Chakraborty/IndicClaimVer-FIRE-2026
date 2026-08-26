@@ -1,0 +1,99 @@
+{
+  "claim": {
+    "id": "S2/1047",
+    "text": "Delhi logs 24,383 new Covid cases; positivity rate exceeds 30%",
+    "lang": "dev"
+  },
+  "entity_ranked_evidence": [
+    {
+      "title": "South India leads India's nursing workforce as national ratio remains below WHO benchmark - The South First",
+      "url": "https://thesouthfirst.com/health/south-india-leads-indias-nursing-workforce-as-national-ratio-remains-below-who-benchmark/",
+      "snippet": "# South India leads India’s nursing workforce as national ratio remains below WHO benchmark. > ***Synopsis:** Parliamentary data reveal a stark regional divide in India’s nursing workforce, with Kerala, Karnataka, Andhra Pradesh and Tamil Nadu accounting for nearly half of the country’s registered hospital nurses. South India has emerged as the country’s nursing powerhouse, with Kerala, Karnataka, Andhra Pradesh and Tamil Nadu accounting for nearly half of India’s registered hospital nursing workforce and recording some of the country’s highest nurse-population ratios, according to data tabled in Parliament. A written reply by Union Health Minister JP Nadda in the Rajya Sabha on 21 July states that India had 46.02 lakh registered nursing personnel as of 31 December 2025, translating to a nurse-population ratio of 2.60 per 1,000 people. “As per the Indian Nursing Council (INC) records, there are 46.02 lakh nursing personnel registered in the country as on 31st December, 2025, giving a nurse to population ratio of 2.60 nurses per 1000 population,” Nadda said in response to a starred question.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.7969346046447754,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 1
+    },
+    {
+      "title": "India protest movement holds capital sit-in as police crack down on demonstrators - AP News",
+      "url": "https://apnews.com/article/india-cockroach-party-youth-movement-protest-modi-d226d142657cd297c3d4232716a8a626",
+      "snippet": "Test Your News I.Q. 2026 Elections Election Results Election calendar White House Congress Supreme Court The latest AP-NORC polls. A protestor sits on the hood of a police car during a demonstration demanding educational reforms as part of the Cockroach Janta Party’s ongoing protest movement in New Delhi, India, Wednesday, July 22, 2026. A protestor holds a piece of paper with “Democracy?” written on it during a demonstration demanding educational reforms as part of the Cockroach Janta Party’s ongoing protest movement in New Delhi, India, Wednesday, July 22, 2026. Protesters shout slogans as they carry posters asking for the resignation of India’s Minister of Education Dharmendra Pradhan at a protest led by Cockroach Janta Party in New Delhi, India, Wednesday, July 22, 2026. NEW DELHI (AP) — Thousands of young protesters were camped on the streets of India’s capital New Delhi on Thursday, defying new restrictions in the latest show of strength for a movement that has become one of the biggest challenges to Prime Minister Narendra Modi’s government.",
+      "bm25_score_raw": 3.558251679439169,
+      "bm25_score_norm": 0.3347936094023143,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.7768989205360413,
+      "embedding_score_norm": 0.6089646275169464,
+      "embedding_rank": 2,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 2
+    },
+    {
+      "title": "Is COVID returning? Summer uptick of virus may have begun in California - Los Angeles Times",
+      "url": "https://www.latimes.com/california/story/2026-07-24/covid-19-seasonal-summer-uptick-california",
+      "snippet": "Summer uptick of virus may have begun in California. COVID-19 is on the upswing in California and across a swath of the West and the South, a sign that the virus may be starting its seasonal summer uptick. Wastewater concentrations are also increasing,” according to Grant Boyken, a spokesperson for the California Department of Public Health. That’s lower than at the same time in the prior two years, but it’s still an increase from a month ago, when the test positivity rate was 1.15%. According to health officials and experts, it wouldn’t be surprising for a summer increase in COVID to begin now. The test positivity rate is also increasing in Orange County, with 3% of COVID tests coming back positive for the week that ended July 11, up from 1.3% a month ago. In Northern California, wastewater detections and the COVID test positivity rate are up in San Francisco, the city’s Department of Public Health said.",
+      "bm25_score_raw": 10.628194742998499,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.7631806135177612,
+      "embedding_score_norm": 0.34122516498511557,
+      "embedding_rank": 3,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 3
+    },
+    {
+      "title": "US measles cases hit 2,318 in 2026, surpassing last year's total: CDC - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://abcnews.com/Health/us-measles-cases-hit-2318-2026-surpassing-years/story?id=134813573",
+      "snippet": "# US measles cases hit 2,318 in 2026, surpassing last year's total: CDC. This marks the highest number of cases recorded since 1991. The number of confirmed measles cases in the U.S. so far this year has hit 2,318, surpassing the total reported for all last year, according to data updated Friday from the Centers for Disease Control and Prevention. Previously, last year's total of 2,289 was the highest number of recorded measles cases in more than 30 years, CDC data shows. Sixteen of this year's total have been among international visitors to the U.S., according to the CDC. The majority of measles cases in 2026 have been confirmed among children and teenagers aged 19 and younger, according to the CDC. Meanwhile, 3% of cases are among those who have received just one dose of the measles, mumps, rubella (MMR) vaccine and 4% of cases are among those who received the recommended two doses, according to the CDC.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.7598372101783752,
+      "embedding_score_norm": 0.2759721412758849,
+      "embedding_rank": 4,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 4
+    },
+    {
+      "title": "Measles cases on the rise in Pennsylvania as Delaware declares an outbreak - CBS News",
+      "url": "https://www.cbsnews.com/philadelphia/video/measles-cases-on-the-rise-in-pennsylvania-as-delaware-declares-an-outbreak/",
+      "snippet": "* Send Us a News Tip. # Measles cases on the rise in Pennsylvania as Delaware declares an outbreak. The state has recorded 132 cases so far this year with 20% reported in just the past week.",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.7575558423995972,
+      "embedding_score_norm": 0.23144680865914477,
+      "embedding_rank": 5,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 5
+    },
+    {
+      "title": "Number of Americans 'not in the labor force' surges to record 105.8M as total exceeds Great Recession, COVID era - New York Post",
+      "url": "https://nypost.com/2026/07/22/business/number-of-americans-not-in-the-labor-force-surges-to-record-105-8m-as-total-exceeds-great-recession-covid-era/",
+      "snippet": "# Number of Americans ‘not in the labor force’ surges to record 105.8M as total exceeds Great Recession, COVID era. The number of adults who are “not in the labor force” (NILF) surged to an all-time high in June to 105.8 million, according to figures from the Federal Reserve Bank of St. Louis. The overall number of NILFs is higher than at the height of the Great Recession or the COVID pandemic. And what’s been carrying the overall prime-age labor force participation has been the strong involvement of women, not men,” said Eberstadt, who holds the Henry Wendt Chair in Political Economy at the American Enterprise Institute. Some 5.3 million workers — 5% of NILFs — have dropped out because they are discouraged or they’re not even bothering to look for work. “Very roughly speaking, there are about 7 million of these men who are out of the labor force for the 25-to 54-year-olds,” said Eberstadt, whose 2016 book, “Men Without Work,” discussed the phenomenon of American men in their prime leaving the workforce.",
+      "bm25_score_raw": 5.3319244154923116,
+      "bm25_score_norm": 0.5016773350906847,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.7456970810890198,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.5,
+      "entity_rank": 6
+    }
+  ]
+}

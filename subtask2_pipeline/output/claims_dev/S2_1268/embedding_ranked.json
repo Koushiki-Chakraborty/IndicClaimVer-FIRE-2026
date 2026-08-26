@@ -1,0 +1,142 @@
+{
+  "claim": {
+    "id": "S2/1268",
+    "text": "করোনার প্রভাব দাম্পত্যেও! পুরী ফেরত স্বামীকে কাছে ঘেঁষতে দিলেন না স্ত্রী",
+    "lang": "dev"
+  },
+  "embedding_model_used": "intfloat/multilingual-e5-base",
+  "reranked_evidence": [
+    {
+      "title": "Can your marriage survive the coronavirus?",
+      "url": "https://www.fox43.com/article/news/health/coronavirus/can-your-marriage-survive-the-coronavirus/521-40ce771e-9516-4f31-a84e-26cc5cef9481",
+      "snippet": "Mar 28, 2020 — Communicate, communicate, communicate The secret to any healthy relationship is communication. It's true under normal circumstances, and in the",
+      "bm25_score_raw": 2.8004153238948977,
+      "bm25_score_norm": 0.45712600917540086,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.8398876786231995,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1
+    },
+    {
+      "title": "Dear Prudence: The coronavirus is straining my marriage.",
+      "url": "https://slate.com/human-interest/2020/03/dear-prudence-coronavirus-straining-marriage.html",
+      "snippet": "Mar 13, 2020 — Dear Prudence,. My husband is a bit of a hypochondriac. The irony is he takes very little care of his health—I can't tell you the last ...Read more",
+      "bm25_score_raw": 2.5633389036863083,
+      "bm25_score_norm": 0.41842682162460093,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.8389904499053955,
+      "embedding_score_norm": 0.9928583221682842,
+      "embedding_rank": 2
+    },
+    {
+      "title": "Mask Off Hi Brian and Maritza, this corona thing ...",
+      "url": "https://www.facebook.com/933KFM/posts/the-situation-mask-offhi-brian-and-maritza-this-corona-thing-is-disturbing-my-ne/10158097601340138",
+      "snippet": "THE SITUATION:: Mask Off Hi Brian and Maritza, this corona thing is disturbing my new marriage. My wife and I have been married 3 months.Read more",
+      "bm25_score_raw": 6.126134299263573,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.8378599882125854,
+      "embedding_score_norm": 0.9838601781600252,
+      "embedding_rank": 3
+    },
+    {
+      "title": "11 Ways to Stay Married Amid Coronavirus Concerns",
+      "url": "https://time.com/5811146/coronavirus-married-relationship",
+      "snippet": "Mar 27, 2020 — When you disagree with your partner's approach to the pandemic, do your best to figure out what it is he or she is really thinking about instead ...Read more",
+      "bm25_score_raw": 2.5437617449565066,
+      "bm25_score_norm": 0.4152311426248514,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8283798694610596,
+      "embedding_score_norm": 0.9084012092412448,
+      "embedding_rank": 4
+    },
+    {
+      "title": "How to Love Your Spouse if They Have Coronavirus",
+      "url": "https://www.focusonthefamily.com/marriage/how-to-love-your-spouse-if-they-have-coronavirus",
+      "snippet": "Mar 20, 2020 — Here are some practical suggestions to love your spouse if he or she has, or has symptoms of, the coronavirus.Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 11,
+      "embedding_score_raw": 0.8277379274368286,
+      "embedding_score_norm": 0.9032915387272223,
+      "embedding_rank": 5
+    },
+    {
+      "title": "(PDF) The The Correlation between Family Characteristics ...",
+      "url": "https://www.researchgate.net/publication/352997957_The_The_Correlation_between_Family_Characteristics_and_Husband_and_Wife_Interaction_during_the_Covid-19_Pandemic",
+      "snippet": "This study aimed to analyze the relationship between family characteristics and husband-wife interactions during the Covid-19 pandemic.Read more",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 12,
+      "embedding_score_raw": 0.8238695859909058,
+      "embedding_score_norm": 0.8725006736984336,
+      "embedding_rank": 6
+    },
+    {
+      "title": "ণ-ত্ব ও ষ-ত্ব বিধান",
+      "url": "http://www.ebookbou.edu.bd/Books/Text/OS/SSC/ssc_2601/03notto_sotto_bidhan.pdf",
+      "snippet": "_vKáj Y-Z° weavb LváU bv| Ühgb- wŒbqb, me©bvg, `ybx©wZ BZ®vw`| 5. Z eáM©i AváM KLbI gÅa©b® Y nq bv- `öèb® b nq| Ühgb-Aöè, M÷öí, µõ`b BZ®vw`| 6. wKQy ká„ memgqB Y nq| Ühme ká„ me mgqB gÅa©b® Y nq− gvwYK®, MY, evwYR®, jeY, gY, ÜeYy, exYv, KºY, KwYKv, Kj®vY, ÜkvwYZ, gwY, ∏Y, cyY®, AbÅ, wecYx, ∂wYKv, jveY®, evYx, ÜMäY, ÜKvY, fvY, cY| 7. wKQy ká„ memgqB b `öè® nq gÅa©b® Y nq bv| Ühme ká„ memgqB `öè® b nq− KZ©b, µõ`b, e‹b BZ®vw`| evsjv wÿZxqcŒ Y-Z° I l-Z° weavb 11 cváVvÀi gÅj®vqb - 1 mwVK DÀáii cvák [...] Y-Z° I l-Z° weavb cvV 1 Dáœk® G cvVwU cáo Avcwb-∗ Y-Z° weavb KváK eáj wjLáZ cviáeb| ∗ Y-Z° weavábi wbqg∏ájv eY©bv KiáZ cviáeb| Y-Z° I l-Z° weavb evsjv fvlvq `öè® b I gÅa©b® Y-Gi DéPviYMZ ÜKvb cv_©K® ÜbB| wKöë msØãÖZ fvlvq Gi cv_©K® wQj| Avgiv Rvwb evsjv fvlvq AweKÖZ e˚ msØãÖZ k„ e®envi Kiv nq| G msØãÖZ k„∏ájváZ msØãÖáZi gZ `öè b I gÅa©b®-Y e®envi Kiv nq| Zrmg ev msØãÖZ ká„ Üh wbqgáK AbymiY Kái gÅa©b® Y-Gi e®envi nq ZváKB Y-Z° weavb eáj| Zrmg ev msØãÖZ k„ Qvov evsjvfvlvi k„m§¢váii Ab® ÜKvb ká„ [...] Kiv nq ZváKB l-Z° weavb eáj| evsjv fvlvq gÅa©b® l Gi weákl DéPviY ÜbB| LvuwU evsjv k„ I weá`kx ká„i evbváb gÅa©b® l ÜjLvi c÷áqvRb ÜbB| msØãÖZ ká„ gÅa©b® l Gi e®enváii wbqgáK l-Z° weavb eáj| LvuwU evsjv k„ I weá`kx ká„i evbváb gÅa©b® l ÜjLvi c÷áqvRb ÜbB| l-e®enváii wbqg-1. A, Av, Qvov Ab® Ø^iaüwb Ges K I i Gi ci gÅa©b® l nq| Ühgb- fwel®r, gygÅl©y, welq, mylgv BZ®vw`| 2. B-Kvivöè I D-Kvivöè DcmáM©i ci KZK∏ájv avZzáZ gÅa©b® l nq| Ühgb- Awf-ámK>AwfálK, myﬂ>my=mylyﬂ, Aby-mΩ>AbylΩ, c÷wZ-",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 8,
+      "embedding_score_raw": 0.7939116954803467,
+      "embedding_score_norm": 0.6340446386888879,
+      "embedding_rank": 7
+    },
+    {
+      "title": "ণত্ব বিধান ও ষত্ব বিধান বলতে কী বোঝ? উদাহরণসহ আলোচনা কর ।",
+      "url": "https://sattacademy.com/question/%E0%A6%A3%E0%A6%A4%E0%A7%8D%E0%A6%AC-%E0%A6%AC%E0%A6%BF%E0%A6%A7%E0%A6%BE%E0%A6%A8-%E0%A6%93-%E0%A6%B7%E0%A6%A4%E0%A7%8D%E0%A6%AC-%E0%A6%AC%E0%A6%BF%E0%A6%A7%E0%A6%BE%E0%A6%A8-%E0%A6%AC%E0%A6%B2%E0%A6%A4%E0%A7%87-%E0%A6%95%E0%A7%80-%E0%A6%AC%E0%A7%8B%E0%A6%9D-%E0%A6%89%E0%A6%A6%E0%A6%BE%E0%A6%B9%E0%A6%B0%E0%A6%A3%E0%A6%B8%E0%A6%B9-%E0%A6%86%E0%A6%B2%E0%A7%8B%E0%A6%9A%E0%A6%A8%E0%A6%BE-%E0%A6%95%E0%A6%B0",
+      "snippet": "ণত্ব বিধান ও ষত্ব বিধান বলতে কী বোঝ? উদাহরণসহ আলোচনা কর ।",
+      "bm25_score_raw": 2.6169231985760173,
+      "bm25_score_norm": 0.42717365809146557,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.7661158442497253,
+      "embedding_score_norm": 0.41279780317378384,
+      "embedding_rank": 8
+    },
+    {
+      "title": "আয়কর পরিপত্র (২০২৩-২০২৪)",
+      "url": "https://nbr.gov.bd/uploads/paripatra/%E0%A6%86%E0%A7%9F%E0%A6%95%E0%A6%B0_%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0_%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%A9-%E0%A7%A8%E0%A7%AA.pdf",
+      "snippet": "অবরশষ্ট আদয়র উপর ১৫% ২। সারচাজড স্বাভারবক ব্যরি করোতার বেদত্র, আয়কর আইন, ২০২৩ এর িারা ১৬৭ অনুযায়ী পররসম্পে ও োদয়র রববরণীদত প্রেরশডত রনেবরণড ত সম্পদের রভরত্তদত, এই অনুদেে এর অিীন সারচাজড পররগণনার পূদবড পররদবশ সারচাজড ব্যতীত রনিড াররত প্রদেয় কদরর উপর রনেরূপ হাদর সারচাজড প্রদেয় হইদব, যিা:- সম্পে সারচাদজডর হার (ক) নীট পররসম্পদের মূল্যমান চার বকাটি টাকা পযডন্ত- শূন্য (খ) নীট পররসম্পদের মূল্যমান চার বকাটি টাকার অরিক রকন্তু েশ বকাটি টাকার অরিক নদহ; বা, রনজ নাদম এদকর অরিক বমাটর গারি বা, বমাট ৮,০০০ [...] হার রনিড ারণ এবাং ভ্রমণ কর আইন, ২০০৩ এ প্রদয়াজনীয় সাংদশািনী আনা হদয়দে। অরিকন্তু, উৎদস কর রবরিমালা, ২০২৩ এর মাধ্যদম রবরভন্ন উৎদস করহার পুনঃরনিড ারণ করা হদয়দে। অিড আইন, ২০২৩; নূতন প্রবরতডত আয়কর আইন, ২০২৩; উৎদস কর রবরিমালা, ২০২৩ ও সমদয় সমদয় জাররকৃত প্রজ্ঞাপনসমূদহর যিাযি প্রদয়াগ রনরিতকরণ এবাং সাংরিষ্ট রবরি রবিানসমূহ করোতাগণদক সহজভাদব অবরহতকরদণর লদেে উদেখদযাগ্য রবষয়সমূহ রনদে ব্যাখ্যা ও উোহরণসহ উপস্থাপন করা হদলা:- ১। ২০২৩-২০২৪ করবদষডর জন্য প্রদযাজে আয়কদরর হার অিড আইন, ২০২৩ এর তফরসল-২ বত ২০২৩-২০২৪ [...] রনয়মানুযায়ী পররদবশ সারচাজড হার রনিড াররত হদব, বযখাদন- ক = রবগত বের বা বেরগুদলাদত অপররদশারিত পররদবশ সারচাদজডর পররমাণ, খ = বয বেদর করোতা পররদবশ সারচাজড পররদশাি করদেন বস অিড বেদরর জন্য রনিড াররত পররদবশ সারচাদজডর পররমাণ; (ঙ) একারিক বেদরর জন্য গারির রনবন্ধন বা রফটদনস নবায়ন করার বেদত্র প্ররতবের আয়কর ররটানড োরখদলর পূদবড পররদবশ সারচাজড পররদশাি করা না হদল উপকর করমশনার আয়কর ররটানড প্রদসস বা কর রনিড ারণকাদল তা আোয় করদবন; (চ) পররদবশ সারচাজড প্রতেপডনদযাগ্য বা অন্যদকান প্রকাদরর কর বা সারচাদজডর সাদি",
+      "bm25_score_raw": 1.960212910249009,
+      "bm25_score_norm": 0.31997550404414865,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.7464878559112549,
+      "embedding_score_norm": 0.2565647642435031,
+      "embedding_rank": 9
+    },
+    {
+      "title": "\"ণত্ব বিধান ও ষত্ব বিধান\" বাংলা ভাষার শব্দে দন্ত্য-ন এর মূর্ধন্য-ণ তে ...",
+      "url": "https://www.facebook.com/groups/shuvas/posts/901164776571631",
+      "snippet": "দন্ত্য-ন এর মূর্ধন্য-ণ তে পরিবর্তনের নিয়মসমূহঃ ঋ, র, ষ বর্ণের পরে দন্ত্য-ন মূর্ধন্য-ণ হয়। যেমন- ঋণ, বর্ণ, বিষ্ণু, বরণ, ঘৃণা। যদি ঋ, র, ষ বর্ণের পরে স্বরবর্ণ, ক-বর্গ, প",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 9,
+      "embedding_score_raw": 0.7410680055618286,
+      "embedding_score_norm": 0.21342434271703528,
+      "embedding_rank": 10
+    },
+    {
+      "title": "ণত্ব ও ষত্ব বিধান | PDF",
+      "url": "https://www.scribd.com/document/764528310/%E0%A6%A3%E0%A6%A4-%E0%A6%AC-%E0%A6%93-%E0%A6%B7%E0%A6%A4-%E0%A6%AC-%E0%A6%AC%E0%A6%BF%E0%A6%A7%E0%A6%BE%E0%A6%A8",
+      "snippet": "ণ ও ষ িবধান. বাংলা ভাষায় সাধারণত মূধন -ণ ও মূধন -ষ বণ দু র ব বহার নই। উৎস অনুসাের. বাংলা ভাষার শ সমূহেক ৫ ভােগ ভাগ করা যায়। যথা: তৎসম, অধ-তৎসম, ত ব, দিশ এবং িবেদিশ।",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 10,
+      "embedding_score_raw": 0.7346476316452026,
+      "embedding_score_norm": 0.16232004660854515,
+      "embedding_rank": 11
+    },
+    {
+      "title": "ণত্ব বিধান ও ষত্ব বিধান",
+      "url": "https://bn.wikipedia.org/wiki/%E0%A6%A3%E0%A6%A4%E0%A7%8D%E0%A6%AC_%E0%A6%AC%E0%A6%BF%E0%A6%A7%E0%A6%BE%E0%A6%A8_%E0%A6%93_%E0%A6%B7%E0%A6%A4%E0%A7%8D%E0%A6%AC_%E0%A6%AC%E0%A6%BF%E0%A6%A7%E0%A6%BE%E0%A6%A8",
+      "snippet": "ণত্ব বিধান ও ষত্ব বিধান হলো বাংলা ব্যাকরণের একটি বিশেষ নিয়ম। বাংলা ভাষার তৎসম শব্দে দন্ত্য-ন এর ব্যবহার না হয়ে মূর্ধন্য-ণ তে পরিবর্তনের নিয়মসমূহকে ণত্ব বিধান এবং দন্ত্য-স এর মূর্ধন্য-ষ তে পরিবর্তনের নিয়মসমূহকে",
+      "bm25_score_raw": 0.0,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 7,
+      "embedding_score_raw": 0.7142549157142639,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 12
+    }
+  ]
+}

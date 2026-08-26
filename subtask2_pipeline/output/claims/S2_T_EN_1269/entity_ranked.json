@@ -1,0 +1,99 @@
+{
+  "claim": {
+    "id": "S2/T/EN/1269",
+    "text": "Telangana High Court Issues Notice On PIL Challenging Allotment Of Govt Land To Ruling Bharat Rashtra Samithi",
+    "lang": "english"
+  },
+  "entity_ranked_evidence": [
+    {
+      "title": "Telangana High Court Issues Notice On PIL Challenging ...",
+      "url": "https://www.livelaw.in/high-court/telangana-high-court/telangana-high-court-issues-notice-brs-public-interest-litigation-land-allotment-telangana-government-233014",
+      "snippet": "Jul 18, 2023 — Telangana High Court Issues Notice On PIL Challenging Allotment Of Govt Land To Ruling Bharat Rashtra Samithi. Fareedunnisa Huma. 18 July 2023 3 ...Read more",
+      "bm25_score_raw": 5.109226534606554,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1,
+      "embedding_score_raw": 0.9510968923568726,
+      "embedding_score_norm": 1.0,
+      "embedding_rank": 1,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 1
+    },
+    {
+      "title": "Telangana High Court Issues Notice To State Government ...",
+      "url": "https://www.youtube.com/watch?v=B3y5_l2wa1k",
+      "snippet": "Telangana High Court Issues Notice To State Government Over PIL on HILT Policy | NTV Telugu For more latest updates on the news",
+      "bm25_score_raw": 2.32663129734508,
+      "bm25_score_norm": 0.18427904373896511,
+      "bm25_rank": 3,
+      "embedding_score_raw": 0.908216655254364,
+      "embedding_score_norm": 0.4363056251826651,
+      "embedding_rank": 2,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 2
+    },
+    {
+      "title": "Telangana HC issues notices on PIL challenging land allotment to ...",
+      "url": "https://archive.siasat.com/news/telangana-hc-issues-notices-on-pil-challenging-land-allotment-to-brs-2644592",
+      "snippet": "The High Court took up hearing on the petition seeking a direction to stay the allotment of government land at Kokapet coming under Rangareddy district, to the",
+      "bm25_score_raw": 2.251320713621614,
+      "bm25_score_norm": 0.1622016605289148,
+      "bm25_rank": 4,
+      "embedding_score_raw": 0.9001879692077637,
+      "embedding_score_norm": 0.33076224512103103,
+      "embedding_rank": 4,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 3
+    },
+    {
+      "title": "Telangana HC issues notice to KCR over land allotment for ...",
+      "url": "https://www.thenewsminute.com/telangana/telangana-hc-issues-notice-kcr-over-land-allotment-trs-office-165224",
+      "snippet": "Jun 23, 2022 — A PIL has challenged the allotment of the 4,935 square yard land in upscale Banjara Hills for the ruling party's Hyderabad district unit office.",
+      "bm25_score_raw": 1.817161680440646,
+      "bm25_score_norm": 0.034927446524189755,
+      "bm25_rank": 5,
+      "embedding_score_raw": 0.8828083276748657,
+      "embedding_score_norm": 0.10229321532027992,
+      "embedding_rank": 5,
+      "entity_overlap_raw": 1,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 1.0,
+      "entity_rank": 4
+    },
+    {
+      "title": "Telangana High Court Serves Notices On KCR Govt, BRS On PIL ...",
+      "url": "https://news.abplive.com/telangana/telangana-high-court-serves-notices-on-kcr-govt-petition-challenging-land-allotment-to-brs-party-1616786",
+      "snippet": "The Telangana High Court on Tuesday issued notices to the state government and the Bharat Rashtra Samithi (BRS) in response to a Public Interest Litigation (PIL)",
+      "bm25_score_raw": 3.9208048967889857,
+      "bm25_score_norm": 0.651612846216211,
+      "bm25_rank": 2,
+      "embedding_score_raw": 0.9037672281265259,
+      "embedding_score_norm": 0.3778144130859092,
+      "embedding_rank": 3,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 5
+    },
+    {
+      "title": "HC directs BRS to file counter in PIL pleas over land ...",
+      "url": "https://www.thehindu.com/news/national/telangana/hc-directs-brs-to-file-counter-in-pil-pleas-over-land-allotment-to-brs-during-brs-rule/article70751029.ece",
+      "snippet": "Mar 16, 2026 — Telangana High Court orders BRS to file counter affidavit in PILs challenging land allotment during its rule within three weeks.",
+      "bm25_score_raw": 1.6980168361137409,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6,
+      "embedding_score_raw": 0.8750268816947937,
+      "embedding_score_norm": 0.0,
+      "embedding_rank": 6,
+      "entity_overlap_raw": 0,
+      "entity_overlap_qid": 0,
+      "entity_overlap_norm": 0.0,
+      "entity_rank": 6
+    }
+  ]
+}

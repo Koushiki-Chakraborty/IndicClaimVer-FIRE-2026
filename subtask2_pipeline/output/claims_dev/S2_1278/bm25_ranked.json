@@ -1,0 +1,57 @@
+{
+  "claim": {
+    "id": "S2/1278",
+    "text": "Kerala High Court Allows Govt To Make Financial Payments For AI Camera Installation Despite Change Of BOOT Model",
+    "lang": "dev"
+  },
+  "ranked_evidence": [
+    {
+      "title": "AI Camera Installation : Kerala High Court Restrains Govt ...",
+      "url": "https://www.livelaw.in/high-court/kerala-high-court/ai-camera-installation-kerala-high-court-restrains-govt-from-making-financial-payments-to-contractors-230965",
+      "snippet": "Jun 20, 2023 — AI Camera Installation : Kerala High Court To Examine Impact On Exchequer Due To Change Of BOOT Model; Restrains Govt From Making Financial",
+      "bm25_score_raw": 6.205644219695589,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Kerala HC pauses AI traffic camera payments for now",
+      "url": "https://indianexpress.com/article/india/kerala-hc-pauses-ai-traffic-camera-payments-for-now-8676061",
+      "snippet": "Jun 21, 2023 — Kerala High Court on Tuesday directed the state government not to make any payment under annuity until further orders. BOOT to the annuity,",
+      "bm25_score_raw": 4.114548158057072,
+      "bm25_score_norm": 0.6122789349259885,
+      "bm25_rank": 2
+    },
+    {
+      "title": "HC asks Kerala govt to spell out stand on Congress PIL ...",
+      "url": "https://www.nationalheraldindia.com/national/hc-asks-kerala-govt-to-spell-out-stand-on-congress-pil-against-ai-camera-installation",
+      "snippet": "HC asks Kerala govt to spell out stand on Congress PIL against AI camera installation ... \"In other words, with the change of module from BOOT (Build, Own",
+      "bm25_score_raw": 2.7096606422184513,
+      "bm25_score_norm": 0.35179138777651936,
+      "bm25_rank": 3
+    },
+    {
+      "title": "HC asks Kerala govt, Keltron to spell out stand on ...",
+      "url": "https://www.deccanherald.com/india/hc-asks-kerala-govt-keltron-to-spell-out-stand-on-congress-pil-against-ai-camera-installation-1229480.html",
+      "snippet": "Jun 20, 2023 — HC asks Kerala govt, Keltron to spell out stand on Congress PIL against AI camera installation. The court said it was seeking the affidavit",
+      "bm25_score_raw": 1.3935547508626327,
+      "bm25_score_norm": 0.1077653062837263,
+      "bm25_rank": 4
+    },
+    {
+      "title": "Kerala HC allows state govt to pay Rs 11cr to Keltron as ...",
+      "url": "https://theprint.in/india/kerala-hc-allows-state-govt-to-pay-rs-11cr-to-keltron-as-part-of-ai-camera-project/1767675",
+      "snippet": "Sep 18, 2023 — High Court here on Monday permitted it to pay state-run electronics company Keltron over Rs 11 crore as the first installment for installing",
+      "bm25_score_raw": 1.2045191745470392,
+      "bm25_score_norm": 0.07271523071305577,
+      "bm25_rank": 5
+    },
+    {
+      "title": "Kerala HC allows govt to pay 2nd tranche of Rs 11cr ...",
+      "url": "https://legal.economictimes.indiatimes.com/news/litigation/kerala-hc-allows-govt-to-pay-2nd-tranche-of-rs-11cr-to-keltron/106894514",
+      "snippet": "Jan 16, 2024 — The petitioners have challenged the orders issued by the LDF government with regard to the installation and operation of the AI cameras across",
+      "bm25_score_raw": 0.8123441129826602,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6
+    }
+  ]
+}

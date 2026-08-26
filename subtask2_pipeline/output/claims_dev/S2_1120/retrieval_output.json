@@ -1,0 +1,108 @@
+{
+  "claim": {
+    "id": "S2/1120",
+    "text": "Bengaluru: Apartment complexes with over 10 Covid cases to be containment zones",
+    "lang": "dev"
+  },
+  "generated_queries": {
+    "english_translation": "Bengaluru: Apartment complexes with over 10 Covid cases to be containment zones",
+    "native_query": "Bengaluru Apartment complexes Covid containment zones",
+    "english_query": "Bengaluru Apartment complexes Covid containment zones"
+  },
+  "native_retrieval": [
+    {
+      "title": "Bengaluru: Several apartments turn into containment zones as Covid ...",
+      "url": "https://www.livemint.com/news/india/bengaluru-several-apartments-turn-into-containment-zones-as-covid-cases-rise/amp-11627894554103.html",
+      "snippet": "Bengaluru: Several apartments turn into containment zones as Covid cases rise. Bengaluru currently has 108 active micro-containment zones; With"
+    },
+    {
+      "title": "Many Bengaluru apartments declared as COVID-19 micro-containment ...",
+      "url": "https://www.thenewsminute.com/amp/story/karnataka/many-bengaluru-apartments-declared-covid-19-micro-containment-zones-153238",
+      "snippet": "Total micro containment zones in the city are at 108 with Mahadevapura zone having 34 followed by Bommanahalli with 28 and East zone with 19."
+    },
+    {
+      "title": "Many Bengaluru apartments declared as COVID-19 micro-containment ...",
+      "url": "https://sg.news.yahoo.com/many-bengaluru-apartments-declared-covid-121031284.html",
+      "snippet": "Total micro containment zones in the city are at 108 with Mahadevapura zone having 34 followed by Bommanahalli with 28 and East zone with"
+    },
+    {
+      "title": "Apartment complexes with over 3 cases to be containment zones",
+      "url": "https://www.thenewsminute.com/karnataka/apartment-complexes-over-3-cases-be-containment-zones-bbmp-covid-guidelines-159826",
+      "snippet": "Apartment complexes with over 3 cases to be containment zones: BBMP COVID guidelines. Bengaluru's daily count of COVID-19 cases increased to"
+    },
+    {
+      "title": "At least 20 zones in city are no longer in the red",
+      "url": "https://bangaloremirror.indiatimes.com/bangalore/others/at-least-20-zones-in-city-are-no-longer-in-the-red/amp_articleshow/76015554.cms",
+      "snippet": "Currently, the Bruhat Bengaluru Mahanagara Palike ( BBMP ) has identified 25 containment zones that include three apartments. The remaining 22"
+    },
+    {
+      "title": "Check the full list of containment zones in Bengaluru",
+      "url": "https://www.cntraveller.in/story/bengaluru-full-list-of-containment-zones-covid-19-restrictions",
+      "snippet": "Bruhat Bengaluru Mahanagara Palike (BBMP), has demarcated 20,556 containment zones across the city. Here's the full list of containment zones"
+    }
+  ],
+  "english_retrieval": [
+    {
+      "title": "Bengaluru: Several apartments turn into containment zones as Covid ...",
+      "url": "https://www.livemint.com/news/india/bengaluru-several-apartments-turn-into-containment-zones-as-covid-cases-rise/amp-11627894554103.html",
+      "snippet": "Bengaluru: Several apartments turn into containment zones as Covid cases rise. Bengaluru currently has 108 active micro-containment zones; With"
+    },
+    {
+      "title": "Many Bengaluru apartments declared as COVID-19 micro-containment ...",
+      "url": "https://www.thenewsminute.com/amp/story/karnataka/many-bengaluru-apartments-declared-covid-19-micro-containment-zones-153238",
+      "snippet": "Total micro containment zones in the city are at 108 with Mahadevapura zone having 34 followed by Bommanahalli with 28 and East zone with 19."
+    },
+    {
+      "title": "Many Bengaluru apartments declared as COVID-19 micro-containment ...",
+      "url": "https://sg.news.yahoo.com/many-bengaluru-apartments-declared-covid-121031284.html",
+      "snippet": "Total micro containment zones in the city are at 108 with Mahadevapura zone having 34 followed by Bommanahalli with 28 and East zone with"
+    },
+    {
+      "title": "Apartment complexes with over 3 cases to be containment zones",
+      "url": "https://www.thenewsminute.com/karnataka/apartment-complexes-over-3-cases-be-containment-zones-bbmp-covid-guidelines-159826",
+      "snippet": "Apartment complexes with over 3 cases to be containment zones: BBMP COVID guidelines. Bengaluru's daily count of COVID-19 cases increased to"
+    },
+    {
+      "title": "At least 20 zones in city are no longer in the red",
+      "url": "https://bangaloremirror.indiatimes.com/bangalore/others/at-least-20-zones-in-city-are-no-longer-in-the-red/amp_articleshow/76015554.cms",
+      "snippet": "Currently, the Bruhat Bengaluru Mahanagara Palike ( BBMP ) has identified 25 containment zones that include three apartments. The remaining 22"
+    },
+    {
+      "title": "Check the full list of containment zones in Bengaluru",
+      "url": "https://www.cntraveller.in/story/bengaluru-full-list-of-containment-zones-covid-19-restrictions",
+      "snippet": "Bruhat Bengaluru Mahanagara Palike (BBMP), has demarcated 20,556 containment zones across the city. Here's the full list of containment zones"
+    }
+  ],
+  "merged_results": [
+    {
+      "title": "Bengaluru: Several apartments turn into containment zones as Covid ...",
+      "url": "https://www.livemint.com/news/india/bengaluru-several-apartments-turn-into-containment-zones-as-covid-cases-rise/amp-11627894554103.html",
+      "snippet": "Bengaluru: Several apartments turn into containment zones as Covid cases rise. Bengaluru currently has 108 active micro-containment zones; With"
+    },
+    {
+      "title": "Many Bengaluru apartments declared as COVID-19 micro-containment ...",
+      "url": "https://www.thenewsminute.com/amp/story/karnataka/many-bengaluru-apartments-declared-covid-19-micro-containment-zones-153238",
+      "snippet": "Total micro containment zones in the city are at 108 with Mahadevapura zone having 34 followed by Bommanahalli with 28 and East zone with 19."
+    },
+    {
+      "title": "Many Bengaluru apartments declared as COVID-19 micro-containment ...",
+      "url": "https://sg.news.yahoo.com/many-bengaluru-apartments-declared-covid-121031284.html",
+      "snippet": "Total micro containment zones in the city are at 108 with Mahadevapura zone having 34 followed by Bommanahalli with 28 and East zone with"
+    },
+    {
+      "title": "Apartment complexes with over 3 cases to be containment zones",
+      "url": "https://www.thenewsminute.com/karnataka/apartment-complexes-over-3-cases-be-containment-zones-bbmp-covid-guidelines-159826",
+      "snippet": "Apartment complexes with over 3 cases to be containment zones: BBMP COVID guidelines. Bengaluru's daily count of COVID-19 cases increased to"
+    },
+    {
+      "title": "At least 20 zones in city are no longer in the red",
+      "url": "https://bangaloremirror.indiatimes.com/bangalore/others/at-least-20-zones-in-city-are-no-longer-in-the-red/amp_articleshow/76015554.cms",
+      "snippet": "Currently, the Bruhat Bengaluru Mahanagara Palike ( BBMP ) has identified 25 containment zones that include three apartments. The remaining 22"
+    },
+    {
+      "title": "Check the full list of containment zones in Bengaluru",
+      "url": "https://www.cntraveller.in/story/bengaluru-full-list-of-containment-zones-covid-19-restrictions",
+      "snippet": "Bruhat Bengaluru Mahanagara Palike (BBMP), has demarcated 20,556 containment zones across the city. Here's the full list of containment zones"
+    }
+  ]
+}

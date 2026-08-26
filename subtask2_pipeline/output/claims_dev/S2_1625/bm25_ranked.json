@@ -1,0 +1,57 @@
+{
+  "claim": {
+    "id": "S2/1625",
+    "text": "Yogi Adityanath urges UP councillors to prioritize vaccination only for senior citizens ITWD",
+    "lang": "dev"
+  },
+  "ranked_evidence": [
+    {
+      "title": "UP CM Yogi Adityanath Speaks On Covid-19 Vaccination ...",
+      "url": "https://www.youtube.com/watch?v=P90lAqghwPs",
+      "snippet": "Yogi Adityanath Speaks On Covid-19 Vaccination Drive. Accordingly its charter objectives are FREE, FAIR and UNBIASED. dityanath Speaks On Covid",
+      "bm25_score_raw": 2.728538017520958,
+      "bm25_score_norm": 1.0,
+      "bm25_rank": 1
+    },
+    {
+      "title": "Covid-19 vaccination top priority in coming year, says UP ...",
+      "url": "https://timesofindia.indiatimes.com/city/lucknow/covid-19-vaccination-top-priority-in-coming-year-says-up-cm-yogi-adityanath/articleshow/80050242.cms",
+      "snippet": "Dec 31, 2020 — UP chief minister Yogi Adityanath says that vaccination is his number one priority for the coming year. We will be vaccinating over 9 lakh",
+      "bm25_score_raw": 2.2871243823699965,
+      "bm25_score_norm": 0.7552319272376448,
+      "bm25_rank": 2
+    },
+    {
+      "title": "Yogi Asks Officials to Double Testing, Vaccination as UP ...",
+      "url": "https://paper.news18.com/news/india/yogi-asks-officials-to-double-testing-vaccination-as-up-sees-record-38000-covid-19-cases-3674528.html",
+      "snippet": "Apr 25, 2021 — UP CM Yogi Adityanath said the fact that over 23,000 infected patients have also recovered was a sign that things could improve soon.Read more",
+      "bm25_score_raw": 2.2871243823699965,
+      "bm25_score_norm": 0.7552319272376448,
+      "bm25_rank": 3
+    },
+    {
+      "title": "Uttar Pradesh journalists vaccination drive Yogi Adityanath ...",
+      "url": "https://www.indiatvnews.com/news/india/uttar-pradesh-journalists-vaccination-drive-yogi-adityanath-up-vaccination-guidelines-covid19-702624",
+      "snippet": "May 5, 2021 — Chief Minister Yogi Adityanath on Tuesday issued instructions to allot separate vaccination centers for journalists and their family members, ...Read more",
+      "bm25_score_raw": 2.1200254379402104,
+      "bm25_score_norm": 0.6625739680544971,
+      "bm25_rank": 4
+    },
+    {
+      "title": "UP CM Yogi Adityanath plans to vaccinate all parents ...",
+      "url": "https://www.thestatesman.com/india/up-cm-yogi-adityanath-plans-to-vaccinate-all-parents-ahead-of-3rd-wave-1502968645.html",
+      "snippet": "May 24, 2021 — The Yogi Adityanath government in Uttar Pradesh, has decided to set up special booths to vaccinate parents in every district.Read more",
+      "bm25_score_raw": 2.0813362275148064,
+      "bm25_score_norm": 0.6411204316922035,
+      "bm25_rank": 5
+    },
+    {
+      "title": "Those Doubting Covid Vaccines Are Rushing For Them Now",
+      "url": "https://www.ndtv.com/india-news/uttar-pradesh-chief-minister-yogi-adityanath-those-doubting-covid-vaccines-are-rushing-for-them-now-2447607",
+      "snippet": "May 23, 2021 — People have now come in support of the vaccine as it is a safeguard. I urge everyone to get vaccinated,\" Yogi Adityanath said on Saturday.Read more",
+      "bm25_score_raw": 0.9251425412672843,
+      "bm25_score_norm": 0.0,
+      "bm25_rank": 6
+    }
+  ]
+}
