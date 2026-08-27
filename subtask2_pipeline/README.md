@@ -1,6 +1,6 @@
 # Subtask 2 Pipeline — Knowledge-Graph Fact Verification for FIRE 2026
 
-A full end-to-end fact verification pipeline built for FIRE 2026 IndicClaimVer Subtask 2. This repository processes claims in English, Hindi, Bengali, and CodeMix through retrieval, lexical ranking, semantic reranking, a Neo4j knowledge graph, fusion ranking, grounded LLM verification, and final submission generation.
+A full end-to-end fact verification pipeline built for FIRE 2026 IndicClaimVer Subtask 2. This repository processes claims in English, Hindi, Bengali, and CodeMix through retrieval, lexical ranking, semantic reranking, a Neo4j knowledge graph, fusion ranking, veracity verification (MuRIL by default, or Gemini via `--verifier gemini`), and final submission generation.
 
 ## Key Features
 
@@ -11,7 +11,17 @@ A full end-to-end fact verification pipeline built for FIRE 2026 IndicClaimVer S
 - Semantic reranking using multilingual sentence embeddings
 - Persisted Neo4j entity graph ranking with claim/evidence/entity nodes
 - Reciprocal Rank Fusion (RRF) over BM25, embedding, and entity graph ranks
-- Strict grounded LLM verification over top-3 fused evidence sources
+- Two interchangeable verification backends behind one `--verifier` flag
+  on `run_pipeline.py`, both writing the identical submission schema:
+  - **`muril` (default)** — the fine-tuned MuRIL classifier decides
+    `Prediction`; no API key needed for that. `Justification` is a real,
+    evidence-grounded explanation from GPT-4o-mini via
+    `src/gpt_justifier.py` (falls back to a flat template if
+    `OPENAI_API_KEY` isn't set). This is the actual backend used for
+    testing and for the final submission.
+  - `gemini` (optional) — strict grounded LLM verification over the
+    top-3 fused evidence sources' full article text, kept available for
+    generating comparison numbers.
 - Resumable batch runs with per-claim output checkpoints
 
 ## Why a Knowledge Graph?
@@ -38,12 +48,12 @@ This symbolic signal is fused with BM25 and embedding ranks, not used alone. Tha
 - `src/entity_graph.py` — Neo4j graph ranking and MATCHES recording
 - `src/fusion_ranking.py` — Reciprocal Rank Fusion over three rank signals
 - `src/article_fetcher.py` — full-article extraction from URLs
-- `src/verification.py` — grounded LLM prediction and justification
+- `src/verification.py` — grounded Gemini LLM prediction and justification (`--verifier gemini`, optional comparison path — not the default)
 - `src/build_submission.py` — aggregate per-claim outputs into final submission
-- `src/muril_classifier.py` — standalone MuRIL SUPPORTS/REFUTES classifier, loaded from HuggingFace (not submitted; see "Classifier Model Details")
-- `src/run_classifier_pipeline.py` — runs the MuRIL classifier over already-computed retrieval output
-- `src/gpt_justifier.py` — GPT-4o-mini justification generator for an already-decided MuRIL prediction (explains, never reclassifies)
-- `src/regenerate_classifier_justifications.py` — applies `gpt_justifier.py` to every existing `classifier_output` record, in place
+- `src/muril_classifier.py` — the MuRIL SUPPORTS/REFUTES classifier, loaded from HuggingFace. **This is `run_pipeline.py`'s default verification backend** (`--verifier muril`); see "Classifier Model Details"
+- `src/run_classifier_pipeline.py` — standalone script: runs the MuRIL classifier over already-computed `fusion_ranked.json` files without going through `run_pipeline.py` (used for dev-set metrics and for regenerating the 4 official per-language test files directly)
+- `src/gpt_justifier.py` — GPT-4o-mini justification generator for an already-decided MuRIL prediction (explains, never reclassifies). Used both by `run_pipeline.py`'s default `muril` verifier and by `regenerate_classifier_justifications.py` below
+- `src/regenerate_classifier_justifications.py` — applies `gpt_justifier.py` to every existing `run_classifier_pipeline.py` output record, in place
 - `src/config.py` — centralized configuration and environment variables
 - `data/` — claim test/dev datasets
 - `output/` — per-claim artifacts, final submission, and logs
@@ -71,7 +81,9 @@ The run order in `run_pipeline.py` is intentionally aligned with the repository'
 2. Embedding-based reranking
 3. Entity graph ranking
 4. Reciprocal Rank Fusion
-5. Full-page fetch + LLM verification
+5. Verification — **`muril` (default)**: MuRIL Prediction + GPT-4o-mini
+   Justification, no full-page fetch; **`gemini`** (`--verifier gemini`):
+   full-page fetch + grounded LLM verification, kept for comparison
 6. Final submission aggregation
 
 ```mermaid
@@ -83,10 +95,13 @@ flowchart LR
     EMB["Embedding Rerank"]
     KG["Entity Graph Ranking\n(Neo4j)"]
     RRF["Reciprocal Rank Fusion"]
+    MURIL["MuRIL Verification\n(default, --verifier muril)"]
     FETCH["Full-page Fetch"]
-    LLM["LLM Verification"]
+    LLM["Gemini LLM Verification\n(optional, --verifier gemini)"]
     SUB["Submission Build"]
-    QG --> RET --> MD --> BM25 --> EMB --> KG --> RRF --> FETCH --> LLM --> SUB
+    QG --> RET --> MD --> BM25 --> EMB --> KG --> RRF
+    RRF --> MURIL --> SUB
+    RRF --> FETCH --> LLM --> SUB
 ```
 
 ### 1. Query generation + retrieval + BM25
@@ -185,7 +200,37 @@ with `k = 60`. This stage preserves all upstream fields and appends:
 
 The result is written to `fusion_ranked.json`.
 
-### 5. Full-page fetch + LLM verification
+### 5. Verification (`--verifier muril` default, or `--verifier gemini`)
+
+`run_pipeline.py` selects one of two independent stage implementations at
+run time; both write the identical `verification_output.json` schema, so
+`build_submission.py` (step 6) never needs to know which one ran.
+
+#### 5a. `muril` (default) — the actual backend for testing and the final submission
+
+`run_pipeline.py::_stage_7_8_verification_muril` reads `fusion_ranked.json`
+and classifies the claim against its **top-1** fusion-ranked evidence
+item's title+snippet only (no full-page fetch — MuRIL's `max_length=192`
+truncates far short of a full article anyway):
+
+- **`Prediction`**: `src/muril_classifier.py::VeracityPredictor`, the
+  fine-tuned checkpoint (see "Classifier Model Details" below). Requires
+  no API key.
+- **`Justification`**: `src/gpt_justifier.py::justify()` — a real,
+  evidence-grounded explanation of the *already-decided* Prediction from
+  GPT-4o-mini. It never reclassifies; the label is fixed input. Falls
+  back to a flat template (`"Based on the retrieved evidence, the
+  classifier predicts this claim {label} with a confidence score of
+  {conf}."`) if `OPENAI_API_KEY` isn't set, so this path still runs
+  without that key — only the richer justification needs it.
+
+This is the same MuRIL-then-GPT-justify combination
+`src/run_classifier_pipeline.py` + `src/regenerate_classifier_justifications.py`
+apply to the standalone dev/test runs described in "Classifier Model
+Details" — here it's wired directly into the main per-claim orchestrator
+instead of a separate post-processing pass.
+
+#### 5b. `gemini` (optional, for comparison numbers)
 
 `src/verification.py` reads the top-3 fusion-ranked evidence items, fetches their full article text, and constructs a grounded verification record.
 
@@ -224,7 +269,7 @@ This stage enforces strict grounding, valid JSON output, and exact prediction la
 
 ### 6. Final submission
 
-`src/build_submission.py` aggregates every `verification_output.json` file in `output/claims/` into one submission JSON. By default it writes:
+`src/build_submission.py` aggregates every `verification_output.json` file in `output/claims/` into one submission JSON — unmodified regardless of which `--verifier` produced those files (same schema either way). By default it writes:
 
 - `output/final_submission.json`
 
@@ -252,16 +297,21 @@ copy .env.example .env
 Required values:
 
 - `TAVILY_API_KEY`
-- `GEMINI_API_KEY` — required by the LLM verification stage (`src/verification.py`); see
-  the "Backend history" note above. This is the key actually read at runtime.
 - `NEO4J_URI`
 - `NEO4J_USER`
 - `NEO4J_PASSWORD`
 
-- `OPENAI_API_KEY` — required by `src/gpt_justifier.py` (MuRIL-classifier
-  justification generation, see "Generating real justifications for MuRIL's
-  predictions" below). NOT read by `src/verification.py` -- see the
-  "Backend history" note above for why that stage uses `GEMINI_API_KEY` instead.
+Required only depending on `--verifier` / which scripts you run:
+
+- `OPENAI_API_KEY` — powers `src/gpt_justifier.py`'s real justification
+  generation, used by **both**: `run_pipeline.py --verifier muril` (the
+  default) and `src/regenerate_classifier_justifications.py`. Without it,
+  the default `muril` path still runs, just with a flat template
+  Justification instead of a GPT-4o-mini one (see step 5a above) — it is
+  NOT read by `src/verification.py`.
+- `GEMINI_API_KEY` — required only for `run_pipeline.py --verifier gemini`
+  (`src/verification.py`); see the "Backend history" note above. Not
+  needed at all for the default `muril` path.
 
 Optional but available:
 
@@ -281,7 +331,7 @@ The Neo4j browser is available at `http://localhost:7474` and Bolt listens on `b
 ### Run the full pipeline
 
 ```bash
-python run_pipeline.py
+python run_pipeline.py   # --verifier muril is the default -- no GEMINI_API_KEY needed
 ```
 
 ### Common run options
@@ -292,6 +342,8 @@ python run_pipeline.py --limit 20
 python run_pipeline.py --claim-id S2/T/BN/1001
 python run_pipeline.py --dataset-file data/dev_subtask2.json --dataset-lang dev
 python run_pipeline.py --no-skip-existing
+python run_pipeline.py --verifier gemini              # opt into the Gemini comparison path instead
+python run_pipeline.py --verifier muril --limit 3      # explicit default, quick smoke test
 ```
 
 ## Evaluation
@@ -304,15 +356,24 @@ python compute_f1.py --gold data/dev_subtask2.json --pred output/final_submissio
 
 ## Reported Metrics
 
+**As of the `--verifier` flag above, `muril` is `run_pipeline.py`'s default
+and the actual backend for testing and the final submission — `gemini` is
+now the opt-in comparison path, not the other way around.** The table below
+predates that change and still reflects which backend scored higher on
+`Prediction` accuracy; it doesn't mean Gemini is what ships by default.
+
 | System | Dataset | Accuracy | Macro-F1 | F1-SUPPORTS | F1-REFUTES |
 |---|---|---|---|---|---|
-| `output/GPT_output` (Gemini, see backend note above) | 631 dev claims | 0.8082 | 0.8039 | 0.8331 | 0.7747 |
-| `output/classifier_output` (MuRIL, HuggingFace) | 631 dev claims | **0.7005** | **0.6820** | **0.7586** | **0.6054** |
+| `output/GPT_output` (`--verifier gemini`, see backend note above) | 631 dev claims | 0.8082 | 0.8039 | 0.8331 | 0.7747 |
+| `output/classifier_output` (`--verifier muril`, HuggingFace) | 631 dev claims | **0.7005** | **0.6820** | **0.7586** | **0.6054** |
 
 Both rows are now on the same basis (one row per dev claim, n=631, comparing
 each system's actual final `Prediction` against gold `Label`) and are
-directly comparable: **Gemini beats the MuRIL classifier by a real, solid
-margin.**
+directly comparable: **on `Prediction` accuracy alone, Gemini scores higher
+than the MuRIL classifier by a real, solid margin** — MuRIL was still made
+the default because it's reproducible and needs no LLM API key for its
+`Prediction`; only its `Justification` optionally calls GPT-4o-mini (see
+step 5a above).
 
 `output/classifier_output/`'s numbers are reproducible any time by running
 `src/run_classifier_pipeline.py` (see "Classifier Model Details" below) --
@@ -351,7 +412,7 @@ It takes a claim and a candidate evidence text as input and predicts one of:
 - `SUPPORTS`
 - `REFUTES`
 
-This is a separate prediction path from the main retrieval + knowledge-graph pipeline. The classifier is documented as a standalone model workflow and does not change the default `output/final_submission.json` produced by `run_pipeline.py`.
+**This is `run_pipeline.py`'s default verification backend** (`--verifier muril`, see step 5a above) — it now IS what produces the default `output/final_submission.json`. It is also still runnable as a fully separate, standalone script (`src/run_classifier_pipeline.py`, below) directly over already-computed `fusion_ranked.json` files, independent of a `run_pipeline.py` run — used for dev-set metrics and for regenerating the 4 official per-language test files on their own.
 
 **This is the exact same checkpoint used by `subtask1_pipeline`** -- reused
 as-is, not retrained on any Subtask 2 data (verified: `notebook/*.ipynb` and
@@ -431,7 +492,8 @@ processes many records concurrently.
 
 - Best suited for informal, code-mixed Hindi–Bengali–English claim/evidence pairs.
 - Performance may degrade on formal or out-of-domain text, especially when evidence source structure differs from the training set.
-- This classifier is a standalone verifier and is not merged into the default `run_pipeline.py` submission.
+- Scores against only the top-1 fusion-ranked item's title+snippet, not the full article text the `gemini` path fetches — some of the accuracy gap in "Reported Metrics" above may reflect that narrower evidence, not only model capability.
+- This IS the default `run_pipeline.py` verifier (`--verifier muril`) as of the flag introduced above — it is no longer a side path excluded from the final submission.
 
 For full training and hyperparameter tuning notes, see `README (1).md`.
 

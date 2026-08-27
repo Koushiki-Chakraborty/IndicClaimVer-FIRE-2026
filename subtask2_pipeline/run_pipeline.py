@@ -51,8 +51,29 @@ without re-spending Gemini/Tavily API calls on claims already done.
 ERROR ISOLATION: if any stage fails for one claim, that claim's error is
 logged to config.FAILED_CLAIMS_LOG and the run moves on to the next
 claim -- one bad claim never aborts the batch.
+
+VERIFICATION BACKEND (--verifier, default "muril"): stage 7/8 now has two
+interchangeable implementations, selected by this flag, both writing the
+exact same verification_output.json schema so build_submission.py (and
+everything downstream) is unaffected by which one ran:
+  - "muril" (default): src/muril_classifier.py's fine-tuned checkpoint,
+    classifying the claim against its top-1 fusion-ranked evidence item's
+    title+snippet (same convention as src/run_classifier_pipeline.py's
+    _top_evidence_text -- reused, not reimplemented). No full-page fetch --
+    this is the actual/official path for testing and for the final
+    submission. Justification comes from src/gpt_justifier.py (real,
+    evidence-grounded explanation of the already-decided Prediction, same
+    convention as src/regenerate_classifier_justifications.py) when
+    OPENAI_API_KEY is set, falling back to a flat template otherwise so
+    this path still runs without that key -- only Prediction requires no
+    API key; the richer Justification does.
+  - "gemini": the original src/verification.py path -- full-page fetch
+    (trafilatura) of the top-3 fusion-ranked items, then a grounded
+    google-genai call. Kept available (not deleted) for generating the
+    comparison numbers reported in README.md's metrics table.
 """
 import argparse
+import json
 import subprocess
 import sys
 from pathlib import Path
@@ -65,6 +86,9 @@ from src.embedding_rerank import rerank_claim_folder as embedding_rerank_claim_f
 from src.entity_graph import rank_claim_folder as entity_rank_claim_folder
 from src.fusion_ranking import rank_claim_folder as fusion_rank_claim_folder
 from src.verification import verify_claim_folder
+from src.run_classifier_pipeline import _top_evidence_text
+from src.muril_classifier import VeracityPredictor
+from src.gpt_justifier import justify as gpt_justify
 from src.neo4j_client import Neo4jClient
 
 
@@ -138,7 +162,60 @@ def _stage_7_8_verification(folder: Path, skip_existing: bool) -> bool:
     return True
 
 
-def run_claim(claim: dict, client: Neo4jClient, skip_existing: bool) -> None:
+def _stage_7_8_verification_muril(folder: Path, predictor: VeracityPredictor, skip_existing: bool) -> bool:
+    """MuRIL verification -- the default path (see module docstring).
+    Classifies the claim against its top-1 fusion-ranked evidence item's
+    title+snippet (_top_evidence_text, reused unchanged from
+    run_classifier_pipeline.py) -- no full-page fetch, since MuRIL's
+    max_length=192 truncates far short of a full article anyway.
+
+    Justification: uses src/gpt_justifier.py to generate a real,
+    evidence-grounded explanation of MuRIL's already-decided Prediction --
+    same convention src/regenerate_classifier_justifications.py already
+    applies to run_classifier_pipeline.py's output, so this path doesn't
+    regress to the older flat template. gpt_justifier.justify() never
+    reclassifies -- Prediction is fixed input, GPT-4o-mini only explains
+    it. Falls back to the flat template if OPENAI_API_KEY isn't set, so
+    this stage still runs (degraded, not crashed) without that key --
+    same graceful-degradation convention used throughout this codebase
+    (NER fallback, translation fallback, Wikidata-linking fallback, etc.).
+
+    Writes the exact same verification_output.json schema the Gemini
+    path writes, so build_submission.py works unchanged either way."""
+    output_path = folder / config.VERIFICATION_OUTPUT_FILENAME
+    if skip_existing and output_path.exists():
+        print("  - MuRIL Verification  (skipped, already done)")
+        return True
+
+    with open(folder / config.FUSION_OUTPUT_FILENAME, encoding="utf-8") as f:
+        fusion_data = json.load(f)
+
+    claim_meta = fusion_data["claim"]
+    evidence_text = _top_evidence_text(fusion_data) or " "  # tokenizer needs non-empty text
+    label, confidence = predictor.predict_one(claim_meta["text"], evidence_text)
+
+    if config.OPENAI_API_KEY:
+        justification = gpt_justify(claim_meta["text"], evidence_text, label)
+    else:
+        justification = (
+            f"Based on the retrieved evidence, the classifier predicts this "
+            f"claim {label} with a confidence score of {confidence:.4f}."
+        )
+
+    record = {
+        "ID": claim_meta["id"],
+        "Evidence": evidence_text,
+        "Prediction": label,
+        "Justification": justification,
+    }
+    with open(output_path, "w", encoding="utf-8") as f:
+        json.dump(record, f, ensure_ascii=False, indent=2)
+    print("  \u2713 MuRIL Verification (top-1 evidence, title+snippet)")
+    return True
+
+
+def run_claim(claim: dict, client: Neo4jClient, skip_existing: bool,
+              verifier: str = "muril", muril_predictor: VeracityPredictor = None) -> None:
     """Runs every stage for ONE claim, in the real dependency order.
     Raises on the first stage failure -- caller (run_all) is responsible
     for catching it, logging it, and moving on to the next claim."""
@@ -147,11 +224,14 @@ def run_claim(claim: dict, client: Neo4jClient, skip_existing: bool) -> None:
     _stage_4_embedding(folder, skip_existing)
     _stage_5_entity(folder, client, skip_existing)
     _stage_6_fusion(folder, skip_existing)
-    _stage_7_8_verification(folder, skip_existing)
+    if verifier == "muril":
+        _stage_7_8_verification_muril(folder, muril_predictor, skip_existing)
+    else:
+        _stage_7_8_verification(folder, skip_existing)
 
 
 def run_all(claims: list, skip_existing: bool = True,
-            output_file: Path | None = None) -> None:
+            output_file: Path | None = None, verifier: str = "muril") -> None:
     """Processes every claim in `claims` sequentially, isolating failures
     so one bad claim doesn't stop the other 1008. After every claim has
     been attempted, runs build_submission.py exactly once to aggregate
@@ -168,6 +248,11 @@ def run_all(claims: list, skip_existing: bool = True,
     why config.CLAIMS_OUTPUT_DIR is monkey-patched instead for the
     in-process stages, and passed to build_submission's subprocess call
     explicitly so the two never disagree.
+
+    verifier: "muril" (default) or "gemini" -- see module docstring's
+    VERIFICATION BACKEND section. The MuRIL model is loaded exactly once
+    here (not per-claim -- loading it 1009 times would be wasteful) and
+    shared across every claim in this batch.
     """
     total = len(claims)
     succeeded, failed = 0, []
@@ -175,12 +260,14 @@ def run_all(claims: list, skip_existing: bool = True,
     client = Neo4jClient()
     client.setup_schema()
 
+    muril_predictor = VeracityPredictor() if verifier == "muril" else None
+
     try:
         for i, claim in enumerate(claims, start=1):
             claim_id = claim["id"]
             print(f"\n[{i}/{total}] Processing {_sanitize_claim_id(claim_id)}...")
             try:
-                run_claim(claim, client, skip_existing)
+                run_claim(claim, client, skip_existing, verifier=verifier, muril_predictor=muril_predictor)
                 succeeded += 1
             except Exception as e:
                 failed.append(claim_id)
@@ -272,6 +359,14 @@ if __name__ == "__main__":
              "Default when --dataset-file is given: outputs/dev_submission.json. "
              "Default otherwise: outputs/final_submission.json (unchanged existing behavior).",
     )
+    parser.add_argument(
+        "--verifier", default="muril", choices=["muril", "gemini"],
+        help="Veracity-prediction backend for stage 7/8 (default: muril -- the "
+             "reproducible, no-API-quota path used for testing and the actual "
+             "final submission). 'gemini' runs the original full-page-fetch + "
+             "grounded LLM path (src/verification.py) instead, kept available "
+             "for regenerating the Gemini comparison numbers in README.md.",
+    )
     args = parser.parse_args()
 
     if args.dataset_file:
@@ -306,8 +401,11 @@ if __name__ == "__main__":
         selected_claims = selected_claims[:args.limit]
 
     print(f"[run_pipeline] Selected {len(selected_claims)} claim(s) to process.")
+    print(f"[run_pipeline] Verification backend: {args.verifier}"
+          f"{' (default -- no GEMINI_API_KEY needed)' if args.verifier == 'muril' else ''}")
 
-    run_all(selected_claims, skip_existing=not args.no_skip_existing, output_file=output_file)
+    run_all(selected_claims, skip_existing=not args.no_skip_existing,
+            output_file=output_file, verifier=args.verifier)
 
     final_path = output_file if output_file is not None else (config.OUTPUT_DIR / config.FINAL_SUBMISSION_FILENAME)
     print(f"\n[run_pipeline] Done. Final submission -> {final_path}")

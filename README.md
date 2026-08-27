@@ -15,6 +15,7 @@ since the two subtasks pose genuinely different problems.
 requirements.txt        # shared Python dependencies for BOTH pipelines
 docker-compose.yml       # shared Neo4j container for BOTH pipelines
 .gitignore
+images/                  # architecture diagrams + Neo4j graph screenshots (see System Architecture below)
 
 subtask1_pipeline/       # Subtask 1 -- closed-domain evidence retrieval + veracity prediction
   README.md               # full architecture, setup, and results writeup
@@ -50,6 +51,29 @@ multi-signal-fusion pipeline), so rather than force one shared pipeline to
 awkwardly cover both settings, we built two, sharing only what's genuinely
 common infrastructure: dependencies, the Neo4j container, and — reused
 as-is, not retrained — the same fine-tuned MuRIL veracity classifier.
+
+## System Architecture
+
+### Subtask 1 — Closed Evidence Retrieval + Veracity Prediction
+
+![Subtask 1 Architecture](images/subtask1_architecture.png)
+
+### Subtask 2 — Open-Domain Retrieval + Veracity Prediction
+
+![Subtask 2 Architecture](images/subtask2_architecture.png)
+
+### Subtask 1 Knowledge Graph (Neo4j)
+
+![Subtask 1 Neo4j Knowledge Graph](images/subtask1_neo4j_graph.png)
+
+Real claims from the production graph — one each for English, Hindi, and
+Bengali, plus a genuine Hindi-English code-mixed claim — shown with their
+`HAS_MENTION` → `LINKS_TO` Mention/Entity chains and the Evidence items
+sharing those same entities.
+
+### Subtask 2 Knowledge Graph (Neo4j)
+
+*(Graph screenshot pending — to be added once Subtask 2's Neo4j instance is populated with test-set data.)*
 
 ## Setup (shared)
 

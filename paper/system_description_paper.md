@@ -117,8 +117,9 @@ We build a Neo4j graph with `Claim`, `Evidence`, and `Entity` node types, connec
 
 We additionally investigated a cluster-density penalty (DBSCAN-based disambiguation, penalizing candidates that fall inside a dense, low-specificity evidence cluster while sharing zero entity overlap with the claim). This was found to make retrieval **strictly worse at every nonzero penalty weight tested** — at production scale, DBSCAN with the tuned similarity threshold collapsed into a single giant cluster per language rather than isolating genuinely confusable sub-events, turning the penalty into an indiscriminate demotion rather than a targeted disambiguation signal. This component is implemented but disabled in the final system; we report the full experiment in Section 8.1 for completeness.
 
-> **[FIGURE PLACEHOLDER — Subtask 1 Neo4j Knowledge Graph]**
-> *A Neo4j Browser screenshot of the Subtask 1 graph is to be inserted here, showing `Claim`/`Evidence`/`Entity`/`Mention` nodes and their `MENTIONS`/`HAS_MENTION`/`LINKS_TO` relationships for a representative claim, illustrating the entity-overlap structure the reranking query traverses.*
+![Subtask 1 Knowledge Graph](figures/subtask1_neo4j_graph.png)
+
+**Figure 1 — Subtask 1 Neo4j Knowledge Graph.** Rendered directly from a live query against the production graph (not a mock-up): one real claim each for English (`S1/5140`), Hindi (`S1/2072`), and Bengali (`S1/1719`), plus a genuine Hindi-English code-mixed claim (`S1/4483`), each shown with its `HAS_MENTION`→`LINKS_TO` Mention/Entity chain, the direct `MENTIONS` shortcut edge, and the Evidence items that share those same entities — the exact structure the KG-boosted reranking query (Section 5.3) traverses.
 
 ### 5.4 Entity Extraction and Linking Cascade
 
@@ -142,6 +143,8 @@ We implement two independent veracity-prediction paths over the KG-boosted top-3
 - **A standalone MuRIL classifier**: `google/muril-base-cased` fine-tuned as a binary sequence classifier, taking the claim and a single candidate evidence passage as a sentence pair (`max_length = 192`), trained with class-weighted cross-entropy to correct for the training set's SUPPORTS/REFUTES imbalance (weights 0.746 / 1.516, computed as `total / (2 × class_count)`). Hyperparameters were selected via a 15-trial Optuna search (learning rate, batch size, epoch count, weight decay, warmup ratio, and max gradient norm all searched jointly, optimizing dev macro-F1), yielding a final configuration of learning rate ≈ 1.80 × 10⁻⁵, 16 epochs, weight decay ≈ 0.0765, warmup ratio ≈ 0.0265, max gradient norm ≈ 1.20, with mixed-precision (`fp16`) training. The fine-tuned checkpoint is published on the Hugging Face Hub (`nirnit-13/muril-supports-refutes`) and is loaded directly for inference — there is no local training code path in the released pipeline; the classifier is trained once, offline, in a notebook, and reused thereafter purely as an inference-time model.
 
 These two paths are **not merged**; we report both independently (Section 8.1) and, per the shared task's requirements, ensure every reported number corresponds to a single, specific, reproducible configuration.
+
+**Post-submission engineering update.** Since the official submission, our team has continued using the MuRIL classifier as the primary backend for our own subsequent testing and validation of this pipeline, since it requires no external LLM API key and produces fully deterministic, offline predictions; GPT-4o-mini remains available exactly as documented above and is what produced the veracity numbers reported in Section 8.1.
 
 ---
 
@@ -223,9 +226,11 @@ For the top-3 fusion-ranked evidence items, we fetch the full article text of ea
 
 As a lower-cost, offline-capable alternative to LLM-based verification, we additionally evaluate the **identical** fine-tuned MuRIL classifier described in Section 5.5, reused as-is for Subtask 2 without any retraining on Subtask 2 data. For each claim, we classify the claim text against the title+snippet text of its single top-1 fusion-ranked evidence item (the same evidence representation already used by the BM25/embedding/entity-graph stages, chosen so this classification path never needs to re-fetch full article text for every candidate). This is a genuinely separate prediction path from the LLM-based `run_pipeline.py` submission — the two are never merged into a single default output, and we report both independently in Section 8.2.
 
+**Post-submission engineering update.** Since the official submission, `run_pipeline.py` has been extended with a `--verifier {muril, gemini}` flag; `muril` is now the default and the actual backend used for our own subsequent testing, writing the same `verification_output.json` schema described below regardless of which backend produced it. Under this default, `Prediction` still comes from the MuRIL classifier described above (no API key required), while `Justification` is now a real, evidence-grounded explanation of that already-decided prediction generated by GPT-4o-mini (which never reclassifies), falling back to a flat templated sentence if no OpenAI API key is configured. The Gemini-based path documented in Section 6.7 remains fully available via `--verifier gemini` and is what produced the officially submitted and reported results in Section 8.2 — this update changes our team's own default for subsequent testing, not the historical submission.
+
 ### 6.9 Submission Aggregation
 
-`build_submission.py` aggregates every claim's finished verification record into one final JSON array, validating that every prediction label is exactly `SUPPORTS` or `REFUTES` before writing. The pipeline is fully resumable: every stage checks for its own already-written output file and skips claims already completed, so an interrupted 1,009-claim batch run over a rate-limited external API can simply be restarted rather than redone from scratch, and a single claim's failure at any stage is logged and skipped rather than aborting the batch.
+`build_submission.py` aggregates every claim's finished verification record — regardless of which `--verifier` backend produced it — into one final JSON array, validating that every prediction label is exactly `SUPPORTS` or `REFUTES` before writing. The pipeline is fully resumable: every stage checks for its own already-written output file and skips claims already completed, so an interrupted 1,009-claim batch run over a rate-limited external API can simply be restarted rather than redone from scratch, and a single claim's failure at any stage is logged and skipped rather than aborting the batch.
 
 ---
 
@@ -409,7 +414,7 @@ Pal, P., Jana, S. K., and Das, D. (2025). IndicClaimBuster: A Multilingual Claim
 ## Author checklist before LaTeX conversion
 
 - [ ] Confirm final author order and add institutional affiliations + emails.
-- [ ] Insert the Subtask 1 Neo4j graph screenshot (Section 5.3 placeholder).
+- [x] Insert the Subtask 1 Neo4j graph screenshot (Section 5.3 placeholder) — rendered directly from the live graph (`figures/subtask1_neo4j_graph.png`), real claims across English/Hindi/Bengali/code-mixed.
 - [ ] Insert the Subtask 2 Neo4j graph screenshot (Section 6.5 placeholder).
 - [x] Official Subtask 1 (Table 1) and Subtask 2 (Table 5) results inserted, from the organizers' results spreadsheet, ClaimSense / Submission 1.
 - [ ] Double-check the official Table 1 and Table 5 numbers against the final, locked leaderboard before submission (these were pulled from a results spreadsheet linked from the organizers' results page at draft time; re-verify no later revision changed them, and confirm whether "Submission 1" is in fact the submission you want reported, if more than one was made).
