@@ -70,10 +70,10 @@ See each pipeline's own README for details.
 ## Results (official test, Macro-F1)
 
 | Subtask | English | Hindi | Bengali | Code-mixed |
-|---|---|---|---|---|
-| 1 | 78.05 | 85.88 | 82.46 | 79.94 |
-| 2 | 76.91 | 68.97 | 62.92 | 36.51 |
+| ------- | ------- | ----- | ------- | ---------- |
+| 1       | 78.05   | 85.88 | 82.46   | 79.94      |
+| 2       | 76.91   | 68.97 | 62.92   | 36.51      |
 
 ## Team
 
-Sayan De, Koushiki Chakraborty, Archismita Das, Nirnit Roy, Anindita Dutta
+Koushiki Chakraborty, Archismita Das, Anindita Dutta, Nirnit Roy, Sayan De, Imon Mukherjee
