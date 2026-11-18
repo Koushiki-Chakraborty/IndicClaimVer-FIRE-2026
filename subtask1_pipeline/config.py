@@ -115,7 +115,7 @@ ID2LABEL = {v: k for k, v in LABEL2ID.items()}
 # ---------------------------------------------------------------------
 # VALIDATED: weight-swept on all 5,670 train+dev claims after switching
 # _entity_overlap_counts() to overlap weighted by inverse document
-# frequency (see retriever.py and subtask1/experiments/README.md for
+# frequency (see retriever.py and the root README.md, Notes -> "KG weight sweep", for
 # the full sweep). 0.02 was the
 # best of every value tried in [0.0, 2.0], and every value in [0.01,
 # 0.05] beat plain Dense retrieval on both Success@3 and nDCG@3 -- a

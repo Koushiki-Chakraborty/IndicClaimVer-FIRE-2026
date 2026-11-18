@@ -7,8 +7,8 @@ import config
 class VeracityPredictor:
     """Inference-only wrapper around the fine-tuned MuRIL SUPPORTS/REFUTES
     classifier (config.MURIL_CLASSIFIER_MODEL, default
-    nirnit-13/muril-supports-refutes -- see README's "Classifier model
-    details" section). Loads the already-trained checkpoint straight from
+    nirnit-13/muril-supports-refutes -- see root README.md, Notes -> "Classifier"
+    section). Loads the already-trained checkpoint straight from
     the Hub; there is no training code in this repo (the classifier was
     fine-tuned in notebook/FIRE2026_FINAL.ipynb, hyperparameters from
     notebook/FIRE_2026_HPT_01.ipynb's Optuna search).

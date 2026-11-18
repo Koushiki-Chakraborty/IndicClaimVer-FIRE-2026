@@ -7,8 +7,8 @@ file only; it does no retrieval, ranking, or web/API calls of its own.
 For each claim, classifies the top-1 fusion-ranked evidence item
 against the claim text using the HuggingFace MuRIL checkpoint
 (src/muril_classifier.py -- the SAME checkpoint subtask1_pipeline uses,
-reused as-is here, not retrained on any Subtask 2 data -- see README's
-"Classifier Model Details").
+reused as-is here, not retrained on any Subtask 2 data -- see root README.md,
+Notes -> "Classifier").
 
 This is a separate, standalone prediction path from run_pipeline.py's
 Gemini-based verification.py -- the two are never merged into one
@@ -28,7 +28,7 @@ Two modes:
                (n=1891, ~3x inflated relative to the 631 actual dev
                claims), which made it not directly comparable to
                GPT_output's per-claim n=631 number despite both being
-               shown side by side in README.md's "Reported Metrics"
+               shown side by side in the root README.md's "Results"
                table. This script fixes that going forward -- both
                rows are now on the same basis.
 

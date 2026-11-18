@@ -14,7 +14,7 @@ CACHE_DIR = Path(__file__).parent.parent.parent / "cache" / "traindev_results"
 DENSE_TOP10_PATH = CACHE_DIR / "dense_top10.json"
 RESULTS_PATH = Path(__file__).parent / "weight_sweep_results.txt"
 
-# Same weight candidates reported in this folder's README table.
+# Same weight candidates reported in weight_sweep_results.txt (see root README.md, Notes -> "KG weight sweep").
 WEIGHTS_TO_TRY = [0.0, 0.01, 0.015, 0.02, 0.025, 0.03, 0.04, 0.05, 0.1, 0.2]
 
 

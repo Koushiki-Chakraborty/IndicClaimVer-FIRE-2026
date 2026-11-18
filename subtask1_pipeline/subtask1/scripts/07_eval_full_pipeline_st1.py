@@ -1,7 +1,7 @@
 """Full dev-set pipeline: KG-boosted top-3 retrieval + MuRIL veracity
 classification (config.MURIL_CLASSIFIER_MODEL, loaded straight from the
-Hub via subtask1/muril_classifier.py -- README's "Classifier model
-details"). There is no training code here; this script only runs the
+Hub via subtask1/muril_classifier.py -- root README.md, Notes -> "Classifier").
+There is no training code here; this script only runs the
 already fine-tuned checkpoint.
 
 Writes the same three files subtask1/results/devResult/kg_classifier/

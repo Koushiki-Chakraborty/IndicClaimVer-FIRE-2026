@@ -70,7 +70,7 @@ everything downstream) is unaffected by which one ran:
   - "gemini": the original src/verification.py path -- full-page fetch
     (trafilatura) of the top-3 fusion-ranked items, then a grounded
     google-genai call. Kept available (not deleted) for generating the
-    comparison numbers reported in README.md's metrics table.
+    comparison numbers reported in the root README.md's Results table.
 """
 import argparse
 import json
@@ -365,7 +365,7 @@ if __name__ == "__main__":
              "reproducible, no-API-quota path used for testing and the actual "
              "final submission). 'gemini' runs the original full-page-fetch + "
              "grounded LLM path (src/verification.py) instead, kept available "
-             "for regenerating the Gemini comparison numbers in README.md.",
+             "for regenerating the Gemini comparison numbers in the root README.md.",
     )
     args = parser.parse_args()
 

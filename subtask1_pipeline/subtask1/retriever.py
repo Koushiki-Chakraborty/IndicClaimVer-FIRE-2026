@@ -89,7 +89,7 @@ class KGBoostedRetriever:
         flat-count KG-boost underperformed plain Dense (Success@3
         0.7834 vs 0.8312 on all 5,670 train+dev claims). Weighting
         overlap by inverse document frequency fixed that (Success@3
-        0.8395, beating Dense -- see subtask1/experiments/README.md for
+        0.8395, beating Dense -- see root README.md, Notes -> "KG weight sweep", for
         the full weight sweep that found ENTITY_OVERLAP_WEIGHT=0.02 as
         the best point)."""
         if not candidate_ids:

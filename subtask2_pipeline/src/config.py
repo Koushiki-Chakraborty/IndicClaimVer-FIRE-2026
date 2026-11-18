@@ -115,15 +115,15 @@ LLM_MAX_TOKENS_QUERY_GEN = 300
 # -- src/verification.py imports `google.genai`, never `openai`, and
 # DOES still read GEMINI_MODEL/GEMINI_API_KEY directly (verified: grep
 # the file). Neither constant below is read by any code path in this
-# repo any more; kept only for reference. See README.md's "Backend
-# history" note under Pipeline Overview -> stage 5 for the full story.
+# repo any more; kept only for reference. See root README.md, Notes -> "Backend
+# history (Subtask 2)", for the full story.
 OPENAI_MODEL_VERIFICATION = "gpt-4o-mini"
 
 # Standalone binary SUPPORTS/REFUTES classifier -- the SAME fine-tuned
 # MuRIL checkpoint reused as-is from subtask1_pipeline (identical
 # notebook/, identical classifier/config.json -- verified byte-for-byte
 # identical between the two repos). Not trained on any Subtask 2 data;
-# see README's "Classifier Model Details". Loaded via
+# see root README.md, Notes -> "Classifier". Loaded via
 # src/muril_classifier.py::VeracityPredictor, used by
 # src/run_classifier_pipeline.py -- a separate, standalone prediction
 # path from the Gemini-based run_pipeline.py, not merged into it.
