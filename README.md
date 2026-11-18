@@ -30,6 +30,7 @@ Multilingual claim verification (English, Hindi, Bengali, code-mixed) on the Ind
 ```
 subtask1_pipeline/   # Subtask 1 code, data, results
 subtask2_pipeline/   # Subtask 2 code, data, output
+models(Extra)/       # model selection notebooks
 images/              # diagrams
 requirements.txt     # shared dependencies
 docker-compose.yml   # shared Neo4j
@@ -68,6 +69,8 @@ python compute_f1.py --gold data/dev_subtask2.json --pred output/final_submissio
 ## Model
 
 Fine-tuned MuRIL veracity classifier (SUPPORTS / REFUTES), shared by both subtasks: [nirnit-13/muril-supports-refutes](https://huggingface.co/nirnit-13/muril-supports-refutes)
+
+Model selection notebooks are in `models(Extra)/`: MuRIL, IndicBERTv2, mBERT and XLM-R, all fine-tuned with the same settings on Subtask 1 data. Dev Macro-F1: MuRIL 0.813, IndicBERTv2 0.801, mBERT 0.730, XLM-R 0.692.
 
 ## Results
 
