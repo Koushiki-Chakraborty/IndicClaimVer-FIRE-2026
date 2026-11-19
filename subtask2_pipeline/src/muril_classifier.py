@@ -2,9 +2,8 @@
 Standalone MuRIL SUPPORTS/REFUTES classifier -- inference only.
 
 This is the SAME fine-tuned checkpoint as subtask1_pipeline's
-subtask1/muril_classifier.py (verified: notebook/FIRE2026_FINAL.ipynb,
-notebook/FIRE_2026_HPT_01.ipynb, and classifier/config.json in this repo
-are byte-for-byte identical to subtask1_pipeline's copies). It was
+subtask1/muril_classifier.py. The training notebooks and tokenizer config
+are kept once, at the repo root, under classifier/. It was
 fine-tuned on Subtask 1's train/dev claim-evidence pairs, then reused
 here as-is for Subtask 2 -- it was never trained on any Subtask 2 data.
 There is no training code in this repo; the checkpoint was uploaded to

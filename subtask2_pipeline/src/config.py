@@ -120,9 +120,8 @@ LLM_MAX_TOKENS_QUERY_GEN = 300
 OPENAI_MODEL_VERIFICATION = "gpt-4o-mini"
 
 # Standalone binary SUPPORTS/REFUTES classifier -- the SAME fine-tuned
-# MuRIL checkpoint reused as-is from subtask1_pipeline (identical
-# notebook/, identical classifier/config.json -- verified byte-for-byte
-# identical between the two repos). Not trained on any Subtask 2 data;
+# MuRIL checkpoint reused as-is from subtask1_pipeline. Training notebooks
+# and tokenizer config live once, at the repo root, under classifier/. Not trained on any Subtask 2 data;
 # see root README.md, Notes -> "Classifier". Loaded via
 # src/muril_classifier.py::VeracityPredictor, used by
 # src/run_classifier_pipeline.py -- a separate, standalone prediction

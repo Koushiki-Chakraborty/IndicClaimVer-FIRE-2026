@@ -330,7 +330,7 @@ if __name__ == "__main__":
     # OPTIONAL ADD-ON: run the exact same pipeline against an arbitrary
     # dataset file (e.g. dev_subtask2.json) instead of the 4 built-in
     # test language files, writing to separate output locations so the
-    # existing test-set run (outputs/claims/, outputs/final_submission.json)
+    # existing test-set run (output/claims/, output/final_submission.json)
     # is never touched or overwritten. All three flags are optional and
     # unused by default -- omitting --dataset-file means every line below
     # is skipped and this script behaves EXACTLY as it did before this
@@ -349,15 +349,15 @@ if __name__ == "__main__":
     parser.add_argument(
         "--claims-dir", default=None,
         help="Directory to write per-claim folders to for this run. "
-             "Default when --dataset-file is given: outputs/claims_dev "
-             "(so it never collides with the existing outputs/claims). "
-             "Default otherwise: outputs/claims (unchanged existing behavior).",
+             "Default when --dataset-file is given: output/claims_dev "
+             "(so it never collides with the existing output/claims). "
+             "Default otherwise: output/claims (unchanged existing behavior).",
     )
     parser.add_argument(
         "--output-file", default=None,
         help="Path for the aggregated submission JSON for this run. "
-             "Default when --dataset-file is given: outputs/dev_submission.json. "
-             "Default otherwise: outputs/final_submission.json (unchanged existing behavior).",
+             "Default when --dataset-file is given: output/dev_submission.json. "
+             "Default otherwise: output/final_submission.json (unchanged existing behavior).",
     )
     parser.add_argument(
         "--verifier", default="muril", choices=["muril", "gemini"],

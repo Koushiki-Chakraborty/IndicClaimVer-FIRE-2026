@@ -10,8 +10,8 @@ class VeracityPredictor:
     nirnit-13/muril-supports-refutes -- see root README.md, Notes -> "Classifier"
     section). Loads the already-trained checkpoint straight from
     the Hub; there is no training code in this repo (the classifier was
-    fine-tuned in notebook/FIRE2026_FINAL.ipynb, hyperparameters from
-    notebook/FIRE_2026_HPT_01.ipynb's Optuna search).
+    fine-tuned in classifier/notebooks/01_train_muril.ipynb at the repo root,
+    hyperparameters from classifier/notebooks/00_hyperparameter_search.ipynb).
 
     Label mapping is read from the checkpoint's own config.id2label,
     never hardcoded here -- the notebook that trained this model used

@@ -60,8 +60,8 @@ NLI_MODEL = os.getenv("NLI_MODEL", "MoritzLaurer/mDeBERTa-v3-base-xnli-multiling
 GEN_MODEL = os.getenv("GEN_MODEL", "meta-llama/Llama-3.2-3B-Instruct")
 
 # Standalone binary SUPPORTS/REFUTES classifier -- fine-tuned MuRIL,
-# trained in notebook/FIRE2026_FINAL.ipynb using the hyperparameters
-# found by notebook/FIRE_2026_HPT_01.ipynb's Optuna search. There is no
+# trained in classifier/notebooks/01_train_muril.ipynb (repo root) using the
+# hyperparameters found by classifier/notebooks/00_hyperparameter_search.ipynb. There is no
 # training .py module for this in the repo -- the checkpoint was
 # uploaded to the Hub so subtask1/muril_classifier.py (used by
 # scripts/07_eval_full_pipeline_st1.py) can load it directly instead of
